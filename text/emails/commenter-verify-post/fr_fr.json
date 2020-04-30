@@ -1,0 +1,10 @@
+{
+    "SUBJECT": "<%= comment.commenterName %> - Vérifiez votre commentaire.",
+    "INTRO": "Hey <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "On dirait que vous a commenté un message <a href=\"<%= comment.url %>\"> </a>. Votre commentaire est à la fin de cet e-mail.",
+    "VERIFY_YOUR_COMMENT_LINK": "S'il vous plaît <b> Vérifiez votre commentaire </ b> en cliquant sur ce lien <a href=\"<%= verifyPostUrl %>\"> </a>.",
+    "WASNT_YOU_OR_REGRET": "Si ce n'était pas vous ou regrettez-vous ce que vous avez dit ignorer cet e-mail et le commentaire sera supprimé dans les jours <%= removedInDays %>.",
+    "REMOVE_COMMENT": "Si vous souhaitez supprimer ce commentaire maintenant, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> cliquez ici </a>",
+    "THANKS_SO_MUCH": "Merci beaucoup!",
+    "USING_NAME_YOU_SAID": "En utilisant le nom « <%= comment.commenterName %> » vous avez dit:"
+}

@@ -1,0 +1,12 @@
+{
+  "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
+  "INTRO": "Hey <%= comment.commenterName %>,",
+  "LOOKS_LIKE_YOU_COMMENTED_HERE": "It looks like you commented on a post <a href=\"<%= comment.url %>\">here</a>.",
+  "YOUR_COMMENT_END_THIS_EMAIL": "Your comment is at the end of this email.",
+  "VERIFY_YOUR_ACCOUNT_LINK": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a> or the link in the verification email for your post.",
+  "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= FC_DOMAIN %>/auth/login/\">here</a>.",
+  "WASNT_YOU_OR_REGRET": "If this wasn't you or you regret what you said ignore this email and the comment will be removed in <%= removedInDays %> days.",
+  "REMOVE_COMMENT": "If you'd like to remove this comment now, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">click here</a>",
+  "THANKS_SO_MUCH": "Thanks so much!",
+  "USING_NAME_YOU_SAID": "Using the name \"<%= comment.commenterName %>\" you said:"
+}
