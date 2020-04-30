@@ -1,0 +1,8 @@
+{
+    "INTRO": "Hey <%= commenterName %>,",
+    "SUBJECT": "<%= commenterName %> - Vérifiez votre vote.",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Il semble que vous votiez sur un poste <a href=\"<%= url %>\"> </a>.",
+    "VERIFY_YOUR_VOTE_LINK": "S'il vous plaît <b> vérifier votre vote </ b> en cliquant sur ce lien <a href=\"<%= verifyUrl %>\"> </a>.",
+    "WAS_YOU_IGNORE_THIS_EMAIL": "Si cela n'a pas été vous ignorez alors cet e-mail.",
+    "THANKS_SO_MUCH": "Merci beaucoup!"
+}

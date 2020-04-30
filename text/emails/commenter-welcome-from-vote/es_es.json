@@ -1,0 +1,9 @@
+{
+    "SUBJECT": "Bienvenido a FastComments <%= authUsername %>!",
+    "INTRO": "Hey <%= authUsername %>,",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Parece que usted votó en un poste <a href=\"<%= url %>\"> aquí </a>.",
+    "VERIFY_YOUR_VOTE_THIS_LINK": "Por favor, <b> verificar su voto </ b> haciendo clic <a href=\"<%= verifyUrl %>\"> este </a> enlace o el enlace en el correo electrónico de verificación de su voto.",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "Puede crear nuevos enlaces para acceder a su cuenta <a href=\"<%= FC_DOMAIN %>/auth/login/\"> aquí </a>.",
+    "WASNT_YOU_IGNORE_EMAIL": "Si esto no era, a continuación, ignora este mensaje.",
+    "THANKS_SO_MUCH": "¡Muchas gracias!"
+}

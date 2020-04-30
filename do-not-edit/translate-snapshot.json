@@ -22,6 +22,23 @@
                 "REMOVE_COMMENT": "If you'd like to remove this comment now, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">click here</a>",
                 "THANKS_SO_MUCH": "Thanks so much!",
                 "USING_NAME_YOU_SAID": "Using the name \"<%= comment.commenterName %>\" you said:"
+            },
+            "commenter-verify-vote": {
+                "INTRO": "Hey <%= commenterName %>,",
+                "SUBJECT": "<%= commenterName %> - Verify your Vote.",
+                "LOOKS_LIKE_YOU_VOTED_HERE": "It looks like you voted on a post <a href=\"<%= url %>\">here</a>.",
+                "VERIFY_YOUR_VOTE_LINK": "Please <b>verify your vote</b> by clicking <a href=\"<%= verifyUrl %>\">this link</a>.",
+                "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
+                "THANKS_SO_MUCH": "Thanks so much!"
+            },
+            "commenter-welcome-from-vote": {
+                "SUBJECT": "Welcome to FastComments <%= authUsername %>!",
+                "INTRO": "Hey <%= authUsername %>,",
+                "LOOKS_LIKE_YOU_VOTED_HERE": "It looks like you voted on a post <a href=\"<%= url %>\">here</a>.",
+                "VERIFY_YOUR_VOTE_THIS_LINK": "Please <b>verify your vote</b> by clicking <a href=\"<%= verifyUrl %>\">this link</a> or the link in the verification email for your vote.",
+                "CREATE_NEW_LOGIN_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= FC_DOMAIN %>/auth/login/\">here</a>.",
+                "WASNT_YOU_IGNORE_EMAIL": "If this wasn't you then ignore this email.",
+                "THANKS_SO_MUCH": "Thanks so much!"
             }
         },
         "es_es": {
@@ -46,6 +63,23 @@
                 "REMOVE_COMMENT": "If you'd like to remove this comment now, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">click here</a>",
                 "THANKS_SO_MUCH": "Thanks so much!",
                 "USING_NAME_YOU_SAID": "Using the name \"<%= comment.commenterName %>\" you said:"
+            },
+            "commenter-verify-vote": {
+                "INTRO": "Hey <%= commenterName %>,",
+                "SUBJECT": "<%= commenterName %> - Verify your Vote.",
+                "LOOKS_LIKE_YOU_VOTED_HERE": "It looks like you voted on a post <a href=\"<%= url %>\">here</a>.",
+                "VERIFY_YOUR_VOTE_LINK": "Please <b>verify your vote</b> by clicking <a href=\"<%= verifyUrl %>\">this link</a>.",
+                "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
+                "THANKS_SO_MUCH": "Thanks so much!"
+            },
+            "commenter-welcome-from-vote": {
+                "SUBJECT": "Welcome to FastComments <%= authUsername %>!",
+                "INTRO": "Hey <%= authUsername %>,",
+                "LOOKS_LIKE_YOU_VOTED_HERE": "It looks like you voted on a post <a href=\"<%= url %>\">here</a>.",
+                "VERIFY_YOUR_VOTE_THIS_LINK": "Please <b>verify your vote</b> by clicking <a href=\"<%= verifyUrl %>\">this link</a> or the link in the verification email for your vote.",
+                "CREATE_NEW_LOGIN_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= FC_DOMAIN %>/auth/login/\">here</a>.",
+                "WASNT_YOU_IGNORE_EMAIL": "If this wasn't you then ignore this email.",
+                "THANKS_SO_MUCH": "Thanks so much!"
             }
         }
     }
