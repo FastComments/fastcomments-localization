@@ -1,5 +1,5 @@
 {
-  "SUBJECT": "Welcome to FastComments <%= authUsername %>!",
+  "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
   "INTRO": "Hey <%= authUsername %>,",
   "LOOKS_LIKE_YOU_VOTED_HERE": "It looks like you voted on a post <a href=\"<%= url %>\">here</a>.",
   "VERIFY_YOUR_VOTE_THIS_LINK": "Please <b>verify your vote</b> by clicking <a href=\"<%= verifyUrl %>\">this link</a> or the link in the verification email for your vote.",
