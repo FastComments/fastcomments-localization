@@ -1,12 +1,12 @@
 {
-    "INTRO": "Hey <%= comment.commenterName %>,",
-    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Parece que ha comentado una publicación <a href=\"<%= comment.url %>\"> aquí </a>.",
-    "YOUR_COMMENT_END_THIS_EMAIL": "Su comentario se encuentra al final de este correo electrónico.",
-    "VERIFY_YOUR_ACCOUNT_LINK": "Por favor, <b> verificar su cuenta </ ​​b> haciendo clic <a href=\"<%= userVerifyUrl %>\"> este </a> enlace o el enlace en el correo electrónico de verificación para su puesto.",
-    "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "Puede crear nuevos enlaces para acceder a su cuenta <a href=\"<%= FC_DOMAIN %>/auth/login/\"> aquí </a>.",
-    "WASNT_YOU_OR_REGRET": "Si esto no era usted o usted se arrepiente de lo que ha dicho ignorar este mensaje y el comentario se eliminará en días <%= removedInDays %>.",
-    "REMOVE_COMMENT": "Si desea eliminar este comentario ahora, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> clic aquí </a>",
+    "INTRO": "Oye <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Parece que has comentado una publicación <a href=\"<%= comment.url %>\"> aquí </a>.",
+    "YOUR_COMMENT_END_THIS_EMAIL": "Tu comentario está al final de este correo electrónico.",
+    "VERIFY_YOUR_ACCOUNT_LINK": "<b> verifique su cuenta </b> haciendo clic en <a href=\"<%= userVerifyUrl %>\"> este enlace </a> o en el enlace del correo electrónico de verificación de su publicación.",
+    "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "Puede crear nuevos enlaces para iniciar sesión en su cuenta <a href=\"<%= FC_DOMAIN %>/auth/login/\"> aquí </a>.",
+    "WASNT_YOU_OR_REGRET": "Si no fue usted o si lamenta lo que dijo, ignore este correo electrónico y el comentario se eliminará en <%= removedInDays %> días.",
+    "REMOVE_COMMENT": "Si desea eliminar este comentario ahora, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> haga clic aquí </a>",
     "THANKS_SO_MUCH": "¡Muchas gracias!",
-    "USING_NAME_YOU_SAID": "Utilizando el nombre de \"<%= comment.commenterName %>\" usted dijo:",
+    "USING_NAME_YOU_SAID": "Usando el nombre \"<%= comment.commenterName %>\" dijiste:",
     "SUBJECT": "Bienvenido a FastComments <%= comment.commenterName %>!"
 }
