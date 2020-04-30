@@ -12,7 +12,7 @@
                 "USING_NAME_YOU_SAID": "Using the name \"<%= comment.commenterName %>\" you said:"
             },
             "commenter-welcome": {
-                "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
+                "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
                 "INTRO": "Hey <%= comment.commenterName %>,",
                 "LOOKS_LIKE_YOU_COMMENTED_HERE": "It looks like you commented on a post <a href=\"<%= comment.url %>\">here</a>.",
                 "YOUR_COMMENT_END_THIS_EMAIL": "Your comment is at the end of this email.",
@@ -36,7 +36,7 @@
                 "USING_NAME_YOU_SAID": "Using the name \"<%= comment.commenterName %>\" you said:"
             },
             "commenter-welcome": {
-                "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
+                "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
                 "INTRO": "Hey <%= comment.commenterName %>,",
                 "LOOKS_LIKE_YOU_COMMENTED_HERE": "It looks like you commented on a post <a href=\"<%= comment.url %>\">here</a>.",
                 "YOUR_COMMENT_END_THIS_EMAIL": "Your comment is at the end of this email.",
