@@ -136,6 +136,16 @@
             },
             "top-pages": {
                 "NO_PAGES_WITH_COMMENTS": "No pages with comments..."
+            },
+            "tenant-free-trial-half-done-reminder": {
+                "INTRO": "Hey <%= tenantName %>",
+                "FROM_NAME": "FastComments Trial Robot",
+                "SUBJECT": "FastComments Free Trial - 15 Days Left",
+                "FRIENDLY_REMINDER": "This is a friendly reminder that you are halfway through your FastComments free trial.",
+                "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> comments have been left on your sites.",
+                "VOTES_GIVEN": "There have been <%= Number(voteCount).toLocaleString() %> votes on those comments.",
+                "USERS_SIGNED_UP": "And last but not least, <b><%= Number(userCount).toLocaleString() %> users have signed up to use FastComments through <%= tenantName %></b>.",
+                "THANKS_FOR_CHOOSING_FC": "Thanks for choosing <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>."
             }
         },
         "es_es": {
@@ -274,6 +284,16 @@
             },
             "top-pages": {
                 "NO_PAGES_WITH_COMMENTS": "No pages with comments..."
+            },
+            "tenant-free-trial-half-done-reminder": {
+                "INTRO": "Hey <%= tenantName %>",
+                "FROM_NAME": "FastComments Trial Robot",
+                "SUBJECT": "FastComments Free Trial - 15 Days Left",
+                "FRIENDLY_REMINDER": "This is a friendly reminder that you are halfway through your FastComments free trial.",
+                "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> comments have been left on your sites.",
+                "VOTES_GIVEN": "There have been <%= Number(voteCount).toLocaleString() %> votes on those comments.",
+                "USERS_SIGNED_UP": "And last but not least, <b><%= Number(userCount).toLocaleString() %> users have signed up to use FastComments through <%= tenantName %></b>.",
+                "THANKS_FOR_CHOOSING_FC": "Thanks for choosing <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>."
             }
         }
     }

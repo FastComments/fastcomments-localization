@@ -1,0 +1,10 @@
+{
+    "INTRO": "Hey <%= tenantName %>",
+    "FROM_NAME": "Robot d'essai FastComments",
+    "SUBJECT": "Essai gratuit FastComments - 15 jours restants",
+    "FRIENDLY_REMINDER": "Ceci est un rappel amical que vous êtes à mi-chemin de votre essai gratuit FastComments.",
+    "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> commentaires ont été laissés sur vos sites.",
+    "VOTES_GIVEN": "Il y a eu <%= Number(voteCount).toLocaleString() %> votes sur ces commentaires.",
+    "USERS_SIGNED_UP": "Enfin, <b> <%= Number(userCount).toLocaleString() %> utilisateurs se sont inscrits pour utiliser FastComments via <%= tenantName %> </b>.",
+    "THANKS_FOR_CHOOSING_FC": "Merci d'avoir choisi <a href=\"https://fastcomments.com/auth/my-account\"> FastComments.com </a>."
+}
