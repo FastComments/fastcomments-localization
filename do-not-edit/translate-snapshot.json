@@ -4,12 +4,23 @@
             "commenter-verify-post": {
                 "SUBJECT": "<%= comment.commenterName %> - Verify your comment.",
                 "INTRO": "Hey <%= comment.commenterName %>,",
-                "LOOKS_LIKE_YOU_COMMENTED_HERE": "It looks like you commented on a post <a href=\"<%= comment.url %>\">here</a>. Your comment is at the end of this email.",
-                "VERIFY_YOUR_COMMENT_LINK": "Please <b>verify your comment</b> by clicking <a href=\"<%= verifyPostUrl %>\">this link</a>.",
+                "LOOKS_LIKE_YOU_COMMENTED_HERE": "It looks like you commented on a post <a href=\"<%= comment.url %>\">here</a>.",
+                "VERIFY_YOUR_COMMENT_LINK": "Verify Your Comment",
                 "WASNT_YOU_OR_REGRET": "If this wasn't you or you regret what you said ignore this email and the comment will be removed in <%= removedInDays %> days.",
-                "REMOVE_COMMENT": "If you'd like to remove this comment now, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">click here</a>",
+                "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">Remove This Comment</a>",
                 "THANKS_SO_MUCH": "Thanks so much!",
-                "USING_NAME_YOU_SAID": "Using the name \"<%= comment.commenterName %>\" you said:"
+                "USING_NAME_YOU_SAID": "Using the name \"<%= comment.commenterName %>\" you said:",
+                "BANNER_TEXT": "Verify Your Comment",
+                "JUST_NOW": "just now",
+                "ONE_MINUTE_AGO": "1 minute ago",
+                "MINUTES_AGO": " minutes ago",
+                "ONE_HOUR_AGO": "1 hour ago",
+                "HOURS_AGO": " hours ago",
+                "YESTERDAY": "Yesterday",
+                "DAYS_AGO": " days ago",
+                "WEEKS_AGO": " weeks ago",
+                "MONTHS_AGO": " months ago",
+                "YEARS_AGO": " years ago"
             },
             "commenter-welcome": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -27,9 +38,10 @@
                 "INTRO": "Hey <%= commenterName %>,",
                 "SUBJECT": "<%= commenterName %> - Verify your Vote.",
                 "LOOKS_LIKE_YOU_VOTED_HERE": "It looks like you voted on a post <a href=\"<%= url %>\">here</a>.",
-                "VERIFY_YOUR_VOTE_LINK": "Please <b>verify your vote</b> by clicking <a href=\"<%= verifyUrl %>\">this link</a>.",
+                "VERIFY_YOUR_VOTE_LINK": "Verify Your Vote",
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "BANNER_TEXT": "Verify Your Vote"
             },
             "commenter-welcome-from-vote": {
                 "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
@@ -38,7 +50,9 @@
                 "VERIFY_YOUR_VOTE_THIS_LINK": "Please <b>verify your vote</b> by clicking <a href=\"<%= verifyUrl %>\">this link</a> or the link in the verification email for your vote.",
                 "CREATE_NEW_LOGIN_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= FC_DOMAIN %>/auth/login/\">here</a>.",
                 "WASNT_YOU_IGNORE_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "BANNER_TEXT": "Welcome to FastComments",
+                "VERIFY_YOUR_ACCOUNT": "Verify Your Account"
             },
             "commenter-welcome-from-comment": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -50,7 +64,19 @@
                 "WASNT_YOU_OR_REGRET": "If this wasn't you or you regret what you said ignore this email and the comment will be removed in <%= removedInDays %> days.",
                 "REMOVE_COMMENT": "If you'd like to remove this comment now, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">click here</a>",
                 "THANKS_SO_MUCH": "Thanks so much!",
-                "USING_NAME_YOU_SAID": "Using the name \"<%= comment.commenterName %>\" you said:"
+                "USING_NAME_YOU_SAID": "Using the name \"<%= comment.commenterName %>\" you said:",
+                "BANNER_TEXT": "Welcome to FastComments",
+                "VERIFY_YOUR_ACCOUNT": "Verify Your Account",
+                "JUST_NOW": "just now",
+                "ONE_MINUTE_AGO": "1 minute ago",
+                "MINUTES_AGO": " minutes ago",
+                "ONE_HOUR_AGO": "1 hour ago",
+                "HOURS_AGO": " hours ago",
+                "YESTERDAY": "Yesterday",
+                "DAYS_AGO": " days ago",
+                "WEEKS_AGO": " weeks ago",
+                "MONTHS_AGO": " months ago",
+                "YEARS_AGO": " years ago"
             },
             "comment-count": {
                 "COMMENT": "comment",
@@ -145,19 +171,31 @@
                 "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> comments have been left on your sites.",
                 "VOTES_GIVEN": "There have been <%= Number(voteCount).toLocaleString() %> votes on those comments.",
                 "USERS_SIGNED_UP": "And last but not least, <b><%= Number(userCount).toLocaleString() %> users have signed up to use FastComments through <%= tenantName %></b>.",
-                "THANKS_FOR_CHOOSING_FC": "Thanks for choosing <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>."
+                "THANKS_FOR_CHOOSING_FC": "Thanks for choosing <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>.",
+                "BANNER_TEXT": "FastComments Trial Update"
             }
         },
         "es_es": {
             "commenter-verify-post": {
                 "SUBJECT": "<%= comment.commenterName %> - Verify your comment.",
                 "INTRO": "Hey <%= comment.commenterName %>,",
-                "LOOKS_LIKE_YOU_COMMENTED_HERE": "It looks like you commented on a post <a href=\"<%= comment.url %>\">here</a>. Your comment is at the end of this email.",
-                "VERIFY_YOUR_COMMENT_LINK": "Please <b>verify your comment</b> by clicking <a href=\"<%= verifyPostUrl %>\">this link</a>.",
+                "LOOKS_LIKE_YOU_COMMENTED_HERE": "It looks like you commented on a post <a href=\"<%= comment.url %>\">here</a>.",
+                "VERIFY_YOUR_COMMENT_LINK": "Verify Your Comment",
                 "WASNT_YOU_OR_REGRET": "If this wasn't you or you regret what you said ignore this email and the comment will be removed in <%= removedInDays %> days.",
-                "REMOVE_COMMENT": "If you'd like to remove this comment now, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">click here</a>",
+                "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">Remove This Comment</a>",
                 "THANKS_SO_MUCH": "Thanks so much!",
-                "USING_NAME_YOU_SAID": "Using the name \"<%= comment.commenterName %>\" you said:"
+                "USING_NAME_YOU_SAID": "Using the name \"<%= comment.commenterName %>\" you said:",
+                "BANNER_TEXT": "Verify Your Comment",
+                "JUST_NOW": "just now",
+                "ONE_MINUTE_AGO": "1 minute ago",
+                "MINUTES_AGO": " minutes ago",
+                "ONE_HOUR_AGO": "1 hour ago",
+                "HOURS_AGO": " hours ago",
+                "YESTERDAY": "Yesterday",
+                "DAYS_AGO": " days ago",
+                "WEEKS_AGO": " weeks ago",
+                "MONTHS_AGO": " months ago",
+                "YEARS_AGO": " years ago"
             },
             "commenter-welcome": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -175,9 +213,10 @@
                 "INTRO": "Hey <%= commenterName %>,",
                 "SUBJECT": "<%= commenterName %> - Verify your Vote.",
                 "LOOKS_LIKE_YOU_VOTED_HERE": "It looks like you voted on a post <a href=\"<%= url %>\">here</a>.",
-                "VERIFY_YOUR_VOTE_LINK": "Please <b>verify your vote</b> by clicking <a href=\"<%= verifyUrl %>\">this link</a>.",
+                "VERIFY_YOUR_VOTE_LINK": "Verify Your Vote",
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "BANNER_TEXT": "Verify Your Vote"
             },
             "commenter-welcome-from-vote": {
                 "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
@@ -186,7 +225,9 @@
                 "VERIFY_YOUR_VOTE_THIS_LINK": "Please <b>verify your vote</b> by clicking <a href=\"<%= verifyUrl %>\">this link</a> or the link in the verification email for your vote.",
                 "CREATE_NEW_LOGIN_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= FC_DOMAIN %>/auth/login/\">here</a>.",
                 "WASNT_YOU_IGNORE_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "BANNER_TEXT": "Welcome to FastComments",
+                "VERIFY_YOUR_ACCOUNT": "Verify Your Account"
             },
             "commenter-welcome-from-comment": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -198,7 +239,19 @@
                 "WASNT_YOU_OR_REGRET": "If this wasn't you or you regret what you said ignore this email and the comment will be removed in <%= removedInDays %> days.",
                 "REMOVE_COMMENT": "If you'd like to remove this comment now, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">click here</a>",
                 "THANKS_SO_MUCH": "Thanks so much!",
-                "USING_NAME_YOU_SAID": "Using the name \"<%= comment.commenterName %>\" you said:"
+                "USING_NAME_YOU_SAID": "Using the name \"<%= comment.commenterName %>\" you said:",
+                "BANNER_TEXT": "Welcome to FastComments",
+                "VERIFY_YOUR_ACCOUNT": "Verify Your Account",
+                "JUST_NOW": "just now",
+                "ONE_MINUTE_AGO": "1 minute ago",
+                "MINUTES_AGO": " minutes ago",
+                "ONE_HOUR_AGO": "1 hour ago",
+                "HOURS_AGO": " hours ago",
+                "YESTERDAY": "Yesterday",
+                "DAYS_AGO": " days ago",
+                "WEEKS_AGO": " weeks ago",
+                "MONTHS_AGO": " months ago",
+                "YEARS_AGO": " years ago"
             },
             "comment-count": {
                 "COMMENT": "comment",
@@ -293,7 +346,8 @@
                 "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> comments have been left on your sites.",
                 "VOTES_GIVEN": "There have been <%= Number(voteCount).toLocaleString() %> votes on those comments.",
                 "USERS_SIGNED_UP": "And last but not least, <b><%= Number(userCount).toLocaleString() %> users have signed up to use FastComments through <%= tenantName %></b>.",
-                "THANKS_FOR_CHOOSING_FC": "Thanks for choosing <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>."
+                "THANKS_FOR_CHOOSING_FC": "Thanks for choosing <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>.",
+                "BANNER_TEXT": "FastComments Trial Update"
             }
         }
     }

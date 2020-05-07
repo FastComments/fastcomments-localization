@@ -1,10 +1,20 @@
 {
     "SUBJECT": "<%= comment.commenterName %> - Verifica tu comentario.",
     "INTRO": "Oye <%= comment.commenterName %>,",
-    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Parece que has comentado una publicación <a href=\"<%= comment.url %>\"> aquí </a>. Tu comentario está al final de este correo electrónico.",
-    "VERIFY_YOUR_COMMENT_LINK": "<b> verifique su comentario </b> haciendo clic en <a href=\"<%= verifyPostUrl %>\"> este enlace </a>.",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Parece que has comentado una publicación <a href=\"<%= comment.url %>\"> aquí </a>.",
+    "VERIFY_YOUR_COMMENT_LINK": "Verifica tu comentario",
     "WASNT_YOU_OR_REGRET": "Si no fue usted o si lamenta lo que dijo, ignore este correo electrónico y el comentario se eliminará en <%= removedInDays %> días.",
-    "REMOVE_COMMENT": "Si desea eliminar este comentario ahora, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> haga clic aquí </a>",
+    "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> Eliminar este comentario </a>",
     "THANKS_SO_MUCH": "¡Muchas gracias!",
-    "USING_NAME_YOU_SAID": "Usando el nombre \"<%= comment.commenterName %>\" dijiste:"
+    "BANNER_TEXT": "Verifica tu comentario",
+    "JUST_NOW": "justo ahora",
+    "ONE_MINUTE_AGO": "Hace 1 minuto",
+    "MINUTES_AGO": "hace minutos",
+    "ONE_HOUR_AGO": "1 hora antes",
+    "HOURS_AGO": "horas atras",
+    "YESTERDAY": "Ayer",
+    "DAYS_AGO": "hace días",
+    "WEEKS_AGO": "hace semanas",
+    "MONTHS_AGO": "Hace meses",
+    "YEARS_AGO": "hace años que"
 }

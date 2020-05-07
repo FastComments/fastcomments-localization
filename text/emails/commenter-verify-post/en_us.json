@@ -1,10 +1,20 @@
 {
   "SUBJECT": "<%= comment.commenterName %> - Verify your comment.",
+  "BANNER_TEXT": "Verify Your Comment",
   "INTRO": "Hey <%= comment.commenterName %>,",
-  "LOOKS_LIKE_YOU_COMMENTED_HERE": "It looks like you commented on a post <a href=\"<%= comment.url %>\">here</a>. Your comment is at the end of this email.",
-  "VERIFY_YOUR_COMMENT_LINK": "Please <b>verify your comment</b> by clicking <a href=\"<%= verifyPostUrl %>\">this link</a>.",
+  "LOOKS_LIKE_YOU_COMMENTED_HERE": "It looks like you commented on a post <a href=\"<%= comment.url %>\">here</a>.",
+  "VERIFY_YOUR_COMMENT_LINK": "Verify Your Comment",
   "WASNT_YOU_OR_REGRET": "If this wasn't you or you regret what you said ignore this email and the comment will be removed in <%= removedInDays %> days.",
-  "REMOVE_COMMENT": "If you'd like to remove this comment now, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">click here</a>",
+  "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">Remove This Comment</a>",
   "THANKS_SO_MUCH": "Thanks so much!",
-  "USING_NAME_YOU_SAID": "Using the name \"<%= comment.commenterName %>\" you said:"
+  "JUST_NOW": "just now",
+  "ONE_MINUTE_AGO": "1 minute ago",
+  "MINUTES_AGO": " minutes ago",
+  "ONE_HOUR_AGO": "1 hour ago",
+  "HOURS_AGO": " hours ago",
+  "YESTERDAY": "Yesterday",
+  "DAYS_AGO": " days ago",
+  "WEEKS_AGO": " weeks ago",
+  "MONTHS_AGO": " months ago",
+  "YEARS_AGO": " years ago"
 }

@@ -8,5 +8,17 @@
     "WASNT_YOU_OR_REGRET": "Si ce n'était pas vous ou si vous regrettez ce que vous avez dit, ignorez cet e-mail et le commentaire sera supprimé dans <%= removedInDays %> jours.",
     "REMOVE_COMMENT": "Si vous souhaitez supprimer ce commentaire maintenant, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> cliquez ici </a>",
     "THANKS_SO_MUCH": "Merci beaucoup!",
-    "USING_NAME_YOU_SAID": "En utilisant le nom \"<%= comment.commenterName %>\", vous avez dit:"
+    "USING_NAME_YOU_SAID": "En utilisant le nom \"<%= comment.commenterName %>\", vous avez dit:",
+    "BANNER_TEXT": "Bienvenue sur FastComments",
+    "VERIFY_YOUR_ACCOUNT": "Vérifiez votre compte",
+    "JUST_NOW": "juste maintenant",
+    "ONE_MINUTE_AGO": "il y a 1 minute",
+    "MINUTES_AGO": "il y a quelques minutes",
+    "ONE_HOUR_AGO": "Il ya 1 heure",
+    "HOURS_AGO": "il y a des heures",
+    "YESTERDAY": "Hier",
+    "DAYS_AGO": "il y a quelques jours",
+    "WEEKS_AGO": "il y a des semaines",
+    "MONTHS_AGO": "il y a des mois",
+    "YEARS_AGO": "il y a des années"
 }

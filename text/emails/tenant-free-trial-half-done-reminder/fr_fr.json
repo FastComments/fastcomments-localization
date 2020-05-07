@@ -6,5 +6,6 @@
     "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> commentaires ont été laissés sur vos sites.",
     "VOTES_GIVEN": "Il y a eu <%= Number(voteCount).toLocaleString() %> votes sur ces commentaires.",
     "USERS_SIGNED_UP": "Enfin, <b> <%= Number(userCount).toLocaleString() %> utilisateurs se sont inscrits pour utiliser FastComments via <%= tenantName %> </b>.",
-    "THANKS_FOR_CHOOSING_FC": "Merci d'avoir choisi <a href=\"https://fastcomments.com/auth/my-account\"> FastComments.com </a>."
+    "THANKS_FOR_CHOOSING_FC": "Merci d'avoir choisi <a href=\"https://fastcomments.com/auth/my-account\"> FastComments.com </a>.",
+    "BANNER_TEXT": "Mise à jour de l'essai FastComments"
 }

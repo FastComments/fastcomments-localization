@@ -8,5 +8,17 @@
     "REMOVE_COMMENT": "Si desea eliminar este comentario ahora, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> haga clic aquí </a>",
     "THANKS_SO_MUCH": "¡Muchas gracias!",
     "USING_NAME_YOU_SAID": "Usando el nombre \"<%= comment.commenterName %>\" dijiste:",
-    "SUBJECT": "Bienvenido a FastComments <%= comment.commenterName %>!"
+    "SUBJECT": "Bienvenido a FastComments <%= comment.commenterName %>!",
+    "BANNER_TEXT": "Bienvenido a FastComments",
+    "VERIFY_YOUR_ACCOUNT": "Verifica tu cuenta",
+    "JUST_NOW": "justo ahora",
+    "ONE_MINUTE_AGO": "Hace 1 minuto",
+    "MINUTES_AGO": "hace minutos",
+    "ONE_HOUR_AGO": "1 hora antes",
+    "HOURS_AGO": "horas atras",
+    "YESTERDAY": "Ayer",
+    "DAYS_AGO": "hace días",
+    "WEEKS_AGO": "hace semanas",
+    "MONTHS_AGO": "Hace meses",
+    "YEARS_AGO": "hace años que"
 }

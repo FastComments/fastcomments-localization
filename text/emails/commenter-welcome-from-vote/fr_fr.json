@@ -5,5 +5,7 @@
     "VERIFY_YOUR_VOTE_THIS_LINK": "Veuillez <b> vérifier votre vote </b> en cliquant sur <a href=\"<%= verifyUrl %>\"> ce lien </a> ou le lien dans l'e-mail de vérification de votre vote.",
     "CREATE_NEW_LOGIN_LINKS_HERE": "Vous pouvez créer de nouveaux liens pour vous connecter à votre compte <a href=\"<%= FC_DOMAIN %>/auth/login/\"> ici </a>.",
     "WASNT_YOU_IGNORE_EMAIL": "Si ce n'est pas vous, ignorez cet e-mail.",
-    "THANKS_SO_MUCH": "Merci beaucoup!"
+    "THANKS_SO_MUCH": "Merci beaucoup!",
+    "BANNER_TEXT": "Bienvenue sur FastComments",
+    "VERIFY_YOUR_ACCOUNT": "Vérifiez votre compte"
 }

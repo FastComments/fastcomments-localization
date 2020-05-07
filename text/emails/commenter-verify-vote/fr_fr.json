@@ -2,7 +2,8 @@
     "INTRO": "Salut <%= commenterName %>,",
     "SUBJECT": "<%= commenterName %> - Vérifiez votre vote.",
     "LOOKS_LIKE_YOU_VOTED_HERE": "Il semble que vous ayez voté sur un message <a href=\"<%= url %>\"> ici </a>.",
-    "VERIFY_YOUR_VOTE_LINK": "Veuillez <b> vérifier votre vote </b> en cliquant sur <a href=\"<%= verifyUrl %>\"> ce lien </a>.",
+    "VERIFY_YOUR_VOTE_LINK": "Vérifiez votre vote",
     "WAS_YOU_IGNORE_THIS_EMAIL": "Si ce n'est pas vous, ignorez cet e-mail.",
-    "THANKS_SO_MUCH": "Merci beaucoup!"
+    "THANKS_SO_MUCH": "Merci beaucoup!",
+    "BANNER_TEXT": "Vérifiez votre vote"
 }
