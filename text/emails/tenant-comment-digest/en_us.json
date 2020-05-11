@@ -1,0 +1,17 @@
+{
+  "BANNER_TEXT_DAILY": "FastComments Daily Digest",
+  "BANNER_WEEKLY_DAILY": "FastComments Weekly Digest",
+  "BANNER_MONTHLY_DAILY": "FastComments Monthly Digest",
+  "SUBJECT_DAILY": "FastComments Daily Digest",
+  "SUBJECT_WEEKLY": "FastComments Weekly Digest",
+  "SUBJECT_MONTHLY": "FastComments Monthly Digest",
+  "STAT_LABEL_NEW_COMMENTS": "New Comments",
+  "STAT_LABEL_APPROVED": "Approved",
+  "STAT_LABEL_SPAM": "Spam",
+  "STAT_LABEL_NEW_USERS": "New Users",
+  "COMMENTS_NEEDING_REVIEW": "Comments Needing Review",
+  "RECENT_COMMENTS": "Recent Comments",
+  "NO_COMMENTS": "Nothing to show here!",
+  "VIEW_MORE_COMMENTS": "Moderate <%= abbreviateNumber(commentCount - comments.length, 0, locale) %> more comments",
+  "FROM_NAME": "FastComments Robot"
+}
