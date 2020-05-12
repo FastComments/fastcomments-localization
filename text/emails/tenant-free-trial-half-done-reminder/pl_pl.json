@@ -1,0 +1,11 @@
+{
+    "INTRO": "Hej <%= tenantName %>",
+    "BANNER_TEXT": "Aktualizacja próbna FastComments",
+    "FROM_NAME": "FastComments Trial Robot",
+    "SUBJECT": "Bezpłatna wersja próbna FastComments - pozostało 15 dni",
+    "FRIENDLY_REMINDER": "To przyjazne przypomnienie, że jesteś w połowie bezpłatnego okresu próbnego FastComments.",
+    "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> komentarze zostały pozostawione na twoich stronach.",
+    "VOTES_GIVEN": "Na te komentarze <%= Number(voteCount).toLocaleString() %> głosów.",
+    "USERS_SIGNED_UP": "I na koniec, <b> <%= Number(userCount).toLocaleString() %> użytkowników zarejestrowało się, aby korzystać z FastComments poprzez <%= tenantName %> </b>.",
+    "THANKS_FOR_CHOOSING_FC": "Dziękujemy za wybranie <a href=\"https://fastcomments.com/auth/my-account\"> FastComments.com </a>."
+}

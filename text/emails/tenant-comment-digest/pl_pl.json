@@ -1,0 +1,17 @@
+{
+    "BANNER_TEXT_DAILY": "FastComments Daily Digest",
+    "BANNER_WEEKLY_DAILY": "Cotygodniowe podsumowanie FastComments",
+    "BANNER_MONTHLY_DAILY": "FastComments Comiesięczny przegląd",
+    "SUBJECT_DAILY": "FastComments Daily Digest",
+    "SUBJECT_WEEKLY": "Cotygodniowe podsumowanie FastComments",
+    "SUBJECT_MONTHLY": "FastComments Comiesięczny przegląd",
+    "STAT_LABEL_NEW_COMMENTS": "Nowe komentarze",
+    "STAT_LABEL_APPROVED": "Zatwierdzony",
+    "STAT_LABEL_SPAM": "spam",
+    "STAT_LABEL_NEW_USERS": "Nowi użytkownicy",
+    "COMMENTS_NEEDING_REVIEW": "Komentarze wymagające przeglądu",
+    "RECENT_COMMENTS": "ostatnie komentarze",
+    "NO_COMMENTS": "Nie ma tu nic do pokazania!",
+    "VIEW_MORE_COMMENTS": "Moderuj <%= abbreviateNumber(commentCount - comments.length, 0, locale) %> więcej komentarzy",
+    "FROM_NAME": "FastComments Robot"
+}
