@@ -185,13 +185,18 @@
                 "SUBJECT_MONTHLY": "FastComments Monthly Digest",
                 "STAT_LABEL_NEW_COMMENTS": "New Comments",
                 "STAT_LABEL_APPROVED": "Approved",
-                "STAT_LABEL_SPAM": "Spam",
-                "STAT_LABEL_NEW_USERS": "New Users",
+                "STAT_LABEL_SPAM": "New Spam",
+                "STAT_LABEL_NEW_USERS": "New Commenters",
                 "COMMENTS_NEEDING_REVIEW": "Comments Needing Review",
                 "RECENT_COMMENTS": "Recent Comments",
                 "NO_COMMENTS": "Nothing to show here!",
                 "VIEW_MORE_COMMENTS": "Moderate <%= abbreviateNumber(commentCount - comments.length, 0, locale) %> more comments",
-                "FROM_NAME": "FastComments Robot"
+                "FROM_NAME": "FastComments Robot",
+                "APPROVE": "Approve",
+                "APPROVE_AND_RESPOND": "Approve and Respond",
+                "AUDIENCE_METRICS": "Audience Metrics",
+                "AVATAR": "Avatar",
+                "CHANGE_FREQUENCY": "Change the frequency of this email."
             }
         },
         "es_es": {
@@ -379,13 +384,18 @@
                 "SUBJECT_MONTHLY": "FastComments Monthly Digest",
                 "STAT_LABEL_NEW_COMMENTS": "New Comments",
                 "STAT_LABEL_APPROVED": "Approved",
-                "STAT_LABEL_SPAM": "Spam",
-                "STAT_LABEL_NEW_USERS": "New Users",
+                "STAT_LABEL_SPAM": "New Spam",
+                "STAT_LABEL_NEW_USERS": "New Commenters",
                 "COMMENTS_NEEDING_REVIEW": "Comments Needing Review",
                 "RECENT_COMMENTS": "Recent Comments",
                 "NO_COMMENTS": "Nothing to show here!",
                 "VIEW_MORE_COMMENTS": "Moderate <%= abbreviateNumber(commentCount - comments.length, 0, locale) %> more comments",
-                "FROM_NAME": "FastComments Robot"
+                "FROM_NAME": "FastComments Robot",
+                "APPROVE": "Approve",
+                "APPROVE_AND_RESPOND": "Approve and Respond",
+                "AUDIENCE_METRICS": "Audience Metrics",
+                "AVATAR": "Avatar",
+                "CHANGE_FREQUENCY": "Change the frequency of this email."
             }
         },
         "pl_pl": {
@@ -459,13 +469,18 @@
                 "SUBJECT_MONTHLY": "FastComments Monthly Digest",
                 "STAT_LABEL_NEW_COMMENTS": "New Comments",
                 "STAT_LABEL_APPROVED": "Approved",
-                "STAT_LABEL_SPAM": "Spam",
-                "STAT_LABEL_NEW_USERS": "New Users",
+                "STAT_LABEL_SPAM": "New Spam",
+                "STAT_LABEL_NEW_USERS": "New Commenters",
                 "COMMENTS_NEEDING_REVIEW": "Comments Needing Review",
                 "RECENT_COMMENTS": "Recent Comments",
                 "NO_COMMENTS": "Nothing to show here!",
                 "VIEW_MORE_COMMENTS": "Moderate <%= abbreviateNumber(commentCount - comments.length, 0, locale) %> more comments",
-                "FROM_NAME": "FastComments Robot"
+                "FROM_NAME": "FastComments Robot",
+                "APPROVE": "Approve",
+                "APPROVE_AND_RESPOND": "Approve and Respond",
+                "AUDIENCE_METRICS": "Audience Metrics",
+                "AVATAR": "Avatar",
+                "CHANGE_FREQUENCY": "Change the frequency of this email."
             },
             "tenant-free-trial-half-done-reminder": {
                 "INTRO": "Hey <%= tenantName %>",

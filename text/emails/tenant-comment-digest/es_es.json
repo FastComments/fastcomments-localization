@@ -7,11 +7,16 @@
     "SUBJECT_MONTHLY": "Resumen mensual de FastComments",
     "STAT_LABEL_NEW_COMMENTS": "Comentarios nuevos",
     "STAT_LABEL_APPROVED": "Aprobado",
-    "STAT_LABEL_SPAM": "Correo no deseado",
-    "STAT_LABEL_NEW_USERS": "Usuarios nuevos",
+    "STAT_LABEL_SPAM": "Nuevo spam",
+    "STAT_LABEL_NEW_USERS": "Nuevos comentaristas",
     "COMMENTS_NEEDING_REVIEW": "Comentarios que necesitan revisión",
     "RECENT_COMMENTS": "Comentarios Recientes",
     "NO_COMMENTS": "¡Nada que mostrar aquí!",
     "VIEW_MORE_COMMENTS": "Moderado <%= abbreviateNumber(commentCount - comments.length, 0, locale) %> más comentarios",
-    "FROM_NAME": "FastComments Robot"
+    "FROM_NAME": "FastComments Robot",
+    "APPROVE": "Aprobar",
+    "APPROVE_AND_RESPOND": "Aprobar y responder",
+    "AUDIENCE_METRICS": "Métricas de audiencia",
+    "AVATAR": "Avatar",
+    "CHANGE_FREQUENCY": "Cambiar la frecuencia de este correo electrónico."
 }
