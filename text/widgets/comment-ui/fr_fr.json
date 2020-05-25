@@ -61,5 +61,6 @@
     "COMMENT": "commentaire",
     "COMMENTS": "commentaires",
     "INVALID_USERNAME": "Un nom d'utilisateur est requis.",
-    "COMMENT_AWAITING_VERIFICATION": "Votre commentaire doit être vérifié avant de pouvoir s'afficher sur ce site. <b> Vérifiez votre e-mail </b> pour un lien de vérification."
+    "COMMENT_AWAITING_VERIFICATION": "Votre commentaire doit être vérifié avant de pouvoir s'afficher sur ce site. <b> Vérifiez votre e-mail </b> pour un lien de vérification.",
+    "USERNAME_CANT_BE_EMAIL": "Votre nom d'utilisateur ne peut pas être un e-mail! C'est visible publiquement."
 }
