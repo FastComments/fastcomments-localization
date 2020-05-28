@@ -197,7 +197,9 @@
                 "APPROVE_AND_RESPOND": "Approve and Respond",
                 "AUDIENCE_METRICS": "Audience Metrics",
                 "AVATAR": "Avatar",
-                "CHANGE_FREQUENCY": "Change the frequency of this email."
+                "CHANGE_FREQUENCY": "Change the frequency of this email.",
+                "MARK_REVIEWED": "Mark Reviewed",
+                "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond"
             }
         },
         "es_es": {
@@ -397,7 +399,9 @@
                 "APPROVE_AND_RESPOND": "Approve and Respond",
                 "AUDIENCE_METRICS": "Audience Metrics",
                 "AVATAR": "Avatar",
-                "CHANGE_FREQUENCY": "Change the frequency of this email."
+                "CHANGE_FREQUENCY": "Change the frequency of this email.",
+                "MARK_REVIEWED": "Mark Reviewed",
+                "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond"
             }
         },
         "pl_pl": {
@@ -482,7 +486,9 @@
                 "APPROVE_AND_RESPOND": "Approve and Respond",
                 "AUDIENCE_METRICS": "Audience Metrics",
                 "AVATAR": "Avatar",
-                "CHANGE_FREQUENCY": "Change the frequency of this email."
+                "CHANGE_FREQUENCY": "Change the frequency of this email.",
+                "MARK_REVIEWED": "Mark Reviewed",
+                "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond"
             },
             "tenant-free-trial-half-done-reminder": {
                 "INTRO": "Hey <%= tenantName %>",
