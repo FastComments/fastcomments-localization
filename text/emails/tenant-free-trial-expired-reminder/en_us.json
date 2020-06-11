@@ -1,0 +1,12 @@
+{
+  "INTRO": "Hey <%= user.username %>",
+  "BANNER_TEXT": "FastComments Billing",
+  "FROM_NAME": "FastComments Trial Robot",
+  "SUBJECT": "FastComments Billing Issue",
+  "FRIENDLY_REMINDER": "This is a friendly reminder that your FastComments free trial <b>HAS EXPIRED</b> or you have a billing issue with your account.",
+  "FIX_ISSUE_HERE": "You may <a href=\"https://fastcomments.com/auth/my-account/billing-info\">fix the issue here</a>.",
+  "THANKS_FOR_CHOOSING_FC": "Thanks for choosing <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>.",
+  "UNSUBSCRIBE_FROM_THESE_ALERTS": "Unsubscribe from these alerts.",
+  "SOME_STATS_SO_FAR": "Some stats so far",
+  "SIGN_IN_ENTER_BILLING_INFO": "Sign in and Enter Payment Information"
+}
