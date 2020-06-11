@@ -7,5 +7,8 @@
     "VOTES_GIVEN": "Il y a eu <%= Number(voteCount).toLocaleString() %> votes sur ces commentaires.",
     "USERS_SIGNED_UP": "Enfin, <b> <%= Number(userCount).toLocaleString() %> utilisateurs se sont inscrits pour utiliser FastComments via <%= tenantName %> </b>.",
     "THANKS_FOR_CHOOSING_FC": "Merci d'avoir choisi <a href=\"https://fastcomments.com/auth/my-account\"> FastComments.com </a>.",
-    "BANNER_TEXT": "Mise à jour de l'essai FastComments"
+    "BANNER_TEXT": "Mise à jour de l'essai FastComments",
+    "UNSUBSCRIBE_FROM_THESE_ALERTS": "Désabonnez-vous de ces alertes.",
+    "SOME_STATS_SO_FAR": "Quelques statistiques à ce jour",
+    "SIGN_IN_ENTER_BILLING_INFO": "Connectez-vous et entrez les informations de paiement"
 }

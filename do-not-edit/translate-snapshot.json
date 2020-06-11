@@ -172,11 +172,14 @@
                 "FROM_NAME": "FastComments Trial Robot",
                 "SUBJECT": "FastComments Free Trial - 15 Days Left",
                 "FRIENDLY_REMINDER": "This is a friendly reminder that you are halfway through your FastComments free trial.",
-                "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> comments have been left on your sites.",
+                "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> comments have been left on your site(s).",
                 "VOTES_GIVEN": "There have been <%= Number(voteCount).toLocaleString() %> votes on those comments.",
-                "USERS_SIGNED_UP": "And last but not least, <b><%= Number(userCount).toLocaleString() %> users have signed up to use FastComments through <%= tenantName %></b>.",
+                "USERS_SIGNED_UP": "Last but not least, <b><%= Number(userCount).toLocaleString() %> users have signed up to use FastComments through <%= tenantName %></b>.",
                 "THANKS_FOR_CHOOSING_FC": "Thanks for choosing <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>.",
-                "BANNER_TEXT": "FastComments Trial Update"
+                "BANNER_TEXT": "FastComments Trial Update",
+                "UNSUBSCRIBE_FROM_THESE_ALERTS": "Unsubscribe from these alerts.",
+                "SOME_STATS_SO_FAR": "Some stats so far",
+                "SIGN_IN_ENTER_BILLING_INFO": "Sign in and Enter Payment Information"
             },
             "tenant-comment-digest": {
                 "BANNER_TEXT_DAILY": "FastComments Daily Digest",
@@ -201,6 +204,18 @@
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond"
+            },
+            "tenant-free-trial-expired-reminder": {
+                "INTRO": "Hey <%= user.username %>",
+                "BANNER_TEXT": "FastComments Billing",
+                "FROM_NAME": "FastComments Trial Robot",
+                "SUBJECT": "FastComments Billing Issue",
+                "FRIENDLY_REMINDER": "This is a friendly reminder that your FastComments free trial <b>HAS EXPIRED</b> or you have a billing issue with your account.",
+                "FIX_ISSUE_HERE": "You may <a href=\"https://fastcomments.com/auth/my-account/billing-info\">fix the issue here</a>.",
+                "THANKS_FOR_CHOOSING_FC": "Thanks for choosing <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>.",
+                "UNSUBSCRIBE_FROM_THESE_ALERTS": "Unsubscribe from these alerts.",
+                "SOME_STATS_SO_FAR": "Some stats so far",
+                "SIGN_IN_ENTER_BILLING_INFO": "Sign in and Enter Payment Information"
             }
         },
         "es_es": {
@@ -375,11 +390,14 @@
                 "FROM_NAME": "FastComments Trial Robot",
                 "SUBJECT": "FastComments Free Trial - 15 Days Left",
                 "FRIENDLY_REMINDER": "This is a friendly reminder that you are halfway through your FastComments free trial.",
-                "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> comments have been left on your sites.",
+                "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> comments have been left on your site(s).",
                 "VOTES_GIVEN": "There have been <%= Number(voteCount).toLocaleString() %> votes on those comments.",
-                "USERS_SIGNED_UP": "And last but not least, <b><%= Number(userCount).toLocaleString() %> users have signed up to use FastComments through <%= tenantName %></b>.",
+                "USERS_SIGNED_UP": "Last but not least, <b><%= Number(userCount).toLocaleString() %> users have signed up to use FastComments through <%= tenantName %></b>.",
                 "THANKS_FOR_CHOOSING_FC": "Thanks for choosing <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>.",
-                "BANNER_TEXT": "FastComments Trial Update"
+                "BANNER_TEXT": "FastComments Trial Update",
+                "UNSUBSCRIBE_FROM_THESE_ALERTS": "Unsubscribe from these alerts.",
+                "SOME_STATS_SO_FAR": "Some stats so far",
+                "SIGN_IN_ENTER_BILLING_INFO": "Sign in and Enter Payment Information"
             },
             "tenant-comment-digest": {
                 "BANNER_TEXT_DAILY": "FastComments Daily Digest",
@@ -404,6 +422,18 @@
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond"
+            },
+            "tenant-free-trial-expired-reminder": {
+                "INTRO": "Hey <%= user.username %>",
+                "BANNER_TEXT": "FastComments Billing",
+                "FROM_NAME": "FastComments Trial Robot",
+                "SUBJECT": "FastComments Billing Issue",
+                "FRIENDLY_REMINDER": "This is a friendly reminder that your FastComments free trial <b>HAS EXPIRED</b> or you have a billing issue with your account.",
+                "FIX_ISSUE_HERE": "You may <a href=\"https://fastcomments.com/auth/my-account/billing-info\">fix the issue here</a>.",
+                "THANKS_FOR_CHOOSING_FC": "Thanks for choosing <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>.",
+                "UNSUBSCRIBE_FROM_THESE_ALERTS": "Unsubscribe from these alerts.",
+                "SOME_STATS_SO_FAR": "Some stats so far",
+                "SIGN_IN_ENTER_BILLING_INFO": "Sign in and Enter Payment Information"
             }
         },
         "pl_pl": {
@@ -498,10 +528,13 @@
                 "FROM_NAME": "FastComments Trial Robot",
                 "SUBJECT": "FastComments Free Trial - 15 Days Left",
                 "FRIENDLY_REMINDER": "This is a friendly reminder that you are halfway through your FastComments free trial.",
-                "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> comments have been left on your sites.",
+                "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> comments have been left on your site(s).",
                 "VOTES_GIVEN": "There have been <%= Number(voteCount).toLocaleString() %> votes on those comments.",
-                "USERS_SIGNED_UP": "And last but not least, <b><%= Number(userCount).toLocaleString() %> users have signed up to use FastComments through <%= tenantName %></b>.",
-                "THANKS_FOR_CHOOSING_FC": "Thanks for choosing <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>."
+                "USERS_SIGNED_UP": "Last but not least, <b><%= Number(userCount).toLocaleString() %> users have signed up to use FastComments through <%= tenantName %></b>.",
+                "THANKS_FOR_CHOOSING_FC": "Thanks for choosing <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>.",
+                "UNSUBSCRIBE_FROM_THESE_ALERTS": "Unsubscribe from these alerts.",
+                "SOME_STATS_SO_FAR": "Some stats so far",
+                "SIGN_IN_ENTER_BILLING_INFO": "Sign in and Enter Payment Information"
             },
             "comment-count": {
                 "COMMENT": "comment",
@@ -591,6 +624,18 @@
             },
             "top-pages": {
                 "NO_PAGES_WITH_COMMENTS": "No pages with comments..."
+            },
+            "tenant-free-trial-expired-reminder": {
+                "INTRO": "Hey <%= user.username %>",
+                "BANNER_TEXT": "FastComments Billing",
+                "FROM_NAME": "FastComments Trial Robot",
+                "SUBJECT": "FastComments Billing Issue",
+                "FRIENDLY_REMINDER": "This is a friendly reminder that your FastComments free trial <b>HAS EXPIRED</b> or you have a billing issue with your account.",
+                "FIX_ISSUE_HERE": "You may <a href=\"https://fastcomments.com/auth/my-account/billing-info\">fix the issue here</a>.",
+                "THANKS_FOR_CHOOSING_FC": "Thanks for choosing <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>.",
+                "UNSUBSCRIBE_FROM_THESE_ALERTS": "Unsubscribe from these alerts.",
+                "SOME_STATS_SO_FAR": "Some stats so far",
+                "SIGN_IN_ENTER_BILLING_INFO": "Sign in and Enter Payment Information"
             }
         }
     }
