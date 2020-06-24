@@ -104,7 +104,7 @@
                 "LOGGED_IN_AS": "Currently logged in as ",
                 "LOG_OUT": "Log Out",
                 "FAILED_LOG_OUT": "We hit a snag - failed to logout. Please try again later.",
-                "ENTER_COMMENT_HERE": "Enter a comment here.",
+                "ENTER_COMMENT_HERE": "Enter a comment here...",
                 "SUBMIT_REPLY": "Submit Reply",
                 "INSERT_PICTURE": "Insert Picture",
                 "CANCEL_REPLY": "Cancel Reply",
@@ -147,7 +147,10 @@
                 "INVALID_USERNAME": "A username is required.",
                 "COMMENT_AWAITING_VERIFICATION": "Your comment must be verified before it can show on this site. <b>Check your email</b> for a verification link.",
                 "USERNAME_CANT_BE_EMAIL": "Your username can't be an email! It's publicly visible.",
-                "COMMENT_THIS_PAGE": " comment on this page."
+                "COMMENT_THIS_PAGE": " comment on this page.",
+                "SAVING_VOTE": "Saving...",
+                "SAVING_COMMENT": "Saving your comment...",
+                "ERROR_MESSAGE": "Whoops! Something went wrong. Please try again later."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -322,7 +325,7 @@
                 "LOGGED_IN_AS": "Currently logged in as ",
                 "LOG_OUT": "Log Out",
                 "FAILED_LOG_OUT": "We hit a snag - failed to logout. Please try again later.",
-                "ENTER_COMMENT_HERE": "Enter a comment here.",
+                "ENTER_COMMENT_HERE": "Enter a comment here...",
                 "SUBMIT_REPLY": "Submit Reply",
                 "INSERT_PICTURE": "Insert Picture",
                 "CANCEL_REPLY": "Cancel Reply",
@@ -365,7 +368,10 @@
                 "INVALID_USERNAME": "A username is required.",
                 "COMMENT_AWAITING_VERIFICATION": "Your comment must be verified before it can show on this site. <b>Check your email</b> for a verification link.",
                 "USERNAME_CANT_BE_EMAIL": "Your username can't be an email! It's publicly visible.",
-                "COMMENT_THIS_PAGE": " comment on this page."
+                "COMMENT_THIS_PAGE": " comment on this page.",
+                "SAVING_VOTE": "Saving...",
+                "SAVING_COMMENT": "Saving your comment...",
+                "ERROR_MESSAGE": "Whoops! Something went wrong. Please try again later."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -563,7 +569,7 @@
                 "LOGGED_IN_AS": "Currently logged in as ",
                 "LOG_OUT": "Log Out",
                 "FAILED_LOG_OUT": "We hit a snag - failed to logout. Please try again later.",
-                "ENTER_COMMENT_HERE": "Enter a comment here.",
+                "ENTER_COMMENT_HERE": "Enter a comment here...",
                 "SUBMIT_REPLY": "Submit Reply",
                 "INSERT_PICTURE": "Insert Picture",
                 "CANCEL_REPLY": "Cancel Reply",
@@ -605,7 +611,10 @@
                 "COMMENT": "comment",
                 "COMMENTS": "comments",
                 "USERNAME_CANT_BE_EMAIL": "Your username can't be an email! It's publicly visible.",
-                "COMMENT_THIS_PAGE": " comment on this page."
+                "COMMENT_THIS_PAGE": " comment on this page.",
+                "SAVING_VOTE": "Saving...",
+                "SAVING_COMMENT": "Saving your comment...",
+                "ERROR_MESSAGE": "Whoops! Something went wrong. Please try again later."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",

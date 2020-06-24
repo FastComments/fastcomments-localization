@@ -19,7 +19,7 @@
     "LOGGED_IN_AS": "Actualmente conectado como ",
     "LOG_OUT": "Cerrar sesión",
     "FAILED_LOG_OUT": "Nos topamos con un inconveniente: no se pudo cerrar sesión. Por favor, inténtelo de nuevo más tarde.",
-    "ENTER_COMMENT_HERE": "Ingrese un comentario aquí...",
+    "ENTER_COMMENT_HERE": "Ingrese un comentario aquí ...",
     "SUBMIT_REPLY": "Enviar respuesta",
     "INSERT_PICTURE": "Insertar imagen",
     "CANCEL_REPLY": "Cancelar respuesta",
@@ -62,5 +62,8 @@
     "INVALID_USERNAME": "Se requiere un nombre de usuario.",
     "COMMENT_AWAITING_VERIFICATION": "Su comentario debe ser verificado antes de que pueda mostrarse en este sitio. <b> Revise su correo electrónico </b> para ver un enlace de verificación.",
     "USERNAME_CANT_BE_EMAIL": "¡Tu nombre de usuario no puede ser un correo electrónico! Es públicamente visible.",
-    "COMMENT_THIS_PAGE": " comentar en esta página"
+    "COMMENT_THIS_PAGE": " comentar en esta página",
+    "SAVING_VOTE": "Ahorro...",
+    "SAVING_COMMENT": "Guardando tu comentario ...",
+    "ERROR_MESSAGE": "Whoops! Algo salió mal. Por favor, inténtelo de nuevo más tarde."
 }

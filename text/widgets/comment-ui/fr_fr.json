@@ -19,7 +19,7 @@
     "LOGGED_IN_AS": "Actuellement connecté en tant que ",
     "LOG_OUT": "Se déconnecter",
     "FAILED_LOG_OUT": "Nous avons rencontré un problème - nous n'avons pas pu nous déconnecter. Veuillez réessayer plus tard.",
-    "ENTER_COMMENT_HERE": "Entrez un commentaire ici...",
+    "ENTER_COMMENT_HERE": "Entrez un commentaire ici ...",
     "SUBMIT_REPLY": "Soumettre une réponse",
     "INSERT_PICTURE": "Insérer une image",
     "CANCEL_REPLY": "Annuler la réponse",
@@ -62,5 +62,8 @@
     "INVALID_USERNAME": "Un nom d'utilisateur est requis.",
     "COMMENT_AWAITING_VERIFICATION": "Votre commentaire doit être vérifié avant de pouvoir s'afficher sur ce site. <b> Vérifiez votre e-mail </b> pour un lien de vérification.",
     "USERNAME_CANT_BE_EMAIL": "Votre nom d'utilisateur ne peut pas être un e-mail! C'est visible publiquement.",
-    "COMMENT_THIS_PAGE": " commenter cette page."
+    "COMMENT_THIS_PAGE": " commenter cette page.",
+    "SAVING_VOTE": "Économie...",
+    "SAVING_COMMENT": "Enregistrement de votre commentaire ...",
+    "ERROR_MESSAGE": "Oups! Quelque chose a mal tourné. Veuillez réessayer plus tard."
 }

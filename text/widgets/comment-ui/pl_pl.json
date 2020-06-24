@@ -20,7 +20,7 @@
     "LOGGED_IN_AS": "Obecnie zalogowany jako ",
     "LOG_OUT": "Wyloguj",
     "FAILED_LOG_OUT": "Wystąpił problem - nie udało się wylogować. Spróbuj ponownie później.",
-    "ENTER_COMMENT_HERE": "Wpisz komentarz tutaj...",
+    "ENTER_COMMENT_HERE": "Wpisz komentarz tutaj ...",
     "SUBMIT_REPLY": "Wysłać odpowiedź",
     "INSERT_PICTURE": "Wstaw zdjęcie",
     "CANCEL_REPLY": "Anuluj odpowiedź",
@@ -62,5 +62,8 @@
     "COMMENT": "komentarz",
     "COMMENTS": "komentarze",
     "USERNAME_CANT_BE_EMAIL": "Twoja nazwa użytkownika nie może być adresem e-mail! To jest publicznie widoczne.",
-    "COMMENT_THIS_PAGE": " skomentuj tę stronę."
+    "COMMENT_THIS_PAGE": " skomentuj tę stronę.",
+    "SAVING_VOTE": "Oszczędność...",
+    "SAVING_COMMENT": "Zapisywanie komentarza ...",
+    "ERROR_MESSAGE": "Ups! Coś poszło nie tak. Spróbuj ponownie później."
 }
