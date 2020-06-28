@@ -1,0 +1,7 @@
+{
+    "BANNER_TEXT": "Respuestas de comentarios - Última hora",
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "FastComments - <%= abbreviateNumber(replyCount, 0, locale) %> Nuevo <% if(replyCount === 1) {%>Responder<% } else { %>Respuestas<% } %> a sus <% if(replyCount > 1) { %>Comentarios<% } else {%>Comentario<% } %>",
+    "VIEW_REPLIES": "Ver <%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Responder<% } else { %>Respuestas<% } %>",
+    "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Deshabilitar notificaciones para este comentario"
+}

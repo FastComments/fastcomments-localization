@@ -219,6 +219,13 @@
                 "UNSUBSCRIBE_FROM_THESE_ALERTS": "Unsubscribe from these alerts.",
                 "SOME_STATS_SO_FAR": "Some stats so far",
                 "SIGN_IN_ENTER_BILLING_INFO": "Sign in and Enter Payment Information"
+            },
+            "commenter-comment-notification": {
+                "BANNER_TEXT": "Comment Replies - Last Hour",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "FastComments - <%= abbreviateNumber(replyCount, 0, locale) %> New <% if(replyCount === 1) {%>Reply<% } else { %>Replies<% } %> to Your <% if(replyCount > 1) { %>Comments<% } else {%>Comment<% } %>",
+                "VIEW_REPLIES": "View <%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Reply<% } else { %>Replies<% } %>",
+                "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment"
             }
         },
         "es_es": {
@@ -440,6 +447,13 @@
                 "UNSUBSCRIBE_FROM_THESE_ALERTS": "Unsubscribe from these alerts.",
                 "SOME_STATS_SO_FAR": "Some stats so far",
                 "SIGN_IN_ENTER_BILLING_INFO": "Sign in and Enter Payment Information"
+            },
+            "commenter-comment-notification": {
+                "BANNER_TEXT": "Comment Replies - Last Hour",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "FastComments - <%= abbreviateNumber(replyCount, 0, locale) %> New <% if(replyCount === 1) {%>Reply<% } else { %>Replies<% } %> to Your <% if(replyCount > 1) { %>Comments<% } else {%>Comment<% } %>",
+                "VIEW_REPLIES": "View <%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Reply<% } else { %>Replies<% } %>",
+                "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment"
             }
         },
         "pl_pl": {
@@ -645,6 +659,13 @@
                 "UNSUBSCRIBE_FROM_THESE_ALERTS": "Unsubscribe from these alerts.",
                 "SOME_STATS_SO_FAR": "Some stats so far",
                 "SIGN_IN_ENTER_BILLING_INFO": "Sign in and Enter Payment Information"
+            },
+            "commenter-comment-notification": {
+                "BANNER_TEXT": "Comment Replies - Last Hour",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "FastComments - <%= abbreviateNumber(replyCount, 0, locale) %> New <% if(replyCount === 1) {%>Reply<% } else { %>Replies<% } %> to Your <% if(replyCount > 1) { %>Comments<% } else {%>Comment<% } %>",
+                "VIEW_REPLIES": "View <%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Reply<% } else { %>Replies<% } %>",
+                "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment"
             }
         }
     }
