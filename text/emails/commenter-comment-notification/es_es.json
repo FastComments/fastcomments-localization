@@ -3,5 +3,9 @@
     "FROM_NAME": "FastComments Robot",
     "SUBJECT": "FastComments - <%= abbreviateNumber(replyCount, 0, locale) %> Nuevo <% if(replyCount === 1) {%>Responder<% } else { %>Respuestas<% } %> a sus <% if(replyCount > 1) { %>Comentarios<% } else {%>Comentario<% } %>",
     "VIEW_REPLIES": "Ver <%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Responder<% } else { %>Respuestas<% } %>",
-    "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Deshabilitar notificaciones para este comentario"
+    "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Deshabilitar notificaciones para este comentario",
+    "INTRO": "Oye <%= username %>,",
+    "PAST_HOUR_COMMENT_COUNT": "En la última hora ha tenido <% if(replyCount > 1) { %>algunas respuestas<% } else { %>una respuesta<% } %> a sus <% if(commentsSummary.length > 1) {%>comentarios<% } else { %>comentario<% } %>.",
+    "THANKS_FOR_USING_FASTCOMMENTS": "¡Gracias por usar FastComments!",
+    "UNSUBSCRIBE_HERE": "Inicie sesión y cancele la suscripción de estos correos electrónicos aquí"
 }
