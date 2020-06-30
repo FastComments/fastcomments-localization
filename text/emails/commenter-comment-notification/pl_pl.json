@@ -2,7 +2,7 @@
     "BANNER_TEXT": "Odpowiedzi na komentarze - ostatnia godzina",
     "FROM_NAME": "FastComments Robot",
     "SUBJECT": "FastComments - <%= abbreviateNumber(replyCount, 0, locale) %> Nowy <% if(replyCount === 1) {%>Odpowiedź<% } else { %>Odpowiedzi<% } %> na Twoje <% if(replyCount > 1) { %>Comments<% } else {%>Komentarz<% } %>",
-    "VIEW_REPLIES": "Zobacz <%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Odpowiedź<% } else { %>Odpowiedzi<% } %>",
+    "VIEW_REPLIES": "Wyświetl odpowiedzi",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Wyłącz powiadomienia dla tego komentarza",
     "INTRO": "Hej <%= username %>,",
     "PAST_HOUR_COMMENT_COUNT": "W ciągu ostatniej godziny otrzymałeś <% if(replyCount > 1) { %> niektóre odpowiedzi <% } else { %>_ odpowiedź <% } %>__ na Twoje <% if(commentsSummary.length > 1) {%>__ komentarze <% } else { %><% } %>undefined.",
