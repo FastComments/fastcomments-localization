@@ -1,7 +1,13 @@
 {
   "INTRO": "Hey <%= username %>,",
+  "YOU_HAVE_NEW_COMMENTS": "You have some new comments!",
   "BANNER_TEXT": "New Comments - Last Hour",
   "SUBJECT": "FastComments - <%= abbreviateNumber(commentCount, 0, locale) %> New <% if(commentCount === 1) {%>Comment<% } else { %>Comments<% } %>",
   "THANKS_FOR_USING_FASTCOMMENTS": "Thanks for using FastComments!",
-  "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
+  "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here",
+  "APPROVE_COMMENT": "Approve",
+  "VIEW_COMMENT": "View Comment",
+  "HERE_ARE_LINKS_TO_PAGES": "Here are the links to the pages those comments are on, with the count of comments for each.",
+  "PAGE": "Page",
+  "NEW_COMMENTS": "New Comments"
 }

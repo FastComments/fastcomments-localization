@@ -1,0 +1,13 @@
+{
+    "INTRO": "Oye <%= username %>,",
+    "YOU_HAVE_NEW_COMMENTS": "Tienes algunos comentarios nuevos!",
+    "BANNER_TEXT": "Nuevos comentarios - Última hora",
+    "SUBJECT": "FastComments - <%= abbreviateNumber(commentCount, 0, locale) %> Nuevo <% if(commentCount === 1) {%>Comment<% } else { %>Comments<% } %>",
+    "THANKS_FOR_USING_FASTCOMMENTS": "¡Gracias por usar FastComments!",
+    "UNSUBSCRIBE_HERE": "Inicie sesión y cancele la suscripción de estos correos electrónicos aquí",
+    "APPROVE_COMMENT": "Aprobar",
+    "VIEW_COMMENT": "Ver comentario",
+    "HERE_ARE_LINKS_TO_PAGES": "Aquí están los enlaces a las páginas en las que están esos comentarios, con el recuento de comentarios para cada uno.",
+    "PAGE": "Página",
+    "NEW_COMMENTS": "Comentarios nuevos"
+}
