@@ -244,6 +244,13 @@
                 "PAGE": "Page",
                 "NEW_COMMENTS": "New Comments",
                 "FROM_NAME": "FastComments Robot"
+            },
+            "forgot-username": {
+                "BANNER_TEXT": "Your FastComments Username",
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Username Robot",
+                "SUBJECT": "FastComments - Your Username",
+                "HERES_YOUR_USERNAME": "Here's your username! Keep in mind your username is case-sensitive."
             }
         },
         "es_es": {
@@ -490,6 +497,13 @@
                 "PAGE": "Page",
                 "NEW_COMMENTS": "New Comments",
                 "FROM_NAME": "FastComments Robot"
+            },
+            "forgot-username": {
+                "BANNER_TEXT": "Your FastComments Username",
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Username Robot",
+                "SUBJECT": "FastComments - Your Username",
+                "HERES_YOUR_USERNAME": "Here's your username! Keep in mind your username is case-sensitive."
             }
         },
         "pl_pl": {
@@ -720,6 +734,13 @@
                 "PAGE": "Page",
                 "NEW_COMMENTS": "New Comments",
                 "FROM_NAME": "FastComments Robot"
+            },
+            "forgot-username": {
+                "BANNER_TEXT": "Your FastComments Username",
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Username Robot",
+                "SUBJECT": "FastComments - Your Username",
+                "HERES_YOUR_USERNAME": "Here's your username! Keep in mind your username is case-sensitive."
             }
         }
     }
