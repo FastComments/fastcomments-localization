@@ -1,0 +1,20 @@
+{
+    "SUBJECT": "<%= comment.commenterName %> - Überprüfen Sie Ihren Kommentar.",
+    "BANNER_TEXT": "Überprüfen Sie Ihren Kommentar",
+    "INTRO": "Hallo <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Sie haben anscheinend einen Beitrag <a href=\"<%= comment.url %>\"> hier </a> kommentiert </a>.",
+    "VERIFY_YOUR_COMMENT_LINK": "Überprüfen Sie Ihren Kommentar",
+    "WASNT_YOU_OR_REGRET": "Wenn Sie es nicht waren oder bereuen, was Sie gesagt haben, ignorieren Sie diese E-Mail und der Kommentar wird in <%= removedInDays %> Tagen entfernt.",
+    "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> Diesen Kommentar entfernen </a>",
+    "THANKS_SO_MUCH": "Vielen Dank!",
+    "JUST_NOW": "gerade jetzt",
+    "ONE_MINUTE_AGO": "Vor 1 Minute",
+    "MINUTES_AGO": " Vor ein paar Minuten",
+    "ONE_HOUR_AGO": "vor 1 Stunde",
+    "HOURS_AGO": " Vor Stunden",
+    "YESTERDAY": "Gestern",
+    "DAYS_AGO": " Vor Tagen",
+    "WEEKS_AGO": " vor Wochen",
+    "MONTHS_AGO": " vor wenigen Monaten",
+    "YEARS_AGO": " Jahre zuvor"
+}
