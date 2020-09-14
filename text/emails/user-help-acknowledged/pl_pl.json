@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments Pomóż botowi",
+    "SUBJECT": "Prośba o pomoc potwierdzona przez personel wsparcia",
+    "HEY": "Hej <%= commenterUsername %>,",
+    "ACKNOWLEDGED_BY_ADMIN": "Wygląda na to, że pracownik pomocy technicznej o nazwie użytkownika „<%= adminUsername %>” potwierdził Twoją prośbę. Powinni wkrótce się z tobą skontaktować.",
+    "THANKS_FOR_USING_FC": "Dziękujemy za skorzystanie z FastComments!",
+    "DONT_REPLY_TO_THIS": "Ten e-mail pochodzi ze skrzynki e-mail przeznaczonej tylko dla poczty wychodzącej - nie odpowiadaj na nią. Skontaktujemy się z Tobą osobno."
+}

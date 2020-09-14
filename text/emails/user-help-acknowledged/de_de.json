@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments Help Bot",
+    "SUBJECT": "Hilfeanforderung vom Support bestätigt",
+    "HEY": "Hallo <%= commenterUsername %>,",
+    "ACKNOWLEDGED_BY_ADMIN": "Anscheinend hat der Support-Mitarbeiter mit dem Benutzernamen \"<%= adminUsername %>\" Ihre Anfrage bestätigt. Sie sollten sich in Kürze bei Ihnen melden.",
+    "THANKS_FOR_USING_FC": "Vielen Dank, dass Sie FastComments verwenden!",
+    "DONT_REPLY_TO_THIS": "Diese E-Mail stammt aus einem E-Mail-Postfach - antworten Sie nicht darauf. Wir werden uns separat bei Ihnen melden."
+}

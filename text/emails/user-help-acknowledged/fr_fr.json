@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "Bot d'aide FastComments",
+    "SUBJECT": "Demande d'aide acceptée par le personnel de soutien",
+    "HEY": "Hey <%= commenterUsername %>,",
+    "ACKNOWLEDGED_BY_ADMIN": "Il semble que l'agent d'assistance avec le nom d'utilisateur «<%= adminUsername %>» ait accusé réception de votre demande. Ils devraient vous contacter sous peu.",
+    "THANKS_FOR_USING_FC": "Merci d'utiliser FastComments!",
+    "DONT_REPLY_TO_THIS": "Cet e-mail provient d'une boîte e-mail sortante uniquement - n'y répondez pas. Nous vous contacterons séparément."
+}

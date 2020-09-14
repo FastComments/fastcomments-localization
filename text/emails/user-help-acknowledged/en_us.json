@@ -1,0 +1,8 @@
+{
+  "FROM_NAME": "FastComments Help Bot",
+  "SUBJECT": "Help Request Acknowledged By Support Staff",
+  "HEY": "Hey <%= commenterUsername %>,",
+  "ACKNOWLEDGED_BY_ADMIN": "Looks like the support agent with the username \"<%= adminUsername %>\" has acknowledged your request. They should reach out to you shortly.",
+  "THANKS_FOR_USING_FC": "Thanks for using FastComments!",
+  "DONT_REPLY_TO_THIS": "This email comes from an outbound-only email box - don't reply to it. We'll reach out to you separately."
+}

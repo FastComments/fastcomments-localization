@@ -14,7 +14,8 @@
         "comment-count": 2,
         "comment-ui": 70,
         "recent-comments": 13,
-        "top-pages": 1
+        "top-pages": 1,
+        "user-help-acknowledged": 6
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -265,5 +266,13 @@
     },
     "top-pages": {
         "t1": "NO_PAGES_WITH_COMMENTS"
+    },
+    "user-help-acknowledged": {
+        "t1": "FROM_NAME",
+        "t2": "SUBJECT",
+        "t3": "HEY",
+        "t4": "ACKNOWLEDGED_BY_ADMIN",
+        "t5": "THANKS_FOR_USING_FC",
+        "t6": "DONT_REPLY_TO_THIS"
     }
 }
