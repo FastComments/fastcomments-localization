@@ -20,7 +20,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "FROM_NAME": "FastComments Robot"
             },
             "commenter-welcome": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -41,7 +42,8 @@
                 "VERIFY_YOUR_VOTE_LINK": "Verify Your Vote",
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
                 "THANKS_SO_MUCH": "Thanks so much!",
-                "BANNER_TEXT": "Verify Your Vote"
+                "BANNER_TEXT": "Verify Your Vote",
+                "FROM_NAME": "FastComments Robot"
             },
             "commenter-welcome-from-vote": {
                 "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
@@ -299,7 +301,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "FROM_NAME": "FastComments Robot"
             },
             "commenter-welcome": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -320,7 +323,8 @@
                 "VERIFY_YOUR_VOTE_LINK": "Verify Your Vote",
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
                 "THANKS_SO_MUCH": "Thanks so much!",
-                "BANNER_TEXT": "Verify Your Vote"
+                "BANNER_TEXT": "Verify Your Vote",
+                "FROM_NAME": "FastComments Robot"
             },
             "commenter-welcome-from-vote": {
                 "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
@@ -577,7 +581,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "FROM_NAME": "FastComments Robot"
             },
             "commenter-verify-vote": {
                 "INTRO": "Hey <%= commenterName %>,",
@@ -586,7 +591,8 @@
                 "LOOKS_LIKE_YOU_VOTED_HERE": "It looks like you voted on a post <a href=\"<%= url %>\">here</a>.",
                 "VERIFY_YOUR_VOTE_LINK": "Verify Your Vote",
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "FROM_NAME": "FastComments Robot"
             },
             "commenter-welcome-from-comment": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -851,7 +857,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "FROM_NAME": "FastComments Robot"
             },
             "commenter-verify-vote": {
                 "INTRO": "Hey <%= commenterName %>,",
@@ -860,7 +867,8 @@
                 "LOOKS_LIKE_YOU_VOTED_HERE": "It looks like you voted on a post <a href=\"<%= url %>\">here</a>.",
                 "VERIFY_YOUR_VOTE_LINK": "Verify Your Vote",
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "FROM_NAME": "FastComments Robot"
             },
             "commenter-welcome-from-comment": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",

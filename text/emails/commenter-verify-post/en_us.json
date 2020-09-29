@@ -1,4 +1,5 @@
 {
+  "FROM_NAME": "FastComments Robot",
   "SUBJECT": "<%= comment.commenterName %> - Verify your comment.",
   "BANNER_TEXT": "Verify Your Comment",
   "INTRO": "Hey <%= comment.commenterName %>,",

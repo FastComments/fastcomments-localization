@@ -1,8 +1,8 @@
 {
     "lastCounts": {
         "commenter-comment-notification": 9,
-        "commenter-verify-post": 18,
-        "commenter-verify-vote": 7,
+        "commenter-verify-post": 19,
+        "commenter-verify-vote": 8,
         "commenter-welcome-from-comment": 20,
         "commenter-welcome-from-vote": 8,
         "forgot-username": 5,
@@ -46,7 +46,8 @@
         "t15": "DAYS_AGO",
         "t16": "WEEKS_AGO",
         "t17": "MONTHS_AGO",
-        "t18": "YEARS_AGO"
+        "t18": "YEARS_AGO",
+        "t19": "FROM_NAME"
     },
     "commenter-verify-vote": {
         "t1": "INTRO",
@@ -55,7 +56,8 @@
         "t4": "LOOKS_LIKE_YOU_VOTED_HERE",
         "t5": "VERIFY_YOUR_VOTE_LINK",
         "t6": "WAS_YOU_IGNORE_THIS_EMAIL",
-        "t7": "THANKS_SO_MUCH"
+        "t7": "THANKS_SO_MUCH",
+        "t8": "FROM_NAME"
     },
     "commenter-welcome-from-comment": {
         "t1": "SUBJECT",
