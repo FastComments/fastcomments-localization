@@ -42,6 +42,7 @@
   "ENTER_EMAIL_VERIFICATION": "Email address for verification.",
   "USERNAME_TAKEN_DIFF_EMAIL": "That username is taken by a different email. If your email is correct, try a different username.",
   "CANCEL": "Cancel",
+  "SAVE": "Save",
   "SAVE_N_VOTE": "Save & Vote",
   "SHOW_REPLIES": "Show Replies",
   "HIDE_REPLIES": "Hide Replies",
@@ -69,5 +70,8 @@
   "ERROR_MESSAGE": "Whoops! Something went wrong. Please try again later.",
   "THUMBS_UP": "thumbs up",
   "THUMBS_DOWN": "thumbs down",
-  "POWERED_BY": "Powered by FastComments"
+  "POWERED_BY": "Powered by FastComments",
+  "LOGIN_TO_EDIT": "It's been a while since you left this comment. Please login to edit.",
+  "FAILED_TO_SAVE_EDIT": "Failed to save! Please try again later."
+
 }
