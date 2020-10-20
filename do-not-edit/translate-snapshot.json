@@ -160,7 +160,14 @@
                 "SAVE": "Save",
                 "LOGIN_TO_EDIT": "It's been a while since you left this comment. Please login to edit.",
                 "FAILED_TO_SAVE_EDIT": "Failed to save! Please try again later.",
-                "COMMENT_MENU_EDIT": "Edit"
+                "COMMENT_MENU_EDIT": "Edit",
+                "COMMENT_MENU_DELETE": "Delete",
+                "DELETE_CONFIRM": "Delete",
+                "DELETED_PLACEHOLDER": "[deleted]",
+                "DELETE_CONFIRMATION_MESSAGE": "Are you sure you want to delete your comment?",
+                "DELETING": "Deleting...",
+                "LOGIN_TO_DELETE": "It's been a while since you left this comment. Please login to delete.",
+                "DELETE_FAILURE": "Failed to delete! Please try again later."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -445,7 +452,14 @@
                 "SAVE": "Save",
                 "LOGIN_TO_EDIT": "It's been a while since you left this comment. Please login to edit.",
                 "FAILED_TO_SAVE_EDIT": "Failed to save! Please try again later.",
-                "COMMENT_MENU_EDIT": "Edit"
+                "COMMENT_MENU_EDIT": "Edit",
+                "COMMENT_MENU_DELETE": "Delete",
+                "DELETE_CONFIRM": "Delete",
+                "DELETED_PLACEHOLDER": "[deleted]",
+                "DELETE_CONFIRMATION_MESSAGE": "Are you sure you want to delete your comment?",
+                "DELETING": "Deleting...",
+                "LOGIN_TO_DELETE": "It's been a while since you left this comment. Please login to delete.",
+                "DELETE_FAILURE": "Failed to delete! Please try again later."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -752,7 +766,14 @@
                 "SAVE": "Save",
                 "LOGIN_TO_EDIT": "It's been a while since you left this comment. Please login to edit.",
                 "FAILED_TO_SAVE_EDIT": "Failed to save! Please try again later.",
-                "COMMENT_MENU_EDIT": "Edit"
+                "COMMENT_MENU_EDIT": "Edit",
+                "COMMENT_MENU_DELETE": "Delete",
+                "DELETE_CONFIRM": "Delete",
+                "DELETED_PLACEHOLDER": "[deleted]",
+                "DELETE_CONFIRMATION_MESSAGE": "Are you sure you want to delete your comment?",
+                "DELETING": "Deleting...",
+                "LOGIN_TO_DELETE": "It's been a while since you left this comment. Please login to delete.",
+                "DELETE_FAILURE": "Failed to delete! Please try again later."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -1077,7 +1098,14 @@
                 "SAVE": "Save",
                 "LOGIN_TO_EDIT": "It's been a while since you left this comment. Please login to edit.",
                 "FAILED_TO_SAVE_EDIT": "Failed to save! Please try again later.",
-                "COMMENT_MENU_EDIT": "Edit"
+                "COMMENT_MENU_EDIT": "Edit",
+                "COMMENT_MENU_DELETE": "Delete",
+                "DELETE_CONFIRM": "Delete",
+                "DELETED_PLACEHOLDER": "[deleted]",
+                "DELETE_CONFIRMATION_MESSAGE": "Are you sure you want to delete your comment?",
+                "DELETING": "Deleting...",
+                "LOGIN_TO_DELETE": "It's been a while since you left this comment. Please login to delete.",
+                "DELETE_FAILURE": "Failed to delete! Please try again later."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",

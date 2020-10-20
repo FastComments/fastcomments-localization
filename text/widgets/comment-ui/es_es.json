@@ -73,5 +73,12 @@
     "SAVE": "Salvar",
     "LOGIN_TO_EDIT": "Ha pasado un tiempo desde que dejaste este comentario. Inicie sesión para editar.",
     "FAILED_TO_SAVE_EDIT": "¡Error al guardar! Por favor, inténtelo de nuevo más tarde.",
-    "COMMENT_MENU_EDIT": "Editar"
+    "COMMENT_MENU_EDIT": "Editar",
+    "COMMENT_MENU_DELETE": "Eliminar",
+    "DELETE_CONFIRM": "Eliminar",
+    "DELETED_PLACEHOLDER": "[eliminado]",
+    "DELETE_CONFIRMATION_MESSAGE": "¿Estás seguro de que deseas eliminar tu comentario?",
+    "DELETING": "Eliminando ...",
+    "LOGIN_TO_DELETE": "Ha pasado un tiempo desde que dejaste este comentario. Inicie sesión para eliminar.",
+    "DELETE_FAILURE": "¡No se pudo borrar! Por favor, inténtelo de nuevo más tarde."
 }

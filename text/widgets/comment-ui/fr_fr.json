@@ -73,5 +73,12 @@
     "SAVE": "sauvegarder",
     "LOGIN_TO_EDIT": "Cela fait un moment que vous n'avez pas laissé ce commentaire. Veuillez vous connecter pour modifier.",
     "FAILED_TO_SAVE_EDIT": "Échec de l'enregistrement! Veuillez réessayer plus tard.",
-    "COMMENT_MENU_EDIT": "Éditer"
+    "COMMENT_MENU_EDIT": "Éditer",
+    "COMMENT_MENU_DELETE": "Effacer",
+    "DELETE_CONFIRM": "Effacer",
+    "DELETED_PLACEHOLDER": "[supprimé]",
+    "DELETE_CONFIRMATION_MESSAGE": "Voulez-vous vraiment supprimer votre commentaire?",
+    "DELETING": "Suppression ...",
+    "LOGIN_TO_DELETE": "Cela fait un moment que vous n'avez pas laissé ce commentaire. Veuillez vous connecter pour supprimer.",
+    "DELETE_FAILURE": "Échec de la suppression! Veuillez réessayer plus tard."
 }
