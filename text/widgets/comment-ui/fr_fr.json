@@ -27,7 +27,7 @@
     "BILLING_INFO_INV_60_DAYS": "Les informations de facturation de ce compte <a href=\"https://fastcomments.com\"> FastComments </a> sont périmées depuis plus de soixante jours. Commentaires masqués jusqu'à ce que le problème soit résolu.",
     "BILLING_INFO_INV": "Les informations de facturation de ce compte <a href=\"https://fastcomments.com\"> FastComments </a> sont obsolètes. <b> Les commentaires seront masqués après soixante jours, sauf si le problème est résolu </b>.",
     "DEMO_CREATE_ACCT": "CECI EST UNE DÉMO <a href=\"#\" class=\"t-create-account\"> Créer un compte </a>",
-    "EXCEEDED_QUOTA": "Ce compte FastComments a dépassé son quota mensuel et les commentaires sont désormais masqués. <a href=\"https://fastcomments.com/auth/my-account/billing-info\"> Mettre à niveau </a>",
+    "EXCEEDED_QUOTA": "Ce compte FastComments a dépassé son quota mensuel et les commentaires sont désormais masqués. <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\"> Mettre à jour </a>",
     "COMMENTS_THIS_PAGE": " commentaires sur cette page.",
     "NEXT_30": "Charger les 30 commentaires suivants",
     "LOAD_ALL": "Charger tous les commentaires",
