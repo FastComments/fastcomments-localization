@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments Help Bot",
+    "SUBJECT": "Richiesta di assistenza riconosciuta dal personale di supporto",
+    "HEY": "Hey <%= commenterUsername %>,",
+    "ACKNOWLEDGED_BY_ADMIN": "Sembra che l'agente dell'assistenza con il nome utente \"<%= adminUsername %>\" abbia accettato la tua richiesta. Dovrebbero contattarti a breve.",
+    "THANKS_FOR_USING_FC": "Grazie per aver utilizzato FastComments!",
+    "DONT_REPLY_TO_THIS": "Questa e-mail proviene da una casella di posta elettronica solo in uscita, non rispondere. Ti contatteremo separatamente."
+}

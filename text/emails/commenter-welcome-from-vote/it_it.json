@@ -1,0 +1,10 @@
+{
+    "SUBJECT": "Benvenuto in FastComments <%= commenterName %>!",
+    "BANNER_TEXT": "Benvenuto in FastComments",
+    "INTRO": "Hey <%= commenterName %>,",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Sembra che tu abbia votato un post <a href=\"<%= url %>\"> qui </a>.",
+    "VERIFY_YOUR_ACCOUNT": "Verifica il tuo account",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "Puoi creare nuovi link per accedere al tuo account <a href=\"<%= FC_DOMAIN %>/auth/login/\"> qui </a>.",
+    "WASNT_YOU_IGNORE_EMAIL": "Se non sei stato tu, ignora questa email.",
+    "THANKS_SO_MUCH": "Grazie mille!"
+}

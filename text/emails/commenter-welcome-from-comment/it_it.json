@@ -1,0 +1,22 @@
+{
+    "SUBJECT": "Benvenuto in FastComments <%= comment.commenterName %>!",
+    "BANNER_TEXT": "Benvenuto in FastComments",
+    "INTRO": "Hey <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Sembra che tu abbia commentato un post <a href=\"<%= comment.url %>\"> qui </a>.",
+    "VERIFY_YOUR_ACCOUNT": "Verifica il tuo account",
+    "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "Puoi creare nuovi link per accedere al tuo account <a href=\"<%= FC_DOMAIN %>/auth/login/\"> qui </a>.",
+    "WASNT_YOU_OR_REGRET": "Se non sei stato tu o ti penti di ciò che hai detto, ignora questa email e il commento verrà rimosso tra <%= removedInDays %> giorni.",
+    "REMOVE_COMMENT": "Se desideri rimuovere questo commento ora, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> fai clic qui </a>",
+    "THANKS_SO_MUCH": "Grazie mille!",
+    "USING_NAME_YOU_SAID": "Usando il nome \"<%= comment.commenterName %>\" hai detto:",
+    "JUST_NOW": "proprio adesso",
+    "ONE_MINUTE_AGO": "1 minuto fa",
+    "MINUTES_AGO": " minuti fa",
+    "ONE_HOUR_AGO": "1 ora fa",
+    "HOURS_AGO": " ore fa",
+    "YESTERDAY": "Ieri",
+    "DAYS_AGO": " giorni fa",
+    "WEEKS_AGO": " settimane fa",
+    "MONTHS_AGO": " mesi fa",
+    "YEARS_AGO": " anni fa"
+}

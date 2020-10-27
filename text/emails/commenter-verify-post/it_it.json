@@ -1,0 +1,21 @@
+{
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "<%= comment.commenterName %> - Verifica il tuo commento.",
+    "BANNER_TEXT": "Verifica il tuo commento",
+    "INTRO": "Hey <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Sembra che tu abbia commentato un post <a href=\"<%= comment.url %>\"> qui </a>.",
+    "VERIFY_YOUR_COMMENT_LINK": "Verifica il tuo commento",
+    "WASNT_YOU_OR_REGRET": "Se non sei stato tu o ti penti di ciò che hai detto, ignora questa email e il commento verrà rimosso tra <%= removedInDays %> giorni.",
+    "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> Rimuovi questo commento </a>",
+    "THANKS_SO_MUCH": "Grazie mille!",
+    "JUST_NOW": "proprio adesso",
+    "ONE_MINUTE_AGO": "1 minuto fa",
+    "MINUTES_AGO": " minuti fa",
+    "ONE_HOUR_AGO": "1 ora fa",
+    "HOURS_AGO": " ore fa",
+    "YESTERDAY": "Ieri",
+    "DAYS_AGO": " giorni fa",
+    "WEEKS_AGO": " settimane fa",
+    "MONTHS_AGO": " mesi fa",
+    "YEARS_AGO": " anni fa"
+}
