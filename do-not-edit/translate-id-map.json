@@ -15,7 +15,8 @@
         "comment-ui": 82,
         "recent-comments": 13,
         "top-pages": 1,
-        "user-help-acknowledged": 6
+        "user-help-acknowledged": 6,
+        "common": 1
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -288,5 +289,8 @@
         "t4": "ACKNOWLEDGED_BY_ADMIN",
         "t5": "THANKS_FOR_USING_FC",
         "t6": "DONT_REPLY_TO_THIS"
+    },
+    "common": {
+        "t1": "ADD_TO_MY_SITE"
     }
 }

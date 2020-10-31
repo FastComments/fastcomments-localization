@@ -290,6 +290,9 @@
                 "ACKNOWLEDGED_BY_ADMIN": "Looks like the support agent with the username \"<%= adminUsername %>\" has acknowledged your request. They should reach out to you shortly.",
                 "THANKS_FOR_USING_FC": "Thanks for using FastComments!",
                 "DONT_REPLY_TO_THIS": "This email comes from an outbound-only email box - don't reply to it. We'll reach out to you separately."
+            },
+            "common": {
+                "ADD_TO_MY_SITE": "Add FastComments To My Site"
             }
         },
         "es_es": {
@@ -582,6 +585,9 @@
                 "ACKNOWLEDGED_BY_ADMIN": "Looks like the support agent with the username \"<%= adminUsername %>\" has acknowledged your request. They should reach out to you shortly.",
                 "THANKS_FOR_USING_FC": "Thanks for using FastComments!",
                 "DONT_REPLY_TO_THIS": "This email comes from an outbound-only email box - don't reply to it. We'll reach out to you separately."
+            },
+            "common": {
+                "ADD_TO_MY_SITE": "Add FastComments To My Site"
             }
         },
         "pl_pl": {
@@ -858,6 +864,9 @@
                 "ACKNOWLEDGED_BY_ADMIN": "Looks like the support agent with the username \"<%= adminUsername %>\" has acknowledged your request. They should reach out to you shortly.",
                 "THANKS_FOR_USING_FC": "Thanks for using FastComments!",
                 "DONT_REPLY_TO_THIS": "This email comes from an outbound-only email box - don't reply to it. We'll reach out to you separately."
+            },
+            "common": {
+                "ADD_TO_MY_SITE": "Add FastComments To My Site"
             }
         },
         "de_de": {
@@ -1132,6 +1141,9 @@
                 "ACKNOWLEDGED_BY_ADMIN": "Looks like the support agent with the username \"<%= adminUsername %>\" has acknowledged your request. They should reach out to you shortly.",
                 "THANKS_FOR_USING_FC": "Thanks for using FastComments!",
                 "DONT_REPLY_TO_THIS": "This email comes from an outbound-only email box - don't reply to it. We'll reach out to you separately."
+            },
+            "common": {
+                "ADD_TO_MY_SITE": "Add FastComments To My Site"
             }
         },
         "it_it": {
@@ -1406,6 +1418,9 @@
             },
             "top-pages": {
                 "NO_PAGES_WITH_COMMENTS": "No pages with comments..."
+            },
+            "common": {
+                "ADD_TO_MY_SITE": "Add FastComments To My Site"
             }
         }
     }
