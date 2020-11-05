@@ -224,7 +224,8 @@
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
-                "MODERATE_COMMENTS": "Moderate Comments"
+                "MODERATE_COMMENTS": "Moderate Comments",
+                "MARK_AS_SPAM": "Mark as Spam"
             },
             "tenant-free-trial-expired-reminder": {
                 "INTRO": "Hey <%= user.username %>",
@@ -520,7 +521,8 @@
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
-                "MODERATE_COMMENTS": "Moderate Comments"
+                "MODERATE_COMMENTS": "Moderate Comments",
+                "MARK_AS_SPAM": "Mark as Spam"
             },
             "tenant-free-trial-expired-reminder": {
                 "INTRO": "Hey <%= user.username %>",
@@ -679,7 +681,8 @@
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
-                "MODERATE_COMMENTS": "Moderate Comments"
+                "MODERATE_COMMENTS": "Moderate Comments",
+                "MARK_AS_SPAM": "Mark as Spam"
             },
             "tenant-free-trial-half-done-reminder": {
                 "INTRO": "Hey <%= tenantName %>",
@@ -990,7 +993,8 @@
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
-                "MODERATE_COMMENTS": "Moderate Comments"
+                "MODERATE_COMMENTS": "Moderate Comments",
+                "MARK_AS_SPAM": "Mark as Spam"
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -1268,7 +1272,8 @@
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
-                "MODERATE_COMMENTS": "Moderate Comments"
+                "MODERATE_COMMENTS": "Moderate Comments",
+                "MARK_AS_SPAM": "Mark as Spam"
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
