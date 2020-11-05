@@ -13,6 +13,7 @@
   "RECENT_COMMENTS": "Recent Comments",
   "NO_COMMENTS": "Nothing to show here!",
   "VIEW_MORE_COMMENTS": "Moderate <%= abbreviateNumber(commentCount - comments.length, 0, locale) %> more comments",
+  "MODERATE_COMMENTS": "Moderate Comments",
   "FROM_NAME": "FastComments Robot",
   "APPROVE": "Approve",
   "APPROVE_AND_RESPOND": "Approve and Respond",

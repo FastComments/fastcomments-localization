@@ -223,7 +223,8 @@
                 "AVATAR": "Avatar",
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
-                "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond"
+                "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
+                "MODERATE_COMMENTS": "Moderate Comments"
             },
             "tenant-free-trial-expired-reminder": {
                 "INTRO": "Hey <%= user.username %>",
@@ -518,7 +519,8 @@
                 "AVATAR": "Avatar",
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
-                "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond"
+                "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
+                "MODERATE_COMMENTS": "Moderate Comments"
             },
             "tenant-free-trial-expired-reminder": {
                 "INTRO": "Hey <%= user.username %>",
@@ -676,7 +678,8 @@
                 "AVATAR": "Avatar",
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
-                "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond"
+                "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
+                "MODERATE_COMMENTS": "Moderate Comments"
             },
             "tenant-free-trial-half-done-reminder": {
                 "INTRO": "Hey <%= tenantName %>",
@@ -986,7 +989,8 @@
                 "AVATAR": "Avatar",
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
-                "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond"
+                "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
+                "MODERATE_COMMENTS": "Moderate Comments"
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -1263,7 +1267,8 @@
                 "AVATAR": "Avatar",
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
-                "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond"
+                "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
+                "MODERATE_COMMENTS": "Moderate Comments"
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
