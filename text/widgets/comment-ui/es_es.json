@@ -83,5 +83,6 @@
     "DELETE_FAILURE": "¡No se pudo borrar! Por favor, inténtelo de nuevo más tarde.",
     "MOST_RELEVANT": "Lo más relevante",
     "NEWEST_FIRST": "El más reciente primero",
-    "OLDEST_FIRST": "Los más viejos primero"
+    "OLDEST_FIRST": "Los más viejos primero",
+    "DOMAIN_NOT_AUTHORIZED": "FastComments no puede cargarse en este dominio porque no pertenece a su cuenta. Agregue un dominio <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\"> aquí </a>."
 }

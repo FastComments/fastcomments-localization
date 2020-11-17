@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 85,
+        "comment-ui": 86,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -267,7 +267,8 @@
         "t82": "DELETE_FAILURE",
         "t83": "MOST_RELEVANT",
         "t84": "NEWEST_FIRST",
-        "t85": "OLDEST_FIRST"
+        "t85": "OLDEST_FIRST",
+        "t86": "DOMAIN_NOT_AUTHORIZED"
     },
     "recent-comments": {
         "t1": "AVATAR",

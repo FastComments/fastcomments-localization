@@ -83,5 +83,6 @@
   "DELETE_FAILURE": "Failed to delete! Please try again later.",
   "MOST_RELEVANT": "Most Relevant",
   "NEWEST_FIRST": "Newest First",
-  "OLDEST_FIRST": "Oldest First"
+  "OLDEST_FIRST": "Oldest First",
+  "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. Add a domain <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>."
 }

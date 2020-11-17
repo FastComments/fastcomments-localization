@@ -83,5 +83,6 @@
     "DELETE_FAILURE": "Échec de la suppression! Veuillez réessayer plus tard.",
     "MOST_RELEVANT": "Le plus pertinent",
     "NEWEST_FIRST": "Le plus récent d'abord",
-    "OLDEST_FIRST": "Le plus ancien en premier"
+    "OLDEST_FIRST": "Le plus ancien en premier",
+    "DOMAIN_NOT_AUTHORIZED": "FastComments ne peut pas charger sur ce domaine car il n'appartient pas à votre compte. Ajoutez un domaine <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\"> ici </a>."
 }
