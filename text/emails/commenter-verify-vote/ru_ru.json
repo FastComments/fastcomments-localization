@@ -1,0 +1,10 @@
+{
+    "FROM_NAME": "Робот FastComments",
+    "INTRO": "Привет <%= commenterName %>,",
+    "BANNER_TEXT": "Подтвердите свой голос",
+    "SUBJECT": "<%= commenterName %> - Подтвердите свой голос.",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Похоже, вы проголосовали за сообщение <a href=\"<%= url %>\"> здесь </a>.",
+    "VERIFY_YOUR_VOTE_LINK": "Подтвердите свой голос",
+    "WAS_YOU_IGNORE_THIS_EMAIL": "Если это не вы, проигнорируйте это письмо.",
+    "THANKS_SO_MUCH": "Спасибо!"
+}
