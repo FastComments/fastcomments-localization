@@ -16,7 +16,8 @@
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
-        "common": 1
+        "common": 1,
+        "tenant-user-removed-from-tenant": 5
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -298,5 +299,12 @@
     },
     "common": {
         "t1": "ADD_TO_MY_SITE"
+    },
+    "tenant-user-removed-from-tenant": {
+        "t1": "INTRO",
+        "t2": "BANNER_TEXT",
+        "t3": "FROM_NAME",
+        "t4": "SUBJECT",
+        "t5": "REMOVED_AS_ADMIN"
     }
 }

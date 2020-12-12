@@ -1,0 +1,7 @@
+{
+    "INTRO": "Oye <%= username %>,",
+    "BANNER_TEXT": "Notificación FastComments",
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "Ha sido eliminado de <%= tenantName %>",
+    "REMOVED_AS_ADMIN": "Parece que ha sido eliminado como usuario de <%= tenantName %>. Conservará su cuenta de FastComments como comentarista, pero ya no tendrá acceso a <%= tenantName %>."
+}
