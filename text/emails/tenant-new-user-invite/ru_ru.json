@@ -1,0 +1,8 @@
+{
+    "INTRO": "Привет <%= username %>,",
+    "FROM_NAME": "Робот FastComments",
+    "SUBJECT": "Вас пригласили присоединиться к <%= tenantName %>!",
+    "BANNER_TEXT": "FastComments Пригласить",
+    "INVITE_DETAILS": "Вас пригласили присоединиться к клиенту FastComments <%= tenantName %>. Приняв это приглашение, вы создадите учетную запись со следующими разрешениями:",
+    "ACCEPT_INVITE": "Принять приглашение"
+}

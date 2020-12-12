@@ -314,6 +314,14 @@
                 "BANNER_TEXT": "Tenant Invite",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "You've been invited to join <%= tenantName %>!"
+            },
+            "tenant-new-user-invite": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've been invited to join <%= tenantName %>!",
+                "BANNER_TEXT": "FastComments Invite",
+                "INVITE_DETAILS": "You've been invited to join the FastComments tenant <%= tenantName %>. Accepting this invite will create an account for you with the following permissions:",
+                "ACCEPT_INVITE": "Accept Invite"
             }
         },
         "es_es": {
@@ -630,6 +638,14 @@
                 "BANNER_TEXT": "Tenant Invite",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "You've been invited to join <%= tenantName %>!"
+            },
+            "tenant-new-user-invite": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've been invited to join <%= tenantName %>!",
+                "BANNER_TEXT": "FastComments Invite",
+                "INVITE_DETAILS": "You've been invited to join the FastComments tenant <%= tenantName %>. Accepting this invite will create an account for you with the following permissions:",
+                "ACCEPT_INVITE": "Accept Invite"
             }
         },
         "pl_pl": {
@@ -930,6 +946,14 @@
                 "BANNER_TEXT": "Tenant Invite",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "You've been invited to join <%= tenantName %>!"
+            },
+            "tenant-new-user-invite": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've been invited to join <%= tenantName %>!",
+                "BANNER_TEXT": "FastComments Invite",
+                "INVITE_DETAILS": "You've been invited to join the FastComments tenant <%= tenantName %>. Accepting this invite will create an account for you with the following permissions:",
+                "ACCEPT_INVITE": "Accept Invite"
             }
         },
         "de_de": {
@@ -1228,6 +1252,14 @@
                 "BANNER_TEXT": "Tenant Invite",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "You've been invited to join <%= tenantName %>!"
+            },
+            "tenant-new-user-invite": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've been invited to join <%= tenantName %>!",
+                "BANNER_TEXT": "FastComments Invite",
+                "INVITE_DETAILS": "You've been invited to join the FastComments tenant <%= tenantName %>. Accepting this invite will create an account for you with the following permissions:",
+                "ACCEPT_INVITE": "Accept Invite"
             }
         },
         "it_it": {
@@ -1526,6 +1558,14 @@
                 "BANNER_TEXT": "Tenant Invite",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "You've been invited to join <%= tenantName %>!"
+            },
+            "tenant-new-user-invite": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've been invited to join <%= tenantName %>!",
+                "BANNER_TEXT": "FastComments Invite",
+                "INVITE_DETAILS": "You've been invited to join the FastComments tenant <%= tenantName %>. Accepting this invite will create an account for you with the following permissions:",
+                "ACCEPT_INVITE": "Accept Invite"
             }
         },
         "ru_ru": {
@@ -1824,6 +1864,14 @@
                 "BANNER_TEXT": "Tenant Invite",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "You've been invited to join <%= tenantName %>!"
+            },
+            "tenant-new-user-invite": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've been invited to join <%= tenantName %>!",
+                "BANNER_TEXT": "FastComments Invite",
+                "INVITE_DETAILS": "You've been invited to join the FastComments tenant <%= tenantName %>. Accepting this invite will create an account for you with the following permissions:",
+                "ACCEPT_INVITE": "Accept Invite"
             }
         }
     }

@@ -18,7 +18,8 @@
         "user-help-acknowledged": 6,
         "common": 1,
         "tenant-user-removed-from-tenant": 5,
-        "tenant-user-invite": 6
+        "tenant-user-invite": 6,
+        "tenant-new-user-invite": 6
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -315,5 +316,13 @@
         "t4": "BANNER_TEXT",
         "t5": "FROM_NAME",
         "t6": "SUBJECT"
+    },
+    "tenant-new-user-invite": {
+        "t1": "INTRO",
+        "t2": "FROM_NAME",
+        "t3": "SUBJECT",
+        "t4": "BANNER_TEXT",
+        "t5": "INVITE_DETAILS",
+        "t6": "ACCEPT_INVITE"
     }
 }
