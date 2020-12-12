@@ -1,0 +1,8 @@
+{
+    "INTRO": "Hej <%= username %>,",
+    "INVITE_DETAILS": "Zostałeś zaproszony do przyłączenia się do najemcy <%= tenantName %>. Przyjęcie tego zaproszenia zmieni Twoje konto komentującego na konto administratora. Będziesz mieć następujące uprawnienia:",
+    "ACCEPT_INVITE": "Zaakceptuj zaproszenie",
+    "BANNER_TEXT": "Zaproś lokatora",
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "Zostałeś zaproszony do <%= tenantName %>!"
+}

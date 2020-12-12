@@ -1,0 +1,8 @@
+{
+    "INTRO": "Hey <%= username %>,",
+    "INVITE_DETAILS": "Vous avez été invité à rejoindre le locataire <%= tenantName %>. Accepter cette invitation fera de votre compte commentateur un compte administrateur. Vous aurez les autorisations suivantes:",
+    "ACCEPT_INVITE": "Accepter l'invitation",
+    "BANNER_TEXT": "Inviter le locataire",
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "Vous avez été invité à rejoindre <%= tenantName %>!"
+}

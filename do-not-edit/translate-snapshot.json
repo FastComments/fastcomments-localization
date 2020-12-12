@@ -306,6 +306,14 @@
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "You've Been Removed From <%= tenantName %>",
                 "REMOVED_AS_ADMIN": "It looks like you've been removed as a user from <%= tenantName %>. You will retain your FastComments account as a commenter, but you will no longer have access to <%= tenantName %>."
+            },
+            "tenant-user-invite": {
+                "INTRO": "Hey <%= username %>,",
+                "INVITE_DETAILS": "You've been invited to join the tenant <%= tenantName %>. Accepting this invite will elevate your commenter account into an administrator account. You'll have the following permissions:",
+                "ACCEPT_INVITE": "Accept Invite",
+                "BANNER_TEXT": "Tenant Invite",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've been invited to join <%= tenantName %>!"
             }
         },
         "es_es": {
@@ -614,6 +622,14 @@
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "You've Been Removed From <%= tenantName %>",
                 "REMOVED_AS_ADMIN": "It looks like you've been removed as a user from <%= tenantName %>. You will retain your FastComments account as a commenter, but you will no longer have access to <%= tenantName %>."
+            },
+            "tenant-user-invite": {
+                "INTRO": "Hey <%= username %>,",
+                "INVITE_DETAILS": "You've been invited to join the tenant <%= tenantName %>. Accepting this invite will elevate your commenter account into an administrator account. You'll have the following permissions:",
+                "ACCEPT_INVITE": "Accept Invite",
+                "BANNER_TEXT": "Tenant Invite",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've been invited to join <%= tenantName %>!"
             }
         },
         "pl_pl": {
@@ -906,6 +922,14 @@
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "You've Been Removed From <%= tenantName %>",
                 "REMOVED_AS_ADMIN": "It looks like you've been removed as a user from <%= tenantName %>. You will retain your FastComments account as a commenter, but you will no longer have access to <%= tenantName %>."
+            },
+            "tenant-user-invite": {
+                "INTRO": "Hey <%= username %>,",
+                "INVITE_DETAILS": "You've been invited to join the tenant <%= tenantName %>. Accepting this invite will elevate your commenter account into an administrator account. You'll have the following permissions:",
+                "ACCEPT_INVITE": "Accept Invite",
+                "BANNER_TEXT": "Tenant Invite",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've been invited to join <%= tenantName %>!"
             }
         },
         "de_de": {
@@ -1196,6 +1220,14 @@
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "You've Been Removed From <%= tenantName %>",
                 "REMOVED_AS_ADMIN": "It looks like you've been removed as a user from <%= tenantName %>. You will retain your FastComments account as a commenter, but you will no longer have access to <%= tenantName %>."
+            },
+            "tenant-user-invite": {
+                "INTRO": "Hey <%= username %>,",
+                "INVITE_DETAILS": "You've been invited to join the tenant <%= tenantName %>. Accepting this invite will elevate your commenter account into an administrator account. You'll have the following permissions:",
+                "ACCEPT_INVITE": "Accept Invite",
+                "BANNER_TEXT": "Tenant Invite",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've been invited to join <%= tenantName %>!"
             }
         },
         "it_it": {
@@ -1486,6 +1518,14 @@
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "You've Been Removed From <%= tenantName %>",
                 "REMOVED_AS_ADMIN": "It looks like you've been removed as a user from <%= tenantName %>. You will retain your FastComments account as a commenter, but you will no longer have access to <%= tenantName %>."
+            },
+            "tenant-user-invite": {
+                "INTRO": "Hey <%= username %>,",
+                "INVITE_DETAILS": "You've been invited to join the tenant <%= tenantName %>. Accepting this invite will elevate your commenter account into an administrator account. You'll have the following permissions:",
+                "ACCEPT_INVITE": "Accept Invite",
+                "BANNER_TEXT": "Tenant Invite",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've been invited to join <%= tenantName %>!"
             }
         },
         "ru_ru": {
@@ -1776,6 +1816,14 @@
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "You've Been Removed From <%= tenantName %>",
                 "REMOVED_AS_ADMIN": "It looks like you've been removed as a user from <%= tenantName %>. You will retain your FastComments account as a commenter, but you will no longer have access to <%= tenantName %>."
+            },
+            "tenant-user-invite": {
+                "INTRO": "Hey <%= username %>,",
+                "INVITE_DETAILS": "You've been invited to join the tenant <%= tenantName %>. Accepting this invite will elevate your commenter account into an administrator account. You'll have the following permissions:",
+                "ACCEPT_INVITE": "Accept Invite",
+                "BANNER_TEXT": "Tenant Invite",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've been invited to join <%= tenantName %>!"
             }
         }
     }
