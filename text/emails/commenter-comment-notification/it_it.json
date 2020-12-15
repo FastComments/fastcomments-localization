@@ -1,9 +1,9 @@
 {
     "INTRO": "Hey <%= username %>,",
     "BANNER_TEXT": "Risposte ai commenti - Ultima ora",
-    "PAST_HOUR_COMMENT_COUNT": "Nell'ultima ora hai ricevuto <% if(replyCount > 1) { %> alcune risposte __una risposta <% } else { %> ai tuoi <% } %>commenti<% if(commentsSummary.length > 1) {%>commento<% } else { %>.",
+    "PAST_HOUR_COMMENT_COUNT": "Nell'ultima ora hai ricevuto <% if(replyCount > 1) { %>alcune risposte<% } else { %>una risposta<% } %> ai tuoi <% if(commentsSummary.length > 1) {%> commenti <% } else { %> commento<% } %>.",
     "FROM_NAME": "FastComments Robot",
-    "SUBJECT": "FastComments - <%= abbreviateNumber(replyCount, 0, locale) %> New <% if(replyCount === 1) {%>Reply<% } else { %>Replies<% } %> ai tuoi <% if(replyCount > 1) { %>Comments<% } else {%>Comment<% } %>",
+    "SUBJECT": "FastComments - <%= abbreviateNumber(replyCount, 0, locale) %> Nuovo <% if(replyCount === 1) {%>Reply<% } else { %>Replies<% } %> ai tuoi <% if(replyCount > 1) { %> Commenti <% } else {%> Comment<% } %>",
     "VIEW_REPLIES": "Visualizza risposte",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disabilita le notifiche per questo commento",
     "THANKS_FOR_USING_FASTCOMMENTS": "Grazie per aver utilizzato FastComments!",
