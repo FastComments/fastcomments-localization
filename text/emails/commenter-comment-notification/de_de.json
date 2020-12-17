@@ -3,7 +3,7 @@
     "BANNER_TEXT": "Kommentar Antworten - Letzte Stunde",
     "PAST_HOUR_COMMENT_COUNT": "In der letzten Stunde haben Sie <% if(replyCount > 1) { %> einige Antworten <% } else { %> eine Antwort <% } %> auf Ihre <% if(commentsSummary.length > 1) {%> Kommentare <% } else { %> Kommentare <% } %> erhalten.",
     "FROM_NAME": "FastComments Roboter",
-    "SUBJECT": "FastComments - <%= abbreviateNumber(replyCount, 0, locale) %> Neu <% if(replyCount === 1) {%>Antworten<% } else { %> Antworten <% } %> auf Ihre <% if(replyCount > 1) { %> Kommentare <% } else {%> Kommentar<% } %>",
+    "SUBJECT": "FastComments - <%= abbreviateNumber(replyCount, 0, locale) %> Neu <% if(replyCount === 1) {%>Antworten<% } else { %>Antworten<% } %> auf Ihre<% if(replyCount > 1) { %> Kommentare <% } else {%> Kommentar<% } %>",
     "VIEW_REPLIES": "Antworten anzeigen",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Benachrichtigungen für diesen Kommentar deaktivieren",
     "THANKS_FOR_USING_FASTCOMMENTS": "Vielen Dank, dass Sie FastComments verwenden!",
