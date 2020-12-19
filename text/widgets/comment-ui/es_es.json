@@ -85,5 +85,7 @@
     "NEWEST_FIRST": "El más reciente primero",
     "OLDEST_FIRST": "Los más viejos primero",
     "DOMAIN_NOT_AUTHORIZED": "FastComments no puede cargarse en este dominio porque no pertenece a su cuenta. Agregue un dominio <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\"> aquí </a>.",
-    "MALFORMED_SSO": "Solicitud de SSO con formato incorrecto. Compruebe la instalación de FastComments."
+    "MALFORMED_SSO": "Solicitud de SSO con formato incorrecto. Compruebe la instalación de FastComments.",
+    "ADMIN_LABEL": "Administrador del sitio",
+    "MODERATOR_LABEL": "Moderador"
 }
