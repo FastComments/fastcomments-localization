@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 90,
+        "comment-ui": 91,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -275,7 +275,8 @@
         "t87": "MALFORMED_SSO",
         "t88": "ADMIN_LABEL",
         "t89": "MODERATOR_LABEL",
-        "t90": "INSERT_LINK"
+        "t90": "INSERT_LINK",
+        "t91": "LINK_EXAMPLE_TEXT"
     },
     "recent-comments": {
         "t1": "AVATAR",
