@@ -3,7 +3,7 @@
     "BANNER_TEXT": "Ответы на комментарии - последний час",
     "PAST_HOUR_COMMENT_COUNT": "За последний час вы получили <% if(replyCount > 1) { %> несколько ответов <% } else { %> ответ <% } %> на ваши <% if(commentsSummary.length > 1) {%> комментарии <% } else { %> комментарий <% } %>.",
     "FROM_NAME": "Робот FastComments",
-    "SUBJECT": "FastComments - <%= abbreviateNumber(replyCount, 0, locale) %> Новинка <% if(replyCount === 1) {%> Ответ <% } else { %> Ответы <% } %> на ваши <% if(replyCount > 1) { %> комментарии <% } else {%> Комментарий <% } %>",
+    "SUBJECT": "FastComments - <%= abbreviateNumber(replyCount, 0, locale) %> Новое <% if(replyCount === 1) {%> Ответ <% } else { %> Ответы <% } %> на ваши <% if(replyCount > 1) { %> комментарии <% } else {%> Комментарий <% } %>",
     "VIEW_REPLIES": "Посмотреть ответы",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Отключить уведомления для этого комментария",
     "THANKS_FOR_USING_FASTCOMMENTS": "Спасибо за использование FastComments!",
