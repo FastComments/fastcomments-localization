@@ -6,6 +6,5 @@
     "SUBJECT": "FastComments - <%= abbreviateNumber(replyCount, 0, locale) %> Новое <% if(replyCount === 1) {%> Ответ <% } else { %> Ответы <% } %> на ваши <% if(replyCount > 1) { %> комментарии <% } else {%> Комментарий <% } %>",
     "VIEW_REPLIES": "Посмотреть ответы",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Отключить уведомления для этого комментария",
-    "THANKS_FOR_USING_FASTCOMMENTS": "Спасибо за использование FastComments!",
     "UNSUBSCRIBE_HERE": "Войдите и откажитесь от подписки на эти электронные письма здесь"
 }

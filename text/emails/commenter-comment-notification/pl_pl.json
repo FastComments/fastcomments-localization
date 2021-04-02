@@ -6,6 +6,5 @@
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Wyłącz powiadomienia dla tego komentarza",
     "INTRO": "Hej <%= username %>,",
     "PAST_HOUR_COMMENT_COUNT": "W ciągu ostatniej godziny otrzymałeś <% if(replyCount > 1) { %>_ odpowiedzi<% } else { %> odpowiedź<% } %> na Twoje<% if(commentsSummary.length > 1) {%> komentarze<% } else { %> komentarz<% } %>.",
-    "THANKS_FOR_USING_FASTCOMMENTS": "Dziękujemy za skorzystanie z FastComments!",
     "UNSUBSCRIBE_HERE": "Zaloguj się i anuluj subskrypcję tych e-maili tutaj"
 }

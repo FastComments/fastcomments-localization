@@ -4,7 +4,6 @@
     "YOU_HAVE_NEW_COMMENTS": "Sie haben einige neue Kommentare!",
     "BANNER_TEXT": "Neue Kommentare - Letzte Stunde",
     "SUBJECT": "FastComments - <%= abbreviateNumber(commentCount, 0, locale) %> Neu <% if(commentCount === 1) {%>Kommentar<% } else { %>Kommentare<% } %>",
-    "THANKS_FOR_USING_FASTCOMMENTS": "Vielen Dank, dass Sie FastComments verwenden!",
     "UNSUBSCRIBE_HERE": "Melden Sie sich hier an und melden Sie sich von diesen E-Mails ab",
     "APPROVE_COMMENT": "Genehmigen",
     "VIEW_COMMENT": "Kommentar anzeigen",
