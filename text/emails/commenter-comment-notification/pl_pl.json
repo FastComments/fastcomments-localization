@@ -1,10 +1,10 @@
 {
     "BANNER_TEXT": "Odpowiedzi na komentarze - ostatnia godzina",
     "FROM_NAME": "FastComments Robot",
-    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> Nowy <% if(replyCount === 1) {%>_Reply<% } else { %>plolies<% } %> do twojego <% if(replyCount > 1) { %>_ komentarz<% } else {%> komentarz<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Nowa odpowiedź<% } else { %>Nowe odpowiedzi<% } %> to <% if(replyCount > 1) { %>Twoje komentarze<% } else {%>Twój komentarz<% } %>",
     "VIEW_REPLIES": "Wyświetl odpowiedzi",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Wyłącz powiadomienia dla tego komentarza",
     "INTRO": "Hej <%= username %>,",
-    "PAST_HOUR_COMMENT_COUNT": "W ciągu ostatniej godziny otrzymałeś <% if(replyCount > 1) { %>_ odpowiedzi<% } else { %> odpowiedź<% } %> na Twoje<% if(commentsSummary.length > 1) {%> komentarze<% } else { %> komentarz<% } %>.",
+    "PAST_HOUR_COMMENT_COUNT": "W ciągu ostatniej godziny otrzymałeś <% if(replyCount > 1) { %> odpowiedzi<% } else { %> odpowiedź<% } %> na Twoje<% if(commentsSummary.length > 1) {%> komentarze<% } else { %> komentarz<% } %>.",
     "UNSUBSCRIBE_HERE": "Zaloguj się i anuluj subskrypcję tych e-maili tutaj"
 }

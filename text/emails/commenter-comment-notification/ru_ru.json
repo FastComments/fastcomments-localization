@@ -1,9 +1,9 @@
 {
     "INTRO": "Привет <%= username %>,",
     "BANNER_TEXT": "Ответы на комментарии - последний час",
-    "PAST_HOUR_COMMENT_COUNT": "За последний час вы получили <% if(replyCount > 1) { %> несколько ответов <% } else { %> ответ <% } %> на ваши <% if(commentsSummary.length > 1) {%> комментарии <% } else { %> комментарий <% } %>.",
+    "PAST_HOUR_COMMENT_COUNT": "За последний час вы получили <% if(replyCount > 1) { %> несколько ответов <% } else { %> ответ <% } %> на ваши <% if(commentsSummary.length > 1) {%>комментарии<% } else { %>комментарий<% } %>.",
     "FROM_NAME": "Робот FastComments",
-    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> Новый <% if(replyCount === 1) {%>reply<% } else { %>replies<% } %> к вашему <% if(replyCount > 1) { %> Комментарии <% } else {%> Комментировать <% } %>",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>new Ответить <% } else { %>new Ответы<% } %> к <% if(replyCount > 1) { %>Ваши комментарии<% } else {%>Ваш комментарий<% } %>",
     "VIEW_REPLIES": "Посмотреть ответы",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Отключить уведомления для этого комментария",
     "UNSUBSCRIBE_HERE": "Войдите и откажитесь от подписки на эти электронные письма здесь"
