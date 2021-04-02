@@ -3,7 +3,7 @@
   "BANNER_TEXT": "Comment Replies - Last Hour",
   "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
   "FROM_NAME": "FastComments Robot",
-  "SUBJECT": "FastComments - <%= abbreviateNumber(replyCount, 0, locale) %> New <% if(replyCount === 1) {%>Reply<% } else { %>Replies<% } %> to Your<% if(replyCount > 1) { %> Comments<% } else {%> Comment<% } %>",
+  "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> New <% if(replyCount === 1) {%>Reply<% } else { %>Replies<% } %> to Your<% if(replyCount > 1) { %> Comments<% } else {%> Comment<% } %>",
   "VIEW_REPLIES": "View Replies",
   "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
   "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"

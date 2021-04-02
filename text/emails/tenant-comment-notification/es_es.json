@@ -2,7 +2,7 @@
     "INTRO": "Oye <%= username %>,",
     "YOU_HAVE_NEW_COMMENTS": "Tienes algunos comentarios nuevos!",
     "BANNER_TEXT": "Nuevos comentarios - Última hora",
-    "SUBJECT": "FastComments - <%= abbreviateNumber(commentCount, 0, locale) %> Nuevo <% if(commentCount === 1) {%>Comment<% } else { %>Comments<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> nuevo <% if(commentCount === 1) {%>comment<% } else { %>comments<% } %>",
     "UNSUBSCRIBE_HERE": "Inicie sesión y cancele la suscripción de estos correos electrónicos aquí",
     "APPROVE_COMMENT": "Aprobar",
     "VIEW_COMMENT": "Ver comentario",
