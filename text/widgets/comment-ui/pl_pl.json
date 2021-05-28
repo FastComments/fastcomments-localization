@@ -12,11 +12,11 @@
     "YEARS_AGO": " Lata temu",
     "REPLYING_TO": "Odpowiadanie na ",
     "ENTER_EMAIL_TO_KEEP_COMMENT": "Wpisz swój adres e-mail, aby zachować komentarz dłużej niż trzy dni.",
-    "ENTER_EMAIL_TO_COMMENT": "Wpisz swój adres e-mail, aby skomentować. Nie wyślemy Ci żadnych e-maili marketingowych lub z prośbą o pomoc.",
-    "EMAIL_FOR_VERIFICATION": "Adres e-mail do weryfikacji.",
+    "ENTER_EMAIL_TO_COMMENT": "Wpisz swój adres e-mail, aby skomentować.",
+    "EMAIL_FOR_VERIFICATION": "E-mail do weryfikacji",
     "USERNAME_TAKEN": "Wygląda na to, że ta nazwa użytkownika pochodzi z innego adresu e-mail.",
     "INVALID_USERNAME": "Wymagana jest nazwa użytkownika.",
-    "PUBLICLY_DISPLAYED_USERNAME": "Publicznie wyświetlana nazwa użytkownika.",
+    "PUBLICLY_DISPLAYED_USERNAME": "Wyświetlana nazwa użytkownika.",
     "LOGGED_IN_AS": "Obecnie zalogowany jako ",
     "LOG_OUT": "Wyloguj",
     "FAILED_LOG_OUT": "Wystąpił problem - nie udało się wylogować. Spróbuj ponownie później.",
@@ -77,7 +77,7 @@
     "COMMENT_MENU_DELETE": "Kasować",
     "DELETE_CONFIRM": "Kasować",
     "DELETED_PLACEHOLDER": "[usunięto]",
-    "DELETE_CONFIRMATION_MESSAGE": "Czy na pewno chcesz usunąć swój komentarz?",
+    "DELETE_CONFIRMATION_MESSAGE": "Czy jesteś pewien, że chcesz usunąć komentarz?",
     "DELETING": "Usuwam ...",
     "LOGIN_TO_DELETE": "Minęło trochę czasu, odkąd zostawiłeś ten komentarz. Zaloguj się, aby usunąć.",
     "DELETE_FAILURE": "Nie udało się usunąć! Spróbuj ponownie później.",
@@ -96,5 +96,6 @@
     "COMMENT_MENU_PIN": "Kołek",
     "COMMENT_MENU_UNPIN": "Odpiąć",
     "LOG_IN_VOTE": "Zaloguj się, aby głosować",
-    "COMMENTING_TOO_QUICKLY": "Komentujesz zbyt szybko. Poczekaj chwilę i spróbuj ponownie."
+    "COMMENTING_TOO_QUICKLY": "Komentujesz zbyt szybko. Poczekaj chwilę i spróbuj ponownie.",
+    "SUBMIT": "Zatwierdź"
 }

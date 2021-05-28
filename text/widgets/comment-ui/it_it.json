@@ -12,12 +12,12 @@
     "YEARS_AGO": " anni fa",
     "REPLYING_TO": "Rispondendo a ",
     "ENTER_EMAIL_TO_KEEP_COMMENT": "Inserisci la tua email per conservare il tuo commento per più di tre giorni.",
-    "ENTER_EMAIL_TO_COMMENT": "Inserisci la tua email per commentare. Non ti invieremo email di marketing o di sollecitazione.",
-    "EMAIL_FOR_VERIFICATION": "Indirizzo email per la verifica.",
+    "ENTER_EMAIL_TO_COMMENT": "Inserisci la tua email per commentare.",
+    "EMAIL_FOR_VERIFICATION": "Email per la verifica",
     "USERNAME_TAKEN": "Sembra che il nome utente sia preso da un'altra email.",
     "INVALID_USERNAME": "È richiesto un nome utente.",
     "USERNAME_CANT_BE_EMAIL": "Il tuo nome utente non può essere un'e-mail! È pubblicamente visibile.",
-    "PUBLICLY_DISPLAYED_USERNAME": "Nome utente visualizzato pubblicamente.",
+    "PUBLICLY_DISPLAYED_USERNAME": "Nome utente visualizzato",
     "LOGGED_IN_AS": "Attualmente connesso come ",
     "LOG_OUT": "Disconnettersi",
     "FAILED_LOG_OUT": "Si è verificato un problema: non è stato possibile disconnettersi. Per favore riprova più tardi.",
@@ -96,5 +96,6 @@
     "COMMENT_MENU_PIN": "Pin",
     "COMMENT_MENU_UNPIN": "Sblocca",
     "LOG_IN_VOTE": "Accedi per votare",
-    "COMMENTING_TOO_QUICKLY": "Stai commentando troppo velocemente. Aspetta un minuto e riprova."
+    "COMMENTING_TOO_QUICKLY": "Stai commentando troppo velocemente. Aspetta un minuto e riprova.",
+    "SUBMIT": "Invia"
 }

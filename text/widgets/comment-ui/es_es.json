@@ -12,10 +12,10 @@
     "YEARS_AGO": " hace años que",
     "REPLYING_TO": "Respondiendo a ",
     "ENTER_EMAIL_TO_KEEP_COMMENT": "Ingrese su correo electrónico para mantener su comentario por más de tres días.",
-    "ENTER_EMAIL_TO_COMMENT": "Ingrese su correo electrónico para comentar. No le enviaremos correos electrónicos de marketing o de solicitud.",
-    "EMAIL_FOR_VERIFICATION": "Dirección de correo electrónico para verificación.",
+    "ENTER_EMAIL_TO_COMMENT": "Ingrese su correo electrónico para comentar.",
+    "EMAIL_FOR_VERIFICATION": "Correo electrónico para la verificación",
     "USERNAME_TAKEN": "Parece que ese nombre de usuario es tomado por un correo electrónico diferente.",
-    "PUBLICLY_DISPLAYED_USERNAME": "Nombre de usuario mostrado públicamente.",
+    "PUBLICLY_DISPLAYED_USERNAME": "Nombre de usuario mostrado",
     "LOGGED_IN_AS": "Actualmente conectado como ",
     "LOG_OUT": "Cerrar sesión",
     "FAILED_LOG_OUT": "Nos topamos con un inconveniente: no se pudo cerrar sesión. Por favor, inténtelo de nuevo más tarde.",
@@ -77,7 +77,7 @@
     "COMMENT_MENU_DELETE": "Eliminar",
     "DELETE_CONFIRM": "Eliminar",
     "DELETED_PLACEHOLDER": "[eliminado]",
-    "DELETE_CONFIRMATION_MESSAGE": "¿Estás seguro de que deseas eliminar tu comentario?",
+    "DELETE_CONFIRMATION_MESSAGE": "¿Estás seguro de que quieres eliminar tu comentario?",
     "DELETING": "Eliminando ...",
     "LOGIN_TO_DELETE": "Ha pasado un tiempo desde que dejaste este comentario. Inicie sesión para eliminar.",
     "DELETE_FAILURE": "¡No se pudo borrar! Por favor, inténtelo de nuevo más tarde.",
@@ -96,5 +96,6 @@
     "COMMENT_MENU_PIN": "Alfiler",
     "COMMENT_MENU_UNPIN": "Desprender",
     "LOG_IN_VOTE": "Iniciar sesión para votar",
-    "COMMENTING_TOO_QUICKLY": "Estás comentando demasiado rápido. Por favor, espere un minuto y vuelva a intentarlo."
+    "COMMENTING_TOO_QUICKLY": "Estás comentando demasiado rápido. Por favor, espere un minuto y vuelva a intentarlo.",
+    "SUBMIT": "Enviar"
 }
