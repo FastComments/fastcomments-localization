@@ -76,7 +76,7 @@
     "COMMENT_MENU_EDIT": "modificare",
     "COMMENT_MENU_DELETE": "Elimina",
     "DELETE_CONFIRM": "Elimina",
-    "DELETE_CONFIRMATION_MESSAGE": "Sei sicuro di voler cancellare il tuo commento?",
+    "DELETE_CONFIRMATION_MESSAGE": "Sei sicuro di voler eliminare questo commento?",
     "DELETED_PLACEHOLDER": "[cancellato]",
     "DELETING": "Eliminazione in corso ...",
     "LOGIN_TO_DELETE": "È passato un po 'di tempo da quando hai lasciato questo commento. Effettua il login per eliminare.",
@@ -98,5 +98,15 @@
     "LOG_IN_VOTE": "Accedi per votare",
     "COMMENTING_TOO_QUICKLY": "Stai commentando troppo velocemente. Aspetta un minuto e riprova.",
     "SUBMIT": "Invia",
-    "WEEK_AGO": "1 settimana fa"
+    "WEEK_AGO": "1 settimana fa",
+    "COMMENT_MENU_BAN": "Bandire",
+    "COMMENT_MENU_SPAM": "Spam",
+    "COMMENT_MENU_NOT_SPAM": "Non spam",
+    "COMMENT_MENU_APPROVE": "Approva (mostra)",
+    "COMMENT_MENU_UNAPPROVE": "Unrabora (nascondi)",
+    "BAN_CONFIRMATION_MESSAGE": "Sei sicuro di voler cancellare questo commento e vietare l'utente?",
+    "BAN_CONFIRM": "Conferma il divieto",
+    "BAN_SHADOW_CONFIRM": "Conferma il divieto dell'ombra",
+    "BAN_SAVING": "Rimozione di commenti e vietare l'utente ...",
+    "BAN_FAILURE": "Si è verificato un errore durante la rimozione del commento e vietare l'utente."
 }
