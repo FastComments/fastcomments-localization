@@ -77,7 +77,7 @@
     "COMMENT_MENU_DELETE": "Eliminar",
     "DELETE_CONFIRM": "Eliminar",
     "DELETED_PLACEHOLDER": "[eliminado]",
-    "DELETE_CONFIRMATION_MESSAGE": "¿Estás seguro de que quieres eliminar tu comentario?",
+    "DELETE_CONFIRMATION_MESSAGE": "¿Estás seguro de que quieres eliminar este comentario?",
     "DELETING": "Eliminando ...",
     "LOGIN_TO_DELETE": "Ha pasado un tiempo desde que dejaste este comentario. Inicie sesión para eliminar.",
     "DELETE_FAILURE": "¡No se pudo borrar! Por favor, inténtelo de nuevo más tarde.",
@@ -97,5 +97,16 @@
     "COMMENT_MENU_UNPIN": "Desprender",
     "LOG_IN_VOTE": "Iniciar sesión para votar",
     "COMMENTING_TOO_QUICKLY": "Estás comentando demasiado rápido. Por favor, espere un minuto y vuelva a intentarlo.",
-    "SUBMIT": "Enviar"
+    "SUBMIT": "Enviar",
+    "WEEK_AGO": "Hace 1 semana",
+    "COMMENT_MENU_BAN": "Prohibición",
+    "COMMENT_MENU_SPAM": "Correo no deseado",
+    "COMMENT_MENU_NOT_SPAM": "No spam",
+    "COMMENT_MENU_APPROVE": "Aprobar (mostrar)",
+    "COMMENT_MENU_UNAPPROVE": "No desfavorece (Ocultar)",
+    "BAN_CONFIRMATION_MESSAGE": "¿Está seguro de que desea eliminar este comentario y prohibir el usuario?",
+    "BAN_CONFIRM": "Confirmar la prohibición",
+    "BAN_SHADOW_CONFIRM": "Confirmar la prohibición de la sombra",
+    "BAN_SAVING": "Eliminar comentarios y prohibir al usuario ...",
+    "BAN_FAILURE": "Se produjo un error al eliminar ese comentario y prohibir el usuario."
 }

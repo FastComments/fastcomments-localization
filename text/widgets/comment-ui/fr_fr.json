@@ -77,7 +77,7 @@
     "COMMENT_MENU_DELETE": "Effacer",
     "DELETE_CONFIRM": "Effacer",
     "DELETED_PLACEHOLDER": "[supprimé]",
-    "DELETE_CONFIRMATION_MESSAGE": "Êtes-vous sûr de vouloir supprimer votre commentaire?",
+    "DELETE_CONFIRMATION_MESSAGE": "êtes-vous sûr de vouloir supprimer ce commentaire?",
     "DELETING": "Suppression ...",
     "LOGIN_TO_DELETE": "Cela fait un moment que vous n'avez pas laissé ce commentaire. Veuillez vous connecter pour supprimer.",
     "DELETE_FAILURE": "Échec de la suppression! Veuillez réessayer plus tard.",
@@ -97,5 +97,16 @@
     "COMMENT_MENU_UNPIN": "Détacher",
     "LOG_IN_VOTE": "Connectez-vous pour voter",
     "COMMENTING_TOO_QUICKLY": "Vous commenciez trop vite. Veuillez patienter une minute et réessayer.",
-    "SUBMIT": "Soumettre"
+    "SUBMIT": "Soumettre",
+    "WEEK_AGO": "Il ya 1 semaine",
+    "COMMENT_MENU_BAN": "Interdire",
+    "COMMENT_MENU_SPAM": "Pourriel",
+    "COMMENT_MENU_NOT_SPAM": "Pas de spam",
+    "COMMENT_MENU_APPROVE": "Approuver (montrer)",
+    "COMMENT_MENU_UNAPPROVE": "Non approuver (peau)",
+    "BAN_CONFIRMATION_MESSAGE": "Êtes-vous sûr de vouloir supprimer ce commentaire et interdire l'utilisateur?",
+    "BAN_CONFIRM": "Confirmer l'interdiction",
+    "BAN_SHADOW_CONFIRM": "Confirmer l'interdiction de l'ombre",
+    "BAN_SAVING": "Supprimer des commentaires et interdire l'utilisateur ...",
+    "BAN_FAILURE": "Une erreur s'est produite lors de la suppression de ce commentaire et de l'interdiction de l'utilisateur."
 }

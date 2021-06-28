@@ -77,7 +77,7 @@
     "COMMENT_MENU_DELETE": "Kasować",
     "DELETE_CONFIRM": "Kasować",
     "DELETED_PLACEHOLDER": "[usunięto]",
-    "DELETE_CONFIRMATION_MESSAGE": "Czy jesteś pewien, że chcesz usunąć komentarz?",
+    "DELETE_CONFIRMATION_MESSAGE": "Czy na pewno chcesz usunąć ten komentarz?",
     "DELETING": "Usuwam ...",
     "LOGIN_TO_DELETE": "Minęło trochę czasu, odkąd zostawiłeś ten komentarz. Zaloguj się, aby usunąć.",
     "DELETE_FAILURE": "Nie udało się usunąć! Spróbuj ponownie później.",
@@ -97,5 +97,16 @@
     "COMMENT_MENU_UNPIN": "Odpiąć",
     "LOG_IN_VOTE": "Zaloguj się, aby głosować",
     "COMMENTING_TOO_QUICKLY": "Komentujesz zbyt szybko. Poczekaj chwilę i spróbuj ponownie.",
-    "SUBMIT": "Zatwierdź"
+    "SUBMIT": "Zatwierdź",
+    "WEEK_AGO": "1 tydzień temu",
+    "COMMENT_MENU_BAN": "Zakaz",
+    "COMMENT_MENU_SPAM": "spam",
+    "COMMENT_MENU_NOT_SPAM": "Nie spam",
+    "COMMENT_MENU_APPROVE": "Zatwierdź (pokaż)",
+    "COMMENT_MENU_UNAPPROVE": "Niepakuję (Ukryj)",
+    "BAN_CONFIRMATION_MESSAGE": "Czy na pewno chcesz usunąć ten komentarz i zakazać użytkownikowi?",
+    "BAN_CONFIRM": "Potwierdź zakaz",
+    "BAN_SHADOW_CONFIRM": "Potwierdź zakaz cienia",
+    "BAN_SAVING": "Usuwanie komentarza i zakazujący użytkownik ...",
+    "BAN_FAILURE": "Wystąpił błąd podczas usuwania tego komentarza i zakazania użytkownika."
 }
