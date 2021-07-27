@@ -108,5 +108,6 @@
     "BAN_CONFIRM": "Confirmar la prohibición",
     "BAN_SHADOW_CONFIRM": "Confirmar la prohibición de la sombra",
     "BAN_SAVING": "Eliminar comentarios y prohibir al usuario ...",
-    "BAN_FAILURE": "Se produjo un error al eliminar ese comentario y prohibir el usuario."
+    "BAN_FAILURE": "Se produjo un error al eliminar ese comentario y prohibir el usuario.",
+    "INVALID_TENANT": "Los acompañamientos no se pudieron cargar: configuración no válida especificada. Compruebe que el 'tenantId' especificado es correcto."
 }

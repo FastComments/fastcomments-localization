@@ -108,5 +108,6 @@
   "BAN_CONFIRM": "Confirm Ban",
   "BAN_SHADOW_CONFIRM": "Confirm Shadow Ban",
   "BAN_SAVING": "Removing comment and banning user...",
-  "BAN_FAILURE": "An error occurred when removing that comment and banning the user."
+  "BAN_FAILURE": "An error occurred when removing that comment and banning the user.",
+  "INVALID_TENANT": "FastComments could not load - invalid configuration specified. Check that the 'tenantId' specified is correct."
 }

@@ -108,5 +108,6 @@
     "BAN_CONFIRM": "Verbot bestätigen",
     "BAN_SHADOW_CONFIRM": "Bestätigen Sie das Schattenverbot",
     "BAN_SAVING": "Kommentar entfernen und benutzer",
-    "BAN_FAILURE": "Beim Entfernen dieses Kommentars ist ein Fehler aufgetreten und den Benutzer zu verbieten."
+    "BAN_FAILURE": "Beim Entfernen dieses Kommentars ist ein Fehler aufgetreten und den Benutzer zu verbieten.",
+    "INVALID_TENANT": "Fastcentes konnte nicht laden - ungültige Konfiguration angegeben. Überprüfen Sie, ob das angegebene 'tenantId' angegeben ist."
 }
