@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 111,
+        "comment-ui": 114,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -296,7 +296,10 @@
         "t108": "BAN_SHADOW_CONFIRM",
         "t109": "BAN_SAVING",
         "t110": "BAN_FAILURE",
-        "t111": "INVALID_TENANT"
+        "t111": "INVALID_TENANT",
+        "t112": "LIVE",
+        "t113": "DISCONNECTED",
+        "t114": "USERS_ONLINE"
     },
     "recent-comments": {
         "t1": "AVATAR",

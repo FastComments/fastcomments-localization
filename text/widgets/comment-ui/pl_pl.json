@@ -109,5 +109,8 @@
     "BAN_SHADOW_CONFIRM": "Potwierdź zakaz cienia",
     "BAN_SAVING": "Usuwanie komentarza i zakazujący użytkownik ...",
     "BAN_FAILURE": "Wystąpił błąd podczas usuwania tego komentarza i zakazania użytkownika.",
-    "INVALID_TENANT": "Szafki nie mogły obciążyć - nieprawidłowa konfiguracja określona. Sprawdź, czy określono \"tenantId\" jest poprawny."
+    "INVALID_TENANT": "Szafki nie mogły obciążyć - nieprawidłowa konfiguracja określona. Sprawdź, czy określono \"tenantId\" jest poprawny.",
+    "LIVE": "Relacja na żywo",
+    "DISCONNECTED": "Złączony...",
+    "USERS_ONLINE": "[Liczba] Użytkownicy online"
 }
