@@ -112,5 +112,7 @@
     "INVALID_TENANT": "Szafki nie mogły obciążyć - nieprawidłowa konfiguracja określona. Sprawdź, czy określono \"tenantId\" jest poprawny.",
     "LIVE": "Relacja na żywo",
     "DISCONNECTED": "Złączony...",
-    "USERS_ONLINE": "[Liczba] Użytkownicy online"
+    "USERS_ONLINE": "[Liczba] Użytkownicy online",
+    "ONLINE": "online",
+    "USER_ONLINE": "[Count] Użytkownik online"
 }

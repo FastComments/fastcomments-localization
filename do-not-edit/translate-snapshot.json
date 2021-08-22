@@ -199,7 +199,9 @@
                 "INVALID_TENANT": "FastComments could not load - invalid configuration specified. Check that the 'tenantId' specified is correct.",
                 "LIVE": "Live",
                 "DISCONNECTED": "Connecting...",
-                "USERS_ONLINE": "[count] Users Online"
+                "USERS_ONLINE": "[count] Users Online",
+                "ONLINE": "Online",
+                "USER_ONLINE": "[count] User Online"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -551,7 +553,9 @@
                 "INVALID_TENANT": "FastComments could not load - invalid configuration specified. Check that the 'tenantId' specified is correct.",
                 "LIVE": "Live",
                 "DISCONNECTED": "Connecting...",
-                "USERS_ONLINE": "[count] Users Online"
+                "USERS_ONLINE": "[count] Users Online",
+                "ONLINE": "Online",
+                "USER_ONLINE": "[count] User Online"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -927,7 +931,9 @@
                 "INVALID_TENANT": "FastComments could not load - invalid configuration specified. Check that the 'tenantId' specified is correct.",
                 "LIVE": "Live",
                 "DISCONNECTED": "Connecting...",
-                "USERS_ONLINE": "[count] Users Online"
+                "USERS_ONLINE": "[count] Users Online",
+                "ONLINE": "Online",
+                "USER_ONLINE": "[count] User Online"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -1319,7 +1325,9 @@
                 "INVALID_TENANT": "FastComments could not load - invalid configuration specified. Check that the 'tenantId' specified is correct.",
                 "LIVE": "Live",
                 "DISCONNECTED": "Connecting...",
-                "USERS_ONLINE": "[count] Users Online"
+                "USERS_ONLINE": "[count] Users Online",
+                "ONLINE": "Online",
+                "USER_ONLINE": "[count] User Online"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -1661,7 +1669,9 @@
                 "INVALID_TENANT": "FastComments could not load - invalid configuration specified. Check that the 'tenantId' specified is correct.",
                 "LIVE": "Live",
                 "DISCONNECTED": "Connecting...",
-                "USERS_ONLINE": "[count] Users Online"
+                "USERS_ONLINE": "[count] Users Online",
+                "ONLINE": "Online",
+                "USER_ONLINE": "[count] User Online"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -1998,7 +2008,9 @@
                 "INVALID_TENANT": "FastComments could not load - invalid configuration specified. Check that the 'tenantId' specified is correct.",
                 "LIVE": "Live",
                 "DISCONNECTED": "Connecting...",
-                "USERS_ONLINE": "[count] Users Online"
+                "USERS_ONLINE": "[count] Users Online",
+                "ONLINE": "Online",
+                "USER_ONLINE": "[count] User Online"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",

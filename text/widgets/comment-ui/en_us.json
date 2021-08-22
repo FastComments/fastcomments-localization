@@ -111,6 +111,8 @@
   "BAN_FAILURE": "An error occurred when removing that comment and banning the user.",
   "INVALID_TENANT": "FastComments could not load - invalid configuration specified. Check that the 'tenantId' specified is correct.",
   "LIVE": "Live",
+  "ONLINE": "Online",
   "DISCONNECTED": "Connecting...",
+  "USER_ONLINE": "[count] User Online",
   "USERS_ONLINE": "[count] Users Online"
 }
