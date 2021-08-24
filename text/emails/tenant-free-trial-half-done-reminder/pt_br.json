@@ -1,0 +1,14 @@
+{
+    "INTRO": "Ei <%= tenantName %>",
+    "BANNER_TEXT": "Atualização de avaliação de FastComments.",
+    "FROM_NAME": "Robô experimental de FastComments.",
+    "SUBJECT": "FastComments Free Trial - 15 dias restantes",
+    "FRIENDLY_REMINDER": "Este é um lembrete amigável que você está na metade do seu julgamento gratuito.",
+    "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> Comentários foram deixados no (s) seu (s) site (s).",
+    "VOTES_GIVEN": "Houve <%= Number(voteCount).toLocaleString() %> votos nesses comentários.",
+    "USERS_SIGNED_UP": "Por último, mas não menos importante, <b> <%= Number(userCount).toLocaleString() %> usuários se inscreveram para usar FastComments através de <%= tenantName %> </ b>.",
+    "THANKS_FOR_CHOOSING_FC": "Obrigado por escolher <a href=\"https://fastcomments.com/auth/my-account\"> FastComments.com </a>.",
+    "UNSUBSCRIBE_FROM_THESE_ALERTS": "Cancelar a inscrição desses alertas.",
+    "SOME_STATS_SO_FAR": "Algumas estatísticas até agora",
+    "SIGN_IN_ENTER_BILLING_INFO": "Entrar e inserir informações de pagamento"
+}

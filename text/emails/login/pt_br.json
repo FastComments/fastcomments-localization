@@ -1,0 +1,13 @@
+{
+    "INTRO": "Ei <%= username %>,",
+    "NEW_USER_BANNER_TEXT": "Bem-vindo a FastComments.",
+    "BANNER_TEXT": "Link de login de FastComments.",
+    "FROM_NAME": "FastComments Robot.",
+    "NEW_USER_SUBJECT": "Bem-vindo a FastComments <%= username %>! Verifique e faça o login na sua conta aqui",
+    "SUBJECT": "Aqui está o seu link de login <%= username %>",
+    "NEW_USER_THANKS_FOR_SIGNING_UP": "Obrigado por se inscrever em FastComments.",
+    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "Por favor, <b> Verifique sua conta </b> clicando em <a href=\"<%= userVerifyUrl %>\"> este link </a>. Isso também irá assinar você.",
+    "CAN_CREATE_NEW_LINKS_HERE": "Você pode criar novos links para efetuar login na sua conta <a href=\"<%= HOST %>/auth/login/\"> aqui </a>.",
+    "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\"> Clique aqui </a> Para fazer o login para FastComments.",
+    "THAT_FULL_LINK_IS": "Esse link completo é: <%= userVerifyUrl %>"
+}

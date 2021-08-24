@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments ajudam bot",
+    "SUBJECT": "Solicitar a solicitação reconhecida pela equipe de suporte",
+    "HEY": "Ei <%= commenterUsername %>,",
+    "ACKNOWLEDGED_BY_ADMIN": "Parece que o agente de suporte com o nome de usuário \"<%= adminUsername %>\" reconheceu sua solicitação. Eles devem chegar a você em breve.",
+    "THANKS_FOR_USING_FC": "Obrigado por usar FastComments!",
+    "DONT_REPLY_TO_THIS": "Este email vem de uma caixa de e-mail única de saída - não responda a ela. Nós vamos alcançar você separadamente."
+}
