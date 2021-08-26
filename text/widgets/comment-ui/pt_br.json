@@ -37,7 +37,7 @@
     "COMMENTS_THIS_PAGE": " comentários",
     "COMMENT_THIS_PAGE": " Comente",
     "NEXT_30": "Carregue mais <span> 30 </ span>",
-    "LOAD_ALL": "Ver tudo <span> [Count] </ span>",
+    "LOAD_ALL": "Ver tudo <span> [count] </ span>",
     "ALREADY_VOTED": "Você já votou neste comentário.",
     "CLICK_THUMBS_UP": "Clique para os polegares para cima",
     "CLICK_THUMBS_DOWN": "Clique para os polegares para baixo",
@@ -113,6 +113,8 @@
     "LIVE": "Ao vivo",
     "ONLINE": "Conectados",
     "DISCONNECTED": "Conectando ...",
-    "USER_ONLINE": "[Contagem] Usuário Online",
-    "USERS_ONLINE": "[Contagem] usuários online"
+    "USER_ONLINE": "[count] Usuário Online",
+    "USERS_ONLINE": "[count] usuários online",
+    "SHOW_COMMENTS_BUTTON_TEXT": "Mostrar [count] comentário (s)",
+    "HIDE_COMMENTS_BUTTON_TEXT": "Ocultar [count] Comentário (s)"
 }

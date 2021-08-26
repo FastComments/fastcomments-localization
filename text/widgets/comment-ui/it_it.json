@@ -112,7 +112,9 @@
     "INVALID_TENANT": "I fastiscenti non possono caricare - Configurazione non valida specificata. Verificare che il \"tenantId\" specificato sia corretto.",
     "LIVE": "Vivere",
     "DISCONNECTED": "Connessione ...",
-    "USERS_ONLINE": "[conteggio] utenti online",
+    "USERS_ONLINE": "[count] utenti online",
     "ONLINE": "in linea",
-    "USER_ONLINE": "[conteggio] Utente online"
+    "USER_ONLINE": "[count] Utente online",
+    "SHOW_COMMENTS_BUTTON_TEXT": "Mostra [count] Commento (i)",
+    "HIDE_COMMENTS_BUTTON_TEXT": "Nascondi [count] Commento (s)"
 }

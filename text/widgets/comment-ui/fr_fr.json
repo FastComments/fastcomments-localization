@@ -112,7 +112,9 @@
     "INVALID_TENANT": "Les fixations ne pouvaient pas charger - une configuration non valide spécifiée. Vérifiez que le «tenantId» spécifié est correct.",
     "LIVE": "Vivre",
     "DISCONNECTED": "De liaison...",
-    "USERS_ONLINE": "[Nombre] utilisateurs en ligne",
+    "USERS_ONLINE": "[count] utilisateurs en ligne",
     "ONLINE": "En ligne",
-    "USER_ONLINE": "[Nombre] Utilisateur en ligne"
+    "USER_ONLINE": "[count] Utilisateur en ligne",
+    "SHOW_COMMENTS_BUTTON_TEXT": "Afficher [count] Commentaire (s)",
+    "HIDE_COMMENTS_BUTTON_TEXT": "Masquer [count] Commentaire (s)"
 }

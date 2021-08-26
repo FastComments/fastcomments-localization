@@ -112,7 +112,9 @@
     "INVALID_TENANT": "Fastcentes konnte nicht laden - ungültige Konfiguration angegeben. Überprüfen Sie, ob das angegebene 'tenantId' angegeben ist.",
     "LIVE": "Wohnen",
     "DISCONNECTED": "Anschließen ...",
-    "USERS_ONLINE": "[Anzahl] Benutzer online",
+    "USERS_ONLINE": "[count] Benutzer online",
     "ONLINE": "Online",
-    "USER_ONLINE": "[Count] Benutzer online"
+    "USER_ONLINE": "[count] Benutzer online",
+    "SHOW_COMMENTS_BUTTON_TEXT": "Show [count] Kommentar (s)",
+    "HIDE_COMMENTS_BUTTON_TEXT": "Hide [count] Kommentar (s)"
 }
