@@ -3,7 +3,7 @@
     "SUBJECT": "<%= comment.commenterName %> - Verifica il tuo commento.",
     "BANNER_TEXT": "Verifica il tuo commento",
     "INTRO": "Hey <%= comment.commenterName %>,",
-    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Sembra che tu abbia commentato un post <a href=\"<%= comment.url %>\"> qui </a>.",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Questa è un'e-mail automatica. Sembra che tu abbia commentato un post <a href=\"<%= comment.url %>\"> qui </a>. Se fai clic sul link di verifica qui sotto, ci aiuterà a sapere che sei stato tu che ha lasciato questo commento.",
     "VERIFY_YOUR_COMMENT_LINK": "Verifica il tuo commento",
     "WASNT_YOU_OR_REGRET": "Se non sei stato tu o ti penti di ciò che hai detto, ignora questa email e il commento verrà rimosso tra <%= removedInDays %> giorni.",
     "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> Rimuovi questo commento </a>",

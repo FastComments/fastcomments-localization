@@ -3,7 +3,7 @@
     "SUBJECT": "<%= comment.commenterName %> - Подтвердите свой комментарий.",
     "BANNER_TEXT": "Подтвердите свой комментарий",
     "INTRO": "Привет <%= comment.commenterName %>,",
-    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Похоже, вы прокомментировали сообщение <a href=\"<%= comment.url %>\"> здесь </a>.",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Это автоматическая электронная почта. Похоже, вы прокомментировали пост <a href=\"<%= comment.url %>\"> здесь </a>. Если вы нажмете ссылку «Подтверждение» ниже, это поможет нам знать, что вы оставили этот комментарий.",
     "VERIFY_YOUR_COMMENT_LINK": "Подтвердите свой комментарий",
     "WASNT_YOU_OR_REGRET": "Если это не вы или вы сожалеете о том, что сказали, проигнорируйте это письмо, и комментарий будет удален через <%= removedInDays %> дней.",
     "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> Удалить этот комментарий </a>",

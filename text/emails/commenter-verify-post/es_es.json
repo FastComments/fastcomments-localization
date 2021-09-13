@@ -1,7 +1,7 @@
 {
     "SUBJECT": "<%= comment.commenterName %> - Verifica tu comentario.",
     "INTRO": "Oye <%= comment.commenterName %>,",
-    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Parece que has comentado una publicación <a href=\"<%= comment.url %>\"> aquí </a>.",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Este es un correo electrónico automatizado. Parece que comentó en una publicación <a href=\"<%= comment.url %>\"> aquí </a>. Si hace clic en el enlace de verificación a continuación, nos ayudará a saber que fue usted que dejó este comentario.",
     "VERIFY_YOUR_COMMENT_LINK": "Verifica tu comentario",
     "WASNT_YOU_OR_REGRET": "Si no fue usted o si lamenta lo que dijo, ignore este correo electrónico y el comentario se eliminará en <%= removedInDays %> días.",
     "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> Eliminar este comentario </a>",

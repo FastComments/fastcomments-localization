@@ -3,7 +3,7 @@
   "SUBJECT": "<%= comment.commenterName %> - Verify your comment.",
   "BANNER_TEXT": "Verify Your Comment",
   "INTRO": "Hey <%= comment.commenterName %>,",
-  "LOOKS_LIKE_YOU_COMMENTED_HERE": "It looks like you commented on a post <a href=\"<%= comment.url %>\">here</a>.",
+  "LOOKS_LIKE_YOU_COMMENTED_HERE": "This is an automated email. It looks like you commented on a post <a href=\"<%= comment.url %>\">here</a>. If you click the verification link below, it'll help us know that it was you that left this comment.",
   "VERIFY_YOUR_COMMENT_LINK": "Verify Your Comment",
   "WASNT_YOU_OR_REGRET": "If this wasn't you or you regret what you said ignore this email and the comment will be removed in <%= removedInDays %> days.",
   "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">Remove This Comment</a>",

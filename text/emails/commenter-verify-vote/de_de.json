@@ -2,7 +2,7 @@
     "INTRO": "Hallo <%= commenterName %>,",
     "BANNER_TEXT": "Überprüfen Sie Ihre Stimme",
     "SUBJECT": "<%= commenterName %> - Überprüfen Sie Ihre Stimme.",
-    "LOOKS_LIKE_YOU_VOTED_HERE": "Es sieht so aus, als hätten Sie über einen Beitrag <a href=\"<%= url %>\"> hier </a> abgestimmt.",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Es sieht so aus, als hätten Sie auf einem Beitrag gestimmt <a href=\"<%= url %>\"> hier </a>. Wenn Sie auf den Verifizierungslink unten klicken, hilft uns, dass Sie wissen, dass Sie diese Abstimmung hinterlassen haben.",
     "VERIFY_YOUR_VOTE_LINK": "Überprüfen Sie Ihre Stimme",
     "WAS_YOU_IGNORE_THIS_EMAIL": "Wenn dies nicht der Fall war, ignorieren Sie diese E-Mail.",
     "THANKS_SO_MUCH": "Vielen Dank!",
