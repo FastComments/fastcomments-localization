@@ -1,0 +1,23 @@
+{
+    "MODERATION_OPTION_BAN_VIA_EMAIL": "Per E-Mail / Konto sperren",
+    "MODERATION_NO_EMAIL": "Dies ist ein anonymer Kommentar. Es ist keine E-Mail oder kein Konto zum Sperren verfügbar.",
+    "MODERATION_OPTION_BAN_VIA_IP": "Über IP sperren",
+    "MODERATION_NO_IP": "Es ist keine IP zum Sperren verfügbar.",
+    "MODERATION_BAN_ALL_EMAIL_DOMAIN": "Alle [Domain]-Benutzer sperren",
+    "MODERATION_BAN_TYPE": "Verbot Typ",
+    "MODERATION_BAN_TYPE_BAN": "Verbot",
+    "MODERATION_BAN_TYPE_SHADOW_BAN": "Schattenverbot",
+    "MODERATION_BAN_DURATION": "Sperrdauer",
+    "MODERATION_BAN_DURATION_FOREVER": "Bis in alle Ewigkeit",
+    "MODERATION_BAN_DURATION_ONE_HOUR": "Eine Stunde",
+    "MODERATION_BAN_DURATION_ONE_DAY": "Eines Tages",
+    "MODERATION_BAN_DURATION_ONE_WEEK": "Eine Woche",
+    "MODERATION_BAN_DURATION_ONE_MONTH": "Ein Monat",
+    "MODERATION_BAN_DURATION_SIX_MONTHS": "Sechs Monate",
+    "MODERATION_BAN_DURATION_ONE_YEAR": "Ein Jahr",
+    "MODERATION_BAN_DELETES_COMMENT_NOTE": "Durch das Sperren dieses Benutzers wird auch dieser Kommentar gelöscht.",
+    "BAN_CONFIRMATION_MESSAGE": "Möchten Sie diesen Kommentar wirklich löschen und den Benutzer sperren?",
+    "BAN_CONFIRM": "Sperre bestätigen",
+    "BAN_SAVING": "Kommentar entfernen und Benutzer sperren...",
+    "BAN_FAILURE": "Beim Entfernen dieses Kommentars und Sperren des Benutzers ist ein Fehler aufgetreten."
+}

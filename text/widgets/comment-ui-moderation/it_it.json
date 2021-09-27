@@ -1,0 +1,23 @@
+{
+    "MODERATION_OPTION_BAN_VIA_EMAIL": "Esclusione tramite e-mail/account",
+    "MODERATION_NO_EMAIL": "Questo è un commento anonimo. Nessuna e-mail o account è disponibile per il divieto.",
+    "MODERATION_OPTION_BAN_VIA_IP": "Ban tramite IP",
+    "MODERATION_NO_IP": "Nessun IP è disponibile per il divieto.",
+    "MODERATION_BAN_ALL_EMAIL_DOMAIN": "Escludi tutti gli utenti [dominio]",
+    "MODERATION_BAN_TYPE": "Tipo di divieto",
+    "MODERATION_BAN_TYPE_BAN": "Bandire",
+    "MODERATION_BAN_TYPE_SHADOW_BAN": "Ban ombra",
+    "MODERATION_BAN_DURATION": "Durata del divieto",
+    "MODERATION_BAN_DURATION_FOREVER": "Per sempre",
+    "MODERATION_BAN_DURATION_ONE_HOUR": "Un'ora",
+    "MODERATION_BAN_DURATION_ONE_DAY": "Un giorno",
+    "MODERATION_BAN_DURATION_ONE_WEEK": "Una settimana",
+    "MODERATION_BAN_DURATION_ONE_MONTH": "Un mese",
+    "MODERATION_BAN_DURATION_SIX_MONTHS": "Sei mesi",
+    "MODERATION_BAN_DURATION_ONE_YEAR": "Un anno",
+    "MODERATION_BAN_DELETES_COMMENT_NOTE": "Il divieto di questo utente cancellerà anche questo commento.",
+    "BAN_CONFIRMATION_MESSAGE": "Sei sicuro di voler eliminare questo commento e bannare l'utente?",
+    "BAN_CONFIRM": "Conferma Ban",
+    "BAN_SAVING": "Rimozione del commento e blocco dell'utente in corso...",
+    "BAN_FAILURE": "Si è verificato un errore durante la rimozione del commento e l'esclusione dell'utente."
+}

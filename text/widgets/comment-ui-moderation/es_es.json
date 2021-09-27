@@ -1,0 +1,23 @@
+{
+    "MODERATION_OPTION_BAN_VIA_EMAIL": "Prohibir por correo electrónico / cuenta",
+    "MODERATION_NO_EMAIL": "Este es un comentario anónimo. No hay correo electrónico o cuenta disponible para prohibir.",
+    "MODERATION_OPTION_BAN_VIA_IP": "Prohibir a través de IP",
+    "MODERATION_NO_IP": "No hay IP disponible para prohibir.",
+    "MODERATION_BAN_ALL_EMAIL_DOMAIN": "Prohibir a todos los usuarios de [dominio]",
+    "MODERATION_BAN_TYPE": "Tipo de prohibicion",
+    "MODERATION_BAN_TYPE_BAN": "Prohibición",
+    "MODERATION_BAN_TYPE_SHADOW_BAN": "Prohibición de las Sombras",
+    "MODERATION_BAN_DURATION": "Duración de la prohibición",
+    "MODERATION_BAN_DURATION_FOREVER": "Para siempre",
+    "MODERATION_BAN_DURATION_ONE_HOUR": "Una hora",
+    "MODERATION_BAN_DURATION_ONE_DAY": "Un día",
+    "MODERATION_BAN_DURATION_ONE_WEEK": "Una semana",
+    "MODERATION_BAN_DURATION_ONE_MONTH": "Un mes",
+    "MODERATION_BAN_DURATION_SIX_MONTHS": "Seis meses",
+    "MODERATION_BAN_DURATION_ONE_YEAR": "Un año",
+    "MODERATION_BAN_DELETES_COMMENT_NOTE": "Prohibir a este usuario también eliminará este comentario.",
+    "BAN_CONFIRMATION_MESSAGE": "¿Está seguro de que desea eliminar este comentario y bloquear al usuario?",
+    "BAN_CONFIRM": "Confirmar prohibición",
+    "BAN_SAVING": "Eliminando el comentario y prohibiendo al usuario ...",
+    "BAN_FAILURE": "Se produjo un error al eliminar ese comentario y prohibir al usuario."
+}

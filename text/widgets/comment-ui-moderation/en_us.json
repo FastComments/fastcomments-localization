@@ -1,0 +1,23 @@
+{
+  "MODERATION_OPTION_BAN_VIA_EMAIL": "Ban Via Email / Account",
+  "MODERATION_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
+  "MODERATION_OPTION_BAN_VIA_IP": "Ban Via IP",
+  "MODERATION_NO_IP": "No IP is available to ban.",
+  "MODERATION_BAN_ALL_EMAIL_DOMAIN": "Ban All [domain] Users",
+  "MODERATION_BAN_TYPE": "Ban Type",
+  "MODERATION_BAN_TYPE_BAN": "Ban",
+  "MODERATION_BAN_TYPE_SHADOW_BAN": "Shadow Ban",
+  "MODERATION_BAN_DURATION": "Ban Duration",
+  "MODERATION_BAN_DURATION_FOREVER": "Forever",
+  "MODERATION_BAN_DURATION_ONE_HOUR": "One Hour",
+  "MODERATION_BAN_DURATION_ONE_DAY": "One Day",
+  "MODERATION_BAN_DURATION_ONE_WEEK": "One Week",
+  "MODERATION_BAN_DURATION_ONE_MONTH": "One Month",
+  "MODERATION_BAN_DURATION_SIX_MONTHS": "Six Months",
+  "MODERATION_BAN_DURATION_ONE_YEAR": "One Year",
+  "MODERATION_BAN_DELETES_COMMENT_NOTE": "Banning this user will also delete this comment.",
+  "BAN_CONFIRMATION_MESSAGE": "Are you sure you want to delete this comment and ban the user?",
+  "BAN_CONFIRM": "Confirm Ban",
+  "BAN_SAVING": "Removing comment and banning user...",
+  "BAN_FAILURE": "An error occurred when removing that comment and banning the user."
+}

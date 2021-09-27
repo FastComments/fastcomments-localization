@@ -1,0 +1,23 @@
+{
+    "MODERATION_OPTION_BAN_VIA_EMAIL": "Zablokuj przez e-mail / konto",
+    "MODERATION_NO_EMAIL": "To jest anonimowy komentarz. Żaden e-mail ani konto nie są dostępne do zablokowania.",
+    "MODERATION_OPTION_BAN_VIA_IP": "Zablokuj przez IP",
+    "MODERATION_NO_IP": "Żaden adres IP nie jest dostępny do zablokowania.",
+    "MODERATION_BAN_ALL_EMAIL_DOMAIN": "Zablokuj wszystkich użytkowników [domena]",
+    "MODERATION_BAN_TYPE": "Rodzaj zakazu",
+    "MODERATION_BAN_TYPE_BAN": "Zakaz",
+    "MODERATION_BAN_TYPE_SHADOW_BAN": "Cień Ban",
+    "MODERATION_BAN_DURATION": "Czas trwania zakazu",
+    "MODERATION_BAN_DURATION_FOREVER": "Na zawsze",
+    "MODERATION_BAN_DURATION_ONE_HOUR": "Jedna godzina",
+    "MODERATION_BAN_DURATION_ONE_DAY": "Pewnego dnia",
+    "MODERATION_BAN_DURATION_ONE_WEEK": "Jeden tydzień",
+    "MODERATION_BAN_DURATION_ONE_MONTH": "Jeden miesiąc",
+    "MODERATION_BAN_DURATION_SIX_MONTHS": "Sześć miesięcy",
+    "MODERATION_BAN_DURATION_ONE_YEAR": "Rok",
+    "MODERATION_BAN_DELETES_COMMENT_NOTE": "Zablokowanie tego użytkownika spowoduje również usunięcie tego komentarza.",
+    "BAN_CONFIRMATION_MESSAGE": "Czy na pewno chcesz usunąć ten komentarz i zablokować użytkownika?",
+    "BAN_CONFIRM": "Potwierdź zakaz",
+    "BAN_SAVING": "Usuwanie komentarza i blokowanie użytkownika...",
+    "BAN_FAILURE": "Wystąpił błąd podczas usuwania tego komentarza i blokowania użytkownika."
+}

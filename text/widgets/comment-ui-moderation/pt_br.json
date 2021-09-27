@@ -1,0 +1,23 @@
+{
+    "MODERATION_OPTION_BAN_VIA_EMAIL": "Banir via e-mail / conta",
+    "MODERATION_NO_EMAIL": "Este é um comentário anônimo. Nenhum email ou conta está disponível para banir.",
+    "MODERATION_OPTION_BAN_VIA_IP": "Ban via IP",
+    "MODERATION_NO_IP": "Nenhum IP está disponível para banir.",
+    "MODERATION_BAN_ALL_EMAIL_DOMAIN": "Banir todos os usuários [domínio]",
+    "MODERATION_BAN_TYPE": "Tipo de Banimento",
+    "MODERATION_BAN_TYPE_BAN": "Banimento",
+    "MODERATION_BAN_TYPE_SHADOW_BAN": "Shadow Ban",
+    "MODERATION_BAN_DURATION": "Duração do Ban",
+    "MODERATION_BAN_DURATION_FOREVER": "Para sempre",
+    "MODERATION_BAN_DURATION_ONE_HOUR": "Uma hora",
+    "MODERATION_BAN_DURATION_ONE_DAY": "Um dia",
+    "MODERATION_BAN_DURATION_ONE_WEEK": "Uma semana",
+    "MODERATION_BAN_DURATION_ONE_MONTH": "Um mês",
+    "MODERATION_BAN_DURATION_SIX_MONTHS": "Seis meses",
+    "MODERATION_BAN_DURATION_ONE_YEAR": "Um ano",
+    "MODERATION_BAN_DELETES_COMMENT_NOTE": "Banir este usuário também excluirá este comentário.",
+    "BAN_CONFIRMATION_MESSAGE": "Tem certeza que deseja excluir este comentário e banir o usuário?",
+    "BAN_CONFIRM": "Confirmar banimento",
+    "BAN_SAVING": "Removendo comentário e banindo usuário ...",
+    "BAN_FAILURE": "Ocorreu um erro ao remover esse comentário e banir o usuário."
+}
