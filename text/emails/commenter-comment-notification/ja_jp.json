@@ -1,0 +1,10 @@
+{
+    "INTRO": "おい <%= username %>、",
+    "BANNER_TEXT": "コメントの返信-最後の1時間",
+    "PAST_HOUR_COMMENT_COUNT": "過去1時間に、<% if(replyCount > 1) { %>コメント<% } else { %>コメント<% } %>に対する<% if(commentsSummary.length > 1) {%>いくつかの返信<% } else { %>返信<% } %>がありました。",
+    "FROM_NAME": "FastCommentsロボット",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %><% if(replyCount === 1) {%>新しい返信<% } else { %>新しい返信<% } %>から<% if(replyCount > 1) { %>あなたのコメント<% } else {%>あなたのコメント<% } %>",
+    "VIEW_REPLIES": "返信を表示",
+    "DISABLE_NOTIFICATIONS_FOR_COMMENT": "このコメントの通知を無効にする",
+    "UNSUBSCRIBE_HERE": "ここでこれらの電子メールにログインして購読を解除します"
+}

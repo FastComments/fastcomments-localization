@@ -1,0 +1,21 @@
+{
+    "FROM_NAME": "FastCommentsロボット",
+    "SUBJECT": "<%= comment.commenterName %>-コメントを確認します。",
+    "BANNER_TEXT": "コメントを確認する",
+    "INTRO": "おい <%= comment.commenterName %>、",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "これは自動化された電子メールです。<a href=\"<%= comment.url %>\">ここに</a>投稿にコメントしたようです。下の確認リンクをクリックすると、このコメントを残したのはあなたであることがわかります。",
+    "VERIFY_YOUR_COMMENT_LINK": "コメントを確認する",
+    "WASNT_YOU_OR_REGRET": "これがあなたではなかった場合、またはあなたが言ったことを後悔している場合は、このメールを無視してください。コメントは<%= removedInDays %>日以内に削除されます。",
+    "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">このコメントを削除</a>",
+    "THANKS_SO_MUCH": "本当にありがとう！",
+    "JUST_NOW": "ちょうど今",
+    "ONE_MINUTE_AGO": "1分前",
+    "MINUTES_AGO": "  数分前",
+    "ONE_HOUR_AGO": "1時間前",
+    "HOURS_AGO": "  時間前",
+    "YESTERDAY": "昨日",
+    "DAYS_AGO": "  数日前",
+    "WEEKS_AGO": "  何週間前",
+    "MONTHS_AGO": "  数か月前",
+    "YEARS_AGO": "  数年前"
+}

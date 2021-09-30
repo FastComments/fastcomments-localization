@@ -1,0 +1,8 @@
+{
+    "INTRO": "おい <%= username %>、",
+    "FROM_NAME": "FastCommentsロボット",
+    "SUBJECT": "<%= tenantName %>に招待されました！",
+    "BANNER_TEXT": "FastComments Invite",
+    "INVITE_DETAILS": "FastCommentsテナント<%= tenantName %>に招待されました。この招待を受け入れると、次の権限を持つアカウントが作成されます。",
+    "ACCEPT_INVITE": "招待を受け入れる"
+}

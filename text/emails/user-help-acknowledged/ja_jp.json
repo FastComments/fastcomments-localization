@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastCommentsヘルプボット",
+    "SUBJECT": "サポートスタッフによるヘルプリクエストの確認",
+    "HEY": "おい <%= commenterUsername %>、",
+    "ACKNOWLEDGED_BY_ADMIN": "ユーザー名「<%= adminUsername %>」のサポートエージェントがリクエストを承認したようです。彼らはまもなくあなたに連絡するはずです。",
+    "THANKS_FOR_USING_FC": "FastCommentsをご利用いただきありがとうございます。",
+    "DONT_REPLY_TO_THIS": "このメールは送信専用のメールボックスから送信されます。返信しないでください。別途ご連絡いたします。"
+}

@@ -1,0 +1,13 @@
+{
+    "INTRO": "おい <%= username %>、",
+    "FROM_NAME": "FastCommentsロボット",
+    "YOU_HAVE_NEW_COMMENTS": "新しいコメントがあります！",
+    "BANNER_TEXT": "新しいコメント-最後の1時間",
+    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %><% if(commentCount === 1) {%>新しいコメント<% } else { %>新しいコメント<% } %>",
+    "UNSUBSCRIBE_HERE": "ここでこれらの電子メールにログインして購読を解除します",
+    "APPROVE_COMMENT": "承認",
+    "VIEW_COMMENT": "コメントを見る",
+    "HERE_ARE_LINKS_TO_PAGES": "これらのコメントが掲載されているページへのリンクと、それぞれのコメントの数を次に示します。",
+    "PAGE": "ページ",
+    "NEW_COMMENTS": "新しいコメント"
+}

@@ -1,0 +1,23 @@
+{
+    "MODERATION_OPTION_BAN_VIA_EMAIL": "メール/アカウントによる禁止",
+    "MODERATION_NO_EMAIL": "これは匿名のコメントです。禁止できるメールやアカウントはありません。",
+    "MODERATION_OPTION_BAN_VIA_IP": "IP経由で禁止",
+    "MODERATION_NO_IP": "禁止できるIPはありません。",
+    "MODERATION_BAN_ALL_EMAIL_DOMAIN": "すべての[ドメイン]ユーザーを禁止する",
+    "MODERATION_BAN_TYPE": "禁止タイプ",
+    "MODERATION_BAN_TYPE_BAN": "禁止",
+    "MODERATION_BAN_TYPE_SHADOW_BAN": "シャドウバン",
+    "MODERATION_BAN_DURATION": "禁止期間",
+    "MODERATION_BAN_DURATION_FOREVER": "永遠に",
+    "MODERATION_BAN_DURATION_ONE_HOUR": "一時間",
+    "MODERATION_BAN_DURATION_ONE_DAY": "ある日",
+    "MODERATION_BAN_DURATION_ONE_WEEK": "一週間",
+    "MODERATION_BAN_DURATION_ONE_MONTH": "一か月",
+    "MODERATION_BAN_DURATION_SIX_MONTHS": "六ヶ月",
+    "MODERATION_BAN_DURATION_ONE_YEAR": "1年",
+    "MODERATION_BAN_DELETES_COMMENT_NOTE": "このユーザーを禁止すると、このコメントも削除されます。",
+    "BAN_CONFIRMATION_MESSAGE": "このコメントを削除してユーザーを禁止してもよろしいですか？",
+    "BAN_CONFIRM": "禁止の確認",
+    "BAN_SAVING": "コメントを削除してユーザーを禁止...",
+    "BAN_FAILURE": "そのコメントを削除してユーザーを禁止すると、エラーが発生しました。"
+}

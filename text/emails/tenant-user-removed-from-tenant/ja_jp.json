@@ -1,0 +1,7 @@
+{
+    "INTRO": "おい <%= username %>、",
+    "BANNER_TEXT": "FastComments通知",
+    "FROM_NAME": "FastCommentsロボット",
+    "SUBJECT": "<%= tenantName %>から削除されました",
+    "REMOVED_AS_ADMIN": "<%= tenantName %>からユーザーとして削除されたようです。 FastCommentsアカウントはコメント投稿者として保持されますが、<%= tenantName %>にアクセスできなくなります。"
+}

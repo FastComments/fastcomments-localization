@@ -1,0 +1,10 @@
+{
+    "SUBJECT": "FastComments <%= commenterName %>へようこそ！",
+    "BANNER_TEXT": "FastCommentsへようこそ",
+    "INTRO": "おい <%= commenterName %>、",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "<a href=\"<%= url %>\">ここ</a>の投稿に投票したようです。",
+    "VERIFY_YOUR_ACCOUNT": "アカウントを確認する",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "<a href=\"<%= FC_DOMAIN %>/auth/login/\">ここで</a>アカウントにログインするための新しいリンクを作成できます。",
+    "WASNT_YOU_IGNORE_EMAIL": "そうでない場合は、このメールを無視してください。",
+    "THANKS_SO_MUCH": "本当にありがとう！"
+}
