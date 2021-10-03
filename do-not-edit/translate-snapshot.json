@@ -378,6 +378,13 @@
                 "BAN_CONFIRM": "Confirm Ban",
                 "BAN_SAVING": "Removing comment and banning user...",
                 "BAN_FAILURE": "An error occurred when removing that comment and banning the user."
+            },
+            "comment-user-mention": {
+                "SUBJECT": "You've been tagged in a comment.",
+                "BANNER_TEXT": "You've been tagged.",
+                "INTRO": "Hey <%= username %>,",
+                "VIEW_COMMENT": "View Comment",
+                "SOMEONE_TAGGED_YOU": "Someone has tagged you."
             }
         },
         "es_es": {
@@ -758,6 +765,13 @@
                 "BAN_CONFIRM": "Confirm Ban",
                 "BAN_SAVING": "Removing comment and banning user...",
                 "BAN_FAILURE": "An error occurred when removing that comment and banning the user."
+            },
+            "comment-user-mention": {
+                "SUBJECT": "You've been tagged in a comment.",
+                "BANNER_TEXT": "You've been tagged.",
+                "INTRO": "Hey <%= username %>,",
+                "VIEW_COMMENT": "View Comment",
+                "SOMEONE_TAGGED_YOU": "Someone has tagged you."
             }
         },
         "pl_pl": {
@@ -1122,6 +1136,13 @@
                 "BAN_CONFIRM": "Confirm Ban",
                 "BAN_SAVING": "Removing comment and banning user...",
                 "BAN_FAILURE": "An error occurred when removing that comment and banning the user."
+            },
+            "comment-user-mention": {
+                "SUBJECT": "You've been tagged in a comment.",
+                "BANNER_TEXT": "You've been tagged.",
+                "INTRO": "Hey <%= username %>,",
+                "VIEW_COMMENT": "View Comment",
+                "SOMEONE_TAGGED_YOU": "Someone has tagged you."
             }
         },
         "de_de": {
@@ -1484,6 +1505,13 @@
                 "BAN_CONFIRM": "Confirm Ban",
                 "BAN_SAVING": "Removing comment and banning user...",
                 "BAN_FAILURE": "An error occurred when removing that comment and banning the user."
+            },
+            "comment-user-mention": {
+                "SUBJECT": "You've been tagged in a comment.",
+                "BANNER_TEXT": "You've been tagged.",
+                "INTRO": "Hey <%= username %>,",
+                "VIEW_COMMENT": "View Comment",
+                "SOMEONE_TAGGED_YOU": "Someone has tagged you."
             }
         },
         "it_it": {
@@ -1846,6 +1874,13 @@
                 "BAN_CONFIRM": "Confirm Ban",
                 "BAN_SAVING": "Removing comment and banning user...",
                 "BAN_FAILURE": "An error occurred when removing that comment and banning the user."
+            },
+            "comment-user-mention": {
+                "SUBJECT": "You've been tagged in a comment.",
+                "BANNER_TEXT": "You've been tagged.",
+                "INTRO": "Hey <%= username %>,",
+                "VIEW_COMMENT": "View Comment",
+                "SOMEONE_TAGGED_YOU": "Someone has tagged you."
             }
         },
         "ru_ru": {
@@ -2208,6 +2243,13 @@
                 "BAN_CONFIRM": "Confirm Ban",
                 "BAN_SAVING": "Removing comment and banning user...",
                 "BAN_FAILURE": "An error occurred when removing that comment and banning the user."
+            },
+            "comment-user-mention": {
+                "SUBJECT": "You've been tagged in a comment.",
+                "BANNER_TEXT": "You've been tagged.",
+                "INTRO": "Hey <%= username %>,",
+                "VIEW_COMMENT": "View Comment",
+                "SOMEONE_TAGGED_YOU": "Someone has tagged you."
             }
         },
         "pt_br": {
@@ -2568,6 +2610,13 @@
                 "BAN_CONFIRM": "Confirm Ban",
                 "BAN_SAVING": "Removing comment and banning user...",
                 "BAN_FAILURE": "An error occurred when removing that comment and banning the user."
+            },
+            "comment-user-mention": {
+                "SUBJECT": "You've been tagged in a comment.",
+                "BANNER_TEXT": "You've been tagged.",
+                "INTRO": "Hey <%= username %>,",
+                "VIEW_COMMENT": "View Comment",
+                "SOMEONE_TAGGED_YOU": "Someone has tagged you."
             }
         },
         "ja_jp": {
@@ -2923,6 +2972,13 @@
             },
             "top-pages": {
                 "NO_PAGES_WITH_COMMENTS": "No pages with comments..."
+            },
+            "comment-user-mention": {
+                "SUBJECT": "You've been tagged in a comment.",
+                "BANNER_TEXT": "You've been tagged.",
+                "INTRO": "Hey <%= username %>,",
+                "VIEW_COMMENT": "View Comment",
+                "SOMEONE_TAGGED_YOU": "Someone has tagged you."
             }
         }
     }

@@ -19,7 +19,8 @@
         "common": 1,
         "tenant-user-removed-from-tenant": 5,
         "tenant-user-invite": 6,
-        "tenant-new-user-invite": 6
+        "tenant-new-user-invite": 6,
+        "comment-user-mention": 5
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -375,5 +376,12 @@
         "t138": "BAN_CONFIRM",
         "t139": "BAN_SAVING",
         "t140": "BAN_FAILURE"
+    },
+    "comment-user-mention": {
+        "t1": "SUBJECT",
+        "t2": "BANNER_TEXT",
+        "t3": "INTRO",
+        "t4": "VIEW_COMMENT",
+        "t5": "SOMEONE_TAGGED_YOU"
     }
 }
