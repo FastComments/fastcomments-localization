@@ -8,7 +8,7 @@
         "forgot-username": 5,
         "login": 11,
         "tenant-comment-digest": 24,
-        "tenant-comment-notification": 12,
+        "tenant-comment-notification": 13,
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
@@ -154,7 +154,8 @@
         "t9": "VIEW_COMMENT",
         "t10": "HERE_ARE_LINKS_TO_PAGES",
         "t11": "PAGE",
-        "t12": "NEW_COMMENTS"
+        "t12": "NEW_COMMENTS",
+        "t13": "MODERATE_COMMENTS"
     },
     "tenant-free-trial-expired-reminder": {
         "t1": "INTRO",
