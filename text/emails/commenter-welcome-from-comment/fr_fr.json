@@ -2,7 +2,6 @@
     "SUBJECT": "Bienvenue sur FastComments <%= comment.commenterName %>!",
     "INTRO": "Salut <%= comment.commenterName %>,",
     "LOOKS_LIKE_YOU_COMMENTED_HERE": "Il semble que vous ayez commenté un post <a href=\"<%= comment.url %>\"> ici </a>.",
-    "VERIFY_YOUR_ACCOUNT_LINK": "Veuillez <b> valider votre compte </b> en cliquant sur <a href=\"<%= userVerifyUrl %>\"> ce lien </a> ou le lien dans l'e-mail de vérification de votre message.",
     "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "Vous pouvez créer de nouveaux liens pour vous connecter à votre compte <a href=\"<%= FC_DOMAIN %>/auth/login/\"> ici </a>.",
     "WASNT_YOU_OR_REGRET": "Si ce n'était pas vous ou si vous regrettez ce que vous avez dit, ignorez cet e-mail et le commentaire sera supprimé dans <%= removedInDays %> jours.",
     "REMOVE_COMMENT": "Si vous souhaitez supprimer ce commentaire maintenant, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> cliquez ici </a>",

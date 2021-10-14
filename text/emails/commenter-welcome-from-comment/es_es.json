@@ -1,7 +1,6 @@
 {
     "INTRO": "Oye <%= comment.commenterName %>,",
     "LOOKS_LIKE_YOU_COMMENTED_HERE": "Parece que has comentado una publicación <a href=\"<%= comment.url %>\"> aquí </a>.",
-    "VERIFY_YOUR_ACCOUNT_LINK": "<b> verifique su cuenta </b> haciendo clic en <a href=\"<%= userVerifyUrl %>\"> este enlace </a> o en el enlace del correo electrónico de verificación de su publicación.",
     "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "Puede crear nuevos enlaces para iniciar sesión en su cuenta <a href=\"<%= FC_DOMAIN %>/auth/login/\"> aquí </a>.",
     "WASNT_YOU_OR_REGRET": "Si no fue usted o si lamenta lo que dijo, ignore este correo electrónico y el comentario se eliminará en <%= removedInDays %> días.",
     "REMOVE_COMMENT": "Si desea eliminar este comentario ahora, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> haga clic aquí </a>",
