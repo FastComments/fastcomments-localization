@@ -1,0 +1,22 @@
+{
+    "SUBJECT": "FastComments'a Hoş Geldiniz <%= comment.commenterName %>!",
+    "BANNER_TEXT": "FastComments'a Hoş Geldiniz",
+    "INTRO": "Merhaba <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "<a href=\"<%= comment.url %>\">Görünüşe göre burada</a> bir gönderiye yorum yapmışsın.",
+    "VERIFY_YOUR_ACCOUNT": "Hesabınızı doğrulayın",
+    "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "<a href=\"<%= FC_DOMAIN %>/auth/login/\">Burada</a> hesabınıza giriş yapmak için yeni bağlantılar oluşturabilirsiniz.",
+    "WASNT_YOU_OR_REGRET": "Bu siz değilseniz veya söylediklerinizden pişmansanız bu e-postayı dikkate almayın; yorum <%= removedInDays %> gün içinde kaldırılacaktır.",
+    "REMOVE_COMMENT": "Bu yorumu şimdi kaldırmak istiyorsanız, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">burayı tıklayın</a>",
+    "THANKS_SO_MUCH": "Çok teşekkürler!",
+    "USING_NAME_YOU_SAID": "\"<%= comment.commenterName %>\" adını kullanarak şunları söylediniz:",
+    "JUST_NOW": "Şu anda",
+    "ONE_MINUTE_AGO": "1 dakika önce",
+    "MINUTES_AGO": "  dakika önce",
+    "ONE_HOUR_AGO": "1 saat önce",
+    "HOURS_AGO": "  saatler önce",
+    "YESTERDAY": "Dün",
+    "DAYS_AGO": "  günler önce",
+    "WEEKS_AGO": "  haftalar önce",
+    "MONTHS_AGO": "  aylar önce",
+    "YEARS_AGO": "  Yıllar önce"
+}

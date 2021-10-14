@@ -1,0 +1,10 @@
+{
+    "FROM_NAME": "HızlıYorumlar Robotu",
+    "INTRO": "Merhaba <%= commenterName %>,",
+    "BANNER_TEXT": "Oyunuzu Doğrulayın",
+    "SUBJECT": "<%= commenterName %> - Oyunuzu doğrulayın.",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Bir yayına oylanacak gibi görünüyor <a href=\"<%= url %>\">burada</a> . Aşağıdaki doğrulama bağlantısını tıklarsanız, bu oyu bırakanın siz olduğunuzu bilmemize yardımcı olur.",
+    "VERIFY_YOUR_VOTE_LINK": "Oyunuzu Doğrulayın",
+    "WAS_YOU_IGNORE_THIS_EMAIL": "Bu siz değilseniz, bu e-postayı yoksayın.",
+    "THANKS_SO_MUCH": "Çok teşekkürler!"
+}

@@ -1,0 +1,14 @@
+{
+    "INTRO": "Merhaba <%= username %>,",
+    "FROM_NAME": "HızlıYorumlar Robotu",
+    "YOU_HAVE_NEW_COMMENTS": "Bazı yeni yorumlarınız var!",
+    "BANNER_TEXT": "Yeni Yorumlar - Son Saat",
+    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Yeni Yorum<% } else { %>Yeni Yorumlar<% } %>",
+    "UNSUBSCRIBE_HERE": "Buradan giriş yapın ve bu e-postaların aboneliğinden çıkın",
+    "APPROVE_COMMENT": "Onaylamak",
+    "VIEW_COMMENT": "Yorumu Görüntüle",
+    "HERE_ARE_LINKS_TO_PAGES": "Her biri için yorum sayısıyla birlikte, bu yorumların bulunduğu sayfalara bağlantılar.",
+    "PAGE": "Sayfa",
+    "NEW_COMMENTS": "Yeni Yorumlar",
+    "MODERATE_COMMENTS": "Yorumları Denetle"
+}

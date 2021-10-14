@@ -1,0 +1,21 @@
+{
+    "FROM_NAME": "HızlıYorumlar Robotu",
+    "SUBJECT": "<%= comment.commenterName %> - Yorumunuzu doğrulayın.",
+    "BANNER_TEXT": "Yorumunuzu Doğrulayın",
+    "INTRO": "Merhaba <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Bu otomatik bir e-postadır. <a href=\"<%= comment.url %>\">Görünüşe göre burada</a> bir gönderiye yorum yapmışsın. Aşağıdaki doğrulama bağlantısını tıklarsanız, bu yorumu yapanın siz olduğunuzu bilmemize yardımcı olur.",
+    "VERIFY_YOUR_COMMENT_LINK": "Yorumunuzu Doğrulayın",
+    "WASNT_YOU_OR_REGRET": "Bu siz değilseniz veya söylediklerinizden pişmansanız bu e-postayı dikkate almayın; yorum <%= removedInDays %> gün içinde kaldırılacaktır.",
+    "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">Bu Yorumu Kaldır</a>",
+    "THANKS_SO_MUCH": "Çok teşekkürler!",
+    "JUST_NOW": "Şu anda",
+    "ONE_MINUTE_AGO": "1 dakika önce",
+    "MINUTES_AGO": "  dakika önce",
+    "ONE_HOUR_AGO": "1 saat önce",
+    "HOURS_AGO": "  saatler önce",
+    "YESTERDAY": "Dün",
+    "DAYS_AGO": "  günler önce",
+    "WEEKS_AGO": "  haftalar önce",
+    "MONTHS_AGO": "  aylar önce",
+    "YEARS_AGO": "  Yıllar önce"
+}

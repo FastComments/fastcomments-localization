@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments Yardım Botu",
+    "SUBJECT": "Destek Ekibi Tarafından Onaylanan Yardım Talebi",
+    "HEY": "Merhaba <%= commenterUsername %>,",
+    "ACKNOWLEDGED_BY_ADMIN": "\"<%= adminUsername %>\" kullanıcı adına sahip destek temsilcisi, isteğinizi kabul etmiş görünüyor. Kısa süre içinde size ulaşmaları gerekir.",
+    "THANKS_FOR_USING_FC": "FastComments'ı kullandığınız için teşekkürler!",
+    "DONT_REPLY_TO_THIS": "Bu e-posta yalnızca giden bir e-posta kutusundan geliyor - yanıtlamayın. Size ayrı ayrı ulaşacağız."
+}

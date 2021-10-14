@@ -2,7 +2,6 @@
     "SUBJECT": "Bienvenido a FastComments <%= commenterName %>!",
     "INTRO": "Oye <%= commenterName %>,",
     "LOOKS_LIKE_YOU_VOTED_HERE": "Parece que votaste en una publicación <a href=\"<%= url %>\"> aquí </a>.",
-    "VERIFY_YOUR_VOTE_THIS_LINK": "<b> verifique su voto </b> haciendo clic en <a href=\"<%= verifyUrl %>\"> este enlace </a> o en el enlace del correo electrónico de verificación para su voto.",
     "CREATE_NEW_LOGIN_LINKS_HERE": "Puede crear nuevos enlaces para iniciar sesión en su cuenta <a href=\"<%= FC_DOMAIN %>/auth/login/\"> aquí </a>.",
     "WASNT_YOU_IGNORE_EMAIL": "Si no fue así, ignore este correo electrónico.",
     "THANKS_SO_MUCH": "¡Muchas gracias!",

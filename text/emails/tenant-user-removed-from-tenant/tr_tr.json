@@ -1,0 +1,7 @@
+{
+    "INTRO": "Merhaba <%= username %>,",
+    "BANNER_TEXT": "FastComments Bildirimi",
+    "FROM_NAME": "HızlıYorumlar Robotu",
+    "SUBJECT": "<%= tenantName %>'dan Kaldırıldınız",
+    "REMOVED_AS_ADMIN": "<%= tenantName %>'dan bir kullanıcı olarak kaldırılmışsınız gibi görünüyor. FastComments hesabınızı yorumcu olarak tutacaksınız, ancak artık <%= tenantName %>'a erişiminiz olmayacak."
+}

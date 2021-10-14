@@ -1,0 +1,10 @@
+{
+    "INTRO": "Merhaba <%= username %>,",
+    "BANNER_TEXT": "Yorum Cevapları - Son Saat",
+    "PAST_HOUR_COMMENT_COUNT": "Son bir saat içinde <% if(replyCount > 1) { %>bazı yanıtlar<% } else { %>_bir yanıt<% } %><% if(commentsSummary.length > 1) {%> yorumunuza<% } else { %> yorum<% } %> aldınız.",
+    "FROM_NAME": "HızlıYorumlar Robotu",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Yeni Yanıt<% } else { %>Yeni Yanıtlar<% } %> için <% if(replyCount > 1) { %>Yorumlarınız<% } else {%>Yorumunuz<% } %>",
+    "VIEW_REPLIES": "Yanıtları Görüntüle",
+    "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Bu Yorum İçin Bildirimleri Devre Dışı Bırak",
+    "UNSUBSCRIBE_HERE": "Buradan giriş yapın ve bu e-postaların aboneliğinden çıkın"
+}

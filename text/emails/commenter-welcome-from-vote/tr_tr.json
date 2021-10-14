@@ -1,0 +1,10 @@
+{
+    "SUBJECT": "FastComments'a Hoş Geldiniz <%= commenterName %>!",
+    "BANNER_TEXT": "FastComments'a Hoş Geldiniz",
+    "INTRO": "Merhaba <%= commenterName %>,",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Bir yayına oylanacak gibi görünüyor <a href=\"<%= url %>\">burada</a> .",
+    "VERIFY_YOUR_ACCOUNT": "Hesabınızı doğrulayın",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "<a href=\"<%= FC_DOMAIN %>/auth/login/\">Burada</a> hesabınıza giriş yapmak için yeni bağlantılar oluşturabilirsiniz.",
+    "WASNT_YOU_IGNORE_EMAIL": "Bu siz değilseniz, bu e-postayı yoksayın.",
+    "THANKS_SO_MUCH": "Çok teşekkürler!"
+}

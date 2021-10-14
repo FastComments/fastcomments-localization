@@ -1,0 +1,8 @@
+{
+    "INTRO": "Merhaba <%= username %>,",
+    "FROM_NAME": "HızlıYorumlar Robotu",
+    "SUBJECT": "<%= tenantName %>'a katılmaya davet edildiniz!",
+    "BANNER_TEXT": "HızlıYorumlar Davet",
+    "INVITE_DETAILS": "FastComments kiracısına <%= tenantName %> katılmaya davet edildiniz. Bu daveti kabul etmek, sizin için aşağıdaki izinlere sahip bir hesap oluşturacaktır:",
+    "ACCEPT_INVITE": "Daveti Kabul Et"
+}

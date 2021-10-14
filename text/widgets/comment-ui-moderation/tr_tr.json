@@ -1,0 +1,23 @@
+{
+    "MODERATION_OPTION_BAN_VIA_EMAIL": "E-posta / Hesap Yoluyla Yasaklama",
+    "MODERATION_NO_EMAIL": "Bu anonim bir yorumdur. Yasaklanacak e-posta veya hesap yok.",
+    "MODERATION_OPTION_BAN_VIA_IP": "IP Yoluyla Yasaklama",
+    "MODERATION_NO_IP": "Yasaklanacak IP yok.",
+    "MODERATION_BAN_ALL_EMAIL_DOMAIN": "Tüm [alan] Kullanıcılarını Yasakla",
+    "MODERATION_BAN_TYPE": "Yasak Türü",
+    "MODERATION_BAN_TYPE_BAN": "yasakla",
+    "MODERATION_BAN_TYPE_SHADOW_BAN": "Gölge Yasağı",
+    "MODERATION_BAN_DURATION": "Yasak Süresi",
+    "MODERATION_BAN_DURATION_FOREVER": "Sonsuza kadar",
+    "MODERATION_BAN_DURATION_ONE_HOUR": "Bir saat",
+    "MODERATION_BAN_DURATION_ONE_DAY": "Bir gün",
+    "MODERATION_BAN_DURATION_ONE_WEEK": "Bir hafta",
+    "MODERATION_BAN_DURATION_ONE_MONTH": "Bir ay",
+    "MODERATION_BAN_DURATION_SIX_MONTHS": "Altı ay",
+    "MODERATION_BAN_DURATION_ONE_YEAR": "Bir yıl",
+    "MODERATION_BAN_DELETES_COMMENT_NOTE": "Bu kullanıcının yasaklanması bu yorumu da siler.",
+    "BAN_CONFIRMATION_MESSAGE": "Bu yorumu silmek ve kullanıcıyı yasaklamak istediğinizden emin misiniz?",
+    "BAN_CONFIRM": "Yasağı Onayla",
+    "BAN_SAVING": "Yorum kaldırılıyor ve kullanıcı yasaklanıyor...",
+    "BAN_FAILURE": "Bu yorum kaldırılırken ve kullanıcı yasaklanırken bir hata oluştu."
+}

@@ -1,0 +1,14 @@
+{
+    "INTRO": "Merhaba <%= tenantName %>",
+    "BANNER_TEXT": "FastComments Deneme Güncellemesi",
+    "FROM_NAME": "FastComments Deneme Robotu",
+    "SUBJECT": "FastComments Ücretsiz Deneme - 15 Gün Kaldı",
+    "FRIENDLY_REMINDER": "Bu, FastComments ücretsiz deneme sürenizin yarısında olduğunuzu dostça bir hatırlatmadır.",
+    "COMMENTS_HAVE_BEEN_LEFT": "Site(ler)inize <%= Number(commentCount).toLocaleString() %> yorum bırakıldı.",
+    "VOTES_GIVEN": "Bu yorumlara <%= Number(voteCount).toLocaleString() %> oy verildi.",
+    "USERS_SIGNED_UP": "Son olarak, <b><%= Number(userCount).toLocaleString() %> kullanıcı FastComments kullanmak için <%= tenantName %> aracılığıyla kaydolmuştur</b> .",
+    "THANKS_FOR_CHOOSING_FC": "<a href=\"https://fastcomments.com/auth/my-account\">FastComments.com&#39;u</a> seçtiğiniz için teşekkür ederiz.",
+    "UNSUBSCRIBE_FROM_THESE_ALERTS": "Bu uyarıların aboneliğinden çıkın.",
+    "SOME_STATS_SO_FAR": "Şimdiye kadar bazı istatistikler",
+    "SIGN_IN_ENTER_BILLING_INFO": "Oturum Açın ve Ödeme Bilgilerini Girin"
+}

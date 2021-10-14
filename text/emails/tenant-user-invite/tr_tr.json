@@ -1,0 +1,8 @@
+{
+    "INTRO": "Merhaba <%= username %>,",
+    "FROM_NAME": "HızlıYorumlar Robotu",
+    "SUBJECT": "<%= tenantName %>'a katılmaya davet edildiniz!",
+    "BANNER_TEXT": "Kiracı Daveti",
+    "INVITE_DETAILS": "<%= tenantName %> kiracısına katılmaya davet edildiniz. Bu daveti kabul etmek, yorumcu hesabınızı bir yönetici hesabına yükseltecektir. Aşağıdaki izinlere sahip olacaksınız:",
+    "ACCEPT_INVITE": "Daveti Kabul Et"
+}
