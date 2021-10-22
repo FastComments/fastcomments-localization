@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 146,
+        "comment-ui": 149,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -394,5 +394,10 @@
     },
     "comment-ui-blocked": {
         "t145": "YOU_HAVE_BEEN_BLOCKED"
+    },
+    "comment-ui-error-unauthorized-for-page": {
+        "t147": "UNAUTHORIZED_THIS_PAGE",
+        "t148": "UNAUTHORIZED_VIEW_THIS_PAGE",
+        "t149": "UNAUTHORIZED_CONTRIBUTE_THIS_PAGE"
     }
 }
