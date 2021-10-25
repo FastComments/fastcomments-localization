@@ -207,7 +207,10 @@
                 "COMMENT_MENU_UNBLOCK_USER": "Unblock User",
                 "YOU_BLOCKED_THIS_USER": "You have blocked this user.",
                 "BLOCKED_USER_PLACEHOLDER": "Blocked User",
-                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>."
+                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>.",
+                "DISMISS": "Dismiss",
+                "USER_VIEWING_THREAD": "User is viewing this thread.",
+                "USER_OFFLINE_THREAD": "User is offline (not viewing this thread)."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -393,12 +396,10 @@
                 "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "comment-ui-blocked": {
-                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you."
-            },
-            "comment-ui-error-unauthorized-for-page": {
-                "UNAUTHORIZED_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_VIEW_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_CONTRIBUTE_THIS_PAGE": "You are not authorized to comment on this comment thread."
+                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
+                "ANONYMOUS_COMMENT_CANNOT_BLOCK": "This is an anonymous comment. There is no user to block.",
+                "COMMENT_NO_LONGER_EXISTS_CANNOT_BLOCK": "This comment no longer exists.",
+                "COMMENT_NO_LONGER_EXISTS": "This comment no longer exists."
             }
         },
         "es_es": {
@@ -608,7 +609,10 @@
                 "COMMENT_MENU_UNBLOCK_USER": "Unblock User",
                 "YOU_BLOCKED_THIS_USER": "You have blocked this user.",
                 "BLOCKED_USER_PLACEHOLDER": "Blocked User",
-                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>."
+                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>.",
+                "DISMISS": "Dismiss",
+                "USER_VIEWING_THREAD": "User is viewing this thread.",
+                "USER_OFFLINE_THREAD": "User is offline (not viewing this thread)."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -794,12 +798,10 @@
                 "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "comment-ui-blocked": {
-                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you."
-            },
-            "comment-ui-error-unauthorized-for-page": {
-                "UNAUTHORIZED_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_VIEW_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_CONTRIBUTE_THIS_PAGE": "You are not authorized to comment on this comment thread."
+                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
+                "ANONYMOUS_COMMENT_CANNOT_BLOCK": "This is an anonymous comment. There is no user to block.",
+                "COMMENT_NO_LONGER_EXISTS_CANNOT_BLOCK": "This comment no longer exists.",
+                "COMMENT_NO_LONGER_EXISTS": "This comment no longer exists."
             }
         },
         "pl_pl": {
@@ -1035,7 +1037,10 @@
                 "COMMENT_MENU_UNBLOCK_USER": "Unblock User",
                 "YOU_BLOCKED_THIS_USER": "You have blocked this user.",
                 "BLOCKED_USER_PLACEHOLDER": "Blocked User",
-                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>."
+                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>.",
+                "DISMISS": "Dismiss",
+                "USER_VIEWING_THREAD": "User is viewing this thread.",
+                "USER_OFFLINE_THREAD": "User is offline (not viewing this thread)."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -1181,12 +1186,10 @@
                 "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "comment-ui-blocked": {
-                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you."
-            },
-            "comment-ui-error-unauthorized-for-page": {
-                "UNAUTHORIZED_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_VIEW_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_CONTRIBUTE_THIS_PAGE": "You are not authorized to comment on this comment thread."
+                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
+                "ANONYMOUS_COMMENT_CANNOT_BLOCK": "This is an anonymous comment. There is no user to block.",
+                "COMMENT_NO_LONGER_EXISTS_CANNOT_BLOCK": "This comment no longer exists.",
+                "COMMENT_NO_LONGER_EXISTS": "This comment no longer exists."
             }
         },
         "de_de": {
@@ -1479,7 +1482,10 @@
                 "COMMENT_MENU_UNBLOCK_USER": "Unblock User",
                 "YOU_BLOCKED_THIS_USER": "You have blocked this user.",
                 "BLOCKED_USER_PLACEHOLDER": "Blocked User",
-                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>."
+                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>.",
+                "DISMISS": "Dismiss",
+                "USER_VIEWING_THREAD": "User is viewing this thread.",
+                "USER_OFFLINE_THREAD": "User is offline (not viewing this thread)."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -1566,12 +1572,10 @@
                 "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "comment-ui-blocked": {
-                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you."
-            },
-            "comment-ui-error-unauthorized-for-page": {
-                "UNAUTHORIZED_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_VIEW_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_CONTRIBUTE_THIS_PAGE": "You are not authorized to comment on this comment thread."
+                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
+                "ANONYMOUS_COMMENT_CANNOT_BLOCK": "This is an anonymous comment. There is no user to block.",
+                "COMMENT_NO_LONGER_EXISTS_CANNOT_BLOCK": "This comment no longer exists.",
+                "COMMENT_NO_LONGER_EXISTS": "This comment no longer exists."
             }
         },
         "it_it": {
@@ -1872,7 +1876,10 @@
                 "COMMENT_MENU_UNBLOCK_USER": "Unblock User",
                 "YOU_BLOCKED_THIS_USER": "You have blocked this user.",
                 "BLOCKED_USER_PLACEHOLDER": "Blocked User",
-                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>."
+                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>.",
+                "DISMISS": "Dismiss",
+                "USER_VIEWING_THREAD": "User is viewing this thread.",
+                "USER_OFFLINE_THREAD": "User is offline (not viewing this thread)."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -1951,12 +1958,10 @@
                 "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "comment-ui-blocked": {
-                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you."
-            },
-            "comment-ui-error-unauthorized-for-page": {
-                "UNAUTHORIZED_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_VIEW_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_CONTRIBUTE_THIS_PAGE": "You are not authorized to comment on this comment thread."
+                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
+                "ANONYMOUS_COMMENT_CANNOT_BLOCK": "This is an anonymous comment. There is no user to block.",
+                "COMMENT_NO_LONGER_EXISTS_CANNOT_BLOCK": "This comment no longer exists.",
+                "COMMENT_NO_LONGER_EXISTS": "This comment no longer exists."
             }
         },
         "ru_ru": {
@@ -2260,7 +2265,10 @@
                 "COMMENT_MENU_UNBLOCK_USER": "Unblock User",
                 "YOU_BLOCKED_THIS_USER": "You have blocked this user.",
                 "BLOCKED_USER_PLACEHOLDER": "Blocked User",
-                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>."
+                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>.",
+                "DISMISS": "Dismiss",
+                "USER_VIEWING_THREAD": "User is viewing this thread.",
+                "USER_OFFLINE_THREAD": "User is offline (not viewing this thread)."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -2336,12 +2344,10 @@
                 "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "comment-ui-blocked": {
-                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you."
-            },
-            "comment-ui-error-unauthorized-for-page": {
-                "UNAUTHORIZED_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_VIEW_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_CONTRIBUTE_THIS_PAGE": "You are not authorized to comment on this comment thread."
+                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
+                "ANONYMOUS_COMMENT_CANNOT_BLOCK": "This is an anonymous comment. There is no user to block.",
+                "COMMENT_NO_LONGER_EXISTS_CANNOT_BLOCK": "This comment no longer exists.",
+                "COMMENT_NO_LONGER_EXISTS": "This comment no longer exists."
             }
         },
         "pt_br": {
@@ -2666,7 +2672,10 @@
                 "COMMENT_MENU_UNBLOCK_USER": "Unblock User",
                 "YOU_BLOCKED_THIS_USER": "You have blocked this user.",
                 "BLOCKED_USER_PLACEHOLDER": "Blocked User",
-                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>."
+                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>.",
+                "DISMISS": "Dismiss",
+                "USER_VIEWING_THREAD": "User is viewing this thread.",
+                "USER_OFFLINE_THREAD": "User is offline (not viewing this thread)."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -2719,12 +2728,10 @@
                 "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "comment-ui-blocked": {
-                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you."
-            },
-            "comment-ui-error-unauthorized-for-page": {
-                "UNAUTHORIZED_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_VIEW_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_CONTRIBUTE_THIS_PAGE": "You are not authorized to comment on this comment thread."
+                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
+                "ANONYMOUS_COMMENT_CANNOT_BLOCK": "This is an anonymous comment. There is no user to block.",
+                "COMMENT_NO_LONGER_EXISTS_CANNOT_BLOCK": "This comment no longer exists.",
+                "COMMENT_NO_LONGER_EXISTS": "This comment no longer exists."
             }
         },
         "ja_jp": {
@@ -3044,7 +3051,10 @@
                 "COMMENT_MENU_UNBLOCK_USER": "Unblock User",
                 "YOU_BLOCKED_THIS_USER": "You have blocked this user.",
                 "BLOCKED_USER_PLACEHOLDER": "Blocked User",
-                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>."
+                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>.",
+                "DISMISS": "Dismiss",
+                "USER_VIEWING_THREAD": "User is viewing this thread.",
+                "USER_OFFLINE_THREAD": "User is offline (not viewing this thread)."
             },
             "comment-ui-moderation": {
                 "MODERATION_OPTION_BAN_VIA_EMAIL": "Ban Via Email / Account",
@@ -3097,12 +3107,10 @@
                 "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "comment-ui-blocked": {
-                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you."
-            },
-            "comment-ui-error-unauthorized-for-page": {
-                "UNAUTHORIZED_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_VIEW_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_CONTRIBUTE_THIS_PAGE": "You are not authorized to comment on this comment thread."
+                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
+                "ANONYMOUS_COMMENT_CANNOT_BLOCK": "This is an anonymous comment. There is no user to block.",
+                "COMMENT_NO_LONGER_EXISTS_CANNOT_BLOCK": "This comment no longer exists.",
+                "COMMENT_NO_LONGER_EXISTS": "This comment no longer exists."
             }
         },
         "tr_tr": {
@@ -3431,7 +3439,10 @@
                 "COMMENT_MENU_UNBLOCK_USER": "Unblock User",
                 "YOU_BLOCKED_THIS_USER": "You have blocked this user.",
                 "BLOCKED_USER_PLACEHOLDER": "Blocked User",
-                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>."
+                "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>.",
+                "DISMISS": "Dismiss",
+                "USER_VIEWING_THREAD": "User is viewing this thread.",
+                "USER_OFFLINE_THREAD": "User is offline (not viewing this thread)."
             },
             "comment-ui-moderation": {
                 "MODERATION_OPTION_BAN_VIA_EMAIL": "Ban Via Email / Account",
@@ -3475,12 +3486,10 @@
                 "NO_PAGES_WITH_COMMENTS": "No pages with comments..."
             },
             "comment-ui-blocked": {
-                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you."
-            },
-            "comment-ui-error-unauthorized-for-page": {
-                "UNAUTHORIZED_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_VIEW_THIS_PAGE": "You are not authorized to view this comment thread.",
-                "UNAUTHORIZED_CONTRIBUTE_THIS_PAGE": "You are not authorized to comment on this comment thread."
+                "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
+                "ANONYMOUS_COMMENT_CANNOT_BLOCK": "This is an anonymous comment. There is no user to block.",
+                "COMMENT_NO_LONGER_EXISTS_CANNOT_BLOCK": "This comment no longer exists.",
+                "COMMENT_NO_LONGER_EXISTS": "This comment no longer exists."
             }
         }
     }
