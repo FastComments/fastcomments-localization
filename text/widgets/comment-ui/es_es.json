@@ -10,7 +10,6 @@
     "WEEKS_AGO": " hace semanas",
     "MONTHS_AGO": " Hace meses",
     "YEARS_AGO": " hace años que",
-    "REPLYING_TO": "Respondiendo a ",
     "ENTER_EMAIL_TO_KEEP_COMMENT": "Ingrese su correo electrónico para verificar su comentario.",
     "ENTER_EMAIL_TO_COMMENT": "Ingrese su correo electrónico para comentar.",
     "EMAIL_FOR_VERIFICATION": "Correo electrónico para la verificación",
@@ -122,5 +121,7 @@
     "USER_VIEWING_THREAD": "El usuario está viendo este hilo.",
     "USER_OFFLINE_THREAD": "El usuario está desconectado (no está viendo este hilo).",
     "COMMENT_HAS_BEEN_SUBMITTED": "¡Tu comentario ha sido enviado!",
-    "WRITE_ANOTHER_COMMENT": "Escribe otro comentario"
+    "WRITE_ANOTHER_COMMENT": "Escribe otro comentario",
+    "REPLYING_TO_AS": "Respondiendo a <b>[to]</b> como <b>[from]</b>",
+    "REPLYING_TO": "Respondiendo a <b>[to]</b>"
 }

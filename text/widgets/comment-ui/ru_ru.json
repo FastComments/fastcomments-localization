@@ -10,7 +10,6 @@
     "WEEKS_AGO": " недель назад",
     "MONTHS_AGO": " несколько месяцев назад",
     "YEARS_AGO": " много лет назад",
-    "REPLYING_TO": "Отвечая на ",
     "ENTER_EMAIL_TO_KEEP_COMMENT": "Введите ваше письмо, чтобы проверить свой комментарий.",
     "ENTER_EMAIL_TO_COMMENT": "Введите адрес электронной почты на комментарий.",
     "EMAIL_FOR_VERIFICATION": "Электронная почта для проверки",
@@ -122,5 +121,7 @@
     "USER_VIEWING_THREAD": "Пользователь просматривает эту ветку.",
     "USER_OFFLINE_THREAD": "Пользователь не в сети (не просматривает эту ветку).",
     "COMMENT_HAS_BEEN_SUBMITTED": "Ваш комментарий отправлен!",
-    "WRITE_ANOTHER_COMMENT": "Напишите еще один комментарий"
+    "WRITE_ANOTHER_COMMENT": "Напишите еще один комментарий",
+    "REPLYING_TO_AS": "Ответ на <b>[to]</b> кому от <b>[from]</b>",
+    "REPLYING_TO": "Ответ на <b>[to]</b>"
 }

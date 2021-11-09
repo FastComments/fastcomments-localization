@@ -11,7 +11,6 @@
     "WEEKS_AGO": "  haftalar önce",
     "MONTHS_AGO": "  aylar önce",
     "YEARS_AGO": "  Yıllar önce",
-    "REPLYING_TO": "yanıtlamak ",
     "ENTER_EMAIL_TO_KEEP_COMMENT": "Yorumunuzu doğrulamak için e-postanızı girin.",
     "ENTER_EMAIL_TO_COMMENT": "Yorum yapmak için e-postanızı girin.",
     "EMAIL_FOR_VERIFICATION": "Doğrulama için e-posta",
@@ -122,5 +121,7 @@
     "USER_VIEWING_THREAD": "Kullanıcı bu konuyu görüntülüyor.",
     "USER_OFFLINE_THREAD": "Kullanıcı çevrimdışı (bu ileti dizisini görüntülemiyor).",
     "COMMENT_HAS_BEEN_SUBMITTED": "Yorumunuz gönderildi!",
-    "WRITE_ANOTHER_COMMENT": "Başka Bir Yorum Yaz"
+    "WRITE_ANOTHER_COMMENT": "Başka Bir Yorum Yaz",
+    "REPLYING_TO_AS": "<b>[to]</b> ya <b>[from]</b> olarak yanıt verme",
+    "REPLYING_TO": "<b>[to]</b> yanıtlama"
 }

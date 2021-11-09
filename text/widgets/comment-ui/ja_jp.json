@@ -11,7 +11,6 @@
     "WEEKS_AGO": "  何週間前",
     "MONTHS_AGO": "  数か月前",
     "YEARS_AGO": "  数年前",
-    "REPLYING_TO": "に返信する ",
     "ENTER_EMAIL_TO_KEEP_COMMENT": "コメントを確認するためにメールアドレスを入力してください。",
     "ENTER_EMAIL_TO_COMMENT": "コメントするにはメールアドレスを入力してください。",
     "EMAIL_FOR_VERIFICATION": "確認のためのメール",
@@ -122,5 +121,7 @@
     "USER_VIEWING_THREAD": "ユーザーはこのスレッドを表示しています。",
     "USER_OFFLINE_THREAD": "ユーザーはオフラインです（このスレッドを表示していません）。",
     "COMMENT_HAS_BEEN_SUBMITTED": "コメントが送信されました！",
-    "WRITE_ANOTHER_COMMENT": "別のコメントを書く"
+    "WRITE_ANOTHER_COMMENT": "別のコメントを書く",
+    "REPLYING_TO_AS": "<b>[to]</b>に<b>[from]</b>として返信する",
+    "REPLYING_TO": "<b>[to]</b>への返信"
 }

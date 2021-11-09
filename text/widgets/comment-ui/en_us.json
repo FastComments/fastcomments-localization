@@ -11,7 +11,7 @@
   "WEEKS_AGO": " weeks ago",
   "MONTHS_AGO": " months ago",
   "YEARS_AGO": " years ago",
-  "REPLYING_TO": "Replying to ",
+  "REPLYING_TO": "Replying to <b>[to]</b>",
   "ENTER_EMAIL_TO_KEEP_COMMENT": "Enter your email to verify your comment.",
   "ENTER_EMAIL_TO_COMMENT": "Enter your email to comment.",
   "EMAIL_FOR_VERIFICATION": "Email for verification",
@@ -122,5 +122,6 @@
   "USER_VIEWING_THREAD": "User is viewing this thread.",
   "USER_OFFLINE_THREAD": "User is offline (not viewing this thread).",
   "COMMENT_HAS_BEEN_SUBMITTED": "Your comment has been submitted!",
-  "WRITE_ANOTHER_COMMENT": "Write Another Comment"
+  "WRITE_ANOTHER_COMMENT": "Write Another Comment",
+  "REPLYING_TO_AS": "Replying to <b>[to]</b> as <b>[from]</b>"
 }
