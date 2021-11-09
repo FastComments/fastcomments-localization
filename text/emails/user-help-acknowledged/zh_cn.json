@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments 帮助机器人",
+    "SUBJECT": "支持人员确认的帮助请求",
+    "HEY": "嘿 <%= commenterUsername %>，",
+    "ACKNOWLEDGED_BY_ADMIN": "看起来用户名为“<%= adminUsername %>”的支持代理已确认您的请求。他们应该会尽快与您联系。",
+    "THANKS_FOR_USING_FC": "感谢您使用 FastComments！",
+    "DONT_REPLY_TO_THIS": "这封电子邮件来自一个仅限出站的电子邮件信箱 - 不要回复它。我们将分别与您联系。"
+}

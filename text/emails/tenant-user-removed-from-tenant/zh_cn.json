@@ -1,0 +1,7 @@
+{
+    "INTRO": "嘿 <%= username %>，",
+    "BANNER_TEXT": "快速评论通知",
+    "FROM_NAME": "快评机器人",
+    "SUBJECT": "您已从<%= tenantName %> 中删除",
+    "REMOVED_AS_ADMIN": "您似乎已被从 <%= tenantName %> 中删除为用户。您将保留您的 FastComments 帐户作为评论者，但您将无法再访问 <%= tenantName %>。"
+}

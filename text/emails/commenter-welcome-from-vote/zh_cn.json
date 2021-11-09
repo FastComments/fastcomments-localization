@@ -1,0 +1,10 @@
+{
+    "SUBJECT": "欢迎使用快速评论 <%= commenterName %>！",
+    "BANNER_TEXT": "欢迎来到快评",
+    "INTRO": "嘿 <%= commenterName %>，",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "<a href=\"<%= url %>\">看起来您对此处</a>的帖子进行了投票。",
+    "VERIFY_YOUR_ACCOUNT": "验证您的帐户",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "<a href=\"<%= FC_DOMAIN %>/auth/login/\">您可以在此处</a>创建新链接以登录您的帐户。",
+    "WASNT_YOU_IGNORE_EMAIL": "如果这不是您，请忽略此电子邮件。",
+    "THANKS_SO_MUCH": "非常感谢！"
+}

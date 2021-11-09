@@ -1,0 +1,22 @@
+{
+    "SUBJECT": "欢迎使用快速评论 <%= comment.commenterName %>！",
+    "BANNER_TEXT": "欢迎来到快评",
+    "INTRO": "嘿 <%= comment.commenterName %>，",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "<a href=\"<%= comment.url %>\">您似乎对此处</a>的帖子发表了评论。",
+    "VERIFY_YOUR_ACCOUNT": "验证您的帐户",
+    "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "<a href=\"<%= FC_DOMAIN %>/auth/login/\">您可以在此处</a>创建新链接以登录您的帐户。",
+    "WASNT_YOU_OR_REGRET": "如果这不是您，或者您对自己所说的话感到后悔，请忽略此电子邮件，评论将在 <%= removedInDays %> 天内删除。",
+    "REMOVE_COMMENT": "如果您想立即删除此评论，<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">请单击此处</a>",
+    "THANKS_SO_MUCH": "非常感谢！",
+    "USING_NAME_YOU_SAID": "使用名称“<%= comment.commenterName %>”你说：",
+    "JUST_NOW": "现在",
+    "ONE_MINUTE_AGO": "1 分钟前",
+    "MINUTES_AGO": "  几分钟前",
+    "ONE_HOUR_AGO": "1小时前",
+    "HOURS_AGO": "  几小时前",
+    "YESTERDAY": "昨天",
+    "DAYS_AGO": "  几天前",
+    "WEEKS_AGO": "  几周前",
+    "MONTHS_AGO": "  几个月前",
+    "YEARS_AGO": "  几年前"
+}

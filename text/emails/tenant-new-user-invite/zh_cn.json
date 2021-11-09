@@ -1,0 +1,8 @@
+{
+    "INTRO": "嘿 <%= username %>，",
+    "FROM_NAME": "快评机器人",
+    "SUBJECT": "您已被邀请加入 <%= tenantName %>！",
+    "BANNER_TEXT": "快评论邀请",
+    "INVITE_DETAILS": "您已受邀加入 FastComments 租户 <%= tenantName %>。接受此邀请将为您创建一个具有以下权限的帐户：",
+    "ACCEPT_INVITE": "接受邀请"
+}
