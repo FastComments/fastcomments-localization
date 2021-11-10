@@ -1,0 +1,21 @@
+{
+    "FROM_NAME": "快评机器人",
+    "SUBJECT": "<%= comment.commenterName %> - 验证您的评论。",
+    "BANNER_TEXT": "验证您的评论",
+    "INTRO": "嘿 <%= comment.commenterName %>，",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "这是一封自动电子邮件。<a href=\"<%= comment.url %>\">您似乎对此处</a>的帖子发表了评论。如果您点击下面的验证链接，它将帮助我们知道是您留下了此评论。",
+    "VERIFY_YOUR_COMMENT_LINK": "验证您的评论",
+    "WASNT_YOU_OR_REGRET": "如果这不是您，或者您对自己所说的话感到后悔，请忽略此电子邮件，评论将在 <%= removedInDays %> 天内删除。",
+    "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">删除此评论</a>",
+    "THANKS_SO_MUCH": "非常感谢！",
+    "JUST_NOW": "现在",
+    "ONE_MINUTE_AGO": "1 分钟前",
+    "MINUTES_AGO": "  几分钟前",
+    "ONE_HOUR_AGO": "1小时前",
+    "HOURS_AGO": "  几小时前",
+    "YESTERDAY": "昨天",
+    "DAYS_AGO": "  几天前",
+    "WEEKS_AGO": "  几周前",
+    "MONTHS_AGO": "  几个月前",
+    "YEARS_AGO": "  几年前"
+}
