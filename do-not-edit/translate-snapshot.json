@@ -21,7 +21,8 @@
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
                 "YEARS_AGO": " years ago",
-                "FROM_NAME": "FastComments Robot"
+                "FROM_NAME": "FastComments Robot",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -42,7 +43,8 @@
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
                 "THANKS_SO_MUCH": "Thanks so much!",
                 "BANNER_TEXT": "Verify Your Vote",
-                "FROM_NAME": "FastComments Robot"
+                "FROM_NAME": "FastComments Robot",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-vote": {
                 "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
@@ -52,7 +54,8 @@
                 "WASNT_YOU_IGNORE_EMAIL": "If this wasn't you then ignore this email.",
                 "THANKS_SO_MUCH": "Thanks so much!",
                 "BANNER_TEXT": "Welcome to FastComments",
-                "VERIFY_YOUR_ACCOUNT": "Verify Your Account"
+                "VERIFY_YOUR_ACCOUNT": "Verify Your Account",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-comment": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -76,7 +79,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "comment-count": {
                 "COMMENT": "comment",
@@ -330,7 +334,8 @@
                 "VERIFY_YOUR_ACCOUNT_THIS_LINK": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "CAN_CREATE_NEW_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= HOST %>/auth/login/\">here</a>.",
                 "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Click here</a> to login to FastComments.",
-                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>"
+                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "user-help-acknowledged": {
                 "FROM_NAME": "FastComments Help Bot",
@@ -431,7 +436,8 @@
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
                 "YEARS_AGO": " years ago",
-                "FROM_NAME": "FastComments Robot"
+                "FROM_NAME": "FastComments Robot",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -452,7 +458,8 @@
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
                 "THANKS_SO_MUCH": "Thanks so much!",
                 "BANNER_TEXT": "Verify Your Vote",
-                "FROM_NAME": "FastComments Robot"
+                "FROM_NAME": "FastComments Robot",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-vote": {
                 "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
@@ -462,7 +469,8 @@
                 "WASNT_YOU_IGNORE_EMAIL": "If this wasn't you then ignore this email.",
                 "THANKS_SO_MUCH": "Thanks so much!",
                 "BANNER_TEXT": "Welcome to FastComments",
-                "VERIFY_YOUR_ACCOUNT": "Verify Your Account"
+                "VERIFY_YOUR_ACCOUNT": "Verify Your Account",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-comment": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -486,7 +494,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "comment-count": {
                 "COMMENT": "comment",
@@ -740,7 +749,8 @@
                 "VERIFY_YOUR_ACCOUNT_THIS_LINK": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "CAN_CREATE_NEW_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= HOST %>/auth/login/\">here</a>.",
                 "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Click here</a> to login to FastComments.",
-                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>"
+                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "user-help-acknowledged": {
                 "FROM_NAME": "FastComments Help Bot",
@@ -840,7 +850,8 @@
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
                 "YEARS_AGO": " years ago",
-                "FROM_NAME": "FastComments Robot"
+                "FROM_NAME": "FastComments Robot",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-verify-vote": {
                 "INTRO": "Hey <%= commenterName %>,",
@@ -850,7 +861,8 @@
                 "VERIFY_YOUR_VOTE_LINK": "Verify Your Vote",
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
                 "THANKS_SO_MUCH": "Thanks so much!",
-                "FROM_NAME": "FastComments Robot"
+                "FROM_NAME": "FastComments Robot",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-comment": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -872,7 +884,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-vote": {
                 "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
@@ -882,7 +895,8 @@
                 "VERIFY_YOUR_ACCOUNT": "Verify Your Account",
                 "CREATE_NEW_LOGIN_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= FC_DOMAIN %>/auth/login/\">here</a>.",
                 "WASNT_YOU_IGNORE_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "tenant-comment-digest": {
                 "BANNER_TEXT_DAILY": "FastComments Daily Digest",
@@ -1136,7 +1150,8 @@
                 "VERIFY_YOUR_ACCOUNT_THIS_LINK": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "CAN_CREATE_NEW_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= HOST %>/auth/login/\">here</a>.",
                 "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Click here</a> to login to FastComments.",
-                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>"
+                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "user-help-acknowledged": {
                 "FROM_NAME": "FastComments Help Bot",
@@ -1247,7 +1262,8 @@
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
                 "YEARS_AGO": " years ago",
-                "FROM_NAME": "FastComments Robot"
+                "FROM_NAME": "FastComments Robot",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-verify-vote": {
                 "INTRO": "Hey <%= commenterName %>,",
@@ -1257,7 +1273,8 @@
                 "VERIFY_YOUR_VOTE_LINK": "Verify Your Vote",
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
                 "THANKS_SO_MUCH": "Thanks so much!",
-                "FROM_NAME": "FastComments Robot"
+                "FROM_NAME": "FastComments Robot",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-comment": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -1279,7 +1296,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-vote": {
                 "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
@@ -1289,7 +1307,8 @@
                 "VERIFY_YOUR_ACCOUNT": "Verify Your Account",
                 "CREATE_NEW_LOGIN_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= FC_DOMAIN %>/auth/login/\">here</a>.",
                 "WASNT_YOU_IGNORE_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "forgot-username": {
                 "BANNER_TEXT": "Your FastComments Username",
@@ -1309,7 +1328,8 @@
                 "VERIFY_YOUR_ACCOUNT_THIS_LINK": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "CAN_CREATE_NEW_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= HOST %>/auth/login/\">here</a>.",
                 "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Click here</a> to login to FastComments.",
-                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>"
+                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "tenant-comment-digest": {
                 "BANNER_TEXT_DAILY": "FastComments Daily Digest",
@@ -1641,7 +1661,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-verify-vote": {
                 "FROM_NAME": "FastComments Robot",
@@ -1651,7 +1672,8 @@
                 "LOOKS_LIKE_YOU_VOTED_HERE": "It looks like you voted on a post <a href=\"<%= url %>\">here</a>. If you click the verification link below, it'll help us know that it was you that left this vote.",
                 "VERIFY_YOUR_VOTE_LINK": "Verify Your Vote",
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-comment": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -1673,7 +1695,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-vote": {
                 "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
@@ -1683,7 +1706,8 @@
                 "VERIFY_YOUR_ACCOUNT": "Verify Your Account",
                 "CREATE_NEW_LOGIN_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= FC_DOMAIN %>/auth/login/\">here</a>.",
                 "WASNT_YOU_IGNORE_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "forgot-username": {
                 "BANNER_TEXT": "Your FastComments Username",
@@ -1703,7 +1727,8 @@
                 "VERIFY_YOUR_ACCOUNT_THIS_LINK": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "CAN_CREATE_NEW_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= HOST %>/auth/login/\">here</a>.",
                 "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Click here</a> to login to FastComments.",
-                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>"
+                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "tenant-comment-digest": {
                 "BANNER_TEXT_DAILY": "FastComments Daily Digest",
@@ -2035,7 +2060,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-verify-vote": {
                 "FROM_NAME": "FastComments Robot",
@@ -2045,7 +2071,8 @@
                 "LOOKS_LIKE_YOU_VOTED_HERE": "It looks like you voted on a post <a href=\"<%= url %>\">here</a>. If you click the verification link below, it'll help us know that it was you that left this vote.",
                 "VERIFY_YOUR_VOTE_LINK": "Verify Your Vote",
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-comment": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -2067,7 +2094,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-vote": {
                 "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
@@ -2077,7 +2105,8 @@
                 "VERIFY_YOUR_ACCOUNT": "Verify Your Account",
                 "CREATE_NEW_LOGIN_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= FC_DOMAIN %>/auth/login/\">here</a>.",
                 "WASNT_YOU_IGNORE_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "common": {
                 "ADD_TO_MY_SITE": "Add FastComments To My Site"
@@ -2100,7 +2129,8 @@
                 "VERIFY_YOUR_ACCOUNT_THIS_LINK": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "CAN_CREATE_NEW_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= HOST %>/auth/login/\">here</a>.",
                 "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Click here</a> to login to FastComments.",
-                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>"
+                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "tenant-comment-digest": {
                 "BANNER_TEXT_DAILY": "FastComments Daily Digest",
@@ -2428,7 +2458,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-verify-vote": {
                 "FROM_NAME": "FastComments Robot",
@@ -2438,7 +2469,8 @@
                 "LOOKS_LIKE_YOU_VOTED_HERE": "It looks like you voted on a post <a href=\"<%= url %>\">here</a>. If you click the verification link below, it'll help us know that it was you that left this vote.",
                 "VERIFY_YOUR_VOTE_LINK": "Verify Your Vote",
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-comment": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -2460,7 +2492,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-vote": {
                 "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
@@ -2470,7 +2503,8 @@
                 "VERIFY_YOUR_ACCOUNT": "Verify Your Account",
                 "CREATE_NEW_LOGIN_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= FC_DOMAIN %>/auth/login/\">here</a>.",
                 "WASNT_YOU_IGNORE_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "common": {
                 "ADD_TO_MY_SITE": "Add FastComments To My Site"
@@ -2493,7 +2527,8 @@
                 "VERIFY_YOUR_ACCOUNT_THIS_LINK": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "CAN_CREATE_NEW_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= HOST %>/auth/login/\">here</a>.",
                 "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Click here</a> to login to FastComments.",
-                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>"
+                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "tenant-comment-digest": {
                 "BANNER_TEXT_DAILY": "FastComments Daily Digest",
@@ -2820,7 +2855,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-verify-vote": {
                 "FROM_NAME": "FastComments Robot",
@@ -2830,7 +2866,8 @@
                 "LOOKS_LIKE_YOU_VOTED_HERE": "It looks like you voted on a post <a href=\"<%= url %>\">here</a>. If you click the verification link below, it'll help us know that it was you that left this vote.",
                 "VERIFY_YOUR_VOTE_LINK": "Verify Your Vote",
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-comment": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -2852,7 +2889,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-vote": {
                 "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
@@ -2862,7 +2900,8 @@
                 "VERIFY_YOUR_ACCOUNT": "Verify Your Account",
                 "CREATE_NEW_LOGIN_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= FC_DOMAIN %>/auth/login/\">here</a>.",
                 "WASNT_YOU_IGNORE_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "common": {
                 "ADD_TO_MY_SITE": "Add FastComments To My Site"
@@ -2885,7 +2924,8 @@
                 "VERIFY_YOUR_ACCOUNT_THIS_LINK": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "CAN_CREATE_NEW_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= HOST %>/auth/login/\">here</a>.",
                 "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Click here</a> to login to FastComments.",
-                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>"
+                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "tenant-comment-digest": {
                 "BANNER_TEXT_DAILY": "FastComments Daily Digest",
@@ -3216,7 +3256,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-verify-vote": {
                 "FROM_NAME": "FastComments Robot",
@@ -3226,7 +3267,8 @@
                 "LOOKS_LIKE_YOU_VOTED_HERE": "It looks like you voted on a post <a href=\"<%= url %>\">here</a>. If you click the verification link below, it'll help us know that it was you that left this vote.",
                 "VERIFY_YOUR_VOTE_LINK": "Verify Your Vote",
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-comment": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -3248,7 +3290,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-vote": {
                 "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
@@ -3258,7 +3301,8 @@
                 "VERIFY_YOUR_ACCOUNT": "Verify Your Account",
                 "CREATE_NEW_LOGIN_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= FC_DOMAIN %>/auth/login/\">here</a>.",
                 "WASNT_YOU_IGNORE_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "common": {
                 "ADD_TO_MY_SITE": "Add FastComments To My Site"
@@ -3281,7 +3325,8 @@
                 "VERIFY_YOUR_ACCOUNT_THIS_LINK": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "CAN_CREATE_NEW_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= HOST %>/auth/login/\">here</a>.",
                 "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Click here</a> to login to FastComments.",
-                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>"
+                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "tenant-comment-digest": {
                 "BANNER_TEXT_DAILY": "FastComments Daily Digest",
@@ -3603,7 +3648,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-verify-vote": {
                 "FROM_NAME": "FastComments Robot",
@@ -3613,7 +3659,8 @@
                 "LOOKS_LIKE_YOU_VOTED_HERE": "It looks like you voted on a post <a href=\"<%= url %>\">here</a>. If you click the verification link below, it'll help us know that it was you that left this vote.",
                 "VERIFY_YOUR_VOTE_LINK": "Verify Your Vote",
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-comment": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -3635,7 +3682,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-vote": {
                 "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
@@ -3645,7 +3693,8 @@
                 "VERIFY_YOUR_ACCOUNT": "Verify Your Account",
                 "CREATE_NEW_LOGIN_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= FC_DOMAIN %>/auth/login/\">here</a>.",
                 "WASNT_YOU_IGNORE_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "common": {
                 "ADD_TO_MY_SITE": "Add FastComments To My Site"
@@ -3668,7 +3717,8 @@
                 "VERIFY_YOUR_ACCOUNT_THIS_LINK": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "CAN_CREATE_NEW_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= HOST %>/auth/login/\">here</a>.",
                 "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Click here</a> to login to FastComments.",
-                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>"
+                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "tenant-comment-digest": {
                 "BANNER_TEXT_DAILY": "FastComments Daily Digest",
@@ -3989,7 +4039,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-verify-vote": {
                 "FROM_NAME": "FastComments Robot",
@@ -3999,7 +4050,8 @@
                 "LOOKS_LIKE_YOU_VOTED_HERE": "It looks like you voted on a post <a href=\"<%= url %>\">here</a>. If you click the verification link below, it'll help us know that it was you that left this vote.",
                 "VERIFY_YOUR_VOTE_LINK": "Verify Your Vote",
                 "WAS_YOU_IGNORE_THIS_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-comment": {
                 "SUBJECT": "Welcome to FastComments <%= comment.commenterName %>!",
@@ -4021,7 +4073,8 @@
                 "DAYS_AGO": " days ago",
                 "WEEKS_AGO": " weeks ago",
                 "MONTHS_AGO": " months ago",
-                "YEARS_AGO": " years ago"
+                "YEARS_AGO": " years ago",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "commenter-welcome-from-vote": {
                 "SUBJECT": "Welcome to FastComments <%= commenterName %>!",
@@ -4031,7 +4084,8 @@
                 "VERIFY_YOUR_ACCOUNT": "Verify Your Account",
                 "CREATE_NEW_LOGIN_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= FC_DOMAIN %>/auth/login/\">here</a>.",
                 "WASNT_YOU_IGNORE_EMAIL": "If this wasn't you then ignore this email.",
-                "THANKS_SO_MUCH": "Thanks so much!"
+                "THANKS_SO_MUCH": "Thanks so much!",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "common": {
                 "ADD_TO_MY_SITE": "Add FastComments To My Site"
@@ -4054,7 +4108,8 @@
                 "VERIFY_YOUR_ACCOUNT_THIS_LINK": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "CAN_CREATE_NEW_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= HOST %>/auth/login/\">here</a>.",
                 "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Click here</a> to login to FastComments.",
-                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>"
+                "THAT_FULL_LINK_IS": "That full link is: <%= userVerifyUrl %>",
+                "UNSUBSCRIBE_HERE": "Login and unsubscribe from these emails here"
             },
             "tenant-comment-digest": {
                 "BANNER_TEXT_DAILY": "FastComments Daily Digest",

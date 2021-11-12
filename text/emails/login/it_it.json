@@ -9,5 +9,6 @@
     "VERIFY_YOUR_ACCOUNT_THIS_LINK": "<b> Verifica il tuo account </b> facendo clic su <a href=\"<%= userVerifyUrl %>\"> questo link </a>. Questo ti consentirà anche di accedere.",
     "CAN_CREATE_NEW_LINKS_HERE": "Puoi creare nuovi link per accedere al tuo account <a href=\"<%= HOST %>/auth/login/\"> qui </a>.",
     "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\"> Fare clic qui </a> per accedere a FastComments.",
-    "THAT_FULL_LINK_IS": "Il link completo è: <%= userVerifyUrl %>"
+    "THAT_FULL_LINK_IS": "Il link completo è: <%= userVerifyUrl %>",
+    "UNSUBSCRIBE_HERE": "Accedi e cancellati da queste email qui"
 }

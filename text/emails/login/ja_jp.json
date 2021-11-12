@@ -9,5 +9,6 @@
     "VERIFY_YOUR_ACCOUNT_THIS_LINK": "<a href=\"<%= userVerifyUrl %>\">このリンクを</a>クリックして<b>、アカウントを確認して</b>ください。これもサインインします。",
     "CAN_CREATE_NEW_LINKS_HERE": "<a href=\"<%= HOST %>/auth/login/\">ここで</a>アカウントにログインするための新しいリンクを作成できます。",
     "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">こちらをクリックして</a>FastCommentsにログインします。",
-    "THAT_FULL_LINK_IS": "その完全なリンクは次のとおりです：<%= userVerifyUrl %>"
+    "THAT_FULL_LINK_IS": "その完全なリンクは次のとおりです：<%= userVerifyUrl %>",
+    "UNSUBSCRIBE_HERE": "ここでこれらの電子メールにログインして購読を解除します"
 }

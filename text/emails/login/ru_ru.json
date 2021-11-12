@@ -9,5 +9,6 @@
     "VERIFY_YOUR_ACCOUNT_THIS_LINK": "<b> Подтвердите свою учетную запись </b>, нажав <a href=\"<%= userVerifyUrl %>\"> эту ссылку </a>. Вы также войдете в систему.",
     "CAN_CREATE_NEW_LINKS_HERE": "Вы можете создать новые ссылки для входа в свою учетную запись <a href=\"<%= HOST %>/auth/login/\"> здесь </a>.",
     "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\"> Нажмите здесь </a>, чтобы войти в FastComments.",
-    "THAT_FULL_LINK_IS": "Полная ссылка: <%= userVerifyUrl %>"
+    "THAT_FULL_LINK_IS": "Полная ссылка: <%= userVerifyUrl %>",
+    "UNSUBSCRIBE_HERE": "Войдите и откажитесь от подписки на эти электронные письма здесь"
 }

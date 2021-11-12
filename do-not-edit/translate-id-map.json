@@ -1,12 +1,12 @@
 {
     "lastCounts": {
         "commenter-comment-notification": 9,
-        "commenter-verify-post": 19,
-        "commenter-verify-vote": 8,
-        "commenter-welcome-from-comment": 20,
-        "commenter-welcome-from-vote": 8,
+        "commenter-verify-post": 20,
+        "commenter-verify-vote": 9,
+        "commenter-welcome-from-comment": 21,
+        "commenter-welcome-from-vote": 9,
         "forgot-username": 5,
-        "login": 11,
+        "login": 12,
         "tenant-comment-digest": 24,
         "tenant-comment-notification": 13,
         "tenant-free-trial-expired-reminder": 10,
@@ -52,7 +52,8 @@
         "t16": "WEEKS_AGO",
         "t17": "MONTHS_AGO",
         "t18": "YEARS_AGO",
-        "t19": "FROM_NAME"
+        "t19": "FROM_NAME",
+        "t20": "UNSUBSCRIBE_HERE"
     },
     "commenter-verify-vote": {
         "t1": "INTRO",
@@ -62,7 +63,8 @@
         "t5": "VERIFY_YOUR_VOTE_LINK",
         "t6": "WAS_YOU_IGNORE_THIS_EMAIL",
         "t7": "THANKS_SO_MUCH",
-        "t8": "FROM_NAME"
+        "t8": "FROM_NAME",
+        "t9": "UNSUBSCRIBE_HERE"
     },
     "commenter-welcome-from-comment": {
         "t1": "SUBJECT",
@@ -84,7 +86,8 @@
         "t17": "DAYS_AGO",
         "t18": "WEEKS_AGO",
         "t19": "MONTHS_AGO",
-        "t20": "YEARS_AGO"
+        "t20": "YEARS_AGO",
+        "t21": "UNSUBSCRIBE_HERE"
     },
     "commenter-welcome-from-vote": {
         "t1": "SUBJECT",
@@ -94,7 +97,8 @@
         "t5": "VERIFY_YOUR_ACCOUNT",
         "t6": "CREATE_NEW_LOGIN_LINKS_HERE",
         "t7": "WASNT_YOU_IGNORE_EMAIL",
-        "t8": "THANKS_SO_MUCH"
+        "t8": "THANKS_SO_MUCH",
+        "t9": "UNSUBSCRIBE_HERE"
     },
     "forgot-username": {
         "t1": "BANNER_TEXT",
@@ -114,7 +118,8 @@
         "t8": "VERIFY_YOUR_ACCOUNT_THIS_LINK",
         "t9": "CAN_CREATE_NEW_LINKS_HERE",
         "t10": "CLICK_HERE_TO_LOGIN",
-        "t11": "THAT_FULL_LINK_IS"
+        "t11": "THAT_FULL_LINK_IS",
+        "t12": "UNSUBSCRIBE_HERE"
     },
     "tenant-comment-digest": {
         "t1": "BANNER_TEXT_DAILY",
