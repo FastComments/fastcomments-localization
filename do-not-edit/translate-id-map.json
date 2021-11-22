@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 158,
+        "comment-ui": 159,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -413,5 +413,8 @@
     "comment-ui-error-unauthorized-for-page": {
         "t153": "UNAUTHORIZED_VIEW_THIS_PAGE",
         "t154": "UNAUTHORIZED_CONTRIBUTE_THIS_PAGE"
+    },
+    "comment-ui-filter-by-hash-tag": {
+        "t159": "HASH_TAG_FILTER_BAR_TITLE"
     }
 }
