@@ -20,7 +20,8 @@
         "tenant-user-removed-from-tenant": 5,
         "tenant-user-invite": 6,
         "tenant-new-user-invite": 6,
-        "comment-user-mention": 7
+        "comment-user-mention": 7,
+        "comment-ui-gifs": 2
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -417,5 +418,9 @@
     },
     "comment-ui-filter-by-hash-tag": {
         "t159": "HASH_TAG_FILTER_BAR_TITLE"
+    },
+    "comment-ui-gifs": {
+        "t1": "GIF_SEARCH_PLACEHOLDER",
+        "t2": "GIF_SEARCH_NO_RESULTS_FOUND"
     }
 }
