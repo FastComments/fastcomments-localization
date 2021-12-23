@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 160,
+        "comment-ui": 162,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -20,8 +20,7 @@
         "tenant-user-removed-from-tenant": 5,
         "tenant-user-invite": 6,
         "tenant-new-user-invite": 6,
-        "comment-user-mention": 7,
-        "comment-ui-gifs": 2
+        "comment-user-mention": 7
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -420,7 +419,7 @@
         "t159": "HASH_TAG_FILTER_BAR_TITLE"
     },
     "comment-ui-gifs": {
-        "t1": "GIF_SEARCH_PLACEHOLDER",
-        "t2": "GIF_SEARCH_NO_RESULTS_FOUND"
+        "t161": "GIF_SEARCH_PLACEHOLDER",
+        "t162": "GIF_SEARCH_NO_RESULTS_FOUND"
     }
 }
