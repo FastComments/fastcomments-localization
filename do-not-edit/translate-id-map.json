@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 163,
+        "comment-ui": 173,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -422,5 +422,17 @@
         "t161": "GIF_SEARCH_PLACEHOLDER",
         "t162": "GIF_SEARCH_NO_RESULTS_FOUND",
         "t163": "GIF_SEARCH_SUBMIT_ERROR_MAX_GIFS_EXCEEDED"
+    },
+    "comment-ui-notifications-list": {
+        "t164": "SUBSCRIBE_TO_THIS_PAGE",
+        "t165": "NOTIFICATION_VOTED_MY_COMMENT",
+        "t166": "NOTIFICATION_REPLIED_TO_ME",
+        "t167": "NOTIFICATION_REPLIED_TRANSIENT_CHILD",
+        "t168": "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT",
+        "t169": "NOTIFICATION_MARK_UNREAD",
+        "t170": "NOTIFICATION_MARK_READ",
+        "t171": "NOTIFICATION_OPT_IN_FOR_COMMENT",
+        "t172": "NOTIFICATION_OPT_OUT_FOR_COMMENT",
+        "t173": "NO_NOTIFICATIONS"
     }
 }
