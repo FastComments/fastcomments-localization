@@ -8,5 +8,7 @@
     "NOTIFICATION_MARK_READ": "マークリード",
     "NOTIFICATION_OPT_IN_FOR_COMMENT": "このコメントの通知をオプトインする",
     "NOTIFICATION_OPT_OUT_FOR_COMMENT": "このコメントの通知を無視する",
-    "NO_NOTIFICATIONS": "通知はありません。"
+    "NO_NOTIFICATIONS": "通知はありません。",
+    "NOTIFICATION_PROFILE_COMMENT": "<b>[fromUserName]</b>があなたのプロフィールにコメントしました。",
+    "NOTIFICATION_DM": "<b>[fromUserName]</b>からメッセージが届きました。"
 }

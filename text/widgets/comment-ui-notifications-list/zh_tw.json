@@ -8,5 +8,7 @@
     "NOTIFICATION_MARK_READ": "马克读",
     "NOTIFICATION_OPT_IN_FOR_COMMENT": "选择接收此评论的通知",
     "NOTIFICATION_OPT_OUT_FOR_COMMENT": "忽略此评论的通知",
-    "NO_NOTIFICATIONS": "您没有通知。"
+    "NO_NOTIFICATIONS": "您没有通知。",
+    "NOTIFICATION_PROFILE_COMMENT": "<b>[fromUserName]</b>评论了您的个人资料。",
+    "NOTIFICATION_DM": "<b>[fromUserName] 向</b>您发送了消息。"
 }
