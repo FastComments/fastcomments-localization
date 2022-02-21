@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 178,
+        "comment-ui": 190,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -20,8 +20,7 @@
         "tenant-user-removed-from-tenant": 5,
         "tenant-user-invite": 6,
         "tenant-new-user-invite": 6,
-        "comment-user-mention": 7,
-        "user-profile": 12
+        "comment-user-mention": 7
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -444,17 +443,17 @@
         "t176": "BLK_COUNT_MANY"
     },
     "user-profile": {
-        "t1": "USER_STATS_KARMA",
-        "t2": "USER_STATS_COMMENT_COUNT",
-        "t3": "PROFILE_PAGE_POST_COMMENT",
-        "t4": "PROFILE_USER_BLOCKED",
-        "t5": "PROFILE_PRIVATE",
-        "t6": "PROFILE_TAB_COMMENTS",
-        "t7": "PROFILE_TAB_ACTIVITY",
-        "t8": "PROFILE_TAB_DM",
-        "t9": "DM_PLACEHOLDER",
-        "t10": "DM_SUBMIT_REPLY",
-        "t11": "DM_PLEASE_LOGIN",
-        "t12": "DM_PLEASE_VERIFY_SESSION"
+        "t179": "USER_STATS_KARMA",
+        "t180": "USER_STATS_COMMENT_COUNT",
+        "t181": "PROFILE_PAGE_POST_COMMENT",
+        "t182": "PROFILE_USER_BLOCKED",
+        "t183": "PROFILE_PRIVATE",
+        "t184": "PROFILE_TAB_COMMENTS",
+        "t185": "PROFILE_TAB_ACTIVITY",
+        "t186": "PROFILE_TAB_DM",
+        "t187": "DM_PLACEHOLDER",
+        "t188": "DM_SUBMIT_REPLY",
+        "t189": "DM_PLEASE_LOGIN",
+        "t190": "DM_PLEASE_VERIFY_SESSION"
     }
 }
