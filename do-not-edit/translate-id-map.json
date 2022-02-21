@@ -20,7 +20,8 @@
         "tenant-user-removed-from-tenant": 5,
         "tenant-user-invite": 6,
         "tenant-new-user-invite": 6,
-        "comment-user-mention": 7
+        "comment-user-mention": 7,
+        "user-profile": 12
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -441,5 +442,19 @@
         "t174": "BLK_COUNT_ZERO",
         "t175": "BLK_COUNT_SINGLE",
         "t176": "BLK_COUNT_MANY"
+    },
+    "user-profile": {
+        "t1": "USER_STATS_KARMA",
+        "t2": "USER_STATS_COMMENT_COUNT",
+        "t3": "PROFILE_PAGE_POST_COMMENT",
+        "t4": "PROFILE_USER_BLOCKED",
+        "t5": "PROFILE_PRIVATE",
+        "t6": "PROFILE_TAB_COMMENTS",
+        "t7": "PROFILE_TAB_ACTIVITY",
+        "t8": "PROFILE_TAB_DM",
+        "t9": "DM_PLACEHOLDER",
+        "t10": "DM_SUBMIT_REPLY",
+        "t11": "DM_PLEASE_LOGIN",
+        "t12": "DM_PLEASE_VERIFY_SESSION"
     }
 }
