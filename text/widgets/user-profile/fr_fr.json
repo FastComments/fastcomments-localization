@@ -10,5 +10,11 @@
     "DM_PLACEHOLDER": "Entrez un message privé...",
     "DM_SUBMIT_REPLY": "Envoyer un message privé",
     "DM_PLEASE_LOGIN": "Veuillez vous connecter pour envoyer un message direct à cet utilisateur.",
-    "DM_PLEASE_VERIFY_SESSION": "Veuillez vérifier votre session pour envoyer un message direct à cet utilisateur."
+    "DM_PLEASE_VERIFY_SESSION": "Veuillez vérifier votre session pour envoyer un message direct à cet utilisateur.",
+    "PRIVACY_SETTINGS_ALLOW_COMMENTING_ON_MY_PROFILE": "Autoriser les commentaires sur mon profil.",
+    "PRIVACY_SETTINGS_ALLOW_ACTIVITY_PUBLIC": "Permettre à mon activité d'être visible par les autres.",
+    "PRIVACY_SETTINGS_ALLOW_OTHERS_DM_ME": "Autoriser les autres à m'envoyer un message direct.",
+    "PRIVACY_SETTINGS_FAILED_SAVE": "Nous n'avons pas réussi à enregistrer vos préférences. Vérifiez que vous êtes connecté et que vous disposez d'une connexion réseau active.",
+    "PRIVACY_SETTINGS_CANCEL": "Annuler",
+    "PRIVACY_SETTINGS_SAVE": "sauvegarder"
 }

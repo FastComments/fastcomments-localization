@@ -10,5 +10,11 @@
     "DM_PLACEHOLDER": "プライベートメッセージを入力してください...",
     "DM_SUBMIT_REPLY": "プライベートメッセージを送信する",
     "DM_PLEASE_LOGIN": "このユーザーにダイレクトメッセージを送信するには、ログインしてください。",
-    "DM_PLEASE_VERIFY_SESSION": "このユーザーにダイレクトメッセージを送信するには、セッションを確認してください。"
+    "DM_PLEASE_VERIFY_SESSION": "このユーザーにダイレクトメッセージを送信するには、セッションを確認してください。",
+    "PRIVACY_SETTINGS_ALLOW_COMMENTING_ON_MY_PROFILE": "プロフィールへのコメントを許可します。",
+    "PRIVACY_SETTINGS_ALLOW_ACTIVITY_PUBLIC": "私の活動が他の人に見えるようにします。",
+    "PRIVACY_SETTINGS_ALLOW_OTHERS_DM_ME": "他の人が私に直接メッセージを送ることを許可します。",
+    "PRIVACY_SETTINGS_FAILED_SAVE": "設定を保存できませんでした。ログインしていること、およびアクティブなネットワーク接続があることを確認してください。",
+    "PRIVACY_SETTINGS_CANCEL": "キャンセル",
+    "PRIVACY_SETTINGS_SAVE": "保存"
 }

@@ -10,5 +10,11 @@
     "DM_PLACEHOLDER": "Введите личное сообщение...",
     "DM_SUBMIT_REPLY": "Отправить личное сообщение",
     "DM_PLEASE_LOGIN": "Пожалуйста, войдите в систему, чтобы отправить сообщение этому пользователю.",
-    "DM_PLEASE_VERIFY_SESSION": "Подтвердите сеанс, чтобы отправить сообщение этому пользователю."
+    "DM_PLEASE_VERIFY_SESSION": "Подтвердите сеанс, чтобы отправить сообщение этому пользователю.",
+    "PRIVACY_SETTINGS_ALLOW_COMMENTING_ON_MY_PROFILE": "Разрешить комментировать мой профиль.",
+    "PRIVACY_SETTINGS_ALLOW_ACTIVITY_PUBLIC": "Разрешить другим видеть мою активность.",
+    "PRIVACY_SETTINGS_ALLOW_OTHERS_DM_ME": "Разрешить другим отправлять мне прямые сообщения.",
+    "PRIVACY_SETTINGS_FAILED_SAVE": "Не удалось сохранить ваши настройки. Убедитесь, что вы вошли в систему и у вас есть активное сетевое подключение.",
+    "PRIVACY_SETTINGS_CANCEL": "Отмена",
+    "PRIVACY_SETTINGS_SAVE": "Сохранять"
 }

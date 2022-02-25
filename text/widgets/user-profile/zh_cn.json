@@ -10,5 +10,11 @@
     "DM_PLACEHOLDER": "输入私信...",
     "DM_SUBMIT_REPLY": "发送私信",
     "DM_PLEASE_LOGIN": "请登录以直接向该用户发送消息。",
-    "DM_PLEASE_VERIFY_SESSION": "请验证您的会话以直接向该用户发送消息。"
+    "DM_PLEASE_VERIFY_SESSION": "请验证您的会话以直接向该用户发送消息。",
+    "PRIVACY_SETTINGS_ALLOW_COMMENTING_ON_MY_PROFILE": "允许评论我的个人资料。",
+    "PRIVACY_SETTINGS_ALLOW_ACTIVITY_PUBLIC": "让其他人可以看到我的活动。",
+    "PRIVACY_SETTINGS_ALLOW_OTHERS_DM_ME": "允许其他人直接给我发消息。",
+    "PRIVACY_SETTINGS_FAILED_SAVE": "我们未能保存您的偏好。检查您是否已登录，并且您有一个活动的网络连接。",
+    "PRIVACY_SETTINGS_CANCEL": "取消",
+    "PRIVACY_SETTINGS_SAVE": "保存"
 }

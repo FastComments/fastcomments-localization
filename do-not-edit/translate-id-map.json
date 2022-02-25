@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 190,
+        "comment-ui": 196,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -454,6 +454,12 @@
         "t187": "DM_PLACEHOLDER",
         "t188": "DM_SUBMIT_REPLY",
         "t189": "DM_PLEASE_LOGIN",
-        "t190": "DM_PLEASE_VERIFY_SESSION"
+        "t190": "DM_PLEASE_VERIFY_SESSION",
+        "t191": "PRIVACY_SETTINGS_ALLOW_COMMENTING_ON_MY_PROFILE",
+        "t192": "PRIVACY_SETTINGS_ALLOW_ACTIVITY_PUBLIC",
+        "t193": "PRIVACY_SETTINGS_ALLOW_OTHERS_DM_ME",
+        "t194": "PRIVACY_SETTINGS_FAILED_SAVE",
+        "t195": "PRIVACY_SETTINGS_CANCEL",
+        "t196": "PRIVACY_SETTINGS_SAVE"
     }
 }

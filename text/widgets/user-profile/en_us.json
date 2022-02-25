@@ -10,5 +10,11 @@
   "DM_PLACEHOLDER": "Enter a private message...",
   "DM_SUBMIT_REPLY": "Send Private Message",
   "DM_PLEASE_LOGIN": "Please log in to direct message this user.",
-  "DM_PLEASE_VERIFY_SESSION": "Please verify your session to direct message this user."
+  "DM_PLEASE_VERIFY_SESSION": "Please verify your session to direct message this user.",
+  "PRIVACY_SETTINGS_ALLOW_COMMENTING_ON_MY_PROFILE": "Allow commenting on my profile.",
+  "PRIVACY_SETTINGS_ALLOW_ACTIVITY_PUBLIC": "Allow my activity to be visible to others.",
+  "PRIVACY_SETTINGS_ALLOW_OTHERS_DM_ME": "Allow others to direct message me.",
+  "PRIVACY_SETTINGS_FAILED_SAVE": "We failed to save your preferences. Check that you are logged in, and you have an active network connection.",
+  "PRIVACY_SETTINGS_CANCEL": "Cancel",
+  "PRIVACY_SETTINGS_SAVE": "Save"
 }
