@@ -1,0 +1,7 @@
+{
+    "SUBJECT": "Nowa wiadomość od <%= comment.commenterName %>",
+    "INTRO": "Hej <%= targetUser.username %>,",
+    "YOU_HAVE_A_NEW_MESSAGE": "Otrzymałeś nową wiadomość.",
+    "GO_TO_CONVERSATION": "Przejdź do rozmowy",
+    "UNSUBSCRIBE_HERE": "Zrezygnuj z otrzymywania powiadomień tutaj."
+}

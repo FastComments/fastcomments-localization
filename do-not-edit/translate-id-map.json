@@ -20,7 +20,8 @@
         "tenant-user-removed-from-tenant": 5,
         "tenant-user-invite": 6,
         "tenant-new-user-invite": 6,
-        "comment-user-mention": 7
+        "comment-user-mention": 7,
+        "direct-message-notification": 5
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -470,5 +471,12 @@
         "t202": "USER_STATS_COMMUNITIES",
         "t204": "PROFILE_NO_ACTIVITY",
         "t205": "DM_YOU_PREFIX"
+    },
+    "direct-message-notification": {
+        "t1": "SUBJECT",
+        "t2": "INTRO",
+        "t3": "YOU_HAVE_A_NEW_MESSAGE",
+        "t4": "GO_TO_CONVERSATION",
+        "t5": "UNSUBSCRIBE_HERE"
     }
 }

@@ -470,6 +470,13 @@
                 "USER_STATS_COMMUNITIES": "Communities",
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:"
+            },
+            "direct-message-notification": {
+                "SUBJECT": "New message from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "GO_TO_CONVERSATION": "Go to Conversation",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "es_es": {
@@ -942,6 +949,13 @@
                 "USER_STATS_COMMUNITIES": "Communities",
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:"
+            },
+            "direct-message-notification": {
+                "SUBJECT": "New message from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "GO_TO_CONVERSATION": "Go to Conversation",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "pl_pl": {
@@ -1400,6 +1414,13 @@
                 "USER_STATS_COMMUNITIES": "Communities",
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:"
+            },
+            "direct-message-notification": {
+                "SUBJECT": "New message from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "GO_TO_CONVERSATION": "Go to Conversation",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "de_de": {
@@ -1856,6 +1877,13 @@
                 "USER_STATS_COMMUNITIES": "Communities",
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:"
+            },
+            "direct-message-notification": {
+                "SUBJECT": "New message from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "GO_TO_CONVERSATION": "Go to Conversation",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "it_it": {
@@ -2312,6 +2340,13 @@
                 "USER_STATS_COMMUNITIES": "Communities",
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:"
+            },
+            "direct-message-notification": {
+                "SUBJECT": "New message from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "GO_TO_CONVERSATION": "Go to Conversation",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "ru_ru": {
@@ -2768,6 +2803,13 @@
                 "USER_STATS_COMMUNITIES": "Communities",
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:"
+            },
+            "direct-message-notification": {
+                "SUBJECT": "New message from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "GO_TO_CONVERSATION": "Go to Conversation",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "pt_br": {
@@ -3222,6 +3264,13 @@
                 "USER_STATS_COMMUNITIES": "Communities",
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:"
+            },
+            "direct-message-notification": {
+                "SUBJECT": "New message from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "GO_TO_CONVERSATION": "Go to Conversation",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "ja_jp": {
@@ -3671,6 +3720,13 @@
                 "USER_STATS_COMMUNITIES": "Communities",
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:"
+            },
+            "direct-message-notification": {
+                "SUBJECT": "New message from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "GO_TO_CONVERSATION": "Go to Conversation",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "tr_tr": {
@@ -4120,6 +4176,13 @@
                 "USER_STATS_COMMUNITIES": "Communities",
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:"
+            },
+            "direct-message-notification": {
+                "SUBJECT": "New message from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "GO_TO_CONVERSATION": "Go to Conversation",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "zh_cn": {
@@ -4568,6 +4631,13 @@
                 "USER_STATS_COMMUNITIES": "Communities",
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:"
+            },
+            "direct-message-notification": {
+                "SUBJECT": "New message from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "GO_TO_CONVERSATION": "Go to Conversation",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "zh_tw": {
@@ -5016,6 +5086,13 @@
                 "USER_STATS_COMMUNITIES": "Communities",
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:"
+            },
+            "direct-message-notification": {
+                "SUBJECT": "New message from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "GO_TO_CONVERSATION": "Go to Conversation",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         }
     }

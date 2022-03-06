@@ -1,0 +1,7 @@
+{
+    "SUBJECT": "来自 <%= comment.commenterName %> 的新消息",
+    "INTRO": "嘿 <%= targetUser.username %>，",
+    "YOU_HAVE_A_NEW_MESSAGE": "您收到一条新消息。",
+    "GO_TO_CONVERSATION": "去对话",
+    "UNSUBSCRIBE_HERE": "在此处取消订阅通知。"
+}

@@ -1,0 +1,7 @@
+{
+    "SUBJECT": "<%= comment.commenterName %>からの新しいメッセージ",
+    "INTRO": "おい <%= targetUser.username %>、",
+    "YOU_HAVE_A_NEW_MESSAGE": "新しいメッセージを受け取りました。",
+    "GO_TO_CONVERSATION": "会話に行く",
+    "UNSUBSCRIBE_HERE": "ここで通知の購読を解除します。"
+}
