@@ -23,6 +23,6 @@
   "PRIVACY_SETTINGS_CANCEL": "Cancel",
   "PRIVACY_SETTINGS_SAVE": "Save",
   "DM_YOU_PREFIX": "You:",
-  "PROFILE_TAB_COMMENTS_TITLE": "[username]'s Profile",
-  "DM_PAGE_TITLE": "DM With [other_usernames]"
+  "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
+  "DM_PAGE_TITLE": "DM With <%= other_usernames %>"
 }

@@ -23,6 +23,6 @@
     "USER_STATS_COMMUNITIES": "Topluluklar",
     "PROFILE_NO_ACTIVITY": "Burada görülecek bir şey yok.",
     "DM_YOU_PREFIX": "Sen:",
-    "DM_PAGE_TITLE": "[other_usernames] ile DM",
-    "PROFILE_TAB_COMMENTS_TITLE": "[username]'nın Profili"
+    "DM_PAGE_TITLE": "<%= other_usernames %> ile DM",
+    "PROFILE_TAB_COMMENTS_TITLE": "<%= username %> Profili"
 }

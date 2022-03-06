@@ -23,6 +23,6 @@
     "USER_STATS_COMMUNITIES": "Communautés",
     "PROFILE_NO_ACTIVITY": "Rien à voir ici.",
     "DM_YOU_PREFIX": "Toi:",
-    "DM_PAGE_TITLE": "DM avec [other_usernames]",
-    "PROFILE_TAB_COMMENTS_TITLE": "Profil de [username]"
+    "DM_PAGE_TITLE": "MP avec <%= other_usernames %>",
+    "PROFILE_TAB_COMMENTS_TITLE": "Profil de <%= username %>"
 }
