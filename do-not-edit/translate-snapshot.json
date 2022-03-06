@@ -476,7 +476,7 @@
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
                 "INTRO": "Hey <%= targetUser.username %>,",
-                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
@@ -957,7 +957,7 @@
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
                 "INTRO": "Hey <%= targetUser.username %>,",
-                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
@@ -1424,7 +1424,7 @@
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
                 "INTRO": "Hey <%= targetUser.username %>,",
-                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
@@ -1889,7 +1889,7 @@
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
                 "INTRO": "Hey <%= targetUser.username %>,",
-                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
@@ -2354,7 +2354,7 @@
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
                 "INTRO": "Hey <%= targetUser.username %>,",
-                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
@@ -2819,7 +2819,7 @@
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
                 "INTRO": "Hey <%= targetUser.username %>,",
-                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
@@ -3282,7 +3282,7 @@
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
                 "INTRO": "Hey <%= targetUser.username %>,",
-                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
@@ -3740,7 +3740,7 @@
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
                 "INTRO": "Hey <%= targetUser.username %>,",
-                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
@@ -4198,7 +4198,7 @@
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
                 "INTRO": "Hey <%= targetUser.username %>,",
-                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
@@ -4655,7 +4655,7 @@
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
                 "INTRO": "Hey <%= targetUser.username %>,",
-                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
@@ -5112,7 +5112,7 @@
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
                 "INTRO": "Hey <%= targetUser.username %>,",
-                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message.",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }

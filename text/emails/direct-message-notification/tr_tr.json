@@ -1,7 +1,7 @@
 {
     "SUBJECT": "<%= comment.commenterName %>'dan yeni mesaj",
     "INTRO": "Hey <%= targetUser.username %>,",
-    "YOU_HAVE_A_NEW_MESSAGE": "Yeni bir mesaj aldınız.",
+    "YOU_HAVE_A_NEW_MESSAGE": "Aşağıda gösterilen yeni bir mesaj aldınız. Bu e-postayı yanıtlayarak veya aşağıdaki düğmeyi tıklayarak yanıt verebilirsiniz.",
     "GO_TO_CONVERSATION": "Konuşmaya Git",
     "UNSUBSCRIBE_HERE": "Buradaki bildirimlerden aboneliğinizi iptal edin."
 }

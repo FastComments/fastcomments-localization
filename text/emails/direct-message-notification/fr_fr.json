@@ -1,7 +1,7 @@
 {
     "SUBJECT": "Nouveau message de <%= comment.commenterName %>",
     "INTRO": "Hé <%= targetUser.username %>,",
-    "YOU_HAVE_A_NEW_MESSAGE": "Vous avez reçu un nouveau message.",
+    "YOU_HAVE_A_NEW_MESSAGE": "Vous avez reçu un nouveau message, illustré ci-dessous. Vous pouvez répondre en répondant à cet e-mail ou en cliquant sur le bouton ci-dessous.",
     "GO_TO_CONVERSATION": "Aller à Conversation",
     "UNSUBSCRIBE_HERE": "Désabonnez-vous des notifications ici."
 }
