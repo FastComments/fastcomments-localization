@@ -20,5 +20,13 @@
     "BAN_CONFIRM": "Confirmer l'interdiction",
     "BAN_SAVING": "Suppression du commentaire et bannissement de l'utilisateur...",
     "BAN_FAILURE": "Une erreur s'est produite lors de la suppression de ce commentaire et du bannissement de l'utilisateur.",
-    "VIEW_ALL_FROM_IP": "Afficher tout depuis IP"
+    "VIEW_ALL_FROM_IP": "Afficher tout depuis IP",
+    "COMMENT_MENU_GIVE_BADGE": "Insigne de récompense",
+    "MODERATION_GIVE_BADGE_NONE": "Vous n&#39;avez aucun badge à attribuer ! <a href=\"https://fastcomments.com/auth/my-account/configure-badges\" target=\"_blank\">Commencez à en installer dès aujourd&#39;hui.</a><br><br> Notez que seuls les badges &quot;Manuel&quot; peuvent être donnés manuellement.",
+    "PICK_BADGE_TO_GIVE": "Choisissez un badge à récompenser.",
+    "BADGE_SELECT_LABEL": "Insignes disponibles",
+    "LOGIN_TO_GIVE_BADGE": "Vous êtes déconnecté. Connectez-vous pour attribuer un badge à cet utilisateur.",
+    "GIVE_BADGE_FAILURE": "L'attribution de ce badge a échoué.",
+    "GIVE_BADGE_SAVING": "Économie...",
+    "GIVE_BADGE_CONFIRM": "Insigne de récompense"
 }

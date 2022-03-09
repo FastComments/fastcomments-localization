@@ -20,5 +20,13 @@
     "BAN_CONFIRM": "禁止の確認",
     "BAN_SAVING": "コメントを削除してユーザーを禁止...",
     "BAN_FAILURE": "そのコメントを削除してユーザーを禁止すると、エラーが発生しました。",
-    "VIEW_ALL_FROM_IP": "IPからすべて表示"
+    "VIEW_ALL_FROM_IP": "IPからすべて表示",
+    "COMMENT_MENU_GIVE_BADGE": "アワードバッジ",
+    "MODERATION_GIVE_BADGE_NONE": "授与するバッジはありません。<a href=\"https://fastcomments.com/auth/my-account/configure-badges\" target=\"_blank\">今日からセットアップを開始してください。</a><br><br>手動で付与できるのは「手動」バッジのみであることに注意してください。",
+    "PICK_BADGE_TO_GIVE": "授与するバッジを選んでください。",
+    "BADGE_SELECT_LABEL": "利用可能なバッジ",
+    "LOGIN_TO_GIVE_BADGE": "ログアウトしています。ログインして、このユーザーにバッジを付与します。",
+    "GIVE_BADGE_FAILURE": "このバッジの授与は失敗しました。",
+    "GIVE_BADGE_SAVING": "保存しています...",
+    "GIVE_BADGE_CONFIRM": "アワードバッジ"
 }

@@ -20,5 +20,13 @@
     "BAN_CONFIRM": "Sperre bestätigen",
     "BAN_SAVING": "Kommentar entfernen und Benutzer sperren...",
     "BAN_FAILURE": "Beim Entfernen dieses Kommentars und Sperren des Benutzers ist ein Fehler aufgetreten.",
-    "VIEW_ALL_FROM_IP": "Alle von IP anzeigen"
+    "VIEW_ALL_FROM_IP": "Alle von IP anzeigen",
+    "COMMENT_MENU_GIVE_BADGE": "Auszeichnungsabzeichen",
+    "MODERATION_GIVE_BADGE_NONE": "Sie haben keine Abzeichen zu vergeben! <a href=\"https://fastcomments.com/auth/my-account/configure-badges\" target=\"_blank\">Beginnen Sie noch heute mit der Einrichtung.</a><br><br> Beachten Sie, dass nur &quot;Manuell&quot;-Badges manuell vergeben werden können.",
+    "PICK_BADGE_TO_GIVE": "Wählen Sie ein Abzeichen aus, das Sie vergeben möchten.",
+    "BADGE_SELECT_LABEL": "Abzeichen verfügbar",
+    "LOGIN_TO_GIVE_BADGE": "Sie sind abgemeldet. Melden Sie sich an, um diesem Benutzer ein Abzeichen zu geben.",
+    "GIVE_BADGE_FAILURE": "Die Vergabe dieses Abzeichens ist fehlgeschlagen.",
+    "GIVE_BADGE_SAVING": "Sparen...",
+    "GIVE_BADGE_CONFIRM": "Auszeichnungsabzeichen"
 }

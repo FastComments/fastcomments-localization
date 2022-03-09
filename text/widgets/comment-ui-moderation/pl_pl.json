@@ -20,5 +20,13 @@
     "BAN_CONFIRM": "Potwierdź zakaz",
     "BAN_SAVING": "Usuwanie komentarza i blokowanie użytkownika...",
     "BAN_FAILURE": "Wystąpił błąd podczas usuwania tego komentarza i blokowania użytkownika.",
-    "VIEW_ALL_FROM_IP": "Zobacz wszystko z adresu IP"
+    "VIEW_ALL_FROM_IP": "Zobacz wszystko z adresu IP",
+    "COMMENT_MENU_GIVE_BADGE": "Odznaka nagrody",
+    "MODERATION_GIVE_BADGE_NONE": "Nie masz żadnych odznak do przyznania! <a href=\"https://fastcomments.com/auth/my-account/configure-badges\" target=\"_blank\">Zacznij konfigurować już dziś.</a><br><br> Pamiętaj, że ręcznie można nadać tylko odznaki „Ręcznie”.",
+    "PICK_BADGE_TO_GIVE": "Wybierz odznakę do przyznania.",
+    "BADGE_SELECT_LABEL": "Dostępne odznaki",
+    "LOGIN_TO_GIVE_BADGE": "Jesteś wylogowany. Zaloguj się, aby nadać temu użytkownikowi odznakę.",
+    "GIVE_BADGE_FAILURE": "Nie udało się przyznać tej odznaki.",
+    "GIVE_BADGE_SAVING": "Oszczędność...",
+    "GIVE_BADGE_CONFIRM": "Odznaka nagrody"
 }

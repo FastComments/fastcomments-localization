@@ -20,5 +20,13 @@
     "BAN_CONFIRM": "确认禁令",
     "BAN_SAVING": "正在删除评论并禁止用户...",
     "BAN_FAILURE": "删除该评论并禁止用户时出错。",
-    "VIEW_ALL_FROM_IP": "从 IP 查看所有"
+    "VIEW_ALL_FROM_IP": "从 IP 查看所有",
+    "COMMENT_MENU_GIVE_BADGE": "奖章",
+    "MODERATION_GIVE_BADGE_NONE": "你没有任何徽章可以奖励！<a href=\"https://fastcomments.com/auth/my-account/configure-badges\" target=\"_blank\">今天开始设置一些。</a><br><br>请注意，只能手动提供“手动”徽章。",
+    "PICK_BADGE_TO_GIVE": "选择要奖励的徽章。",
+    "BADGE_SELECT_LABEL": "可用的徽章",
+    "LOGIN_TO_GIVE_BADGE": "您已注销。登录给这个用户一个徽章。",
+    "GIVE_BADGE_FAILURE": "授予此徽章失败。",
+    "GIVE_BADGE_SAVING": "保存...",
+    "GIVE_BADGE_CONFIRM": "奖章"
 }

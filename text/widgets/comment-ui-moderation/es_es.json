@@ -20,5 +20,13 @@
     "BAN_CONFIRM": "Confirmar prohibición",
     "BAN_SAVING": "Eliminando el comentario y prohibiendo al usuario ...",
     "BAN_FAILURE": "Se produjo un error al eliminar ese comentario y prohibir al usuario.",
-    "VIEW_ALL_FROM_IP": "Ver todo desde IP"
+    "VIEW_ALL_FROM_IP": "Ver todo desde IP",
+    "COMMENT_MENU_GIVE_BADGE": "Insignia de premio",
+    "MODERATION_GIVE_BADGE_NONE": "¡No tienes insignias para otorgar! <a href=\"https://fastcomments.com/auth/my-account/configure-badges\" target=\"_blank\">Comience a configurar algunos hoy.</a><br><br> Tenga en cuenta que solo las insignias &quot;Manuales&quot; se pueden otorgar manualmente.",
+    "PICK_BADGE_TO_GIVE": "Elija una insignia para otorgar.",
+    "BADGE_SELECT_LABEL": "Insignias disponibles",
+    "LOGIN_TO_GIVE_BADGE": "Estás desconectado. Inicie sesión para otorgar una insignia a este usuario.",
+    "GIVE_BADGE_FAILURE": "No se pudo otorgar esta insignia.",
+    "GIVE_BADGE_SAVING": "Ahorro...",
+    "GIVE_BADGE_CONFIRM": "Insignia de premio"
 }

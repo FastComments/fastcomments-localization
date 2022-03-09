@@ -20,5 +20,13 @@
     "BAN_CONFIRM": "Подтвердить запрет",
     "BAN_SAVING": "Удаление комментария и бан пользователя ...",
     "BAN_FAILURE": "Произошла ошибка при удалении этого комментария и блокировке пользователя.",
-    "VIEW_ALL_FROM_IP": "Просмотреть все с IP"
+    "VIEW_ALL_FROM_IP": "Просмотреть все с IP",
+    "COMMENT_MENU_GIVE_BADGE": "Наградной значок",
+    "MODERATION_GIVE_BADGE_NONE": "У вас нет значков для награждения! <a href=\"https://fastcomments.com/auth/my-account/configure-badges\" target=\"_blank\">Начните настраивать сегодня.</a><br><br> Обратите внимание, что вручную можно давать только значки «Вручную».",
+    "PICK_BADGE_TO_GIVE": "Выберите значок для награждения.",
+    "BADGE_SELECT_LABEL": "Доступные значки",
+    "LOGIN_TO_GIVE_BADGE": "Вы вышли из системы. Войдите, чтобы дать значок этому пользователю.",
+    "GIVE_BADGE_FAILURE": "Присвоение этого значка не удалось.",
+    "GIVE_BADGE_SAVING": "Сохранение...",
+    "GIVE_BADGE_CONFIRM": "Наградной значок"
 }

@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 207,
+        "comment-ui": 215,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -396,7 +396,15 @@
         "t138": "BAN_CONFIRM",
         "t139": "BAN_SAVING",
         "t140": "BAN_FAILURE",
-        "t155": "VIEW_ALL_FROM_IP"
+        "t155": "VIEW_ALL_FROM_IP",
+        "t208": "COMMENT_MENU_GIVE_BADGE",
+        "t209": "MODERATION_GIVE_BADGE_NONE",
+        "t210": "PICK_BADGE_TO_GIVE",
+        "t211": "BADGE_SELECT_LABEL",
+        "t212": "LOGIN_TO_GIVE_BADGE",
+        "t213": "GIVE_BADGE_FAILURE",
+        "t214": "GIVE_BADGE_SAVING",
+        "t215": "GIVE_BADGE_CONFIRM"
     },
     "comment-user-mention": {
         "t1": "SUBJECT",
