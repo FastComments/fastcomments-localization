@@ -24,5 +24,7 @@
     "PROFILE_NO_ACTIVITY": "Es gibt hier nichts zu sehen.",
     "DM_YOU_PREFIX": "Sie:",
     "DM_PAGE_TITLE": "Direktnachricht mit <%= other_usernames %>",
-    "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>s Profil"
+    "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>s Profil",
+    "PROFILE_COPY_URL": "Profil-URL kopieren",
+    "PROFILE_COPY_URL_SUCCESS": "Kopiert!"
 }

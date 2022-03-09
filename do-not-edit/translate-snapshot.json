@@ -479,7 +479,9 @@
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:",
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
-                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile"
+                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
+                "PROFILE_COPY_URL": "Copy Profile URL",
+                "PROFILE_COPY_URL_SUCCESS": "Copied!"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -968,7 +970,9 @@
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:",
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
-                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile"
+                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
+                "PROFILE_COPY_URL": "Copy Profile URL",
+                "PROFILE_COPY_URL_SUCCESS": "Copied!"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -1443,7 +1447,9 @@
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:",
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
-                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile"
+                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
+                "PROFILE_COPY_URL": "Copy Profile URL",
+                "PROFILE_COPY_URL_SUCCESS": "Copied!"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -1916,7 +1922,9 @@
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:",
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
-                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile"
+                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
+                "PROFILE_COPY_URL": "Copy Profile URL",
+                "PROFILE_COPY_URL_SUCCESS": "Copied!"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -2389,7 +2397,9 @@
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:",
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
-                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile"
+                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
+                "PROFILE_COPY_URL": "Copy Profile URL",
+                "PROFILE_COPY_URL_SUCCESS": "Copied!"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -2862,7 +2872,9 @@
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:",
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
-                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile"
+                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
+                "PROFILE_COPY_URL": "Copy Profile URL",
+                "PROFILE_COPY_URL_SUCCESS": "Copied!"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -3333,7 +3345,9 @@
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:",
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
-                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile"
+                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
+                "PROFILE_COPY_URL": "Copy Profile URL",
+                "PROFILE_COPY_URL_SUCCESS": "Copied!"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -3799,7 +3813,9 @@
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:",
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
-                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile"
+                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
+                "PROFILE_COPY_URL": "Copy Profile URL",
+                "PROFILE_COPY_URL_SUCCESS": "Copied!"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -4265,7 +4281,9 @@
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:",
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
-                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile"
+                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
+                "PROFILE_COPY_URL": "Copy Profile URL",
+                "PROFILE_COPY_URL_SUCCESS": "Copied!"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -4730,7 +4748,9 @@
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:",
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
-                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile"
+                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
+                "PROFILE_COPY_URL": "Copy Profile URL",
+                "PROFILE_COPY_URL_SUCCESS": "Copied!"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -5195,7 +5215,9 @@
                 "PROFILE_NO_ACTIVITY": "Nothing to see here.",
                 "DM_YOU_PREFIX": "You:",
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
-                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile"
+                "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
+                "PROFILE_COPY_URL": "Copy Profile URL",
+                "PROFILE_COPY_URL_SUCCESS": "Copied!"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",

@@ -24,5 +24,7 @@
     "PROFILE_NO_ACTIVITY": "这没东西看。",
     "DM_YOU_PREFIX": "你：",
     "DM_PAGE_TITLE": "与<%= other_usernames %>联系",
-    "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>的个人资料"
+    "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>的个人资料",
+    "PROFILE_COPY_URL": "复制个人资料网址",
+    "PROFILE_COPY_URL_SUCCESS": "复制！"
 }

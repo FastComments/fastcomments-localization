@@ -24,5 +24,7 @@
     "PROFILE_NO_ACTIVITY": "Nie ma tu nic do zobaczenia.",
     "DM_YOU_PREFIX": "Ty:",
     "DM_PAGE_TITLE": "DM Z <%= other_usernames %>",
-    "PROFILE_TAB_COMMENTS_TITLE": "<%= username %> profil"
+    "PROFILE_TAB_COMMENTS_TITLE": "<%= username %> profil",
+    "PROFILE_COPY_URL": "Skopiuj adres URL profilu",
+    "PROFILE_COPY_URL_SUCCESS": "Skopiowane!"
 }

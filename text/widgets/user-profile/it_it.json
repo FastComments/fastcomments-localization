@@ -24,5 +24,7 @@
     "PROFILE_NO_ACTIVITY": "Niente da vedere quì.",
     "DM_YOU_PREFIX": "Voi:",
     "DM_PAGE_TITLE": "DM Con <%= other_usernames %>",
-    "PROFILE_TAB_COMMENTS_TITLE": "Profilo di <%= username %>"
+    "PROFILE_TAB_COMMENTS_TITLE": "Profilo di <%= username %>",
+    "PROFILE_COPY_URL": "Copia l'URL del profilo",
+    "PROFILE_COPY_URL_SUCCESS": "Copiato!"
 }
