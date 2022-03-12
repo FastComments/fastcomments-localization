@@ -26,5 +26,10 @@
     "DM_PAGE_TITLE": "DMと<%= other_usernames %>",
     "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>のプロフィール",
     "PROFILE_COPY_URL": "プロファイルURLをコピーする",
-    "PROFILE_COPY_URL_SUCCESS": "コピーしました！"
+    "PROFILE_COPY_URL_SUCCESS": "コピーしました！",
+    "BADGES_PROGRESS": "バッジの進捗状況",
+    "PROFILE_MANAGE_BADGES": "バッジを管理する",
+    "PROFILE_MY_BADGES": "私のバッジ",
+    "PROFILE_BADGES_EARNABLE": "獲得可能なバッジ",
+    "PROFILE_BADGES_SITE_TITLE": "[name]で利用可能："
 }

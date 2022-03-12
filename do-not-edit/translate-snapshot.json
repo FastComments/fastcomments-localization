@@ -481,7 +481,12 @@
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
                 "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
                 "PROFILE_COPY_URL": "Copy Profile URL",
-                "PROFILE_COPY_URL_SUCCESS": "Copied!"
+                "PROFILE_COPY_URL_SUCCESS": "Copied!",
+                "BADGES_PROGRESS": "Badges Progress",
+                "PROFILE_MANAGE_BADGES": "Manage Badges",
+                "PROFILE_MY_BADGES": "My Badges",
+                "PROFILE_BADGES_EARNABLE": "Badges Earnable",
+                "PROFILE_BADGES_SITE_TITLE": "Available on [name]:"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -972,7 +977,12 @@
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
                 "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
                 "PROFILE_COPY_URL": "Copy Profile URL",
-                "PROFILE_COPY_URL_SUCCESS": "Copied!"
+                "PROFILE_COPY_URL_SUCCESS": "Copied!",
+                "BADGES_PROGRESS": "Badges Progress",
+                "PROFILE_MANAGE_BADGES": "Manage Badges",
+                "PROFILE_MY_BADGES": "My Badges",
+                "PROFILE_BADGES_EARNABLE": "Badges Earnable",
+                "PROFILE_BADGES_SITE_TITLE": "Available on [name]:"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -1449,7 +1459,12 @@
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
                 "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
                 "PROFILE_COPY_URL": "Copy Profile URL",
-                "PROFILE_COPY_URL_SUCCESS": "Copied!"
+                "PROFILE_COPY_URL_SUCCESS": "Copied!",
+                "BADGES_PROGRESS": "Badges Progress",
+                "PROFILE_MANAGE_BADGES": "Manage Badges",
+                "PROFILE_MY_BADGES": "My Badges",
+                "PROFILE_BADGES_EARNABLE": "Badges Earnable",
+                "PROFILE_BADGES_SITE_TITLE": "Available on [name]:"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -1924,7 +1939,12 @@
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
                 "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
                 "PROFILE_COPY_URL": "Copy Profile URL",
-                "PROFILE_COPY_URL_SUCCESS": "Copied!"
+                "PROFILE_COPY_URL_SUCCESS": "Copied!",
+                "BADGES_PROGRESS": "Badges Progress",
+                "PROFILE_MANAGE_BADGES": "Manage Badges",
+                "PROFILE_MY_BADGES": "My Badges",
+                "PROFILE_BADGES_EARNABLE": "Badges Earnable",
+                "PROFILE_BADGES_SITE_TITLE": "Available on [name]:"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -2399,7 +2419,12 @@
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
                 "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
                 "PROFILE_COPY_URL": "Copy Profile URL",
-                "PROFILE_COPY_URL_SUCCESS": "Copied!"
+                "PROFILE_COPY_URL_SUCCESS": "Copied!",
+                "BADGES_PROGRESS": "Badges Progress",
+                "PROFILE_MANAGE_BADGES": "Manage Badges",
+                "PROFILE_MY_BADGES": "My Badges",
+                "PROFILE_BADGES_EARNABLE": "Badges Earnable",
+                "PROFILE_BADGES_SITE_TITLE": "Available on [name]:"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -2874,7 +2899,12 @@
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
                 "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
                 "PROFILE_COPY_URL": "Copy Profile URL",
-                "PROFILE_COPY_URL_SUCCESS": "Copied!"
+                "PROFILE_COPY_URL_SUCCESS": "Copied!",
+                "BADGES_PROGRESS": "Badges Progress",
+                "PROFILE_MANAGE_BADGES": "Manage Badges",
+                "PROFILE_MY_BADGES": "My Badges",
+                "PROFILE_BADGES_EARNABLE": "Badges Earnable",
+                "PROFILE_BADGES_SITE_TITLE": "Available on [name]:"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -3347,7 +3377,12 @@
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
                 "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
                 "PROFILE_COPY_URL": "Copy Profile URL",
-                "PROFILE_COPY_URL_SUCCESS": "Copied!"
+                "PROFILE_COPY_URL_SUCCESS": "Copied!",
+                "BADGES_PROGRESS": "Badges Progress",
+                "PROFILE_MANAGE_BADGES": "Manage Badges",
+                "PROFILE_MY_BADGES": "My Badges",
+                "PROFILE_BADGES_EARNABLE": "Badges Earnable",
+                "PROFILE_BADGES_SITE_TITLE": "Available on [name]:"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -3815,7 +3850,12 @@
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
                 "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
                 "PROFILE_COPY_URL": "Copy Profile URL",
-                "PROFILE_COPY_URL_SUCCESS": "Copied!"
+                "PROFILE_COPY_URL_SUCCESS": "Copied!",
+                "BADGES_PROGRESS": "Badges Progress",
+                "PROFILE_MANAGE_BADGES": "Manage Badges",
+                "PROFILE_MY_BADGES": "My Badges",
+                "PROFILE_BADGES_EARNABLE": "Badges Earnable",
+                "PROFILE_BADGES_SITE_TITLE": "Available on [name]:"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -4283,7 +4323,12 @@
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
                 "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
                 "PROFILE_COPY_URL": "Copy Profile URL",
-                "PROFILE_COPY_URL_SUCCESS": "Copied!"
+                "PROFILE_COPY_URL_SUCCESS": "Copied!",
+                "BADGES_PROGRESS": "Badges Progress",
+                "PROFILE_MANAGE_BADGES": "Manage Badges",
+                "PROFILE_MY_BADGES": "My Badges",
+                "PROFILE_BADGES_EARNABLE": "Badges Earnable",
+                "PROFILE_BADGES_SITE_TITLE": "Available on [name]:"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -4750,7 +4795,12 @@
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
                 "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
                 "PROFILE_COPY_URL": "Copy Profile URL",
-                "PROFILE_COPY_URL_SUCCESS": "Copied!"
+                "PROFILE_COPY_URL_SUCCESS": "Copied!",
+                "BADGES_PROGRESS": "Badges Progress",
+                "PROFILE_MANAGE_BADGES": "Manage Badges",
+                "PROFILE_MY_BADGES": "My Badges",
+                "PROFILE_BADGES_EARNABLE": "Badges Earnable",
+                "PROFILE_BADGES_SITE_TITLE": "Available on [name]:"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -5217,7 +5267,12 @@
                 "DM_PAGE_TITLE": "DM With <%= other_usernames %>",
                 "PROFILE_TAB_COMMENTS_TITLE": "<%= username %>'s Profile",
                 "PROFILE_COPY_URL": "Copy Profile URL",
-                "PROFILE_COPY_URL_SUCCESS": "Copied!"
+                "PROFILE_COPY_URL_SUCCESS": "Copied!",
+                "BADGES_PROGRESS": "Badges Progress",
+                "PROFILE_MANAGE_BADGES": "Manage Badges",
+                "PROFILE_MY_BADGES": "My Badges",
+                "PROFILE_BADGES_EARNABLE": "Badges Earnable",
+                "PROFILE_BADGES_SITE_TITLE": "Available on [name]:"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
