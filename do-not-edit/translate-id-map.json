@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 222,
+        "comment-ui": 224,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -487,7 +487,9 @@
         "t219": "PROFILE_MANAGE_BADGES",
         "t220": "PROFILE_MY_BADGES",
         "t221": "PROFILE_BADGES_EARNABLE",
-        "t222": "PROFILE_BADGES_SITE_TITLE"
+        "t222": "PROFILE_BADGES_SITE_TITLE",
+        "t223": "PROFILE_BADGES_ALL",
+        "t224": "PROFILE_BADGE_AWARDED_MANUALLY"
     },
     "direct-message-notification": {
         "t1": "SUBJECT",
