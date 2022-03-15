@@ -34,5 +34,20 @@
   "PROFILE_BADGES_SITE_TITLE": "Available on [name]:",
   "PROFILE_BADGE_AWARDED_MANUALLY": "Awarded Manually",
   "PROFILE_BADGES_NONE": "You don't have any badges. Badges can be earned by interacting with FastComments communities.",
-  "PROFILE_BADGES_NONE_ON_SITES_COMMENTED": "None of the sites you have commented on have badges available!"
+  "PROFILE_BADGES_NONE_ON_SITES_COMMENTED": "None of the sites you have commented on have badges available!",
+  "PROFILE_BADGE_META_DESC_MANUAL": "This badge can only be earned manually. A moderator or administrator has to manually give you this badge.",
+  "PROFILE_BADGE_META_DESC_COMMENT_COUNT": "Earn this badge by writing comments.",
+  "PROFILE_BADGE_META_DESC_COMMENT_UP_VOTES": "Earn this badge by gathering up-votes.",
+  "PROFILE_BADGE_META_DESC_COMMENT_REPLIES": "Earn this badge by having others reply to your comments.",
+  "PROFILE_BADGE_META_DESC_COMMENTS_PINNED": "Earn this badge by having your comments pinned.",
+  "PROFILE_BADGE_META_DESC_VETERAN": "This badge is earned based on the time from your first comment in this community.",
+  "PROFILE_BADGE_META_DESC_NIGHT_OWL": "Earn this badge by commenting late at night.",
+  "PROFILE_BADGE_META_DESC_FAST_REPLY_TIME": "Earn this badge by replying within 40 seconds of the parent comment.",
+  "PROFILE_BADGE_META_DESC_REPLIED_TO_SPECIFIC_PAGE": "Earn this badge by replying to a specific page.",
+  "PROFILE_BADGE_META_DESC_MODERATOR_COMMENTS_DELETED": "Earn this badge by deleting comments as a moderator.",
+  "PROFILE_BADGE_META_DESC_MODERATOR_COMMENTS_APPROVED": "Earn this badge by approving comments as a moderator.",
+  "PROFILE_BADGE_META_DESC_MODERATOR_COMMENTS_UNAPPROVED": "Earn this badge by un-approving comments as a moderator.",
+  "PROFILE_BADGE_META_DESC_MODERATOR_COMMENTS_REVIEWED": "Earn this badge by marking comments reviewed as a moderator.",
+  "PROFILE_BADGE_META_DESC_MODERATOR_COMMENTS_MARKED_SPAM": "Earn this badge by marking comments as spam as a moderator.",
+  "PROFILE_BADGE_META_DESC_MODERATOR_COMMENTS_MARKED_NOT_SPAM": "Earn this badge by marking comments not spam as a moderator."
 }
