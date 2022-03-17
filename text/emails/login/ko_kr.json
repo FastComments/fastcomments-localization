@@ -1,14 +1,14 @@
 {
-    "INTRO": "이봐 <%= username %>,",
+    "INTRO": "안녕하세요 <%= username %>,",
     "NEW_USER_BANNER_TEXT": "FastComments에 오신 것을 환영합니다",
     "BANNER_TEXT": "FastComments 로그인 링크",
     "FROM_NAME": "FastComments 로봇",
-    "NEW_USER_SUBJECT": "FastComments <%= username %>에 오신 것을 환영합니다! 여기에서 계정 확인 및 로그인",
+    "NEW_USER_SUBJECT": "FastComments <%= username %>에 오신 것을 환영합니다! 여기에서 계정 확인 및 로그인하실 수 있습니다.",
     "SUBJECT": "귀하의 로그인 링크는 <%= username %>입니다.",
     "NEW_USER_THANKS_FOR_SIGNING_UP": "FastComments에 가입해 주셔서 감사합니다.",
-    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "<a href=\"<%= userVerifyUrl %>\">이 링크</a> 를 클릭 <b>하여 계정을 확인하십시오</b> . 이렇게 하면 로그인도 됩니다.",
-    "CAN_CREATE_NEW_LINKS_HERE": "<a href=\"<%= HOST %>/auth/login/\">여기에서</a> 새 링크를 만들어 계정에 로그인할 수 있습니다.",
+    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "<a href=\"<%= userVerifyUrl %>\">이 링크</a> 를 클릭 <b>하여 계정을 확인하십시오</b> . 로그인도 하실 수 있습니다.",
+    "CAN_CREATE_NEW_LINKS_HERE": "<a href=\"<%= HOST %>/auth/login/\">여기에서</a>링크를 통해 계정에 로그인할 수 있습니다.",
     "CLICK_HERE_TO_LOGIN": "FastComments에 로그인 <a href=\"<%= userVerifyUrl %>\">하려면 여기를 클릭하십시오</a> .",
-    "THAT_FULL_LINK_IS": "그 전체 링크는: <%= userVerifyUrl %>",
-    "UNSUBSCRIBE_HERE": "여기에서 이 이메일에 로그인하고 수신 거부하십시오."
+    "THAT_FULL_LINK_IS": "링크는: <%= userVerifyUrl %>",
+    "UNSUBSCRIBE_HERE": " 여기에서 알림을 수신 거부하실 수 있습니다."
 }
