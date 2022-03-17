@@ -219,7 +219,8 @@
                 "REPLYING_TO_AS": "Replying to <b>[to]</b> as <b>[from]</b>",
                 "REPLYING_TO": "Replying to <b>[to]</b>",
                 "PREV_30": "Load Previous <span>30</span>",
-                "NO_COMMENTS": ""
+                "NO_COMMENTS": "",
+                "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -737,7 +738,8 @@
                 "REPLYING_TO_AS": "Replying to <b>[to]</b> as <b>[from]</b>",
                 "REPLYING_TO": "Replying to <b>[to]</b>",
                 "PREV_30": "Load Previous <span>30</span>",
-                "NO_COMMENTS": ""
+                "NO_COMMENTS": "",
+                "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -1281,7 +1283,8 @@
                 "REPLYING_TO_AS": "Replying to <b>[to]</b> as <b>[from]</b>",
                 "REPLYING_TO": "Replying to <b>[to]</b>",
                 "PREV_30": "Load Previous <span>30</span>",
-                "NO_COMMENTS": ""
+                "NO_COMMENTS": "",
+                "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -1843,7 +1846,8 @@
                 "REPLYING_TO_AS": "Replying to <b>[to]</b> as <b>[from]</b>",
                 "REPLYING_TO": "Replying to <b>[to]</b>",
                 "PREV_30": "Load Previous <span>30</span>",
-                "NO_COMMENTS": ""
+                "NO_COMMENTS": "",
+                "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -2353,7 +2357,8 @@
                 "REPLYING_TO_AS": "Replying to <b>[to]</b> as <b>[from]</b>",
                 "REPLYING_TO": "Replying to <b>[to]</b>",
                 "PREV_30": "Load Previous <span>30</span>",
-                "NO_COMMENTS": ""
+                "NO_COMMENTS": "",
+                "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -2858,7 +2863,8 @@
                 "REPLYING_TO_AS": "Replying to <b>[to]</b> as <b>[from]</b>",
                 "REPLYING_TO": "Replying to <b>[to]</b>",
                 "PREV_30": "Load Previous <span>30</span>",
-                "NO_COMMENTS": ""
+                "NO_COMMENTS": "",
+                "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -3381,7 +3387,8 @@
                 "REPLYING_TO_AS": "Replying to <b>[to]</b> as <b>[from]</b>",
                 "REPLYING_TO": "Replying to <b>[to]</b>",
                 "PREV_30": "Load Previous <span>30</span>",
-                "NO_COMMENTS": ""
+                "NO_COMMENTS": "",
+                "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -3876,7 +3883,8 @@
                 "REPLYING_TO_AS": "Replying to <b>[to]</b> as <b>[from]</b>",
                 "REPLYING_TO": "Replying to <b>[to]</b>",
                 "PREV_30": "Load Previous <span>30</span>",
-                "NO_COMMENTS": ""
+                "NO_COMMENTS": "",
+                "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters."
             },
             "comment-ui-moderation": {
                 "MODERATION_OPTION_BAN_VIA_EMAIL": "Ban Via Email / Account",
@@ -4380,7 +4388,8 @@
                 "REPLYING_TO_AS": "Replying to <b>[to]</b> as <b>[from]</b>",
                 "REPLYING_TO": "Replying to <b>[to]</b>",
                 "PREV_30": "Load Previous <span>30</span>",
-                "NO_COMMENTS": ""
+                "NO_COMMENTS": "",
+                "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters."
             },
             "comment-ui-moderation": {
                 "MODERATION_OPTION_BAN_VIA_EMAIL": "Ban Via Email / Account",
@@ -4875,7 +4884,8 @@
                 "REPLYING_TO_AS": "Replying to <b>[to]</b> as <b>[from]</b>",
                 "REPLYING_TO": "Replying to <b>[to]</b>",
                 "PREV_30": "Load Previous <span>30</span>",
-                "NO_COMMENTS": ""
+                "NO_COMMENTS": "",
+                "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters."
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -5369,7 +5379,8 @@
                 "WRITE_ANOTHER_COMMENT": "Write Another Comment",
                 "REPLYING_TO_AS": "Replying to <b>[to]</b> as <b>[from]</b>",
                 "PREV_30": "Load Previous <span>30</span>",
-                "NO_COMMENTS": ""
+                "NO_COMMENTS": "",
+                "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters."
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
