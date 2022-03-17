@@ -1,0 +1,7 @@
+{
+    "SUBJECT": "<%= comment.commenterName %>의 새 메시지",
+    "INTRO": "이봐 <%= targetUser.username %>,",
+    "YOU_HAVE_A_NEW_MESSAGE": "아래와 같은 새 메시지를 받았습니다. 이 이메일에 답장하거나 아래 버튼을 클릭하여 답장을 보내실 수 있습니다.",
+    "GO_TO_CONVERSATION": "대화로 이동",
+    "UNSUBSCRIBE_HERE": "여기에서 알림을 수신 거부하세요."
+}

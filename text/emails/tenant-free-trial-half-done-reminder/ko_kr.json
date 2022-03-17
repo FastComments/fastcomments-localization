@@ -1,0 +1,14 @@
+{
+    "INTRO": "이봐 <%= tenantName %>",
+    "BANNER_TEXT": "FastComments 평가판 업데이트",
+    "FROM_NAME": "FastComments 평가판 로봇",
+    "SUBJECT": "FastComments 무료 평가판 - 15일 남음",
+    "FRIENDLY_REMINDER": "FastComments 무료 평가판 기간이 절반 정도 남았음을 알려드립니다.",
+    "COMMENTS_HAVE_BEEN_LEFT": "귀하의 사이트에 <%= Number(commentCount).toLocaleString() %> 댓글이 남아 있습니다.",
+    "VOTES_GIVEN": "해당 댓글에 대해 <%= Number(voteCount).toLocaleString() %>표가 있습니다.",
+    "USERS_SIGNED_UP": "마지막으로 <b><%= Number(userCount).toLocaleString() %> 사용자가 <%= tenantName %>을(를) 통해 FastComments를 사용하도록 등록했습니다</b> .",
+    "THANKS_FOR_CHOOSING_FC": "<a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a> 을 선택해 주셔서 감사합니다.",
+    "UNSUBSCRIBE_FROM_THESE_ALERTS": "이 알림을 수신 거부하십시오.",
+    "SOME_STATS_SO_FAR": "지금까지의 일부 통계",
+    "SIGN_IN_ENTER_BILLING_INFO": "로그인 및 결제 정보 입력"
+}

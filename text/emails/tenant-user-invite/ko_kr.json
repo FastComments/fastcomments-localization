@@ -1,0 +1,8 @@
+{
+    "INTRO": "이봐 <%= username %>,",
+    "FROM_NAME": "FastComments 로봇",
+    "SUBJECT": "<%= tenantName %>에 가입하도록 초대되었습니다!",
+    "BANNER_TEXT": "세입자 초대",
+    "INVITE_DETAILS": "테넌트 <%= tenantName %>에 가입하도록 초대되었습니다. 이 초대를 수락하면 귀하의 댓글 작성자 계정이 관리자 계정으로 승격됩니다. 다음 권한이 있습니다.",
+    "ACCEPT_INVITE": "초대를 수락하다"
+}

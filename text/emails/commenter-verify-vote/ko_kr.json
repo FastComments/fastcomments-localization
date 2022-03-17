@@ -1,0 +1,11 @@
+{
+    "FROM_NAME": "FastComments 로봇",
+    "INTRO": "이봐 <%= commenterName %>,",
+    "BANNER_TEXT": "투표 확인",
+    "SUBJECT": "<%= commenterName %> - 귀하의 투표를 확인하십시오.",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "<a href=\"<%= url %>\">여기</a> 게시물에 투표하신 것 같습니다. 아래 확인 링크를 클릭하면 이 투표를 떠난 사람이 본인임을 알리는 데 도움이 됩니다.",
+    "VERIFY_YOUR_VOTE_LINK": "투표 확인",
+    "WAS_YOU_IGNORE_THIS_EMAIL": "그렇지 않은 경우 이 이메일을 무시하십시오.",
+    "THANKS_SO_MUCH": "정말 고마워!",
+    "UNSUBSCRIBE_HERE": "여기에서 이 이메일에 로그인하고 수신 거부하십시오."
+}

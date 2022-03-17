@@ -1,0 +1,23 @@
+{
+    "SUBJECT": "FastComments <%= comment.commenterName %>에 오신 것을 환영합니다!",
+    "BANNER_TEXT": "FastComments에 오신 것을 환영합니다",
+    "INTRO": "이봐 <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "<a href=\"<%= comment.url %>\">여기</a> 게시물에 댓글을 단 것 같습니다.",
+    "VERIFY_YOUR_ACCOUNT": "계정 확인",
+    "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "<a href=\"<%= FC_DOMAIN %>/auth/login/\">여기에서</a> 새 링크를 만들어 계정에 로그인할 수 있습니다.",
+    "WASNT_YOU_OR_REGRET": "본인이 아니거나 말한 것을 후회하는 경우 이 이메일을 무시하세요. 댓글은 <%= removedInDays %>일 후에 삭제됩니다.",
+    "REMOVE_COMMENT": "지금 이 댓글을 삭제하려면 <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">여기를 클릭하세요.</a>",
+    "THANKS_SO_MUCH": "정말 고마워!",
+    "USING_NAME_YOU_SAID": "\"<%= comment.commenterName %>\"이라는 이름을 사용하여 다음과 같이 말했습니다.",
+    "JUST_NOW": "방금",
+    "ONE_MINUTE_AGO": "1분 전",
+    "MINUTES_AGO": "  몇분 전에",
+    "ONE_HOUR_AGO": "1 시간 전",
+    "HOURS_AGO": "  몇 시간 전",
+    "YESTERDAY": "어제",
+    "DAYS_AGO": "  며칠 전에",
+    "WEEKS_AGO": "  몇주 전에",
+    "MONTHS_AGO": "  몇달 전",
+    "YEARS_AGO": "  여러 해 전에",
+    "UNSUBSCRIBE_HERE": "여기에서 이 이메일에 로그인하고 수신 거부하십시오."
+}

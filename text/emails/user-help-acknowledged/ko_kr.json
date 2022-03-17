@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments 도움말 봇",
+    "SUBJECT": "지원 직원이 승인한 도움 요청",
+    "HEY": "이봐 <%= commenterUsername %>,",
+    "ACKNOWLEDGED_BY_ADMIN": "사용자 이름이 \"<%= adminUsername %>\"인 지원 상담원이 귀하의 요청을 승인한 것 같습니다. 곧 연락을 드릴 것입니다.",
+    "THANKS_FOR_USING_FC": "FastComments를 사용해 주셔서 감사합니다!",
+    "DONT_REPLY_TO_THIS": "이 이메일은 발신 전용 이메일 상자에서 온 것이므로 회신하지 마십시오. 별도로 연락드리겠습니다."
+}

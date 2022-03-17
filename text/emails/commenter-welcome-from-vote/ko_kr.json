@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "FastComments <%= commenterName %>에 오신 것을 환영합니다!",
+    "BANNER_TEXT": "FastComments에 오신 것을 환영합니다",
+    "INTRO": "이봐 <%= commenterName %>,",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "<a href=\"<%= url %>\">여기</a> 게시물에 투표하신 것 같습니다.",
+    "VERIFY_YOUR_ACCOUNT": "계정 확인",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "<a href=\"<%= FC_DOMAIN %>/auth/login/\">여기에서</a> 새 링크를 만들어 계정에 로그인할 수 있습니다.",
+    "WASNT_YOU_IGNORE_EMAIL": "그렇지 않은 경우 이 이메일을 무시하십시오.",
+    "THANKS_SO_MUCH": "정말 고마워!",
+    "UNSUBSCRIBE_HERE": "여기에서 이 이메일에 로그인하고 수신 거부하십시오."
+}
