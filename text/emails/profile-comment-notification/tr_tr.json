@@ -1,0 +1,7 @@
+{
+    "SUBJECT": "<%= comment.commenterName %>'den yeni profil yorumu",
+    "INTRO": "Hey <%= targetUser.username %>,",
+    "GO_TO_PROFILE": "Profile git",
+    "UNSUBSCRIBE_HERE": "Bildirim aboneliğinden buradan çıkın.",
+    "YOU_HAVE_A_NEW_PROFILE_COMMENT": "Profilinizde aşağıda gösterilen yeni bir yorum aldınız. Aşağıdaki butona tıklayarak profil yorumlarınızı görüntüleyebilirsiniz."
+}

@@ -517,6 +517,14 @@
                 "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
+            },
+            "profile-comment-notification": {
+                "SUBJECT": "New profile comment from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below.",
+                "GO_TO_PROFILE": "Go to Profile",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here.",
+                "YOU_HAVE_A_NEW_PROFILE_COMMENT": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below."
             }
         },
         "es_es": {
@@ -1036,6 +1044,14 @@
                 "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
+            },
+            "profile-comment-notification": {
+                "SUBJECT": "New profile comment from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below.",
+                "GO_TO_PROFILE": "Go to Profile",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here.",
+                "YOU_HAVE_A_NEW_PROFILE_COMMENT": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below."
             }
         },
         "pl_pl": {
@@ -1541,6 +1557,14 @@
                 "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
+            },
+            "profile-comment-notification": {
+                "SUBJECT": "New profile comment from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below.",
+                "GO_TO_PROFILE": "Go to Profile",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here.",
+                "YOU_HAVE_A_NEW_PROFILE_COMMENT": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below."
             }
         },
         "de_de": {
@@ -2044,6 +2068,14 @@
                 "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
+            },
+            "profile-comment-notification": {
+                "SUBJECT": "New profile comment from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below.",
+                "GO_TO_PROFILE": "Go to Profile",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here.",
+                "YOU_HAVE_A_NEW_PROFILE_COMMENT": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below."
             }
         },
         "it_it": {
@@ -2547,6 +2579,14 @@
                 "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
+            },
+            "profile-comment-notification": {
+                "SUBJECT": "New profile comment from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below.",
+                "GO_TO_PROFILE": "Go to Profile",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here.",
+                "YOU_HAVE_A_NEW_PROFILE_COMMENT": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below."
             }
         },
         "ru_ru": {
@@ -3050,6 +3090,14 @@
                 "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
+            },
+            "profile-comment-notification": {
+                "SUBJECT": "New profile comment from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below.",
+                "GO_TO_PROFILE": "Go to Profile",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here.",
+                "YOU_HAVE_A_NEW_PROFILE_COMMENT": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below."
             }
         },
         "pt_br": {
@@ -3551,6 +3599,14 @@
                 "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
+            },
+            "profile-comment-notification": {
+                "SUBJECT": "New profile comment from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below.",
+                "GO_TO_PROFILE": "Go to Profile",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here.",
+                "YOU_HAVE_A_NEW_PROFILE_COMMENT": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below."
             }
         },
         "ja_jp": {
@@ -4047,6 +4103,14 @@
                 "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
+            },
+            "profile-comment-notification": {
+                "SUBJECT": "New profile comment from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below.",
+                "GO_TO_PROFILE": "Go to Profile",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here.",
+                "YOU_HAVE_A_NEW_PROFILE_COMMENT": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below."
             }
         },
         "tr_tr": {
@@ -4543,6 +4607,14 @@
                 "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
+            },
+            "profile-comment-notification": {
+                "SUBJECT": "New profile comment from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below.",
+                "GO_TO_PROFILE": "Go to Profile",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here.",
+                "YOU_HAVE_A_NEW_PROFILE_COMMENT": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below."
             }
         },
         "zh_cn": {
@@ -5038,6 +5110,14 @@
                 "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
+            },
+            "profile-comment-notification": {
+                "SUBJECT": "New profile comment from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below.",
+                "GO_TO_PROFILE": "Go to Profile",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here.",
+                "YOU_HAVE_A_NEW_PROFILE_COMMENT": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below."
             }
         },
         "zh_tw": {
@@ -5533,6 +5613,14 @@
                 "YOU_HAVE_A_NEW_MESSAGE": "You have received a new message, shown below. You can reply by replying to this email, or clicking the button below.",
                 "GO_TO_CONVERSATION": "Go to Conversation",
                 "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
+            },
+            "profile-comment-notification": {
+                "SUBJECT": "New profile comment from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below.",
+                "GO_TO_PROFILE": "Go to Profile",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here.",
+                "YOU_HAVE_A_NEW_PROFILE_COMMENT": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below."
             }
         },
         "ko_kr": {
@@ -6027,6 +6115,14 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE": "Display This Badge",
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_CHANGE_SAVED": "Change Saved!",
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed."
+            },
+            "profile-comment-notification": {
+                "SUBJECT": "New profile comment from <%= comment.commenterName %>",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_NEW_MESSAGE": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below.",
+                "GO_TO_PROFILE": "Go to Profile",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here.",
+                "YOU_HAVE_A_NEW_PROFILE_COMMENT": "You have received a new comment on your profile, shown below. You can view your profile comments by clicking the button below."
             }
         }
     }

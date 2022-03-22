@@ -1,0 +1,7 @@
+{
+    "SUBJECT": "Nowy komentarz profilowy od <%= comment.commenterName %>",
+    "INTRO": "Hej <%= targetUser.username %>,",
+    "GO_TO_PROFILE": "Przejdź do profilu",
+    "UNSUBSCRIBE_HERE": "Zrezygnuj z otrzymywania powiadomień tutaj.",
+    "YOU_HAVE_A_NEW_PROFILE_COMMENT": "Otrzymałeś nowy komentarz na swoim profilu, pokazany poniżej. Możesz zobaczyć swoje komentarze w profilu, klikając poniższy przycisk."
+}

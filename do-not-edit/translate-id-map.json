@@ -21,7 +21,8 @@
         "tenant-user-invite": 6,
         "tenant-new-user-invite": 6,
         "comment-user-mention": 7,
-        "direct-message-notification": 5
+        "direct-message-notification": 5,
+        "profile-comment-notification": 6
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -518,5 +519,13 @@
         "t3": "YOU_HAVE_A_NEW_MESSAGE",
         "t4": "GO_TO_CONVERSATION",
         "t5": "UNSUBSCRIBE_HERE"
+    },
+    "profile-comment-notification": {
+        "t1": "SUBJECT",
+        "t2": "INTRO",
+        "t3": "YOU_HAVE_A_NEW_MESSAGE",
+        "t4": "GO_TO_PROFILE",
+        "t5": "UNSUBSCRIBE_HERE",
+        "t6": "YOU_HAVE_A_NEW_PROFILE_COMMENT"
     }
 }

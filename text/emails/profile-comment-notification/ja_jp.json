@@ -1,0 +1,7 @@
+{
+    "SUBJECT": "<%= comment.commenterName %>からの新しいプロフィールコメント",
+    "INTRO": "おい <%= targetUser.username %>、",
+    "GO_TO_PROFILE": "プロフィールはこちら",
+    "UNSUBSCRIBE_HERE": "ここで通知の購読を解除します。",
+    "YOU_HAVE_A_NEW_PROFILE_COMMENT": "以下に示すように、プロフィールに新しいコメントが届きました。下のボタンをクリックすると、プロフィールのコメントを表示できます。"
+}

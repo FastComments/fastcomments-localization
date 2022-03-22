@@ -1,0 +1,7 @@
+{
+    "SUBJECT": "来自 <%= comment.commenterName %> 的新个人资料评论",
+    "INTRO": "嘿 <%= targetUser.username %>，",
+    "GO_TO_PROFILE": "转到个人资料",
+    "UNSUBSCRIBE_HERE": "在此处取消订阅通知。",
+    "YOU_HAVE_A_NEW_PROFILE_COMMENT": "您收到了关于您的个人资料的新评论，如下所示。您可以通过单击下面的按钮查看您的个人资料评论。"
+}
