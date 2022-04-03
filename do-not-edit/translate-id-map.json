@@ -22,7 +22,8 @@
         "tenant-new-user-invite": 6,
         "comment-user-mention": 7,
         "direct-message-notification": 5,
-        "profile-comment-notification": 6
+        "profile-comment-notification": 6,
+        "cookie-consent": 8
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -527,5 +528,15 @@
         "t4": "GO_TO_PROFILE",
         "t5": "UNSUBSCRIBE_HERE",
         "t6": "YOU_HAVE_A_NEW_PROFILE_COMMENT"
+    },
+    "cookie-consent": {
+        "t1": "TITLE",
+        "t2": "DESCRIPTION",
+        "t3": "READ_MORE",
+        "t4": "BUTTON_ACCEPT",
+        "t5": "BUTTON_CONFIGURE",
+        "t6": "BUTTON_SAVE",
+        "t7": "OPTION_FUNCTIONAL",
+        "t8": "OPTION_MARKETING"
     }
 }
