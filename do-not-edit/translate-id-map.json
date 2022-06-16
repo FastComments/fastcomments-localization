@@ -23,7 +23,7 @@
         "comment-user-mention": 7,
         "direct-message-notification": 5,
         "profile-comment-notification": 6,
-        "cookie-consent": 8
+        "cookie-consent": 12
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -540,7 +540,11 @@
         "t5": "BUTTON_CONFIGURE",
         "t6": "BUTTON_SAVE",
         "t7": "OPTION_FUNCTIONAL",
-        "t8": "OPTION_MARKETING"
+        "t8": "OPTION_MARKETING",
+        "t9": "BUTTON_CLOSE",
+        "t10": "EU_REDIRECT_TITLE",
+        "t11": "EU_REDIRECT_DESCRIPTION",
+        "t12": "EU_BUTTON_REDIRECT"
     },
     "comment-ui-flag": {
         "t248": "COMMENT_NO_LONGER_EXISTS"
