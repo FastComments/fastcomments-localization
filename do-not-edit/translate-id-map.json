@@ -23,7 +23,8 @@
         "comment-user-mention": 7,
         "direct-message-notification": 5,
         "profile-comment-notification": 6,
-        "cookie-consent": 12
+        "cookie-consent": 12,
+        "comment-ui-offline": 2
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -551,5 +552,9 @@
     },
     "comment-ui-spam": {
         "t249": "COMMENT_LOOKS_LIKE_SPAM"
+    },
+    "comment-ui-offline": {
+        "t1": "ACTION_NOT_SUPPORTED_WHILE_OFFLINE",
+        "t2": "COMMENT_SAVED_LATER_OFFLINE"
     }
 }
