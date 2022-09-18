@@ -24,7 +24,8 @@
         "direct-message-notification": 5,
         "profile-comment-notification": 6,
         "cookie-consent": 12,
-        "comment-ui-offline": 2
+        "comment-ui-offline": 2,
+        "comment-ui-error-invalid-email": 1
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -556,5 +557,8 @@
     "comment-ui-offline": {
         "t1": "ACTION_NOT_SUPPORTED_WHILE_OFFLINE",
         "t2": "COMMENT_SAVED_LATER_OFFLINE"
+    },
+    "comment-ui-error-invalid-email": {
+        "t1": "ERROR_INVALID_EMAIL"
     }
 }
