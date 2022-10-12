@@ -25,7 +25,8 @@
         "profile-comment-notification": 6,
         "cookie-consent": 12,
         "comment-ui-offline": 2,
-        "comment-ui-error-invalid-email": 1
+        "comment-ui-error-invalid-email": 1,
+        "comment-ui-cancel": 8
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -561,5 +562,15 @@
     },
     "comment-ui-error-invalid-email": {
         "t1": "ERROR_INVALID_EMAIL"
+    },
+    "comment-ui-cancel": {
+        "t1": "CONFIRM_CANCEL_REPLY",
+        "t2": "CONFIRM_CANCEL_REPLY_OK",
+        "t3": "CONFIRM_CANCEL_EDIT",
+        "t4": "CONFIRM_CANCEL_EDIT_OK",
+        "t5": "CONFIRM_CANCEL_REPLY_TITLE",
+        "t6": "CONFIRM_CANCEL_EDIT_TITLE",
+        "t7": "CONFIRM_CANCEL_REPLY_CANCEL",
+        "t8": "CONFIRM_CANCEL_EDIT_CANCEL"
     }
 }
