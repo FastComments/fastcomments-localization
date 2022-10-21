@@ -10,5 +10,6 @@
     "NOTIFICATION_OPT_OUT_FOR_COMMENT": "このコメントの通知を無視する",
     "NO_NOTIFICATIONS": "通知はありません。",
     "NOTIFICATION_PROFILE_COMMENT": "<b>[fromUserName]</b>があなたのプロフィールにコメントしました。",
-    "NOTIFICATION_DM": "<b>[fromUserName]</b>からメッセージが届きました。"
+    "NOTIFICATION_DM": "<b>[fromUserName]</b>からメッセージが届きました。",
+    "NOTIFICATION_MENTION": "<b>[fromUserName]</b>さんがあなたにメンションしました。"
 }

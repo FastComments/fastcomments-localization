@@ -10,5 +10,6 @@
     "NOTIFICATION_OPT_OUT_FOR_COMMENT": "忽略此评论的通知",
     "NO_NOTIFICATIONS": "您没有通知。",
     "NOTIFICATION_PROFILE_COMMENT": "<b>[fromUserName]</b>评论了您的个人资料。",
-    "NOTIFICATION_DM": "<b>[fromUserName] 向</b>您发送了消息。"
+    "NOTIFICATION_DM": "<b>[fromUserName] 向</b>您发送了消息。",
+    "NOTIFICATION_MENTION": "<b>[fromUserName]</b>提到了你。"
 }
