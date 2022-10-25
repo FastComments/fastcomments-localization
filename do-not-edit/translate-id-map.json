@@ -26,7 +26,8 @@
         "cookie-consent": 12,
         "comment-ui-offline": 2,
         "comment-ui-error-invalid-email": 1,
-        "comment-ui-cancel": 8
+        "comment-ui-cancel": 8,
+        "comment-ui-error-voting-disabled": 1
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -573,5 +574,8 @@
         "t6": "CONFIRM_CANCEL_EDIT_TITLE",
         "t7": "CONFIRM_CANCEL_REPLY_CANCEL",
         "t8": "CONFIRM_CANCEL_EDIT_CANCEL"
+    },
+    "comment-ui-error-voting-disabled": {
+        "t1": "DOWN_VOTING_DISABLED"
     }
 }
