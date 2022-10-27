@@ -1,0 +1,13 @@
+{
+    "SUBJECT": "Witryna dodana do Twojego konta FastComments",
+    "INTRO": "Witam <%= user.username %>",
+    "DOMAIN_ADDED_PARAGRAPH": "Z Twoim kontem FastComments.com została użyta nowa domena. Ponieważ jesteś w okresie próbnym, dla wygody automatycznie dodaliśmy tę stronę. To jest automatyczna wiadomość e-mail.",
+    "SITE_ADDED_WAS": "Nowa wykryta przez nas witryna to: <b><%= domainAdded %></b>",
+    "TECHNICAL_DETAILS": "FastComments uwierzytelnia żądania na Twoim koncie według domeny. Czasami mogą to powodować zautomatyzowane systemy, boty lub narzędzia do tłumaczenia, a dodanie tej domeny do konta może nie być pożądane.",
+    "FLEX_BILLING_NOTE": "<b>Uwaga:</b> ponieważ Twoje konto korzysta z elastycznych cen, dodane domeny ponoszą koszty, przy czym pierwsza z nich jest bezpłatna. Sprawdź kwotę przyszłych faktur <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">tutaj</a> .",
+    "BILLING_NOTE": "<b>Uwaga:</b> ponieważ Twoje konto nie korzysta z elastycznej wyceny, możesz mieć na swoim koncie tylko tyle domen. Sprawdź wykorzystanie swojego planu <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">tutaj</a> .",
+    "YOU_CAN_REMOVE_THIS_DOMAIN": "W razie potrzeby możesz usunąć tę domenę, a także wyłączyć tę funkcję.",
+    "BUTTON_TEXT_REMOVE_DOMAIN": "Usuń tę domenę.",
+    "BUTTON_TEXT_DISABLE_FEATURE": "Wyłącz tę funkcję.",
+    "OUTRO": "Jeśli ta witryna powinna należeć do Twojego konta, nie musisz nic więcej robić. Dziękujemy za korzystanie z FastComments!"
+}

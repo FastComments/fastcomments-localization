@@ -1,0 +1,13 @@
+{
+    "SUBJECT": "FastComments Hesabınıza Site Eklendi",
+    "INTRO": "Merhaba <%= user.username %>",
+    "DOMAIN_ADDED_PARAGRAPH": "FastComments.com hesabınızla yeni bir alan kullanıldı. Deneme süresinde olduğunuz için kolaylık olması açısından bu siteyi sizin için otomatik olarak ekledik. Bu otomatik bir e-postadır.",
+    "SITE_ADDED_WAS": "Tespit ettiğimiz yeni site: <b><%= domainAdded %></b>",
+    "TECHNICAL_DETAILS": "FastComments, hesabınıza yapılan istekleri alan adına göre doğrular. Bazen otomatik sistemler, botlar veya çeviri araçları bunun olmasına neden olabilir ve bu alan adını hesabınıza eklemek istenmeyebilir.",
+    "FLEX_BILLING_NOTE": "<b>Not:</b> Hesabınız esnek fiyatlandırma kullandığından, ilk alan ücretsiz olmak üzere eklenen alan adları ücrete tabidir. Gelecekteki faturalar için tutarı <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">buradan</a> kontrol edin.",
+    "BILLING_NOTE": "<b>Not:</b> Hesabınız esnek fiyatlandırma kullanmadığından, hesabınızda yalnızca bu kadar alan adı olabilir. Planınızın kullanımını <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">buradan</a> kontrol edin.",
+    "YOU_CAN_REMOVE_THIS_DOMAIN": "Dilerseniz bu etki alanını kaldırabilir ve bu özelliği devre dışı bırakabilirsiniz.",
+    "BUTTON_TEXT_REMOVE_DOMAIN": "Bu etki alanını kaldırın.",
+    "BUTTON_TEXT_DISABLE_FEATURE": "Bu özelliği devre dışı bırakın.",
+    "OUTRO": "Bu site sizin hesabınıza aitse başka bir işlem yapmanız gerekmez. FastComments'ı kullandığınız için teşekkürler!"
+}

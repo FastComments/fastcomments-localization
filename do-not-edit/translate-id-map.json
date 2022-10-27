@@ -27,7 +27,8 @@
         "comment-ui-offline": 2,
         "comment-ui-error-invalid-email": 1,
         "comment-ui-cancel": 8,
-        "comment-ui-error-voting-disabled": 1
+        "comment-ui-error-voting-disabled": 1,
+        "tenant-domain-added-notification": 11
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -577,5 +578,18 @@
     },
     "comment-ui-error-voting-disabled": {
         "t1": "DOWN_VOTING_DISABLED"
+    },
+    "tenant-domain-added-notification": {
+        "t1": "SUBJECT",
+        "t2": "INTRO",
+        "t3": "DOMAIN_ADDED_PARAGRAPH",
+        "t4": "SITE_ADDED_WAS",
+        "t5": "TECHNICAL_DETAILS",
+        "t6": "FLEX_BILLING_NOTE",
+        "t7": "BILLING_NOTE",
+        "t8": "YOU_CAN_REMOVE_THIS_DOMAIN",
+        "t9": "BUTTON_TEXT_REMOVE_DOMAIN",
+        "t10": "BUTTON_TEXT_DISABLE_FEATURE",
+        "t11": "OUTRO"
     }
 }

@@ -1,0 +1,13 @@
+{
+    "SUBJECT": "FastComments アカウントに追加されたサイト",
+    "INTRO": "こんにちは <%= user.username %>",
+    "DOMAIN_ADDED_PARAGRAPH": "FastComments.com アカウントで新しいドメインが使用されました。試用期間中のため、便宜上、このサイトを自動的に追加しました。これは自動送信メールです。",
+    "SITE_ADDED_WAS": "検出された新しいサイトは次のとおりです: <b><%= domainAdded %></b>",
+    "TECHNICAL_DETAILS": "FastComments は、ドメインごとにアカウントへのリクエストを認証します。場合によっては、自動化されたシステム、ボット、または翻訳ツールがこれを引き起こす可能性があり、このドメインをアカウントに追加することが望ましくない場合があります.",
+    "FLEX_BILLING_NOTE": "<b>注:</b>アカウントは柔軟な価格設定を使用しているため、追加されたドメインにはコストがかかり、最初のドメインは無料です。今後の請求については、<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">こちらで</a>金額を確認してください。",
+    "BILLING_NOTE": "<b>注:</b>あなたのアカウントはフレックス価格設定を使用していないため、アカウントには非常に多くのドメインしか持てません。プランの使用状況は<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">こちら</a>で確認してください。",
+    "YOU_CAN_REMOVE_THIS_DOMAIN": "必要に応じて、このドメインを削除したり、この機能を無効にしたりできます。",
+    "BUTTON_TEXT_REMOVE_DOMAIN": "このドメインを削除します。",
+    "BUTTON_TEXT_DISABLE_FEATURE": "この機能を無効にします。",
+    "OUTRO": "このサイトがあなたのアカウントに属している場合は、これ以上の操作は必要ありません。 FastComments をご利用いただきありがとうございます。"
+}
