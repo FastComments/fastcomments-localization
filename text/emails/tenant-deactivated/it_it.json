@@ -3,5 +3,5 @@
     "FROM_NAME": "FastComments Robot",
     "SUBJECT": "Il tuo tenant FastComments è stato disattivato",
     "DETAILS_LINE_ONE": "Questa è un'e-mail automatizzata. Abbiamo riscontrato che hai fatture in sospeso da tempo e non siamo stati in grado di contattarti. Il tuo account è stato ora disattivato.",
-    "DETAILS_LINE_TWO": "Nessun dato è stato cancellato. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">Puoi sempre riattivare il tuo account qui.</a>"
+    "DETAILS_LINE_TWO": "Nessun dato è stato cancellato. <a href=\"<%= billingPageURL %>\">Puoi sempre riattivare il tuo account qui.</a>"
 }

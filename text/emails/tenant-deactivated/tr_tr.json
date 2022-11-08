@@ -3,5 +3,5 @@
     "FROM_NAME": "HızlıYorumlar Robotu",
     "SUBJECT": "FastComments Kiracınız Devre Dışı Bırakıldı",
     "DETAILS_LINE_ONE": "Bu otomatik bir e-postadır. Bir süredir ödenmemiş faturalarınız olduğunu ve size ulaşamadığınızı görüyoruz. Hesabınız şimdi devre dışı bırakıldı.",
-    "DETAILS_LINE_TWO": "Hiçbir veri silinmedi. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">Hesabınızı her zaman buradan yeniden etkinleştirebilirsiniz.</a>"
+    "DETAILS_LINE_TWO": "Hiçbir veri silinmedi. <a href=\"<%= billingPageURL %>\">Hesabınızı her zaman buradan yeniden etkinleştirebilirsiniz.</a>"
 }

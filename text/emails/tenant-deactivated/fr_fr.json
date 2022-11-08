@@ -3,5 +3,5 @@
     "FROM_NAME": "Robot FastComments",
     "SUBJECT": "Votre locataire FastComments a été désactivé",
     "DETAILS_LINE_ONE": "Il s'agit d'un e-mail automatisé. Nous constatons que vous avez des factures impayées depuis un certain temps et que vous n'avez pas pu vous joindre. Votre compte est maintenant désactivé.",
-    "DETAILS_LINE_TWO": "Aucune donnée n&#39;a été supprimée. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">Vous pouvez toujours réactiver votre compte ici.</a>"
+    "DETAILS_LINE_TWO": "Aucune donnée n&#39;a été supprimée. <a href=\"<%= billingPageURL %>\">Vous pouvez toujours réactiver votre compte ici.</a>"
 }

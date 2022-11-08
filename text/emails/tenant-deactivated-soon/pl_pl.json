@@ -3,5 +3,5 @@
     "FROM_NAME": "FastComments Robot",
     "SUBJECT": "Twój najemca FastComments zostanie wkrótce dezaktywowany!",
     "DETAILS_LINE_ONE": "To jest automatyczna wiadomość e-mail. Widzimy, że od jakiegoś czasu masz zaległe faktury i nie możesz się z Tobą skontaktować.",
-    "DETAILS_LINE_TWO": "Twoje konto zostanie dezaktywowane dnia <%= readableDeactivationDate %>. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">Tutaj możesz zaktualizować swoje informacje rozliczeniowe.</a>"
+    "DETAILS_LINE_TWO": "Twoje konto zostanie dezaktywowane dnia <%= readableDeactivationDate %>. <a href=\"<%= billingPageURL %>\">Tutaj możesz zaktualizować swoje informacje rozliczeniowe.</a>"
 }

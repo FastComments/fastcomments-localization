@@ -3,5 +3,5 @@
     "FROM_NAME": "HızlıYorumlar Robotu",
     "SUBJECT": "FastComments Kiracınız Yakında Devre Dışı Bırakılacak!",
     "DETAILS_LINE_ONE": "Bu otomatik bir e-postadır. Bir süredir ödenmemiş faturalarınız olduğunu ve size ulaşamadığınızı görüyoruz.",
-    "DETAILS_LINE_TWO": "Hesabınız <%= readableDeactivationDate %> tarihinde devre dışı bırakılacaktır. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">Fatura bilgilerinizi buradan güncelleyebilirsiniz.</a>"
+    "DETAILS_LINE_TWO": "Hesabınız <%= readableDeactivationDate %> tarihinde devre dışı bırakılacaktır. <a href=\"<%= billingPageURL %>\">Fatura bilgilerinizi buradan güncelleyebilirsiniz.</a>"
 }

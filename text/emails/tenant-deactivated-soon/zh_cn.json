@@ -3,5 +3,5 @@
     "FROM_NAME": "快速评论机器人",
     "SUBJECT": "您的 FastComments 租户即将停用！",
     "DETAILS_LINE_ONE": "这是一封自动电子邮件。我们看到您有一段时间的未结发票，并且无法联系到您。",
-    "DETAILS_LINE_TWO": "您的帐户将在 <%= readableDeactivationDate %> 停用。<a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">您可以在此处更新您的帐单信息。</a>"
+    "DETAILS_LINE_TWO": "您的帐户将在 <%= readableDeactivationDate %> 停用。<a href=\"<%= billingPageURL %>\">您可以在此处更新您的帐单信息。</a>"
 }

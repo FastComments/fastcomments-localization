@@ -3,5 +3,5 @@
     "FROM_NAME": "Robô FastComments",
     "SUBJECT": "Seu inquilino FastComments foi desativado",
     "DETAILS_LINE_ONE": "Este é um e-mail automático. Vemos que você tem faturas pendentes há algum tempo e não conseguiu entrar em contato com você. Sua conta já foi desativada.",
-    "DETAILS_LINE_TWO": "Nenhum dado foi excluído. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">Você sempre pode reativar sua conta aqui.</a>"
+    "DETAILS_LINE_TWO": "Nenhum dado foi excluído. <a href=\"<%= billingPageURL %>\">Você sempre pode reativar sua conta aqui.</a>"
 }

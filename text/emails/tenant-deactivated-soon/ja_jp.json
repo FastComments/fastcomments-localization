@@ -3,5 +3,5 @@
     "FROM_NAME": "FastComments ロボット",
     "SUBJECT": "あなたの FastComments テナントはまもなく非アクティブ化されます!",
     "DETAILS_LINE_ONE": "これは自動送信メールです。しばらくの間、未払いの請求書があり、連絡が取れていないようです。",
-    "DETAILS_LINE_TWO": "あなたのアカウントは <%= readableDeactivationDate %> に無効になります。<a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">ここで請求情報を更新できます。</a>"
+    "DETAILS_LINE_TWO": "あなたのアカウントは <%= readableDeactivationDate %> に無効になります。<a href=\"<%= billingPageURL %>\">ここで請求情報を更新できます。</a>"
 }
