@@ -1,0 +1,7 @@
+{
+    "INTRO": "おい <%= username %>、",
+    "FROM_NAME": "FastComments ロボット",
+    "SUBJECT": "FastComments テナントが非アクティブ化されました",
+    "DETAILS_LINE_ONE": "これは自動送信メールです。しばらくの間未払いの請求書があり、連絡が取れていないようです。あなたのアカウントは無効になりました。",
+    "DETAILS_LINE_TWO": "データは削除されていません。<a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">ここでいつでもアカウントを再開できます。</a>"
+}

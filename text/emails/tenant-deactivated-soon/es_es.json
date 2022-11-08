@@ -1,0 +1,7 @@
+{
+    "INTRO": "Ey <%= username %>,",
+    "FROM_NAME": "Robot de comentarios rápidos",
+    "SUBJECT": "¡Su arrendatario de FastComments se desactivará pronto!",
+    "DETAILS_LINE_ONE": "Este es un correo electrónico automatizado. Vemos que ha tenido facturas pendientes durante algún tiempo y no hemos podido comunicarnos con usted.",
+    "DETAILS_LINE_TWO": "Su cuenta será desactivada el <%= readableDeactivationDate %>. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">Puede actualizar su información de facturación aquí.</a>"
+}

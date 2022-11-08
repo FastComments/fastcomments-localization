@@ -1,0 +1,7 @@
+{
+    "INTRO": "Hey <%= username %>,",
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "Your FastComments Tenant Has Been Deactivated",
+    "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you. Your account has now been deactivated.",
+    "DETAILS_LINE_TWO": "No data has been deleted. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can always re-activate your account here.</a>"
+}

@@ -28,7 +28,11 @@
         "comment-ui-error-invalid-email": 1,
         "comment-ui-cancel": 8,
         "comment-ui-error-voting-disabled": 1,
-        "tenant-domain-added-notification": 11
+        "tenant-domain-added-notification": 11,
+        "tenant-deactivated": 5,
+        "tenant-deactivated-soon": 5,
+        "tenant-deactivation-cancelled": 5,
+        "tenant-deactivation-reactivated": 5
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -591,5 +595,33 @@
         "t9": "BUTTON_TEXT_REMOVE_DOMAIN",
         "t10": "BUTTON_TEXT_DISABLE_FEATURE",
         "t11": "OUTRO"
+    },
+    "tenant-deactivated": {
+        "t1": "INTRO",
+        "t2": "FROM_NAME",
+        "t3": "SUBJECT",
+        "t4": "DETAILS_LINE_ONE",
+        "t5": "DETAILS_LINE_TWO"
+    },
+    "tenant-deactivated-soon": {
+        "t1": "INTRO",
+        "t2": "FROM_NAME",
+        "t3": "SUBJECT",
+        "t4": "DETAILS_LINE_ONE",
+        "t5": "DETAILS_LINE_TWO"
+    },
+    "tenant-deactivation-cancelled": {
+        "t1": "INTRO",
+        "t2": "FROM_NAME",
+        "t3": "SUBJECT",
+        "t4": "DETAILS_LINE_ONE",
+        "t5": "DETAILS_LINE_TWO"
+    },
+    "tenant-deactivation-reactivated": {
+        "t1": "INTRO",
+        "t2": "FROM_NAME",
+        "t3": "SUBJECT",
+        "t4": "DETAILS_LINE_ONE",
+        "t5": "DETAILS_LINE_TWO"
     }
 }

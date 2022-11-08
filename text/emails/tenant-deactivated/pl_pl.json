@@ -1,0 +1,7 @@
+{
+    "INTRO": "Hej <%= username %>,",
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "Twój najemca FastComments został dezaktywowany",
+    "DETAILS_LINE_ONE": "To jest automatyczna wiadomość e-mail. Widzimy, że od jakiegoś czasu masz zaległe faktury i nie możesz się z Tobą skontaktować. Twoje konto zostało dezaktywowane.",
+    "DETAILS_LINE_TWO": "Żadne dane nie zostały usunięte. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">Zawsze możesz ponownie aktywować swoje konto tutaj.</a>"
+}

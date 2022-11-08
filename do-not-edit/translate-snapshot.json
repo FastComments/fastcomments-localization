@@ -583,6 +583,34 @@
                 "BUTTON_TEXT_REMOVE_DOMAIN": "Remove this domain.",
                 "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
                 "OUTRO": "If this site should belong to your account, no further action is needed. Thanks for using FastComments!"
+            },
+            "tenant-deactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Deactivated",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you. Your account has now been deactivated.",
+                "DETAILS_LINE_TWO": "No data has been deleted. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can always re-activate your account here.</a>"
+            },
+            "tenant-deactivated-soon": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Will Be Deactivated Soon!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you.",
+                "DETAILS_LINE_TWO": "Your account will be deactivated on <%= readableDeactivationDate %>. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can update your billing information here.</a>"
+            },
+            "tenant-deactivation-cancelled": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant is in Good Standing!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your account is no longer scheduled for deactivation. Thank you for your business!"
+            },
+            "tenant-deactivation-reactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Reactivated!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your tenant has been re-activated. Thank you for your business!"
             }
         },
         "es_es": {
@@ -1168,6 +1196,34 @@
                 "BUTTON_TEXT_REMOVE_DOMAIN": "Remove this domain.",
                 "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
                 "OUTRO": "If this site should belong to your account, no further action is needed. Thanks for using FastComments!"
+            },
+            "tenant-deactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Deactivated",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you. Your account has now been deactivated.",
+                "DETAILS_LINE_TWO": "No data has been deleted. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can always re-activate your account here.</a>"
+            },
+            "tenant-deactivated-soon": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Will Be Deactivated Soon!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you.",
+                "DETAILS_LINE_TWO": "Your account will be deactivated on <%= readableDeactivationDate %>. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can update your billing information here.</a>"
+            },
+            "tenant-deactivation-cancelled": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant is in Good Standing!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your account is no longer scheduled for deactivation. Thank you for your business!"
+            },
+            "tenant-deactivation-reactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Reactivated!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your tenant has been re-activated. Thank you for your business!"
             }
         },
         "pl_pl": {
@@ -1739,6 +1795,34 @@
                 "BUTTON_TEXT_REMOVE_DOMAIN": "Remove this domain.",
                 "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
                 "OUTRO": "If this site should belong to your account, no further action is needed. Thanks for using FastComments!"
+            },
+            "tenant-deactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Deactivated",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you. Your account has now been deactivated.",
+                "DETAILS_LINE_TWO": "No data has been deleted. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can always re-activate your account here.</a>"
+            },
+            "tenant-deactivated-soon": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Will Be Deactivated Soon!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you.",
+                "DETAILS_LINE_TWO": "Your account will be deactivated on <%= readableDeactivationDate %>. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can update your billing information here.</a>"
+            },
+            "tenant-deactivation-cancelled": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant is in Good Standing!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your account is no longer scheduled for deactivation. Thank you for your business!"
+            },
+            "tenant-deactivation-reactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Reactivated!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your tenant has been re-activated. Thank you for your business!"
             }
         },
         "de_de": {
@@ -2308,6 +2392,34 @@
                 "BUTTON_TEXT_REMOVE_DOMAIN": "Remove this domain.",
                 "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
                 "OUTRO": "If this site should belong to your account, no further action is needed. Thanks for using FastComments!"
+            },
+            "tenant-deactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Deactivated",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you. Your account has now been deactivated.",
+                "DETAILS_LINE_TWO": "No data has been deleted. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can always re-activate your account here.</a>"
+            },
+            "tenant-deactivated-soon": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Will Be Deactivated Soon!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you.",
+                "DETAILS_LINE_TWO": "Your account will be deactivated on <%= readableDeactivationDate %>. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can update your billing information here.</a>"
+            },
+            "tenant-deactivation-cancelled": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant is in Good Standing!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your account is no longer scheduled for deactivation. Thank you for your business!"
+            },
+            "tenant-deactivation-reactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Reactivated!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your tenant has been re-activated. Thank you for your business!"
             }
         },
         "it_it": {
@@ -2877,6 +2989,34 @@
                 "BUTTON_TEXT_REMOVE_DOMAIN": "Remove this domain.",
                 "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
                 "OUTRO": "If this site should belong to your account, no further action is needed. Thanks for using FastComments!"
+            },
+            "tenant-deactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Deactivated",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you. Your account has now been deactivated.",
+                "DETAILS_LINE_TWO": "No data has been deleted. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can always re-activate your account here.</a>"
+            },
+            "tenant-deactivated-soon": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Will Be Deactivated Soon!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you.",
+                "DETAILS_LINE_TWO": "Your account will be deactivated on <%= readableDeactivationDate %>. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can update your billing information here.</a>"
+            },
+            "tenant-deactivation-cancelled": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant is in Good Standing!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your account is no longer scheduled for deactivation. Thank you for your business!"
+            },
+            "tenant-deactivation-reactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Reactivated!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your tenant has been re-activated. Thank you for your business!"
             }
         },
         "ru_ru": {
@@ -3446,6 +3586,34 @@
                 "BUTTON_TEXT_REMOVE_DOMAIN": "Remove this domain.",
                 "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
                 "OUTRO": "If this site should belong to your account, no further action is needed. Thanks for using FastComments!"
+            },
+            "tenant-deactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Deactivated",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you. Your account has now been deactivated.",
+                "DETAILS_LINE_TWO": "No data has been deleted. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can always re-activate your account here.</a>"
+            },
+            "tenant-deactivated-soon": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Will Be Deactivated Soon!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you.",
+                "DETAILS_LINE_TWO": "Your account will be deactivated on <%= readableDeactivationDate %>. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can update your billing information here.</a>"
+            },
+            "tenant-deactivation-cancelled": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant is in Good Standing!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your account is no longer scheduled for deactivation. Thank you for your business!"
+            },
+            "tenant-deactivation-reactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Reactivated!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your tenant has been re-activated. Thank you for your business!"
             }
         },
         "pt_br": {
@@ -4013,6 +4181,34 @@
                 "BUTTON_TEXT_REMOVE_DOMAIN": "Remove this domain.",
                 "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
                 "OUTRO": "If this site should belong to your account, no further action is needed. Thanks for using FastComments!"
+            },
+            "tenant-deactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Deactivated",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you. Your account has now been deactivated.",
+                "DETAILS_LINE_TWO": "No data has been deleted. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can always re-activate your account here.</a>"
+            },
+            "tenant-deactivated-soon": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Will Be Deactivated Soon!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you.",
+                "DETAILS_LINE_TWO": "Your account will be deactivated on <%= readableDeactivationDate %>. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can update your billing information here.</a>"
+            },
+            "tenant-deactivation-cancelled": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant is in Good Standing!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your account is no longer scheduled for deactivation. Thank you for your business!"
+            },
+            "tenant-deactivation-reactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Reactivated!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your tenant has been re-activated. Thank you for your business!"
             }
         },
         "ja_jp": {
@@ -4575,6 +4771,34 @@
                 "BUTTON_TEXT_REMOVE_DOMAIN": "Remove this domain.",
                 "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
                 "OUTRO": "If this site should belong to your account, no further action is needed. Thanks for using FastComments!"
+            },
+            "tenant-deactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Deactivated",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you. Your account has now been deactivated.",
+                "DETAILS_LINE_TWO": "No data has been deleted. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can always re-activate your account here.</a>"
+            },
+            "tenant-deactivated-soon": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Will Be Deactivated Soon!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you.",
+                "DETAILS_LINE_TWO": "Your account will be deactivated on <%= readableDeactivationDate %>. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can update your billing information here.</a>"
+            },
+            "tenant-deactivation-cancelled": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant is in Good Standing!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your account is no longer scheduled for deactivation. Thank you for your business!"
+            },
+            "tenant-deactivation-reactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Reactivated!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your tenant has been re-activated. Thank you for your business!"
             }
         },
         "tr_tr": {
@@ -5137,6 +5361,34 @@
                 "BUTTON_TEXT_REMOVE_DOMAIN": "Remove this domain.",
                 "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
                 "OUTRO": "If this site should belong to your account, no further action is needed. Thanks for using FastComments!"
+            },
+            "tenant-deactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Deactivated",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you. Your account has now been deactivated.",
+                "DETAILS_LINE_TWO": "No data has been deleted. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can always re-activate your account here.</a>"
+            },
+            "tenant-deactivated-soon": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Will Be Deactivated Soon!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you.",
+                "DETAILS_LINE_TWO": "Your account will be deactivated on <%= readableDeactivationDate %>. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can update your billing information here.</a>"
+            },
+            "tenant-deactivation-cancelled": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant is in Good Standing!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your account is no longer scheduled for deactivation. Thank you for your business!"
+            },
+            "tenant-deactivation-reactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Reactivated!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your tenant has been re-activated. Thank you for your business!"
             }
         },
         "zh_cn": {
@@ -5698,6 +5950,34 @@
                 "BUTTON_TEXT_REMOVE_DOMAIN": "Remove this domain.",
                 "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
                 "OUTRO": "If this site should belong to your account, no further action is needed. Thanks for using FastComments!"
+            },
+            "tenant-deactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Deactivated",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you. Your account has now been deactivated.",
+                "DETAILS_LINE_TWO": "No data has been deleted. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can always re-activate your account here.</a>"
+            },
+            "tenant-deactivated-soon": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Will Be Deactivated Soon!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you.",
+                "DETAILS_LINE_TWO": "Your account will be deactivated on <%= readableDeactivationDate %>. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can update your billing information here.</a>"
+            },
+            "tenant-deactivation-cancelled": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant is in Good Standing!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your account is no longer scheduled for deactivation. Thank you for your business!"
+            },
+            "tenant-deactivation-reactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Reactivated!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your tenant has been re-activated. Thank you for your business!"
             }
         },
         "zh_tw": {
@@ -6259,6 +6539,34 @@
                 "BUTTON_TEXT_REMOVE_DOMAIN": "Remove this domain.",
                 "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
                 "OUTRO": "If this site should belong to your account, no further action is needed. Thanks for using FastComments!"
+            },
+            "tenant-deactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Deactivated",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you. Your account has now been deactivated.",
+                "DETAILS_LINE_TWO": "No data has been deleted. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can always re-activate your account here.</a>"
+            },
+            "tenant-deactivated-soon": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Will Be Deactivated Soon!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you.",
+                "DETAILS_LINE_TWO": "Your account will be deactivated on <%= readableDeactivationDate %>. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can update your billing information here.</a>"
+            },
+            "tenant-deactivation-cancelled": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant is in Good Standing!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your account is no longer scheduled for deactivation. Thank you for your business!"
+            },
+            "tenant-deactivation-reactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Reactivated!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your tenant has been re-activated. Thank you for your business!"
             }
         },
         "ko_kr": {
@@ -6819,6 +7127,34 @@
                 "BUTTON_TEXT_REMOVE_DOMAIN": "Remove this domain.",
                 "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
                 "OUTRO": "If this site should belong to your account, no further action is needed. Thanks for using FastComments!"
+            },
+            "tenant-deactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Deactivated",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you. Your account has now been deactivated.",
+                "DETAILS_LINE_TWO": "No data has been deleted. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can always re-activate your account here.</a>"
+            },
+            "tenant-deactivated-soon": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Will Be Deactivated Soon!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have had outstanding invoices for some time, and have not been able to reach you.",
+                "DETAILS_LINE_TWO": "Your account will be deactivated on <%= readableDeactivationDate %>. <a href=\"<%= FC_HOST %>/auth/my-account/billing-info\">You can update your billing information here.</a>"
+            },
+            "tenant-deactivation-cancelled": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant is in Good Standing!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your account is no longer scheduled for deactivation. Thank you for your business!"
+            },
+            "tenant-deactivation-reactivated": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments Tenant Has Been Reactivated!",
+                "DETAILS_LINE_ONE": "This is an automated email. We see that you have updated your billing information.",
+                "DETAILS_LINE_TWO": "Your tenant has been re-activated. Thank you for your business!"
             }
         }
     }
