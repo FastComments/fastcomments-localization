@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 252,
+        "comment-ui": 255,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -335,7 +335,8 @@
         "t245": "COMMENT_TOO_BIG",
         "t246": "COMMENT_MENU_FLAG",
         "t247": "COMMENT_MENU_UNFLAG",
-        "t250": "RATE_LIMITED"
+        "t250": "RATE_LIMITED",
+        "t253": "THREAD_CLOSED"
     },
     "recent-comments": {
         "t1": "AVATAR",
@@ -419,7 +420,9 @@
         "t212": "LOGIN_TO_GIVE_BADGE",
         "t213": "GIVE_BADGE_FAILURE",
         "t214": "GIVE_BADGE_SAVING",
-        "t215": "GIVE_BADGE_CONFIRM"
+        "t215": "GIVE_BADGE_CONFIRM",
+        "t254": "MODERATION_CLOSE_THREAD",
+        "t255": "MODERATION_REOPEN_THREAD"
     },
     "comment-user-mention": {
         "t1": "SUBJECT",
