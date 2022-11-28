@@ -1,14 +1,14 @@
 {
     "INTRO": "嘿 <%= username %>，",
-    "FROM_NAME": "快评机器人",
-    "YOU_HAVE_NEW_COMMENTS": "你有一些新的评论！",
-    "BANNER_TEXT": "新评论 - 最后一小时",
-    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>新评论<% } else { %>新评论<% } %>",
-    "UNSUBSCRIBE_HERE": "在此处登录并取消订阅这些电子邮件",
+    "FROM_NAME": "快評機器人",
+    "YOU_HAVE_NEW_COMMENTS": "你有一些新評論！",
+    "BANNER_TEXT": "新評論 - 最後一小時",
+    "SUBJECT": "新評論",
+    "UNSUBSCRIBE_HERE": "在此處登錄並取消訂閱這些電子郵件",
     "APPROVE_COMMENT": "批准",
-    "VIEW_COMMENT": "查看评论",
-    "HERE_ARE_LINKS_TO_PAGES": "以下是这些评论所在页面的链接，以及每个页面的评论数。",
-    "PAGE": "页",
-    "NEW_COMMENTS": "新评论",
-    "MODERATE_COMMENTS": "适度评论"
+    "VIEW_COMMENT": "查看評論",
+    "HERE_ARE_LINKS_TO_PAGES": "以下是這些評論所在頁面的鏈接，以及每個評論的數量。",
+    "PAGE": "頁",
+    "NEW_COMMENTS": "新評論",
+    "MODERATE_COMMENTS": "審核評論"
 }

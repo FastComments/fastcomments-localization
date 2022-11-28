@@ -1,7 +1,7 @@
 {
     "INTRO": "嘿 <%= username %>，",
-    "FROM_NAME": "快速评论机器人",
-    "SUBJECT": "您的 FastComments 租户已停用",
-    "DETAILS_LINE_ONE": "这是一封自动电子邮件。我们看到您有一段时间的未结发票，并且无法联系到您。您的帐户现已停用。",
-    "DETAILS_LINE_TWO": "没有数据被删除。<a href=\"<%= billingPageURL %>\">您可以随时在此处重新激活您的帐户。</a>"
+    "FROM_NAME": "快評機器人",
+    "SUBJECT": "您的 FastComments 租戶已被停用",
+    "DETAILS_LINE_ONE": "這是一封自動發送的電子郵件。我們看到您有一段時間未付清的發票，但無法聯繫到您。您的帳戶現已停用。",
+    "DETAILS_LINE_TWO": "沒有數據被刪除。<a href=\"<%= billingPageURL %>\">您隨時可以在此處重新激活您的帳戶。</a>"
 }

@@ -1,13 +1,13 @@
 {
-    "SUBJECT": "网站已添加到您的 FastComments 帐户",
+    "SUBJECT": "站點已添加到您的 FastComments 帳戶",
     "INTRO": "你好 <%= user.username %>",
-    "DOMAIN_ADDED_PARAGRAPH": "您的 FastComments.com 帐户已使用新域。由于您处于试用期，为了方便起见，我们已自动添加此站点。这是一封自动电子邮件。",
-    "SITE_ADDED_WAS": "我们检测到的新站点是： <b><%= domainAdded %></b>",
-    "TECHNICAL_DETAILS": "FastComments 按域对对您帐户的请求进行身份验证。有时，自动化系统、机器人或翻译工具可能会导致这种情况发生，并且可能不希望将此域添加到您的帐户中。",
-    "FLEX_BILLING_NOTE": "<b>注意：</b>由于您的帐户使用弹性定价，添加的域会产生费用，第一个是免费的。在<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">此处</a>检查任何未来发票的金额。",
-    "BILLING_NOTE": "<b>注意：</b>由于您的帐户未使用弹性定价，因此您的帐户中只能拥有这么多域。在<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">此处</a>检查您的计划的使用情况。",
-    "YOU_CAN_REMOVE_THIS_DOMAIN": "如果需要，您可以删除此域，也可以禁用此功能。",
-    "BUTTON_TEXT_REMOVE_DOMAIN": "删除此域。",
+    "DOMAIN_ADDED_PARAGRAPH": "您的 FastComments.com 帳戶使用了一個新域。由於您處於試用期，為方便起見，我們自動添加了此站點。這是一封自動發送的電子郵件。",
+    "SITE_ADDED_WAS": "我們檢測到的新站點是： <b><%= domainAdded %></b>",
+    "TECHNICAL_DETAILS": "FastComments 按域驗證對您帳戶的請求。有時，自動化系統、機器人或翻譯工具會導致這種情況發生，將此域添加到您的帳戶可能並不理想。",
+    "FLEX_BILLING_NOTE": "<b>注意：</b>由於您的帳戶使用彈性定價，因此添加域會產生費用，第一個是免費的。在<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">此處</a>檢查任何未來發票的金額。",
+    "BILLING_NOTE": "<b>注意：</b>由於您的帳戶未使用彈性定價，因此您的帳戶中只能有這麼多域。在<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">此處</a>檢查您的計劃的使用情況。",
+    "YOU_CAN_REMOVE_THIS_DOMAIN": "如果需要，您可以刪除此域，並禁用此功能。",
+    "BUTTON_TEXT_REMOVE_DOMAIN": "刪除此域。",
     "BUTTON_TEXT_DISABLE_FEATURE": "禁用此功能。",
-    "OUTRO": "如果此站点应属于您的帐户，则无需进一步操作。感谢您使用快速评论！"
+    "OUTRO": "如果該站點屬於您的帳戶，則無需採取進一步的措施。感謝您使用 FastComments！"
 }

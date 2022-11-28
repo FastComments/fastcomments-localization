@@ -1,14 +1,14 @@
 {
     "INTRO": "嘿 <%= username %>，",
-    "NEW_USER_BANNER_TEXT": "欢迎来到快评",
-    "BANNER_TEXT": "FastComments 登录链接",
-    "FROM_NAME": "快评机器人",
-    "NEW_USER_SUBJECT": "欢迎使用快速评论 <%= username %>！在此处验证并登录您的帐户",
-    "SUBJECT": "这是您的登录链接 <%= username %>",
-    "NEW_USER_THANKS_FOR_SIGNING_UP": "感谢您注册 FastComments。",
-    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "请点击<a href=\"<%= userVerifyUrl %>\">此链接</a><b>验证您的帐户</b>。这也会让您登录。",
-    "CAN_CREATE_NEW_LINKS_HERE": "<a href=\"<%= HOST %>/auth/login/\">您可以在此处</a>创建新链接以登录您的帐户。",
-    "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">单击此处</a>登录 FastComments。",
-    "THAT_FULL_LINK_IS": "完整链接是：<%= userVerifyUrl %>",
-    "UNSUBSCRIBE_HERE": "在此处登录并取消订阅这些电子邮件"
+    "NEW_USER_BANNER_TEXT": "歡迎來到快評",
+    "BANNER_TEXT": "FastComments 登錄鏈接",
+    "FROM_NAME": "快評機器人",
+    "NEW_USER_SUBJECT": "歡迎使用 FastComments <%= username %>！在此處驗證並登錄您的帳戶",
+    "SUBJECT": "這是您的登錄鏈接 <%= username %>",
+    "NEW_USER_THANKS_FOR_SIGNING_UP": "感謝您註冊 FastComments。",
+    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "請單擊<a href=\"<%= userVerifyUrl %>\">此鏈接</a><b>驗證您的帳戶</b>。這也將使您登錄。",
+    "CAN_CREATE_NEW_LINKS_HERE": "您可以<a href=\"<%= HOST %>/auth/login/\">在此處</a>創建新鏈接以登錄您的帳戶。",
+    "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">單擊此處</a>登錄 FastComments。",
+    "THAT_FULL_LINK_IS": "完整鏈接是：<%= userVerifyUrl %>",
+    "UNSUBSCRIBE_HERE": "在此處登錄並取消訂閱這些電子郵件"
 }

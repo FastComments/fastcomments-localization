@@ -1,8 +1,8 @@
 {
-    "FROM_NAME": "FastComments 帮助机器人",
-    "SUBJECT": "支持人员确认的帮助请求",
+    "FROM_NAME": "FastComments 幫助機器人",
+    "SUBJECT": "支持人員確認的幫助請求",
     "HEY": "嘿 <%= commenterUsername %>，",
-    "ACKNOWLEDGED_BY_ADMIN": "看起来用户名为“<%= adminUsername %>”的支持代理已确认您的请求。他们应该会尽快与您联系。",
-    "THANKS_FOR_USING_FC": "感谢您使用 FastComments！",
-    "DONT_REPLY_TO_THIS": "这封电子邮件来自一个仅限出站的电子邮件信箱 - 不要回复它。我们将分别与您联系。"
+    "ACKNOWLEDGED_BY_ADMIN": "看起來用戶名為“<%= adminUsername %>”的支持代理已確認您的請求。他們應該會盡快與您聯繫。",
+    "THANKS_FOR_USING_FC": "感謝您使用 FastComments！",
+    "DONT_REPLY_TO_THIS": "此電子郵件來自僅出站郵箱 - 不要回复它。我們會單獨與您聯繫。"
 }

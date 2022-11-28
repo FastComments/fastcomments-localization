@@ -1,11 +1,11 @@
 {
-    "FROM_NAME": "快评机器人",
+    "FROM_NAME": "快評機器人",
     "INTRO": "嘿 <%= commenterName %>，",
-    "BANNER_TEXT": "验证您的投票",
-    "SUBJECT": "<%= commenterName %> - 验证您的投票。",
-    "LOOKS_LIKE_YOU_VOTED_HERE": "<a href=\"<%= url %>\">看起来您对此处</a>的帖子进行了投票。如果您点击下面的验证链接，它将帮助我们知道是您留下了这次投票。",
-    "VERIFY_YOUR_VOTE_LINK": "验证您的投票",
-    "WAS_YOU_IGNORE_THIS_EMAIL": "如果这不是您，请忽略此电子邮件。",
-    "THANKS_SO_MUCH": "非常感谢！",
-    "UNSUBSCRIBE_HERE": "在此处登录并取消订阅这些电子邮件"
+    "BANNER_TEXT": "驗證您的投票",
+    "SUBJECT": "<%= commenterName %> - 驗證您的投票。",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "看起來您對<a href=\"<%= url %>\">此處</a>的帖子進行了投票。如果您點擊下面的驗證鏈接，它會幫助我們知道是您投了這個票。",
+    "VERIFY_YOUR_VOTE_LINK": "驗證您的投票",
+    "WAS_YOU_IGNORE_THIS_EMAIL": "如果這不是您本人所為，請忽略此電子郵件。",
+    "THANKS_SO_MUCH": "非常感謝！",
+    "UNSUBSCRIBE_HERE": "在此處登錄並取消訂閱這些電子郵件"
 }
