@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 255,
+        "comment-ui": 264,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -422,7 +422,16 @@
         "t214": "GIVE_BADGE_SAVING",
         "t215": "GIVE_BADGE_CONFIRM",
         "t254": "MODERATION_CLOSE_THREAD",
-        "t255": "MODERATION_REOPEN_THREAD"
+        "t255": "MODERATION_REOPEN_THREAD",
+        "t256": "COMMENT_MENU_REMOVE_BADGE",
+        "t257": "COMMENT_MENU_REMOVE_BADGE_ONLY_MANUAL",
+        "t258": "MODERATION_REMOVE_BADGE_NONE",
+        "t259": "PICK_BADGE_TO_REMOVE",
+        "t260": "BADGE_SELECT_TO_REMOVE_LABEL",
+        "t261": "LOGIN_TO_REMOVE_BADGE",
+        "t262": "REMOVE_BADGE_FAILURE",
+        "t263": "REMOVE_BADGE_SAVING",
+        "t264": "REMOVE_BADGE_CONFIRM"
     },
     "comment-user-mention": {
         "t1": "SUBJECT",
