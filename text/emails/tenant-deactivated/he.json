@@ -1,0 +1,7 @@
+{
+    "INTRO": "היי <%= username %>,",
+    "FROM_NAME": "FastComments רובוט",
+    "SUBJECT": "דייר FastComments שלך הושבת",
+    "DETAILS_LINE_ONE": "זהו אימייל אוטומטי. אנו רואים שיש לך חשבוניות ללא תשלום מזה זמן, ולא הצלחת להשיג אותך. חשבונך הושבת כעת.",
+    "DETAILS_LINE_TWO": "שום נתונים לא נמחקו. <a href=\"<%= billingPageURL %>\">אתה תמיד יכול להפעיל מחדש את חשבונך כאן.</a>"
+}

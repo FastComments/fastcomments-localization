@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments עזרה Bot",
+    "SUBJECT": "בקשת עזרה מאושרת על ידי צוות התמיכה",
+    "HEY": "היי <%= commenterUsername %>,",
+    "ACKNOWLEDGED_BY_ADMIN": "נראה שסוכן התמיכה עם שם המשתמש \"<%= adminUsername %>\" אישר את בקשתך. הם צריכים לפנות אליך בקרוב.",
+    "THANKS_FOR_USING_FC": "תודה על השימוש ב-FastComments!",
+    "DONT_REPLY_TO_THIS": "דוא\"ל זה מגיע מתיבת דוא\"ל יוצאת בלבד - אל תשיב לה. ניצור איתך קשר בנפרד."
+}

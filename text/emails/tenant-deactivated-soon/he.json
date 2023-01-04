@@ -1,0 +1,7 @@
+{
+    "INTRO": "היי <%= username %>,",
+    "FROM_NAME": "FastComments רובוט",
+    "SUBJECT": "דייר FastComments שלך יושבת בקרוב!",
+    "DETAILS_LINE_ONE": "זהו אימייל אוטומטי. אנו רואים שיש לך חשבוניות ללא תשלום מזה זמן, ולא הצלחת להשיג אותך.",
+    "DETAILS_LINE_TWO": "חשבונך יושבת ב-<%= readableDeactivationDate %>. <a href=\"<%= billingPageURL %>\">תוכל לעדכן את פרטי החיוב שלך כאן.</a>"
+}

@@ -1,0 +1,7 @@
+{
+    "SUBJECT": "הודעה חדשה מ<%= comment.commenterName %>",
+    "INTRO": "היי <%= targetUser.username %>,",
+    "YOU_HAVE_A_NEW_MESSAGE": "קיבלת הודעה חדשה, המופיעה למטה. אתה יכול להשיב על ידי מענה לדוא\"ל זה, או לחיצה על הלחצן למטה.",
+    "GO_TO_CONVERSATION": "עבור אל שיחה",
+    "UNSUBSCRIBE_HERE": "בטל את המנוי להתראות כאן."
+}

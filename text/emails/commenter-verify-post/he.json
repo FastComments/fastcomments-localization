@@ -1,0 +1,22 @@
+{
+    "FROM_NAME": "FastComments רובוט",
+    "SUBJECT": "<%= comment.commenterName %> - אמת את הערתך.",
+    "BANNER_TEXT": "אמת את ההערה שלך",
+    "INTRO": "היי <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "זהו אימייל אוטומטי. נראה שהגבת על פוסט <a href=\"<%= comment.url %>\">כאן</a> . אם תלחץ על קישור האימות למטה, זה יעזור לנו לדעת שזה אתה שהשארת את התגובה הזו.",
+    "VERIFY_YOUR_COMMENT_LINK": "אמת את ההערה שלך",
+    "WASNT_YOU_OR_REGRET": "אם זה לא היית אתה או שאתה מתחרט על מה שאמרת, התעלם מאימייל זה והתגובה תוסר בעוד <%= removedInDays %> ימים.",
+    "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">הסר תגובה זו</a>",
+    "THANKS_SO_MUCH": "תודה רבה!",
+    "JUST_NOW": "זֶה עַתָה",
+    "ONE_MINUTE_AGO": "לפני 1 דקה",
+    "MINUTES_AGO": "  לפני דקות",
+    "ONE_HOUR_AGO": "לפני שעה",
+    "HOURS_AGO": "  לפני שעות",
+    "YESTERDAY": "אתמול",
+    "DAYS_AGO": "  לפני מספר ימים",
+    "WEEKS_AGO": "  לפני שבועות",
+    "MONTHS_AGO": "  לפני חודשים",
+    "YEARS_AGO": "  לפני שנים",
+    "UNSUBSCRIBE_HERE": "היכנס ובטל את הרישום למיילים אלה כאן"
+}

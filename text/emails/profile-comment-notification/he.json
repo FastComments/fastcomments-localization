@@ -1,0 +1,7 @@
+{
+    "SUBJECT": "הערת פרופיל חדשה מאת <%= comment.commenterName %>",
+    "INTRO": "היי <%= targetUser.username %>,",
+    "YOU_HAVE_A_NEW_PROFILE_COMMENT": "קיבלת תגובה חדשה בפרופיל שלך, המוצגת למטה. אתה יכול לראות את הערות הפרופיל שלך על ידי לחיצה על הכפתור למטה.",
+    "GO_TO_PROFILE": "עבור אל פרופיל",
+    "UNSUBSCRIBE_HERE": "בטל את המנוי להתראות כאן."
+}

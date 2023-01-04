@@ -1,0 +1,14 @@
+{
+    "INTRO": "היי <%= username %>,",
+    "NEW_USER_BANNER_TEXT": "ברוכים הבאים ל-FastComments",
+    "BANNER_TEXT": "קישור לכניסה FastComments",
+    "FROM_NAME": "FastComments רובוט",
+    "NEW_USER_SUBJECT": "ברוכים הבאים ל-FastComments <%= username %>! אמת והיכנס לחשבון שלך כאן",
+    "SUBJECT": "הנה קישור הכניסה שלך <%= username %>",
+    "NEW_USER_THANKS_FOR_SIGNING_UP": "תודה שנרשמת ל-FastComments.",
+    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "אנא <b>אמת את חשבונך</b> על ידי לחיצה על <a href=\"<%= userVerifyUrl %>\">קישור זה</a> . זה גם יכניס אותך לחשבון.",
+    "CAN_CREATE_NEW_LINKS_HERE": "אתה יכול ליצור קישורים חדשים כדי להיכנס לחשבון שלך <a href=\"<%= HOST %>/auth/login/\">כאן</a> .",
+    "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">לחץ כאן</a> כדי להיכנס ל-FastComments.",
+    "THAT_FULL_LINK_IS": "הקישור המלא הזה הוא: <%= userVerifyUrl %>",
+    "UNSUBSCRIBE_HERE": "היכנס ובטל את הרישום למיילים אלה כאן"
+}

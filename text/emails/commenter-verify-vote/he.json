@@ -1,0 +1,11 @@
+{
+    "FROM_NAME": "FastComments רובוט",
+    "INTRO": "היי <%= commenterName %>,",
+    "BANNER_TEXT": "אמת את ההצבעה שלך",
+    "SUBJECT": "<%= commenterName %> - אמת את ההצבעה שלך.",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "נראה שהצבעת על פוסט <a href=\"<%= url %>\">כאן</a> . אם תלחץ על קישור האימות למטה, זה יעזור לנו לדעת שזה אתה שעזבת את ההצבעה הזו.",
+    "VERIFY_YOUR_VOTE_LINK": "אמת את ההצבעה שלך",
+    "WAS_YOU_IGNORE_THIS_EMAIL": "אם זה לא היית אתה, התעלם מהמייל הזה.",
+    "THANKS_SO_MUCH": "תודה רבה!",
+    "UNSUBSCRIBE_HERE": "היכנס ובטל את הרישום למיילים אלה כאן"
+}

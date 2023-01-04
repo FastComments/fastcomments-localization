@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "ברוכים הבאים ל-FastComments <%= commenterName %>!",
+    "BANNER_TEXT": "ברוכים הבאים ל-FastComments",
+    "INTRO": "היי <%= commenterName %>,",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "נראה שהצבעת על פוסט <a href=\"<%= url %>\">כאן</a> .",
+    "VERIFY_YOUR_ACCOUNT": "אמת את חשבונך",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "אתה יכול ליצור קישורים חדשים כדי להיכנס לחשבון שלך <a href=\"<%= FC_DOMAIN %>/auth/login/\">כאן</a> .",
+    "WASNT_YOU_IGNORE_EMAIL": "אם זה לא היית אתה, התעלם מהמייל הזה.",
+    "THANKS_SO_MUCH": "תודה רבה!",
+    "UNSUBSCRIBE_HERE": "היכנס ובטל את הרישום למיילים אלה כאן"
+}
