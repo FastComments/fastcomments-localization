@@ -22,5 +22,8 @@
     "MARK_REVIEWED": "Mark Review",
     "MARK_REVIEWED_AND_RESPOND": "Segna come rivisto e rispondi",
     "MODERATE_COMMENTS": "Commenti moderati",
-    "MARK_AS_SPAM": "Segna come spam"
+    "MARK_AS_SPAM": "Segna come spam",
+    "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Nuovi Mi piace",
+    "DELTA_LIKES": "❤️",
+    "TOTAL_LIKES": "Totale"
 }

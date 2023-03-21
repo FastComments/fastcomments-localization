@@ -7,7 +7,7 @@
         "commenter-welcome-from-vote": 9,
         "forgot-username": 5,
         "login": 12,
-        "tenant-comment-digest": 24,
+        "tenant-comment-digest": 27,
         "tenant-comment-notification": 13,
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
@@ -157,7 +157,10 @@
         "t21": "MARK_REVIEWED",
         "t22": "MARK_REVIEWED_AND_RESPOND",
         "t23": "MODERATE_COMMENTS",
-        "t24": "MARK_AS_SPAM"
+        "t24": "MARK_AS_SPAM",
+        "t25": "NEW_LIKES",
+        "t26": "DELTA_LIKES",
+        "t27": "TOTAL_LIKES"
     },
     "tenant-comment-notification": {
         "t1": "INTRO",

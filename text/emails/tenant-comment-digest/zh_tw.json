@@ -22,5 +22,8 @@
     "CHANGE_FREQUENCY": "更改此電子郵件的頻率。",
     "MARK_REVIEWED": "標記已審核",
     "MARK_REVIEWED_AND_RESPOND": "標記已審核並回复",
-    "MARK_AS_SPAM": "標記為垃圾郵件"
+    "MARK_AS_SPAM": "標記為垃圾郵件",
+    "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> 新喜歡",
+    "DELTA_LIKES": "❤️",
+    "TOTAL_LIKES": "全部的"
 }

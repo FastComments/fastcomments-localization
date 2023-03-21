@@ -282,7 +282,10 @@
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
                 "MODERATE_COMMENTS": "Moderate Comments",
-                "MARK_AS_SPAM": "Mark as Spam"
+                "MARK_AS_SPAM": "Mark as Spam",
+                "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> New Likes",
+                "DELTA_LIKES": "❤️",
+                "TOTAL_LIKES": "Total"
             },
             "tenant-free-trial-expired-reminder": {
                 "INTRO": "Hey <%= user.username %>",
@@ -912,7 +915,10 @@
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
                 "MODERATE_COMMENTS": "Moderate Comments",
-                "MARK_AS_SPAM": "Mark as Spam"
+                "MARK_AS_SPAM": "Mark as Spam",
+                "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> New Likes",
+                "DELTA_LIKES": "❤️",
+                "TOTAL_LIKES": "Total"
             },
             "tenant-free-trial-expired-reminder": {
                 "INTRO": "Hey <%= user.username %>",
@@ -1352,7 +1358,10 @@
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
                 "MODERATE_COMMENTS": "Moderate Comments",
-                "MARK_AS_SPAM": "Mark as Spam"
+                "MARK_AS_SPAM": "Mark as Spam",
+                "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> New Likes",
+                "DELTA_LIKES": "❤️",
+                "TOTAL_LIKES": "Total"
             },
             "tenant-free-trial-half-done-reminder": {
                 "INTRO": "Hey <%= tenantName %>",
@@ -2000,7 +2009,10 @@
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
                 "MODERATE_COMMENTS": "Moderate Comments",
-                "MARK_AS_SPAM": "Mark as Spam"
+                "MARK_AS_SPAM": "Mark as Spam",
+                "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> New Likes",
+                "DELTA_LIKES": "❤️",
+                "TOTAL_LIKES": "Total"
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -2614,7 +2626,10 @@
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
                 "MODERATE_COMMENTS": "Moderate Comments",
-                "MARK_AS_SPAM": "Mark as Spam"
+                "MARK_AS_SPAM": "Mark as Spam",
+                "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> New Likes",
+                "DELTA_LIKES": "❤️",
+                "TOTAL_LIKES": "Total"
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -3231,7 +3246,10 @@
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
-                "MARK_AS_SPAM": "Mark as Spam"
+                "MARK_AS_SPAM": "Mark as Spam",
+                "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> New Likes",
+                "DELTA_LIKES": "❤️",
+                "TOTAL_LIKES": "Total"
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -3844,7 +3862,10 @@
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
-                "MARK_AS_SPAM": "Mark as Spam"
+                "MARK_AS_SPAM": "Mark as Spam",
+                "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> New Likes",
+                "DELTA_LIKES": "❤️",
+                "TOTAL_LIKES": "Total"
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -4456,7 +4477,10 @@
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
-                "MARK_AS_SPAM": "Mark as Spam"
+                "MARK_AS_SPAM": "Mark as Spam",
+                "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> New Likes",
+                "DELTA_LIKES": "❤️",
+                "TOTAL_LIKES": "Total"
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -5072,7 +5096,10 @@
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
-                "MARK_AS_SPAM": "Mark as Spam"
+                "MARK_AS_SPAM": "Mark as Spam",
+                "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> New Likes",
+                "DELTA_LIKES": "❤️",
+                "TOTAL_LIKES": "Total"
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -5679,7 +5706,10 @@
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
-                "MARK_AS_SPAM": "Mark as Spam"
+                "MARK_AS_SPAM": "Mark as Spam",
+                "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> New Likes",
+                "DELTA_LIKES": "❤️",
+                "TOTAL_LIKES": "Total"
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -6292,7 +6322,10 @@
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
-                "MARK_AS_SPAM": "Mark as Spam"
+                "MARK_AS_SPAM": "Mark as Spam",
+                "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> New Likes",
+                "DELTA_LIKES": "❤️",
+                "TOTAL_LIKES": "Total"
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -6904,7 +6937,10 @@
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
-                "MARK_AS_SPAM": "Mark as Spam"
+                "MARK_AS_SPAM": "Mark as Spam",
+                "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> New Likes",
+                "DELTA_LIKES": "❤️",
+                "TOTAL_LIKES": "Total"
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -7508,7 +7544,10 @@
                 "CHANGE_FREQUENCY": "Change the frequency of this email.",
                 "MARK_REVIEWED": "Mark Reviewed",
                 "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
-                "MARK_AS_SPAM": "Mark as Spam"
+                "MARK_AS_SPAM": "Mark as Spam",
+                "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> New Likes",
+                "DELTA_LIKES": "❤️",
+                "TOTAL_LIKES": "Total"
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",

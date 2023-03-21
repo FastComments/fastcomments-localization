@@ -22,5 +22,8 @@
   "CHANGE_FREQUENCY": "Change the frequency of this email.",
   "MARK_REVIEWED": "Mark Reviewed",
   "MARK_REVIEWED_AND_RESPOND": "Mark Reviewed and Respond",
-  "MARK_AS_SPAM": "Mark as Spam"
+  "MARK_AS_SPAM": "Mark as Spam",
+  "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> New Likes",
+  "DELTA_LIKES": "❤️",
+  "TOTAL_LIKES": "Total"
 }

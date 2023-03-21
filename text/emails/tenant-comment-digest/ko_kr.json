@@ -22,5 +22,8 @@
     "CHANGE_FREQUENCY": "이 이메일의 빈도를 변경합니다.",
     "MARK_REVIEWED": "검토됨으로 표시",
     "MARK_REVIEWED_AND_RESPOND": "검토 표시 및 응답",
-    "MARK_AS_SPAM": "스팸으로 표시"
+    "MARK_AS_SPAM": "스팸으로 표시",
+    "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> 새로운 좋아요",
+    "DELTA_LIKES": "❤️",
+    "TOTAL_LIKES": "총"
 }

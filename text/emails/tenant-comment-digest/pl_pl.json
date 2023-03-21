@@ -22,5 +22,8 @@
     "MARK_REVIEWED": "Mark Oceniony",
     "MARK_REVIEWED_AND_RESPOND": "Oznacz jako sprawdzone i odpowiedz",
     "MODERATE_COMMENTS": "Umiarkowane komentarze",
-    "MARK_AS_SPAM": "Oznacz jako spam"
+    "MARK_AS_SPAM": "Oznacz jako spam",
+    "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Nowe polubienia",
+    "DELTA_LIKES": "❤️",
+    "TOTAL_LIKES": "Całkowity"
 }

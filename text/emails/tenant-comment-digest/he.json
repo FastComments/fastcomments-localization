@@ -22,5 +22,8 @@
     "CHANGE_FREQUENCY": "שנה את תדירות האימייל הזה.",
     "MARK_REVIEWED": "מארק נבדק",
     "MARK_REVIEWED_AND_RESPOND": "סמן בדק והגיב",
-    "MARK_AS_SPAM": "סמן כספאם"
+    "MARK_AS_SPAM": "סמן כספאם",
+    "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> לייקים חדשים",
+    "DELTA_LIKES": "❤️",
+    "TOTAL_LIKES": "סה\"כ"
 }

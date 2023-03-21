@@ -22,5 +22,8 @@
     "CHANGE_FREQUENCY": "このメールの頻度を変更してください。",
     "MARK_REVIEWED": "レビュー済みマーク",
     "MARK_REVIEWED_AND_RESPOND": "レビュー済みのマークと返信",
-    "MARK_AS_SPAM": "スパムとしてマークする"
+    "MARK_AS_SPAM": "スパムとしてマークする",
+    "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> 新しいいいね",
+    "DELTA_LIKES": "❤️",
+    "TOTAL_LIKES": "合計"
 }

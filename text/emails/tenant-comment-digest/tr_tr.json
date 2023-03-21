@@ -22,5 +22,8 @@
     "CHANGE_FREQUENCY": "Bu e-postanın sıklığını değiştirin.",
     "MARK_REVIEWED": "İncelendi Olarak İşaretle",
     "MARK_REVIEWED_AND_RESPOND": "İncelendi Olarak İşaretle ve Yanıtla",
-    "MARK_AS_SPAM": "Spam olarak işaretle"
+    "MARK_AS_SPAM": "Spam olarak işaretle",
+    "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Yeni Beğeniler",
+    "DELTA_LIKES": "❤️",
+    "TOTAL_LIKES": "Toplam"
 }

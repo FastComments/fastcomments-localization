@@ -22,5 +22,8 @@
     "CHANGE_FREQUENCY": "Измените частоту отправки этого электронного письма.",
     "MARK_REVIEWED": "Отметить как рассмотренное",
     "MARK_REVIEWED_AND_RESPOND": "Отметить как рассмотренное и ответить",
-    "MARK_AS_SPAM": "Отметить как спам"
+    "MARK_AS_SPAM": "Отметить как спам",
+    "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Новые лайки",
+    "DELTA_LIKES": "❤️",
+    "TOTAL_LIKES": "Общий"
 }
