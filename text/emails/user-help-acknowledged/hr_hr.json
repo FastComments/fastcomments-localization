@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments Bot za pomoć",
+    "SUBJECT": "Osoblje za podršku potvrdilo zahtjev za pomoć",
+    "HEY": "Hej <%= commenterUsername %>,",
+    "ACKNOWLEDGED_BY_ADMIN": "Čini se da je agent za podršku s korisničkim imenom \"<%= adminUsername %>\" potvrdio vaš zahtjev. Uskoro bi vam se trebali javiti.",
+    "THANKS_FOR_USING_FC": "Hvala što koristite FastComments!",
+    "DONT_REPLY_TO_THIS": "Ova e-poruka dolazi iz pretinca samo za odlaznu e-poštu - nemojte odgovarati na nju. Javit ćemo vam se zasebno."
+}

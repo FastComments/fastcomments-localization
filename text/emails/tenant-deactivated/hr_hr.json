@@ -1,0 +1,7 @@
+{
+    "INTRO": "Hej <%= username %>,",
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "Vaš zakupac FastCommentsa je deaktiviran",
+    "DETAILS_LINE_ONE": "Ovo je automatizirana e-pošta. Vidimo da već neko vrijeme imate nepodmirene fakture i nismo bili u mogućnosti doći do vas. Vaš račun je sada deaktiviran.",
+    "DETAILS_LINE_TWO": "Nijedan podatak nije izbrisan. <a href=\"<%= billingPageURL %>\">Uvijek možete ponovno aktivirati svoj račun ovdje.</a>"
+}

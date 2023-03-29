@@ -1,0 +1,22 @@
+{
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "<%= comment.commenterName %> - Potvrdite svoj komentar.",
+    "BANNER_TEXT": "Potvrdite svoj komentar",
+    "INTRO": "Hej <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Ovo je automatizirana e-pošta. Čini se da ste komentirali post <a href=\"<%= comment.url %>\">ovdje</a> . Ako kliknete vezu za potvrdu u nastavku, to će nam pomoći da znamo da ste vi ostavili ovaj komentar.",
+    "VERIFY_YOUR_COMMENT_LINK": "Potvrdite svoj komentar",
+    "WASNT_YOU_OR_REGRET": "Ako to niste bili vi ili vam je žao što ste rekli, zanemarite ovu e-poruku i komentar će biti uklonjen za <%= removedInDays %> dana.",
+    "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">Ukloni ovaj komentar</a>",
+    "THANKS_SO_MUCH": "Hvala puno!",
+    "JUST_NOW": "upravo sad",
+    "ONE_MINUTE_AGO": "Prije 1 minute",
+    "MINUTES_AGO": "  prije nekoliko minuta",
+    "ONE_HOUR_AGO": "prije 1 sat",
+    "HOURS_AGO": "  Satima prije",
+    "YESTERDAY": "Jučer",
+    "DAYS_AGO": "  prije dana",
+    "WEEKS_AGO": "  prije nekoliko tjedana",
+    "MONTHS_AGO": "  prije nekoliko mjeseci",
+    "YEARS_AGO": "  prije nekoliko godina",
+    "UNSUBSCRIBE_HERE": "Prijavite se i otkažite pretplatu na ovu e-poštu ovdje"
+}

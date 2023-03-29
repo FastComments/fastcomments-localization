@@ -1,0 +1,7 @@
+{
+    "INTRO": "Hej <%= username %>,",
+    "BANNER_TEXT": "Obavijest FastComments",
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "Uklonjeni ste iz <%= tenantName %>",
+    "REMOVED_AS_ADMIN": "Čini se da ste uklonjeni kao korisnik iz <%= tenantName %>. Zadržat ćete svoj račun FastComments kao komentator, ali više nećete imati pristup <%= tenantName %>."
+}
