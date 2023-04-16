@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "Velkommen til FastComments <%= commenterName %>!",
+    "BANNER_TEXT": "Velkommen til FastComments",
+    "INTRO": "Hej <%= commenterName %>,",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Det ser ud til, at du har stemt på et opslag <a href=\"<%= url %>\">her</a> .",
+    "VERIFY_YOUR_ACCOUNT": "Bekræft din konto",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "Du kan oprette nye links for at logge ind på din konto <a href=\"<%= FC_DOMAIN %>/auth/login/\">her</a> .",
+    "WASNT_YOU_IGNORE_EMAIL": "Hvis dette ikke var dig, så ignorer denne e-mail.",
+    "THANKS_SO_MUCH": "Tusind tak!",
+    "UNSUBSCRIBE_HERE": "Log ind og afmeld disse e-mails her"
+}

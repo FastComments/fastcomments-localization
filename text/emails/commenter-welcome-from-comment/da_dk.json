@@ -1,0 +1,23 @@
+{
+    "SUBJECT": "Velkommen til FastComments <%= comment.commenterName %>!",
+    "BANNER_TEXT": "Velkommen til FastComments",
+    "INTRO": "Hej <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Det ser ud til, at du har kommenteret et opslag <a href=\"<%= comment.url %>\">her</a> .",
+    "VERIFY_YOUR_ACCOUNT": "Bekræft din konto",
+    "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "Du kan oprette nye links for at logge ind på din konto <a href=\"<%= FC_DOMAIN %>/auth/login/\">her</a> .",
+    "WASNT_YOU_OR_REGRET": "Hvis dette ikke var dig, eller du fortryder, hvad du sagde, ignorer denne e-mail, og kommentaren vil blive fjernet om <%= removedInDays %> dage.",
+    "REMOVE_COMMENT": "Hvis du gerne vil fjerne denne kommentar nu, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">så klik her</a>",
+    "THANKS_SO_MUCH": "Tusind tak!",
+    "USING_NAME_YOU_SAID": "Ved at bruge navnet \"<%= comment.commenterName %>\" sagde du:",
+    "JUST_NOW": "lige nu",
+    "ONE_MINUTE_AGO": "1 minut siden",
+    "MINUTES_AGO": "  minutter siden",
+    "ONE_HOUR_AGO": "1 time siden",
+    "HOURS_AGO": "  timer siden",
+    "YESTERDAY": "I går",
+    "DAYS_AGO": "  dage siden",
+    "WEEKS_AGO": "  uger siden",
+    "MONTHS_AGO": "  måneder siden",
+    "YEARS_AGO": "  år siden",
+    "UNSUBSCRIBE_HERE": "Log ind og afmeld disse e-mails her"
+}

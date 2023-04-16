@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments Hjælp Bot",
+    "SUBJECT": "Hjælpanmodning godkendt af supportpersonale",
+    "HEY": "Hej <%= commenterUsername %>,",
+    "ACKNOWLEDGED_BY_ADMIN": "Det ser ud til, at supportmedarbejderen med brugernavnet \"<%= adminUsername %>\" har bekræftet din anmodning. De bør kontakte dig inden længe.",
+    "THANKS_FOR_USING_FC": "Tak, fordi du bruger FastComments!",
+    "DONT_REPLY_TO_THIS": "Denne e-mail kommer fra en kun udgående e-mail-boks - besvar den ikke. Vi kontakter dig separat."
+}

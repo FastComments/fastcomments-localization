@@ -1,0 +1,7 @@
+{
+    "INTRO": "Hej <%= username %>,",
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "Din FastComments-lejer bliver snart deaktiveret!",
+    "DETAILS_LINE_ONE": "Dette er en automatisk e-mail. Vi kan se, at du har haft udestående fakturaer i nogen tid, og ikke har kunnet få fat i dig.",
+    "DETAILS_LINE_TWO": "Din konto vil blive deaktiveret den <%= readableDeactivationDate %>. <a href=\"<%= billingPageURL %>\">Du kan opdatere dine faktureringsoplysninger her.</a>"
+}

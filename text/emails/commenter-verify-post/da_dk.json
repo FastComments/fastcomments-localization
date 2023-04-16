@@ -1,0 +1,22 @@
+{
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "<%= comment.commenterName %> - Bekræft din kommentar.",
+    "BANNER_TEXT": "Bekræft din kommentar",
+    "INTRO": "Hej <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Dette er en automatisk e-mail. Det ser ud til, at du har kommenteret et opslag <a href=\"<%= comment.url %>\">her</a> . Hvis du klikker på bekræftelseslinket nedenfor, hjælper det os med at vide, at det var dig, der skrev denne kommentar.",
+    "VERIFY_YOUR_COMMENT_LINK": "Bekræft din kommentar",
+    "WASNT_YOU_OR_REGRET": "Hvis dette ikke var dig, eller du fortryder, hvad du sagde, ignorer denne e-mail, og kommentaren vil blive fjernet om <%= removedInDays %> dage.",
+    "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">Fjern denne kommentar</a>",
+    "THANKS_SO_MUCH": "Tusind tak!",
+    "JUST_NOW": "lige nu",
+    "ONE_MINUTE_AGO": "1 minut siden",
+    "MINUTES_AGO": "  minutter siden",
+    "ONE_HOUR_AGO": "1 time siden",
+    "HOURS_AGO": "  timer siden",
+    "YESTERDAY": "I går",
+    "DAYS_AGO": "  dage siden",
+    "WEEKS_AGO": "  uger siden",
+    "MONTHS_AGO": "  måneder siden",
+    "YEARS_AGO": "  år siden",
+    "UNSUBSCRIBE_HERE": "Log ind og afmeld disse e-mails her"
+}

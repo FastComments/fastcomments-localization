@@ -1,0 +1,13 @@
+{
+    "SUBJECT": "Websted føjet til din FastComments-konto",
+    "INTRO": "Hej <%= user.username %>",
+    "DOMAIN_ADDED_PARAGRAPH": "Et nyt domæne er blevet brugt med din FastComments.com-konto. Da du er i en prøveperiode, har vi automatisk tilføjet denne side for dig som en bekvemmelighed. Dette er en automatisk e-mail.",
+    "SITE_ADDED_WAS": "Det nye websted, vi opdagede, var: <b><%= domainAdded %></b>",
+    "TECHNICAL_DETAILS": "FastComments godkender anmodninger til din konto efter domæne. Nogle gange kan automatiserede systemer, bots eller oversættelsesværktøjer få dette til at ske, og det er muligvis ikke ønskeligt at tilføje dette domæne til din konto.",
+    "FLEX_BILLING_NOTE": "<b>Bemærk:</b> Da din konto bruger flekspriser, påløber domæner, der tilføjes, en omkostning, hvor det første er gratis. Tjek beløbet for eventuelle fremtidige fakturaer <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">her</a> .",
+    "BILLING_NOTE": "<b>Bemærk:</b> Da din konto ikke bruger flekspriser, kan du kun have så mange domæner på din konto. Tjek brugen af din plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">her</a> .",
+    "YOU_CAN_REMOVE_THIS_DOMAIN": "Hvis det ønskes, kan du fjerne dette domæne, samt deaktivere denne funktion.",
+    "BUTTON_TEXT_REMOVE_DOMAIN": "Fjern dette domæne.",
+    "BUTTON_TEXT_DISABLE_FEATURE": "Deaktiver denne funktion.",
+    "OUTRO": "Hvis dette websted skulle tilhøre din konto, er der ikke behov for yderligere handling. Tak, fordi du bruger FastComments!"
+}

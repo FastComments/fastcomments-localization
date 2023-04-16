@@ -1,0 +1,14 @@
+{
+    "INTRO": "Hej <%= username %>,",
+    "NEW_USER_BANNER_TEXT": "Velkommen til FastComments",
+    "BANNER_TEXT": "FastComments Login Link",
+    "FROM_NAME": "FastComments Robot",
+    "NEW_USER_SUBJECT": "Velkommen til FastComments <%= username %>! Bekræft og log ind på din konto her",
+    "SUBJECT": "Her er dit login-link <%= username %>",
+    "NEW_USER_THANKS_FOR_SIGNING_UP": "Tak, fordi du tilmeldte dig FastComments.",
+    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "<b>Bekræft venligst din konto</b> ved at klikke på <a href=\"<%= userVerifyUrl %>\">dette link</a> . Dette vil også logge dig ind.",
+    "CAN_CREATE_NEW_LINKS_HERE": "Du kan oprette nye links for at logge ind på din konto <a href=\"<%= HOST %>/auth/login/\">her</a> .",
+    "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Klik her</a> for at logge ind på FastComments.",
+    "THAT_FULL_LINK_IS": "Det fulde link er: <%= userVerifyUrl %>",
+    "UNSUBSCRIBE_HERE": "Log ind og afmeld disse e-mails her"
+}

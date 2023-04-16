@@ -1,0 +1,11 @@
+{
+    "FROM_NAME": "FastComments Robot",
+    "INTRO": "Hej <%= commenterName %>,",
+    "BANNER_TEXT": "Bekræft din stemme",
+    "SUBJECT": "<%= commenterName %> - Bekræft din stemme.",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Det ser ud til, at du har stemt på et opslag <a href=\"<%= url %>\">her</a> . Hvis du klikker på bekræftelseslinket nedenfor, hjælper det os med at vide, at det var dig, der forlod denne afstemning.",
+    "VERIFY_YOUR_VOTE_LINK": "Bekræft din stemme",
+    "WAS_YOU_IGNORE_THIS_EMAIL": "Hvis dette ikke var dig, så ignorer denne e-mail.",
+    "THANKS_SO_MUCH": "Tusind tak!",
+    "UNSUBSCRIBE_HERE": "Log ind og afmeld disse e-mails her"
+}

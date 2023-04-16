@@ -1,0 +1,14 @@
+{
+    "INTRO": "Hej <%= username %>,",
+    "FROM_NAME": "FastComments Robot",
+    "YOU_HAVE_NEW_COMMENTS": "Du har nogle nye kommentarer!",
+    "BANNER_TEXT": "Nye kommentarer - Sidste time",
+    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Ny kommentar<% } else { %>Nye kommentarer<% } %>",
+    "UNSUBSCRIBE_HERE": "Log ind og afmeld disse e-mails her",
+    "APPROVE_COMMENT": "Godkende",
+    "VIEW_COMMENT": "Se kommentar",
+    "HERE_ARE_LINKS_TO_PAGES": "Her er links til de sider, disse kommentarer er på, med antallet af kommentarer for hver.",
+    "PAGE": "Side",
+    "NEW_COMMENTS": "Nye kommentarer",
+    "MODERATE_COMMENTS": "Moderate kommentarer"
+}

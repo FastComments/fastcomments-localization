@@ -1,0 +1,7 @@
+{
+    "SUBJECT": "Ny profilkommentar fra <%= comment.commenterName %>",
+    "INTRO": "Hej <%= targetUser.username %>,",
+    "YOU_HAVE_A_NEW_PROFILE_COMMENT": "Du har modtaget en ny kommentar til din profil, vist nedenfor. Du kan se dine profilkommentarer ved at klikke på knappen nedenfor.",
+    "GO_TO_PROFILE": "Gå til Profil",
+    "UNSUBSCRIBE_HERE": "Afmeld meddelelser her."
+}

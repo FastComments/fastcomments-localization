@@ -1,0 +1,7 @@
+{
+    "SUBJECT": "Ny besked fra <%= comment.commenterName %>",
+    "INTRO": "Hej <%= targetUser.username %>,",
+    "YOU_HAVE_A_NEW_MESSAGE": "Du har modtaget en ny besked, vist nedenfor. Du kan svare ved at svare på denne e-mail eller klikke på knappen nedenfor.",
+    "GO_TO_CONVERSATION": "Gå til Samtale",
+    "UNSUBSCRIBE_HERE": "Afmeld meddelelser her."
+}
