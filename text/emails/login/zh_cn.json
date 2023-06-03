@@ -10,5 +10,5 @@
     "CAN_CREATE_NEW_LINKS_HERE": "<a href=\"<%= HOST %>/auth/login/\">您可以在此处</a>创建新链接以登录您的帐户。",
     "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">单击此处</a>登录 FastComments。",
     "THAT_FULL_LINK_IS": "完整链接是：<%= userVerifyUrl %>",
-    "UNSUBSCRIBE_HERE": "在此处登录并取消订阅这些电子邮件"
+    "UNSUBSCRIBE_HERE": "退订"
 }

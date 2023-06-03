@@ -10,5 +10,5 @@
     "CAN_CREATE_NEW_LINKS_HERE": "<a href=\"<%= HOST %>/auth/login/\">여기에서</a>링크를 통해 계정에 로그인할 수 있습니다.",
     "CLICK_HERE_TO_LOGIN": "FastComments에 로그인 <a href=\"<%= userVerifyUrl %>\">하려면 여기를 클릭하십시오</a> .",
     "THAT_FULL_LINK_IS": "링크는: <%= userVerifyUrl %>",
-    "UNSUBSCRIBE_HERE": " 여기에서 알림을 수신 거부하실 수 있습니다."
+    "UNSUBSCRIBE_HERE": "구독 취소"
 }

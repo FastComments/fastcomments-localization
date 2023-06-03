@@ -10,5 +10,5 @@
     "CAN_CREATE_NEW_LINKS_HERE": "<a href=\"<%= HOST %>/auth/login/\">ここで</a>アカウントにログインするための新しいリンクを作成できます。",
     "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">こちらをクリックして</a>FastCommentsにログインします。",
     "THAT_FULL_LINK_IS": "その完全なリンクは次のとおりです：<%= userVerifyUrl %>",
-    "UNSUBSCRIBE_HERE": "ここでこれらの電子メールにログインして購読を解除します"
+    "UNSUBSCRIBE_HERE": "購読を解除する"
 }

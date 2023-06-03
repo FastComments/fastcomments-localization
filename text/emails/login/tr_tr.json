@@ -10,5 +10,5 @@
     "CAN_CREATE_NEW_LINKS_HERE": "<a href=\"<%= HOST %>/auth/login/\">Burada</a> hesabınıza giriş yapmak için yeni bağlantılar oluşturabilirsiniz.",
     "CLICK_HERE_TO_LOGIN": "FastComments&#39;a giriş yapmak <a href=\"<%= userVerifyUrl %>\">için buraya tıklayın.</a>",
     "THAT_FULL_LINK_IS": "Bu tam bağlantı: <%= userVerifyUrl %>",
-    "UNSUBSCRIBE_HERE": "Buradan giriş yapın ve bu e-postaların aboneliğinden çıkın"
+    "UNSUBSCRIBE_HERE": "abonelikten çık"
 }

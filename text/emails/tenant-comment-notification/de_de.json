@@ -4,7 +4,7 @@
     "YOU_HAVE_NEW_COMMENTS": "Sie haben einige neue Kommentare!",
     "BANNER_TEXT": "Neue Kommentare - Letzte Stunde",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>new Kommentar<% } else { %>new Kommentare<% } %>",
-    "UNSUBSCRIBE_HERE": "Melden Sie sich hier an und melden Sie sich von diesen E-Mails ab",
+    "UNSUBSCRIBE_HERE": "Abbestellen",
     "APPROVE_COMMENT": "Genehmigen",
     "VIEW_COMMENT": "Kommentar anzeigen",
     "HERE_ARE_LINKS_TO_PAGES": "Hier sind die Links zu den Seiten, auf denen sich diese Kommentare befinden, mit der Anzahl der Kommentare für jeden.",

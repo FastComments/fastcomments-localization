@@ -6,5 +6,5 @@
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Yeni Yanıt<% } else { %>Yeni Yanıtlar<% } %> için <% if(replyCount > 1) { %>Yorumlarınız<% } else {%>Yorumunuz<% } %>",
     "VIEW_REPLIES": "Yanıtları Görüntüle",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Bu Yorum İçin Bildirimleri Devre Dışı Bırak",
-    "UNSUBSCRIBE_HERE": "Buradan giriş yapın ve bu e-postaların aboneliğinden çıkın"
+    "UNSUBSCRIBE_HERE": "abonelikten çık"
 }

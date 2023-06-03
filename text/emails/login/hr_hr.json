@@ -10,5 +10,5 @@
     "CAN_CREATE_NEW_LINKS_HERE": "<a href=\"<%= HOST %>/auth/login/\">Ovdje</a> možete stvoriti nove veze za prijavu na svoj račun.",
     "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Kliknite ovdje</a> za prijavu na FastComments.",
     "THAT_FULL_LINK_IS": "Ta puna veza je: <%= userVerifyUrl %>",
-    "UNSUBSCRIBE_HERE": "Prijavite se i otkažite pretplatu na ovu e-poštu ovdje"
+    "UNSUBSCRIBE_HERE": "Odjavi pretplatu"
 }

@@ -6,5 +6,5 @@
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Désactiver les notifications pour ce commentaire",
     "INTRO": "Hey <%= username %>,",
     "PAST_HOUR_COMMENT_COUNT": "Au cours de la dernière heure, vous avez reçu <% if(replyCount > 1) { %> quelques réponses<% } else { %> une réponse<% } %> à vos<% if(commentsSummary.length > 1) {%> commentaires<% } else { %> commentaire<% } %>.",
-    "UNSUBSCRIBE_HERE": "Connectez-vous et désabonnez-vous de ces e-mails ici"
+    "UNSUBSCRIBE_HERE": "Se désabonner"
 }

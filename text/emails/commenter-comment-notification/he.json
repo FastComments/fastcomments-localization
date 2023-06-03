@@ -6,5 +6,5 @@
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%> תגובה חדשה<% } else { %> תגובות חדשות<% } %> ל<% if(replyCount > 1) { %> ההערות שלך<% } else {%> התגובה שלך<% } %>",
     "VIEW_REPLIES": "צפה בתגובות",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "השבת הודעות עבור תגובה זו",
-    "UNSUBSCRIBE_HERE": "היכנס ובטל את הרישום למיילים אלה כאן"
+    "UNSUBSCRIBE_HERE": "בטל את המנוי"
 }

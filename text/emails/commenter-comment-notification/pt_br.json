@@ -6,5 +6,5 @@
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>NEW Reply<% } else { %>NEW Responde<% } %> para <% if(replyCount > 1) { %>Seour Comments<% } else {%>Your comentário<% } %>",
     "VIEW_REPLIES": "Ver respostas",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Desativar notificações para este comentário",
-    "UNSUBSCRIBE_HERE": "Login e cancele a inscrição desses e-mails aqui"
+    "UNSUBSCRIBE_HERE": "Cancelar subscrição"
 }

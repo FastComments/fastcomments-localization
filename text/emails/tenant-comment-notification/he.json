@@ -4,7 +4,7 @@
     "YOU_HAVE_NEW_COMMENTS": "יש לך כמה הערות חדשות!",
     "BANNER_TEXT": "הערות חדשות - שעה אחרונה",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%> תגובה חדשה<% } else { %>הערות חדשות<% } %>",
-    "UNSUBSCRIBE_HERE": "היכנס ובטל את הרישום למיילים אלה כאן",
+    "UNSUBSCRIBE_HERE": "בטל את המנוי",
     "APPROVE_COMMENT": "לְאַשֵׁר",
     "VIEW_COMMENT": "הצג תגובה",
     "HERE_ARE_LINKS_TO_PAGES": "להלן הקישורים לדפים שבהם מופיעות ההערות, עם ספירת ההערות לכל אחת מהן.",

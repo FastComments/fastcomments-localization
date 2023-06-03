@@ -10,5 +10,5 @@
     "CAN_CREATE_NEW_LINKS_HERE": "Możesz utworzyć nowe linki, aby zalogować się na swoje konto <a href=\"<%= HOST %>/auth/login/\"> tutaj </a>.",
     "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\"> Kliknij tutaj </a>, aby zalogować się do FastComments.",
     "THAT_FULL_LINK_IS": "Ten pełny link to: <%= userVerifyUrl %>",
-    "UNSUBSCRIBE_HERE": "Zaloguj się i zrezygnuj z otrzymywania tych e-maili tutaj"
+    "UNSUBSCRIBE_HERE": "Anuluj subskrypcję"
 }

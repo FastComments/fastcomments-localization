@@ -3,7 +3,7 @@
     "YOU_HAVE_NEW_COMMENTS": "Masz jakieś nowe komentarze!",
     "BANNER_TEXT": "Nowe komentarze - Ostatnia godzina",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Nowy komentarz<% } else { %>Nowe komentarze<% } %>",
-    "UNSUBSCRIBE_HERE": "Zaloguj się i anuluj subskrypcję tych e-maili tutaj",
+    "UNSUBSCRIBE_HERE": "Anuluj subskrypcję",
     "APPROVE_COMMENT": "Zatwierdzać",
     "VIEW_COMMENT": "Zobacz komentarz",
     "HERE_ARE_LINKS_TO_PAGES": "Oto linki do stron, na których znajdują się te komentarze, wraz z liczbą komentarzy dla każdej z nich.",

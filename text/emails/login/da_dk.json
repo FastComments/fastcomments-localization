@@ -10,5 +10,5 @@
     "CAN_CREATE_NEW_LINKS_HERE": "Du kan oprette nye links for at logge ind på din konto <a href=\"<%= HOST %>/auth/login/\">her</a> .",
     "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Klik her</a> for at logge ind på FastComments.",
     "THAT_FULL_LINK_IS": "Det fulde link er: <%= userVerifyUrl %>",
-    "UNSUBSCRIBE_HERE": "Log ind og afmeld disse e-mails her"
+    "UNSUBSCRIBE_HERE": "Opsige abonnement"
 }

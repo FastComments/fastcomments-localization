@@ -6,5 +6,5 @@
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>新回复<% } else { %>新回复<% } %>对<% if(replyCount > 1) { %>您的评论<% } else {%>您的评论<% } %>",
     "VIEW_REPLIES": "查看回复",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "禁用此评论的通知",
-    "UNSUBSCRIBE_HERE": "在此处登录并取消订阅这些电子邮件"
+    "UNSUBSCRIBE_HERE": "退订"
 }
