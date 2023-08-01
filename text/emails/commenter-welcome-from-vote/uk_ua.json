@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "Ласкаво просимо до FastComments <%= commenterName %>!",
+    "BANNER_TEXT": "Ласкаво просимо до FastComments",
+    "INTRO": "Привіт <%= commenterName %>,",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Схоже, ви проголосували за публікацію <a href=\"<%= url %>\">тут</a> .",
+    "VERIFY_YOUR_ACCOUNT": "Підтвердіть ваш аккаунт",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "Ви можете створити нові посилання для входу у свій обліковий запис <a href=\"<%= FC_DOMAIN %>/auth/login/\">тут</a> .",
+    "WASNT_YOU_IGNORE_EMAIL": "Якщо це були не ви, проігноруйте цей електронний лист.",
+    "THANKS_SO_MUCH": "Дуже дякую!",
+    "UNSUBSCRIBE_HERE": "Відписатися"
+}

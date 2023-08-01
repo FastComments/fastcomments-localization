@@ -1,0 +1,22 @@
+{
+    "FROM_NAME": "Робот FastComments",
+    "SUBJECT": "<%= comment.commenterName %> - Підтвердьте свій коментар.",
+    "BANNER_TEXT": "Перевірте свій коментар",
+    "INTRO": "Привіт <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Це автоматизований електронний лист. Схоже, ви прокоментували допис <a href=\"<%= comment.url %>\">тут</a> . Якщо ви натиснете посилання для підтвердження нижче, це допоможе нам дізнатися, що це ви залишили цей коментар.",
+    "VERIFY_YOUR_COMMENT_LINK": "Перевірте свій коментар",
+    "WASNT_YOU_OR_REGRET": "Якщо це були не ви або ви шкодуєте про те, що сказали, проігноруйте цей електронний лист, і коментар буде видалено через <%= removedInDays %> днів.",
+    "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">Видалити цей коментар</a>",
+    "THANKS_SO_MUCH": "Дуже дякую!",
+    "JUST_NOW": "прямо зараз",
+    "ONE_MINUTE_AGO": "1 хвилину тому",
+    "MINUTES_AGO": "  хвилин тому",
+    "ONE_HOUR_AGO": "1 годину тому",
+    "HOURS_AGO": "  годин тому",
+    "YESTERDAY": "вчора",
+    "DAYS_AGO": "  днів тому",
+    "WEEKS_AGO": "  тижні тому",
+    "MONTHS_AGO": "  місяців тому",
+    "YEARS_AGO": "  багато років тому",
+    "UNSUBSCRIBE_HERE": "Відписатися"
+}
