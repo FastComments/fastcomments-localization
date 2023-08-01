@@ -1,0 +1,14 @@
+{
+    "INTRO": "Привет <%= username %>,",
+    "FROM_NAME": "Робот FastComments",
+    "YOU_HAVE_NEW_COMMENTS": "У вас есть новые комментарии!",
+    "BANNER_TEXT": "Новые комментарии – последний час",
+    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Новый комментарий<% } else { %>Новый комментарий<% } %>",
+    "UNSUBSCRIBE_HERE": "Отписаться",
+    "APPROVE_COMMENT": "Утвердить",
+    "VIEW_COMMENT": "Посмотреть комментарий",
+    "HERE_ARE_LINKS_TO_PAGES": "Вот ссылки на страницы, на которых есть эти комментарии, с указанием количества комментариев для каждой.",
+    "PAGE": "Страница",
+    "NEW_COMMENTS": "Новые комментарии",
+    "MODERATE_COMMENTS": "Умеренные комментарии"
+}
