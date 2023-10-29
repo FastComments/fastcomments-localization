@@ -534,7 +534,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -1177,7 +1178,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -1806,7 +1808,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -2433,7 +2436,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -3060,7 +3064,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -3687,7 +3692,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -4312,7 +4318,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -4932,7 +4939,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -5552,7 +5560,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -6171,7 +6180,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -6796,7 +6806,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "profile-comment-notification": {
                 "SUBJECT": "New profile comment from <%= comment.commenterName %>",
@@ -7502,7 +7513,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "comment-ui-search": {
                 "SEARCH_PLACEHOLDER": "Search comments here...",
@@ -8119,7 +8131,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "comment-ui-search": {
                 "SEARCH_PLACEHOLDER": "Search comments here...",
@@ -8741,7 +8754,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
@@ -9358,7 +9372,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
@@ -9975,7 +9990,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
@@ -10592,7 +10608,8 @@
                 "PROFILE_MENU_GIVE_BADGE": "Award Badge",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
-                "PROFILE_TAB_NOTIFICATIONS": "Notifications"
+                "PROFILE_TAB_NOTIFICATIONS": "Notifications",
+                "DM_SENT_IMAGE": "Sent an image."
             },
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",

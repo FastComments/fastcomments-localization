@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 275,
+        "comment-ui": 276,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -546,7 +546,8 @@
         "t268": "PROFILE_MENU_GIVE_BADGE",
         "t273": "PROFILE_DELETE_CONVERSATION",
         "t274": "PROFILE_DELETE_CONVERSATION_CONFIRM",
-        "t275": "PROFILE_TAB_NOTIFICATIONS"
+        "t275": "PROFILE_TAB_NOTIFICATIONS",
+        "t276": "DM_SENT_IMAGE"
     },
     "direct-message-notification": {
         "t1": "SUBJECT",
