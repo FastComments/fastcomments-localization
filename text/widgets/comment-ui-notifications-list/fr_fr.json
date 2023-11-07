@@ -11,5 +11,12 @@
     "NO_NOTIFICATIONS": "Vous n'avez aucune notification.",
     "NOTIFICATION_PROFILE_COMMENT": "<b>[fromUserName]</b> a commenté votre profil.",
     "NOTIFICATION_DM": "<b>[fromUserName]</b> vous a envoyé un message.",
-    "NOTIFICATION_MENTION": "<b>[fromUserName]</b> vous a mentionné."
+    "NOTIFICATION_MENTION": "<b>[fromUserName]</b> vous a mentionné.",
+    "NOTIFICATION_VOTED_MY_COMMENT_CONTEXT": "<b>[fromUserName]</b> vous a donné du karma : [context]",
+    "NOTIFICATION_REPLIED_TO_ME_CONTEXT": "<b>[fromUserName]</b> a répondu à votre commentaire : [context]",
+    "NOTIFICATION_REPLIED_TRANSIENT_CHILD_CONTEXT": "<b>[fromUserName]</b> a répondu dans un fil de discussion : [context]",
+    "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> a répondu à une page à laquelle vous êtes abonné : [context]",
+    "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> a commenté votre profil : [context]",
+    "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> vous a envoyé un message : [context]",
+    "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> vous a mentionné : [context]"
 }

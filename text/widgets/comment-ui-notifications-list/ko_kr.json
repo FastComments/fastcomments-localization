@@ -11,5 +11,12 @@
     "NOTIFICATION_OPT_IN_FOR_COMMENT": "이 댓글에 대한 알림 수신 동의",
     "NOTIFICATION_OPT_OUT_FOR_COMMENT": "이 댓글에 대한 알림 무시",
     "NO_NOTIFICATIONS": "알림이 없습니다.",
-    "NOTIFICATION_MENTION": "<b>[fromUserName]님</b> 이 귀하를 언급했습니다."
+    "NOTIFICATION_MENTION": "<b>[fromUserName]님</b> 이 귀하를 언급했습니다.",
+    "NOTIFICATION_VOTED_MY_COMMENT_CONTEXT": "<b>[fromUserName]</b> 님이 당신에게 카르마를 주었습니다: [context]",
+    "NOTIFICATION_REPLIED_TO_ME_CONTEXT": "<b>[fromUserName]</b> 님이 귀하의 댓글에 답변했습니다: [context]",
+    "NOTIFICATION_REPLIED_TRANSIENT_CHILD_CONTEXT": "<b>[fromUserName]</b> 님이 스레드에서 답변했습니다: [context]",
+    "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> 님이 귀하가 구독 중인 페이지에 응답했습니다: [context]",
+    "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]님</b> 이 귀하의 프로필에 댓글을 달았습니다: [context]",
+    "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> 님이 다음 메시지를 보냈습니다. [context]",
+    "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]이</b> (가) 귀하를 멘션했습니다: [context]"
 }

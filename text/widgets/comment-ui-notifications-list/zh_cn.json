@@ -11,5 +11,12 @@
     "NO_NOTIFICATIONS": "您没有通知。",
     "NOTIFICATION_PROFILE_COMMENT": "<b>[fromUserName]</b>评论了您的个人资料。",
     "NOTIFICATION_DM": "<b>[fromUserName] 向</b>您发送了消息。",
-    "NOTIFICATION_MENTION": "<b>[fromUserName]</b>提到了你。"
+    "NOTIFICATION_MENTION": "<b>[fromUserName]</b>提到了你。",
+    "NOTIFICATION_VOTED_MY_COMMENT_CONTEXT": "<b>[fromUserName]</b>给了你业力：[context]",
+    "NOTIFICATION_REPLIED_TO_ME_CONTEXT": "<b>[fromUserName]</b>回复了您的评论：[context]",
+    "NOTIFICATION_REPLIED_TRANSIENT_CHILD_CONTEXT": "<b>[fromUserName]</b>在一个帖子中回复：[context]",
+    "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b>回复了您订阅的页面：[context]",
+    "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b>对您的个人资料发表了评论：[context]",
+    "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b>向您发送消息：[context]",
+    "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b>提到了您：[context]"
 }
