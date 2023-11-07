@@ -474,7 +474,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -1125,7 +1126,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -1762,7 +1764,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -2397,7 +2400,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -3032,7 +3036,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -3667,7 +3672,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -4300,7 +4306,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -4928,7 +4935,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -5556,7 +5564,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -6183,7 +6192,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -6804,7 +6814,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -7497,7 +7508,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -8122,7 +8134,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -8747,7 +8760,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -9372,7 +9386,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -9997,7 +10012,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -10622,7 +10638,8 @@
                 "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> replied to a page you're subscribed to: [context]",
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
-                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]"
+                "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
+                "SHARED_AN_IMAGE": "Shared an image."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",

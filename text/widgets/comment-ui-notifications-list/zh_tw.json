@@ -18,5 +18,6 @@
     "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b>回覆了您訂閱的頁面：[context]",
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b>對您的個人資料發表了評論：[context]",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b>傳送訊息給您：[context]",
-    "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b>提到了您：[context]"
+    "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b>提到了您：[context]",
+    "SHARED_AN_IMAGE": "分享了一張圖片。"
 }
