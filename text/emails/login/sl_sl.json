@@ -1,0 +1,14 @@
+{
+    "INTRO": "Zdravo <%= username %>,",
+    "NEW_USER_BANNER_TEXT": "Dobrodošli v FastComments",
+    "BANNER_TEXT": "Povezava za prijavo v FastComments",
+    "FROM_NAME": "Robot FastComments",
+    "NEW_USER_SUBJECT": "Dobrodošli v FastComments <%= username %>! Preverite in se prijavite v svoj račun tukaj",
+    "SUBJECT": "Tukaj je vaša povezava za prijavo <%= username %>",
+    "NEW_USER_THANKS_FOR_SIGNING_UP": "Hvala za prijavo na FastComments.",
+    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "<b>Preverite svoj račun</b> s klikom na <a href=\"<%= userVerifyUrl %>\">to povezavo</a> . S tem se boste tudi prijavili.",
+    "CAN_CREATE_NEW_LINKS_HERE": "<a href=\"<%= HOST %>/auth/login/\">Tu</a> lahko ustvarite nove povezave za prijavo v svoj račun.",
+    "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Kliknite tukaj</a> za prijavo v FastComments.",
+    "THAT_FULL_LINK_IS": "Celotna povezava je: <%= userVerifyUrl %>",
+    "UNSUBSCRIBE_HERE": "Odjavi se"
+}

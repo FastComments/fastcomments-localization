@@ -1,0 +1,14 @@
+{
+    "INTRO": "Zdravo <%= tenantName %>",
+    "BANNER_TEXT": "Preizkusna posodobitev FastComments",
+    "FROM_NAME": "Preizkusni robot FastComments",
+    "SUBJECT": "Brezplačni preizkus FastComments – še 15 dni",
+    "FRIENDLY_REMINDER": "To je prijazen opomnik, da ste na polovici svojega brezplačnega preizkusa FastComments.",
+    "COMMENTS_HAVE_BEEN_LEFT": "Na vaših spletnih mestih je bilo puščenih <%= Number(commentCount).toLocaleString() %> komentarjev.",
+    "VOTES_GIVEN": "Za te komentarje je bilo <%= Number(voteCount).toLocaleString() %> glasov.",
+    "USERS_SIGNED_UP": "Nenazadnje <b>se je <%= Number(userCount).toLocaleString() %> uporabnikov prijavilo za uporabo FastComments do <%= tenantName %></b> .",
+    "THANKS_FOR_CHOOSING_FC": "Hvala, ker ste izbrali <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a> .",
+    "UNSUBSCRIBE_FROM_THESE_ALERTS": "Odjavite se od teh opozoril.",
+    "SOME_STATS_SO_FAR": "Nekaj statistike do zdaj",
+    "SIGN_IN_ENTER_BILLING_INFO": "Prijavite se in vnesite podatke o plačilu"
+}

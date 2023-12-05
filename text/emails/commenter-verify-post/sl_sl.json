@@ -1,0 +1,22 @@
+{
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "<%= comment.commenterName %> – Preverite svoj komentar.",
+    "BANNER_TEXT": "Preverite svoj komentar",
+    "INTRO": "Zdravo <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "To je avtomatizirana e-pošta. Videti je, da ste komentirali objavo <a href=\"<%= comment.url %>\">tukaj</a> . Če kliknete spodnjo povezavo za preverjanje, nam bo to pomagalo vedeti, da ste ta komentar napisali vi.",
+    "VERIFY_YOUR_COMMENT_LINK": "Preverite svoj komentar",
+    "WASNT_YOU_OR_REGRET": "Če to niste bili vi ali obžalujete, kar ste rekli, prezrite to e-poštno sporočilo in komentar bo odstranjen čez <%= removedInDays %> dni.",
+    "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">Odstrani ta komentar</a>",
+    "THANKS_SO_MUCH": "Najlepša hvala!",
+    "JUST_NOW": "pravkar",
+    "ONE_MINUTE_AGO": "pred 1 minuto",
+    "MINUTES_AGO": "  pred minutami",
+    "ONE_HOUR_AGO": "pred 1 uro",
+    "HOURS_AGO": "  pred nekaj urami",
+    "YESTERDAY": "včeraj",
+    "DAYS_AGO": "  pred dnevi",
+    "WEEKS_AGO": "  pred tedni",
+    "MONTHS_AGO": "  pred meseci",
+    "YEARS_AGO": "  pred leti",
+    "UNSUBSCRIBE_HERE": "Odjavi se"
+}

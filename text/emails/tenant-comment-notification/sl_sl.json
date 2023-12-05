@@ -1,0 +1,14 @@
+{
+    "INTRO": "Zdravo <%= username %>,",
+    "FROM_NAME": "Robot FastComments",
+    "YOU_HAVE_NEW_COMMENTS": "Imate nekaj novih komentarjev!",
+    "BANNER_TEXT": "Novi komentarji - zadnja ura",
+    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Nov komentar<% } else { %>Novi komentarji<% } %>",
+    "UNSUBSCRIBE_HERE": "Odjavi se",
+    "APPROVE_COMMENT": "odobri",
+    "VIEW_COMMENT": "Poglej komentar",
+    "HERE_ARE_LINKS_TO_PAGES": "Tukaj so povezave do strani, na katerih so ti komentarji, s številom komentarjev za vsako.",
+    "PAGE": "Stran",
+    "NEW_COMMENTS": "Novi komentarji",
+    "MODERATE_COMMENTS": "Zmerni komentarji"
+}

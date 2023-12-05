@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "Καλώς ήρθατε στα FastComments <%= commenterName %>!",
+    "BANNER_TEXT": "Καλώς ήρθατε στα FastComments",
+    "INTRO": "Γεια <%= commenterName %>,",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Φαίνεται ότι ψηφίσατε για μια ανάρτηση <a href=\"<%= url %>\">εδώ</a> .",
+    "VERIFY_YOUR_ACCOUNT": "Επιβεβαίωσε το λογαριασμό σου",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "Μπορείτε να δημιουργήσετε νέους συνδέσμους για να συνδεθείτε στον λογαριασμό σας <a href=\"<%= FC_DOMAIN %>/auth/login/\">εδώ</a> .",
+    "WASNT_YOU_IGNORE_EMAIL": "Εάν δεν ήσασταν εσείς, τότε αγνοήστε αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου.",
+    "THANKS_SO_MUCH": "Ευχαριστώ πολύ!",
+    "UNSUBSCRIBE_HERE": "Απεγγραφή"
+}

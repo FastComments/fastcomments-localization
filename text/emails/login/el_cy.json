@@ -1,0 +1,14 @@
+{
+    "INTRO": "Γεια <%= username %>,",
+    "NEW_USER_BANNER_TEXT": "Καλώς ήρθατε στα FastComments",
+    "BANNER_TEXT": "Σύνδεσμος σύνδεσης FastComments",
+    "FROM_NAME": "Ρομπότ FastComments",
+    "NEW_USER_SUBJECT": "Καλώς ήρθατε στα FastComments <%= username %>! Επαληθεύστε και συνδεθείτε στον λογαριασμό σας εδώ",
+    "SUBJECT": "Εδώ είναι ο σύνδεσμος σύνδεσής σας <%= username %>",
+    "NEW_USER_THANKS_FOR_SIGNING_UP": "Ευχαριστούμε για την εγγραφή σας στο FastComments.",
+    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "<b>Επαληθεύστε τον λογαριασμό σας</b> κάνοντας κλικ <a href=\"<%= userVerifyUrl %>\">σε αυτόν τον σύνδεσμο</a> . Αυτό θα σας συνδέσει επίσης.",
+    "CAN_CREATE_NEW_LINKS_HERE": "Μπορείτε να δημιουργήσετε νέους συνδέσμους για να συνδεθείτε στον λογαριασμό σας <a href=\"<%= HOST %>/auth/login/\">εδώ</a> .",
+    "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Κάντε κλικ εδώ</a> για να συνδεθείτε στο FastComments.",
+    "THAT_FULL_LINK_IS": "Αυτός ο πλήρης σύνδεσμος είναι: <%= userVerifyUrl %>",
+    "UNSUBSCRIBE_HERE": "Απεγγραφή"
+}

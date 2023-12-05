@@ -1,0 +1,22 @@
+{
+    "FROM_NAME": "Ρομπότ FastComments",
+    "SUBJECT": "<%= comment.commenterName %> - Επαληθεύστε το σχόλιό σας.",
+    "BANNER_TEXT": "Επαληθεύστε το σχόλιό σας",
+    "INTRO": "Γεια <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Αυτό είναι ένα αυτοματοποιημένο email. Φαίνεται ότι σχολίασες μια ανάρτηση <a href=\"<%= comment.url %>\">εδώ</a> . Εάν κάνετε κλικ στον παρακάτω σύνδεσμο επαλήθευσης, θα μας βοηθήσει να γνωρίζουμε ότι εσείς αφήσατε αυτό το σχόλιο.",
+    "VERIFY_YOUR_COMMENT_LINK": "Επαληθεύστε το σχόλιό σας",
+    "WASNT_YOU_OR_REGRET": "Εάν δεν ήσασταν εσείς ή μετανιώνετε για όσα είπατε, αγνοήστε αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου και το σχόλιο θα αφαιρεθεί σε <%= removedInDays %> ημέρες.",
+    "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">Αφαιρέστε αυτό το σχόλιο</a>",
+    "THANKS_SO_MUCH": "Ευχαριστώ πολύ!",
+    "JUST_NOW": "μόλις τώρα",
+    "ONE_MINUTE_AGO": "πριν 1 λεπτό",
+    "MINUTES_AGO": "  λεπτά πριν",
+    "ONE_HOUR_AGO": "Πριν από 1 ώρα",
+    "HOURS_AGO": "  ώρες πριν",
+    "YESTERDAY": "Εχθές",
+    "DAYS_AGO": "  μέρες πριν",
+    "WEEKS_AGO": "  πριν από εβδομάδες",
+    "MONTHS_AGO": "  μήνες πριν",
+    "YEARS_AGO": "  πριν από χρόνια",
+    "UNSUBSCRIBE_HERE": "Απεγγραφή"
+}

@@ -1,0 +1,23 @@
+{
+    "SUBJECT": "Dobrodošli v FastComments <%= comment.commenterName %>!",
+    "BANNER_TEXT": "Dobrodošli v FastComments",
+    "INTRO": "Zdravo <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Videti je, da ste komentirali objavo <a href=\"<%= comment.url %>\">tukaj</a> .",
+    "VERIFY_YOUR_ACCOUNT": "Potrdi svoj račun",
+    "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "<a href=\"<%= FC_DOMAIN %>/auth/login/\">Tu</a> lahko ustvarite nove povezave za prijavo v svoj račun.",
+    "WASNT_YOU_OR_REGRET": "Če to niste bili vi ali obžalujete, kar ste rekli, prezrite to e-poštno sporočilo in komentar bo odstranjen čez <%= removedInDays %> dni.",
+    "REMOVE_COMMENT": "Če želite ta komentar zdaj odstraniti, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">kliknite tukaj</a>",
+    "THANKS_SO_MUCH": "Najlepša hvala!",
+    "USING_NAME_YOU_SAID": "Z imenom \"<%= comment.commenterName %>\" ste rekli:",
+    "JUST_NOW": "pravkar",
+    "ONE_MINUTE_AGO": "pred 1 minuto",
+    "MINUTES_AGO": "  pred minutami",
+    "ONE_HOUR_AGO": "pred 1 uro",
+    "HOURS_AGO": "  pred nekaj urami",
+    "YESTERDAY": "včeraj",
+    "DAYS_AGO": "  pred dnevi",
+    "WEEKS_AGO": "  pred tedni",
+    "MONTHS_AGO": "  pred meseci",
+    "YEARS_AGO": "  pred leti",
+    "UNSUBSCRIBE_HERE": "Odjavi se"
+}

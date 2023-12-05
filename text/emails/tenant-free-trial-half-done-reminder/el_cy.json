@@ -1,0 +1,14 @@
+{
+    "INTRO": "Γεια σου <%= tenantName %>",
+    "BANNER_TEXT": "Δοκιμαστική ενημέρωση FastComments",
+    "FROM_NAME": "Δοκιμαστικό ρομπότ FastComments",
+    "SUBJECT": "Δωρεάν δοκιμή FastComments - Απομένουν 15 ημέρες",
+    "FRIENDLY_REMINDER": "Αυτή είναι μια φιλική υπενθύμιση ότι είστε στα μισά της δωρεάν δοκιμής FastComments.",
+    "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> σχόλια έχουν αφεθεί στον ιστότοπό σας.",
+    "VOTES_GIVEN": "Υπήρξαν <%= Number(voteCount).toLocaleString() %> ψήφοι σε αυτά τα σχόλια.",
+    "USERS_SIGNED_UP": "Τελευταίο αλλά εξίσου σημαντικό, <b>οι <%= Number(userCount).toLocaleString() %> χρήστες έχουν εγγραφεί για να χρησιμοποιούν τα FastComments μέσω <%= tenantName %></b> .",
+    "THANKS_FOR_CHOOSING_FC": "Ευχαριστούμε που επιλέξατε <a href=\"https://fastcomments.com/auth/my-account\">το FastComments.com</a> .",
+    "UNSUBSCRIBE_FROM_THESE_ALERTS": "Καταργήστε την εγγραφή σας από αυτές τις ειδοποιήσεις.",
+    "SOME_STATS_SO_FAR": "Κάποια στατιστικά μέχρι στιγμής",
+    "SIGN_IN_ENTER_BILLING_INFO": "Συνδεθείτε και εισαγάγετε στοιχεία πληρωμής"
+}

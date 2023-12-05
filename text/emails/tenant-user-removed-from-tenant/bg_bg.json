@@ -1,0 +1,7 @@
+{
+    "INTRO": "Хей <%= username %>,",
+    "BANNER_TEXT": "FastComments Известие",
+    "FROM_NAME": "Робот FastComments",
+    "SUBJECT": "Бяхте премахнат от <%= tenantName %>",
+    "REMOVED_AS_ADMIN": "Изглежда, че сте премахнат като потребител от <%= tenantName %>. Ще запазите акаунта си в FastComments като коментатор, но вече няма да имате достъп до <%= tenantName %>."
+}

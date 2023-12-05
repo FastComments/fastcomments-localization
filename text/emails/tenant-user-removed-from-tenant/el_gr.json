@@ -1,0 +1,7 @@
+{
+    "INTRO": "Γεια <%= username %>,",
+    "BANNER_TEXT": "Ειδοποίηση FastComments",
+    "FROM_NAME": "Ρομπότ FastComments",
+    "SUBJECT": "Έχετε αφαιρεθεί από <%= tenantName %>",
+    "REMOVED_AS_ADMIN": "Φαίνεται ότι έχετε αφαιρεθεί ως χρήστης από <%= tenantName %>. Θα διατηρήσετε τον λογαριασμό σας FastComments ως σχολιαστής, αλλά δεν θα έχετε πλέον πρόσβαση στο <%= tenantName %>."
+}

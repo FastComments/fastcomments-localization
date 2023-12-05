@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "Dobrodošli v FastComments <%= commenterName %>!",
+    "BANNER_TEXT": "Dobrodošli v FastComments",
+    "INTRO": "Zdravo <%= commenterName %>,",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Videti je, da ste glasovali za objavo <a href=\"<%= url %>\">tukaj</a> .",
+    "VERIFY_YOUR_ACCOUNT": "Potrdi svoj račun",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "<a href=\"<%= FC_DOMAIN %>/auth/login/\">Tu</a> lahko ustvarite nove povezave za prijavo v svoj račun.",
+    "WASNT_YOU_IGNORE_EMAIL": "Če to niste bili vi, prezrite to e-pošto.",
+    "THANKS_SO_MUCH": "Najlepša hvala!",
+    "UNSUBSCRIBE_HERE": "Odjavi se"
+}

@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "Bot za pomoč FastComments",
+    "SUBJECT": "Zahtevo za pomoč potrdilo podporno osebje",
+    "HEY": "Zdravo <%= commenterUsername %>,",
+    "ACKNOWLEDGED_BY_ADMIN": "Videti je, da je agent za podporo z uporabniškim imenom \"<%= adminUsername %>\" potrdil vašo zahtevo. Kmalu bi se morali obrniti na vas.",
+    "THANKS_FOR_USING_FC": "Hvala za uporabo FastComments!",
+    "DONT_REPLY_TO_THIS": "To e-poštno sporočilo prihaja iz predala samo za odhodno pošto – ne odgovarjajte nanj. Z vami se bomo obrnili ločeno."
+}

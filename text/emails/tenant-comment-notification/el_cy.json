@@ -1,0 +1,14 @@
+{
+    "INTRO": "Γεια <%= username %>,",
+    "FROM_NAME": "Ρομπότ FastComments",
+    "YOU_HAVE_NEW_COMMENTS": "Έχετε μερικά νέα σχόλια!",
+    "BANNER_TEXT": "Νέα σχόλια - Τελευταία ώρα",
+    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Νέο σχόλιο<% } else { %>Νέα σχόλια<% } %>",
+    "UNSUBSCRIBE_HERE": "Απεγγραφή",
+    "APPROVE_COMMENT": "Εγκρίνω",
+    "VIEW_COMMENT": "Προβολή σχολίου",
+    "HERE_ARE_LINKS_TO_PAGES": "Εδώ είναι οι σύνδεσμοι προς τις σελίδες στις οποίες βρίσκονται αυτά τα σχόλια, με τον αριθμό των σχολίων για καθεμία.",
+    "PAGE": "Σελίδα",
+    "NEW_COMMENTS": "Νέα σχόλια",
+    "MODERATE_COMMENTS": "Μέτρια σχόλια"
+}

@@ -1,0 +1,14 @@
+{
+    "INTRO": "Хеј <%= username %>,",
+    "NEW_USER_BANNER_TEXT": "Добродошли у ФастЦомментс",
+    "BANNER_TEXT": "ФастЦомментс Логин Линк",
+    "FROM_NAME": "ФастЦомментс Робот",
+    "NEW_USER_SUBJECT": "Добродошли у ФастЦомментс <%= username %>! Проверите и пријавите се на свој налог овде",
+    "SUBJECT": "Ево ваше везе за пријаву <%= username %>",
+    "NEW_USER_THANKS_FOR_SIGNING_UP": "Хвала што сте се пријавили на ФастЦомментс.",
+    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "Молимо <b>потврдите свој налог</b> кликом на <a href=\"<%= userVerifyUrl %>\">ову везу</a> . Ово ће вас такође пријавити.",
+    "CAN_CREATE_NEW_LINKS_HERE": "<a href=\"<%= HOST %>/auth/login/\">Овде</a> можете креирати нове везе да бисте се пријавили на свој налог.",
+    "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Кликните овде</a> да бисте се пријавили на ФастЦомментс.",
+    "THAT_FULL_LINK_IS": "Та пуна веза је: <%= userVerifyUrl %>",
+    "UNSUBSCRIBE_HERE": "Откажи претплату"
+}

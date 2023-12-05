@@ -1,0 +1,13 @@
+{
+    "SUBJECT": "Spletno mesto dodano v vaš račun FastComments",
+    "INTRO": "Zdravo <%= user.username %>",
+    "DOMAIN_ADDED_PARAGRAPH": "Z vašim računom FastComments.com je bila uporabljena nova domena. Ker ste v poskusnem obdobju, smo zaradi priročnosti samodejno dodali to stran. To je avtomatizirana e-pošta.",
+    "SITE_ADDED_WAS": "Novo spletno mesto, ki smo ga odkrili, je bilo: <b><%= domainAdded %></b>",
+    "TECHNICAL_DETAILS": "FastComments preverja pristnost zahtev za vaš račun glede na domeno. Včasih lahko to povzročijo avtomatizirani sistemi, roboti ali prevajalska orodja, zato dodajanje te domene v vaš račun morda ni zaželeno.",
+    "FLEX_BILLING_NOTE": "<b>Opomba:</b> ker vaš račun uporablja prilagodljive cene, imajo dodane domene stroške, pri čemer je prva brezplačna. <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">Tukaj</a> preverite znesek morebitnih prihodnjih računov.",
+    "BILLING_NOTE": "<b>Opomba:</b> Ker vaš račun ne uporablja fleksibilnega oblikovanja cen, imate lahko v svojem računu samo toliko domen. <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">Tukaj</a> preverite uporabo svojega paketa.",
+    "YOU_CAN_REMOVE_THIS_DOMAIN": "Če želite, lahko to domeno odstranite, pa tudi onemogočite to funkcijo.",
+    "BUTTON_TEXT_REMOVE_DOMAIN": "Odstrani to domeno.",
+    "BUTTON_TEXT_DISABLE_FEATURE": "Onemogoči to funkcijo.",
+    "OUTRO": "Če bi moralo to mesto pripadati vašemu računu, vam ni treba storiti ničesar več. Hvala za uporabo FastComments!"
+}

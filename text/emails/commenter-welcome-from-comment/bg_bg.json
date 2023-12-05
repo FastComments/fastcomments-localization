@@ -1,0 +1,23 @@
+{
+    "SUBJECT": "Добре дошли в FastComments <%= comment.commenterName %>!",
+    "BANNER_TEXT": "Добре дошли в FastComments",
+    "INTRO": "Хей <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Изглежда, че сте коментирали публикация <a href=\"<%= comment.url %>\">тук</a> .",
+    "VERIFY_YOUR_ACCOUNT": "Потвърдете акаунта си",
+    "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "Можете да създадете нови връзки за влизане в акаунта си <a href=\"<%= FC_DOMAIN %>/auth/login/\">тук</a> .",
+    "WASNT_YOU_OR_REGRET": "Ако това не сте били вие или съжалявате за това, което сте казали, игнорирайте този имейл и коментарът ще бъде премахнат след <%= removedInDays %> дни.",
+    "REMOVE_COMMENT": "Ако искате да премахнете този коментар сега, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">щракнете тук</a>",
+    "THANKS_SO_MUCH": "Много благодаря!",
+    "USING_NAME_YOU_SAID": "Използвайки името \"<%= comment.commenterName %>\" казахте:",
+    "JUST_NOW": "точно сега",
+    "ONE_MINUTE_AGO": "преди 1 минута",
+    "MINUTES_AGO": "  преди минути",
+    "ONE_HOUR_AGO": "преди 1 час",
+    "HOURS_AGO": "  преди часове",
+    "YESTERDAY": "Вчера",
+    "DAYS_AGO": "  преди дни",
+    "WEEKS_AGO": "  преди седмици",
+    "MONTHS_AGO": "  преди месеци",
+    "YEARS_AGO": "  преди години",
+    "UNSUBSCRIBE_HERE": "Отписване"
+}

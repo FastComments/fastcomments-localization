@@ -1,0 +1,14 @@
+{
+    "INTRO": "Хей <%= username %>,",
+    "NEW_USER_BANNER_TEXT": "Добре дошли в FastComments",
+    "BANNER_TEXT": "Връзка за влизане в FastComments",
+    "FROM_NAME": "Робот FastComments",
+    "NEW_USER_SUBJECT": "Добре дошли в FastComments <%= username %>! Потвърдете и влезте в акаунта си тук",
+    "SUBJECT": "Ето вашата връзка за вход <%= username %>",
+    "NEW_USER_THANKS_FOR_SIGNING_UP": "Благодаря, че се регистрирахте в FastComments.",
+    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "Моля, <b>потвърдете акаунта си</b> , като щракнете върху <a href=\"<%= userVerifyUrl %>\">тази връзка</a> . Това също ще ви влезе.",
+    "CAN_CREATE_NEW_LINKS_HERE": "Можете да създадете нови връзки за влизане в акаунта си <a href=\"<%= HOST %>/auth/login/\">тук</a> .",
+    "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Щракнете тук</a> , за да влезете в FastComments.",
+    "THAT_FULL_LINK_IS": "Тази пълна връзка е: <%= userVerifyUrl %>",
+    "UNSUBSCRIBE_HERE": "Отписване"
+}
