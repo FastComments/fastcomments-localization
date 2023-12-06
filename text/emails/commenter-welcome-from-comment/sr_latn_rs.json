@@ -1,0 +1,23 @@
+{
+    "SUBJECT": "Добродошли у ФастЦомментс <%= comment.commenterName %>!",
+    "BANNER_TEXT": "Добродошли у ФастЦомментс",
+    "INTRO": "Хеј <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Изгледа да сте коментарисали пост <a href=\"<%= comment.url %>\">овде</a> .",
+    "VERIFY_YOUR_ACCOUNT": "Потврдите свој налог",
+    "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "<a href=\"<%= FC_DOMAIN %>/auth/login/\">Овде</a> можете креирати нове везе да бисте се пријавили на свој налог.",
+    "WASNT_YOU_OR_REGRET": "Ако то нисте били ви или вам је жао што сте рекли, занемарите ову е-поруку и коментар ће бити уклоњен за <%= removedInDays %> дана.",
+    "REMOVE_COMMENT": "Ако сада желите да уклоните овај коментар, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">кликните овде</a>",
+    "THANKS_SO_MUCH": "Хвала пуно!",
+    "USING_NAME_YOU_SAID": "Користећи име \"<%= comment.commenterName %>\" рекли сте:",
+    "JUST_NOW": "управо сада",
+    "ONE_MINUTE_AGO": "пре 1 минут",
+    "MINUTES_AGO": "  пре неколико минута",
+    "ONE_HOUR_AGO": "пре 1 сат",
+    "HOURS_AGO": "  сати раније",
+    "YESTERDAY": "Јучер",
+    "DAYS_AGO": "  пре дана",
+    "WEEKS_AGO": "  пре неколико недеља",
+    "MONTHS_AGO": "  неколико месеци раније",
+    "YEARS_AGO": "  пре много година",
+    "UNSUBSCRIBE_HERE": "Откажи претплату"
+}

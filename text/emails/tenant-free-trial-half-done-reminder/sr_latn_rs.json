@@ -1,0 +1,14 @@
+{
+    "INTRO": "Хеј <%= tenantName %>",
+    "BANNER_TEXT": "Пробно ажурирање ФастЦомментс",
+    "FROM_NAME": "Пробни робот ФастЦомментс",
+    "SUBJECT": "ФастЦомментс Бесплатна пробна верзија - преостало је 15 дана",
+    "FRIENDLY_REMINDER": "Ово је пријатељски подсетник да сте на пола пута кроз бесплатну пробну верзију ФастЦомментс-а.",
+    "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> коментара је остављено на вашим сајтовима.",
+    "VOTES_GIVEN": "Било је <%= Number(voteCount).toLocaleString() %> гласова за те коментаре.",
+    "USERS_SIGNED_UP": "На крају, али не и најмање важно, <b><%= Number(userCount).toLocaleString() %> корисници су се пријавили да користе ФастЦомментс преко <%= tenantName %></b> .",
+    "THANKS_FOR_CHOOSING_FC": "Хвала што сте изабрали <a href=\"https://fastcomments.com/auth/my-account\">ФастЦомментс.цом</a> .",
+    "UNSUBSCRIBE_FROM_THESE_ALERTS": "Откажите претплату на ова упозорења.",
+    "SOME_STATS_SO_FAR": "Нека статистика до сада",
+    "SIGN_IN_ENTER_BILLING_INFO": "Пријавите се и унесите информације о плаћању"
+}
