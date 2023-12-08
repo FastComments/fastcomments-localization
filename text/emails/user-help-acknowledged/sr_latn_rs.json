@@ -1,8 +1,8 @@
 {
-    "FROM_NAME": "ФастЦомментс Хелп Бот",
-    "SUBJECT": "Особље за подршку потврдило захтев за помоћ",
-    "HEY": "Хеј <%= commenterUsername %>,",
-    "ACKNOWLEDGED_BY_ADMIN": "Изгледа да је агент за подршку са корисничким именом „<%= adminUsername %>“ потврдио ваш захтев. Ускоро би требало да вам се обрате.",
-    "THANKS_FOR_USING_FC": "Хвала што користите ФастЦомментс!",
-    "DONT_REPLY_TO_THIS": "Ова порука е-поште долази из кутије е-поште само за одлазну пошту – не одговарајте на њу. Посетићемо вас одвојено."
+    "FROM_NAME": "FastTsomments Khelp Bot",
+    "SUBJECT": "Osobљe za podrshku potvrdilo zakhtev za pomoћ",
+    "HEY": "Kheј <%= commenterUsername %>,",
+    "ACKNOWLEDGED_BY_ADMIN": "Izgleda da јe agent za podrshku sa korisnichkim imenom „<%= adminUsername %>“ potvrdio vash zakhtev. Uskoro bi trebalo da vam se obrate.",
+    "THANKS_FOR_USING_FC": "Khvala shto koristite FastTsomments!",
+    "DONT_REPLY_TO_THIS": "Ova poruka ye-poshte dolazi iz kutiјe ye-poshte samo za odlaznu poshtu – ne odgovaraјte na њu. Posetiћemo vas odvoјeno."
 }

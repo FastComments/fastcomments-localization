@@ -1,11 +1,11 @@
 {
-    "FROM_NAME": "ФастЦомментс Робот",
-    "INTRO": "Хеј <%= commenterName %>,",
-    "BANNER_TEXT": "Потврдите свој глас",
-    "SUBJECT": "<%= commenterName %> - Потврдите свој глас.",
-    "LOOKS_LIKE_YOU_VOTED_HERE": "Изгледа да сте гласали за пост <a href=\"<%= url %>\">овде</a> . Ако кликнете на везу за верификацију испод, то ће нам помоћи да сазнамо да сте ви напустили ово гласање.",
-    "VERIFY_YOUR_VOTE_LINK": "Потврдите свој глас",
-    "WAS_YOU_IGNORE_THIS_EMAIL": "Ако то нисте били ви, занемарите ову е-поруку.",
-    "THANKS_SO_MUCH": "Хвала пуно!",
-    "UNSUBSCRIBE_HERE": "Откажи претплату"
+    "FROM_NAME": "FastTsomments Robot",
+    "INTRO": "Kheј <%= commenterName %>,",
+    "BANNER_TEXT": "Potvrdite svoј glas",
+    "SUBJECT": "<%= commenterName %> - Potvrdite svoј glas.",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Izgleda da ste glasali za post <a href=\"<%= url %>\">ovde</a> . Ako kliknete na vezu za verifikatsiјu ispod, to ћe nam pomoћi da saznamo da ste vi napustili ovo glasaњe.",
+    "VERIFY_YOUR_VOTE_LINK": "Potvrdite svoј glas",
+    "WAS_YOU_IGNORE_THIS_EMAIL": "Ako to niste bili vi, zanemarite ovu ye-poruku.",
+    "THANKS_SO_MUCH": "Khvala puno!",
+    "UNSUBSCRIBE_HERE": "Otkazhi pretplatu"
 }

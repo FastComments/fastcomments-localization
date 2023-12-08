@@ -1,14 +1,14 @@
 {
-    "INTRO": "Хеј <%= username %>,",
-    "NEW_USER_BANNER_TEXT": "Добродошли у ФастЦомментс",
-    "BANNER_TEXT": "ФастЦомментс Логин Линк",
-    "FROM_NAME": "ФастЦомментс Робот",
-    "NEW_USER_SUBJECT": "Добродошли у ФастЦомментс <%= username %>! Проверите и пријавите се на свој налог овде",
-    "SUBJECT": "Ево ваше везе за пријаву <%= username %>",
-    "NEW_USER_THANKS_FOR_SIGNING_UP": "Хвала што сте се пријавили на ФастЦомментс.",
-    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "Молимо <b>потврдите свој налог</b> кликом на <a href=\"<%= userVerifyUrl %>\">ову везу</a> . Ово ће вас такође пријавити.",
-    "CAN_CREATE_NEW_LINKS_HERE": "<a href=\"<%= HOST %>/auth/login/\">Овде</a> можете креирати нове везе да бисте се пријавили на свој налог.",
-    "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Кликните овде</a> да бисте се пријавили на ФастЦомментс.",
-    "THAT_FULL_LINK_IS": "Та пуна веза је: <%= userVerifyUrl %>",
-    "UNSUBSCRIBE_HERE": "Откажи претплату"
+    "INTRO": "Kheј <%= username %>,",
+    "NEW_USER_BANNER_TEXT": "Dobrodoshli u FastTsomments",
+    "BANNER_TEXT": "FastTsomments Login Link",
+    "FROM_NAME": "FastTsomments Robot",
+    "NEW_USER_SUBJECT": "Dobrodoshli u FastTsomments <%= username %>! Proverite i priјavite se na svoј nalog ovde",
+    "SUBJECT": "Yevo vashe veze za priјavu <%= username %>",
+    "NEW_USER_THANKS_FOR_SIGNING_UP": "Khvala shto ste se priјavili na FastTsomments.",
+    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "Molimo <b>potvrdite svoј nalog</b> klikom na <a href=\"<%= userVerifyUrl %>\">ovu vezu</a> . Ovo ћe vas takoђe priјaviti.",
+    "CAN_CREATE_NEW_LINKS_HERE": "<a href=\"<%= HOST %>/auth/login/\">Ovde</a> mozhete kreirati nove veze da biste se priјavili na svoј nalog.",
+    "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Kliknite ovde</a> da biste se priјavili na FastTsomments.",
+    "THAT_FULL_LINK_IS": "Ta puna veza јe: <%= userVerifyUrl %>",
+    "UNSUBSCRIBE_HERE": "Otkazhi pretplatu"
 }

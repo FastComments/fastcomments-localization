@@ -1,11 +1,11 @@
 {
-    "SUBJECT": "Добродошли у ФастЦомментс <%= commenterName %>!",
-    "BANNER_TEXT": "Добродошли у ФастЦомментс",
-    "INTRO": "Хеј <%= commenterName %>,",
-    "LOOKS_LIKE_YOU_VOTED_HERE": "Изгледа да сте гласали за пост <a href=\"<%= url %>\">овде</a> .",
-    "VERIFY_YOUR_ACCOUNT": "Потврдите свој налог",
-    "CREATE_NEW_LOGIN_LINKS_HERE": "<a href=\"<%= FC_DOMAIN %>/auth/login/\">Овде</a> можете креирати нове везе да бисте се пријавили на свој налог.",
-    "WASNT_YOU_IGNORE_EMAIL": "Ако то нисте били ви, занемарите ову е-поруку.",
-    "THANKS_SO_MUCH": "Хвала пуно!",
-    "UNSUBSCRIBE_HERE": "Откажи претплату"
+    "SUBJECT": "Dobrodoshli u FastTsomments <%= commenterName %>!",
+    "BANNER_TEXT": "Dobrodoshli u FastTsomments",
+    "INTRO": "Kheј <%= commenterName %>,",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Izgleda da ste glasali za post <a href=\"<%= url %>\">ovde</a> .",
+    "VERIFY_YOUR_ACCOUNT": "Potvrdite svoј nalog",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "<a href=\"<%= FC_DOMAIN %>/auth/login/\">Ovde</a> mozhete kreirati nove veze da biste se priјavili na svoј nalog.",
+    "WASNT_YOU_IGNORE_EMAIL": "Ako to niste bili vi, zanemarite ovu ye-poruku.",
+    "THANKS_SO_MUCH": "Khvala puno!",
+    "UNSUBSCRIBE_HERE": "Otkazhi pretplatu"
 }

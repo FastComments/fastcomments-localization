@@ -1,14 +1,14 @@
 {
-    "INTRO": "Хеј <%= username %>,",
-    "FROM_NAME": "ФастЦомментс Робот",
-    "YOU_HAVE_NEW_COMMENTS": "Имате нове коментаре!",
-    "BANNER_TEXT": "Нови коментари - Последњи сат",
-    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Нови коментар<% } else { %>Нови коментари<% } %>",
-    "UNSUBSCRIBE_HERE": "Откажи претплату",
-    "APPROVE_COMMENT": "Одобре",
-    "VIEW_COMMENT": "Погледај коментар",
-    "HERE_ARE_LINKS_TO_PAGES": "Ево веза до страница на којима се ти коментари налазе, са бројем коментара за сваку.",
-    "PAGE": "Страна",
-    "NEW_COMMENTS": "Нев Цомментс",
-    "MODERATE_COMMENTS": "Модерате Цомментс"
+    "INTRO": "Kheј <%= username %>,",
+    "FROM_NAME": "FastTsomments Robot",
+    "YOU_HAVE_NEW_COMMENTS": "Imate nove komentare!",
+    "BANNER_TEXT": "Novi komentari - Posledњi sat",
+    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Novi komentar<% } else { %>Novi komentari<% } %>",
+    "UNSUBSCRIBE_HERE": "Otkazhi pretplatu",
+    "APPROVE_COMMENT": "Odobre",
+    "VIEW_COMMENT": "Pogledaј komentar",
+    "HERE_ARE_LINKS_TO_PAGES": "Yevo veza do stranitsa na koјima se ti komentari nalaze, sa broјem komentara za svaku.",
+    "PAGE": "Strana",
+    "NEW_COMMENTS": "Nev Tsomments",
+    "MODERATE_COMMENTS": "Moderate Tsomments"
 }

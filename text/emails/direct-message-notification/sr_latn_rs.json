@@ -1,7 +1,7 @@
 {
-    "SUBJECT": "Нова порука од <%= comment.commenterName %>",
-    "INTRO": "Хеј <%= targetUser.username %>,",
-    "YOU_HAVE_A_NEW_MESSAGE": "Примили сте нову поруку, приказану испод. Можете одговорити тако што ћете одговорити на ову поруку е-поште или кликнути на дугме испод.",
-    "GO_TO_CONVERSATION": "Идите на Разговор",
-    "UNSUBSCRIBE_HERE": "Откажите претплату на обавештења овде."
+    "SUBJECT": "Nova poruka od <%= comment.commenterName %>",
+    "INTRO": "Kheј <%= targetUser.username %>,",
+    "YOU_HAVE_A_NEW_MESSAGE": "Primili ste novu poruku, prikazanu ispod. Mozhete odgovoriti tako shto ћete odgovoriti na ovu poruku ye-poshte ili kliknuti na dugme ispod.",
+    "GO_TO_CONVERSATION": "Idite na Razgovor",
+    "UNSUBSCRIBE_HERE": "Otkazhite pretplatu na obaveshteњa ovde."
 }

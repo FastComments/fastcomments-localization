@@ -1,7 +1,7 @@
 {
-    "INTRO": "Хеј <%= username %>,",
-    "FROM_NAME": "ФастЦомментс Робот",
-    "SUBJECT": "Ваш ФастЦомментс Станар је деактивиран",
-    "DETAILS_LINE_ONE": "Ово је аутоматизована е-пошта. Видимо да сте већ неко време имали неизмирене фактуре и да нисмо могли да дођемо до вас. Ваш налог је сада деактивиран.",
-    "DETAILS_LINE_TWO": "Ниједан податак није избрисан. <a href=\"<%= billingPageURL %>\">Овде увек можете поново активирати свој налог.</a>"
+    "INTRO": "Kheј <%= username %>,",
+    "FROM_NAME": "FastTsomments Robot",
+    "SUBJECT": "Vash FastTsomments Stanar јe deaktiviran",
+    "DETAILS_LINE_ONE": "Ovo јe automatizovana ye-poshta. Vidimo da ste veћ neko vreme imali neizmirene fakture i da nismo mogli da doђemo do vas. Vash nalog јe sada deaktiviran.",
+    "DETAILS_LINE_TWO": "Niјedan podatak niјe izbrisan. <a href=\"<%= billingPageURL %>\">Ovde uvek mozhete ponovo aktivirati svoј nalog.</a>"
 }
