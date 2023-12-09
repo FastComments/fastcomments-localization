@@ -1,11 +1,11 @@
 {
-    "SUBJECT": "Dobrodoshli u FastTsomments <%= commenterName %>!",
-    "BANNER_TEXT": "Dobrodoshli u FastTsomments",
-    "INTRO": "Kheј <%= commenterName %>,",
-    "LOOKS_LIKE_YOU_VOTED_HERE": "Izgleda da ste glasali za post <a href=\"<%= url %>\">ovde</a> .",
-    "VERIFY_YOUR_ACCOUNT": "Potvrdite svoј nalog",
-    "CREATE_NEW_LOGIN_LINKS_HERE": "<a href=\"<%= FC_DOMAIN %>/auth/login/\">Ovde</a> mozhete kreirati nove veze da biste se priјavili na svoј nalog.",
-    "WASNT_YOU_IGNORE_EMAIL": "Ako to niste bili vi, zanemarite ovu ye-poruku.",
-    "THANKS_SO_MUCH": "Khvala puno!",
-    "UNSUBSCRIBE_HERE": "Otkazhi pretplatu"
+    "SUBJECT": "Dobrodošli u FastComments <%= commenterName %>!",
+    "BANNER_TEXT": "Dobro došli u FastComments",
+    "INTRO": "Hej<%= commenterName %>",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Izgleda da ste glasali za post <a href=\"<%= url %>\">uhvate</a>.",
+    "VERIFY_YOUR_ACCOUNT": "Verifikujte svoj nalog",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "Možete kreirati nove linkove za prijavljivanje na vaš nalog <a href=\"<%= FC_DOMAIN %>/auth/login/\">here</a>.",
+    "WASNT_YOU_IGNORE_EMAIL": "Ako to niste bili vi onda ignorišite ovu e-poruku.",
+    "THANKS_SO_MUCH": "Hvala puno!",
+    "UNSUBSCRIBE_HERE": "Otkazivanje pretplate"
 }

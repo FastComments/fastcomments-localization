@@ -1,7 +1,7 @@
 {
-    "INTRO": "Kheј <%= username %>,",
-    "BANNER_TEXT": "FastTsomments Notifitsation",
-    "FROM_NAME": "FastTsomments Robot",
-    "SUBJECT": "Ukloњeni ste iz <%= tenantName %>",
-    "REMOVED_AS_ADMIN": "Izgleda da ste ukloњeni kao korisnik sa <%= tenantName %>. Zadrzhaћete svoј FastTsomments nalog kao komentator, ali vishe neћete imati pristup <%= tenantName %>."
+    "INTRO": "Hej<%= username %>",
+    "BANNER_TEXT": "Obaveštenje o brzim dolascima",
+    "FROM_NAME": "Robot za brze snommente",
+    "SUBJECT": "Uklonjeni ste sa <%= tenantName %>",
+    "REMOVED_AS_ADMIN": "Izgleda da ste uklonjeni kao korisnik iz <%= tenantName %>. Zadržaćete svoj FastComments nalog kao komentator, ali više nećete imati pristup <%= tenantName %>."
 }

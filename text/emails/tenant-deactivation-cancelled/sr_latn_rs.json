@@ -1,7 +1,7 @@
 {
-    "INTRO": "Kheј <%= username %>,",
-    "FROM_NAME": "FastTsomments Robot",
-    "SUBJECT": "Vash FastTsomments Stanar јe u dobroј pozitsiјi!",
-    "DETAILS_LINE_ONE": "Ovo јe automatizovana ye-poshta. Vidimo da ste azhurirali svoјe informatsiјe za obrachun.",
-    "DETAILS_LINE_TWO": "Vash nalog vishe niјe zakazan za deaktivatsiјu. Khvala za vash posao!"
+    "INTRO": "Hej<%= username %>",
+    "FROM_NAME": "Robot za brze snommente",
+    "SUBJECT": "Vaš FastComments Stanar je u dobrom položaju!",
+    "DETAILS_LINE_ONE": "Ovo je automatizovana e-pošta. Vidimo da ste ažurirali informacije o naplati.",
+    "DETAILS_LINE_TWO": "Vaš nalog više nije planiran za deaktivaciju. Hvala vam na poslu!"
 }

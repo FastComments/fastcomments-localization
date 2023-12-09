@@ -1,14 +1,14 @@
 {
-    "INTRO": "Kheј <%= tenantName %>",
-    "BANNER_TEXT": "Probno azhuriraњe FastTsomments",
-    "FROM_NAME": "Probni robot FastTsomments",
-    "SUBJECT": "FastTsomments Besplatna probna verziјa - preostalo јe 15 dana",
-    "FRIENDLY_REMINDER": "Ovo јe priјateљski podsetnik da ste na pola puta kroz besplatnu probnu verziјu FastTsomments-a.",
-    "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> komentara јe ostavљeno na vashim saјtovima.",
-    "VOTES_GIVEN": "Bilo јe <%= Number(voteCount).toLocaleString() %> glasova za te komentare.",
-    "USERS_SIGNED_UP": "Na kraјu, ali ne i naјmaњe vazhno, <b><%= Number(userCount).toLocaleString() %> korisnitsi su se priјavili da koriste FastTsomments preko <%= tenantName %></b> .",
-    "THANKS_FOR_CHOOSING_FC": "Khvala shto ste izabrali <a href=\"https://fastcomments.com/auth/my-account\">FastTsomments.tsom</a> .",
-    "UNSUBSCRIBE_FROM_THESE_ALERTS": "Otkazhite pretplatu na ova upozoreњa.",
-    "SOME_STATS_SO_FAR": "Neka statistika do sada",
-    "SIGN_IN_ENTER_BILLING_INFO": "Priјavite se i unesite informatsiјe o plaћaњu"
+    "INTRO": "Hej<%= tenantName %>",
+    "BANNER_TEXT": "Probna ispravka za fastComments",
+    "FROM_NAME": "Probni robot fastcommentsa",
+    "SUBJECT": "FastComments Free Trial - ostalo je još 15 dana",
+    "FRIENDLY_REMINDER": "Ovo je prijateljski podsetnik da ste na polovini besplatne probne linije fastComments-a.",
+    "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> komentari su ostavljeni na vašim sajtima.",
+    "VOTES_GIVEN": "Bilo je <%= Number(voteCount).toLocaleString() %> glasova za te komentare.",
+    "USERS_SIGNED_UP": "Na kraju, ali ne <b>i najmanje najmanje moguće, <%= Number(userCount).toLocaleString() %> korisnici su se prijavili da koriste FastComments putem <%= tenantName %></b>.",
+    "THANKS_FOR_CHOOSING_FC": "Hvala što ste <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>.",
+    "UNSUBSCRIBE_FROM_THESE_ALERTS": "Otkaži pretplatu na ova upozorenja.",
+    "SOME_STATS_SO_FAR": "Neke statistike do sada",
+    "SIGN_IN_ENTER_BILLING_INFO": "Prijavljivanje i unos informacija o plaćanju"
 }

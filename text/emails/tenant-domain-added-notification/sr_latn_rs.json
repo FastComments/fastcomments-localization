@@ -1,13 +1,13 @@
 {
-    "SUBJECT": "Saјt јe dodat na vash FastTsomments nalog",
-    "INTRO": "Zdravo <%= user.username %>",
-    "DOMAIN_ADDED_PARAGRAPH": "Novi domen јe korishћen sa vashim nalogom FastTsomments.tsom. Poshto ste u probnom periodu, automatski smo dodali ovaј saјt za vas radi pogodnosti. Ovo јe automatizovana ye-poshta.",
-    "SITE_ADDED_WAS": "Nova lokatsiјa koјu smo otkrili јe: <b><%= domainAdded %></b>",
-    "TECHNICAL_DETAILS": "FastTsomments potvrђuјe autentichnost zakhteva za vash nalog po domenu. Ponekad automatizovani sistemi, botovi ili alati za prevoђeњe mogu da dovedu do toga, a dodavaњe ovog domena na vash nalog mozhda neћe biti pozheљno.",
-    "FLEX_BILLING_NOTE": "<b>Napomena:</b> Poshto vash nalog koristi fleksibilno odreђivaњe tsena, dodati domeni naplaћuјu se, pri chemu јe prvi besplatan. Proverite iznos za sve buduћe fakture <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">ovde</a> .",
-    "BILLING_NOTE": "<b>Napomena:</b> Poshto vash nalog ne koristi fleksibilne tsene, mozhete imati samo toliko domena na svom nalogu. Proverite korishћeњe vasheg plana <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">ovde</a> .",
-    "YOU_CAN_REMOVE_THIS_DOMAIN": "Ako zhelite, mozhete ukloniti ovaј domen, kao i onemoguћiti ovu funktsiјu.",
-    "BUTTON_TEXT_REMOVE_DOMAIN": "Uklonite ovaј domen.",
-    "BUTTON_TEXT_DISABLE_FEATURE": "Onemoguћite ovu funktsiјu.",
-    "OUTRO": "Ako ovaј saјt treba da pripada vashem nalogu, nisu potrebne dodatne radњe. Khvala shto koristite FastTsomments!"
+    "SUBJECT": "Lokacija dodata na vaš nalog za brze snome",
+    "INTRO": "Zdravo<%= user.username %>",
+    "DOMAIN_ADDED_PARAGRAPH": "Sa vašim nalogom korišćen je novi FastComments.com domena. Pošto ste u probnom periodu, automatski smo dodali ovaj sajt za vas kao pogodnost. Ovo je automatizovana e-pošta.",
+    "SITE_ADDED_WAS": "Novi sajt koji smo otkrili je: <b><%= domainAdded %></b>",
+    "TECHNICAL_DETAILS": "FastComments potvrdi verodostojnost zahteva za vaš nalog putem domena. Ponekad automatizovani sistemi, botovi ili alatke za prevođenje mogu da izazovu da se to desi, a dodavanje ovog domena na nalog možda nije poželjno.",
+    "FLEX_BILLING_NOTE": "<b>nota:</b> Pošto vaš nalog koristi fleksibilne cene, dodati domeni snose trošak, a prvi je besplatan. Proverite iznos za sve buduće fakture <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\"> >ukoliko</a>.",
+    "BILLING_NOTE": "<b>nota:</b> Pošto vaš nalog ne koristi fleksibilne cene, na nalogu možete imati samo toliko domena. Proverite upotrebu vašeg plana <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\"> >u redu</a>.",
+    "YOU_CAN_REMOVE_THIS_DOMAIN": "Ako želite, možete da uklonite ovaj domen, kao i da onemogućite ovu funkciju.",
+    "BUTTON_TEXT_REMOVE_DOMAIN": "Uklonite ovaj domen.",
+    "BUTTON_TEXT_DISABLE_FEATURE": "Onemogućite ovu funkciju.",
+    "OUTRO": "Ako ova lokacija treba da pripada vašem nalogu, nije potrebna dalja radnja. Hvala što koristite FastComments!"
 }
