@@ -1,0 +1,7 @@
+{
+    "FROM_NAME": "FastComments ロボット",
+    "SUBJECT": "パスワードリセットリクエスト",
+    "INTRO": "こんにちは <%= username %>、",
+    "CAN_RESET_HERE": "ここでパスワードをリセットできます。",
+    "INFO": "パスワードをリセットするためのリンクをリクエストしました。"
+}

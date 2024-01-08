@@ -1,0 +1,7 @@
+{
+    "FROM_NAME": "Commenti veloci Robot",
+    "SUBJECT": "Richiesta di reimpostazione della password",
+    "INTRO": "Ciao <%= username %>,",
+    "CAN_RESET_HERE": "Puoi reimpostare la tua password qui.",
+    "INFO": "Hai richiesto un collegamento per reimpostare la password."
+}

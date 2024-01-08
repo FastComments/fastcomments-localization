@@ -1,0 +1,7 @@
+{
+  "FROM_NAME": "FastComments Robot",
+  "SUBJECT": "Password Reset Request",
+  "INTRO": "Hello <%= username %>,",
+  "CAN_RESET_HERE": "You can reset your password here.",
+  "INFO": "You requested a link to reset your password."
+}

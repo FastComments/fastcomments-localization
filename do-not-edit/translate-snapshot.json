@@ -650,6 +650,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "es_es": {
@@ -1302,6 +1315,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "pl_pl": {
@@ -1940,6 +1966,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "de_de": {
@@ -2576,6 +2615,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "it_it": {
@@ -3212,6 +3264,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "ru_ru": {
@@ -3848,6 +3913,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "pt_br": {
@@ -4482,6 +4560,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "ja_jp": {
@@ -5111,6 +5202,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "tr_tr": {
@@ -5740,6 +5844,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "zh_cn": {
@@ -6368,6 +6485,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "ko_kr": {
@@ -6995,6 +7125,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "zh_tw": {
@@ -7621,6 +7764,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "he": {
@@ -8247,6 +8403,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "hr_hr": {
@@ -8873,6 +9042,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "da_dk": {
@@ -9499,6 +9681,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "ru_ua": {
@@ -10125,6 +10320,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "uk_ua": {
@@ -10751,6 +10959,19 @@
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
                 "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "bg_bg": {
@@ -11377,6 +11598,19 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "el_cy": {
@@ -12003,6 +12237,19 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "el_gr": {
@@ -12629,6 +12876,19 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "sr_ba": {
@@ -13255,6 +13515,19 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "sr_me": {
@@ -13881,6 +14154,19 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "sr_rs": {
@@ -14507,6 +14793,19 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "sl_sl": {
@@ -15133,6 +15432,19 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,",
+                "CAN_RESET_HERE": "You can reset your password here.",
+                "INFO": "You requested a link to reset your password."
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         },
         "sr_latn_rs": {
@@ -15759,6 +16071,17 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+            },
+            "password-reset-request": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Reset Request",
+                "INTRO": "Hello <%= username %>,"
+            },
+            "password-reset-success": {
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Password Updated",
+                "INTRO": "Hello <%= username %>,",
+                "INFO": "Your password has been updated."
             }
         }
     }

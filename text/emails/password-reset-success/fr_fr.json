@@ -1,0 +1,6 @@
+{
+    "FROM_NAME": "Robot de commentaires rapides",
+    "SUBJECT": "Mot de passe mis à jour",
+    "INTRO": "Bonjour <%= username %>,",
+    "INFO": "Votre mot de passe a été mis à jour."
+}

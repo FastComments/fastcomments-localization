@@ -1,0 +1,7 @@
+{
+    "FROM_NAME": "FastComments-Roboter",
+    "SUBJECT": "Anfrage zum Zurücksetzen des Passworts",
+    "INTRO": "Hallo <%= username %>,",
+    "CAN_RESET_HERE": "Hier können Sie Ihr Passwort zurücksetzen.",
+    "INFO": "Sie haben einen Link zum Zurücksetzen Ihres Passworts angefordert."
+}

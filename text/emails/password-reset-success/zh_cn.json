@@ -1,0 +1,6 @@
+{
+    "FROM_NAME": "快速评论机器人",
+    "SUBJECT": "密码已更新",
+    "INTRO": "你好 <%= username %>，",
+    "INFO": "您的密码已更新。"
+}

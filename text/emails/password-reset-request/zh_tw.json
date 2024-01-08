@@ -1,0 +1,7 @@
+{
+    "FROM_NAME": "快速評論機器人",
+    "SUBJECT": "密碼重置請求",
+    "INTRO": "你好 <%= username %>，",
+    "CAN_RESET_HERE": "你可以在這裡重設密碼。",
+    "INFO": "您請求了一個重置密碼的連結。"
+}

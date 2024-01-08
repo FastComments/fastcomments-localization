@@ -1,0 +1,7 @@
+{
+    "FROM_NAME": "快速评论机器人",
+    "SUBJECT": "密码重置请求",
+    "INTRO": "你好 <%= username %>，",
+    "CAN_RESET_HERE": "你可以在这里重设密码。",
+    "INFO": "您请求了一个重置密码的链接。"
+}

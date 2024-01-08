@@ -1,0 +1,7 @@
+{
+  "FROM_NAME": "Robot za brze snommente",
+  "SUBJECT": "Zahtev za poništavanje lozinke",
+  "INTRO": "Zdravo<%= username %>",
+  "CAN_RESET_HERE": "Lozinku možete poništiti ovde.",
+  "INFO": "Zahtevali ste vezu da biste poništili lozinku."
+}

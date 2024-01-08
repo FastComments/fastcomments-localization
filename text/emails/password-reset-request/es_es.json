@@ -1,0 +1,7 @@
+{
+    "FROM_NAME": "Robot de comentarios rápidos",
+    "SUBJECT": "Solicitud de restablecimiento de contraseña",
+    "INTRO": "Hola <%= username %>,",
+    "CAN_RESET_HERE": "Puede restablecer su contraseña aquí.",
+    "INFO": "Solicitaste un enlace para restablecer tu contraseña."
+}

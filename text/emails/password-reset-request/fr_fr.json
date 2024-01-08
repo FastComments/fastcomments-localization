@@ -1,0 +1,7 @@
+{
+    "FROM_NAME": "Robot de commentaires rapides",
+    "SUBJECT": "Demande de réinitialisation du mot de passe",
+    "INTRO": "Bonjour <%= username %>,",
+    "CAN_RESET_HERE": "Vous pouvez réinitialiser votre mot de passe ici.",
+    "INFO": "Vous avez demandé un lien pour réinitialiser votre mot de passe."
+}

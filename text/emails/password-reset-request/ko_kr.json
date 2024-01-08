@@ -1,0 +1,7 @@
+{
+    "FROM_NAME": "FastComments 로봇",
+    "SUBJECT": "비밀번호 재설정 요청",
+    "INTRO": "안녕하세요 <%= username %>,",
+    "CAN_RESET_HERE": "여기에서 비밀번호를 재설정할 수 있습니다.",
+    "INFO": "비밀번호 재설정 링크를 요청하셨습니다."
+}

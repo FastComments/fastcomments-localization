@@ -1,0 +1,7 @@
+{
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "Żądanie resetowania hasła",
+    "INTRO": "Cześć <%= username %>,",
+    "CAN_RESET_HERE": "Tutaj możesz zresetować swoje hasło.",
+    "INFO": "Prosiłeś o link do resetowania hasła."
+}

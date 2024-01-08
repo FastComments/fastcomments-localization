@@ -32,7 +32,9 @@
         "tenant-deactivated": 5,
         "tenant-deactivated-soon": 5,
         "tenant-deactivation-cancelled": 5,
-        "tenant-deactivation-reactivated": 5
+        "tenant-deactivation-reactivated": 5,
+        "password-reset-request": 5,
+        "password-reset-success": 4
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -662,5 +664,18 @@
         "t269": "COMMENT_DELETED_NAME",
         "t270": "COMMENT_DELETED_CONTENT",
         "t271": "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES"
+    },
+    "password-reset-request": {
+        "t1": "FROM_NAME",
+        "t2": "SUBJECT",
+        "t3": "INTRO",
+        "t4": "CAN_RESET_HERE",
+        "t5": "INFO"
+    },
+    "password-reset-success": {
+        "t1": "FROM_NAME",
+        "t2": "SUBJECT",
+        "t3": "INTRO",
+        "t4": "INFO"
     }
 }

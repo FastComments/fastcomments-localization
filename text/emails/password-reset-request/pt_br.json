@@ -1,0 +1,7 @@
+{
+    "FROM_NAME": "Robô FastComments",
+    "SUBJECT": "Solicitação de redefinição de senha",
+    "INTRO": "Olá <%= username %>,",
+    "CAN_RESET_HERE": "Você pode redefinir sua senha aqui.",
+    "INFO": "Você solicitou um link para redefinir sua senha."
+}
