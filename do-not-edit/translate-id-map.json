@@ -35,7 +35,7 @@
         "tenant-deactivation-reactivated": 5,
         "password-reset-request": 5,
         "password-reset-success": 4,
-        "subscribed-page-notifications": 8
+        "subscribed-page-notifications": 9
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -687,6 +687,7 @@
         "t5": "PAGE",
         "t6": "NEW_COMMENTS",
         "t7": "UNSUBSCRIBE",
-        "t8": "SUBJECT"
+        "t8": "SUBJECT",
+        "t9": "VIEW"
     }
 }
