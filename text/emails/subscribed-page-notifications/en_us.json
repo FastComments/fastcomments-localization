@@ -1,0 +1,10 @@
+{
+    "SUBJECT": "New Comments",
+    "INTRO": "Hey <%= username %>,",
+    "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "There are new comments on pages you've subscribed to.",
+    "HERE_ARE_LINKS_TO_PAGES": "Since you recently had notifications for many pages, we're just going to list the pages here. There are also links below to unsubscribe from a page if desired.",
+    "CAN_VIEW_ALL_IN_ACCOUNT": "You can see all your individual unread notifications <a href=\"<%= FC_SITE %>/auth/my-account\">in your account home</a>.",
+    "PAGE": "Page",
+    "NEW_COMMENTS": "Comments",
+    "UNSUBSCRIBE": "Unsubscribe"
+}

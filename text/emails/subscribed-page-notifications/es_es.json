@@ -1,0 +1,10 @@
+{
+    "INTRO": "Ey <%= username %>,",
+    "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "Hay nuevos comentarios en las páginas a las que te has suscrito.",
+    "HERE_ARE_LINKS_TO_PAGES": "Dado que recientemente recibió notificaciones de muchas páginas, simplemente enumeraremos las páginas aquí. También hay enlaces a continuación para cancelar la suscripción a una página si lo desea.",
+    "CAN_VIEW_ALL_IN_ACCOUNT": "Puede ver todas sus notificaciones individuales no leídas <a href=\"<%= FC_SITE %>/auth/my-account\">en la página de inicio de su cuenta</a> .",
+    "PAGE": "Página",
+    "NEW_COMMENTS": "Comentarios",
+    "UNSUBSCRIBE": "Darse de baja",
+    "SUBJECT": "Nuevos comentarios"
+}

@@ -1,0 +1,10 @@
+{
+    "INTRO": "おい <%= username %>、",
+    "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "あなたが購読しているページに新しいコメントがあります。",
+    "HERE_ARE_LINKS_TO_PAGES": "最近多くのページについて通知があったため、ここではページをリストするだけです。必要に応じて、ページから購読を解除するためのリンクも以下にあります。",
+    "CAN_VIEW_ALL_IN_ACCOUNT": "<a href=\"<%= FC_SITE %>/auth/my-account\">アカウントのホームで</a>個々の未読通知をすべて確認できます。",
+    "PAGE": "ページ",
+    "NEW_COMMENTS": "コメント",
+    "UNSUBSCRIBE": "購読を解除する",
+    "SUBJECT": "新しいコメント"
+}

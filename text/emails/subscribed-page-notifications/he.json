@@ -1,0 +1,10 @@
+{
+    "INTRO": "היי <%= username %>,",
+    "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "יש הערות חדשות בדפים שנרשמתם אליהם.",
+    "HERE_ARE_LINKS_TO_PAGES": "מכיוון שלאחרונה היו לך התראות עבור דפים רבים, אנו רק נפרט את הדפים כאן. יש גם קישורים למטה לביטול הרשמה מדף אם תרצה.",
+    "CAN_VIEW_ALL_IN_ACCOUNT": "אתה יכול לראות את כל ההתראות האישיות שלך שלא נקראו <a href=\"<%= FC_SITE %>/auth/my-account\">בבית החשבון שלך</a> .",
+    "PAGE": "עמוד",
+    "NEW_COMMENTS": "הערות",
+    "UNSUBSCRIBE": "בטל את המנוי",
+    "SUBJECT": "הערות חדשות"
+}

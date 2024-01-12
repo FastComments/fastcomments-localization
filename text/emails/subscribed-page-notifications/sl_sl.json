@@ -1,0 +1,10 @@
+{
+    "INTRO": "Zdravo <%= username %>,",
+    "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "Na straneh, na katere ste naročeni, so novi komentarji.",
+    "HERE_ARE_LINKS_TO_PAGES": "Ker ste nedavno prejeli obvestila za veliko strani, bomo strani le našteli tukaj. Spodaj so tudi povezave za odjavo s strani, če želite.",
+    "CAN_VIEW_ALL_IN_ACCOUNT": "Vsa posamezna neprebrana obvestila si lahko ogledate <a href=\"<%= FC_SITE %>/auth/my-account\">na domači strani računa</a> .",
+    "PAGE": "Stran",
+    "NEW_COMMENTS": "Komentarji",
+    "UNSUBSCRIBE": "Odjavi se",
+    "SUBJECT": "Novi komentarji"
+}

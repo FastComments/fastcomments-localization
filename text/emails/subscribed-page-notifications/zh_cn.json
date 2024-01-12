@@ -1,0 +1,10 @@
+{
+    "INTRO": "嘿 <%= username %>，",
+    "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "您订阅的页面上有新评论。",
+    "HERE_ARE_LINKS_TO_PAGES": "由于您最近收到了许多页面的通知，因此我们将在此处列出这些页面。如果需要，下面还提供了取消订阅页面的链接。",
+    "CAN_VIEW_ALL_IN_ACCOUNT": "您可以<a href=\"<%= FC_SITE %>/auth/my-account\">在帐户主页中</a>查看所有个人未读通知。",
+    "PAGE": "页",
+    "NEW_COMMENTS": "评论",
+    "UNSUBSCRIBE": "退订",
+    "SUBJECT": "新评论"
+}

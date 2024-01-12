@@ -34,7 +34,8 @@
         "tenant-deactivation-cancelled": 5,
         "tenant-deactivation-reactivated": 5,
         "password-reset-request": 5,
-        "password-reset-success": 4
+        "password-reset-success": 4,
+        "subscribed-page-notifications": 8
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -677,5 +678,15 @@
         "t2": "SUBJECT",
         "t3": "INTRO",
         "t4": "INFO"
+    },
+    "subscribed-page-notifications": {
+        "t1": "INTRO",
+        "t2": "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES",
+        "t3": "HERE_ARE_LINKS_TO_PAGES",
+        "t4": "CAN_VIEW_ALL_IN_ACCOUNT",
+        "t5": "PAGE",
+        "t6": "NEW_COMMENTS",
+        "t7": "UNSUBSCRIBE",
+        "t8": "SUBJECT"
     }
 }
