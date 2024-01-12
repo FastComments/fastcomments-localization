@@ -1,7 +1,7 @@
 {
     "INTRO": "Hej <%= username %>,",
     "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "Der er nye kommentarer på sider, du har abonneret på.",
-    "HERE_ARE_LINKS_TO_PAGES": "Da du for nylig har modtaget meddelelser for mange sider, vil vi blot liste siderne her. Der er også links nedenfor til at afmelde en side, hvis det ønskes.",
+    "HERE_ARE_LINKS_TO_PAGES": "Her er en liste over sider med de nye kommentarer. Der er også links nedenfor til at afmelde en side, hvis det ønskes.",
     "CAN_VIEW_ALL_IN_ACCOUNT": "Du kan se alle dine individuelle ulæste notifikationer <a href=\"<%= FC_SITE %>/auth/my-account\">på din kontostartside</a> .",
     "PAGE": "Side",
     "NEW_COMMENTS": "Kommentarer",

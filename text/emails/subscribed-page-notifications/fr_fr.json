@@ -1,7 +1,7 @@
 {
     "INTRO": "Hé <%= username %>,",
     "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "Il y a de nouveaux commentaires sur les pages auxquelles vous êtes abonné.",
-    "HERE_ARE_LINKS_TO_PAGES": "Étant donné que vous avez récemment reçu des notifications pour de nombreuses pages, nous allons simplement lister les pages ici. Il y a également des liens ci-dessous pour se désinscrire d'une page si vous le souhaitez.",
+    "HERE_ARE_LINKS_TO_PAGES": "Voici une liste de pages avec les nouveaux commentaires. Il y a également des liens ci-dessous pour se désinscrire d'une page si vous le souhaitez.",
     "CAN_VIEW_ALL_IN_ACCOUNT": "Vous pouvez voir toutes vos notifications individuelles non lues <a href=\"<%= FC_SITE %>/auth/my-account\">dans l&#39;accueil de votre compte</a> .",
     "PAGE": "Page",
     "NEW_COMMENTS": "commentaires",

@@ -1,7 +1,7 @@
 {
     "INTRO": "Hey <%= username %>,",
     "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "Abone olduğunuz sayfalarda yeni yorumlar var.",
-    "HERE_ARE_LINKS_TO_PAGES": "Son zamanlarda birçok sayfa için bildirim aldığınız için sayfaları burada listeleyeceğiz. İstenirse bir sayfaya olan aboneliğinizi iptal etmek için aşağıda bağlantılar da bulunmaktadır.",
+    "HERE_ARE_LINKS_TO_PAGES": "İşte yeni yorumların bulunduğu sayfaların listesi. İstenirse bir sayfaya olan aboneliğinizi iptal etmek için aşağıda bağlantılar da bulunmaktadır.",
     "CAN_VIEW_ALL_IN_ACCOUNT": "Tüm bireysel okunmamış bildirimlerinizi <a href=\"<%= FC_SITE %>/auth/my-account\">hesabınızın ana sayfasında</a> görebilirsiniz.",
     "PAGE": "Sayfa",
     "NEW_COMMENTS": "Yorumlar",

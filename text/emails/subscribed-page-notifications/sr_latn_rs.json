@@ -1,7 +1,7 @@
 {
     "INTRO": "Hej<%= username %>",
     "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "Postoje novi komentari na stranicama na koje ste se pretplatili.",
-    "HERE_ARE_LINKS_TO_PAGES": "Pošto ste nedavno imali obaveštenja za mnoge stranice, samo ćemo nabrajati stranice ovde. Dole postoje i linkovi za otkazivanje pretplate sa stranice ako želite.",
+    "HERE_ARE_LINKS_TO_PAGES": "Evo liste stranica sa novim komentarima. Dole postoje i linkovi za otkazivanje pretplate sa stranice ako želite.",
     "CAN_VIEW_ALL_IN_ACCOUNT": "Sva vaša pojedinačna nepročitana obaveštenja možete videti <a href=\"<%= FC_SITE %>/auth/my-account\">u kući na vašem nalogu</a>.",
     "PAGE": "Stranica",
     "NEW_COMMENTS": "Komentare",
