@@ -35,7 +35,8 @@
         "tenant-deactivation-reactivated": 5,
         "password-reset-request": 5,
         "password-reset-success": 4,
-        "subscribed-page-notifications": 10
+        "subscribed-page-notifications": 10,
+        "comment-ui-error-unauthorized-link-domain": 1
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -690,5 +691,8 @@
         "t8": "SUBJECT",
         "t9": "VIEW",
         "t10": "FROM_NAME"
+    },
+    "comment-ui-error-unauthorized-link-domain": {
+        "t1": "ERROR_UNAUTHORIZED_DOMAIN"
     }
 }
