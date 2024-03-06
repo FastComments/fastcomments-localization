@@ -36,7 +36,8 @@
         "password-reset-request": 5,
         "password-reset-success": 4,
         "subscribed-page-notifications": 10,
-        "comment-ui-error-unauthorized-link-domain": 1
+        "comment-ui-error-unauthorized-link-domain": 1,
+        "comment-ui-error-language-not-allowed": 1
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -694,5 +695,8 @@
     },
     "comment-ui-error-unauthorized-link-domain": {
         "t1": "ERROR_UNAUTHORIZED_DOMAIN"
+    },
+    "comment-ui-error-language-not-allowed": {
+        "t1": "ERROR_INVALID_LANGUAGE"
     }
 }
