@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 284,
+        "comment-ui": 286,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -668,7 +668,8 @@
     "comment-ui-deleting": {
         "t269": "COMMENT_DELETED_NAME",
         "t270": "COMMENT_DELETED_CONTENT",
-        "t271": "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES"
+        "t271": "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES",
+        "t285": "COMMENT_DELETING_NOT_ALLOWED"
     },
     "password-reset-request": {
         "t1": "FROM_NAME",
@@ -700,5 +701,8 @@
     },
     "comment-ui-error-language-not-allowed": {
         "t1": "ERROR_INVALID_LANGUAGE"
+    },
+    "comment-ui-editing": {
+        "t286": "COMMENT_EDITING_NOT_ALLOWED"
     }
 }

@@ -651,7 +651,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -680,6 +681,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "es_es": {
@@ -1333,7 +1337,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -1362,6 +1367,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "pl_pl": {
@@ -2001,7 +2009,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -2030,6 +2039,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "de_de": {
@@ -2667,7 +2679,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -2696,6 +2709,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "it_it": {
@@ -3333,7 +3349,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -3362,6 +3379,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "ru_ru": {
@@ -3999,7 +4019,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -4028,6 +4049,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "pt_br": {
@@ -4663,7 +4687,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -4692,6 +4717,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "ja_jp": {
@@ -5322,7 +5350,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -5351,6 +5380,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "tr_tr": {
@@ -5981,7 +6013,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -6010,6 +6043,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "zh_cn": {
@@ -6639,7 +6675,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -6668,6 +6705,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "ko_kr": {
@@ -7296,7 +7336,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -7325,6 +7366,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "zh_tw": {
@@ -7952,7 +7996,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -7981,6 +8026,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "he": {
@@ -8608,7 +8656,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -8637,6 +8686,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "hr_hr": {
@@ -9264,7 +9316,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -9293,6 +9346,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "da_dk": {
@@ -9920,7 +9976,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -9949,6 +10006,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "ru_ua": {
@@ -10576,7 +10636,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -10605,6 +10666,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "uk_ua": {
@@ -11232,7 +11296,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -11261,6 +11326,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "bg_bg": {
@@ -11695,7 +11763,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "comment-ui-error-invalid-email": {
                 "ERROR_INVALID_EMAIL": "That email is invalid, please review and try again."
@@ -11917,6 +11986,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "el_cy": {
@@ -12351,7 +12423,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "comment-ui-error-invalid-email": {
                 "ERROR_INVALID_EMAIL": "That email is invalid, please review and try again."
@@ -12573,6 +12646,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "el_gr": {
@@ -13007,7 +13083,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "comment-ui-error-invalid-email": {
                 "ERROR_INVALID_EMAIL": "That email is invalid, please review and try again."
@@ -13229,6 +13306,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "sr_ba": {
@@ -13663,7 +13743,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "comment-ui-error-invalid-email": {
                 "ERROR_INVALID_EMAIL": "That email is invalid, please review and try again."
@@ -13885,6 +13966,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "sr_me": {
@@ -14319,7 +14403,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "comment-ui-error-invalid-email": {
                 "ERROR_INVALID_EMAIL": "That email is invalid, please review and try again."
@@ -14541,6 +14626,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "sr_rs": {
@@ -14975,7 +15063,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "comment-ui-error-invalid-email": {
                 "ERROR_INVALID_EMAIL": "That email is invalid, please review and try again."
@@ -15197,6 +15286,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "sl_sl": {
@@ -15631,7 +15723,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "comment-ui-error-invalid-email": {
                 "ERROR_INVALID_EMAIL": "That email is invalid, please review and try again."
@@ -15853,6 +15946,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         },
         "sr_latn_rs": {
@@ -16287,7 +16383,8 @@
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
                 "COMMENT_DELETED_CONTENT": "[deleted]",
-                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed."
+                "COMMENT_DELETING_NOT_ALLOWED_HAS_REPLIES": "Deleting comments with replies is not allowed.",
+                "COMMENT_DELETING_NOT_ALLOWED": "Deleting comments is not allowed."
             },
             "comment-ui-error-invalid-email": {
                 "ERROR_INVALID_EMAIL": "That email is invalid, please review and try again."
@@ -16507,6 +16604,9 @@
             },
             "comment-ui-error-language-not-allowed": {
                 "ERROR_INVALID_LANGUAGE": "It looks like your comment is in a language that this site does not allow."
+            },
+            "comment-ui-editing": {
+                "COMMENT_EDITING_NOT_ALLOWED": "Editing comments is not allowed."
             }
         }
     }
