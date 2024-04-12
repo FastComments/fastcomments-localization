@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 286,
+        "comment-ui": 288,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -441,7 +441,9 @@
         "t261": "LOGIN_TO_REMOVE_BADGE",
         "t262": "REMOVE_BADGE_FAILURE",
         "t263": "REMOVE_BADGE_SAVING",
-        "t264": "REMOVE_BADGE_CONFIRM"
+        "t264": "REMOVE_BADGE_CONFIRM",
+        "t287": "LOCK_COMMENT",
+        "t288": "UNLOCK_COMMENT"
     },
     "comment-user-mention": {
         "t1": "SUBJECT",
