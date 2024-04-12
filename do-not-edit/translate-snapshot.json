@@ -226,7 +226,9 @@
                 "RATE_LIMITED": "This FastComments.com account has exceeded its limits. Please contact the site administrator.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -912,7 +914,9 @@
                 "RATE_LIMITED": "This FastComments.com account has exceeded its limits. Please contact the site administrator.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -1627,7 +1631,9 @@
                 "RATE_LIMITED": "This FastComments.com account has exceeded its limits. Please contact the site administrator.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -2357,7 +2363,9 @@
                 "RATE_LIMITED": "This FastComments.com account has exceeded its limits. Please contact the site administrator.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -3035,7 +3043,9 @@
                 "RATE_LIMITED": "This FastComments.com account has exceeded its limits. Please contact the site administrator.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -3708,7 +3718,9 @@
                 "RATE_LIMITED": "This FastComments.com account has exceeded its limits. Please contact the site administrator.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -4399,7 +4411,9 @@
                 "RATE_LIMITED": "This FastComments.com account has exceeded its limits. Please contact the site administrator.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -5062,7 +5076,9 @@
                 "RATE_LIMITED": "This FastComments.com account has exceeded its limits. Please contact the site administrator.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-moderation": {
                 "MODERATION_OPTION_BAN_VIA_EMAIL": "Ban Via Email / Account",
@@ -5734,7 +5750,9 @@
                 "RATE_LIMITED": "This FastComments.com account has exceeded its limits. Please contact the site administrator.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-moderation": {
                 "MODERATION_OPTION_BAN_VIA_EMAIL": "Ban Via Email / Account",
@@ -6397,7 +6415,9 @@
                 "RATE_LIMITED": "This FastComments.com account has exceeded its limits. Please contact the site administrator.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -7071,7 +7091,9 @@
                 "RATE_LIMITED": "This FastComments.com account has exceeded its limits. Please contact the site administrator.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -7780,7 +7802,9 @@
                 "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -8440,7 +8464,9 @@
                 "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -9100,7 +9126,9 @@
                 "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -9760,7 +9788,9 @@
                 "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -10420,7 +10450,9 @@
                 "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -11080,7 +11112,9 @@
                 "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -11740,7 +11774,9 @@
                 "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -12400,7 +12436,9 @@
                 "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -13060,7 +13098,9 @@
                 "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -13720,7 +13760,9 @@
                 "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -14380,7 +14422,9 @@
                 "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -15040,7 +15084,9 @@
                 "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -15700,7 +15746,9 @@
                 "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -16360,7 +16408,9 @@
                 "COMMENT_TOO_BIG": "Oh no! Your comment is beyond the limit of [count] characters.",
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "DELETED_COMMENT_PLACEHOLDER": "[deleted]",
-                "DELETED_USER_PLACEHOLDER": "Deleted User"
+                "DELETED_USER_PLACEHOLDER": "Deleted User",
+                "COMMENT_MENU_LOCK": "Lock",
+                "COMMENT_MENU_UNLOCK": "Unlock"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
