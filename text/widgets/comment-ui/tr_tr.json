@@ -101,8 +101,6 @@
     "ENTER_A_LINK": "Blog bağlantınız.",
     "VOTE_APPLIES_AFTER_VERIFICATION": "Oyunuz, e-postanızdaki doğrulama bağlantısını tıkladıktan sonra uygulanacaktır.",
     "THIS_COMMENT_PINNED": "Bu yorum sabitlendi.",
-    "COMMENT_MENU_PIN": "Toplu iğne",
-    "COMMENT_MENU_UNPIN": "Sabitlemeyi kaldır",
     "COMMENTING_TOO_QUICKLY": "Çok hızlı yorum yapıyorsun. Lütfen bir dakika bekleyin ve tekrar deneyin.",
     "INVALID_TENANT": "FastComments yüklenemedi - geçersiz yapılandırma belirtildi. Belirtilen 'kiracı kimliği'nin doğru olup olmadığını kontrol edin.",
     "LIVE": "Canlı olarak",
@@ -132,7 +130,5 @@
     "RATE_LIMITED": "Bu FastComments.com hesabı sınırlarını aştı. Lütfen site yöneticisiyle iletişime geçin.",
     "THREAD_CLOSED": "Bu yorum dizisi yeni yorumlar için kapatılmıştır.",
     "DELETED_COMMENT_PLACEHOLDER": "[silindi]",
-    "DELETED_USER_PLACEHOLDER": "Silinmiş kullanıcı",
-    "COMMENT_MENU_LOCK": "Kilit",
-    "COMMENT_MENU_UNLOCK": "Kilidini aç"
+    "DELETED_USER_PLACEHOLDER": "Silinmiş kullanıcı"
 }

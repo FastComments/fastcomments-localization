@@ -103,8 +103,6 @@
     "ENTER_A_LINK": "Σύνδεσμος του ιστολογίου σας.",
     "VOTE_APPLIES_AFTER_VERIFICATION": "Η ψήφος σας θα εφαρμοστεί αφού κάνετε κλικ στον σύνδεσμο επαλήθευσης στο email σας.",
     "THIS_COMMENT_PINNED": "Αυτό το σχόλιο είναι καρφιτσωμένο.",
-    "COMMENT_MENU_PIN": "Καρφίτσα",
-    "COMMENT_MENU_UNPIN": "Ξεκαρφιτσώνω",
     "COMMENTING_TOO_QUICKLY": "Σχολιάζετε πολύ γρήγορα. Περιμένετε ένα λεπτό και προσπαθήστε ξανά.",
     "RATE_LIMITED": "Αυτός ο λογαριασμός FastComments.com έχει υπερβεί τα όριά του. Επικοινωνήστε με τον διαχειριστή του ιστότοπου.",
     "INVALID_TENANT": "Δεν ήταν δυνατή η φόρτωση των FastComments - καθορίστηκε μη έγκυρη διαμόρφωση. Βεβαιωθείτε ότι το \"tenantId\" που καθορίστηκε είναι σωστό.",
@@ -132,7 +130,5 @@
     "COMMENT_TOO_BIG": "Ωχ όχι! Το σχόλιό σας ξεπερνά το όριο των [count] χαρακτήρων.",
     "THREAD_CLOSED": "Αυτό το νήμα σχολίων έχει κλείσει για νέα σχόλια.",
     "DELETED_COMMENT_PLACEHOLDER": "[διαγράφηκε]",
-    "DELETED_USER_PLACEHOLDER": "Διαγραμμένος χρήστης",
-    "COMMENT_MENU_LOCK": "Κλειδαριά",
-    "COMMENT_MENU_UNLOCK": "Ξεκλείδωμα"
+    "DELETED_USER_PLACEHOLDER": "Διαγραμμένος χρήστης"
 }

@@ -103,8 +103,6 @@
     "ENTER_A_LINK": "Връзка към вашия блог.",
     "VOTE_APPLIES_AFTER_VERIFICATION": "Вашият глас ще бъде приложен, след като щракнете върху връзката за потвърждение в имейла си.",
     "THIS_COMMENT_PINNED": "Този коментар е фиксиран.",
-    "COMMENT_MENU_PIN": "ПИН",
-    "COMMENT_MENU_UNPIN": "Откачване",
     "COMMENTING_TOO_QUICKLY": "Твърде бързо коментирате. Моля, изчакайте малко и опитайте отново.",
     "RATE_LIMITED": "Този акаунт в FastComments.com е надхвърлил ограниченията си. Моля, свържете се с администратора на сайта.",
     "INVALID_TENANT": "FastComments не можа да се зареди - посочена е невалидна конфигурация. Проверете дали посоченият „tenantId“ е правилен.",
@@ -132,7 +130,5 @@
     "COMMENT_TOO_BIG": "О, не! Вашият коментар надхвърля ограничението от [count] знака.",
     "THREAD_CLOSED": "Тази нишка за коментари е затворена за нови коментари.",
     "DELETED_COMMENT_PLACEHOLDER": "[изтрито]",
-    "DELETED_USER_PLACEHOLDER": "Изтрит потребител",
-    "COMMENT_MENU_LOCK": "Ключалка",
-    "COMMENT_MENU_UNLOCK": "Отключи"
+    "DELETED_USER_PLACEHOLDER": "Изтрит потребител"
 }

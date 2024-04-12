@@ -103,8 +103,6 @@
     "ENTER_A_LINK": "귀하의 블로그 링크입니다.",
     "VOTE_APPLIES_AFTER_VERIFICATION": "이메일에 있는 확인 링크를 클릭하면 투표가 적용됩니다.",
     "THIS_COMMENT_PINNED": "이 댓글이 고정되었습니다.",
-    "COMMENT_MENU_PIN": "고정",
-    "COMMENT_MENU_UNPIN": "고정 해제",
     "COMMENTING_TOO_QUICKLY": "너무 빠르게 댓글이 입력되었습니다. 잠시 후 다시 시도해 주세요.",
     "INVALID_TENANT": "FastComments를 로드할 수 없습니다. 잘못된 구성이 지정되었습니다. 지정된 'tenantId'가 올바른지 확인하십시오.",
     "LIVE": "작동 중",
@@ -132,7 +130,5 @@
     "RATE_LIMITED": "이 FastComments.com 계정은 한도를 초과했습니다. 사이트 관리자에게 문의하세요.",
     "THREAD_CLOSED": "이 댓글 스레드는 새 댓글로 인해 폐쇄되었습니다.",
     "DELETED_COMMENT_PLACEHOLDER": "[삭제됨]",
-    "DELETED_USER_PLACEHOLDER": "삭제 된 사용자",
-    "COMMENT_MENU_LOCK": "잠그다",
-    "COMMENT_MENU_UNLOCK": "터놓다"
+    "DELETED_USER_PLACEHOLDER": "삭제 된 사용자"
 }

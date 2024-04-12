@@ -103,8 +103,6 @@
     "ENTER_A_LINK": "Dit bloglink.",
     "VOTE_APPLIES_AFTER_VERIFICATION": "Din stemme vil blive anvendt, når du har klikket på bekræftelseslinket i din e-mail.",
     "THIS_COMMENT_PINNED": "Denne kommentar er fastgjort.",
-    "COMMENT_MENU_PIN": "Pin",
-    "COMMENT_MENU_UNPIN": "Frigør",
     "COMMENTING_TOO_QUICKLY": "Du kommenterer for hurtigt. Vent et øjeblik, og prøv igen.",
     "RATE_LIMITED": "Denne FastComments.com-konto har overskredet sine grænser. Kontakt venligst webstedets administrator.",
     "INVALID_TENANT": "FastComments kunne ikke indlæses - ugyldig konfiguration angivet. Tjek, at det angivne 'tenantId' er korrekt.",
@@ -132,7 +130,5 @@
     "COMMENT_TOO_BIG": "Åh nej! Din kommentar er over grænsen på [count] tegn.",
     "THREAD_CLOSED": "Denne kommentartråd er blevet lukket for nye kommentarer.",
     "DELETED_COMMENT_PLACEHOLDER": "[slettet]",
-    "DELETED_USER_PLACEHOLDER": "Slettet bruger",
-    "COMMENT_MENU_LOCK": "Låse",
-    "COMMENT_MENU_UNLOCK": "Lås op"
+    "DELETED_USER_PLACEHOLDER": "Slettet bruger"
 }

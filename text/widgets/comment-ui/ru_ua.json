@@ -103,8 +103,6 @@
     "ENTER_A_LINK": "Ссылка на ваш блог.",
     "VOTE_APPLIES_AFTER_VERIFICATION": "Ваш голос будет применен после того, как вы нажмете на ссылку подтверждения в своем электронном письме.",
     "THIS_COMMENT_PINNED": "Этот комментарий закреплен.",
-    "COMMENT_MENU_PIN": "Приколоть",
-    "COMMENT_MENU_UNPIN": "Открепить",
     "COMMENTING_TOO_QUICKLY": "Вы слишком быстро комментируете. Подождите минуту и повторите попытку.",
     "RATE_LIMITED": "Эта учетная запись FastComments.com превысила свои ограничения. Пожалуйста свяжитесь с администратором сайта.",
     "INVALID_TENANT": "Не удалось загрузить FastComments - указана неверная конфигурация. Убедитесь, что указанный tenantId верен.",
@@ -132,7 +130,5 @@
     "COMMENT_TOO_BIG": "О, нет! Ваш комментарий превышает лимит [count] символов.",
     "THREAD_CLOSED": "Эта ветка комментариев закрыта для новых комментариев.",
     "DELETED_COMMENT_PLACEHOLDER": "[удалено]",
-    "DELETED_USER_PLACEHOLDER": "Удаленный пользователь",
-    "COMMENT_MENU_LOCK": "Замок",
-    "COMMENT_MENU_UNLOCK": "Разблокировать"
+    "DELETED_USER_PLACEHOLDER": "Удаленный пользователь"
 }

@@ -103,8 +103,6 @@
     "ENTER_A_LINK": "你的博客鏈接。",
     "VOTE_APPLIES_AFTER_VERIFICATION": "單擊電子郵件中的驗證鏈接後，您的投票將被應用。",
     "THIS_COMMENT_PINNED": "此評論已置頂。",
-    "COMMENT_MENU_PIN": "別針",
-    "COMMENT_MENU_UNPIN": "取消固定",
     "COMMENTING_TOO_QUICKLY": "你評論太快了。請稍候，然後重試。",
     "RATE_LIMITED": "此 FastComments.com 帳戶已超出其限制。請聯繫網站管理員。",
     "INVALID_TENANT": "FastComments 無法加載 - 指定的配置無效。檢查指定的“tenantId”是否正確。",
@@ -132,7 +130,5 @@
     "COMMENT_TOO_BIG": "不好了！您的評論超出了 [count] 個字符的限制。",
     "THREAD_CLOSED": "此評論線程已關閉以接收新評論。",
     "DELETED_COMMENT_PLACEHOLDER": "[已刪除]",
-    "DELETED_USER_PLACEHOLDER": "已刪除的用戶",
-    "COMMENT_MENU_LOCK": "鎖",
-    "COMMENT_MENU_UNLOCK": "開鎖"
+    "DELETED_USER_PLACEHOLDER": "已刪除的用戶"
 }

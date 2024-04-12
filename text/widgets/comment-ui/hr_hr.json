@@ -103,8 +103,6 @@
     "ENTER_A_LINK": "Link na vaš blog.",
     "VOTE_APPLIES_AFTER_VERIFICATION": "Vaš će glas biti primijenjen nakon što kliknete vezu za potvrdu u svojoj e-pošti.",
     "THIS_COMMENT_PINNED": "Ovaj komentar je prikvačen.",
-    "COMMENT_MENU_PIN": "Pin",
-    "COMMENT_MENU_UNPIN": "Otkvači",
     "COMMENTING_TOO_QUICKLY": "Prebrzo komentirate. Molimo pričekajte minutu i pokušajte ponovno.",
     "RATE_LIMITED": "Ovaj račun FastComments.com premašio je svoja ograničenja. Molimo kontaktirajte administratora stranice.",
     "INVALID_TENANT": "FastComments se nije mogao učitati - navedena je nevažeća konfiguracija. Provjerite je li navedeni 'tenantId' točan.",
@@ -132,7 +130,5 @@
     "COMMENT_TOO_BIG": "O ne! Vaš komentar premašuje ograničenje od [count] znakova.",
     "THREAD_CLOSED": "Ova nit komentara je zatvorena za nove komentare.",
     "DELETED_COMMENT_PLACEHOLDER": "[izbrisano]",
-    "DELETED_USER_PLACEHOLDER": "Izbrisani korisnik",
-    "COMMENT_MENU_LOCK": "brava",
-    "COMMENT_MENU_UNLOCK": "Otključati"
+    "DELETED_USER_PLACEHOLDER": "Izbrisani korisnik"
 }

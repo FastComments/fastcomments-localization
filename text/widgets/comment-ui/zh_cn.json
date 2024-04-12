@@ -101,8 +101,6 @@
     "ENTER_A_LINK": "你的博客链接。",
     "VOTE_APPLIES_AFTER_VERIFICATION": "单击电子邮件中的验证链接后，您的投票将生效。",
     "THIS_COMMENT_PINNED": "此评论已置顶。",
-    "COMMENT_MENU_PIN": "别针",
-    "COMMENT_MENU_UNPIN": "取消固定",
     "COMMENTING_TOO_QUICKLY": "你评论得太快了。请稍等，然后重试。",
     "INVALID_TENANT": "FastComments 无法加载 - 指定的配置无效。检查指定的“tenantId”是否正确。",
     "LIVE": "居住",
@@ -132,7 +130,5 @@
     "RATE_LIMITED": "此 FastComments.com 帐户已超出其限制。请联系网站管理员。",
     "THREAD_CLOSED": "此评论线程已关闭以接收新评论。",
     "DELETED_COMMENT_PLACEHOLDER": "[已删除]",
-    "DELETED_USER_PLACEHOLDER": "已被删除的用户",
-    "COMMENT_MENU_LOCK": "锁",
-    "COMMENT_MENU_UNLOCK": "开锁"
+    "DELETED_USER_PLACEHOLDER": "已被删除的用户"
 }

@@ -101,8 +101,6 @@
     "ENTER_A_LINK": "あなたのブログリンク。",
     "VOTE_APPLIES_AFTER_VERIFICATION": "メール内の確認リンクをクリックすると、投票が適用されます。",
     "THIS_COMMENT_PINNED": "このコメントは固定されています。",
-    "COMMENT_MENU_PIN": "ピン",
-    "COMMENT_MENU_UNPIN": "固定を解除する",
     "COMMENTING_TOO_QUICKLY": "コメントが速すぎます。しばらく待ってから、もう一度お試しください。",
     "INVALID_TENANT": "FastCommentsをロードできませんでした-無効な構成が指定されました。指定された「tenantId」が正しいことを確認してください。",
     "LIVE": "住む",
@@ -132,7 +130,5 @@
     "RATE_LIMITED": "このFastComments.comアカウントは制限を超えています。サイト管理者に連絡してください。",
     "THREAD_CLOSED": "このコメント スレッドは、新しいコメントのために閉じられました。",
     "DELETED_COMMENT_PLACEHOLDER": "[削除]",
-    "DELETED_USER_PLACEHOLDER": "削除されたユーザー",
-    "COMMENT_MENU_LOCK": "ロック",
-    "COMMENT_MENU_UNLOCK": "ロック解除"
+    "DELETED_USER_PLACEHOLDER": "削除されたユーザー"
 }
