@@ -1,0 +1,7 @@
+{
+    "SUBJECT": "Nieuwe profielreactie van <%= comment.commenterName %>",
+    "INTRO": "Hoi <%= targetUser.username %>,",
+    "YOU_HAVE_A_NEW_PROFILE_COMMENT": "U heeft een nieuwe reactie op uw profiel ontvangen, zoals hieronder weergegeven. U kunt uw profielopmerkingen bekijken door op de onderstaande knop te klikken.",
+    "GO_TO_PROFILE": "Ga naar Profiel",
+    "UNSUBSCRIBE_HERE": "Meld u hier af voor meldingen."
+}

@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments Help-bot",
+    "SUBJECT": "Hulpverzoek erkend door ondersteunend personeel",
+    "HEY": "Hoi <%= commenterUsername %>,",
+    "ACKNOWLEDGED_BY_ADMIN": "Het lijkt erop dat de ondersteuningsagent met de gebruikersnaam '<%= adminUsername %>' uw verzoek heeft bevestigd. Zij zouden binnenkort contact met u moeten opnemen.",
+    "THANKS_FOR_USING_FC": "Bedankt voor het gebruik van FastComments!",
+    "DONT_REPLY_TO_THIS": "Deze e-mail komt uit een e-mailbox die alleen voor uitgaand verkeer bestemd is. Beantwoord deze niet. We nemen apart contact met u op."
+}

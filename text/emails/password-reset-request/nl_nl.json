@@ -1,0 +1,7 @@
+{
+    "FROM_NAME": "FastComments-robot",
+    "SUBJECT": "Verzoek om wachtwoord opnieuw instellen",
+    "INTRO": "Hallo <%= username %>,",
+    "CAN_RESET_HERE": "Hier kunt u uw wachtwoord opnieuw instellen.",
+    "INFO": "U heeft een link aangevraagd om uw wachtwoord opnieuw in te stellen."
+}

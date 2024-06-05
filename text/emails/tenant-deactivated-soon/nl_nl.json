@@ -1,0 +1,7 @@
+{
+    "INTRO": "Hoi <%= username %>,",
+    "FROM_NAME": "FastComments-robot",
+    "SUBJECT": "Uw FastComments-huurder wordt binnenkort gedeactiveerd!",
+    "DETAILS_LINE_ONE": "Dit is een geautomatiseerde e-mail. Wij zien dat u al enige tijd openstaande facturen heeft en u niet kunt bereiken.",
+    "DETAILS_LINE_TWO": "Uw account wordt gedeactiveerd op <%= readableDeactivationDate %>. <a href=\"<%= billingPageURL %>\">Hier kunt u uw factuurgegevens bijwerken.</a>"
+}

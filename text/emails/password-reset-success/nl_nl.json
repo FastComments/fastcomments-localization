@@ -1,0 +1,6 @@
+{
+    "FROM_NAME": "FastComments-robot",
+    "SUBJECT": "Wachtwoord bijgewerkt",
+    "INTRO": "Hallo <%= username %>,",
+    "INFO": "Uw wachtwoord is geüpdatet."
+}

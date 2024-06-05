@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "Welkom bij FastComments <%= commenterName %>!",
+    "BANNER_TEXT": "Welkom bij FastComments",
+    "INTRO": "Hoi <%= commenterName %>,",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Het lijkt erop dat je <a href=\"<%= url %>\">hier</a> op een bericht hebt gestemd.",
+    "VERIFY_YOUR_ACCOUNT": "Verifieer uw account",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "U kunt <a href=\"<%= FC_DOMAIN %>/auth/login/\">hier</a> nieuwe links aanmaken om in te loggen op uw account.",
+    "WASNT_YOU_IGNORE_EMAIL": "Als u dit niet was, negeer dan deze e-mail.",
+    "THANKS_SO_MUCH": "Hartelijk bedankt!",
+    "UNSUBSCRIBE_HERE": "Uitschrijven"
+}

@@ -1,0 +1,14 @@
+{
+    "INTRO": "Hoi <%= username %>,",
+    "NEW_USER_BANNER_TEXT": "Welkom bij FastComments",
+    "BANNER_TEXT": "FastComments-inloglink",
+    "FROM_NAME": "FastComments-robot",
+    "NEW_USER_SUBJECT": "Welkom bij FastComments <%= username %>! Verifieer en log hier in op uw account",
+    "SUBJECT": "Hier is uw inloglink <%= username %>",
+    "NEW_USER_THANKS_FOR_SIGNING_UP": "Bedankt voor uw aanmelding bij FastComments.",
+    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "<b>Verifieer uw account</b> door op <a href=\"<%= userVerifyUrl %>\">deze link</a> te klikken. Hiermee logt u ook in.",
+    "CAN_CREATE_NEW_LINKS_HERE": "U kunt <a href=\"<%= HOST %>/auth/login/\">hier</a> nieuwe links aanmaken om in te loggen op uw account.",
+    "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">Klik hier</a> om in te loggen op FastComments.",
+    "THAT_FULL_LINK_IS": "Die volledige link is: <%= userVerifyUrl %>",
+    "UNSUBSCRIBE_HERE": "Uitschrijven"
+}

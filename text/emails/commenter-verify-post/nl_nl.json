@@ -1,0 +1,22 @@
+{
+    "FROM_NAME": "FastComments-robot",
+    "SUBJECT": "<%= comment.commenterName %> - Controleer uw reactie.",
+    "BANNER_TEXT": "Controleer uw opmerking",
+    "INTRO": "Hoi <%= comment.commenterName %>,",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Dit is een geautomatiseerde e-mail. Het lijkt erop dat je <a href=\"<%= comment.url %>\">hier</a> op een bericht hebt gereageerd. Als u op de onderstaande verificatielink klikt, weten we dat u deze reactie heeft achtergelaten.",
+    "VERIFY_YOUR_COMMENT_LINK": "Controleer uw opmerking",
+    "WASNT_YOU_OR_REGRET": "Als jij dit niet was of als je spijt hebt van wat je hebt gezegd, kun je deze e-mail negeren. De reactie wordt dan binnen <%= removedInDays %> dagen verwijderd.",
+    "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">Verwijder deze reactie</a>",
+    "THANKS_SO_MUCH": "Hartelijk bedankt!",
+    "JUST_NOW": "net nu",
+    "ONE_MINUTE_AGO": "1 minuut geleden",
+    "MINUTES_AGO": "  minuten geleden",
+    "ONE_HOUR_AGO": "1 uur geleden",
+    "HOURS_AGO": "  uren geleden",
+    "YESTERDAY": "Gisteren",
+    "DAYS_AGO": "  dagen geleden",
+    "WEEKS_AGO": "  weken geleden",
+    "MONTHS_AGO": "  maanden geleden",
+    "YEARS_AGO": "  jaren geleden",
+    "UNSUBSCRIBE_HERE": "Uitschrijven"
+}

@@ -1,0 +1,13 @@
+{
+    "SUBJECT": "Site toegevoegd aan uw FastComments-account",
+    "INTRO": "Hallo <%= user.username %>",
+    "DOMAIN_ADDED_PARAGRAPH": "Er is een nieuw domein gebruikt met uw FastComments.com-account. Omdat u zich in de proefperiode bevindt, hebben wij deze site voor uw gemak automatisch voor u toegevoegd. Dit is een geautomatiseerde e-mail.",
+    "SITE_ADDED_WAS": "De nieuwe site die we hebben gedetecteerd was: <b><%= domainAdded %></b>",
+    "TECHNICAL_DETAILS": "FastComments verifieert verzoeken aan uw account per domein. Soms kunnen geautomatiseerde systemen, bots of vertaaltools ervoor zorgen dat dit gebeurt, en het toevoegen van dit domein aan uw account is mogelijk niet wenselijk.",
+    "FLEX_BILLING_NOTE": "<b>Opmerking:</b> aangezien uw account gebruikmaakt van flexibele prijzen, worden voor toegevoegde domeinen kosten in rekening gebracht, waarbij de eerste gratis is. Bekijk <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">hier</a> het bedrag voor eventuele toekomstige facturen.",
+    "BILLING_NOTE": "<b>Opmerking:</b> aangezien uw account geen gebruik maakt van flexibele prijzen, kunt u slechts een beperkt aantal domeinen in uw account hebben. Bekijk <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">hier</a> het verbruik van uw abonnement.",
+    "YOU_CAN_REMOVE_THIS_DOMAIN": "Indien gewenst kunt u dit domein verwijderen en deze functie uitschakelen.",
+    "BUTTON_TEXT_REMOVE_DOMAIN": "Verwijder dit domein.",
+    "BUTTON_TEXT_DISABLE_FEATURE": "Schakel deze functie uit.",
+    "OUTRO": "Als deze site bij uw account hoort, is er geen verdere actie nodig. Bedankt voor het gebruik van FastComments!"
+}

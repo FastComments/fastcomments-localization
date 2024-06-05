@@ -1,0 +1,7 @@
+{
+    "SUBJECT": "Nieuw bericht van <%= comment.commenterName %>",
+    "INTRO": "Hoi <%= targetUser.username %>,",
+    "YOU_HAVE_A_NEW_MESSAGE": "U heeft een nieuw bericht ontvangen, zoals hieronder weergegeven. U kunt reageren door deze e-mail te beantwoorden of door op de onderstaande knop te klikken.",
+    "GO_TO_CONVERSATION": "Ga naar Gesprek",
+    "UNSUBSCRIBE_HERE": "Meld u hier af voor meldingen."
+}

@@ -1,0 +1,12 @@
+{
+    "SUBJECT": "Nieuwe reacties",
+    "FROM_NAME": "FastComments-abonnementen",
+    "INTRO": "Hoi <%= username %>,",
+    "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "Er zijn nieuwe reacties op pagina's waarop u bent geabonneerd.",
+    "HERE_ARE_LINKS_TO_PAGES": "Hier is een lijst met pagina's met de nieuwe reacties. Hieronder staan ook links waarmee u zich desgewenst van een pagina kunt afmelden.",
+    "CAN_VIEW_ALL_IN_ACCOUNT": "U kunt al uw individuele ongelezen meldingen bekijken <a href=\"<%= FC_SITE %>/auth/my-account\">op de startpagina van uw account</a> .",
+    "PAGE": "Bladzijde",
+    "NEW_COMMENTS": "Opmerkingen",
+    "VIEW": "Weergave",
+    "UNSUBSCRIBE": "Uitschrijven"
+}

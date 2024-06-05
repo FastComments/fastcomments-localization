@@ -1,0 +1,11 @@
+{
+    "FROM_NAME": "FastComments-robot",
+    "INTRO": "Hoi <%= commenterName %>,",
+    "BANNER_TEXT": "Controleer uw stem",
+    "SUBJECT": "<%= commenterName %> - Controleer uw stem.",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Het lijkt erop dat je <a href=\"<%= url %>\">hier</a> op een bericht hebt gestemd. Als u op de onderstaande verificatielink klikt, weten we dat u het was die deze stemming heeft verlaten.",
+    "VERIFY_YOUR_VOTE_LINK": "Controleer uw stem",
+    "WAS_YOU_IGNORE_THIS_EMAIL": "Als u dit niet was, negeer dan deze e-mail.",
+    "THANKS_SO_MUCH": "Hartelijk bedankt!",
+    "UNSUBSCRIBE_HERE": "Uitschrijven"
+}
