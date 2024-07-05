@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 293,
+        "comment-ui": 296,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -709,5 +709,10 @@
     },
     "comment-ui-error-locked": {
         "t289": "COMMENT_LOCKED_FOR_NEW_REPLIES"
+    },
+    "comment-ui-vote-list": {
+        "t294": "GETTING_VOTE_LIST",
+        "t295": "NO_USERS_VOTED",
+        "t296": "FAILED_GET_VOTE_LIST"
     }
 }
