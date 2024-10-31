@@ -1,0 +1,10 @@
+{
+    "INTRO": "Hallo <%= displayName %>",
+    "NEW_REFERRAL": "Sie haben eine neue Empfehlung!",
+    "NEW_REFERRAL_DETAILS": "Sie haben <%= tenantName %> empfohlen. Basierend auf ihrer aktuellen Konfiguration verdienen Sie jeden Monat <%= displayCommission %>.",
+    "BANNER_TEXT": "Neue FastComments-Empfehlung",
+    "FROM_NAME": "FastComments Empfehlungsroboter",
+    "SUBJECT": "Neue FastComments-Empfehlung",
+    "THANKS_FOR_CHOOSING_FC": "Vielen Dank, dass Sie sich für FastComments.com entschieden haben.",
+    "UNSUBSCRIBE_FROM_THESE_ALERTS": "Melden Sie sich von diesen Benachrichtigungen ab."
+}

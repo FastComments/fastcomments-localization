@@ -37,7 +37,8 @@
         "password-reset-success": 4,
         "subscribed-page-notifications": 10,
         "comment-ui-error-unauthorized-link-domain": 1,
-        "comment-ui-error-language-not-allowed": 1
+        "comment-ui-error-language-not-allowed": 1,
+        "tenant-new-referral": 8
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -721,5 +722,15 @@
         "t299": "GETTING_REACT_LIST",
         "t300": "NO_USERS_REACTED",
         "t301": "FAILED_GET_REACT_LIST"
+    },
+    "tenant-new-referral": {
+        "t1": "INTRO",
+        "t2": "NEW_REFERRAL",
+        "t3": "NEW_REFERRAL_DETAILS",
+        "t4": "BANNER_TEXT",
+        "t5": "FROM_NAME",
+        "t6": "SUBJECT",
+        "t7": "THANKS_FOR_CHOOSING_FC",
+        "t8": "UNSUBSCRIBE_FROM_THESE_ALERTS"
     }
 }
