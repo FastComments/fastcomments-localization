@@ -1,7 +1,7 @@
 {
     "INTRO": "здраво <%= displayName %>",
     "NEW_REFERRAL": "Имате нову препоруку!",
-    "NEW_REFERRAL_DETAILS": "Препоручили сте <%= tenantName %>. На основу њихове тренутне конфигурације, зарађиваћете <%= displayCommission %> сваког месеца.",
+    "NEW_REFERRAL_DETAILS": "Препоручили сте <%= referredTenantName %>. На основу њихове тренутне конфигурације, зарађиваћете <%= displayCommission %> сваког месеца.",
     "BANNER_TEXT": "Нова препорука за ФастЦомментс",
     "FROM_NAME": "ФастЦомментс Реферал Робот",
     "SUBJECT": "Нова препорука за ФастЦомментс",

@@ -1,7 +1,7 @@
 {
     "INTRO": "Bok <%= displayName %>",
     "NEW_REFERRAL": "Imate novu preporuku!",
-    "NEW_REFERRAL_DETAILS": "Preporučili ste <%= tenantName %>. Na temelju njihove trenutne konfiguracije, zaradit ćete <%= displayCommission %> svaki mjesec.",
+    "NEW_REFERRAL_DETAILS": "Preporučili ste <%= referredTenantName %>. Na temelju njihove trenutne konfiguracije, zaradit ćete <%= displayCommission %> svaki mjesec.",
     "BANNER_TEXT": "Nova FastComments preporuka",
     "FROM_NAME": "Robot za preporuke FastComments",
     "SUBJECT": "Nova FastComments preporuka",

@@ -1,7 +1,7 @@
 {
     "INTRO": "你好 <%= displayName %>",
     "NEW_REFERRAL": "您有新推薦！",
-    "NEW_REFERRAL_DETAILS": "您提到了<%= tenantName %>。根據他們當前的配置，您將每月賺取<%= displayCommission %>。",
+    "NEW_REFERRAL_DETAILS": "您提到了<%= referredTenantName %>。根據他們當前的配置，您將每月賺取<%= displayCommission %>。",
     "BANNER_TEXT": "新的 FastComments 推薦",
     "FROM_NAME": "FastComments 推薦機器人",
     "SUBJECT": "新的 FastComments 推薦",

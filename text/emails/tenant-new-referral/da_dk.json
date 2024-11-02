@@ -1,7 +1,7 @@
 {
     "INTRO": "hej <%= displayName %>",
     "NEW_REFERRAL": "Du har en ny henvisning!",
-    "NEW_REFERRAL_DETAILS": "Du har henvist <%= tenantName %>. Baseret på deres nuværende konfiguration vil du tjene <%= displayCommission %> hver måned.",
+    "NEW_REFERRAL_DETAILS": "Du har henvist <%= referredTenantName %>. Baseret på deres nuværende konfiguration vil du tjene <%= displayCommission %> hver måned.",
     "BANNER_TEXT": "Ny FastComments-henvisning",
     "FROM_NAME": "FastComments-henvisningsrobot",
     "SUBJECT": "Ny FastComments-henvisning",

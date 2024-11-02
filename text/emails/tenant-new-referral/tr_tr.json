@@ -1,7 +1,7 @@
 {
     "INTRO": "Merhaba <%= displayName %>",
     "NEW_REFERRAL": "Yeni bir yönlendirmeniz var!",
-    "NEW_REFERRAL_DETAILS": "<%= tenantName %> yönlendirdiniz. Mevcut yapılandırmalarına göre her ay <%= displayCommission %> kazanacaksınız.",
+    "NEW_REFERRAL_DETAILS": "<%= referredTenantName %> yönlendirdiniz. Mevcut yapılandırmalarına göre her ay <%= displayCommission %> kazanacaksınız.",
     "BANNER_TEXT": "Yeni FastComments Yönlendirmesi",
     "FROM_NAME": "FastComments Yönlendirme Robotu",
     "SUBJECT": "Yeni FastComments Yönlendirmesi",

@@ -1,7 +1,7 @@
 {
     "INTRO": "Pozdravljeni <%= displayName %>",
     "NEW_REFERRAL": "Imate novo napotnico!",
-    "NEW_REFERRAL_DETAILS": "Omenili ste <%= tenantName %>. Glede na njihovo trenutno konfiguracijo boste vsak mesec zaslužili <%= displayCommission %>.",
+    "NEW_REFERRAL_DETAILS": "Omenili ste <%= referredTenantName %>. Glede na njihovo trenutno konfiguracijo boste vsak mesec zaslužili <%= displayCommission %>.",
     "BANNER_TEXT": "Nova priporočila FastComments",
     "FROM_NAME": "Napotitveni robot FastComments",
     "SUBJECT": "Nova priporočila FastComments",

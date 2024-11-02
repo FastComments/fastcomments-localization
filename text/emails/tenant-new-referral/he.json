@@ -1,7 +1,7 @@
 {
     "INTRO": "שלום <%= displayName %>",
     "NEW_REFERRAL": "יש לך הפניה חדשה!",
-    "NEW_REFERRAL_DETAILS": "הפנית את <%= tenantName %>. בהתבסס על התצורה הנוכחית שלהם, תרוויח <%= displayCommission %> בכל חודש.",
+    "NEW_REFERRAL_DETAILS": "הפנית את <%= referredTenantName %>. בהתבסס על התצורה הנוכחית שלהם, תרוויח <%= displayCommission %> בכל חודש.",
     "BANNER_TEXT": "הפניה חדשה של FastComments",
     "FROM_NAME": "רובוט הפניה של FastComments",
     "SUBJECT": "הפניה חדשה של FastComments",

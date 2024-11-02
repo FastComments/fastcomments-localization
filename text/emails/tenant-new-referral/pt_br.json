@@ -1,7 +1,7 @@
 {
     "INTRO": "Olá <%= displayName %>",
     "NEW_REFERRAL": "Você tem uma nova indicação!",
-    "NEW_REFERRAL_DETAILS": "Você indicou <%= tenantName %>. Com base na configuração atual deles, você ganhará <%= displayCommission %> a cada mês.",
+    "NEW_REFERRAL_DETAILS": "Você indicou <%= referredTenantName %>. Com base na configuração atual deles, você ganhará <%= displayCommission %> a cada mês.",
     "BANNER_TEXT": "Nova referência FastComments",
     "FROM_NAME": "Robô de referência FastComments",
     "SUBJECT": "Nova referência FastComments",
