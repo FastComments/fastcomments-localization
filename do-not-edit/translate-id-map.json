@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 301,
+        "comment-ui": 302,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -732,5 +732,8 @@
         "t6": "SUBJECT",
         "t7": "THANKS_FOR_CHOOSING_FC",
         "t8": "UNSUBSCRIBE_FROM_THESE_ALERTS"
+    },
+    "comment-ui-error-linked-comment-not-found": {
+        "t302": "LINKED_COMMENT_NOT_FOUND"
     }
 }
