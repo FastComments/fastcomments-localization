@@ -38,7 +38,8 @@
         "subscribed-page-notifications": 10,
         "comment-ui-error-unauthorized-link-domain": 1,
         "comment-ui-error-language-not-allowed": 1,
-        "tenant-new-referral": 8
+        "tenant-new-referral": 8,
+        "reviews-summary": 1
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -735,5 +736,8 @@
     },
     "comment-ui-error-linked-comment-not-found": {
         "t302": "LINKED_COMMENT_NOT_FOUND"
+    },
+    "reviews-summary": {
+        "t1": "AI_SUMMARY"
     }
 }
