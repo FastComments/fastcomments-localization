@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 302,
+        "comment-ui": 303,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -742,5 +742,8 @@
         "t2": "REVIEWS_COUNT",
         "t3": "REVIEWS_COUNT_SINGULAR",
         "t4": "REVIEWS_COUNT_PLURAL"
+    },
+    "comment-ui-questions": {
+        "t303": "ALREADY_LEFT_REVIEW"
     }
 }
