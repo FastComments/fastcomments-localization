@@ -3,6 +3,6 @@
     "FROM_NAME": "Robot FastComments",
     "SUBJECT": "Povabljeni ste bili, da se pridružite <%= tenantName %>!",
     "BANNER_TEXT": "Vabilo najemniku",
-    "INVITE_DETAILS": "Povabljeni ste bili, da se pridružite najemniku <%= tenantName %>. Če sprejmete to povabilo, boste svoj račun komentatorja povzdignili v skrbniški račun. Imeli boste naslednja dovoljenja:",
+    "INVITE_DETAILS": "Povabljeni ste bili, da se pridružite najemniku <%= tenantName %>. Če sprejmete to povabilo, boste svoj račun komentatorja povzdignili v skrbniški račun. <%= tenantName %> bo imel <b>POPOLNO LASTNIŠTVO</b> vašega računa, vključno z možnostjo, da ga izbriše. Imeli boste naslednja dovoljenja:",
     "ACCEPT_INVITE": "Sprejmi povabilo"
 }

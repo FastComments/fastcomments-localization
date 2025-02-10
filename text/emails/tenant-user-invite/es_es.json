@@ -1,6 +1,6 @@
 {
     "INTRO": "Oye <%= username %>,",
-    "INVITE_DETAILS": "Ha sido invitado a unirse al inquilino <%= tenantName %>. Aceptar esta invitación elevará su cuenta de comentarista a una cuenta de administrador. Tendrás los siguientes permisos:",
+    "INVITE_DETAILS": "Se le ha invitado a unirse al inquilino <%= tenantName %>. Si acepta esta invitación, su cuenta de comentarista se convertirá en una cuenta de administrador. <%= tenantName %> tendrá <b>la PROPIEDAD COMPLETA</b> de su cuenta, incluida la capacidad de eliminarla. Tendrá los siguientes permisos:",
     "ACCEPT_INVITE": "Aceptar Invitar",
     "BANNER_TEXT": "Invitación de inquilino",
     "FROM_NAME": "Robot FastComments",

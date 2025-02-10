@@ -3,6 +3,6 @@
     "FROM_NAME": "Robot za brze snommente",
     "SUBJECT": "Pozvani ste da se pridružite <%= tenantName %>!",
     "BANNER_TEXT": "Poziv stanaru",
-    "INVITE_DETAILS": "Pozvani ste da se pridružite stanaru <%= tenantName %>. Prihvatanje ovog poziva će podići vaš nalog komentatora na administratorski nalog. Imaćete sledeće dozvole:",
+    "INVITE_DETAILS": "Pozvani ste da se pridružite stanaru <%= tenantName %>. Prihvatanje ovog poziva će podići vaš nalog komentatora u administratorski nalog. <%= tenantName %> će imati <b>POTPUNO vlasništvo</b> nad vašim nalogom, uključujući mogućnost da ga izbrišete. Imaćete sledeće dozvole:",
     "ACCEPT_INVITE": "Prihvati poziv"
 }

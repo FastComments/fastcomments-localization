@@ -3,6 +3,6 @@
     "FROM_NAME": "FastComments Robot",
     "SUBJECT": "Du er blevet inviteret til at deltage <%= tenantName %>!",
     "BANNER_TEXT": "Invitation til lejer",
-    "INVITE_DETAILS": "Du er blevet inviteret til at deltage i lejeren <%= tenantName %>. Hvis du accepterer denne invitation, ophøjes din kommentatorkonto til en administratorkonto. Du har følgende tilladelser:",
+    "INVITE_DETAILS": "Du er blevet inviteret til at deltage i lejeren <%= tenantName %>. Hvis du accepterer denne invitation, ophøjes din kommentatorkonto til en administratorkonto. <%= tenantName %> vil have <b>FULDSTÆNDIG EJERSKAB</b> af din konto, herunder muligheden for at slette den. Du har følgende tilladelser:",
     "ACCEPT_INVITE": "Accepter invitation"
 }

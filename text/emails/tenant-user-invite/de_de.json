@@ -1,6 +1,6 @@
 {
     "INTRO": "Hallo <%= username %>,",
-    "INVITE_DETAILS": "Sie wurden eingeladen, sich dem Mieter anzuschließen <%= tenantName %>. Wenn Sie diese Einladung annehmen, wird Ihr Kommentarkonto zu einem Administratorkonto. Sie haben folgende Berechtigungen:",
+    "INVITE_DETAILS": "Sie wurden eingeladen, dem Mandanten <%= tenantName %> beizutreten. Wenn Sie diese Einladung annehmen, wird Ihr Kommentatorkonto in ein Administratorkonto umgewandelt. <%= tenantName %> hat <b>das VOLLSTÄNDIGE EIGENTUM</b> an Ihrem Konto, einschließlich der Möglichkeit, es zu löschen. Sie haben die folgenden Berechtigungen:",
     "ACCEPT_INVITE": "Akzeptiere Einladung",
     "BANNER_TEXT": "Mieter einladen",
     "FROM_NAME": "FastComments Roboter",

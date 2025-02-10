@@ -3,6 +3,6 @@
   "FROM_NAME": "FastComments Robot",
   "SUBJECT": "You've been invited to join <%= tenantName %>!",
   "BANNER_TEXT": "Tenant Invite",
-  "INVITE_DETAILS": "You've been invited to join the tenant <%= tenantName %>. Accepting this invite will elevate your commenter account into an administrator account. You'll have the following permissions:",
+  "INVITE_DETAILS": "You've been invited to join the tenant <%= tenantName %>. Accepting this invite will elevate your commenter account into an administrator account. <%= tenantName %> will have <b>COMPLETE OWNERSHIP</b> of your account including the ability to delete it. You'll have the following permissions:",
   "ACCEPT_INVITE": "Accept Invite"
 }

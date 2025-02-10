@@ -3,6 +3,6 @@
     "FROM_NAME": "快評機器人",
     "SUBJECT": "您已受邀加入 <%= tenantName %>！",
     "BANNER_TEXT": "租客邀請",
-    "INVITE_DETAILS": "您已受邀加入租戶 <%= tenantName %>。接受此邀請會將您的評論者帳戶提升為管理員帳戶。您將擁有以下權限：",
+    "INVITE_DETAILS": "您已被邀請加入租戶<%= tenantName %>。接受此邀請將會將您的評論者帳號提升為管理員帳號。 <%= tenantName %> 將<b>完全擁有您的帳戶，包括刪除帳戶的權利</b>。您將擁有以下權限：",
     "ACCEPT_INVITE": "接受邀請"
 }

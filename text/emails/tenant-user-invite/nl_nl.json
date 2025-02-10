@@ -3,6 +3,6 @@
     "FROM_NAME": "FastComments-robot",
     "SUBJECT": "Je bent uitgenodigd om deel te nemen aan <%= tenantName %>!",
     "BANNER_TEXT": "Huurder uitnodigen",
-    "INVITE_DETAILS": "U bent uitgenodigd om lid te worden van de tenant <%= tenantName %>. Als u deze uitnodiging accepteert, wordt uw commentatoraccount een beheerdersaccount. U beschikt over de volgende machtigingen:",
+    "INVITE_DETAILS": "U bent uitgenodigd om deel te nemen aan de huurder <%= tenantName %>. Als u deze uitnodiging accepteert, wordt uw commentatoraccount een beheerdersaccount. <%= tenantName %> heeft <b>VOLLEDIG EIGENDOM</b> van uw account, inclusief de mogelijkheid om het te verwijderen. U hebt de volgende machtigingen:",
     "ACCEPT_INVITE": "Uitnodiging accepteren"
 }

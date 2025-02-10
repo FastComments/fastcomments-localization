@@ -3,6 +3,6 @@
     "FROM_NAME": "快评机器人",
     "SUBJECT": "您已被邀请加入 <%= tenantName %>！",
     "BANNER_TEXT": "租户邀请",
-    "INVITE_DETAILS": "您已被邀请加入租户 <%= tenantName %>。接受此邀请会将您的评论者帐户提升为管理员帐户。您将拥有以下权限：",
+    "INVITE_DETAILS": "您已受邀加入租户 <%= tenantName %>。接受此邀请将使您的评论者帐户升级为管理员帐户。<%= tenantName %> 将<b>完全</b>拥有您的帐户，包括删除帐户的能力。您将拥有以下权限：",
     "ACCEPT_INVITE": "接受邀请"
 }
