@@ -19,5 +19,6 @@
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> прокоментував ваш профіль: [context]",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> надіслав вам повідомлення: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> згадав вас: [context]",
-    "SHARED_AN_IMAGE": "Поділився зображенням."
+    "SHARED_AN_IMAGE": "Поділився зображенням.",
+    "NOTIFICATION_TRIAL_LIMITS": "Ваш пробний період розпочато! Зауважте, що протягом випробувального періоду для вашого облікового запису діють інші обмеження. Перевірте <a href=\"[url]\" class=\"redirect\">платіжну аналітику</a> , щоб дізнатися більше."
 }

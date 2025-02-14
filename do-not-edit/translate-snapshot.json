@@ -114,8 +114,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "NEXT": "Load More <span>[count]</span>",
                 "LOAD_ALL": "View All <span>[count]</span>",
@@ -172,7 +172,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -485,7 +485,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -844,8 +845,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "NEXT": "Load More <span>[count]</span>",
                 "LOAD_ALL": "View All <span>[count]</span>",
@@ -902,7 +903,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -1215,7 +1216,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -1604,8 +1606,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "NEXT": "Load More <span>[count]</span>",
                 "LOAD_ALL": "View All <span>[count]</span>",
@@ -1661,7 +1663,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -1931,7 +1933,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -2379,8 +2382,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "NEXT": "Load More <span>[count]</span>",
@@ -2435,7 +2438,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -2645,7 +2648,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -3101,8 +3105,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "NEXT": "Load More <span>[count]</span>",
@@ -3157,7 +3161,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -3359,7 +3363,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -3818,8 +3823,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "NEXT": "Load More <span>[count]</span>",
@@ -3874,7 +3879,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -4073,7 +4078,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -4557,8 +4563,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "NEXT": "Load More <span>[count]</span>",
@@ -4619,7 +4625,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -4785,7 +4791,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -5269,8 +5276,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "NEXT": "Load More <span>[count]</span>",
@@ -5332,7 +5339,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -5492,7 +5499,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -5985,8 +5993,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "NEXT": "Load More <span>[count]</span>",
@@ -6048,7 +6056,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -6199,7 +6207,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -6692,8 +6701,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "NEXT": "Load More <span>[count]</span>",
@@ -6755,7 +6764,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -6905,7 +6914,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-count-bulk": {
                 "BLK_COUNT_ZERO": "0 Comments",
@@ -7411,8 +7421,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "PREV": "Load Previous <span>[count]</span>",
@@ -7475,7 +7485,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -7605,7 +7615,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -8164,8 +8175,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "PREV": "Load Previous <span>[count]</span>",
@@ -8228,7 +8239,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -8377,7 +8388,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -8868,8 +8880,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "PREV": "Load Previous <span>[count]</span>",
@@ -8932,7 +8944,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -9081,7 +9093,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -9572,8 +9585,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "PREV": "Load Previous <span>[count]</span>",
@@ -9636,7 +9649,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -9785,7 +9798,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -10276,8 +10290,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "PREV": "Load Previous <span>[count]</span>",
@@ -10340,7 +10354,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -10489,7 +10503,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -10980,8 +10995,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "PREV": "Load Previous <span>[count]</span>",
@@ -11044,7 +11059,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -11193,7 +11208,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -11684,8 +11700,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "PREV": "Load Previous <span>[count]</span>",
@@ -11748,7 +11764,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -11897,7 +11913,8 @@
                 "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> commented on your profile: [context]",
                 "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> messaged you: [context]",
                 "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mentioned you: [context]",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -12388,8 +12405,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "PREV": "Load Previous <span>[count]</span>",
@@ -12452,7 +12469,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -12607,7 +12624,8 @@
                 "NOTIFICATION_OPT_IN_FOR_COMMENT": "Opt-In to Notifications for This Comment",
                 "NOTIFICATION_OPT_OUT_FOR_COMMENT": "Ignore Notifications for This Comment",
                 "NO_NOTIFICATIONS": "You have no notifications.",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -13092,8 +13110,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "PREV": "Load Previous <span>[count]</span>",
@@ -13156,7 +13174,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -13311,7 +13329,8 @@
                 "NOTIFICATION_OPT_IN_FOR_COMMENT": "Opt-In to Notifications for This Comment",
                 "NOTIFICATION_OPT_OUT_FOR_COMMENT": "Ignore Notifications for This Comment",
                 "NO_NOTIFICATIONS": "You have no notifications.",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -13796,8 +13815,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "PREV": "Load Previous <span>[count]</span>",
@@ -13860,7 +13879,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -14015,7 +14034,8 @@
                 "NOTIFICATION_OPT_IN_FOR_COMMENT": "Opt-In to Notifications for This Comment",
                 "NOTIFICATION_OPT_OUT_FOR_COMMENT": "Ignore Notifications for This Comment",
                 "NO_NOTIFICATIONS": "You have no notifications.",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -14500,8 +14520,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "PREV": "Load Previous <span>[count]</span>",
@@ -14564,7 +14584,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -14719,7 +14739,8 @@
                 "NOTIFICATION_OPT_IN_FOR_COMMENT": "Opt-In to Notifications for This Comment",
                 "NOTIFICATION_OPT_OUT_FOR_COMMENT": "Ignore Notifications for This Comment",
                 "NO_NOTIFICATIONS": "You have no notifications.",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -15204,8 +15225,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "PREV": "Load Previous <span>[count]</span>",
@@ -15268,7 +15289,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -15423,7 +15444,8 @@
                 "NOTIFICATION_OPT_IN_FOR_COMMENT": "Opt-In to Notifications for This Comment",
                 "NOTIFICATION_OPT_OUT_FOR_COMMENT": "Ignore Notifications for This Comment",
                 "NO_NOTIFICATIONS": "You have no notifications.",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -15908,8 +15930,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "PREV": "Load Previous <span>[count]</span>",
@@ -15972,7 +15994,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -16127,7 +16149,8 @@
                 "NOTIFICATION_OPT_IN_FOR_COMMENT": "Opt-In to Notifications for This Comment",
                 "NOTIFICATION_OPT_OUT_FOR_COMMENT": "Ignore Notifications for This Comment",
                 "NO_NOTIFICATIONS": "You have no notifications.",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -16612,8 +16635,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "PREV": "Load Previous <span>[count]</span>",
@@ -16676,7 +16699,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -16831,7 +16854,8 @@
                 "NOTIFICATION_OPT_IN_FOR_COMMENT": "Opt-In to Notifications for This Comment",
                 "NOTIFICATION_OPT_OUT_FOR_COMMENT": "Ignore Notifications for This Comment",
                 "NO_NOTIFICATIONS": "You have no notifications.",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -17316,8 +17340,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "PREV": "Load Previous <span>[count]</span>",
@@ -17380,7 +17404,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -17535,7 +17559,8 @@
                 "NOTIFICATION_OPT_IN_FOR_COMMENT": "Opt-In to Notifications for This Comment",
                 "NOTIFICATION_OPT_OUT_FOR_COMMENT": "Ignore Notifications for This Comment",
                 "NO_NOTIFICATIONS": "You have no notifications.",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",
@@ -18043,8 +18068,8 @@
                 "LOADING": "Loading...",
                 "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
                 "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
-                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"t-create-account\">Create an Account</a>",
-                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"t-upgrade\">Upgrade Here</a>",
+                "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
+                "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
                 "COMMENTS_THIS_PAGE": " comments",
                 "COMMENT_THIS_PAGE": " comment",
                 "PREV": "Load Previous <span>[count]</span>",
@@ -18109,7 +18134,7 @@
                 "MOST_RELEVANT": "Most Relevant",
                 "NEWEST_FIRST": "Newest First",
                 "OLDEST_FIRST": "Oldest First",
-                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"t-configure-domains\">here</a>.",
+                "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
                 "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
                 "ADMIN_LABEL": "Administrator",
                 "MODERATOR_LABEL": "Moderator",
@@ -18268,7 +18293,8 @@
                 "NOTIFICATION_OPT_IN_FOR_COMMENT": "Opt-In to Notifications for This Comment",
                 "NOTIFICATION_OPT_OUT_FOR_COMMENT": "Ignore Notifications for This Comment",
                 "NO_NOTIFICATIONS": "You have no notifications.",
-                "SHARED_AN_IMAGE": "Shared an image."
+                "SHARED_AN_IMAGE": "Shared an image.",
+                "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
             },
             "comment-ui-offline": {
                 "ACTION_NOT_SUPPORTED_WHILE_OFFLINE": "Sorry! We're currently undergoing maintenance and that feature is not available.",

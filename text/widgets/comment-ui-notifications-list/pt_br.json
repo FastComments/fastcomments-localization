@@ -19,5 +19,6 @@
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> comentou em seu perfil: [context]",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> enviou uma mensagem para você: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mencionou você: [context]",
-    "SHARED_AN_IMAGE": "Compartilhou uma imagem."
+    "SHARED_AN_IMAGE": "Compartilhou uma imagem.",
+    "NOTIFICATION_TRIAL_LIMITS": "Seu teste começou! Observe que limites diferentes são colocados em sua conta no período de teste. Verifique suas <a href=\"[url]\" class=\"redirect\">análises de faturamento</a> para saber mais."
 }

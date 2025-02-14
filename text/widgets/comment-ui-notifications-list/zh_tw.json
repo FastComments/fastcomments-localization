@@ -19,5 +19,6 @@
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b>對您的個人資料發表了評論：[context]",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b>傳送訊息給您：[context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b>提到了您：[context]",
-    "SHARED_AN_IMAGE": "分享了一張圖片。"
+    "SHARED_AN_IMAGE": "分享了一張圖片。",
+    "NOTIFICATION_TRIAL_LIMITS": "您的試用已經開始！請注意，試用期內您的帳戶會受到不同的限制。檢查您的<a href=\"[url]\" class=\"redirect\">帳單分析</a>以了解更多資訊。"
 }
