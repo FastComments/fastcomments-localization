@@ -4,7 +4,7 @@
     "PAST_HOUR_COMMENT_COUNT": "在过去的一个小时内，您收到了<% if(replyCount > 1) { %>条回复<% } else { %>a 回复<% } %> 对您的<% if(commentsSummary.length > 1) {%> 条评论<% } else { %> 条评论<% } %>。",
     "FROM_NAME": "快评机器人",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>新回复<% } else { %>新回复<% } %>对<% if(replyCount > 1) { %>您的评论<% } else {%>您的评论<% } %>",
-    "VIEW_REPLIES": "查看回复",
+    "VIEW_REPLIES": "查看并回复",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "禁用此评论的通知",
     "UNSUBSCRIBE_HERE": "退订"
 }

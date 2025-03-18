@@ -4,7 +4,7 @@
     "PAST_HOUR_COMMENT_COUNT": "У протеклом сату сте имали <% if(replyCount > 1) { %>неке одговоре<% } else { %>а одговор<% } %><% if(commentsSummary.length > 1) {%> на своје<% } else { %> коментаре<% } %> коментарundefined.",
     "FROM_NAME": "ФастЦомментс Робот",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Нови одговор<% } else { %>Нови одговори<% } %> на <% if(replyCount > 1) { %>Ваши коментари<% } else {%>Ваш коментар<% } %>",
-    "VIEW_REPLIES": "Погледај одговоре",
+    "VIEW_REPLIES": "Погледај и одговори",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Онемогући обавештења за овај коментар",
     "UNSUBSCRIBE_HERE": "Откажи претплату"
 }

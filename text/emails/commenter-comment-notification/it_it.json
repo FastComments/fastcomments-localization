@@ -4,7 +4,7 @@
     "PAST_HOUR_COMMENT_COUNT": "Nell'ultima ora hai ricevuto <% if(replyCount > 1) { %>alcune risposte<% } else { %>una risposta<% } %> ai tuoi<% if(commentsSummary.length > 1) {%> commenti<% } else { %> commento<% } %>.",
     "FROM_NAME": "FastComments Robot",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Nuova risposta<% } else { %>Nuove risposte<% } %> a <% if(replyCount > 1) { %>I tuoi commenti<% } else {%>Il tuo commento<% } %>",
-    "VIEW_REPLIES": "Visualizza risposte",
+    "VIEW_REPLIES": "Visualizza e rispondi",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disabilita le notifiche per questo commento",
     "UNSUBSCRIBE_HERE": "Annulla l'iscrizione"
 }

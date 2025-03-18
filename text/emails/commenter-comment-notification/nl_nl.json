@@ -4,7 +4,7 @@
     "PAST_HOUR_COMMENT_COUNT": "Het afgelopen uur heeft u <% if(replyCount > 1) { %>enkele antwoorden<% } else { %>een antwoord<% } %> gehad op uw<% if(commentsSummary.length > 1) {%> opmerkingen<% } else { %> opmerking<% } %>.",
     "FROM_NAME": "FastComments-robot",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Nieuw antwoord<% } else { %>Nieuwe antwoorden<% } %> op <% if(replyCount > 1) { %>Uw opmerkingen<% } else {%>Uw commentaar<% } %>",
-    "VIEW_REPLIES": "Bekijk antwoorden",
+    "VIEW_REPLIES": "Bekijk en beantwoord",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Schakel meldingen voor deze reactie uit",
     "UNSUBSCRIBE_HERE": "Uitschrijven"
 }

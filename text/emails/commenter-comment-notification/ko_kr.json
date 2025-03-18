@@ -4,7 +4,7 @@
     "PAST_HOUR_COMMENT_COUNT": "지난 1시간 동안 귀하의 <% if(replyCount > 1) { %> 댓글에<% } else { %> 댓글에<% } %>개의 답장<% if(commentsSummary.length > 1) {%><% } else { %>을(를) 받았습니다<% } %>.",
     "FROM_NAME": "FastComments 로봇",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>새 회신<% } else { %>새 회신<% } %> to <% if(replyCount > 1) { %>귀하의 의견<% } else {%>귀하의 의견<% } %>",
-    "VIEW_REPLIES": "답글 보기",
+    "VIEW_REPLIES": "보기 및 답변",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "이 댓글에 알림 비활성화하기.",
     "UNSUBSCRIBE_HERE": "구독 취소"
 }

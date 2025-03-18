@@ -310,7 +310,7 @@
                 "BANNER_TEXT": "Comment Replies - Last Hour",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "INTRO": "Hey <%= username %>,",
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
@@ -1041,7 +1041,7 @@
                 "BANNER_TEXT": "Comment Replies - Last Hour",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "INTRO": "Hey <%= username %>,",
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
@@ -1758,7 +1758,7 @@
                 "BANNER_TEXT": "Comment Replies - Last Hour",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "INTRO": "Hey <%= username %>,",
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
@@ -2186,7 +2186,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "THANKS_FOR_USING_FASTCOMMENTS": "Thanks for using FastComments!",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
@@ -2901,7 +2901,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "THANKS_FOR_USING_FASTCOMMENTS": "Thanks for using FastComments!",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
@@ -3616,7 +3616,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "THANKS_FOR_USING_FASTCOMMENTS": "Thanks for using FastComments!",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
@@ -4331,7 +4331,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -5044,7 +5044,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -5761,7 +5761,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -6469,7 +6469,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -7176,7 +7176,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -7882,7 +7882,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -8587,7 +8587,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -9292,7 +9292,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -9997,7 +9997,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -10702,7 +10702,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -11407,7 +11407,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -12112,7 +12112,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -12817,7 +12817,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -13522,7 +13522,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -14227,7 +14227,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -14932,7 +14932,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -15637,7 +15637,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -16342,7 +16342,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -17047,7 +17047,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },
@@ -17750,7 +17750,7 @@
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "FROM_NAME": "FastComments Robot",
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-                "VIEW_REPLIES": "View Replies",
+                "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "UNSUBSCRIBE_HERE": "Unsubscribe"
             },

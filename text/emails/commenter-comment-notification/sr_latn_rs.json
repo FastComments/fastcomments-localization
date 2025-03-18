@@ -4,7 +4,7 @@
     "PAST_HOUR_COMMENT_COUNT": "U proteklih sat vremena imali ste <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
     "FROM_NAME": "Robot za brze snommente",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> do <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
-    "VIEW_REPLIES": "Prikaži odgovore",
+    "VIEW_REPLIES": "Pogledaj i odgovori",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Onemogući obaveštenja za ovaj komentar",
     "UNSUBSCRIBE_HERE": "Otkazivanje pretplate"
 }

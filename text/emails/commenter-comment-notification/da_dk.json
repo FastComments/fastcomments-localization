@@ -4,7 +4,7 @@
     "PAST_HOUR_COMMENT_COUNT": "Inden for den seneste time har du fået <% if(replyCount > 1) { %>nogle svar<% } else { %>et svar<% } %> på dine<% if(commentsSummary.length > 1) {%> kommentarer<% } else { %> kommentar<% } %>.",
     "FROM_NAME": "FastComments Robot",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Nyt svar<% } else { %>Nye svar<% } %> til <% if(replyCount > 1) { %>Dine kommentarer<% } else {%>Din kommentar<% } %>",
-    "VIEW_REPLIES": "Se svar",
+    "VIEW_REPLIES": "Se og svar",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Deaktiver meddelelser for denne kommentar",
     "UNSUBSCRIBE_HERE": "Opsige abonnement"
 }
