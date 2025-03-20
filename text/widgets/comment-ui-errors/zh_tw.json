@@ -1,0 +1,7 @@
+{
+    "RATE_LIMITED": "此 FastComments.com 帳戶已超出其限制。請聯絡網站管理員。",
+    "DOMAIN_NOT_AUTHORIZED": "由於此網域不屬於您的帳戶，因此無法在此網域上載入 FastComments。如果您是該網站的管理員，您可以<a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">在此處</a>修復此問題。",
+    "INVALID_TENANT": "無法載入 FastComments — 指定的配置無效。檢查指定的“tenantId”是否正確。",
+    "MALFORMED_SSO": "SSO 請求格式錯誤。請檢查您的 FastComments 安裝。",
+    "BILLING_INFO_INV_60_DAYS": "此 FastComments 帳戶的帳單資訊已過期超過 60 天。在問題解決之前，評論將被隱藏。"
+}

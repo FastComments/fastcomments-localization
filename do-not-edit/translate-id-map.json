@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 305,
+        "comment-ui": 310,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -747,5 +747,12 @@
     "comment-ui-questions": {
         "t303": "ALREADY_LEFT_REVIEW",
         "t304": "THANKS_FOR_YOUR_REVIEW"
+    },
+    "comment-ui-errors": {
+        "t306": "RATE_LIMITED",
+        "t307": "DOMAIN_NOT_AUTHORIZED",
+        "t308": "INVALID_TENANT",
+        "t309": "MALFORMED_SSO",
+        "t310": "BILLING_INFO_INV_60_DAYS"
     }
 }

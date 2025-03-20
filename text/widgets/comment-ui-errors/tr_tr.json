@@ -1,0 +1,7 @@
+{
+    "RATE_LIMITED": "Bu FastComments.com hesabı limitlerini aştı. Lütfen site yöneticisiyle iletişime geçin.",
+    "DOMAIN_NOT_AUTHORIZED": "FastComments bu etki alanında yüklenemiyor çünkü hesabınıza ait değil. Bu sitenin yöneticisiyseniz, bunu <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">burada</a> düzeltebilirsiniz.",
+    "INVALID_TENANT": "FastComments yüklenemedi - geçersiz yapılandırma belirtildi. Belirtilen 'tenantId'nin doğru olduğundan emin olun.",
+    "MALFORMED_SSO": "Hatalı SSO İsteği. Lütfen FastComments kurulumunuzu kontrol edin.",
+    "BILLING_INFO_INV_60_DAYS": "Bu FastComments hesabının faturalama bilgileri altmış günden fazla eski. Sorun çözülene kadar yorumlar gizlenecek."
+}

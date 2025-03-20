@@ -1,0 +1,7 @@
+{
+    "RATE_LIMITED": "Ce compte FastComments.com a dépassé ses limites. Veuillez contacter l'administrateur du site.",
+    "DOMAIN_NOT_AUTHORIZED": "FastComments ne peut pas être chargé sur ce domaine, car il n&#39;appartient pas à votre compte. Si vous êtes administrateur de ce site, vous pouvez résoudre ce problème <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">ici</a> .",
+    "INVALID_TENANT": "Impossible de charger FastComments – configuration non valide. Vérifiez que le « tenantId » spécifié est correct.",
+    "MALFORMED_SSO": "Requête SSO incorrecte. Veuillez vérifier votre installation FastComments.",
+    "BILLING_INFO_INV_60_DAYS": "Les informations de facturation de ce compte FastComments sont obsolètes depuis plus de soixante jours. Les commentaires sont masqués jusqu'à la résolution du problème."
+}

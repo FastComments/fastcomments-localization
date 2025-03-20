@@ -1,0 +1,7 @@
+{
+    "RATE_LIMITED": "Denne FastComments.com-konto har overskredet sine grænser. Kontakt venligst webstedets administrator.",
+    "DOMAIN_NOT_AUTHORIZED": "FastComments kan ikke indlæses på dette domæne, da det ikke tilhører din konto. Hvis du er administrator af dette websted, kan du rette dette <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">her</a> .",
+    "INVALID_TENANT": "FastComments kunne ikke indlæses - ugyldig konfiguration angivet. Tjek, at det angivne 'tenantId' er korrekt.",
+    "MALFORMED_SSO": "Forkert SSO-anmodning. Tjek venligst din FastComments-installation.",
+    "BILLING_INFO_INV_60_DAYS": "Denne FastComments-kontos faktureringsoplysninger er mere end tres dage forældede. Kommentarer skjult, indtil problemet er løst."
+}

@@ -1,0 +1,7 @@
+{
+    "RATE_LIMITED": "Ovaj račun FastComments.com premašio je svoja ograničenja. Molimo kontaktirajte administratora stranice.",
+    "DOMAIN_NOT_AUTHORIZED": "FastComments se ne može učitati na ovoj domeni jer ne pripada vašem računu. Ako ste administrator ove stranice, to možete popraviti <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">ovdje</a> .",
+    "INVALID_TENANT": "FastComments se nije mogao učitati - navedena je nevažeća konfiguracija. Provjerite je li navedeni 'tenantId' točan.",
+    "MALFORMED_SSO": "Neispravan SSO zahtjev. Provjerite svoju instalaciju FastCommentsa.",
+    "BILLING_INFO_INV_60_DAYS": "Podaci o naplati ovog računa FastComments zastarjeli su više od šezdeset dana. Komentari skriveni dok se problem ne riješi."
+}
