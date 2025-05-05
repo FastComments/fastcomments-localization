@@ -21,7 +21,7 @@
     "NO_NOTIFICATIONS": "Nemate obaveštenja.",
     "SHARED_AN_IMAGE": "Podelio sam sliku.",
     "NOTIFICATION_TRIAL_LIMITS": "Vaše suđenje je počelo! Imajte na umu da su različita ograničenja postavljena na vaš račun u probnom periodu. Proverite svoj <a href=\"[url]\" class=\"redirect\">analitika naplate</a> da biste saznali više.",
-    "BULK_REPLIES_NO_USERS": "Dobili ste [broj] nove odgovore",
+    "BULK_REPLIES_NO_USERS": "Dobili ste [count] nove odgovore",
     "BULK_REPLIES_ONE_USER": "[user1] je odgovorio na vaš komentar",
     "BULK_REPLIES_TWO_USERS": "[user1] i [user2] su odgovorili na vaše komentare",
     "BULK_REPLIES_MANY_USERS": "[user1], [user2] i [otherCount] drugi su odgovorili na vaše komentare",
@@ -29,7 +29,7 @@
     "BULK_VOTES_ONE_USER": "[user1] glasao na vaš komentar",
     "BULK_VOTES_TWO_USERS": "[user1] i [user2] su glasali za vaše komentare",
     "BULK_VOTES_MANY_USERS": "[user1], [user2] i [otherCount] drugi su glasali za vaše komentare",
-    "BULK_MENTIONS_NO_USERS": "Pomenuli ste [brojanje] puta",
+    "BULK_MENTIONS_NO_USERS": "Pomenuli ste [count] puta",
     "BULK_MENTIONS_ONE_USER": "[user1] vas je pomenuo",
     "BULK_MENTIONS_TWO_USERS": "[user1] i [user2] su vas pomenuli",
     "BULK_MENTIONS_MANY_USERS": "[user1], [user2] i [otherCount] drugi su vas pomenuli"
