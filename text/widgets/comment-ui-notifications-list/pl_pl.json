@@ -20,5 +20,17 @@
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> wysłał Ci wiadomość: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> wspomniał o Tobie: [context]",
     "SHARED_AN_IMAGE": "Udostępnił obraz.",
-    "NOTIFICATION_TRIAL_LIMITS": "Rozpoczął się okres próbny! Należy pamiętać, że na koncie w okresie próbnym obowiązują różne limity. Sprawdź <a href=\"[url]\" class=\"redirect\">analizę rozliczeń,</a> aby dowiedzieć się więcej."
+    "NOTIFICATION_TRIAL_LIMITS": "Rozpoczął się okres próbny! Należy pamiętać, że na koncie w okresie próbnym obowiązują różne limity. Sprawdź <a href=\"[url]\" class=\"redirect\">analizę rozliczeń,</a> aby dowiedzieć się więcej.",
+    "BULK_REPLIES_NO_USERS": "Otrzymałeś [count] nowych odpowiedzi",
+    "BULK_REPLIES_ONE_USER": "[user1] odpowiedział na twój komentarz",
+    "BULK_REPLIES_TWO_USERS": "[user1] i [user2] odpowiedzieli na Twoje komentarze",
+    "BULK_REPLIES_MANY_USERS": "[user1], [user2] i [otherCount] innych osób odpowiedziało na Twoje komentarze",
+    "BULK_VOTES_NO_USERS": "Twoje komentarze otrzymały [count] głosów",
+    "BULK_VOTES_ONE_USER": "[user1] zagłosował na Twój komentarz",
+    "BULK_VOTES_TWO_USERS": "[user1] i [user2] głosowali na Twoje komentarze",
+    "BULK_VOTES_MANY_USERS": "[user1], [user2] i [otherCount] innych osób głosowało na Twoje komentarze",
+    "BULK_MENTIONS_NO_USERS": "Wspomniano o Tobie [count] razy",
+    "BULK_MENTIONS_ONE_USER": "[user1] wspomniał o Tobie",
+    "BULK_MENTIONS_TWO_USERS": "[user1] i [user2] wspomnieli o Tobie",
+    "BULK_MENTIONS_MANY_USERS": "[user1], [user2] i [otherCount] innych osób wspomniało o Tobie"
 }

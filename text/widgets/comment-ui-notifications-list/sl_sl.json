@@ -20,5 +20,17 @@
     "NOTIFICATION_OPT_OUT_FOR_COMMENT": "Prezri obvestila za ta komentar",
     "NO_NOTIFICATIONS": "Nimate obvestil.",
     "SHARED_AN_IMAGE": "Delil sliko.",
-    "NOTIFICATION_TRIAL_LIMITS": "Vaše preizkusno obdobje se je začelo! Upoštevajte, da so v preizkusnem obdobju za vaš račun postavljene različne omejitve. Če želite izvedeti več, preverite svojo <a href=\"[url]\" class=\"redirect\">analitiko obračunavanja</a> ."
+    "NOTIFICATION_TRIAL_LIMITS": "Vaše preizkusno obdobje se je začelo! Upoštevajte, da so v preizkusnem obdobju za vaš račun postavljene različne omejitve. Če želite izvedeti več, preverite svojo <a href=\"[url]\" class=\"redirect\">analitiko obračunavanja</a> .",
+    "BULK_REPLIES_NO_USERS": "Prejeli ste [count] novih odgovorov",
+    "BULK_REPLIES_ONE_USER": "[user1] je odgovoril na vaš komentar",
+    "BULK_REPLIES_TWO_USERS": "[user1] in [user2] sta odgovorila na vaše komentarje",
+    "BULK_REPLIES_MANY_USERS": "[user1], [user2] in [otherCount] drugih so odgovorili na vaše komentarje",
+    "BULK_VOTES_NO_USERS": "Vaši komentarji so prejeli [count] glasov",
+    "BULK_VOTES_ONE_USER": "[user1] je glasoval za vaš komentar",
+    "BULK_VOTES_TWO_USERS": "[user1] in [user2] sta glasovala za vaše komentarje",
+    "BULK_VOTES_MANY_USERS": "[user1], [user2] in [otherCount] drugih so glasovali za vaše komentarje",
+    "BULK_MENTIONS_NO_USERS": "Omenjeni ste bili [count]-krat",
+    "BULK_MENTIONS_ONE_USER": "[user1] vas je omenil",
+    "BULK_MENTIONS_TWO_USERS": "[user1] in [user2] sta vas omenila",
+    "BULK_MENTIONS_MANY_USERS": "Omenili so vas [user1], [user2] in [otherCount] drugih"
 }

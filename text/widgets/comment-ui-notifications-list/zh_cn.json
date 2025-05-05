@@ -20,5 +20,17 @@
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b>向您发送消息：[context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b>提到了您：[context]",
     "SHARED_AN_IMAGE": "分享了一张图片。",
-    "NOTIFICATION_TRIAL_LIMITS": "您的试用已开始！请注意，试用期间您的帐户会受到不同的限制。请查看您的<a href=\"[url]\" class=\"redirect\">账单分析</a>以了解更多信息。"
+    "NOTIFICATION_TRIAL_LIMITS": "您的试用已开始！请注意，试用期间您的帐户会受到不同的限制。请查看您的<a href=\"[url]\" class=\"redirect\">账单分析</a>以了解更多信息。",
+    "BULK_REPLIES_NO_USERS": "您收到了 [count] 条新回复",
+    "BULK_REPLIES_ONE_USER": "[user1] 回复了您的评论",
+    "BULK_REPLIES_TWO_USERS": "[user1] 和 [user2] 回复了您的评论",
+    "BULK_REPLIES_MANY_USERS": "[user1]、[user2] 和其他 [otherCount] 人回复了您的评论",
+    "BULK_VOTES_NO_USERS": "您的评论已获得 [count] 票",
+    "BULK_VOTES_ONE_USER": "[user1] 对你的评论进行了投票",
+    "BULK_VOTES_TWO_USERS": "[user1] 和 [user2] 对您的评论进行了投票",
+    "BULK_VOTES_MANY_USERS": "[user1]、[user2] 和其他 [otherCount] 人对您的评论进行了投票",
+    "BULK_MENTIONS_NO_USERS": "您被提及 [count] 次",
+    "BULK_MENTIONS_ONE_USER": "[user1] 提到了你",
+    "BULK_MENTIONS_TWO_USERS": "[user1] 和 [user2] 提到了你",
+    "BULK_MENTIONS_MANY_USERS": "[user1]、[user2] 和 [otherCount] 个人提到了您"
 }

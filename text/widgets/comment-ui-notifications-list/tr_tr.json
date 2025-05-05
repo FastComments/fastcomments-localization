@@ -20,5 +20,17 @@
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName] size</b> mesaj gönderdi: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> sizden bahsetti: [context]",
     "SHARED_AN_IMAGE": "Bir görsel paylaştı",
-    "NOTIFICATION_TRIAL_LIMITS": "Denemeniz başladı! Deneme süresi boyunca hesabınıza farklı limitler konulduğunu unutmayın. Daha fazla bilgi edinmek için <a href=\"[url]\" class=\"redirect\">faturalandırma analizlerinizi</a> kontrol edin."
+    "NOTIFICATION_TRIAL_LIMITS": "Denemeniz başladı! Deneme süresi boyunca hesabınıza farklı limitler konulduğunu unutmayın. Daha fazla bilgi edinmek için <a href=\"[url]\" class=\"redirect\">faturalandırma analizlerinizi</a> kontrol edin.",
+    "BULK_REPLIES_NO_USERS": "[count] yeni yanıt aldınız",
+    "BULK_REPLIES_ONE_USER": "[user1] yorumunuza yanıt verdi",
+    "BULK_REPLIES_TWO_USERS": "[user1] ve [user2] yorumlarınıza yanıt verdi",
+    "BULK_REPLIES_MANY_USERS": "[user1], [user2] ve [otherCount] kişi yorumlarınıza yanıt verdi",
+    "BULK_VOTES_NO_USERS": "Yorumlarınız [count] oy aldı",
+    "BULK_VOTES_ONE_USER": "[user1] yorumunuza oy verdi",
+    "BULK_VOTES_TWO_USERS": "[user1] ve [user2] yorumlarınıza oy verdi",
+    "BULK_VOTES_MANY_USERS": "[user1], [user2] ve [otherCount] kişi yorumlarınıza oy verdi",
+    "BULK_MENTIONS_NO_USERS": "[count] kez bahsedildiniz",
+    "BULK_MENTIONS_ONE_USER": "[user1] sizden bahsetti",
+    "BULK_MENTIONS_TWO_USERS": "[user1] ve [user2] sizden bahsetti",
+    "BULK_MENTIONS_MANY_USERS": "[user1], [user2] ve [otherCount] kişi sizden bahsetti"
 }

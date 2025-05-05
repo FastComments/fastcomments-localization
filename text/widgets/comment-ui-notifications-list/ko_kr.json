@@ -20,5 +20,17 @@
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> 님이 다음 메시지를 보냈습니다. [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]이</b> (가) 귀하를 멘션했습니다: [context]",
     "SHARED_AN_IMAGE": "이미지를 공유했습니다.",
-    "NOTIFICATION_TRIAL_LIMITS": "체험판이 시작되었습니다! 체험 기간 동안 계정에 다른 한도가 적용됩니다. 자세한 내용은 <a href=\"[url]\" class=\"redirect\">청구 분석을</a> 확인하세요."
+    "NOTIFICATION_TRIAL_LIMITS": "체험판이 시작되었습니다! 체험 기간 동안 계정에 다른 한도가 적용됩니다. 자세한 내용은 <a href=\"[url]\" class=\"redirect\">청구 분석을</a> 확인하세요.",
+    "BULK_REPLIES_NO_USERS": "새로운 답변이 [count]개 수신되었습니다.",
+    "BULK_REPLIES_ONE_USER": "[user1]님이 귀하의 댓글에 답변했습니다.",
+    "BULK_REPLIES_TWO_USERS": "[user1]님과 [user2]님이 귀하의 댓글에 답변했습니다.",
+    "BULK_REPLIES_MANY_USERS": "[user1], [user2] 및 [otherCount]명이 귀하의 댓글에 답변했습니다.",
+    "BULK_VOTES_NO_USERS": "귀하의 댓글은 [count]개의 투표를 받았습니다.",
+    "BULK_VOTES_ONE_USER": "[user1]님이 귀하의 댓글에 투표했습니다.",
+    "BULK_VOTES_TWO_USERS": "[user1]과 [user2]가 귀하의 댓글에 투표했습니다.",
+    "BULK_VOTES_MANY_USERS": "[user1], [user2] 및 [otherCount]명이 귀하의 댓글에 투표했습니다.",
+    "BULK_MENTIONS_NO_USERS": "당신은 [count]번 언급되었습니다",
+    "BULK_MENTIONS_ONE_USER": "[user1]님이 당신을 언급했습니다",
+    "BULK_MENTIONS_TWO_USERS": "[user1]과 [user2]가 당신을 언급했습니다.",
+    "BULK_MENTIONS_MANY_USERS": "[user1], [user2] 및 [otherCount]명이 당신을 언급했습니다."
 }

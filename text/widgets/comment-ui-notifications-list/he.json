@@ -20,5 +20,17 @@
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> שלח לך הודעה: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> הזכיר אותך: [context]",
     "SHARED_AN_IMAGE": "שיתף תמונה.",
-    "NOTIFICATION_TRIAL_LIMITS": "הניסיון שלך התחיל! שים לב כי מגבלות שונות מוטלות על חשבונך בתקופת הניסיון. בדוק <a href=\"[url]\" class=\"redirect\">את ניתוח החיובים</a> שלך למידע נוסף."
+    "NOTIFICATION_TRIAL_LIMITS": "הניסיון שלך התחיל! שים לב כי מגבלות שונות מוטלות על חשבונך בתקופת הניסיון. בדוק <a href=\"[url]\" class=\"redirect\">את ניתוח החיובים</a> שלך למידע נוסף.",
+    "BULK_REPLIES_NO_USERS": "קיבלת [count] תגובות חדשות",
+    "BULK_REPLIES_ONE_USER": "[משתמש1] הגיב לתגובה שלך",
+    "BULK_REPLIES_TWO_USERS": "[משתמש1] ו-[משתמש2] ענו לתגובות שלך",
+    "BULK_REPLIES_MANY_USERS": "[משתמש1], [משתמש2] ו-[otherCount] אחרים הגיבו לתגובות שלך",
+    "BULK_VOTES_NO_USERS": "התגובות שלך קיבלו [count] קולות",
+    "BULK_VOTES_ONE_USER": "[משתמש1] הצביע על התגובה שלך",
+    "BULK_VOTES_TWO_USERS": "[משתמש1] ו-[משתמש2] הצביעו על התגובות שלך",
+    "BULK_VOTES_MANY_USERS": "[משתמש1], [משתמש2] ו-[otherCount] אחרים הצביעו על התגובות שלך",
+    "BULK_MENTIONS_NO_USERS": "הוזכרת [count] פעמים",
+    "BULK_MENTIONS_ONE_USER": "[משתמש1] הזכיר אותך",
+    "BULK_MENTIONS_TWO_USERS": "[משתמש1] ו-[משתמש2] הזכירו אותך",
+    "BULK_MENTIONS_MANY_USERS": "[user1], [user2] ו-[otherCount] אחרים הזכירו אותך"
 }

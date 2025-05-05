@@ -20,5 +20,17 @@
   "NOTIFICATION_OPT_OUT_FOR_COMMENT": "Ignore Notifications for This Comment",
   "NO_NOTIFICATIONS": "You have no notifications.",
   "SHARED_AN_IMAGE": "Shared an image.",
-  "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more."
+  "NOTIFICATION_TRIAL_LIMITS": "Your trial has started! Note that different limits are placed on your account in the trial period. Check your <a href=\"[url]\" class=\"redirect\">billing analytics</a> to learn more.",
+  "BULK_REPLIES_NO_USERS": "You received [count] new replies",
+  "BULK_REPLIES_ONE_USER": "[user1] replied to your comment",
+  "BULK_REPLIES_TWO_USERS": "[user1] and [user2] replied to your comments",
+  "BULK_REPLIES_MANY_USERS": "[user1], [user2], and [otherCount] others replied to your comments",
+  "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
+  "BULK_VOTES_ONE_USER": "[user1] voted on your comment",
+  "BULK_VOTES_TWO_USERS": "[user1] and [user2] voted on your comments",
+  "BULK_VOTES_MANY_USERS": "[user1], [user2], and [otherCount] others voted on your comments",
+  "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
+  "BULK_MENTIONS_ONE_USER": "[user1] mentioned you",
+  "BULK_MENTIONS_TWO_USERS": "[user1] and [user2] mentioned you",
+  "BULK_MENTIONS_MANY_USERS": "[user1], [user2], and [otherCount] others mentioned you"
 }

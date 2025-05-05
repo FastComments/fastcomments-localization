@@ -20,5 +20,17 @@
     "NOTIFICATION_OPT_OUT_FOR_COMMENT": "Αγνοήστε τις ειδοποιήσεις για αυτό το σχόλιο",
     "NO_NOTIFICATIONS": "Δεν έχετε ειδοποιήσεις.",
     "SHARED_AN_IMAGE": "Μοιράστηκε μια εικόνα.",
-    "NOTIFICATION_TRIAL_LIMITS": "Η δοκιμή σας ξεκίνησε! Λάβετε υπόψη ότι στον λογαριασμό σας τίθενται διαφορετικά όρια στη δοκιμαστική περίοδο. Ελέγξτε τα <a href=\"[url]\" class=\"redirect\">αναλυτικά στοιχεία χρέωσης</a> για να μάθετε περισσότερα."
+    "NOTIFICATION_TRIAL_LIMITS": "Η δοκιμή σας ξεκίνησε! Λάβετε υπόψη ότι στον λογαριασμό σας τίθενται διαφορετικά όρια στη δοκιμαστική περίοδο. Ελέγξτε τα <a href=\"[url]\" class=\"redirect\">αναλυτικά στοιχεία χρέωσης</a> για να μάθετε περισσότερα.",
+    "BULK_REPLIES_NO_USERS": "Λάβατε [count] νέες απαντήσεις",
+    "BULK_REPLIES_ONE_USER": "Ο χρήστης [user1] απάντησε στο σχόλιό σας",
+    "BULK_REPLIES_TWO_USERS": "Οι [user1] και [user2] απάντησαν στα σχόλιά σας",
+    "BULK_REPLIES_MANY_USERS": "Οι [user1], [user2] και [otherCount] άλλοι απάντησαν στα σχόλιά σας",
+    "BULK_VOTES_NO_USERS": "Τα σχόλιά σας έλαβαν [count] ψήφους",
+    "BULK_VOTES_ONE_USER": "Ο χρήστης [user1] ψήφισε το σχόλιό σας",
+    "BULK_VOTES_TWO_USERS": "Οι [user1] και [user2] ψήφισαν τα σχόλιά σας",
+    "BULK_VOTES_MANY_USERS": "Οι [user1], [user2] και [otherCount] άλλοι ψήφισαν τα σχόλιά σας",
+    "BULK_MENTIONS_NO_USERS": "Αναφέρθηκες [count] φορές",
+    "BULK_MENTIONS_ONE_USER": "Ο χρήστης [user1] σας ανέφερε",
+    "BULK_MENTIONS_TWO_USERS": "Οι [user1] και [user2] σας ανέφεραν",
+    "BULK_MENTIONS_MANY_USERS": "Οι [user1], [user2] και [otherCount] άλλοι σας ανέφεραν"
 }

@@ -20,5 +20,17 @@
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName] さん</b>があなたにメッセージを送りました: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName] さん</b>があなたのことを言及しました: [context]",
     "SHARED_AN_IMAGE": "画像を共有しました。",
-    "NOTIFICATION_TRIAL_LIMITS": "トライアルが始まりました。トライアル期間中はアカウントにさまざまな制限が課せられることに注意してください。詳細については、<a href=\"[url]\" class=\"redirect\">課金分析を</a>確認してください。"
+    "NOTIFICATION_TRIAL_LIMITS": "トライアルが始まりました。トライアル期間中はアカウントにさまざまな制限が課せられることに注意してください。詳細については、<a href=\"[url]\" class=\"redirect\">課金分析を</a>確認してください。",
+    "BULK_REPLIES_NO_USERS": "[count] 件の新しい返信を受け取りました",
+    "BULK_REPLIES_ONE_USER": "[user1] があなたのコメントに返信しました",
+    "BULK_REPLIES_TWO_USERS": "[user1]と[user2]があなたのコメントに返信しました",
+    "BULK_REPLIES_MANY_USERS": "[user1]、[user2]、[otherCount] 人があなたのコメントに返信しました",
+    "BULK_VOTES_NO_USERS": "あなたのコメントは [count] 票を獲得しました",
+    "BULK_VOTES_ONE_USER": "[user1]さんがあなたのコメントに投票しました",
+    "BULK_VOTES_TWO_USERS": "[user1] と [user2] があなたのコメントに投票しました",
+    "BULK_VOTES_MANY_USERS": "[user1]、[user2]、[otherCount] 人があなたのコメントに投票しました",
+    "BULK_MENTIONS_NO_USERS": "あなたは [count] 回言及されました",
+    "BULK_MENTIONS_ONE_USER": "[user1] があなたに言及しました",
+    "BULK_MENTIONS_TWO_USERS": "[user1]と[user2]があなたに言及しました",
+    "BULK_MENTIONS_MANY_USERS": "[user1]、[user2]、[otherCount]人があなたに言及しました"
 }

@@ -20,5 +20,17 @@
     "NOTIFICATION_OPT_OUT_FOR_COMMENT": "Negeer meldingen voor deze reactie",
     "NO_NOTIFICATIONS": "Je hebt geen meldingen.",
     "SHARED_AN_IMAGE": "Heeft een afbeelding gedeeld.",
-    "NOTIFICATION_TRIAL_LIMITS": "Uw proefperiode is begonnen! Let op: er worden verschillende limieten op uw account geplaatst in de proefperiode. Controleer uw <a href=\"[url]\" class=\"redirect\">factureringsanalyses</a> voor meer informatie."
+    "NOTIFICATION_TRIAL_LIMITS": "Uw proefperiode is begonnen! Let op: er worden verschillende limieten op uw account geplaatst in de proefperiode. Controleer uw <a href=\"[url]\" class=\"redirect\">factureringsanalyses</a> voor meer informatie.",
+    "BULK_REPLIES_NO_USERS": "Je hebt [count] nieuwe reacties ontvangen",
+    "BULK_REPLIES_ONE_USER": "[user1] heeft op je reactie gereageerd",
+    "BULK_REPLIES_TWO_USERS": "[user1] en [user2] hebben op uw opmerkingen gereageerd",
+    "BULK_REPLIES_MANY_USERS": "[user1], [user2] en [otherCount] anderen hebben op uw opmerkingen gereageerd",
+    "BULK_VOTES_NO_USERS": "Je reacties hebben [count] stemmen gekregen",
+    "BULK_VOTES_ONE_USER": "[user1] heeft op jouw opmerking gestemd",
+    "BULK_VOTES_TWO_USERS": "[user1] en [user2] hebben op uw opmerkingen gestemd",
+    "BULK_VOTES_MANY_USERS": "[user1], [user2] en [otherCount] anderen hebben op uw opmerkingen gestemd",
+    "BULK_MENTIONS_NO_USERS": "Je werd [count] keer genoemd",
+    "BULK_MENTIONS_ONE_USER": "[user1] heeft je genoemd",
+    "BULK_MENTIONS_TWO_USERS": "[user1] en [user2] hebben je genoemd",
+    "BULK_MENTIONS_MANY_USERS": "[user1], [user2] en [otherCount] anderen hebben je genoemd"
 }

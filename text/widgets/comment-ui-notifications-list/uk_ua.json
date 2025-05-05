@@ -20,5 +20,17 @@
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> надіслав вам повідомлення: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> згадав вас: [context]",
     "SHARED_AN_IMAGE": "Поділився зображенням.",
-    "NOTIFICATION_TRIAL_LIMITS": "Ваш пробний період розпочато! Зауважте, що протягом випробувального періоду для вашого облікового запису діють інші обмеження. Перевірте <a href=\"[url]\" class=\"redirect\">платіжну аналітику</a> , щоб дізнатися більше."
+    "NOTIFICATION_TRIAL_LIMITS": "Ваш пробний період розпочато! Зауважте, що протягом випробувального періоду для вашого облікового запису діють інші обмеження. Перевірте <a href=\"[url]\" class=\"redirect\">платіжну аналітику</a> , щоб дізнатися більше.",
+    "BULK_REPLIES_NO_USERS": "Ви отримали [count] нових відповідей",
+    "BULK_REPLIES_ONE_USER": "[user1] відповів на ваш коментар",
+    "BULK_REPLIES_TWO_USERS": "[user1] та [user2] відповіли на ваші коментарі",
+    "BULK_REPLIES_MANY_USERS": "[user1], [user2] та [otherCount] інших відповіли на ваші коментарі",
+    "BULK_VOTES_NO_USERS": "Ваші коментарі отримали [count] голосів",
+    "BULK_VOTES_ONE_USER": "[user1] проголосував за ваш коментар",
+    "BULK_VOTES_TWO_USERS": "[user1] та [user2] проголосували за ваші коментарі",
+    "BULK_VOTES_MANY_USERS": "[user1], [user2] та [otherCount] інших проголосували за ваші коментарі",
+    "BULK_MENTIONS_NO_USERS": "Вас згадували [count] разів",
+    "BULK_MENTIONS_ONE_USER": "[user1] згадав вас",
+    "BULK_MENTIONS_TWO_USERS": "[user1] та [user2] згадали вас",
+    "BULK_MENTIONS_MANY_USERS": "Вас згадали [user1], [user2] та [otherCount] інших"
 }

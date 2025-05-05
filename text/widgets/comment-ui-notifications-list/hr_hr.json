@@ -8,7 +8,7 @@
     "NOTIFICATION_DM": "<b>[fromUserName]</b> vam je poslao poruku.",
     "NOTIFICATION_MENTION": "<b>[fromUserName]</b> vas je spomenuo.",
     "NOTIFICATION_MARK_UNREAD": "Označi kao nepročitano",
-    "NOTIFICATION_MARK_READ": "Mark Read",
+    "NOTIFICATION_MARK_READ": "Označi kao pročitano",
     "NOTIFICATION_OPT_IN_FOR_COMMENT": "Uključite se u obavijesti za ovaj komentar",
     "NOTIFICATION_OPT_OUT_FOR_COMMENT": "Zanemari obavijesti za ovaj komentar",
     "NO_NOTIFICATIONS": "Nemate obavijesti.",
@@ -20,5 +20,17 @@
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> vam je poslao poruku: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> vas je spomenuo: [context]",
     "SHARED_AN_IMAGE": "Dijeli sliku.",
-    "NOTIFICATION_TRIAL_LIMITS": "Vaše suđenje je počelo! Imajte na umu da se na vaš račun tijekom probnog razdoblja postavljaju različita ograničenja. Provjerite svoju <a href=\"[url]\" class=\"redirect\">analitiku naplate</a> da biste saznali više."
+    "NOTIFICATION_TRIAL_LIMITS": "Vaše suđenje je počelo! Imajte na umu da se na vaš račun tijekom probnog razdoblja postavljaju različita ograničenja. Provjerite svoju <a href=\"[url]\" class=\"redirect\">analitiku naplate</a> da biste saznali više.",
+    "BULK_REPLIES_NO_USERS": "Primili ste [count] novih odgovora",
+    "BULK_REPLIES_ONE_USER": "[user1] je odgovorio na vaš komentar",
+    "BULK_REPLIES_TWO_USERS": "[user1] i [user2] odgovorili su na vaše komentare",
+    "BULK_REPLIES_MANY_USERS": "[user1], [user2] i [otherCount] drugih odgovorili su na vaše komentare",
+    "BULK_VOTES_NO_USERS": "Vaši komentari su dobili [count] glasova",
+    "BULK_VOTES_ONE_USER": "[user1] je glasao za vaš komentar",
+    "BULK_VOTES_TWO_USERS": "[user1] i [user2] glasali su za vaše komentare",
+    "BULK_VOTES_MANY_USERS": "[user1], [user2] i [otherCount] drugih glasali su za vaše komentare",
+    "BULK_MENTIONS_NO_USERS": "Spomenuti ste [count] puta",
+    "BULK_MENTIONS_ONE_USER": "[user1] vas je spomenuo",
+    "BULK_MENTIONS_TWO_USERS": "[user1] i [user2] su vas spomenuli",
+    "BULK_MENTIONS_MANY_USERS": "[user1], [user2] i [otherCount] drugih su vas spomenuli"
 }

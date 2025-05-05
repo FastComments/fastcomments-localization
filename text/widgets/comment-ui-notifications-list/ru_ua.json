@@ -20,5 +20,17 @@
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> отправил вам сообщение: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> упомянул вас: [context]",
     "SHARED_AN_IMAGE": "Поделился изображением.",
-    "NOTIFICATION_TRIAL_LIMITS": "Ваш пробный период начался! Обратите внимание, что в пробный период на ваш счет накладываются различные ограничения. Проверьте <a href=\"[url]\" class=\"redirect\">аналитику по счетам,</a> чтобы узнать больше."
+    "NOTIFICATION_TRIAL_LIMITS": "Ваш пробный период начался! Обратите внимание, что в пробный период на ваш счет накладываются различные ограничения. Проверьте <a href=\"[url]\" class=\"redirect\">аналитику по счетам,</a> чтобы узнать больше.",
+    "BULK_REPLIES_NO_USERS": "Вы получили [количество] новых ответов",
+    "BULK_REPLIES_ONE_USER": "[user1] ответил на ваш комментарий",
+    "BULK_REPLIES_TWO_USERS": "[user1] и [user2] ответили на ваши комментарии",
+    "BULK_REPLIES_MANY_USERS": "[user1], [user2] и [otherCount] других ответили на ваши комментарии",
+    "BULK_VOTES_NO_USERS": "Ваши комментарии получили [количество] голосов",
+    "BULK_VOTES_ONE_USER": "[user1] проголосовал за ваш комментарий",
+    "BULK_VOTES_TWO_USERS": "[user1] и [user2] проголосовали за ваши комментарии",
+    "BULK_VOTES_MANY_USERS": "[user1], [user2] и [otherCount] других проголосовали за ваши комментарии",
+    "BULK_MENTIONS_NO_USERS": "Вас упомянули [количество] раз",
+    "BULK_MENTIONS_ONE_USER": "[user1] упомянул вас",
+    "BULK_MENTIONS_TWO_USERS": "[user1] и [user2] упомянули вас",
+    "BULK_MENTIONS_MANY_USERS": "[user1], [user2] и [otherCount] других упомянули вас"
 }

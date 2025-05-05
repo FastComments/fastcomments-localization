@@ -20,5 +20,17 @@
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> hat Ihnen eine Nachricht geschickt: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> hat Sie erwähnt: [context]",
     "SHARED_AN_IMAGE": "Ein Bild geteilt.",
-    "NOTIFICATION_TRIAL_LIMITS": "Ihre Testversion hat begonnen! Beachten Sie, dass Ihrem Konto während der Testphase unterschiedliche Limits auferlegt werden. Weitere Informationen finden Sie in Ihrer <a href=\"[url]\" class=\"redirect\">Abrechnungsanalyse</a> ."
+    "NOTIFICATION_TRIAL_LIMITS": "Ihre Testversion hat begonnen! Beachten Sie, dass Ihrem Konto während der Testphase unterschiedliche Limits auferlegt werden. Weitere Informationen finden Sie in Ihrer <a href=\"[url]\" class=\"redirect\">Abrechnungsanalyse</a> .",
+    "BULK_REPLIES_NO_USERS": "Sie haben [Anzahl] neue Antworten erhalten",
+    "BULK_REPLIES_ONE_USER": "[user1] hat auf Ihren Kommentar geantwortet",
+    "BULK_REPLIES_TWO_USERS": "[Benutzer1] und [Benutzer2] haben auf Ihre Kommentare geantwortet",
+    "BULK_REPLIES_MANY_USERS": "[user1], [user2] und [otherCount] andere haben auf Ihre Kommentare geantwortet",
+    "BULK_VOTES_NO_USERS": "Ihre Kommentare erhielten [Anzahl] Stimmen",
+    "BULK_VOTES_ONE_USER": "[user1] hat für Ihren Kommentar gestimmt",
+    "BULK_VOTES_TWO_USERS": "[Benutzer1] und [Benutzer2] haben für Ihre Kommentare gestimmt",
+    "BULK_VOTES_MANY_USERS": "[user1], [user2] und [otherCount] andere haben für Ihre Kommentare gestimmt",
+    "BULK_MENTIONS_NO_USERS": "Du wurdest [Anzahl] Mal erwähnt",
+    "BULK_MENTIONS_ONE_USER": "[Benutzer1] hat Sie erwähnt",
+    "BULK_MENTIONS_TWO_USERS": "[Benutzer1] und [Benutzer2] haben Sie erwähnt",
+    "BULK_MENTIONS_MANY_USERS": "[user1], [user2] und [otherCount] andere haben Sie erwähnt"
 }
