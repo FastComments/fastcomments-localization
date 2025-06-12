@@ -231,7 +231,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -493,9 +493,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -990,7 +990,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -1252,9 +1252,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -1778,7 +1778,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -1997,9 +1997,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -2581,7 +2581,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -2740,9 +2740,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -3332,7 +3332,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -3483,9 +3483,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -4078,7 +4078,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -4226,9 +4226,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -4842,7 +4842,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -4967,9 +4967,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -5578,7 +5578,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-moderation": {
                 "MODERATION_OPTION_BAN_VIA_EMAIL": "Ban Via Email / Account",
@@ -5703,9 +5703,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -6323,7 +6323,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-moderation": {
                 "MODERATION_OPTION_BAN_VIA_EMAIL": "Ban Via Email / Account",
@@ -6439,9 +6439,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -7059,7 +7059,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -7174,9 +7174,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -7806,7 +7806,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -7903,9 +7903,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -8588,7 +8588,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -8704,9 +8704,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -9321,7 +9321,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -9437,9 +9437,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -10054,7 +10054,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -10170,9 +10170,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -10787,7 +10787,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -10903,9 +10903,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -11520,7 +11520,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -11636,9 +11636,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -12253,7 +12253,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -12369,9 +12369,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -12986,7 +12986,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -13108,9 +13108,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -13719,7 +13719,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -13841,9 +13841,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -14452,7 +14452,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -14574,9 +14574,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -15185,7 +15185,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -15307,9 +15307,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -15918,7 +15918,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -16040,9 +16040,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -16651,7 +16651,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -16773,9 +16773,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -17384,7 +17384,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -17506,9 +17506,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -18117,7 +18117,7 @@
                 "COMMENT_MENU_UNLOCK": "Unlock",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -18239,9 +18239,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
@@ -18869,7 +18869,7 @@
                 "THREAD_CLOSED": "This comment thread has been closed for new comments.",
                 "INSERT_SPOILER": "SPOILER",
                 "COMMENT_VIEWED_BY": "The number of users that viewed this comment.",
-                "UPLOADING": "Uploading [percent]%"
+                "UPLOADING": "Uploading [v]%"
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -19001,9 +19001,9 @@
                 "BULK_REPLIES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> replied to your comments",
                 "BULK_REPLIES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> replied to your comments",
                 "BULK_VOTES_NO_USERS": "Your comments received [count] votes",
-                "BULK_VOTES_ONE_USER": "<b>[user1]</b> voted on your comment",
-                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> voted on your comments",
-                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> voted on your comments",
+                "BULK_VOTES_ONE_USER": "<b>[user1]</b> gave you karma",
+                "BULK_VOTES_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> gave you karma",
+                "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b>, and <b>[otherCount] others</b> gave you karma",
                 "BULK_MENTIONS_NO_USERS": "You were mentioned [count] times",
                 "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mentioned you",
                 "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> and <b>[user2]</b> mentioned you",
