@@ -1,0 +1,9 @@
+{
+    "INTRO": "嘿 <%= username %>，",
+    "FROM_NAME": "快速評論機器人",
+    "SUBJECT": "歡迎來到 FastComments <%= username %>！在此驗證並登入您的帳戶",
+    "BANNER_TEXT": "歡迎來到 FastComments",
+    "THANKS_MESSAGE": "感謝您註冊 FastComments。",
+    "VERIFY_ACCOUNT": "請點擊<a href=\"<%= userVerifyUrl %>\">此連結</a><b>驗證您的帳戶</b>。這也會幫助您登入。",
+    "LOGIN_LINKS": "您可以<a href=\"<%= loginUrl %>\">在此處</a>建立新的連結以登入您的帳戶。您也可以根據需要在登入後設定密碼。"
+}

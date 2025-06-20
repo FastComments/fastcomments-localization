@@ -39,7 +39,8 @@
         "comment-ui-error-unauthorized-link-domain": 1,
         "comment-ui-error-language-not-allowed": 1,
         "tenant-new-referral": 8,
-        "reviews-summary": 4
+        "reviews-summary": 4,
+        "tenant-signup-welcome": 7
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -775,5 +776,14 @@
         "t308": "INVALID_TENANT",
         "t309": "MALFORMED_SSO",
         "t310": "BILLING_INFO_INV_60_DAYS"
+    },
+    "tenant-signup-welcome": {
+        "t1": "INTRO",
+        "t2": "FROM_NAME",
+        "t3": "SUBJECT",
+        "t4": "BANNER_TEXT",
+        "t5": "THANKS_MESSAGE",
+        "t6": "VERIFY_ACCOUNT",
+        "t7": "LOGIN_LINKS"
     }
 }

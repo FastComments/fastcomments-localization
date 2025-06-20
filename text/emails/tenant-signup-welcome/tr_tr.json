@@ -1,0 +1,9 @@
+{
+    "INTRO": "Hey <%= username %>,",
+    "FROM_NAME": "HızlıYorumlar Robotu",
+    "SUBJECT": "FastComments'a hoş geldiniz <%= username %>! Hesabınızı buradan doğrulayın ve giriş yapın",
+    "BANNER_TEXT": "FastComments'a hoş geldiniz",
+    "THANKS_MESSAGE": "FastComments'a kaydolduğunuz için teşekkür ederiz.",
+    "VERIFY_ACCOUNT": "Lütfen <a href=\"<%= userVerifyUrl %>\">bu bağlantıya</a> tıklayarak <b>hesabınızı doğrulayın</b> . Bu aynı zamanda oturum açmanızı da sağlayacaktır.",
+    "LOGIN_LINKS": "<a href=\"<%= loginUrl %>\">Hesabınıza</a> giriş yapmak için yeni bağlantılar oluşturabilirsiniz. İsterseniz giriş yaptıktan sonra bir şifre de belirleyebilirsiniz."
+}

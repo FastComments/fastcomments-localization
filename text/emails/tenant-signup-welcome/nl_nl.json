@@ -1,0 +1,9 @@
+{
+    "INTRO": "Hoi <%= username %>,",
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "Welkom bij FastComments <%= username %>! Verifieer en log hier in op je account.",
+    "BANNER_TEXT": "Welkom bij FastComments",
+    "THANKS_MESSAGE": "Bedankt voor uw aanmelding bij FastComments.",
+    "VERIFY_ACCOUNT": "<b>Verifieer uw account</b> door op <a href=\"<%= userVerifyUrl %>\">deze link</a> te klikken. Hiermee logt u ook in.",
+    "LOGIN_LINKS": "<a href=\"<%= loginUrl %>\">Hier</a> kunt u nieuwe links aanmaken om in te loggen op uw account. U kunt na het inloggen desgewenst ook een wachtwoord instellen."
+}

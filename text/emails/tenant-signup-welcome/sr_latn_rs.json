@@ -1,0 +1,9 @@
+{
+    "INTRO": "Hej<%= username %>",
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "Dobrodošli u FastComments <%= username %>! Potvrdite i prijavite se na svoj nalog ovde",
+    "BANNER_TEXT": "Dobrodošli u FastComments",
+    "THANKS_MESSAGE": "Hvala što ste se prijavili na FastComments.",
+    "VERIFY_ACCOUNT": "Molimo Vas <b>da potvrdite svoj nalog</b> klikom na <a href=\"<%= userVerifyUrl %>\">ovaj link</a>. Ovo će vas takođe prijaviti.",
+    "LOGIN_LINKS": "Možete da kreirate nove linkove da biste se prijavili na svoj nalog <a href=\"<%= loginUrl %>\">ovde</a>. Takođe možete podesiti lozinku nakon prijavljivanja ako želite."
+}

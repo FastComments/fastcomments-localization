@@ -1,0 +1,9 @@
+{
+    "INTRO": "Hej <%= username %>,",
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "Velkommen til FastComments <%= username %>! Bekræft og log ind på din konto her",
+    "BANNER_TEXT": "Velkommen til FastComments",
+    "THANKS_MESSAGE": "Tak for din tilmelding til FastComments.",
+    "VERIFY_ACCOUNT": "<b>Bekræft venligst din konto</b> ved at klikke på <a href=\"<%= userVerifyUrl %>\">dette link</a> . Dette vil også logge dig ind.",
+    "LOGIN_LINKS": "Du kan oprette nye links for at logge ind på din konto <a href=\"<%= loginUrl %>\">her</a> . Du kan også angive en adgangskode efter du er logget ind, hvis det ønskes."
+}

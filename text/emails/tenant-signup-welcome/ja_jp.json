@@ -1,0 +1,9 @@
+{
+    "INTRO": "おい <%= username %>、",
+    "FROM_NAME": "ファストコメントロボット",
+    "SUBJECT": "FastCommentsへようこそ <%= username %>！アカウントの確認とログインはこちら",
+    "BANNER_TEXT": "FastCommentsへようこそ",
+    "THANKS_MESSAGE": "FastComments にご登録いただきありがとうございます。",
+    "VERIFY_ACCOUNT": "<a href=\"<%= userVerifyUrl %>\">こちらのリンク</a>をクリックして<b>アカウントを確認して</b>ください。これによりサインインも完了します。",
+    "LOGIN_LINKS": "<a href=\"<%= loginUrl %>\">ここで、</a>アカウントにログインするための新しいリンクを作成できます。必要に応じて、ログイン後にパスワードを設定することもできます。"
+}

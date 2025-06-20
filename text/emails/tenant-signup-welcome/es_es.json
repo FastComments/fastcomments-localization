@@ -1,0 +1,9 @@
+{
+    "INTRO": "Ey <%= username %>,",
+    "FROM_NAME": "Robot de comentarios rápidos",
+    "SUBJECT": "¡Bienvenido a FastComments <%= username %>! Verifica e inicia sesión en tu cuenta aquí.",
+    "BANNER_TEXT": "Bienvenido a FastComments",
+    "THANKS_MESSAGE": "Gracias por registrarte en FastComments.",
+    "VERIFY_ACCOUNT": "Por favor, <b>verifica tu cuenta</b> haciendo clic en <a href=\"<%= userVerifyUrl %>\">este enlace</a> . Esto también te permitirá iniciar sesión.",
+    "LOGIN_LINKS": "Puedes crear nuevos enlaces para iniciar sesión en tu cuenta <a href=\"<%= loginUrl %>\">aquí</a> . También puedes establecer una contraseña después de iniciar sesión si lo deseas."
+}
