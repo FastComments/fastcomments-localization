@@ -772,6 +772,7 @@
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
                 "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Welcome to FastComments <%= username %>! Verify & login to your account here",
                 "BANNER_TEXT": "Welcome to FastComments",
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
