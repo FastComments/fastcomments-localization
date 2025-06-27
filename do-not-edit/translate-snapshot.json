@@ -575,7 +575,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -1342,7 +1349,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -2096,7 +2110,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -2848,7 +2869,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -3600,7 +3628,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -4352,7 +4387,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -5102,7 +5144,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -5847,7 +5896,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -6592,7 +6648,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -7336,7 +7399,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -8086,7 +8156,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "profile-comment-notification": {
                 "SUBJECT": "New profile comment from <%= comment.commenterName %>",
@@ -8917,7 +8994,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "comment-ui-search": {
                 "SEARCH_PLACEHOLDER": "Search comments here...",
@@ -9659,7 +9743,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "comment-ui-search": {
                 "SEARCH_PLACEHOLDER": "Search comments here...",
@@ -10406,7 +10497,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
@@ -11148,7 +11246,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
@@ -11890,7 +11995,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
@@ -12632,7 +12744,14 @@
                 "PROFILE_DELETE_CONVERSATION": "Delete",
                 "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
                 "PROFILE_TAB_NOTIFICATIONS": "Notifications",
-                "DM_SENT_IMAGE": "Sent an image."
+                "DM_SENT_IMAGE": "Sent an image.",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
@@ -13380,7 +13499,14 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_CHANGE_SAVED": "Change Saved!",
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
-                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -14122,7 +14248,14 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_CHANGE_SAVED": "Change Saved!",
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
-                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -14864,7 +14997,14 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_CHANGE_SAVED": "Change Saved!",
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
-                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -15606,7 +15746,14 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_CHANGE_SAVED": "Change Saved!",
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
-                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -16348,7 +16495,14 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_CHANGE_SAVED": "Change Saved!",
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
-                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -17090,7 +17244,14 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_CHANGE_SAVED": "Change Saved!",
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
-                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -17832,7 +17993,14 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_CHANGE_SAVED": "Change Saved!",
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
-                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -18574,7 +18742,14 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_CHANGE_SAVED": "Change Saved!",
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
-                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -19345,7 +19520,14 @@
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_CHANGE_SAVED": "Change Saved!",
                 "PROFILE_BADGE_DISPLAY_THIS_BADGE_SAVE_FAILED": "Save failed.",
                 "PROFILE_DELETE_CONVERSATION": "Delete",
-                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?"
+                "PROFILE_DELETE_CONVERSATION_CONFIRM": "Are you sure you want to delete the conversation with [users]?",
+                "PROFILE_MANAGE_NOTE": "Manage Note",
+                "PROFILE_USER_NOTE_TITLE": "User Note",
+                "PROFILE_USER_NOTE_DESCRIPTION": "This is a private note about this user that only you can see.",
+                "PROFILE_USER_NOTE_PLACEHOLDER": "Enter your note here...",
+                "PROFILE_USER_NOTE_CANCEL": "Cancel",
+                "PROFILE_USER_NOTE_DELETE": "Delete",
+                "PROFILE_USER_NOTE_SAVE": "Save"
             },
             "comment-ui-vote-list": {
                 "GETTING_VOTE_LIST": "Getting vote list...",
