@@ -6,5 +6,6 @@
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Wyłącz powiadomienia dla tego komentarza",
     "INTRO": "Hej <%= username %>,",
     "PAST_HOUR_COMMENT_COUNT": "W ciągu ostatniej godziny otrzymałeś <% if(replyCount > 1) { %> odpowiedzi<% } else { %> odpowiedź<% } %> na Twoje<% if(commentsSummary.length > 1) {%> komentarze<% } else { %> komentarz<% } %>.",
-    "UNSUBSCRIBE_HERE": "Anuluj subskrypcję"
+    "UNSUBSCRIBE_HERE": "Anuluj subskrypcję",
+    "REPLY_BY_EMAIL_TIP": "Możesz odpowiedzieć bezpośrednio na ten e-mail, aby opublikować swoją odpowiedź."
 }

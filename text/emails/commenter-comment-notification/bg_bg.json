@@ -6,5 +6,6 @@
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Нов отговор<% } else { %>Нови отговори<% } %> на <% if(replyCount > 1) { %>Вашите коментари<% } else {%>Вашият коментар<% } %>",
     "VIEW_REPLIES": "Преглед и отговор",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Деактивиране на известията за този коментар",
-    "UNSUBSCRIBE_HERE": "Отписване"
+    "UNSUBSCRIBE_HERE": "Отписване",
+    "REPLY_BY_EMAIL_TIP": "Можете да отговорите директно на този имейл, за да публикувате отговора си."
 }

@@ -6,5 +6,6 @@
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> do <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
     "VIEW_REPLIES": "Pogledaj i odgovori",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Onemogući obaveštenja za ovaj komentar",
-    "UNSUBSCRIBE_HERE": "Otkazivanje pretplate"
+    "UNSUBSCRIBE_HERE": "Otkazivanje pretplate",
+    "REPLY_BY_EMAIL_TIP": "Možete odgovoriti na ovaj e-mail direktno da postavite svoj odgovor."
 }

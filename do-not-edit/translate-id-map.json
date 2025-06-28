@@ -1,6 +1,6 @@
 {
     "lastCounts": {
-        "commenter-comment-notification": 9,
+        "commenter-comment-notification": 10,
         "commenter-verify-post": 20,
         "commenter-verify-vote": 9,
         "commenter-welcome-from-comment": 21,
@@ -20,7 +20,7 @@
         "tenant-user-removed-from-tenant": 5,
         "tenant-user-invite": 6,
         "tenant-new-user-invite": 6,
-        "comment-user-mention": 7,
+        "comment-user-mention": 8,
         "direct-message-notification": 5,
         "profile-comment-notification": 6,
         "cookie-consent": 12,
@@ -51,7 +51,8 @@
         "t6": "VIEW_REPLIES",
         "t7": "DISABLE_NOTIFICATIONS_FOR_COMMENT",
         "t8": "THANKS_FOR_USING_FASTCOMMENTS",
-        "t9": "UNSUBSCRIBE_HERE"
+        "t9": "UNSUBSCRIBE_HERE",
+        "t10": "REPLY_BY_EMAIL_TIP"
     },
     "commenter-verify-post": {
         "t1": "SUBJECT",
@@ -458,7 +459,8 @@
         "t4": "VIEW_COMMENT",
         "t5": "SOMEONE_TAGGED_YOU",
         "t6": "FROM_NAME",
-        "t7": "UNSUBSCRIBE_HERE"
+        "t7": "UNSUBSCRIBE_HERE",
+        "t8": "REPLY_BY_EMAIL_TIP"
     },
     "comment-ui-blocked": {
         "t145": "YOU_HAVE_BEEN_BLOCKED",

@@ -6,5 +6,6 @@
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Nyt svar<% } else { %>Nye svar<% } %> til <% if(replyCount > 1) { %>Dine kommentarer<% } else {%>Din kommentar<% } %>",
     "VIEW_REPLIES": "Se og svar",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Deaktiver meddelelser for denne kommentar",
-    "UNSUBSCRIBE_HERE": "Opsige abonnement"
+    "UNSUBSCRIBE_HERE": "Opsige abonnement",
+    "REPLY_BY_EMAIL_TIP": "Du kan svare direkte på denne e-mail for at sende dit svar."
 }

@@ -6,5 +6,6 @@
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Нова відповідь<% } else { %>Нові відповіді<% } %> на <% if(replyCount > 1) { %>Ваші коментарі<% } else {%>Ваш коментар<% } %>",
     "VIEW_REPLIES": "Переглянути та відповісти",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Вимкнути сповіщення для цього коментаря",
-    "UNSUBSCRIBE_HERE": "Відписатися"
+    "UNSUBSCRIBE_HERE": "Відписатися",
+    "REPLY_BY_EMAIL_TIP": "Ви можете відповісти безпосередньо на цей електронний лист, щоб опублікувати свою відповідь."
 }

@@ -6,5 +6,6 @@
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>새 회신<% } else { %>새 회신<% } %> to <% if(replyCount > 1) { %>귀하의 의견<% } else {%>귀하의 의견<% } %>",
     "VIEW_REPLIES": "보기 및 답변",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "이 댓글에 알림 비활성화하기.",
-    "UNSUBSCRIBE_HERE": "구독 취소"
+    "UNSUBSCRIBE_HERE": "구독 취소",
+    "REPLY_BY_EMAIL_TIP": "이 이메일에 직접 답장하여 답변을 게시할 수 있습니다."
 }

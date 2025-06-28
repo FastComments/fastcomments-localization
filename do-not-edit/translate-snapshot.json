@@ -316,7 +316,8 @@
                 "INTRO": "Hey <%= username %>,",
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "THANKS_FOR_USING_FASTCOMMENTS": "Thanks for using FastComments!",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -442,7 +443,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -1095,7 +1097,8 @@
                 "INTRO": "Hey <%= username %>,",
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "THANKS_FOR_USING_FASTCOMMENTS": "Thanks for using FastComments!",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -1221,7 +1224,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -1860,7 +1864,8 @@
                 "INTRO": "Hey <%= username %>,",
                 "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
                 "THANKS_FOR_USING_FASTCOMMENTS": "Thanks for using FastComments!",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "tenant-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -1986,7 +1991,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -2333,7 +2339,8 @@
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "THANKS_FOR_USING_FASTCOMMENTS": "Thanks for using FastComments!",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "SUBJECT": "<%= comment.commenterName %> - Verify your comment.",
@@ -2749,7 +2756,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -3096,7 +3104,8 @@
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "THANKS_FOR_USING_FASTCOMMENTS": "Thanks for using FastComments!",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -3512,7 +3521,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -3859,7 +3869,8 @@
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
                 "THANKS_FOR_USING_FASTCOMMENTS": "Thanks for using FastComments!",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -4275,7 +4286,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -4621,7 +4633,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -5036,7 +5049,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -5382,7 +5396,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -5792,7 +5807,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "comment-ui-blocked": {
                 "YOU_HAVE_BEEN_BLOCKED": "This user has blocked you.",
@@ -6137,7 +6153,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -6147,7 +6164,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -6893,7 +6911,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -6903,7 +6922,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -7648,7 +7668,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -7658,7 +7679,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -8402,7 +8424,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -8412,7 +8435,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -9155,7 +9179,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -9165,7 +9190,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -9908,7 +9934,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -9918,7 +9945,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -10661,7 +10689,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -10671,7 +10700,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -11414,7 +11444,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -11424,7 +11455,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -12167,7 +12199,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -12177,7 +12210,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -12920,7 +12954,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -12930,7 +12965,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -13673,7 +13709,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -13683,7 +13720,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -14426,7 +14464,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -14436,7 +14475,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -15179,7 +15219,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -15189,7 +15230,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -15932,7 +15974,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -15942,7 +15985,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -16685,7 +16729,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -16695,7 +16740,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -17438,7 +17484,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -17448,7 +17495,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -18191,7 +18239,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -18201,7 +18250,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
@@ -18942,7 +18992,8 @@
                 "VIEW_COMMENT": "View Comment",
                 "SOMEONE_TAGGED_YOU": "Someone has tagged you.",
                 "FROM_NAME": "FastComments Robot",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-comment-notification": {
                 "INTRO": "Hey <%= username %>,",
@@ -18952,7 +19003,8 @@
                 "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
                 "VIEW_REPLIES": "View and Reply",
                 "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Disable Notifications For This Comment",
-                "UNSUBSCRIBE_HERE": "Unsubscribe"
+                "UNSUBSCRIBE_HERE": "Unsubscribe",
+                "REPLY_BY_EMAIL_TIP": "You can reply to this email directly to post your response."
             },
             "commenter-verify-post": {
                 "FROM_NAME": "FastComments Robot",
