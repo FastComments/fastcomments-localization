@@ -3,5 +3,13 @@
     "DOMAIN_NOT_AUTHORIZED": "FastComments はこのドメインでは読み込めません。このドメインはあなたのアカウントに属していないためです。このサイトの管理者であれば、<a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">ここで</a>修正できます。",
     "INVALID_TENANT": "FastComments を読み込めませんでした - 無効な構成が指定されました。指定された「tenantId」が正しいことを確認してください。",
     "MALFORMED_SSO": "SSO リクエストの形式が正しくありません。FastComments のインストールを確認してください。",
-    "BILLING_INFO_INV_60_DAYS": "この FastComments アカウントの請求情報は 60 日以上古くなっています。問題が解決されるまでコメントは非表示になります。"
+    "BILLING_INFO_INV_60_DAYS": "この FastComments アカウントの請求情報は 60 日以上古くなっています。問題が解決されるまでコメントは非表示になります。",
+    "BANNED_COMMENTING": "このサイトへのコメントは禁止されています。",
+    "BANNED_VOTING": "あなたはこのサイトでコメントすることが禁止されているため、投票することもできません。",
+    "BANNED_COMMENTING_WITH_REASON": "このサイトへのコメント投稿は禁止されています。理由: [reason]",
+    "BANNED_VOTING_WITH_REASON": "このサイトへのコメント投稿が禁止されているため、投票もできません。理由：[reason]",
+    "BANNED_COMMENTING_WITH_END": "このサイトへのコメント投稿は禁止されています。禁止期間の終了日: [endDate]",
+    "BANNED_VOTING_WITH_END": "このサイトへのコメント投稿が禁止されているため、投票もできません。この禁止は[endDate]まで有効です。",
+    "BANNED_COMMENTING_WITH_REASON_AND_END": "このサイトへのコメント投稿は禁止されています。理由: [reason] この禁止期間の終了日: [endDate]",
+    "BANNED_VOTING_WITH_REASON_AND_END": "このサイトへのコメント投稿が禁止されているため、投票もできません。理由: [reason] この禁止期間の終了日: [endDate]"
 }

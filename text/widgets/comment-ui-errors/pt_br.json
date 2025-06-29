@@ -3,5 +3,13 @@
     "DOMAIN_NOT_AUTHORIZED": "FastComments não pode carregar neste domínio, pois ele não pertence à sua conta. Se você for um administrador deste site, você pode consertar isso <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">aqui</a> .",
     "INVALID_TENANT": "FastComments não pôde carregar - configuração inválida especificada. Verifique se o 'tenantId' especificado está correto.",
     "MALFORMED_SSO": "Solicitação SSO malformada. Verifique sua instalação do FastComments.",
-    "BILLING_INFO_INV_60_DAYS": "As informações de cobrança desta conta FastComments estão desatualizadas há mais de sessenta dias. Comentários ocultos até que o problema seja resolvido."
+    "BILLING_INFO_INV_60_DAYS": "As informações de cobrança desta conta FastComments estão desatualizadas há mais de sessenta dias. Comentários ocultos até que o problema seja resolvido.",
+    "BANNED_COMMENTING": "Você foi banido de comentar neste site.",
+    "BANNED_VOTING": "Você foi banido de comentar neste site, o que significa que você também não pode votar.",
+    "BANNED_COMMENTING_WITH_REASON": "Você foi banido de comentar neste site. Motivo: [reason]",
+    "BANNED_VOTING_WITH_REASON": "Você foi banido de comentar neste site, o que significa que também não pode votar. Motivo: [reason]",
+    "BANNED_COMMENTING_WITH_END": "Você foi banido de comentar neste site. Este banimento termina em: [endDate]",
+    "BANNED_VOTING_WITH_END": "Você foi banido de comentar neste site, o que significa que também não pode votar. Este banimento termina em: [endDate]",
+    "BANNED_COMMENTING_WITH_REASON_AND_END": "Você foi banido de comentar neste site. Motivo: [reason] Este banimento termina em: [endDate]",
+    "BANNED_VOTING_WITH_REASON_AND_END": "Você foi banido de comentar neste site, o que significa que também não pode votar. Motivo: [reason] Este banimento termina em: [endDate]"
 }

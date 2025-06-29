@@ -3,5 +3,13 @@
     "DOMAIN_NOT_AUTHORIZED": "FastComments se ne more naložiti na to domeno, ker ne pripada vašemu računu. Če ste skrbnik tega mesta, lahko to popravite <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">tukaj</a> .",
     "INVALID_TENANT": "FastComments ni bilo mogoče naložiti – navedena je neveljavna konfiguracija. Preverite, ali je podani 'tenantId' pravilen.",
     "MALFORMED_SSO": "Napačno oblikovana zahteva SSO. Preverite namestitev FastComments.",
-    "BILLING_INFO_INV_60_DAYS": "Podatki za obračun tega računa FastComments so zastareli več kot šestdeset dni. Komentarji skriti, dokler težava ni odpravljena."
+    "BILLING_INFO_INV_60_DAYS": "Podatki za obračun tega računa FastComments so zastareli več kot šestdeset dni. Komentarji skriti, dokler težava ni odpravljena.",
+    "BANNED_COMMENTING": "Prepovedano vam je bilo komentiranje na tej strani.",
+    "BANNED_VOTING": "Prepovedano vam je bilo komentiranje na tej strani, kar pomeni, da tudi ne morete glasovati.",
+    "BANNED_COMMENTING_WITH_REASON": "Prepovedano vam je bilo komentiranje na tej strani. Razlog: [reason]",
+    "BANNED_VOTING_WITH_REASON": "Prepovedano vam je bilo komentiranje na tej strani, kar pomeni, da tudi ne morete glasovati. Razlog: [reason]",
+    "BANNED_COMMENTING_WITH_END": "Prepovedano vam je bilo komentiranje na tej strani. Ta prepoved se konča: [endDate]",
+    "BANNED_VOTING_WITH_END": "Prepovedano vam je bilo komentiranje na tej strani, kar pomeni, da tudi ne morete glasovati. Ta prepoved se konča: [endDate]",
+    "BANNED_COMMENTING_WITH_REASON_AND_END": "Prepovedano vam je bilo komentiranje na tej strani. Razlog: [reason] Ta prepoved se konča: [endDate]",
+    "BANNED_VOTING_WITH_REASON_AND_END": "Prepovedano vam je bilo komentiranje na tej strani, kar pomeni, da tudi ne morete glasovati. Razlog: [reason] Ta prepoved se konča: [endDate]"
 }

@@ -3,5 +3,13 @@
     "DOMAIN_NOT_AUTHORIZED": "由于此域不属于您的帐户，因此无法在此域上加载 FastComments。如果您是此站点的管理员，您可以<a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">在此处</a>修复此问题。",
     "INVALID_TENANT": "无法加载 FastComments - 指定的配置无效。请检查指定的“tenantId”是否正确。",
     "MALFORMED_SSO": "SSO 请求格式错误。请检查您的 FastComments 安装。",
-    "BILLING_INFO_INV_60_DAYS": "此 FastComments 帐户的帐单信息已过期超过 60 天。在问题解决之前，评论将被隐藏。"
+    "BILLING_INFO_INV_60_DAYS": "此 FastComments 帐户的帐单信息已过期超过 60 天。在问题解决之前，评论将被隐藏。",
+    "BANNED_COMMENTING": "您已被禁止在此网站上发表评论。",
+    "BANNED_VOTING": "您已被禁止在此网站上发表评论，这意味着您也无法投票。",
+    "BANNED_COMMENTING_WITH_REASON": "您已被禁止在此网站上发表评论。原因：[reason]",
+    "BANNED_VOTING_WITH_REASON": "您已被禁止在此网站上发表评论，这意味着您也无法投票。原因：[reason]",
+    "BANNED_COMMENTING_WITH_END": "您已被禁止在此网站上发表评论。此禁令将于 [endDate] 结束。",
+    "BANNED_VOTING_WITH_END": "您已被禁止在此网站上发表评论，这意味着您也无法投票。此禁令将于 [endDate] 结束。",
+    "BANNED_COMMENTING_WITH_REASON_AND_END": "您已被禁止在此网站上发表评论。原因：[reason] 禁令结束日期：[endDate]",
+    "BANNED_VOTING_WITH_REASON_AND_END": "您已被禁止在此网站上发表评论，这意味着您也无法投票。原因：[reason] 此禁令结束日期：[endDate]"
 }

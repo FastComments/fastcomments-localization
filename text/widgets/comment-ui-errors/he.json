@@ -3,5 +3,13 @@
     "DOMAIN_NOT_AUTHORIZED": "אין אפשרות לטעון FastComments בדומיין הזה מכיוון שהוא לא שייך לחשבון שלך. אם אתה מנהל של אתר זה, תוכל לתקן זאת <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">כאן</a> .",
     "INVALID_TENANT": "לא ניתן היה לטעון FastComments - צוינה תצורה לא חוקית. בדוק שה-'tenantId' שצוין נכון.",
     "MALFORMED_SSO": "בקשת SSO שגויה. אנא בדוק את התקנת FastComments שלך.",
-    "BILLING_INFO_INV_60_DAYS": "פרטי החיוב של חשבון FastComments זה אינם מעודכנים ביותר משישים יום. הערות מוסתרות עד לפתרון הבעיה."
+    "BILLING_INFO_INV_60_DAYS": "פרטי החיוב של חשבון FastComments זה אינם מעודכנים ביותר משישים יום. הערות מוסתרות עד לפתרון הבעיה.",
+    "BANNED_COMMENTING": "נאסר עליך להגיב באתר זה.",
+    "BANNED_VOTING": "נאסר עליך להגיב באתר זה, מה שאומר שאינך יכול להצביע.",
+    "BANNED_COMMENTING_WITH_REASON": "נאסר עליך להגיב באתר זה. סיבה: [reason]",
+    "BANNED_VOTING_WITH_REASON": "נאסר עליך להגיב באתר זה, מה שאומר שאינך יכול להצביע. סיבה: [reason]",
+    "BANNED_COMMENTING_WITH_END": "נאסר עליך להגיב באתר זה. חסימה זו מסתיימת בתאריך: [endDate]",
+    "BANNED_VOTING_WITH_END": "נאסר עליך להגיב באתר זה, מה שאומר שגם אינך יכול להצביע. חסימה זו מסתיימת בתאריך: [endDate]",
+    "BANNED_COMMENTING_WITH_REASON_AND_END": "נאסר עליך להגיב באתר זה. סיבה: [reason] חסימה זו מסתיימת בתאריך: [endDate]",
+    "BANNED_VOTING_WITH_REASON_AND_END": "נאסר עליך להגיב באתר זה, מה שאומר שגם אינך יכול להצביע. סיבה: [reason] חסימה זו מסתיימת בתאריך: [endDate]"
 }

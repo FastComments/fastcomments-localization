@@ -3,5 +3,13 @@
     "DOMAIN_NOT_AUTHORIZED": "FastComments nie może załadować się na tej domenie, ponieważ nie należy ona do Twojego konta. Jeśli jesteś administratorem tej witryny, możesz to naprawić <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">tutaj</a> .",
     "INVALID_TENANT": "FastComments nie mógł zostać załadowany - podano nieprawidłową konfigurację. Sprawdź, czy podany 'tenantId' jest poprawny.",
     "MALFORMED_SSO": "Nieprawidłowo sformatowane żądanie SSO. Sprawdź instalację FastComments.",
-    "BILLING_INFO_INV_60_DAYS": "Informacje rozliczeniowe tego konta FastComments są nieaktualne od ponad sześćdziesięciu dni. Komentarze są ukryte do czasu rozwiązania problemu."
+    "BILLING_INFO_INV_60_DAYS": "Informacje rozliczeniowe tego konta FastComments są nieaktualne od ponad sześćdziesięciu dni. Komentarze są ukryte do czasu rozwiązania problemu.",
+    "BANNED_COMMENTING": "Zabroniono Ci komentowania na tej stronie.",
+    "BANNED_VOTING": "Zostałeś pozbawiony możliwości komentowania na tej stronie, co oznacza, że nie możesz również głosować.",
+    "BANNED_COMMENTING_WITH_REASON": "Zostałeś wykluczony z komentowania na tej stronie. Powód: [reason]",
+    "BANNED_VOTING_WITH_REASON": "Zostałeś wykluczony z komentowania na tej stronie, co oznacza, że nie możesz również głosować. Powód: [reason]",
+    "BANNED_COMMENTING_WITH_END": "Zostałeś wykluczony z komentowania na tej stronie. Ten zakaz kończy się: [endDate]",
+    "BANNED_VOTING_WITH_END": "Zostałeś wykluczony z komentowania na tej stronie, co oznacza, że nie możesz również głosować. Ten zakaz kończy się: [endDate]",
+    "BANNED_COMMENTING_WITH_REASON_AND_END": "Zostałeś wykluczony z komentowania na tej stronie. Powód: [reason] Ten zakaz kończy się: [endDate]",
+    "BANNED_VOTING_WITH_REASON_AND_END": "Zostałeś wykluczony z komentowania na tej stronie, co oznacza, że nie możesz również głosować. Powód: [reason] Ten zakaz kończy się: [endDate]"
 }

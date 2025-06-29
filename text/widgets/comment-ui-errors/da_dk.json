@@ -3,5 +3,13 @@
     "DOMAIN_NOT_AUTHORIZED": "FastComments kan ikke indlæses på dette domæne, da det ikke tilhører din konto. Hvis du er administrator af dette websted, kan du rette dette <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">her</a> .",
     "INVALID_TENANT": "FastComments kunne ikke indlæses - ugyldig konfiguration angivet. Tjek, at det angivne 'tenantId' er korrekt.",
     "MALFORMED_SSO": "Forkert SSO-anmodning. Tjek venligst din FastComments-installation.",
-    "BILLING_INFO_INV_60_DAYS": "Denne FastComments-kontos faktureringsoplysninger er mere end tres dage forældede. Kommentarer skjult, indtil problemet er løst."
+    "BILLING_INFO_INV_60_DAYS": "Denne FastComments-kontos faktureringsoplysninger er mere end tres dage forældede. Kommentarer skjult, indtil problemet er løst.",
+    "BANNED_COMMENTING": "Du er blevet udelukket fra at kommentere på denne side.",
+    "BANNED_VOTING": "Du er blevet udelukket fra at kommentere på denne side, hvilket betyder, at du heller ikke kan stemme.",
+    "BANNED_COMMENTING_WITH_REASON": "Du er blevet udelukket fra at kommentere på denne side. Årsag: [reason]",
+    "BANNED_VOTING_WITH_REASON": "Du er blevet udelukket fra at kommentere på denne side, hvilket betyder, at du heller ikke kan stemme. Årsag: [reason]",
+    "BANNED_COMMENTING_WITH_END": "Du er blevet udelukket fra at kommentere på dette websted. Denne udelukkelse slutter: [endDate]",
+    "BANNED_VOTING_WITH_END": "Du er blevet udelukket fra at kommentere på denne side, hvilket betyder, at du heller ikke kan stemme. Denne udelukkelse slutter: [endDate]",
+    "BANNED_COMMENTING_WITH_REASON_AND_END": "Du er blevet udelukket fra at kommentere på dette websted. Årsag: [reason] Denne udelukkelse slutter: [endDate]",
+    "BANNED_VOTING_WITH_REASON_AND_END": "Du er blevet udelukket fra at kommentere på denne side, hvilket betyder, at du heller ikke kan stemme. Årsag: [reason] Denne udelukkelse slutter: [endDate]"
 }

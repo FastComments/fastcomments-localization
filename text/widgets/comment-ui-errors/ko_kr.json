@@ -3,5 +3,13 @@
     "DOMAIN_NOT_AUTHORIZED": "FastComments는 귀하의 계정에 속하지 않기 때문에 이 도메인에서 로드할 수 없습니다. 귀하가 이 사이트의 관리자라면 <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">여기에서</a> 이를 수정할 수 있습니다.",
     "INVALID_TENANT": "FastComments를 로드할 수 없습니다. 잘못된 구성이 지정되었습니다. 지정된 'tenantId'가 올바른지 확인하세요.",
     "MALFORMED_SSO": "잘못된 SSO 요청입니다. FastComments 설치를 확인하세요.",
-    "BILLING_INFO_INV_60_DAYS": "이 FastComments 계정의 청구 정보는 60일 이상 오래되었습니다. 문제가 해결될 때까지 댓글은 숨겨집니다."
+    "BILLING_INFO_INV_60_DAYS": "이 FastComments 계정의 청구 정보는 60일 이상 오래되었습니다. 문제가 해결될 때까지 댓글은 숨겨집니다.",
+    "BANNED_COMMENTING": "이 사이트에 댓글을 달 수 없도록 금지되었습니다.",
+    "BANNED_VOTING": "이 사이트에 댓글을 달 수 없도록 차단당했으므로 투표도 할 수 없습니다.",
+    "BANNED_COMMENTING_WITH_REASON": "이 사이트에 댓글을 달 수 없습니다. 사유: [reason]",
+    "BANNED_VOTING_WITH_REASON": "이 사이트에 댓글을 달 수 없도록 차단되어 투표도 할 수 없습니다. 사유: [reason]",
+    "BANNED_COMMENTING_WITH_END": "이 사이트에 댓글을 달 수 없습니다. 이 차단은 [endDate]에 종료됩니다.",
+    "BANNED_VOTING_WITH_END": "이 사이트에 댓글을 달 수 없도록 차단되었습니다. 따라서 투표도 할 수 없습니다. 차단 해제 날짜: [endDate]",
+    "BANNED_COMMENTING_WITH_REASON_AND_END": "이 사이트에 댓글을 달 수 없습니다. 사유: [reason] 이 금지는 [endDate]에 종료됩니다.",
+    "BANNED_VOTING_WITH_REASON_AND_END": "이 사이트에 댓글을 달 수 없도록 차단되었습니다. 따라서 투표도 할 수 없습니다. 사유: [reason] 차단 해제일: [endDate]"
 }

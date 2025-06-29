@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 342,
+        "comment-ui": 350,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -788,7 +788,15 @@
         "t307": "DOMAIN_NOT_AUTHORIZED",
         "t308": "INVALID_TENANT",
         "t309": "MALFORMED_SSO",
-        "t310": "BILLING_INFO_INV_60_DAYS"
+        "t310": "BILLING_INFO_INV_60_DAYS",
+        "t343": "BANNED_COMMENTING",
+        "t344": "BANNED_VOTING",
+        "t345": "BANNED_COMMENTING_WITH_REASON",
+        "t346": "BANNED_VOTING_WITH_REASON",
+        "t347": "BANNED_COMMENTING_WITH_END",
+        "t348": "BANNED_VOTING_WITH_END",
+        "t349": "BANNED_COMMENTING_WITH_REASON_AND_END",
+        "t350": "BANNED_VOTING_WITH_REASON_AND_END"
     },
     "tenant-signup-welcome": {
         "t1": "INTRO",

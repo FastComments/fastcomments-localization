@@ -3,5 +3,13 @@
     "DOMAIN_NOT_AUTHORIZED": "FastComments ne peut pas être chargé sur ce domaine, car il n&#39;appartient pas à votre compte. Si vous êtes administrateur de ce site, vous pouvez résoudre ce problème <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">ici</a> .",
     "INVALID_TENANT": "Impossible de charger FastComments – configuration non valide. Vérifiez que le « tenantId » spécifié est correct.",
     "MALFORMED_SSO": "Requête SSO incorrecte. Veuillez vérifier votre installation FastComments.",
-    "BILLING_INFO_INV_60_DAYS": "Les informations de facturation de ce compte FastComments sont obsolètes depuis plus de soixante jours. Les commentaires sont masqués jusqu'à la résolution du problème."
+    "BILLING_INFO_INV_60_DAYS": "Les informations de facturation de ce compte FastComments sont obsolètes depuis plus de soixante jours. Les commentaires sont masqués jusqu'à la résolution du problème.",
+    "BANNED_COMMENTING": "Vous avez été banni du droit de commenter sur ce site.",
+    "BANNED_VOTING": "Vous avez été banni du droit de commenter sur ce site, ce qui signifie que vous ne pouvez pas non plus voter.",
+    "BANNED_COMMENTING_WITH_REASON": "Vous avez été banni(e) des commentaires sur ce site. Motif : [reason]",
+    "BANNED_VOTING_WITH_REASON": "Vous ne pouvez plus commenter sur ce site, ce qui signifie que vous ne pouvez pas voter non plus. Motif : [reason]",
+    "BANNED_COMMENTING_WITH_END": "Vous avez été banni(e) des commentaires sur ce site. Cette interdiction prend fin le : [endDate]",
+    "BANNED_VOTING_WITH_END": "Vous ne pouvez plus commenter sur ce site, ce qui signifie que vous ne pouvez plus voter. Cette interdiction prend fin le : [endDate]",
+    "BANNED_COMMENTING_WITH_REASON_AND_END": "Vous avez été banni(e) des commentaires sur ce site. Motif : [reason]. Fin de l'interdiction : [endDate].",
+    "BANNED_VOTING_WITH_REASON_AND_END": "Vous avez été banni(e) des commentaires sur ce site, ce qui signifie que vous ne pouvez pas voter non plus. Motif : [reason]. Fin de l'interdiction : [endDate]."
 }

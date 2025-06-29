@@ -3,5 +3,13 @@
   "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
   "INVALID_TENANT": "FastComments could not load - invalid configuration specified. Check that the 'tenantId' specified is correct.",
   "MALFORMED_SSO": "Malformed SSO Request. Please check your FastComments installation.",
-  "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved."
+  "BILLING_INFO_INV_60_DAYS": "This FastComments account's billing information is more than sixty days out of date. Comments hidden until the issue is resolved.",
+  "BANNED_COMMENTING": "You have been banned from commenting on this site.",
+  "BANNED_VOTING": "You have been banned from commenting on this site, which means you cannot vote either.",
+  "BANNED_COMMENTING_WITH_REASON": "You have been banned from commenting on this site. Reason: [reason]",
+  "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
+  "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
+  "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
+  "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+  "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
 }

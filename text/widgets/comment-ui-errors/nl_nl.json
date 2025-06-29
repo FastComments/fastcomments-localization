@@ -3,5 +3,13 @@
     "DOMAIN_NOT_AUTHORIZED": "FastComments kan niet laden op dit domein omdat het niet bij uw account hoort. Als u een beheerder van deze site bent, kunt u dit <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">hier</a> oplossen.",
     "INVALID_TENANT": "FastComments kon niet worden geladen - ongeldige configuratie opgegeven. Controleer of de opgegeven 'tenantId' correct is.",
     "MALFORMED_SSO": "Misvormde SSO-aanvraag. Controleer uw FastComments-installatie.",
-    "BILLING_INFO_INV_60_DAYS": "De factureringsgegevens van dit FastComments-account zijn meer dan zestig dagen verouderd. Opmerkingen zijn verborgen totdat het probleem is opgelost."
+    "BILLING_INFO_INV_60_DAYS": "De factureringsgegevens van dit FastComments-account zijn meer dan zestig dagen verouderd. Opmerkingen zijn verborgen totdat het probleem is opgelost.",
+    "BANNED_COMMENTING": "U bent uitgesloten van het plaatsen van reacties op deze site.",
+    "BANNED_VOTING": "U bent uitgesloten van het plaatsen van reacties op deze site, wat betekent dat u ook niet kunt stemmen.",
+    "BANNED_COMMENTING_WITH_REASON": "U bent uitgesloten van het plaatsen van reacties op deze site. Reden: [reason]",
+    "BANNED_VOTING_WITH_REASON": "Je bent uitgesloten van reacties op deze site, wat betekent dat je ook niet kunt stemmen. Reden: [reason]",
+    "BANNED_COMMENTING_WITH_END": "Je bent uitgesloten van reacties op deze site. Deze ban eindigt op: [endDate]",
+    "BANNED_VOTING_WITH_END": "Je bent uitgesloten van reacties op deze site, wat betekent dat je ook niet kunt stemmen. Deze ban eindigt op: [endDate]",
+    "BANNED_COMMENTING_WITH_REASON_AND_END": "Je bent uitgesloten van reacties op deze site. Reden: [reason] Deze ban eindigt op: [endDate]",
+    "BANNED_VOTING_WITH_REASON_AND_END": "Je bent uitgesloten van reacties op deze site, wat betekent dat je ook niet kunt stemmen. Reden: [reason] Deze ban eindigt op: [endDate]"
 }
