@@ -434,7 +434,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-user-mention": {
                 "SUBJECT": "You've been tagged in a comment.",
@@ -776,8 +778,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -1223,7 +1225,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-user-mention": {
                 "SUBJECT": "You've been tagged in a comment.",
@@ -1565,8 +1569,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -1998,7 +2002,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-user-mention": {
                 "SUBJECT": "You've been tagged in a comment.",
@@ -2340,8 +2346,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -2771,7 +2777,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-user-mention": {
                 "SUBJECT": "You've been tagged in a comment.",
@@ -3113,8 +3121,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -3544,7 +3552,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-user-mention": {
                 "SUBJECT": "You've been tagged in a comment.",
@@ -3886,8 +3896,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -4317,7 +4327,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-user-mention": {
                 "SUBJECT": "You've been tagged in a comment.",
@@ -4659,8 +4671,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -5088,7 +5100,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-user-mention": {
                 "SUBJECT": "You've been tagged in a comment.",
@@ -5430,8 +5444,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -5836,7 +5850,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -6196,8 +6212,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -6612,7 +6628,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -6962,8 +6980,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -7390,7 +7408,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "recent-comments": {
                 "AVATAR": "Avatar",
@@ -7727,8 +7747,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -8175,7 +8195,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-ui-notifications-list": {
                 "SUBSCRIBE_TO_THIS_PAGE": "Subscribe to This Page",
@@ -8491,8 +8513,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -9006,7 +9028,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-ui-notifications-list": {
                 "SUBSCRIBE_TO_THIS_PAGE": "Subscribe to This Page",
@@ -9254,8 +9278,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -9769,7 +9793,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-ui-notifications-list": {
                 "SUBSCRIBE_TO_THIS_PAGE": "Subscribe to This Page",
@@ -10017,8 +10043,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -10532,7 +10558,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-ui-notifications-list": {
                 "SUBSCRIBE_TO_THIS_PAGE": "Subscribe to This Page",
@@ -10780,8 +10808,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -11295,7 +11323,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-ui-notifications-list": {
                 "SUBSCRIBE_TO_THIS_PAGE": "Subscribe to This Page",
@@ -11543,8 +11573,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -12058,7 +12088,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-ui-notifications-list": {
                 "SUBSCRIBE_TO_THIS_PAGE": "Subscribe to This Page",
@@ -12306,8 +12338,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -12821,7 +12853,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-ui-notifications-list": {
                 "SUBSCRIBE_TO_THIS_PAGE": "Subscribe to This Page",
@@ -13069,8 +13103,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -13590,7 +13624,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-ui-notifications-list": {
                 "SUBSCRIBE_TO_THIS_PAGE": "Subscribe to This Page",
@@ -13832,8 +13868,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -14353,7 +14389,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-ui-notifications-list": {
                 "SUBSCRIBE_TO_THIS_PAGE": "Subscribe to This Page",
@@ -14595,8 +14633,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -15116,7 +15154,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-ui-notifications-list": {
                 "SUBSCRIBE_TO_THIS_PAGE": "Subscribe to This Page",
@@ -15358,8 +15398,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -15879,7 +15919,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-ui-notifications-list": {
                 "SUBSCRIBE_TO_THIS_PAGE": "Subscribe to This Page",
@@ -16121,8 +16163,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -16642,7 +16684,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-ui-notifications-list": {
                 "SUBSCRIBE_TO_THIS_PAGE": "Subscribe to This Page",
@@ -16884,8 +16928,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -17405,7 +17449,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-ui-notifications-list": {
                 "SUBSCRIBE_TO_THIS_PAGE": "Subscribe to This Page",
@@ -17647,8 +17693,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -18168,7 +18214,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-ui-notifications-list": {
                 "SUBSCRIBE_TO_THIS_PAGE": "Subscribe to This Page",
@@ -18410,8 +18458,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -18931,7 +18979,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-ui-notifications-list": {
                 "SUBSCRIBE_TO_THIS_PAGE": "Subscribe to This Page",
@@ -19171,8 +19221,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",
@@ -19723,7 +19773,9 @@
                 "COMMENT_MENU_PIN": "Pin",
                 "COMMENT_MENU_UNPIN": "Unpin",
                 "COMMENT_MENU_LOCK": "Lock",
-                "COMMENT_MENU_UNLOCK": "Unlock"
+                "COMMENT_MENU_UNLOCK": "Unlock",
+                "MODERATION_BAN_REASON": "Ban Reason (Optional)",
+                "MODERATION_BAN_REASON_PLACEHOLDER": "Enter a reason for this ban..."
             },
             "comment-ui-notifications-list": {
                 "SUBSCRIBE_TO_THIS_PAGE": "Subscribe to This Page",
@@ -19931,8 +19983,8 @@
                 "BANNED_VOTING_WITH_REASON": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]",
                 "BANNED_COMMENTING_WITH_END": "You have been banned from commenting on this site. This ban ends: [endDate]",
                 "BANNED_VOTING_WITH_END": "You have been banned from commenting on this site, which means you cannot vote either. This ban ends: [endDate]",
-                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason] This ban ends: [endDate]",
-                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason] This ban ends: [endDate]"
+                "BANNED_COMMENTING_WITH_REASON_AND_END": "You have been banned from commenting on this site. Reason: [reason]. This ban ends: [endDate]",
+                "BANNED_VOTING_WITH_REASON_AND_END": "You have been banned from commenting on this site, which means you cannot vote either. Reason: [reason]. This ban ends: [endDate]"
             },
             "tenant-signup-welcome": {
                 "INTRO": "Hey <%= username %>,",

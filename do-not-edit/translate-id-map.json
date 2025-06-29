@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 350,
+        "comment-ui": 352,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -450,7 +450,9 @@
         "t290": "COMMENT_MENU_PIN",
         "t291": "COMMENT_MENU_UNPIN",
         "t292": "COMMENT_MENU_LOCK",
-        "t293": "COMMENT_MENU_UNLOCK"
+        "t293": "COMMENT_MENU_UNLOCK",
+        "t351": "MODERATION_BAN_REASON",
+        "t352": "MODERATION_BAN_REASON_PLACEHOLDER"
     },
     "comment-user-mention": {
         "t1": "SUBJECT",
