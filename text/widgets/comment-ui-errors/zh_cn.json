@@ -11,5 +11,7 @@
     "BANNED_COMMENTING_WITH_END": "您已被禁止在此网站上发表评论。此禁令将于 [endDate] 结束。",
     "BANNED_VOTING_WITH_END": "您已被禁止在此网站上发表评论，这意味着您也无法投票。此禁令将于 [endDate] 结束。",
     "BANNED_COMMENTING_WITH_REASON_AND_END": "您已被禁止在此网站上发表评论。原因：[reason] 禁令结束日期：[endDate]",
-    "BANNED_VOTING_WITH_REASON_AND_END": "您已被禁止在此网站上发表评论，这意味着您也无法投票。原因：[reason] 此禁令结束日期：[endDate]"
+    "BANNED_VOTING_WITH_REASON_AND_END": "您已被禁止在此网站上发表评论，这意味着您也无法投票。原因：[reason] 此禁令结束日期：[endDate]",
+    "LOGIN_TO_EDIT": "您发表此评论已有一段时间了。请登录后再进行编辑。",
+    "LOGIN_TO_DELETE": "您上次发表此评论已有一段时间了。请登录后再删除。"
 }

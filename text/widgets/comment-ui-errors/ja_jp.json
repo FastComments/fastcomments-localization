@@ -11,5 +11,7 @@
     "BANNED_COMMENTING_WITH_END": "このサイトへのコメント投稿は禁止されています。禁止期間の終了日: [endDate]",
     "BANNED_VOTING_WITH_END": "このサイトへのコメント投稿が禁止されているため、投票もできません。この禁止は[endDate]まで有効です。",
     "BANNED_COMMENTING_WITH_REASON_AND_END": "このサイトへのコメント投稿は禁止されています。理由: [reason] この禁止期間の終了日: [endDate]",
-    "BANNED_VOTING_WITH_REASON_AND_END": "このサイトへのコメント投稿が禁止されているため、投票もできません。理由: [reason] この禁止期間の終了日: [endDate]"
+    "BANNED_VOTING_WITH_REASON_AND_END": "このサイトへのコメント投稿が禁止されているため、投票もできません。理由: [reason] この禁止期間の終了日: [endDate]",
+    "LOGIN_TO_EDIT": "このコメントを残してからしばらく経ちました。編集するにはログインしてください。",
+    "LOGIN_TO_DELETE": "このコメントを残してからしばらく経ちました。削除するにはログインしてください。"
 }

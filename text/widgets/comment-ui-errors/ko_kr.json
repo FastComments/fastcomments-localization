@@ -11,5 +11,7 @@
     "BANNED_COMMENTING_WITH_END": "이 사이트에 댓글을 달 수 없습니다. 이 차단은 [endDate]에 종료됩니다.",
     "BANNED_VOTING_WITH_END": "이 사이트에 댓글을 달 수 없도록 차단되었습니다. 따라서 투표도 할 수 없습니다. 차단 해제 날짜: [endDate]",
     "BANNED_COMMENTING_WITH_REASON_AND_END": "이 사이트에 댓글을 달 수 없습니다. 사유: [reason] 이 금지는 [endDate]에 종료됩니다.",
-    "BANNED_VOTING_WITH_REASON_AND_END": "이 사이트에 댓글을 달 수 없도록 차단되었습니다. 따라서 투표도 할 수 없습니다. 사유: [reason] 차단 해제일: [endDate]"
+    "BANNED_VOTING_WITH_REASON_AND_END": "이 사이트에 댓글을 달 수 없도록 차단되었습니다. 따라서 투표도 할 수 없습니다. 사유: [reason] 차단 해제일: [endDate]",
+    "LOGIN_TO_EDIT": "댓글을 남긴 지 꽤 되었습니다. 수정하려면 로그인하세요.",
+    "LOGIN_TO_DELETE": "댓글을 남긴 지 꽤 되었습니다. 삭제하려면 로그인하세요."
 }
