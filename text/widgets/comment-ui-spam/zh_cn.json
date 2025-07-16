@@ -1,3 +1,4 @@
 {
-    "COMMENT_LOOKS_LIKE_SPAM": "该评论看起来像垃圾邮件。请编辑您的评论，然后重试。"
+    "COMMENT_LOOKS_LIKE_SPAM": "该评论看起来像垃圾邮件。请编辑您的评论，然后重试。",
+    "COMMENT_CONTAINS_BLOCKED_WORDS": "您的评论包含被屏蔽的单词或短语：[blocked_terms]。请编辑您的评论并重试。"
 }
