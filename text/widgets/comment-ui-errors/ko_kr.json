@@ -13,5 +13,9 @@
     "BANNED_COMMENTING_WITH_REASON_AND_END": "이 사이트에 댓글을 달 수 없습니다. 사유: [reason] 이 금지는 [endDate]에 종료됩니다.",
     "BANNED_VOTING_WITH_REASON_AND_END": "이 사이트에 댓글을 달 수 없도록 차단되었습니다. 따라서 투표도 할 수 없습니다. 사유: [reason] 차단 해제일: [endDate]",
     "LOGIN_TO_EDIT": "댓글을 남긴 지 꽤 되었습니다. 수정하려면 로그인하세요.",
-    "LOGIN_TO_DELETE": "댓글을 남긴 지 꽤 되었습니다. 삭제하려면 로그인하세요."
+    "LOGIN_TO_DELETE": "댓글을 남긴 지 꽤 되었습니다. 삭제하려면 로그인하세요.",
+    "BILLING_INFO_INV": "이 FastComments 계정의 결제 정보가 만료되었습니다. <b>문제가 해결되지 않으면 댓글이 60일 후 숨겨집니다</b> .",
+    "DEMO_CREATE_ACCT": "이것은 데모 <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">입니다 계정 만들기</a>",
+    "EXCEEDED_QUOTA": "이 FastComments 계정은 월별 할당량을 초과했으며 댓글이 숨겨져 있습니다. 이 사이트의 관리자인 경우 <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">여기에서 업그레이드</a> 하십시오.",
+    "EMBED_GOOGLE_INSTRUCTIONS": "Google 사이트 도구에 FastComments를 포함하려면 <a href=\"https://fastcomments.com/create\" target=\"_blank\">여기</a> 에서 포함 URL을 만드세요."
 }

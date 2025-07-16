@@ -13,5 +13,9 @@
     "BANNED_COMMENTING_WITH_REASON_AND_END": "Ti è stato vietato di commentare su questo sito. Motivo: [reason] Questo divieto termina il: [endDate]",
     "BANNED_VOTING_WITH_REASON_AND_END": "Ti è stato vietato di commentare su questo sito, il che significa che non puoi nemmeno votare. Motivo: [reason] Questo divieto termina il: [endDate]",
     "LOGIN_TO_EDIT": "È passato un po' di tempo dall'ultima volta che hai lasciato questo commento. Accedi per modificarlo.",
-    "LOGIN_TO_DELETE": "È passato un po' di tempo dall'ultima volta che hai lasciato questo commento. Accedi per eliminarlo."
+    "LOGIN_TO_DELETE": "È passato un po' di tempo dall'ultima volta che hai lasciato questo commento. Accedi per eliminarlo.",
+    "BILLING_INFO_INV": "Le informazioni di fatturazione dell'account dei fastiscienti non sono aggiornate. <b> I commenti saranno nascosti dopo sessanta giorni a meno che il problema non sia risolto </b>.",
+    "DEMO_CREATE_ACCT": "Questa è una demo <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\"> Creare un account </a>",
+    "EXCEEDED_QUOTA": "Questo account FastComments ha superato la sua quota mensile e i commenti sono ora nascosti. Se sei l&#39;amministratore di questo sito, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">aggiorna qui</a>",
+    "EMBED_GOOGLE_INSTRUCTIONS": "Per incorporare FastComments in Google Sites, crea un URL di incorporamento <a href=\"https://fastcomments.com/create\" target=\"_blank\">qui</a> ."
 }

@@ -13,5 +13,9 @@
     "BANNED_COMMENTING_WITH_REASON_AND_END": "您已被禁止在此网站上发表评论。原因：[reason] 禁令结束日期：[endDate]",
     "BANNED_VOTING_WITH_REASON_AND_END": "您已被禁止在此网站上发表评论，这意味着您也无法投票。原因：[reason] 此禁令结束日期：[endDate]",
     "LOGIN_TO_EDIT": "您发表此评论已有一段时间了。请登录后再进行编辑。",
-    "LOGIN_TO_DELETE": "您上次发表此评论已有一段时间了。请登录后再删除。"
+    "LOGIN_TO_DELETE": "您上次发表此评论已有一段时间了。请登录后再删除。",
+    "BILLING_INFO_INV": "此 FastComments 帐户的帐单信息已过期。<b>除非问题得到解决，否则评论将在 60 天后隐藏</b>。",
+    "DEMO_CREATE_ACCT": "这是一个演示<a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">创建一个帐户</a>",
+    "EXCEEDED_QUOTA": "此 FastComments 帐户已超出其每月配额，现在已隐藏评论。如果您是该站点的管理员，请<a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">在此处升级</a>",
+    "EMBED_GOOGLE_INSTRUCTIONS": "要在 Google 协作平台中嵌入 FastComments，请在<a href=\"https://fastcomments.com/create\" target=\"_blank\">此处</a>创建嵌入 URL。"
 }

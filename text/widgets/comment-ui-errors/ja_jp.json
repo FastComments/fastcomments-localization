@@ -13,5 +13,9 @@
     "BANNED_COMMENTING_WITH_REASON_AND_END": "このサイトへのコメント投稿は禁止されています。理由: [reason] この禁止期間の終了日: [endDate]",
     "BANNED_VOTING_WITH_REASON_AND_END": "このサイトへのコメント投稿が禁止されているため、投票もできません。理由: [reason] この禁止期間の終了日: [endDate]",
     "LOGIN_TO_EDIT": "このコメントを残してからしばらく経ちました。編集するにはログインしてください。",
-    "LOGIN_TO_DELETE": "このコメントを残してからしばらく経ちました。削除するにはログインしてください。"
+    "LOGIN_TO_DELETE": "このコメントを残してからしばらく経ちました。削除するにはログインしてください。",
+    "BILLING_INFO_INV": "このFastCommentsアカウントの請求情報は古くなっています。<b>問題が解決されない限り、コメントは60日後に非表示になります</b>。",
+    "DEMO_CREATE_ACCT": "これはデモです<a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">アカウントを作成します</a>",
+    "EXCEEDED_QUOTA": "このFastCommentsアカウントは月間割り当てを超えており、コメントは非表示になっています。このサイトの管理者の場合は、<a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">ここでアップグレードしてください</a>",
+    "EMBED_GOOGLE_INSTRUCTIONS": "FastCommentsをGoogleサイトに埋め込むには、<a href=\"https://fastcomments.com/create\" target=\"_blank\">ここに</a>埋め込みURLを作成します。"
 }

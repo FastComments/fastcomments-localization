@@ -13,5 +13,9 @@
     "BANNED_COMMENTING_WITH_REASON_AND_END": "Je bent uitgesloten van reacties op deze site. Reden: [reason] Deze ban eindigt op: [endDate]",
     "BANNED_VOTING_WITH_REASON_AND_END": "Je bent uitgesloten van reacties op deze site, wat betekent dat je ook niet kunt stemmen. Reden: [reason] Deze ban eindigt op: [endDate]",
     "LOGIN_TO_EDIT": "Het is alweer een tijdje geleden dat je deze reactie hebt achtergelaten. Log in om te bewerken.",
-    "LOGIN_TO_DELETE": "Het is alweer een tijdje geleden dat je deze reactie hebt achtergelaten. Log in om te verwijderen."
+    "LOGIN_TO_DELETE": "Het is alweer een tijdje geleden dat je deze reactie hebt achtergelaten. Log in om te verwijderen.",
+    "BILLING_INFO_INV": "De factuurgegevens van dit FastComments-account zijn verouderd. <b>Reacties worden na zestig dagen verborgen, tenzij het probleem is opgelost</b> .",
+    "DEMO_CREATE_ACCT": "DIT IS EEN DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Maak een account aan</a>",
+    "EXCEEDED_QUOTA": "Dit FastComments-account heeft zijn maandelijkse quotum overschreden en reacties zijn nu verborgen. Als u de beheerder van deze site bent, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">kunt u hier upgraden</a>",
+    "EMBED_GOOGLE_INSTRUCTIONS": "Om FastComments in Google Sites in te sluiten, maakt u <a href=\"https://fastcomments.com/create\" target=\"_blank\">hier</a> een Embed-URL aan."
 }

@@ -13,5 +13,9 @@
     "BANNED_COMMENTING_WITH_REASON_AND_END": "Se te ha prohibido comentar en este sitio. Motivo: [reason] Esta prohibición finaliza: [endDate]",
     "BANNED_VOTING_WITH_REASON_AND_END": "Se te ha prohibido comentar en este sitio, lo que significa que tampoco puedes votar. Motivo: [reason] Esta prohibición finaliza: [endDate]",
     "LOGIN_TO_EDIT": "Ha pasado tiempo desde que dejaste este comentario. Inicia sesión para editar.",
-    "LOGIN_TO_DELETE": "Ha pasado tiempo desde que dejaste este comentario. Inicia sesión para eliminarlo."
+    "LOGIN_TO_DELETE": "Ha pasado tiempo desde que dejaste este comentario. Inicia sesión para eliminarlo.",
+    "BILLING_INFO_INV": "La información de facturación de esta cuenta de FastComments está desactualizada. <b> Los comentarios se ocultarán después de sesenta días a menos que el problema se resuelva </b>.",
+    "DEMO_CREATE_ACCT": "Esta es una demo <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\"> Crea una cuenta </a>",
+    "EXCEEDED_QUOTA": "Esta cuenta de FastComments ha superado su cuota mensual y los comentarios ahora están ocultos. Si es el administrador de este sitio, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">actualice aquí</a>",
+    "EMBED_GOOGLE_INSTRUCTIONS": "Para incrustar FastComments en los sitios de Google, cree una URL para incrustar <a href=\"https://fastcomments.com/create\" target=\"_blank\">aquí</a> ."
 }

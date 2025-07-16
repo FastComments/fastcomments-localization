@@ -13,5 +13,9 @@
     "BANNED_COMMENTING_WITH_REASON_AND_END": "Zabranjeno vam je da komentarišete na ovom sajtu. Razlog: [reason] Ova zabrana se završava: [endDate]",
     "BANNED_VOTING_WITH_REASON_AND_END": "Zabranjeno vam je da komentarišete na ovom sajtu, što znači da ni vi ne možete glasati. Razlog: [reason] Ova zabrana se završava: [endDate]",
     "LOGIN_TO_EDIT": "Prošlo je dosta vremena od kada ste ostavili ovaj komentar. Molimo Vas da se prijavite da biste uredili.",
-    "LOGIN_TO_DELETE": "Prošlo je dosta vremena od kada ste ostavili ovaj komentar. Molimo Vas da se prijavite da biste izbrisali."
+    "LOGIN_TO_DELETE": "Prošlo je dosta vremena od kada ste ostavili ovaj komentar. Molimo Vas da se prijavite da biste izbrisali.",
+    "BILLING_INFO_INV": "Informacije o naplati naloga za FastComments su zaoštećene. <b>Komentari će biti sakriveni posle šezdeset dana ukoliko se to pitanje ne reši</b>.",
+    "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\"> >Create an Account</a>",
+    "EXCEEDED_QUOTA": "Ovaj FastComments nalog je premašio svoju mesečnu kvotu i komentari su sada skriveni. Ako ste administrator ovog sajta, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\"> >Upgrade Here</a>",
+    "EMBED_GOOGLE_INSTRUCTIONS": "Da biste ugušili FastComments na Google sajtovima, kreirajte Embed URL adresu <a href=\"https://fastcomments.com/create\" target=\"_blank\"> >here</a>."
 }

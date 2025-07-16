@@ -13,5 +13,9 @@
     "BANNED_COMMENTING_WITH_REASON_AND_END": "Забранено ви е да коментирате в този сайт. Причина: [reason] Тази забрана изтича на: [endDate]",
     "BANNED_VOTING_WITH_REASON_AND_END": "Забранено ви е да коментирате в този сайт, което означава, че не можете и да гласувате. Причина: [reason] Тази забрана изтича на: [endDate]",
     "LOGIN_TO_EDIT": "Мина известно време, откакто оставихте този коментар. Моля, влезте, за да редактирате.",
-    "LOGIN_TO_DELETE": "Мина известно време, откакто оставихте този коментар. Моля, влезте, за да го изтриете."
+    "LOGIN_TO_DELETE": "Мина известно време, откакто оставихте този коментар. Моля, влезте, за да го изтриете.",
+    "BILLING_INFO_INV": "Информацията за плащане на този акаунт на FastComments не е актуална. <b>Коментарите ще бъдат скрити след шестдесет дни, освен ако проблемът не бъде разрешен</b> .",
+    "DEMO_CREATE_ACCT": "ТОВА Е ДЕМО <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Създайте акаунт</a>",
+    "EXCEEDED_QUOTA": "Този акаунт на FastComments е надхвърлил месечната си квота и коментарите вече са скрити. Ако сте администратор на този сайт, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">надстройте тук</a>",
+    "EMBED_GOOGLE_INSTRUCTIONS": "За да вградите FastComments в Google Sites, създайте URL за вграждане <a href=\"https://fastcomments.com/create\" target=\"_blank\">тук</a> ."
 }

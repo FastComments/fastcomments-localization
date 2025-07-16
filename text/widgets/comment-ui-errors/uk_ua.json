@@ -13,5 +13,9 @@
     "BANNED_COMMENTING_WITH_REASON_AND_END": "Вам заборонено коментувати цей сайт. Причина: [reason] Термін дії цієї заборони закінчується: [endDate]",
     "BANNED_VOTING_WITH_REASON_AND_END": "Вам заборонено коментувати на цьому сайті, а це означає, що ви також не можете голосувати. Причина: [reason] Термін дії заборони закінчується: [endDate]",
     "LOGIN_TO_EDIT": "Минуло вже деякий час відтоді, як ви залишили цей коментар. Будь ласка, увійдіть, щоб редагувати.",
-    "LOGIN_TO_DELETE": "Минуло деякий час відтоді, як ви залишили цей коментар. Будь ласка, увійдіть, щоб видалити його."
+    "LOGIN_TO_DELETE": "Минуло деякий час відтоді, як ви залишили цей коментар. Будь ласка, увійдіть, щоб видалити його.",
+    "BILLING_INFO_INV": "Платіжна інформація цього облікового запису FastComments застаріла. <b>Коментарі будуть приховані через шістдесят днів, якщо проблему не буде вирішено</b> .",
+    "DEMO_CREATE_ACCT": "ЦЕ ДЕМО <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Створіть обліковий запис</a>",
+    "EXCEEDED_QUOTA": "Цей обліковий запис FastComments перевищив місячну квоту, тому коментарі тепер приховано. Якщо ви адміністратор цього сайту, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">оновіть тут</a>",
+    "EMBED_GOOGLE_INSTRUCTIONS": "Щоб вставити FastComments у Google Sites, створіть <a href=\"https://fastcomments.com/create\" target=\"_blank\">тут</a> URL-адресу для вставки."
 }
