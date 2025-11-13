@@ -1,0 +1,11 @@
+{
+    "INTRO": "Hé <%= username %>, tu as gagné un nouveau badge !",
+    "CONGRATULATIONS": "Félicitations!",
+    "BANNER_TEXT": "Nouveau badge obtenu",
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "Vous avez gagné le badge « <%= badge.name %> » !",
+    "VIEW_ALL_BADGES": "Afficher tous vos badges",
+    "BADGE_EARNED_MESSAGE": "Vous avez obtenu avec succès le badge <strong><%= badge.name %></strong> .",
+    "KEEP_UP_GOOD_WORK": "Continuez votre excellent travail !",
+    "UNSUBSCRIBE_HERE": "Se désabonner des notifications par badge"
+}

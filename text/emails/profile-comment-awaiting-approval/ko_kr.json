@@ -1,0 +1,8 @@
+{
+    "SUBJECT": "<%= comment.commenterName %>님의 프로필 댓글이 승인을 기다리고 있습니다.",
+    "INTRO": "여기요 <%= targetUser.username %>,",
+    "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "프로필에 승인이 필요한 새 댓글이 등록되었습니다. 아래 버튼을 사용하여 이 댓글을 승인하거나 거부하실 수 있습니다.",
+    "APPROVE_COMMENT": "댓글 승인",
+    "REJECT_COMMENT": "댓글 거부",
+    "UNSUBSCRIBE_HERE": "여기에서 알림을 구독 취소하세요."
+}

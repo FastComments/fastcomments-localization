@@ -1,0 +1,11 @@
+{
+    "INTRO": "嘿，<%= username %>，你获得了一枚新徽章！",
+    "CONGRATULATIONS": "恭喜！",
+    "BANNER_TEXT": "获得新徽章",
+    "FROM_NAME": "快速评论机器人",
+    "SUBJECT": "你获得了“<%= badge.name %>”徽章！",
+    "VIEW_ALL_BADGES": "查看您的所有徽章",
+    "BADGE_EARNED_MESSAGE": "你已成功获得<strong><%= badge.name %></strong>徽章。",
+    "KEEP_UP_GOOD_WORK": "继续保持！",
+    "UNSUBSCRIBE_HERE": "取消订阅徽章通知"
+}

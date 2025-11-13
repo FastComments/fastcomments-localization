@@ -12,7 +12,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 355,
+        "comment-ui": 364,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -40,7 +40,9 @@
         "comment-ui-error-language-not-allowed": 1,
         "tenant-new-referral": 8,
         "reviews-summary": 4,
-        "tenant-signup-welcome": 7
+        "tenant-signup-welcome": 7,
+        "badge-award": 9,
+        "profile-comment-awaiting-approval": 6
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -606,7 +608,12 @@
         "t339": "PROFILE_ACTIVITY_SHOW_ALL",
         "t340": "PROFILE_ACTIVITY_REPLIES_TO_ME",
         "t341": "PROFILE_TAB_ACTIVITY_WITH_ME",
-        "t342": "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU"
+        "t342": "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU",
+        "t360": "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE",
+        "t361": "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL",
+        "t362": "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED",
+        "t363": "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL",
+        "t364": "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW"
     },
     "direct-message-notification": {
         "t1": "SUBJECT",
@@ -801,7 +808,11 @@
         "t349": "BANNED_COMMENTING_WITH_REASON_AND_END",
         "t350": "BANNED_VOTING_WITH_REASON_AND_END",
         "t353": "LOGIN_TO_EDIT",
-        "t354": "LOGIN_TO_DELETE"
+        "t354": "LOGIN_TO_DELETE",
+        "t356": "BILLING_INFO_INV",
+        "t357": "DEMO_CREATE_ACCT",
+        "t358": "EXCEEDED_QUOTA",
+        "t359": "EMBED_GOOGLE_INSTRUCTIONS"
     },
     "tenant-signup-welcome": {
         "t1": "INTRO",
@@ -811,5 +822,24 @@
         "t5": "THANKS_MESSAGE",
         "t6": "VERIFY_ACCOUNT",
         "t7": "LOGIN_LINKS"
+    },
+    "badge-award": {
+        "t1": "INTRO",
+        "t2": "CONGRATULATIONS",
+        "t3": "BANNER_TEXT",
+        "t4": "FROM_NAME",
+        "t5": "SUBJECT",
+        "t6": "VIEW_ALL_BADGES",
+        "t7": "BADGE_EARNED_MESSAGE",
+        "t8": "KEEP_UP_GOOD_WORK",
+        "t9": "UNSUBSCRIBE_HERE"
+    },
+    "profile-comment-awaiting-approval": {
+        "t1": "SUBJECT",
+        "t2": "INTRO",
+        "t3": "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL",
+        "t4": "APPROVE_COMMENT",
+        "t5": "REJECT_COMMENT",
+        "t6": "UNSUBSCRIBE_HERE"
     }
 }

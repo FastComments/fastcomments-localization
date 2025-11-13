@@ -1,0 +1,8 @@
+{
+    "SUBJECT": "<%= comment.commenterName %> adlı kişinin profil yorumu onay bekliyor",
+    "INTRO": "Hey <%= targetUser.username %>,",
+    "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "Profilinize onayınızı gerektiren yeni bir yorum aldınız. Aşağıdaki butonları kullanarak bu yorumu onaylayabilir veya reddedebilirsiniz.",
+    "APPROVE_COMMENT": "Yorumu Onayla",
+    "REJECT_COMMENT": "Yorumu Reddet",
+    "UNSUBSCRIBE_HERE": "Bildirim aboneliğinizi buradan iptal edebilirsiniz."
+}

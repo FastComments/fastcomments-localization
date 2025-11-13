@@ -69,5 +69,10 @@
     "PROFILE_ACTIVITY_SHOW_ALL": "Показать всю активность",
     "PROFILE_ACTIVITY_REPLIES_TO_ME": "Посмотреть ответы мне",
     "PROFILE_TAB_ACTIVITY_WITH_ME": "Активность (со мной)",
-    "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "Ответов на ваш вопрос не найдено."
+    "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "Ответов на ваш вопрос не найдено.",
+    "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Режим одобрения комментариев к профилю",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Автоматически одобрять все комментарии",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Автоматическое одобрение доверенных комментаторов (по умолчанию)",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Одобрить все комментарии вручную",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Одобряйте вручную новых/непроверенных комментаторов"
 }

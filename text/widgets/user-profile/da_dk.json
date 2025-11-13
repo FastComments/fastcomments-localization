@@ -69,5 +69,10 @@
     "PROFILE_ACTIVITY_SHOW_ALL": "Vis al aktivitet",
     "PROFILE_ACTIVITY_REPLIES_TO_ME": "Se svar til mig",
     "PROFILE_TAB_ACTIVITY_WITH_ME": "Aktivitet (med mig)",
-    "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "Der blev ikke fundet nogen svar til dig."
+    "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "Der blev ikke fundet nogen svar til dig.",
+    "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Godkendelsestilstand for profilkommentar",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Godkend alle kommentarer automatisk",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Godkend automatisk betroede kommentatorer (standard)",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Godkend alle kommentarer manuelt",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Godkend manuelt nye/ikke-tillidsfulde kommentatorer"
 }

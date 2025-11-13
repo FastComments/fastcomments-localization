@@ -1,0 +1,8 @@
+{
+    "SUBJECT": "Profielcommentaar van <%= comment.commenterName %> in afwachting van goedkeuring",
+    "INTRO": "Hoi <%= targetUser.username %>,",
+    "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "Je hebt een nieuwe reactie op je profiel ontvangen die je goedkeuring vereist. Je kunt deze reactie goedkeuren of afwijzen met de onderstaande knoppen.",
+    "APPROVE_COMMENT": "Commentaar goedkeuren",
+    "REJECT_COMMENT": "Reactie afwijzen",
+    "UNSUBSCRIBE_HERE": "U kunt zich hier afmelden voor meldingen."
+}

@@ -590,7 +590,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -792,6 +797,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "es_es": {
@@ -1384,7 +1408,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -1586,6 +1615,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "pl_pl": {
@@ -2164,7 +2212,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -2366,6 +2419,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "de_de": {
@@ -2942,7 +3014,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -3144,6 +3221,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "it_it": {
@@ -3720,7 +3816,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -3922,6 +4023,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "ru_ru": {
@@ -4498,7 +4618,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -4700,6 +4825,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "pt_br": {
@@ -5274,7 +5418,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -5476,6 +5625,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "ja_jp": {
@@ -6045,7 +6213,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -6247,6 +6420,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "tr_tr": {
@@ -6816,7 +7008,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -7018,6 +7215,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "zh_cn": {
@@ -7586,7 +7802,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "direct-message-notification": {
                 "SUBJECT": "New message from <%= comment.commenterName %>",
@@ -7788,6 +8009,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "ko_kr": {
@@ -8362,7 +8602,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "profile-comment-notification": {
                 "SUBJECT": "New profile comment from <%= comment.commenterName %>",
@@ -8557,6 +8802,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "zh_tw": {
@@ -9220,7 +9484,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "comment-ui-search": {
                 "SEARCH_PLACEHOLDER": "Search comments here...",
@@ -9325,6 +9594,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "he": {
@@ -9988,7 +10276,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "comment-ui-search": {
                 "SEARCH_PLACEHOLDER": "Search comments here...",
@@ -10093,6 +10386,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "hr_hr": {
@@ -10761,7 +11073,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
@@ -10861,6 +11178,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "da_dk": {
@@ -11529,7 +11865,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
@@ -11629,6 +11970,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "ru_ua": {
@@ -12297,7 +12657,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
@@ -12397,6 +12762,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "uk_ua": {
@@ -13065,7 +13449,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "comment-ui-deleting": {
                 "COMMENT_DELETED_NAME": "[deleted]",
@@ -13165,6 +13554,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "bg_bg": {
@@ -13839,7 +14247,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -13933,6 +14346,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "el_cy": {
@@ -14607,7 +15039,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -14701,6 +15138,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "el_gr": {
@@ -15375,7 +15831,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -15469,6 +15930,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "sr_ba": {
@@ -16143,7 +16623,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -16237,6 +16722,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "sr_me": {
@@ -16911,7 +17415,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -17005,6 +17514,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "sr_rs": {
@@ -17679,7 +18207,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -17773,6 +18306,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "sl_sl": {
@@ -18447,7 +18999,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -18541,6 +19098,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "sr_latn_rs": {
@@ -19215,7 +19791,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "password-reset-request": {
                 "FROM_NAME": "FastComments Robot",
@@ -19307,6 +19888,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         },
         "nl_nl": {
@@ -20012,7 +20612,12 @@
                 "PROFILE_ACTIVITY_SHOW_ALL": "Show All Activity",
                 "PROFILE_ACTIVITY_REPLIES_TO_ME": "See Replies to Me",
                 "PROFILE_TAB_ACTIVITY_WITH_ME": "Activity (with me)",
-                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found."
+                "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "No replies to you found.",
+                "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Profile Comment Approval Mode",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Auto-approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Auto-approve trusted commenters (default)",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Manually approve all comments",
+                "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Manually approve new/untrusted commenters"
             },
             "comment-ui-vote-list": {
                 "GETTING_VOTE_LIST": "Getting vote list...",
@@ -20072,6 +20677,25 @@
                 "THANKS_MESSAGE": "Thanks for signing up to FastComments.",
                 "VERIFY_ACCOUNT": "Please <b>verify your account</b> by clicking <a href=\"<%= userVerifyUrl %>\">this link</a>. This will also sign you in.",
                 "LOGIN_LINKS": "You can create new links to log into your account <a href=\"<%= loginUrl %>\">here</a>. You can also set a password after logging in if desired."
+            },
+            "badge-award": {
+                "INTRO": "Hey <%= username %>, you've earned a new badge!",
+                "CONGRATULATIONS": "Congratulations!",
+                "BANNER_TEXT": "New Badge Earned",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+                "VIEW_ALL_BADGES": "View All Your Badges",
+                "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+                "KEEP_UP_GOOD_WORK": "Keep up the great work!",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
+            },
+            "profile-comment-awaiting-approval": {
+                "SUBJECT": "Profile comment from <%= comment.commenterName %> awaiting approval",
+                "INTRO": "Hey <%= targetUser.username %>,",
+                "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "You have received a new comment on your profile that requires your approval. You can approve or reject this comment using the buttons below.",
+                "APPROVE_COMMENT": "Approve Comment",
+                "REJECT_COMMENT": "Reject Comment",
+                "UNSUBSCRIBE_HERE": "Unsubscribe from notifications here."
             }
         }
     }

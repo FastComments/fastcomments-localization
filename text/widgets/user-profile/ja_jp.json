@@ -69,5 +69,10 @@
     "PROFILE_ACTIVITY_SHOW_ALL": "すべてのアクティビティを表示",
     "PROFILE_ACTIVITY_REPLIES_TO_ME": "自分への返信を見る",
     "PROFILE_TAB_ACTIVITY_WITH_ME": "アクティビティ（私と一緒に）",
-    "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "あなたへの返信は見つかりませんでした。"
+    "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "あなたへの返信は見つかりませんでした。",
+    "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "プロフィールコメント承認モード",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "すべてのコメントを自動承認",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "信頼できるコメント投稿者を自動承認する（デフォルト）",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "すべてのコメントを手動で承認する",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "新規/信頼できないコメント投稿者を手動で承認する"
 }

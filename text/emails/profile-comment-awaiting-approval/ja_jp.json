@@ -1,0 +1,8 @@
+{
+    "SUBJECT": "<%= comment.commenterName %> からのプロフィールコメントが承認待ちです",
+    "INTRO": "おい <%= targetUser.username %>、",
+    "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "プロフィールに新しいコメントが届きました。承認が必要です。下のボタンを使用して、このコメントを承認または拒否できます。",
+    "APPROVE_COMMENT": "コメントを承認",
+    "REJECT_COMMENT": "コメントを拒否",
+    "UNSUBSCRIBE_HERE": "ここで通知の購読を解除してください。"
+}

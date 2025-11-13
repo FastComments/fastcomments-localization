@@ -1,0 +1,8 @@
+{
+    "SUBJECT": "来自<%= comment.commenterName %>的个人资料评论正在等待审核",
+    "INTRO": "嘿 <%= targetUser.username %>，",
+    "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "您收到了一条新的评论，需要您审核。您可以使用下方的按钮批准或拒绝此评论。",
+    "APPROVE_COMMENT": "批准评论",
+    "REJECT_COMMENT": "拒绝评论",
+    "UNSUBSCRIBE_HERE": "点击此处取消订阅通知。"
+}

@@ -1,0 +1,11 @@
+{
+    "INTRO": "Привет, <%= username %>, ты заслужил новый значок!",
+    "CONGRATULATIONS": "Поздравляю!",
+    "BANNER_TEXT": "Получен новый значок",
+    "FROM_NAME": "Робот FastComments",
+    "SUBJECT": "Вы заслужили значок «<%= badge.name %>»!",
+    "VIEW_ALL_BADGES": "Просмотреть все ваши значки",
+    "BADGE_EARNED_MESSAGE": "Вы успешно заслужили значок <strong><%= badge.name %></strong> .",
+    "KEEP_UP_GOOD_WORK": "Продолжайте в том же духе!",
+    "UNSUBSCRIBE_HERE": "Отписаться от уведомлений о значках"
+}

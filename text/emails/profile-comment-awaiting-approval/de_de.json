@@ -1,0 +1,8 @@
+{
+    "SUBJECT": "Profilkommentar von <%= comment.commenterName %> wartet auf Genehmigung",
+    "INTRO": "Hey <%= targetUser.username %>,",
+    "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "Sie haben einen neuen Kommentar auf Ihrem Profil erhalten, der Ihre Zustimmung erfordert. Sie können diesen Kommentar mithilfe der Schaltflächen unten bestätigen oder ablehnen.",
+    "APPROVE_COMMENT": "Kommentar genehmigen",
+    "REJECT_COMMENT": "Kommentar ablehnen",
+    "UNSUBSCRIBE_HERE": "Hier können Sie sich von Benachrichtigungen abmelden."
+}

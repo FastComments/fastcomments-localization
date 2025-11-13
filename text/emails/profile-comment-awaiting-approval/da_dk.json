@@ -1,0 +1,8 @@
+{
+    "SUBJECT": "Profilkommentar fra <%= comment.commenterName %> afventer godkendelse",
+    "INTRO": "Hej <%= targetUser.username %>,",
+    "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "Du har modtaget en ny kommentar på din profil, som kræver din godkendelse. Du kan godkende eller afvise denne kommentar ved hjælp af knapperne nedenfor.",
+    "APPROVE_COMMENT": "Godkend kommentar",
+    "REJECT_COMMENT": "Afvis kommentar",
+    "UNSUBSCRIBE_HERE": "Afmeld abonnement på notifikationer her."
+}

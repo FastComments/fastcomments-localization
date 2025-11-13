@@ -1,0 +1,11 @@
+{
+    "INTRO": "Hey <%= username %>, yeni bir rozet kazandın!",
+    "CONGRATULATIONS": "Tebrikler!",
+    "BANNER_TEXT": "Yeni Rozet Kazanıldı",
+    "FROM_NAME": "Hızlı Yorumlar Robotu",
+    "SUBJECT": "\"<%= badge.name %>\" rozetini kazandınız!",
+    "VIEW_ALL_BADGES": "Tüm Rozetlerinizi Görüntüleyin",
+    "BADGE_EARNED_MESSAGE": "<strong><%= badge.name %></strong> rozetini başarıyla kazandınız.",
+    "KEEP_UP_GOOD_WORK": "Harika çalışmalarınızı sürdürün!",
+    "UNSUBSCRIBE_HERE": "Rozet bildirimlerinden aboneliğinizi iptal edin"
+}

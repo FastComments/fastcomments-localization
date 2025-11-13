@@ -1,0 +1,8 @@
+{
+    "SUBJECT": "Komentar profila od <%= comment.commenterName %> čaka na odobritev",
+    "INTRO": "Živjo <%= targetUser.username %>,",
+    "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "Na svojem profilu ste prejeli nov komentar, ki zahteva vašo odobritev. Ta komentar lahko odobrite ali zavrnete s spodnjimi gumbi.",
+    "APPROVE_COMMENT": "Odobri komentar",
+    "REJECT_COMMENT": "Zavrni komentar",
+    "UNSUBSCRIBE_HERE": "Od obvestil se odjavite tukaj."
+}

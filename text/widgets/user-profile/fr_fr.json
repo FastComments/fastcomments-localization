@@ -69,5 +69,10 @@
     "PROFILE_ACTIVITY_SHOW_ALL": "Afficher toutes les activités",
     "PROFILE_ACTIVITY_REPLIES_TO_ME": "Voir mes réponses",
     "PROFILE_TAB_ACTIVITY_WITH_ME": "Activité (avec moi)",
-    "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "Aucune réponse n'a été trouvée."
+    "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "Aucune réponse n'a été trouvée.",
+    "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Mode d'approbation des commentaires de profil",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Approbation automatique de tous les commentaires",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Approbation automatique des commentateurs de confiance (par défaut)",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Approuver manuellement tous les commentaires",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Approuver manuellement les nouveaux commentateurs/commentateurs non fiables"
 }

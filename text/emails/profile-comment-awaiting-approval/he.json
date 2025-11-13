@@ -1,0 +1,8 @@
+{
+    "SUBJECT": "תגובת פרופיל מאת <%= comment.commenterName %> ממתינה לאישור",
+    "INTRO": "היי <%= targetUser.username %>,",
+    "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "קיבלת תגובה חדשה בפרופיל שלך הדורשת את אישורך. באפשרותך לאשר או לדחות תגובה זו באמצעות הכפתורים למטה.",
+    "APPROVE_COMMENT": "אשר תגובה",
+    "REJECT_COMMENT": "דחה תגובה",
+    "UNSUBSCRIBE_HERE": "בטל את ההרשמה להתראות כאן."
+}

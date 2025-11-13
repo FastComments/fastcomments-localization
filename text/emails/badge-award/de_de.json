@@ -1,0 +1,11 @@
+{
+    "INTRO": "Hey <%= username %>, du hast dir ein neues Abzeichen verdient!",
+    "CONGRATULATIONS": "Glückwunsch!",
+    "BANNER_TEXT": "Neues Abzeichen erhalten",
+    "FROM_NAME": "FastComments-Roboter",
+    "SUBJECT": "Du hast dir das \"<%= badge.name %>\"-Abzeichen verdient!",
+    "VIEW_ALL_BADGES": "Alle Ihre Abzeichen ansehen",
+    "BADGE_EARNED_MESSAGE": "Sie haben das <strong><%= badge.name %></strong> Abzeichen erfolgreich erworben.",
+    "KEEP_UP_GOOD_WORK": "Weiter so!",
+    "UNSUBSCRIBE_HERE": "Abmeldung von Badge-Benachrichtigungen"
+}

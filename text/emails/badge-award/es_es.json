@@ -1,0 +1,11 @@
+{
+    "INTRO": "¡Oye <%= username %>, has ganado una nueva insignia!",
+    "CONGRATULATIONS": "¡Felicidades!",
+    "BANNER_TEXT": "Nueva insignia obtenida",
+    "FROM_NAME": "Robot de comentarios rápidos",
+    "SUBJECT": "¡Te has ganado la insignia \"<%= badge.name %>\"!",
+    "VIEW_ALL_BADGES": "Ver todas tus insignias",
+    "BADGE_EARNED_MESSAGE": "Has obtenido con éxito la insignia <strong>de <%= badge.name %></strong> .",
+    "KEEP_UP_GOOD_WORK": "¡Sigan con el excelente trabajo!",
+    "UNSUBSCRIBE_HERE": "Cancelar la suscripción a las notificaciones de insignias"
+}

@@ -69,5 +69,10 @@
     "PROFILE_ACTIVITY_SHOW_ALL": "Показати всю активність",
     "PROFILE_ACTIVITY_REPLIES_TO_ME": "Див. відповіді мені",
     "PROFILE_TAB_ACTIVITY_WITH_ME": "Активність (зі мною)",
-    "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "Відповідей на ваш запит не знайдено."
+    "PROFILE_ACTIVITY_NO_REPLIES_TO_YOU": "Відповідей на ваш запит не знайдено.",
+    "PRIVACY_SETTINGS_PROFILE_COMMENT_APPROVAL_MODE": "Режим затвердження коментарів профілю",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL": "Автоматично схвалювати всі коментарі",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED": "Автоматичне схвалення довірених коментаторів (за замовчуванням)",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL": "Вручну схвалити всі коментарі",
+    "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW": "Вручну схвалити нових/ненадійних коментаторів"
 }

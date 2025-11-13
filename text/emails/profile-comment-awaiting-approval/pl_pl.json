@@ -1,0 +1,8 @@
+{
+    "SUBJECT": "Komentarz do profilu od <%= comment.commenterName %> oczekuje na zatwierdzenie",
+    "INTRO": "Hej <%= targetUser.username %>,",
+    "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "Otrzymałeś nowy komentarz na swoim profilu, który wymaga Twojej akceptacji. Możesz zatwierdzić lub odrzucić ten komentarz, korzystając z poniższych przycisków.",
+    "APPROVE_COMMENT": "Zatwierdź komentarz",
+    "REJECT_COMMENT": "Odrzuć komentarz",
+    "UNSUBSCRIBE_HERE": "Tutaj możesz anulować subskrypcję powiadomień."
+}
