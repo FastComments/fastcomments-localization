@@ -1,0 +1,8 @@
+{
+  "PAGE_TITLE": "Remove a Domain - FastComments",
+  "HEADING_REMOVING_DOMAIN": "Removing <%= domainName %>",
+  "HEADING_REMOVE_DOMAIN": "Remove <%= domainName %>",
+  "TEXT_REMOVE_CONFIRM": "You're about to remove <b><%= domainName %></b>. While this won't remove any data and is recoverable any existing widgets on this domain will no longer load. Continue?",
+  "BUTTON_CANCEL": "Cancel",
+  "BUTTON_REMOVE_DOMAIN": "Remove Domain"
+}

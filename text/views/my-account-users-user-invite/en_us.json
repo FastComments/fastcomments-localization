@@ -1,0 +1,9 @@
+{
+  "PAGE_TITLE": "Invite User - FastComments",
+  "HEADING": "Invite an Admin",
+  "MESSAGE_INVITE_DESCRIPTION": "Inviting a user, who is currently a commenter, to be an administrator will elevate their account to admin status and add them to your tenant.",
+  "MESSAGE_CONFIRM_USERNAME": "<b>You will be adding the user with the username \"<%= invitingUserName %>\". Please be sure this is correct.</b>",
+  "HEADING_PERMISSIONS": "Permissions",
+  "MESSAGE_PERMISSIONS": "Which permissions would you want them to have upon accepting the invite?",
+  "BUTTON_SEND_INVITE": "Send Invite"
+}

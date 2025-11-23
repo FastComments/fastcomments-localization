@@ -1,0 +1,16 @@
+{
+  "PAGE_TITLE": "Delete <%= targetTenant.name %> - FastComments",
+  "HEADING": "Delete Tenant",
+  "CONFIRM_HEADING": "Are you sure you want to delete <%= targetTenant.name %>?",
+  "MESSAGE_WILL_DELETE": "This will delete:",
+  "MESSAGE_SUCCESS": "Success! The following information has been deleted:",
+  "ERROR_INVALID_CSRF": "Invalid security token. Please go back, refresh, and try again.",
+  "ERROR_GENERIC": "An error occurred. Please reach out to support or try again later.",
+  "WARNING_DELETE_CURRENT_USER": "This will delete this user (<%= user.username %>) and log you out!",
+  "MESSAGE_TENANT_DELETED": "This tenant has been deleted you have been logged out. Thanks for being a FastComments customer!",
+  "MESSAGE_TENANT_DELETED_OTHER": "<%= targetTenant.name %> has been deleted. Thanks for being a FastComments customer!",
+  "CHECKBOX_CONFIRM": "I'm sure I want to delete the tenant called \"<b><%= targetTenant.name %></b>\" with the ID: \"<b><%= targetTenant._id %></b>\".",
+  "HELP_CANNOT_UNDO": "This cannot be undone.",
+  "BUTTON_NO": "No, don't delete this tenant",
+  "BUTTON_YES": "Yes, delete this tenant."
+}

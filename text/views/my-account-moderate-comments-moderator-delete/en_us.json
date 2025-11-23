@@ -1,0 +1,10 @@
+{
+  "PAGE_TITLE": "Delete Moderator - FastComments",
+  "HEADING": "Removing a Moderator",
+  "SUB_HEADING": "You Are Removing <%= moderator.name %>",
+  "CANNOT_UNDO": "This can't be undone. <%= moderator.name %> won't be able to see or moderate your comments anymore.",
+  "NOTIFICATION_INFO": "They will be notified of being removed as a moderator via an automated email.",
+  "METRICS_WARNING": "All of their metrics will be removed <b>(if you want to change their email, you can edit it from the previous page)</b>.",
+  "CANCEL_LINK": "Cancel",
+  "DELETE_BUTTON": "Delete This Moderator"
+}

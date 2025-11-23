@@ -1,0 +1,6 @@
+{
+  "PAGE_TITLE_DEFAULT": "Comment Thread Viewer",
+  "HEADING": "Comment Thread Viewer",
+  "THREAD_DETAILS": "You're viewing the comment thread at <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a>",
+  "PAGE_ID_INFO": "Viewing Comments for Page ID: <%- thread.urlIdDecoded %>"
+}

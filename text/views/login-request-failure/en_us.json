@@ -1,0 +1,9 @@
+{
+  "PAGE_TITLE": "Login Failed - FastComments",
+  "HERO_TITLE_LIGHT": "",
+  "HERO_TITLE_BOLD": "Login Failure",
+  "HERO_DESCRIPTION": "<%= (typeof message !== 'undefined' && message) ? message : 'Something went wrong with your login request.' %>",
+  "BUTTON_TRY_AGAIN": "Try Again",
+  "ERROR_HEADING": "Something went terribly wrong.",
+  "ERROR_MESSAGE": "We're not sure what happened, but we'll take a look."
+}

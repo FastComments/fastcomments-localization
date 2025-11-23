@@ -1,0 +1,19 @@
+{
+  "PAGE_TITLE_ADD": "Add a User - FastComments",
+  "PAGE_TITLE_EDIT": "Edit <%= editingUser.username %> - FastComments",
+  "HEADING_ADD": "Add a User",
+  "HEADING_EDIT": "Edit <%= editingUser.username %>",
+  "SUBHEADING_ADD": "Adding a User",
+  "SUBHEADING_EDIT": "Editing <%= editingUser.username %>",
+  "LABEL_AVATAR": "Avatar",
+  "BUTTON_SET_AVATAR": "Click to Set Their Avatar",
+  "BUTTON_UPDATE_AVATAR": "Click to Update Their Avatar",
+  "HELP_AVATAR_SIZE": "Max Size: 20mb",
+  "LABEL_USERNAME": "Username",
+  "PLACEHOLDER_USERNAME": "awesome-person-2",
+  "LABEL_EMAIL": "Email",
+  "PLACEHOLDER_EMAIL": "email@example.com",
+  "LABEL_LOCALE": "Locale",
+  "LABEL_PERMISSIONS": "Permissions",
+  "BUTTON_SUBMIT": "Submit"
+}

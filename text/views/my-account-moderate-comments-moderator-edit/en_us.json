@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Customize - FastComments",
+  "HEADING_ADD": "Add a Moderator",
+  "HEADING_EDIT": "Customize <%= moderator.name %>",
+  "SUB_HEADING_ADD": "Add a Moderator",
+  "SUB_HEADING_EDIT": "Editing <%= moderator.name %>",
+  "INTRO_PARAGRAPH_1": "You've come to the right place if you want to give someone access to moderate your comments.",
+  "INTRO_PARAGRAPH_2": "Note that you don't need to add moderators for admin users. Admin users already have moderation capabilities.",
+  "NAME_SECTION_HEADING": "Give them a name",
+  "NAME_LABEL": "Name",
+  "NAME_PLACEHOLDER": "Mr. Moderator Guy",
+  "EMAIL_SECTION_HEADING": "We'll need an email",
+  "EMAIL_LABEL": "Email",
+  "EMAIL_PLACEHOLDER": "guy@moderators.com",
+  "GROUPS_SECTION_HEADING": "What groups do they belong to?",
+  "MODERATION_GROUPS_LABEL": "Moderation Groups",
+  "CLEAR_ALL_LINK": "Clear All",
+  "GROUPS_DESCRIPTION": "They'll only see comments from these groups in the Moderate Comments page.",
+  "SAVE_BUTTON": "Save"
+}

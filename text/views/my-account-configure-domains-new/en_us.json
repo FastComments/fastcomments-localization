@@ -1,0 +1,12 @@
+{
+  "PAGE_TITLE": "Add a Domain - FastComments",
+  "HEADING_USER_ACCOUNT": "<%= user.username %>'s account",
+  "HEADING_ADD_DOMAINS": "Add Domains",
+  "TEXT_ADD_DOMAIN_INFO": "Adding a domain lets you customize your widgets and user interactions per-site. It also allows us to validate the requests and tie them to your account",
+  "LABEL_DOMAIN_NAME": "Domain Name",
+  "PLACEHOLDER_DOMAIN_NAME": "Enter a top-level domain, like fastcomments.com. Use a subdomain to further restrict access if desired.",
+  "TEXT_COMMA_SEPARATED_NOTE": "You can enter domains in comma-separated format.",
+  "TEXT_DOMAIN_VALID": "✔️ <%= domain.domain %>",
+  "TEXT_DOMAIN_INVALID": "❌ \"<%= domain.input %>\": <%= domain.reason %>",
+  "BUTTON_SAVE": "Save"
+}

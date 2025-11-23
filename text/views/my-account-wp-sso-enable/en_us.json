@@ -1,0 +1,11 @@
+{
+  "PAGE_TITLE": "WordPress SSO - FastComments",
+  "HEADING": "WordPress SSO",
+  "MESSAGE_LAST_STEP": "One last step! Just click \"Enable SSO\" to enable single-sign-on on your blog.",
+  "MESSAGE_DESCRIPTION": "We'll create an API secret key for you, securely send it over to your blog, and then tell your blog to enable SSO. This is safe to run as many times as you like in the event that you run into issues. If this process fails we'll automatically get notified, however feel free to also contact support.",
+  "BUTTON_ENABLE_SSO": "Enable SSO",
+  "MESSAGE_DURATION": "You can expect this process to only take a few seconds.",
+  "MESSAGE_IN_PROGRESS": "Hold on tight. We just need to create a secret API key and update your blog's settings.",
+  "MESSAGE_LOADING": "...loading...",
+  "MESSAGE_AFTER_DONE": "After this is done users will use your WordPress sign in flow to use FastComments."
+}

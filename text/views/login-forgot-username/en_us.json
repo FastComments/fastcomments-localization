@@ -1,0 +1,14 @@
+{
+  "PAGE_TITLE": "Forgot Username - FastComments",
+  "HERO_TITLE_LIGHT": "Forgot ",
+  "HERO_TITLE_BOLD": "Username",
+  "HERO_DESCRIPTION": "No worries, it happens to the best of us!",
+  "LABEL_EMAIL": "Email",
+  "EMAIL_HELP_TEXT": "We'll send you your username via email. For security reasons we can't tell you whether your email is correct.",
+  "LABEL_CAPTCHA": "What is <%= captchaA %> + <%= captchaB %>?",
+  "CAPTCHA_HELP": "Helps determine you're not a bot.",
+  "BUTTON_REQUEST_USERNAME": "Request Username",
+  "SUCCESS_MESSAGE": "If you have an account at that email, you should receive an email with your username shortly.",
+  "SUCCESS_CHECK_SPAM": "Remember to check your spam folder.",
+  "SUCCESS_CLOSE_WINDOW": "You may now close this window."
+}

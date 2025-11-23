@@ -1,0 +1,16 @@
+{
+  "PAGE_TITLE": "Create a Managed Tenant - FastComments",
+  "HEADING": "Create a Managed Tenant",
+  "INTRO_PARAGRAPH_1": "Creating a managed tenant allows you to manage the tenant from your parent account. This is useful for reselling FastComments, or providing isolated accounts to your clients.",
+  "INTRO_PARAGRAPH_2": "You don't need to do this to use FastComments. However, if you want to have multiple sites and completely isolate each site with its own moderators and users, it can be useful to have them as their own tenants.",
+  "TENANT_NAME_LABEL": "*Tenant Name",
+  "WEBSITE_ADDRESS_HEADING": "What is the address of the website where FastComments will show for this tenant?",
+  "WEBSITE_ADDRESS_DESCRIPTION": "No need to input subdomains or localhost. For multiple sites, separate them with commas.",
+  "WEBSITES_LABEL": "*Website(s):",
+  "LIMITS_AND_PRICING_HEADING": "Limits and Pricing",
+  "LIMITS_AND_PRICING_DESCRIPTION": "With FastComments, you can customize the available packages to the tenant on a per-tenant basis. The below is populated by default with the limits and pricing of this parent tenant.\n\nCurrently, you must bill your customer outside of FastComments. We will bill you based on their usage if you are on a Flex plan, or a flat rate on the Pro plan. You can find the pricing for this <a href=\"/auth/my-account/billing-info\">here.</a>",
+  "USAGE_LIMITS_HEADING": "Usage Limits",
+  "USAGE_LIMITS_DESCRIPTION": "Limits are limited to the values of the current tenant. You may raise these by working with support. You may want to lower these values to limit what the managed tenant can do.",
+  "LIMIT_LABEL_PREFIX": "Limit: <%= TenantPackagePropertyNamesReadable[field] %>",
+  "SUBMIT_BUTTON": "Submit"
+}

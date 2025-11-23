@@ -1,0 +1,6 @@
+{
+  "PAGE_TITLE": "Invite Failed",
+  "HERO_TITLE_LIGHT": "Invite ",
+  "HERO_TITLE_BOLD": "Failure",
+  "HERO_DESCRIPTION": "<%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'Something went terribly wrong. We\\'re not sure what happened, but we\\'ll take a look.' %>"
+}

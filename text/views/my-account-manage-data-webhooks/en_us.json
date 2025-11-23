@@ -1,0 +1,18 @@
+{
+  "PAGE_TITLE": "Webhooks - FastComments",
+  "HEADING": "Webhooks",
+  "WEBHOOK_LOGS_LINK": "Webhook Logs",
+  "PRODUCTION_READINESS_HEADING": "Production Readiness Notes",
+  "PRODUCTION_NOTE_1": "Ensure that you verify the \"token\" parameter in the request. This will be populated with your API secret, available <a href=\"/auth/my-account/api-secret\" target=\"_blank\">here</a>.",
+  "PRODUCTION_NOTE_2": "<b>When an invalid token is provided, return 401 Unauthorized.</b>",
+  "PRODUCTION_NOTE_3": "<b>When a valid token is provided, return 200 OK.</b>",
+  "PRODUCTION_NOTE_4": "Not doing so will cause the integration to fail validation.",
+  "PRODUCTION_NOTE_5": "Note that <i>events are not immediate</i>. There may be up to a minute delay as our system is asynchronous.",
+  "PRODUCTION_NOTE_6": "If you do not return a 200 OK status code we will try again after minute. The delay increases by a minute after each failure for that event.",
+  "DOCUMENTATION_LINK_TEXT": "For more documentation and the request structure, see <a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">here</a>.",
+  "NOSCRIPT_MESSAGE": "JavaScript is required for this UI to function properly.",
+  "CONFIGURE_DOMAIN_LABEL": "Configure for Domain",
+  "ALL_DOMAINS_OPTION": "All Domains",
+  "RECENT_FAILURES_NOTIFICATION": "❗ Recent Webhook Failures",
+  "RECENT_FAILURES_MESSAGE": "You have recent webhook failures. Try checking the logs."
+}

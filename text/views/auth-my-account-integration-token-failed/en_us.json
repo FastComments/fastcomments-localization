@@ -1,0 +1,8 @@
+{
+  "PAGE_TITLE": "Integration Failure - FastComments",
+  "PAGE_HEADING": "Integration Failure.",
+  "PAGE_SUBHEADING": "We never heard from your integration!",
+  "ERROR_MESSAGE": "We never heard from the FastComments plugin for this integration token.",
+  "INSTRUCTION_1": "Ensure the previous window or tab, with the plugin's admin page, is kept open. This window contains a script which starts the integration.",
+  "INSTRUCTION_2": "Ensure you don't have firewall rules blocking outbound requests from your site to fastcomments.com"
+}

@@ -1,0 +1,8 @@
+{
+  "PAGE_TITLE": "Un-Ban a User - FastComments",
+  "HEADING": "Un-Ban a User",
+  "SUB_HEADING": "Un-Ban <%= bannedUser.username %>?",
+  "CONFIRM_MESSAGE": "Are you sure you want to un-ban this user?",
+  "BANNED_FOR_SAYING_TEXT": "They were banned for saying \"<span class=\"quote\"><%= bannedUser.bannedCommentText %></span>\"",
+  "UN_BAN_BUTTON": "Un-Ban User"
+}

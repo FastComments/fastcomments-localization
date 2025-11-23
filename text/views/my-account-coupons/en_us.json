@@ -1,0 +1,16 @@
+{
+  "PAGE_TITLE": "Coupons - FastComments",
+  "HEADING_COUPONS": "Coupons",
+  "HEADING_COUPON_CODES": "Coupon Codes",
+  "HEADING_STATS": "Stats",
+  "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> Coupons Redeemed.",
+  "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Total Coupons.",
+  "HEADING_DOWNLOAD": "Download",
+  "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Download Available Coupons",
+  "HEADING_GENERATE_TIER_4_COUPONS": "Generate Tier 4 Coupons",
+  "LABEL_GENERATE_COUPON_COUNT": "Generate Coupon Count",
+  "BUTTON_SUBMIT": "Submit",
+  "HEADING_COUPON_LIST": "Coupon List",
+  "TABLE_HEADER_CODE": "Code",
+  "TABLE_HEADER_REDEEMED_DATE": "Redeemed Date"
+}

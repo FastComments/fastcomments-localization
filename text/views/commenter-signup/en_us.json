@@ -1,0 +1,18 @@
+{
+  "PAGE_TITLE": "Sign Up",
+  "HERO_TITLE_LIGHT": "Join the ",
+  "HERO_TITLE_BOLD": "Discussion",
+  "HERO_DESCRIPTION": "Want to comment on a website that uses FastComments? You've come to the right place.",
+  "HERO_ADDITIONAL_TEXT": "If you're looking to add FastComments to a website you should sign up <a href=\"/auth/tenant-signup?email=<%= email %>\">here.</a>",
+  "FORM_DESCRIPTION": "All you need is a username and email to sign up.",
+  "LABEL_USERNAME": "*Username:",
+  "PLACEHOLDER_USERNAME": "Enter a username",
+  "USERNAME_PATTERN_TITLE": "No special characters please - numbers and letters only.",
+  "USERNAME_DESCRIPTION": "This username will be publicly visible.",
+  "LABEL_EMAIL": "*Email:",
+  "PLACEHOLDER_EMAIL": "Enter an email",
+  "EMAIL_DESCRIPTION": "We'll send you a link via email to complete your account and sign in.",
+  "SIGNUP_EMAIL_TEXT": "You're signing up using <b><%= email %></b>.",
+  "TERMS_AGREEMENT": "By clicking Sign Up, you agree to the <a href=\"/terms-of-service\" target=\"_blank\">Terms of Service</a>.",
+  "BUTTON_SIGN_UP": "Sign Up"
+}

@@ -1,0 +1,13 @@
+{
+  "PAGE_TITLE": "WordPress Connect - FastComments",
+  "HEADING": "WordPress Connect",
+  "LABEL_WP_SYNC_ID": "WordPress Sync ID",
+  "HEADING_DOMAIN_QUESTION": "Is Your WordPress Site One of These?",
+  "LABEL_BLOG_DOMAIN": "Blog Domain",
+  "OPTION_MANUAL_ENTRY": "No, let me enter the url myself.",
+  "HEADING_MANUAL_URL": "Manually Enter Your Blog's URL",
+  "LABEL_BLOG_URL": "Blog URL",
+  "MESSAGE_SUBMIT": "Once you hit submit we'll try to connect to your blog.",
+  "MESSAGE_SYNC_DETAIL": "If the connection succeeds, we'll begin the comment sync. We'll securely \"download\" the comments from your blog, and then make sure any new comments are synced across both systems.",
+  "BUTTON_SUBMIT": "Submit"
+}

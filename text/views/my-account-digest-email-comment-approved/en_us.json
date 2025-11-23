@@ -1,0 +1,8 @@
+{
+  "TITLE": "Comment Approved - FastComments",
+  "HEADING": "Success!",
+  "COMMENT_APPROVED": "That comment has been marked reviewed and approved.",
+  "ALSO_LOGGED_IN": "You've also been logged in.",
+  "VIEW_COMMENT_ON_SITE": "You can view the approved comment on your site <a href=\"<%= comment.url %>\" target=\"_blank\">here</a>, or using the comment thread viewer <a href=\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">here</a>.",
+  "CLOSE_PAGE": "You can now close this page."
+}

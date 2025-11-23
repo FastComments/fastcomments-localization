@@ -1,0 +1,12 @@
+{
+  "TITLE": "Import Logs - FastComments",
+  "HEADING": "Logs For Job <%= job._id %>",
+  "JOB_LOGS_HEADING": "Job Logs",
+  "TABLE_LOG": "Log",
+  "TABLE_DATE": "Date",
+  "NO_LOGS": "There are no logs for this job.",
+  "POSSIBLE_REASONS": "Some possible reasons:",
+  "REASON_NOT_STARTED": "The job might not have started yet.",
+  "REASON_BEFORE_SUPPORT": "It may be from before we added log support.",
+  "REASON_NO_SUPPORT": "The job type might not support logs."
+}
