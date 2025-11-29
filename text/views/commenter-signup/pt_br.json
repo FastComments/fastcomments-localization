@@ -1,0 +1,18 @@
+{
+    "PAGE_TITLE": "Inscrever-se",
+    "HERO_TITLE_LIGHT": "Junte-se ao ",
+    "HERO_TITLE_BOLD": "Discussão",
+    "HERO_DESCRIPTION": "Quer comentar em um site que usa o FastComments? Você veio ao lugar certo.",
+    "HERO_ADDITIONAL_TEXT": "Se você deseja adicionar o FastComments a um site, inscreva-se <a href=\"/auth/tenant-signup?email=<%= email %>\">aqui.</a>",
+    "FORM_DESCRIPTION": "Para se cadastrar, você só precisa de um nome de usuário e um endereço de e-mail.",
+    "LABEL_USERNAME": "*Nome de usuário:",
+    "PLACEHOLDER_USERNAME": "Digite um nome de usuário",
+    "USERNAME_PATTERN_TITLE": "Por favor, não utilize caracteres especiais - apenas números e letras.",
+    "USERNAME_DESCRIPTION": "Este nome de usuário será visível publicamente.",
+    "LABEL_EMAIL": "*E-mail:",
+    "PLACEHOLDER_EMAIL": "Insira um e-mail",
+    "EMAIL_DESCRIPTION": "Enviaremos um link por e-mail para que você complete o cadastro e faça login.",
+    "SIGNUP_EMAIL_TEXT": "Você está se cadastrando usando <b><%= email %></b> .",
+    "TERMS_AGREEMENT": "Ao clicar em Inscrever-se, você concorda com os <a href=\"/terms-of-service\" target=\"_blank\">Termos de Serviço</a> .",
+    "BUTTON_SIGN_UP": "Inscrever-se"
+}

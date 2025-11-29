@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE": "Convite falhou",
+    "HERO_TITLE_LIGHT": "Convidar  ",
+    "HERO_TITLE_BOLD": "Falha",
+    "HERO_DESCRIPTION": "<%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'Something went terribly wrong. We\\'re not sure what happened, but we\\'ll take a look.' %>"
+}

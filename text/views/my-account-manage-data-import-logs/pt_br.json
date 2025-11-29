@@ -1,0 +1,12 @@
+{
+    "TITLE": "Logs de Importação - FastComments",
+    "HEADING": "Registros da tarefa <%= job._id %>",
+    "JOB_LOGS_HEADING": "Registros de tarefas",
+    "TABLE_LOG": "Registro",
+    "TABLE_DATE": "Data",
+    "NO_LOGS": "Não existem registros para esta tarefa.",
+    "POSSIBLE_REASONS": "Algumas possíveis razões:",
+    "REASON_NOT_STARTED": "O trabalho pode ainda não ter começado.",
+    "REASON_BEFORE_SUPPORT": "Pode ser de antes de adicionarmos o suporte a logs.",
+    "REASON_NO_SUPPORT": "Pode ser que esse tipo de tarefa não suporte registros em log."
+}

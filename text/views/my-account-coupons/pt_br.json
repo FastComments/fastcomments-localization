@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Cupons - FastComments",
+    "HEADING_COUPONS": "Cupons",
+    "HEADING_COUPON_CODES": "Códigos de cupom",
+    "HEADING_STATS": "Estatísticas",
+    "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> Cupons resgatados.",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Total de cupons.",
+    "HEADING_DOWNLOAD": "Download",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Baixe os cupons disponíveis",
+    "HEADING_GENERATE_TIER_4_COUPONS": "Gerar cupons de nível 4",
+    "LABEL_GENERATE_COUPON_COUNT": "Gerar contagem de cupons",
+    "BUTTON_SUBMIT": "Enviar",
+    "HEADING_COUPON_LIST": "Lista de cupons",
+    "TABLE_HEADER_CODE": "Código",
+    "TABLE_HEADER_REDEEMED_DATE": "Data de resgate"
+}

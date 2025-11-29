@@ -1,0 +1,18 @@
+{
+    "PAGE_TITLE": "Webhooks - FastComments",
+    "HEADING": "Webhooks",
+    "WEBHOOK_LOGS_LINK": "Registros de Webhook",
+    "PRODUCTION_READINESS_HEADING": "Notas sobre a preparação para a produção",
+    "PRODUCTION_NOTE_1": "Certifique-se de verificar o parâmetro &quot;token&quot; na solicitação. Ele será preenchido com seu segredo da API, disponível <a href=\"/auth/my-account/api-secret\" target=\"_blank\">aqui</a> .",
+    "PRODUCTION_NOTE_2": "<b>Quando um token inválido for fornecido, retorne o código 401 Não Autorizado.</b>",
+    "PRODUCTION_NOTE_3": "<b>Quando um token válido for fornecido, retorne 200 OK.</b>",
+    "PRODUCTION_NOTE_4": "Caso contrário, a integração falhará na validação.",
+    "PRODUCTION_NOTE_5": "Note que <i>os eventos não são imediatos</i> . Pode haver um atraso de até um minuto, pois nosso sistema é assíncrono.",
+    "PRODUCTION_NOTE_6": "Se você não receber um código de status 200 OK, tentaremos novamente após um minuto. O atraso aumenta em um minuto após cada falha para esse evento.",
+    "DOCUMENTATION_LINK_TEXT": "Para obter mais documentação e informações sobre a estrutura da solicitação, consulte <a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">aqui</a> .",
+    "NOSCRIPT_MESSAGE": "É necessário JavaScript para que esta interface de usuário funcione corretamente.",
+    "CONFIGURE_DOMAIN_LABEL": "Configurar para domínio",
+    "ALL_DOMAINS_OPTION": "Todos os domínios",
+    "RECENT_FAILURES_NOTIFICATION": "❗ Falhas recentes em webhooks",
+    "RECENT_FAILURES_MESSAGE": "Você teve falhas recentes no webhook. Tente verificar os registros."
+}

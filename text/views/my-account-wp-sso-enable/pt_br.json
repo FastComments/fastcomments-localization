@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "SSO do WordPress - FastComments",
+    "HEADING": "SSO do WordPress",
+    "MESSAGE_LAST_STEP": "Só mais um passo! Basta clicar em \"Ativar SSO\" para habilitar o login único no seu blog.",
+    "MESSAGE_DESCRIPTION": "Criaremos uma chave secreta de API para você, a enviaremos com segurança para o seu blog e, em seguida, configuraremos o SSO (Single Sign-On) para o seu blog. Você pode repetir esse processo quantas vezes quiser, caso encontre algum problema. Se o processo falhar, seremos notificados automaticamente. No entanto, sinta-se à vontade para entrar em contato com o suporte.",
+    "BUTTON_ENABLE_SSO": "Habilitar SSO",
+    "MESSAGE_DURATION": "Você pode esperar que esse processo leve apenas alguns segundos.",
+    "MESSAGE_IN_PROGRESS": "Aguarde um momento. Precisamos apenas criar uma chave de API secreta e atualizar as configurações do seu blog.",
+    "MESSAGE_LOADING": "...carregando...",
+    "MESSAGE_AFTER_DONE": "Após essa etapa, os usuários usarão o fluxo de login do WordPress para acessar o FastComments."
+}

@@ -1,0 +1,23 @@
+{
+    "PAGE_TITLE": "Minha conta",
+    "HEADING_MY_DOMAINS": "Meus Domínios",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "Domínios adicionados com sucesso!",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "Domínio removido com sucesso!",
+    "TEXT_SETTING_UPDATED_SUCCESS": "Configuração atualizada com sucesso!",
+    "TEXT_IMAGE_UPLOAD_ERROR": "Erro ao carregar a imagem: <%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "A seguir, apresentamos a configuração de como os e-mails devem ser exibidos quando o FastComments os envia aos seus comentaristas. Você não precisa inserir nada se não quiser personalizar essa configuração.",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Observação: as configurações de nome do remetente e e-mail não afetam os e-mails enviados aos administradores.</b>",
+    "LINK_REMOVE": "Remover",
+    "TEXT_AUTO_ADDED_NOTICE": "Adicionado automaticamente durante o período de teste.",
+    "TITLE_AUTO_ADDED": "Adicionado automaticamente durante o período de teste com base no tráfego da sua conta. Isso é feito para facilitar a configuração e ocorre apenas durante o período de teste.",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Nome do remetente ao enviar e-mail para o usuário",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "De: Email ao enviar e-mail para o usuário",
+    "TEXT_EMAIL_ERROR": "Parece haver algo errado com este e-mail. Salvamos todas as outras alterações.",
+    "BUTTON_CLICK_TO_UPDATE_LOGO": "Clique para atualizar o logotipo de <%= domain.domain %>",
+    "BUTTON_CLICK_TO_SET_LOGO": "Clique para definir o logotipo para <%= domain.domain %>",
+    "TEXT_LOGO_MAX_SIZE": "Tamanho máximo: 1 MB. Não redimensionado.",
+    "BUTTON_SAVE": "Salvar",
+    "TEXT_NO_DOMAINS_WARNING": "Uau! Você não tem nenhum domínio. Seus widgets não poderão ser carregados até que você associe um ou mais domínios à sua conta.",
+    "TITLE_ADD_DOMAIN": "Adicionar domínio",
+    "TEXT_ADD_A_DOMAIN": "Adicionar um domínio"
+}

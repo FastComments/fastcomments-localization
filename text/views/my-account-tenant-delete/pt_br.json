@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Excluir <%= targetTenant.name %> - FastComments",
+    "HEADING": "Excluir locatário",
+    "CONFIRM_HEADING": "Tem certeza de que deseja excluir <%= targetTenant.name %>?",
+    "MESSAGE_WILL_DELETE": "Isso irá apagar:",
+    "MESSAGE_SUCCESS": "Sucesso! As seguintes informações foram excluídas:",
+    "ERROR_INVALID_CSRF": "Token de segurança inválido. Por favor, volte, atualize a página e tente novamente.",
+    "ERROR_GENERIC": "Ocorreu um erro. Entre em contato com o suporte ou tente novamente mais tarde.",
+    "WARNING_DELETE_CURRENT_USER": "Isso irá excluir este usuário (<%= user.username %>) e encerrar sua sessão!",
+    "MESSAGE_TENANT_DELETED": "Este inquilino foi excluído e você foi desconectado. Obrigado por ser um cliente FastComments!",
+    "MESSAGE_TENANT_DELETED_OTHER": "<%= targetTenant.name %> foi excluído(a). Obrigado por ser cliente da FastComments!",
+    "CHECKBOX_CONFIRM": "Tenho certeza de que quero excluir o locatário chamado &quot; <b><%= targetTenant.name %></b> &quot; com o ID: &quot; <b><%= targetTenant._id %></b> &quot;.",
+    "HELP_CANNOT_UNDO": "Isso não pode ser desfeito.",
+    "BUTTON_NO": "Não, não exclua este locatário.",
+    "BUTTON_YES": "Sim, exclua este locatário."
+}

@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Autenticação de dois fatores - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Autenticação de dois fatores",
+    "HERO_DESCRIPTION": "Por favor, insira seu código de verificação para concluir o login.",
+    "ATTEMPTS_REMAINING": "<%= 5 - session.attempts %> tentativas restantes",
+    "LABEL_METHOD_SELECT": "Escolha o método de verificação:",
+    "METHOD_AUTHENTICATOR": "Aplicativo autenticador",
+    "METHOD_SMS": "SMS",
+    "AUTHENTICATOR_INSTRUCTION": "Insira o código de 6 dígitos do seu aplicativo autenticador.",
+    "SMS_INSTRUCTION": "Enviamos um código para <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>",
+    "LABEL_VERIFICATION_CODE": "Código de verificação",
+    "BUTTON_VERIFY": "Verificar",
+    "LABEL_BACKUP_CODE": "Digite o código de backup:",
+    "BUTTON_USE_BACKUP_CODE": "Usar código de backup",
+    "BUTTON_BACK": "Voltar",
+    "BUTTON_RESEND_SMS": "Reenviar código SMS",
+    "LINK_USE_BACKUP_CODE": "Use um código de backup em vez disso.",
+    "LINK_BACK_TO_LOGIN": "← Voltar ao login"
+}

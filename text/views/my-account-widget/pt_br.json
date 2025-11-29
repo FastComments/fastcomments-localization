@@ -1,0 +1,13 @@
+{
+    "PAGE_TITLE": "Widget <%= widget.title %> - FastComments",
+    "HEADING": "Código do widget",
+    "HEADING_MULTIPLE_INSTANCES": "Observação: Instâncias Múltiplas",
+    "MESSAGE_MULTIPLE_INSTANCES": "Para usar várias instâncias deste widget na mesma página, como em uma lista de posts de blog, basta gerar os IDs do elemento alvo e passar esse mesmo ID para o widget. Por exemplo, 'widget-id-0', 'widget-id-1' e assim por diante.",
+    "HEADING_CUSTOMIZATION": "Nota - Personalização",
+    "MESSAGE_CUSTOMIZATION": "Este widget pode ser personalizado diretamente via CSS. Ele não é renderizado em um iframe, então você pode hospedar todo o CSS no seu site.",
+    "LABEL_SHOW_ADVANCED": "Mostrar opções avançadas",
+    "TOOLTIP_SHOW_ADVANCED": "Ali existem dragões.",
+    "HEADING_DOCUMENTATION": "Documentação",
+    "MESSAGE_DOCUMENTATION": "Observe que algumas dessas opções avançadas podem ser configuradas facilmente através do link \"Personalizar\" no canto superior direito, o que significa que não é necessário nenhum conhecimento de programação.",
+    "BUTTON_LIVE_DEMO": "Demonstração ao vivo"
+}

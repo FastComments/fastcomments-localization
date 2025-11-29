@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - Comentários Rápidos",
+    "HEADING_USERS_WITH_BADGE": "<%- Number(userBadges.length).toLocaleString() %> <%- userBadges.length === 1 ? 'User' : 'Users' %> com distintivo <%- tenantBadge.displayLabel %>",
+    "TEXT_NO_USERS_WITH_BADGE": "Nenhum usuário possui este distintivo! A maioria dos distintivos é concedida automaticamente. Se for um distintivo manual, você precisará concedê-lo manualmente.",
+    "TABLE_HEADER_USER_ID": "ID do usuário",
+    "TABLE_HEADER_EMAIL": "E-mail",
+    "TABLE_HEADER_AVATAR": "Avatar",
+    "TABLE_HEADER_NAME": "Nome",
+    "TABLE_HEADER_BADGE_EARNED_DATE": "Data de conquista do distintivo",
+    "TEXT_NA": "N / D"
+}
