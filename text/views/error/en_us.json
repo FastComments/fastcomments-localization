@@ -3,6 +3,6 @@
   "META_DESCRIPTION": "FastComments.com - Error Page",
   "HERO_TITLE_LIGHT": "We encountered an ",
   "HERO_TITLE_BOLD": "Error",
-  "HERO_DESCRIPTION": "<%= typeof customMessage !== 'undefined' ? customMessage : 'You\\'ve stumbled on our error page. Don\\'t worry, we were also notified and will investigate this. If this persists please file a support ticket.' %>",
+  "HERO_DESCRIPTION": "You've stumbled on our error page. Don't worry, we were also notified and will investigate this. If this persists please file a support ticket.",
   "BUTTON_RETURN_HOME": "Return to Homepage"
 }

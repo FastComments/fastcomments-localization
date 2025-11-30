@@ -1,8 +1,8 @@
 {
-    "PAGE_TITLE": "Comentários Rápidos - 500",
+    "PAGE_TITLE": "FastComments - 500",
     "META_DESCRIPTION": "FastComments.com - Página de erro",
     "HERO_TITLE_LIGHT": "Nos deparamos com um ",
     "HERO_TITLE_BOLD": "Erro",
-    "HERO_DESCRIPTION": "<%= typeof customMessage !== 'undefined' ? customMessage : 'You\\'ve stumbled on our error page. Don\\'t worry, we were also notified and will investigate this. If this persists please file a support ticket.' %>",
+    "HERO_DESCRIPTION": "Você encontrou nossa página de erro. Não se preocupe, também fomos notificados e investigaremos isso. Se o problema persistir, por favor abra um ticket de suporte.",
     "BUTTON_RETURN_HOME": "Voltar à página inicial"
 }
