@@ -1,0 +1,18 @@
+{
+  "LABEL_CUSTOMER": "Customer",
+  "LABEL_SERVICE_REP": "Service Rep",
+  "LABEL_OPENED": "Opened",
+  "LABEL_STATUS": "Status",
+  "LABEL_CHANGE_STATUS": "Change Status",
+  "LINK_IMPERSONATE": "Impersonate",
+  "LINK_SWITCH": "Switch",
+  "AVG_RESPONSE_TIME": "Avg response time:",
+  "STATUS_AWAITING_YOUR_REPLY": "AWAITING YOUR REPLY",
+  "STATE_OPEN": "Open",
+  "STATE_ACKNOWLEDGED": "Acknowledged",
+  "STATE_RESOLVED": "Resolved",
+  "ERROR_GET_TICKET_FAILED": "A request to get the latest ticket info failed.",
+  "ERROR_CHANGE_STATE_FAILED": "A request to change the ticket state failed.",
+  "INITIAL_COMMENT": "Hi [username]! You've created a ticket called \"[subject]\". Please leave some additional information and @[assignedTagName] will get back to you.",
+  "STATUS_CHANGE_COMMENT": "[username] changed the status from [oldStatus] to [newStatus]."
+}
