@@ -2,7 +2,7 @@
   "PAGE_TITLE": "Delete My Account",
   "HEADING_DELETE_ACCOUNT": "Delete <%= user.username %>'s account",
   "TEXT_PRIVACY_POLICY_NOTE": "If you are deleting your account due to privacy concerns, consider checking our <a href=\"/privacy-policy\">Privacy Policy</a>. We do not sell or share your data with third parties.",
-  "TEXT_ALSO_DELETING_TENANT": "Also deleting tenant \"<%= tenant.name %>\".",
+  "TEXT_ALSO_DELETING_TENANT": "Also deleting tenant \"<%= tenant ? tenant.name : '' %>\".",
   "TEXT_ACCOUNT_OWNER_WARNING": "You are an account owner. Deleting your account deletes this tenant.",
   "TEXT_SUBSCRIPTION_CANCELLED": "Your subscription will also be cancelled.",
   "TEXT_NO_SELL_DATA": "Note that FastComments <b>does not sell or share</b> your personal information with third parties. We offer free account creation simply as a convenience.",
