@@ -1,6 +1,6 @@
 {
     "FREE_TRIAL_STATUS": "Status:",
-    "FREE_TRIAL_REMAINING": "Seu período de teste gratuito tem <%= parseInt(30 - ((Date.now() - tenant.signUpDate) / 8.64e+7), 10) %> dias restantes.",
+    "FREE_TRIAL_REMAINING": "Seu período de teste gratuito tem <%= parseInt(30 - ((Date.now() - (tenant ? tenant.signUpDate : 0)) / 8.64e+7), 10) %> dias restantes.",
     "FREE_TRIAL_SUBSCRIBE": "Inscreva-se",
     "FREE_TRIAL_IMPORTANT_NOTICE": "Aviso importante:",
     "FREE_TRIAL_EXPIRED": "Seu período de teste gratuito expirou.",
@@ -11,7 +11,7 @@
     "HEADER_COMMENTER": "Comentarista",
     "HEADER_IMPERSONATING": "Fingindo ser <%= typeof user !== 'undefined' ? user.username : 'undefined' %>",
     "HEADER_EXIT": "Saída",
-    "HEADER_SWITCHED_TO": "Mudou para <%= tenant.name %>",
+    "HEADER_SWITCHED_TO": "Mudou para <%= tenant ? tenant.name : '' %>",
     "HEADER_EMAIL_NOT_VERIFIED": "Seu endereço de e-mail não foi verificado. Por favor, verifique sua caixa de entrada para encontrar um e-mail de verificação.",
     "HEADER_RESEND_VERIFICATION": "Reenviar e-mail de verificação",
     "HEADER_CARET_ALT": "Acento circunflexo",

@@ -1,6 +1,6 @@
 {
   "FREE_TRIAL_STATUS": "Status:",
-  "FREE_TRIAL_REMAINING": "Your free trial has <%= parseInt(30 - ((Date.now() - tenant.signUpDate) / 8.64e+7), 10) %> days remaining.",
+  "FREE_TRIAL_REMAINING": "Your free trial has <%= parseInt(30 - ((Date.now() - (tenant ? tenant.signUpDate : 0)) / 8.64e+7), 10) %> days remaining.",
   "FREE_TRIAL_SUBSCRIBE": "Subscribe",
   "FREE_TRIAL_IMPORTANT_NOTICE": "Important Notice:",
   "FREE_TRIAL_EXPIRED": "Your Free Trial has Expired.",
@@ -12,7 +12,7 @@
   "HEADER_COMMENTER": "Commenter",
   "HEADER_IMPERSONATING": "Impersonating <%= typeof user !== 'undefined' ? user.username : 'undefined' %>",
   "HEADER_EXIT": "Exit",
-  "HEADER_SWITCHED_TO": "Switched To <%= tenant.name %>",
+  "HEADER_SWITCHED_TO": "Switched To <%= tenant ? tenant.name : '' %>",
   "HEADER_EMAIL_NOT_VERIFIED": "Your email address is not verified. Please check your inbox for a verification email.",
   "HEADER_RESEND_VERIFICATION": "Resend Verification Email",
   "HEADER_CARET_ALT": "Caret",
