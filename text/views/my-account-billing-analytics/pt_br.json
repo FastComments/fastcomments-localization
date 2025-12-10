@@ -8,7 +8,7 @@
     "TEXT_TRIAL_PERIOD_NOTE": "Você está atualmente em período de teste. <b>O valor acima não é devido neste ciclo de faturamento.</b>",
     "TEXT_INVOICE_SEND_DATE": "A fatura será enviada em <%= invoiceSendDate %>.",
     "HEADING_SERVICE_LIMITS": "Limites de serviço",
-    "TEXT_TRIAL_LIMITS_NOTE": "<b>Atenção!</b> Como você está em um período de teste, os limites da sua conta são menores. <a href=\"/auth/my-account/billing-info\">Atualize para uma conta paga</a> ou <a href=\"/auth/my-account/help\">entre em contato com o suporte para aumentar esses limites</a> .",
+    "TEXT_TRIAL_LIMITS_NOTE": "<b>Atenção!</b> Como você está em um período de teste, os limites da sua conta são menores. <a href=\"/auth/my-account/billing-info\">Atualize para uma conta paga</a> ou <a href=\"/auth/my-account/help\">entre em contato com o suporte para aumentar esses limites</a>.",
     "LABEL_CURRENT": "Atual:",
     "LABEL_MAX": "Máximo:",
     "TEXT_MAX_NONE": "Nenhum"
