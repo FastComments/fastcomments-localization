@@ -6,7 +6,5 @@
     "LABEL_DOMAIN_NAME": "Nome de domínio",
     "PLACEHOLDER_DOMAIN_NAME": "Insira um domínio de nível superior, como fastcomments.com. Use um subdomínio para restringir ainda mais o acesso, se desejar.",
     "TEXT_COMMA_SEPARATED_NOTE": "Você pode inserir domínios em formato separado por vírgulas.",
-    "TEXT_DOMAIN_VALID": "✔️ <%= domain.domain %>",
-    "TEXT_DOMAIN_INVALID": "❌ \"<%= domain.input %>\": <%= domain.reason %>",
     "BUTTON_SAVE": "Salvar"
 }

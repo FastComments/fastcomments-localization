@@ -6,7 +6,5 @@
   "LABEL_DOMAIN_NAME": "Domain Name",
   "PLACEHOLDER_DOMAIN_NAME": "Enter a top-level domain, like fastcomments.com. Use a subdomain to further restrict access if desired.",
   "TEXT_COMMA_SEPARATED_NOTE": "You can enter domains in comma-separated format.",
-  "TEXT_DOMAIN_VALID": "✔️ <%= domain.domain %>",
-  "TEXT_DOMAIN_INVALID": "❌ \"<%= domain.input %>\": <%= domain.reason %>",
   "BUTTON_SAVE": "Save"
 }

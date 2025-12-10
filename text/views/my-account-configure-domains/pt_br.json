@@ -13,8 +13,6 @@
     "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Nome do remetente ao enviar e-mail para o usuário",
     "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "De: Email ao enviar e-mail para o usuário",
     "TEXT_EMAIL_ERROR": "Parece haver algo errado com este e-mail. Salvamos todas as outras alterações.",
-    "BUTTON_CLICK_TO_UPDATE_LOGO": "Clique para atualizar o logotipo de <%= domain.domain %>",
-    "BUTTON_CLICK_TO_SET_LOGO": "Clique para definir o logotipo para <%= domain.domain %>",
     "TEXT_LOGO_MAX_SIZE": "Tamanho máximo: 1 MB. Não redimensionado.",
     "BUTTON_SAVE": "Salvar",
     "TEXT_NO_DOMAINS_WARNING": "Uau! Você não tem nenhum domínio. Seus widgets não poderão ser carregados até que você associe um ou mais domínios à sua conta.",
