@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Widget <%= widget.title %> - FastComments",
+    "PAGE_TITLE": "Widget <%= TEXT[widget.titleKey] %> - FastComments",
     "HEADING": "Código do widget",
     "HEADING_MULTIPLE_INSTANCES": "Observação: Instâncias Múltiplas",
     "MESSAGE_MULTIPLE_INSTANCES": "Para usar várias instâncias deste widget na mesma página, como em uma lista de posts de blog, basta gerar os IDs do elemento alvo e passar esse mesmo ID para o widget. Por exemplo, 'widget-id-0', 'widget-id-1' e assim por diante.",
@@ -9,5 +9,21 @@
     "TOOLTIP_SHOW_ADVANCED": "Ali existem dragões.",
     "HEADING_DOCUMENTATION": "Documentação",
     "MESSAGE_DOCUMENTATION": "Observe que algumas dessas opções avançadas podem ser configuradas facilmente através do link \"Personalizar\" no canto superior direito, o que significa que não é necessário nenhum conhecimento de programação.",
-    "BUTTON_LIVE_DEMO": "Demonstração ao vivo"
+    "BUTTON_LIVE_DEMO": "Demonstração ao vivo",
+    "WIDGET_LIVE_COMMENTING_TITLE": "Comentários ao Vivo",
+    "WIDGET_LIVE_COMMENTING_DESCRIPTION": "Comentários ao vivo personalizáveis para qualquer página ou aplicativo.",
+    "WIDGET_STREAMING_CHAT_TITLE": "Chat de Streaming",
+    "WIDGET_STREAMING_CHAT_DESCRIPTION": "Chat de streaming para qualquer página ou aplicativo.",
+    "WIDGET_IMAGE_CHAT_TITLE": "Chat de Imagem",
+    "WIDGET_IMAGE_CHAT_DESCRIPTION": "Adicione conversas a imagens.",
+    "WIDGET_COLLAB_CHAT_TITLE": "Chat Colaborativo",
+    "WIDGET_COLLAB_CHAT_DESCRIPTION": "Adicione colaboração a documentos estáticos.",
+    "WIDGET_COMMENT_COUNT_TITLE": "Contagem de Comentários",
+    "WIDGET_COMMENT_COUNT_DESCRIPTION": "Este widget adicionará uma contagem de comentários a qualquer página.",
+    "WIDGET_COMMENT_COUNT_BULK_TITLE": "Contagem de Comentários em Massa",
+    "WIDGET_COMMENT_COUNT_BULK_DESCRIPTION": "Este widget adicionará uma contagem de comentários a qualquer página. Usado ao exibir contagens de muitos itens em uma lista.",
+    "WIDGET_RECENT_COMMENTS_TITLE": "Comentários Recentes",
+    "WIDGET_RECENT_COMMENTS_DESCRIPTION": "Este widget adicionará uma lista de comentários recentes a qualquer página.",
+    "WIDGET_TOP_PAGES_TITLE": "Páginas Principais",
+    "WIDGET_TOP_PAGES_DESCRIPTION": "Este widget adicionará uma lista das páginas principais, por contagem de comentários, a qualquer página."
 }
