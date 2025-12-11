@@ -1,0 +1,4 @@
+{
+    "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
+    "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+}
