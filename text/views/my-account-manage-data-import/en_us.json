@@ -42,5 +42,21 @@
   "FASTCOMMENTS_EXAMPLE_LINK": "here",
   "FASTCOMMENTS_API_HINT": "You might want to also consider using the",
   "FASTCOMMENTS_API_LINK": "API",
-  "FASTCOMMENTS_API_SUFFIX": "instead."
+  "FASTCOMMENTS_API_SUFFIX": "instead.",
+  "ERROR_FILE_REQUIRED": "A file is required.",
+  "ERROR_INVALID_FILE_COMMENTO": "Looks like that file is invalid. For Commento imports, you don't have to extract the gzipped file. Simply upload the \".gz\" file you exported from Commento.",
+  "ERROR_INVALID_FILE_DISQUS": "Looks like that file is invalid. For Disqus imports, you don't have to extract the gzipped file. Simply upload the \".gz\" file you exported from Disqus.",
+  "ERROR_INVALID_FILE_HYVOR_TALK": "Looks like that file is invalid. For Hyvor Talk imports, simply upload the \".json\" file you exported from their platform.",
+  "ERROR_INVALID_FILE_FASTCOMMENTS": "Looks like that file is invalid. For FastComments imports, only CSV files are supported.",
+  "ERROR_INVALID_FILE_MUUT": "Looks like that file is invalid. For Muut imports, you don't have to extract the gzipped file. Simply upload the \".gz\" file you exported from Muut.",
+  "ERROR_MUUT_BASE_URL_REQUIRED": "Enter a base url for this import (like https://blog.fastcomments.com).",
+  "ERROR_MUUT_PROTOCOL_REQUIRED": "Please include the protocol for the base url (like https://blog.fastcomments.com).",
+  "ERROR_INVALID_FILE_OPENWEB": "Looks like that file is invalid. For OpenWeb imports, only CSV files are supported.",
+  "ERROR_INVALID_FILE_INTENSEDEBATE": "Looks like that file is invalid. For IntenseDebate imports, you don't have to extract the gzipped file. Simply upload the \".gz\" file you exported from IntenseDebate.",
+  "ERROR_INVALID_FILE_WORDPRESS_CSV": "Looks like that file is invalid. For WordPress imports, only CSV files are supported.",
+  "ERROR_INVALID_FILE_WORDPRESS_XML": "Looks like that file is invalid. For WordPress imports, only XML files are supported.",
+  "ERROR_INVALID_FILE_JUST_COMMENTS": "Looks like that file is invalid. The file should be of \"json\" file type.",
+  "ERROR_GENERIC": "Something went wrong! Please try again later.",
+  "ERROR_UPLOAD_FAILED": "Failed to upload file. Please try again later.",
+  "ERROR_CREATE_IMPORT_FAILED": "We couldn't create an import. Please try again later."
 }

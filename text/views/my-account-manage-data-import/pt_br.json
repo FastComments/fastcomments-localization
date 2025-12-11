@@ -42,5 +42,21 @@
     "FASTCOMMENTS_EXAMPLE_LINK": "aqui",
     "FASTCOMMENTS_API_HINT": "Você também pode considerar usar a",
     "FASTCOMMENTS_API_LINK": "API",
-    "FASTCOMMENTS_API_SUFFIX": "em vez disso."
+    "FASTCOMMENTS_API_SUFFIX": "em vez disso.",
+    "ERROR_FILE_REQUIRED": "Um arquivo é obrigatório.",
+    "ERROR_INVALID_FILE_COMMENTO": "Parece que o arquivo é inválido. Para importações do Commento, você não precisa extrair o arquivo compactado. Basta enviar o arquivo \".gz\" que você exportou do Commento.",
+    "ERROR_INVALID_FILE_DISQUS": "Parece que o arquivo é inválido. Para importações do Disqus, você não precisa extrair o arquivo compactado. Basta enviar o arquivo \".gz\" que você exportou do Disqus.",
+    "ERROR_INVALID_FILE_HYVOR_TALK": "Parece que o arquivo é inválido. Para importações do Hyvor Talk, basta enviar o arquivo \".json\" que você exportou da plataforma.",
+    "ERROR_INVALID_FILE_FASTCOMMENTS": "Parece que o arquivo é inválido. Para importações do FastComments, apenas arquivos CSV são suportados.",
+    "ERROR_INVALID_FILE_MUUT": "Parece que o arquivo é inválido. Para importações do Muut, você não precisa extrair o arquivo compactado. Basta enviar o arquivo \".gz\" que você exportou do Muut.",
+    "ERROR_MUUT_BASE_URL_REQUIRED": "Insira uma URL base para esta importação (como https://blog.fastcomments.com).",
+    "ERROR_MUUT_PROTOCOL_REQUIRED": "Por favor, inclua o protocolo na URL base (como https://blog.fastcomments.com).",
+    "ERROR_INVALID_FILE_OPENWEB": "Parece que o arquivo é inválido. Para importações do OpenWeb, apenas arquivos CSV são suportados.",
+    "ERROR_INVALID_FILE_INTENSEDEBATE": "Parece que o arquivo é inválido. Para importações do IntenseDebate, você não precisa extrair o arquivo compactado. Basta enviar o arquivo \".gz\" que você exportou do IntenseDebate.",
+    "ERROR_INVALID_FILE_WORDPRESS_CSV": "Parece que o arquivo é inválido. Para importações do WordPress, apenas arquivos CSV são suportados.",
+    "ERROR_INVALID_FILE_WORDPRESS_XML": "Parece que o arquivo é inválido. Para importações do WordPress, apenas arquivos XML são suportados.",
+    "ERROR_INVALID_FILE_JUST_COMMENTS": "Parece que o arquivo é inválido. O arquivo deve ser do tipo \"json\".",
+    "ERROR_GENERIC": "Algo deu errado! Por favor, tente novamente mais tarde.",
+    "ERROR_UPLOAD_FAILED": "Falha ao enviar o arquivo. Por favor, tente novamente mais tarde.",
+    "ERROR_CREATE_IMPORT_FAILED": "Não foi possível criar a importação. Por favor, tente novamente mais tarde."
 }
