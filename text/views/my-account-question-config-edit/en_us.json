@@ -1,6 +1,6 @@
 {
   "PAGE_TITLE": "Edit Question - FastComments",
-  "HEADING_EDITING": "Editing <%= question.name %>",
+  "HEADING_EDITING": "Editing [questionName]",
   "HEADING_CREATE": "Create a Question",
   "NOTE_UPDATE_LIMITATION": "Only certain aspects of a question can be updated once it's created. To change the question type, delete or hide the question and create a new one.",
   "NOTE_LABEL": "Note!",
@@ -8,7 +8,7 @@
   "INTRO_NAME_TEXT": "Also pick a name that can be used to refer to the question internally.",
   "NOSCRIPT_WARNING": "This page requires JavaScript to work properly.",
   "LABEL_QUESTION_TYPE": "Question Type",
-  "HEADING_CREATING": "Creating \"<%= QuestionTypeDescriptions[typeId] %>\" Question",
+  "HEADING_CREATING": "Creating \"[questionTypeDescription]\" Question",
   "LABEL_INTERNAL_NAME": "Internal Name",
   "PLACEHOLDER_INTERNAL_NAME": "Internal Question Name",
   "HELP_INTERNAL_NAME": "Respondents will not see this name. It is for internal and reporting use only.",
@@ -46,5 +46,9 @@
   "MESSAGE_ADD_QUESTIONS_FIRST": "Add other questions first to add as Sub Questions.",
   "LABEL_PREVIEW": "Preview:",
   "BUTTON_CREATE": "Create Question",
-  "BUTTON_UPDATE": "Update Question"
+  "BUTTON_UPDATE": "Update Question",
+  "QUESTION_TYPE_NPS": "NPS",
+  "QUESTION_TYPE_SLIDER": "Slider",
+  "QUESTION_TYPE_STAR": "Star Rating",
+  "QUESTION_TYPE_THUMBS": "Thumbs Up/Down"
 }

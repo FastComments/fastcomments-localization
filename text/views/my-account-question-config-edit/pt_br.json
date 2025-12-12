@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "Editar pergunta - FastComments",
-    "HEADING_EDITING": "Edição <%= question.name %>",
+    "HEADING_EDITING": "Edição [questionName]",
     "HEADING_CREATE": "Criar uma pergunta",
     "NOTE_UPDATE_LIMITATION": "Somente alguns aspectos de uma pergunta podem ser atualizados depois de criada. Para alterar o tipo de pergunta, exclua ou oculte a pergunta e crie uma nova.",
     "NOTE_LABEL": "Observação!",
@@ -8,7 +8,7 @@
     "INTRO_NAME_TEXT": "Escolha também um nome que possa ser usado para se referir à pergunta internamente.",
     "NOSCRIPT_WARNING": "Esta página requer JavaScript para funcionar corretamente.",
     "LABEL_QUESTION_TYPE": "Tipo de pergunta",
-    "HEADING_CREATING": "Criando a pergunta \"<%= QuestionTypeDescriptions[typeId] %>\"",
+    "HEADING_CREATING": "Criando a pergunta \"[questionTypeDescription]\"",
     "LABEL_INTERNAL_NAME": "Nome interno",
     "PLACEHOLDER_INTERNAL_NAME": "Nome da pergunta interna",
     "HELP_INTERNAL_NAME": "Os respondentes não verão este nome. Ele é apenas para uso interno e para fins de relatório.",
@@ -46,5 +46,9 @@
     "MESSAGE_ADD_QUESTIONS_FIRST": "Adicione outras perguntas primeiro para adicioná-las como subperguntas.",
     "LABEL_PREVIEW": "Pré-visualização:",
     "BUTTON_CREATE": "Criar pergunta",
-    "BUTTON_UPDATE": "Pergunta de atualização"
+    "BUTTON_UPDATE": "Pergunta de atualização",
+    "QUESTION_TYPE_NPS": "NPS",
+    "QUESTION_TYPE_SLIDER": "Controle deslizante",
+    "QUESTION_TYPE_STAR": "Classificação por estrelas",
+    "QUESTION_TYPE_THUMBS": "Polegar para cima/baixo"
 }
