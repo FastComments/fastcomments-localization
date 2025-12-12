@@ -1,5 +1,19 @@
 {
   "BUTTON_DOWNLOAD": "Download",
   "TEXT_NA": "N/A",
-  "BUTTON_DELETE": "Delete"
+  "BUTTON_DELETE": "Delete",
+  "TIME_RANGE_ALL_TIME": "All Time",
+  "TIME_RANGE_30_DAYS": "Last 30 Days",
+  "TIME_RANGE_1_YEAR": "Last Year",
+  "TIME_RANGE_2_YEARS": "Last 2 Years",
+  "TIME_RANGE_3_YEARS": "Last 3 Years",
+  "SOURCE_TENANT_COMMENTS": "Tenant Comments",
+  "SOURCE_DELETED_COMMENTS_TABLE": "Deleted Comments",
+  "STATUS_REQUESTED": "Requested",
+  "STATUS_RUNNING": "Running",
+  "STATUS_SUCCESS": "Success",
+  "STATUS_FAILED": "Failed",
+  "STATUS_EXPIRED": "Expired",
+  "STATUS_DELETING": "Deleting",
+  "STATUS_CANCELLED": "Cancelled"
 }
