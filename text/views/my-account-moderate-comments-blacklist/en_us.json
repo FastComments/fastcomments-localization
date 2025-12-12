@@ -8,13 +8,13 @@
   "INTRO_PARAGRAPH_3": "You will see that we differentiate between <b>words</b> and <b>phrases</b>. Entries in the <b>word</b> list should not contain spaces or special characters. If you have a phrase that contains spaces, or periods, etc, add that to the <b>phrase</b> list instead.",
   "NOSCRIPT_MESSAGE": "JavaScript is required for this configuration UI to function properly.",
   "EDIT_LOCALE_LABEL": "Edit for Locale",
-  "MASKED_WORDS_LABEL": "Masked Words for <%= blacklist.localeName %>.",
+  "MASKED_WORDS_LABEL": "Masked Words for [localeName].",
   "MASKED_WORDS_DESCRIPTION": "Words in this list (comma separated) will be masked like ***.",
   "MASKED_WORDS_PLACEHOLDER": "Enter a comma separated list of bad words, like 'some, bad, words'.",
-  "WORDS_LENGTH_ERROR": "You may enter up to 5,000 words per locale. You've entered <span id=\"length-error-count-words-<%= blacklist.locale %>\"></span>.",
-  "MASKED_PHRASES_LABEL": "Masked Phrases for <%= blacklist.localeName %>.",
+  "WORDS_LENGTH_ERROR": "You may enter up to 5,000 words per locale.",
+  "MASKED_PHRASES_LABEL": "Masked Phrases for [localeName].",
   "MASKED_PHRASES_DESCRIPTION": "Phrases in this list (comma separated) will be masked like ********.",
   "MASKED_PHRASES_PLACEHOLDER": "Enter a comma separated list of bad phrases, like 'some bad phrase, some other bad phrase'.",
-  "PHRASES_LENGTH_ERROR": "You may enter up to 5,000 phrases per locale. You've entered <span id=\"length-error-count-phrases-<%= blacklist.locale %>\"></span>.",
-  "SAVE_BUTTON": "Save Changes To <%= blacklist.localeName %>"
+  "PHRASES_LENGTH_ERROR": "You may enter up to 5,000 phrases per locale.",
+  "SAVE_BUTTON": "Save Changes To [localeName]"
 }

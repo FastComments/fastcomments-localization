@@ -8,13 +8,13 @@
     "INTRO_PARAGRAPH_3": "Você verá que fazemos distinção entre <b>palavras</b> e <b>frases</b> . As entradas na lista <b>de palavras</b> não devem conter espaços ou caracteres especiais. Se você tiver uma frase que contenha espaços, pontos, etc., adicione-a à lista <b>de frases</b> .",
     "NOSCRIPT_MESSAGE": "É necessário JavaScript para que esta interface de configuração funcione corretamente.",
     "EDIT_LOCALE_LABEL": "Editar para localização",
-    "MASKED_WORDS_LABEL": "Palavras mascaradas para <%= blacklist.localeName %>.",
+    "MASKED_WORDS_LABEL": "Palavras mascaradas para [localeName].",
     "MASKED_WORDS_DESCRIPTION": "As palavras desta lista (separadas por vírgulas) serão ocultadas com um símbolo ***.",
     "MASKED_WORDS_PLACEHOLDER": "Insira uma lista de palavrões separados por vírgulas, como 'alguns, palavrões'.",
-    "WORDS_LENGTH_ERROR": "Você pode inserir até 5.000 palavras por localidade. Você inseriu<span id=\"length-error-count-words-<%= blacklist.locale %>\"></span> .",
-    "MASKED_PHRASES_LABEL": "Frases mascaradas para <%= blacklist.localeName %>.",
+    "WORDS_LENGTH_ERROR": "Você pode inserir até 5.000 palavras por localidade.",
+    "MASKED_PHRASES_LABEL": "Frases mascaradas para [localeName].",
     "MASKED_PHRASES_DESCRIPTION": "As frases desta lista (separadas por vírgulas) serão mascaradas como ********.",
     "MASKED_PHRASES_PLACEHOLDER": "Insira uma lista de frases ofensivas separadas por vírgulas, como 'alguma frase ofensiva, alguma outra frase ofensiva'.",
-    "PHRASES_LENGTH_ERROR": "Você pode inserir até 5.000 frases por localidade. Você inseriu<span id=\"length-error-count-phrases-<%= blacklist.locale %>\"></span> .",
-    "SAVE_BUTTON": "Salvar alterações em <%= blacklist.localeName %>"
+    "PHRASES_LENGTH_ERROR": "Você pode inserir até 5.000 frases por localidade.",
+    "SAVE_BUTTON": "Salvar alterações em [localeName]"
 }
