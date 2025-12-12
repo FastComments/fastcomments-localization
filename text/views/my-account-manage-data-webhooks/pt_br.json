@@ -14,5 +14,21 @@
     "CONFIGURE_DOMAIN_LABEL": "Configurar para domínio",
     "ALL_DOMAINS_OPTION": "Todos os domínios",
     "RECENT_FAILURES_NOTIFICATION": "❗ Falhas recentes em webhooks",
-    "RECENT_FAILURES_MESSAGE": "Você teve falhas recentes no webhook. Tente verificar os registros."
+    "RECENT_FAILURES_MESSAGE": "Você teve falhas recentes no webhook. Tente verificar os registros.",
+    "ON_COMMENT_CREATED_LABEL": "Ao Criar Comentário",
+    "ON_COMMENT_UPDATED_LABEL": "Ao Atualizar Comentário",
+    "ON_COMMENT_DELETED_LABEL": "Ao Excluir Comentário",
+    "IDEMPOTENT_OPERATION_TITLE": "Esta é uma operação idempotente.",
+    "SAVE_BUTTON": "Salvar",
+    "URL_PLACEHOLDER": "https://seu-site.com/seu-endpoint",
+    "SEND_TEST_PAYLOAD_BUTTON": "Enviar Payload de Teste",
+    "STATUS_VERIFIED": "✔️ Verificado",
+    "STATUS_NOT_VERIFIED": "❌ Não verificado.",
+    "STATUS_NOT_VERIFIED_EXPECTED_200": "❌ Não verificado. Esperado código de status 200.",
+    "STATUS_NOT_VERIFIED_EXPECTED_401": "❌ Não verificado. Esperado código de status 401 quando a chave API é inválida.",
+    "STATUS_YOU_PROVIDED": "Você forneceu [statusCode].",
+    "BUTTON_SET_READY": "Definir Pronto",
+    "BUTTON_SET_NOT_READY": "Definir Não Pronto",
+    "CONFIRM_SET_READY": "Isso definirá manualmente o status do webhook como Pronto, ignorando a validação da chave API. Continuar?",
+    "EVENTS_IN_QUEUE": "[count] eventos na fila."
 }
