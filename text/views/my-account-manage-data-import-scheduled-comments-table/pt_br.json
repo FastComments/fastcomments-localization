@@ -1,7 +1,7 @@
 {
     "TEXT_NA": "N / D",
-    "TEXT_USED_TIMES": "Usado <%= csvImport.scheduledCommentsUsedCount ? Number(csvImport.scheduledCommentsUsedCount).toLocaleString() : 0 %> vez(es)",
-    "TEXT_COMMENTS_PLAYED_BACK": "<%= csvImport.scheduledCommentsPlayedBack ? Number(csvImport.scheduledCommentsPlayedBack).toLocaleString() : 0 %> Comentários reproduzidos",
+    "TEXT_USED_TIMES": "Usado [usedCount] vez(es)",
+    "TEXT_COMMENTS_PLAYED_BACK": "[playedBack] Comentários reproduzidos",
     "BUTTON_DELETE": "Excluir",
     "BUTTON_STOP": "Parar",
     "BUTTON_DELETE_AND_RUN_AGAIN": "Apagar comentários e executar novamente",
