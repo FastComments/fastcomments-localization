@@ -15,5 +15,6 @@
     "LABEL_WEBSITES": "*Site(s):",
     "DOMAINS_DESCRIPTION": "Não é necessário inserir subdomínios ou localhost. Para vários sites, separe-os com vírgulas.",
     "TOS_TEXT": "Ao clicar em Criar conta, você concorda com os <a href=\"/terms-of-service\" target=\"_blank\">Termos de Serviço</a> .",
-    "BUTTON_CREATE_ACCOUNT": "Criar uma conta"
+    "BUTTON_CREATE_ACCOUNT": "Criar uma conta",
+    "ERROR_SIGNUP_ALREADY_STARTED": "O processo de cadastro já foi iniciado e não pode ser enviado novamente. Talvez você tenha atualizado a página?"
 }

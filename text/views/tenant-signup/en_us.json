@@ -15,5 +15,6 @@
   "LABEL_WEBSITES": "*Website(s):",
   "DOMAINS_DESCRIPTION": "No need to input subdomains or localhost. For multiple sites, separate them with commas.",
   "TOS_TEXT": "By clicking Create Account, you agree to the <a href=\"/terms-of-service\" target=\"_blank\">Terms of Service</a>.",
-  "BUTTON_CREATE_ACCOUNT": "Create Account"
+  "BUTTON_CREATE_ACCOUNT": "Create Account",
+  "ERROR_SIGNUP_ALREADY_STARTED": "The sign up process has already been started and can't be submitted again. Maybe you refreshed the page?"
 }
