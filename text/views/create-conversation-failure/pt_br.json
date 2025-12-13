@@ -3,6 +3,6 @@
     "META_DESCRIPTION": "Entre em contato com FastComments.com",
     "HERO_TITLE_LIGHT": "Conversa ",
     "HERO_TITLE_BOLD": "Não foi possível criar",
-    "HERO_DESCRIPTION": "Não foi possível criar sua conversa. <%= errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
+    "HERO_DESCRIPTION": "Não foi possível criar sua conversa. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'Ocorreu um erro interno. Por favor, entre em contato com o suporte.' %>",
     "BUTTON_TRY_AGAIN": "Tente iniciar uma nova conversa."
 }
