@@ -14,5 +14,7 @@
     "EMAIL_DESCRIPTION": "Enviaremos um link por e-mail para que você complete o cadastro e faça login.",
     "SIGNUP_EMAIL_TEXT": "Você está se cadastrando usando <b><%= email %></b> .",
     "TERMS_AGREEMENT": "Ao clicar em Inscrever-se, você concorda com os <a href=\"/terms-of-service\" target=\"_blank\">Termos de Serviço</a> .",
-    "BUTTON_SIGN_UP": "Inscrever-se"
+    "BUTTON_SIGN_UP": "Inscrever-se",
+    "LABEL_CAPTCHA": "Qual é o resultado de <%= captchaA %> + <%= captchaB %>?",
+    "CAPTCHA_HELP": "Ajuda a determinar que você não é um robô."
 }

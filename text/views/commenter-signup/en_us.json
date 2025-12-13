@@ -14,5 +14,7 @@
   "EMAIL_DESCRIPTION": "We'll send you a link via email to complete your account and sign in.",
   "SIGNUP_EMAIL_TEXT": "You're signing up using <b><%= email %></b>.",
   "TERMS_AGREEMENT": "By clicking Sign Up, you agree to the <a href=\"/terms-of-service\" target=\"_blank\">Terms of Service</a>.",
-  "BUTTON_SIGN_UP": "Sign Up"
+  "BUTTON_SIGN_UP": "Sign Up",
+  "LABEL_CAPTCHA": "What is <%= captchaA %> + <%= captchaB %>?",
+  "CAPTCHA_HELP": "Helps determine you're not a bot."
 }

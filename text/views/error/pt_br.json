@@ -4,5 +4,7 @@
     "HERO_TITLE_LIGHT": "Nos deparamos com um ",
     "HERO_TITLE_BOLD": "Erro",
     "HERO_DESCRIPTION": "Você se deparou com nossa página de erro. Não se preocupe, também fomos notificados e investigaremos o problema. Se o erro persistir, abra um chamado de suporte.",
-    "BUTTON_RETURN_HOME": "Voltar à página inicial"
+    "BUTTON_RETURN_HOME": "Voltar à página inicial",
+    "CSRF_ERROR": "A validação de segurança (CSRF) falhou. Por favor, volte, recarregue a página e tente novamente.",
+    "COOKIE_ERROR": "Houve um problema ao processar o token CSRF da sua solicitação. Por favor, volte, recarregue a página e tente novamente."
 }
