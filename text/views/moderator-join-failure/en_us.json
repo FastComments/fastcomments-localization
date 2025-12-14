@@ -2,5 +2,9 @@
   "PAGE_TITLE": "Invite Failed",
   "HERO_TITLE_LIGHT": "Invite ",
   "HERO_TITLE_BOLD": "Failure",
-  "HERO_DESCRIPTION": "<%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'Something went terribly wrong. We\\'re not sure what happened, but we\\'ll take a look.' %>"
+  "DEFAULT_ERROR": "Something went terribly wrong. We're not sure what happened, but we'll take a look.",
+  "ERROR_LINK_EXPIRED": "<b>Sorry, but it seems this link has already been used or is more than 30 days old. Please ask the owner of the site that sent you the invite to send a new one.</b>",
+  "ERROR_LINK_INVALID": "<b>Oh no! It looks like this link is invalid.</b>",
+  "ERROR_ACCOUNT_NOT_FOUND": "Your account was not found. Contact your administrator to get a new invite to resolve this issue.",
+  "ERROR_EMAIL_MISMATCH": "<b>The currently logged-in user has a different email ([userEmail]) from the invite sent ([inviteEmail]).</b> <br><br>You may <a href=\"/auth/logout?redirect=[redirectUrl]\">click here</a> to log out and create an account specifically for moderating."
 }
