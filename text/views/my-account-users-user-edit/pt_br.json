@@ -15,5 +15,13 @@
     "PLACEHOLDER_EMAIL": "email@exemplo.com",
     "LABEL_LOCALE": "Localidade",
     "LABEL_PERMISSIONS": "Permissões",
-    "BUTTON_SUBMIT": "Enviar"
+    "BUTTON_SUBMIT": "Enviar",
+    "USERNAME_EXISTS_SAME_TENANT": "❗ Já existe um usuário com esse nome de usuário neste locatário.",
+    "USERNAME_EXISTS_INVITE": "❗ Um usuário do FastComments com esse nome de usuário já existe, mas não neste locatário. Deseja <a href=\"{{INVITE_URL}}\">convidá-lo</a>?",
+    "USERNAME_EXISTS_OTHER_TENANT": "❌ Um usuário do FastComments com esse nome de usuário já existe para outro locatário.",
+    "USERNAME_AVAILABLE": "✔️ Esse nome de usuário está disponível.",
+    "EMAIL_EXISTS_SAME_TENANT": "❗ Já existe um usuário com esse e-mail neste locatário.",
+    "EMAIL_EXISTS_INVITE": "❗ Um usuário do FastComments com esse e-mail já existe, mas não neste locatário. Deseja <a href=\"{{INVITE_URL}}\">convidá-lo</a>?",
+    "EMAIL_EXISTS_OTHER_TENANT": "❌ Um usuário do FastComments com esse e-mail já existe para outro locatário.",
+    "EMAIL_AVAILABLE": "✔️ Esse e-mail está disponível."
 }
