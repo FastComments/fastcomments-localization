@@ -90,7 +90,7 @@
         "amptest": 2,
         "auth-login-link-failure": 5,
         "auth-my-account-integration-confirm": 10,
-        "auth-my-account-integration-setup": 7,
+        "auth-my-account-integration-setup": 27,
         "auth-my-account-integration-setup-failure": 4,
         "auth-my-account-integration-token-failed": 6,
         "calculator-v2": 50,
@@ -140,7 +140,7 @@
         "my-account-api-secret-rename": 5,
         "my-account-auto-spam": 3,
         "my-account-auto-spam-classifications": 6,
-        "my-account-badge-users": 9,
+        "my-account-badge-users": 11,
         "my-account-billing-analytics": 13,
         "my-account-billing-history": 23,
         "my-account-billing-info": 38,
@@ -173,7 +173,7 @@
         "my-account-digest-email-expired": 5,
         "my-account-digest-email-unsubscribed-success": 4,
         "my-account-edit-avatar": 6,
-        "my-account-edit-details": 29,
+        "my-account-edit-details": 32,
         "my-account-edit-details-change-password": 7,
         "my-account-edit-details-change-password-do": 10,
         "my-account-edit-notifications": 30,
@@ -201,9 +201,9 @@
         "my-account-manage-data-import-scheduled-comments-table": 9,
         "my-account-manage-data-import-table": 20,
         "my-account-manage-data-integrations": 16,
-        "my-account-manage-data-integrations-integration-delete": 5,
+        "my-account-manage-data-integrations-integration-delete": 7,
         "my-account-manage-data-integrations-integration-logs": 7,
-        "my-account-manage-data-integrations-integration-settings": 6,
+        "my-account-manage-data-integrations-integration-settings": 8,
         "my-account-manage-data-migrate-domains": 19,
         "my-account-manage-data-migrate-domains-table": 1,
         "my-account-manage-data-users-export": 12,
@@ -277,7 +277,7 @@
         "remove-post": 6,
         "remove-post-failure": 5,
         "remove-post-success": 5,
-        "set-subscription-state": 14,
+        "set-subscription-state": 15,
         "success-stories": 5,
         "tenant-signup": 18,
         "tenant-signup-failure": 4,
@@ -303,13 +303,13 @@
         "badge-selector-component": 3,
         "my-account-home": 7,
         "my-account-two-factor-component": 70,
-        "badge-edit-dynamic": 3,
+        "badge-edit-dynamic": 5,
         "badge-list-item": 2,
         "badge-types": 45,
         "billing-limits": 18,
         "domain-item": 4,
         "domain-validation": 4,
-        "email-template-item": 2,
+        "email-template-item": 6,
         "flex-billing": 17,
         "render-error-item": 3,
         "user-permissions": 27,
@@ -1712,7 +1712,27 @@
         "t4": "NOSCRIPT_MESSAGE",
         "t5": "UPDATE_INFO",
         "t6": "SYNC_INFO",
-        "t7": "LOGS_INFO"
+        "t7": "LOGS_INFO",
+        "t8": "TITLE_WAITING_FOR_CONNECTION",
+        "t9": "DESC_WAITING_FOR_CONNECTION",
+        "t10": "TITLE_TOKEN_CREATED",
+        "t11": "DESC_TOKEN_CREATED",
+        "t12": "TITLE_TOKEN_VALIDATED",
+        "t13": "DESC_TOKEN_VALIDATED",
+        "t14": "TITLE_REQUESTED_SEND_COMMENTS",
+        "t15": "DESC_REQUESTED_SEND_COMMENTS",
+        "t16": "TITLE_ADDED_DOMAIN_ACCOUNT",
+        "t17": "DESC_ADDED_DOMAIN_ACCOUNT",
+        "t18": "TITLE_MIGRATED_WP_DOMAIN_ACCOUNT",
+        "t19": "DESC_MIGRATED_WP_DOMAIN_ACCOUNT",
+        "t20": "TITLE_COMMENTS_RECEIVED",
+        "t21": "DESC_COMMENTS_RECEIVED",
+        "t22": "TITLE_API_SECRET_REQUESTED",
+        "t23": "DESC_API_SECRET_REQUESTED",
+        "t24": "TITLE_FETCH_EVENTS",
+        "t25": "DESC_FETCH_EVENTS",
+        "t26": "TITLE_GET_COMMENTS",
+        "t27": "DESC_GET_COMMENTS"
     },
     "auth-my-account-integration-setup-failure": {
         "t1": "PAGE_TITLE",
@@ -2753,7 +2773,9 @@
         "t6": "TABLE_HEADER_AVATAR",
         "t7": "TABLE_HEADER_NAME",
         "t8": "TABLE_HEADER_BADGE_EARNED_DATE",
-        "t9": "TEXT_NA"
+        "t9": "TEXT_NA",
+        "t10": "HEADING_USERS_WITH_BADGE_SINGULAR",
+        "t11": "HEADING_USERS_WITH_BADGE_PLURAL"
     },
     "my-account-billing-analytics": {
         "t1": "PAGE_TITLE",
@@ -3429,7 +3451,10 @@
         "t26": "ADD_SOCIAL_LINK",
         "t27": "SAVE_CHANGES",
         "t28": "ERROR_RATE_LIMITED_MINUTE",
-        "t29": "ERROR_RATE_LIMITED_DAY"
+        "t29": "ERROR_RATE_LIMITED_DAY",
+        "t30": "LOCALE_LABEL",
+        "t31": "SELECT_LOCALE",
+        "t32": "LOCALE_HELP"
     },
     "my-account-edit-details-change-password": {
         "t1": "TITLE",
@@ -4044,7 +4069,9 @@
         "t2": "HEADING",
         "t3": "CONFIRM_DELETE_MESSAGE",
         "t4": "DELETE_BUTTON",
-        "t5": "CANCEL_LINK"
+        "t5": "CANCEL_LINK",
+        "t6": "CONFIRM_DELETE_MESSAGE_NO_DOMAIN",
+        "t7": "CONFIRM_DELETE_MESSAGE_DOMAIN"
     },
     "my-account-manage-data-integrations-integration-logs": {
         "t1": "PAGE_TITLE",
@@ -4061,7 +4088,9 @@
         "t3": "SUB_HEADING",
         "t4": "ENABLE_EVENT_FETCH_LABEL",
         "t5": "ENABLE_EVENT_FETCH_DESCRIPTION",
-        "t6": "SAVE_BUTTON"
+        "t6": "SAVE_BUTTON",
+        "t7": "SUB_HEADING_NO_DOMAIN",
+        "t8": "SUB_HEADING_DOMAIN"
     },
     "my-account-manage-data-migrate-domains": {
         "t1": "PAGE_TITLE",
@@ -5412,7 +5441,8 @@
         "t11": "HAS_COMMENT_NOTE",
         "t12": "ERROR_TITLE_LIGHT",
         "t13": "ERROR_TITLE_BOLD",
-        "t14": "ERROR_DESCRIPTION_START"
+        "t14": "ERROR_DESCRIPTION_START",
+        "t15": "ERROR_LINK_EXPIRED"
     },
     "success-stories": {
         "t1": "PAGE_TITLE",
@@ -5671,7 +5701,9 @@
     "badge-edit-dynamic": {
         "t1": "HEADING_EDITING_BADGE",
         "t2": "HEADING_CREATING_EDITING_BADGE",
-        "t3": "LABEL_BADGE_THRESHOLD"
+        "t3": "LABEL_BADGE_THRESHOLD",
+        "t4": "HEADING_EDITING_BADGE_TYPE",
+        "t5": "HEADING_CREATING_BADGE_TYPE"
     },
     "badge-list-item": {
         "t1": "TEXT_REPLACES",
@@ -5758,7 +5790,11 @@
     },
     "email-template-item": {
         "t1": "TEXT_CUSTOM_TEMPLATE_NAME",
-        "t2": "TEXT_RENDER_ERRORS"
+        "t2": "TEXT_RENDER_ERRORS",
+        "t3": "TEXT_CUSTOM_TEMPLATE_NAME_DISPLAY",
+        "t4": "TEXT_CUSTOM_TEMPLATE_NAME_DEFAULT",
+        "t5": "TEXT_RENDER_ERRORS_SINGULAR",
+        "t6": "TEXT_RENDER_ERRORS_PLURAL"
     },
     "flex-billing": {
         "t1": "FLEX_PAGE_LOADS",
