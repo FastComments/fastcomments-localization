@@ -1,6 +1,7 @@
 {
     "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - תגובות מהירות",
-    "HEADING_USERS_WITH_BADGE": "<%- Number(userBadges.length).toLocaleString() %> <%- userBadges.length === 1 ? 'User' : 'Users' %> עם תג <%- tenantBadge.displayLabel %>",
+    "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> משתמש עם תג <%- tenantBadge.displayLabel %>",
+    "HEADING_USERS_WITH_BADGE_PLURAL": "<%- Number(userBadges.length).toLocaleString() %> משתמשים עם תג <%- tenantBadge.displayLabel %>",
     "TEXT_NO_USERS_WITH_BADGE": "אין משתמשים בעלי תג זה! רוב התגים מוענקים אוטומטית. אם מדובר בתג ידני, תצטרכו להעניק אותו באופן ידני.",
     "TABLE_HEADER_USER_ID": "מזהה משתמש",
     "TABLE_HEADER_EMAIL": "אֶלֶקטרוֹנִי",

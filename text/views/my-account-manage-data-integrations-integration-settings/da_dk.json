@@ -1,7 +1,8 @@
 {
     "PAGE_TITLE": "Indstillinger for integrationstoken - FastComments",
     "HEADING": "Indstillinger for integrationstoken",
-    "SUB_HEADING": "Redigering af et <%= integration.readableType %> integrationstoken<%= integration.domain ? ' for ' + integration.domain : '' %>.",
+    "SUB_HEADING_NO_DOMAIN": "Redigering af et <%= integration.readableType %> integrationstoken.",
+    "SUB_HEADING_DOMAIN": "Redigering af et <%= integration.readableType %> integrationstoken for <%= integration.domain %>.",
     "ENABLE_EVENT_FETCH_LABEL": "Klienter, der bruger denne integration, skal med jævne mellemrum kunne hente nye kommentarer.",
     "ENABLE_EVENT_FETCH_DESCRIPTION": "Dette vil give klienter, der bruger denne integrationstoken, mulighed for at hente hændelsesloggen, så de kan forblive synkroniserede. Nyttigt, hvis du har WordPress-plugins, der kræver kommentardata i din egen database.",
     "SAVE_BUTTON": "Spare"

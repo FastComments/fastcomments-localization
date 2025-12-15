@@ -1,5 +1,6 @@
 {
     "HEADING_EDITING_BADGE": "Düzenleme <%= badge.displayLabel %>",
-    "HEADING_CREATING_EDITING_BADGE": "<%= badge ? 'Editing' : 'Creating' %> \"<%= BadgeTypeDescriptions[badgeType] %>\" Rozeti",
+    "HEADING_EDITING_BADGE_TYPE": "Editing \"<%= BadgeTypeDescriptions[badgeType] %>\" Rozeti",
+    "HEADING_CREATING_BADGE_TYPE": "Creating \"<%= BadgeTypeDescriptions[badgeType] %>\" Rozeti",
     "LABEL_BADGE_THRESHOLD": "<%= BadgeLimitDescriptions[badgeType] %>"
 }

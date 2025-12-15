@@ -1,7 +1,8 @@
 {
     "PAGE_TITLE": "Elimina token di integrazione - FastComments",
     "HEADING": "Elimina token di integrazione",
-    "CONFIRM_DELETE_MESSAGE": "Sei sicuro di voler eliminare questo token di integrazione _ ...",
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "Sei sicuro di voler eliminare questo <%= integration.readableType %> token di integrazione?",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "Sei sicuro di voler eliminare questo <%= integration.readableType %> token di integrazione per <%= integration.domain %>?",
     "DELETE_BUTTON": "Eliminare",
     "CANCEL_LINK": "Cancellare"
 }

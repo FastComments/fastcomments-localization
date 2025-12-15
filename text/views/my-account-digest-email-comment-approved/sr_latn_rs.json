@@ -3,6 +3,6 @@
     "HEADING": "Uspeh!",
     "COMMENT_APPROVED": "Taj komentar je označen pregledan i odobren.",
     "ALSO_LOGGED_IN": "Takođe ste prijavljeni.",
-    "VIEW_COMMENT_ON_SITE": "Odobreni komentar možete pogledati na vašoj veb lokaciji <a href =\"<%= comment.url %>\" target =\"_blank\">ovde</a>, ili koristeći pregledač komentara <a href =\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">ovde</a>.",
+    "VIEW_COMMENT_ON_SITE": "Odobreni komentar možete pogledati na vašoj veb lokaciji <a href=\"<%= comment.url %>\" target=\"_blank\">ovde</a>, ili koristeći pregledač komentara <a href=\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">ovde</a>.",
     "CLOSE_PAGE": "Sada možete zatvoriti ovu stranicu."
 }

@@ -44,7 +44,7 @@
     "MSG_PHRASE_WAS": "그 문구는 \"[phrase]\"였습니다.",
     "MSG_BAD_WORD_WAS": "욕설은 \"[badWord]\"였습니다.",
     "MSG_DEFINITION_MISSING": "\"[locale]\"에 대한 정의가 누락되었습니다.",
-    "MSG_AWARDED_BADGE": "배지를 수여받았습니다.",
+    "MSG_AWARDED_BADGE": "배지 [name]을(를) 수여받았습니다.",
     "MSG_BADGE_NOT_FOUND": "배지 이름을 찾을 수 없습니다",
     "MSG_MUST_VERIFY_NOT_IN_SESSION": "사용자가 인증되어야 승인할 수 있습니다. 현재 사용자는 인증된 세션에 있지 않습니다.",
     "MSG_MUST_VERIFY_NOT_YET": "사용자가 인증되어야만 승인할 수 있으며, 이전에 승인된 댓글과는 무관합니다.",

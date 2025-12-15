@@ -1,4 +1,4 @@
 {
     "TEXT_REPLACES": "↳ <%= badge.replacesDisplayLabel %>'nin yerine geçer",
-    "TEXT_USERS_PROCESSED": "<%= badge.usersProcessed ? Number(badge.usersProcessed).toLocaleString() + ' users processed...' : '' %>"
+    "TEXT_USERS_PROCESSED": "[count] işlenen kullanıcılar..."
 }

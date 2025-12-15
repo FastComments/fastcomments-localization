@@ -3,7 +3,7 @@
     "HEADING": "匯出評論",
     "SOURCE_LABEL": "來源",
     "SOURCE_COMMENTS": "<%= tenant.name %> 評論",
-    "SOURCE_DELETED_COMMENTS": "已刪除的評論",
+    "SOURCE_DELETED_COMMENTS": "<%= tenant.name %> 已刪除的評論",
     "TIME_RANGE_LABEL": "時間範圍",
     "ALL_TIME": "所有時間",
     "LAST_DAY": "最後一天",

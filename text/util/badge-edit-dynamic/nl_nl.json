@@ -1,5 +1,6 @@
 {
     "HEADING_EDITING_BADGE": "Bewerken <%= badge.displayLabel %>",
-    "HEADING_CREATING_EDITING_BADGE": "<%= badge ? 'Editing' : 'Creating' %> \"<%= BadgeTypeDescriptions[badgeType] %>\" Badge",
+    "HEADING_EDITING_BADGE_TYPE": "Editing \"<%= BadgeTypeDescriptions[badgeType] %>\" Badge",
+    "HEADING_CREATING_BADGE_TYPE": "Creating \"<%= BadgeTypeDescriptions[badgeType] %>\" Badge",
     "LABEL_BADGE_THRESHOLD": "<%= BadgeLimitDescriptions[badgeType] %>"
 }

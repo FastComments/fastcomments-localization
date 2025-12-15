@@ -1,4 +1,4 @@
 {
     "TEXT_REPLACES": "↳ Substitui <%= badge.replacesDisplayLabel %>",
-    "TEXT_USERS_PROCESSED": "<%= badge.usersProcessed ? Number(badge.usersProcessed).toLocaleString() + ' usuários processados...' : '' %>"
+    "TEXT_USERS_PROCESSED": "[count] usuários processados..."
 }

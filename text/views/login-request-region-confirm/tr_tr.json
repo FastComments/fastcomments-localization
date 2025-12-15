@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Şuna geçilsin mi? - FastComments",
+    "PAGE_TITLE": "<%= otherRegionName %> Şuna geçilsin mi? - FastComments",
     "HERO_TITLE_LIGHT": "Şuna geçin ",
     "HERO_TITLE_BOLD": "<%= otherRegionName %>",
     "HERO_DESCRIPTION": "<a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a> adresinde bir hesabınız var - bunun yerine oraya giriş yapmak ister misiniz?",

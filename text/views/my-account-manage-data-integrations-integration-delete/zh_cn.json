@@ -1,7 +1,8 @@
 {
     "PAGE_TITLE": "删除集成令牌 - FastComments",
     "HEADING": "删除集成令牌",
-    "CONFIRM_DELETE_MESSAGE": "您确定要删除此集成令牌吗？",
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "您确定要删除此 <%= integration.readableType %> 集成令牌吗？",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "您确定要删除 <%= integration.domain %> 的此 <%= integration.readableType %> 集成令牌吗？",
     "DELETE_BUTTON": "删除",
     "CANCEL_LINK": "取消"
 }

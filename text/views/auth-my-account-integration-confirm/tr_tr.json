@@ -6,7 +6,7 @@
     "UPLOAD_DESCRIPTION": "İsterseniz, senkronizasyon sırasında yorumlarınızı <%= integrationName %> kurulumunuzdan otomatik olarak yükleyebiliriz. Aksi takdirde, aşağıdaki kutunun işaretini kaldırın ve daha sonra kendiniz gerçekleştirebilirsiniz.",
     "CHECKBOX_UPLOAD_COMMENTS": "Yorumlarımı otomatik olarak yükle.",
     "CHECKBOX_UPLOAD_COMMENTS_HELP": "Yorumlarınızı daha sonra eklentinin yönetim sayfasından yükleyebilirsiniz.",
-    "CHECKBOX_SYNC_DATABASE": "Veritabanımı otomatik olarak senkronize halde tut.",
+    "CHECKBOX_SYNC_DATABASE": "<%= integrationName %> veritabanımı otomatik olarak senkronize halde tut.",
     "CHECKBOX_SYNC_DATABASE_HELP": "Bu, <%= integrationName %> veritabanınızı güncel tutar. Herhangi bir eklentinin veritabanınızdaki en son yorumlara ihtiyaç duyması durumunda kullanışlıdır. Genellikle çok yüksek hacimli sitelerde devre dışı bırakılır, çünkü <%= integrationName %> veritabanını güncel tutmak istenmeyen yük oluşturur.",
     "BUTTON_START_SYNC": "Senkronizasyonu Başlat"
 }

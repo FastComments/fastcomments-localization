@@ -48,7 +48,7 @@
     "MSG_BADGE_NOT_FOUND": "Abzeichenname nicht gefunden",
     "MSG_MUST_VERIFY_NOT_IN_SESSION": "Der Benutzer muss verifiziert sein, um die Genehmigung zu erteilen; der Benutzer befindet sich nicht in einer verifizierten Sitzung.",
     "MSG_MUST_VERIFY_NOT_YET": "Der Benutzer muss verifiziert werden, um Kommentare freizugeben; bereits freigegebene Kommentare werden nicht genehmigt.",
-    "MSG_CREATED_NOTIFICATIONS": "Es wurden Benachrichtigungen erstellt.",
+    "MSG_CREATED_NOTIFICATIONS": "Es wurden [count] Benachrichtigungen erstellt.",
     "MSG_SPAM_ENGINE_WAS": "Die Spam-Maschine war [engine]",
     "MSG_DUE_TO_BLACKLIST": "Aufgrund von Wörtern auf der Blacklist.",
     "MSG_LLM_SPAM": "LLM hat den Kommentar als Spam eingestuft. Es wurden [tokens] Tokens verwendet. Die Antwort lautete: \"[response]\"",

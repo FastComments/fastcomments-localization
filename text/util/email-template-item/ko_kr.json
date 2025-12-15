@@ -1,4 +1,6 @@
 {
-    "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-    "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+    "TEXT_CUSTOM_TEMPLATE_NAME_DISPLAY": "<%= template.displayName %>",
+    "TEXT_CUSTOM_TEMPLATE_NAME_DEFAULT": "맞춤 템플릿: <%= viewTemplate.name %>",
+    "TEXT_RENDER_ERRORS_SINGULAR": "<%= Number(template.errorCount).toLocaleString() %> 최근 렌더링 오류!",
+    "TEXT_RENDER_ERRORS_PLURAL": "<%= Number(template.errorCount).toLocaleString() %> 최근 렌더링 오류!"
 }

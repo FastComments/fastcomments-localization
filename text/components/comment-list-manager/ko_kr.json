@@ -15,7 +15,7 @@
     "COMMENT_LIST_GET_SETUP": "댓글 수신을 시작하려면 설정을 완료하세요.",
     "COMMENT_LIST_ZERO_MATCHING": "검색 결과와 일치하는 댓글이 없습니다.",
     "COMMENT_LIST_OPERATION_FAILED": "마지막 작업이 실패했습니다. 데이터 없음 메시지에 대한 상태를 확인할 수 없습니다.",
-    "COMMENT_LIST_VIEW_MATCHING": "일치하는 댓글 보기",
+    "COMMENT_LIST_VIEW_MATCHING": "[count]개의 일치하는 댓글 보기",
     "COMMENT_LIST_OUT_OF_TOTAL": " (이 텍스트를 포함한 [total]개 중)",
     "COMMENT_LIST_PAGE_COMMENTS": "[title] ([count] 댓글)",
     "COMMENT_LIST_ACTION_APPROVING": "댓글 승인",
@@ -133,7 +133,7 @@
     "COMMENT_LIST_ACTION_PINNED_PLURAL": "고정된 [count] 댓글",
     "COMMENT_LIST_ACTION_UNPINNING_PLURAL": "고정 해제 [count] 댓글",
     "COMMENT_LIST_ACTION_UNPINNED_PLURAL": "고정되지 않은 [count] 댓글",
-    "COMMENT_LIST_ACTION_EDITING_PLURAL": "댓글 편집 중",
+    "COMMENT_LIST_ACTION_EDITING_PLURAL": "[count] 댓글 편집 중",
     "COMMENT_LIST_ACTION_EDITED_PLURAL": "수정된 [count] 댓글",
     "COMMENT_LIST_ACTION_RESTORING_PLURAL": "[count] 댓글 복원",
     "COMMENT_LIST_ACTION_RESTORED_PLURAL": "복원된 [count] 댓글",
@@ -148,5 +148,5 @@
     "COMMENT_LIST_ACTION_REMOVING_BADGE_PLURAL": "[count] 배지 제거",
     "COMMENT_LIST_ACTION_REMOVED_BADGE_PLURAL": "[count] 배지를 제거했습니다.",
     "COMMENT_LIST_ACTION_ADDING_BADGE_PLURAL": "[count] 배지 추가하기",
-    "COMMENT_LIST_ACTION_ADDED_BADGE_PLURAL": "배지를 추가했습니다."
+    "COMMENT_LIST_ACTION_ADDED_BADGE_PLURAL": "[count] 배지를 추가했습니다."
 }

@@ -1,4 +1,6 @@
 {
-    "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-    "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+    "TEXT_CUSTOM_TEMPLATE_NAME_DISPLAY": "<%= template.displayName %>",
+    "TEXT_CUSTOM_TEMPLATE_NAME_DEFAULT": "Benutzerdefinierte Vorlage: <%= viewTemplate.name %>",
+    "TEXT_RENDER_ERRORS_SINGULAR": "<%= Number(template.errorCount).toLocaleString() %> Kürzlicher Renderingfehler!",
+    "TEXT_RENDER_ERRORS_PLURAL": "<%= Number(template.errorCount).toLocaleString() %> Kürzliche Renderingfehler!"
 }

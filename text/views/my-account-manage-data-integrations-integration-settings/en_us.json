@@ -1,7 +1,8 @@
 {
   "PAGE_TITLE": "Integration Token Settings - FastComments",
   "HEADING": "Integration Token Settings",
-  "SUB_HEADING": "Editing a <%= integration.readableType %> integration token<%= integration.domain ? ' for ' + integration.domain : '' %>.",
+  "SUB_HEADING_NO_DOMAIN": "Editing a <%= integration.readableType %> integration token.",
+  "SUB_HEADING_DOMAIN": "Editing a <%= integration.readableType %> integration token for <%= integration.domain %>.",
   "ENABLE_EVENT_FETCH_LABEL": "Clients using this integration should be able to periodically fetch new comments.",
   "ENABLE_EVENT_FETCH_DESCRIPTION": "This will allow clients using this integration token to fetch the event log so they can stay in sync. Useful if you have WordPress plugins that require comment data in your own database.",
   "SAVE_BUTTON": "Save"

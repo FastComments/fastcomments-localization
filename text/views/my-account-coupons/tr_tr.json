@@ -4,7 +4,7 @@
     "HEADING_COUPON_CODES": "Kupon Kodları",
     "HEADING_STATS": "İstatistikler",
     "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> Kupon Kullanıldı.",
-    "TEXT_TOTAL_COUPONS": "Toplam Kupon Sayısı.",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Toplam Kupon Sayısı.",
     "HEADING_DOWNLOAD": "İndirmek",
     "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Mevcut Kuponları İndirin",
     "HEADING_GENERATE_TIER_4_COUPONS": "4. Seviye Kuponlar Oluşturun",

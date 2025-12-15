@@ -1,7 +1,8 @@
 {
     "PAGE_TITLE": "Integratietokeninstellingen - FastComments",
     "HEADING": "Instellingen voor integratietoken",
-    "SUB_HEADING": "Een integratietoken bewerken.",
+    "SUB_HEADING_NO_DOMAIN": "Een <%= integration.readableType %> integratietoken bewerken.",
+    "SUB_HEADING_DOMAIN": "Een <%= integration.readableType %> integratietoken voor <%= integration.domain %> bewerken.",
     "ENABLE_EVENT_FETCH_LABEL": "Klanten die deze integratie gebruiken, zouden periodiek nieuwe reacties moeten kunnen ophalen.",
     "ENABLE_EVENT_FETCH_DESCRIPTION": "Dit stelt clients die dit integratietoken gebruiken in staat om het gebeurtenislogboek op te halen, zodat ze gesynchroniseerd blijven. Handig als je WordPress-plugins hebt die commentaargegevens in je eigen database nodig hebben.",
     "SAVE_BUTTON": "Redden"

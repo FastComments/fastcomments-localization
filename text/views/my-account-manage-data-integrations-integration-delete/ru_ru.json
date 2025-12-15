@@ -1,7 +1,8 @@
 {
     "PAGE_TITLE": "Удаление токена интеграции - FastComments",
     "HEADING": "Удалить токен интеграции",
-    "CONFIRM_DELETE_MESSAGE": "Вы уверены, что хотите удалить этот интеграционный токен?",
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "Вы уверены, что хотите удалить этот <%= integration.readableType %> интеграционный токен?",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "Вы уверены, что хотите удалить этот <%= integration.readableType %> интеграционный токен для <%= integration.domain %>?",
     "DELETE_BUTTON": "Удалить",
     "CANCEL_LINK": "Отмена"
 }

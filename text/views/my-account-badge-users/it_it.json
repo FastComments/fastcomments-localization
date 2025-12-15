@@ -1,6 +1,7 @@
 {
     "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - Commenti rapidi",
-    "HEADING_USERS_WITH_BADGE": "<%- Number(userBadges.length).toLocaleString() %> <%- userBadges.length === 1 ? 'User' : 'Users' %> con distintivo <%- tenantBadge.displayLabel %>",
+    "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> Utente con distintivo <%- tenantBadge.displayLabel %>",
+    "HEADING_USERS_WITH_BADGE_PLURAL": "<%- Number(userBadges.length).toLocaleString() %> Utenti con distintivo <%- tenantBadge.displayLabel %>",
     "TEXT_NO_USERS_WITH_BADGE": "Nessun utente ha questo badge! La maggior parte dei badge viene assegnata automaticamente. Se si tratta di un badge manuale, dovrai assegnarlo manualmente.",
     "TABLE_HEADER_USER_ID": "ID utente",
     "TABLE_HEADER_EMAIL": "E-mail",

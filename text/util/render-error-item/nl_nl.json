@@ -1,5 +1,5 @@
 {
-    "TEXT_RENDER_ERRORS_HEADING": "Recente weergavefouten!",
+    "TEXT_RENDER_ERRORS_HEADING": "<%= Number(renderError.count).toLocaleString() %> Recente weergavefouten!",
     "TEXT_FIRST_OCCURRENCE": "Eerste keer voorkomen: <%= renderError.createdAt.toLocaleString() %>",
     "TEXT_MOST_RECENT_OCCURRENCE": "Meest recente voorval: <%= renderError.lastOccurredAt.toLocaleString() %>"
 }

@@ -8,7 +8,7 @@
     "INTRO_PARAGRAPH_2": "댓글 관리 페이지의 \"차단\" 옵션을 통해 사용자를 차단하거나, 특정 이메일 주소를 차단하려면 이 페이지 하단의 더하기 아이콘을 클릭하세요.",
     "INTRO_PARAGRAPH_3": "차단된 사용자가 댓글을 달려고 하면 <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">감사 로그에 &quot;차단된 사용자가 댓글을 달 수 없도록 차단되었습니다.&quot;라는 설명과 함께 표시됩니다</a> .",
     "IP_BAN_WARNING": "FastComments는 IP 기반 차단을 위해 원시 IP 주소를 저장하지 않습니다. IP 주소는 재할당될 수 있으므로 IP 기반 차단을 사용할 때 주의하십시오.",
-    "SHOWING_BANNED_USERS": "차단된 사용자 중 <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %>명을 표시합니다.",
+    "SHOWING_BANNED_USERS": "<%= totalCount %> 차단된 사용자 중 <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %>명을 표시합니다.",
     "PAGE_LABEL": "페이지",
     "COUNT_PER_PAGE_LABEL": "페이지당 개수",
     "GO_BUTTON": "가다",

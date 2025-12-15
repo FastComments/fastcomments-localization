@@ -1,5 +1,6 @@
 {
     "HEADING_EDITING_BADGE": "Edycja <%= badge.displayLabel %>",
-    "HEADING_CREATING_EDITING_BADGE": "<%= badge ? 'Editing' : 'Creating' %> \"<%= BadgeTypeDescriptions[badgeType] %>\" Odznaka",
+    "HEADING_EDITING_BADGE_TYPE": "Editing \"<%= BadgeTypeDescriptions[badgeType] %>\" Odznaka",
+    "HEADING_CREATING_BADGE_TYPE": "Creating \"<%= BadgeTypeDescriptions[badgeType] %>\" Odznaka",
     "LABEL_BADGE_THRESHOLD": "<%= BadgeLimitDescriptions[badgeType] %>"
 }

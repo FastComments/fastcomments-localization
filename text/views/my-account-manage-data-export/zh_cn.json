@@ -3,7 +3,7 @@
     "HEADING": "导出评论",
     "SOURCE_LABEL": "来源",
     "SOURCE_COMMENTS": "<%= tenant.name %> 评论",
-    "SOURCE_DELETED_COMMENTS": "已删除的评论",
+    "SOURCE_DELETED_COMMENTS": "<%= tenant.name %> 已删除的评论",
     "TIME_RANGE_LABEL": "时间范围",
     "ALL_TIME": "所有时间",
     "LAST_DAY": "最后一天",

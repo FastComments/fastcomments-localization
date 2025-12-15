@@ -1,5 +1,6 @@
 {
     "HEADING_EDITING_BADGE": "Urejanje <%= badge.displayLabel %>",
-    "HEADING_CREATING_EDITING_BADGE": "<%= badge ? 'Editing' : 'Creating' %> Značka \"<%= BadgeTypeDescriptions[badgeType] %>\"",
+    "HEADING_EDITING_BADGE_TYPE": "Editing Značka \"<%= BadgeTypeDescriptions[badgeType] %>\"",
+    "HEADING_CREATING_BADGE_TYPE": "Creating Značka \"<%= BadgeTypeDescriptions[badgeType] %>\"",
     "LABEL_BADGE_THRESHOLD": "<%= BadgeLimitDescriptions[badgeType] %>"
 }

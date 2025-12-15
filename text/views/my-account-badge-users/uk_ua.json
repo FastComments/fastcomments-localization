@@ -1,6 +1,7 @@
 {
     "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - Швидкі коментарі",
-    "HEADING_USERS_WITH_BADGE": "<%- Number(userBadges.length).toLocaleString() %> <%- userBadges.length === 1 ? 'User' : 'Users' %> з бейджиком <%- tenantBadge.displayLabel %>",
+    "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> Користувач з бейджиком <%- tenantBadge.displayLabel %>",
+    "HEADING_USERS_WITH_BADGE_PLURAL": "<%- Number(userBadges.length).toLocaleString() %> Користувачі з бейджиком <%- tenantBadge.displayLabel %>",
     "TEXT_NO_USERS_WITH_BADGE": "Цього значка немає в жодного користувача! Більшість значків надаються автоматично. Якщо це значок, введений вручну, вам доведеться надавати його вручну.",
     "TABLE_HEADER_USER_ID": "Ідентифікатор користувача",
     "TABLE_HEADER_EMAIL": "Електронна пошта",

@@ -1,7 +1,8 @@
 {
     "PAGE_TITLE": "Изтриване на интеграционен токен - FastComments",
     "HEADING": "Изтриване на токен за интеграция",
-    "CONFIRM_DELETE_MESSAGE": "Сигурни ли сте, че искате да изтриете този <%= integration.readableType %> интеграционен токен <%= integration.domain ? ' for ' + integration.domain : '' %>?",
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "Сигурни ли сте, че искате да изтриете този <%= integration.readableType %> интеграционен токен?",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "Сигурни ли сте, че искате да изтриете този <%= integration.readableType %> интеграционен токен for <%= integration.domain %>?",
     "DELETE_BUTTON": "Изтриване",
     "CANCEL_LINK": "Отказ"
 }

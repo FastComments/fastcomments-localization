@@ -7,7 +7,7 @@
     "TEXT_SUBSCRIPTION_CANCELLED": "Ihr Abonnement wird ebenfalls gekündigt.",
     "TEXT_NO_SELL_DATA": "Bitte beachten Sie, dass FastComments Ihre persönlichen Daten <b>nicht an Dritte verkauft oder weitergibt</b> . Die kostenlose Kontoerstellung dient lediglich Ihrer Bequemlichkeit.",
     "HEADING_CONFIRMATION": "Bestätigung",
-    "LABEL_REMOVE_COMMENTS": "Alle Kommentare entfernen?",
+    "LABEL_REMOVE_COMMENTS": "Alle <%= commentCount %> Kommentare entfernen?",
     "LABEL_CONFIRM_REMOVAL": "Setzen Sie ein Häkchen in dieses Kästchen, um die Löschung Ihres Kontos zu bestätigen. Die Löschung Ihres Kontos und der zugehörigen Kommentare kann nicht rückgängig gemacht werden.",
     "LABEL_FEEDBACK": "Helfen Sie uns zu verstehen, warum wir Sie gehen sehen.",
     "BUTTON_NO_DONT_DELETE": "Nein, löscht mein Konto nicht.",

@@ -1,7 +1,8 @@
 {
     "PAGE_TITLE": "Izbriši integracijski žeton - FastComments",
     "HEADING": "Izbriši integracijski žeton",
-    "CONFIRM_DELETE_MESSAGE": "Ali ste prepričani, da želite izbrisati ta <%= integration.readableType %> integracijski žeton <%= integration.domain ? ' for ' + integration.domain : '' %>?",
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "Ali ste prepričani, da želite izbrisati ta <%= integration.readableType %> integracijski žeton?",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "Ali ste prepričani, da želite izbrisati ta <%= integration.readableType %> integracijski žeton for <%= integration.domain %>?",
     "DELETE_BUTTON": "Izbriši",
     "CANCEL_LINK": "Prekliči"
 }

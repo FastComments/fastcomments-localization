@@ -1,7 +1,8 @@
 {
     "PAGE_TITLE": "Podešavanja tokena za integraciju - FastComments",
     "HEADING": "Podešavanja tokena integracije",
-    "SUB_HEADING": "Uređivanje token<%= integration.readableType %> integracije <%= integration.domain ? ' for ' + integration.domain : '' %>.",
+    "SUB_HEADING_NO_DOMAIN": "Uređivanje token<%= integration.readableType %> integracije.",
+    "SUB_HEADING_DOMAIN": "Uređivanje token<%= integration.readableType %> integracije for <%= integration.domain %>.",
     "ENABLE_EVENT_FETCH_LABEL": "Klijenti koji koriste ovu integraciju treba da budu u mogućnosti da periodično dohvaćaju nove komentare.",
     "ENABLE_EVENT_FETCH_DESCRIPTION": "Ovo će omogućiti klijentima koji koriste ovaj token za integraciju da preuzmu dnevnik događaja kako bi mogli da ostanu sinhronizovani. Korisno ako imate VordPress dodatke koji zahtevaju podatke o komentarima u sopstvenoj bazi podataka.",
     "SAVE_BUTTON": "Sačuvaj"

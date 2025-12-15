@@ -3,7 +3,7 @@
     "HEADING": "내보내기 댓글",
     "SOURCE_LABEL": "원천",
     "SOURCE_COMMENTS": "<%= tenant.name %> 댓글",
-    "SOURCE_DELETED_COMMENTS": "삭제된 댓글",
+    "SOURCE_DELETED_COMMENTS": "<%= tenant.name %> 삭제된 댓글",
     "TIME_RANGE_LABEL": "시간 범위",
     "ALL_TIME": "역대 최고",
     "LAST_DAY": "마지막 날",

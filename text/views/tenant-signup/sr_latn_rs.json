@@ -3,7 +3,7 @@
     "HERO_TITLE_LIGHT": "Skoro  ",
     "HERO_TITLE_BOLD": "Tamo",
     "HERO_DESCRIPTION": "FastComments obezbeđuje najbrže podešavanje i korišćenje sistema komentarisanja i za preduzeća i za korisnike, a vi ste na putu do <u>besplatnog probnog perioda KSNUMKS-a</u>.",
-    "NOT_WEBSITE_LINK_TEXT": "Ako ne želite da dodate FastComments na veb lokaciju, trebalo bi da se prijavite <a href =\"/auth/commenter-signup?email=<%= email %>\">ovde.</a>",
+    "NOT_WEBSITE_LINK_TEXT": "Ako ne želite da dodate FastComments na veb lokaciju, trebalo bi da se prijavite <a href=\"/auth/commenter-signup?email=<%= email %>\">ovde.</a>",
     "FORM_DESCRIPTION": "Sada nam je potrebno samo neke osnovne informacije, a onda možete početi da instalirate FastComments.",
     "LABEL_USERNAME": "*Javno prikazano korisničko ime:",
     "USERNAME_PATTERN_TITLE": "Nema posebnih znakova molim - samo brojevi i slova.",
@@ -14,7 +14,7 @@
     "DOMAINS_HEADING": "Koja je adresa vašeg sajta gde će se prikazati FastKomentari?",
     "LABEL_WEBSITES": "*Veb-sajt:",
     "DOMAINS_DESCRIPTION": "Nema potrebe za unosom poddomena ili localhost-a. Za više sajtova, odvojite ih zarezima.",
-    "TOS_TEXT": "Klikom na Kreiraj nalog slažete se sa <a href =\"/terms-of-service\" target=\"_blank\">Uslovi korišćenja usluge</a>.",
+    "TOS_TEXT": "Klikom na Kreiraj nalog slažete se sa <a href=\"/terms-of-service\" target=\"_blank\">Uslovi korišćenja usluge</a>.",
     "BUTTON_CREATE_ACCOUNT": "Kreiraj nalog",
     "ERROR_SIGNUP_ALREADY_STARTED": "Proces prijavljivanja je već započeo i ne može se ponovo poslati. Možda ste osvežili stranicu?"
 }

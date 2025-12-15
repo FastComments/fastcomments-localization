@@ -1,7 +1,8 @@
 {
     "PAGE_TITLE": "Slet integrationstoken - FastComments",
     "HEADING": "Slet integrationstoken",
-    "CONFIRM_DELETE_MESSAGE": "Er du sikker på, at du vil slette dette <%= integration.readableType %> integrationstoken<%= integration.domain ? ' for ' + integration.domain : '' %>?",
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "Er du sikker på, at du vil slette dette <%= integration.readableType %> integrationstoken?",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "Er du sikker på, at du vil slette dette <%= integration.readableType %> integrationstoken for <%= integration.domain %>?",
     "DELETE_BUTTON": "Slet",
     "CANCEL_LINK": "Ophæve"
 }

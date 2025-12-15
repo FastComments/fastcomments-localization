@@ -1,4 +1,4 @@
 {
     "TEXT_REPLACES": "↳ 取代<%= badge.replacesDisplayLabel %>",
-    "TEXT_USERS_PROCESSED": "<%= badge.usersProcessed ? Number(badge.usersProcessed).toLocaleString() + ' users processed...' : '' %>"
+    "TEXT_USERS_PROCESSED": "[count] 已處理的使用者..."
 }

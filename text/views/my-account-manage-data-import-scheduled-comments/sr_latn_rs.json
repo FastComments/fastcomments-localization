@@ -3,7 +3,7 @@
     "TITLE": "Raspored Komentari - FastComments",
     "HEADING": "Raspored Komentari",
     "DESCRIPTION_PART1": "Ovde možete zakazati komentare koji će se automatski objavljivati, uživo, tokom vremena. Ovo vam može omogućiti da označite stranice, kao što su vebinari, ili čak započnete diskusiju na stranici za događaj uživo na automatizovan način.",
-    "DESCRIPTION_PART2": "Ovo se radi uvozom komentara koristeći podržani <a href =\"https://docs.fastcomments.com/guide-scheduled-comments.html#import-format\">CSV format</a> (<a href =\"https://docs.fastcomments.com/csv/fastcomments-scheduled-comments-example.csv\">primer ovde</a>).",
+    "DESCRIPTION_PART2": "Ovo se radi uvozom komentara koristeći podržani <a href=\"https://docs.fastcomments.com/guide-scheduled-comments.html#import-format\">CSV format</a> (<a href=\"https://docs.fastcomments.com/csv/fastcomments-scheduled-comments-example.csv\">primer ovde</a>).",
     "DESCRIPTION_SCHEDULING_TYPES": "<b>Postoje dve vrste zakazivanja.</b> Prvi je da komentari počinju da se reprodukuju pri svakom učitavanju stranice, a to je kada se izabere \"Svako učitavanje stranice\", a drugi tip ručno zakazuje komentare tako što ćete doći ovde i kliknuti na \"start\".",
     "AUTO_PLAY_WARNING": "<b class =\"red\">Napomena!</b> Dodavanje komentara automatske reprodukcije (izborom \"Svako učitavanje stranice\" ispod) će prouzrokovati da se svi novi komentari objavljeni u temi automatske reprodukcije dodaju u skriptu za automatsko igranje. Komentari se mogu moderirati preko stranice Umereni komentari.",
     "REPLAY_NAME_LABEL": "Ime za ponavljanje",

@@ -1,6 +1,7 @@
 {
     "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - 快速评论",
-    "HEADING_USERS_WITH_BADGE": "<%- Number(userBadges.length).toLocaleString() %> <%- userBadges.length === 1 ? 'User' : 'Users' %> 佩戴徽章 <%- tenantBadge.displayLabel %>",
+    "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> 用户佩戴徽章 <%- tenantBadge.displayLabel %>",
+    "HEADING_USERS_WITH_BADGE_PLURAL": "<%- Number(userBadges.length).toLocaleString() %> 用户佩戴徽章 <%- tenantBadge.displayLabel %>",
     "TEXT_NO_USERS_WITH_BADGE": "目前没有用户拥有此徽章！大多数徽章都是自动颁发的。如果是手动颁发的徽章，则需要您手动颁发。",
     "TABLE_HEADER_USER_ID": "用户身份",
     "TABLE_HEADER_EMAIL": "电子邮件",

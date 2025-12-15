@@ -1,6 +1,7 @@
 {
     "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - Hurtige kommentarer",
-    "HEADING_USERS_WITH_BADGE": "_ ... med badge <%- Number(userBadges.length).toLocaleString() %>",
+    "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> Bruger med badge <%- tenantBadge.displayLabel %>",
+    "HEADING_USERS_WITH_BADGE_PLURAL": "<%- Number(userBadges.length).toLocaleString() %> Brugere med badge <%- tenantBadge.displayLabel %>",
     "TEXT_NO_USERS_WITH_BADGE": "Ingen brugere har dette badge! De fleste badges tildeles automatisk. Hvis det er et manuelt badge, skal du tildele det manuelt.",
     "TABLE_HEADER_USER_ID": "Bruger-ID",
     "TABLE_HEADER_EMAIL": "E-mail",

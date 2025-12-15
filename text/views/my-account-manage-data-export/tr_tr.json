@@ -3,7 +3,7 @@
     "HEADING": "Yorumları Dışa Aktar",
     "SOURCE_LABEL": "Kaynak",
     "SOURCE_COMMENTS": "<%= tenant.name %> Yorumlar",
-    "SOURCE_DELETED_COMMENTS": "Silinen Yorumlar",
+    "SOURCE_DELETED_COMMENTS": "<%= tenant.name %> Silinen Yorumlar",
     "TIME_RANGE_LABEL": "Zaman Aralığı",
     "ALL_TIME": "Tüm Zamanlar",
     "LAST_DAY": "Son Gün",

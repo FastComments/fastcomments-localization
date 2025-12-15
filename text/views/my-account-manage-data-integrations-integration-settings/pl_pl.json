@@ -1,7 +1,8 @@
 {
     "PAGE_TITLE": "Ustawienia tokena integracyjnego – FastComments",
     "HEADING": "Ustawienia tokena integracyjnego",
-    "SUB_HEADING": "Edycja tokena integracyjnego <%= integration.readableType %><%= integration.domain ? ' for ' + integration.domain : '' %>undefined.",
+    "SUB_HEADING_NO_DOMAIN": "Edycja tokena integracyjnego <%= integration.readableType %>.",
+    "SUB_HEADING_DOMAIN": "Edycja tokena integracyjnego <%= integration.readableType %> for <%= integration.domain %>.",
     "ENABLE_EVENT_FETCH_LABEL": "Klienci korzystający z tej integracji powinni mieć możliwość okresowego pobierania nowych komentarzy.",
     "ENABLE_EVENT_FETCH_DESCRIPTION": "Dzięki temu klienci korzystający z tego tokena integracyjnego będą mogli pobrać dziennik zdarzeń i zachować synchronizację. Przydatne, jeśli masz wtyczki WordPress, które wymagają danych komentarzy we własnej bazie danych.",
     "SAVE_BUTTON": "Ratować"

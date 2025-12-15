@@ -3,7 +3,7 @@
     "HERO_TITLE_LIGHT": "Pridružite se  ",
     "HERO_TITLE_BOLD": "Diskusija",
     "HERO_DESCRIPTION": "Želite da komentarišete veb stranicu koja koristi FastComments? Došli ste na pravo mesto.",
-    "HERO_ADDITIONAL_TEXT": "Ako želite da dodate FastComments na veb lokaciju, trebalo bi da se prijavite <a href =\"/auth/tenant-signup?email=<%= email %>\">ovde.</a>",
+    "HERO_ADDITIONAL_TEXT": "Ako želite da dodate FastComments na veb lokaciju, trebalo bi da se prijavite <a href=\"/auth/tenant-signup?email=<%= email %>\">ovde.</a>",
     "FORM_DESCRIPTION": "Sve što vam je potrebno je korisničko ime i e-mail da biste se prijavili.",
     "LABEL_USERNAME": "*Korisničko ime:",
     "PLACEHOLDER_USERNAME": "Unesite korisničko ime",
@@ -13,7 +13,7 @@
     "PLACEHOLDER_EMAIL": "Unesite e-poštu",
     "EMAIL_DESCRIPTION": "Poslat ćemo vam link putem e-pošte da biste popunili svoj nalog i prijavili se.",
     "SIGNUP_EMAIL_TEXT": "Prijavljujete se koristeći <b><%= email %></b>.",
-    "TERMS_AGREEMENT": "Klikom na Prijavi se, slažete se sa <a href =\"/terms-of-service\" target =\"_blank\">Uslovi korišćenja usluge</a>.",
+    "TERMS_AGREEMENT": "Klikom na Prijavi se, slažete se sa <a href=\"/terms-of-service\" target=\"_blank\">Uslovi korišćenja usluge</a>.",
     "BUTTON_SIGN_UP": "Prijavi se",
     "LABEL_CAPTCHA": "Šta je <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Pomaže da se utvrdi da niste bot."

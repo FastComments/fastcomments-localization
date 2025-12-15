@@ -38,7 +38,7 @@
     "TABLE_HEADER_USERS_ONLINE": "Korisniцi Online",
     "TABLE_HEADER_LIKES": "Sviđanja",
     "TEXT_PAGE_TITLE_NA": "N / D",
-    "TEXT_NO_PAGE_LIKES": "Ovde nema šta da se vidi. Možda želite da podesite vidžet <a href =\"https://docs.fastcomments.com/guide-page-reacts.html\" target =\"_blank\">Page Reacts</a> vidžet?",
+    "TEXT_NO_PAGE_LIKES": "Ovde nema šta da se vidi. Možda želite da podesite vidžet <a href=\"https://docs.fastcomments.com/guide-page-reacts.html\" target=\"_blank\">Page Reacts</a> vidžet?",
     "TEXT_NO_USERS_ONLINE": "Nema korisnika trenutno na mreži, ili nema komentara prikupljenih za stranice na kojima su korisnici na mreži.",
     "TEXT_NOTHING_TO_SEE": "Ovde nema šta da se vidi.",
     "HEADING_METRICS_BY_MONTH": "Metrike po <%= timePeriod === '12months' ? 'Month - Last 12 Months' : 'Day - Last 30 Days' %>",

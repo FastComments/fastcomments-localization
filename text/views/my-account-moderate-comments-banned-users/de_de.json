@@ -8,7 +8,7 @@
     "INTRO_PARAGRAPH_2": "Sie können Benutzer über die Option \"Sperren\" auf der Seite \"Kommentare moderieren\" sperren oder, falls Sie eine bestimmte E-Mail-Adresse sperren möchten, auf das Plus-Symbol am Ende dieser Seite klicken.",
     "INTRO_PARAGRAPH_3": "Wenn gesperrte Benutzer versuchen, einen Kommentar abzugeben, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">erscheint dies im Prüfprotokoll</a> mit der Beschreibung „Gesperrter Benutzer kann keine Kommentare abgeben“.",
     "IP_BAN_WARNING": "FastComments speichert keine IP-Adressen für IP-basierte Sperrungen. Seien Sie vorsichtig bei der Verwendung von IP-basierten Sperrungen, da IP-Adressen neu vergeben werden können.",
-    "SHOWING_BANNED_USERS": "Anzeige von <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> gesperrten Nutzern",
+    "SHOWING_BANNED_USERS": "Anzeige von <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> von <%= totalCount %> gesperrten Nutzern",
     "PAGE_LABEL": "Seite",
     "COUNT_PER_PAGE_LABEL": "Anzahl pro Seite",
     "GO_BUTTON": "Gehen",

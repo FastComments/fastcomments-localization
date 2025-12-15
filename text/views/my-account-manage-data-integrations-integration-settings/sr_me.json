@@ -1,7 +1,8 @@
 {
     "PAGE_TITLE": "Подешавања интеграционог токена - FastComments",
     "HEADING": "Подешавања токена интеграције",
-    "SUB_HEADING": "Уређивање <%= integration.readableType %> интеграционог токена<%= integration.domain ? ' for ' + integration.domain : '' %>.",
+    "SUB_HEADING_NO_DOMAIN": "Уређивање <%= integration.readableType %> интеграционог токена.",
+    "SUB_HEADING_DOMAIN": "Уређивање <%= integration.readableType %> интеграционог токена for <%= integration.domain %>.",
     "ENABLE_EVENT_FETCH_LABEL": "Клијенти који користе ову интеграцију требало би да буду у могућности да периодично преузимају нове коментаре.",
     "ENABLE_EVENT_FETCH_DESCRIPTION": "Ово ће омогућити клијентима који користе овај интеграциони токен да преузму дневник догађаја како би могли да остану синхронизовани. Корисно ако имате WordPress додатке који захтевају податке о коментарима у вашој бази података.",
     "SAVE_BUTTON": "Сачувај"
