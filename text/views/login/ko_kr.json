@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "로그인 - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "로그인",
+    "HERO_DESCRIPTION": "FastComments 계정에 로그인하세요",
+    "TAB_LOGIN_VIA_EMAIL": "이메일을 통해 로그인",
+    "TAB_LOGIN_VIA_PASSWORD": "비밀번호를 통해 로그인",
+    "LABEL_USERNAME_OR_EMAIL": "사용자 이름 또는 이메일",
+    "LABEL_PASSWORD": "비밀번호",
+    "FORGOT_PASSWORD_LINK": "비밀번호를 잊어버렸어요",
+    "PASSWORD_LESS_HEADING": "FastComments는 귀하의 이메일을 비밀번호로 사용합니다. 안전한 로그인 링크를 보내드리겠습니다.",
+    "CREATE_ACCOUNT_INFO": "계정이 없으시면 이 과정을 통해 계정이 생성됩니다.",
+    "LABEL_USERNAME": "사용자 이름",
+    "FORGOT_USERNAME_LINK": "내 사용자 이름을 잊어버렸어요",
+    "LABEL_EMAIL": "이메일",
+    "EMAIL_HELP_TEXT": "로그인 링크를 이메일로 보내드리겠습니다. 계정이 없으시면 저희가 계정을 만들어 드리겠습니다.",
+    "LABEL_CAPTCHA": "<%= captchaA %> + <%= captchaB %>는 무엇입니까?",
+    "CAPTCHA_HELP": "사용자가 봇이 아닌지 확인하는 데 도움이 됩니다.",
+    "BUTTON_LOGIN": "로그인"
+}

@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Переключиться на <%= otherRegionName %>? - FastComments",
+    "HERO_TITLE_LIGHT": "Переключиться на ",
+    "HERO_TITLE_BOLD": "<%= otherRegionName %>",
+    "HERO_DESCRIPTION": "У вас есть аккаунт на <a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a> — хотите войти туда?",
+    "INFO_MESSAGE_BOLD": "У вас есть учетная запись в другом нашем дата-центре.",
+    "INFO_MESSAGE_QUESTION": "Перенаправить туда?",
+    "INFO_MESSAGE_WARNING": "Если вы не перейдете по ссылке, мы создадим для вас учетную запись, если она еще не существует, и <b>тогда у вас будет две учетные записи.</b>",
+    "BUTTON_REDIRECT": "Перенаправить на <%= otherRegionName %>",
+    "BUTTON_CONTINUE_HERE": "Продолжить здесь"
+}

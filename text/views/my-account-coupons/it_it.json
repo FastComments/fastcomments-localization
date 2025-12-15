@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Buoni sconto - FastComments",
+    "HEADING_COUPONS": "Buoni sconto",
+    "HEADING_COUPON_CODES": "Codici coupon",
+    "HEADING_STATS": "Statistiche",
+    "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> Buoni riscattati.",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Totale coupon.",
+    "HEADING_DOWNLOAD": "Scaricamento",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Scarica i coupon disponibili",
+    "HEADING_GENERATE_TIER_4_COUPONS": "Genera coupon di livello 4",
+    "LABEL_GENERATE_COUPON_COUNT": "Genera conteggio coupon",
+    "BUTTON_SUBMIT": "Invia",
+    "HEADING_COUPON_LIST": "Elenco dei coupon",
+    "TABLE_HEADER_CODE": "Codice",
+    "TABLE_HEADER_REDEEMED_DATE": "Data di riscatto"
+}

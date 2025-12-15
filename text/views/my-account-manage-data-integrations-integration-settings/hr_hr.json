@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Postavke integracijskog tokena - Brzi komentari",
+    "HEADING": "Postavke integracijskog tokena",
+    "SUB_HEADING": "Uređivanje <%= integration.readableType %> integracijskog tokena<%= integration.domain ? ' for ' + integration.domain : '' %>.",
+    "ENABLE_EVENT_FETCH_LABEL": "Klijenti koji koriste ovu integraciju trebali bi moći periodično dohvaćati nove komentare.",
+    "ENABLE_EVENT_FETCH_DESCRIPTION": "To će omogućiti klijentima koji koriste ovaj integracijski token da dohvate zapisnik događaja kako bi mogli ostati sinkronizirani. Korisno ako imate WordPress dodatke koji zahtijevaju podatke o komentarima u vašoj vlastitoj bazi podataka.",
+    "SAVE_BUTTON": "Uštedjeti"
+}

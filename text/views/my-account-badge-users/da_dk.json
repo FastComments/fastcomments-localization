@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - Hurtige kommentarer",
+    "HEADING_USERS_WITH_BADGE": "_ ... med badge <%- Number(userBadges.length).toLocaleString() %>",
+    "TEXT_NO_USERS_WITH_BADGE": "Ingen brugere har dette badge! De fleste badges tildeles automatisk. Hvis det er et manuelt badge, skal du tildele det manuelt.",
+    "TABLE_HEADER_USER_ID": "Bruger-ID",
+    "TABLE_HEADER_EMAIL": "E-mail",
+    "TABLE_HEADER_AVATAR": "Avatar",
+    "TABLE_HEADER_NAME": "Navn",
+    "TABLE_HEADER_BADGE_EARNED_DATE": "Dato for optjent badge",
+    "TEXT_NA": "Ikke tilgængelig"
+}

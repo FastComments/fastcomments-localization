@@ -1,0 +1,5 @@
+{
+    "TEXT_RENDER_ERRORS_HEADING": "<%= Number(renderError.count).toLocaleString() %> 近期渲染错误！",
+    "TEXT_FIRST_OCCURRENCE": "首次出现：<%= renderError.createdAt.toLocaleString() %>",
+    "TEXT_MOST_RECENT_OCCURRENCE": "最近一次发生时间：<%= renderError.lastOccurredAt.toLocaleString() %>"
+}

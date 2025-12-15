@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Melden Sie sich an",
+    "HERO_TITLE_LIGHT": "Schließ dich an ",
+    "HERO_TITLE_BOLD": "Diskussion",
+    "HERO_DESCRIPTION": "Möchten Sie einen Kommentar auf einer Website abgeben, die FastComments verwendet? Dann sind Sie hier genau richtig.",
+    "HERO_ADDITIONAL_TEXT": "Wenn Sie FastComments in eine Webseite einbinden möchten, sollten Sie sich <a href=\"/auth/tenant-signup?email=<%= email %>\">hier anmelden.</a>",
+    "FORM_DESCRIPTION": "Sie benötigen lediglich einen Benutzernamen und eine E-Mail-Adresse zur Anmeldung.",
+    "LABEL_USERNAME": "*Benutzername:",
+    "PLACEHOLDER_USERNAME": "Geben Sie einen Benutzernamen ein",
+    "USERNAME_PATTERN_TITLE": "Bitte keine Sonderzeichen – nur Zahlen und Buchstaben.",
+    "USERNAME_DESCRIPTION": "Dieser Benutzername wird öffentlich sichtbar sein.",
+    "LABEL_EMAIL": "*E-Mail:",
+    "PLACEHOLDER_EMAIL": "E-Mail-Adresse eingeben",
+    "EMAIL_DESCRIPTION": "Wir senden Ihnen per E-Mail einen Link, über den Sie Ihr Konto vervollständigen und sich anmelden können.",
+    "SIGNUP_EMAIL_TEXT": "Sie registrieren sich mit <b><%= email %></b> .",
+    "TERMS_AGREEMENT": "Mit einem Klick auf „Anmelden“ stimmen Sie den <a href=\"/terms-of-service\" target=\"_blank\">Nutzungsbedingungen</a> zu.",
+    "BUTTON_SIGN_UP": "Melden Sie sich an",
+    "LABEL_CAPTCHA": "Was ist <%= captchaA %> + <%= captchaB %>?",
+    "CAPTCHA_HELP": "Hilft dabei festzustellen, dass Sie kein Bot sind."
+}

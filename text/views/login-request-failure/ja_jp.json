@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "FastComments - ログインに失敗しました",
+    "HERO_TITLE_LIGHT": "ログイン  ",
+    "HERO_TITLE_BOLD": "失敗した",
+    "BUTTON_TRY_AGAIN": "もう一度やり直してください",
+    "ERROR_HEADING": "問題が発生しました",
+    "ERROR_MESSAGE": "ログインリクエストで問題が発生しました。",
+    "ERROR_INVALID_CREDENTIALS": "パスワードまたはユーザー名が無効です。",
+    "ERROR_USERNAME_REQUIRED": "ユーザー名を入力する必要があります。",
+    "ERROR_USERNAME_TOO_LONG": "ユーザー名は 1,000 文字未満にする必要があります。",
+    "ERROR_RATE_LIMITED_MINUTES": "レート制限を超えました。数分後にもう一度お試しいただくか、サポートまでお問い合わせください。",
+    "ERROR_RATE_LIMITED_DAILY": "1日のレート制限を超えました。24時間以内にもう一度お試しいただくか、サポートまでお問い合わせください。",
+    "ERROR_RATE_LIMITED": "レート制限を超えました。しばらくしてからもう一度お試しいただくか、サポートまでお問い合わせください。",
+    "ERROR_TOO_MANY_ATTEMPTS": "過去1時間にログイン試行回数が多すぎます。しばらくしてからもう一度お試しください。",
+    "ERROR_CAPTCHA_WRONG": "セキュリティ質問への回答が正しくありませんでした。戻ってもう一度お試しください。",
+    "ERROR_EMAIL_REQUIRED": "メールアドレスを入力してください。",
+    "ERROR_EMAIL_TOO_LONG": "メールアドレスは 1,000 文字未満にする必要があります。",
+    "ERROR_INVALID_EMAIL": "それは有効なメールではありません。",
+    "ERROR_USERNAME_TAKEN": "そのユーザー名は既に別のメールアドレスで使用されています。別のユーザー名をお試しください。"
+}

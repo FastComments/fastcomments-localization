@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Bilet \"<%- ticketViewModel.subject %>\"",
+    "MESSAGE_ASSIGNED": "Destek talebiniz bir destek temsilcisine atandı. İkiniz de çevrimiçiyseniz, onlarla canlı görüşme yapabilirsiniz; ancak her zaman bazı ayrıntıları bırakıp daha sonra geri dönebilirsiniz.",
+    "MESSAGE_FIND_AGAIN": "Bu sayfayı kapatmak sohbetinizi kaybetmenize neden olmaz. Sohbetinize <a href=\"/auth/my-account/tickets\">Destek Sayfası</a> üzerinden tekrar ulaşabilirsiniz.",
+    "HEADING_NOT_FOUND": "Bulunamadı",
+    "MESSAGE_NOT_FOUND": "O bileti bulamadık."
+}

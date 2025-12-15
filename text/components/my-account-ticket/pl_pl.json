@@ -1,0 +1,18 @@
+{
+    "LABEL_CUSTOMER": "Klient",
+    "LABEL_SERVICE_REP": "Przedstawiciel serwisu",
+    "LABEL_OPENED": "Otwierany",
+    "LABEL_STATUS": "Status",
+    "LABEL_CHANGE_STATUS": "Zmień status",
+    "LINK_IMPERSONATE": "Personifikować",
+    "LINK_SWITCH": "Przełącznik",
+    "AVG_RESPONSE_TIME": "Średni czas reakcji:",
+    "STATUS_AWAITING_YOUR_REPLY": "CZEKAM NA TWOJĄ ODPOWIEDŹ",
+    "STATE_OPEN": "Otwarte",
+    "STATE_ACKNOWLEDGED": "Potwierdzono",
+    "STATE_RESOLVED": "Rozwiązany",
+    "ERROR_GET_TICKET_FAILED": "Żądanie pobrania najnowszych informacji o bilecie nie powiodło się.",
+    "ERROR_CHANGE_STATE_FAILED": "Żądanie zmiany stanu zgłoszenia nie powiodło się.",
+    "INITIAL_COMMENT": "Cześć [username]! Utworzyłeś zgłoszenie o nazwie „[subject]”. Zostaw kilka dodatkowych informacji, a @[assignedTagName] się z Tobą skontaktuje.",
+    "STATUS_CHANGE_COMMENT": "[username] zmienił status z [oldStatus] na [newStatus]."
+}

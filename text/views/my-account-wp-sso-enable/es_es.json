@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Inicio de sesión único (SSO) de WordPress - FastComments",
+    "HEADING": "Inicio de sesión único (SSO) de WordPress",
+    "MESSAGE_LAST_STEP": "¡Un último paso! Haz clic en \"Habilitar SSO\" para habilitar el inicio de sesión único en tu blog.",
+    "MESSAGE_DESCRIPTION": "Crearemos una clave secreta de API para ti, la enviaremos de forma segura a tu blog y luego le indicaremos que habilite el SSO. Puedes ejecutarlo tantas veces como quieras si tienes algún problema. Si el proceso falla, nos notificaremos automáticamente; sin embargo, no dudes en contactar con el soporte.",
+    "BUTTON_ENABLE_SSO": "Habilitar SSO",
+    "MESSAGE_DURATION": "Puedes esperar que este proceso sólo tome unos segundos.",
+    "MESSAGE_IN_PROGRESS": "Espera un momento. Solo necesitamos crear una clave API secreta y actualizar la configuración de tu blog.",
+    "MESSAGE_LOADING": "...cargando...",
+    "MESSAGE_AFTER_DONE": "Una vez hecho esto, los usuarios utilizarán el flujo de inicio de sesión de WordPress para usar FastComments."
+}

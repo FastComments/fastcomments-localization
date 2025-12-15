@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Izbriši <%= template.displayName %> - Brzi komentari",
+    "HEADING_DELETE_TEMPLATE": "Izbrisati \"<%= template.displayName %>\"?",
+    "TEXT_CONFIRM_DELETE": "Jeste li sigurni da želite izbrisati predložak <%= template.displayName %>, kreiran <%= template.createdAt.toLocaleString() %>?",
+    "BUTTON_DELETE": "Izbrisati",
+    "BUTTON_CANCEL": "Otkazati"
+}

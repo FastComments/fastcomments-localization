@@ -1,0 +1,18 @@
+{
+    "LABEL_CUSTOMER": "Kupac",
+    "LABEL_SERVICE_REP": "Predstavnik servisa",
+    "LABEL_OPENED": "Otvoreno",
+    "LABEL_STATUS": "Status",
+    "LABEL_CHANGE_STATUS": "Promjena statusa",
+    "LINK_IMPERSONATE": "Predstavljati",
+    "LINK_SWITCH": "Prekidač",
+    "AVG_RESPONSE_TIME": "Prosječno vrijeme odziva:",
+    "STATUS_AWAITING_YOUR_REPLY": "ČEKAM VAŠ ODGOVOR",
+    "STATE_OPEN": "Otvoriti",
+    "STATE_ACKNOWLEDGED": "Potvrđeno",
+    "STATE_RESOLVED": "Riješeno",
+    "ERROR_GET_TICKET_FAILED": "Zahtjev za dobivanje najnovijih informacija o ulaznicama nije uspio.",
+    "ERROR_CHANGE_STATE_FAILED": "Zahtjev za promjenu stanja tiketa nije uspio.",
+    "INITIAL_COMMENT": "Pozdrav [username]! Izradio/la si tiket pod nazivom \"[subject]\". Molimo te da ostaviš dodatne informacije, a @[assignedTagName] će ti se javiti.",
+    "STATUS_CHANGE_COMMENT": "[username] je promijenio/la status iz [oldStatus] u [newStatus]."
+}

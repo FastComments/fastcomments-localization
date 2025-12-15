@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "字詞黑名單 - FastComments",
+    "HEADING": "評論詞黑名單",
+    "SUB_HEADING": "自訂黑名單",
+    "SUCCESS_MESSAGE": "黑名單保存成功。",
+    "INTRO_PARAGRAPH_1": "以下列出了以逗號分隔的單字和短語，這些單字和短語將在評論和用戶名中被封鎖。請謹慎選擇屏蔽詞－屏蔽過於常見的單字會趕走您的社群成員。",
+    "INTRO_PARAGRAPH_2": "這些定義是<b>按語言區域</b>劃分的。語言區域是指語言和地理區域的組合。",
+    "INTRO_PARAGRAPH_3": "你會發現我們區分<b>單字</b>和<b>片語</b>。<b>單字</b>清單中的條目不應包含空格或特殊字元。如果你的片語包含空格、句點等，請將其加入到<b>片語</b>清單中。",
+    "NOSCRIPT_MESSAGE": "此配置介面需要啟用 JavaScript 才能正常運作。",
+    "EDIT_LOCALE_LABEL": "編輯本地化",
+    "MASKED_WORDS_LABEL": "代表[localeName]的遮罩詞。",
+    "MASKED_WORDS_DESCRIPTION": "此列表中的單字（以逗號分隔）將被屏蔽，例如 ***。",
+    "MASKED_WORDS_PLACEHOLDER": "請輸入以逗號分隔的髒話列表，例如「一些，髒話」。",
+    "WORDS_LENGTH_ERROR": "每個語言環境最多可輸入 5,000 個單字。您已輸入<span id=\"length-error-count-words-[locale]\"></span>。",
+    "MASKED_PHRASES_LABEL": "掩碼短語用於[localeName]。",
+    "MASKED_PHRASES_DESCRIPTION": "此清單中的短語（以逗號分隔）將被封鎖，例如 ********。",
+    "MASKED_PHRASES_PLACEHOLDER": "輸入以逗號分隔的不良短語列表，例如「一些不良短語，一些其他不良短語」。",
+    "PHRASES_LENGTH_ERROR": "每個地區最多可輸入 5,000 個短語。您已輸入<span id=\"length-error-count-phrases-[locale]\"></span>。",
+    "SAVE_BUTTON": "儲存變更至[localeName]"
+}

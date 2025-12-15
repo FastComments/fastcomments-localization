@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Moj nalog",
+    "HEADING_MY_DOMAINS": "Moji domeni",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "Domeni su uspešno dodati!",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "Domen je uspešno uklonjen!",
+    "TEXT_SETTING_UPDATED_SUCCESS": "Podešavanje se uspešno ažurira!",
+    "TEXT_IMAGE_UPLOAD_ERROR": "Greška pri otpremanju slike: <%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "Sledi konfiguracija kako e-poruke treba da izgledaju kada FastComments šalje e-poštu vašim komentatorima. Ne morate ništa da unosite ako ne želite da prilagodite ovo.",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>beleške: Podešavanja od-imena i e-pošte ne utiču na e-poštu poslatu administratorima.</b>",
+    "LINK_REMOVE": "Ukloni",
+    "TEXT_AUTO_ADDED_NOTICE": "Automatski dodat tokom suđenja.",
+    "TITLE_AUTO_ADDED": "Automatski se dodaje tokom probnog perioda na osnovu saobraćaja na vašem nalogu. Ovo se radi kako bi se olakšalo podešavanje, a dešava se samo tokom probnog perioda.",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Od-Ime prilikom slanja e-pošte korisniku",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "Od-E-mail prilikom slanja e-pošte korisniku",
+    "TEXT_EMAIL_ERROR": "Nešto izgleda nije u redu sa ovom e-poštom. Sačuvali smo sve druge promene.",
+    "TEXT_LOGO_MAX_SIZE": "Maksimalna veličina: 1mb. Nije promenila veličinu.",
+    "BUTTON_SAVE": "Sačuvaj",
+    "TEXT_NO_DOMAINS_WARNING": "Vau! Nemate domene. Vaši dodaci neće moći da se učitaju dok ne povežete jedan ili više domena sa svojim nalogom.",
+    "TITLE_ADD_DOMAIN": "Dodaj domen",
+    "TEXT_ADD_A_DOMAIN": "Dodajte domen"
+}

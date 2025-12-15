@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Correo electrónico enviado el <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "BUTTON_BACK": "← Volver a Correos electrónicos enviados",
+    "HEADING": "Correo electrónico enviado el <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "LABEL_DATE": "Fecha:",
+    "LABEL_FROM": "De:",
+    "LABEL_TO": "A:",
+    "LABEL_BCC": "CCO:",
+    "LABEL_SUBJECT": "Sujeto:",
+    "LABEL_HEADERS": "Encabezados:",
+    "HEADING_EMAIL_CONTENT": "Contenido del correo electrónico",
+    "MESSAGE_NO_CONTENT": "No hay contenido disponible",
+    "VALUE_UNKNOWN": "Desconocido",
+    "VALUE_NO_SUBJECT": "(Sin Asunto)"
+}

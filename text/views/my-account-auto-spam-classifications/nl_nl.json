@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Trainingsset voor het bestrijden van spam in reacties - FastComments",
+    "HEADING_COMMENTS_SPAM_TRAINING_SET": "Trainingsset voor het bestrijden van spam in reacties",
+    "TEXT_CURRENT_CLASSIFICATION": "Huidige classificatie: <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
+    "BUTTON_UNCLASSIFY": "Declassificatie opheffen",
+    "BUTTON_SPAM": "Spam",
+    "BUTTON_NOT_SPAM": "Geen spam"
+}

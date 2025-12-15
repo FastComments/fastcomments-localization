@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "관리자 삭제 - FastComments",
+    "HEADING": "운영자 제거",
+    "SUB_HEADING": "<%= moderator.name %>을(를) 제거하려고 합니다.",
+    "CANNOT_UNDO": "이 변경 사항은 되돌릴 수 없습니다. <%= moderator.name %>님은 더 이상 귀하의 댓글을 보거나 관리할 수 없습니다.",
+    "NOTIFICATION_INFO": "운영자 자격이 박탈되면 자동 이메일을 통해 통보받게 됩니다.",
+    "METRICS_WARNING": "해당 사용자의 모든 측정 항목이 삭제됩니다 <b>(이메일 주소를 변경하려면 이전 페이지에서 수정할 수 있습니다)</b> .",
+    "CANCEL_LINK": "취소",
+    "DELETE_BUTTON": "이 관리자를 삭제하세요"
+}

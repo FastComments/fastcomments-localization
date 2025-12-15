@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Courriel envoyé le <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "BUTTON_BACK": "← Retour aux e-mails envoyés",
+    "HEADING": "Courriel envoyé le <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "LABEL_DATE": "Date:",
+    "LABEL_FROM": "Depuis:",
+    "LABEL_TO": "À:",
+    "LABEL_BCC": "CCI :",
+    "LABEL_SUBJECT": "Sujet:",
+    "LABEL_HEADERS": "En-têtes :",
+    "HEADING_EMAIL_CONTENT": "Contenu des e-mails",
+    "MESSAGE_NO_CONTENT": "Aucun contenu disponible",
+    "VALUE_UNKNOWN": "Inconnu",
+    "VALUE_NO_SUBJECT": "(Sans sujet)"
+}

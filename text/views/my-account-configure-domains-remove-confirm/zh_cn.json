@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "删除域名 - FastComments",
+    "HEADING_REMOVING_DOMAIN": "移除<%= domainName %>",
+    "HEADING_REMOVE_DOMAIN": "消除 <%= domainName %>",
+    "TEXT_REMOVE_CONFIRM": "您即将移除<b><%= domainName %></b> 。虽然此操作不会删除任何数据且数据可恢复，但此域上的所有现有组件将不再加载。是否继续？",
+    "BUTTON_CANCEL": "取消",
+    "BUTTON_REMOVE_DOMAIN": "域名"
+}

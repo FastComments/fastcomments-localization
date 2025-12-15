@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Usuń moje konto",
+    "HEADING_DELETE_ACCOUNT": "Usuń konto <%= user.username %>",
+    "TEXT_PRIVACY_POLICY_NOTE": "Jeśli usuwasz swoje konto ze względu na obawy dotyczące prywatności, zapoznaj się z naszą <a href=\"/privacy-policy\">Polityką Prywatności</a> . Nie sprzedajemy ani nie udostępniamy Twoich danych osobom trzecim.",
+    "TEXT_ALSO_DELETING_TENANT": "Usuwam również najemcę „<%= tenant ? tenant.name : '' %>”.",
+    "TEXT_ACCOUNT_OWNER_WARNING": "Jesteś właścicielem konta. Usunięcie konta spowoduje usunięcie tego najemcy.",
+    "TEXT_SUBSCRIPTION_CANCELLED": "Twoja subskrypcja również zostanie anulowana.",
+    "TEXT_NO_SELL_DATA": "Pamiętaj, że FastComments <b>nie sprzedaje ani nie udostępnia</b> Twoich danych osobowych osobom trzecim. Oferujemy bezpłatne założenie konta wyłącznie dla wygody.",
+    "HEADING_CONFIRMATION": "Potwierdzenie",
+    "LABEL_REMOVE_COMMENTS": "Usunąć wszystkie <%= commentCount %> komentarze?",
+    "LABEL_CONFIRM_REMOVAL": "Zaznacz to pole, aby potwierdzić usunięcie konta. Usunięcia konta lub powiązanych z nim komentarzy nie można cofnąć.",
+    "LABEL_FEEDBACK": "Pomóż nam zrozumieć, dlaczego odchodzisz.",
+    "BUTTON_NO_DONT_DELETE": "Nie, nie usuwaj mojego konta",
+    "BUTTON_YES_DELETE": "Tak, usuń moje konto"
+}

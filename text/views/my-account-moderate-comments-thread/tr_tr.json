@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "Yorum Dizisi Görüntüleyici",
+    "HEADING": "Yorum Dizisi Görüntüleyici",
+    "THREAD_DETAILS": "Şu anda <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a> adresindeki yorum dizisini görüntülüyorsunuz.",
+    "PAGE_ID_INFO": "Sayfa Kimliği <%- thread.urlIdDecoded %> için Yorumlar Görüntüleniyor"
+}

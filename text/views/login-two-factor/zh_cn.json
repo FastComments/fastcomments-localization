@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "双因素身份验证 - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "双因素身份验证",
+    "HERO_DESCRIPTION": "请输入验证码以完成登录。",
+    "ATTEMPTS_REMAINING": "剩余尝试次数<%= 5 - session.attempts %>",
+    "LABEL_METHOD_SELECT": "选择验证方式：",
+    "METHOD_AUTHENTICATOR": "身份验证器应用程序",
+    "METHOD_SMS": "短信",
+    "AUTHENTICATOR_INSTRUCTION": "输入身份验证器应用程序中显示的 6 位代码",
+    "SMS_INSTRUCTION": "我们已向<%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>发送了验证码。",
+    "LABEL_VERIFICATION_CODE": "验证码",
+    "BUTTON_VERIFY": "核实",
+    "LABEL_BACKUP_CODE": "请输入备用密码：",
+    "BUTTON_USE_BACKUP_CODE": "使用备用代码",
+    "BUTTON_BACK": "后退",
+    "BUTTON_RESEND_SMS": "重发短信验证码",
+    "LINK_USE_BACKUP_CODE": "改用备用代码",
+    "LINK_BACK_TO_LOGIN": "← 返回登录"
+}

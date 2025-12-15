@@ -1,0 +1,12 @@
+{
+    "TITLE": "Importprotokolle - FastComments",
+    "HEADING": "Protokolle für Auftrag <%= job._id %>",
+    "JOB_LOGS_HEADING": "Jobprotokolle",
+    "TABLE_LOG": "Protokoll",
+    "TABLE_DATE": "Datum",
+    "NO_LOGS": "Für diesen Auftrag sind keine Protokolle vorhanden.",
+    "POSSIBLE_REASONS": "Mögliche Gründe:",
+    "REASON_NOT_STARTED": "Die Arbeit hat möglicherweise noch nicht begonnen.",
+    "REASON_BEFORE_SUPPORT": "Es stammt möglicherweise aus der Zeit vor der Einführung der Protokollierungsfunktion.",
+    "REASON_NO_SUPPORT": "Der Auftragstyp unterstützt möglicherweise keine Protokollierung."
+}

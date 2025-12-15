@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "雙重認證 - FastComments",
+    "HEADING": "雙重身份驗證",
+    "DESCRIPTION": "雙重認證透過登入時要求第二種驗證方式，為您的帳戶增加一層額外的安全性。",
+    "HEADING_ADD_METHODS": "新增的雙重認證方法",
+    "HEADING_AUTHENTICATOR": "身份驗證器應用程式",
+    "DESCRIPTION_AUTHENTICATOR": "使用 Google Authenticator、Authy 或 1Password 等應用程式產生基於時間的驗證碼。",
+    "BUTTON_ADD_AUTHENTICATOR": "新增身份驗證器",
+    "HEADING_SMS": "簡訊",
+    "DESCRIPTION_SMS": "您將透過簡訊收到驗證碼。",
+    "BUTTON_ADD_SMS": "新增電話號碼",
+    "HEADING_BACKUP_CODES": "備用代碼",
+    "DESCRIPTION_BACKUP_CODES": "如果您無法使用雙重驗證方式，可以使用備用代碼存取您的帳戶。每個代碼只能使用一次。",
+    "BUTTON_VIEW_BACKUP_CODES": "查看備用代碼"
+}

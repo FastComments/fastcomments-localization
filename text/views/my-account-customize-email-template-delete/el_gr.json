@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Διαγραφή <%= template.displayName %> - Γρήγορα σχόλια",
+    "HEADING_DELETE_TEMPLATE": "Διαγραφή του \"<%= template.displayName %>\";",
+    "TEXT_CONFIRM_DELETE": "Είστε σίγουροι ότι θέλετε να διαγράψετε το πρότυπο <%= template.displayName %>, που δημιουργήθηκε στις <%= template.createdAt.toLocaleString() %>;",
+    "BUTTON_DELETE": "Διαγράφω",
+    "BUTTON_CANCEL": "Ματαίωση"
+}

@@ -1,0 +1,14 @@
+{
+    "PAGE_TITLE": "업데이트 실패",
+    "HEADING": "계정 업데이트 실패",
+    "LINK_TRY_AGAIN": "다시 시도하세요",
+    "MESSAGE_GENERIC": "뭔가 심각하게 잘못됐어요.",
+    "MESSAGE_GENERIC_DETAIL": "무슨 일이 일어났는지 확실하지 않지만, 확인해 보겠습니다.",
+    "ERROR_EMAIL_OR_USERNAME_EMPTY": "이메일 주소나 사용자 이름이 비어 있는 것 같습니다. 다시 시도해 주세요.",
+    "ERROR_EMAIL_INVALID": "이 이메일 주소는 유효하지 않은 것 같습니다: [email]",
+    "ERROR_USERNAME_TAKEN": "해당 사용자 이름은 이미 다른 사람이 사용하고 있습니다!",
+    "ERROR_EMAIL_TAKEN": "죄송하지만 해당 이메일 주소는 이미 다른 분이 사용 중입니다! 혹시 이미 계정이 있으신가요?",
+    "ERROR_EMAIL_NOW_TAKEN": "죄송하지만 요청하신 이메일 주소는 이미 다른 분이 사용 중입니다! 다른 계정을 만드셨나요?",
+    "ERROR_RATE_LIMITED_MINUTE": "접속 횟수 제한을 초과했습니다. 몇 분 후에 다시 시도하거나 고객 지원팀에 문의해 주세요.",
+    "ERROR_RATE_LIMITED_DAY": "일일 사용량 제한을 초과했습니다. 24시간 후에 다시 시도하거나 고객 지원팀에 문의해 주세요."
+}

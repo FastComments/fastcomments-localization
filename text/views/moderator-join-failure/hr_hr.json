@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "Pozivanje nije uspjelo",
+    "HERO_TITLE_LIGHT": "Pozovi ",
+    "HERO_TITLE_BOLD": "Neuspjeh",
+    "DEFAULT_ERROR": "Nešto je pošlo užasno po zlu. Nismo sigurni što se dogodilo, ali pogledat ćemo.",
+    "ERROR_LINK_EXPIRED": "<b>Žao mi je, ali čini se da je ova poveznica već korištena ili je stara više od 30 dana. Zamolite vlasnika web-mjesta koje vam je poslalo pozivnicu da vam pošalje novu.</b>",
+    "ERROR_LINK_INVALID": "<b>O ne! Izgleda da ova veza nije važeća.</b>",
+    "ERROR_ACCOUNT_NOT_FOUND": "Vaš račun nije pronađen. Obratite se administratoru kako biste dobili novu pozivnicu za rješavanje ovog problema.",
+    "ERROR_EMAIL_MISMATCH": "<b>Trenutno prijavljeni korisnik ima drugačiju e-mail adresu ([userEmail]) od one u poslanoj pozivnici ([inviteEmail]).</b><br><br> Možete <a href=\"/auth/logout?redirect=[redirectUrl]\">kliknuti ovdje</a> za odjavu i kreiranje računa posebno za moderiranje."
+}

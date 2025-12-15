@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Έλεγχος ταυτότητας δύο παραγόντων - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Έλεγχος ταυτότητας δύο παραγόντων",
+    "HERO_DESCRIPTION": "Παρακαλώ εισάγετε τον κωδικό επαλήθευσης για να ολοκληρώσετε τη σύνδεση",
+    "ATTEMPTS_REMAINING": "<%= 5 - session.attempts %> προσπάθειες που απομένουν",
+    "LABEL_METHOD_SELECT": "Επιλέξτε μέθοδο επαλήθευσης:",
+    "METHOD_AUTHENTICATOR": "Εφαρμογή ελέγχου ταυτότητας",
+    "METHOD_SMS": "SMS",
+    "AUTHENTICATOR_INSTRUCTION": "Εισαγάγετε τον 6ψήφιο κωδικό από την εφαρμογή ελέγχου ταυτότητας",
+    "SMS_INSTRUCTION": "Στείλαμε έναν κωδικό στον/στην <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>",
+    "LABEL_VERIFICATION_CODE": "Κωδικός επαλήθευσης",
+    "BUTTON_VERIFY": "Επαληθεύω",
+    "LABEL_BACKUP_CODE": "Εισαγάγετε τον εφεδρικό κωδικό:",
+    "BUTTON_USE_BACKUP_CODE": "Χρήση εφεδρικού κωδικού",
+    "BUTTON_BACK": "Πίσω",
+    "BUTTON_RESEND_SMS": "Επανάληψη αποστολής κωδικού SMS",
+    "LINK_USE_BACKUP_CODE": "Χρησιμοποιήστε έναν εφεδρικό κωδικό αντ' αυτού",
+    "LINK_BACK_TO_LOGIN": "← Πίσω στη σύνδεση"
+}

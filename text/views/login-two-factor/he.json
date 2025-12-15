@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "אימות דו-שלבי - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "אימות דו-שלבי",
+    "HERO_DESCRIPTION": "אנא הזן את קוד האימות שלך כדי להשלים את הכניסה",
+    "ATTEMPTS_REMAINING": "<%= 5 - session.attempts %> ניסיונות שנותרו",
+    "LABEL_METHOD_SELECT": "בחר שיטת אימות:",
+    "METHOD_AUTHENTICATOR": "אפליקציית אימות",
+    "METHOD_SMS": "SMS",
+    "AUTHENTICATOR_INSTRUCTION": "הזינו את הקוד בן 6 הספרות מאפליקציית האימות שלכם",
+    "SMS_INSTRUCTION": "שלחנו קוד אל <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>",
+    "LABEL_VERIFICATION_CODE": "קוד אימות",
+    "BUTTON_VERIFY": "לְאַמֵת",
+    "LABEL_BACKUP_CODE": "הזן קוד גיבוי:",
+    "BUTTON_USE_BACKUP_CODE": "השתמש בקוד גיבוי",
+    "BUTTON_BACK": "בְּחֲזָרָה",
+    "BUTTON_RESEND_SMS": "שלח שוב את קוד ה-SMS",
+    "LINK_USE_BACKUP_CODE": "השתמש בקוד גיבוי במקום זאת",
+    "LINK_BACK_TO_LOGIN": "← חזרה להתחברות"
+}

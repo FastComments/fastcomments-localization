@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "会話を作成できませんでした - FastComments",
+    "META_DESCRIPTION": "FastComments.comへのお問い合わせ",
+    "HERO_TITLE_LIGHT": "会話  ",
+    "HERO_TITLE_BOLD": "作成できませんでした",
+    "HERO_DESCRIPTION": "会話を作成できませんでした。 <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
+    "BUTTON_TRY_AGAIN": "新しい会話を作成してみてください。"
+}

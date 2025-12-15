@@ -1,0 +1,12 @@
+{
+    "TITLE": "导入日志 - FastComments",
+    "HEADING": "作业<%= job._id %>的日志",
+    "JOB_LOGS_HEADING": "作业日志",
+    "TABLE_LOG": "日志",
+    "TABLE_DATE": "日期",
+    "NO_LOGS": "此作业没有日志。",
+    "POSSIBLE_REASONS": "可能的原因：",
+    "REASON_NOT_STARTED": "这项工作可能还没有开始。",
+    "REASON_BEFORE_SUPPORT": "这可能是我们添加日志支持之前的文件。",
+    "REASON_NO_SUPPORT": "该作业类型可能不支持日志记录。"
+}

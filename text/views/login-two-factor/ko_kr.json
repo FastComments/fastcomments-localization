@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "2단계 인증 - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "2단계 인증",
+    "HERO_DESCRIPTION": "로그인을 완료하려면 인증 코드를 입력하세요.",
+    "ATTEMPTS_REMAINING": "남은 시도 횟수: <%= 5 - session.attempts %>",
+    "LABEL_METHOD_SELECT": "인증 방법을 선택하세요:",
+    "METHOD_AUTHENTICATOR": "인증 앱",
+    "METHOD_SMS": "SMS",
+    "AUTHENTICATOR_INSTRUCTION": "인증 앱에서 받은 6자리 코드를 입력하세요.",
+    "SMS_INSTRUCTION": "<%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>님께 코드를 보내드렸습니다.",
+    "LABEL_VERIFICATION_CODE": "인증 코드",
+    "BUTTON_VERIFY": "확인하다",
+    "LABEL_BACKUP_CODE": "백업 코드를 입력하세요:",
+    "BUTTON_USE_BACKUP_CODE": "백업 코드를 사용하세요",
+    "BUTTON_BACK": "뒤쪽에",
+    "BUTTON_RESEND_SMS": "SMS 재전송 코드",
+    "LINK_USE_BACKUP_CODE": "대신 백업 코드를 사용하세요",
+    "LINK_BACK_TO_LOGIN": "← 로그인 페이지로 돌아가기"
+}

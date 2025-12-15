@@ -1,0 +1,21 @@
+{
+    "BAN_SELECTION_TITLE": "Izberite prepoved za urejanje",
+    "BAN_SELECTION_SUBTITLE_MULTIPLE": "Obstaja več prepovedi, ki vplivajo na [username].",
+    "BAN_SELECTION_SUBTITLE_SINGLE": "Uporabnik [username] je zaradi tega komentarja prejel eno prepoved.",
+    "BAN_SELECTION_BTN_SELECT": "Izberite",
+    "BAN_SELECTION_BTN_CREATE_NEW": "Ustvari novo",
+    "BAN_SELECTION_BTN_CANCEL": "Prekliči",
+    "BAN_SELECTION_LABEL": "Izberite prepoved",
+    "BAN_SELECTION_RELATED_BANS": "Povezane prepovedi",
+    "BAN_SELECTION_REMINDER": "Pred urejanjem ne pozabite preveriti, kako se prepoved ujema z uporabnikom!",
+    "BAN_SELECTION_EXPIRES": "Poteče [date]",
+    "BAN_SELECTION_NEVER_EXPIRES": "Nikoli ne poteče",
+    "BAN_SELECTION_SHADOW": "Senca",
+    "BAN_SELECTION_ANON_USER_ID": "Anonimni uporabniški ID",
+    "BAN_SELECTION_USER_ID": "ID uporabnika",
+    "BAN_SELECTION_EMAIL": "E-pošta",
+    "BAN_SELECTION_EMAIL_PATTERN": "Vzorec e-pošte",
+    "BAN_SELECTION_IP": "IP-naslov",
+    "BAN_SELECTION_MATCHED_ON": "Ujemanje dne: [[matches]]",
+    "BAN_SELECTION_ID": "(ID: [id])"
+}

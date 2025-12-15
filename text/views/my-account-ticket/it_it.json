@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Biglietto \"<%- ticketViewModel.subject %>\"",
+    "MESSAGE_ASSIGNED": "Il tuo ticket è stato assegnato a un rappresentante dell'assistenza. Se siete entrambi online, potete parlare con lui in diretta, ma potete sempre lasciare qualche dettaglio e tornare più tardi.",
+    "MESSAGE_FIND_AGAIN": "Chiudendo questa pagina non perderai la chat. Puoi recuperarla tramite la <a href=\"/auth/my-account/tickets\">pagina di supporto</a> .",
+    "HEADING_NOT_FOUND": "Non trovato",
+    "MESSAGE_NOT_FOUND": "Non siamo riusciti a trovare quel biglietto."
+}

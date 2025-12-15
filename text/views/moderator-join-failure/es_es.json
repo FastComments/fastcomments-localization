@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "Invitación fallida",
+    "HERO_TITLE_LIGHT": "Invitar  ",
+    "HERO_TITLE_BOLD": "Falla",
+    "DEFAULT_ERROR": "Algo salió terriblemente mal. No sabemos qué pasó, pero lo investigaremos.",
+    "ERROR_LINK_EXPIRED": "<b>Lo sentimos, pero parece que este enlace ya se ha usado o tiene más de 30 días. Por favor, pídele al propietario del sitio que te envió la invitación que te envíe uno nuevo.</b>",
+    "ERROR_LINK_INVALID": "<b>¡Oh, no! Parece que este enlace no es válido.</b>",
+    "ERROR_ACCOUNT_NOT_FOUND": "No se encontró tu cuenta. Contacta con tu administrador para obtener una nueva invitación y resolver este problema.",
+    "ERROR_EMAIL_MISMATCH": "<b>El usuario actualmente conectado tiene un correo electrónico diferente ([userEmail]) de la invitación enviada ([inviteEmail]).</b><br><br> Puede <a href=\"/auth/logout?redirect=[redirectUrl]\">hacer clic aquí</a> para cerrar sesión y crear una cuenta específicamente para moderación."
+}

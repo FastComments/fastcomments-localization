@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Het lukte niet om een gesprek te starten - FastComments",
+    "META_DESCRIPTION": "Neem contact op met FastComments.com",
+    "HERO_TITLE_LIGHT": "Gesprek  ",
+    "HERO_TITLE_BOLD": "Kon niet worden aangemaakt",
+    "HERO_DESCRIPTION": "Het is ons niet gelukt om uw gesprek te starten. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
+    "BUTTON_TRY_AGAIN": "Probeer een nieuw gesprek te beginnen."
+}

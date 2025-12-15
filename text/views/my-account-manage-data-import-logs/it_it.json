@@ -1,0 +1,12 @@
+{
+    "TITLE": "Importa registri - FastComments",
+    "HEADING": "Registri per il lavoro <%= job._id %>",
+    "JOB_LOGS_HEADING": "Registri dei lavori",
+    "TABLE_LOG": "Tronco d'albero",
+    "TABLE_DATE": "Data",
+    "NO_LOGS": "Non ci sono registri per questo lavoro.",
+    "POSSIBLE_REASONS": "Alcune possibili ragioni:",
+    "REASON_NOT_STARTED": "Il lavoro potrebbe non essere ancora iniziato.",
+    "REASON_BEFORE_SUPPORT": "Potrebbe essere precedente all'aggiunta del supporto log.",
+    "REASON_NO_SUPPORT": "Il tipo di lavoro potrebbe non supportare i registri."
+}

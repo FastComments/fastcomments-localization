@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "Potvrdi integraciju - Brzi komentari",
+    "PAGE_HEADING": "Povezivanje vaše integracije.",
+    "PAGE_SUBHEADING": "Potvrda",
+    "NOSCRIPT_MESSAGE": "Molimo omogućite JavaScript za postavljanje integracije.",
+    "UPLOAD_DESCRIPTION": "Ako želite, možemo automatski prenijeti vaše komentare iz vaše <%= integrationName %> instalacije tijekom sinkronizacije. U suprotnom, poništite oznaku u donjem okviru i to možete učiniti sami kasnije.",
+    "CHECKBOX_UPLOAD_COMMENTS": "Automatski prenesi moje komentare.",
+    "CHECKBOX_UPLOAD_COMMENTS_HELP": "Svoje komentare možete prenijeti kasnije s administratorske stranice dodatka.",
+    "CHECKBOX_SYNC_DATABASE": "Automatski sinkroniziraj moju <%= integrationName %> bazu podataka.",
+    "CHECKBOX_SYNC_DATABASE_HELP": "Ovo održava vašu <%= integrationName %> bazu podataka ažurnom. Korisno ako neki dodaci zahtijevaju najnovije komentare u vašoj bazi podataka. Često je onemogućeno na web-lokacijama s vrlo velikim prometom, gdje ažuriranje <%= integrationName %> stvara neželjeno opterećenje.",
+    "BUTTON_START_SYNC": "Pokreni sinkronizaciju"
+}

@@ -1,0 +1,18 @@
+{
+    "LABEL_CUSTOMER": "Kunde",
+    "LABEL_SERVICE_REP": "Kundendienstmitarbeiter",
+    "LABEL_OPENED": "Geöffnet",
+    "LABEL_STATUS": "Status",
+    "LABEL_CHANGE_STATUS": "Status ändern",
+    "LINK_IMPERSONATE": "Imitieren",
+    "LINK_SWITCH": "Schalten",
+    "AVG_RESPONSE_TIME": "Durchschnittliche Antwortzeit:",
+    "STATUS_AWAITING_YOUR_REPLY": "WIR ERWARTEN IHRE ANTWORT",
+    "STATE_OPEN": "Offen",
+    "STATE_ACKNOWLEDGED": "Anerkannt",
+    "STATE_RESOLVED": "Gelöst",
+    "ERROR_GET_TICKET_FAILED": "Eine Anfrage zum Abrufen der aktuellsten Ticketinformationen ist fehlgeschlagen.",
+    "ERROR_CHANGE_STATE_FAILED": "Ein Antrag auf Änderung des Ticketstatus ist fehlgeschlagen.",
+    "INITIAL_COMMENT": "Hallo [username]! Sie haben ein Ticket mit dem Namen \"[subject]\" erstellt. Bitte geben Sie weitere Informationen an, und @[assignedTagName] wird sich bei Ihnen melden.",
+    "STATUS_CHANGE_COMMENT": "[username] hat den Status von [oldStatus] auf [newStatus] geändert."
+}

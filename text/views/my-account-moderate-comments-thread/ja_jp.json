@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "コメントスレッドビューア",
+    "HEADING": "コメントスレッドビューア",
+    "THREAD_DETAILS": "<a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a>のコメントスレッドを表示しています",
+    "PAGE_ID_INFO": "ページID: <%- thread.urlIdDecoded %> のコメントを表示しています"
+}

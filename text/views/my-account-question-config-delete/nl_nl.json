@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Vraag verwijderen - FastComments",
+    "HEADING": "Verwijderen \"<%= question.name %>\"?",
+    "CONFIRM_MESSAGE": "Weet je zeker dat je de vraag \"<%= question.question %>\", die op <%= question.createdAt.toLocaleString() %> is aangemaakt, wilt verwijderen?",
+    "REPLY_COUNT_MESSAGE": "Deze vraag heeft <%= Number(question.usedCount).toLocaleString() %> antwoorden.",
+    "DATA_LOSS_WARNING": "De gegevens uit deze antwoorden zullen niet langer beschikbaar zijn in rapportages.",
+    "DELETE_BUTTON": "Verwijderen",
+    "CANCEL_LINK": "Annuleren"
+}

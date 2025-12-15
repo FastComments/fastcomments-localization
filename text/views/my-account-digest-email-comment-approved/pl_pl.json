@@ -1,0 +1,8 @@
+{
+    "TITLE": "Komentarz zatwierdzony - FastComments",
+    "HEADING": "Sukces!",
+    "COMMENT_APPROVED": "Ten komentarz został oznaczony jako sprawdzony i zatwierdzony.",
+    "ALSO_LOGGED_IN": "Zostałeś również zalogowany.",
+    "VIEW_COMMENT_ON_SITE": "Zatwierdzony komentarz możesz zobaczyć na swojej stronie <a href=\"<%= comment.url %>\" target=\"_blank\">tutaj</a> lub skorzystać z przeglądarki wątków komentarzy <a href=\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">tutaj</a> .",
+    "CLOSE_PAGE": "Możesz teraz zamknąć tę stronę."
+}

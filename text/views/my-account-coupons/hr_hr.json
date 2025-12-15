@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Kuponi - BrziKomentari",
+    "HEADING_COUPONS": "Kuponi",
+    "HEADING_COUPON_CODES": "Kodovi kupona",
+    "HEADING_STATS": "Statistike",
+    "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> Iskorišteni kuponi.",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Ukupno kupona.",
+    "HEADING_DOWNLOAD": "Preuzmi",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Preuzmite dostupne kupone",
+    "HEADING_GENERATE_TIER_4_COUPONS": "Generiraj kupone 4. razine",
+    "LABEL_GENERATE_COUPON_COUNT": "Generiraj broj kupona",
+    "BUTTON_SUBMIT": "Pošalji",
+    "HEADING_COUPON_LIST": "Popis kupona",
+    "TABLE_HEADER_CODE": "Kodirati",
+    "TABLE_HEADER_REDEEMED_DATE": "Datum iskorištenja"
+}

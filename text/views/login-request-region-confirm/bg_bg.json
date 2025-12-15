@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Преминаване към <%= otherRegionName %>? - Бързи коментари",
+    "HERO_TITLE_LIGHT": "Превключване към ",
+    "HERO_TITLE_BOLD": "<%= otherRegionName %>",
+    "HERO_DESCRIPTION": "Имате акаунт в <a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a> - искате ли да влезете там вместо това?",
+    "INFO_MESSAGE_BOLD": "Имате акаунт в другия ни център за данни.",
+    "INFO_MESSAGE_QUESTION": "Пренасочване към там?",
+    "INFO_MESSAGE_WARNING": "Ако не пренасочите, ще създадем акаунт тук за вас, ако такъв не съществува, и <b>тогава ще имате два акаунта.</b>",
+    "BUTTON_REDIRECT": "Пренасочване към <%= otherRegionName %>",
+    "BUTTON_CONTINUE_HERE": "Продължете тук"
+}

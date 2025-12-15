@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Yeni Kiracı Kurulumu",
+    "HERO_TITLE_LIGHT": "Neredeyse  ",
+    "HERO_TITLE_BOLD": "Orada",
+    "HERO_DESCRIPTION": "FastComments, hem işletmeler hem de kullanıcılar için kurulumu ve kullanımı en hızlı yorum sistemini sunar ve <u>30 günlük ücretsiz deneme sürümüne</u> hemen başlayabilirsiniz.",
+    "NOT_WEBSITE_LINK_TEXT": "Eğer FastComments&#39;ı bir web sitesine eklemeyi düşünmüyorsanız <a href=\"/auth/commenter-signup?email=<%= email %>\">, buradan kayıt olmalısınız.</a>",
+    "FORM_DESCRIPTION": "Şimdi sadece bazı temel bilgilere ihtiyacımız var, ardından FastComments'ı kurmaya başlayabilirsiniz.",
+    "LABEL_USERNAME": "*Herkese Açık Olarak Görüntülenen Kullanıcı Adı:",
+    "USERNAME_PATTERN_TITLE": "Lütfen özel karakter kullanmayın - sadece rakamlar ve harfler.",
+    "LABEL_EMAIL": "*E-posta:",
+    "EMAIL_DESCRIPTION_LOGGED_IN": "Mevcut e-posta adresinizi kullanacağız. Gerekirse daha sonra hesap sayfasından değiştirebilirsiniz.",
+    "EMAIL_DESCRIPTION": "Hesabınızı doğrulamanızı isteyen bir e-posta göndereceğiz.",
+    "LABEL_COMPANY_NAME": "*Firma Adı:",
+    "DOMAINS_HEADING": "FastComments'ın görüneceği web sitenizin adresi nedir?",
+    "LABEL_WEBSITES": "*Web sitesi(leri):",
+    "DOMAINS_DESCRIPTION": "Alt alan adlarını veya localhost adresini girmenize gerek yok. Birden fazla site için, bunları virgülle ayırın.",
+    "TOS_TEXT": "&quot;Hesap Oluştur&quot; butonuna tıklayarak <a href=\"/terms-of-service\" target=\"_blank\">Hizmet Şartlarını</a> kabul etmiş olursunuz.",
+    "BUTTON_CREATE_ACCOUNT": "Hesap oluşturmak",
+    "ERROR_SIGNUP_ALREADY_STARTED": "Kayıt işlemi zaten başlatıldı ve tekrar gönderilemez. Belki sayfayı yenilediniz?"
+}

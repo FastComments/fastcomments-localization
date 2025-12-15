@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Elimina il mio account",
+    "HEADING_DELETE_ACCOUNT": "Elimina l'account di <%= user.username %>",
+    "TEXT_PRIVACY_POLICY_NOTE": "Se stai eliminando il tuo account per motivi di privacy, ti consigliamo di consultare la nostra <a href=\"/privacy-policy\">Informativa sulla privacy</a> . Non vendiamo né condividiamo i tuoi dati con terze parti.",
+    "TEXT_ALSO_DELETING_TENANT": "Eliminazione anche dell'inquilino \"<%= tenant ? tenant.name : '' %>\".",
+    "TEXT_ACCOUNT_OWNER_WARNING": "Sei il proprietario di un account. Eliminando il tuo account, verrà eliminato anche questo tenant.",
+    "TEXT_SUBSCRIPTION_CANCELLED": "Anche il tuo abbonamento verrà annullato.",
+    "TEXT_NO_SELL_DATA": "Si prega di notare che FastComments <b>non vende né condivide</b> i vostri dati personali con terze parti. Offriamo la creazione gratuita di un account semplicemente per comodità.",
+    "HEADING_CONFIRMATION": "Conferma",
+    "LABEL_REMOVE_COMMENTS": "Rimuovere tutti i commenti <%= commentCount %>?",
+    "LABEL_CONFIRM_REMOVAL": "Seleziona questa casella per confermare la rimozione del tuo account. L'eliminazione del tuo account o dei commenti associati non può essere annullata.",
+    "LABEL_FEEDBACK": "Aiutaci a capire perché ti stiamo vedendo andare via.",
+    "BUTTON_NO_DONT_DELETE": "No, non eliminare il mio account",
+    "BUTTON_YES_DELETE": "Sì, elimina il mio account"
+}

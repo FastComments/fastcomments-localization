@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "統合ログ - FastComments",
+    "HEADING": "統合ログ。",
+    "SUB_HEADING": "<%= integration.readableType %>のログ",
+    "NOSCRIPT_MESSAGE": "ログを表示するにはJavaScriptを有効にしてください。",
+    "PAGE_UPDATE_INFO": "統合が進むにつれてこのページは更新されます。",
+    "SYNC_INFO": "これが完了すると、コメントはサイトと同期されるので、FastComments を無効にしてもデータが失われることはありません。",
+    "LOGS_RETENTION_INFO": "これらのログは 2 年間保存されます。"
+}

@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Créer un locataire géré - FastComments",
+    "HEADING": "Locataire créé",
+    "SUCCESS_MESSAGE": "Votre locataire a été créé avec succès !",
+    "NEXT_STEPS_INTRO": "Vous pouvez suivre quelques étapes courantes pour poursuivre la configuration :",
+    "NEXT_STEP_1": "Ajouter des utilisateurs.",
+    "NEXT_STEP_2": "Envoyer aux utilisateurs des liens de bienvenue/connexion.",
+    "NEXT_STEP_3": "Récupérez l'ID du locataire (disponible sur la page d'informations API/SSO) pour les intégrations.",
+    "TENANTS_VIEW_LINK_TEXT": "Cela peut se faire en retournant à <a href=\"/auth/my-account/tenants\">la vue du locataire</a> et en passant au profil du locataire.",
+    "TENANT_SWITCHING_INFO": "Toutes les actions concernant les locataires gérés sont effectuées via le système de changement de locataire, y compris la suppression du locataire si nécessaire."
+}

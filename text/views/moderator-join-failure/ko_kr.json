@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "초대 실패",
+    "HERO_TITLE_LIGHT": "초대하다  ",
+    "HERO_TITLE_BOLD": "실패",
+    "DEFAULT_ERROR": "뭔가 심각하게 잘못됐습니다. 무슨 일이 일어났는지 정확히는 모르겠지만, 살펴보겠습니다.",
+    "ERROR_LINK_EXPIRED": "<b>죄송하지만, 이 링크는 이미 사용되었거나 30일 이상 지난 링크인 것 같습니다. 초대장을 보내주신 사이트 운영자에게 새 링크를 보내달라고 요청해 주세요.</b>",
+    "ERROR_LINK_INVALID": "<b>맙소사! 이 링크는 유효하지 않은 것 같습니다.</b>",
+    "ERROR_ACCOUNT_NOT_FOUND": "계정을 찾을 수 없습니다. 이 문제를 해결하려면 관리자에게 문의하여 새 초대장을 받으세요.",
+    "ERROR_EMAIL_MISMATCH": "<b>현재 로그인한 사용자의 이메일 주소([userEmail])는 초대장에 사용된 이메일 주소([inviteEmail])와 다릅니다.</b><br><br> <a href=\"/auth/logout?redirect=[redirectUrl]\">여기를 클릭</a> 하시면 로그아웃 후 관리자 전용 계정을 새로 만드실 수 있습니다."
+}

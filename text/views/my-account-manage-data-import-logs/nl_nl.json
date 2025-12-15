@@ -1,0 +1,12 @@
+{
+    "TITLE": "Logboeken importeren - FastComments",
+    "HEADING": "Logboeken voor taak <%= job._id %>",
+    "JOB_LOGS_HEADING": "Taaklogboeken",
+    "TABLE_LOG": "Log",
+    "TABLE_DATE": "Datum",
+    "NO_LOGS": "Er zijn geen logbestanden voor deze taak.",
+    "POSSIBLE_REASONS": "Enkele mogelijke oorzaken:",
+    "REASON_NOT_STARTED": "De klus is misschien nog niet begonnen.",
+    "REASON_BEFORE_SUPPORT": "Het kan zijn dat dit van vóór de toevoeging van logondersteuning was.",
+    "REASON_NO_SUPPORT": "Het taaktype ondersteunt mogelijk geen logboekregistratie."
+}

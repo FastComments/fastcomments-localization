@@ -1,0 +1,8 @@
+{
+    "TITLE": "Yorum Onaylandı - FastComments",
+    "HEADING": "Başarı!",
+    "COMMENT_APPROVED": "Bu yorum incelendi ve onaylandı olarak işaretlendi.",
+    "ALSO_LOGGED_IN": "Siz de giriş yapmışsınız.",
+    "VIEW_COMMENT_ON_SITE": "Onaylanan yorumu sitenizde <a href=\"<%= comment.url %>\" target=\"_blank\">buradan</a> veya yorum dizisi görüntüleyiciyi kullanarak <a href=\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">buradan</a> görüntüleyebilirsiniz.",
+    "CLOSE_PAGE": "Şimdi bu sayfayı kapatabilirsiniz."
+}

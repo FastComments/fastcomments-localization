@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Аналитика выставления счетов - FastComments",
+    "HEADING_BILLING_ANALYTICS": "Аналитика выставления счетов",
+    "HEADING_USAGE_THIS_PERIOD": "Использовать этот период",
+    "TABLE_HEADER_DESCRIPTION": "Описание",
+    "TABLE_HEADER_COST_USD": "Стоимость (доллары США)",
+    "TEXT_TOTAL": "Общий",
+    "TEXT_TRIAL_PERIOD_NOTE": "В настоящее время вы находитесь в пробном периоде. <b>Указанная выше сумма не подлежит оплате в этом расчетном цикле.</b>",
+    "TEXT_INVOICE_SEND_DATE": "Счет-фактура будет отправлен <%= invoiceSendDate %>.",
+    "HEADING_SERVICE_LIMITS": "Ограничения обслуживания",
+    "TEXT_TRIAL_LIMITS_NOTE": "<b>Внимание!</b> Поскольку вы используете пробный период, к вашей учетной записи применяются более низкие лимиты. Чтобы увеличить эти лимиты <a href=\"/auth/my-account/billing-info\">, перейдите на платную учетную запись</a> или <a href=\"/auth/my-account/help\">обратитесь в службу поддержки</a> .",
+    "LABEL_CURRENT": "Текущий:",
+    "LABEL_MAX": "Макс:",
+    "TEXT_MAX_NONE": "Никто"
+}

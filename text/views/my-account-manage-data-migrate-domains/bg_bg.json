@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Мигриране на коментари - FastComments",
+    "HEADING": "Мигриране на коментари",
+    "INTRO_DESCRIPTION": "Този инструмент ви позволява да мигрирате коментарите си групово между различни URL адреси или сайтове.",
+    "URL_INFO": "Можете да въведете част от URL адрес, като например домейн, пълен URL адрес или <a href=\"https://docs.fastcomments.com/guide-customizations-and-configuration.html#url-id\" target=\"_blank\">URL идентификатор</a> .",
+    "DOMAIN_FROM_LABEL": "От кой URL адрес или домейн мигрирате?",
+    "DOMAIN_FROM_PLACEHOLDER": "example.com",
+    "DOMAIN_TO_LABEL": "Към кой URL адрес или домейн мигрирате?",
+    "DOMAIN_TO_PLACEHOLDER": "some-other-example.com",
+    "START_MIGRATION_BUTTON": "Стартиране на миграция",
+    "EMAIL_NOTIFICATION_INFO": "Ще получите имейл, който ще ви уведоми, когато е завършено.",
+    "MIGRATIONS_HEADING": "Миграции",
+    "NOSCRIPT_REFRESH_MESSAGE": "Обновете страницата, за да видите най-актуалното състояние.",
+    "TABLE_HEADER_START_DATE": "Начална дата",
+    "TABLE_HEADER_FROM": "От",
+    "TABLE_HEADER_TO": "До",
+    "TABLE_HEADER_STATUS": "Статус",
+    "TABLE_HEADER_COMMENTS_FOUND": "Намерени коментари за мигриране",
+    "TABLE_HEADER_COMMENTS_MIGRATED": "Коментарите са мигрирани",
+    "NO_MIGRATIONS_MESSAGE": "Нямате никакви чакащи или минали миграции на домейни."
+}

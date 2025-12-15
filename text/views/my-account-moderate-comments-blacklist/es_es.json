@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Lista negra de palabras - FastComments",
+    "HEADING": "Lista negra de palabras de comentario",
+    "SUB_HEADING": "Personalizar la lista negra",
+    "SUCCESS_MESSAGE": "Lista negra guardada exitosamente",
+    "INTRO_PARAGRAPH_1": "A continuación, se muestran listas de palabras y frases separadas por comas que se ocultarán en los comentarios y nombres de usuario. Tenga cuidado con las palabras que selecciona: incluir palabras demasiado comunes en la lista negra ahuyentará a su comunidad.",
+    "INTRO_PARAGRAPH_2": "Estos se definen <b>por configuración regional</b> . Una configuración regional es una combinación de idioma y región geográfica.",
+    "INTRO_PARAGRAPH_3": "Verá que diferenciamos entre <b>palabras</b> y <b>frases</b> . Las entradas de la lista <b>de palabras</b> no deben contener espacios ni caracteres especiales. Si tiene una frase que contenga espacios, puntos, etc., añádala a la lista <b>de frases</b> .",
+    "NOSCRIPT_MESSAGE": "Se requiere JavaScript para que esta interfaz de configuración funcione correctamente.",
+    "EDIT_LOCALE_LABEL": "Editar para la configuración regional",
+    "MASKED_WORDS_LABEL": "Palabras enmascaradas para [localeName].",
+    "MASKED_WORDS_DESCRIPTION": "Las palabras de esta lista (separadas por comas) aparecerán enmascaradas como ***.",
+    "MASKED_WORDS_PLACEHOLDER": "Introduzca una lista de palabras malas separadas por comas, como \"algunas, malas, palabras\".",
+    "WORDS_LENGTH_ERROR": "Puedes ingresar hasta 5000 palabras por idioma. Has ingresado<span id=\"length-error-count-words-[locale]\"></span> .",
+    "MASKED_PHRASES_LABEL": "Frases enmascaradas para [localeName].",
+    "MASKED_PHRASES_DESCRIPTION": "Las frases en esta lista (separadas por comas) se ocultarán como ********.",
+    "MASKED_PHRASES_PLACEHOLDER": "Introduzca una lista separada por comas de frases incorrectas, como \"alguna frase incorrecta, alguna otra frase incorrecta\".",
+    "PHRASES_LENGTH_ERROR": "Puedes ingresar hasta 5000 frases por configuración regional. Has ingresado<span id=\"length-error-count-phrases-[locale]\"></span> .",
+    "SAVE_BUTTON": "Guardar cambios en [localeName]"
+}

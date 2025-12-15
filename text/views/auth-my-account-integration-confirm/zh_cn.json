@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "确认集成 - FastComments",
+    "PAGE_HEADING": "连接您的集成。",
+    "PAGE_SUBHEADING": "确认",
+    "NOSCRIPT_MESSAGE": "请启用 JavaScript 以设置集成。",
+    "UPLOAD_DESCRIPTION": "如果需要，我们可以在同步过程中自动从您的<%= integrationName %>安装中上传您的评论。否则，请取消选中下面的复选框，您可以稍后自行操作。",
+    "CHECKBOX_UPLOAD_COMMENTS": "自动上传我的评论。",
+    "CHECKBOX_UPLOAD_COMMENTS_HELP": "您稍后可以从插件管理页面上传您的评论。",
+    "CHECKBOX_SYNC_DATABASE": "自动保持我的<%= integrationName %>数据库同步。",
+    "CHECKBOX_SYNC_DATABASE_HELP": "这样可以保持您的<%= integrationName %>数据库最新。如果某些插件需要数据库中的最新评论，这将非常有用。在访问量非常大的网站中，通常会禁用此功能，因为保持<%= integrationName %>数据库最新会造成不必要的负载。",
+    "BUTTON_START_SYNC": "开始同步"
+}

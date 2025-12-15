@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Yorumlarda Spam Önleme Eğitim Seti - FastComments",
+    "HEADING_COMMENTS_SPAM_TRAINING_SET": "Yorumlara Karşı Spam Eğitim Seti",
+    "TEXT_CURRENT_CLASSIFICATION": "Mevcut sınıflandırma: <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
+    "BUTTON_UNCLASSIFY": "Sınıflandırmayı Kaldır",
+    "BUTTON_SPAM": "İstenmeyen e-posta",
+    "BUTTON_NOT_SPAM": "Spam değil"
+}

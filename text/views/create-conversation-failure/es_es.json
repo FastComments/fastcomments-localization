@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Error al crear la conversación - FastComments",
+    "META_DESCRIPTION": "Contacte con FastComments.com",
+    "HERO_TITLE_LIGHT": "Conversación  ",
+    "HERO_TITLE_BOLD": "No se pudo crear",
+    "HERO_DESCRIPTION": "No pudimos crear tu conversación. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
+    "BUTTON_TRY_AGAIN": "Intenta crear una nueva conversación."
+}

@@ -1,0 +1,21 @@
+{
+    "BAN_SELECTION_TITLE": "Zum Bearbeiten „Sperre bearbeiten“ auswählen",
+    "BAN_SELECTION_SUBTITLE_MULTIPLE": "Es gibt mehrere Verbote, die [username] betreffen.",
+    "BAN_SELECTION_SUBTITLE_SINGLE": "[username] ist von einer Sperre aufgrund dieses Kommentars betroffen.",
+    "BAN_SELECTION_BTN_SELECT": "Wählen",
+    "BAN_SELECTION_BTN_CREATE_NEW": "Neu erstellen",
+    "BAN_SELECTION_BTN_CANCEL": "Stornieren",
+    "BAN_SELECTION_LABEL": "Wählen Sie ein Verbot aus",
+    "BAN_SELECTION_RELATED_BANS": "Verwandte Verbote",
+    "BAN_SELECTION_REMINDER": "Denken Sie daran, vor der Bearbeitung zu prüfen, ob die Sperre zum Benutzer passt!",
+    "BAN_SELECTION_EXPIRES": "Läuft ab [date]",
+    "BAN_SELECTION_NEVER_EXPIRES": "Läuft nie ab",
+    "BAN_SELECTION_SHADOW": "Schatten",
+    "BAN_SELECTION_ANON_USER_ID": "Anonyme Benutzer-ID",
+    "BAN_SELECTION_USER_ID": "Benutzer-ID",
+    "BAN_SELECTION_EMAIL": "E-Mail",
+    "BAN_SELECTION_EMAIL_PATTERN": "E-Mail-Muster",
+    "BAN_SELECTION_IP": "IP",
+    "BAN_SELECTION_MATCHED_ON": "Übereinstimmung: [[matches]]",
+    "BAN_SELECTION_ID": "(AUSWEIS: [id])"
+}

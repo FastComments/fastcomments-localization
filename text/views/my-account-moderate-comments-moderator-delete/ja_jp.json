@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "モデレーターを削除 - FastComments",
+    "HEADING": "モデレーターの削除",
+    "SUB_HEADING": "<%= moderator.name %> を削除しています",
+    "CANNOT_UNDO": "この操作は元に戻せません。<%= moderator.name %> はあなたのコメントを閲覧したり管理したりできなくなります。",
+    "NOTIFICATION_INFO": "モデレーターから削除されたことが自動メールで通知されます。",
+    "METRICS_WARNING": "すべてのメトリックが削除されます<b>(メールを変更する場合は、前のページから編集できます)</b> 。",
+    "CANCEL_LINK": "キャンセル",
+    "DELETE_BUTTON": "このモデレーターを削除"
+}

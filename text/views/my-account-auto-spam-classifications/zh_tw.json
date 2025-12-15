@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "評論垃圾郵件訓練集 - FastComments",
+    "HEADING_COMMENTS_SPAM_TRAINING_SET": "評論垃圾郵件訓練集",
+    "TEXT_CURRENT_CLASSIFICATION": "目前分類：<%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
+    "BUTTON_UNCLASSIFY": "取消密級",
+    "BUTTON_SPAM": "垃圾郵件",
+    "BUTTON_NOT_SPAM": "非垃圾郵件"
+}

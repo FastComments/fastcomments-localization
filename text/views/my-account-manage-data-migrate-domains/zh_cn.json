@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "迁移评论 - FastComments",
+    "HEADING": "迁移评论",
+    "INTRO_DESCRIPTION": "此工具允许您批量迁移不同网址或网站上的评论。",
+    "URL_INFO": "您可以输入 URL 的一部分（例如域名）、完整的 URL 或<a href=\"https://docs.fastcomments.com/guide-customizations-and-configuration.html#url-id\" target=\"_blank\">URL ID</a> 。",
+    "DOMAIN_FROM_LABEL": "您要迁移的源网址或域名是什么？",
+    "DOMAIN_FROM_PLACEHOLDER": "example.com",
+    "DOMAIN_TO_LABEL": "您要迁移到哪个网址或域名？",
+    "DOMAIN_TO_PLACEHOLDER": "some-other-example.com",
+    "START_MIGRATION_BUTTON": "开始迁移",
+    "EMAIL_NOTIFICATION_INFO": "完成后您将收到一封电子邮件通知。",
+    "MIGRATIONS_HEADING": "迁徙",
+    "NOSCRIPT_REFRESH_MESSAGE": "刷新页面以获取最新状态。",
+    "TABLE_HEADER_START_DATE": "开始日期",
+    "TABLE_HEADER_FROM": "从",
+    "TABLE_HEADER_TO": "到",
+    "TABLE_HEADER_STATUS": "地位",
+    "TABLE_HEADER_COMMENTS_FOUND": "找到需要迁移的评论",
+    "TABLE_HEADER_COMMENTS_MIGRATED": "评论已迁移",
+    "NO_MIGRATIONS_MESSAGE": "您没有任何待处理或已完成的域名迁移。"
+}

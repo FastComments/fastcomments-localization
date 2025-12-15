@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - Commentaires rapides",
+    "HEADING_USERS_WITH_BADGE": "<%- Number(userBadges.length).toLocaleString() %> <%- userBadges.length === 1 ? 'User' : 'Users' %> avec badge <%- tenantBadge.displayLabel %>",
+    "TEXT_NO_USERS_WITH_BADGE": "Aucun utilisateur ne possède ce badge ! La plupart des badges sont attribués automatiquement. S'il s'agit d'un badge manuel, vous devrez l'attribuer manuellement.",
+    "TABLE_HEADER_USER_ID": "ID de l'utilisateur",
+    "TABLE_HEADER_EMAIL": "E-mail",
+    "TABLE_HEADER_AVATAR": "Avatar",
+    "TABLE_HEADER_NAME": "Nom",
+    "TABLE_HEADER_BADGE_EARNED_DATE": "Date d'obtention du badge",
+    "TEXT_NA": "N / A"
+}

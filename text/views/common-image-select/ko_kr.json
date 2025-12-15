@@ -1,0 +1,4 @@
+{
+    "IMAGE_SELECT_FILE_TOO_BIG": "해당 파일(<%= (fileSize / 1000000).toFixed(1) %>MB)이 너무 큽니다! 제한 용량은 ____MB입니다.",
+    "IMAGE_SELECT_UNKNOWN_PERSON_ALT": "신원 미상인"
+}

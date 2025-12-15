@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Послата е-пошта <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "BUTTON_BACK": "← Назад на послате имејлове",
+    "HEADING": "Послата е-пошта <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "LABEL_DATE": "Датум:",
+    "LABEL_FROM": "Од:",
+    "LABEL_TO": "До:",
+    "LABEL_BCC": "Скривена копија:",
+    "LABEL_SUBJECT": "Предмет:",
+    "LABEL_HEADERS": "Заглавља:",
+    "HEADING_EMAIL_CONTENT": "Садржај имејла",
+    "MESSAGE_NO_CONTENT": "Нема доступног садржаја",
+    "VALUE_UNKNOWN": "Непознато",
+    "VALUE_NO_SUBJECT": "(Без теме)"
+}

@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "Kommentar-Thread-Viewer",
+    "HEADING": "Kommentar-Thread-Viewer",
+    "THREAD_DETAILS": "Sie sehen den Kommentarbereich unter <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a>",
+    "PAGE_ID_INFO": "Kommentare zur Seite mit der ID: <%- thread.urlIdDecoded %>"
+}

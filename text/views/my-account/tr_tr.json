@@ -1,0 +1,7 @@
+{
+    "TITLE": "Hesabım - Hızlı Yorumlar",
+    "WELCOME_BACK": "Tekrar hoşgeldiniz, <%- user.displayName || user.username %>.",
+    "SNAPSHOT_MESSAGE": "İşte hesabınızın kısa bir özeti.",
+    "JAVASCRIPT_REQUIRED": "FastComments'ın düzgün çalışması için JavaScript gereklidir.",
+    "JAVASCRIPT_NOTE": "Dikkat! Bellek kullanımını sınırlamak için çok az JavaScript kullanıyoruz - ağır framework'ler kullanmıyoruz. Ürünümüzü beğeneceğinizi umuyoruz."
+}

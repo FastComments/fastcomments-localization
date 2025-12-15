@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Tilpas - FastComments",
+    "HEADING_ADD": "Tilføj en moderator",
+    "HEADING_EDIT": "Tilpas <%= moderator.name %>",
+    "SUB_HEADING_ADD": "Tilføj en moderator",
+    "SUB_HEADING_EDIT": "Redigering <%= moderator.name %>",
+    "INTRO_PARAGRAPH_1": "Du er kommet til det rette sted, hvis du vil give nogen adgang til at moderere dine kommentarer.",
+    "INTRO_PARAGRAPH_2": "Bemærk, at du ikke behøver at tilføje moderatorer for administratorbrugere. Administratorbrugere har allerede moderatorfunktioner.",
+    "NAME_SECTION_HEADING": "Giv dem et navn",
+    "NAME_LABEL": "Navn",
+    "NAME_PLACEHOLDER": "Hr. Moderator Guy",
+    "EMAIL_SECTION_HEADING": "Vi skal bruge en e-mail",
+    "EMAIL_LABEL": "E-mail",
+    "EMAIL_PLACEHOLDER": "guy@moderators.com",
+    "GROUPS_SECTION_HEADING": "Hvilke grupper tilhører de?",
+    "MODERATION_GROUPS_LABEL": "Moderationsgrupper",
+    "CLEAR_ALL_LINK": "Ryd alt",
+    "GROUPS_DESCRIPTION": "De vil kun se kommentarer fra disse grupper på siden Moderer kommentarer.",
+    "SAVE_BUTTON": "Spare"
+}

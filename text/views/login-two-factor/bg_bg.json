@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Двуфакторно удостоверяване - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Двуфакторно удостоверяване",
+    "HERO_DESCRIPTION": "Моля, въведете кода си за потвърждение, за да завършите влизането",
+    "ATTEMPTS_REMAINING": "Остават <%= 5 - session.attempts %> опити",
+    "LABEL_METHOD_SELECT": "Изберете метод за проверка:",
+    "METHOD_AUTHENTICATOR": "Приложение за удостоверяване",
+    "METHOD_SMS": "СМС",
+    "AUTHENTICATOR_INSTRUCTION": "Въведете 6-цифрения код от приложението си за удостоверяване",
+    "SMS_INSTRUCTION": "Изпратихме код до <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>",
+    "LABEL_VERIFICATION_CODE": "Код за потвърждение",
+    "BUTTON_VERIFY": "Проверка",
+    "LABEL_BACKUP_CODE": "Въведете резервен код:",
+    "BUTTON_USE_BACKUP_CODE": "Използвайте резервен код",
+    "BUTTON_BACK": "Обратно",
+    "BUTTON_RESEND_SMS": "Изпрати отново SMS код",
+    "LINK_USE_BACKUP_CODE": "Използвайте резервен код вместо това",
+    "LINK_BACK_TO_LOGIN": "← Обратно към вход"
+}

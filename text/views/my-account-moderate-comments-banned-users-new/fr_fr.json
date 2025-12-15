@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Bannir un utilisateur - FastComments",
+    "HEADING": "Bannir un utilisateur",
+    "SUB_HEADING": "Bannir un utilisateur par e-mail",
+    "INTRO_DESCRIPTION": "Ici, vous pouvez saisir une adresse e-mail pour bannir un utilisateur. Il existe plusieurs méthodes de bannissement. Le bannissement permanent empêche définitivement l'utilisateur de voter ou de commenter, et il en sera immédiatement informé s'il tente de le faire. Le bannissement fantôme donne l'impression que ses votes ou commentaires sont pris en compte, mais ils ne sont pas conservés.",
+    "ENTER_EMAIL_HEADING": "Saisissez une adresse e-mail",
+    "EMAIL_LABEL": "E-mail",
+    "TYPE_LABEL": "Taper",
+    "TYPE_BAN": "Interdire",
+    "TYPE_SHADOW_BAN": "Shadow Ban",
+    "DURATION_LABEL": "Durée",
+    "DURATION_FOREVER": "Pour toujours",
+    "DURATION_ONE_HOUR": "Une heure",
+    "DURATION_ONE_DAY": "Un jour",
+    "DURATION_ONE_WEEK": "Une semaine",
+    "DURATION_ONE_MONTH": "Un mois",
+    "DURATION_SIX_MONTHS": "Six mois",
+    "DURATION_ONE_YEAR": "Un an",
+    "BAN_USER_BUTTON": "Bannir l'utilisateur"
+}

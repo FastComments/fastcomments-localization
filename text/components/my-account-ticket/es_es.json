@@ -1,0 +1,18 @@
+{
+    "LABEL_CUSTOMER": "Cliente",
+    "LABEL_SERVICE_REP": "Representante de servicio",
+    "LABEL_OPENED": "Abierto",
+    "LABEL_STATUS": "Estado",
+    "LABEL_CHANGE_STATUS": "Cambiar estado",
+    "LINK_IMPERSONATE": "Personificar",
+    "LINK_SWITCH": "Cambiar",
+    "AVG_RESPONSE_TIME": "Tiempo medio de respuesta:",
+    "STATUS_AWAITING_YOUR_REPLY": "ESPERANDO SU RESPUESTA",
+    "STATE_OPEN": "Abierto",
+    "STATE_ACKNOWLEDGED": "Admitido",
+    "STATE_RESOLVED": "Resuelto",
+    "ERROR_GET_TICKET_FAILED": "Se produjo un error en la solicitud para obtener la información más reciente del ticket.",
+    "ERROR_CHANGE_STATE_FAILED": "Se produjo un error en una solicitud para cambiar el estado del ticket.",
+    "INITIAL_COMMENT": "¡Hola [username]! Has creado un ticket llamado \"[subject]\". Deja información adicional y @[assignedTagName] se pondrá en contacto contigo.",
+    "STATUS_CHANGE_COMMENT": "[username] cambió el estado de [oldStatus] a [newStatus]."
+}

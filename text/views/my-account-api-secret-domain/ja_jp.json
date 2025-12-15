@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "APIシークレットドメインの更新 - FastComments",
+    "HEADING_UPDATE_API_SECRET_DOMAIN": "APIシークレットドメインの更新",
+    "TEXT_DOMAIN_INFO": "Webhook などの構成では、この構成に基づいて使用する API キーを決定します。",
+    "LABEL_ASSOCIATE_SECRET_WITH_DOMAIN": "APIシークレット「<%= apiSecret.name %>」をドメインに関連付けます。",
+    "OPTION_ALL_DOMAINS": "すべてのドメイン",
+    "BUTTON_UPDATE_DOMAIN": "ドメインの更新"
+}

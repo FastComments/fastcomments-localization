@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "Izbriši moderatorja - FastComments",
+    "HEADING": "Odstranitev moderatorja",
+    "SUB_HEADING": "Odstranjujete <%= moderator.name %>",
+    "CANNOT_UNDO": "Tega ni mogoče razveljaviti. <%= moderator.name %> ne bo več mogel videti ali moderirati vaših komentarjev.",
+    "NOTIFICATION_INFO": "O odstranitvi moderatorja bodo obveščeni prek samodejnega e-poštnega sporočila.",
+    "METRICS_WARNING": "Vse njihove meritve bodo odstranjene <b>(če želite spremeniti njihov e-poštni naslov, ga lahko uredite na prejšnji strani)</b> .",
+    "CANCEL_LINK": "Prekliči",
+    "DELETE_BUTTON": "Izbriši tega moderatorja"
+}

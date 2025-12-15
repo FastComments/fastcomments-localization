@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "双因素身份验证 - FastComments",
+    "HEADING": "双因素身份验证",
+    "DESCRIPTION": "双因素身份验证通过在登录时要求第二种验证方式，为您的帐户增加一层额外的安全保障。",
+    "HEADING_ADD_METHODS": "添加新的双因素身份验证方法",
+    "HEADING_AUTHENTICATOR": "身份验证器应用程序",
+    "DESCRIPTION_AUTHENTICATOR": "使用 Google Authenticator、Authy 或 1Password 等应用程序生成基于时间的验证码。",
+    "BUTTON_ADD_AUTHENTICATOR": "添加身份验证器",
+    "HEADING_SMS": "短信",
+    "DESCRIPTION_SMS": "您将通过短信收到验证码。",
+    "BUTTON_ADD_SMS": "添加电话号码",
+    "HEADING_BACKUP_CODES": "备用代码",
+    "DESCRIPTION_BACKUP_CODES": "如果您无法使用双重验证方式，可以使用备用代码访问您的帐户。每个代码只能使用一次。",
+    "BUTTON_VIEW_BACKUP_CODES": "查看备用代码"
+}

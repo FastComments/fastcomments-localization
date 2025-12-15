@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - Snelle reacties",
+    "HEADING_USERS_WITH_BADGE": "<%- Number(userBadges.length).toLocaleString() %>___ met badge <%- userBadges.length === 1 ? 'User' : 'Users' %>",
+    "TEXT_NO_USERS_WITH_BADGE": "Geen enkele gebruiker heeft deze badge! De meeste badges worden automatisch toegekend. Als het een handmatige badge is, moet u deze zelf toekennen.",
+    "TABLE_HEADER_USER_ID": "Gebruikers-ID",
+    "TABLE_HEADER_EMAIL": "E-mail",
+    "TABLE_HEADER_AVATAR": "Avatar",
+    "TABLE_HEADER_NAME": "Naam",
+    "TABLE_HEADER_BADGE_EARNED_DATE": "Datum waarop de badge is behaald",
+    "TEXT_NA": "Niet van toepassing"
+}

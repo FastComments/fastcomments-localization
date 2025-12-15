@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Preklopi na <%= otherRegionName %>? - HitriKomentarji",
+    "HERO_TITLE_LIGHT": "Preklopi na ",
+    "HERO_TITLE_BOLD": "<%= otherRegionName %>",
+    "HERO_DESCRIPTION": "Imate račun na <a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a> – se želite namesto tega prijaviti tja?",
+    "INFO_MESSAGE_BOLD": "Imate račun v našem drugem podatkovnem centru.",
+    "INFO_MESSAGE_QUESTION": "Preusmeritev tja?",
+    "INFO_MESSAGE_WARNING": "Če ne preusmerite, vam bomo tukaj ustvarili račun, če ta še ne obstaja, in <b>potem boste imeli dva računa.</b>",
+    "BUTTON_REDIRECT": "Preusmeritev na <%= otherRegionName %>",
+    "BUTTON_CONTINUE_HERE": "Nadaljuj tukaj"
+}

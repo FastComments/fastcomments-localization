@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Opret en administreret lejer - FastComments",
+    "HEADING": "Lejer oprettet",
+    "SUCCESS_MESSAGE": "Din lejer er blevet oprettet!",
+    "NEXT_STEPS_INTRO": "Du kan overveje at følge nogle almindelige trin for at fortsætte opsætningen:",
+    "NEXT_STEP_1": "Tilføj flere brugere.",
+    "NEXT_STEP_2": "Send brugerne velkomst-/login-links.",
+    "NEXT_STEP_3": "Hent lejer-ID'et (tilgængeligt på API/SSO-infosiden) til integrationer.",
+    "TENANTS_VIEW_LINK_TEXT": "Dette kan gøres ved at gå tilbage til <a href=\"/auth/my-account/tenants\">lejervisningen</a> og skifte til lejeren.",
+    "TENANT_SWITCHING_INFO": "Alle handlinger for administrerede lejere udføres via lejerskift, herunder sletning af lejeren, hvis det er nødvendigt."
+}

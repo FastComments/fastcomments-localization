@@ -1,0 +1,12 @@
+{
+    "TITLE": "Importar registros - FastComments",
+    "HEADING": "Registros para el trabajo <%= job._id %>",
+    "JOB_LOGS_HEADING": "Registros de trabajos",
+    "TABLE_LOG": "Registro",
+    "TABLE_DATE": "Fecha",
+    "NO_LOGS": "No hay registros para este trabajo.",
+    "POSSIBLE_REASONS": "Algunas posibles razones:",
+    "REASON_NOT_STARTED": "Es posible que el trabajo aún no haya comenzado.",
+    "REASON_BEFORE_SUPPORT": "Podría ser anterior a que agregáramos soporte de registro.",
+    "REASON_NO_SUPPORT": "Es posible que el tipo de trabajo no admita registros."
+}

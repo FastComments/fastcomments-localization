@@ -1,0 +1,5 @@
+{
+    "HEADING_EDITING_BADGE": "Επεξεργασία <%= badge.displayLabel %>",
+    "HEADING_CREATING_EDITING_BADGE": "<%= badge ? 'Editing' : 'Creating' %> Σήμα \"<%= BadgeTypeDescriptions[badgeType] %>_\"",
+    "LABEL_BADGE_THRESHOLD": "<%= BadgeLimitDescriptions[badgeType] %>"
+}

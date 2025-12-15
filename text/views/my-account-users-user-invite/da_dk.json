@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Inviter bruger - FastComments",
+    "HEADING": "Inviter en administrator",
+    "MESSAGE_INVITE_DESCRIPTION": "Hvis du inviterer en bruger, der i øjeblikket er kommentator, til at være administrator, ophøjes deres konto til administratorstatus, og vedkommende føjes til din lejer.",
+    "MESSAGE_CONFIRM_USERNAME": "<b>Du tilføjer brugeren med brugernavnet &quot;<%= invitingUserName %>&quot;. Sørg for, at dette er korrekt.</b>",
+    "HEADING_PERMISSIONS": "Tilladelser",
+    "MESSAGE_PERMISSIONS": "Hvilke tilladelser ønsker du, at de skal have, når de accepterer invitationen?",
+    "BUTTON_SEND_INVITE": "Send invitation"
+}

@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "登录成功",
+    "HEADING": "您已登录",
+    "WELCOME_FIRST_TIME": "欢迎！",
+    "WELCOME_BACK": "欢迎回来！",
+    "COMMENTER_MESSAGE": "现在您可以使用 FastComments 在任何网站上发表评论，而无需重新输入您的姓名或电子邮件。",
+    "FIRST_TIME_MESSAGE": "如果需要再次登录，请从<a href=\"<%= FC_SITE %>\"><%= FC_DOMAIN %>获取新的登录网址。</a>",
+    "BUTTON_CONTINUE_WP": "继续设置 WordPress",
+    "BUTTON_MY_ACCOUNT": "我的账户",
+    "WINDOW_CLOSE_MESSAGE": "此窗口即将关闭。"
+}

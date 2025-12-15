@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Usuń <%= template.displayName %> - Szybkie komentarze",
+    "HEADING_DELETE_TEMPLATE": "Usuwać \"<%= template.displayName %>\"?",
+    "TEXT_CONFIRM_DELETE": "Czy na pewno chcesz usunąć szablon <%= template.displayName %> utworzony dnia <%= template.createdAt.toLocaleString() %>?",
+    "BUTTON_DELETE": "Usuwać",
+    "BUTTON_CANCEL": "Anulować"
+}

@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - Γρήγορα σχόλια",
+    "HEADING_USERS_WITH_BADGE": "<%- Number(userBadges.length).toLocaleString() %> <%- userBadges.length === 1 ? 'User' : 'Users' %> με σήμα <%- tenantBadge.displayLabel %>",
+    "TEXT_NO_USERS_WITH_BADGE": "Κανένας χρήστης δεν έχει αυτό το σήμα! Τα περισσότερα σήματα απονέμονται αυτόματα. Εάν πρόκειται για χειροκίνητο σήμα, θα πρέπει να το απονείμετε χειροκίνητα.",
+    "TABLE_HEADER_USER_ID": "Αναγνωριστικό χρήστη",
+    "TABLE_HEADER_EMAIL": "E-mail",
+    "TABLE_HEADER_AVATAR": "Άβαταρ",
+    "TABLE_HEADER_NAME": "Ονομα",
+    "TABLE_HEADER_BADGE_EARNED_DATE": "Ημερομηνία απόκτησης σήματος",
+    "TEXT_NA": "Δ/Υ"
+}

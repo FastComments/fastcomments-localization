@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Купоны - FastComments",
+    "HEADING_COUPONS": "Купоны",
+    "HEADING_COUPON_CODES": "Промокоды",
+    "HEADING_STATS": "Статистика",
+    "TEXT_COUPONS_REDEEMED": "Купоны использованы.",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Всего купонов.",
+    "HEADING_DOWNLOAD": "Скачать",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Скачать доступные купоны",
+    "HEADING_GENERATE_TIER_4_COUPONS": "Сгенерируйте купоны 4-го уровня",
+    "LABEL_GENERATE_COUPON_COUNT": "Сгенерировать количество купонов",
+    "BUTTON_SUBMIT": "Представлять на рассмотрение",
+    "HEADING_COUPON_LIST": "Список купонов",
+    "TABLE_HEADER_CODE": "Код",
+    "TABLE_HEADER_REDEEMED_DATE": "Дата погашения"
+}

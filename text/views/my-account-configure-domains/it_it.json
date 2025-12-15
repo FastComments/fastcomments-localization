@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Il mio conto",
+    "HEADING_MY_DOMAINS": "I miei domini",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "Domini aggiunti con successo!",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "Dominio rimosso con successo!",
+    "TEXT_SETTING_UPDATED_SUCCESS": "Impostazione aggiornata con successo!",
+    "TEXT_IMAGE_UPLOAD_ERROR": "Errore di caricamento dell'immagine: <%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "Di seguito è riportata la configurazione per l'aspetto delle email inviate da FastComments ai tuoi commentatori. Non è necessario inserire nulla se non si desidera personalizzare questa impostazione.",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Nota: le impostazioni Da-Nome ed Email non influiscono sulle email inviate agli amministratori.</b>",
+    "LINK_REMOVE": "Rimuovere",
+    "TEXT_AUTO_ADDED_NOTICE": "Aggiunto automaticamente durante la prova.",
+    "TITLE_AUTO_ADDED": "Aggiunto automaticamente durante il periodo di prova in base al traffico sul tuo account. Questo serve a semplificare la configurazione e avviene solo durante il periodo di prova.",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Nome del mittente quando si invia un'e-mail all'utente",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "Da-Email quando si invia un'email all'utente",
+    "TEXT_EMAIL_ERROR": "C'è qualcosa che non va in questa email. Abbiamo salvato tutte le altre modifiche.",
+    "TEXT_LOGO_MAX_SIZE": "Dimensione massima: 1 MB. Non ridimensionato.",
+    "BUTTON_SAVE": "Salva",
+    "TEXT_NO_DOMAINS_WARNING": "Wow! Non hai domini. I tuoi widget non potranno essere caricati finché non associ uno o più domini al tuo account.",
+    "TITLE_ADD_DOMAIN": "Aggiungi dominio",
+    "TEXT_ADD_A_DOMAIN": "Aggiungi un dominio"
+}

@@ -1,0 +1,12 @@
+{
+    "TITLE": "匯入日誌 - FastComments",
+    "HEADING": "作業<%= job._id %>的日誌",
+    "JOB_LOGS_HEADING": "作業日誌",
+    "TABLE_LOG": "紀錄",
+    "TABLE_DATE": "日期",
+    "NO_LOGS": "此作業沒有日誌。",
+    "POSSIBLE_REASONS": "可能的原因：",
+    "REASON_NOT_STARTED": "這項工作可能還沒開始。",
+    "REASON_BEFORE_SUPPORT": "這可能是我們在新增日誌支援之前的文件。",
+    "REASON_NO_SUPPORT": "此作業類型可能不支援日誌記錄。"
+}

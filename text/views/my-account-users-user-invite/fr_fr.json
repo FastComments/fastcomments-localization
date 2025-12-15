@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Inviter un utilisateur - FastComments",
+    "HEADING": "Inviter un administrateur",
+    "MESSAGE_INVITE_DESCRIPTION": "Inviter un utilisateur, actuellement commentateur, à devenir administrateur permettra d'élever son compte au statut d'administrateur et de l'ajouter à votre locataire.",
+    "MESSAGE_CONFIRM_USERNAME": "<b>Vous allez ajouter l&#39;utilisateur dont le nom d&#39;utilisateur est « <%= invitingUserName %> ». Veuillez vérifier que ce nom est correct.</b>",
+    "HEADING_PERMISSIONS": "Autorisations",
+    "MESSAGE_PERMISSIONS": "Quelles autorisations souhaiteriez-vous leur accorder après avoir accepté l'invitation ?",
+    "BUTTON_SEND_INVITE": "Envoyer une invitation"
+}

@@ -1,0 +1,17 @@
+{
+    "PAGE_TITLE": "Μυστικό API - FastComments",
+    "HEADING_API_CREDENTIALS": "Διαπιστευτήρια API",
+    "LABEL_TENANT_ID": "Ταυτότητα ενοικιαστή",
+    "TEXT_NO_API_KEYS": "Δεν υπάρχει τίποτα να δείτε εδώ! Προσθέστε ένα κλειδί API για να ξεκινήσετε με το API ή τα Webhooks.",
+    "LABEL_KEY_NAME": "Όνομα κλειδιού:",
+    "TEXT_DEFAULT_KEY_NAME": "Αθέτηση",
+    "LABEL_DOMAIN": "Πεδίο ορισμού:",
+    "TEXT_ALL_DOMAINS": "Ολοι",
+    "TITLE_EDIT_NAME": "Επεξεργασία ονόματος",
+    "TITLE_DELETE": "Διαγράφω",
+    "TITLE_EDIT_DOMAIN": "Επεξεργασία τομέα",
+    "TEXT_CLICK_TO_REVEAL": "Κάντε κλικ για να αποκαλύψετε το μυστικό κλειδί",
+    "TEXT_SECURITY_WARNING": "Μην κοινοποιείτε τα μυστικά κλειδιά σας και μην κάνετε κρυπτογράφηση στο πρόγραμμα περιήγησης! Δείτε <a href=\"https://github.com/fastcomments/fastcomments-code-examples\" target=\"_blank\">τα παραδείγματα κώδικα backend</a> για το πώς να κάνετε κρυπτογράφηση διατηρώντας παράλληλα το κλειδί σας ασφαλές.",
+    "TITLE_ADD_API_SECRET": "Προσθήκη μυστικού API",
+    "TEXT_ADD_API_KEY": "Προσθήκη κλειδιού API"
+}

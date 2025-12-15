@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Kuponer - FastComments",
+    "HEADING_COUPONS": "Kuponer",
+    "HEADING_COUPON_CODES": "Kuponkoder",
+    "HEADING_STATS": "Statistik",
+    "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> Kuponer indløst.",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Kuponer i alt.",
+    "HEADING_DOWNLOAD": "Download",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Download tilgængelige kuponer",
+    "HEADING_GENERATE_TIER_4_COUPONS": "Generer Tier 4-kuponer",
+    "LABEL_GENERATE_COUPON_COUNT": "Generer kuponantal",
+    "BUTTON_SUBMIT": "Indsend",
+    "HEADING_COUPON_LIST": "Kuponliste",
+    "TABLE_HEADER_CODE": "Kode",
+    "TABLE_HEADER_REDEEMED_DATE": "Indløsningsdato"
+}

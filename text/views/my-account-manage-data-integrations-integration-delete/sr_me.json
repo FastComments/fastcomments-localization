@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Обриши токен интеграције - FastComments",
+    "HEADING": "Обриши токен интеграције",
+    "CONFIRM_DELETE_MESSAGE": "Да ли сте сигурни да желите да обришете овај <%= integration.readableType %> интеграциони токен<%= integration.domain ? ' for ' + integration.domain : '' %>?",
+    "DELETE_BUTTON": "Обриши",
+    "CANCEL_LINK": "Откажи"
+}

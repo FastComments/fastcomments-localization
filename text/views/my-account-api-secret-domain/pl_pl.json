@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Aktualizacja domeny tajnej API - FastComments",
+    "HEADING_UPDATE_API_SECRET_DOMAIN": "Aktualizacja domeny tajnej API",
+    "TEXT_DOMAIN_INFO": "W przypadku konfiguracji, takiej jak webhooki, na podstawie tej konfiguracji określimy, który klucz API należy użyć.",
+    "LABEL_ASSOCIATE_SECRET_WITH_DOMAIN": "Powiąż tajny klucz API „<%= apiSecret.name %>” z domeną:",
+    "OPTION_ALL_DOMAINS": "Wszystkie domeny",
+    "BUTTON_UPDATE_DOMAIN": "Aktualizacja domeny"
+}

@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Видалити токен інтеграції - FastComments",
+    "HEADING": "Видалити токен інтеграції",
+    "CONFIRM_DELETE_MESSAGE": "Ви впевнені, що хочете видалити цей <%= integration.readableType %> токен інтеграції <%= integration.domain ? ' for ' + integration.domain : '' %>?",
+    "DELETE_BUTTON": "Видалити",
+    "CANCEL_LINK": "Скасувати"
+}

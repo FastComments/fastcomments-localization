@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Отмяна на забрана на потребител - FastComments",
+    "HEADING": "Отмяна на забрана на потребител",
+    "SUB_HEADING": "Отмяна на забраната <%= bannedUser.username %>?",
+    "CONFIRM_MESSAGE": "Сигурни ли сте, че искате да отмените забраната на този потребител?",
+    "BANNED_FOR_SAYING_TEXT": "Те бяха забранени, защото казаха „ <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> “",
+    "UN_BAN_BUTTON": "Отмяна на забрана на потребител"
+}

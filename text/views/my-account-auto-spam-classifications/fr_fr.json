@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Kit de formation anti-spam de commentaires - FastComments",
+    "HEADING_COMMENTS_SPAM_TRAINING_SET": "Kit de formation anti-spam de commentaires",
+    "TEXT_CURRENT_CLASSIFICATION": "Classification actuelle : <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
+    "BUTTON_UNCLASSIFY": "Déclassifier",
+    "BUTTON_SPAM": "Courrier indésirable",
+    "BUTTON_NOT_SPAM": "Pas de spam"
+}

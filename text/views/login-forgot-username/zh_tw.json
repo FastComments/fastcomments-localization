@@ -1,0 +1,14 @@
+{
+    "PAGE_TITLE": "忘記用戶名 - FastComments",
+    "HERO_TITLE_LIGHT": "忘記了 ",
+    "HERO_TITLE_BOLD": "使用者名稱",
+    "HERO_DESCRIPTION": "別擔心，這種事誰都會遇到！",
+    "LABEL_EMAIL": "電子郵件",
+    "EMAIL_HELP_TEXT": "我們會透過電子郵件向您發送使用者名稱。出於安全考慮，我們無法告知您電子郵件地址是否正確。",
+    "LABEL_CAPTCHA": "<%= captchaA %> + <%= captchaB %> 等於多少？",
+    "CAPTCHA_HELP": "有助於判斷您不是機器人。",
+    "BUTTON_REQUEST_USERNAME": "請求用戶名",
+    "SUCCESS_MESSAGE": "如果您在該郵箱註冊了帳號，您應該很快就會收到一封包含使用者名稱的郵件。",
+    "SUCCESS_CHECK_SPAM": "請記得查看您的垃圾郵件資料夾。",
+    "SUCCESS_CLOSE_WINDOW": "您現在可以關閉此視窗了。"
+}

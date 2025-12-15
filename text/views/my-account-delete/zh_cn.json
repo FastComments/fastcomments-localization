@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "删除我的帐户",
+    "HEADING_DELETE_ACCOUNT": "删除<%= user.username %>的帐户",
+    "TEXT_PRIVACY_POLICY_NOTE": "如果您因隐私问题而删除帐户，请考虑查看我们的<a href=\"/privacy-policy\">隐私政策</a>。我们不会出售或与第三方共享您的数据。",
+    "TEXT_ALSO_DELETING_TENANT": "同时删除租户“<%= tenant ? tenant.name : '' %>”。",
+    "TEXT_ACCOUNT_OWNER_WARNING": "您是账户所有者。删除您的账户也会删除此租户。",
+    "TEXT_SUBSCRIPTION_CANCELLED": "您的订阅也将被取消。",
+    "TEXT_NO_SELL_DATA": "请注意，FastComments<b>不会将您的个人信息出售或分享</b>给第三方。我们提供免费创建账户服务，仅为方便用户。",
+    "HEADING_CONFIRMATION": "确认",
+    "LABEL_REMOVE_COMMENTS": "删除所有<%= commentCount %>评论？",
+    "LABEL_CONFIRM_REMOVAL": "勾选此框以确认删除您的帐户。删除帐户或相关评论的操作无法撤销。",
+    "LABEL_FEEDBACK": "请帮助我们了解您离开的原因。",
+    "BUTTON_NO_DONT_DELETE": "不，别删除我的账号",
+    "BUTTON_YES_DELETE": "是的，删除我的账户"
+}

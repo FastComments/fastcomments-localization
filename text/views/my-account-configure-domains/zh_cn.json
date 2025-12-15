@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "我的账户",
+    "HEADING_MY_DOMAINS": "我的域名",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "域名添加成功！",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "域名已成功移除！",
+    "TEXT_SETTING_UPDATED_SUCCESS": "设置已成功更新！",
+    "TEXT_IMAGE_UPLOAD_ERROR": "图片上传错误：<%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "以下是 FastComments 向评论者发送电子邮件时的邮件样式配置。如果您不想自定义此设置，则无需输入任何内容。",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>注意：发件人姓名和电子邮件设置不会影响发送给管理员的电子邮件。</b>",
+    "LINK_REMOVE": "消除",
+    "TEXT_AUTO_ADDED_NOTICE": "试用期间自动添加。",
+    "TITLE_AUTO_ADDED": "试用期内，系统会根据您的账户流量自动添加此功能。这样做是为了简化设置，并且仅在试用期内有效。",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "向用户发送电子邮件时填写发件人姓名",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "发件人电子邮件地址（当向用户发送电子邮件时）",
+    "TEXT_EMAIL_ERROR": "这封邮件似乎有问题。我们已保存其他更改。",
+    "TEXT_LOGO_MAX_SIZE": "最大文件大小：1MB。未调整大小。",
+    "BUTTON_SAVE": "节省",
+    "TEXT_NO_DOMAINS_WARNING": "哇！您还没有域名。在您将一个或多个域名关联到您的帐户之前，您的小部件将无法加载。",
+    "TITLE_ADD_DOMAIN": "添加域名",
+    "TEXT_ADD_A_DOMAIN": "添加域名"
+}

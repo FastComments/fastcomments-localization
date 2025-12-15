@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "Moderatörü Sil - FastComments",
+    "HEADING": "Bir moderatörün kaldırılması",
+    "SUB_HEADING": "<%= moderator.name %> Kaldırıyorsunuz",
+    "CANNOT_UNDO": "Bu işlem geri alınamaz. <%= moderator.name %> artık yorumlarınızı göremeyecek veya denetleyemeyecek.",
+    "NOTIFICATION_INFO": "Moderatörlük görevlerinden alındıkları kendilerine otomatik bir e-posta yoluyla bildirilecektir.",
+    "METRICS_WARNING": "Tüm ölçüm verileri silinecektir <b>(e-postalarını değiştirmek isterseniz, önceki sayfadan düzenleyebilirsiniz)</b> .",
+    "CANCEL_LINK": "İptal etmek",
+    "DELETE_BUTTON": "Bu Moderatörü Sil"
+}

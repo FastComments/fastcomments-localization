@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - Быстрые комментарии",
+    "HEADING_USERS_WITH_BADGE": "<%- Number(userBadges.length).toLocaleString() %> <%- userBadges.length === 1 ? 'User' : 'Users' %> со значком <%- tenantBadge.displayLabel %>",
+    "TEXT_NO_USERS_WITH_BADGE": "Ни у одного пользователя нет этого значка! Большинство значков присуждаются автоматически. Если это значок, присуждаемый вручную, вам придется присудить его вручную.",
+    "TABLE_HEADER_USER_ID": "ID пользователя",
+    "TABLE_HEADER_EMAIL": "Электронная почта",
+    "TABLE_HEADER_AVATAR": "Аватар",
+    "TABLE_HEADER_NAME": "Имя",
+    "TABLE_HEADER_BADGE_EARNED_DATE": "Дата получения значка",
+    "TEXT_NA": "Н/Д"
+}

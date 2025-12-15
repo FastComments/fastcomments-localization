@@ -1,0 +1,5 @@
+{
+    "HEADING_EDITING_BADGE": "編輯<%= badge.displayLabel %>",
+    "HEADING_CREATING_EDITING_BADGE": "<%= badge ? 'Editing' : 'Creating' %> 「<%= BadgeTypeDescriptions[badgeType] %>「 徽章",
+    "LABEL_BADGE_THRESHOLD": "<%= BadgeLimitDescriptions[badgeType] %>"
+}

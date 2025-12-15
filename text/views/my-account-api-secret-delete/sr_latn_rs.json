@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Izbriši tajnu API-ja - FastComments",
+    "HEADING_DELETE_API_SECRET": "Izbriši tajnu API-ja",
+    "QUESTION_CONFIRM_DELETE": "Da li ste sigurni da želite da uklonite <%= apiSecret.name ? 'the api key \"' + apiSecret.name + '\"' : 'this api key' %>?",
+    "WARNING_USED_BY_WEBHOOKS": "Ovaj API ključ trenutno koristi vebhook. Brisanje API ključa pre ažuriranja vebhook će prekinuti integraciju.",
+    "BUTTON_DELETE_API_SECRET": "Izbriši tajnu API-ja",
+    "BUTTON_CANCEL": "Pretraživanje"
+}

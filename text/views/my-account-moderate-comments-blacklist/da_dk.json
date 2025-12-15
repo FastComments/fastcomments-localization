@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Ord-sortliste - FastComments",
+    "HEADING": "Kommentarord sortliste",
+    "SUB_HEADING": "Tilpas sortlisten",
+    "SUCCESS_MESSAGE": "Sortlisten er gemt.",
+    "INTRO_PARAGRAPH_1": "Nedenfor er en lister over kommaseparerede ord og sætninger, der vil blive maskeret i kommentarer og brugernavne. Vær forsigtig med, hvilke ord du vælger her - at sortliste for almindelige ord vil drive dit fællesskab væk.",
+    "INTRO_PARAGRAPH_2": "Disse er defineret <b>pr. lokalitet</b> . En lokalitet er en kombination af et sprog og en geografisk region.",
+    "INTRO_PARAGRAPH_3": "Du vil se, at vi skelner mellem <b>ord</b> og <b>sætninger</b> . Ord i <b>ordlisten</b> må ikke indeholde mellemrum eller specialtegn. Hvis du har en sætning, der indeholder mellemrum, punktummer osv., skal du i stedet tilføje den til <b>sætningslisten</b> .",
+    "NOSCRIPT_MESSAGE": "JavaScript er påkrævet for at denne konfigurationsgrænseflade kan fungere korrekt.",
+    "EDIT_LOCALE_LABEL": "Rediger for landestandard",
+    "MASKED_WORDS_LABEL": "Maskerede ord for [localeName].",
+    "MASKED_WORDS_DESCRIPTION": "Ord i denne liste (kommasepareret) vil blive maskeret som ***.",
+    "MASKED_WORDS_PLACEHOLDER": "Indtast en kommasepareret liste over upassende ord, f.eks. 'nogle, upassende, ord'.",
+    "WORDS_LENGTH_ERROR": "Du kan indtaste op til 5.000 ord pr. sprog. Du har indtastet<span id=\"length-error-count-words-[locale]\"></span> .",
+    "MASKED_PHRASES_LABEL": "Maskerede sætninger for [localeName].",
+    "MASKED_PHRASES_DESCRIPTION": "Sætninger i denne liste (kommasepareret) vil blive maskeret som ********.",
+    "MASKED_PHRASES_PLACEHOLDER": "Indtast en kommasepareret liste over upassende sætninger, f.eks. 'en dårlig sætning, en anden dårlig sætning'.",
+    "PHRASES_LENGTH_ERROR": "Du kan indtaste op til 5.000 sætninger pr. sprogindstilling. Du har indtastet<span id=\"length-error-count-phrases-[locale]\"></span> .",
+    "SAVE_BUTTON": "Gem ændringer til [localeName]"
+}

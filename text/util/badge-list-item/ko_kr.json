@@ -1,0 +1,4 @@
+{
+    "TEXT_REPLACES": "↳ <%= badge.replacesDisplayLabel %>을 대체합니다",
+    "TEXT_USERS_PROCESSED": "<%= badge.usersProcessed ? Number(badge.usersProcessed).toLocaleString() + ' users processed...' : '' %>"
+}

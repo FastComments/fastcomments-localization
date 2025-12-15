@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "招待に失敗しました",
+    "HERO_TITLE_LIGHT": "招待する  ",
+    "HERO_TITLE_BOLD": "失敗",
+    "DEFAULT_ERROR": "何か大変な問題が発生しました。何が起こったのかは分かりませんが、調べてみます。",
+    "ERROR_LINK_EXPIRED": "<b>申し訳ございませんが、このリンクは既に使用されているか、30日以上経過しているようです。招待を送信したサイトの所有者に新しいリンクを送信するよう依頼してください。</b>",
+    "ERROR_LINK_INVALID": "<b>ああ、だめです！このリンクは無効のようです。</b>",
+    "ERROR_ACCOUNT_NOT_FOUND": "アカウントが見つかりません。この問題を解決するには、管理者に連絡して新しい招待状を取得してください。",
+    "ERROR_EMAIL_MISMATCH": "<b>現在ログインしているユーザーのメールアドレス ([userEmail]) は、送信された招待状 ([inviteEmail]) とは異なります。</b><br><br><a href=\"/auth/logout?redirect=[redirectUrl]\">ここをクリックし</a>てログアウトし、モデレート専用のアカウントを作成することができます。"
+}

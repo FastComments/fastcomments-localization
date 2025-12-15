@@ -1,0 +1,5 @@
+{
+    "HEADING_EDITING_BADGE": "Уређивање <%= badge.displayLabel %>",
+    "HEADING_CREATING_EDITING_BADGE": "<%= badge ? 'Editing' : 'Creating' %> Значка „<%= BadgeTypeDescriptions[badgeType] %>“",
+    "LABEL_BADGE_THRESHOLD": "<%= BadgeLimitDescriptions[badgeType] %>"
+}

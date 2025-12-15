@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "İki Faktörlü Kimlik Doğrulama - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "İki Faktörlü Kimlik Doğrulama",
+    "HERO_DESCRIPTION": "Giriş işlemini tamamlamak için lütfen doğrulama kodunuzu girin.",
+    "ATTEMPTS_REMAINING": "<%= 5 - session.attempts %> deneme hakkı kaldı",
+    "LABEL_METHOD_SELECT": "Doğrulama yöntemini seçin:",
+    "METHOD_AUTHENTICATOR": "Kimlik Doğrulama Uygulaması",
+    "METHOD_SMS": "SMS",
+    "AUTHENTICATOR_INSTRUCTION": "Kimlik doğrulama uygulamanızdan aldığınız 6 haneli kodu girin.",
+    "SMS_INSTRUCTION": "<%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %> adresine bir kod gönderdik.",
+    "LABEL_VERIFICATION_CODE": "Doğrulama Kodu",
+    "BUTTON_VERIFY": "Doğrulamak",
+    "LABEL_BACKUP_CODE": "Yedekleme kodunu girin:",
+    "BUTTON_USE_BACKUP_CODE": "Yedek Kodu Kullanın",
+    "BUTTON_BACK": "Geri",
+    "BUTTON_RESEND_SMS": "SMS kodunu yeniden gönder",
+    "LINK_USE_BACKUP_CODE": "Bunun yerine yedek kod kullanın.",
+    "LINK_BACK_TO_LOGIN": "← Giriş sayfasına geri dön"
+}

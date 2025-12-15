@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Migrer kommentarer - FastComments",
+    "HEADING": "Migrer kommentarer",
+    "INTRO_DESCRIPTION": "Dette værktøj giver dig mulighed for at migrere dine kommentarer i batch på tværs af forskellige URL'er eller websteder.",
+    "URL_INFO": "Du kan indtaste en del af en URL, f.eks. et domæne, en fuld URL eller et <a href=\"https://docs.fastcomments.com/guide-customizations-and-configuration.html#url-id\" target=\"_blank\">URL-ID</a> .",
+    "DOMAIN_FROM_LABEL": "Hvilken URL eller hvilket domæne migrerer du fra?",
+    "DOMAIN_FROM_PLACEHOLDER": "eksempel.com",
+    "DOMAIN_TO_LABEL": "Hvilken URL eller hvilket domæne migrerer du til?",
+    "DOMAIN_TO_PLACEHOLDER": "et-andet-eksempel.com",
+    "START_MIGRATION_BUTTON": "Start migrering",
+    "EMAIL_NOTIFICATION_INFO": "Du modtager en e-mail, der giver dig besked, når det er færdigt.",
+    "MIGRATIONS_HEADING": "Migrationer",
+    "NOSCRIPT_REFRESH_MESSAGE": "Opdater siden for at få den seneste status.",
+    "TABLE_HEADER_START_DATE": "Startdato",
+    "TABLE_HEADER_FROM": "Fra",
+    "TABLE_HEADER_TO": "Til",
+    "TABLE_HEADER_STATUS": "Status",
+    "TABLE_HEADER_COMMENTS_FOUND": "Kommentarer fundet til migrering",
+    "TABLE_HEADER_COMMENTS_MIGRATED": "Kommentarer migreret",
+    "NO_MIGRATIONS_MESSAGE": "Du har ingen ventende eller tidligere domænemigreringer."
+}

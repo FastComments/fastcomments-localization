@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "私のアカウント",
+    "HEADING_MY_DOMAINS": "私のドメイン",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "ドメインが正常に追加されました。",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "ドメインが正常に削除されました。",
+    "TEXT_SETTING_UPDATED_SUCCESS": "設定が正常に更新されました。",
+    "TEXT_IMAGE_UPLOAD_ERROR": "画像アップロードエラー: <%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "以下は、FastComments がコメント投稿者にメールを送信する際のメールの外観に関する設定です。カスタマイズしない場合は、何も入力する必要はありません。",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>注: 送信者名と電子メールの設定は、管理者に送信される電子メールには影響しません。</b>",
+    "LINK_REMOVE": "取り除く",
+    "TEXT_AUTO_ADDED_NOTICE": "試用期間中は自動的に追加されます。",
+    "TITLE_AUTO_ADDED": "トライアル期間中、アカウントへのトラフィックに基づいて自動的に追加されます。これはセットアップを容易にするために行われ、トライアル期間中のみ実行されます。",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "ユーザーにメールを送信する際の送信者名",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "ユーザーにメールを送信する際の送信元メールアドレス",
+    "TEXT_EMAIL_ERROR": "このメールに問題があるようです。その他の変更は保存しました。",
+    "TEXT_LOGO_MAX_SIZE": "最大サイズ: 1MB。サイズ変更不可。",
+    "BUTTON_SAVE": "保存",
+    "TEXT_NO_DOMAINS_WARNING": "うわあ！ドメインがありません。アカウントにドメインを1つ以上関連付けるまで、ウィジェットは読み込まれません。",
+    "TITLE_ADD_DOMAIN": "ドメインを追加",
+    "TEXT_ADD_A_DOMAIN": "ドメインを追加する"
+}

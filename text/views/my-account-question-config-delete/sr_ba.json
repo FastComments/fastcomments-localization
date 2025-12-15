@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Обриши питање - FastComments",
+    "HEADING": "Обрисати „<%= question.name %>”?",
+    "CONFIRM_MESSAGE": "Да ли сте сигурни да желите да обришете питање „<%= question.question %>“, креирано <%= question.createdAt.toLocaleString() %>?",
+    "REPLY_COUNT_MESSAGE": "На ово питање је дато <%= Number(question.usedCount).toLocaleString() %> одговора.",
+    "DATA_LOSS_WARNING": "Подаци из ових одговора више неће бити доступни у извештајима.",
+    "DELETE_BUTTON": "Обриши",
+    "CANCEL_LINK": "Откажи"
+}

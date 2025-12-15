@@ -1,0 +1,7 @@
+{
+    "TITLE": "Il mio account - FastComments",
+    "WELCOME_BACK": "Bentornato, <%- user.displayName || user.username %>.",
+    "SNAPSHOT_MESSAGE": "Ecco una rapida panoramica del tuo account.",
+    "JAVASCRIPT_REQUIRED": "FastComments richiede JavaScript per funzionare correttamente.",
+    "JAVASCRIPT_NOTE": "Nota! Utilizziamo un linguaggio di programmazione JavaScript molto ridotto al minimo, senza framework pesanti, per limitare l'utilizzo della memoria. Ci auguriamo che il nostro prodotto vi piaccia."
+}

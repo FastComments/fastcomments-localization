@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Czarna lista słów – FastComments",
+    "HEADING": "Czarna lista słów komentarza",
+    "SUB_HEADING": "Dostosuj czarną listę",
+    "SUCCESS_MESSAGE": "Czarna lista została pomyślnie zapisana.",
+    "INTRO_PARAGRAPH_1": "Poniżej znajdują się listy słów i fraz rozdzielonych przecinkami, które będą maskowane w komentarzach i nazwach użytkowników. Uważaj, jakie słowa wybierasz – umieszczenie zbyt wielu słów na czarnej liście zniechęci Twoją społeczność.",
+    "INTRO_PARAGRAPH_2": "Są one definiowane <b>dla poszczególnych ustawień regionalnych</b> . Ustawienia regionalne to połączenie języka i regionu geograficznego.",
+    "INTRO_PARAGRAPH_3": "Zobaczysz, że rozróżniamy <b>słowa</b> i <b>frazy</b> . Wpisy na liście <b>słów</b> nie powinny zawierać spacji ani znaków specjalnych. Jeśli masz frazę zawierającą spacje, kropki itp., dodaj ją do listy <b>fraz</b> .",
+    "NOSCRIPT_MESSAGE": "Do prawidłowego działania tego interfejsu użytkownika konfiguracji wymagany jest JavaScript.",
+    "EDIT_LOCALE_LABEL": "Edytuj dla ustawień regionalnych",
+    "MASKED_WORDS_LABEL": "Słowa maskowane dla [localeName].",
+    "MASKED_WORDS_DESCRIPTION": "Słowa na tej liście (rozdzielone przecinkami) będą maskowane, np. ***.",
+    "MASKED_WORDS_PLACEHOLDER": "Wprowadź listę brzydkich słów oddzielonych przecinkami, np. „niektóre, brzydkie, słowa”.",
+    "WORDS_LENGTH_ERROR": "Możesz wprowadzić do 5000 słów na lokalizację. Wprowadzono<span id=\"length-error-count-words-[locale]\"></span> .",
+    "MASKED_PHRASES_LABEL": "Frazy maskowane dla [localeName].",
+    "MASKED_PHRASES_DESCRIPTION": "Frazy na tej liście (rozdzielone przecinkami) będą maskowane, np. ********.",
+    "MASKED_PHRASES_PLACEHOLDER": "Wprowadź listę złych fraz oddzielonych przecinkami, np. „jakaś zła fraza, jakaś inna zła fraza”.",
+    "PHRASES_LENGTH_ERROR": "Możesz wprowadzić do 5000 fraz na lokalizację. Wprowadzono<span id=\"length-error-count-phrases-[locale]\"></span> .",
+    "SAVE_BUTTON": "Zapisz zmiany w [localeName]"
+}

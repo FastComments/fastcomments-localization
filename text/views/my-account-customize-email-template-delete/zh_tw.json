@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "刪除<%= template.displayName %> - FastComments",
+    "HEADING_DELETE_TEMPLATE": "刪除 ”<%= template.displayName %>”？",
+    "TEXT_CONFIRM_DELETE": "您確定要刪除於<%= template.displayName %>所建立的範本<%= template.createdAt.toLocaleString() %>嗎？",
+    "BUTTON_DELETE": "刪除",
+    "BUTTON_CANCEL": "取消"
+}

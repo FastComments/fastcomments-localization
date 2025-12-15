@@ -1,0 +1,18 @@
+{
+    "LABEL_CUSTOMER": "顧客",
+    "LABEL_SERVICE_REP": "服務代表",
+    "LABEL_OPENED": "已開啟",
+    "LABEL_STATUS": "地位",
+    "LABEL_CHANGE_STATUS": "更改狀態",
+    "LINK_IMPERSONATE": "模仿",
+    "LINK_SWITCH": "轉變",
+    "AVG_RESPONSE_TIME": "平均回應時間：",
+    "STATUS_AWAITING_YOUR_REPLY": "等待您的回复",
+    "STATE_OPEN": "打開",
+    "STATE_ACKNOWLEDGED": "已確認",
+    "STATE_RESOLVED": "已解決",
+    "ERROR_GET_TICKET_FAILED": "取得最新票務資訊的請求失敗。",
+    "ERROR_CHANGE_STATE_FAILED": "更改票務狀態的請求失敗。",
+    "INITIAL_COMMENT": "您好，[username]！您建立了一個名為「[subject]」的工單。請提供一些補充信息，@[assignedTagName] 將會盡快與您聯繫。",
+    "STATUS_CHANGE_COMMENT": "[username] 將狀態從 [oldStatus] 改為 [newStatus]。"
+}

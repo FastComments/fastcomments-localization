@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "신규 임차인 설정",
+    "HERO_TITLE_LIGHT": "거의  ",
+    "HERO_TITLE_BOLD": "거기",
+    "HERO_DESCRIPTION": "FastComments는 기업과 개인 사용자 모두에게 가장 빠르고 간편하게 설정하고 사용할 수 있는 댓글 시스템을 제공하며, 지금 바로 <u>30일 무료 체험을</u> 시작해 보세요.",
+    "NOT_WEBSITE_LINK_TEXT": "웹사이트에 FastComments를 추가할 생각이 없으시다면 <a href=\"/auth/commenter-signup?email=<%= email %>\">여기에서 가입하세요.</a>",
+    "FORM_DESCRIPTION": "이제 몇 가지 기본 정보만 입력하면 FastComments 설치를 시작할 수 있습니다.",
+    "LABEL_USERNAME": "*공개적으로 표시되는 사용자 이름:",
+    "USERNAME_PATTERN_TITLE": "특수 문자는 사용하지 마세요. 숫자와 문자만 사용하세요.",
+    "LABEL_EMAIL": "*이메일:",
+    "EMAIL_DESCRIPTION_LOGGED_IN": "기존에 사용하시던 이메일 주소를 사용하겠습니다. 필요하시면 나중에 계정 페이지에서 변경하실 수 있습니다.",
+    "EMAIL_DESCRIPTION": "계정 인증을 요청하는 이메일을 보내드리겠습니다.",
+    "LABEL_COMPANY_NAME": "*회사명:",
+    "DOMAINS_HEADING": "FastComments가 표시될 웹사이트 주소는 무엇인가요?",
+    "LABEL_WEBSITES": "*웹사이트:",
+    "DOMAINS_DESCRIPTION": "서브도메인이나 로컬호스트를 입력할 필요가 없습니다. 여러 사이트를 등록하려면 쉼표로 구분하세요.",
+    "TOS_TEXT": "&#39;계정 생성&#39;을 클릭하면 <a href=\"/terms-of-service\" target=\"_blank\">서비스 약관</a> 에 동의하는 것입니다.",
+    "BUTTON_CREATE_ACCOUNT": "계정 생성",
+    "ERROR_SIGNUP_ALREADY_STARTED": "이미 가입 절차가 시작되었으므로 다시 제출할 수 없습니다. 페이지를 새로고침하셨나요?"
+}

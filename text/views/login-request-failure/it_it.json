@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "FastComments - Accesso non riuscito",
+    "HERO_TITLE_LIGHT": "Login  ",
+    "HERO_TITLE_BOLD": "Fallito",
+    "BUTTON_TRY_AGAIN": "Riprova",
+    "ERROR_HEADING": "Qualcosa è andato storto",
+    "ERROR_MESSAGE": "Si è verificato un problema con la tua richiesta di accesso.",
+    "ERROR_INVALID_CREDENTIALS": "Password o nome utente non validi.",
+    "ERROR_USERNAME_REQUIRED": "Devi fornire un nome utente!",
+    "ERROR_USERNAME_TOO_LONG": "Il tuo nome utente deve contenere meno di 1k caratteri!",
+    "ERROR_RATE_LIMITED_MINUTES": "Hai superato i nostri limiti di velocità. Riprova tra qualche minuto o contatta l'assistenza.",
+    "ERROR_RATE_LIMITED_DAILY": "Hai superato i nostri limiti di tariffa giornaliera. Riprova tra 24 ore o contatta l'assistenza.",
+    "ERROR_RATE_LIMITED": "Hai superato i nostri limiti di velocità. Riprova più tardi o contatta l'assistenza.",
+    "ERROR_TOO_MANY_ATTEMPTS": "Troppi tentativi di accesso nell'ultima ora. Attendi e riprova.",
+    "ERROR_CAPTCHA_WRONG": "Non hai risposto correttamente alla domanda di sicurezza. Torna indietro e riprova.",
+    "ERROR_EMAIL_REQUIRED": "Devi fornire un indirizzo email!",
+    "ERROR_EMAIL_TOO_LONG": "Il tuo indirizzo email deve contenere meno di 1k caratteri!",
+    "ERROR_INVALID_EMAIL": "Questa non è una email valida!",
+    "ERROR_USERNAME_TAKEN": "Quel nome utente è già stato utilizzato da un altro indirizzo email. Prova con un nome utente diverso."
+}

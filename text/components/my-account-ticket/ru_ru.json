@@ -1,0 +1,18 @@
+{
+    "LABEL_CUSTOMER": "Клиент",
+    "LABEL_SERVICE_REP": "Представитель сервисной службы",
+    "LABEL_OPENED": "Открыто",
+    "LABEL_STATUS": "Статус",
+    "LABEL_CHANGE_STATUS": "Изменить статус",
+    "LINK_IMPERSONATE": "Выдавать себя за другое лицо",
+    "LINK_SWITCH": "Выключатель",
+    "AVG_RESPONSE_TIME": "Среднее время ответа:",
+    "STATUS_AWAITING_YOUR_REPLY": "ЖДУ ВАШЕГО ОТВЕТА",
+    "STATE_OPEN": "Открыть",
+    "STATE_ACKNOWLEDGED": "Признано",
+    "STATE_RESOLVED": "Решено",
+    "ERROR_GET_TICKET_FAILED": "Не удалось получить актуальную информацию о билете.",
+    "ERROR_CHANGE_STATE_FAILED": "Запрос на изменение состояния билета не удался.",
+    "INITIAL_COMMENT": "Привет, [username]! Вы создали заявку под названием \"[subject]\". Пожалуйста, укажите дополнительную информацию, и @[assignedTagName] свяжется с вами.",
+    "STATUS_CHANGE_COMMENT": "[username] изменил статус с [oldStatus] на [newStatus]."
+}

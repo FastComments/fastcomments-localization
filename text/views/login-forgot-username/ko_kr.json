@@ -1,0 +1,14 @@
+{
+    "PAGE_TITLE": "사용자 이름을 잊으셨나요? - FastComments",
+    "HERO_TITLE_LIGHT": "잊어버렸다  ",
+    "HERO_TITLE_BOLD": "사용자 이름",
+    "HERO_DESCRIPTION": "걱정 마세요, 누구에게나 일어날 수 있는 일이에요!",
+    "LABEL_EMAIL": "이메일",
+    "EMAIL_HELP_TEXT": "사용자 이름은 이메일로 보내드리겠습니다. 보안상의 이유로 이메일 주소가 정확한지 여부는 알려드릴 수 없습니다.",
+    "LABEL_CAPTCHA": "<%= captchaA %> + <%= captchaB %>는 무엇입니까?",
+    "CAPTCHA_HELP": "사용자가 봇이 아닌지 확인하는 데 도움이 됩니다.",
+    "BUTTON_REQUEST_USERNAME": "요청 사용자 이름",
+    "SUCCESS_MESSAGE": "해당 이메일 주소로 계정이 있으시면 곧 사용자 이름이 포함된 이메일을 받으실 겁니다.",
+    "SUCCESS_CHECK_SPAM": "스팸 폴더도 확인해 보세요.",
+    "SUCCESS_CLOSE_WINDOW": "이제 이 창을 닫으셔도 됩니다."
+}

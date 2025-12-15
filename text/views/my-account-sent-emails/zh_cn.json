@@ -1,0 +1,23 @@
+{
+    "PAGE_TITLE": "已发送邮件 - FastComments",
+    "HEADING": "已发送邮件",
+    "INFO_NOTE": "<strong>注意：</strong>我们仅保留两个月的邮件记录。更早的邮件将自动删除。",
+    "LABEL_FILTER_SUBJECT": "按主题筛选",
+    "PLACEHOLDER_SUBJECT": "搜索主题...",
+    "LABEL_FILTER_CONTENT": "按内容筛选",
+    "PLACEHOLDER_CONTENT": "搜索电子邮件内容……",
+    "BUTTON_SEARCH": "搜索",
+    "BUTTON_CLEAR": "清除",
+    "TABLE_HEADER_DATE": "日期",
+    "TABLE_HEADER_FROM": "从",
+    "TABLE_HEADER_SUBJECT": "主题",
+    "MESSAGE_NO_EMAILS_FILTERS": "未找到符合指定筛选条件的电子邮件。",
+    "BUTTON_VIEW": "看法",
+    "BUTTON_PREV": "上一页",
+    "BUTTON_NEXT": "下一个",
+    "LABEL_PAGE": "页 <%= page %>",
+    "MESSAGE_NO_EMAILS": "您没有任何已发送的电子邮件。",
+    "VALUE_UNKNOWN": "未知",
+    "VALUE_NO_SUBJECT": "（无主题）",
+    "VALUE_NA": "不适用"
+}

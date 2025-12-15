@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Opsætning af ny lejer",
+    "HERO_TITLE_LIGHT": "Næsten ",
+    "HERO_TITLE_BOLD": "Der",
+    "HERO_DESCRIPTION": "FastComments tilbyder det hurtigste kommentarsystem at sætte op og bruge for både virksomheder og brugere, og du er godt på vej til en <u>30-dages gratis prøveperiode</u> .",
+    "NOT_WEBSITE_LINK_TEXT": "Hvis du ikke ønsker at tilføje FastComments til en hjemmeside, bør du tilmelde dig <a href=\"/auth/commenter-signup?email=<%= email %>\">her.</a>",
+    "FORM_DESCRIPTION": "Nu skal vi bare bruge nogle grundlæggende oplysninger, og så kan du begynde at installere FastComments.",
+    "LABEL_USERNAME": "*Offentligt vist brugernavn:",
+    "USERNAME_PATTERN_TITLE": "Ingen specialtegn tak - kun tal og bogstaver.",
+    "LABEL_EMAIL": "*E-mail:",
+    "EMAIL_DESCRIPTION_LOGGED_IN": "Vi bruger din eksisterende e-mailadresse. Du kan ændre den senere fra kontosiden, hvis det er nødvendigt.",
+    "EMAIL_DESCRIPTION": "Vi sender dig en e-mail, hvor vi beder dig om at bekræfte din konto.",
+    "LABEL_COMPANY_NAME": "*Firmanavn:",
+    "DOMAINS_HEADING": "Hvad er adressen på jeres hjemmeside, hvor FastComments vises?",
+    "LABEL_WEBSITES": "*Hjemmeside(r):",
+    "DOMAINS_DESCRIPTION": "Det er ikke nødvendigt at indtaste underdomæner eller localhost. Adskil flere websteder med kommaer.",
+    "TOS_TEXT": "Ved at klikke på Opret konto accepterer du <a href=\"/terms-of-service\" target=\"_blank\">servicevilkårene</a> .",
+    "BUTTON_CREATE_ACCOUNT": "Opret konto",
+    "ERROR_SIGNUP_ALREADY_STARTED": "Tilmeldingsprocessen er allerede startet og kan ikke indsendes igen. Måske har du opdateret siden?"
+}

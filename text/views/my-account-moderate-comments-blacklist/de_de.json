@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Wort-Sperrliste - FastComments",
+    "HEADING": "Kommentarwort-Sperrliste",
+    "SUB_HEADING": "Die Blacklist anpassen",
+    "SUCCESS_MESSAGE": "Blacklist erfolgreich gespeichert.",
+    "INTRO_PARAGRAPH_1": "Nachfolgend finden Sie Listen mit durch Kommas getrennten Wörtern und Ausdrücken, die in Kommentaren und Benutzernamen maskiert werden. Wählen Sie die Wörter sorgfältig aus – zu häufige Wörter auf die schwarze Liste zu setzen, könnte Ihre Community vergraulen.",
+    "INTRO_PARAGRAPH_2": "Diese sind <b>pro Gebietsschema</b> definiert. Ein Gebietsschema ist eine Kombination aus Sprache und geografischer Region.",
+    "INTRO_PARAGRAPH_3": "Sie werden feststellen, dass wir zwischen <b>Wörtern</b> und <b>Phrasen</b> unterscheiden. Einträge in der <b>Wortliste</b> dürfen keine Leerzeichen oder Sonderzeichen enthalten. Falls Ihre Phrase Leerzeichen, Punkte usw. enthält, fügen Sie diese bitte der <b>Phrasenliste</b> hinzu.",
+    "NOSCRIPT_MESSAGE": "Für die ordnungsgemäße Funktion dieser Konfigurations-UI ist JavaScript erforderlich.",
+    "EDIT_LOCALE_LABEL": "Für die jeweilige Region bearbeiten",
+    "MASKED_WORDS_LABEL": "Maskierte Wörter für [localeName].",
+    "MASKED_WORDS_DESCRIPTION": "Wörter in dieser Liste (durch Komma getrennt) werden mit *** maskiert.",
+    "MASKED_WORDS_PLACEHOLDER": "Geben Sie eine durch Kommas getrennte Liste von Schimpfwörtern ein, z. B. 'einige, böse, Wörter'.",
+    "WORDS_LENGTH_ERROR": "Sie können pro Sprache bis zu 5.000 Wörter eingeben. Sie haben eingegeben<span id=\"length-error-count-words-[locale]\"></span> Die",
+    "MASKED_PHRASES_LABEL": "Maskierte Phrasen für [localeName].",
+    "MASKED_PHRASES_DESCRIPTION": "Die in dieser Liste enthaltenen Phrasen (durch Komma getrennt) werden wie folgt maskiert: ********.",
+    "MASKED_PHRASES_PLACEHOLDER": "Geben Sie eine durch Kommas getrennte Liste von unangebrachten Ausdrücken ein, z. B. 'ein unangebrachter Ausdruck, noch ein unangebrachter Ausdruck'.",
+    "PHRASES_LENGTH_ERROR": "Sie können bis zu 5.000 Phrasen pro Gebietsschema eingeben. Sie haben eingegeben<span id=\"length-error-count-phrases-[locale]\"></span> Die",
+    "SAVE_BUTTON": "Änderungen speichern für [localeName]"
+}

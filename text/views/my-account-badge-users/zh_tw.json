@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - 快速評論",
+    "HEADING_USERS_WITH_BADGE": "<%- Number(userBadges.length).toLocaleString() %> <%- userBadges.length === 1 ? 'User' : 'Users' %> 配戴徽章 <%- tenantBadge.displayLabel %>",
+    "TEXT_NO_USERS_WITH_BADGE": "目前沒有用戶擁有此徽章！大多數徽章都是自動頒發的。如果是手動頒發的徽章，則需要您手動頒發。",
+    "TABLE_HEADER_USER_ID": "使用者身分",
+    "TABLE_HEADER_EMAIL": "電子郵件",
+    "TABLE_HEADER_AVATAR": "阿凡達",
+    "TABLE_HEADER_NAME": "姓名",
+    "TABLE_HEADER_BADGE_EARNED_DATE": "徽章獲得日期",
+    "TEXT_NA": "不適用"
+}

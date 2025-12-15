@@ -1,0 +1,23 @@
+{
+    "PAGE_TITLE": "Отправленные электронные письма - FastComments",
+    "HEADING": "Отправленные электронные письма",
+    "INFO_NOTE": "<strong>Примечание:</strong> Мы храним историю электронных писем только в течение двух месяцев. Более старые письма автоматически удаляются.",
+    "LABEL_FILTER_SUBJECT": "Фильтр по теме",
+    "PLACEHOLDER_SUBJECT": "Тема поиска...",
+    "LABEL_FILTER_CONTENT": "Фильтрация по содержимому",
+    "PLACEHOLDER_CONTENT": "Поиск содержимого электронных писем...",
+    "BUTTON_SEARCH": "Поиск",
+    "BUTTON_CLEAR": "Прозрачный",
+    "TABLE_HEADER_DATE": "Дата",
+    "TABLE_HEADER_FROM": "От",
+    "TABLE_HEADER_SUBJECT": "Предмет",
+    "MESSAGE_NO_EMAILS_FILTERS": "Адреса электронной почты, соответствующие указанным фильтрам, не найдены.",
+    "BUTTON_VIEW": "Вид",
+    "BUTTON_PREV": "Предыдущая",
+    "BUTTON_NEXT": "Следующий",
+    "LABEL_PAGE": "Страница <%= page %>",
+    "MESSAGE_NO_EMAILS": "У вас нет отправленных писем.",
+    "VALUE_UNKNOWN": "Неизвестный",
+    "VALUE_NO_SUBJECT": "(Без темы)",
+    "VALUE_NA": "Н/Д"
+}

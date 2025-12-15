@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "Переглядач коментарів",
+    "HEADING": "Переглядач коментарів",
+    "THREAD_DETAILS": "Ви переглядаєте гілку коментарів за адресою <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a>",
+    "PAGE_ID_INFO": "Перегляд коментарів для сторінки з ідентифікатором: <%- thread.urlIdDecoded %>"
+}

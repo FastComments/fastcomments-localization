@@ -1,0 +1,6 @@
+{
+    "BUTTON_CLICK_TO_UPDATE_LOGO": "Kliknite za ažuriranje logotipa za <%= domain.domain %>",
+    "BUTTON_CLICK_TO_SET_LOGO": "Kliknite za postavljanje logotipa za <%= domain.domain %>",
+    "TEXT_DOMAIN_VALID": "✔️ <%= domain.domain %>",
+    "TEXT_DOMAIN_INVALID": "❌ \"<%= domain.input %>\": <%= domain.reason %>"
+}

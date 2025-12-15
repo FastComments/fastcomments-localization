@@ -1,0 +1,18 @@
+{
+    "LABEL_CUSTOMER": "לָקוּחַ",
+    "LABEL_SERVICE_REP": "נציג שירות",
+    "LABEL_OPENED": "נפתח",
+    "LABEL_STATUS": "סטָטוּס",
+    "LABEL_CHANGE_STATUS": "שינוי סטטוס",
+    "LINK_IMPERSONATE": "לְהִתְחַזוֹת",
+    "LINK_SWITCH": "מֶתֶג",
+    "AVG_RESPONSE_TIME": "זמן תגובה ממוצע:",
+    "STATUS_AWAITING_YOUR_REPLY": "ממתין לתשובתך",
+    "STATE_OPEN": "לִפְתוֹחַ",
+    "STATE_ACKNOWLEDGED": "הוכר",
+    "STATE_RESOLVED": "נפתר",
+    "ERROR_GET_TICKET_FAILED": "בקשה לקבלת פרטי הכרטיס העדכניים ביותר נכשלה.",
+    "ERROR_CHANGE_STATE_FAILED": "בקשה לשינוי מצב הכרטיס נכשלה.",
+    "INITIAL_COMMENT": "היי [username]! יצרת פנייה בשם \"[subject]\". אנא השאירי מידע נוסף ו-@[assignedTagName] יחזור אליך.",
+    "STATUS_CHANGE_COMMENT": "[username] שינה את הסטטוס מ[oldStatus] ל[newStatus]."
+}

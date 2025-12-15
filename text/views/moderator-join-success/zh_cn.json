@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "您现在是版主 - FastComments",
+    "WELCOME_HEADING": "欢迎， <%- user.displayName || user.username %>。",
+    "DATE_NOTE": "您现在是版主了！",
+    "SUCCESS_MESSAGE": "您的邀请已成功处理。感谢您加入 FastComments 成为版主。",
+    "PASSWORD_INFO": "您会注意到，FastComments 默认不使用密码。我们使用电子邮件地址进行身份验证。您可以稍后设置密码。",
+    "BUTTON_START_MODERATING": "开始审核"
+}

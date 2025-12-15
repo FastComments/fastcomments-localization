@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "댓글 마이그레이션 - FastComments",
+    "HEADING": "댓글 마이그레이션",
+    "INTRO_DESCRIPTION": "이 도구를 사용하면 여러 URL 또는 사이트 간에 댓글을 일괄적으로 이전할 수 있습니다.",
+    "URL_INFO": "도메인과 같은 URL의 일부를 입력하거나, 전체 URL을 입력하거나, <a href=\"https://docs.fastcomments.com/guide-customizations-and-configuration.html#url-id\" target=\"_blank\">URL ID를</a> 입력할 수 있습니다.",
+    "DOMAIN_FROM_LABEL": "어떤 URL 또는 도메인에서 이전하시는 건가요?",
+    "DOMAIN_FROM_PLACEHOLDER": "example.com",
+    "DOMAIN_TO_LABEL": "어떤 URL 또는 도메인으로 이전하시겠습니까?",
+    "DOMAIN_TO_PLACEHOLDER": "some-other-example.com",
+    "START_MIGRATION_BUTTON": "마이그레이션 시작",
+    "EMAIL_NOTIFICATION_INFO": "완료되면 이메일로 알려드리겠습니다.",
+    "MIGRATIONS_HEADING": "이주",
+    "NOSCRIPT_REFRESH_MESSAGE": "페이지를 새로고침하면 최신 상태를 확인할 수 있습니다.",
+    "TABLE_HEADER_START_DATE": "시작일",
+    "TABLE_HEADER_FROM": "에서",
+    "TABLE_HEADER_TO": "에게",
+    "TABLE_HEADER_STATUS": "상태",
+    "TABLE_HEADER_COMMENTS_FOUND": "이동될 댓글을 찾았습니다",
+    "TABLE_HEADER_COMMENTS_MIGRATED": "댓글이 이전되었습니다",
+    "NO_MIGRATIONS_MESSAGE": "현재 진행 중이거나 완료된 도메인 이전이 없습니다."
+}

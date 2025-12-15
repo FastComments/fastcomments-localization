@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "API Gizli Anahtarını Sil - FastComments",
+    "HEADING_DELETE_API_SECRET": "API Gizli Anahtarını Sil",
+    "QUESTION_CONFIRM_DELETE": "<%= apiSecret.name ? 'the api key \"' + apiSecret.name + '\"' : 'this api key' %> öğesini kaldırmak istediğinizden emin misiniz?",
+    "WARNING_USED_BY_WEBHOOKS": "Bu API anahtarı şu anda bir webhook tarafından kullanılıyor. Webhook güncellenmeden önce API anahtarının silinmesi entegrasyonu bozacaktır.",
+    "BUTTON_DELETE_API_SECRET": "API Gizli Anahtarını Sil",
+    "BUTTON_CANCEL": "İptal etmek"
+}

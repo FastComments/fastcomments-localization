@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "アカウントを削除する",
+    "HEADING_DELETE_ACCOUNT": "<%= user.username %>のアカウントを削除する",
+    "TEXT_PRIVACY_POLICY_NOTE": "プライバシーに関する懸念からアカウントを削除する場合は、<a href=\"/privacy-policy\">プライバシーポリシー</a>をご確認ください。当社はお客様のデータを第三者に販売または共有することはありません。",
+    "TEXT_ALSO_DELETING_TENANT": "テナント「<%= tenant ? tenant.name : '' %>」も削除しています。",
+    "TEXT_ACCOUNT_OWNER_WARNING": "あなたはアカウント所有者です。アカウントを削除すると、このテナントも削除されます。",
+    "TEXT_SUBSCRIPTION_CANCELLED": "サブスクリプションもキャンセルされます。",
+    "TEXT_NO_SELL_DATA": "FastCommentsは、お客様の個人情報を第三者に<b>販売または共有することはありません</b>。無料アカウントの作成は、お客様の利便性向上のためだけに提供しています。",
+    "HEADING_CONFIRMATION": "確認",
+    "LABEL_REMOVE_COMMENTS": "<%= commentCount %> コメントをすべて削除しますか?",
+    "LABEL_CONFIRM_REMOVAL": "アカウントの削除を確認するには、このボックスにチェックを入れてください。アカウントまたは関連するコメントを削除すると、元に戻すことはできません。",
+    "LABEL_FEEDBACK": "あなたが去る理由を私たちに理解させるのを手伝ってください。",
+    "BUTTON_NO_DONT_DELETE": "いいえ、アカウントを削除しないでください",
+    "BUTTON_YES_DELETE": "はい、アカウントを削除します"
+}

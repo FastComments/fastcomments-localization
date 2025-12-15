@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Analitika naplate - Brzi komentari",
+    "HEADING_BILLING_ANALYTICS": "Analitika naplate",
+    "HEADING_USAGE_THIS_PERIOD": "Upotreba u ovom razdoblju",
+    "TABLE_HEADER_DESCRIPTION": "Opis",
+    "TABLE_HEADER_COST_USD": "Cijena (USD)",
+    "TEXT_TOTAL": "Ukupno",
+    "TEXT_TRIAL_PERIOD_NOTE": "Trenutno ste u probnom razdoblju. <b>Gore navedeni iznos ne dospijeva u ovom ciklusu naplate.</b>",
+    "TEXT_INVOICE_SEND_DATE": "Račun će biti poslan <%= invoiceSendDate %>.",
+    "HEADING_SERVICE_LIMITS": "Ograničenja usluge",
+    "TEXT_TRIAL_LIMITS_NOTE": "<b>Napomena!</b> Budući da ste u probnom razdoblju, na vaš račun primjenjuju se niži limiti. <a href=\"/auth/my-account/billing-info\">Nadogradite na plaćeni račun</a> ili <a href=\"/auth/my-account/help\">se obratite podršci kako biste povećali te limite</a> .",
+    "LABEL_CURRENT": "Trenutno:",
+    "LABEL_MAX": "Maks.:",
+    "TEXT_MAX_NONE": "Ništa"
+}

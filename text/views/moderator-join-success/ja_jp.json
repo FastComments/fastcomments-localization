@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "あなたはモデレーターになりました - FastComments",
+    "WELCOME_HEADING": "いらっしゃいませ、 <%- user.displayName || user.username %>。",
+    "DATE_NOTE": "あなたはモデレーターになりました!",
+    "SUCCESS_MESSAGE": "招待が正常に処理されました。FastComments のモデレーターとしてご参加いただきありがとうございます。",
+    "PASSWORD_INFO": "FastCommentsでは、デフォルトではパスワードが使用されないことにお気づきでしょう。認証にはメールアドレスを使用します。パスワードは後から設定できます。",
+    "BUTTON_START_MODERATING": "モデレートを開始する"
+}

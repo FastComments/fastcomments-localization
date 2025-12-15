@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Özelleştir - Hızlı Yorumlar",
+    "HEADING_ADD": "Moderatör ekle",
+    "HEADING_EDIT": "Özelleştirmek <%= moderator.name %>",
+    "SUB_HEADING_ADD": "Moderatör ekle",
+    "SUB_HEADING_EDIT": "Düzenleme <%= moderator.name %>",
+    "INTRO_PARAGRAPH_1": "Yorumlarınızı denetleyecek birine erişim izni vermek istiyorsanız doğru yerdesiniz.",
+    "INTRO_PARAGRAPH_2": "Yönetici kullanıcılar için moderatör eklemenize gerek olmadığını unutmayın. Yönetici kullanıcılar zaten moderasyon yeteneklerine sahiptir.",
+    "NAME_SECTION_HEADING": "Onlara bir isim verin",
+    "NAME_LABEL": "İsim",
+    "NAME_PLACEHOLDER": "Sayın Moderatör Guy",
+    "EMAIL_SECTION_HEADING": "Bize bir e-posta adresi gerekecek.",
+    "EMAIL_LABEL": "E-posta",
+    "EMAIL_PLACEHOLDER": "guy@moderators.com",
+    "GROUPS_SECTION_HEADING": "Hangi gruplara mensuplar?",
+    "MODERATION_GROUPS_LABEL": "Moderasyon Grupları",
+    "CLEAR_ALL_LINK": "Tümünü Temizle",
+    "GROUPS_DESCRIPTION": "Yalnızca bu grupların yorumlarını \"Yorumları Denetle\" sayfasında görebilecekler.",
+    "SAVE_BUTTON": "Kaydetmek"
+}

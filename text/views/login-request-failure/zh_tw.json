@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "FastComments - 登入失敗",
+    "HERO_TITLE_LIGHT": "登入  ",
+    "HERO_TITLE_BOLD": "失敗的",
+    "BUTTON_TRY_AGAIN": "重試",
+    "ERROR_HEADING": "出問題了",
+    "ERROR_MESSAGE": "您的登入請求發生錯誤。",
+    "ERROR_INVALID_CREDENTIALS": "密碼或使用者名稱無效。",
+    "ERROR_USERNAME_REQUIRED": "您必須提供使用者名稱！",
+    "ERROR_USERNAME_TOO_LONG": "您的用戶名必須少於 1000 個字元！",
+    "ERROR_RATE_LIMITED_MINUTES": "您已超出存取速率限制。請稍後再試，或聯絡客服。",
+    "ERROR_RATE_LIMITED_DAILY": "您已超出每日訪問量限制。請24小時後再試，或聯絡客服。",
+    "ERROR_RATE_LIMITED": "您已超出存取速率限制。請稍後再試或聯絡客服。",
+    "ERROR_TOO_MANY_ATTEMPTS": "過去一小時內登入嘗試次數過多。請稍後重試。",
+    "ERROR_CAPTCHA_WRONG": "您沒有正確回答安全問題。請返回並重試。",
+    "ERROR_EMAIL_REQUIRED": "您必須提供電子郵件地址！",
+    "ERROR_EMAIL_TOO_LONG": "您的電子郵件字數必須少於 1000 個字元！",
+    "ERROR_INVALID_EMAIL": "那不是一個有效的電子郵件地址！",
+    "ERROR_USERNAME_TAKEN": "該使用者名稱已被其他郵箱佔用。請嘗試其他使用者名稱。"
+}

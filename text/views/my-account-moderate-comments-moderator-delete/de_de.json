@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "Moderator löschen – FastComments",
+    "HEADING": "Entfernen eines Moderators",
+    "SUB_HEADING": "Sie entfernen <%= moderator.name %>",
+    "CANNOT_UNDO": "Dies kann nicht rückgängig gemacht werden. <%= moderator.name %> kann Ihre Kommentare nicht mehr sehen oder moderieren.",
+    "NOTIFICATION_INFO": "Sie werden über ihre Abberufung als Moderator per automatischer E-Mail benachrichtigt.",
+    "METRICS_WARNING": "Sämtliche Kennzahlen werden entfernt <b>(falls Sie die E-Mail-Adresse ändern möchten, können Sie diese auf der vorherigen Seite bearbeiten)</b> .",
+    "CANCEL_LINK": "Stornieren",
+    "DELETE_BUTTON": "Diesen Moderator löschen"
+}

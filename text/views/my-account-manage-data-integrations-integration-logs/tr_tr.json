@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Entegrasyon Günlükleri - FastComments",
+    "HEADING": "Entegrasyon Kayıtları.",
+    "SUB_HEADING": "<%= integration.readableType %> için kayıtlar",
+    "NOSCRIPT_MESSAGE": "Günlükleri görebilmek için lütfen JavaScript'i etkinleştirin.",
+    "PAGE_UPDATE_INFO": "Entegrasyon ilerledikçe bu sayfa güncellenecektir.",
+    "SYNC_INFO": "Bu işlem tamamlandıktan sonra yorumlarınız sitenizle senkronize halde kalacak, böylece FastComments'ı devre dışı bıraksanız bile hiçbir veri kaybetmeyeceksiniz.",
+    "LOGS_RETENTION_INFO": "Bu kayıtlar iki yıl süreyle saklanacaktır."
+}

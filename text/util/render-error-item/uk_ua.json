@@ -1,0 +1,5 @@
+{
+    "TEXT_RENDER_ERRORS_HEADING": "<%= Number(renderError.count).toLocaleString() %> Нещодавні помилки рендерингу!",
+    "TEXT_FIRST_OCCURRENCE": "Перша поява: <%= renderError.createdAt.toLocaleString() %>",
+    "TEXT_MOST_RECENT_OCCURRENCE": "Найновіша подія: <%= renderError.lastOccurredAt.toLocaleString() %>"
+}

@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Dvofaktorska autentifikacija - Brzi komentari",
+    "HEADING": "Dvofaktorska autentifikacija",
+    "DESCRIPTION": "Dvofaktorska autentifikacija dodaje dodatni sloj sigurnosti vašem računu zahtijevajući drugi oblik provjere prilikom prijave.",
+    "HEADING_ADD_METHODS": "Dodaj novu 2FA metodu",
+    "HEADING_AUTHENTICATOR": "Aplikacija za autentifikaciju",
+    "DESCRIPTION_AUTHENTICATOR": "Koristite aplikacije poput Google Authenticatora, Authyja ili 1Passworda za generiranje kodova temeljenih na vremenu.",
+    "BUTTON_ADD_AUTHENTICATOR": "Dodaj autentifikator",
+    "HEADING_SMS": "SMS tekstualna poruka",
+    "DESCRIPTION_SMS": "Primajte verifikacijske kodove putem tekstualne poruke na svoj telefon.",
+    "BUTTON_ADD_SMS": "Dodaj telefonski broj",
+    "HEADING_BACKUP_CODES": "Pričuvni kodovi",
+    "DESCRIPTION_BACKUP_CODES": "Pričuvni kodovi mogu se koristiti za pristup vašem računu ako izgubite pristup svojim 2FA metodama. Svaki kod može se koristiti samo jednom.",
+    "BUTTON_VIEW_BACKUP_CODES": "Prikaži rezervne kodove"
+}

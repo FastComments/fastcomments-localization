@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "מציג שרשור תגובות",
+    "HEADING": "מציג שרשור תגובות",
+    "THREAD_DETAILS": "אתה צופה בשרשור התגובות ב <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\">-<%= thread.urlDecoded %></a>",
+    "PAGE_ID_INFO": "צפייה בתגובות עבור מזהה עמוד: <%- thread.urlIdDecoded %>"
+}

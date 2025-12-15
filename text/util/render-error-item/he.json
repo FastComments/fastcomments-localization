@@ -1,0 +1,5 @@
+{
+    "TEXT_RENDER_ERRORS_HEADING": "<%= Number(renderError.count).toLocaleString() %> שגיאות רינדור אחרונות!",
+    "TEXT_FIRST_OCCURRENCE": "מופע ראשון: <%= renderError.createdAt.toLocaleString() %>",
+    "TEXT_MOST_RECENT_OCCURRENCE": "האירוע האחרון: <%= renderError.lastOccurredAt.toLocaleString() %>"
+}

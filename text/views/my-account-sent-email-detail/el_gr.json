@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Απεστάλη email στις <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "BUTTON_BACK": "← Πίσω στα Απεσταλμένα Ηλεκτρονικά Μηνύματα",
+    "HEADING": "Απεστάλη email στις <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "LABEL_DATE": "Ημερομηνία:",
+    "LABEL_FROM": "Από:",
+    "LABEL_TO": "Να:",
+    "LABEL_BCC": "Ιδιωτική κοινοποίηση:",
+    "LABEL_SUBJECT": "Θέμα:",
+    "LABEL_HEADERS": "Επικεφαλίδες:",
+    "HEADING_EMAIL_CONTENT": "Περιεχόμενο ηλεκτρονικού ταχυδρομείου",
+    "MESSAGE_NO_CONTENT": "Δεν υπάρχει διαθέσιμο περιεχόμενο",
+    "VALUE_UNKNOWN": "Αγνωστος",
+    "VALUE_NO_SUBJECT": "(Χωρίς θέμα)"
+}

@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Izbriši moj nalog",
+    "HEADING_DELETE_ACCOUNT": "Izbriši <%= user.username %> nalog",
+    "TEXT_PRIVACY_POLICY_NOTE": "Ako brišete svoj nalog zbog zabrinutosti za privatnost, razmislite o tome da proverite našu <a href=\"/privacy-policy\">Pravila o privatnosti</a>. Mi ne prodajemo niti delimo vaše podatke sa trećim licima.",
+    "TEXT_ALSO_DELETING_TENANT": "Takođe brisanje stanara \"<%= tenant ? tenant.name : '' %>\".",
+    "TEXT_ACCOUNT_OWNER_WARNING": "Vi ste vlasnik naloga. Brisanjem naloga briše se ovaj stanar.",
+    "TEXT_SUBSCRIPTION_CANCELLED": "Vaša pretplata će takođe biti otkazana.",
+    "TEXT_NO_SELL_DATA": "Imajte na umu da FastComments <b>ne prodaje ili deli</b> vaše lične podatke sa trećim licima. Nudimo besplatno kreiranje naloga jednostavno kao pogodnost.",
+    "HEADING_CONFIRMATION": "Potvrda",
+    "LABEL_REMOVE_COMMENTS": "Uklonite sve <%= commentCount %> komentare?",
+    "LABEL_CONFIRM_REMOVAL": "Označite ovo polje da biste potvrdili uklanjanje naloga. Brisanje naloga ili povezanih komentara ne može se poništiti.",
+    "LABEL_FEEDBACK": "Pomozite nam da shvatimo zašto vidimo da idete.",
+    "BUTTON_NO_DONT_DELETE": "Ne, ne briši moj nalog",
+    "BUTTON_YES_DELETE": "Da, izbriši moj nalog"
+}

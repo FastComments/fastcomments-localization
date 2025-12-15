@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "Integratie bevestigen - FastComments",
+    "PAGE_HEADING": "Uw integratie tot stand brengen.",
+    "PAGE_SUBHEADING": "Bevestiging",
+    "NOSCRIPT_MESSAGE": "Schakel JavaScript in om de integratie in te stellen.",
+    "UPLOAD_DESCRIPTION": "Indien gewenst kunnen we uw opmerkingen automatisch uploaden vanuit uw <%= integrationName %> installatie tijdens de synchronisatie. U kunt dit ook later zelf doen door het onderstaande vakje uit te vinken.",
+    "CHECKBOX_UPLOAD_COMMENTS": "Mijn reacties automatisch uploaden.",
+    "CHECKBOX_UPLOAD_COMMENTS_HELP": "Je kunt je reacties later uploaden via de beheerderspagina van de plugin.",
+    "CHECKBOX_SYNC_DATABASE": "Mijn <%= integrationName %> database automatisch synchroniseren.",
+    "CHECKBOX_SYNC_DATABASE_HELP": "Dit zorgt ervoor dat uw <%= integrationName %> database up-to-date blijft. Handig als plugins de meest recente reacties in uw database nodig hebben. Wordt vaak uitgeschakeld bij websites met een zeer hoog bezoekersaantal, waar het up-to-date houden van <%= integrationName %> een ongewenste belasting veroorzaakt.",
+    "BUTTON_START_SYNC": "Start synchronisatie"
+}

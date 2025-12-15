@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Einrichtung eines neuen Mieters",
+    "HERO_TITLE_LIGHT": "Fast  ",
+    "HERO_TITLE_BOLD": "Dort",
+    "HERO_DESCRIPTION": "FastComments bietet das am schnellsten einzurichtende und zu bedienende Kommentarsystem für Unternehmen und Endnutzer – und Sie können es <u>30 Tage lang kostenlos testen</u> .",
+    "NOT_WEBSITE_LINK_TEXT": "Wenn Sie FastComments nicht auf einer Website einbinden möchten, sollten Sie sich <a href=\"/auth/commenter-signup?email=<%= email %>\">hier anmelden.</a>",
+    "FORM_DESCRIPTION": "Jetzt benötigen wir nur noch einige grundlegende Informationen, und dann können Sie mit der Installation von FastComments beginnen.",
+    "LABEL_USERNAME": "*Öffentlich angezeigter Benutzername:",
+    "USERNAME_PATTERN_TITLE": "Bitte keine Sonderzeichen – nur Zahlen und Buchstaben.",
+    "LABEL_EMAIL": "*E-Mail:",
+    "EMAIL_DESCRIPTION_LOGGED_IN": "Wir verwenden Ihre bestehende E-Mail-Adresse. Sie können diese bei Bedarf später auf der Kontoseite ändern.",
+    "EMAIL_DESCRIPTION": "Wir senden Ihnen eine E-Mail, in der wir Sie bitten, Ihr Konto zu bestätigen.",
+    "LABEL_COMPANY_NAME": "*Name der Firma:",
+    "DOMAINS_HEADING": "Wie lautet die Adresse Ihrer Website, auf der FastComments angezeigt werden soll?",
+    "LABEL_WEBSITES": "*Website(s):",
+    "DOMAINS_DESCRIPTION": "Sie müssen keine Subdomains oder localhost angeben. Bei mehreren Websites trennen Sie diese durch Kommas.",
+    "TOS_TEXT": "Mit einem Klick auf „Konto erstellen“ stimmen Sie den <a href=\"/terms-of-service\" target=\"_blank\">Nutzungsbedingungen</a> zu.",
+    "BUTTON_CREATE_ACCOUNT": "Benutzerkonto erstellen",
+    "ERROR_SIGNUP_ALREADY_STARTED": "Der Anmeldevorgang wurde bereits gestartet und kann nicht erneut abgeschickt werden. Haben Sie die Seite vielleicht aktualisiert?"
+}

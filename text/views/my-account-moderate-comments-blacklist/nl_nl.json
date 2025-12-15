@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Woordblacklist - FastComments",
+    "HEADING": "Woordzwartlijst voor reacties",
+    "SUB_HEADING": "De zwarte lijst aanpassen",
+    "SUCCESS_MESSAGE": "Zwarte lijst succesvol opgeslagen.",
+    "INTRO_PARAGRAPH_1": "Hieronder staan lijsten met door komma's gescheiden woorden en woordgroepen die in reacties en gebruikersnamen worden gemaskeerd. Wees zorgvuldig met je woordkeuze - het blokkeren van te veel voorkomende woorden kan je community afschrikken.",
+    "INTRO_PARAGRAPH_2": "Deze worden <b>per locatie</b> gedefinieerd. Een locatie is een combinatie van een taal en een geografische regio.",
+    "INTRO_PARAGRAPH_3": "U zult zien dat we onderscheid maken tussen <b>woorden</b> en <b>woordgroepen</b> . Woorden in de <b>woordenlijst</b> mogen geen spaties of speciale tekens bevatten. Als u een woordgroep heeft die spaties, punten, enzovoort bevat, voeg deze dan toe aan de <b>woordgroeplijst</b> .",
+    "NOSCRIPT_MESSAGE": "JavaScript is vereist voor een correcte werking van deze configuratie-interface.",
+    "EDIT_LOCALE_LABEL": "Bewerken voor taal",
+    "MASKED_WORDS_LABEL": "Verhulde woorden voor [localeName].",
+    "MASKED_WORDS_DESCRIPTION": "Woorden in deze lijst (gescheiden door komma's) worden weergegeven als ***.",
+    "MASKED_WORDS_PLACEHOLDER": "Voer een door komma's gescheiden lijst met scheldwoorden in, bijvoorbeeld 'sommige, scheldwoorden'.",
+    "WORDS_LENGTH_ERROR": "Je kunt maximaal 5.000 woorden per taal invoeren. Je hebt ingevoerd.<span id=\"length-error-count-words-[locale]\"></span> .",
+    "MASKED_PHRASES_LABEL": "Verhulde zinnen voor [localeName].",
+    "MASKED_PHRASES_DESCRIPTION": "Zinnen in deze lijst (gescheiden door komma's) worden gemaskeerd als ********.",
+    "MASKED_PHRASES_PLACEHOLDER": "Voer een door komma's gescheiden lijst met scheldwoorden in, bijvoorbeeld 'een of ander scheldwoord, nog een ander scheldwoord'.",
+    "PHRASES_LENGTH_ERROR": "U kunt maximaal 5.000 zinnen per taal invoeren. U heeft ingevoerd<span id=\"length-error-count-phrases-[locale]\"></span> .",
+    "SAVE_BUTTON": "Wijzigingen opslaan in [localeName]"
+}

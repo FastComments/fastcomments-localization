@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Migrirajte komentare - FastComments",
+    "HEADING": "Migrirajte komentare",
+    "INTRO_DESCRIPTION": "Ovaj alat vam omogućava da grupno migrirate svoje komentare preko različitih URL-ova ili sajtova.",
+    "URL_INFO": "Možete uneti deo URL-a, kao što je domen, ili punu URL adresu, ili <a href =\"https://docs.fastcomments.com/guide-customizations-and-configuration.html#url-id\" target =\"_blank\">URL ID.</a>",
+    "DOMAIN_FROM_LABEL": "Sa kog URL-a ili domena migrirate?",
+    "DOMAIN_FROM_PLACEHOLDER": "example.com",
+    "DOMAIN_TO_LABEL": "Na koji URL ili domen migrirate?",
+    "DOMAIN_TO_PLACEHOLDER": "some-other-example.com",
+    "START_MIGRATION_BUTTON": "Pokreni migraciju",
+    "EMAIL_NOTIFICATION_INFO": "Dobićete e-poštu koja vas obaveštava kada bude završena.",
+    "MIGRATIONS_HEADING": "Migracije",
+    "NOSCRIPT_REFRESH_MESSAGE": "Osvežite stranicu da biste dobili najnoviji status.",
+    "TABLE_HEADER_START_DATE": "Datum početka",
+    "TABLE_HEADER_FROM": "Od",
+    "TABLE_HEADER_TO": "U",
+    "TABLE_HEADER_STATUS": "Istorijat",
+    "TABLE_HEADER_COMMENTS_FOUND": "Pronađeni komentari za migraciju",
+    "TABLE_HEADER_COMMENTS_MIGRATED": "Komentari migrirali",
+    "NO_MIGRATIONS_MESSAGE": "Nemate nikakvih migracija domena na čekanju ili prošlih migracija."
+}

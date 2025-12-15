@@ -1,0 +1,18 @@
+{
+    "PAGE_TITLE": "API - FastComments",
+    "HEADING_API_SSO": "API/SSO",
+    "HEADING_API_SSO_METRICS_SETTINGS": "Métriques et paramètres des API et de l'authentification unique",
+    "LABEL_SSO_USERS": "Utilisateurs SSO",
+    "TILE_API_CREDENTIALS": "Identifiants API",
+    "TILE_SAML_CONFIG": "Configuration SAML",
+    "TILE_SAML_CONFIG_DISABLED_TITLE": "Configuration SAML",
+    "TILE_SAML_CONFIG_DISABLED_MESSAGE": "Le package actuel n'inclut pas SAML.",
+    "BUTTON_VIEW_API_DOCUMENTATION": "Consulter la documentation de l'API",
+    "BUTTON_VIEW_INTEGRATION_DOCUMENTATION": "Consulter la documentation d'intégration",
+    "TEXT_CUSTOM_SSO_HELP": "Vous développez une solution SSO personnalisée ? N&#39;hésitez pas à <a href=\"/auth/my-account/help\">contacter notre assistance</a> pour discuter de votre intégration. Nous pouvons vous accompagner tout au long du processus.",
+    "HEADING_ON_WORDPRESS": "Sur WordPress ?",
+    "TEXT_WORDPRESS_INFO": "Si vous utilisez WordPress, aucune ligne de code n&#39;est nécessaire ! Notre extension gère l&#39;authentification unique de manière transparente. Consultez la documentation pour WordPress <a href=\"https://docs.fastcomments.com/guide-customizations-and-configuration.html#wordpress-users\" target=\"_blank\">ici</a> .",
+    "API_DOCUMENTATION_ARGUMENT": "argument",
+    "API_DOCUMENTATION_REQUIRED": "(requis)",
+    "API_DOCUMENTATION_DESCRIPTION": "Description:"
+}

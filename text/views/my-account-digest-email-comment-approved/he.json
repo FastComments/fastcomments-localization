@@ -1,0 +1,8 @@
+{
+    "TITLE": "התגובה אושרה - תגובות מהירות",
+    "HEADING": "הַצלָחָה!",
+    "COMMENT_APPROVED": "הערה זו סומנה כנבדקה ואושרה.",
+    "ALSO_LOGGED_IN": "גם אתה כבר מחובר/ת.",
+    "VIEW_COMMENT_ON_SITE": "ניתן לצפות בתגובה שאושרה באתר שלך <a href=\"<%= comment.url %>\" target=\"_blank\">כאן</a> , או באמצעות מציג שרשורי התגובות <a href=\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">כאן</a> .",
+    "CLOSE_PAGE": "כעת ניתן לסגור דף זה."
+}

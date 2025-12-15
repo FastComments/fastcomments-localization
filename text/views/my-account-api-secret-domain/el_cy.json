@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Ενημέρωση μυστικού τομέα API - FastComments",
+    "HEADING_UPDATE_API_SECRET_DOMAIN": "Ενημέρωση μυστικού τομέα API",
+    "TEXT_DOMAIN_INFO": "Για διαμορφώσεις όπως τα Webhooks, θα καθορίσουμε ποιο κλειδί API θα χρησιμοποιηθεί με βάση αυτήν τη διαμόρφωση.",
+    "LABEL_ASSOCIATE_SECRET_WITH_DOMAIN": "Συσχετίστε το μυστικό api \"<%= apiSecret.name %>\" με τον τομέα:",
+    "OPTION_ALL_DOMAINS": "Όλοι οι τομείς",
+    "BUTTON_UPDATE_DOMAIN": "Ενημέρωση τομέα"
+}

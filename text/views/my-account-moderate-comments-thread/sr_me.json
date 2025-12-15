@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "Прегледач коментара",
+    "HEADING": "Прегледач коментара",
+    "THREAD_DETAILS": "Прегледате коментаре на <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a>",
+    "PAGE_ID_INFO": "Преглед коментара за ИД странице: <%- thread.urlIdDecoded %>"
+}

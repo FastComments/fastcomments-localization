@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "쿠폰 - FastComments",
+    "HEADING_COUPONS": "쿠폰",
+    "HEADING_COUPON_CODES": "쿠폰 코드",
+    "HEADING_STATS": "통계",
+    "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> 쿠폰 사용 완료.",
+    "TEXT_TOTAL_COUPONS": "총 쿠폰 수: <%= Number(coupons.length).toLocaleString() %>개.",
+    "HEADING_DOWNLOAD": "다운로드",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "사용 가능한 쿠폰을 다운로드하세요",
+    "HEADING_GENERATE_TIER_4_COUPONS": "4단계 쿠폰 생성",
+    "LABEL_GENERATE_COUPON_COUNT": "쿠폰 개수 생성",
+    "BUTTON_SUBMIT": "제출하다",
+    "HEADING_COUPON_LIST": "쿠폰 목록",
+    "TABLE_HEADER_CODE": "암호",
+    "TABLE_HEADER_REDEEMED_DATE": "사용 날짜"
+}

@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "ログイン - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "ログイン",
+    "HERO_DESCRIPTION": "FastCommentsアカウントにアクセスする",
+    "TAB_LOGIN_VIA_EMAIL": "メールでログイン",
+    "TAB_LOGIN_VIA_PASSWORD": "パスワードでログイン",
+    "LABEL_USERNAME_OR_EMAIL": "ユーザー名またはメールアドレス",
+    "LABEL_PASSWORD": "パスワード",
+    "FORGOT_PASSWORD_LINK": "パスワードを忘れました",
+    "PASSWORD_LESS_HEADING": "FastComments はあなたのメールアドレスをパスワードとして使用します。安全なログイン リンクをお送りします。",
+    "CREATE_ACCOUNT_INFO": "アカウントをお持ちでない場合は、これでアカウントが作成されます。",
+    "LABEL_USERNAME": "ユーザー名",
+    "FORGOT_USERNAME_LINK": "ユーザー名を忘れました",
+    "LABEL_EMAIL": "メール",
+    "EMAIL_HELP_TEXT": "サインインするためのリンクをメールで送信します。アカウントをお持ちでない場合は、こちらでアカウントを作成します。",
+    "LABEL_CAPTCHA": "<%= captchaA %> + <%= captchaB %> とは何ですか?",
+    "CAPTCHA_HELP": "あなたがボットではないことを確認できるようにします。",
+    "BUTTON_LOGIN": "ログイン"
+}

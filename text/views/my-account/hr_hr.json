@@ -1,0 +1,7 @@
+{
+    "TITLE": "Moj račun - BrziKomentari",
+    "WELCOME_BACK": "Dobrodošao natrag, <%- user.displayName || user.username %>.",
+    "SNAPSHOT_MESSAGE": "Evo kratkog pregleda vašeg računa.",
+    "JAVASCRIPT_REQUIRED": "Za ispravan rad FastComments-a potreban je JavaScript.",
+    "JAVASCRIPT_NOTE": "Napomena! Koristimo vrlo minimalan JS - bez teških frameworkova - kako bismo ograničili korištenje memorije. Nadamo se da ćete uživati u našem proizvodu."
+}

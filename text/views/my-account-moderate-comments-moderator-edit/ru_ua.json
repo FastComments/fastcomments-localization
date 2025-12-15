@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Настроить - FastComments",
+    "HEADING_ADD": "Добавить модератора",
+    "HEADING_EDIT": "Настроить <%= moderator.name %>",
+    "SUB_HEADING_ADD": "Добавить модератора",
+    "SUB_HEADING_EDIT": "Редактирование <%= moderator.name %>",
+    "INTRO_PARAGRAPH_1": "Если вы хотите предоставить кому-либо доступ к модерации ваших комментариев, вы обратились по адресу.",
+    "INTRO_PARAGRAPH_2": "Обратите внимание, что добавлять модераторов для администраторов не требуется. Администраторы уже обладают правами модерации.",
+    "NAME_SECTION_HEADING": "Дайте им имя",
+    "NAME_LABEL": "Имя",
+    "NAME_PLACEHOLDER": "Господин модератор Гай",
+    "EMAIL_SECTION_HEADING": "Нам понадобится адрес электронной почты.",
+    "EMAIL_LABEL": "Электронная почта",
+    "EMAIL_PLACEHOLDER": "guy@moderators.com",
+    "GROUPS_SECTION_HEADING": "К каким группам они принадлежат?",
+    "MODERATION_GROUPS_LABEL": "Группы модерации",
+    "CLEAR_ALL_LINK": "Очистить все",
+    "GROUPS_DESCRIPTION": "Комментарии от этих групп будут отображаться только на странице модерации комментариев.",
+    "SAVE_BUTTON": "Сохранять"
+}

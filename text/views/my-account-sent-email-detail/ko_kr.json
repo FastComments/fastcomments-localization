@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>일에 이메일을 보냈습니다 - FastComments",
+    "BUTTON_BACK": "← 보낸 이메일 목록으로 돌아가기",
+    "HEADING": "<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>일에 이메일을 보냈습니다.",
+    "LABEL_DATE": "날짜:",
+    "LABEL_FROM": "에서:",
+    "LABEL_TO": "에게:",
+    "LABEL_BCC": "숨은 참조:",
+    "LABEL_SUBJECT": "주제:",
+    "LABEL_HEADERS": "헤더:",
+    "HEADING_EMAIL_CONTENT": "이메일 내용",
+    "MESSAGE_NO_CONTENT": "콘텐츠를 사용할 수 없습니다.",
+    "VALUE_UNKNOWN": "알려지지 않은",
+    "VALUE_NO_SUBJECT": "(제목 없음)"
+}

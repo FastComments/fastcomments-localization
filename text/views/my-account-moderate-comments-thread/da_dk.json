@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "Kommentartrådsvisning",
+    "HEADING": "Kommentartrådsvisning",
+    "THREAD_DETAILS": "Du ser kommentartråden på <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a>",
+    "PAGE_ID_INFO": "Viser kommentarer til side-ID: <%- thread.urlIdDecoded %>"
+}

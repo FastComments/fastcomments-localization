@@ -1,0 +1,5 @@
+{
+    "TEXT_RENDER_ERRORS_HEADING": "최근 렌더링 오류 발생!",
+    "TEXT_FIRST_OCCURRENCE": "최초 발생일: <%= renderError.createdAt.toLocaleString() %>",
+    "TEXT_MOST_RECENT_OCCURRENCE": "최근 발생일: <%= renderError.lastOccurredAt.toLocaleString() %>"
+}

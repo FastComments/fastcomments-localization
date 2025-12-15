@@ -1,0 +1,6 @@
+{
+    "BUTTON_CLICK_TO_UPDATE_LOGO": "Кликните да бисте ажурирали лого за <%= domain.domain %>",
+    "BUTTON_CLICK_TO_SET_LOGO": "Кликните да бисте поставили лого за <%= domain.domain %>",
+    "TEXT_DOMAIN_VALID": "✔️ <%= domain.domain %>",
+    "TEXT_DOMAIN_INVALID": "❌ \"<%= domain.input %>\": <%= domain.reason %>"
+}

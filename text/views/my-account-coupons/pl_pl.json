@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Kupony - FastComments",
+    "HEADING_COUPONS": "Kupony",
+    "HEADING_COUPON_CODES": "Kody kuponów",
+    "HEADING_STATS": "Statystyki",
+    "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> Zrealizowano kupony.",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Łączna liczba kuponów.",
+    "HEADING_DOWNLOAD": "Pobierać",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Pobierz dostępne kupony",
+    "HEADING_GENERATE_TIER_4_COUPONS": "Generuj kupony poziomu 4",
+    "LABEL_GENERATE_COUPON_COUNT": "Wygeneruj liczbę kuponów",
+    "BUTTON_SUBMIT": "Składać",
+    "HEADING_COUPON_LIST": "Lista kuponów",
+    "TABLE_HEADER_CODE": "Kod",
+    "TABLE_HEADER_REDEEMED_DATE": "Data realizacji"
+}

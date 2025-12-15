@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Nieuwe huurder instellen",
+    "HERO_TITLE_LIGHT": "Bijna  ",
+    "HERO_TITLE_BOLD": "Daar",
+    "HERO_DESCRIPTION": "FastComments biedt het snelst te installeren en te gebruiken commentaarsysteem voor zowel bedrijven als gebruikers, en u bent op weg naar een <u>gratis proefperiode van 30 dagen</u> .",
+    "NOT_WEBSITE_LINK_TEXT": "Als je FastComments niet aan een website wilt toevoegen, kun je je <a href=\"/auth/commenter-signup?email=<%= email %>\">hier aanmelden.</a>",
+    "FORM_DESCRIPTION": "Nu hebben we alleen nog wat basisinformatie nodig, en dan kun je FastComments installeren.",
+    "LABEL_USERNAME": "*Openbaar weergegeven gebruikersnaam:",
+    "USERNAME_PATTERN_TITLE": "Gebruik geen speciale tekens, alleen cijfers en letters.",
+    "LABEL_EMAIL": "*E-mail:",
+    "EMAIL_DESCRIPTION_LOGGED_IN": "We gebruiken je bestaande e-mailadres. Je kunt dit later indien nodig wijzigen via je accountpagina.",
+    "EMAIL_DESCRIPTION": "We sturen je een e-mail met het verzoek je account te verifiëren.",
+    "LABEL_COMPANY_NAME": "*Bedrijfsnaam:",
+    "DOMAINS_HEADING": "Wat is het adres van uw website waar FastComments wordt weergegeven?",
+    "LABEL_WEBSITES": "*Website(s):",
+    "DOMAINS_DESCRIPTION": "Het is niet nodig om subdomeinen of localhost in te voeren. Voor meerdere sites kunt u deze met komma's scheiden.",
+    "TOS_TEXT": "Door op &#39;Account aanmaken&#39; te klikken, ga je akkoord met de <a href=\"/terms-of-service\" target=\"_blank\">Servicevoorwaarden</a> .",
+    "BUTTON_CREATE_ACCOUNT": "Account aanmaken",
+    "ERROR_SIGNUP_ALREADY_STARTED": "Het aanmeldproces is al gestart en kan niet opnieuw worden ingediend. Heeft u de pagina mogelijk vernieuwd?"
+}

@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "自定义 - 快速评论",
+    "HEADING_ADD": "添加版主",
+    "HEADING_EDIT": "定制 <%= moderator.name %>",
+    "SUB_HEADING_ADD": "添加版主",
+    "SUB_HEADING_EDIT": "编辑<%= moderator.name %>",
+    "INTRO_PARAGRAPH_1": "如果您想授权他人审核您的评论，那么您来对地方了。",
+    "INTRO_PARAGRAPH_2": "请注意，管理员用户无需添加版主。管理员用户本身就具有审核权限。",
+    "NAME_SECTION_HEADING": "给他们起个名字",
+    "NAME_LABEL": "姓名",
+    "NAME_PLACEHOLDER": "主持人盖伊先生",
+    "EMAIL_SECTION_HEADING": "我们需要您的电子邮件地址",
+    "EMAIL_LABEL": "电子邮件",
+    "EMAIL_PLACEHOLDER": "guy@moderators.com",
+    "GROUPS_SECTION_HEADING": "他们属于哪些团体？",
+    "MODERATION_GROUPS_LABEL": "审核小组",
+    "CLEAR_ALL_LINK": "全部清除",
+    "GROUPS_DESCRIPTION": "他们只能在“审核评论”页面看到来自这些群组的评论。",
+    "SAVE_BUTTON": "节省"
+}

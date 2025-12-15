@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "Visionneuse de fils de commentaires",
+    "HEADING": "Visionneuse de fils de commentaires",
+    "THREAD_DETAILS": "Vous consultez la discussion à l&#39; <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\">adresse <%= thread.urlDecoded %></a>",
+    "PAGE_ID_INFO": "Affichage des commentaires pour l'identifiant de la page : <%- thread.urlIdDecoded %>"
+}

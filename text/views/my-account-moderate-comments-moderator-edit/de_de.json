@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Anpassen – Schnellkommentare",
+    "HEADING_ADD": "Einen Moderator hinzufügen",
+    "HEADING_EDIT": "Anpassen <%= moderator.name %>",
+    "SUB_HEADING_ADD": "Einen Moderator hinzufügen",
+    "SUB_HEADING_EDIT": "Bearbeitung <%= moderator.name %>",
+    "INTRO_PARAGRAPH_1": "Sie sind hier genau richtig, wenn Sie jemandem Zugriff auf die Moderation Ihrer Kommentare gewähren möchten.",
+    "INTRO_PARAGRAPH_2": "Beachten Sie, dass Sie keine Moderatoren für Administratoren hinzufügen müssen. Administratoren verfügen bereits über Moderationsrechte.",
+    "NAME_SECTION_HEADING": "Gib ihnen einen Namen",
+    "NAME_LABEL": "Name",
+    "NAME_PLACEHOLDER": "Herr Moderator Guy",
+    "EMAIL_SECTION_HEADING": "Wir benötigen eine E-Mail-Adresse.",
+    "EMAIL_LABEL": "E-Mail",
+    "EMAIL_PLACEHOLDER": "guy@moderators.com",
+    "GROUPS_SECTION_HEADING": "Zu welchen Gruppen gehören sie an?",
+    "MODERATION_GROUPS_LABEL": "Moderationsgruppen",
+    "CLEAR_ALL_LINK": "Alles löschen",
+    "GROUPS_DESCRIPTION": "Kommentare dieser Gruppen werden ihnen nur auf der Seite „Moderierte Kommentare“ angezeigt.",
+    "SAVE_BUTTON": "Speichern"
+}

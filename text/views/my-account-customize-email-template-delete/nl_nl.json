@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Verwijderen <%= template.displayName %> - Snelle reacties",
+    "HEADING_DELETE_TEMPLATE": "Verwijderen \"<%= template.displayName %>\"?",
+    "TEXT_CONFIRM_DELETE": "Weet je zeker dat je de sjabloon <%= template.displayName %>, gemaakt op <%= template.createdAt.toLocaleString() %>, wilt verwijderen?",
+    "BUTTON_DELETE": "Verwijderen",
+    "BUTTON_CANCEL": "Annuleren"
+}

@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Aanmelden",
+    "HERO_TITLE_LIGHT": "Word lid van de ",
+    "HERO_TITLE_BOLD": "Discussie",
+    "HERO_DESCRIPTION": "Wil je een reactie plaatsen op een website die FastComments gebruikt? Dan ben je hier aan het juiste adres.",
+    "HERO_ADDITIONAL_TEXT": "Wil je FastComments aan een website toevoegen? Meld je <a href=\"/auth/tenant-signup?email=<%= email %>\">dan hier aan.</a>",
+    "FORM_DESCRIPTION": "Je hebt alleen een gebruikersnaam en een e-mailadres nodig om je aan te melden.",
+    "LABEL_USERNAME": "*Gebruikersnaam:",
+    "PLACEHOLDER_USERNAME": "Voer een gebruikersnaam in",
+    "USERNAME_PATTERN_TITLE": "Gebruik geen speciale tekens, alleen cijfers en letters.",
+    "USERNAME_DESCRIPTION": "Deze gebruikersnaam zal publiekelijk zichtbaar zijn.",
+    "LABEL_EMAIL": "*E-mail:",
+    "PLACEHOLDER_EMAIL": "Voer een e-mailadres in",
+    "EMAIL_DESCRIPTION": "We sturen je een link per e-mail waarmee je je account kunt voltooien en kunt inloggen.",
+    "SIGNUP_EMAIL_TEXT": "Je meldt je aan via <b><%= email %></b> .",
+    "TERMS_AGREEMENT": "Door op Aanmelden te klikken, ga je akkoord met de <a href=\"/terms-of-service\" target=\"_blank\">Servicevoorwaarden</a> .",
+    "BUTTON_SIGN_UP": "Aanmelden",
+    "LABEL_CAPTCHA": "Wat is <%= captchaA %> + <%= captchaB %>?",
+    "CAPTCHA_HELP": "Helpt vaststellen dat je geen bot bent."
+}

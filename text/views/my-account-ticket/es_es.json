@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Boleto \"<%- ticketViewModel.subject %>\"",
+    "MESSAGE_ASSIGNED": "Su ticket ha sido asignado a un representante de soporte. Si ambos están conectados, pueden hablar en vivo con él. Sin embargo, siempre pueden dejar algunos detalles y volver más tarde.",
+    "MESSAGE_FIND_AGAIN": "Cerrar esta página no perderá el chat. Puedes encontrarlo de nuevo en la <a href=\"/auth/my-account/tickets\">página de soporte</a> .",
+    "HEADING_NOT_FOUND": "Extraviado",
+    "MESSAGE_NOT_FOUND": "No pudimos encontrar ese billete"
+}

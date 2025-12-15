@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>にメールを送信しました - FastComments",
+    "BUTTON_BACK": "← 送信済みメールに戻る",
+    "HEADING": "<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>にメールを送信しました",
+    "LABEL_DATE": "日付：",
+    "LABEL_FROM": "から：",
+    "LABEL_TO": "に：",
+    "LABEL_BCC": "BCC:",
+    "LABEL_SUBJECT": "主題：",
+    "LABEL_HEADERS": "ヘッダー:",
+    "HEADING_EMAIL_CONTENT": "メールの内容",
+    "MESSAGE_NO_CONTENT": "利用可能なコンテンツはありません",
+    "VALUE_UNKNOWN": "未知",
+    "VALUE_NO_SUBJECT": "（件名なし）"
+}

@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "ユーザーを招待 - FastComments",
+    "HEADING": "管理者を招待する",
+    "MESSAGE_INVITE_DESCRIPTION": "現在コメント投稿者であるユーザーを管理者として招待すると、そのユーザーのアカウントが管理者ステータスに昇格され、テナントに追加されます。",
+    "MESSAGE_CONFIRM_USERNAME": "<b>ユーザー名「<%= invitingUserName %>」のユーザーを追加します。ユーザー名が正しいことを確認してください。</b>",
+    "HEADING_PERMISSIONS": "権限",
+    "MESSAGE_PERMISSIONS": "招待を承諾したときに付与する権限は何ですか?",
+    "BUTTON_SEND_INVITE": "招待を送信"
+}

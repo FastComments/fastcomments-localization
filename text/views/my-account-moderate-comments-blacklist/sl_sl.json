@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Črni seznam besed - FastComments",
+    "HEADING": "Črni seznam besed v komentarjih",
+    "SUB_HEADING": "Prilagodi črni seznam",
+    "SUCCESS_MESSAGE": "Črni seznam je bil uspešno shranjen.",
+    "INTRO_PARAGRAPH_1": "Spodaj so seznami besed in besednih zvez, ločenih z vejicami, ki bodo v komentarjih in uporabniških imenih skriti. Bodite previdni, katere besede izberete – uvrstitev preveč pogostih besed na črni seznam bo odgnala vašo skupnost.",
+    "INTRO_PARAGRAPH_2": "Te so definirane <b>za posamezne jezikovne nastavitve</b> . Jezikovne nastavitve so kombinacija jezika in geografske regije.",
+    "INTRO_PARAGRAPH_3": "Videli boste, da ločimo med <b>besedami</b> in <b>besednimi zvezami</b> . Vnosi na seznamu <b>besed</b> ne smejo vsebovati presledkov ali posebnih znakov. Če imate besedno zvezo, ki vsebuje presledke, pike itd., jo dodajte na seznam <b>besednih zvez</b> .",
+    "NOSCRIPT_MESSAGE": "Za pravilno delovanje tega uporabniškega vmesnika za konfiguracijo je potreben JavaScript.",
+    "EDIT_LOCALE_LABEL": "Uredi za jezikovne nastavitve",
+    "MASKED_WORDS_LABEL": "Maskirane besede za [localeName].",
+    "MASKED_WORDS_DESCRIPTION": "Besede na tem seznamu (ločene z vejicami) bodo maskirane kot ***.",
+    "MASKED_WORDS_PLACEHOLDER": "Vnesite seznam slabih besed, ločenih z vejicami, na primer »nekatere, slabe, besede«.",
+    "WORDS_LENGTH_ERROR": "Za vsak jezik lahko vnesete do 5000 besed. Vnesli ste<span id=\"length-error-count-words-[locale]\"></span> .",
+    "MASKED_PHRASES_LABEL": "Maskirane fraze za [localeName].",
+    "MASKED_PHRASES_DESCRIPTION": "Fraze na tem seznamu (ločene z vejicami) bodo maskirane kot ********.",
+    "MASKED_PHRASES_PLACEHOLDER": "Vnesite seznam slabih besednih zvez, ločenih z vejicami, na primer »neka slaba besedna zveza, neka druga slaba besedna zveza«.",
+    "PHRASES_LENGTH_ERROR": "Vnesete lahko do 5000 besednih zvez na jezik. Vnesli ste<span id=\"length-error-count-phrases-[locale]\"></span> .",
+    "SAVE_BUTTON": "Shrani spremembe v [localeName]"
+}

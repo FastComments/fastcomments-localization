@@ -1,0 +1,5 @@
+{
+    "HEADING_EDITING_BADGE": "Редагування <%= badge.displayLabel %>",
+    "HEADING_CREATING_EDITING_BADGE": "<%= badge ? 'Editing' : 'Creating' %> Значок \"<%= BadgeTypeDescriptions[badgeType] %>\"",
+    "LABEL_BADGE_THRESHOLD": "<%= BadgeLimitDescriptions[badgeType] %>"
+}

@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Обриши <%= template.displayName %> - БрзиКоментари",
+    "HEADING_DELETE_TEMPLATE": "Обрисати „<%= template.displayName %>”?",
+    "TEXT_CONFIRM_DELETE": "Да ли сте сигурни да желите да обришете шаблон <%= template.displayName %>, креиран <%= template.createdAt.toLocaleString() %>?",
+    "BUTTON_DELETE": "Обриши",
+    "BUTTON_CANCEL": "Откажи"
+}

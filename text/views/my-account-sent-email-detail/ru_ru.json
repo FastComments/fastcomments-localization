@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Электронное письмо отправлено <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "BUTTON_BACK": "← Назад к отправленным письмам",
+    "HEADING": "Электронное письмо отправлено <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "LABEL_DATE": "Дата:",
+    "LABEL_FROM": "От:",
+    "LABEL_TO": "К:",
+    "LABEL_BCC": "BCC:",
+    "LABEL_SUBJECT": "Предмет:",
+    "LABEL_HEADERS": "Заголовки:",
+    "HEADING_EMAIL_CONTENT": "Содержимое электронного письма",
+    "MESSAGE_NO_CONTENT": "Контент недоступен",
+    "VALUE_UNKNOWN": "Неизвестный",
+    "VALUE_NO_SUBJECT": "(Без темы)"
+}

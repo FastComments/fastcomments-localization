@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "질문 삭제 - 빠른 댓글",
+    "HEADING": "삭제 \"<%= question.name %>\"?",
+    "CONFIRM_MESSAGE": "<%= question.question %>일에 작성된 \"<%= question.createdAt.toLocaleString() %>\" 질문을 정말로 삭제하시겠습니까?",
+    "REPLY_COUNT_MESSAGE": "이 질문에는 <%= Number(question.usedCount).toLocaleString() %>개의 답변이 있습니다.",
+    "DATA_LOSS_WARNING": "이 답변에 대한 데이터는 더 이상 보고서에 활용되지 않습니다.",
+    "DELETE_BUTTON": "삭제",
+    "CANCEL_LINK": "취소"
+}

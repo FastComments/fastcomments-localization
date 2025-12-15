@@ -1,0 +1,18 @@
+{
+    "LABEL_CUSTOMER": "Πελάτης",
+    "LABEL_SERVICE_REP": "Εκπρόσωπος Εξυπηρέτησης",
+    "LABEL_OPENED": "Άνοιξε",
+    "LABEL_STATUS": "Κατάσταση",
+    "LABEL_CHANGE_STATUS": "Αλλαγή κατάστασης",
+    "LINK_IMPERSONATE": "Υποδύομαι",
+    "LINK_SWITCH": "Διακόπτης",
+    "AVG_RESPONSE_TIME": "Μέσος χρόνος απόκρισης:",
+    "STATUS_AWAITING_YOUR_REPLY": "ΠΕΡΙΜΕΝΟΥΜΕ ΤΗΝ ΑΠΑΝΤΗΣΗ ΣΑΣ",
+    "STATE_OPEN": "Ανοιχτό",
+    "STATE_ACKNOWLEDGED": "Αναγνωρισμένο",
+    "STATE_RESOLVED": "Αποφασισμένος",
+    "ERROR_GET_TICKET_FAILED": "Ένα αίτημα για λήψη των πιο πρόσφατων πληροφοριών για το εισιτήριο απέτυχε.",
+    "ERROR_CHANGE_STATE_FAILED": "Ένα αίτημα για αλλαγή της κατάστασης του εισιτηρίου απέτυχε.",
+    "INITIAL_COMMENT": "Γεια [username]! Δημιουργήσατε ένα αίτημα με το όνομα \"[subject]\". Παρακαλώ αφήστε μερικές επιπλέον πληροφορίες και ο/η @[assignedTagName]_ θα επικοινωνήσει μαζί σας.",
+    "STATUS_CHANGE_COMMENT": "[username] άλλαξε την κατάσταση από [oldStatus] σε [newStatus]."
+}

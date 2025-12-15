@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - 快速评论",
+    "HEADING_USERS_WITH_BADGE": "<%- Number(userBadges.length).toLocaleString() %> <%- userBadges.length === 1 ? 'User' : 'Users' %> 佩戴徽章 <%- tenantBadge.displayLabel %>",
+    "TEXT_NO_USERS_WITH_BADGE": "目前没有用户拥有此徽章！大多数徽章都是自动颁发的。如果是手动颁发的徽章，则需要您手动颁发。",
+    "TABLE_HEADER_USER_ID": "用户身份",
+    "TABLE_HEADER_EMAIL": "电子邮件",
+    "TABLE_HEADER_AVATAR": "阿凡达",
+    "TABLE_HEADER_NAME": "姓名",
+    "TABLE_HEADER_BADGE_EARNED_DATE": "徽章获得日期",
+    "TEXT_NA": "不适用"
+}

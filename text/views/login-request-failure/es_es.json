@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "FastComments - Error al iniciar sesión",
+    "HERO_TITLE_LIGHT": "Acceso  ",
+    "HERO_TITLE_BOLD": "Fallido",
+    "BUTTON_TRY_AGAIN": "Intentar otra vez",
+    "ERROR_HEADING": "Algo salió mal",
+    "ERROR_MESSAGE": "Algo salió mal con tu solicitud de inicio de sesión.",
+    "ERROR_INVALID_CREDENTIALS": "Contraseña o nombre de usuario no válido.",
+    "ERROR_USERNAME_REQUIRED": "¡Debes proporcionar un nombre de usuario!",
+    "ERROR_USERNAME_TOO_LONG": "¡Tu nombre de usuario debe tener menos de 1k caracteres!",
+    "ERROR_RATE_LIMITED_MINUTES": "Has superado nuestros límites de velocidad. Inténtalo de nuevo en unos minutos o contacta con el servicio de asistencia.",
+    "ERROR_RATE_LIMITED_DAILY": "Has superado nuestros límites de tarifa diaria. Vuelve a intentarlo en 24 horas o contacta con el servicio de asistencia.",
+    "ERROR_RATE_LIMITED": "Has superado nuestros límites de velocidad. Inténtalo de nuevo más tarde o contacta con el servicio de asistencia.",
+    "ERROR_TOO_MANY_ATTEMPTS": "Demasiados intentos de inicio de sesión en la última hora. Espere y vuelva a intentarlo.",
+    "ERROR_CAPTCHA_WRONG": "No respondiste correctamente la pregunta de seguridad. Vuelve a intentarlo.",
+    "ERROR_EMAIL_REQUIRED": "¡Debes proporcionar un correo electrónico!",
+    "ERROR_EMAIL_TOO_LONG": "¡Tu correo electrónico debe tener menos de 1k caracteres!",
+    "ERROR_INVALID_EMAIL": "¡Ese no es un correo electrónico válido!",
+    "ERROR_USERNAME_TAKEN": "Ese nombre de usuario ya está en uso en otro correo electrónico. Prueba con otro."
+}

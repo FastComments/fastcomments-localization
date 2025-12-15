@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "カスタマイズ - FastComments",
+    "HEADING_ADD": "モデレーターを追加する",
+    "HEADING_EDIT": "<%= moderator.name %>をカスタマイズする",
+    "SUB_HEADING_ADD": "モデレーターを追加する",
+    "SUB_HEADING_EDIT": "編集 <%= moderator.name %>",
+    "INTRO_PARAGRAPH_1": "誰かにあなたのコメントを管理するアクセス権を与えたい場合は、ここが最適な場所です。",
+    "INTRO_PARAGRAPH_2": "管理者ユーザーにはモデレーターを追加する必要はありません。管理者ユーザーには既にモデレーション機能が備わっています。",
+    "NAME_SECTION_HEADING": "名前を付ける",
+    "NAME_LABEL": "名前",
+    "NAME_PLACEHOLDER": "モデレーターのガイ氏",
+    "EMAIL_SECTION_HEADING": "メールアドレスが必要です",
+    "EMAIL_LABEL": "メール",
+    "EMAIL_PLACEHOLDER": "guy@moderators.com",
+    "GROUPS_SECTION_HEADING": "彼らはどんなグループに属していますか?",
+    "MODERATION_GROUPS_LABEL": "モデレーショングループ",
+    "CLEAR_ALL_LINK": "すべてクリア",
+    "GROUPS_DESCRIPTION": "「コメントの管理」ページでは、これらのグループからのコメントのみが表示されます。",
+    "SAVE_BUTTON": "保存"
+}

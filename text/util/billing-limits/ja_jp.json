@@ -1,0 +1,20 @@
+{
+    "LIMIT_MONTHLY_PAGE_LOADS": "月間ページ読み込み数",
+    "LIMIT_MONTHLY_PAGE_LOADS_HELP": "コメントが読み込まれた回数。",
+    "LIMIT_MONTHLY_API_CREDITS": "月額APIクレジット",
+    "LIMIT_MONTHLY_API_CREDITS_HELP": "カスタム統合に当社の API をどの程度使用したか。",
+    "LIMIT_MONTHLY_SMALL_WIDGETS_CREDITS": "毎月の小さなウィジェットクレジット",
+    "LIMIT_MONTHLY_SMALL_WIDGETS_CREDITS_HELP": "小さなウィジェット（コメント数、最近のコメントなど）に対するリクエストの数。",
+    "LIMIT_MONTHLY_COMMENTS_STORED": "月間コメント保存",
+    "LIMIT_MONTHLY_COMMENTS_STORED_HELP": "今月はコメントがいくつ残されましたか。",
+    "LIMIT_TENANT_USERS": "テナントユーザー",
+    "LIMIT_TENANT_USERS_HELP": "管理者の数。",
+    "LIMIT_SSO_USERS": "SSOユーザー",
+    "LIMIT_SSO_USERS_HELP": "SSO ユーザーの数。",
+    "LIMIT_MODERATORS": "モデレーター",
+    "LIMIT_MODERATORS_HELP": "モデレーターの数。",
+    "LIMIT_DOMAINS": "ドメイン",
+    "LIMIT_DOMAINS_HELP": "アカウントにあるサイトまたはドメインの数。",
+    "LIMIT_MANAGED_TENANTS": "管理対象テナント",
+    "LIMIT_MANAGED_TENANTS_HELP": "テナントが管理するサブテナントの数。"
+}

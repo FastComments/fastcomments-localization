@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Изтриване на въпрос - FastComments",
+    "HEADING": "Да се изтрие ли „<%= question.name %>“?",
+    "CONFIRM_MESSAGE": "Сигурни ли сте, че искате да изтриете въпроса „<%= question.question %>“, създаден на <%= question.createdAt.toLocaleString() %>?",
+    "REPLY_COUNT_MESSAGE": "Този въпрос има <%= Number(question.usedCount).toLocaleString() %> отговора.",
+    "DATA_LOSS_WARNING": "Данните от тези отговори вече няма да бъдат налични в отчетите.",
+    "DELETE_BUTTON": "Изтриване",
+    "CANCEL_LINK": "Отказ"
+}

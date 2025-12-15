@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "לעבור ל-<%= otherRegionName %>? - תגובות מהירות",
+    "HERO_TITLE_LIGHT": "עבור אל ",
+    "HERO_TITLE_BOLD": "<%= otherRegionName %>",
+    "HERO_DESCRIPTION": "יש לך חשבון ב <a href=\"<%= otherRegionSite %>\">-<%= otherRegionDomain %></a> - האם ברצונך להתחבר לשם במקום זאת?",
+    "INFO_MESSAGE_BOLD": "יש לך חשבון במרכז הנתונים השני שלנו.",
+    "INFO_MESSAGE_QUESTION": "להפנות לשם?",
+    "INFO_MESSAGE_WARNING": "אם לא תפנה מחדש, ניצור לך כאן חשבון אם הוא לא קיים, ואז <b>יהיו לך שני חשבונות.</b>",
+    "BUTTON_REDIRECT": "הפניה אל <%= otherRegionName %>",
+    "BUTTON_CONTINUE_HERE": "המשך כאן"
+}

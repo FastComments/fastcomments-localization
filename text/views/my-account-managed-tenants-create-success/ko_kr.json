@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "FastComments에서 관리형 테넌트 생성하기",
+    "HEADING": "임차인 생성",
+    "SUCCESS_MESSAGE": "임차인 등록이 성공적으로 완료되었습니다!",
+    "NEXT_STEPS_INTRO": "설정을 계속하려면 다음과 같은 일반적인 단계를 따르는 것이 좋습니다.",
+    "NEXT_STEP_1": "사용자를 추가하세요.",
+    "NEXT_STEP_2": "사용자에게 환영/로그인 링크를 보내세요.",
+    "NEXT_STEP_3": "연동을 위해 테넌트 ID(API/SSO 정보 페이지에서 확인 가능)를 가져오세요.",
+    "TENANTS_VIEW_LINK_TEXT": "이는 <a href=\"/auth/my-account/tenants\">임차인 보기</a> 로 돌아가서 임차인 화면으로 전환하면 가능합니다.",
+    "TENANT_SWITCHING_INFO": "관리형 테넌트에 대한 모든 작업은 테넌트 전환을 통해 이루어지며, 필요한 경우 테넌트 삭제도 포함됩니다."
+}

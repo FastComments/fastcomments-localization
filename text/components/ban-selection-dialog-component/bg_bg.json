@@ -1,0 +1,21 @@
+{
+    "BAN_SELECTION_TITLE": "Изберете „Забрана за редактиране“",
+    "BAN_SELECTION_SUBTITLE_MULTIPLE": "Има множество забрани, които засягат [username].",
+    "BAN_SELECTION_SUBTITLE_SINGLE": "[username] е засегнат от една забрана за този коментар.",
+    "BAN_SELECTION_BTN_SELECT": "Изберете",
+    "BAN_SELECTION_BTN_CREATE_NEW": "Създаване на ново",
+    "BAN_SELECTION_BTN_CANCEL": "Отказ",
+    "BAN_SELECTION_LABEL": "Изберете забрана",
+    "BAN_SELECTION_RELATED_BANS": "Свързани забрани",
+    "BAN_SELECTION_REMINDER": "Не забравяйте да проверите как забраната съответства на потребителя, преди да редактирате!",
+    "BAN_SELECTION_EXPIRES": "Изтича на [date]",
+    "BAN_SELECTION_NEVER_EXPIRES": "Никога не изтича",
+    "BAN_SELECTION_SHADOW": "Сянка",
+    "BAN_SELECTION_ANON_USER_ID": "Анонимен потребителски идентификатор",
+    "BAN_SELECTION_USER_ID": "Потребителски идентификатор",
+    "BAN_SELECTION_EMAIL": "Имейл",
+    "BAN_SELECTION_EMAIL_PATTERN": "Шаблон за имейл",
+    "BAN_SELECTION_IP": "ИП",
+    "BAN_SELECTION_MATCHED_ON": "Съвпадение на: [[matches]]",
+    "BAN_SELECTION_ID": "(ИД: [id])"
+}

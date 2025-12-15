@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "切換到<%= otherRegionName %>？ - FastComments",
+    "HERO_TITLE_LIGHT": "切換到 ",
+    "HERO_TITLE_BOLD": "<%= otherRegionName %>",
+    "HERO_DESCRIPTION": "您在<a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a>上擁有帳戶 - 您想改用該帳號登入嗎？",
+    "INFO_MESSAGE_BOLD": "您在我們另一個資料中心擁有一個帳戶。",
+    "INFO_MESSAGE_QUESTION": "重定向到那裡？",
+    "INFO_MESSAGE_WARNING": "如果您不進行重定向，我們將在此處為您建立帳戶（如果該帳戶不存在），<b>這樣您將擁有兩個帳戶。</b>",
+    "BUTTON_REDIRECT": "重新導向至<%= otherRegionName %>",
+    "BUTTON_CONTINUE_HERE": "繼續"
+}

@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "회원가입",
+    "HERO_TITLE_LIGHT": "참여하세요 ",
+    "HERO_TITLE_BOLD": "논의",
+    "HERO_DESCRIPTION": "FastComments를 사용하는 웹사이트에 댓글을 남기고 싶으신가요? 잘 찾아오셨습니다.",
+    "HERO_ADDITIONAL_TEXT": "웹사이트에 FastComments를 추가하고 싶으시다면 <a href=\"/auth/tenant-signup?email=<%= email %>\">여기에서 가입하세요.</a>",
+    "FORM_DESCRIPTION": "회원가입에는 사용자 이름과 이메일 주소만 있으면 됩니다.",
+    "LABEL_USERNAME": "*사용자 이름:",
+    "PLACEHOLDER_USERNAME": "사용자 이름을 입력하세요",
+    "USERNAME_PATTERN_TITLE": "특수 문자는 사용하지 마세요. 숫자와 문자만 사용하세요.",
+    "USERNAME_DESCRIPTION": "이 사용자 이름은 공개적으로 표시됩니다.",
+    "LABEL_EMAIL": "*이메일:",
+    "PLACEHOLDER_EMAIL": "이메일을 입력하세요",
+    "EMAIL_DESCRIPTION": "계정 생성 및 로그인을 완료할 수 있도록 이메일로 링크를 보내드리겠습니다.",
+    "SIGNUP_EMAIL_TEXT": "<b><%= email %>을</b> 사용하여 가입하고 있습니다.",
+    "TERMS_AGREEMENT": "&#39;가입하기&#39;를 클릭하면 <a href=\"/terms-of-service\" target=\"_blank\">서비스 약관</a> 에 동의하는 것입니다.",
+    "BUTTON_SIGN_UP": "회원가입",
+    "LABEL_CAPTCHA": "<%= captchaA %> + <%= captchaB %>는 무엇입니까?",
+    "CAPTCHA_HELP": "사용자가 봇이 아닌지 확인하는 데 도움이 됩니다."
+}

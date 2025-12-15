@@ -1,0 +1,23 @@
+{
+    "PAGE_TITLE": "Correos electrónicos enviados - FastComments",
+    "HEADING": "Correos electrónicos enviados",
+    "INFO_NOTE": "<strong>Nota:</strong> Solo conservamos el historial de correo electrónico durante dos meses. Los correos antiguos se eliminan automáticamente.",
+    "LABEL_FILTER_SUBJECT": "Filtrar por tema",
+    "PLACEHOLDER_SUBJECT": "Buscar tema...",
+    "LABEL_FILTER_CONTENT": "Filtrar por contenido",
+    "PLACEHOLDER_CONTENT": "Buscar contenido de correo electrónico...",
+    "BUTTON_SEARCH": "Buscar",
+    "BUTTON_CLEAR": "Claro",
+    "TABLE_HEADER_DATE": "Fecha",
+    "TABLE_HEADER_FROM": "De",
+    "TABLE_HEADER_SUBJECT": "Sujeto",
+    "MESSAGE_NO_EMAILS_FILTERS": "No se encontraron correos electrónicos para los filtros especificados.",
+    "BUTTON_VIEW": "Vista",
+    "BUTTON_PREV": "Anterior",
+    "BUTTON_NEXT": "Próximo",
+    "LABEL_PAGE": "Página <%= page %>",
+    "MESSAGE_NO_EMAILS": "No tienes ningún correo electrónico enviado.",
+    "VALUE_UNKNOWN": "Desconocido",
+    "VALUE_NO_SUBJECT": "(Sin Asunto)",
+    "VALUE_NA": "N / A"
+}

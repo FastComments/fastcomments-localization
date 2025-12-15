@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Eliminar secreto de API - FastComments",
+    "HEADING_DELETE_API_SECRET": "Eliminar secreto de API",
+    "QUESTION_CONFIRM_DELETE": "¿Estás seguro que deseas eliminar <%= apiSecret.name ? 'the api key \"' + apiSecret.name + '\"' : 'this api key' %>?",
+    "WARNING_USED_BY_WEBHOOKS": "Esta clave API la utiliza actualmente un webhook. Eliminarla antes de actualizar el webhook interrumpirá la integración.",
+    "BUTTON_DELETE_API_SECRET": "Eliminar secreto de API",
+    "BUTTON_CANCEL": "Cancelar"
+}

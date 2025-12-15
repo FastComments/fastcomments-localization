@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Dva faktora autentifikacije - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Dvofaktorska autentifikacija",
+    "HERO_DESCRIPTION": "Molimo Vas da unesete svoj verifikacioni kod da biste dovršili prijavu",
+    "ATTEMPTS_REMAINING": "<%= 5 - session.attempts %> preostalih pokušaja",
+    "LABEL_METHOD_SELECT": "Izaberite metod verifikacije:",
+    "METHOD_AUTHENTICATOR": "Autentifikator aplikacija",
+    "METHOD_SMS": "Pošalji poruke",
+    "AUTHENTICATOR_INSTRUCTION": "Unesite 6-cifreni kod iz aplikacije za autentifikaciju",
+    "SMS_INSTRUCTION": "Poslali smo kod <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>",
+    "LABEL_VERIFICATION_CODE": "Verifikacioni kod",
+    "BUTTON_VERIFY": "Pretraživanje",
+    "LABEL_BACKUP_CODE": "Unesite rezervni kod:",
+    "BUTTON_USE_BACKUP_CODE": "Koristite rezervni kod",
+    "BUTTON_BACK": "Povratak",
+    "BUTTON_RESEND_SMS": "Ponovo pošalji SMS kod",
+    "LINK_USE_BACKUP_CODE": "Umesto toga koristite rezervni kod",
+    "LINK_BACK_TO_LOGIN": "← Nazad na prijavu"
+}

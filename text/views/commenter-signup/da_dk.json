@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Tilmeld dig",
+    "HERO_TITLE_LIGHT": "Deltag i ",
+    "HERO_TITLE_BOLD": "Diskussion",
+    "HERO_DESCRIPTION": "Vil du kommentere på en hjemmeside, der bruger FastComments? Så er du kommet til det rette sted.",
+    "HERO_ADDITIONAL_TEXT": "Hvis du vil tilføje FastComments til en hjemmeside, skal du tilmelde dig <a href=\"/auth/tenant-signup?email=<%= email %>\">her.</a>",
+    "FORM_DESCRIPTION": "Alt du behøver er et brugernavn og en e-mail for at tilmelde dig.",
+    "LABEL_USERNAME": "*Brugernavn:",
+    "PLACEHOLDER_USERNAME": "Indtast et brugernavn",
+    "USERNAME_PATTERN_TITLE": "Ingen specialtegn tak - kun tal og bogstaver.",
+    "USERNAME_DESCRIPTION": "Dette brugernavn vil være offentligt synligt.",
+    "LABEL_EMAIL": "*E-mail:",
+    "PLACEHOLDER_EMAIL": "Indtast en e-mail",
+    "EMAIL_DESCRIPTION": "Vi sender dig et link via e-mail, så du kan fuldføre din konto og logge ind.",
+    "SIGNUP_EMAIL_TEXT": "Du tilmelder dig ved hjælp af <b><%= email %></b> .",
+    "TERMS_AGREEMENT": "Ved at klikke på Tilmeld accepterer du <a href=\"/terms-of-service\" target=\"_blank\">Servicevilkårene</a> .",
+    "BUTTON_SIGN_UP": "Tilmeld dig",
+    "LABEL_CAPTCHA": "Hvad er <%= captchaA %> + <%= captchaB %>?",
+    "CAPTCHA_HELP": "Hjælper med at afgøre, at du ikke er en bot."
+}

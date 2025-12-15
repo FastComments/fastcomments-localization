@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "Visor de hilos de comentarios",
+    "HEADING": "Visor de hilos de comentarios",
+    "THREAD_DETAILS": "Estás viendo el hilo de comentarios en <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a>",
+    "PAGE_ID_INFO": "Visualización de comentarios para la página ID: <%- thread.urlIdDecoded %>"
+}

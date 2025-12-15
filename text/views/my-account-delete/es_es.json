@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Eliminar mi cuenta",
+    "HEADING_DELETE_ACCOUNT": "Eliminar la cuenta de <%= user.username %>",
+    "TEXT_PRIVACY_POLICY_NOTE": "Si elimina su cuenta por cuestiones de privacidad, consulte nuestra <a href=\"/privacy-policy\">Política de Privacidad</a> . No vendemos ni compartimos sus datos con terceros.",
+    "TEXT_ALSO_DELETING_TENANT": "También se elimina el inquilino \"<%= tenant ? tenant.name : '' %>\".",
+    "TEXT_ACCOUNT_OWNER_WARNING": "Eres el propietario de una cuenta. Al eliminar tu cuenta, se eliminará este inquilino.",
+    "TEXT_SUBSCRIPTION_CANCELLED": "Su suscripción también será cancelada.",
+    "TEXT_NO_SELL_DATA": "Tenga en cuenta que FastComments <b>no vende ni comparte</b> su información personal con terceros. Ofrecemos la creación de cuentas gratuita para su comodidad.",
+    "HEADING_CONFIRMATION": "Confirmación",
+    "LABEL_REMOVE_COMMENTS": "¿Eliminar todos los <%= commentCount %> comentarios?",
+    "LABEL_CONFIRM_REMOVAL": "Marca esta casilla para confirmar la eliminación de tu cuenta. La eliminación de tu cuenta o de los comentarios asociados es irreversible.",
+    "LABEL_FEEDBACK": "Ayúdanos a entender por qué te vemos partir.",
+    "BUTTON_NO_DONT_DELETE": "No, no elimines mi cuenta",
+    "BUTTON_YES_DELETE": "Sí, eliminar mi cuenta"
+}

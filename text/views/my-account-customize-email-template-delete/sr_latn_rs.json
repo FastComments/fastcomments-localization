@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Delete <%= template.displayName %> - FastComments",
+    "HEADING_DELETE_TEMPLATE": "Izbrisati \"<%= template.displayName %>\"?",
+    "TEXT_CONFIRM_DELETE": "Da li ste sigurni da želite da izbrišete šablon <%= template.displayName %>, kreiran na <%= template.createdAt.toLocaleString() %>?",
+    "BUTTON_DELETE": "Izbrisati",
+    "BUTTON_CANCEL": "Pretraživanje"
+}

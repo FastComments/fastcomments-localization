@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Tofaktorgodkendelse - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Tofaktorgodkendelse",
+    "HERO_DESCRIPTION": "Indtast venligst din bekræftelseskode for at fuldføre login",
+    "ATTEMPTS_REMAINING": "<%= 5 - session.attempts %> forsøg tilbage",
+    "LABEL_METHOD_SELECT": "Vælg bekræftelsesmetode:",
+    "METHOD_AUTHENTICATOR": "Autentificeringsapp",
+    "METHOD_SMS": "SMS",
+    "AUTHENTICATOR_INSTRUCTION": "Indtast den 6-cifrede kode fra din autentificeringsapp",
+    "SMS_INSTRUCTION": "Vi har sendt en kode til <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>",
+    "LABEL_VERIFICATION_CODE": "Bekræftelseskode",
+    "BUTTON_VERIFY": "Verificere",
+    "LABEL_BACKUP_CODE": "Indtast backupkode:",
+    "BUTTON_USE_BACKUP_CODE": "Brug backupkode",
+    "BUTTON_BACK": "Tilbage",
+    "BUTTON_RESEND_SMS": "Send SMS-kode igen",
+    "LINK_USE_BACKUP_CODE": "Brug en backupkode i stedet",
+    "LINK_BACK_TO_LOGIN": "← Tilbage til login"
+}

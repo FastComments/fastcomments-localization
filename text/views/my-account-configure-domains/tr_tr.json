@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Hesabım",
+    "HEADING_MY_DOMAINS": "Alan Adlarım",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "Alan adları başarıyla eklendi!",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "Alan adı başarıyla kaldırıldı!",
+    "TEXT_SETTING_UPDATED_SUCCESS": "Ayarlar başarıyla güncellendi!",
+    "TEXT_IMAGE_UPLOAD_ERROR": "Resim yükleme hatası: <%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "Aşağıda, FastComments'ın yorumcularınıza e-posta gönderirken e-postaların nasıl görünmesi gerektiğine dair yapılandırma yer almaktadır. Bunu özelleştirmek istemiyorsanız hiçbir şey girmenize gerek yoktur.",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Not: Gönderen adı ve e-posta ayarları, yöneticilere gönderilen e-postaları etkilemez.</b>",
+    "LINK_REMOVE": "Kaldırmak",
+    "TEXT_AUTO_ADDED_NOTICE": "Deneme sürecinde otomatik olarak eklendi.",
+    "TITLE_AUTO_ADDED": "Deneme süresi boyunca hesabınıza gelen trafiğe bağlı olarak otomatik olarak eklenir. Bu, kurulumu kolaylaştırmak için yapılır ve yalnızca deneme süresi boyunca gerçekleşir.",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Kullanıcıya E-posta Gönderirken Gönderen Adı",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "Kullanıcıya E-posta Gönderildiğinde Gönderen E-postası",
+    "TEXT_EMAIL_ERROR": "Bu e-postada bir sorun var gibi görünüyor. Diğer tüm değişiklikleri kaydettik.",
+    "TEXT_LOGO_MAX_SIZE": "Maksimum boyut: 1 MB. Yeniden boyutlandırılmadı.",
+    "BUTTON_SAVE": "Kaydetmek",
+    "TEXT_NO_DOMAINS_WARNING": "Vay canına! Hiç alan adınız yok. Hesabınıza bir veya daha fazla alan adı bağlamadığınız sürece widget'larınız yüklenemeyecektir.",
+    "TITLE_ADD_DOMAIN": "Alan Adı Ekle",
+    "TEXT_ADD_A_DOMAIN": "Bir Alan Adı Ekle"
+}

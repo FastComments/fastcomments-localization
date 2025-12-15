@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Pogovora ni bilo mogoče ustvariti - FastComments",
+    "META_DESCRIPTION": "Kontaktirajte FastComments.com",
+    "HERO_TITLE_LIGHT": "Pogovor ",
+    "HERO_TITLE_BOLD": "Ni bilo mogoče ustvariti",
+    "HERO_DESCRIPTION": "Vašega pogovora nismo mogli ustvariti. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
+    "BUTTON_TRY_AGAIN": "Poskusite ustvariti nov pogovor."
+}

@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "遷移評論 - FastComments",
+    "HEADING": "遷移評論",
+    "INTRO_DESCRIPTION": "此工具可讓您大量遷移不同網址或網站上的評論。",
+    "URL_INFO": "您可以輸入 URL 的一部分（例如網域名稱）、完整的 URL 或<a href=\"https://docs.fastcomments.com/guide-customizations-and-configuration.html#url-id\" target=\"_blank\">URL ID</a> 。",
+    "DOMAIN_FROM_LABEL": "您要遷移的來源網址或網域名稱是什麼？",
+    "DOMAIN_FROM_PLACEHOLDER": "example.com",
+    "DOMAIN_TO_LABEL": "您要遷移到哪個網址或網域名稱？",
+    "DOMAIN_TO_PLACEHOLDER": "some-other-example.com",
+    "START_MIGRATION_BUTTON": "開始遷移",
+    "EMAIL_NOTIFICATION_INFO": "完成後您將收到一封電子郵件通知。",
+    "MIGRATIONS_HEADING": "遷徙",
+    "NOSCRIPT_REFRESH_MESSAGE": "重新整理頁面以取得最新狀態。",
+    "TABLE_HEADER_START_DATE": "開始日期",
+    "TABLE_HEADER_FROM": "從",
+    "TABLE_HEADER_TO": "到",
+    "TABLE_HEADER_STATUS": "地位",
+    "TABLE_HEADER_COMMENTS_FOUND": "找到需要遷移的評論",
+    "TABLE_HEADER_COMMENTS_MIGRATED": "評論已遷移",
+    "NO_MIGRATIONS_MESSAGE": "您沒有任何待處理或已完成的網域遷移。"
+}

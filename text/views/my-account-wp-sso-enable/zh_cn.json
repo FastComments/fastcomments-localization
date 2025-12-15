@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "WordPress 单点登录 - FastComments",
+    "HEADING": "WordPress 单点登录",
+    "MESSAGE_LAST_STEP": "最后一步！只需点击“启用 SSO”即可在您的博客上启用单点登录。",
+    "MESSAGE_DESCRIPTION": "我们会为您创建一个 API 密钥，安全地将其发送到您的博客，然后指示您的博客启用单点登录 (SSO)。如果您遇到任何问题，可以多次运行此过程，无需担心。如果此过程失败，我们会自动收到通知，但您也可以随时联系支持团队。",
+    "BUTTON_ENABLE_SSO": "启用 SSO",
+    "MESSAGE_DURATION": "这个过程预计只需要几秒钟。",
+    "MESSAGE_IN_PROGRESS": "请稍等。我们只需要创建一个秘密 API 密钥并更新您博客的设置。",
+    "MESSAGE_LOADING": "...加载中...",
+    "MESSAGE_AFTER_DONE": "完成此操作后，用户将使用您的 WordPress 登录流程来使用 FastComments。"
+}

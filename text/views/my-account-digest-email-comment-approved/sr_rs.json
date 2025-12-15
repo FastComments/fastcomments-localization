@@ -1,0 +1,8 @@
+{
+    "TITLE": "Коментар одобрен - FastComments",
+    "HEADING": "Успех!",
+    "COMMENT_APPROVED": "Тај коментар је означен као прегледан и одобрен.",
+    "ALSO_LOGGED_IN": "Такође сте пријављени.",
+    "VIEW_COMMENT_ON_SITE": "Одобрени коментар на вашем сајту можете погледати <a href=\"<%= comment.url %>\" target=\"_blank\">овде</a> или помоћу прегледача коментара <a href=\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">овде</a> .",
+    "CLOSE_PAGE": "Сада можете затворити ову страницу."
+}

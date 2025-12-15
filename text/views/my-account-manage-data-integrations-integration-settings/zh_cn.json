@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "集成令牌设置 - FastComments",
+    "HEADING": "集成令牌设置",
+    "SUB_HEADING": "正在编辑<%= integration.readableType %>集成令牌<%= integration.domain ? ' for ' + integration.domain : '' %>。",
+    "ENABLE_EVENT_FETCH_LABEL": "使用此集成的客户应该能够定期获取新评论。",
+    "ENABLE_EVENT_FETCH_DESCRIPTION": "这将允许使用此集成令牌的客户端获取事件日志，从而保持数据同步。如果您有需要在您自己的数据库中存储评论数据的 WordPress 插件，这将非常有用。",
+    "SAVE_BUTTON": "节省"
+}

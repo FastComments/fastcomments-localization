@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "我的帳戶",
+    "HEADING_MY_DOMAINS": "我的域名",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "域名添加成功！",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "域名已成功移除！",
+    "TEXT_SETTING_UPDATED_SUCCESS": "設定已成功更新！",
+    "TEXT_IMAGE_UPLOAD_ERROR": "圖片上傳錯誤：<%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "以下是 FastComments 向評論者發送電子郵件時的郵件樣式配置。如果您不想自訂此設置，則無需輸入任何內容。",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>注意：寄件者姓名和電子郵件設定不會影響發送給管理員的電子郵件。</b>",
+    "LINK_REMOVE": "消除",
+    "TEXT_AUTO_ADDED_NOTICE": "試用期間自動新增。",
+    "TITLE_AUTO_ADDED": "試用期內，系統會根據您的帳號流量自動新增此功能。這樣做是為了簡化設置，並且僅在試用期內有效。",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "傳送電子郵件給使用者時填寫寄件者姓名",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "寄件者電子郵件地址（當向使用者發送電子郵件時）",
+    "TEXT_EMAIL_ERROR": "這封郵件似乎有問題。我們已儲存其他變更。",
+    "TEXT_LOGO_MAX_SIZE": "最大檔案大小：1MB。未調整大小。",
+    "BUTTON_SAVE": "節省",
+    "TEXT_NO_DOMAINS_WARNING": "哇！您還沒有網域。在您將一個或多個網域關聯到您的帳戶之前，您的小工具將無法載入。",
+    "TITLE_ADD_DOMAIN": "新增域名",
+    "TEXT_ADD_A_DOMAIN": "新增域名"
+}

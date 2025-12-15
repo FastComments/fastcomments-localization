@@ -1,0 +1,12 @@
+{
+    "TITLE": "Importuj dzienniki - FastComments",
+    "HEADING": "Rejestry dla zadania <%= job._id %>",
+    "JOB_LOGS_HEADING": "Dzienniki zadań",
+    "TABLE_LOG": "Dziennik",
+    "TABLE_DATE": "Data",
+    "NO_LOGS": "Brak logów dla tego zadania.",
+    "POSSIBLE_REASONS": "Możliwe powody:",
+    "REASON_NOT_STARTED": "Być może praca jeszcze się nie rozpoczęła.",
+    "REASON_BEFORE_SUPPORT": "Być może było to sprzed dodania obsługi dziennika.",
+    "REASON_NO_SUPPORT": "Typ zadania może nie obsługiwać dzienników."
+}

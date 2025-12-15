@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Moj račun",
+    "HEADING_MY_DOMAINS": "Moje domene",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "Domene so bile uspešno dodane!",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "Domena je bila uspešno odstranjena!",
+    "TEXT_SETTING_UPDATED_SUCCESS": "Nastavitev je bila uspešno posodobljena!",
+    "TEXT_IMAGE_UPLOAD_ERROR": "Napaka pri nalaganju slike: <%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "Sledi konfiguracija, kako naj bodo e-poštna sporočila videti, ko FastComments pošlje e-pošto vašim komentatorjem. Če tega ne želite prilagoditi, vam ni treba vnesti ničesar.",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Opomba: Nastavitve imena pošiljatelja in e-pošte ne vplivajo na e-poštna sporočila, poslana skrbnikom.</b>",
+    "LINK_REMOVE": "Odstrani",
+    "TEXT_AUTO_ADDED_NOTICE": "Samodejno dodano med preizkusno dobo.",
+    "TITLE_AUTO_ADDED": "Samodejno dodano med poskusnim obdobjem glede na promet v vašem računu. To se naredi za lažjo nastavitev in se zgodi samo med poskusnim obdobjem.",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Ime pošiljatelja pri pošiljanju e-pošte uporabniku",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "E-pošta od pri pošiljanju e-pošte uporabniku",
+    "TEXT_EMAIL_ERROR": "Zdi se, da je s tem e-poštnim sporočilom nekaj narobe. Vse druge spremembe smo shranili.",
+    "TEXT_LOGO_MAX_SIZE": "Največja velikost: 1 MB. Velikost ni spremenjena.",
+    "BUTTON_SAVE": "Shrani",
+    "TEXT_NO_DOMAINS_WARNING": "Vau! Nimate domen. Vaši pripomočki se ne bodo mogli naložiti, dokler ne povežete ene ali več domen s svojim računom.",
+    "TITLE_ADD_DOMAIN": "Dodaj domeno",
+    "TEXT_ADD_A_DOMAIN": "Dodaj domeno"
+}

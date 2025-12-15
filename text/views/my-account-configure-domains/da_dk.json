@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Min konto",
+    "HEADING_MY_DOMAINS": "Mine domæner",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "Domæner tilføjet!",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "Domænet er fjernet!",
+    "TEXT_SETTING_UPDATED_SUCCESS": "Indstillingen er opdateret!",
+    "TEXT_IMAGE_UPLOAD_ERROR": "Fejl ved billedupload: <%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "Følgende er en konfiguration for, hvordan e-mails skal se ud, når FastComments sender e-mails til dine kommentatorer. Du behøver ikke at indtaste noget, hvis du ikke vil tilpasse dette.",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Bemærk: Indstillingerne for Fra-navn og E-mail påvirker ikke e-mails, der sendes til administratorer.</b>",
+    "LINK_REMOVE": "Fjerne",
+    "TEXT_AUTO_ADDED_NOTICE": "Automatisk tilføjet under prøveperioden.",
+    "TITLE_AUTO_ADDED": "Tilføjes automatisk i prøveperioden baseret på trafik til din konto. Dette gøres for at lette opsætningen og sker kun i prøveperioden.",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Fra-navn ved e-mail til bruger",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "Fra-e-mail ved e-mail til bruger",
+    "TEXT_EMAIL_ERROR": "Der ser noget galt ud med denne e-mail. Vi har gemt alle andre ændringer.",
+    "TEXT_LOGO_MAX_SIZE": "Maksimal størrelse: 1 MB. Ikke ændret størrelse.",
+    "BUTTON_SAVE": "Spare",
+    "TEXT_NO_DOMAINS_WARNING": "Hold da op! Du har ingen domæner. Dine widgets kan ikke indlæses, før du knytter et eller flere domæner til din konto.",
+    "TITLE_ADD_DOMAIN": "Tilføj domæne",
+    "TEXT_ADD_A_DOMAIN": "Tilføj et domæne"
+}

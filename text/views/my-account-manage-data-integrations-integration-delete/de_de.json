@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Integrationstoken löschen – FastComments",
+    "HEADING": "Integrationstoken löschen",
+    "CONFIRM_DELETE_MESSAGE": "Sind Sie sicher, dass Sie dieses <%= integration.readableType %> Integrationstoken<%= integration.domain ? ' for ' + integration.domain : '' %> löschen möchten?",
+    "DELETE_BUTTON": "Löschen",
+    "CANCEL_LINK": "Stornieren"
+}

@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "删除 API 密钥 - FastComments",
+    "HEADING_DELETE_API_SECRET": "删除 API 密钥",
+    "QUESTION_CONFIRM_DELETE": "您确定要删除<%= apiSecret.name ? 'the api key \"' + apiSecret.name + '\"' : 'this api key' %>吗？",
+    "WARNING_USED_BY_WEBHOOKS": "此 API 密钥目前正被 Webhook 使用。在更新 Webhook 之前删除此 API 密钥将导致集成中断。",
+    "BUTTON_DELETE_API_SECRET": "删除 API 密钥",
+    "BUTTON_CANCEL": "取消"
+}

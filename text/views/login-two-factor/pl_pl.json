@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Uwierzytelnianie dwuskładnikowe – FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Uwierzytelnianie dwuskładnikowe",
+    "HERO_DESCRIPTION": "Wprowadź kod weryfikacyjny, aby dokończyć logowanie",
+    "ATTEMPTS_REMAINING": "Pozostało <%= 5 - session.attempts %> prób",
+    "LABEL_METHOD_SELECT": "Wybierz metodę weryfikacji:",
+    "METHOD_AUTHENTICATOR": "Aplikacja uwierzytelniająca",
+    "METHOD_SMS": "SMS",
+    "AUTHENTICATOR_INSTRUCTION": "Wprowadź 6-cyfrowy kod z aplikacji uwierzytelniającej",
+    "SMS_INSTRUCTION": "Wysłaliśmy kod do <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>",
+    "LABEL_VERIFICATION_CODE": "Kod weryfikacyjny",
+    "BUTTON_VERIFY": "Zweryfikować",
+    "LABEL_BACKUP_CODE": "Wprowadź kod zapasowy:",
+    "BUTTON_USE_BACKUP_CODE": "Użyj kodu zapasowego",
+    "BUTTON_BACK": "Z powrotem",
+    "BUTTON_RESEND_SMS": "Wyślij ponownie kod SMS",
+    "LINK_USE_BACKUP_CODE": "Zamiast tego użyj kodu zapasowego",
+    "LINK_BACK_TO_LOGIN": "← Powrót do logowania"
+}

@@ -21,7 +21,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 368,
+        "comment-ui": 371,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -95,7 +95,7 @@
         "auth-my-account-integration-token-failed": 6,
         "calculator-v2": 50,
         "comment_common": 30,
-        "commenter-signup": 16,
+        "commenter-signup": 18,
         "commenter-signup-request-failure": 4,
         "commenter-signup-request-success": 5,
         "common-demo-animation": 5,
@@ -113,7 +113,7 @@
         "create-conversation-success": 10,
         "dashboard_common": 107,
         "demo": 35,
-        "error": 6,
+        "error": 8,
         "global-distribution": 44,
         "homepage-email-opt-out": 5,
         "index": 93,
@@ -127,7 +127,7 @@
         "login-two-factor": 18,
         "maintenance-page": 4,
         "marketing_common": 116,
-        "moderator-join-failure": 4,
+        "moderator-join-failure": 9,
         "moderator-join-success": 6,
         "my-account": 5,
         "my-account-affiliates": 26,
@@ -169,11 +169,11 @@
         "my-account-delete-success": 5,
         "my-account-digest-email-comment-approved": 6,
         "my-account-digest-email-comment-marked-as-spam": 6,
-        "my-account-digest-email-error": 5,
+        "my-account-digest-email-error": 6,
         "my-account-digest-email-expired": 5,
         "my-account-digest-email-unsubscribed-success": 4,
         "my-account-edit-avatar": 6,
-        "my-account-edit-details": 27,
+        "my-account-edit-details": 29,
         "my-account-edit-details-change-password": 7,
         "my-account-edit-details-change-password-do": 10,
         "my-account-edit-notifications": 30,
@@ -194,10 +194,10 @@
         "my-account-manage-data-copy-comments": 26,
         "my-account-manage-data-copy-comments-table": 0,
         "my-account-manage-data-export": 27,
-        "my-account-manage-data-export-table": 3,
+        "my-account-manage-data-export-table": 17,
         "my-account-manage-data-import": 60,
         "my-account-manage-data-import-logs": 10,
-        "my-account-manage-data-import-scheduled-comments": 32,
+        "my-account-manage-data-import-scheduled-comments": 49,
         "my-account-manage-data-import-scheduled-comments-table": 9,
         "my-account-manage-data-import-table": 20,
         "my-account-manage-data-integrations": 16,
@@ -209,10 +209,10 @@
         "my-account-manage-data-users-export": 12,
         "my-account-manage-data-users-export-table": 2,
         "my-account-manage-data-webhook": 2,
-        "my-account-manage-data-webhooks": 16,
+        "my-account-manage-data-webhooks": 32,
         "my-account-manage-data-webhooks-for-domain": 5,
         "my-account-manage-data-webhooks-logs": 40,
-        "my-account-managed-tenants-create": 14,
+        "my-account-managed-tenants-create": 24,
         "my-account-managed-tenants-create-success": 9,
         "my-account-moderate-comments": 37,
         "my-account-moderate-comments-banned-users": 38,
@@ -234,24 +234,24 @@
         "my-account-moderate-comments-v2": 9,
         "my-account-on-prem-status": 0,
         "my-account-question-config-delete": 7,
-        "my-account-question-config-edit": 48,
-        "my-account-question-configs": 12,
-        "my-account-question-configs-table": 2,
+        "my-account-question-config-edit": 52,
+        "my-account-question-configs": 18,
+        "my-account-question-configs-table": 6,
         "my-account-saml-config": 63,
         "my-account-sent-email-detail": 13,
         "my-account-sent-emails": 21,
-        "my-account-tenant-delete": 14,
+        "my-account-tenant-delete": 37,
         "my-account-tenants": 23,
         "my-account-ticket": 21,
         "my-account-tickets": 22,
         "my-account-two-factor": 13,
-        "my-account-update-failure": 5,
+        "my-account-update-failure": 12,
         "my-account-users": 41,
         "my-account-users-user-delete": 4,
-        "my-account-users-user-edit": 17,
+        "my-account-users-user-edit": 25,
         "my-account-users-user-invite": 7,
         "my-account-users-user-invite-delete": 4,
-        "my-account-users-user-invite-failure": 4,
+        "my-account-users-user-invite-failure": 5,
         "my-account-users-user-invite-success": 5,
         "my-account-widget": 27,
         "my-account-widgets": 24,
@@ -312,7 +312,7 @@
         "email-template-item": 2,
         "flex-billing": 17,
         "render-error-item": 3,
-        "user-permissions": 18,
+        "user-permissions": 27,
         "comment-log-dialog": 97
     },
     "commenter-comment-notification": {
@@ -909,7 +909,10 @@
         "t361": "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_ALL",
         "t362": "PRIVACY_SETTINGS_APPROVAL_MODE_AUTO_APPROVE_TRUSTED",
         "t363": "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_ALL",
-        "t364": "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW"
+        "t364": "PRIVACY_SETTINGS_APPROVAL_MODE_MANUAL_APPROVE_NEW",
+        "t369": "PROFILE_EDIT_DETAILS",
+        "t370": "PROFILE_EDIT_AVATAR",
+        "t371": "PROFILE_EDIT_HEADER"
     },
     "direct-message-notification": {
         "t1": "SUBJECT",
@@ -1825,7 +1828,9 @@
         "t13": "EMAIL_DESCRIPTION",
         "t14": "SIGNUP_EMAIL_TEXT",
         "t15": "TERMS_AGREEMENT",
-        "t16": "BUTTON_SIGN_UP"
+        "t16": "BUTTON_SIGN_UP",
+        "t17": "LABEL_CAPTCHA",
+        "t18": "CAPTCHA_HELP"
     },
     "commenter-signup-request-failure": {
         "t1": "PAGE_TITLE",
@@ -2162,7 +2167,9 @@
         "t3": "HERO_TITLE_LIGHT",
         "t4": "HERO_TITLE_BOLD",
         "t5": "HERO_DESCRIPTION",
-        "t6": "BUTTON_RETURN_HOME"
+        "t6": "BUTTON_RETURN_HOME",
+        "t7": "CSRF_ERROR",
+        "t8": "COOKIE_ERROR"
     },
     "global-distribution": {
         "t1": "PAGE_TITLE",
@@ -2537,7 +2544,12 @@
         "t1": "PAGE_TITLE",
         "t2": "HERO_TITLE_LIGHT",
         "t3": "HERO_TITLE_BOLD",
-        "t4": "HERO_DESCRIPTION"
+        "t4": "HERO_DESCRIPTION",
+        "t5": "DEFAULT_ERROR",
+        "t6": "ERROR_LINK_EXPIRED",
+        "t7": "ERROR_LINK_INVALID",
+        "t8": "ERROR_ACCOUNT_NOT_FOUND",
+        "t9": "ERROR_EMAIL_MISMATCH"
     },
     "moderator-join-success": {
         "t1": "PAGE_TITLE",
@@ -3364,7 +3376,8 @@
         "t2": "LIGHT_TITLE",
         "t3": "BOLD_TITLE",
         "t4": "DESCRIPTION",
-        "t5": "CLOSE_PAGE"
+        "t5": "CLOSE_PAGE",
+        "t6": "ERROR_COMMENT_DELETED"
     },
     "my-account-digest-email-expired": {
         "t1": "TITLE",
@@ -3414,7 +3427,9 @@
         "t24": "SOCIAL_LINK_PLACEHOLDER",
         "t25": "REMOVE_SOCIAL_LINK",
         "t26": "ADD_SOCIAL_LINK",
-        "t27": "SAVE_CHANGES"
+        "t27": "SAVE_CHANGES",
+        "t28": "ERROR_RATE_LIMITED_MINUTE",
+        "t29": "ERROR_RATE_LIMITED_DAY"
     },
     "my-account-edit-details-change-password": {
         "t1": "TITLE",
@@ -3832,7 +3847,21 @@
     "my-account-manage-data-export-table": {
         "t1": "BUTTON_DOWNLOAD",
         "t2": "TEXT_NA",
-        "t3": "BUTTON_DELETE"
+        "t3": "BUTTON_DELETE",
+        "t4": "TIME_RANGE_ALL_TIME",
+        "t5": "TIME_RANGE_30_DAYS",
+        "t6": "TIME_RANGE_1_YEAR",
+        "t7": "TIME_RANGE_2_YEARS",
+        "t8": "TIME_RANGE_3_YEARS",
+        "t9": "SOURCE_TENANT_COMMENTS",
+        "t10": "SOURCE_DELETED_COMMENTS_TABLE",
+        "t11": "STATUS_REQUESTED",
+        "t12": "STATUS_RUNNING",
+        "t13": "STATUS_SUCCESS",
+        "t14": "STATUS_FAILED",
+        "t15": "STATUS_EXPIRED",
+        "t16": "STATUS_DELETING",
+        "t17": "STATUS_CANCELLED"
     },
     "my-account-manage-data-import": {
         "t1": "TITLE",
@@ -3940,7 +3969,24 @@
         "t29": "DELETE_AND_RUN_AGAIN",
         "t30": "DELETE_COMMENTS_BUTTON",
         "t31": "DELETE_JOB_BUTTON",
-        "t32": "NO_IMPORTS"
+        "t32": "NO_IMPORTS",
+        "t33": "TEXT_NA",
+        "t34": "TEXT_USED_TIMES",
+        "t35": "TEXT_COMMENTS_PLAYED_BACK",
+        "t36": "BUTTON_DELETE",
+        "t37": "BUTTON_STOP",
+        "t38": "BUTTON_START",
+        "t39": "BUTTON_DELETE_AND_RUN_AGAIN",
+        "t40": "BUTTON_DELETE_COMMENTS",
+        "t41": "BUTTON_DELETE_JOB",
+        "t42": "CONFIRM_STOP_PLAYBACK",
+        "t43": "CONFIRM_START_PLAYBACK",
+        "t44": "CONFIRM_DELETE_COMMENTS",
+        "t45": "CONFIRM_DELETE_IMPORT",
+        "t46": "ERROR_STOP_FAILED",
+        "t47": "ERROR_DELETE_COMMENTS_FAILED",
+        "t48": "ERROR_START_FAILED",
+        "t49": "ERROR_DELETE_FAILED"
     },
     "my-account-manage-data-import-scheduled-comments-table": {
         "t1": "TEXT_NA",
@@ -4079,7 +4125,23 @@
         "t13": "CONFIGURE_DOMAIN_LABEL",
         "t14": "ALL_DOMAINS_OPTION",
         "t15": "RECENT_FAILURES_NOTIFICATION",
-        "t16": "RECENT_FAILURES_MESSAGE"
+        "t16": "RECENT_FAILURES_MESSAGE",
+        "t17": "ON_COMMENT_CREATED_LABEL",
+        "t18": "ON_COMMENT_UPDATED_LABEL",
+        "t19": "ON_COMMENT_DELETED_LABEL",
+        "t20": "IDEMPOTENT_OPERATION_TITLE",
+        "t21": "SAVE_BUTTON",
+        "t22": "URL_PLACEHOLDER",
+        "t23": "SEND_TEST_PAYLOAD_BUTTON",
+        "t24": "STATUS_VERIFIED",
+        "t25": "STATUS_NOT_VERIFIED",
+        "t26": "STATUS_NOT_VERIFIED_EXPECTED_200",
+        "t27": "STATUS_NOT_VERIFIED_EXPECTED_401",
+        "t28": "STATUS_YOU_PROVIDED",
+        "t29": "BUTTON_SET_READY",
+        "t30": "BUTTON_SET_NOT_READY",
+        "t31": "CONFIRM_SET_READY",
+        "t32": "EVENTS_IN_QUEUE"
     },
     "my-account-manage-data-webhooks-for-domain": {
         "t1": "ON_COMMENT_CREATED_LABEL",
@@ -4144,7 +4206,17 @@
         "t11": "USAGE_LIMITS_HEADING",
         "t12": "USAGE_LIMITS_DESCRIPTION",
         "t13": "LIMIT_LABEL_PREFIX",
-        "t14": "SUBMIT_BUTTON"
+        "t14": "SUBMIT_BUTTON",
+        "t15": "PROPERTY_MAX_DOMAINS",
+        "t16": "PROPERTY_MAX_MONTHLY_PAGE_LOADS",
+        "t17": "PROPERTY_MAX_MONTHLY_COMMENTS",
+        "t18": "PROPERTY_MAX_CONCURRENT_USERS",
+        "t19": "PROPERTY_MAX_TENANT_USERS",
+        "t20": "PROPERTY_MAX_MODERATORS",
+        "t21": "PROPERTY_MAX_SSO_USERS",
+        "t22": "PROPERTY_MAX_MONTHLY_API_CREDITS",
+        "t23": "PROPERTY_MAX_MONTHLY_SMALL_WIDGETS_CREDITS",
+        "t24": "PROPERTY_MAX_MONTHLY_EVENT_LOG_REQUESTS"
     },
     "my-account-managed-tenants-create-success": {
         "t1": "PAGE_TITLE",
@@ -4567,7 +4639,11 @@
         "t45": "MESSAGE_ADD_QUESTIONS_FIRST",
         "t46": "LABEL_PREVIEW",
         "t47": "BUTTON_CREATE",
-        "t48": "BUTTON_UPDATE"
+        "t48": "BUTTON_UPDATE",
+        "t49": "QUESTION_TYPE_NPS",
+        "t50": "QUESTION_TYPE_SLIDER",
+        "t51": "QUESTION_TYPE_STAR",
+        "t52": "QUESTION_TYPE_THUMBS"
     },
     "my-account-question-configs": {
         "t1": "PAGE_TITLE",
@@ -4581,11 +4657,21 @@
         "t9": "TABLE_HEADER_RESPONSES",
         "t10": "TABLE_HEADER_REPORT_ORDER",
         "t11": "LINK_ADD_QUESTION",
-        "t12": "ALT_PLUS"
+        "t12": "ALT_PLUS",
+        "t13": "QUESTION_TYPE_NPS",
+        "t14": "QUESTION_TYPE_SLIDER",
+        "t15": "QUESTION_TYPE_STAR",
+        "t16": "QUESTION_TYPE_THUMBS",
+        "t17": "BUTTON_EDIT",
+        "t18": "BUTTON_DELETE"
     },
     "my-account-question-configs-table": {
         "t1": "BUTTON_EDIT",
-        "t2": "BUTTON_DELETE"
+        "t2": "BUTTON_DELETE",
+        "t3": "QUESTION_TYPE_NPS",
+        "t4": "QUESTION_TYPE_SLIDER",
+        "t5": "QUESTION_TYPE_STAR",
+        "t6": "QUESTION_TYPE_THUMBS"
     },
     "my-account-saml-config": {
         "t1": "PAGE_TITLE",
@@ -4704,7 +4790,30 @@
         "t11": "CHECKBOX_CONFIRM",
         "t12": "HELP_CANNOT_UNDO",
         "t13": "BUTTON_NO",
-        "t14": "BUTTON_YES"
+        "t14": "BUTTON_YES",
+        "t15": "DELETE_LABEL_PAGES",
+        "t16": "DELETE_LABEL_USERS",
+        "t17": "DELETE_LABEL_SSO_USERS",
+        "t18": "DELETE_LABEL_VOTES",
+        "t19": "DELETE_LABEL_ANONYMOUS_VOTES",
+        "t20": "DELETE_LABEL_COMMENTS",
+        "t21": "DELETE_LABEL_WIDGET_CONFIGURATIONS",
+        "t22": "DELETE_LABEL_MODERATORS",
+        "t23": "DELETE_LABEL_MODERATION_GROUPS",
+        "t24": "DELETE_LABEL_API_SECRETS",
+        "t25": "DELETE_LABEL_INTEGRATION_TOKENS",
+        "t26": "DELETE_LABEL_CONVERSATIONS",
+        "t27": "DELETE_LABEL_IMAGE_CONVERSATIONS",
+        "t28": "DELETE_LABEL_TEXT_CONVERSATIONS",
+        "t29": "DELETE_LABEL_BANNED_USERS",
+        "t30": "DELETE_LABEL_HASH_TAGS",
+        "t31": "DELETE_LABEL_USER_SUBSCRIPTIONS",
+        "t32": "DELETE_LABEL_BADGES",
+        "t33": "DELETE_LABEL_ADMIN_INVITES",
+        "t34": "DELETE_LABEL_CUSTOM_EMAIL_TEMPLATES",
+        "t35": "DELETE_LABEL_QUESTIONS",
+        "t36": "DELETE_LABEL_QUESTION_RESULTS",
+        "t37": "DELETE_LABEL_STRIPE_SUBSCRIPTION"
     },
     "my-account-tenants": {
         "t1": "PAGE_TITLE",
@@ -4798,7 +4907,14 @@
         "t2": "HEADING",
         "t3": "LINK_TRY_AGAIN",
         "t4": "MESSAGE_GENERIC",
-        "t5": "MESSAGE_GENERIC_DETAIL"
+        "t5": "MESSAGE_GENERIC_DETAIL",
+        "t6": "ERROR_EMAIL_OR_USERNAME_EMPTY",
+        "t7": "ERROR_EMAIL_INVALID",
+        "t8": "ERROR_USERNAME_TAKEN",
+        "t9": "ERROR_EMAIL_TAKEN",
+        "t10": "ERROR_EMAIL_NOW_TAKEN",
+        "t11": "ERROR_RATE_LIMITED_MINUTE",
+        "t12": "ERROR_RATE_LIMITED_DAY"
     },
     "my-account-users": {
         "t1": "PAGE_TITLE",
@@ -4866,7 +4982,15 @@
         "t14": "PLACEHOLDER_EMAIL",
         "t15": "LABEL_LOCALE",
         "t16": "LABEL_PERMISSIONS",
-        "t17": "BUTTON_SUBMIT"
+        "t17": "BUTTON_SUBMIT",
+        "t18": "USERNAME_EXISTS_SAME_TENANT",
+        "t19": "USERNAME_EXISTS_INVITE",
+        "t20": "USERNAME_EXISTS_OTHER_TENANT",
+        "t21": "USERNAME_AVAILABLE",
+        "t22": "EMAIL_EXISTS_SAME_TENANT",
+        "t23": "EMAIL_EXISTS_INVITE",
+        "t24": "EMAIL_EXISTS_OTHER_TENANT",
+        "t25": "EMAIL_AVAILABLE"
     },
     "my-account-users-user-invite": {
         "t1": "PAGE_TITLE",
@@ -4887,7 +5011,8 @@
         "t1": "PAGE_TITLE",
         "t2": "HEADING",
         "t3": "MESSAGE_GENERIC",
-        "t4": "MESSAGE_GENERIC_DETAIL"
+        "t4": "MESSAGE_GENERIC_DETAIL",
+        "t5": "MESSAGE_INVITE_NOT_FOUND"
     },
     "my-account-users-user-invite-success": {
         "t1": "PAGE_TITLE",
@@ -5677,7 +5802,16 @@
         "t15": "PERM_isCommentModeratorAdmin_NAME",
         "t16": "PERM_isCommentModeratorAdmin_DESC",
         "t17": "PERM_isAPIAdmin_NAME",
-        "t18": "PERM_isAPIAdmin_DESC"
+        "t18": "PERM_isAPIAdmin_DESC",
+        "t19": "PERM_isAccountOwner_DESC_FIRST_PERSON",
+        "t20": "PERM_isAdminAdmin_DESC_FIRST_PERSON",
+        "t21": "PERM_isHelpRequestAdmin_DESC_FIRST_PERSON",
+        "t22": "PERM_isBillingAdmin_DESC_FIRST_PERSON",
+        "t23": "PERM_isAnalyticsAdmin_DESC_FIRST_PERSON",
+        "t24": "PERM_isCustomizationAdmin_DESC_FIRST_PERSON",
+        "t25": "PERM_isManageDataAdmin_DESC_FIRST_PERSON",
+        "t26": "PERM_isCommentModeratorAdmin_DESC_FIRST_PERSON",
+        "t27": "PERM_isAPIAdmin_DESC_FIRST_PERSON"
     },
     "comment-log-dialog": {
         "t1": "ACTION_ANONYMIZED",

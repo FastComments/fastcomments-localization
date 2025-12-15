@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "Преглед на коментарите в нишката",
+    "HEADING": "Преглед на коментарите в нишката",
+    "THREAD_DETAILS": "Преглеждате коментарната нишка на <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a>",
+    "PAGE_ID_INFO": "Преглед на коментари за страница с идентификатор: <%- thread.urlIdDecoded %>"
+}

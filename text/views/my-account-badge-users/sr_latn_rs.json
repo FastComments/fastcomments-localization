@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - FastComments",
+    "HEADING_USERS_WITH_BADGE": "<%- Number(userBadges.length).toLocaleString() %> <%- userBadges.length === 1 ? 'User' : 'Users' %> sa značkom <%- tenantBadge.displayLabel %>",
+    "TEXT_NO_USERS_WITH_BADGE": "Nijedan korisnik nema ovu značku! Većina znački se dodeljuje automatski. Ako je to ručna značka, moraćete da je dodelite ručno.",
+    "TABLE_HEADER_USER_ID": "Korisničko ime",
+    "TABLE_HEADER_EMAIL": "E-pošta",
+    "TABLE_HEADER_AVATAR": "Avatar",
+    "TABLE_HEADER_NAME": "Ime i prezime",
+    "TABLE_HEADER_BADGE_EARNED_DATE": "Datum zarađivanja značke",
+    "TEXT_NA": "N / D"
+}

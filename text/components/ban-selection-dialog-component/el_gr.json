@@ -1,0 +1,21 @@
+{
+    "BAN_SELECTION_TITLE": "Επιλέξτε Αποκλεισμός για Επεξεργασία",
+    "BAN_SELECTION_SUBTITLE_MULTIPLE": "Υπάρχουν πολλαπλές απαγορεύσεις που επηρεάζουν [username].",
+    "BAN_SELECTION_SUBTITLE_SINGLE": "[username] επηρεάζεται από έναν αποκλεισμό για αυτό το σχόλιο.",
+    "BAN_SELECTION_BTN_SELECT": "Επιλέγω",
+    "BAN_SELECTION_BTN_CREATE_NEW": "Δημιουργία νέου",
+    "BAN_SELECTION_BTN_CANCEL": "Ματαίωση",
+    "BAN_SELECTION_LABEL": "Επιλέξτε μια απαγόρευση",
+    "BAN_SELECTION_RELATED_BANS": "Σχετικές απαγορεύσεις",
+    "BAN_SELECTION_REMINDER": "Θυμηθείτε να ελέγξετε πώς η απαγόρευση ταιριάζει με τον χρήστη πριν από την επεξεργασία!",
+    "BAN_SELECTION_EXPIRES": "Λήγει [date]",
+    "BAN_SELECTION_NEVER_EXPIRES": "Δεν λήγει ποτέ",
+    "BAN_SELECTION_SHADOW": "Σκιά",
+    "BAN_SELECTION_ANON_USER_ID": "Αναγνωριστικό χρήστη Anon",
+    "BAN_SELECTION_USER_ID": "Αναγνωριστικό χρήστη",
+    "BAN_SELECTION_EMAIL": "E-mail",
+    "BAN_SELECTION_EMAIL_PATTERN": "Μοτίβο ηλεκτρονικού ταχυδρομείου",
+    "BAN_SELECTION_IP": "Πνευματική Ιδιοκτησία",
+    "BAN_SELECTION_MATCHED_ON": "Ταιριάστηκε στις: [[matches]]",
+    "BAN_SELECTION_ID": "(Αναγνωριστικό: [id])"
+}

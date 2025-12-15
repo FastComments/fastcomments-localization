@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "コメントスパム対策トレーニングセット - FastComments",
+    "HEADING_COMMENTS_SPAM_TRAINING_SET": "コメントスパムトレーニングセット",
+    "TEXT_CURRENT_CLASSIFICATION": "現在の分類: <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
+    "BUTTON_UNCLASSIFY": "分類解除",
+    "BUTTON_SPAM": "スパム",
+    "BUTTON_NOT_SPAM": "スパムではありません"
+}

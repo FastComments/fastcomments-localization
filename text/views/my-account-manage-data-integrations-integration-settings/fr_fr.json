@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Paramètres du jeton d'intégration - FastComments",
+    "HEADING": "Paramètres du jeton d'intégration",
+    "SUB_HEADING": "Modification d'un jeton d'intégration <%= integration.readableType %>.",
+    "ENABLE_EVENT_FETCH_LABEL": "Les clients utilisant cette intégration devraient pouvoir récupérer périodiquement les nouveaux commentaires.",
+    "ENABLE_EVENT_FETCH_DESCRIPTION": "Cela permettra aux clients utilisant ce jeton d'intégration de récupérer le journal des événements et ainsi de rester synchronisés. Utile si vous utilisez des extensions WordPress qui nécessitent des données de commentaires dans votre propre base de données.",
+    "SAVE_BUTTON": "Sauvegarder"
+}

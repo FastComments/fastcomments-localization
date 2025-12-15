@@ -1,0 +1,5 @@
+{
+    "HEADING_EDITING_BADGE": "Modifica <%= badge.displayLabel %>",
+    "HEADING_CREATING_EDITING_BADGE": "Distintivo <%= badge ? 'Editing' : 'Creating' %> \"____\"",
+    "LABEL_BADGE_THRESHOLD": "<%= BadgeLimitDescriptions[badgeType] %>"
+}

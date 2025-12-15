@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "Davet başarısız oldu",
+    "HERO_TITLE_LIGHT": "Davet etmek  ",
+    "HERO_TITLE_BOLD": "Arıza",
+    "DEFAULT_ERROR": "Bir şeyler çok ters gitti. Ne olduğunu tam olarak bilmiyoruz ama inceleyeceğiz.",
+    "ERROR_LINK_EXPIRED": "<b>Üzgünüz, ancak bu bağlantı daha önce kullanılmış veya 30 günden daha eski görünüyor. Lütfen size davetiye gönderen sitenin sahibinden yeni bir bağlantı göndermesini rica edin.</b>",
+    "ERROR_LINK_INVALID": "<b>Eyvah! Bu bağlantı geçersiz görünüyor.</b>",
+    "ERROR_ACCOUNT_NOT_FOUND": "Hesabınız bulunamadı. Bu sorunu çözmek için lütfen yöneticinizle iletişime geçin ve yeni bir davetiye alın.",
+    "ERROR_EMAIL_MISMATCH": "<b>Şu anda oturum açmış olan kullanıcının e-postası ([userEmail]), gönderilen davetiyedeki ([inviteEmail]) e-postadan farklıdır.</b><br><br> <a href=\"/auth/logout?redirect=[redirectUrl]\">Buradan tıklayarak</a> oturumunuzu kapatabilir ve moderatörlük için özel bir hesap oluşturabilirsiniz."
+}

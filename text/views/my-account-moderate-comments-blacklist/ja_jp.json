@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "単語ブラックリスト - FastComments",
+    "HEADING": "コメントワードブラックリスト",
+    "SUB_HEADING": "ブラックリストをカスタマイズする",
+    "SUCCESS_MESSAGE": "ブラックリストが正常に保存されました。",
+    "INTRO_PARAGRAPH_1": "以下は、コメントとユーザー名でマスクされる単語とフレーズのリストです。コンマ区切りで指定します。ここで選択する単語にはご注意ください。あまりに一般的な単語をブラックリストに登録すると、コミュニティから疎外されてしまう可能性があります。",
+    "INTRO_PARAGRAPH_2": "これらは<b>ロケールごとに</b>定義されます。ロケールとは、言語と地理的な地域の組み合わせです。",
+    "INTRO_PARAGRAPH_3": "<b>単語</b>と<b>フレーズを</b>区別していることがわかります。<b>単語</b>リストのエントリにはスペースや特殊文字を含めることはできません。スペースやピリオドなどを含むフレーズがある場合は、<b>フレーズ</b>リストに追加してください。",
+    "NOSCRIPT_MESSAGE": "この構成 UI が正しく機能するには JavaScript が必要です。",
+    "EDIT_LOCALE_LABEL": "ロケールに合わせて編集",
+    "MASKED_WORDS_LABEL": "[localeName] のマスクされた単語。",
+    "MASKED_WORDS_DESCRIPTION": "このリスト内の単語 (カンマ区切り) は *** のようにマスクされます。",
+    "MASKED_WORDS_PLACEHOLDER": "「some,bad,words」のように、コンマで区切られた不適切な単語のリストを入力します。",
+    "WORDS_LENGTH_ERROR": "1つのロケールにつき最大5,000語まで入力できます。<span id=\"length-error-count-words-[locale]\"></span> 。",
+    "MASKED_PHRASES_LABEL": "[localeName] のマスクされたフレーズ。",
+    "MASKED_PHRASES_DESCRIPTION": "このリスト内のフレーズ (コンマ区切り) は ******** のようにマスクされます。",
+    "MASKED_PHRASES_PLACEHOLDER": "「some bad phrase, some other bad phrase」のように、コンマで区切られた不適切なフレーズのリストを入力します。",
+    "PHRASES_LENGTH_ERROR": "ロケールごとに最大5,000個のフレーズを入力できます。<span id=\"length-error-count-phrases-[locale]\"></span> 。",
+    "SAVE_BUTTON": "変更を保存 [localeName]"
+}

@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE": "ユーザーの削除 - FastComments",
+    "HEADING": "ユーザーの削除を確認する",
+    "MESSAGE_CONFIRM": "ユーザー「<%= userToDeleteUserName %>」を削除してもよろしいですか？削除すると、そのユーザーはあなたのアカウントから直ちに削除されますが、コメント投稿者としては FastComments アカウントは保持されます。",
+    "BUTTON_DELETE": "ユーザーを削除"
+}

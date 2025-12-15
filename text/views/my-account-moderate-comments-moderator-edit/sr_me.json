@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Прилагоди - Брзи коментари",
+    "HEADING_ADD": "Додај модератора",
+    "HEADING_EDIT": "Прилагоди <%= moderator.name %>",
+    "SUB_HEADING_ADD": "Додај модератора",
+    "SUB_HEADING_EDIT": "Уређивање <%= moderator.name %>",
+    "INTRO_PARAGRAPH_1": "Дошли сте на право место ако желите да некоме омогућите приступ модерирању ваших коментара.",
+    "INTRO_PARAGRAPH_2": "Имајте на уму да не морате да додајете модераторе за администраторске кориснике. Административни корисници већ имају могућности модерирања.",
+    "NAME_SECTION_HEADING": "Дајте им име",
+    "NAME_LABEL": "Име",
+    "NAME_PLACEHOLDER": "Господин Модератор Гај",
+    "EMAIL_SECTION_HEADING": "Требаће нам имејл",
+    "EMAIL_LABEL": "Е-пошта",
+    "EMAIL_PLACEHOLDER": "guy@moderators.com",
+    "GROUPS_SECTION_HEADING": "Којим групама припадају?",
+    "MODERATION_GROUPS_LABEL": "Групе за модерацију",
+    "CLEAR_ALL_LINK": "Обриши све",
+    "GROUPS_DESCRIPTION": "Видеће само коментаре из ових група на страници Модерирање коментара.",
+    "SAVE_BUTTON": "Сачувај"
+}

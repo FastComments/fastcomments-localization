@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Zaproś użytkownika - FastComments",
+    "HEADING": "Zaproś administratora",
+    "MESSAGE_INVITE_DESCRIPTION": "Zaproszenie użytkownika, który jest obecnie komentującym, do zostania administratorem spowoduje podniesienie jego konta do statusu administratora i dodanie go do Twojej dzierżawy.",
+    "MESSAGE_CONFIRM_USERNAME": "<b>Dodajesz użytkownika o nazwie „<%= invitingUserName %>”. Upewnij się, że jest ona poprawna.</b>",
+    "HEADING_PERMISSIONS": "Uprawnienia",
+    "MESSAGE_PERMISSIONS": "Jakie uprawnienia chcesz im przyznać po zaakceptowaniu zaproszenia?",
+    "BUTTON_SEND_INVITE": "Wyślij zaproszenie"
+}

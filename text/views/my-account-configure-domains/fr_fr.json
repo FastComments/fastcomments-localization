@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Mon compte",
+    "HEADING_MY_DOMAINS": "Mes domaines",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "Domaines ajoutés avec succès !",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "Domaine supprimé avec succès !",
+    "TEXT_SETTING_UPDATED_SUCCESS": "Paramètres mis à jour avec succès !",
+    "TEXT_IMAGE_UPLOAD_ERROR": "Erreur de chargement d'image : <%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "Voici la configuration des e-mails envoyés par FastComments aux personnes ayant commenté vos messages. Vous n'êtes pas obligé de saisir quoi que ce soit si vous ne souhaitez pas personnaliser ces paramètres.",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Remarque : les paramètres Nom de l&#39;expéditeur et Adresse électronique n&#39;affectent pas les courriels envoyés aux administrateurs.</b>",
+    "LINK_REMOVE": "Retirer",
+    "TEXT_AUTO_ADDED_NOTICE": "Ajouté automatiquement pendant la période d'essai.",
+    "TITLE_AUTO_ADDED": "Ajout automatique pendant la période d'essai en fonction du trafic sur votre compte. Ceci afin de simplifier la configuration, et n'est effectif que pendant la période d'essai.",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Nom de l'expéditeur lors de l'envoi d'un courriel à l'utilisateur",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "Adresse e-mail de l'expéditeur lors de l'envoi d'un e-mail à l'utilisateur",
+    "TEXT_EMAIL_ERROR": "Il y a un problème avec ce courriel. Nous avons enregistré toutes les autres modifications.",
+    "TEXT_LOGO_MAX_SIZE": "Taille maximale : 1 Mo. Non redimensionnée.",
+    "BUTTON_SAVE": "Sauvegarder",
+    "TEXT_NO_DOMAINS_WARNING": "Oups ! Vous n'avez aucun domaine. Vos widgets ne pourront pas se charger tant que vous n'aurez pas associé un ou plusieurs domaines à votre compte.",
+    "TITLE_ADD_DOMAIN": "Ajouter un domaine",
+    "TEXT_ADD_A_DOMAIN": "Ajouter un domaine"
+}

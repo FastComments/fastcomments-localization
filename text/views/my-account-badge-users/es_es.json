@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - Comentarios rápidos",
+    "HEADING_USERS_WITH_BADGE": "<%- Number(userBadges.length).toLocaleString() %> <%- userBadges.length === 1 ? 'User' : 'Users' %> con insignia <%- tenantBadge.displayLabel %>",
+    "TEXT_NO_USERS_WITH_BADGE": "¡Ningún usuario tiene esta insignia! La mayoría de las insignias se otorgan automáticamente. Si es una insignia manual, tendrás que otorgarla manualmente.",
+    "TABLE_HEADER_USER_ID": "ID de usuario",
+    "TABLE_HEADER_EMAIL": "Correo electrónico",
+    "TABLE_HEADER_AVATAR": "Avatar",
+    "TABLE_HEADER_NAME": "Nombre",
+    "TABLE_HEADER_BADGE_EARNED_DATE": "Fecha de obtención de la insignia",
+    "TEXT_NA": "N / A"
+}

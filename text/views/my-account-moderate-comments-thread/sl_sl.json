@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "Pregledovalnik niti komentarjev",
+    "HEADING": "Pregledovalnik niti komentarjev",
+    "THREAD_DETAILS": "Nit komentarjev si ogledujete na <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a>",
+    "PAGE_ID_INFO": "Ogled komentarjev za ID strani: <%- thread.urlIdDecoded %>"
+}

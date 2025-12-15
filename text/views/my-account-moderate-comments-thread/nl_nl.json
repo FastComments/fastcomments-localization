@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "Commentaarthreadviewer",
+    "HEADING": "Commentaarthreadviewer",
+    "THREAD_DETAILS": "Je bekijkt de reacties op <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a>",
+    "PAGE_ID_INFO": "Reacties bekijken voor pagina-ID: <%- thread.urlIdDecoded %>"
+}

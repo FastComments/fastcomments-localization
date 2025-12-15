@@ -1,0 +1,17 @@
+{
+    "PAGE_TITLE": "Secret API - FastComments",
+    "HEADING_API_CREDENTIALS": "Identifiants API",
+    "LABEL_TENANT_ID": "Identifiant du locataire",
+    "TEXT_NO_API_KEYS": "Rien à voir ici ! Ajoutez une clé API pour commencer à utiliser l'API ou les webhooks.",
+    "LABEL_KEY_NAME": "Nom de la clé :",
+    "TEXT_DEFAULT_KEY_NAME": "Défaut",
+    "LABEL_DOMAIN": "Domaine:",
+    "TEXT_ALL_DOMAINS": "Tous",
+    "TITLE_EDIT_NAME": "Modifier le nom",
+    "TITLE_DELETE": "Supprimer",
+    "TITLE_EDIT_DOMAIN": "Modifier le domaine",
+    "TEXT_CLICK_TO_REVEAL": "Cliquez pour révéler la clé secrète",
+    "TEXT_SECURITY_WARNING": "Ne partagez pas vos clés secrètes et n&#39;effectuez pas de chiffrement dans le navigateur ! Consultez nos <a href=\"https://github.com/fastcomments/fastcomments-code-examples\" target=\"_blank\">exemples de code côté serveur</a> pour savoir comment chiffrer tout en protégeant vos clés.",
+    "TITLE_ADD_API_SECRET": "Ajouter le secret de l'API",
+    "TEXT_ADD_API_KEY": "Ajouter une clé API"
+}

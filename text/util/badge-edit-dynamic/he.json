@@ -1,0 +1,5 @@
+{
+    "HEADING_EDITING_BADGE": "עריכה <%= badge.displayLabel %>",
+    "HEADING_CREATING_EDITING_BADGE": "תג \"<%= badge ? 'Editing' : 'Creating' %>_\"",
+    "LABEL_BADGE_THRESHOLD": "<%= BadgeLimitDescriptions[badgeType] %>"
+}

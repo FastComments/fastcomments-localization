@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Supprimer la question - FastComments",
+    "HEADING": "Supprimer \"<%= question.name %>\"?",
+    "CONFIRM_MESSAGE": "Êtes-vous sûr de vouloir supprimer la question « <%= question.question %> », créée le <%= question.createdAt.toLocaleString() %> ?",
+    "REPLY_COUNT_MESSAGE": "Cette question a <%= Number(question.usedCount).toLocaleString() %> réponses.",
+    "DATA_LOSS_WARNING": "Les données issues de ces réponses ne seront plus disponibles dans les rapports.",
+    "DELETE_BUTTON": "Supprimer",
+    "CANCEL_LINK": "Annuler"
+}
