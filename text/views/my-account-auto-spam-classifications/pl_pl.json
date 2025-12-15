@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Zestaw szkoleniowy dotyczący spamu w komentarzach – FastComments",
+    "HEADING_COMMENTS_SPAM_TRAINING_SET": "Zestaw szkoleniowy dotyczący spamu w komentarzach",
+    "TEXT_CURRENT_CLASSIFICATION": "Obecna klasyfikacja: <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
+    "BUTTON_UNCLASSIFY": "Odklasyfikować",
+    "BUTTON_SPAM": "Spam",
+    "BUTTON_NOT_SPAM": "Nie spam"
+}

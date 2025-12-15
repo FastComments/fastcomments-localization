@@ -1,0 +1,23 @@
+{
+  "PAGE_TITLE": "Sent Emails - FastComments",
+  "HEADING": "Sent Emails",
+  "INFO_NOTE": "<strong>Note:</strong> We only keep email history for two months. Older emails are automatically deleted.",
+  "LABEL_FILTER_SUBJECT": "Filter by subject",
+  "PLACEHOLDER_SUBJECT": "Search subject...",
+  "LABEL_FILTER_CONTENT": "Filter by content",
+  "PLACEHOLDER_CONTENT": "Search email content...",
+  "BUTTON_SEARCH": "Search",
+  "BUTTON_CLEAR": "Clear",
+  "TABLE_HEADER_DATE": "Date",
+  "TABLE_HEADER_FROM": "From",
+  "TABLE_HEADER_SUBJECT": "Subject",
+  "MESSAGE_NO_EMAILS_FILTERS": "No emails found for the specified filters.",
+  "BUTTON_VIEW": "View",
+  "BUTTON_PREV": "Prev",
+  "BUTTON_NEXT": "Next",
+  "LABEL_PAGE": "Page <%= page %>",
+  "MESSAGE_NO_EMAILS": "You don't have any sent emails.",
+  "VALUE_UNKNOWN": "Unknown",
+  "VALUE_NO_SUBJECT": "(No Subject)",
+  "VALUE_NA": "N/A"
+}

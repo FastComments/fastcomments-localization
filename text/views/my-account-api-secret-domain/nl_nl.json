@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "API-geheim domein bijwerken - FastComments",
+    "HEADING_UPDATE_API_SECRET_DOMAIN": "API-geheim domein bijwerken",
+    "TEXT_DOMAIN_INFO": "Voor configuraties zoals webhooks bepalen we op basis van deze configuratie welke API-sleutel we moeten gebruiken.",
+    "LABEL_ASSOCIATE_SECRET_WITH_DOMAIN": "Koppel het API-geheim \"<%= apiSecret.name %>\" aan het domein:",
+    "OPTION_ALL_DOMAINS": "Alle domeinen",
+    "BUTTON_UPDATE_DOMAIN": "Domein bijwerken"
+}

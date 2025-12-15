@@ -1,0 +1,14 @@
+{
+  "PAGE_TITLE": "Update Failed",
+  "HEADING": "ACCOUNT UPDATE FAILURE",
+  "LINK_TRY_AGAIN": "Try Again",
+  "MESSAGE_GENERIC": "Something went terribly wrong.",
+  "MESSAGE_GENERIC_DETAIL": "We're not sure what happened, but we'll take a look.",
+  "ERROR_EMAIL_OR_USERNAME_EMPTY": "Looks like somehow email or username was empty. Please try again.",
+  "ERROR_EMAIL_INVALID": "Looks like this email is invalid: [email]",
+  "ERROR_USERNAME_TAKEN": "That username is taken by somebody else!",
+  "ERROR_EMAIL_TAKEN": "Sorry, but that email is already used by someone else! Maybe you already have an account?",
+  "ERROR_EMAIL_NOW_TAKEN": "Sorry, but the requested email is now used by someone else! Did you create another account?",
+  "ERROR_RATE_LIMITED_MINUTE": "You have exceeded our rate limits. Please try again in a few minutes or reach out to support.",
+  "ERROR_RATE_LIMITED_DAY": "You have exceeded our daily rate limits. Please try again in 24 hours or reach out to support."
+}

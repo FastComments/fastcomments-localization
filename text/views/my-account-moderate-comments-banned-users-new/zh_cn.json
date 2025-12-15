@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "封禁用户 - FastComments",
+    "HEADING": "封禁用户",
+    "SUB_HEADING": "通过电子邮件封禁用户",
+    "INTRO_DESCRIPTION": "您可以在此处输入要封禁用户的邮箱地址。封禁用户的方式有两种。永久封禁将永久禁止用户投票或评论，并且当他们尝试评论时会立即收到提示。影子封禁会让用户的投票或评论看起来成功，但实际上并不会持续有效。",
+    "ENTER_EMAIL_HEADING": "输入电子邮件地址",
+    "EMAIL_LABEL": "电子邮件",
+    "TYPE_LABEL": "类型",
+    "TYPE_BAN": "禁止",
+    "TYPE_SHADOW_BAN": "影子禁令",
+    "DURATION_LABEL": "期间",
+    "DURATION_FOREVER": "永远",
+    "DURATION_ONE_HOUR": "一小时",
+    "DURATION_ONE_DAY": "一天",
+    "DURATION_ONE_WEEK": "一周",
+    "DURATION_ONE_MONTH": "一个月",
+    "DURATION_SIX_MONTHS": "六个月",
+    "DURATION_ONE_YEAR": "一年",
+    "BAN_USER_BUTTON": "封禁用户"
+}

@@ -1,0 +1,21 @@
+{
+    "BAN_SELECTION_TITLE": "Выберите «Запретить», чтобы изменить",
+    "BAN_SELECTION_SUBTITLE_MULTIPLE": "Существует множество запретов, затрагивающих [username].",
+    "BAN_SELECTION_SUBTITLE_SINGLE": "[username] заблокирован за этот комментарий.",
+    "BAN_SELECTION_BTN_SELECT": "Выбирать",
+    "BAN_SELECTION_BTN_CREATE_NEW": "Создать новый",
+    "BAN_SELECTION_BTN_CANCEL": "Отмена",
+    "BAN_SELECTION_LABEL": "Выберите блокировку",
+    "BAN_SELECTION_RELATED_BANS": "Соответствующие запреты",
+    "BAN_SELECTION_REMINDER": "Перед редактированием обязательно проверьте, соответствует ли блокировка пользователю!",
+    "BAN_SELECTION_EXPIRES": "Срок действия истекает [date]",
+    "BAN_SELECTION_NEVER_EXPIRES": "Срок действия не ограничен",
+    "BAN_SELECTION_SHADOW": "Тень",
+    "BAN_SELECTION_ANON_USER_ID": "Идентификатор анонимного пользователя",
+    "BAN_SELECTION_USER_ID": "ID пользователя",
+    "BAN_SELECTION_EMAIL": "Электронная почта",
+    "BAN_SELECTION_EMAIL_PATTERN": "Шаблон электронной почты",
+    "BAN_SELECTION_IP": "IP",
+    "BAN_SELECTION_MATCHED_ON": "Совпадение по: [[matches]]",
+    "BAN_SELECTION_ID": "(ИДЕНТИФИКАТОР: [id])"
+}

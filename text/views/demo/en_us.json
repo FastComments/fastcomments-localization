@@ -1,0 +1,47 @@
+{
+  "PAGE_TITLE": "FastComments - Demo",
+  "META_DESCRIPTION": "FastComments.com Demo",
+  "HERO_TITLE_LIGHT": "Our ",
+  "HERO_TITLE_BOLD": "Demos",
+  "HERO_DESCRIPTION": "FastComments is packed with features, but don't let that fool you. With every release we've kept the our commenting product free of bloat. Try out the <b>live</b> demo below.",
+  "DEMO_SELECTOR_TITLE": "Select a Demo",
+  "DEMO_SELECTOR_SUBTITLE": "FastComments supports many different use cases. Try one below!",
+  "OUR_CUSTOMERS_SUBTEXT": "No Credit Card Required For Initial Sign up & Installation",
+  "OUR_CUSTOMERS_BUTTON": "Sign Up Now",
+
+  "DEMO_OPTION_DEMO_TITLE": "Demo",
+  "DEMO_OPTION_DEMO_DESC": "The default commenting widget.",
+
+  "DEMO_OPTION_RATINGS_TITLE": "Ratings",
+  "DEMO_OPTION_RATINGS_DESC": "Customizable questions & sub questions.",
+  "DEMO_OPTION_RATINGS_ABOUT": "Here we have two widgets. The summary widget, and the commenting widget. We've added some questions in the dashboard under Customize->Questions and added a widget configuration under Customize->Customize which uses our questions. We've setup the widget configuration to only apply to this page, as well, but you could setup questions to show on all pages or a specific subdomain.",
+
+  "DEMO_OPTION_SSO_TITLE": "SSO",
+  "DEMO_OPTION_SSO_DESC": "Log users in automatically.",
+  "DEMO_OPTION_SSO_ABOUT": "Here we're using the FastComment Secure SSO solution. This makes an API call when you select the button to get the user's information which is hashed against an API with an SHA-256 hash for verification. <a href=\"https://github.com/FastComments/fastcomments-code-examples/blob/master/sso/node-express/routes/index.js#L8\">The code is very similar to this.</a><br><br>FastComments also supports what we call Simple SSO, which doesn't require a server.<br><br>With both solutions we can configure if the user is a moderator, an admin, add custom labels, badges, notification preferences, etc.",
+
+  "DEMO_OPTION_ANON_TITLE": "Anonymous",
+  "DEMO_OPTION_ANON_DESC": "Don't require emails to comment.",
+  "DEMO_OPTION_ANON_ABOUT": "In this example we've turned on a few settings. We enabled anonymous commenting, but this alone would still show the email input field and just make it optional. We've also hidden the email input field and allowed anonymous voting and flagging. This was all configured via the admin dashboard, no code written.",
+
+  "DEMO_OPTION_BADGES_TITLE": "Badges",
+  "DEMO_OPTION_BADGES_DESC": "FastComments supports badges as awards.",
+  "DEMO_OPTION_BADGES_ABOUT": "FastComments supports what we call badges, which are awarded to users automatically based on various conditions. There are three badges you can earn here:<br><ul><li><b>Curious:</b> Awarded for commenting on this page.</li><li><b>Very Curious:</b> Awarded for commenting on this page more than once. Configured to replace the Curious badge.</li><li><b>Night Owl:</b> Awarded for commenting on this page at night.</li><li><b>Well Liked:</b> Awarded when you receive 5 or more total karma on this page.</li></ul>These will automatically be applied to your account and shown. You can hide them by going to you profile (click your avatar) and clicking the three-dot menu and clicking Manage Badges. This will only work in a fully authenticated verified session and not an anon session.",
+
+  "DEMO_OPTION_DARK_MODE_TITLE": "Dark Mode",
+  "DEMO_OPTION_DARK_MODE_DESC": "Try out dark mode.",
+  "DEMO_OPTION_DARK_MODE_ABOUT": "In this example we turn on dark mode for the whole page. The commenting widget automatically detects the DOM tree it is in contains a dark background and adjusts.<br><br>You can use an API to configure this behavior as well.",
+
+  "DEMO_OPTION_LIKES_TITLE": "Likes Instead of Up/Down",
+  "DEMO_OPTION_LIKES_DESC": "Use likes instead of up/down votes.",
+
+  "DEMO_OPTION_CODE_SNIPPETS_TITLE": "Code snippet sharing.",
+  "DEMO_OPTION_CODE_SNIPPETS_DESC": "FastComments supports dev communities by auto-detecting code snippet languages and formatting them.",
+  "DEMO_OPTION_CODE_SNIPPETS_ABOUT": "Some communities, for example Stack Overflow, promote sharing of code between developers. FastComments is designed to fit in these communities by gracefully handling code snippets while sanitizing content to prevent against XSS or style attacks.<br><a href=\"https://docs.fastcomments.com/guide-comment-syntax.html#security\" target=\"_blank\">You can learn more about the security of the comment area here.</a>",
+
+  "DEMO_OPTION_WYSIWYG_TITLE": "WYSIWYG Editor",
+  "DEMO_OPTION_WYSIWYG_DESC": "Rich text editor for easier commenting.",
+  "DEMO_OPTION_WYSIWYG_ABOUT": "The WYSIWYG (What You See Is What You Get) editor provides a rich text editing experience for users who prefer visual formatting over markdown. It includes common formatting options like bold, italic, links, and lists while maintaining the security and performance standards of FastComments.<br><br>This is particularly useful for non-technical communities where users might not be familiar with markdown syntax. This example also enables the resize handle.",
+
+  "DEMO_OPTION_VIEW_DOCUMENTATION": "View Documentation"
+}

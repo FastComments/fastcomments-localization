@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Kuponi - FastComments",
+    "HEADING_COUPONS": "Kuponi",
+    "HEADING_COUPON_CODES": "Kupon Kodovi",
+    "HEADING_STATS": "Statistika",
+    "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> kuponi iskorišćeni.",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Ukupno kupona.",
+    "HEADING_DOWNLOAD": "Preuzimanje",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Preuzmite dostupne kupone",
+    "HEADING_GENERATE_TIER_4_COUPONS": "Generišite Tier 4 Kuponi",
+    "LABEL_GENERATE_COUPON_COUNT": "Generišite broj kupona",
+    "BUTTON_SUBMIT": "Pretraga",
+    "HEADING_COUPON_LIST": "Lista kupona",
+    "TABLE_HEADER_CODE": "Kod",
+    "TABLE_HEADER_REDEEMED_DATE": "Datum otkupljenja"
+}

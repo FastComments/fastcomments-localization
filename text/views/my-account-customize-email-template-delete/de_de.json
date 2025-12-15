@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Löschen Sie <%= template.displayName %> - FastComments",
+    "HEADING_DELETE_TEMPLATE": "Löschen \"<%= template.displayName %>\"?",
+    "TEXT_CONFIRM_DELETE": "Möchten Sie die Vorlage <%= template.displayName %>, erstellt am <%= template.createdAt.toLocaleString() %>, wirklich löschen?",
+    "BUTTON_DELETE": "Löschen",
+    "BUTTON_CANCEL": "Stornieren"
+}

@@ -1,0 +1,18 @@
+{
+    "LABEL_CUSTOMER": "Муштерија",
+    "LABEL_SERVICE_REP": "Представник сервиса",
+    "LABEL_OPENED": "Отворено",
+    "LABEL_STATUS": "Статус",
+    "LABEL_CHANGE_STATUS": "Промени статус",
+    "LINK_IMPERSONATE": "Лажно се представљај",
+    "LINK_SWITCH": "Прекидач",
+    "AVG_RESPONSE_TIME": "Просечно време одзива:",
+    "STATUS_AWAITING_YOUR_REPLY": "ЧЕКАМ ВАШ ОДГОВОР",
+    "STATE_OPEN": "Отворено",
+    "STATE_ACKNOWLEDGED": "Прихваћено",
+    "STATE_RESOLVED": "Решено",
+    "ERROR_GET_TICKET_FAILED": "Захтев за добијање најновијих информација о картама није успео.",
+    "ERROR_CHANGE_STATE_FAILED": "Захтев за промену стања карте није успео.",
+    "INITIAL_COMMENT": "Здраво [username]! Направили сте захтев под називом „[subject]“. Молимо вас да оставите додатне информације и @[assignedTagName] ће вам се јавити.",
+    "STATUS_CHANGE_COMMENT": "[username] је променио/ла статус из [oldStatus] у [newStatus]."
+}

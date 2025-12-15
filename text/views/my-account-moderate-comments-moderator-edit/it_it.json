@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Personalizza - FastComments",
+    "HEADING_ADD": "Aggiungi un moderatore",
+    "HEADING_EDIT": "Personalizza <%= moderator.name %>",
+    "SUB_HEADING_ADD": "Aggiungi un moderatore",
+    "SUB_HEADING_EDIT": "Modifica <%= moderator.name %>",
+    "INTRO_PARAGRAPH_1": "Se vuoi dare a qualcuno l'accesso per moderare i tuoi commenti, sei nel posto giusto.",
+    "INTRO_PARAGRAPH_2": "Tieni presente che non è necessario aggiungere moderatori per gli utenti amministratori. Gli utenti amministratori hanno già capacità di moderazione.",
+    "NAME_SECTION_HEADING": "Dagli un nome",
+    "NAME_LABEL": "Nome",
+    "NAME_PLACEHOLDER": "Signor Moderatore Guy",
+    "EMAIL_SECTION_HEADING": "Ci servirà un'email",
+    "EMAIL_LABEL": "E-mail",
+    "EMAIL_PLACEHOLDER": "guy@moderators.com",
+    "GROUPS_SECTION_HEADING": "A quali gruppi appartengono?",
+    "MODERATION_GROUPS_LABEL": "Gruppi di moderazione",
+    "CLEAR_ALL_LINK": "Cancella tutto",
+    "GROUPS_DESCRIPTION": "Nella pagina Commenti moderati vedranno solo i commenti di questi gruppi.",
+    "SAVE_BUTTON": "Salva"
+}

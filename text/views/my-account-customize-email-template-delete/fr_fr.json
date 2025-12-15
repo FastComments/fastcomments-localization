@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Supprimer <%= template.displayName %> - FastComments",
+    "HEADING_DELETE_TEMPLATE": "Supprimer \"<%= template.displayName %>\"?",
+    "TEXT_CONFIRM_DELETE": "Êtes-vous sûr de vouloir supprimer le modèle <%= template.displayName %>, créé le <%= template.createdAt.toLocaleString() %> ?",
+    "BUTTON_DELETE": "Supprimer",
+    "BUTTON_CANCEL": "Annuler"
+}

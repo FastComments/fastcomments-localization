@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "2단계 인증 - FastComments",
+    "HEADING": "2단계 인증",
+    "DESCRIPTION": "2단계 인증은 로그인 시 두 번째 인증 절차를 요구하여 계정에 추가적인 보안 계층을 제공합니다.",
+    "HEADING_ADD_METHODS": "새로운 2단계 인증 방식 추가",
+    "HEADING_AUTHENTICATOR": "인증 앱",
+    "DESCRIPTION_AUTHENTICATOR": "Google Authenticator, Authy 또는 1Password와 같은 앱을 사용하여 시간 기반 코드를 생성하세요.",
+    "BUTTON_ADD_AUTHENTICATOR": "인증기 추가",
+    "HEADING_SMS": "SMS 문자 메시지",
+    "DESCRIPTION_SMS": "인증 코드는 휴대전화로 문자 메시지를 통해 수신됩니다.",
+    "BUTTON_ADD_SMS": "전화번호 추가",
+    "HEADING_BACKUP_CODES": "백업 코드",
+    "DESCRIPTION_BACKUP_CODES": "백업 코드는 2단계 인증(2FA) 수단을 분실했을 경우 계정에 접속하는 데 사용할 수 있습니다. 각 코드는 한 번만 사용할 수 있습니다.",
+    "BUTTON_VIEW_BACKUP_CODES": "백업 코드 보기"
+}

@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Konuşma Oluşturulamadı - FastComments",
+    "META_DESCRIPTION": "FastComments.com ile iletişime geçin.",
+    "HERO_TITLE_LIGHT": "Konuşma  ",
+    "HERO_TITLE_BOLD": "Oluşturulamadı",
+    "HERO_DESCRIPTION": "Sizinle ilgili konuşmayı oluşturamadık. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
+    "BUTTON_TRY_AGAIN": "Yeni bir konuşma başlatmayı deneyin."
+}

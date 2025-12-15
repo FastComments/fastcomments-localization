@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Migrar comentários - FastComments",
+    "HEADING": "Migrar comentários",
+    "INTRO_DESCRIPTION": "Esta ferramenta permite migrar em lote seus comentários entre diferentes URLs ou sites.",
+    "URL_INFO": "Você pode inserir parte de um URL, como um domínio, um URL completo ou um <a href=\"https://docs.fastcomments.com/guide-customizations-and-configuration.html#url-id\" target=\"_blank\">ID de URL</a> .",
+    "DOMAIN_FROM_LABEL": "De qual URL ou domínio você está migrando?",
+    "DOMAIN_FROM_PLACEHOLDER": "exemplo.com",
+    "DOMAIN_TO_LABEL": "Para qual URL ou domínio você está migrando?",
+    "DOMAIN_TO_PLACEHOLDER": "algum-outro-exemplo.com",
+    "START_MIGRATION_BUTTON": "Iniciar Migração",
+    "EMAIL_NOTIFICATION_INFO": "Você receberá um e-mail informando quando o processo estiver concluído.",
+    "MIGRATIONS_HEADING": "Migrações",
+    "NOSCRIPT_REFRESH_MESSAGE": "Atualize a página para obter o status mais recente.",
+    "TABLE_HEADER_START_DATE": "Data de início",
+    "TABLE_HEADER_FROM": "De",
+    "TABLE_HEADER_TO": "Para",
+    "TABLE_HEADER_STATUS": "Status",
+    "TABLE_HEADER_COMMENTS_FOUND": "Comentários encontrados para migrar",
+    "TABLE_HEADER_COMMENTS_MIGRATED": "Comentários migrados",
+    "NO_MIGRATIONS_MESSAGE": "Você não tem nenhuma migração de domínio pendente ou concluída."
+}

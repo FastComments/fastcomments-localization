@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Integrationstoken-Einstellungen – FastComments",
+    "HEADING": "Einstellungen für Integrationstoken",
+    "SUB_HEADING_NO_DOMAIN": "Bearbeiten eines <%= integration.readableType %> Integrationstokens.",
+    "SUB_HEADING_DOMAIN": "Bearbeiten eines <%= integration.readableType %> Integrationstokens for <%= integration.domain %>.",
+    "ENABLE_EVENT_FETCH_LABEL": "Kunden, die diese Integration nutzen, sollten in der Lage sein, regelmäßig neue Kommentare abzurufen.",
+    "ENABLE_EVENT_FETCH_DESCRIPTION": "Dadurch können Clients, die dieses Integrationstoken verwenden, das Ereignisprotokoll abrufen und so synchron bleiben. Dies ist nützlich, wenn Sie WordPress-Plugins verwenden, die Kommentardaten in Ihrer eigenen Datenbank benötigen.",
+    "SAVE_BUTTON": "Speichern"
+}

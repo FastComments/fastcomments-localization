@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "사용자 초대 - FastComments",
+    "HEADING": "관리자 초대",
+    "MESSAGE_INVITE_DESCRIPTION": "현재 댓글 작성자인 사용자를 관리자로 초대하면 해당 계정의 관리자 권한이 부여되고 테넌트에 추가됩니다.",
+    "MESSAGE_CONFIRM_USERNAME": "<b>사용자 이름이 &quot;<%= invitingUserName %>&quot;인 사용자를 추가하려고 합니다. 사용자 이름이 정확한지 확인하십시오.</b>",
+    "HEADING_PERMISSIONS": "권한",
+    "MESSAGE_PERMISSIONS": "초대 수락 시 상대방에게 어떤 권한을 부여하고 싶으신가요?",
+    "BUTTON_SEND_INVITE": "초대 보내기"
+}

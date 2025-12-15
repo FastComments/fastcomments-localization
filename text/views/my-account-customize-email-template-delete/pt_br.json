@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Excluir <%= template.displayName %> - FastComments",
+    "HEADING_DELETE_TEMPLATE": "Apagar \"<%= template.displayName %>\"?",
+    "TEXT_CONFIRM_DELETE": "Tem certeza de que deseja excluir o modelo <%= template.displayName %>, criado em <%= template.createdAt.toLocaleString() %>?",
+    "BUTTON_DELETE": "Excluir",
+    "BUTTON_CANCEL": "Cancelar"
+}

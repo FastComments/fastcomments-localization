@@ -1,0 +1,17 @@
+{
+    "PAGE_TITLE": "API-hemmelighed - FastComments",
+    "HEADING_API_CREDENTIALS": "API-legitimationsoplysninger",
+    "LABEL_TENANT_ID": "Lejer-ID",
+    "TEXT_NO_API_KEYS": "Intet at se her! Tilføj en API-nøgle for at komme i gang med API'en eller Webhooks.",
+    "LABEL_KEY_NAME": "Nøglenavn:",
+    "TEXT_DEFAULT_KEY_NAME": "Misligholdelse",
+    "LABEL_DOMAIN": "Domæne:",
+    "TEXT_ALL_DOMAINS": "Alle",
+    "TITLE_EDIT_NAME": "Rediger navn",
+    "TITLE_DELETE": "Slet",
+    "TITLE_EDIT_DOMAIN": "Rediger domæne",
+    "TEXT_CLICK_TO_REVEAL": "Klik for at afsløre den hemmelige nøgle",
+    "TEXT_SECURITY_WARNING": "Del ikke dine hemmelige nøgler, og krypter ikke i browseren! Se vores <a href=\"https://github.com/fastcomments/fastcomments-code-examples\" target=\"_blank\">backend-kodeeksempler</a> for, hvordan du krypterer, samtidig med at din nøgle holdes sikker.",
+    "TITLE_ADD_API_SECRET": "Tilføj API-hemmelighed",
+    "TEXT_ADD_API_KEY": "Tilføj API-nøgle"
+}

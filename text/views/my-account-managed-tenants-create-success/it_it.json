@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Crea un tenant gestito - FastComments",
+    "HEADING": "Inquilino creato",
+    "SUCCESS_MESSAGE": "Il tuo tenant è stato creato con successo!",
+    "NEXT_STEPS_INTRO": "Per continuare la configurazione, potresti voler seguire alcuni passaggi comuni:",
+    "NEXT_STEP_1": "Aggiungi altri utenti.",
+    "NEXT_STEP_2": "Inviare agli utenti link di benvenuto/accesso.",
+    "NEXT_STEP_3": "Ottieni l'ID tenant (disponibile nella pagina informativa API/SSO) per le integrazioni.",
+    "TENANTS_VIEW_LINK_TEXT": "Per farlo, tornare alla <a href=\"/auth/my-account/tenants\">vista degli inquilini</a> e passare all&#39;inquilino.",
+    "TENANT_SWITCHING_INFO": "Tutte le azioni sui tenant gestiti vengono eseguite tramite cambio tenant, inclusa l'eliminazione del tenant se necessario."
+}

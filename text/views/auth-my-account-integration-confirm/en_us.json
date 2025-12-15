@@ -1,0 +1,12 @@
+{
+  "PAGE_TITLE": "Confirm Integration - FastComments",
+  "PAGE_HEADING": "Connecting Your Integration.",
+  "PAGE_SUBHEADING": "Confirmation",
+  "NOSCRIPT_MESSAGE": "Please enable JavaScript to setup the integration.",
+  "UPLOAD_DESCRIPTION": "If desired, we can automatically upload your comments from your <%= integrationName %> installation during the sync. Otherwise, uncheck the box below and you can perform it yourself later.",
+  "CHECKBOX_UPLOAD_COMMENTS": "Automatically upload my comments.",
+  "CHECKBOX_UPLOAD_COMMENTS_HELP": "You can upload your comments later from the plugin admin page.",
+  "CHECKBOX_SYNC_DATABASE": "Automatically keep my <%= integrationName %> database in sync.",
+  "CHECKBOX_SYNC_DATABASE_HELP": "This keeps your <%= integrationName %> database up to date. Useful if any plugins require the latest comments in your database. Commonly disabled with very high volume sites, where keeping <%= integrationName %> up to date creates undesirable load.",
+  "BUTTON_START_SYNC": "Start Sync"
+}

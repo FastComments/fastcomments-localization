@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Dostosuj - Szybkie komentarze",
+    "HEADING_ADD": "Dodaj moderatora",
+    "HEADING_EDIT": "Dostosuj <%= moderator.name %>",
+    "SUB_HEADING_ADD": "Dodaj moderatora",
+    "SUB_HEADING_EDIT": "Edycja <%= moderator.name %>",
+    "INTRO_PARAGRAPH_1": "Jeśli chcesz dać komuś dostęp do moderowania twoich komentarzy, trafiłeś we właściwe miejsce.",
+    "INTRO_PARAGRAPH_2": "Pamiętaj, że nie musisz dodawać moderatorów dla użytkowników z uprawnieniami administratora. Użytkownicy z uprawnieniami administratora mają już uprawnienia moderacji.",
+    "NAME_SECTION_HEADING": "Nadaj im imię",
+    "NAME_LABEL": "Nazwa",
+    "NAME_PLACEHOLDER": "Pan Moderator Guy",
+    "EMAIL_SECTION_HEADING": "Będziemy potrzebować adresu e-mail",
+    "EMAIL_LABEL": "E-mail",
+    "EMAIL_PLACEHOLDER": "facet@moderators.com",
+    "GROUPS_SECTION_HEADING": "Do jakich grup należą?",
+    "MODERATION_GROUPS_LABEL": "Grupy moderacyjne",
+    "CLEAR_ALL_LINK": "Wyczyść wszystko",
+    "GROUPS_DESCRIPTION": "Komentarze z tych grup będą widoczne tylko na stronie Moderowanie komentarzy.",
+    "SAVE_BUTTON": "Ratować"
+}

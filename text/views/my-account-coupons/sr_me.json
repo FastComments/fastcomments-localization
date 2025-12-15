@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Купони - FastComments",
+    "HEADING_COUPONS": "Купони",
+    "HEADING_COUPON_CODES": "Кодови купона",
+    "HEADING_STATS": "Статистика",
+    "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> Искоришћени купони.",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Укупно купона.",
+    "HEADING_DOWNLOAD": "Преузми",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Преузмите доступне купоне",
+    "HEADING_GENERATE_TIER_4_COUPONS": "Генеришите купоне 4. нивоа",
+    "LABEL_GENERATE_COUPON_COUNT": "Генериши број купона",
+    "BUTTON_SUBMIT": "Пошаљи",
+    "HEADING_COUPON_LIST": "Листа купона",
+    "TABLE_HEADER_CODE": "Код",
+    "TABLE_HEADER_REDEEMED_DATE": "Датум искоришћења"
+}

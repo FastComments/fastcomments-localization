@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "נשלח אימייל בתאריך <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - תגובות מהירות",
+    "BUTTON_BACK": "← חזרה להודעות דוא\"ל שנשלחו",
+    "HEADING": "נשלח אימייל בתאריך <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "LABEL_DATE": "תַאֲרִיך:",
+    "LABEL_FROM": "מִן:",
+    "LABEL_TO": "אֶל:",
+    "LABEL_BCC": "עותק מוסתר:",
+    "LABEL_SUBJECT": "נוֹשֵׂא:",
+    "LABEL_HEADERS": "כותרות:",
+    "HEADING_EMAIL_CONTENT": "תוכן דוא\"ל",
+    "MESSAGE_NO_CONTENT": "אין תוכן זמין",
+    "VALUE_UNKNOWN": "לֹא יְדוּעַ",
+    "VALUE_NO_SUBJECT": "(ללא נושא)"
+}

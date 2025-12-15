@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Poslana e-pošta <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - Brzi komentari",
+    "BUTTON_BACK": "← Natrag na poslane e-poruke",
+    "HEADING": "Poslana e-pošta <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "LABEL_DATE": "Datum:",
+    "LABEL_FROM": "Iz:",
+    "LABEL_TO": "Do:",
+    "LABEL_BCC": "Skrivena kopija:",
+    "LABEL_SUBJECT": "Predmet:",
+    "LABEL_HEADERS": "Zaglavlja:",
+    "HEADING_EMAIL_CONTENT": "Sadržaj e-pošte",
+    "MESSAGE_NO_CONTENT": "Nema dostupnog sadržaja",
+    "VALUE_UNKNOWN": "Nepoznato",
+    "VALUE_NO_SUBJECT": "(Bez predmeta)"
+}

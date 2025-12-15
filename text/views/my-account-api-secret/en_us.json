@@ -1,0 +1,17 @@
+{
+  "PAGE_TITLE": "API Secret - FastComments",
+  "HEADING_API_CREDENTIALS": "API Credentials",
+  "LABEL_TENANT_ID": "Tenant ID",
+  "TEXT_NO_API_KEYS": "Nothing to see here! Add an API key to get started with the API or Webhooks.",
+  "LABEL_KEY_NAME": "Key Name:",
+  "TEXT_DEFAULT_KEY_NAME": "Default",
+  "LABEL_DOMAIN": "Domain:",
+  "TEXT_ALL_DOMAINS": "All",
+  "TITLE_EDIT_NAME": "Edit Name",
+  "TITLE_DELETE": "Delete",
+  "TITLE_EDIT_DOMAIN": "Edit Domain",
+  "TEXT_CLICK_TO_REVEAL": "Click to Reveal Secret Key",
+  "TEXT_SECURITY_WARNING": "Don't share your secret keys, and don't do encryption in the browser! See our <a href=\"https://github.com/fastcomments/fastcomments-code-examples\" target=\"_blank\">backend code examples</a> for how to do encryption while keeping your key secure.",
+  "TITLE_ADD_API_SECRET": "Add API Secret",
+  "TEXT_ADD_API_KEY": "Add API Key"
+}

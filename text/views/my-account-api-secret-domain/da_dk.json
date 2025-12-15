@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Opdater API-hemmeligt domæne - FastComments",
+    "HEADING_UPDATE_API_SECRET_DOMAIN": "Opdater API-hemmeligt domæne",
+    "TEXT_DOMAIN_INFO": "For konfigurationer som Webhooks, vil vi bestemme hvilken API-nøgle der skal bruges baseret på denne konfiguration.",
+    "LABEL_ASSOCIATE_SECRET_WITH_DOMAIN": "Knyt API-hemmeligheden \"<%= apiSecret.name %>\" til domænet:",
+    "OPTION_ALL_DOMAINS": "Alle domæner",
+    "BUTTON_UPDATE_DOMAIN": "Opdater domæne"
+}

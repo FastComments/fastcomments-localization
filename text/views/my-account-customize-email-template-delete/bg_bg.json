@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Изтриване на <%= template.displayName %> - Бързи коментари",
+    "HEADING_DELETE_TEMPLATE": "Да се изтрие ли „<%= template.displayName %>“?",
+    "TEXT_CONFIRM_DELETE": "Сигурни ли сте, че искате да изтриете шаблона <%= template.displayName %>, създаден на <%= template.createdAt.toLocaleString() %>?",
+    "BUTTON_DELETE": "Изтриване",
+    "BUTTON_CANCEL": "Отказ"
+}

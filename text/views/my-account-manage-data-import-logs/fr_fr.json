@@ -1,0 +1,12 @@
+{
+    "TITLE": "Importer les journaux - FastComments",
+    "HEADING": "Journaux pour le travail <%= job._id %>",
+    "JOB_LOGS_HEADING": "Journaux de tâches",
+    "TABLE_LOG": "Enregistrer",
+    "TABLE_DATE": "Date",
+    "NO_LOGS": "Aucun journal n'est disponible pour cette tâche.",
+    "POSSIBLE_REASONS": "Quelques raisons possibles :",
+    "REASON_NOT_STARTED": "Le travail n'a peut-être pas encore commencé.",
+    "REASON_BEFORE_SUPPORT": "Il se peut que cela date d'avant l'ajout de la prise en charge des journaux.",
+    "REASON_NO_SUPPORT": "Il se peut que ce type de tâche ne prenne pas en charge les journaux."
+}

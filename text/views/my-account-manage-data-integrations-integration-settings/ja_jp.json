@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "統合トークン設定 - FastComments",
+    "HEADING": "統合トークンの設定",
+    "SUB_HEADING_NO_DOMAIN": "<%= integration.readableType %> 統合トークンを編集しています。",
+    "SUB_HEADING_DOMAIN": "<%= integration.readableType %> 統合トークンを編集しています for <%= integration.domain %>。",
+    "ENABLE_EVENT_FETCH_LABEL": "この統合を使用するクライアントは、定期的に新しいコメントを取得できるはずです。",
+    "ENABLE_EVENT_FETCH_DESCRIPTION": "これにより、この統合トークンを使用するクライアントはイベントログを取得して同期を維持できるようになります。これは、独自のデータベースにコメントデータを必要とするWordPressプラグインがある場合に便利です。",
+    "SAVE_BUTTON": "保存"
+}

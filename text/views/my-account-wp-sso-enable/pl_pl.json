@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "WordPress SSO - Szybkie komentarze",
+    "HEADING": "Jednokrotne logowanie WordPress",
+    "MESSAGE_LAST_STEP": "Ostatni krok! Kliknij „Włącz logowanie jednokrotne”, aby włączyć logowanie jednokrotne na swoim blogu.",
+    "MESSAGE_DESCRIPTION": "Utworzymy dla Ciebie tajny klucz API, bezpiecznie prześlemy go do Twojego bloga, a następnie poinstruujemy go, aby włączył logowanie jednokrotne (SSO). Możesz to bezpiecznie powtarzać wielokrotnie, na wypadek gdybyś napotkał problemy. Jeśli ten proces się nie powiedzie, automatycznie otrzymamy powiadomienie, ale możesz również skontaktować się z pomocą techniczną.",
+    "BUTTON_ENABLE_SSO": "Włącz logowanie jednokrotne",
+    "MESSAGE_DURATION": "Możesz się spodziewać, że cały proces zajmie Ci zaledwie kilka sekund.",
+    "MESSAGE_IN_PROGRESS": "Zaczekaj chwilę. Musimy tylko utworzyć tajny klucz API i zaktualizować ustawienia Twojego bloga.",
+    "MESSAGE_LOADING": "...załadunek...",
+    "MESSAGE_AFTER_DONE": "Po wykonaniu tej czynności użytkownicy będą mogli korzystać z FastComments, logując się za pomocą metody logowania WordPress."
+}

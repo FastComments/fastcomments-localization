@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "新租戶設定",
+    "HERO_TITLE_LIGHT": "幾乎 ",
+    "HERO_TITLE_BOLD": "那裡",
+    "HERO_DESCRIPTION": "FastComments 為企業和用戶提供設定和使用速度最快的評論系統，而且您即將獲得<u>30 天免費試用期</u>。",
+    "NOT_WEBSITE_LINK_TEXT": "如果您不打算將 FastComments 新增至網站，請<a href=\"/auth/commenter-signup?email=<%= email %>\">在此處註冊。</a>",
+    "FORM_DESCRIPTION": "現在我們只需要一些基本信息，然後你就可以開始安裝 FastComments 了。",
+    "LABEL_USERNAME": "*公開顯示的使用者名稱：",
+    "USERNAME_PATTERN_TITLE": "請勿使用特殊字符，僅限數字和字母。",
+    "LABEL_EMAIL": "*電子郵件：",
+    "EMAIL_DESCRIPTION_LOGGED_IN": "我們將使用您現有的郵箱地址。如有需要，您稍後可以在帳戶頁面中變更。",
+    "EMAIL_DESCRIPTION": "我們會發送一封電子郵件，要求您驗證您的帳戶。",
+    "LABEL_COMPANY_NAME": "*公司名稱：",
+    "DOMAINS_HEADING": "FastComments 將顯示在您的網站位址中嗎？",
+    "LABEL_WEBSITES": "網站：",
+    "DOMAINS_DESCRIPTION": "無需輸入子網域或本機。多個站點之間以逗號分隔。",
+    "TOS_TEXT": "點擊“建立帳戶”，即表示您同意<a href=\"/terms-of-service\" target=\"_blank\">服務條款</a>。",
+    "BUTTON_CREATE_ACCOUNT": "建立帳戶",
+    "ERROR_SIGNUP_ALREADY_STARTED": "註冊流程已經開始，無法再次提交。您是否刷新了頁面？"
+}

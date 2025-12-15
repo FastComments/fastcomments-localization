@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "Πρόγραμμα προβολής νήματος σχολίων",
+    "HEADING": "Πρόγραμμα προβολής νήματος σχολίων",
+    "THREAD_DETAILS": "Βλέπετε το νήμα σχολίων στη <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\">διεύθυνση <%= thread.urlDecoded %></a>",
+    "PAGE_ID_INFO": "Προβολή σχολίων για το αναγνωριστικό σελίδας: <%- thread.urlIdDecoded %>"
+}

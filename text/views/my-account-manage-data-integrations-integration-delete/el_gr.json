@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Διαγραφή διακριτικού ενσωμάτωσης - FastComments",
+    "HEADING": "Διαγραφή διακριτικού ενσωμάτωσης",
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το <%= integration.readableType %> διακριτικό ενσωμάτωσης_;",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το <%= integration.readableType %> διακριτικό ενσωμάτωσης for <%= integration.domain %>_;",
+    "DELETE_BUTTON": "Διαγράφω",
+    "CANCEL_LINK": "Ματαίωση"
+}

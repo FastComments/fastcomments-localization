@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "删除版主 - FastComments",
+    "HEADING": "移除版主",
+    "SUB_HEADING": "您正在移除<%= moderator.name %>",
+    "CANNOT_UNDO": "此操作无法撤销。<%= moderator.name %> 将无法再查看或审核您的评论。",
+    "NOTIFICATION_INFO": "他们将通过自动发送的电子邮件收到被移除版主职务的通知。",
+    "METRICS_WARNING": "他们的所有指标都将被删除<b>（如果您想更改他们的电子邮件，可以从上一页进行编辑）</b> 。",
+    "CANCEL_LINK": "取消",
+    "DELETE_BUTTON": "删除此版主"
+}

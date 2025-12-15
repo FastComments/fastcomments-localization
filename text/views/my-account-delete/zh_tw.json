@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "刪除我的帳戶",
+    "HEADING_DELETE_ACCOUNT": "刪除<%= user.username %>的帳戶",
+    "TEXT_PRIVACY_POLICY_NOTE": "如果您因隱私權問題而刪除帳戶，請考慮查看我們的<a href=\"/privacy-policy\">隱私權政策</a>。我們不會出售或與第三方分享您的資料。",
+    "TEXT_ALSO_DELETING_TENANT": "同時刪除租戶「<%= tenant ? tenant.name : '' %>」。",
+    "TEXT_ACCOUNT_OWNER_WARNING": "您是帳戶所有者。刪除您的帳戶也會刪除此租用戶。",
+    "TEXT_SUBSCRIPTION_CANCELLED": "您的訂閱也將取消。",
+    "TEXT_NO_SELL_DATA": "請注意，FastComments<b>不會將您的個人資訊出售或分享</b>給第三方。我們提供免費建立帳戶服務，僅為方便用戶。",
+    "HEADING_CONFIRMATION": "確認",
+    "LABEL_REMOVE_COMMENTS": "刪除所有<%= commentCount %>評論？",
+    "LABEL_CONFIRM_REMOVAL": "勾選此方塊以確認刪除您的帳戶。刪除帳號或相關評論的操作無法撤銷。",
+    "LABEL_FEEDBACK": "請幫助我們了解您離開的原因。",
+    "BUTTON_NO_DONT_DELETE": "不，別刪除我的帳號",
+    "BUTTON_YES_DELETE": "是的，刪除我的帳戶"
+}

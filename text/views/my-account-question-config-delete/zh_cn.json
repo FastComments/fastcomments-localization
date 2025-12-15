@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "删除问题 - 快速评论",
+    "HEADING": "删除 ”<%= question.name %>”？",
+    "CONFIRM_MESSAGE": "您确定要删除于<%= question.question %>创建的问题“<%= question.createdAt.toLocaleString() %>”吗？",
+    "REPLY_COUNT_MESSAGE": "这个问题有<%= Number(question.usedCount).toLocaleString() %>个回复。",
+    "DATA_LOSS_WARNING": "这些回复中的数据将不再用于报告。",
+    "DELETE_BUTTON": "删除",
+    "CANCEL_LINK": "取消"
+}

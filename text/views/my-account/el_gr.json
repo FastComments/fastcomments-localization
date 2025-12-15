@@ -1,0 +1,7 @@
+{
+    "TITLE": "Ο Λογαριασμός μου - FastComments",
+    "WELCOME_BACK": "Καλώς ήρθες πίσω, <%- user.displayName || user.username %>.",
+    "SNAPSHOT_MESSAGE": "Ακολουθεί μια γρήγορη σύνοψη του λογαριασμού σας.",
+    "JAVASCRIPT_REQUIRED": "Το FastComments απαιτεί JavaScript για να λειτουργήσει σωστά.",
+    "JAVASCRIPT_NOTE": "Σημείωση! Χρησιμοποιούμε πολύ ελάχιστη JS - χωρίς βαριά frameworks - για να περιορίσουμε τη χρήση μνήμης. Ελπίζουμε να απολαύσετε το προϊόν μας."
+}

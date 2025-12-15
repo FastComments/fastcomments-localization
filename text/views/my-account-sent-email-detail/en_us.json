@@ -1,0 +1,15 @@
+{
+  "PAGE_TITLE": "Sent Email on <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+  "BUTTON_BACK": "← Back to Sent Emails",
+  "HEADING": "Sent Email on <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+  "LABEL_DATE": "Date:",
+  "LABEL_FROM": "From:",
+  "LABEL_TO": "To:",
+  "LABEL_BCC": "BCC:",
+  "LABEL_SUBJECT": "Subject:",
+  "LABEL_HEADERS": "Headers:",
+  "HEADING_EMAIL_CONTENT": "Email Content",
+  "MESSAGE_NO_CONTENT": "No content available",
+  "VALUE_UNKNOWN": "Unknown",
+  "VALUE_NO_SUBJECT": "(No Subject)"
+}

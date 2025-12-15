@@ -1,0 +1,17 @@
+{
+    "PAGE_TITLE": "Тајна API-ја - Брзи коментари",
+    "HEADING_API_CREDENTIALS": "API акредитиви",
+    "LABEL_TENANT_ID": "ИД закупца",
+    "TEXT_NO_API_KEYS": "Нема ништа овде! Додајте API кључ да бисте почели са API-јем или вебхуковима.",
+    "LABEL_KEY_NAME": "Назив кључа:",
+    "TEXT_DEFAULT_KEY_NAME": "Подразумевано",
+    "LABEL_DOMAIN": "Домен:",
+    "TEXT_ALL_DOMAINS": "Сви",
+    "TITLE_EDIT_NAME": "Измени име",
+    "TITLE_DELETE": "Обриши",
+    "TITLE_EDIT_DOMAIN": "Измени домен",
+    "TEXT_CLICK_TO_REVEAL": "Кликните да бисте открили тајни кључ",
+    "TEXT_SECURITY_WARNING": "Не делите своје тајне кључеве и немојте шифровати у прегледачу! Погледајте наше <a href=\"https://github.com/fastcomments/fastcomments-code-examples\" target=\"_blank\">примере бекенд кода</a> да бисте сазнали како да шифрујете, а да притом заштитите свој кључ.",
+    "TITLE_ADD_API_SECRET": "Додај API тајну",
+    "TEXT_ADD_API_KEY": "Додај API кључ"
+}

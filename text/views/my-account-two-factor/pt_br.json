@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Autenticação de dois fatores - FastComments",
+    "HEADING": "Autenticação de dois fatores",
+    "DESCRIPTION": "A autenticação de dois fatores adiciona uma camada extra de segurança à sua conta, exigindo uma segunda forma de verificação ao fazer login.",
+    "HEADING_ADD_METHODS": "Adicionar novo método de autenticação de dois fatores (2FA)",
+    "HEADING_AUTHENTICATOR": "Aplicativo autenticador",
+    "DESCRIPTION_AUTHENTICATOR": "Use aplicativos como o Google Authenticator, Authy ou 1Password para gerar códigos com validade temporária.",
+    "BUTTON_ADD_AUTHENTICATOR": "Adicionar autenticador",
+    "HEADING_SMS": "Mensagem de texto SMS",
+    "DESCRIPTION_SMS": "Receba códigos de verificação por mensagem de texto no seu celular.",
+    "BUTTON_ADD_SMS": "Adicionar número de telefone",
+    "HEADING_BACKUP_CODES": "Códigos de backup",
+    "DESCRIPTION_BACKUP_CODES": "Os códigos de backup podem ser usados para acessar sua conta caso você perca o acesso aos seus métodos de autenticação de dois fatores (2FA). Cada código só pode ser usado uma vez.",
+    "BUTTON_VIEW_BACKUP_CODES": "Ver códigos de backup"
+}

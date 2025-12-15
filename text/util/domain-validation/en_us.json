@@ -1,0 +1,6 @@
+{
+    "DOMAIN_ERROR_INVALID": "Invalid domain format.",
+    "DOMAIN_ERROR_WILDCARD_MULTIPLE": "Only one wildcard (*) is allowed.",
+    "DOMAIN_ERROR_WILDCARD_DOMAIN": "Wildcard cannot replace the entire domain.",
+    "DOMAIN_ERROR_UNKNOWN": "We could not understand this value."
+}

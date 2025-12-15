@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Удалить группу модерации <%= moderationGroup.name %> - FastComments",
+    "HEADING": "Удалить группу модерации?",
+    "CONFIRM_MESSAGE": "Вы уверены, что хотите удалить группу <%= moderationGroup.name %>?",
+    "CONFIRM_DELETE_BUTTON": "Подтвердить удаление",
+    "CANCEL_LINK": "Отмена"
+}

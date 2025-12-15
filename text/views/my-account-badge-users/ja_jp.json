@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - ファストコメント",
+    "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> バッジ付きユーザー <%- tenantBadge.displayLabel %>",
+    "HEADING_USERS_WITH_BADGE_PLURAL": "<%- Number(userBadges.length).toLocaleString() %> バッジ付きユーザー <%- tenantBadge.displayLabel %>",
+    "TEXT_NO_USERS_WITH_BADGE": "このバッジを持っているユーザーはいません。ほとんどのバッジは自動的に付与されます。手動バッジの場合は、手動で付与する必要があります。",
+    "TABLE_HEADER_USER_ID": "ユーザーID",
+    "TABLE_HEADER_EMAIL": "メール",
+    "TABLE_HEADER_AVATAR": "アバター",
+    "TABLE_HEADER_NAME": "名前",
+    "TABLE_HEADER_BADGE_EARNED_DATE": "バッジ獲得日",
+    "TEXT_NA": "該当なし"
+}

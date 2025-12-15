@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Integratietoken verwijderen - FastComments",
+    "HEADING": "Integratietoken verwijderen",
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "Weet je zeker dat je dit <%= integration.readableType %> integratietoken wilt verwijderen?",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "Weet je zeker dat je dit <%= integration.readableType %> integratietoken voor <%= integration.domain %> wilt verwijderen?",
+    "DELETE_BUTTON": "Verwijderen",
+    "CANCEL_LINK": "Annuleren"
+}

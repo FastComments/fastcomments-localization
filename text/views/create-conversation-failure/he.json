@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "יצירת שיחה נכשלה - FastComments",
+    "META_DESCRIPTION": "צור קשר עם FastComments.com",
+    "HERO_TITLE_LIGHT": "שיחה ",
+    "HERO_TITLE_BOLD": "לא ניתן היה ליצור",
+    "HERO_DESCRIPTION": "לא הצלחנו ליצור את השיחה שלך. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
+    "BUTTON_TRY_AGAIN": "נסה ליצור שיחה חדשה."
+}

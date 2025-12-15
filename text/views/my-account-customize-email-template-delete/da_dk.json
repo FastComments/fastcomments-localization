@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Slet <%= template.displayName %> - FastComments",
+    "HEADING_DELETE_TEMPLATE": "Slet \"<%= template.displayName %>\"?",
+    "TEXT_CONFIRM_DELETE": "Er du sikker på, at du vil slette skabelonen <%= template.displayName %>, der blev oprettet den <%= template.createdAt.toLocaleString() %>?",
+    "BUTTON_DELETE": "Slet",
+    "BUTTON_CANCEL": "Ophæve"
+}

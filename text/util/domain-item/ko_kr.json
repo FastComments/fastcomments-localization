@@ -1,0 +1,6 @@
+{
+    "BUTTON_CLICK_TO_UPDATE_LOGO": "<%= domain.domain %>의 로고를 업데이트하려면 클릭하세요",
+    "BUTTON_CLICK_TO_SET_LOGO": "<%= domain.domain %>에 대한 로고를 설정하려면 클릭하세요",
+    "TEXT_DOMAIN_VALID": "✔️ <%= domain.domain %>",
+    "TEXT_DOMAIN_INVALID": "❌ \"<%= domain.input %>\": <%= domain.reason %>"
+}

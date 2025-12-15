@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Двофакторска аутентификација - Брзи коментари",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Двофакторска аутентификација",
+    "HERO_DESCRIPTION": "Молимо вас да унесете верификациони код да бисте завршили пријављивање",
+    "ATTEMPTS_REMAINING": "Преостало је <%= 5 - session.attempts %> покушаја",
+    "LABEL_METHOD_SELECT": "Изаберите метод верификације:",
+    "METHOD_AUTHENTICATOR": "Апликација за аутентификатор",
+    "METHOD_SMS": "СМС",
+    "AUTHENTICATOR_INSTRUCTION": "Унесите шестоцифрени код из апликације за аутентификатор",
+    "SMS_INSTRUCTION": "Послали смо код на <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>",
+    "LABEL_VERIFICATION_CODE": "Верификациони код",
+    "BUTTON_VERIFY": "Верификуј",
+    "LABEL_BACKUP_CODE": "Унесите резервни код:",
+    "BUTTON_USE_BACKUP_CODE": "Користите резервни код",
+    "BUTTON_BACK": "Назад",
+    "BUTTON_RESEND_SMS": "Поново пошаљи СМС код",
+    "LINK_USE_BACKUP_CODE": "Користите резервни код уместо тога",
+    "LINK_BACK_TO_LOGIN": "← Назад на пријаву"
+}

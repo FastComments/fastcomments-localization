@@ -1,0 +1,8 @@
+{
+    "TITLE": "评论已批准 - FastComments",
+    "HEADING": "成功！",
+    "COMMENT_APPROVED": "该评论已被标记为已审核批准。",
+    "ALSO_LOGGED_IN": "您已登录。",
+    "VIEW_COMMENT_ON_SITE": "您可以<a href=\"<%= comment.url %>\" target=\"_blank\">在此处</a>查看您网站上已批准的评论，或者使用 <a href=\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">此处的</a>评论线程查看器查看。",
+    "CLOSE_PAGE": "您现在可以关闭此页面了。"
+}

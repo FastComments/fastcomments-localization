@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Перейти на <%= otherRegionName %>? - Швидкі коментарі",
+    "HERO_TITLE_LIGHT": "Перейти до ",
+    "HERO_TITLE_BOLD": "<%= otherRegionName %>",
+    "HERO_DESCRIPTION": "У вас є обліковий запис на <a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a> – чи хочете ви увійти туди?",
+    "INFO_MESSAGE_BOLD": "У вас є обліковий запис в нашому іншому центрі обробки даних.",
+    "INFO_MESSAGE_QUESTION": "Перенаправити туди?",
+    "INFO_MESSAGE_WARNING": "Якщо ви не перенаправите, ми створимо для вас обліковий запис тут, якщо його ще немає, і <b>тоді у вас буде два облікові записи.</b>",
+    "BUTTON_REDIRECT": "Перенаправити на <%= otherRegionName %>",
+    "BUTTON_CONTINUE_HERE": "Продовжити тут"
+}

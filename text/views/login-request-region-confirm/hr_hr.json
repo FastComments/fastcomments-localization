@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Prebaciti se na <%= otherRegionName %>? - Brzi komentari",
+    "HERO_TITLE_LIGHT": "Prebaci na ",
+    "HERO_TITLE_BOLD": "<%= otherRegionName %>",
+    "HERO_DESCRIPTION": "Imate račun na <a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a> - želite li se umjesto toga prijaviti tamo?",
+    "INFO_MESSAGE_BOLD": "Imate račun u našem drugom podatkovnom centru.",
+    "INFO_MESSAGE_QUESTION": "Preusmjeriti tamo?",
+    "INFO_MESSAGE_WARNING": "Ako ne preusmjerite, ovdje ćemo vam stvoriti račun ako ne postoji, a <b>zatim ćete imati dva računa.</b>",
+    "BUTTON_REDIRECT": "Preusmjeri na <%= otherRegionName %>",
+    "BUTTON_CONTINUE_HERE": "Nastavite ovdje"
+}

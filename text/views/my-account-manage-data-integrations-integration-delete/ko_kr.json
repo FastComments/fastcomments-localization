@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "FastComments의 통합 토큰 삭제",
+    "HEADING": "통합 토큰 삭제",
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "이 <%= integration.readableType %> 통합 토큰을 삭제하시겠습니까?",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "<%= integration.domain %>의 이 <%= integration.readableType %> 통합 토큰을 삭제하시겠습니까?",
+    "DELETE_BUTTON": "삭제",
+    "CANCEL_LINK": "취소"
+}

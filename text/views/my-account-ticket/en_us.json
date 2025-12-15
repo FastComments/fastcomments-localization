@@ -1,0 +1,7 @@
+{
+  "PAGE_TITLE": "Ticket \"<%- ticketViewModel.subject %>\"",
+  "MESSAGE_ASSIGNED": "Your ticket has been assigned to a support representative. If you're both online, you can have a live discussion with them, however you can always leave some details and come back later.",
+  "MESSAGE_FIND_AGAIN": "Closing this page will not lose the chat. You can find it again via the <a href=\"/auth/my-account/tickets\">Support Page</a>.",
+  "HEADING_NOT_FOUND": "Not Found",
+  "MESSAGE_NOT_FOUND": "We couldn't find that ticket."
+}

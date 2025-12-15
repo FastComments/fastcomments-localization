@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Mi cuenta",
+    "HEADING_MY_DOMAINS": "Mis dominios",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "¡Dominios agregados exitosamente!",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "¡Dominio eliminado exitosamente!",
+    "TEXT_SETTING_UPDATED_SUCCESS": "¡Configuración actualizada exitosamente!",
+    "TEXT_IMAGE_UPLOAD_ERROR": "Error al cargar la imagen: <%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "A continuación, se muestra la configuración de cómo deben verse los correos electrónicos cuando FastComments los envía a quienes comentan. No es necesario que introduzca nada si no desea personalizarlo.",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Nota: Las configuraciones de Nombre de remitente y Correo electrónico no afectan los correos electrónicos enviados a los administradores.</b>",
+    "LINK_REMOVE": "Eliminar",
+    "TEXT_AUTO_ADDED_NOTICE": "Agregado automáticamente durante la prueba.",
+    "TITLE_AUTO_ADDED": "Se añade automáticamente durante el periodo de prueba según el tráfico de tu cuenta. Esto facilita la configuración y solo ocurre durante el periodo de prueba.",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Nombre del remitente al enviar un correo electrónico al usuario",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "De-Email al enviar un correo electrónico al usuario",
+    "TEXT_EMAIL_ERROR": "Hay algún problema con este correo electrónico. Hemos guardado los demás cambios.",
+    "TEXT_LOGO_MAX_SIZE": "Tamaño máximo: 1 MB. Sin redimensionar.",
+    "BUTTON_SAVE": "Ahorrar",
+    "TEXT_NO_DOMAINS_WARNING": "¡Vaya! No tienes dominios. Tus widgets no podrán cargarse hasta que asocies uno o más dominios a tu cuenta.",
+    "TITLE_ADD_DOMAIN": "Agregar dominio",
+    "TEXT_ADD_A_DOMAIN": "Agregar un dominio"
+}

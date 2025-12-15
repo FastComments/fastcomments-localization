@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Supprimer le jeton d'intégration - FastComments",
+    "HEADING": "Supprimer le jeton d'intégration",
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "Êtes-vous sûr de vouloir supprimer ce <%= integration.readableType %> jeton d'intégration ?",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "Êtes-vous sûr de vouloir supprimer ce <%= integration.readableType %> jeton d'intégration pour <%= integration.domain %> ?",
+    "DELETE_BUTTON": "Supprimer",
+    "CANCEL_LINK": "Annuler"
+}

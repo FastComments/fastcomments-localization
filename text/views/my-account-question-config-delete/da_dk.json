@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Slet spørgsmål - FastComments",
+    "HEADING": "Slet \"<%= question.name %>\"?",
+    "CONFIRM_MESSAGE": "Er du sikker på, at du vil slette spørgsmålet \"<%= question.question %>\", der blev oprettet den <%= question.createdAt.toLocaleString() %>?",
+    "REPLY_COUNT_MESSAGE": "Dette spørgsmål har <%= Number(question.usedCount).toLocaleString() %> svar.",
+    "DATA_LOSS_WARNING": "Dataene fra disse svar vil ikke længere være tilgængelige i rapporteringen.",
+    "DELETE_BUTTON": "Slet",
+    "CANCEL_LINK": "Ophæve"
+}

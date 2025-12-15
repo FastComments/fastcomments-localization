@@ -1,0 +1,8 @@
+{
+    "TITLE": "評論已核准 - FastComments",
+    "HEADING": "成功！",
+    "COMMENT_APPROVED": "該評論已被標記為已審核批准。",
+    "ALSO_LOGGED_IN": "您已登入。",
+    "VIEW_COMMENT_ON_SITE": "您可以<a href=\"<%= comment.url %>\" target=\"_blank\">在此處</a>查看您網站上已批准的評論，或使用 <a href=\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">此處的</a>評論線程查看器查看。",
+    "CLOSE_PAGE": "您現在可以關閉此頁面了。"
+}

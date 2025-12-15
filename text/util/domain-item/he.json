@@ -1,0 +1,6 @@
+{
+    "BUTTON_CLICK_TO_UPDATE_LOGO": "לחץ לעדכון לוגו עבור <%= domain.domain %>",
+    "BUTTON_CLICK_TO_SET_LOGO": "לחץ כדי להגדיר לוגו עבור <%= domain.domain %>",
+    "TEXT_DOMAIN_VALID": "✔️ <%= domain.domain %>",
+    "TEXT_DOMAIN_INVALID": "❌ \"<%= domain.input %>\": <%= domain.reason %>"
+}

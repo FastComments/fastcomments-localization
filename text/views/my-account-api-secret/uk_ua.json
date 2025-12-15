@@ -1,0 +1,17 @@
+{
+    "PAGE_TITLE": "Секрет API - FastComments",
+    "HEADING_API_CREDENTIALS": "Облікові дані API",
+    "LABEL_TENANT_ID": "Ідентифікатор орендаря",
+    "TEXT_NO_API_KEYS": "Тут нічого немає! Додайте ключ API, щоб розпочати роботу з API або вебхуками.",
+    "LABEL_KEY_NAME": "Назва ключа:",
+    "TEXT_DEFAULT_KEY_NAME": "За замовчуванням",
+    "LABEL_DOMAIN": "Домен:",
+    "TEXT_ALL_DOMAINS": "Усі",
+    "TITLE_EDIT_NAME": "Редагувати ім'я",
+    "TITLE_DELETE": "Видалити",
+    "TITLE_EDIT_DOMAIN": "Редагувати домен",
+    "TEXT_CLICK_TO_REVEAL": "Натисніть, щоб розкрити секретний ключ",
+    "TEXT_SECURITY_WARNING": "Не діліться своїми секретними ключами та не виконуйте шифрування у браузері! Перегляньте наші <a href=\"https://github.com/fastcomments/fastcomments-code-examples\" target=\"_blank\">приклади коду бекенду,</a> щоб дізнатися, як виконати шифрування, зберігаючи при цьому свій ключ у безпеці.",
+    "TITLE_ADD_API_SECRET": "Додати секретний ключ API",
+    "TEXT_ADD_API_KEY": "Додати ключ API"
+}

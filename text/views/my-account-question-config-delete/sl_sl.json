@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Izbriši vprašanje - FastComments",
+    "HEADING": "Izbrisati \"<%= question.name %>\"?",
+    "CONFIRM_MESSAGE": "Ali ste prepričani, da želite izbrisati vprašanje »<%= question.question %>«, ustvarjeno dne <%= question.createdAt.toLocaleString() %>?",
+    "REPLY_COUNT_MESSAGE": "To vprašanje ima <%= Number(question.usedCount).toLocaleString() %> odgovorov.",
+    "DATA_LOSS_WARNING": "Podatki iz teh odgovorov ne bodo več na voljo v poročilih.",
+    "DELETE_BUTTON": "Izbriši",
+    "CANCEL_LINK": "Prekliči"
+}

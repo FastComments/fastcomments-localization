@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Вхід - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Вхід",
+    "HERO_DESCRIPTION": "Отримайте доступ до свого облікового запису FastComments",
+    "TAB_LOGIN_VIA_EMAIL": "Вхід через електронну пошту",
+    "TAB_LOGIN_VIA_PASSWORD": "Вхід через пароль",
+    "LABEL_USERNAME_OR_EMAIL": "Ім'я користувача або електронна пошта",
+    "LABEL_PASSWORD": "Пароль",
+    "FORGOT_PASSWORD_LINK": "Я забув свій пароль",
+    "PASSWORD_LESS_HEADING": "FastComments використовуватиме вашу електронну адресу як пароль — ми надішлемо вам безпечне посилання для входу.",
+    "CREATE_ACCOUNT_INFO": "Якщо у вас немає облікового запису, ця команда створить його для вас.",
+    "LABEL_USERNAME": "Ім'я користувача",
+    "FORGOT_USERNAME_LINK": "Я забув своє ім'я користувача",
+    "LABEL_EMAIL": "Електронна пошта",
+    "EMAIL_HELP_TEXT": "Ми надішлемо вам посилання для входу електронною поштою. Якщо у вас немає облікового запису, ми створимо його для вас.",
+    "LABEL_CAPTCHA": "Чому дорівнює <%= captchaA %> + <%= captchaB %>?",
+    "CAPTCHA_HELP": "Допомагає визначити, що ви не бот.",
+    "BUTTON_LOGIN": "Вхід"
+}

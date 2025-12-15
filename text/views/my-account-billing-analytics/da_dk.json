@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Faktureringsanalyse - FastComments",
+    "HEADING_BILLING_ANALYTICS": "Faktureringsanalyse",
+    "HEADING_USAGE_THIS_PERIOD": "Brug i denne periode",
+    "TABLE_HEADER_DESCRIPTION": "Beskrivelse",
+    "TABLE_HEADER_COST_USD": "Pris (USD)",
+    "TEXT_TOTAL": "Total",
+    "TEXT_TRIAL_PERIOD_NOTE": "Du er i øjeblikket i en prøveperiode. <b>Ovenstående beløb forfalder ikke i denne faktureringsperiode.</b>",
+    "TEXT_INVOICE_SEND_DATE": "Faktura skal sendes den <%= invoiceSendDate %>.",
+    "HEADING_SERVICE_LIMITS": "Servicegrænser",
+    "TEXT_TRIAL_LIMITS_NOTE": "<b>Bemærk!</b> Da du er i en prøveperiode, er der lavere grænser for din konto. <a href=\"/auth/my-account/billing-info\">Opgrader til en betalt konto</a> , eller <a href=\"/auth/my-account/help\">kontakt support for at hæve disse grænser</a> .",
+    "LABEL_CURRENT": "Strøm:",
+    "LABEL_MAX": "Maks:",
+    "TEXT_MAX_NONE": "Ingen"
+}

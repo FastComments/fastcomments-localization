@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "<%= otherRegionName %> Şuna geçilsin mi? - FastComments",
+    "HERO_TITLE_LIGHT": "Şuna geçin ",
+    "HERO_TITLE_BOLD": "<%= otherRegionName %>",
+    "HERO_DESCRIPTION": "<a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a> adresinde bir hesabınız var - bunun yerine oraya giriş yapmak ister misiniz?",
+    "INFO_MESSAGE_BOLD": "Diğer veri merkezimizde bir hesabınız var.",
+    "INFO_MESSAGE_QUESTION": "Oraya yönlendirmek mi?",
+    "INFO_MESSAGE_WARNING": "Yönlendirme yapmazsanız, hesabınız yoksa burada sizin için bir hesap oluşturacağız ve <b>böylece iki hesabınız olacak.</b>",
+    "BUTTON_REDIRECT": "Yönlendirme adresi: <%= otherRegionName %>",
+    "BUTTON_CONTINUE_HERE": "Buradan devam edin"
+}

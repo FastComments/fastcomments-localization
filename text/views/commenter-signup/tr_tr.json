@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Üye olmak",
+    "HERO_TITLE_LIGHT": "Katılın ",
+    "HERO_TITLE_BOLD": "Tartışma",
+    "HERO_DESCRIPTION": "FastComments kullanan bir web sitesine yorum yapmak mı istiyorsunuz? Doğru yerdesiniz.",
+    "HERO_ADDITIONAL_TEXT": "FastComments&#39;ı bir web sitesine eklemek istiyorsanız <a href=\"/auth/tenant-signup?email=<%= email %>\">buradan kayıt olmalısınız.</a>",
+    "FORM_DESCRIPTION": "Kayıt olmak için sadece bir kullanıcı adı ve e-posta adresine ihtiyacınız var.",
+    "LABEL_USERNAME": "*Kullanıcı adı:",
+    "PLACEHOLDER_USERNAME": "Kullanıcı adı girin",
+    "USERNAME_PATTERN_TITLE": "Lütfen özel karakter kullanmayın - sadece rakamlar ve harfler.",
+    "USERNAME_DESCRIPTION": "Bu kullanıcı adı herkese açık olarak görülecektir.",
+    "LABEL_EMAIL": "*E-posta:",
+    "PLACEHOLDER_EMAIL": "Bir e-posta adresi girin",
+    "EMAIL_DESCRIPTION": "Hesabınızı tamamlamanız ve giriş yapmanız için size e-posta yoluyla bir bağlantı göndereceğiz.",
+    "SIGNUP_EMAIL_TEXT": "Şu yöntemle kayıt oluyorsunuz: <b><%= email %></b> .",
+    "TERMS_AGREEMENT": "&quot;Kayıt Ol&quot; butonuna tıklayarak <a href=\"/terms-of-service\" target=\"_blank\">Hizmet Şartlarını</a> kabul etmiş olursunuz.",
+    "BUTTON_SIGN_UP": "Üye olmak",
+    "LABEL_CAPTCHA": "<%= captchaA %> + <%= captchaB %> nedir?",
+    "CAPTCHA_HELP": "Bot olmadığınızı belirlemeye yardımcı olur."
+}

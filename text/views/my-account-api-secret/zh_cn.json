@@ -1,0 +1,17 @@
+{
+    "PAGE_TITLE": "API Secret - FastComments",
+    "HEADING_API_CREDENTIALS": "API凭证",
+    "LABEL_TENANT_ID": "租户 ID",
+    "TEXT_NO_API_KEYS": "没什么特别的！添加 API 密钥即可开始使用 API 或 Webhooks。",
+    "LABEL_KEY_NAME": "密钥名称：",
+    "TEXT_DEFAULT_KEY_NAME": "默认",
+    "LABEL_DOMAIN": "领域：",
+    "TEXT_ALL_DOMAINS": "全部",
+    "TITLE_EDIT_NAME": "编辑名称",
+    "TITLE_DELETE": "删除",
+    "TITLE_EDIT_DOMAIN": "编辑域",
+    "TEXT_CLICK_TO_REVEAL": "点击即可显示秘密密钥",
+    "TEXT_SECURITY_WARNING": "不要分享你的私钥，也不要在浏览器中进行加密！请查看我们的<a href=\"https://github.com/fastcomments/fastcomments-code-examples\" target=\"_blank\">后端代码示例</a>，了解如何在确保密钥安全的前提下进行加密。",
+    "TITLE_ADD_API_SECRET": "添加 API 密钥",
+    "TEXT_ADD_API_KEY": "添加 API 密钥"
+}

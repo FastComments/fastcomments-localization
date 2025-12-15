@@ -1,0 +1,23 @@
+{
+    "PAGE_TITLE": "已發送郵件 - FastComments",
+    "HEADING": "已發送郵件",
+    "INFO_NOTE": "<strong>注意：</strong>我們只保留兩個月的郵件記錄。更早的郵件將自動刪除。",
+    "LABEL_FILTER_SUBJECT": "按主題篩選",
+    "PLACEHOLDER_SUBJECT": "搜尋主題...",
+    "LABEL_FILTER_CONTENT": "按內容篩選",
+    "PLACEHOLDER_CONTENT": "搜尋電子郵件內容…",
+    "BUTTON_SEARCH": "搜尋",
+    "BUTTON_CLEAR": "清除",
+    "TABLE_HEADER_DATE": "日期",
+    "TABLE_HEADER_FROM": "從",
+    "TABLE_HEADER_SUBJECT": "主題",
+    "MESSAGE_NO_EMAILS_FILTERS": "未找到符合指定篩選條件的電子郵件。",
+    "BUTTON_VIEW": "看法",
+    "BUTTON_PREV": "上一頁",
+    "BUTTON_NEXT": "下一個",
+    "LABEL_PAGE": "頁 <%= page %>",
+    "MESSAGE_NO_EMAILS": "您沒有任何已傳送的電子郵件。",
+    "VALUE_UNKNOWN": "未知",
+    "VALUE_NO_SUBJECT": "（無主題）",
+    "VALUE_NA": "不適用"
+}

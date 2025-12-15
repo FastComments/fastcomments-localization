@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "チケット「<%- ticketViewModel.subject %>」",
+    "MESSAGE_ASSIGNED": "チケットはサポート担当者に割り当てられました。お二人ともオンラインであれば、担当者と直接やり取りできます。また、詳細を残せて後で再度お問い合わせいただくことも可能です。",
+    "MESSAGE_FIND_AGAIN": "このページを閉じてもチャットは失われません。<a href=\"/auth/my-account/tickets\">サポートページ</a>から再度アクセスできます。",
+    "HEADING_NOT_FOUND": "見つかりません",
+    "MESSAGE_NOT_FOUND": "そのチケットは見つかりませんでした。"
+}

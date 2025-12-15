@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Ban a User - FastComments",
+  "HEADING": "Ban a User",
+  "SUB_HEADING": "Ban a User by Email",
+  "INTRO_DESCRIPTION": "Here you can enter an email to ban a user by. There are a couple ways to ban a user. Permanently banning a user will never allow them to vote or comment, and they will know right away when they try to comment as it will tell them. Shadow banning will make it appear as their votes or comments are successful, but they won't persist.",
+  "ENTER_EMAIL_HEADING": "Enter an Email",
+  "EMAIL_LABEL": "Email",
+  "TYPE_LABEL": "Type",
+  "TYPE_BAN": "Ban",
+  "TYPE_SHADOW_BAN": "Shadow Ban",
+  "DURATION_LABEL": "Duration",
+  "DURATION_FOREVER": "Forever",
+  "DURATION_ONE_HOUR": "One Hour",
+  "DURATION_ONE_DAY": "One Day",
+  "DURATION_ONE_WEEK": "One Week",
+  "DURATION_ONE_MONTH": "One Month",
+  "DURATION_SIX_MONTHS": "Six Months",
+  "DURATION_ONE_YEAR": "One Year",
+  "BAN_USER_BUTTON": "Ban User"
+}

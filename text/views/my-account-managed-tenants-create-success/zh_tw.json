@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "建立託管租戶 - FastComments",
+    "HEADING": "租戶創建",
+    "SUCCESS_MESSAGE": "您的租戶已成功創建！",
+    "NEXT_STEPS_INTRO": "您可能需要採取一些常見步驟來繼續設定：",
+    "NEXT_STEP_1": "新增更多用戶。",
+    "NEXT_STEP_2": "向用戶發送歡迎/登入連結。",
+    "NEXT_STEP_3": "取得租用戶 ID（可在 API/SSO 資訊頁面找到）以進行整合。",
+    "TENANTS_VIEW_LINK_TEXT": "這可以透過返回<a href=\"/auth/my-account/tenants\">租戶視圖</a>並切換到該租戶來完成。",
+    "TENANT_SWITCHING_INFO": "受管租戶的所有操作均透過租戶切換完成，包括在需要時刪除租戶。"
+}

@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "二要素認証 - FastComments",
+    "HEADING": "二要素認証",
+    "DESCRIPTION": "2 要素認証では、サインイン時に 2 番目の形式の検証を要求することで、アカウントのセキュリティがさらに強化されます。",
+    "HEADING_ADD_METHODS": "新しい2FA方式を追加する",
+    "HEADING_AUTHENTICATOR": "認証アプリ",
+    "DESCRIPTION_AUTHENTICATOR": "Google Authenticator、Authy、1Password などのアプリを使用して、時間ベースのコードを生成します。",
+    "BUTTON_ADD_AUTHENTICATOR": "認証システムを追加",
+    "HEADING_SMS": "SMSテキストメッセージ",
+    "DESCRIPTION_SMS": "確認コードを携帯電話のテキストメッセージで受信します。",
+    "BUTTON_ADD_SMS": "電話番号を追加",
+    "HEADING_BACKUP_CODES": "バックアップコード",
+    "DESCRIPTION_BACKUP_CODES": "2FA認証方法にアクセスできなくなった場合、バックアップコードを使用してアカウントにアクセスできます。各コードは1回のみ使用できます。",
+    "BUTTON_VIEW_BACKUP_CODES": "バックアップコードを表示"
+}

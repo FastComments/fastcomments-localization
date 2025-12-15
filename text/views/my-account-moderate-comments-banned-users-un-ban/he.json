@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "ביטול חסימה של משתמש - FastComments",
+    "HEADING": "ביטול חסימה של משתמש",
+    "SUB_HEADING": "לבטל חסימה <%= bannedUser.username %>?",
+    "CONFIRM_MESSAGE": "האם אתה בטוח שאתה רוצה לבטל את החסימה של משתמש זה?",
+    "BANNED_FOR_SAYING_TEXT": "הם נאסרו על אמירת &quot; <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> &quot;",
+    "UN_BAN_BUTTON": "ביטול חסימה של משתמש"
+}

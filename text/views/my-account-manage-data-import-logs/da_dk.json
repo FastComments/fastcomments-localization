@@ -1,0 +1,12 @@
+{
+    "TITLE": "Importér logfiler - FastComments",
+    "HEADING": "Logfiler til job <%= job._id %>",
+    "JOB_LOGS_HEADING": "Joblogge",
+    "TABLE_LOG": "Log",
+    "TABLE_DATE": "Dato",
+    "NO_LOGS": "Der er ingen logfiler til dette job.",
+    "POSSIBLE_REASONS": "Nogle mulige årsager:",
+    "REASON_NOT_STARTED": "Arbejdet er måske ikke startet endnu.",
+    "REASON_BEFORE_SUPPORT": "Det kan være fra før vi tilføjede logunderstøttelse.",
+    "REASON_NO_SUPPORT": "Jobtypen understøtter muligvis ikke logfiler."
+}

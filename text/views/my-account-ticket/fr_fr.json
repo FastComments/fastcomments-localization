@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Billet \"<%- ticketViewModel.subject %>\"",
+    "MESSAGE_ASSIGNED": "Votre demande a été attribuée à un agent du support. Si vous êtes tous les deux connectés, vous pouvez discuter en direct avec lui. Sinon, vous pouvez laisser des informations et revenir plus tard.",
+    "MESSAGE_FIND_AGAIN": "Fermer cette page ne vous fera pas perdre la conversation. Vous pourrez la retrouver sur la <a href=\"/auth/my-account/tickets\">page d&#39;assistance</a> .",
+    "HEADING_NOT_FOUND": "Introuvable",
+    "MESSAGE_NOT_FOUND": "Nous n'avons pas pu trouver ce billet."
+}

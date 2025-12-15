@@ -1,0 +1,21 @@
+{
+    "BAN_SELECTION_TITLE": "Виберіть \"Заборонити редагування\"",
+    "BAN_SELECTION_SUBTITLE_MULTIPLE": "Існує кілька заборон, які стосуються [username].",
+    "BAN_SELECTION_SUBTITLE_SINGLE": "[username] заблоковано за цей коментар.",
+    "BAN_SELECTION_BTN_SELECT": "Виберіть",
+    "BAN_SELECTION_BTN_CREATE_NEW": "Створити нове",
+    "BAN_SELECTION_BTN_CANCEL": "Скасувати",
+    "BAN_SELECTION_LABEL": "Виберіть заборону",
+    "BAN_SELECTION_RELATED_BANS": "Пов'язані заборони",
+    "BAN_SELECTION_REMINDER": "Не забудьте перевірити, як заборона відповідає користувачеві, перш ніж редагувати!",
+    "BAN_SELECTION_EXPIRES": "Термін дії закінчується [date]",
+    "BAN_SELECTION_NEVER_EXPIRES": "Термін дії ніколи не закінчується",
+    "BAN_SELECTION_SHADOW": "Тінь",
+    "BAN_SELECTION_ANON_USER_ID": "Ідентифікатор користувача Anon",
+    "BAN_SELECTION_USER_ID": "Ідентифікатор користувача",
+    "BAN_SELECTION_EMAIL": "Електронна пошта",
+    "BAN_SELECTION_EMAIL_PATTERN": "Шаблон електронної пошти",
+    "BAN_SELECTION_IP": "ІП",
+    "BAN_SELECTION_MATCHED_ON": "Зіставлено: [[matches]]",
+    "BAN_SELECTION_ID": "(Ідентифікатор: [id])"
+}

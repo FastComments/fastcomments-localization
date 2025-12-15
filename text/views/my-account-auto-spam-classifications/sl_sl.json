@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Komplet za učenje za neželene komentarje - FastComments",
+    "HEADING_COMMENTS_SPAM_TRAINING_SET": "Komplet za učenje neželenih komentarjev",
+    "TEXT_CURRENT_CLASSIFICATION": "Trenutna razvrstitev: <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
+    "BUTTON_UNCLASSIFY": "Odstrani razvrščanje",
+    "BUTTON_SPAM": "Neželena pošta",
+    "BUTTON_NOT_SPAM": "Ni neželena pošta"
+}

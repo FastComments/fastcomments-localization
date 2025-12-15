@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Impostazioni del token di integrazione - FastComments",
+    "HEADING": "Impostazioni del token di integrazione",
+    "SUB_HEADING_NO_DOMAIN": "Modifica di un <%= integration.readableType %> token di integrazione.",
+    "SUB_HEADING_DOMAIN": "Modifica di un <%= integration.readableType %> token di integrazione per <%= integration.domain %>.",
+    "ENABLE_EVENT_FETCH_LABEL": "I clienti che utilizzano questa integrazione dovrebbero essere in grado di recuperare periodicamente nuovi commenti.",
+    "ENABLE_EVENT_FETCH_DESCRIPTION": "Ciò consentirà ai client che utilizzano questo token di integrazione di recuperare il registro eventi in modo da rimanere sincronizzati. Utile se si utilizzano plugin WordPress che richiedono dati di commento nel proprio database.",
+    "SAVE_BUTTON": "Salva"
+}

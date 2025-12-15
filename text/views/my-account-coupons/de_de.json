@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Gutscheine - FastComments",
+    "HEADING_COUPONS": "Gutscheine",
+    "HEADING_COUPON_CODES": "Gutscheincodes",
+    "HEADING_STATS": "Statistiken",
+    "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> Coupons eingelöst.",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Coupons insgesamt.",
+    "HEADING_DOWNLOAD": "Herunterladen",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Verfügbare Coupons herunterladen",
+    "HEADING_GENERATE_TIER_4_COUPONS": "Generiere Gutscheine der Stufe 4",
+    "LABEL_GENERATE_COUPON_COUNT": "Couponanzahl generieren",
+    "BUTTON_SUBMIT": "Einreichen",
+    "HEADING_COUPON_LIST": "Gutscheinliste",
+    "TABLE_HEADER_CODE": "Code",
+    "TABLE_HEADER_REDEEMED_DATE": "Einlösungsdatum"
+}

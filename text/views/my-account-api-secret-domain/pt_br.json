@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Atualizar domínio secreto da API - FastComments",
+    "HEADING_UPDATE_API_SECRET_DOMAIN": "Atualizar domínio secreto da API",
+    "TEXT_DOMAIN_INFO": "Para configurações como Webhooks, determinaremos qual chave de API usar com base nessa configuração.",
+    "LABEL_ASSOCIATE_SECRET_WITH_DOMAIN": "Associe o segredo da API \"<%= apiSecret.name %>\" ao domínio:",
+    "OPTION_ALL_DOMAINS": "Todos os domínios",
+    "BUTTON_UPDATE_DOMAIN": "Atualizar domínio"
+}

@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "クーポン - FastComments",
+    "HEADING_COUPONS": "クーポン",
+    "HEADING_COUPON_CODES": "クーポンコード",
+    "HEADING_STATS": "統計",
+    "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> クーポンが利用されました。",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> クーポン合計。",
+    "HEADING_DOWNLOAD": "ダウンロード",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "利用可能なクーポンをダウンロード",
+    "HEADING_GENERATE_TIER_4_COUPONS": "ティア4クーポンを生成する",
+    "LABEL_GENERATE_COUPON_COUNT": "クーポンカウントを生成する",
+    "BUTTON_SUBMIT": "提出する",
+    "HEADING_COUPON_LIST": "クーポンリスト",
+    "TABLE_HEADER_CODE": "コード",
+    "TABLE_HEADER_REDEEMED_DATE": "償還日"
+}

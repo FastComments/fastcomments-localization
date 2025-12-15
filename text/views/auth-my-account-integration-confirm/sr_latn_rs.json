@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "Potvrdite integraciju - FastComments",
+    "PAGE_HEADING": "Povezivanje integracije.",
+    "PAGE_SUBHEADING": "Potvrda",
+    "NOSCRIPT_MESSAGE": "Omogućite JavaScript da biste podesili integraciju.",
+    "UPLOAD_DESCRIPTION": "Ako želite, možemo automatski otpremiti vaše komentare iz vaše instalacije <%= integrationName %> tokom sinhronizacije. U suprotnom, poništite polje ispod i kasnije ga možete sami izvršiti.",
+    "CHECKBOX_UPLOAD_COMMENTS": "Automatski otpremite moje komentare.",
+    "CHECKBOX_UPLOAD_COMMENTS_HELP": "Kasnije možete da otpremite svoje komentare sa stranice administratora dodatka.",
+    "CHECKBOX_SYNC_DATABASE": "Automatski držite moju bazu podataka <%= integrationName %> sinhronizovanu.",
+    "CHECKBOX_SYNC_DATABASE_HELP": "Ovo održava vašu bazu podataka <%= integrationName %> ažurnom. Korisno ako bilo koji dodaci zahtevaju najnovije komentare u vašoj bazi podataka. Obično onemogućen sa veoma velikim obimnim sajtovima, gde održavanje <%= integrationName %> do danas stvara neželjeno opterećenje.",
+    "BUTTON_START_SYNC": "Pokreni sinhronizaciju"
+}

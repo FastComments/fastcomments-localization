@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Personnaliser - Commentaires rapides",
+    "HEADING_ADD": "Ajouter un modérateur",
+    "HEADING_EDIT": "Personnaliser <%= moderator.name %>",
+    "SUB_HEADING_ADD": "Ajouter un modérateur",
+    "SUB_HEADING_EDIT": "Édition <%= moderator.name %>",
+    "INTRO_PARAGRAPH_1": "Vous êtes au bon endroit si vous souhaitez donner à quelqu'un l'accès pour modérer vos commentaires.",
+    "INTRO_PARAGRAPH_2": "Notez qu'il n'est pas nécessaire d'ajouter des modérateurs pour les utilisateurs administrateurs. Ces derniers disposent déjà de droits de modération.",
+    "NAME_SECTION_HEADING": "Donnez-leur un nom",
+    "NAME_LABEL": "Nom",
+    "NAME_PLACEHOLDER": "Monsieur le modérateur Guy",
+    "EMAIL_SECTION_HEADING": "Nous aurons besoin d'un e-mail",
+    "EMAIL_LABEL": "E-mail",
+    "EMAIL_PLACEHOLDER": "guy@moderators.com",
+    "GROUPS_SECTION_HEADING": "À quels groupes appartiennent-ils ?",
+    "MODERATION_GROUPS_LABEL": "Groupes de modération",
+    "CLEAR_ALL_LINK": "Effacer tout",
+    "GROUPS_DESCRIPTION": "Ils ne verront que les commentaires provenant de ces groupes sur la page « Commentaires modérés ».",
+    "SAVE_BUTTON": "Sauvegarder"
+}

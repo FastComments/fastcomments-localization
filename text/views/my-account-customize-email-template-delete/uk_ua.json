@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Видалити <%= template.displayName %> - FastComments",
+    "HEADING_DELETE_TEMPLATE": "Видалити \"<%= template.displayName %>\"?",
+    "TEXT_CONFIRM_DELETE": "Ви впевнені, що хочете видалити шаблон <%= template.displayName %>, створений <%= template.createdAt.toLocaleString() %>?",
+    "BUTTON_DELETE": "Видалити",
+    "BUTTON_CANCEL": "Скасувати"
+}

@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Αποτυχία δημιουργίας συνομιλίας - FastComments",
+    "META_DESCRIPTION": "Επικοινωνήστε με το FastComments.com",
+    "HERO_TITLE_LIGHT": "Συνομιλία ",
+    "HERO_TITLE_BOLD": "Δεν ήταν δυνατή η δημιουργία",
+    "HERO_DESCRIPTION": "Δεν μπορέσαμε να δημιουργήσουμε τη συζήτησή σας. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
+    "BUTTON_TRY_AGAIN": "Προσπαθήστε να δημιουργήσετε μια νέα συζήτηση."
+}

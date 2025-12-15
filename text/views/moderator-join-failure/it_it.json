@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "Invito fallito",
+    "HERO_TITLE_LIGHT": "Invitare ",
+    "HERO_TITLE_BOLD": "Fallimento",
+    "DEFAULT_ERROR": "Qualcosa è andato terribilmente storto. Non sappiamo cosa sia successo, ma daremo un'occhiata.",
+    "ERROR_LINK_EXPIRED": "<b>Siamo spiacenti, ma sembra che questo link sia già stato utilizzato o che risalga a più di 30 giorni fa. Chiedi al proprietario del sito che ti ha inviato l&#39;invito di inviartene uno nuovo.</b>",
+    "ERROR_LINK_INVALID": "<b>Oh no! Sembra che questo link non sia valido.</b>",
+    "ERROR_ACCOUNT_NOT_FOUND": "Il tuo account non è stato trovato. Contatta l'amministratore per ricevere un nuovo invito per risolvere il problema.",
+    "ERROR_EMAIL_MISMATCH": "<b>L&#39;utente attualmente connesso ha un indirizzo email diverso ([userEmail]) rispetto a quello dell&#39;invito inviato ([inviteEmail]).</b><br><br> Puoi <a href=\"/auth/logout?redirect=[redirectUrl]\">cliccare qui</a> per disconnetterti e creare un account specifico per la moderazione."
+}

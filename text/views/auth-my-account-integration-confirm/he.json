@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "אישור אינטגרציה - FastComments",
+    "PAGE_HEADING": "חיבור האינטגרציה שלך.",
+    "PAGE_SUBHEADING": "אִשׁוּר",
+    "NOSCRIPT_MESSAGE": "אנא הפעל JavaScript כדי להגדיר את האינטגרציה.",
+    "UPLOAD_DESCRIPTION": "אם תרצו, נוכל להעלות אוטומטית את התגובות שלכם מההתקנה <%= integrationName %> שלכם במהלך הסנכרון. אחרת, בטל את הסימון בתיבה למטה ותוכל לבצע זאת בעצמך מאוחר יותר.",
+    "CHECKBOX_UPLOAD_COMMENTS": "העלה את התגובות שלי באופן אוטומטי.",
+    "CHECKBOX_UPLOAD_COMMENTS_HELP": "ניתן להעלות את התגובות שלכם מאוחר יותר מדף ניהול התוסף.",
+    "CHECKBOX_SYNC_DATABASE": "שמור אוטומטית על סנכרון מסד הנתונים <%= integrationName %> שלי.",
+    "CHECKBOX_SYNC_DATABASE_HELP": "זה שומר על מסד הנתונים <%= integrationName %> שלך מעודכן. שימושי אם תוספים כלשהם דורשים את התגובות האחרונות במסד הנתונים שלך. בדרך כלל מושבת באתרים בעלי נפח אחסון גבוה מאוד, שבהם שמירה על <%= integrationName %> מעודכן יוצרת עומס לא רצוי.",
+    "BUTTON_START_SYNC": "התחל סנכרון"
+}

@@ -1,0 +1,8 @@
+{
+    "TITLE": "Το σχόλιο εγκρίθηκε - FastComments",
+    "HEADING": "Επιτυχία!",
+    "COMMENT_APPROVED": "Αυτό το σχόλιο έχει επισημανθεί ως ελεγμένο και εγκεκριμένο.",
+    "ALSO_LOGGED_IN": "Έχετε επίσης συνδεθεί.",
+    "VIEW_COMMENT_ON_SITE": "Μπορείτε να δείτε το εγκεκριμένο σχόλιο στον ιστότοπό σας <a href=\"<%= comment.url %>\" target=\"_blank\">εδώ</a> ή χρησιμοποιώντας την προβολή νήματος σχολίων <a href=\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">εδώ</a> .",
+    "CLOSE_PAGE": "Μπορείτε τώρα να κλείσετε αυτήν τη σελίδα."
+}

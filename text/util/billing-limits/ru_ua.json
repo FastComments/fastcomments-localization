@@ -1,0 +1,20 @@
+{
+    "LIMIT_MONTHLY_PAGE_LOADS": "Ежемесячное количество загрузок страниц",
+    "LIMIT_MONTHLY_PAGE_LOADS_HELP": "Сколько раз загружаются комментарии.",
+    "LIMIT_MONTHLY_API_CREDITS": "Ежемесячные API-кредиты",
+    "LIMIT_MONTHLY_API_CREDITS_HELP": "Какую часть нашего API вы использовали для пользовательских интеграций?",
+    "LIMIT_MONTHLY_SMALL_WIDGETS_CREDITS": "Ежемесячные кредиты на небольшие виджеты",
+    "LIMIT_MONTHLY_SMALL_WIDGETS_CREDITS_HELP": "Сколько запросов вы отправляете для небольших виджетов (количество комментариев, последние комментарии и т. д.).",
+    "LIMIT_MONTHLY_COMMENTS_STORED": "Сохранены ежемесячные комментарии",
+    "LIMIT_MONTHLY_COMMENTS_STORED_HELP": "Сколько комментариев было оставлено в этом месяце?",
+    "LIMIT_TENANT_USERS": "Пользователи-арендаторы",
+    "LIMIT_TENANT_USERS_HELP": "Сколько у вас администраторов?",
+    "LIMIT_SSO_USERS": "Пользователи SSO",
+    "LIMIT_SSO_USERS_HELP": "Сколько у вас пользователей SSO?",
+    "LIMIT_MODERATORS": "Модераторы",
+    "LIMIT_MODERATORS_HELP": "Сколько у вас модераторов?",
+    "LIMIT_DOMAINS": "Домены",
+    "LIMIT_DOMAINS_HELP": "Сколько сайтов или доменов у вас в аккаунте.",
+    "LIMIT_MANAGED_TENANTS": "Управляемые арендаторы",
+    "LIMIT_MANAGED_TENANTS_HELP": "Сколько субарендаторов обслуживает ваш арендатор."
+}

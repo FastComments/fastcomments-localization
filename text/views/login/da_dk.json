@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Login - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Log ind",
+    "HERO_DESCRIPTION": "Få adgang til din FastComments-konto",
+    "TAB_LOGIN_VIA_EMAIL": "Log ind via e-mail",
+    "TAB_LOGIN_VIA_PASSWORD": "Log ind via adgangskode",
+    "LABEL_USERNAME_OR_EMAIL": "Brugernavn eller e-mail",
+    "LABEL_PASSWORD": "Adgangskode",
+    "FORGOT_PASSWORD_LINK": "Jeg har glemt min adgangskode",
+    "PASSWORD_LESS_HEADING": "FastComments bruger din e-mail som adgangskode - vi sender dig et sikkert login-link.",
+    "CREATE_ACCOUNT_INFO": "Hvis du ikke har en konto, opretter dette en til dig.",
+    "LABEL_USERNAME": "Brugernavn",
+    "FORGOT_USERNAME_LINK": "Jeg har glemt mit brugernavn",
+    "LABEL_EMAIL": "E-mail",
+    "EMAIL_HELP_TEXT": "Vi sender dig et link via e-mail, så du kan logge ind. Hvis du ikke har en konto, opretter vi en til dig.",
+    "LABEL_CAPTCHA": "Hvad er <%= captchaA %> + <%= captchaB %>?",
+    "CAPTCHA_HELP": "Hjælper med at afgøre, at du ikke er en bot.",
+    "BUTTON_LOGIN": "Log ind"
+}

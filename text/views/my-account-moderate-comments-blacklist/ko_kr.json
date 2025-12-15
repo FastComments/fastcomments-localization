@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "단어 블랙리스트 - FastComments",
+    "HEADING": "댓글 단어 블랙리스트",
+    "SUB_HEADING": "블랙리스트 사용자 지정",
+    "SUCCESS_MESSAGE": "블랙리스트가 성공적으로 저장되었습니다.",
+    "INTRO_PARAGRAPH_1": "아래는 댓글과 사용자 이름에서 가려질 단어와 구문 목록(쉼표로 구분)입니다. 어떤 단어를 선택할지 신중하게 고려하세요. 너무 흔한 단어를 차단 목록에 추가하면 커뮤니티 구성원들이 떠나갈 수 있습니다.",
+    "INTRO_PARAGRAPH_2": "이러한 설정은 <b>지역별로</b> 정의됩니다. 지역은 언어와 지리적 지역의 조합입니다.",
+    "INTRO_PARAGRAPH_3": "<b>단어</b> 와 <b>구를</b> 구분하고 있다는 것을 알 수 있을 것입니다. <b>단어</b> 목록에는 공백이나 특수 문자가 포함되어서는 안 됩니다. 공백이나 마침표 등이 포함된 구는 <b>단어</b> 목록이 아닌 구 목록에 추가해 주세요.",
+    "NOSCRIPT_MESSAGE": "이 설정 UI가 제대로 작동하려면 JavaScript가 필요합니다.",
+    "EDIT_LOCALE_LABEL": "지역 설정에 맞게 편집",
+    "MASKED_WORDS_LABEL": "[localeName]에 대한 마스킹된 단어.",
+    "MASKED_WORDS_DESCRIPTION": "이 목록(쉼표로 구분)에 있는 단어는 ***처럼 가려집니다.",
+    "MASKED_WORDS_PLACEHOLDER": "쉼표로 구분된 욕설 목록을 입력하세요. 예: 'some, bad, words'.",
+    "WORDS_LENGTH_ERROR": "지역별로 최대 5,000단어까지 입력할 수 있습니다. 입력하셨습니다.<span id=\"length-error-count-words-[locale]\"></span> .",
+    "MASKED_PHRASES_LABEL": "[localeName]에 대한 마스크된 구문.",
+    "MASKED_PHRASES_DESCRIPTION": "이 목록(쉼표로 구분)에 있는 문구는 ********처럼 가려집니다.",
+    "MASKED_PHRASES_PLACEHOLDER": "쉼표로 구분된 욕설 목록을 입력하세요. 예를 들어 '어떤 욕설, 또 다른 욕설'과 같이 입력할 수 있습니다.",
+    "PHRASES_LENGTH_ERROR": "지역별로 최대 5,000개의 문구를 입력할 수 있습니다. 입력하셨습니다.<span id=\"length-error-count-phrases-[locale]\"></span> .",
+    "SAVE_BUTTON": "변경 사항을 [localeName]에 저장하세요"
+}

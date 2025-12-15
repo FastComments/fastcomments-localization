@@ -1,0 +1,12 @@
+{
+  "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - FastComments",
+  "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> User with Badge <%- tenantBadge.displayLabel %>",
+  "HEADING_USERS_WITH_BADGE_PLURAL": "<%- Number(userBadges.length).toLocaleString() %> Users with Badge <%- tenantBadge.displayLabel %>",
+  "TEXT_NO_USERS_WITH_BADGE": "No users have this badge! Most badges are awarded automatically. If it's a manual badge, you'll have to award it manually.",
+  "TABLE_HEADER_USER_ID": "User ID",
+  "TABLE_HEADER_EMAIL": "Email",
+  "TABLE_HEADER_AVATAR": "Avatar",
+  "TABLE_HEADER_NAME": "Name",
+  "TABLE_HEADER_BADGE_EARNED_DATE": "Badge Earned Date",
+  "TEXT_NA": "N/A"
+}

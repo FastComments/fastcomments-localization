@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "WordPress SSO - FastComments",
+    "HEADING": "WordPress SSO",
+    "MESSAGE_LAST_STEP": "Et sidste trin! Klik blot på \"Aktivér SSO\" for at aktivere single-logon på din blog.",
+    "MESSAGE_DESCRIPTION": "Vi opretter en hemmelig API-nøgle til dig, sender den sikkert til din blog og beder derefter din blog om at aktivere SSO. Dette kan køres så mange gange, du vil, hvis du støder på problemer. Hvis denne proces mislykkes, får vi automatisk besked, men du er også velkommen til at kontakte support.",
+    "BUTTON_ENABLE_SSO": "Aktivér SSO",
+    "MESSAGE_DURATION": "Du kan forvente, at denne proces kun tager et par sekunder.",
+    "MESSAGE_IN_PROGRESS": "Hold fast. Vi skal bare oprette en hemmelig API-nøgle og opdatere din blogs indstillinger.",
+    "MESSAGE_LOADING": "...indlæser...",
+    "MESSAGE_AFTER_DONE": "Når dette er gjort, vil brugerne bruge dit WordPress-loginflow til at bruge FastComments."
+}

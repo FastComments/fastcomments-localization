@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "邀请用户 - FastComments",
+    "HEADING": "邀请管理员",
+    "MESSAGE_INVITE_DESCRIPTION": "邀请当前为评论者的用户成为管理员，会将其帐户提升为管理员状态，并将其添加到您的租户中。",
+    "MESSAGE_CONFIRM_USERNAME": "<b>您将添加用户名为“<%= invitingUserName %>”的用户。请务必确保用户名正确。</b>",
+    "HEADING_PERMISSIONS": "权限",
+    "MESSAGE_PERMISSIONS": "您希望他们在接受邀请后拥有哪些权限？",
+    "BUTTON_SEND_INVITE": "发送邀请"
+}

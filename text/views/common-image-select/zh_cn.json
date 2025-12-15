@@ -1,0 +1,4 @@
+{
+    "IMAGE_SELECT_FILE_TOO_BIG": "该文件（<%= (fileSize / 1000000).toFixed(1) %>mb）太大！限制为<%= (limitSize / 1e+6).toFixed(1) %>mb。",
+    "IMAGE_SELECT_UNKNOWN_PERSON_ALT": "身份不明的人"
+}

@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "解除用户封禁 - FastComments",
+    "HEADING": "解除用户封禁",
+    "SUB_HEADING": "解除禁令<%= bannedUser.username %>？",
+    "CONFIRM_MESSAGE": "您确定要解除对该用户的封禁吗？",
+    "BANNED_FOR_SAYING_TEXT": "他们因为说了“ <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> ”而被禁言。",
+    "UN_BAN_BUTTON": "解除用户封禁"
+}

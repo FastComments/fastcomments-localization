@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "邀请失败",
+    "HERO_TITLE_LIGHT": "邀请  ",
+    "HERO_TITLE_BOLD": "失败",
+    "DEFAULT_ERROR": "出大问题了。我们还不确定发生了什么，但我们会调查一下。",
+    "ERROR_LINK_EXPIRED": "<b>抱歉，此链接似乎已被使用或已超过 30 天。请联系向您发送邀请的网站所有者，请他们发送新的邀请。</b>",
+    "ERROR_LINK_INVALID": "<b>糟糕！这个链接好像无效。</b>",
+    "ERROR_ACCOUNT_NOT_FOUND": "您的帐户未找到。请联系您的管理员获取新的邀请以解决此问题。",
+    "ERROR_EMAIL_MISMATCH": "<b>当前登录用户的电子邮件地址（[userEmail]）与发送的邀请电子邮件地址（[inviteEmail]）不同。</b><br><br>您可以<a href=\"/auth/logout?redirect=[redirectUrl]\">点击此处</a>注销并创建一个专门用于审核的帐户。"
+}

@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "New Tenant Setup",
+  "HERO_TITLE_LIGHT": "Almost ",
+  "HERO_TITLE_BOLD": "There",
+  "HERO_DESCRIPTION": "FastComments provides the fastest to setup and use commenting system for both businesses and users, and you're on your way to a <u>30-day free trial</u>.",
+  "NOT_WEBSITE_LINK_TEXT": "If you're not looking to add FastComments to a website you should sign up <a href=\"/auth/commenter-signup?email=<%= email %>\">here.</a>",
+  "FORM_DESCRIPTION": "Now we just need some basic information, and then you can start installing FastComments.",
+  "LABEL_USERNAME": "*Publicly Displayed Username:",
+  "USERNAME_PATTERN_TITLE": "No special characters please - numbers and letters only.",
+  "LABEL_EMAIL": "*Email:",
+  "EMAIL_DESCRIPTION_LOGGED_IN": "We'll use your existing email. You can change it later from the account page if required.",
+  "EMAIL_DESCRIPTION": "We'll send an email asking you to verify your account.",
+  "LABEL_COMPANY_NAME": "*Company Name:",
+  "DOMAINS_HEADING": "What is the address of your website where FastComments will show?",
+  "LABEL_WEBSITES": "*Website(s):",
+  "DOMAINS_DESCRIPTION": "No need to input subdomains or localhost. For multiple sites, separate them with commas.",
+  "TOS_TEXT": "By clicking Create Account, you agree to the <a href=\"/terms-of-service\" target=\"_blank\">Terms of Service</a>.",
+  "BUTTON_CREATE_ACCOUNT": "Create Account",
+  "ERROR_SIGNUP_ALREADY_STARTED": "The sign up process has already been started and can't be submitted again. Maybe you refreshed the page?"
+}

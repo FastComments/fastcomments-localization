@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Mijn account",
+    "HEADING_MY_DOMAINS": "Mijn domeinen",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "Domeinen succesvol toegevoegd!",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "Domein succesvol verwijderd!",
+    "TEXT_SETTING_UPDATED_SUCCESS": "Instellingen succesvol bijgewerkt!",
+    "TEXT_IMAGE_UPLOAD_ERROR": "Fout bij het uploaden van de afbeelding: <%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "Hieronder vindt u de configuratie-instellingen voor hoe e-mails eruit moeten zien wanneer FastComments e-mails naar uw reageerders verzendt. U hoeft niets in te voeren als u dit niet wilt aanpassen.",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Let op: de instellingen voor &#39;Afzender&#39; en &#39;E-mailadres&#39; hebben geen invloed op e-mails die naar beheerders worden verzonden.</b>",
+    "LINK_REMOVE": "Verwijderen",
+    "TEXT_AUTO_ADDED_NOTICE": "Automatisch toegevoegd tijdens de proefperiode.",
+    "TITLE_AUTO_ADDED": "Wordt automatisch toegevoegd tijdens de proefperiode op basis van het verkeer naar uw account. Dit is bedoeld om de installatie te vereenvoudigen en gebeurt alleen tijdens de proefperiode.",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Afzendernaam bij het e-mailen van de gebruiker",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "Van-e-mailadres bij het e-mailen van de gebruiker",
+    "TEXT_EMAIL_ERROR": "Er lijkt iets mis te zijn met deze e-mail. We hebben alle andere wijzigingen opgeslagen.",
+    "TEXT_LOGO_MAX_SIZE": "Maximale grootte: 1 MB. Wordt niet verkleind.",
+    "BUTTON_SAVE": "Redden",
+    "TEXT_NO_DOMAINS_WARNING": "Oeps! Je hebt geen domeinen. Je widgets kunnen pas laden als je een of meer domeinen aan je account koppelt.",
+    "TITLE_ADD_DOMAIN": "Domein toevoegen",
+    "TEXT_ADD_A_DOMAIN": "Een domein toevoegen"
+}

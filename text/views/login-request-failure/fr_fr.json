@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "FastComments - Échec de la connexion",
+    "HERO_TITLE_LIGHT": "Se connecter  ",
+    "HERO_TITLE_BOLD": "Échoué",
+    "BUTTON_TRY_AGAIN": "Essayer à nouveau",
+    "ERROR_HEADING": "Quelque chose s'est mal passé",
+    "ERROR_MESSAGE": "Une erreur s'est produite lors de votre demande de connexion.",
+    "ERROR_INVALID_CREDENTIALS": "Mot de passe ou nom d'utilisateur invalide.",
+    "ERROR_USERNAME_REQUIRED": "Vous devez fournir un nom d'utilisateur !",
+    "ERROR_USERNAME_TOO_LONG": "Votre nom d'utilisateur doit comporter moins de 1 000 caractères !",
+    "ERROR_RATE_LIMITED_MINUTES": "Vous avez dépassé notre limite de requêtes. Veuillez réessayer dans quelques minutes ou contacter l'assistance.",
+    "ERROR_RATE_LIMITED_DAILY": "Vous avez dépassé notre limite de requêtes quotidiennes. Veuillez réessayer dans 24 heures ou contacter l'assistance.",
+    "ERROR_RATE_LIMITED": "Vous avez dépassé notre limite de requêtes. Veuillez réessayer plus tard ou contacter l'assistance.",
+    "ERROR_TOO_MANY_ATTEMPTS": "Trop de tentatives de connexion au cours de la dernière heure. Veuillez patienter et réessayer.",
+    "ERROR_CAPTCHA_WRONG": "Vous n'avez pas répondu correctement à la question de sécurité. Veuillez réessayer.",
+    "ERROR_EMAIL_REQUIRED": "Vous devez fournir une adresse e-mail !",
+    "ERROR_EMAIL_TOO_LONG": "Votre adresse e-mail doit contenir moins de 1 000 caractères !",
+    "ERROR_INVALID_EMAIL": "Ce n'est pas une adresse e-mail valide !",
+    "ERROR_USERNAME_TAKEN": "Ce nom d'utilisateur est déjà utilisé par une autre adresse e-mail. Veuillez en choisir un autre."
+}

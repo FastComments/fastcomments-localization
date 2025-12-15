@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Lista nera delle parole - FastComments",
+    "HEADING": "Commento Word Blacklist",
+    "SUB_HEADING": "Personalizza la lista nera",
+    "SUCCESS_MESSAGE": "Lista nera salvata con successo.",
+    "INTRO_PARAGRAPH_1": "Di seguito sono elencati termini e frasi separati da virgole che verranno mascherati nei commenti e nei nomi utente. Fai attenzione alle parole che scegli: inserire nella blacklist parole troppo comuni allontanerà la tua community.",
+    "INTRO_PARAGRAPH_2": "Questi sono definiti <b>per locale</b> . Un locale è una combinazione di una lingua e di una regione geografica.",
+    "INTRO_PARAGRAPH_3": "Noterete che distinguiamo tra <b>parole</b> e <b>frasi</b> . Le voci nell&#39;elenco <b>delle parole</b> non devono contenere spazi o caratteri speciali. Se avete una frase che contiene spazi, punti, ecc., aggiungetela all&#39;elenco <b>delle frasi</b> .",
+    "NOSCRIPT_MESSAGE": "Per il corretto funzionamento di questa interfaccia utente di configurazione è necessario JavaScript.",
+    "EDIT_LOCALE_LABEL": "Modifica per locale",
+    "MASKED_WORDS_LABEL": "Parole mascherate per [localeName].",
+    "MASKED_WORDS_DESCRIPTION": "Le parole in questo elenco (separate da virgole) saranno mascherate come ***.",
+    "MASKED_WORDS_PLACEHOLDER": "Inserisci un elenco di parolacce separate da virgole, ad esempio \"alcune, parole, brutte\".",
+    "WORDS_LENGTH_ERROR": "Puoi inserire fino a 5.000 parole per località. Hai inserito<span id=\"length-error-count-words-[locale]\"></span> .",
+    "MASKED_PHRASES_LABEL": "Frasi mascherate per [localeName].",
+    "MASKED_PHRASES_DESCRIPTION": "Le frasi in questo elenco (separate da virgole) saranno mascherate come ********.",
+    "MASKED_PHRASES_PLACEHOLDER": "Inserisci un elenco di frasi inappropriate separate da virgole, ad esempio \"qualche frase inappropriate, qualche altra frase inappropriate\".",
+    "PHRASES_LENGTH_ERROR": "Puoi inserire fino a 5.000 frasi per località. Hai inserito<span id=\"length-error-count-phrases-[locale]\"></span> .",
+    "SAVE_BUTTON": "Salva le modifiche a [localeName]"
+}

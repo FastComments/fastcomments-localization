@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "Potwierdź integrację - FastComments",
+    "PAGE_HEADING": "Łączenie integracji.",
+    "PAGE_SUBHEADING": "Potwierdzenie",
+    "NOSCRIPT_MESSAGE": "Aby skonfigurować integrację, włącz JavaScript.",
+    "UPLOAD_DESCRIPTION": "Jeśli chcesz, możemy automatycznie przesłać Twoje komentarze z instalacji <%= integrationName %> podczas synchronizacji. W przeciwnym razie odznacz poniższe pole i możesz to zrobić samodzielnie później.",
+    "CHECKBOX_UPLOAD_COMMENTS": "Automatycznie przesyłaj moje komentarze.",
+    "CHECKBOX_UPLOAD_COMMENTS_HELP": "Możesz przesłać swoje komentarze później ze strony administratora wtyczki.",
+    "CHECKBOX_SYNC_DATABASE": "Automatycznie synchronizuj moją bazę danych <%= integrationName %>.",
+    "CHECKBOX_SYNC_DATABASE_HELP": "Dzięki temu baza danych <%= integrationName %> jest zawsze aktualna. Przydatne, jeśli któraś z wtyczek wymaga najnowszych komentarzy w bazie danych. Często wyłączane w przypadku witryn o bardzo dużym ruchu, gdzie aktualizowanie <%= integrationName %> powoduje niepożądane obciążenie.",
+    "BUTTON_START_SYNC": "Rozpocznij synchronizację"
+}

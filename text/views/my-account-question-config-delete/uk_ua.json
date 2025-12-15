@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Видалити питання - FastComments",
+    "HEADING": "Видалити \"<%= question.name %>\"?",
+    "CONFIRM_MESSAGE": "Ви впевнені, що хочете видалити питання «<%= question.question %>», створене <%= question.createdAt.toLocaleString() %>?",
+    "REPLY_COUNT_MESSAGE": "На це питання є <%= Number(question.usedCount).toLocaleString() %> відповідей.",
+    "DATA_LOSS_WARNING": "Дані з цих відповідей більше не будуть доступні у звітах.",
+    "DELETE_BUTTON": "Видалити",
+    "CANCEL_LINK": "Скасувати"
+}

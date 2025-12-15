@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "מחיקת אסימון אינטגרציה - FastComments",
+    "HEADING": "מחיקת אסימון אינטגרציה",
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "האם אתה בטוח שברצונך למחוק את <%= integration.readableType %> אסימון האינטגרציה הזה?",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "האם אתה בטוח שברצונך למחוק את <%= integration.readableType %> אסימון האינטגרציה הזה עבור <%= integration.domain %>?",
+    "DELETE_BUTTON": "לִמְחוֹק",
+    "CANCEL_LINK": "לְבַטֵל"
+}

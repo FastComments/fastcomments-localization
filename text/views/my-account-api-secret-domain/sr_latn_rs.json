@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Ažurirajte tajni domen API-ja - FastComments",
+    "HEADING_UPDATE_API_SECRET_DOMAIN": "Ažurirajte tajni domen API-ja",
+    "TEXT_DOMAIN_INFO": "Za konfiguraciju kao što su Vebhooks, mi ćemo odrediti koji API ključ koristiti na osnovu ove konfiguracije.",
+    "LABEL_ASSOCIATE_SECRET_WITH_DOMAIN": "Povežite API tajnu \"<%= apiSecret.name %>\" sa domenom:",
+    "OPTION_ALL_DOMAINS": "Svi domeni",
+    "BUTTON_UPDATE_DOMAIN": "Ažuriranje domena"
+}

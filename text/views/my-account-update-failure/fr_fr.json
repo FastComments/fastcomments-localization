@@ -1,0 +1,14 @@
+{
+    "PAGE_TITLE": "Échec de la mise à jour",
+    "HEADING": "ÉCHEC DE LA MISE À JOUR DU COMPTE",
+    "LINK_TRY_AGAIN": "Essayer à nouveau",
+    "MESSAGE_GENERIC": "Quelque chose a terriblement mal tourné.",
+    "MESSAGE_GENERIC_DETAIL": "Nous ne savons pas exactement ce qui s'est passé, mais nous allons y jeter un œil.",
+    "ERROR_EMAIL_OR_USERNAME_EMPTY": "Il semblerait que l'adresse e-mail ou le nom d'utilisateur soit manquant. Veuillez réessayer.",
+    "ERROR_EMAIL_INVALID": "Il semblerait que cette adresse e-mail soit invalide : [email]",
+    "ERROR_USERNAME_TAKEN": "Ce nom d'utilisateur est déjà pris !",
+    "ERROR_EMAIL_TAKEN": "Désolé, mais cette adresse e-mail est déjà utilisée par quelqu'un d'autre ! Vous avez peut-être déjà un compte ?",
+    "ERROR_EMAIL_NOW_TAKEN": "Désolé, mais l'adresse e-mail demandée est déjà utilisée par quelqu'un d'autre ! Avez-vous créé un autre compte ?",
+    "ERROR_RATE_LIMITED_MINUTE": "Vous avez dépassé notre limite de requêtes. Veuillez réessayer dans quelques minutes ou contacter l'assistance.",
+    "ERROR_RATE_LIMITED_DAY": "Vous avez dépassé notre limite de requêtes quotidiennes. Veuillez réessayer dans 24 heures ou contacter l'assistance."
+}

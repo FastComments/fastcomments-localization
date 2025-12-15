@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Analisi di fatturazione - FastComments",
+    "HEADING_BILLING_ANALYTICS": "Analisi della fatturazione",
+    "HEADING_USAGE_THIS_PERIOD": "Utilizzo in questo periodo",
+    "TABLE_HEADER_DESCRIPTION": "Descrizione",
+    "TABLE_HEADER_COST_USD": "Costo (USD)",
+    "TEXT_TOTAL": "Totale",
+    "TEXT_TRIAL_PERIOD_NOTE": "Attualmente sei in un periodo di prova. <b>L&#39;importo sopra indicato non è dovuto in questo ciclo di fatturazione.</b>",
+    "TEXT_INVOICE_SEND_DATE": "Fattura da inviare il <%= invoiceSendDate %>.",
+    "HEADING_SERVICE_LIMITS": "Limiti del servizio",
+    "TEXT_TRIAL_LIMITS_NOTE": "<b>Nota!</b> Poiché stai usufruendo di un periodo di prova, al tuo account sono applicati limiti inferiori. <a href=\"/auth/my-account/billing-info\">Passa a un account a pagamento</a> o <a href=\"/auth/my-account/help\">contatta l&#39;assistenza per aumentare questi limiti</a> .",
+    "LABEL_CURRENT": "Attuale:",
+    "LABEL_MAX": "Massimo:",
+    "TEXT_MAX_NONE": "Nessuno"
+}

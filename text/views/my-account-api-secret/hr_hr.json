@@ -1,0 +1,17 @@
+{
+    "PAGE_TITLE": "Tajna API-ja - Brzi komentari",
+    "HEADING_API_CREDENTIALS": "API vjerodajnice",
+    "LABEL_TENANT_ID": "ID najmoprimca",
+    "TEXT_NO_API_KEYS": "Nema ovdje ništa za vidjeti! Dodajte API ključ da biste započeli s API-jem ili webhookovima.",
+    "LABEL_KEY_NAME": "Naziv ključa:",
+    "TEXT_DEFAULT_KEY_NAME": "Zadano",
+    "LABEL_DOMAIN": "Domena:",
+    "TEXT_ALL_DOMAINS": "Sve",
+    "TITLE_EDIT_NAME": "Uredi ime",
+    "TITLE_DELETE": "Izbrisati",
+    "TITLE_EDIT_DOMAIN": "Uredi domenu",
+    "TEXT_CLICK_TO_REVEAL": "Kliknite za otkrivanje tajnog ključa",
+    "TEXT_SECURITY_WARNING": "Ne dijelite svoje tajne ključeve i ne šifrirajte u pregledniku! Pogledajte naše <a href=\"https://github.com/fastcomments/fastcomments-code-examples\" target=\"_blank\">primjere backend koda</a> za šifriranje uz očuvanje sigurnosti ključa.",
+    "TITLE_ADD_API_SECRET": "Dodaj tajni API",
+    "TEXT_ADD_API_KEY": "Dodaj API ključ"
+}

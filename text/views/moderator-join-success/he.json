@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "אתה עכשיו מנהל - FastComments",
+    "WELCOME_HEADING": "ברוך הבא, <%- user.displayName || user.username %>.",
+    "DATE_NOTE": "אתה עכשיו מנהל!",
+    "SUCCESS_MESSAGE": "ההזמנה שלך עובדה בהצלחה. תודה שהצטרפת ל-FastComments כמנהל/ת.",
+    "PASSWORD_INFO": "דבר אחד שתשימו לב אליו הוא ש-FastComments לא משתמש בסיסמאות כברירת מחדל. אנו משתמשים באימיילים כדי לאמת אתכם. תוכלו להגדיר סיסמה מאוחר יותר.",
+    "BUTTON_START_MODERATING": "התחל לנהל"
+}

@@ -1,0 +1,18 @@
+{
+    "LABEL_CUSTOMER": "Stranka",
+    "LABEL_SERVICE_REP": "Predstavnik servisa",
+    "LABEL_OPENED": "Odprto",
+    "LABEL_STATUS": "Stanje",
+    "LABEL_CHANGE_STATUS": "Spremeni stanje",
+    "LINK_IMPERSONATE": "Ponazoritev",
+    "LINK_SWITCH": "Preklop",
+    "AVG_RESPONSE_TIME": "Povprečni odzivni čas:",
+    "STATUS_AWAITING_YOUR_REPLY": "ČAKAMO NA VAŠ ODGOVOR",
+    "STATE_OPEN": "Odprto",
+    "STATE_ACKNOWLEDGED": "Potrjeno",
+    "STATE_RESOLVED": "Rešeno",
+    "ERROR_GET_TICKET_FAILED": "Zahteva za pridobitev najnovejših informacij o vstopnicah ni uspela.",
+    "ERROR_CHANGE_STATE_FAILED": "Zahteva za spremembo stanja vstopnice ni uspela.",
+    "INITIAL_COMMENT": "Živjo, [username]! Ustvaril/a si zahtevo z imenom »[subject]«. Prosim, pusti nekaj dodatnih informacij in @[assignedTagName] se ti bo oglasil/a.",
+    "STATUS_CHANGE_COMMENT": "[username] je spremenil/a stanje iz [oldStatus] v [newStatus]."
+}

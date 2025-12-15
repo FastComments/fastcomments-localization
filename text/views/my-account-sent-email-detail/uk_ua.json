@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Надіслано електронного листа <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "BUTTON_BACK": "← Назад до надісланих листів",
+    "HEADING": "Надіслано електронного листа <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "LABEL_DATE": "Дата:",
+    "LABEL_FROM": "Від:",
+    "LABEL_TO": "До:",
+    "LABEL_BCC": "Прихована копія:",
+    "LABEL_SUBJECT": "Тема:",
+    "LABEL_HEADERS": "Заголовки:",
+    "HEADING_EMAIL_CONTENT": "Вміст електронного листа",
+    "MESSAGE_NO_CONTENT": "Немає доступного контенту",
+    "VALUE_UNKNOWN": "Невідомо",
+    "VALUE_NO_SUBJECT": "(Без теми)"
+}

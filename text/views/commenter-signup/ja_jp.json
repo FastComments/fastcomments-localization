@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "サインアップ",
+    "HERO_TITLE_LIGHT": "参加する ",
+    "HERO_TITLE_BOLD": "議論",
+    "HERO_DESCRIPTION": "FastComments を使用している Web サイトにコメントしたいですか? ここが最適な場所です。",
+    "HERO_ADDITIONAL_TEXT": "FastComments を Web サイトに追加する場合は、<a href=\"/auth/tenant-signup?email=<%= email %>\">こちらにサインアップしてください。</a>",
+    "FORM_DESCRIPTION": "サインアップに必要なのはユーザー名とメールアドレスだけです。",
+    "LABEL_USERNAME": "*ユーザー名:",
+    "PLACEHOLDER_USERNAME": "ユーザー名を入力してください",
+    "USERNAME_PATTERN_TITLE": "特殊文字は使用しないでください。数字と文字のみにしてください。",
+    "USERNAME_DESCRIPTION": "このユーザー名は公開されます。",
+    "LABEL_EMAIL": "*メールアドレス:",
+    "PLACEHOLDER_EMAIL": "メールアドレスを入力してください",
+    "EMAIL_DESCRIPTION": "アカウントを完了してサインインするためのリンクをメールで送信します。",
+    "SIGNUP_EMAIL_TEXT": "<b><%= email %></b>を使用してサインアップしています。",
+    "TERMS_AGREEMENT": "「サインアップ」をクリックすると、<a href=\"/terms-of-service\" target=\"_blank\">利用規約</a>に同意したことになります。",
+    "BUTTON_SIGN_UP": "サインアップ",
+    "LABEL_CAPTCHA": "<%= captchaA %> + <%= captchaB %> とは何ですか?",
+    "CAPTCHA_HELP": "あなたがボットではないことを確認できるようにします。"
+}

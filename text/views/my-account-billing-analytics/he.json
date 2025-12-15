@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "ניתוח חיוב - FastComments",
+    "HEADING_BILLING_ANALYTICS": "ניתוח חיוב",
+    "HEADING_USAGE_THIS_PERIOD": "שימוש בתקופה זו",
+    "TABLE_HEADER_DESCRIPTION": "תֵאוּר",
+    "TABLE_HEADER_COST_USD": "עלות (דולר ארה\"ב)",
+    "TEXT_TOTAL": "סַך הַכֹּל",
+    "TEXT_TRIAL_PERIOD_NOTE": "אתה נמצא כעת בתקופת ניסיון. <b>הסכום הנ&quot;ל אינו נדרש לתשלום במחזור חיוב זה.</b>",
+    "TEXT_INVOICE_SEND_DATE": "יש לשלוח חשבונית בתאריך <%= invoiceSendDate %>.",
+    "HEADING_SERVICE_LIMITS": "מגבלות שירות",
+    "TEXT_TRIAL_LIMITS_NOTE": "<b>הערה!</b> מכיוון שאתה נמצא בתקופת ניסיון, חלות מגבלות נמוכות יותר על חשבונך. <a href=\"/auth/my-account/billing-info\">שדרג לחשבון בתשלום</a> או <a href=\"/auth/my-account/help\">פנה לתמיכה כדי להעלות את המגבלות הללו</a> .",
+    "LABEL_CURRENT": "נוֹכְחִי:",
+    "LABEL_MAX": "מקסימום:",
+    "TEXT_MAX_NONE": "אַף לֹא אֶחָד"
+}

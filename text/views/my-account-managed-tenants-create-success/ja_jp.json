@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "マネージドテナントを作成する - FastComments",
+    "HEADING": "テナント作成",
+    "SUCCESS_MESSAGE": "テナントが正常に作成されました。",
+    "NEXT_STEPS_INTRO": "セットアップを続行するには、いくつかの一般的な手順を実行する必要があります。",
+    "NEXT_STEP_1": "ユーザーを追加します。",
+    "NEXT_STEP_2": "ユーザーにウェルカム/ログイン リンクを送信します。",
+    "NEXT_STEP_3": "統合用のテナント ID (API/SSO 情報ページで入手可能) を取得します。",
+    "TENANTS_VIEW_LINK_TEXT": "これは<a href=\"/auth/my-account/tenants\">、テナント ビュー</a>に戻ってテナントに切り替えることで実行できます。",
+    "TENANT_SWITCHING_INFO": "管理対象テナントに対するすべてのアクションは、必要に応じてテナントを削除することを含め、テナントの切り替えによって実行されます。"
+}

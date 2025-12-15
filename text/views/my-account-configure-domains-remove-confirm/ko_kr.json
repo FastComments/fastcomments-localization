@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "도메인 삭제 - FastComments",
+    "HEADING_REMOVING_DOMAIN": "<%= domainName %> 제거",
+    "HEADING_REMOVE_DOMAIN": "제거하다 <%= domainName %>",
+    "TEXT_REMOVE_CONFIRM": "<b><%= domainName %>을(를)</b> 삭제하려고 합니다. 이 작업은 데이터를 삭제하는 것이 아니며 복구도 가능하지만, 이 도메인에 있는 기존 위젯은 더 이상 로드되지 않습니다. 계속하시겠습니까?",
+    "BUTTON_CANCEL": "취소",
+    "BUTTON_REMOVE_DOMAIN": "도메인 제거"
+}

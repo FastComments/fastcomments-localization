@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "自訂 - 快速評論",
+    "HEADING_ADD": "新增版主",
+    "HEADING_EDIT": "定制 <%= moderator.name %>",
+    "SUB_HEADING_ADD": "新增版主",
+    "SUB_HEADING_EDIT": "編輯<%= moderator.name %>",
+    "INTRO_PARAGRAPH_1": "如果您想授權他人審核您的評論，那麼您來對地方了。",
+    "INTRO_PARAGRAPH_2": "請注意，管理員用戶無需新增版主。管理員使用者本身就具有審核權限。",
+    "NAME_SECTION_HEADING": "給他們取個名字",
+    "NAME_LABEL": "姓名",
+    "NAME_PLACEHOLDER": "主持人蓋伊先生",
+    "EMAIL_SECTION_HEADING": "我們需要您的電子郵件地址",
+    "EMAIL_LABEL": "電子郵件",
+    "EMAIL_PLACEHOLDER": "guy@moderators.com",
+    "GROUPS_SECTION_HEADING": "他們屬於哪些團體？",
+    "MODERATION_GROUPS_LABEL": "審核小組",
+    "CLEAR_ALL_LINK": "全部清除",
+    "GROUPS_DESCRIPTION": "他們只能在「審核評論」頁面看到這些群組的評論。",
+    "SAVE_BUTTON": "節省"
+}

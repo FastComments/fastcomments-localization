@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Nastavitev za novega najemnika",
+    "HERO_TITLE_LIGHT": "Skoraj ",
+    "HERO_TITLE_BOLD": "Tam",
+    "HERO_DESCRIPTION": "FastComments ponuja najhitrejši sistem komentiranja za podjetja in uporabnike, na poti pa ste do <u>30-dnevnega brezplačnega preizkusa</u> .",
+    "NOT_WEBSITE_LINK_TEXT": "Če ne želite dodati FastComments na spletno mesto, se morate registrirati <a href=\"/auth/commenter-signup?email=<%= email %>\">tukaj.</a>",
+    "FORM_DESCRIPTION": "Zdaj potrebujemo le še nekaj osnovnih informacij, nato pa lahko začnete nameščati FastComments.",
+    "LABEL_USERNAME": "*Javno prikazano uporabniško ime:",
+    "USERNAME_PATTERN_TITLE": "Brez posebnih znakov - samo številke in črke.",
+    "LABEL_EMAIL": "*E-pošta:",
+    "EMAIL_DESCRIPTION_LOGGED_IN": "Uporabili bomo vaš obstoječi e-poštni naslov. Po potrebi ga lahko pozneje spremenite na strani računa.",
+    "EMAIL_DESCRIPTION": "Poslali vam bomo e-pošto s prošnjo za potrditev računa.",
+    "LABEL_COMPANY_NAME": "*Ime podjetja:",
+    "DOMAINS_HEADING": "Kateri je naslov vašega spletnega mesta, kjer se bo prikazal FastComments?",
+    "LABEL_WEBSITES": "*Spletna stran(e):",
+    "DOMAINS_DESCRIPTION": "Poddomen ali localhost ni treba vnašati. Več spletnih mest ločite z vejicami.",
+    "TOS_TEXT": "S klikom na Ustvari račun se strinjate s <a href=\"/terms-of-service\" target=\"_blank\">pogoji storitve</a> .",
+    "BUTTON_CREATE_ACCOUNT": "Ustvari račun",
+    "ERROR_SIGNUP_ALREADY_STARTED": "Postopek prijave se je že začel in ga ni mogoče ponovno oddati. Ste morda osvežili stran?"
+}

@@ -1,0 +1,18 @@
+{
+    "LABEL_CUSTOMER": "Client",
+    "LABEL_SERVICE_REP": "Représentant du service",
+    "LABEL_OPENED": "Ouvert",
+    "LABEL_STATUS": "Statut",
+    "LABEL_CHANGE_STATUS": "Modifier le statut",
+    "LINK_IMPERSONATE": "Imiter",
+    "LINK_SWITCH": "Changer",
+    "AVG_RESPONSE_TIME": "Temps de réponse moyen :",
+    "STATUS_AWAITING_YOUR_REPLY": "J'ATTENDS VOTRE RÉPONSE",
+    "STATE_OPEN": "Ouvrir",
+    "STATE_ACKNOWLEDGED": "Reconnu",
+    "STATE_RESOLVED": "Résolu",
+    "ERROR_GET_TICKET_FAILED": "La demande d'informations sur les billets les plus récents a échoué.",
+    "ERROR_CHANGE_STATE_FAILED": "La demande de modification de l'état du ticket a échoué.",
+    "INITIAL_COMMENT": "Bonjour [username] ! Vous avez créé un ticket intitulé « [subject] ». Veuillez fournir des informations complémentaires et @[assignedTagName] vous recontactera.",
+    "STATUS_CHANGE_COMMENT": "[username] a modifié le statut de [oldStatus] à [newStatus]."
+}

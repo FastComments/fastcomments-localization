@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Μετεγκατάσταση σχολίων - FastComments",
+    "HEADING": "Μετεγκατάσταση σχολίων",
+    "INTRO_DESCRIPTION": "Αυτό το εργαλείο σάς επιτρέπει να μεταφέρετε μαζικά τα σχόλιά σας σε διαφορετικές διευθύνσεις URL ή ιστότοπους.",
+    "URL_INFO": "Μπορείτε να εισαγάγετε μέρος μιας διεύθυνσης URL, όπως έναν τομέα, ή μια πλήρη διεύθυνση URL ή ένα <a href=\"https://docs.fastcomments.com/guide-customizations-and-configuration.html#url-id\" target=\"_blank\">αναγνωριστικό διεύθυνσης URL</a> .",
+    "DOMAIN_FROM_LABEL": "Από ποια διεύθυνση URL ή τομέα κάνετε μετεγκατάσταση;",
+    "DOMAIN_FROM_PLACEHOLDER": "example.com",
+    "DOMAIN_TO_LABEL": "Σε ποια διεύθυνση URL ή τομέα κάνετε μετεγκατάσταση;",
+    "DOMAIN_TO_PLACEHOLDER": "some-other-example.com",
+    "START_MIGRATION_BUTTON": "Έναρξη μετεγκατάστασης",
+    "EMAIL_NOTIFICATION_INFO": "Θα λάβετε ένα email που θα σας ειδοποιεί όταν ολοκληρωθεί.",
+    "MIGRATIONS_HEADING": "Μεταναστεύσεις",
+    "NOSCRIPT_REFRESH_MESSAGE": "Ανανεώστε τη σελίδα για να λάβετε την πιο πρόσφατη κατάσταση.",
+    "TABLE_HEADER_START_DATE": "Ημερομηνία έναρξης",
+    "TABLE_HEADER_FROM": "Από",
+    "TABLE_HEADER_TO": "Να",
+    "TABLE_HEADER_STATUS": "Κατάσταση",
+    "TABLE_HEADER_COMMENTS_FOUND": "Βρέθηκαν σχόλια για μετεγκατάσταση",
+    "TABLE_HEADER_COMMENTS_MIGRATED": "Σχόλια που μεταφέρθηκαν",
+    "NO_MIGRATIONS_MESSAGE": "Δεν έχετε καμία εκκρεμή ή παλαιότερη μετεγκατάσταση domain."
+}

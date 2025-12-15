@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Προσαρμογή - FastComments",
+    "HEADING_ADD": "Προσθήκη Συντονιστή",
+    "HEADING_EDIT": "Προσαρμογή <%= moderator.name %>",
+    "SUB_HEADING_ADD": "Προσθήκη Συντονιστή",
+    "SUB_HEADING_EDIT": "Επεξεργασία <%= moderator.name %>",
+    "INTRO_PARAGRAPH_1": "Έχετε έρθει στο σωστό μέρος αν θέλετε να δώσετε σε κάποιον πρόσβαση για να εποπτεύει τα σχόλιά σας.",
+    "INTRO_PARAGRAPH_2": "Σημειώστε ότι δεν χρειάζεται να προσθέσετε συντονιστές για χρήστες διαχειριστές. Οι χρήστες διαχειριστές έχουν ήδη δυνατότητες συντονισμού.",
+    "NAME_SECTION_HEADING": "Δώστε τους ένα όνομα",
+    "NAME_LABEL": "Ονομα",
+    "NAME_PLACEHOLDER": "Κύριος Συντονιστής Γκάι",
+    "EMAIL_SECTION_HEADING": "Θα χρειαστούμε ένα email",
+    "EMAIL_LABEL": "E-mail",
+    "EMAIL_PLACEHOLDER": "guy@moderators.com",
+    "GROUPS_SECTION_HEADING": "Σε ποιες ομάδες ανήκουν;",
+    "MODERATION_GROUPS_LABEL": "Ομάδες Διαχείρισης",
+    "CLEAR_ALL_LINK": "Εκκαθάριση όλων",
+    "GROUPS_DESCRIPTION": "Θα βλέπουν σχόλια από αυτές τις ομάδες μόνο στη σελίδα Εποπτεία σχολίων.",
+    "SAVE_BUTTON": "Εκτός"
+}

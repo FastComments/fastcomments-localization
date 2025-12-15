@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Moje konto",
+    "HEADING_MY_DOMAINS": "Moje domeny",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "Domeny dodane pomyślnie!",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "Domena została pomyślnie usunięta!",
+    "TEXT_SETTING_UPDATED_SUCCESS": "Ustawienia zaktualizowano pomyślnie!",
+    "TEXT_IMAGE_UPLOAD_ERROR": "Błąd przesyłania obrazu: <%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "Poniżej znajduje się konfiguracja dotycząca wyglądu wiadomości e-mail wysyłanych przez FastComments do komentujących. Nie musisz niczego wprowadzać, jeśli nie chcesz tego dostosowywać.",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Uwaga: ustawienia Nadawcy i Adresu e-mail nie mają wpływu na wiadomości e-mail wysyłane do administratorów.</b>",
+    "LINK_REMOVE": "Usunąć",
+    "TEXT_AUTO_ADDED_NOTICE": "Dodano automatycznie w okresie próbnym.",
+    "TITLE_AUTO_ADDED": "Dodawane automatycznie w okresie próbnym na podstawie ruchu na Twoim koncie. Ma to na celu ułatwienie konfiguracji i ma miejsce tylko w okresie próbnym.",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Nazwa nadawcy podczas wysyłania wiadomości e-mail do użytkownika",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "Adres e-mail od użytkownika podczas wysyłania wiadomości e-mail",
+    "TEXT_EMAIL_ERROR": "Coś wygląda na nie tak z tym e-mailem. Wszystkie pozostałe zmiany zostały zapisane.",
+    "TEXT_LOGO_MAX_SIZE": "Maksymalny rozmiar: 1 MB. Rozmiar nie uległ zmianie.",
+    "BUTTON_SAVE": "Ratować",
+    "TEXT_NO_DOMAINS_WARNING": "Ojej! Nie masz żadnych domen. Twoje widżety nie załadują się, dopóki nie powiążesz jednej lub więcej domen ze swoim kontem.",
+    "TITLE_ADD_DOMAIN": "Dodaj domenę",
+    "TEXT_ADD_A_DOMAIN": "Dodaj domenę"
+}

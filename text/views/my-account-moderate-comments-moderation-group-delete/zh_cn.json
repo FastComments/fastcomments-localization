@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "删除审核组<%= moderationGroup.name %> - FastComments",
+    "HEADING": "删除审核组？",
+    "CONFIRM_MESSAGE": "您确定要删除群组 <%= moderationGroup.name %> 吗？",
+    "CONFIRM_DELETE_BUTTON": "确认删除",
+    "CANCEL_LINK": "取消"
+}

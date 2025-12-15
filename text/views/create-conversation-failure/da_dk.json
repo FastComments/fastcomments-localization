@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Kunne ikke oprette samtale - FastComments",
+    "META_DESCRIPTION": "Kontakt FastComments.com",
+    "HERO_TITLE_LIGHT": "Samtale ",
+    "HERO_TITLE_BOLD": "Kunne ikke oprettes",
+    "HERO_DESCRIPTION": "Vi kunne ikke oprette din samtale. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
+    "BUTTON_TRY_AGAIN": "Prøv at oprette en ny samtale."
+}

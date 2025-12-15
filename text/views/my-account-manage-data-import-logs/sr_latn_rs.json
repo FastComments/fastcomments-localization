@@ -1,0 +1,12 @@
+{
+    "TITLE": "Uvoz dnevnika - FastComments",
+    "HEADING": "Trupci za posao <%= job._id %>",
+    "JOB_LOGS_HEADING": "Job Logs",
+    "TABLE_LOG": "Prijavite se",
+    "TABLE_DATE": "Datum",
+    "NO_LOGS": "Ne postoje evidencije za ovaj posao.",
+    "POSSIBLE_REASONS": "Neki mogući razlozi:",
+    "REASON_NOT_STARTED": "Posao možda još nije počeo.",
+    "REASON_BEFORE_SUPPORT": "To može biti od pre nego što smo dodali podršku za dnevnik.",
+    "REASON_NO_SUPPORT": "Tip posla možda ne podržava dnevnike."
+}

@@ -1,0 +1,17 @@
+{
+    "PAGE_TITLE": "APIシークレット - FastComments",
+    "HEADING_API_CREDENTIALS": "API認証情報",
+    "LABEL_TENANT_ID": "テナントID",
+    "TEXT_NO_API_KEYS": "何も表示されません。API または Webhook を使い始めるには、API キーを追加してください。",
+    "LABEL_KEY_NAME": "キー名:",
+    "TEXT_DEFAULT_KEY_NAME": "デフォルト",
+    "LABEL_DOMAIN": "ドメイン：",
+    "TEXT_ALL_DOMAINS": "全て",
+    "TITLE_EDIT_NAME": "名前を編集",
+    "TITLE_DELETE": "消去",
+    "TITLE_EDIT_DOMAIN": "ドメインを編集",
+    "TEXT_CLICK_TO_REVEAL": "クリックして秘密鍵を表示",
+    "TEXT_SECURITY_WARNING": "秘密鍵を共有したり、ブラウザで暗号化したりしないでください。鍵を安全に保ちながら暗号化を行う方法については、<a href=\"https://github.com/fastcomments/fastcomments-code-examples\" target=\"_blank\">バックエンドのコード例を</a>ご覧ください。",
+    "TITLE_ADD_API_SECRET": "APIシークレットを追加",
+    "TEXT_ADD_API_KEY": "APIキーを追加"
+}

@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Analitika naplate - FastComments",
+    "HEADING_BILLING_ANALYTICS": "Analitika naplate",
+    "HEADING_USAGE_THIS_PERIOD": "Upotreba ovog perioda",
+    "TABLE_HEADER_DESCRIPTION": "Pretraga",
+    "TABLE_HEADER_COST_USD": "Troškovi (USD)",
+    "TEXT_TOTAL": "Ukupan",
+    "TEXT_TRIAL_PERIOD_NOTE": "Trenutno ste u probnom periodu. <b>Navedeni iznos nije zbog ovog obračunskog ciklusa.</b>",
+    "TEXT_INVOICE_SEND_DATE": "Faktura se šalje na <%= invoiceSendDate %>.",
+    "HEADING_SERVICE_LIMITS": "Ograničenja usluge",
+    "TEXT_TRIAL_LIMITS_NOTE": "<b>Obrati pažnju!</b> Pošto ste u suđenju, imate niže limite koji se primenjuju na vaš račun. <a href=\"/auth/my-account/billing-info\">Nadogradite na plaćeni račun</a> ili <a href=\"/auth/my-account/help\">obratite se podršci da biste podigli ove granice</a>.",
+    "LABEL_CURRENT": "Aktuelni:",
+    "LABEL_MAX": "Maks:",
+    "TEXT_MAX_NONE": "Nijedan"
+}

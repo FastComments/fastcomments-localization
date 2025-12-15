@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Ažuriranje tajne domene API-ja - Brzi komentari",
+    "HEADING_UPDATE_API_SECRET_DOMAIN": "Ažuriranje tajne domene API-ja",
+    "TEXT_DOMAIN_INFO": "Za konfiguracije poput Webhookova, odredit ćemo koji API ključ koristiti na temelju ove konfiguracije.",
+    "LABEL_ASSOCIATE_SECRET_WITH_DOMAIN": "Povežite API tajnu \"<%= apiSecret.name %>\" s domenom:",
+    "OPTION_ALL_DOMAINS": "Sve domene",
+    "BUTTON_UPDATE_DOMAIN": "Ažuriraj domenu"
+}

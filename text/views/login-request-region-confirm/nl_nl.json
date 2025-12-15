@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Overstappen naar <%= otherRegionName %>? - FastComments",
+    "HERO_TITLE_LIGHT": "Schakel over naar ",
+    "HERO_TITLE_BOLD": "<%= otherRegionName %>",
+    "HERO_DESCRIPTION": "Je hebt een account op <a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a> - wil je daar in plaats daarvan inloggen?",
+    "INFO_MESSAGE_BOLD": "Je hebt een account in ons andere datacenter.",
+    "INFO_MESSAGE_QUESTION": "Doorverwijzen naar die locatie?",
+    "INFO_MESSAGE_WARNING": "Als u zich niet laat doorverwijzen, maken we hier een account voor u aan als deze nog niet bestaat. <b>In dat geval heeft u twee accounts.</b>",
+    "BUTTON_REDIRECT": "Doorverwijzen naar <%= otherRegionName %>",
+    "BUTTON_CONTINUE_HERE": "Ga hier verder"
+}

@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "FastComments의 운영 그룹 삭제 - <%= moderationGroup.name %>",
+    "HEADING": "운영 그룹을 삭제하시겠습니까?",
+    "CONFIRM_MESSAGE": "<%= moderationGroup.name %> 그룹을 정말로 삭제하시겠습니까?",
+    "CONFIRM_DELETE_BUTTON": "삭제 확인",
+    "CANCEL_LINK": "취소"
+}

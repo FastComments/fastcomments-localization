@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Персонализиране - FastComments",
+    "HEADING_ADD": "Добавяне на модератор",
+    "HEADING_EDIT": "Персонализиране <%= moderator.name %>",
+    "SUB_HEADING_ADD": "Добавяне на модератор",
+    "SUB_HEADING_EDIT": "Редактиране на <%= moderator.name %>",
+    "INTRO_PARAGRAPH_1": "Попаднали сте на правилното място, ако искате да дадете на някого достъп да модерира коментарите ви.",
+    "INTRO_PARAGRAPH_2": "Обърнете внимание, че не е необходимо да добавяте модератори за администраторски потребители. Администраторските потребители вече имат възможности за модериране.",
+    "NAME_SECTION_HEADING": "Дай им име",
+    "NAME_LABEL": "Име",
+    "NAME_PLACEHOLDER": "Г-н Модератор Гай",
+    "EMAIL_SECTION_HEADING": "Ще ни е необходим имейл",
+    "EMAIL_LABEL": "Имейл",
+    "EMAIL_PLACEHOLDER": "guy@moderators.com",
+    "GROUPS_SECTION_HEADING": "Към кои групи принадлежат?",
+    "MODERATION_GROUPS_LABEL": "Групи за модериране",
+    "CLEAR_ALL_LINK": "Изчисти всички",
+    "GROUPS_DESCRIPTION": "Те ще виждат коментари от тези групи само на страницата „Модериране на коментари“.",
+    "SAVE_BUTTON": "Запазване"
+}

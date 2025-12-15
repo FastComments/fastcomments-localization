@@ -1,0 +1,6 @@
+{
+    "HEADING_EDITING_BADGE": "編集 <%= badge.displayLabel %>",
+    "HEADING_EDITING_BADGE_TYPE": "Editing \"<%= BadgeTypeDescriptions[badgeType] %>\" バッジ",
+    "HEADING_CREATING_BADGE_TYPE": "Creating \"<%= BadgeTypeDescriptions[badgeType] %>\" バッジ",
+    "LABEL_BADGE_THRESHOLD": "<%= BadgeLimitDescriptions[badgeType] %>"
+}

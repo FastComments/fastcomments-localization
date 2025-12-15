@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Journaux d'intégration - FastComments",
+    "HEADING": "Journaux d'intégration.",
+    "SUB_HEADING": "Bûches pour <%= integration.readableType %>",
+    "NOSCRIPT_MESSAGE": "Veuillez activer JavaScript pour consulter les journaux.",
+    "PAGE_UPDATE_INFO": "Cette page sera mise à jour au fur et à mesure de l'avancement de l'intégration.",
+    "SYNC_INFO": "Une fois cette opération effectuée, nous synchroniserons vos commentaires avec votre site. Ainsi, si vous désactivez FastComments, vous ne perdrez aucune donnée.",
+    "LOGS_RETENTION_INFO": "Ces registres seront conservés pendant deux ans."
+}

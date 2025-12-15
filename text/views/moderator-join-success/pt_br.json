@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Agora você é um moderador - FastComments",
+    "WELCOME_HEADING": "Bem-vindo, <%- user.displayName || user.username %>.",
+    "DATE_NOTE": "Você agora é um moderador!",
+    "SUCCESS_MESSAGE": "Seu convite foi processado com sucesso. Obrigado por se juntar ao FastComments como moderador.",
+    "PASSWORD_INFO": "Uma coisa que você vai notar é que o FastComments não usa senhas por padrão. Usamos e-mails para autenticá-lo. Você pode definir uma senha posteriormente.",
+    "BUTTON_START_MODERATING": "Comece a moderar"
+}

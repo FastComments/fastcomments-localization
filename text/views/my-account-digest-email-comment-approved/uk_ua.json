@@ -1,0 +1,8 @@
+{
+    "TITLE": "Коментар схвалено - FastComments",
+    "HEADING": "Успіх!",
+    "COMMENT_APPROVED": "Цей коментар позначено як перевірений та схвалений.",
+    "ALSO_LOGGED_IN": "Ви також увійшли в систему.",
+    "VIEW_COMMENT_ON_SITE": "Ви можете переглянути схвалений коментар на своєму сайті <a href=\"<%= comment.url %>\" target=\"_blank\">тут</a> або скориставшись засобом перегляду коментарів <a href=\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">тут</a> .",
+    "CLOSE_PAGE": "Тепер ви можете закрити цю сторінку."
+}

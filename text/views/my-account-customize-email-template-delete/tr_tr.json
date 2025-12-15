@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "Sil <%= template.displayName %> - HızlıYorumlar",
+    "HEADING_DELETE_TEMPLATE": "Silmek \"<%= template.displayName %>\"?",
+    "TEXT_CONFIRM_DELETE": "Oluşturulma tarihi <%= template.displayName %> olan <%= template.createdAt.toLocaleString() %> numaralı şablonu silmek istediğinizden emin misiniz?",
+    "BUTTON_DELETE": "Silmek",
+    "BUTTON_CANCEL": "İptal etmek"
+}

@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Iscrizione",
+    "HERO_TITLE_LIGHT": "Unisciti al ",
+    "HERO_TITLE_BOLD": "Discussione",
+    "HERO_DESCRIPTION": "Vuoi commentare un sito web che utilizza FastComments? Sei nel posto giusto.",
+    "HERO_ADDITIONAL_TEXT": "Se vuoi aggiungere FastComments a un sito web, dovresti registrarti <a href=\"/auth/tenant-signup?email=<%= email %>\">qui.</a>",
+    "FORM_DESCRIPTION": "Per registrarti ti bastano un nome utente e un indirizzo email.",
+    "LABEL_USERNAME": "*Nome utente:",
+    "PLACEHOLDER_USERNAME": "Inserisci un nome utente",
+    "USERNAME_PATTERN_TITLE": "Per favore, niente caratteri speciali: solo numeri e lettere.",
+    "USERNAME_DESCRIPTION": "Questo nome utente sarà visibile pubblicamente.",
+    "LABEL_EMAIL": "*E-mail:",
+    "PLACEHOLDER_EMAIL": "Inserisci un indirizzo email",
+    "EMAIL_DESCRIPTION": "Ti invieremo un link via e-mail per completare il tuo account e accedere.",
+    "SIGNUP_EMAIL_TEXT": "Ti stai registrando tramite <b><%= email %></b> .",
+    "TERMS_AGREEMENT": "Cliccando su Iscriviti, accetti i <a href=\"/terms-of-service\" target=\"_blank\">Termini di servizio</a> .",
+    "BUTTON_SIGN_UP": "Iscrizione",
+    "LABEL_CAPTCHA": "Quanto fa <%= captchaA %> + <%= captchaB %>?",
+    "CAPTCHA_HELP": "Aiuta a stabilire che non sei un bot."
+}

@@ -1,0 +1,21 @@
+{
+  "PAGE_TITLE": "My Account",
+  "HEADING_MY_DOMAINS": "My Domains",
+  "TEXT_DOMAINS_ADDED_SUCCESS": "Domains added successfully!",
+  "TEXT_DOMAIN_REMOVED_SUCCESS": "Domain removed successfully!",
+  "TEXT_SETTING_UPDATED_SUCCESS": "Setting updated successfully!",
+  "TEXT_IMAGE_UPLOAD_ERROR": "Image upload error: <%= imageUploadError %>",
+  "TEXT_EMAIL_CONFIG_INFO": "The following is configuration for how emails should look when FastComments sends emails to your commenters. You don't have to enter anything if you don't want to customize this.",
+  "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
+  "LINK_REMOVE": "Remove",
+  "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
+  "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+  "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
+  "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
+  "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
+  "TEXT_LOGO_MAX_SIZE": "Max Size: 1mb. Not resized.",
+  "BUTTON_SAVE": "Save",
+  "TEXT_NO_DOMAINS_WARNING": "Whoa! You have no domains. Your widgets will not be able to load until you associate one or more domains with your account.",
+  "TITLE_ADD_DOMAIN": "Add Domain",
+  "TEXT_ADD_A_DOMAIN": "Add a Domain"
+}

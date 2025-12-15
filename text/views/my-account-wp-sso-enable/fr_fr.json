@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Authentification unique WordPress - FastComments",
+    "HEADING": "Authentification par authentification WordPress",
+    "MESSAGE_LAST_STEP": "Dernière étape ! Il vous suffit de cliquer sur « Activer l’authentification unique » pour activer l’authentification unique sur votre blog.",
+    "MESSAGE_DESCRIPTION": "Nous allons créer une clé secrète API pour vous, la transmettre de manière sécurisée à votre blog, puis activer l'authentification unique (SSO) sur votre blog. Vous pouvez répéter cette opération autant de fois que nécessaire en cas de problème. Si ce processus échoue, nous en serons automatiquement informés. N'hésitez pas à contacter notre assistance si besoin.",
+    "BUTTON_ENABLE_SSO": "Activer l'authentification unique (SSO)",
+    "MESSAGE_DURATION": "Ce processus ne devrait prendre que quelques secondes.",
+    "MESSAGE_IN_PROGRESS": "Un instant. Nous avons simplement besoin de créer une clé API secrète et de mettre à jour les paramètres de votre blog.",
+    "MESSAGE_LOADING": "...chargement...",
+    "MESSAGE_AFTER_DONE": "Une fois cette étape terminée, les utilisateurs utiliseront votre flux de connexion WordPress pour utiliser FastComments."
+}

@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "ערכת אימון לספאם של תגובות - FastComments",
+    "HEADING_COMMENTS_SPAM_TRAINING_SET": "ערכת אימון לספאם של תגובות",
+    "TEXT_CURRENT_CLASSIFICATION": "סיווג נוכחי: <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
+    "BUTTON_UNCLASSIFY": "בטל סיווג",
+    "BUTTON_SPAM": "ספאם",
+    "BUTTON_NOT_SPAM": "לא ספאם"
+}

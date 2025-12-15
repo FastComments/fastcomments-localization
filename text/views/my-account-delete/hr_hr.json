@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Izbriši moj račun",
+    "HEADING_DELETE_ACCOUNT": "Izbriši <%= user.username %> račun",
+    "TEXT_PRIVACY_POLICY_NOTE": "Ako brišete svoj račun zbog zabrinutosti za privatnost, razmislite o provjeri naših <a href=\"/privacy-policy\">Pravila o privatnosti</a> . Ne prodajemo niti dijelimo vaše podatke s trećim stranama.",
+    "TEXT_ALSO_DELETING_TENANT": "Također brišem stanara \"<%= tenant ? tenant.name : '' %>\".",
+    "TEXT_ACCOUNT_OWNER_WARNING": "Vi ste vlasnik računa. Brisanjem vašeg računa brišete ovog najmoprimca.",
+    "TEXT_SUBSCRIPTION_CANCELLED": "Vaša će pretplata također biti otkazana.",
+    "TEXT_NO_SELL_DATA": "Imajte na umu da FastComments <b>ne prodaje niti dijeli</b> vaše osobne podatke s trećim stranama. Nudimo besplatno kreiranje računa jednostavno radi praktičnosti.",
+    "HEADING_CONFIRMATION": "Potvrda",
+    "LABEL_REMOVE_COMMENTS": "Ukloniti sve <%= commentCount %> komentare?",
+    "LABEL_CONFIRM_REMOVAL": "Označite ovaj okvir kako biste potvrdili uklanjanje računa. Brisanje računa ili povezanih komentara ne može se poništiti.",
+    "LABEL_FEEDBACK": "Pomozi nam da shvatimo zašto te vidimo kako odlaziš.",
+    "BUTTON_NO_DONT_DELETE": "Ne, nemoj izbrisati moj račun",
+    "BUTTON_YES_DELETE": "Da, izbriši moj račun"
+}

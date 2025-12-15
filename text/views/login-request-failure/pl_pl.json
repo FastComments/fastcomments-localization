@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "FastComments - Logowanie nieudane",
+    "HERO_TITLE_LIGHT": "Zaloguj się ",
+    "HERO_TITLE_BOLD": "Przegrany",
+    "BUTTON_TRY_AGAIN": "Spróbuj ponownie",
+    "ERROR_HEADING": "Coś poszło nie tak",
+    "ERROR_MESSAGE": "Wystąpił błąd podczas próby logowania.",
+    "ERROR_INVALID_CREDENTIALS": "Nieprawidłowe hasło lub nazwa użytkownika.",
+    "ERROR_USERNAME_REQUIRED": "Musisz podać nazwę użytkownika!",
+    "ERROR_USERNAME_TOO_LONG": "Twoja nazwa użytkownika musi mieć mniej niż 1 tys. znaków!",
+    "ERROR_RATE_LIMITED_MINUTES": "Przekroczyłeś limity prędkości. Spróbuj ponownie za kilka minut lub skontaktuj się z pomocą techniczną.",
+    "ERROR_RATE_LIMITED_DAILY": "Przekroczyłeś nasze dzienne limity stawek. Spróbuj ponownie za 24 godziny lub skontaktuj się z pomocą techniczną.",
+    "ERROR_RATE_LIMITED": "Przekroczyłeś limity prędkości. Spróbuj ponownie później lub skontaktuj się z pomocą techniczną.",
+    "ERROR_TOO_MANY_ATTEMPTS": "Zbyt wiele prób logowania w ciągu ostatniej godziny. Poczekaj i spróbuj ponownie.",
+    "ERROR_CAPTCHA_WRONG": "Nie odpowiedziałeś poprawnie na pytanie bezpieczeństwa. Wróć i spróbuj ponownie.",
+    "ERROR_EMAIL_REQUIRED": "Musisz podać adres e-mail!",
+    "ERROR_EMAIL_TOO_LONG": "Twój adres e-mail musi mieć mniej niż 1 tys. znaków!",
+    "ERROR_INVALID_EMAIL": "To nie jest prawidłowy adres e-mail!",
+    "ERROR_USERNAME_TAKEN": "Ta nazwa użytkownika jest już zajęta przez inny adres e-mail. Spróbuj użyć innej nazwy użytkownika."
+}

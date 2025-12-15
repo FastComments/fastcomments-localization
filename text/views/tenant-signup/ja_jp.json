@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "新しいテナントの設定",
+    "HERO_TITLE_LIGHT": "ほとんど  ",
+    "HERO_TITLE_BOLD": "そこには",
+    "HERO_DESCRIPTION": "FastComments は、企業とユーザーの両方にとって、セットアップと使用が最も速いコメント システムを提供し、 <u>30 日間の無料トライアル</u>をご利用いただけます。",
+    "NOT_WEBSITE_LINK_TEXT": "FastComments を Web サイトに追加する予定がない場合は、<a href=\"/auth/commenter-signup?email=<%= email %>\">こちらにサインアップしてください。</a>",
+    "FORM_DESCRIPTION": "ここで必要なのはいくつかの基本情報だけです。その後、FastComments のインストールを開始できます。",
+    "LABEL_USERNAME": "*公開表示されるユーザー名:",
+    "USERNAME_PATTERN_TITLE": "特殊文字は使用しないでください。数字と文字のみにしてください。",
+    "LABEL_EMAIL": "*メールアドレス:",
+    "EMAIL_DESCRIPTION_LOGGED_IN": "既存のメールアドレスを使用します。必要に応じて、アカウントページから後から変更できます。",
+    "EMAIL_DESCRIPTION": "アカウントの確認を求めるメールをお送りします。",
+    "LABEL_COMPANY_NAME": "*会社名：",
+    "DOMAINS_HEADING": "FastComments が表示されるウェブサイトのアドレスは何ですか?",
+    "LABEL_WEBSITES": "*ウェブサイト:",
+    "DOMAINS_DESCRIPTION": "サブドメインやローカルホストを入力する必要はありません。複数のサイトを指定する場合は、カンマで区切ってください。",
+    "TOS_TEXT": "「アカウントを作成」をクリックすると、<a href=\"/terms-of-service\" target=\"_blank\">利用規約</a>に同意したことになります。",
+    "BUTTON_CREATE_ACCOUNT": "アカウントを作成する",
+    "ERROR_SIGNUP_ALREADY_STARTED": "登録手続きはすでに開始されており、再度送信することはできません。ページを更新しましたか？"
+}

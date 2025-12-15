@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "Bekræft integration - FastComments",
+    "PAGE_HEADING": "Forbinder din integration.",
+    "PAGE_SUBHEADING": "Bekræftelse",
+    "NOSCRIPT_MESSAGE": "Aktiver venligst JavaScript for at konfigurere integrationen.",
+    "UPLOAD_DESCRIPTION": "Hvis det ønskes, kan vi automatisk uploade dine kommentarer fra din <%= integrationName %> installation under synkroniseringen. Ellers skal du fjerne markeringen i feltet nedenfor, og du kan selv udføre det senere.",
+    "CHECKBOX_UPLOAD_COMMENTS": "Upload automatisk mine kommentarer.",
+    "CHECKBOX_UPLOAD_COMMENTS_HELP": "Du kan uploade dine kommentarer senere fra plugin-administratorsiden.",
+    "CHECKBOX_SYNC_DATABASE": "Hold automatisk min <%= integrationName %> database synkroniseret.",
+    "CHECKBOX_SYNC_DATABASE_HELP": "Dette holder din <%= integrationName %> database opdateret. Nyttigt, hvis plugins kræver de seneste kommentarer i din database. Ofte deaktiveret på websteder med meget stor trafik, hvor det at holde <%= integrationName %> opdateret skaber uønsket belastning.",
+    "BUTTON_START_SYNC": "Start synkronisering"
+}

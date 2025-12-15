@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Купони - FastComments",
+    "HEADING_COUPONS": "Купони",
+    "HEADING_COUPON_CODES": "Коди купонів",
+    "HEADING_STATS": "Статистика",
+    "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> Використані купони.",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Всього купонів.",
+    "HEADING_DOWNLOAD": "Завантажити",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Завантажити доступні купони",
+    "HEADING_GENERATE_TIER_4_COUPONS": "Згенерувати купони 4-го рівня",
+    "LABEL_GENERATE_COUPON_COUNT": "Згенерувати кількість купонів",
+    "BUTTON_SUBMIT": "Надіслати",
+    "HEADING_COUPON_LIST": "Список купонів",
+    "TABLE_HEADER_CODE": "Код",
+    "TABLE_HEADER_REDEEMED_DATE": "Дата погашення"
+}

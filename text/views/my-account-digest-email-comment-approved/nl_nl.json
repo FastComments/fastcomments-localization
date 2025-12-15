@@ -1,0 +1,8 @@
+{
+    "TITLE": "Reactie goedgekeurd - FastComments",
+    "HEADING": "Succes!",
+    "COMMENT_APPROVED": "Die reactie is beoordeeld en goedgekeurd.",
+    "ALSO_LOGGED_IN": "Je bent ook ingelogd.",
+    "VIEW_COMMENT_ON_SITE": "Je kunt de goedgekeurde reactie <a href=\"<%= comment.url %>\" target=\"_blank\">hier</a> op je site bekijken, of via de reactieviewer <a href=\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">hier</a> .",
+    "CLOSE_PAGE": "U kunt deze pagina nu sluiten."
+}

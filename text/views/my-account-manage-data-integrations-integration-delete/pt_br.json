@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Excluir token de integração - FastComments",
+    "HEADING": "Excluir token de integração",
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "Tem certeza de que deseja excluir este <%= integration.readableType %> token de integração?",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "Tem certeza de que deseja excluir este <%= integration.readableType %> token de integração para <%= integration.domain %>?",
+    "DELETE_BUTTON": "Excluir",
+    "CANCEL_LINK": "Cancelar"
+}

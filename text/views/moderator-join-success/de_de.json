@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Du bist jetzt Moderator – FastComments",
+    "WELCOME_HEADING": "Willkommen, <%- user.displayName || user.username %>.",
+    "DATE_NOTE": "Du bist jetzt Moderator!",
+    "SUCCESS_MESSAGE": "Ihre Einladung wurde erfolgreich verarbeitet. Vielen Dank, dass Sie FastComments als Moderator beigetreten sind.",
+    "PASSWORD_INFO": "Eine Besonderheit von FastComments ist, dass es standardmäßig keine Passwörter verwendet. Wir nutzen Ihre E-Mail-Adresse zur Authentifizierung. Sie können später ein Passwort festlegen.",
+    "BUTTON_START_MODERATING": "Moderation starten"
+}

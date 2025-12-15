@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "登录 - 快速评论",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "登录",
+    "HERO_DESCRIPTION": "访问您的 FastComments 帐户",
+    "TAB_LOGIN_VIA_EMAIL": "通过电子邮件登录",
+    "TAB_LOGIN_VIA_PASSWORD": "通过密码登录",
+    "LABEL_USERNAME_OR_EMAIL": "用户名或电子邮件",
+    "LABEL_PASSWORD": "密码",
+    "FORGOT_PASSWORD_LINK": "我忘记密码了",
+    "PASSWORD_LESS_HEADING": "FastComments 将使用您的电子邮件地址作为密码 - 我们会向您发送一个安全的登录链接。",
+    "CREATE_ACCOUNT_INFO": "如果您还没有账户，此操作将为您创建一个。",
+    "LABEL_USERNAME": "用户名",
+    "FORGOT_USERNAME_LINK": "我忘记了我的用户名",
+    "LABEL_EMAIL": "电子邮件",
+    "EMAIL_HELP_TEXT": "我们会通过电子邮件向您发送登录链接。如果您还没有账户，我们会为您创建一个。",
+    "LABEL_CAPTCHA": "<%= captchaA %> + <%= captchaB %> 等于多少？",
+    "CAPTCHA_HELP": "有助于判断您不是机器人。",
+    "BUTTON_LOGIN": "登录"
+}

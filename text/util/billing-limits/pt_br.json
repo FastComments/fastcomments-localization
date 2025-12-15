@@ -1,0 +1,20 @@
+{
+  "LIMIT_MONTHLY_PAGE_LOADS": "Carregamentos de página mensais",
+  "LIMIT_MONTHLY_PAGE_LOADS_HELP": "Quantas vezes os comentários são carregados.",
+  "LIMIT_MONTHLY_API_CREDITS": "Créditos de API mensais",
+  "LIMIT_MONTHLY_API_CREDITS_HELP": "Quanto da nossa API você usou para integrações personalizadas.",
+  "LIMIT_MONTHLY_SMALL_WIDGETS_CREDITS": "Créditos mensais de widgets pequenos",
+  "LIMIT_MONTHLY_SMALL_WIDGETS_CREDITS_HELP": "Quantas requisições você faz para widgets pequenos (contagem de comentários, comentários recentes, etc).",
+  "LIMIT_MONTHLY_COMMENTS_STORED": "Comentários armazenados mensalmente",
+  "LIMIT_MONTHLY_COMMENTS_STORED_HELP": "Quantos comentários foram deixados este mês.",
+  "LIMIT_TENANT_USERS": "Usuários do tenant",
+  "LIMIT_TENANT_USERS_HELP": "Quantos administradores você tem.",
+  "LIMIT_SSO_USERS": "Usuários SSO",
+  "LIMIT_SSO_USERS_HELP": "Quantos usuários SSO você tem.",
+  "LIMIT_MODERATORS": "Moderadores",
+  "LIMIT_MODERATORS_HELP": "Quantos moderadores você tem.",
+  "LIMIT_DOMAINS": "Domínios",
+  "LIMIT_DOMAINS_HELP": "Quantos sites ou domínios você tem na sua conta.",
+  "LIMIT_MANAGED_TENANTS": "Tenants gerenciados",
+  "LIMIT_MANAGED_TENANTS_HELP": "Quantos sub-tenants seu tenant gerencia."
+}

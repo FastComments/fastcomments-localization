@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "Moderator verwijderen - FastComments",
+    "HEADING": "Een moderator verwijderen",
+    "SUB_HEADING": "Je verwijdert <%= moderator.name %>",
+    "CANNOT_UNDO": "Dit kan niet ongedaan gemaakt worden. <%= moderator.name %> kan je reacties niet meer zien of modereren.",
+    "NOTIFICATION_INFO": "Zij zullen via een geautomatiseerde e-mail op de hoogte worden gesteld van hun verwijdering als moderator.",
+    "METRICS_WARNING": "Al hun statistieken worden verwijderd <b>(als je hun e-mailadres wilt wijzigen, kun je dat doen op de vorige pagina)</b> .",
+    "CANCEL_LINK": "Annuleren",
+    "DELETE_BUTTON": "Verwijder deze moderator"
+}

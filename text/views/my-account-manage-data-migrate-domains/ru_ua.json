@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Перенести комментарии - FastComments",
+    "HEADING": "Переместить комментарии",
+    "INTRO_DESCRIPTION": "Этот инструмент позволяет пакетно переносить комментарии между различными URL-адресами или сайтами.",
+    "URL_INFO": "Вы можете ввести часть URL-адреса, например, домен, полный URL-адрес или <a href=\"https://docs.fastcomments.com/guide-customizations-and-configuration.html#url-id\" target=\"_blank\">идентификатор URL-адреса</a> .",
+    "DOMAIN_FROM_LABEL": "С какого URL-адреса или домена вы осуществляете миграцию?",
+    "DOMAIN_FROM_PLACEHOLDER": "example.com",
+    "DOMAIN_TO_LABEL": "На какой URL или домен вы переносите данные?",
+    "DOMAIN_TO_PLACEHOLDER": "some-other-example.com",
+    "START_MIGRATION_BUTTON": "Начать миграцию",
+    "EMAIL_NOTIFICATION_INFO": "Вы получите электронное письмо с уведомлением о завершении процесса.",
+    "MIGRATIONS_HEADING": "Миграции",
+    "NOSCRIPT_REFRESH_MESSAGE": "Обновите страницу, чтобы получить актуальную информацию.",
+    "TABLE_HEADER_START_DATE": "Дата начала",
+    "TABLE_HEADER_FROM": "От",
+    "TABLE_HEADER_TO": "К",
+    "TABLE_HEADER_STATUS": "Статус",
+    "TABLE_HEADER_COMMENTS_FOUND": "Найдены комментарии для миграции.",
+    "TABLE_HEADER_COMMENTS_MIGRATED": "Комментарии перенесены",
+    "NO_MIGRATIONS_MESSAGE": "У вас нет незавершенных или завершенных миграций доменов."
+}

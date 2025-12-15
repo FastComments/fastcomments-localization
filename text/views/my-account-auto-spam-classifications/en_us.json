@@ -1,0 +1,8 @@
+{
+  "PAGE_TITLE": "Comments Spam Training Set - FastComments",
+  "HEADING_COMMENTS_SPAM_TRAINING_SET": "Comments Spam Training Set",
+  "TEXT_CURRENT_CLASSIFICATION": "Current classification: <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
+  "BUTTON_UNCLASSIFY": "Un-Classify",
+  "BUTTON_SPAM": "Spam",
+  "BUTTON_NOT_SPAM": "Not Spam"
+}

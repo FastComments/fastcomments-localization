@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "ユーザーを禁止する - FastComments",
+    "HEADING": "ユーザーを禁止する",
+    "SUB_HEADING": "メールでユーザーを禁止する",
+    "INTRO_DESCRIPTION": "ここで、ユーザーを禁止するためのメールアドレスを入力できます。ユーザーを禁止する方法はいくつかあります。永久禁止にすると、ユーザーは投票やコメントが一切できなくなります。コメントしようとした際には、通知が表示されるため、すぐに分かります。シャドウ禁止にすると、投票やコメントが成功したように見せかけますが、実際には継続されません。",
+    "ENTER_EMAIL_HEADING": "メールアドレスを入力してください",
+    "EMAIL_LABEL": "メール",
+    "TYPE_LABEL": "タイプ",
+    "TYPE_BAN": "禁止",
+    "TYPE_SHADOW_BAN": "シャドウバン",
+    "DURATION_LABEL": "間隔",
+    "DURATION_FOREVER": "永遠に",
+    "DURATION_ONE_HOUR": "1時間",
+    "DURATION_ONE_DAY": "ある日",
+    "DURATION_ONE_WEEK": "1週間",
+    "DURATION_ONE_MONTH": "1ヶ月",
+    "DURATION_SIX_MONTHS": "6ヶ月",
+    "DURATION_ONE_YEAR": "1年",
+    "BAN_USER_BUTTON": "ユーザーを禁止"
+}

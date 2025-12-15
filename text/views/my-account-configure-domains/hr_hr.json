@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Moj račun",
+    "HEADING_MY_DOMAINS": "Moje domene",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "Domene su uspješno dodane!",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "Domena je uspješno uklonjena!",
+    "TEXT_SETTING_UPDATED_SUCCESS": "Postavka je uspješno ažurirana!",
+    "TEXT_IMAGE_UPLOAD_ERROR": "Pogreška pri prijenosu slike: <%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "Slijedeća je konfiguracija za izgled e-pošte kada FastComments šalje e-poštu vašim komentatorima. Ne morate ništa unositi ako ne želite prilagoditi ovo.",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Napomena: Postavke za ime pošiljatelja i e-poštu ne utječu na e-poruke poslane administratorima.</b>",
+    "LINK_REMOVE": "Ukloniti",
+    "TEXT_AUTO_ADDED_NOTICE": "Automatski dodano tijekom probnog razdoblja.",
+    "TITLE_AUTO_ADDED": "Automatski se dodaje tijekom probnog razdoblja na temelju prometa na vašem računu. To se radi radi lakšeg postavljanja i događa se samo tijekom probnog razdoblja.",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Ime pošiljatelja prilikom slanja e-pošte korisniku",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "E-pošta pošiljatelja prilikom slanja e-pošte korisniku",
+    "TEXT_EMAIL_ERROR": "Nešto nije u redu s ovom e-poštom. Spremili smo sve ostale promjene.",
+    "TEXT_LOGO_MAX_SIZE": "Maksimalna veličina: 1 MB. Veličina se ne mijenja.",
+    "BUTTON_SAVE": "Uštedjeti",
+    "TEXT_NO_DOMAINS_WARNING": "Vau! Nemate domene. Vaši se widgeti neće moći učitati dok ne povežete jednu ili više domena sa svojim računom.",
+    "TITLE_ADD_DOMAIN": "Dodaj domenu",
+    "TEXT_ADD_A_DOMAIN": "Dodaj domenu"
+}

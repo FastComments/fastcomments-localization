@@ -1,0 +1,23 @@
+{
+    "PAGE_TITLE": "Email inviate - FastComments",
+    "HEADING": "Email inviate",
+    "INFO_NOTE": "<strong>Nota:</strong> conserviamo la cronologia delle email solo per due mesi. Le email più vecchie vengono eliminate automaticamente.",
+    "LABEL_FILTER_SUBJECT": "Filtra per argomento",
+    "PLACEHOLDER_SUBJECT": "Cerca argomento...",
+    "LABEL_FILTER_CONTENT": "Filtra per contenuto",
+    "PLACEHOLDER_CONTENT": "Cerca contenuto email...",
+    "BUTTON_SEARCH": "Ricerca",
+    "BUTTON_CLEAR": "Chiaro",
+    "TABLE_HEADER_DATE": "Data",
+    "TABLE_HEADER_FROM": "Da",
+    "TABLE_HEADER_SUBJECT": "Soggetto",
+    "MESSAGE_NO_EMAILS_FILTERS": "Nessuna email trovata per i filtri specificati.",
+    "BUTTON_VIEW": "Visualizzazione",
+    "BUTTON_PREV": "Precedente",
+    "BUTTON_NEXT": "Prossimo",
+    "LABEL_PAGE": "Pagina <%= page %>",
+    "MESSAGE_NO_EMAILS": "Non hai inviato alcuna email.",
+    "VALUE_UNKNOWN": "Sconosciuto",
+    "VALUE_NO_SUBJECT": "(Nessun soggetto)",
+    "VALUE_NA": "N / A"
+}

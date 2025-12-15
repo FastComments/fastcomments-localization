@@ -1,0 +1,8 @@
+{
+    "TITLE": "Kommentar godkendt - FastComments",
+    "HEADING": "Succes!",
+    "COMMENT_APPROVED": "Den kommentar er blevet markeret som gennemgået og godkendt.",
+    "ALSO_LOGGED_IN": "Du er også blevet logget ind.",
+    "VIEW_COMMENT_ON_SITE": "Du kan se den godkendte kommentar på dit websted <a href=\"<%= comment.url %>\" target=\"_blank\">her</a> eller ved at bruge kommentartrådsvisningen <a href=\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">her</a> .",
+    "CLOSE_PAGE": "Du kan nu lukke denne side."
+}

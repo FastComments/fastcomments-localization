@@ -1,0 +1,23 @@
+{
+    "PAGE_TITLE": "送信済みメール - FastComments",
+    "HEADING": "送信済みメール",
+    "INFO_NOTE": "<strong>注:</strong>メール履歴は2か月間のみ保存されます。古いメールは自動的に削除されます。",
+    "LABEL_FILTER_SUBJECT": "テーマで絞り込む",
+    "PLACEHOLDER_SUBJECT": "検索対象...",
+    "LABEL_FILTER_CONTENT": "コンテンツでフィルタリング",
+    "PLACEHOLDER_CONTENT": "メールの内容を検索...",
+    "BUTTON_SEARCH": "検索",
+    "BUTTON_CLEAR": "クリア",
+    "TABLE_HEADER_DATE": "日付",
+    "TABLE_HEADER_FROM": "から",
+    "TABLE_HEADER_SUBJECT": "主題",
+    "MESSAGE_NO_EMAILS_FILTERS": "指定されたフィルターに該当するメールが見つかりません。",
+    "BUTTON_VIEW": "ビュー",
+    "BUTTON_PREV": "前へ",
+    "BUTTON_NEXT": "次",
+    "LABEL_PAGE": "ページ <%= page %>",
+    "MESSAGE_NO_EMAILS": "送信済みのメールはありません。",
+    "VALUE_UNKNOWN": "未知",
+    "VALUE_NO_SUBJECT": "（件名なし）",
+    "VALUE_NA": "該当なし"
+}

@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Pozovite korisnika - FastComments",
+    "HEADING": "Pozovite administratora",
+    "MESSAGE_INVITE_DESCRIPTION": "Pozivanje korisnika, koji je trenutno komentator, da bude administrator, podići će njihov nalog na status administratora i dodati ih u vaš stanar.",
+    "MESSAGE_CONFIRM_USERNAME": "<b>Dodaćete korisnika sa korisničkim imenom \"<%= invitingUserName %>\". Molimo vas da budete sigurni da je ovo tačno.</b>",
+    "HEADING_PERMISSIONS": "Dozvole",
+    "MESSAGE_PERMISSIONS": "Koje dozvole želite da imaju nakon prihvatanja poziva?",
+    "BUTTON_SEND_INVITE": "Pošalji poziv"
+}

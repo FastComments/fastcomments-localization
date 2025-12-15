@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "計費分析 - FastComments",
+    "HEADING_BILLING_ANALYTICS": "計費分析",
+    "HEADING_USAGE_THIS_PERIOD": "本期間使用情況",
+    "TABLE_HEADER_DESCRIPTION": "描述",
+    "TABLE_HEADER_COST_USD": "成本（美元）",
+    "TEXT_TOTAL": "全部的",
+    "TEXT_TRIAL_PERIOD_NOTE": "您目前處於試用期。<b>上述金額在本帳單週期內無須支付。</b>",
+    "TEXT_INVOICE_SEND_DATE": "發票將於<%= invoiceSendDate %>日寄出。",
+    "HEADING_SERVICE_LIMITS": "服務限制",
+    "TEXT_TRIAL_LIMITS_NOTE": "<b>注意！</b>由於您目前處於試用期，您的帳戶限額較低。<a href=\"/auth/my-account/billing-info\">您可以升級到付費帳戶</a>或<a href=\"/auth/my-account/help\">聯絡客服以提高限額</a>。",
+    "LABEL_CURRENT": "目前的：",
+    "LABEL_MAX": "最大限度：",
+    "TEXT_MAX_NONE": "沒有任何"
+}

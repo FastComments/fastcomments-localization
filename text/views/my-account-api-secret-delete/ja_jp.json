@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "APIシークレットの削除 - FastComments",
+    "HEADING_DELETE_API_SECRET": "APIシークレットの削除",
+    "QUESTION_CONFIRM_DELETE": "本当に<%= apiSecret.name ? 'the api key \"' + apiSecret.name + '\"' : 'this api key' %>を削除してもよろしいですか?",
+    "WARNING_USED_BY_WEBHOOKS": "このAPIキーは現在Webhookで使用されています。Webhookを更新する前にAPIキーを削除すると、連携が解除されます。",
+    "BUTTON_DELETE_API_SECRET": "APIシークレットの削除",
+    "BUTTON_CANCEL": "キャンセル"
+}

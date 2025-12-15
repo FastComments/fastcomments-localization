@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Slet min konto",
+    "HEADING_DELETE_ACCOUNT": "Slet <%= user.username %>'s konto",
+    "TEXT_PRIVACY_POLICY_NOTE": "Hvis du sletter din konto på grund af bekymringer om privatlivets fred, bør du overveje at tjekke vores <a href=\"/privacy-policy\">privatlivspolitik</a> . Vi hverken sælger eller deler dine data med tredjeparter.",
+    "TEXT_ALSO_DELETING_TENANT": "Sletter også lejer \"<%= tenant ? tenant.name : '' %>\".",
+    "TEXT_ACCOUNT_OWNER_WARNING": "Du er kontoejer. Hvis du sletter din konto, slettes denne lejer.",
+    "TEXT_SUBSCRIPTION_CANCELLED": "Dit abonnement vil også blive opsagt.",
+    "TEXT_NO_SELL_DATA": "Bemærk at FastComments <b>ikke sælger eller deler</b> dine personlige oplysninger med tredjeparter. Vi tilbyder gratis oprettelse af en konto udelukkende som en bekvemmelighed.",
+    "HEADING_CONFIRMATION": "Bekræftelse",
+    "LABEL_REMOVE_COMMENTS": "Fjern alle <%= commentCount %> kommentarer?",
+    "LABEL_CONFIRM_REMOVAL": "Markér dette felt for at bekræfte fjernelsen af din konto. Sletning af din konto eller tilhørende kommentarer kan ikke fortrydes.",
+    "LABEL_FEEDBACK": "Hjælp os med at forstå, hvorfor vi ser dig gå.",
+    "BUTTON_NO_DONT_DELETE": "Nej, slet ikke min konto",
+    "BUTTON_YES_DELETE": "Ja, slet min konto"
+}

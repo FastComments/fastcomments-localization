@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Tweefactorauthenticatie - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Tweefactorauthenticatie",
+    "HERO_DESCRIPTION": "Voer uw verificatiecode in om het inlogproces te voltooien.",
+    "ATTEMPTS_REMAINING": "<%= 5 - session.attempts %> pogingen resterend",
+    "LABEL_METHOD_SELECT": "Kies een verificatiemethode:",
+    "METHOD_AUTHENTICATOR": "Authenticator-app",
+    "METHOD_SMS": "SMS",
+    "AUTHENTICATOR_INSTRUCTION": "Voer de 6-cijferige code uit uw authenticatie-app in.",
+    "SMS_INSTRUCTION": "We hebben een code naar <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %> gestuurd.",
+    "LABEL_VERIFICATION_CODE": "Verificatiecode",
+    "BUTTON_VERIFY": "Verifiëren",
+    "LABEL_BACKUP_CODE": "Voer de back-upcode in:",
+    "BUTTON_USE_BACKUP_CODE": "Gebruik de back-upcode",
+    "BUTTON_BACK": "Rug",
+    "BUTTON_RESEND_SMS": "SMS-code opnieuw verzenden",
+    "LINK_USE_BACKUP_CODE": "Gebruik in plaats daarvan een back-upcode.",
+    "LINK_BACK_TO_LOGIN": "← Terug naar inloggen"
+}

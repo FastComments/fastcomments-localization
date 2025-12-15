@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Skift til <%= otherRegionName %>? - FastComments",
+    "HERO_TITLE_LIGHT": "Skift til ",
+    "HERO_TITLE_BOLD": "<%= otherRegionName %>",
+    "HERO_DESCRIPTION": "Du har en konto på <a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a> - vil du logge ind der i stedet?",
+    "INFO_MESSAGE_BOLD": "Du har en konto i vores andet datacenter.",
+    "INFO_MESSAGE_QUESTION": "Omdirigere dertil?",
+    "INFO_MESSAGE_WARNING": "Hvis du ikke omdirigerer, opretter vi en konto her til dig, hvis den ikke findes, og <b>så vil du have to konti.</b>",
+    "BUTTON_REDIRECT": "Omdiriger til <%= otherRegionName %>",
+    "BUTTON_CONTINUE_HERE": "Fortsæt her"
+}

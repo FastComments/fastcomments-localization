@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Άρση αποκλεισμού χρήστη - FastComments",
+    "HEADING": "Άρση αποκλεισμού χρήστη",
+    "SUB_HEADING": "Άρση απαγόρευσης <%= bannedUser.username %>;",
+    "CONFIRM_MESSAGE": "Είστε βέβαιοι ότι θέλετε να καταργήσετε τον αποκλεισμό αυτού του χρήστη;",
+    "BANNED_FOR_SAYING_TEXT": "Τους απαγορεύτηκε επειδή είπαν « <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> »",
+    "UN_BAN_BUTTON": "Άρση αποκλεισμού χρήστη"
+}

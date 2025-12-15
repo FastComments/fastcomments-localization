@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "הגדרת דייר חדש",
+    "HERO_TITLE_LIGHT": "כמעט ",
+    "HERO_TITLE_BOLD": "שָׁם",
+    "HERO_DESCRIPTION": "FastComments מספקת את מערכת התגובות המהירה ביותר להתקנה ולשימוש הן לעסקים והן למשתמשים, ואתם בדרך <u>לתקופת ניסיון בחינם למשך 30 יום</u> .",
+    "NOT_WEBSITE_LINK_TEXT": "אם אינך מעוניין להוסיף FastComments לאתר אינטרנט, עליך להירשם <a href=\"/auth/commenter-signup?email=<%= email %>\">כאן.</a>",
+    "FORM_DESCRIPTION": "עכשיו אנחנו רק צריכים קצת מידע בסיסי, ואז תוכלו להתחיל להתקין את FastComments.",
+    "LABEL_USERNAME": "*שם משתמש המוצג בפומבי:",
+    "USERNAME_PATTERN_TITLE": "נא לא להוסיף תווים מיוחדים - רק מספרים ואותיות.",
+    "LABEL_EMAIL": "*אֶלֶקטרוֹנִי:",
+    "EMAIL_DESCRIPTION_LOGGED_IN": "נשתמש בכתובת האימייל הקיימת שלך. תוכל לשנות אותה מאוחר יותר מדף החשבון במידת הצורך.",
+    "EMAIL_DESCRIPTION": "נשלח לך אימייל בו נבקש ממך לאמת את חשבונך.",
+    "LABEL_COMPANY_NAME": "*שם החברה:",
+    "DOMAINS_HEADING": "מהי כתובת האתר שלך שבו יוצג FastComments?",
+    "LABEL_WEBSITES": "*אתר/י אינטרנט:",
+    "DOMAINS_DESCRIPTION": "אין צורך להזין תת-דומיינים או שרת מקומי. עבור אתרים מרובים, יש להפריד ביניהם באמצעות פסיקים.",
+    "TOS_TEXT": "על ידי לחיצה על צור חשבון, הנך מסכים <a href=\"/terms-of-service\" target=\"_blank\">לתנאי השירות</a> .",
+    "BUTTON_CREATE_ACCOUNT": "צור חשבון",
+    "ERROR_SIGNUP_ALREADY_STARTED": "תהליך ההרשמה כבר החל ולא ניתן להגישו שוב. אולי רעננת את הדף?"
+}

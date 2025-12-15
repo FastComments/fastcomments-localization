@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Nastavitve integracijskega žetona - FastComments",
+    "HEADING": "Nastavitve integracijskega žetona",
+    "SUB_HEADING_NO_DOMAIN": "Urejanje <%= integration.readableType %> integracijskega žetona.",
+    "SUB_HEADING_DOMAIN": "Urejanje <%= integration.readableType %> integracijskega žetona for <%= integration.domain %>.",
+    "ENABLE_EVENT_FETCH_LABEL": "Odjemalci, ki uporabljajo to integracijo, bi morali imeti možnost občasnega pridobivanja novih komentarjev.",
+    "ENABLE_EVENT_FETCH_DESCRIPTION": "To bo odjemalcem, ki uporabljajo ta integracijski žeton, omogočilo pridobivanje dnevnika dogodkov, da bodo lahko ostali sinhronizirani. Uporabno, če imate vtičnike WordPress, ki zahtevajo podatke o komentarjih v vaši lastni bazi podatkov.",
+    "SAVE_BUTTON": "Shrani"
+}

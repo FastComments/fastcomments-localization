@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Usuń tajny klucz API - FastComments",
+    "HEADING_DELETE_API_SECRET": "Usuń tajny klucz API",
+    "QUESTION_CONFIRM_DELETE": "Czy na pewno chcesz usunąć <%= apiSecret.name ? 'the api key \"' + apiSecret.name + '\"' : 'this api key' %>?",
+    "WARNING_USED_BY_WEBHOOKS": "Ten klucz API jest obecnie używany przez webhook. Usunięcie klucza API przed aktualizacją webhooka spowoduje przerwanie integracji.",
+    "BUTTON_DELETE_API_SECRET": "Usuń tajny klucz API",
+    "BUTTON_CANCEL": "Anulować"
+}

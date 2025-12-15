@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "Confirmar integración - FastComments",
+    "PAGE_HEADING": "Conectando su integración.",
+    "PAGE_SUBHEADING": "Confirmación",
+    "NOSCRIPT_MESSAGE": "Habilite JavaScript para configurar la integración.",
+    "UPLOAD_DESCRIPTION": "Si lo desea, podemos cargar automáticamente sus comentarios desde su instalación de <%= integrationName %> durante la sincronización. De lo contrario, desmarque la casilla a continuación y podrá hacerlo usted mismo más tarde.",
+    "CHECKBOX_UPLOAD_COMMENTS": "Subir automáticamente mis comentarios.",
+    "CHECKBOX_UPLOAD_COMMENTS_HELP": "Puede cargar sus comentarios más tarde desde la página de administración del complemento.",
+    "CHECKBOX_SYNC_DATABASE": "Mantener automáticamente mi base de datos <%= integrationName %> sincronizada.",
+    "CHECKBOX_SYNC_DATABASE_HELP": "Esto mantiene su base de datos <%= integrationName %> actualizada. Resulta útil si algún plugin requiere los comentarios más recientes de su base de datos. Suele estar deshabilitado en sitios con un volumen muy alto, donde mantener <%= integrationName %> actualizado genera una carga indeseable.",
+    "BUTTON_START_SYNC": "Iniciar sincronización"
+}

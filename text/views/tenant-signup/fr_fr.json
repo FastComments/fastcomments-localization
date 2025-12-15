@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Configuration du nouveau locataire",
+    "HERO_TITLE_LIGHT": "Presque  ",
+    "HERO_TITLE_BOLD": "Là",
+    "HERO_DESCRIPTION": "FastComments offre le système de commentaires le plus rapide à configurer et à utiliser, aussi bien pour les entreprises que pour les utilisateurs, et vous êtes sur le point de bénéficier d&#39;un <u>essai gratuit de 30 jours</u> .",
+    "NOT_WEBSITE_LINK_TEXT": "Si vous ne souhaitez pas ajouter FastComments à un site web, vous devriez vous inscrire <a href=\"/auth/commenter-signup?email=<%= email %>\">ici.</a>",
+    "FORM_DESCRIPTION": "Il nous faut maintenant quelques informations de base, et vous pourrez ensuite commencer l'installation de FastComments.",
+    "LABEL_USERNAME": "*Nom d'utilisateur affiché publiquement :",
+    "USERNAME_PATTERN_TITLE": "Pas de caractères spéciaux s'il vous plaît - uniquement des chiffres et des lettres.",
+    "LABEL_EMAIL": "*E-mail:",
+    "EMAIL_DESCRIPTION_LOGGED_IN": "Nous utiliserons votre adresse e-mail actuelle. Vous pourrez la modifier ultérieurement depuis la page de votre compte si nécessaire.",
+    "EMAIL_DESCRIPTION": "Nous vous enverrons un courriel vous demandant de vérifier votre compte.",
+    "LABEL_COMPANY_NAME": "*Nom de l'entreprise:",
+    "DOMAINS_HEADING": "Quelle est l'adresse de votre site web où FastComments apparaîtra ?",
+    "LABEL_WEBSITES": "*Site(s) Web :",
+    "DOMAINS_DESCRIPTION": "Il n'est pas nécessaire de saisir les sous-domaines ni localhost. Pour plusieurs sites, séparez-les par des virgules.",
+    "TOS_TEXT": "En cliquant sur Créer un compte, vous acceptez les <a href=\"/terms-of-service\" target=\"_blank\">conditions d&#39;utilisation</a> .",
+    "BUTTON_CREATE_ACCOUNT": "Créer un compte",
+    "ERROR_SIGNUP_ALREADY_STARTED": "La procédure d'inscription a déjà commencé et ne peut pas être soumise à nouveau. Avez-vous actualisé la page ?"
+}

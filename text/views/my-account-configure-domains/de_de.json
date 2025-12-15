@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Mein Konto",
+    "HEADING_MY_DOMAINS": "Meine Domains",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "Domains erfolgreich hinzugefügt!",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "Domain erfolgreich entfernt!",
+    "TEXT_SETTING_UPDATED_SUCCESS": "Einstellungen erfolgreich aktualisiert!",
+    "TEXT_IMAGE_UPLOAD_ERROR": "Fehler beim Hochladen des Bildes: <%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "Im Folgenden finden Sie die Konfigurationseinstellungen für E-Mails, die FastComments an Ihre Kommentatoren versendet. Wenn Sie keine Anpassungen vornehmen möchten, müssen Sie nichts eingeben.",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Hinweis: Absendername und E-Mail-Einstellungen haben keinen Einfluss auf E-Mails, die an Administratoren gesendet werden.</b>",
+    "LINK_REMOVE": "Entfernen",
+    "TEXT_AUTO_ADDED_NOTICE": "Automatisch während der Testphase hinzugefügt.",
+    "TITLE_AUTO_ADDED": "Diese Funktion wird während der Testphase automatisch basierend auf dem Traffic Ihres Kontos hinzugefügt. Dies dient der einfacheren Einrichtung und erfolgt nur während der Testphase.",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Absendername beim Senden einer E-Mail an den Benutzer",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "Absender-E-Mail beim Senden einer E-Mail an den Benutzer",
+    "TEXT_EMAIL_ERROR": "Mit dieser E-Mail stimmt etwas nicht. Alle anderen Änderungen wurden gespeichert.",
+    "TEXT_LOGO_MAX_SIZE": "Maximale Größe: 1 MB. Nicht skaliert.",
+    "BUTTON_SAVE": "Speichern",
+    "TEXT_NO_DOMAINS_WARNING": "Moment mal! Sie haben keine Domains. Ihre Widgets können erst geladen werden, wenn Sie Ihrem Konto eine oder mehrere Domains zuordnen.",
+    "TITLE_ADD_DOMAIN": "Domäne hinzufügen",
+    "TEXT_ADD_A_DOMAIN": "Domäne hinzufügen"
+}

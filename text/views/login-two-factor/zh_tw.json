@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "雙重認證 - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "雙重身份驗證",
+    "HERO_DESCRIPTION": "請輸入驗證碼以完成登入。",
+    "ATTEMPTS_REMAINING": "剩餘嘗試次數<%= 5 - session.attempts %>",
+    "LABEL_METHOD_SELECT": "選擇驗證方式：",
+    "METHOD_AUTHENTICATOR": "身份驗證器應用程式",
+    "METHOD_SMS": "簡訊",
+    "AUTHENTICATOR_INSTRUCTION": "輸入身份驗證器應用程式中顯示的 6 位元代碼",
+    "SMS_INSTRUCTION": "我們已向<%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>發送了驗證碼。",
+    "LABEL_VERIFICATION_CODE": "驗證碼",
+    "BUTTON_VERIFY": "核實",
+    "LABEL_BACKUP_CODE": "請輸入備用密碼：",
+    "BUTTON_USE_BACKUP_CODE": "使用備用代碼",
+    "BUTTON_BACK": "後退",
+    "BUTTON_RESEND_SMS": "重發簡訊驗證碼",
+    "LINK_USE_BACKUP_CODE": "改用備用代碼",
+    "LINK_BACK_TO_LOGIN": "← 回登入"
+}

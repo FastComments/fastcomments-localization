@@ -1,0 +1,4 @@
+{
+    "IMAGE_SELECT_FILE_TOO_BIG": "Bu dosya (<%= (fileSize / 1000000).toFixed(1) %>mb) çok büyük! Limit <%= (limitSize / 1e+6).toFixed(1) %>mb.",
+    "IMAGE_SELECT_UNKNOWN_PERSON_ALT": "Kimliği Bilinmeyen Kişi"
+}

@@ -1,0 +1,9 @@
+{
+  "PAGE_TITLE": "Delete Question - FastComments",
+  "HEADING": "Delete \"<%= question.name %>\"?",
+  "CONFIRM_MESSAGE": "Are you sure you want to delete the question \"<%= question.question %>\", created on <%= question.createdAt.toLocaleString() %>?",
+  "REPLY_COUNT_MESSAGE": "This question has <%= Number(question.usedCount).toLocaleString() %> replies.",
+  "DATA_LOSS_WARNING": "The data from these replies will no longer be available in reporting.",
+  "DELETE_BUTTON": "Delete",
+  "CANCEL_LINK": "Cancel"
+}

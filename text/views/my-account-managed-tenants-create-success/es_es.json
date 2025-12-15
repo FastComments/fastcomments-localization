@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Crear un inquilino administrado - FastComments",
+    "HEADING": "Inquilino creado",
+    "SUCCESS_MESSAGE": "¡Su inquilino ha sido creado exitosamente!",
+    "NEXT_STEPS_INTRO": "Es posible que desees seguir algunos pasos comunes para continuar con la configuración:",
+    "NEXT_STEP_1": "Añadir más usuarios.",
+    "NEXT_STEP_2": "Enviar a los usuarios enlaces de bienvenida/inicio de sesión.",
+    "NEXT_STEP_3": "Obtenga el ID del inquilino (disponible en la página de información API/SSO) para las integraciones.",
+    "TENANTS_VIEW_LINK_TEXT": "Esto se puede hacer volviendo a <a href=\"/auth/my-account/tenants\">la vista de inquilinos</a> y cambiando al inquilino.",
+    "TENANT_SWITCHING_INFO": "Todas las acciones para los inquilinos administrados se realizan a través del cambio de inquilino, incluida la eliminación del inquilino si es necesario."
+}

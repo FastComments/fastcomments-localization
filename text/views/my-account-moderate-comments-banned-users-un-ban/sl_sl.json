@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Odstranitev prepovedi uporabniku - FastComments",
+    "HEADING": "Odstrani izključitev uporabnika",
+    "SUB_HEADING": "Odstrani prepoved <%= bannedUser.username %>?",
+    "CONFIRM_MESSAGE": "Ali ste prepričani, da želite odkleniti tega uporabnika?",
+    "BANNED_FOR_SAYING_TEXT": "Prepovedani so bili, ker so rekli &quot; <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> &quot;.",
+    "UN_BAN_BUTTON": "Odstrani izključitev uporabnika"
+}

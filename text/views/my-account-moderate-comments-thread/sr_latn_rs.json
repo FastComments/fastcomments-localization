@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "Komentar Tema Viever",
+    "HEADING": "Komentar Tema Viever",
+    "THREAD_DETAILS": "Gledate komentar nit na <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a>",
+    "PAGE_ID_INFO": "Pregled komentara za Page ID: <%- thread.urlIdDecoded %>"
+}

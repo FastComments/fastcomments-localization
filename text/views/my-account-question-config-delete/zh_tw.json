@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "刪除問題 - 快速評論",
+    "HEADING": "刪除 ”<%= question.name %>”？",
+    "CONFIRM_MESSAGE": "您確定要刪除於<%= question.question %>所建立的問題「<%= question.createdAt.toLocaleString() %>」嗎？",
+    "REPLY_COUNT_MESSAGE": "這個問題有<%= Number(question.usedCount).toLocaleString() %>個回覆。",
+    "DATA_LOSS_WARNING": "這些回復中的數據將不再用於報告。",
+    "DELETE_BUTTON": "刪除",
+    "CANCEL_LINK": "取消"
+}

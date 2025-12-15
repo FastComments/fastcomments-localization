@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Set za obuku o neželjenim komentarima - FastComments",
+    "HEADING_COMMENTS_SPAM_TRAINING_SET": "Set za obuku o neželjenim komentarima",
+    "TEXT_CURRENT_CLASSIFICATION": "Trenutna klasifikacija: <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
+    "BUTTON_UNCLASSIFY": "Poništi klasificiranje",
+    "BUTTON_SPAM": "Neželjena pošta",
+    "BUTTON_NOT_SPAM": "Nije neželjena pošta"
+}

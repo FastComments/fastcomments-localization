@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "Potrdi integracijo - FastComments",
+    "PAGE_HEADING": "Povezovanje vaše integracije.",
+    "PAGE_SUBHEADING": "Potrditev",
+    "NOSCRIPT_MESSAGE": "Za nastavitev integracije omogočite JavaScript.",
+    "UPLOAD_DESCRIPTION": "Če želite, lahko med sinhronizacijo samodejno naložimo vaše komentarje iz vaše <%= integrationName %> namestitve. V nasprotnem primeru počistite spodnje polje in to lahko storite sami pozneje.",
+    "CHECKBOX_UPLOAD_COMMENTS": "Samodejno naloži moje komentarje.",
+    "CHECKBOX_UPLOAD_COMMENTS_HELP": "Svoje komentarje lahko naložite pozneje na skrbniški strani vtičnika.",
+    "CHECKBOX_SYNC_DATABASE": "Samodejno sinhroniziraj mojo <%= integrationName %> bazo podatkov.",
+    "CHECKBOX_SYNC_DATABASE_HELP": "To ohranja vašo <%= integrationName %> bazo podatkov posodobljeno. Uporabno, če kateri koli vtičniki zahtevajo najnovejše komentarje v vaši bazi podatkov. Pogosto onemogočeno na spletnih mestih z zelo velikim prometom, kjer posodabljanje <%= integrationName %> ustvarja neželeno obremenitev.",
+    "BUTTON_START_SYNC": "Začni sinhronizacijo"
+}

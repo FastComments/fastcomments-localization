@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Liste noire de mots - FastComments",
+    "HEADING": "Liste noire des mots de commentaires",
+    "SUB_HEADING": "Personnaliser la liste noire",
+    "SUCCESS_MESSAGE": "Liste noire enregistrée avec succès.",
+    "INTRO_PARAGRAPH_1": "Vous trouverez ci-dessous des listes de mots et d'expressions, séparés par des virgules, qui seront masqués dans les commentaires et les noms d'utilisateur. Choisissez vos mots avec soin : interdire des mots trop courants risque de décourager votre communauté.",
+    "INTRO_PARAGRAPH_2": "Ces définitions sont propres <b>à chaque région</b> . Une région est une combinaison d&#39;une langue et d&#39;une zone géographique.",
+    "INTRO_PARAGRAPH_3": "Vous constaterez que nous faisons la distinction entre <b>les mots</b> et <b>les expressions</b> . <b>Les mots</b> ne doivent contenir ni espaces ni caractères spéciaux. Si vous avez une expression contenant des espaces, des points, etc., ajoutez-la plutôt à la liste <b>des expressions</b> .",
+    "NOSCRIPT_MESSAGE": "JavaScript est nécessaire au bon fonctionnement de cette interface de configuration.",
+    "EDIT_LOCALE_LABEL": "Modifier pour les paramètres régionaux",
+    "MASKED_WORDS_LABEL": "Mots masqués pour [localeName].",
+    "MASKED_WORDS_DESCRIPTION": "Les mots de cette liste (séparés par des virgules) seront masqués comme ***.",
+    "MASKED_WORDS_PLACEHOLDER": "Saisissez une liste de gros mots séparés par des virgules, comme « quelques, gros, mots ».",
+    "WORDS_LENGTH_ERROR": "Vous pouvez saisir jusqu&#39;à 5 000 mots par langue. Vous avez saisi<span id=\"length-error-count-words-[locale]\"></span> .",
+    "MASKED_PHRASES_LABEL": "Phrases masquées pour [localeName].",
+    "MASKED_PHRASES_DESCRIPTION": "Les expressions de cette liste (séparées par des virgules) seront masquées comme ********.",
+    "MASKED_PHRASES_PLACEHOLDER": "Saisissez une liste de mauvaises expressions séparées par des virgules, comme « une mauvaise expression, une autre mauvaise expression ».",
+    "PHRASES_LENGTH_ERROR": "Vous pouvez saisir jusqu&#39;à 5 000 expressions par langue. Vous avez saisi<span id=\"length-error-count-phrases-[locale]\"></span> .",
+    "SAVE_BUTTON": "Enregistrer les modifications dans [localeName]"
+}

@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Entsperren eines Nutzers – FastComments",
+    "HEADING": "Entsperren eines Benutzers",
+    "SUB_HEADING": "<%= bannedUser.username %> Sperre aufheben?",
+    "CONFIRM_MESSAGE": "Möchten Sie diesen Benutzer wirklich entsperren?",
+    "BANNED_FOR_SAYING_TEXT": "Sie wurden wegen der Aussage &quot; <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> &quot; gesperrt.",
+    "UN_BAN_BUTTON": "Benutzer entsperren"
+}

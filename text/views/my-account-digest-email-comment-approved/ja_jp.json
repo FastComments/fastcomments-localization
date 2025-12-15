@@ -1,0 +1,8 @@
+{
+    "TITLE": "コメント承認 - FastComments",
+    "HEADING": "成功！",
+    "COMMENT_APPROVED": "そのコメントは確認済みおよび承認済みとしてマークされています。",
+    "ALSO_LOGGED_IN": "あなたもログインしました。",
+    "VIEW_COMMENT_ON_SITE": "承認されたコメントは、<a href=\"<%= comment.url %>\" target=\"_blank\">こちら で</a>サイト上で表示できます。または、 <a href=\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">こちら で</a>コメント スレッド ビューアーを使用して表示できます。",
+    "CLOSE_PAGE": "このページを閉じることができます。"
+}

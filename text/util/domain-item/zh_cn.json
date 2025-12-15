@@ -1,0 +1,6 @@
+{
+    "BUTTON_CLICK_TO_UPDATE_LOGO": "点击更新<%= domain.domain %>的Logo",
+    "BUTTON_CLICK_TO_SET_LOGO": "点击设置徽标<%= domain.domain %>",
+    "TEXT_DOMAIN_VALID": "✔️ <%= domain.domain %>",
+    "TEXT_DOMAIN_INVALID": "❌ \"<%= domain.input %>\": <%= domain.reason %>"
+}

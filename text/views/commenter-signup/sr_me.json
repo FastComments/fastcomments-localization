@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Региструј се",
+    "HERO_TITLE_LIGHT": "Придружите се ",
+    "HERO_TITLE_BOLD": "Дискусија",
+    "HERO_DESCRIPTION": "Желите да коментаришете на веб локацији која користи FastComments? Дошли сте на право место.",
+    "HERO_ADDITIONAL_TEXT": "Ако желите да додате FastComments на веб локацију, требало би да се региструјете <a href=\"/auth/tenant-signup?email=<%= email %>\">овде.</a>",
+    "FORM_DESCRIPTION": "Све што вам је потребно је корисничко име и имејл адреса за регистрацију.",
+    "LABEL_USERNAME": "*Корисничко име:",
+    "PLACEHOLDER_USERNAME": "Унесите корисничко име",
+    "USERNAME_PATTERN_TITLE": "Без посебних карактера, молим вас - само бројеви и слова.",
+    "USERNAME_DESCRIPTION": "Ово корисничко име ће бити јавно видљиво.",
+    "LABEL_EMAIL": "*Е-пошта:",
+    "PLACEHOLDER_EMAIL": "Унесите имејл адресу",
+    "EMAIL_DESCRIPTION": "Послаћемо вам линк путем е-поште да бисте завршили креирање налога и пријавили се.",
+    "SIGNUP_EMAIL_TEXT": "Пријављујете се користећи <b><%= email %></b> .",
+    "TERMS_AGREEMENT": "Кликом на дугме Региструј се, прихватате <a href=\"/terms-of-service\" target=\"_blank\">Услове коришћења услуге</a> .",
+    "BUTTON_SIGN_UP": "Региструј се",
+    "LABEL_CAPTCHA": "Колико је <%= captchaA %> + <%= captchaB %>?",
+    "CAPTCHA_HELP": "Помаже да се утврди да нисте бот."
+}

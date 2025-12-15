@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Configurazione nuovo inquilino",
+    "HERO_TITLE_LIGHT": "Quasi  ",
+    "HERO_TITLE_BOLD": "Là",
+    "HERO_DESCRIPTION": "FastComments fornisce il sistema di commenti più veloce da configurare e utilizzare sia per le aziende che per gli utenti, e sei sulla buona strada per una <u>prova gratuita di 30 giorni</u> .",
+    "NOT_WEBSITE_LINK_TEXT": "Se non vuoi aggiungere FastComments a un sito web, dovresti registrarti <a href=\"/auth/commenter-signup?email=<%= email %>\">qui.</a>",
+    "FORM_DESCRIPTION": "Ora abbiamo solo bisogno di alcune informazioni di base, dopodiché potrai iniziare a installare FastComments.",
+    "LABEL_USERNAME": "*Nome utente visualizzato pubblicamente:",
+    "USERNAME_PATTERN_TITLE": "Per favore, niente caratteri speciali: solo numeri e lettere.",
+    "LABEL_EMAIL": "*E-mail:",
+    "EMAIL_DESCRIPTION_LOGGED_IN": "Utilizzeremo il tuo indirizzo email attuale. Se necessario, potrai modificarlo in seguito dalla pagina dell'account.",
+    "EMAIL_DESCRIPTION": "Ti invieremo un'e-mail chiedendoti di verificare il tuo account.",
+    "LABEL_COMPANY_NAME": "*Nome dell'azienda:",
+    "DOMAINS_HEADING": "Qual è l'indirizzo del tuo sito web in cui verrà visualizzato FastComments?",
+    "LABEL_WEBSITES": "*Sito web:",
+    "DOMAINS_DESCRIPTION": "Non è necessario inserire sottodomini o localhost. Per più siti, separarli con virgole.",
+    "TOS_TEXT": "Facendo clic su Crea account, accetti i <a href=\"/terms-of-service\" target=\"_blank\">Termini di servizio</a> .",
+    "BUTTON_CREATE_ACCOUNT": "Creare un account",
+    "ERROR_SIGNUP_ALREADY_STARTED": "La procedura di registrazione è già stata avviata e non è possibile inviarla nuovamente. Forse hai aggiornato la pagina?"
+}

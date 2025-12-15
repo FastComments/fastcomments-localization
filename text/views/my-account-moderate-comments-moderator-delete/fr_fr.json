@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "Supprimer le modérateur - FastComments",
+    "HEADING": "Supprimer un modérateur",
+    "SUB_HEADING": "Vous supprimez <%= moderator.name %>",
+    "CANNOT_UNDO": "Cette action est irréversible. <%= moderator.name %> ne pourra plus voir ni modérer vos commentaires.",
+    "NOTIFICATION_INFO": "Ils seront informés de leur retrait de la fonction de modérateur par un courriel automatique.",
+    "METRICS_WARNING": "Toutes leurs données seront supprimées <b>(si vous souhaitez modifier leur adresse e-mail, vous pouvez le faire depuis la page précédente)</b> .",
+    "CANCEL_LINK": "Annuler",
+    "DELETE_BUTTON": "Supprimer ce modérateur"
+}

@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Desbanear a un usuario - FastComments",
+    "HEADING": "Desbanear a un usuario",
+    "SUB_HEADING": "¿Desbancar <%= bannedUser.username %>?",
+    "CONFIRM_MESSAGE": "¿Estás seguro que deseas desbanear a este usuario?",
+    "BANNED_FOR_SAYING_TEXT": "Se les prohibió decir &quot; <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> &quot;",
+    "UN_BAN_BUTTON": "Desbanear usuario"
+}

@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "댓글 스팸 방지 교육 세트 - FastComments",
+    "HEADING_COMMENTS_SPAM_TRAINING_SET": "댓글 스팸 방지 교육 세트",
+    "TEXT_CURRENT_CLASSIFICATION": "현재 분류: <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
+    "BUTTON_UNCLASSIFY": "분류 해제",
+    "BUTTON_SPAM": "스팸",
+    "BUTTON_NOT_SPAM": "스팸 아님"
+}

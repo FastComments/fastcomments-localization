@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Двухфакторная аутентификация - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Двухфакторная аутентификация",
+    "HERO_DESCRIPTION": "Пожалуйста, введите проверочный код для завершения входа в систему.",
+    "ATTEMPTS_REMAINING": "Осталось <%= 5 - session.attempts %> попыток",
+    "LABEL_METHOD_SELECT": "Выберите способ проверки:",
+    "METHOD_AUTHENTICATOR": "Приложение-аутентификатор",
+    "METHOD_SMS": "SMS",
+    "AUTHENTICATOR_INSTRUCTION": "Введите 6-значный код из вашего приложения-аутентификатора.",
+    "SMS_INSTRUCTION": "Мы отправили код на <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>",
+    "LABEL_VERIFICATION_CODE": "Проверочный код",
+    "BUTTON_VERIFY": "Проверять",
+    "LABEL_BACKUP_CODE": "Введите резервный код:",
+    "BUTTON_USE_BACKUP_CODE": "Используйте резервный код",
+    "BUTTON_BACK": "Назад",
+    "BUTTON_RESEND_SMS": "Повторная отправка SMS-кода",
+    "LINK_USE_BACKUP_CODE": "Вместо этого используйте резервный код.",
+    "LINK_BACK_TO_LOGIN": "← Назад к входу"
+}

@@ -1,0 +1,21 @@
+{
+    "BAN_SELECTION_TITLE": "选择“禁止”进行编辑",
+    "BAN_SELECTION_SUBTITLE_MULTIPLE": "影响[username]的禁令有很多。",
+    "BAN_SELECTION_SUBTITLE_SINGLE": "用户[username]因这条评论被禁言一次。",
+    "BAN_SELECTION_BTN_SELECT": "选择",
+    "BAN_SELECTION_BTN_CREATE_NEW": "创建新",
+    "BAN_SELECTION_BTN_CANCEL": "取消",
+    "BAN_SELECTION_LABEL": "选择禁令",
+    "BAN_SELECTION_RELATED_BANS": "相关禁令",
+    "BAN_SELECTION_REMINDER": "编辑前请务必检查封禁信息是否与用户匹配！",
+    "BAN_SELECTION_EXPIRES": "有效期至[date]",
+    "BAN_SELECTION_NEVER_EXPIRES": "永不过期",
+    "BAN_SELECTION_SHADOW": "阴影",
+    "BAN_SELECTION_ANON_USER_ID": "匿名用户ID",
+    "BAN_SELECTION_USER_ID": "用户身份",
+    "BAN_SELECTION_EMAIL": "电子邮件",
+    "BAN_SELECTION_EMAIL_PATTERN": "电子邮件模式",
+    "BAN_SELECTION_IP": "IP",
+    "BAN_SELECTION_MATCHED_ON": "匹配对象：[[matches]]",
+    "BAN_SELECTION_ID": "（ID： [id]）"
+}

@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "Просмотр ветки комментариев",
+    "HEADING": "Просмотр ветки комментариев",
+    "THREAD_DETAILS": "Вы просматриваете ветку комментариев по адресу <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a>",
+    "PAGE_ID_INFO": "Просмотр комментариев к странице с ID: <%- thread.urlIdDecoded %>"
+}

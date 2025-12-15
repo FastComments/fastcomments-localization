@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Mein Konto löschen",
+    "HEADING_DELETE_ACCOUNT": "Löschen Sie das Konto von <%= user.username %>",
+    "TEXT_PRIVACY_POLICY_NOTE": "Wenn Sie Ihr Konto aus Datenschutzgründen löschen, empfehlen wir Ihnen, unsere <a href=\"/privacy-policy\">Datenschutzrichtlinie</a> zu lesen. Wir verkaufen oder teilen Ihre Daten nicht mit Dritten.",
+    "TEXT_ALSO_DELETING_TENANT": "Auch der Mieter \"<%= tenant ? tenant.name : '' %>\" wird gelöscht.",
+    "TEXT_ACCOUNT_OWNER_WARNING": "Sie sind Kontoinhaber. Durch das Löschen Ihres Kontos wird dieser Mandant gelöscht.",
+    "TEXT_SUBSCRIPTION_CANCELLED": "Ihr Abonnement wird ebenfalls gekündigt.",
+    "TEXT_NO_SELL_DATA": "Bitte beachten Sie, dass FastComments Ihre persönlichen Daten <b>nicht an Dritte verkauft oder weitergibt</b> . Die kostenlose Kontoerstellung dient lediglich Ihrer Bequemlichkeit.",
+    "HEADING_CONFIRMATION": "Bestätigung",
+    "LABEL_REMOVE_COMMENTS": "Alle <%= commentCount %> Kommentare entfernen?",
+    "LABEL_CONFIRM_REMOVAL": "Setzen Sie ein Häkchen in dieses Kästchen, um die Löschung Ihres Kontos zu bestätigen. Die Löschung Ihres Kontos und der zugehörigen Kommentare kann nicht rückgängig gemacht werden.",
+    "LABEL_FEEDBACK": "Helfen Sie uns zu verstehen, warum wir Sie gehen sehen.",
+    "BUTTON_NO_DONT_DELETE": "Nein, löscht mein Konto nicht.",
+    "BUTTON_YES_DELETE": "Ja, mein Konto löschen"
+}

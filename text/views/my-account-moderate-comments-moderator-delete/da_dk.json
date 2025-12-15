@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "Slet moderator - FastComments",
+    "HEADING": "Fjernelse af en moderator",
+    "SUB_HEADING": "Du fjerner <%= moderator.name %>",
+    "CANNOT_UNDO": "Dette kan ikke fortrydes. <%= moderator.name %> vil ikke længere kunne se eller moderere dine kommentarer.",
+    "NOTIFICATION_INFO": "De vil blive underrettet om fjernelse som moderator via en automatisk e-mail.",
+    "METRICS_WARNING": "Alle deres metrikker vil blive fjernet <b>(hvis du vil ændre deres e-mail, kan du redigere den fra den forrige side)</b> .",
+    "CANCEL_LINK": "Ophæve",
+    "DELETE_BUTTON": "Slet denne moderator"
+}

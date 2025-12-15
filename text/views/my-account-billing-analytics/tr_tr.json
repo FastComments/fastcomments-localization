@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Fatura Analizi - FastComments",
+    "HEADING_BILLING_ANALYTICS": "Faturalama Analitiği",
+    "HEADING_USAGE_THIS_PERIOD": "Bu Dönemdeki Kullanım",
+    "TABLE_HEADER_DESCRIPTION": "Tanım",
+    "TABLE_HEADER_COST_USD": "Maliyet (USD)",
+    "TEXT_TOTAL": "Toplam",
+    "TEXT_TRIAL_PERIOD_NOTE": "Şu anda deneme dönemindesiniz. <b>Yukarıdaki tutar bu fatura döneminde ödenmeyecektir.</b>",
+    "TEXT_INVOICE_SEND_DATE": "Fatura <%= invoiceSendDate %> tarihinde gönderilecektir.",
+    "HEADING_SERVICE_LIMITS": "Hizmet Sınırları",
+    "TEXT_TRIAL_LIMITS_NOTE": "<b>Dikkat!</b> Deneme sürümünde olduğunuz için hesabınıza daha düşük limitler uygulanmıştır. Bu limitleri yükseltmek için <a href=\"/auth/my-account/billing-info\">ücretli hesaba geçin</a> veya <a href=\"/auth/my-account/help\">destek ekibiyle iletişime geçin</a> .",
+    "LABEL_CURRENT": "Akım:",
+    "LABEL_MAX": "Max:",
+    "TEXT_MAX_NONE": "Hiçbiri"
+}

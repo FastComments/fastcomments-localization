@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Brisanje integracijskog tokena - Brzi komentari",
+    "HEADING": "Izbriši integracijski token",
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "Jeste li sigurni da želite izbrisati ovaj <%= integration.readableType %> integracijski token?",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "Jeste li sigurni da želite izbrisati ovaj <%= integration.readableType %> integracijski token za <%= integration.domain %>?",
+    "DELETE_BUTTON": "Izbrisati",
+    "CANCEL_LINK": "Otkazati"
+}

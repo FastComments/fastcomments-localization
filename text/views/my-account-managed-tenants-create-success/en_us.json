@@ -1,0 +1,11 @@
+{
+  "PAGE_TITLE": "Create a Managed Tenant - FastComments",
+  "HEADING": "Tenant Created",
+  "SUCCESS_MESSAGE": "Your tenant has been created successfully!",
+  "NEXT_STEPS_INTRO": "You might want to take some common steps to continue setup:",
+  "NEXT_STEP_1": "Add more users.",
+  "NEXT_STEP_2": "Send users welcome/login links.",
+  "NEXT_STEP_3": "Grab the Tenant ID (available on the API/SSO info page) for integrations.",
+  "TENANTS_VIEW_LINK_TEXT": "This can be done by going back to <a href=\"/auth/my-account/tenants\">the tenants view</a> and switching to the tenant.",
+  "TENANT_SWITCHING_INFO": "All actions to managed tenants are done via tenant switching, including deleting the tenant if needed."
+}

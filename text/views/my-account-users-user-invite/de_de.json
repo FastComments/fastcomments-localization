@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Benutzer einladen – FastComments",
+    "HEADING": "Einen Administrator einladen",
+    "MESSAGE_INVITE_DESCRIPTION": "Wenn Sie einen Benutzer, der derzeit Kommentare abgibt, zum Administrator einladen, wird sein Konto auf Administratorstatus angehoben und er wird Ihrem Mandanten hinzugefügt.",
+    "MESSAGE_CONFIRM_USERNAME": "<b>Sie werden den Benutzer mit dem Benutzernamen &quot;<%= invitingUserName %>&quot; hinzufügen. Bitte stellen Sie sicher, dass dieser korrekt ist.</b>",
+    "HEADING_PERMISSIONS": "Berechtigungen",
+    "MESSAGE_PERMISSIONS": "Welche Berechtigungen sollen sie nach Annahme der Einladung haben?",
+    "BUTTON_SEND_INVITE": "Einladung senden"
+}

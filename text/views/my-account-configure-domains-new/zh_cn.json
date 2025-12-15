@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "添加域名 - FastComments",
+    "HEADING_USER_ACCOUNT": "<%= user.username %>的账户",
+    "HEADING_ADD_DOMAINS": "添加域名",
+    "TEXT_ADD_DOMAIN_INFO": "添加域名后，您可以针对每个网站自定义小部件和用户交互。此外，我们还可以验证请求并将其与您的帐户关联。",
+    "LABEL_DOMAIN_NAME": "域名",
+    "PLACEHOLDER_DOMAIN_NAME": "输入顶级域名，例如 fastcomments.com。如果需要，可以使用子域名进一步限制访问。",
+    "TEXT_COMMA_SEPARATED_NOTE": "您可以以逗号分隔的格式输入域名。",
+    "BUTTON_SAVE": "节省"
+}

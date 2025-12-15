@@ -1,0 +1,12 @@
+{
+    "TITLE": "Günlükleri İçe Aktar - FastComments",
+    "HEADING": "İş Kayıtları <%= job._id %>",
+    "JOB_LOGS_HEADING": "İş Günlükleri",
+    "TABLE_LOG": "Kayıt",
+    "TABLE_DATE": "Tarih",
+    "NO_LOGS": "Bu işe ait herhangi bir kayıt bulunmamaktadır.",
+    "POSSIBLE_REASONS": "Olası nedenlerden bazıları şunlardır:",
+    "REASON_NOT_STARTED": "İş henüz başlamamış olabilir.",
+    "REASON_BEFORE_SUPPORT": "Bu, log kaydı desteğini eklemeden önceki bir döneme ait olabilir.",
+    "REASON_NO_SUPPORT": "İş türü günlük kaydını desteklemeyebilir."
+}

@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "报名",
+    "HERO_TITLE_LIGHT": "加入 ",
+    "HERO_TITLE_BOLD": "讨论",
+    "HERO_DESCRIPTION": "想在使用了 FastComments 的网站上发表评论吗？您来对地方了。",
+    "HERO_ADDITIONAL_TEXT": "如果您想在网站上添加 FastComments，请<a href=\"/auth/tenant-signup?email=<%= email %>\">在此处注册。</a>",
+    "FORM_DESCRIPTION": "您只需要用户名和邮箱即可注册。",
+    "LABEL_USERNAME": "用户名：",
+    "PLACEHOLDER_USERNAME": "请输入用户名",
+    "USERNAME_PATTERN_TITLE": "请勿使用特殊字符，仅限数字和字母。",
+    "USERNAME_DESCRIPTION": "此用户名将公开显示。",
+    "LABEL_EMAIL": "*电子邮件：",
+    "PLACEHOLDER_EMAIL": "请输入您的电子邮件地址",
+    "EMAIL_DESCRIPTION": "我们会通过电子邮件向您发送一个链接，以便您完成帐户设置并登录。",
+    "SIGNUP_EMAIL_TEXT": "您正在使用<b><%= email %></b>注册。",
+    "TERMS_AGREEMENT": "点击“注册”即表示您同意<a href=\"/terms-of-service\" target=\"_blank\">服务条款</a>。",
+    "BUTTON_SIGN_UP": "报名",
+    "LABEL_CAPTCHA": "<%= captchaA %> + <%= captchaB %> 等于多少？",
+    "CAPTCHA_HELP": "有助于判断您不是机器人。"
+}

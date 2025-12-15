@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "도메인 추가하기 - FastComments",
+    "HEADING_USER_ACCOUNT": "<%= user.username %>의 계정",
+    "HEADING_ADD_DOMAINS": "도메인 추가",
+    "TEXT_ADD_DOMAIN_INFO": "도메인을 추가하면 사이트별로 위젯과 사용자 상호 작용을 맞춤 설정할 수 있습니다. 또한 요청을 검증하고 계정에 연결할 수 있습니다.",
+    "LABEL_DOMAIN_NAME": "도메인 이름",
+    "PLACEHOLDER_DOMAIN_NAME": "fastcomments.com과 같은 최상위 도메인을 입력하세요. 필요에 따라 서브도메인을 사용하여 접근을 더욱 제한할 수 있습니다.",
+    "TEXT_COMMA_SEPARATED_NOTE": "도메인은 쉼표로 구분하여 입력할 수 있습니다.",
+    "BUTTON_SAVE": "구하다"
+}

@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "통합 확인 - FastComments",
+    "PAGE_HEADING": "통합을 연결합니다.",
+    "PAGE_SUBHEADING": "확인",
+    "NOSCRIPT_MESSAGE": "연동 설정을 위해 JavaScript를 활성화해 주세요.",
+    "UPLOAD_DESCRIPTION": "원하시는 경우, 동기화 과정에서 <%= integrationName %> 설치 환경에서 댓글을 자동으로 업로드해 드릴 수 있습니다. 그렇지 않은 경우, 아래 확인란의 체크를 해제하시면 나중에 직접 업로드하실 수 있습니다.",
+    "CHECKBOX_UPLOAD_COMMENTS": "내 댓글을 자동으로 업로드해 주세요.",
+    "CHECKBOX_UPLOAD_COMMENTS_HELP": "플러그인 관리자 페이지에서 나중에 댓글을 업로드할 수 있습니다.",
+    "CHECKBOX_SYNC_DATABASE": "내 <%= integrationName %> 데이터베이스를 자동으로 동기화 상태로 유지해 주세요.",
+    "CHECKBOX_SYNC_DATABASE_HELP": "이 기능은 <%= integrationName %> 데이터베이스를 최신 상태로 유지합니다. 플러그인이 데이터베이스의 최신 댓글을 필요로 하는 경우 유용합니다. 하지만 트래픽이 매우 많은 사이트에서는 <%= integrationName %> 데이터베이스를 최신 상태로 유지하는 것이 불필요한 부하를 발생시키므로 일반적으로 이 기능을 비활성화합니다.",
+    "BUTTON_START_SYNC": "동기화 시작"
+}

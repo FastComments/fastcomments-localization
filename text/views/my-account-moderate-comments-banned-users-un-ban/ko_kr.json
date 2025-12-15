@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "사용자 차단 해제 - FastComments",
+    "HEADING": "사용자 차단 해제",
+    "SUB_HEADING": "차단 해제 <%= bannedUser.username %>?",
+    "CONFIRM_MESSAGE": "이 사용자의 차단을 해제하시겠습니까?",
+    "BANNED_FOR_SAYING_TEXT": "그들은 &quot; <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> &quot;라고 말해서 금지당했다.",
+    "UN_BAN_BUTTON": "사용자 차단 해제"
+}

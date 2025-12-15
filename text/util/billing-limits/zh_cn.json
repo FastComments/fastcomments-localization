@@ -1,0 +1,20 @@
+{
+    "LIMIT_MONTHLY_PAGE_LOADS": "每月页面加载量",
+    "LIMIT_MONTHLY_PAGE_LOADS_HELP": "评论加载了多少次？",
+    "LIMIT_MONTHLY_API_CREDITS": "每月 API 积分",
+    "LIMIT_MONTHLY_API_CREDITS_HELP": "您使用了我们多少 API 来进行自定义集成？",
+    "LIMIT_MONTHLY_SMALL_WIDGETS_CREDITS": "每月小部件积分",
+    "LIMIT_MONTHLY_SMALL_WIDGETS_CREDITS_HELP": "您向小型组件（评论数、最新评论等）发出了多少请求？",
+    "LIMIT_MONTHLY_COMMENTS_STORED": "每月评论已存储",
+    "LIMIT_MONTHLY_COMMENTS_STORED_HELP": "本月共收到多少条评论？",
+    "LIMIT_TENANT_USERS": "租户用户",
+    "LIMIT_TENANT_USERS_HELP": "你们有多少位管理员？",
+    "LIMIT_SSO_USERS": "单点登录用户",
+    "LIMIT_SSO_USERS_HELP": "您有多少个 SSO 用户？",
+    "LIMIT_MODERATORS": "版主",
+    "LIMIT_MODERATORS_HELP": "你们有多少位版主？",
+    "LIMIT_DOMAINS": "域名",
+    "LIMIT_DOMAINS_HELP": "您的账户中有多少个网站或域名？",
+    "LIMIT_MANAGED_TENANTS": "托管租户",
+    "LIMIT_MANAGED_TENANTS_HELP": "您的租户管理着多少个分租户？"
+}

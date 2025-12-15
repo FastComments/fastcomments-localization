@@ -1,0 +1,14 @@
+{
+    "PAGE_TITLE": "ユーザー名を忘れた場合 - FastComments",
+    "HERO_TITLE_LIGHT": "忘れた ",
+    "HERO_TITLE_BOLD": "ユーザー名",
+    "HERO_DESCRIPTION": "心配しないでください。誰にでも起こり得ることです!",
+    "LABEL_EMAIL": "メール",
+    "EMAIL_HELP_TEXT": "ユーザー名はメールでお送りします。セキュリティ上の理由により、メールアドレスが正しいかどうかは確認できません。",
+    "LABEL_CAPTCHA": "<%= captchaA %> + <%= captchaB %> とは何ですか?",
+    "CAPTCHA_HELP": "あなたがボットではないことを確認できるようにします。",
+    "BUTTON_REQUEST_USERNAME": "ユーザー名をリクエスト",
+    "SUCCESS_MESSAGE": "そのメールアドレスにアカウントをお持ちの場合は、ユーザー名が記載されたメールがすぐに届きます。",
+    "SUCCESS_CHECK_SPAM": "スパムフォルダを必ず確認してください。",
+    "SUCCESS_CLOSE_WINDOW": "このウィンドウを閉じても構いません。"
+}

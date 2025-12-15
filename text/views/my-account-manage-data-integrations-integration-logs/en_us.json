@@ -1,0 +1,9 @@
+{
+  "PAGE_TITLE": "Integration Logs - FastComments",
+  "HEADING": "Integration Logs.",
+  "SUB_HEADING": "Logs for <%= integration.readableType %>",
+  "NOSCRIPT_MESSAGE": "Please enable JavaScript to see the logs.",
+  "PAGE_UPDATE_INFO": "This page will update as the integration progresses.",
+  "SYNC_INFO": "After this is done we'll keep your comments in sync with your site so if you ever deactivate FastComments you won't lose any data.",
+  "LOGS_RETENTION_INFO": "These logs will be kept for two years."
+}

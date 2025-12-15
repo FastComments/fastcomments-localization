@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Invitar usuario - FastComments",
+    "HEADING": "Invitar a un administrador",
+    "MESSAGE_INVITE_DESCRIPTION": "Invitar a un usuario, que actualmente es comentarista, a ser administrador elevará su cuenta al estado de administrador y lo agregará a su inquilino.",
+    "MESSAGE_CONFIRM_USERNAME": "<b>Agregará al usuario con el nombre de usuario &quot;<%= invitingUserName %>&quot;. Asegúrese de que sea correcto.</b>",
+    "HEADING_PERMISSIONS": "Permisos",
+    "MESSAGE_PERMISSIONS": "¿Qué permisos le gustaría que tuvieran al aceptar la invitación?",
+    "BUTTON_SEND_INVITE": "Enviar invitación"
+}

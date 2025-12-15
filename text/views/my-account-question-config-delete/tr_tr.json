@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Soruyu Sil - HızlıYorumlar",
+    "HEADING": "Silmek \"<%= question.name %>\"?",
+    "CONFIRM_MESSAGE": "\"<%= question.question %>\" sorusunu, <%= question.createdAt.toLocaleString() %> tarihinde oluşturulmuş olan bu soruyu silmek istediğinizden emin misiniz?",
+    "REPLY_COUNT_MESSAGE": "Bu sorunun <%= Number(question.usedCount).toLocaleString() %> yanıtı var.",
+    "DATA_LOSS_WARNING": "Bu yanıtlardan elde edilen veriler artık raporlamada kullanılmayacaktır.",
+    "DELETE_BUTTON": "Silmek",
+    "CANCEL_LINK": "İptal etmek"
+}

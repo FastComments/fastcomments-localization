@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "קופונים - FastComments",
+    "HEADING_COUPONS": "קופונים",
+    "HEADING_COUPON_CODES": "קודי קופון",
+    "HEADING_STATS": "סטטיסטיקות",
+    "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> קופונים מומשו.",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> סך כל הקופונים.",
+    "HEADING_DOWNLOAD": "הורדה",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "הורד קופונים זמינים",
+    "HEADING_GENERATE_TIER_4_COUPONS": "צור קופונים ברמה 4",
+    "LABEL_GENERATE_COUPON_COUNT": "צור ספירת קופונים",
+    "BUTTON_SUBMIT": "לְהַגִישׁ",
+    "HEADING_COUPON_LIST": "רשימת קופונים",
+    "TABLE_HEADER_CODE": "קוד",
+    "TABLE_HEADER_REDEEMED_DATE": "תאריך מימוש"
+}

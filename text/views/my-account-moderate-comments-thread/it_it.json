@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "Visualizzatore di thread di commenti",
+    "HEADING": "Visualizzatore di thread di commenti",
+    "THREAD_DETAILS": "Stai visualizzando il thread dei commenti su <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a>",
+    "PAGE_ID_INFO": "Visualizzazione dei commenti per l'ID pagina: <%- thread.urlIdDecoded %>"
+}

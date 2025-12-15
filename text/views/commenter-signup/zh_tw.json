@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "報名",
+    "HERO_TITLE_LIGHT": "加入 ",
+    "HERO_TITLE_BOLD": "討論",
+    "HERO_DESCRIPTION": "想在使用了 FastComments 的網站上發表評論嗎？您來對地方了。",
+    "HERO_ADDITIONAL_TEXT": "如果您想在網站上新增 FastComments，請<a href=\"/auth/tenant-signup?email=<%= email %>\">在此處註冊。</a>",
+    "FORM_DESCRIPTION": "您只需要使用者名稱和郵箱即可註冊。",
+    "LABEL_USERNAME": "*使用者名稱:",
+    "PLACEHOLDER_USERNAME": "請輸入使用者名稱",
+    "USERNAME_PATTERN_TITLE": "請勿使用特殊字符，僅限數字和字母。",
+    "USERNAME_DESCRIPTION": "此使用者名稱將公開顯示。",
+    "LABEL_EMAIL": "*電子郵件：",
+    "PLACEHOLDER_EMAIL": "請輸入您的電子郵件地址",
+    "EMAIL_DESCRIPTION": "我們會透過電子郵件向您發送一個鏈接，以便您完成帳戶設定並登入。",
+    "SIGNUP_EMAIL_TEXT": "您正在使用<b><%= email %></b>註冊。",
+    "TERMS_AGREEMENT": "點擊「註冊」即表示您同意<a href=\"/terms-of-service\" target=\"_blank\">服務條款</a>。",
+    "BUTTON_SIGN_UP": "報名",
+    "LABEL_CAPTCHA": "<%= captchaA %> + <%= captchaB %> 等於多少？",
+    "CAPTCHA_HELP": "有助於判斷您不是機器人。"
+}

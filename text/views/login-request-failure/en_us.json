@@ -1,0 +1,21 @@
+{
+  "PAGE_TITLE": "FastComments - Login Failed",
+  "HERO_TITLE_LIGHT": "Login ",
+  "HERO_TITLE_BOLD": "Failed",
+  "BUTTON_TRY_AGAIN": "Try Again",
+  "ERROR_HEADING": "Something Went Wrong",
+  "ERROR_MESSAGE": "Something went wrong with your login request.",
+
+  "ERROR_INVALID_CREDENTIALS": "Invalid password or username.",
+  "ERROR_USERNAME_REQUIRED": "You must provide a username!",
+  "ERROR_USERNAME_TOO_LONG": "Your username must be less than 1k characters!",
+  "ERROR_RATE_LIMITED_MINUTES": "You have exceeded our rate limits. Please try again in a few minutes or reach out to support.",
+  "ERROR_RATE_LIMITED_DAILY": "You have exceeded our daily rate limits. Please try again in 24 hours or reach out to support.",
+  "ERROR_RATE_LIMITED": "You have exceeded our rate limits. Please try again later or reach out to support.",
+  "ERROR_TOO_MANY_ATTEMPTS": "Too many login attempts in the past hour. Please wait and try again.",
+  "ERROR_CAPTCHA_WRONG": "You did not answer the security question correctly. Please go back and try again.",
+  "ERROR_EMAIL_REQUIRED": "You must provide an email!",
+  "ERROR_EMAIL_TOO_LONG": "Your email must be less than 1k characters!",
+  "ERROR_INVALID_EMAIL": "That is not a valid email!",
+  "ERROR_USERNAME_TAKEN": "That username is already taken by a different email. Try a different username."
+}

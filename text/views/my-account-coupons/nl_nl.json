@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Coupons - FastComments",
+    "HEADING_COUPONS": "Coupons",
+    "HEADING_COUPON_CODES": "Kortingscodes",
+    "HEADING_STATS": "Statistieken",
+    "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> Coupons ingewisseld.",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Totaal aantal coupons.",
+    "HEADING_DOWNLOAD": "Download",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Download beschikbare kortingsbonnen",
+    "HEADING_GENERATE_TIER_4_COUPONS": "Genereer kortingsbonnen van niveau 4",
+    "LABEL_GENERATE_COUPON_COUNT": "Genereer coupontelling",
+    "BUTTON_SUBMIT": "Indienen",
+    "HEADING_COUPON_LIST": "Couponlijst",
+    "TABLE_HEADER_CODE": "Code",
+    "TABLE_HEADER_REDEEMED_DATE": "Ingewisseld op datum"
+}

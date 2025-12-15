@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Kullanıcı Yasağını Kaldırma - FastComments",
+    "HEADING": "Kullanıcının Yasağını Kaldır",
+    "SUB_HEADING": "<%= bannedUser.username %> yasak kaldırılsın mı?",
+    "CONFIRM_MESSAGE": "Bu kullanıcının yasağını kaldırmak istediğinizden emin misiniz?",
+    "BANNED_FOR_SAYING_TEXT": "&quot; <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> &quot; dedikleri için yasaklandılar.",
+    "UN_BAN_BUTTON": "Kullanıcının Yasağını Kaldır"
+}

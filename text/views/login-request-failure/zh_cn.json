@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "FastComments - 登录失败",
+    "HERO_TITLE_LIGHT": "登录  ",
+    "HERO_TITLE_BOLD": "失败的",
+    "BUTTON_TRY_AGAIN": "重试",
+    "ERROR_HEADING": "出问题了",
+    "ERROR_MESSAGE": "您的登录请求出现错误。",
+    "ERROR_INVALID_CREDENTIALS": "密码或用户名无效。",
+    "ERROR_USERNAME_REQUIRED": "您必须提供用户名！",
+    "ERROR_USERNAME_TOO_LONG": "您的用户名必须少于 1000 个字符！",
+    "ERROR_RATE_LIMITED_MINUTES": "您已超出访问速率限制。请稍后再试，或联系客服。",
+    "ERROR_RATE_LIMITED_DAILY": "您已超出每日访问量限制。请24小时后再试，或联系客服。",
+    "ERROR_RATE_LIMITED": "您已超出访问速率限制。请稍后再试或联系客服。",
+    "ERROR_TOO_MANY_ATTEMPTS": "过去一小时内登录尝试次数过多。请稍候后重试。",
+    "ERROR_CAPTCHA_WRONG": "您没有正确回答安全问题。请返回并重试。",
+    "ERROR_EMAIL_REQUIRED": "您必须提供电子邮件地址！",
+    "ERROR_EMAIL_TOO_LONG": "您的电子邮件字数必须少于 1000 个字符！",
+    "ERROR_INVALID_EMAIL": "那不是一个有效的电子邮件地址！",
+    "ERROR_USERNAME_TAKEN": "该用户名已被其他邮箱占用。请尝试其他用户名。"
+}

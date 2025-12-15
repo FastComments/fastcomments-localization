@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "ドメインを追加 - FastComments",
+    "HEADING_USER_ACCOUNT": "<%= user.username %>のアカウント",
+    "HEADING_ADD_DOMAINS": "ドメインを追加する",
+    "TEXT_ADD_DOMAIN_INFO": "ドメインを追加すると、サイトごとにウィジェットやユーザーインタラクションをカスタマイズできます。また、リクエストを検証し、アカウントに紐付けることも可能になります。",
+    "LABEL_DOMAIN_NAME": "ドメイン名",
+    "PLACEHOLDER_DOMAIN_NAME": "fastcomments.com のようなトップレベルドメインを入力します。必要に応じてサブドメインを使用して、アクセスをさらに制限します。",
+    "TEXT_COMMA_SEPARATED_NOTE": "ドメインはコンマ区切り形式で入力できます。",
+    "BUTTON_SAVE": "保存"
+}

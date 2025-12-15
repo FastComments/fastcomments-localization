@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "統合の確認 - FastComments",
+    "PAGE_HEADING": "統合を接続します。",
+    "PAGE_SUBHEADING": "確認",
+    "NOSCRIPT_MESSAGE": "統合を設定するには、JavaScript を有効にしてください。",
+    "UPLOAD_DESCRIPTION": "ご希望の場合は、同期中に<%= integrationName %>インストールからコメントを自動的にアップロードできます。そうでない場合は、下のチェックボックスをオフにして、後で自分でアップロードできます。",
+    "CHECKBOX_UPLOAD_COMMENTS": "コメントを自動的にアップロードします。",
+    "CHECKBOX_UPLOAD_COMMENTS_HELP": "プラグインの管理ページから後でコメントをアップロードできます。",
+    "CHECKBOX_SYNC_DATABASE": "<%= integrationName %> データベースを自動的に同期します。",
+    "CHECKBOX_SYNC_DATABASE_HELP": "これにより、<%= integrationName %> データベースが最新の状態に保たれます。プラグインがデータベース内の最新のコメントを必要とする場合に便利です。通常、非常にアクセス数の多いサイトでは、<%= integrationName %> を最新の状態に保つことで不要な負荷が発生するため、無効にされます。",
+    "BUTTON_START_SYNC": "同期を開始"
+}

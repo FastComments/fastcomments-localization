@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Μετάβαση σε <%= otherRegionName %>; - Γρήγορα σχόλια",
+    "HERO_TITLE_LIGHT": "Αλλαγή σε ",
+    "HERO_TITLE_BOLD": "<%= otherRegionName %>",
+    "HERO_DESCRIPTION": "Έχετε λογαριασμό στο <a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a> - θέλετε να συνδεθείτε εκεί;",
+    "INFO_MESSAGE_BOLD": "Έχετε λογαριασμό στο άλλο κέντρο δεδομένων μας.",
+    "INFO_MESSAGE_QUESTION": "Ανακατεύθυνση προς τα εκεί;",
+    "INFO_MESSAGE_WARNING": "Εάν δεν κάνετε ανακατεύθυνση, θα δημιουργήσουμε έναν λογαριασμό εδώ για εσάς, εάν δεν υπάρχει, και <b>στη συνέχεια θα έχετε δύο λογαριασμούς.</b>",
+    "BUTTON_REDIRECT": "Ανακατεύθυνση σε <%= otherRegionName %>",
+    "BUTTON_CONTINUE_HERE": "Συνέχεια εδώ"
+}

@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Оновлення секретного домену API - FastComments",
+    "HEADING_UPDATE_API_SECRET_DOMAIN": "Оновити секретний домен API",
+    "TEXT_DOMAIN_INFO": "Для конфігурацій, таких як вебхуки, ми визначимо, який ключ API використовувати на основі цієї конфігурації.",
+    "LABEL_ASSOCIATE_SECRET_WITH_DOMAIN": "Зв'яжіть секрет API \"<%= apiSecret.name %>\" з доменом:",
+    "OPTION_ALL_DOMAINS": "Усі домени",
+    "BUTTON_UPDATE_DOMAIN": "Оновити домен"
+}

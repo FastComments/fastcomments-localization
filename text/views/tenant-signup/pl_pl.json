@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Konfiguracja nowego najemcy",
+    "HERO_TITLE_LIGHT": "Prawie  ",
+    "HERO_TITLE_BOLD": "Tam",
+    "HERO_DESCRIPTION": "FastComments to najszybszy w konfiguracji i użytkowaniu system komentarzy dla firm i użytkowników. Właśnie rozpoczynasz <u>30-dniowy bezpłatny okres próbny</u> .",
+    "NOT_WEBSITE_LINK_TEXT": "Jeśli nie chcesz dodawać FastComments do witryny, zarejestruj się <a href=\"/auth/commenter-signup?email=<%= email %>\">tutaj.</a>",
+    "FORM_DESCRIPTION": "Teraz potrzebujemy tylko kilku podstawowych informacji, a potem możesz rozpocząć instalację FastComments.",
+    "LABEL_USERNAME": "*Publicznie wyświetlana nazwa użytkownika:",
+    "USERNAME_PATTERN_TITLE": "Proszę nie używać znaków specjalnych — tylko cyfry i litery.",
+    "LABEL_EMAIL": "*E-mail:",
+    "EMAIL_DESCRIPTION_LOGGED_IN": "Użyjemy Twojego obecnego adresu e-mail. Możesz go później zmienić na stronie konta, jeśli zajdzie taka potrzeba.",
+    "EMAIL_DESCRIPTION": "Wyślemy Ci wiadomość e-mail z prośbą o weryfikację konta.",
+    "LABEL_COMPANY_NAME": "*Nazwa firmy:",
+    "DOMAINS_HEADING": "Jaki jest adres Twojej witryny, na której będą wyświetlane FastComments?",
+    "LABEL_WEBSITES": "*Strona(y) internetowa(e):",
+    "DOMAINS_DESCRIPTION": "Nie ma potrzeby wprowadzania subdomen ani localhost. W przypadku wielu witryn rozdziel je przecinkami.",
+    "TOS_TEXT": "Klikając przycisk Utwórz konto, akceptujesz <a href=\"/terms-of-service\" target=\"_blank\">Warunki korzystania z usługi</a> .",
+    "BUTTON_CREATE_ACCOUNT": "Utwórz konto",
+    "ERROR_SIGNUP_ALREADY_STARTED": "Proces rejestracji już się rozpoczął i nie można go ponownie wysłać. Może odświeżyłeś stronę?"
+}

@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Kuponlar - Hızlı Yorumlar",
+    "HEADING_COUPONS": "Kuponlar",
+    "HEADING_COUPON_CODES": "Kupon Kodları",
+    "HEADING_STATS": "İstatistikler",
+    "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> Kupon Kullanıldı.",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Toplam Kupon Sayısı.",
+    "HEADING_DOWNLOAD": "İndirmek",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Mevcut Kuponları İndirin",
+    "HEADING_GENERATE_TIER_4_COUPONS": "4. Seviye Kuponlar Oluşturun",
+    "LABEL_GENERATE_COUPON_COUNT": "Kupon Sayısını Oluştur",
+    "BUTTON_SUBMIT": "Göndermek",
+    "HEADING_COUPON_LIST": "Kupon Listesi",
+    "TABLE_HEADER_CODE": "Kod",
+    "TABLE_HEADER_REDEEMED_DATE": "Kullanım Tarihi"
+}

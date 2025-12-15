@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Factureringsanalyse - FastComments",
+    "HEADING_BILLING_ANALYTICS": "Factureringsanalyses",
+    "HEADING_USAGE_THIS_PERIOD": "Gebruik deze periode",
+    "TABLE_HEADER_DESCRIPTION": "Beschrijving",
+    "TABLE_HEADER_COST_USD": "Kosten (USD)",
+    "TEXT_TOTAL": "Totaal",
+    "TEXT_TRIAL_PERIOD_NOTE": "U bevindt zich momenteel in een proefperiode. <b>Het bovenstaande bedrag is niet verschuldigd in deze factureringsperiode.</b>",
+    "TEXT_INVOICE_SEND_DATE": "Factuur te versturen op <%= invoiceSendDate %>.",
+    "HEADING_SERVICE_LIMITS": "Servicelimieten",
+    "TEXT_TRIAL_LIMITS_NOTE": "<b>Let op!</b> Omdat je een proefaccount hebt, gelden er lagere limieten voor je account. <a href=\"/auth/my-account/billing-info\">Upgrade naar een betaald account</a> of <a href=\"/auth/my-account/help\">neem contact op met de klantenservice om deze limieten te verhogen</a> .",
+    "LABEL_CURRENT": "Huidig:",
+    "LABEL_MAX": "Max:",
+    "TEXT_MAX_NONE": "Geen"
+}

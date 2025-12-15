@@ -1,0 +1,18 @@
+{
+    "LABEL_CUSTOMER": "Klant",
+    "LABEL_SERVICE_REP": "Servicemedewerker",
+    "LABEL_OPENED": "Geopend",
+    "LABEL_STATUS": "Status",
+    "LABEL_CHANGE_STATUS": "Status wijzigen",
+    "LINK_IMPERSONATE": "Imiteren",
+    "LINK_SWITCH": "Schakelaar",
+    "AVG_RESPONSE_TIME": "Gemiddelde reactietijd:",
+    "STATUS_AWAITING_YOUR_REPLY": "Ik wacht op uw antwoord.",
+    "STATE_OPEN": "Open",
+    "STATE_ACKNOWLEDGED": "Erkend",
+    "STATE_RESOLVED": "Opgelost",
+    "ERROR_GET_TICKET_FAILED": "Een verzoek om de meest recente ticketinformatie op te halen is mislukt.",
+    "ERROR_CHANGE_STATE_FAILED": "Een verzoek om de ticketstatus te wijzigen is mislukt.",
+    "INITIAL_COMMENT": "Hallo [username]! Je hebt een ticket aangemaakt met de naam \"[subject]\". Geef wat extra informatie en @[assignedTagName] neemt zo snel mogelijk contact met je op.",
+    "STATUS_CHANGE_COMMENT": "[username] heeft de status gewijzigd van [oldStatus] naar [newStatus]."
+}

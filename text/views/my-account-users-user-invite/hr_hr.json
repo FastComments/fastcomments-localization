@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Pozovi korisnika - BrziKomentari",
+    "HEADING": "Pozovi administratora",
+    "MESSAGE_INVITE_DESCRIPTION": "Pozivanjem korisnika koji je trenutno komentator da bude administrator, njegov će račun dobiti administratorski status i bit će dodan vašem klijentu.",
+    "MESSAGE_CONFIRM_USERNAME": "<b>Dodat ćete korisnika s korisničkim imenom &quot;<%= invitingUserName %>&quot;. Molimo provjerite je li to točno.</b>",
+    "HEADING_PERMISSIONS": "Dozvole",
+    "MESSAGE_PERMISSIONS": "Koje biste dozvole željeli da imaju nakon prihvaćanja pozivnice?",
+    "BUTTON_SEND_INVITE": "Pošalji pozivnicu"
+}

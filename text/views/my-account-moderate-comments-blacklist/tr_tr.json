@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Kelime Kara Listesi - Hızlı Yorumlar",
+    "HEADING": "Yorum Kelime Kara Listesi",
+    "SUB_HEADING": "Kara Listeyi Özelleştirin",
+    "SUCCESS_MESSAGE": "Kara liste başarıyla kaydedildi.",
+    "INTRO_PARAGRAPH_1": "Aşağıda, yorumlarda ve kullanıcı adlarında gizlenecek virgülle ayrılmış kelime ve ifadelerin listeleri bulunmaktadır. Burada hangi kelimeleri seçtiğinize dikkat edin; çok yaygın kelimeleri kara listeye almak topluluğunuzu uzaklaştıracaktır.",
+    "INTRO_PARAGRAPH_2": "Bunlar <b>yerel ayar bazında</b> tanımlanır. Yerel ayar, bir dil ve bir coğrafi bölgenin birleşimidir.",
+    "INTRO_PARAGRAPH_3": "<b>Kelimeler</b> ve <b>kelime öbekleri</b> arasında ayrım yaptığımızı göreceksiniz. <b>Kelime</b> listesindeki girişler boşluk veya özel karakter içermemelidir. Boşluk, nokta vb. içeren bir kelime öbeğiniz varsa, bunu <b>kelime öbeği</b> listesine ekleyin.",
+    "NOSCRIPT_MESSAGE": "Bu yapılandırma arayüzünün düzgün çalışması için JavaScript gereklidir.",
+    "EDIT_LOCALE_LABEL": "Yerel ayarlara göre düzenle",
+    "MASKED_WORDS_LABEL": "[localeName] için gizlenmiş kelimeler.",
+    "MASKED_WORDS_DESCRIPTION": "Bu listedeki kelimeler (virgülle ayrılmış) *** şeklinde maskelenecektir.",
+    "MASKED_WORDS_PLACEHOLDER": "Virgülle ayrılmış bir küfür listesi girin, örneğin 'bazı, kötü, kelimeler'.",
+    "WORDS_LENGTH_ERROR": "Her dil için en fazla 5.000 kelime girebilirsiniz. Giriş yaptınız.<span id=\"length-error-count-words-[locale]\"></span> .",
+    "MASKED_PHRASES_LABEL": "[localeName] için maskelenmiş ifadeler.",
+    "MASKED_PHRASES_DESCRIPTION": "Bu listedeki ifadeler (virgülle ayrılmış) ******** şeklinde gizlenecektir.",
+    "MASKED_PHRASES_PLACEHOLDER": "Kötü ifadelerin virgülle ayrılmış bir listesini girin, örneğin 'bazı kötü ifadeler, bazı diğer kötü ifadeler'.",
+    "PHRASES_LENGTH_ERROR": "Her dil için en fazla 5.000 kelime öbeği girebilirsiniz. Girdiğiniz kelimeler:<span id=\"length-error-count-phrases-[locale]\"></span> .",
+    "SAVE_BUTTON": "Değişiklikleri Kaydet [localeName]"
+}

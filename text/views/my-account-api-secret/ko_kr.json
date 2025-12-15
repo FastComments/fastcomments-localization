@@ -1,0 +1,17 @@
+{
+    "PAGE_TITLE": "API 비밀 - FastComments",
+    "HEADING_API_CREDENTIALS": "API 자격 증명",
+    "LABEL_TENANT_ID": "세입자 ID",
+    "TEXT_NO_API_KEYS": "여기에는 볼 것이 없습니다! API 또는 웹훅을 시작하려면 API 키를 추가하세요.",
+    "LABEL_KEY_NAME": "키 이름:",
+    "TEXT_DEFAULT_KEY_NAME": "기본",
+    "LABEL_DOMAIN": "도메인:",
+    "TEXT_ALL_DOMAINS": "모두",
+    "TITLE_EDIT_NAME": "이름 수정",
+    "TITLE_DELETE": "삭제",
+    "TITLE_EDIT_DOMAIN": "도메인 편집",
+    "TEXT_CLICK_TO_REVEAL": "클릭하여 비밀 키를 확인하세요",
+    "TEXT_SECURITY_WARNING": "비밀 키를 공유하지 마세요. 또한 브라우저에서 암호화를 수행하지 마세요! 키를 안전하게 보호하면서 암호화를 수행하는 방법은 <a href=\"https://github.com/fastcomments/fastcomments-code-examples\" target=\"_blank\">백엔드 코드 예제를</a> 참조하세요.",
+    "TITLE_ADD_API_SECRET": "API 비밀 키를 추가하세요",
+    "TEXT_ADD_API_KEY": "API 키 추가"
+}

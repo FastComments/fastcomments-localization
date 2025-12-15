@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "整合令牌設定 - FastComments",
+    "HEADING": "整合令牌設定",
+    "SUB_HEADING_NO_DOMAIN": "正在編輯<%= integration.readableType %>整合令牌。",
+    "SUB_HEADING_DOMAIN": "正在編輯<%= integration.readableType %>整合令牌 for <%= integration.domain %>。",
+    "ENABLE_EVENT_FETCH_LABEL": "使用此整合的客戶應該能夠定期獲取新評論。",
+    "ENABLE_EVENT_FETCH_DESCRIPTION": "這將允許使用此整合令牌的客戶端獲取事件日誌，從而保持資料同步。如果您有需要在您自己的資料庫中儲存評論資料的 WordPress 插件，這將非常有用。",
+    "SAVE_BUTTON": "節省"
+}

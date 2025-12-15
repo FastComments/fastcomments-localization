@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE": "刪除用戶 - FastComments",
+    "HEADING": "確認使用者移除",
+    "MESSAGE_CONFIRM": "您確定要刪除使用者「<%= userToDeleteUserName %>」嗎？此操作會立即將其從您的帳戶中移除，但該使用者仍將保留其 FastComments 帳戶並擁有評論功能。",
+    "BUTTON_DELETE": "刪除用戶"
+}

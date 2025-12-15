@@ -1,0 +1,18 @@
+{
+    "LABEL_CUSTOMER": "Kupaц",
+    "LABEL_SERVICE_REP": "Servis Rep",
+    "LABEL_OPENED": "Otvoreno",
+    "LABEL_STATUS": "Istorijat",
+    "LABEL_CHANGE_STATUS": "Promena statusa",
+    "LINK_IMPERSONATE": "Lažno predstavljanje",
+    "LINK_SWITCH": "Prekidač",
+    "AVG_RESPONSE_TIME": "Prosečno vreme odziva:",
+    "STATUS_AWAITING_YOUR_REPLY": "ČEKAJUĆI VAŠ ODGOVOR",
+    "STATE_OPEN": "Otvoreno",
+    "STATE_ACKNOWLEDGED": "Potvrđeno",
+    "STATE_RESOLVED": "Rešen",
+    "ERROR_GET_TICKET_FAILED": "Zahtev za dobijanje najnovijih informacija o kartama nije uspeo.",
+    "ERROR_CHANGE_STATE_FAILED": "Zahtev za promenu stanja karte nije uspeo.",
+    "INITIAL_COMMENT": "Zdravo [username]! Napravili ste kartu pod nazivom \"[subject]\". Molimo vas da ostavite neke dodatne informacije i @[assignedTagName] će vam se javiti.",
+    "STATUS_CHANGE_COMMENT": "[username] promenio status sa [oldStatus] na [newStatus]."
+}

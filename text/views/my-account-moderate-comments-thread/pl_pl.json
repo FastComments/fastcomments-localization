@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "Przeglądarka wątków komentarzy",
+    "HEADING": "Przeglądarka wątków komentarzy",
+    "THREAD_DETAILS": "Przeglądasz wątek komentarzy w <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a>",
+    "PAGE_ID_INFO": "Wyświetlanie komentarzy dla strony o identyfikatorze: <%- thread.urlIdDecoded %>"
+}

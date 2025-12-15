@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "優惠券 - FastComments",
+    "HEADING_COUPONS": "優惠券",
+    "HEADING_COUPON_CODES": "優惠券代碼",
+    "HEADING_STATS": "統計數據",
+    "TEXT_COUPONS_REDEEMED": "已兌換<%= Number(couponsRedeemedCount).toLocaleString() %>張優惠券。",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> 優惠券總數。",
+    "HEADING_DOWNLOAD": "下載",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "下載可用優惠券",
+    "HEADING_GENERATE_TIER_4_COUPONS": "產生四級優惠券",
+    "LABEL_GENERATE_COUPON_COUNT": "產生優惠券數量",
+    "BUTTON_SUBMIT": "提交",
+    "HEADING_COUPON_LIST": "優惠券清單",
+    "TABLE_HEADER_CODE": "程式碼",
+    "TABLE_HEADER_REDEEMED_DATE": "贖回日期"
+}

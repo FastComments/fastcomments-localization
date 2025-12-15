@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Træningssæt til kommentarspam - FastComments",
+    "HEADING_COMMENTS_SPAM_TRAINING_SET": "Træningssæt til kommentarer, spam",
+    "TEXT_CURRENT_CLASSIFICATION": "Nuværende klassificering: <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
+    "BUTTON_UNCLASSIFY": "Afklassificer",
+    "BUTTON_SPAM": "Spam",
+    "BUTTON_NOT_SPAM": "Ikke spam"
+}

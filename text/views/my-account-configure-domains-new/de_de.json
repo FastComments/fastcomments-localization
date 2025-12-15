@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "Domain hinzufügen – FastComments",
+    "HEADING_USER_ACCOUNT": "<%= user.username %>s Konto",
+    "HEADING_ADD_DOMAINS": "Domänen hinzufügen",
+    "TEXT_ADD_DOMAIN_INFO": "Durch das Hinzufügen einer Domain können Sie Ihre Widgets und Benutzerinteraktionen pro Website anpassen. Außerdem können wir so die Anfragen validieren und Ihrem Konto zuordnen.",
+    "LABEL_DOMAIN_NAME": "Domainname",
+    "PLACEHOLDER_DOMAIN_NAME": "Geben Sie eine Top-Level-Domain ein, z. B. fastcomments.com. Verwenden Sie bei Bedarf eine Subdomain, um den Zugriff weiter einzuschränken.",
+    "TEXT_COMMA_SEPARATED_NOTE": "Sie können Domänen im kommagetrennten Format eingeben.",
+    "BUTTON_SAVE": "Speichern"
+}

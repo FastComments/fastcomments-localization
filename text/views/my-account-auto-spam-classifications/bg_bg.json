@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Комплект за обучение за спам в коментарите - FastComments",
+    "HEADING_COMMENTS_SPAM_TRAINING_SET": "Комплект за обучение за спам в коментарите",
+    "TEXT_CURRENT_CLASSIFICATION": "Текуща класификация: <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
+    "BUTTON_UNCLASSIFY": "Откласифициране",
+    "BUTTON_SPAM": "Спам",
+    "BUTTON_NOT_SPAM": "Не е спам"
+}

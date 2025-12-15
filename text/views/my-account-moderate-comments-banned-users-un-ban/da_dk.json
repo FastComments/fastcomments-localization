@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Fjern udelukkelse af en bruger - FastComments",
+    "HEADING": "Fjern udelukkelse af en bruger",
+    "SUB_HEADING": "Ophæv udelukkelse <%= bannedUser.username %>?",
+    "CONFIRM_MESSAGE": "Er du sikker på, at du vil ophæve udelukkelsen af denne bruger?",
+    "BANNED_FOR_SAYING_TEXT": "De blev forbudt for at sige &quot; <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> &quot;",
+    "UN_BAN_BUTTON": "Fjern udelukkelse af bruger"
+}

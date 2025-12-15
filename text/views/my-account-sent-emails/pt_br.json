@@ -1,0 +1,23 @@
+{
+    "PAGE_TITLE": "E-mails enviados - FastComments",
+    "HEADING": "E-mails enviados",
+    "INFO_NOTE": "<strong>Observação:</strong> Mantemos o histórico de e-mails apenas por dois meses. E-mails mais antigos são excluídos automaticamente.",
+    "LABEL_FILTER_SUBJECT": "Filtrar por assunto",
+    "PLACEHOLDER_SUBJECT": "Assunto da pesquisa...",
+    "LABEL_FILTER_CONTENT": "Filtrar por conteúdo",
+    "PLACEHOLDER_CONTENT": "Pesquisar conteúdo do e-mail...",
+    "BUTTON_SEARCH": "Procurar",
+    "BUTTON_CLEAR": "Claro",
+    "TABLE_HEADER_DATE": "Data",
+    "TABLE_HEADER_FROM": "De",
+    "TABLE_HEADER_SUBJECT": "Assunto",
+    "MESSAGE_NO_EMAILS_FILTERS": "Nenhum e-mail encontrado para os filtros especificados.",
+    "BUTTON_VIEW": "Visualizar",
+    "BUTTON_PREV": "Anterior",
+    "BUTTON_NEXT": "Próximo",
+    "LABEL_PAGE": "Página <%= page %>",
+    "MESSAGE_NO_EMAILS": "Você não tem nenhum e-mail enviado.",
+    "VALUE_UNKNOWN": "Desconhecido",
+    "VALUE_NO_SUBJECT": "(Sem assunto)",
+    "VALUE_NA": "N / D"
+}

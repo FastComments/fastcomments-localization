@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Не вдалося створити розмову - FastComments",
+    "META_DESCRIPTION": "Зв'яжіться з FastComments.com",
+    "HERO_TITLE_LIGHT": "Розмова ",
+    "HERO_TITLE_BOLD": "Не вдалося створити",
+    "HERO_DESCRIPTION": "Нам не вдалося створити вашу розмову. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
+    "BUTTON_TRY_AGAIN": "Спробуйте створити нову розмову."
+}

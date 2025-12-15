@@ -1,0 +1,12 @@
+{
+    "TITLE": "Uvoz dnevnikov - FastComments",
+    "HEADING": "Dnevniki za opravilo <%= job._id %>",
+    "JOB_LOGS_HEADING": "Dnevniki opravil",
+    "TABLE_LOG": "Dnevnik",
+    "TABLE_DATE": "Datum",
+    "NO_LOGS": "Za to opravilo ni dnevnikov.",
+    "POSSIBLE_REASONS": "Nekaj možnih razlogov:",
+    "REASON_NOT_STARTED": "Delo se morda še ni začelo.",
+    "REASON_BEFORE_SUPPORT": "Morda je iz časa, preden smo dodali podporo za dnevnike.",
+    "REASON_NO_SUPPORT": "Vrsta opravila morda ne podpira dnevnikov."
+}

@@ -1,0 +1,18 @@
+{
+    "LABEL_CUSTOMER": "고객",
+    "LABEL_SERVICE_REP": "서비스 담당자",
+    "LABEL_OPENED": "열림",
+    "LABEL_STATUS": "상태",
+    "LABEL_CHANGE_STATUS": "상태 변경",
+    "LINK_IMPERSONATE": "사칭하다",
+    "LINK_SWITCH": "스위치",
+    "AVG_RESPONSE_TIME": "평균 응답 시간:",
+    "STATUS_AWAITING_YOUR_REPLY": "답변 기다리겠습니다.",
+    "STATE_OPEN": "열려 있는",
+    "STATE_ACKNOWLEDGED": "인정됨",
+    "STATE_RESOLVED": "해결됨",
+    "ERROR_GET_TICKET_FAILED": "최신 티켓 정보를 가져오려는 요청이 실패했습니다.",
+    "ERROR_CHANGE_STATE_FAILED": "티켓 상태 변경 요청이 실패했습니다.",
+    "INITIAL_COMMENT": "안녕하세요, [username]님! \"[subject]\"이라는 제목으로 티켓을 생성하셨습니다. 추가 정보를 남겨주시면 @[assignedTagName]님이 연락드리겠습니다.",
+    "STATUS_CHANGE_COMMENT": "[username]가 상태를 [oldStatus]에서 [newStatus]로 변경했습니다."
+}

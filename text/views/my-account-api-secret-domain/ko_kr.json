@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "API 비밀 도메인 업데이트 - FastComments",
+    "HEADING_UPDATE_API_SECRET_DOMAIN": "API 비밀 도메인 업데이트",
+    "TEXT_DOMAIN_INFO": "웹훅과 같은 설정의 경우, 해당 설정을 기반으로 사용할 API 키를 결정합니다.",
+    "LABEL_ASSOCIATE_SECRET_WITH_DOMAIN": "API 비밀 키 \"<%= apiSecret.name %>\"를 도메인과 연결하세요:",
+    "OPTION_ALL_DOMAINS": "모든 도메인",
+    "BUTTON_UPDATE_DOMAIN": "도메인 업데이트"
+}

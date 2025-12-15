@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "삭제 <%= template.displayName %> - 빠른 댓글",
+    "HEADING_DELETE_TEMPLATE": "삭제 \"<%= template.displayName %>\"?",
+    "TEXT_CONFIRM_DELETE": "<%= template.displayName %>일에 생성된 템플릿 <%= template.createdAt.toLocaleString() %>을 정말로 삭제하시겠습니까?",
+    "BUTTON_DELETE": "삭제",
+    "BUTTON_CANCEL": "취소"
+}

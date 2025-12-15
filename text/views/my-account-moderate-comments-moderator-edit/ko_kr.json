@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "맞춤 설정 - FastComments",
+    "HEADING_ADD": "운영자 추가",
+    "HEADING_EDIT": "<%= moderator.name %>를 맞춤 설정하세요",
+    "SUB_HEADING_ADD": "운영자 추가",
+    "SUB_HEADING_EDIT": "편집 중 <%= moderator.name %>",
+    "INTRO_PARAGRAPH_1": "댓글 관리 권한을 다른 사람에게 부여하고 싶다면 제대로 찾아오셨습니다.",
+    "INTRO_PARAGRAPH_2": "참고로 관리자 사용자는 이미 관리 권한을 가지고 있으므로 별도의 관리자 권한을 추가할 필요가 없습니다.",
+    "NAME_SECTION_HEADING": "그들에게 이름을 지어주세요",
+    "NAME_LABEL": "이름",
+    "NAME_PLACEHOLDER": "사회자님 가이",
+    "EMAIL_SECTION_HEADING": "이메일 주소가 필요합니다.",
+    "EMAIL_LABEL": "이메일",
+    "EMAIL_PLACEHOLDER": "guy@moderators.com",
+    "GROUPS_SECTION_HEADING": "그들은 어떤 단체에 소속되어 있나요?",
+    "MODERATION_GROUPS_LABEL": "중재 그룹",
+    "CLEAR_ALL_LINK": "모두 지우기",
+    "GROUPS_DESCRIPTION": "이들은 관리자 댓글 페이지에서 해당 그룹의 댓글만 볼 수 있습니다.",
+    "SAVE_BUTTON": "구하다"
+}

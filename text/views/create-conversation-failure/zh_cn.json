@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "创建对话失败 - FastComments",
+    "META_DESCRIPTION": "联系 FastComments.com",
+    "HERO_TITLE_LIGHT": "对话  ",
+    "HERO_TITLE_BOLD": "无法创建。",
+    "HERO_DESCRIPTION": "我们无法创建您的对话。<%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
+    "BUTTON_TRY_AGAIN": "尝试开启一段新的对话。"
+}

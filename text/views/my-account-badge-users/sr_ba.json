@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - Брзи коментари",
+    "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> Korisnik sa značkom <%- tenantBadge.displayLabel %>",
+    "HEADING_USERS_WITH_BADGE_PLURAL": "<%- Number(userBadges.length).toLocaleString() %> Korisnici sa značkom <%- tenantBadge.displayLabel %>",
+    "TEXT_NO_USERS_WITH_BADGE": "Ниједан корисник нема ову значку! Већина значки се додељује аутоматски. Ако је у питању ручна значка, мораћете да је доделите ручно.",
+    "TABLE_HEADER_USER_ID": "ИД корисника",
+    "TABLE_HEADER_EMAIL": "Е-пошта",
+    "TABLE_HEADER_AVATAR": "Аватар",
+    "TABLE_HEADER_NAME": "Име",
+    "TABLE_HEADER_BADGE_EARNED_DATE": "Датум зараде значке",
+    "TEXT_NA": "Н/Д"
+}

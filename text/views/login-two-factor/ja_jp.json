@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "二要素認証 - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "二要素認証",
+    "HERO_DESCRIPTION": "サインインを完了するには確認コードを入力してください",
+    "ATTEMPTS_REMAINING": "残り試行回数は<%= 5 - session.attempts %>回",
+    "LABEL_METHOD_SELECT": "検証方法を選択してください:",
+    "METHOD_AUTHENTICATOR": "認証アプリ",
+    "METHOD_SMS": "SMS",
+    "AUTHENTICATOR_INSTRUCTION": "認証アプリから6桁のコードを入力してください",
+    "SMS_INSTRUCTION": "<%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>にコードを送信しました",
+    "LABEL_VERIFICATION_CODE": "検証コード",
+    "BUTTON_VERIFY": "確認する",
+    "LABEL_BACKUP_CODE": "バックアップコードを入力してください:",
+    "BUTTON_USE_BACKUP_CODE": "バックアップコードを使用する",
+    "BUTTON_BACK": "戻る",
+    "BUTTON_RESEND_SMS": "SMSコードを再送信",
+    "LINK_USE_BACKUP_CODE": "代わりにバックアップコードを使用してください",
+    "LINK_BACK_TO_LOGIN": "← ログインに戻る"
+}

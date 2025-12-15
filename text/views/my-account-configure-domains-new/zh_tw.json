@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "新增域名 - FastComments",
+    "HEADING_USER_ACCOUNT": "<%= user.username %>的帳戶",
+    "HEADING_ADD_DOMAINS": "新增域名",
+    "TEXT_ADD_DOMAIN_INFO": "新增網域後，您可以針對每個網站自訂小工具和使用者互動。此外，我們還可以驗證請求並將其與您的帳戶關聯。",
+    "LABEL_DOMAIN_NAME": "網域",
+    "PLACEHOLDER_DOMAIN_NAME": "輸入頂級域名，例如 fastcomments.com。如果需要，可以使用子網域進一步限制存取。",
+    "TEXT_COMMA_SEPARATED_NOTE": "您可以以逗號分隔的格式輸入網域名稱。",
+    "BUTTON_SAVE": "節省"
+}

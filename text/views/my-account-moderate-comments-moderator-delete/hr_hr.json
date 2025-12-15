@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "Izbriši moderatora - Brzi komentari",
+    "HEADING": "Uklanjanje moderatora",
+    "SUB_HEADING": "Uklanjate <%= moderator.name %>",
+    "CANNOT_UNDO": "Ovo se ne može poništiti. <%= moderator.name %> više neće moći vidjeti niti moderirati vaše komentare.",
+    "NOTIFICATION_INFO": "Bit će obaviješteni o uklanjanju s mjesta moderatora putem automatske e-pošte.",
+    "METRICS_WARNING": "Svi njihovi pokazatelji bit će uklonjeni <b>(ako želite promijeniti njihovu e-poštu, možete je urediti na prethodnoj stranici)</b> .",
+    "CANCEL_LINK": "Otkazati",
+    "DELETE_BUTTON": "Izbriši ovog moderatora"
+}

@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "更新 API 密钥域 - FastComments",
+    "HEADING_UPDATE_API_SECRET_DOMAIN": "更新 API 密钥域",
+    "TEXT_DOMAIN_INFO": "对于 Webhooks 之类的配置，我们将根据此配置确定要使用的 API 密钥。",
+    "LABEL_ASSOCIATE_SECRET_WITH_DOMAIN": "将 API 密钥“<%= apiSecret.name %>”与域名关联：",
+    "OPTION_ALL_DOMAINS": "所有域名",
+    "BUTTON_UPDATE_DOMAIN": "更新域"
+}

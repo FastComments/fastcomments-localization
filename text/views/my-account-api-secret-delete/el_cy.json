@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Διαγραφή μυστικού API - FastComments",
+    "HEADING_DELETE_API_SECRET": "Διαγραφή μυστικού API",
+    "QUESTION_CONFIRM_DELETE": "Είστε σίγουροι ότι θέλετε να καταργήσετε <%= apiSecret.name ? 'the api key \"' + apiSecret.name + '\"' : 'this api key' %>;",
+    "WARNING_USED_BY_WEBHOOKS": "Αυτό το κλειδί API χρησιμοποιείται αυτήν τη στιγμή από ένα webhook. Η διαγραφή του κλειδιού API πριν από την ενημέρωση του webhook θα διακόψει την ενσωμάτωση.",
+    "BUTTON_DELETE_API_SECRET": "Διαγραφή μυστικού API",
+    "BUTTON_CANCEL": "Ματαίωση"
+}

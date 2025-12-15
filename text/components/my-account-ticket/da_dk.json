@@ -1,0 +1,18 @@
+{
+    "LABEL_CUSTOMER": "Kunde",
+    "LABEL_SERVICE_REP": "Servicerepræsentant",
+    "LABEL_OPENED": "Åbnet",
+    "LABEL_STATUS": "Status",
+    "LABEL_CHANGE_STATUS": "Ændre status",
+    "LINK_IMPERSONATE": "Efterligne",
+    "LINK_SWITCH": "Skifte",
+    "AVG_RESPONSE_TIME": "Gennemsnitlig svartid:",
+    "STATUS_AWAITING_YOUR_REPLY": "VENTER PÅ DIT SVAR",
+    "STATE_OPEN": "Åben",
+    "STATE_ACKNOWLEDGED": "Anerkendt",
+    "STATE_RESOLVED": "Løst",
+    "ERROR_GET_TICKET_FAILED": "En anmodning om at få de seneste billetoplysninger mislykkedes.",
+    "ERROR_CHANGE_STATE_FAILED": "En anmodning om at ændre billetstatus mislykkedes.",
+    "INITIAL_COMMENT": "Hej [username]! Du har oprettet en sag kaldet \"[subject]\". Indtal venligst nogle yderligere oplysninger, så vender @[assignedTagName] tilbage til dig.",
+    "STATUS_CHANGE_COMMENT": "[username] ændrede status fra [oldStatus] til [newStatus]."
+}

@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Неуспешно създаване на разговор - FastComments",
+    "META_DESCRIPTION": "Свържете се с FastComments.com",
+    "HERO_TITLE_LIGHT": "Разговор ",
+    "HERO_TITLE_BOLD": "Не можа да бъде създадено",
+    "HERO_DESCRIPTION": "Не успяхме да създадем разговора ви. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
+    "BUTTON_TRY_AGAIN": "Опитайте се да създадете нов разговор."
+}

@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "票號“<%- ticketViewModel.subject %>”",
+    "MESSAGE_ASSIGNED": "您的工單已指派給客服代表。如果你們雙方都在線，你可以與他們進行即時溝通；當然，你也可以先留下一些訊息，稍後再回來繼續。",
+    "MESSAGE_FIND_AGAIN": "關閉此頁面不會遺失聊天記錄。您可以透過<a href=\"/auth/my-account/tickets\">支援頁面</a>再次找到它。",
+    "HEADING_NOT_FOUND": "未找到",
+    "MESSAGE_NOT_FOUND": "我們找不到那張票。"
+}

@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "統合トークンの削除 - FastComments",
+    "HEADING": "統合トークンの削除",
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "この <%= integration.readableType %> 統合トークン を削除してもよろしいですか?",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "この <%= integration.readableType %> 統合トークン for <%= integration.domain %> を削除してもよろしいですか?",
+    "DELETE_BUTTON": "消去",
+    "CANCEL_LINK": "キャンセル"
+}

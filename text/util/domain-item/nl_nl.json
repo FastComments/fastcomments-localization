@@ -1,0 +1,6 @@
+{
+    "BUTTON_CLICK_TO_UPDATE_LOGO": "Klik om het logo bij te werken voor <%= domain.domain %>",
+    "BUTTON_CLICK_TO_SET_LOGO": "Klik om het logo in te stellen voor <%= domain.domain %>",
+    "TEXT_DOMAIN_VALID": "✔️ <%= domain.domain %>",
+    "TEXT_DOMAIN_INVALID": "❌ \"<%= domain.input %>\": <%= domain.reason %>"
+}

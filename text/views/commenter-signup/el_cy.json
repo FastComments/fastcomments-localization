@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Εγγραφή",
+    "HERO_TITLE_LIGHT": "Γίνετε μέλος του ",
+    "HERO_TITLE_BOLD": "Συζήτηση",
+    "HERO_DESCRIPTION": "Θέλετε να σχολιάσετε έναν ιστότοπο που χρησιμοποιεί το FastComments; Έχετε έρθει στο σωστό μέρος.",
+    "HERO_ADDITIONAL_TEXT": "Αν θέλετε να προσθέσετε το FastComments σε έναν ιστότοπο, θα πρέπει να εγγραφείτε <a href=\"/auth/tenant-signup?email=<%= email %>\">εδώ.</a>",
+    "FORM_DESCRIPTION": "Το μόνο που χρειάζεστε είναι ένα όνομα χρήστη και ένα email για να εγγραφείτε.",
+    "LABEL_USERNAME": "*Όνομα χρήστη:",
+    "PLACEHOLDER_USERNAME": "Εισαγάγετε ένα όνομα χρήστη",
+    "USERNAME_PATTERN_TITLE": "Παρακαλώ μην χρησιμοποιείτε ειδικούς χαρακτήρες - μόνο αριθμούς και γράμματα.",
+    "USERNAME_DESCRIPTION": "Αυτό το όνομα χρήστη θα είναι δημόσια ορατό.",
+    "LABEL_EMAIL": "*E-mail:",
+    "PLACEHOLDER_EMAIL": "Εισαγάγετε μια διεύθυνση ηλεκτρονικού ταχυδρομείου",
+    "EMAIL_DESCRIPTION": "Θα σας στείλουμε έναν σύνδεσμο μέσω email για να ολοκληρώσετε τον λογαριασμό σας και να συνδεθείτε.",
+    "SIGNUP_EMAIL_TEXT": "Εγγράφεστε χρησιμοποιώντας <b><%= email %></b> .",
+    "TERMS_AGREEMENT": "Κάνοντας κλικ στην επιλογή Εγγραφή, συμφωνείτε με τους <a href=\"/terms-of-service\" target=\"_blank\">Όρους Παροχής Υπηρεσιών</a> .",
+    "BUTTON_SIGN_UP": "Εγγραφή",
+    "LABEL_CAPTCHA": "Τι είναι <%= captchaA %> + <%= captchaB %>;",
+    "CAPTCHA_HELP": "Βοηθά να προσδιοριστεί ότι δεν είστε bot."
+}

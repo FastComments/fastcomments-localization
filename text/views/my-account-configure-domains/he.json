@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "החשבון שלי",
+    "HEADING_MY_DOMAINS": "הדומיינים שלי",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "הדומיינים נוספו בהצלחה!",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "הדומיין הוסר בהצלחה!",
+    "TEXT_SETTING_UPDATED_SUCCESS": "ההגדרה עודכנה בהצלחה!",
+    "TEXT_IMAGE_UPLOAD_ERROR": "שגיאת העלאת תמונה: <%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "להלן תצורה כיצד הודעות דוא\"ל צריכות להיראות כאשר FastComments שולח הודעות דוא\"ל למגיבים שלך. אינך צריך להזין דבר אם אינך רוצה להתאים זאת אישית.",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>הערה: הגדרות השם &quot;מאת&quot; ו&quot;דוא&quot;ל&quot; אינן משפיעות על הודעות דוא&quot;ל הנשלחות למנהלי מערכת.</b>",
+    "LINK_REMOVE": "לְהַסִיר",
+    "TEXT_AUTO_ADDED_NOTICE": "נוסף אוטומטית במהלך תקופת הניסיון.",
+    "TITLE_AUTO_ADDED": "נוסף אוטומטית במהלך תקופת הניסיון בהתבסס על תנועת הגולשים לחשבונך. זה נעשה כדי להקל על ההגדרה, וזה קורה רק במהלך תקופת הניסיון.",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "שם מאת בעת שליחת דוא\"ל למשתמש",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "דוא\"ל מאת משתמש בעת שליחת דוא\"ל",
+    "TEXT_EMAIL_ERROR": "משהו נראה לא בסדר באימייל הזה. שמרנו את כל השינויים האחרים.",
+    "TEXT_LOGO_MAX_SIZE": "גודל מקסימלי: 1 מגה-בייט. לא שונה בגודל.",
+    "BUTTON_SAVE": "לְהַצִיל",
+    "TEXT_NO_DOMAINS_WARNING": "וואו! אין לך דומיינים. הווידג'טים שלך לא יוכלו להיטען עד שתשייך דומיין אחד או יותר לחשבונך.",
+    "TITLE_ADD_DOMAIN": "הוסף דומיין",
+    "TEXT_ADD_A_DOMAIN": "הוסף דומיין"
+}

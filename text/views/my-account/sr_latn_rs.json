@@ -1,0 +1,7 @@
+{
+    "TITLE": "Moj nalog - FastComments",
+    "WELCOME_BACK": "Dobrodošao nazad<%- user.displayName || user.username %>.",
+    "SNAPSHOT_MESSAGE": "Evo kratkog snimka vašeg naloga.",
+    "JAVASCRIPT_REQUIRED": "FastComments zahteva JavaScript da bi ispravno funkcionisao.",
+    "JAVASCRIPT_NOTE": "Obrati pažnju! Mi koristimo vrlo minimalan JS - bez teških okvira - da ograničimo upotrebu memorije. Nadamo se da ćete uživati u našem proizvodu."
+}

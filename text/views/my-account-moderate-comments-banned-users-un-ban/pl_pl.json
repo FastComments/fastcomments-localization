@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Odblokuj użytkownika - FastComments",
+    "HEADING": "Odblokuj użytkownika",
+    "SUB_HEADING": "Odblokować <%= bannedUser.username %>?",
+    "CONFIRM_MESSAGE": "Czy na pewno chcesz odblokować tego użytkownika?",
+    "BANNED_FOR_SAYING_TEXT": "Zostali zakazani za powiedzenie „ <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> ”",
+    "UN_BAN_BUTTON": "Odblokuj użytkownika"
+}

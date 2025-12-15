@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Un-Ban korisnika - FastComments",
+    "HEADING": "Un-Ban korisnika",
+    "SUB_HEADING": "Un-Ban <%= bannedUser.username %>?",
+    "CONFIRM_MESSAGE": "Da li ste sigurni da želite da poništite zabranu ovog korisnika?",
+    "BANNED_FOR_SAYING_TEXT": "Oni su bili zabranjeni zbog izgovaranja \"<span class=\"quote\"><%= bannedUser.bannedCommentText %></span>\"",
+    "UN_BAN_BUTTON": "Un-Ban korisnika"
+}

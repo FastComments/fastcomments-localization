@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "Usuń moderatora - FastComments",
+    "HEADING": "Usuwanie moderatora",
+    "SUB_HEADING": "Usuwasz <%= moderator.name %>",
+    "CANNOT_UNDO": "Tego nie można cofnąć. <%= moderator.name %> nie będzie już mógł widzieć ani moderować Twoich komentarzy.",
+    "NOTIFICATION_INFO": "O usunięciu z funkcji moderatora użytkownik zostanie powiadomiony za pośrednictwem automatycznej wiadomości e-mail.",
+    "METRICS_WARNING": "Wszystkie ich dane metryczne zostaną usunięte <b>(jeśli chcesz zmienić ich adres e-mail, możesz go edytować na poprzedniej stronie)</b> .",
+    "CANCEL_LINK": "Anulować",
+    "DELETE_BUTTON": "Usuń tego moderatora"
+}

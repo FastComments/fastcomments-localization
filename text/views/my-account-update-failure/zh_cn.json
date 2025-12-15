@@ -1,0 +1,14 @@
+{
+    "PAGE_TITLE": "更新失败",
+    "HEADING": "账户更新失败",
+    "LINK_TRY_AGAIN": "重试",
+    "MESSAGE_GENERIC": "事情出了大问题。",
+    "MESSAGE_GENERIC_DETAIL": "我们还不确定发生了什么事，但我们会调查一下。",
+    "ERROR_EMAIL_OR_USERNAME_EMPTY": "似乎您的邮箱或用户名为空。请重试。",
+    "ERROR_EMAIL_INVALID": "此邮箱地址似乎无效：[email]",
+    "ERROR_USERNAME_TAKEN": "该用户名已被他人占用！",
+    "ERROR_EMAIL_TAKEN": "抱歉，该邮箱已被他人使用！您是否已有账号？",
+    "ERROR_EMAIL_NOW_TAKEN": "抱歉，您申请的邮箱地址已被他人使用！您是否创建了其他账户？",
+    "ERROR_RATE_LIMITED_MINUTE": "您已超出访问速率限制。请稍后再试，或联系客服。",
+    "ERROR_RATE_LIMITED_DAY": "您已超出每日访问量限制。请24小时后再试，或联系客服。"
+}

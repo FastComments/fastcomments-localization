@@ -1,0 +1,15 @@
+{
+  "PAGE_TITLE": "Billing Analytics - FastComments",
+  "HEADING_BILLING_ANALYTICS": "Billing Analytics",
+  "HEADING_USAGE_THIS_PERIOD": "Usage This Period",
+  "TABLE_HEADER_DESCRIPTION": "Description",
+  "TABLE_HEADER_COST_USD": "Cost (USD)",
+  "TEXT_TOTAL": "Total",
+  "TEXT_TRIAL_PERIOD_NOTE": "You are currently in a trial period. <b>The above amount is not due this billing cycle.</b>",
+  "TEXT_INVOICE_SEND_DATE": "Invoice to be sent on <%= invoiceSendDate %>.",
+  "HEADING_SERVICE_LIMITS": "Service Limits",
+  "TEXT_TRIAL_LIMITS_NOTE": "<b>Note!</b> Since you are in a trial, you have lower limits applied to your account. <a href=\"/auth/my-account/billing-info\">Upgrade to a paid account</a> or <a href=\"/auth/my-account/help\">reach out to support to raise these limits</a>.",
+  "LABEL_CURRENT": "Current:",
+  "LABEL_MAX": "Max:",
+  "TEXT_MAX_NONE": "None"
+}

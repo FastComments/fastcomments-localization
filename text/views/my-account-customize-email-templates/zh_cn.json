@@ -1,0 +1,17 @@
+{
+    "PAGE_TITLE": "自定义电子邮件 - FastComments",
+    "HEADING_CUSTOM_EMAIL_TEMPLATES": "自定义电子邮件模板",
+    "HEADING_CUSTOMIZATION_RULES": "自定义规则",
+    "TEXT_CUSTOM_TEMPLATES_INFO": "在这里，您可以为我们发送给用户的每种类型的电子邮件定义自定义电子邮件模板。",
+    "TEXT_SEPARATE_TEMPLATES_INFO": "如果需要，您可以为每个站点定义单独的模板。",
+    "TEXT_MULTIPLE_ALL_DOMAINS_WARNING": "警告！您为所有域名设置了多个要渲染的模板。只会使用第一个模板。",
+    "TEXT_DOMAIN_LABEL": "领域：",
+    "TEXT_DOMAIN_ALL": "全部",
+    "TEXT_RENDER_ERRORS_NOTE": "这意味着由于语法错误，该模板最近发送失败。",
+    "BUTTON_EDIT": "编辑",
+    "BUTTON_DELETE": "删除",
+    "TEXT_NO_CUSTOM_TEMPLATES": "此邮件未使用自定义模板。",
+    "LINK_CREATE_CUSTOM_TEMPLATE": "创建自定义模板",
+    "ALT_PLUS_ICON": "加号图标",
+    "TITLE_CREATE_NEW": "创建新"
+}

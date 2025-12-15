@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "מחיקת שאלה - תגובות מהירות",
+    "HEADING": "למחוק את \"<%= question.name %>\"?",
+    "CONFIRM_MESSAGE": "האם אתה בטוח שברצונך למחוק את השאלה \"<%= question.question %>\", שנוצרה בתאריך <%= question.createdAt.toLocaleString() %>?",
+    "REPLY_COUNT_MESSAGE": "לשאלה זו יש <%= Number(question.usedCount).toLocaleString() %> תשובות.",
+    "DATA_LOSS_WARNING": "הנתונים מהתשובות הללו לא יהיו זמינים עוד בדיווח.",
+    "DELETE_BUTTON": "לִמְחוֹק",
+    "CANCEL_LINK": "לְבַטֵל"
+}

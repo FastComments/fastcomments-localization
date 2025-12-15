@@ -1,0 +1,12 @@
+{
+    "TITLE": "インポートログ - FastComments",
+    "HEADING": "ジョブ <%= job._id %> のログ",
+    "JOB_LOGS_HEADING": "ジョブログ",
+    "TABLE_LOG": "ログ",
+    "TABLE_DATE": "日付",
+    "NO_LOGS": "このジョブのログはありません。",
+    "POSSIBLE_REASONS": "考えられる理由:",
+    "REASON_NOT_STARTED": "仕事はまだ始まっていないかもしれません。",
+    "REASON_BEFORE_SUPPORT": "ログサポートを追加する前のものかもしれません。",
+    "REASON_NO_SUPPORT": "ジョブ タイプはログをサポートしていない可能性があります。"
+}

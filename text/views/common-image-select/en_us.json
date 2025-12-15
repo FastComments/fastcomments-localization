@@ -1,0 +1,4 @@
+{
+  "IMAGE_SELECT_FILE_TOO_BIG": "That file (<%= (fileSize / 1000000).toFixed(1) %>mb) is too big! The limit is <%= (limitSize / 1e+6).toFixed(1) %>mb.",
+  "IMAGE_SELECT_UNKNOWN_PERSON_ALT": "Unknown Person"
+}

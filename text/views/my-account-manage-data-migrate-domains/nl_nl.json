@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Migreer reacties - FastComments",
+    "HEADING": "Migreer opmerkingen",
+    "INTRO_DESCRIPTION": "Met deze tool kunt u uw reacties in één keer migreren naar verschillende URL's of websites.",
+    "URL_INFO": "Je kunt een deel van een URL invoeren, zoals een domein, of een volledige URL, of een <a href=\"https://docs.fastcomments.com/guide-customizations-and-configuration.html#url-id\" target=\"_blank\">URL-ID</a> .",
+    "DOMAIN_FROM_LABEL": "Van welke URL of welk domein migreert u?",
+    "DOMAIN_FROM_PLACEHOLDER": "voorbeeld.com",
+    "DOMAIN_TO_LABEL": "Naar welke URL of welk domein migreert u?",
+    "DOMAIN_TO_PLACEHOLDER": "some-other-example.com",
+    "START_MIGRATION_BUTTON": "Migratie starten",
+    "EMAIL_NOTIFICATION_INFO": "Je ontvangt een e-mail zodra het klaar is.",
+    "MIGRATIONS_HEADING": "Migraties",
+    "NOSCRIPT_REFRESH_MESSAGE": "Vernieuw de pagina om de meest recente status te bekijken.",
+    "TABLE_HEADER_START_DATE": "Startdatum",
+    "TABLE_HEADER_FROM": "Van",
+    "TABLE_HEADER_TO": "Naar",
+    "TABLE_HEADER_STATUS": "Status",
+    "TABLE_HEADER_COMMENTS_FOUND": "Er zijn reacties gevonden die gemigreerd moeten worden.",
+    "TABLE_HEADER_COMMENTS_MIGRATED": "Reacties overgezet",
+    "NO_MIGRATIONS_MESSAGE": "Je hebt geen lopende of reeds voltooide domeinmigraties."
+}

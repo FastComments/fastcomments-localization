@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Prilagodi - FastComments",
+    "HEADING_ADD": "Dodaj moderatorja",
+    "HEADING_EDIT": "Prilagodi <%= moderator.name %>",
+    "SUB_HEADING_ADD": "Dodaj moderatorja",
+    "SUB_HEADING_EDIT": "Urejanje <%= moderator.name %>",
+    "INTRO_PARAGRAPH_1": "Prišli ste na pravo mesto, če želite nekomu omogočiti dostop do moderiranja vaših komentarjev.",
+    "INTRO_PARAGRAPH_2": "Upoštevajte, da za administratorje ni treba dodajati moderatorjev. Administratorji že imajo zmožnosti moderiranja.",
+    "NAME_SECTION_HEADING": "Daj jim ime",
+    "NAME_LABEL": "Ime",
+    "NAME_PLACEHOLDER": "G. Moderator Guy",
+    "EMAIL_SECTION_HEADING": "Potrebovali bomo e-pošto",
+    "EMAIL_LABEL": "E-pošta",
+    "EMAIL_PLACEHOLDER": "guy@moderators.com",
+    "GROUPS_SECTION_HEADING": "Katerim skupinam pripadajo?",
+    "MODERATION_GROUPS_LABEL": "Moderatorske skupine",
+    "CLEAR_ALL_LINK": "Počisti vse",
+    "GROUPS_DESCRIPTION": "Komentarje iz teh skupin bodo videli samo na strani za moderiranje komentarjev.",
+    "SAVE_BUTTON": "Shrani"
+}

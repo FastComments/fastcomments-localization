@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "<%= otherRegionName %>로 전환하시겠습니까? - FastComments",
+    "HERO_TITLE_LIGHT": "전환하기 ",
+    "HERO_TITLE_BOLD": "<%= otherRegionName %>",
+    "HERO_DESCRIPTION": "<a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a> 에 계정이 있으신데, 거기에서 로그인하시겠습니까?",
+    "INFO_MESSAGE_BOLD": "고객님은 당사의 다른 데이터센터에 계정을 가지고 계십니다.",
+    "INFO_MESSAGE_QUESTION": "그곳으로 리디렉션하시겠습니까?",
+    "INFO_MESSAGE_WARNING": "리디렉션을 하지 않으면, 계정이 없는 경우 저희가 여기에 계정을 생성해 드리겠습니다 <b>. 그러면 계정이 두 개가 됩니다.</b>",
+    "BUTTON_REDIRECT": "<%= otherRegionName %>로 리디렉션",
+    "BUTTON_CONTINUE_HERE": "여기에서 계속하세요"
+}

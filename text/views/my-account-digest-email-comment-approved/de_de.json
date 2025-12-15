@@ -1,0 +1,8 @@
+{
+    "TITLE": "Kommentar freigegeben – FastComments",
+    "HEADING": "Erfolg!",
+    "COMMENT_APPROVED": "Dieser Kommentar wurde als geprüft und genehmigt markiert.",
+    "ALSO_LOGGED_IN": "Sie sind außerdem angemeldet.",
+    "VIEW_COMMENT_ON_SITE": "Sie können den freigegebenen Kommentar auf Ihrer Website <a href=\"<%= comment.url %>\" target=\"_blank\">hier</a> einsehen oder <a href=\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">hier</a> den Kommentarthread-Viewer verwenden.",
+    "CLOSE_PAGE": "Sie können diese Seite jetzt schließen."
+}

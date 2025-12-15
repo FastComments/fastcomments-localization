@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Poslata e-pošta na <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "BUTTON_BACK": "← Nazad na poslate poruke e-pošte",
+    "HEADING": "Poslato e-mail na <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "LABEL_DATE": "Datum:",
+    "LABEL_FROM": "Od:",
+    "LABEL_TO": "Za:",
+    "LABEL_BCC": "BCC:",
+    "LABEL_SUBJECT": "Tema:",
+    "LABEL_HEADERS": "Zaglavlja:",
+    "HEADING_EMAIL_CONTENT": "Sadržaj e-pošte",
+    "MESSAGE_NO_CONTENT": "Nema dostupnog sadržaja",
+    "VALUE_UNKNOWN": "Nepoznato",
+    "VALUE_NO_SUBJECT": "(Nema predmeta)"
+}

@@ -1,0 +1,8 @@
+{
+  "PAGE_TITLE": "Delete Integration Token - FastComments",
+  "HEADING": "Delete Integration Token",
+  "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "Are you sure you want to delete this <%= integration.readableType %> integration token?",
+  "CONFIRM_DELETE_MESSAGE_DOMAIN": "Are you sure you want to delete this <%= integration.readableType %> integration token for <%= integration.domain %>?",
+  "DELETE_BUTTON": "Delete",
+  "CANCEL_LINK": "Cancel"
+}

@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Mijn account verwijderen",
+    "HEADING_DELETE_ACCOUNT": "Verwijder het account van <%= user.username %>",
+    "TEXT_PRIVACY_POLICY_NOTE": "Als u uw account verwijdert vanwege privacybez concerns, raadpleeg dan ons <a href=\"/privacy-policy\">privacybeleid</a> . Wij verkopen of delen uw gegevens niet met derden.",
+    "TEXT_ALSO_DELETING_TENANT": "Ook huurder \"<%= tenant ? tenant.name : '' %>\" wordt verwijderd.",
+    "TEXT_ACCOUNT_OWNER_WARNING": "U bent de eigenaar van het account. Door uw account te verwijderen, wordt deze tenant verwijderd.",
+    "TEXT_SUBSCRIPTION_CANCELLED": "Uw abonnement wordt eveneens geannuleerd.",
+    "TEXT_NO_SELL_DATA": "Houd er rekening mee dat FastComments uw persoonlijke gegevens <b>niet verkoopt of deelt</b> met derden. We bieden gratis accountaanmaak aan, puur voor uw gemak.",
+    "HEADING_CONFIRMATION": "Bevestiging",
+    "LABEL_REMOVE_COMMENTS": "Alle <%= commentCount %> reacties verwijderen?",
+    "LABEL_CONFIRM_REMOVAL": "Vink dit vakje aan om de verwijdering van uw account te bevestigen. Het verwijderen van uw account of bijbehorende reacties kan niet ongedaan worden gemaakt.",
+    "LABEL_FEEDBACK": "Help ons te begrijpen waarom we je zien vertrekken.",
+    "BUTTON_NO_DONT_DELETE": "Nee, verwijder mijn account niet.",
+    "BUTTON_YES_DELETE": "Ja, verwijder mijn account."
+}

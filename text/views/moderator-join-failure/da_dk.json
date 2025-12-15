@@ -1,0 +1,10 @@
+{
+    "PAGE_TITLE": "Invitationen mislykkedes",
+    "HERO_TITLE_LIGHT": "Invitér ",
+    "HERO_TITLE_BOLD": "Fiasko",
+    "DEFAULT_ERROR": "Noget gik frygteligt galt. Vi er ikke sikre på, hvad der skete, men vi vil kigge på det.",
+    "ERROR_LINK_EXPIRED": "<b>Beklager, men det ser ud til, at dette link allerede er blevet brugt eller er mere end 30 dage gammelt. Bed venligst ejeren af det websted, der sendte dig invitationen, om at sende dig et nyt.</b>",
+    "ERROR_LINK_INVALID": "<b>Åh nej! Det ser ud til, at dette link er ugyldigt.</b>",
+    "ERROR_ACCOUNT_NOT_FOUND": "Din konto blev ikke fundet. Kontakt din administrator for at få en ny invitation for at løse dette problem.",
+    "ERROR_EMAIL_MISMATCH": "<b>Den bruger, der aktuelt er logget ind, har en anden e-mailadresse ([userEmail]) end den, der blev sendt i invitationen ([inviteEmail]).</b><br><br> Du kan <a href=\"/auth/logout?redirect=[redirectUrl]\">klikke her</a> for at logge ud og oprette en konto specifikt til moderering."
+}

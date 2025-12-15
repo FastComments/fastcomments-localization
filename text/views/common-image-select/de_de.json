@@ -1,0 +1,4 @@
+{
+    "IMAGE_SELECT_FILE_TOO_BIG": "Diese Datei (<%= (fileSize / 1000000).toFixed(1) %>MB) ist zu groß! Die maximale Größe beträgt <%= (limitSize / 1e+6).toFixed(1) %>MB.",
+    "IMAGE_SELECT_UNKNOWN_PERSON_ALT": "Unbekannte Person"
+}

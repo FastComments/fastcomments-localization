@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - FastComments",
+    "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> Benutzer mit Abzeichen <%- tenantBadge.displayLabel %>",
+    "HEADING_USERS_WITH_BADGE_PLURAL": "<%- Number(userBadges.length).toLocaleString() %> Benutzer mit Abzeichen <%- tenantBadge.displayLabel %>",
+    "TEXT_NO_USERS_WITH_BADGE": "Kein Benutzer besitzt dieses Abzeichen! Die meisten Abzeichen werden automatisch vergeben. Falls es sich um ein manuelles Abzeichen handelt, müssen Sie es manuell vergeben.",
+    "TABLE_HEADER_USER_ID": "Benutzer-ID",
+    "TABLE_HEADER_EMAIL": "E-Mail",
+    "TABLE_HEADER_AVATAR": "Avatar",
+    "TABLE_HEADER_NAME": "Name",
+    "TABLE_HEADER_BADGE_EARNED_DATE": "Datum des Erhalts des Abzeichens",
+    "TEXT_NA": "N / A"
+}

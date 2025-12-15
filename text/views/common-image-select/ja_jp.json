@@ -1,0 +1,4 @@
+{
+    "IMAGE_SELECT_FILE_TOO_BIG": "ファイル (<%= (fileSize / 1000000).toFixed(1) %>mb) は大きすぎます。制限は <%= (limitSize / 1e+6).toFixed(1) %>mb です。",
+    "IMAGE_SELECT_UNKNOWN_PERSON_ALT": "不明者"
+}

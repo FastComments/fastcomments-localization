@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "Crna lista reči - FastComments",
+    "HEADING": "Komentar Reč crna lista",
+    "SUB_HEADING": "Prilagodite crnu listu",
+    "SUCCESS_MESSAGE": "Crna lista je uspešno sačuvana.",
+    "INTRO_PARAGRAPH_1": "Ispod su liste reči i fraza odvojenih zarezom koje će biti maskirane u komentarima i korisničkim imenima. Pazite koje reči ovde izaberete - stavljanje previše uobičajenih reči na crnu listu će oterati vašu zajednicu.",
+    "INTRO_PARAGRAPH_2": "Oni su definisani <b>po lokalu</b>. Lokalitet je kombinacija jezika i geografskog regiona.",
+    "INTRO_PARAGRAPH_3": "Videćete da pravimo razliku između <b>reči</b> i <b>fraza</b>. Unosi u listi <b>reči</b> ne bi trebalo da sadrže razmake ili posebne znakove. Ako imate frazu koja sadrži razmake ili tačke itd., Umesto toga dodajte to na listu <b>fraza</b>.",
+    "NOSCRIPT_MESSAGE": "JavaScript je neophodan za ovu konfiguraciju UI da pravilno funkcioniše.",
+    "EDIT_LOCALE_LABEL": "Uredi za Locale",
+    "MASKED_WORDS_LABEL": "Maskirane reči za [localeName].",
+    "MASKED_WORDS_DESCRIPTION": "Reči na ovoj listi (odvojene zarezom) će biti maskirane kao ***.",
+    "MASKED_WORDS_PLACEHOLDER": "Unesite listu loših reči odvojenih zarezom, kao što su \"neke, loše, reči\".",
+    "WORDS_LENGTH_ERROR": "Možete uneti do 5.000 reči po lokalnom jeziku. Uneli ste <span id =\"length-error-count-words-[locale]\"></span>.",
+    "MASKED_PHRASES_LABEL": "Maskirane fraze za [localeName].",
+    "MASKED_PHRASES_DESCRIPTION": "Fraze na ovoj listi (odvojene zarezom) će biti maskirane kao ********.",
+    "MASKED_PHRASES_PLACEHOLDER": "Unesite listu loših fraza odvojenih zarezom, kao što je \"neka loša fraza, neka druga loša fraza\".",
+    "PHRASES_LENGTH_ERROR": "Možete uneti do 5.000 fraza po lokalnom području. Uneli ste <span id =\"length-error-count-phrases-[locale]\"></span>.",
+    "SAVE_BUTTON": "Sačuvaj izmene u [localeName]"
+}

@@ -1,0 +1,7 @@
+{
+    "TITLE": "我的账户 - FastComments",
+    "WELCOME_BACK": "欢迎回来， <%- user.displayName || user.username %>。",
+    "SNAPSHOT_MESSAGE": "以下是您账户的简要概览。",
+    "JAVASCRIPT_REQUIRED": "FastComments 需要 JavaScript 才能正常运行。",
+    "JAVASCRIPT_NOTE": "注意！为了减少内存占用，我们使用了极简的 JavaScript 代码，没有使用任何大型框架。希望您喜欢我们的产品。"
+}

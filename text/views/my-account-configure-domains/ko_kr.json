@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "내 계정",
+    "HEADING_MY_DOMAINS": "내 도메인",
+    "TEXT_DOMAINS_ADDED_SUCCESS": "도메인이 성공적으로 추가되었습니다!",
+    "TEXT_DOMAIN_REMOVED_SUCCESS": "도메인이 성공적으로 삭제되었습니다!",
+    "TEXT_SETTING_UPDATED_SUCCESS": "설정이 성공적으로 업데이트되었습니다!",
+    "TEXT_IMAGE_UPLOAD_ERROR": "이미지 업로드 오류: <%= imageUploadError %>",
+    "TEXT_EMAIL_CONFIG_INFO": "다음은 FastComments에서 댓글 작성자에게 이메일을 보낼 때 이메일 형식을 설정하는 방법입니다. 설정을 변경하지 않으려면 아무것도 입력할 필요가 없습니다.",
+    "TEXT_FROM_NAME_EMAIL_NOTE": "<b>참고: 보내는 사람 이름 및 이메일 설정은 관리자에게 전송되는 이메일에는 영향을 미치지 않습니다.</b>",
+    "LINK_REMOVE": "제거하다",
+    "TEXT_AUTO_ADDED_NOTICE": "체험 기간 중 자동으로 추가되었습니다.",
+    "TITLE_AUTO_ADDED": "계정 트래픽에 따라 체험 기간 동안 자동으로 추가됩니다. 이는 설정 과정을 간소화하기 위한 것이며, 체험 기간 동안에만 발생합니다.",
+    "LABEL_FROM_NAME_WHEN_EMAILING_USER": "이메일을 보낼 때 발신인 이름",
+    "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "이메일을 보낼 때 발신 이메일 주소 입력",
+    "TEXT_EMAIL_ERROR": "이메일에 문제가 있는 것 같습니다. 다른 변경 사항은 모두 저장되었습니다.",
+    "TEXT_LOGO_MAX_SIZE": "최대 크기: 1MB. 크기 조정 안 함.",
+    "BUTTON_SAVE": "구하다",
+    "TEXT_NO_DOMAINS_WARNING": "앗! 도메인이 없습니다. 계정에 하나 이상의 도메인을 연결해야 위젯이 로드됩니다.",
+    "TITLE_ADD_DOMAIN": "도메인 추가",
+    "TEXT_ADD_A_DOMAIN": "도메인을 추가하세요"
+}

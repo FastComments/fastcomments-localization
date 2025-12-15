@@ -1,0 +1,17 @@
+{
+  "PAGE_TITLE": "Customize Emails - FastComments",
+  "HEADING_CUSTOM_EMAIL_TEMPLATES": "Custom Email Templates",
+  "HEADING_CUSTOMIZATION_RULES": "Customization Rules",
+  "TEXT_CUSTOM_TEMPLATES_INFO": "Here you can define custom email templates for each type of email we send to your users.",
+  "TEXT_SEPARATE_TEMPLATES_INFO": "You can define separate templates for each site, if desired.",
+  "TEXT_MULTIPLE_ALL_DOMAINS_WARNING": "Warning! You have multiple templates set to render for All Domains. Only the first one will be used.",
+  "TEXT_DOMAIN_LABEL": "Domain:",
+  "TEXT_DOMAIN_ALL": "All",
+  "TEXT_RENDER_ERRORS_NOTE": "This means the template failed to send recently due to errors in the syntax.",
+  "BUTTON_EDIT": "Edit",
+  "BUTTON_DELETE": "Delete",
+  "TEXT_NO_CUSTOM_TEMPLATES": "No custom templates for this email.",
+  "LINK_CREATE_CUSTOM_TEMPLATE": "Create Custom Template",
+  "ALT_PLUS_ICON": "Plus Icon",
+  "TITLE_CREATE_NEW": "Create New"
+}

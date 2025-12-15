@@ -1,0 +1,6 @@
+{
+  "PAGE_TITLE": "Delete User - FastComments",
+  "HEADING": "Confirm User Removal",
+  "MESSAGE_CONFIRM": "Are you sure you want to remove the user \"<%= userToDeleteUserName %>\"? This will immediately remove them from your account, but they will retain their FastComments account as a commenter.",
+  "BUTTON_DELETE": "Delete User"
+}

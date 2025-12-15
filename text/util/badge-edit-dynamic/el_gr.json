@@ -1,0 +1,6 @@
+{
+    "HEADING_EDITING_BADGE": "Επεξεργασία <%= badge.displayLabel %>",
+    "HEADING_EDITING_BADGE_TYPE": "Editing Σήμα \"<%= BadgeTypeDescriptions[badgeType] %>_\"",
+    "HEADING_CREATING_BADGE_TYPE": "Creating Σήμα \"<%= BadgeTypeDescriptions[badgeType] %>_\"",
+    "LABEL_BADGE_THRESHOLD": "<%= BadgeLimitDescriptions[badgeType] %>"
+}

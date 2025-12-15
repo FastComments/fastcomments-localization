@@ -1,0 +1,9 @@
+{
+    "PAGE_TITLE": "Usuń pytanie - Szybkie komentarze",
+    "HEADING": "Usuwać \"<%= question.name %>\"?",
+    "CONFIRM_MESSAGE": "Czy na pewno chcesz usunąć pytanie „<%= question.question %>”, utworzone dnia <%= question.createdAt.toLocaleString() %>?",
+    "REPLY_COUNT_MESSAGE": "Na to pytanie udzielono <%= Number(question.usedCount).toLocaleString() %> odpowiedzi.",
+    "DATA_LOSS_WARNING": "Dane z tych odpowiedzi nie będą już dostępne w raportach.",
+    "DELETE_BUTTON": "Usuwać",
+    "CANCEL_LINK": "Anulować"
+}

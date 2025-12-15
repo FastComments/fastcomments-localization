@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Utwórz zarządzanego dzierżawcę – FastComments",
+    "HEADING": "Utworzono najemcę",
+    "SUCCESS_MESSAGE": "Twój najemca został pomyślnie utworzony!",
+    "NEXT_STEPS_INTRO": "Aby kontynuować konfigurację, możesz wykonać kilka typowych czynności:",
+    "NEXT_STEP_1": "Dodaj więcej użytkowników.",
+    "NEXT_STEP_2": "Wyślij użytkownikom linki powitalne/logowania.",
+    "NEXT_STEP_3": "Pobierz identyfikator dzierżawcy (dostępny na stronie z informacjami o API/SSO) na potrzeby integracji.",
+    "TENANTS_VIEW_LINK_TEXT": "Można tego dokonać wracając do <a href=\"/auth/my-account/tenants\">widoku najemcy</a> i przełączając się na najemcę.",
+    "TENANT_SWITCHING_INFO": "Wszystkie działania związane z zarządzanymi najemcami są wykonywane poprzez przełączanie najemców, łącznie z usuwaniem najemcy, jeśli zajdzie taka potrzeba."
+}

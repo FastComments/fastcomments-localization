@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "מחיקת סוד API - FastComments",
+    "HEADING_DELETE_API_SECRET": "מחיקת סוד ה-API",
+    "QUESTION_CONFIRM_DELETE": "האם אתה בטוח שאתה רוצה להסיר <%= apiSecret.name ? 'the api key \"' + apiSecret.name + '\"' : 'this api key' %>?",
+    "WARNING_USED_BY_WEBHOOKS": "מפתח API זה נמצא כעת בשימוש על ידי webhook. מחיקת מפתח ה-API לפני עדכון ה-webhook תגרום לשבירת האינטגרציה.",
+    "BUTTON_DELETE_API_SECRET": "מחיקת סוד ה-API",
+    "BUTTON_CANCEL": "לְבַטֵל"
+}

@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "確認整合 - FastComments",
+    "PAGE_HEADING": "連接您的整合。",
+    "PAGE_SUBHEADING": "確認",
+    "NOSCRIPT_MESSAGE": "請啟用 JavaScript 以設定整合。",
+    "UPLOAD_DESCRIPTION": "如果需要，我們可以在同步過程中自動從您的<%= integrationName %>安裝上傳您的評論。否則，請取消選取下面的複選框，您可以稍後自行操作。",
+    "CHECKBOX_UPLOAD_COMMENTS": "自動上傳我的評論。",
+    "CHECKBOX_UPLOAD_COMMENTS_HELP": "您稍後可以從外掛程式管理頁面上傳您的評論。",
+    "CHECKBOX_SYNC_DATABASE": "自動保持我的<%= integrationName %>資料庫同步。",
+    "CHECKBOX_SYNC_DATABASE_HELP": "這樣可以保持您的<%= integrationName %>資料庫最新。如果某些外掛程式需要資料庫中的最新評論，這將非常有用。在訪問量非常大的網站中，通常會停用此功能，因為保持<%= integrationName %>資料庫最新會造成不必要的負載。",
+    "BUTTON_START_SYNC": "開始同步"
+}

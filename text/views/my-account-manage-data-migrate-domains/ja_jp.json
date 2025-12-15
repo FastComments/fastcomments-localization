@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "コメントの移行 - FastComments",
+    "HEADING": "コメントの移行",
+    "INTRO_DESCRIPTION": "このツールを使用すると、異なる URL またはサイト間でコメントを一括移行できます。",
+    "URL_INFO": "ドメインなどの URL の一部、または完全な URL、あるいは<a href=\"https://docs.fastcomments.com/guide-customizations-and-configuration.html#url-id\" target=\"_blank\">URL ID</a>を入力できます。",
+    "DOMAIN_FROM_LABEL": "移行元の URL またはドメインは何ですか?",
+    "DOMAIN_FROM_PLACEHOLDER": "example.com",
+    "DOMAIN_TO_LABEL": "移行先の URL またはドメインは何ですか?",
+    "DOMAIN_TO_PLACEHOLDER": "some-other-example.com",
+    "START_MIGRATION_BUTTON": "移行を開始する",
+    "EMAIL_NOTIFICATION_INFO": "完了すると、通知メールが届きます。",
+    "MIGRATIONS_HEADING": "移行",
+    "NOSCRIPT_REFRESH_MESSAGE": "最新のステータスを取得するには、ページを更新してください。",
+    "TABLE_HEADER_START_DATE": "開始日",
+    "TABLE_HEADER_FROM": "から",
+    "TABLE_HEADER_TO": "に",
+    "TABLE_HEADER_STATUS": "状態",
+    "TABLE_HEADER_COMMENTS_FOUND": "移行するコメントが見つかりました",
+    "TABLE_HEADER_COMMENTS_MIGRATED": "コメントの移行",
+    "NO_MIGRATIONS_MESSAGE": "保留中または過去のドメイン移行はありません。"
+}

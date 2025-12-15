@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "API 비밀 키 삭제 - FastComments",
+    "HEADING_DELETE_API_SECRET": "API 비밀 삭제",
+    "QUESTION_CONFIRM_DELETE": "<%= apiSecret.name ? 'the api key \"' + apiSecret.name + '\"' : 'this api key' %>을 정말로 삭제하시겠습니까?",
+    "WARNING_USED_BY_WEBHOOKS": "이 API 키는 현재 웹훅에서 사용 중입니다. 웹훅을 업데이트하기 전에 API 키를 삭제하면 연동이 중단됩니다.",
+    "BUTTON_DELETE_API_SECRET": "API 비밀 삭제",
+    "BUTTON_CANCEL": "취소"
+}

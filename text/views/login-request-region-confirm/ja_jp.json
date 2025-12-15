@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "<%= otherRegionName %> に切り替えますか? - FastComments",
+    "HERO_TITLE_LIGHT": "切り替える ",
+    "HERO_TITLE_BOLD": "<%= otherRegionName %>",
+    "HERO_DESCRIPTION": "あなたは<a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a>にアカウントを持っています - 代わりにそこにログインしますか?",
+    "INFO_MESSAGE_BOLD": "他のデータセンターにアカウントをお持ちです。",
+    "INFO_MESSAGE_QUESTION": "そこにリダイレクトしますか?",
+    "INFO_MESSAGE_WARNING": "リダイレクトしない場合は、アカウントが存在しない場合はここにアカウントが作成され、<b>アカウントが 2 つ存在することになります。</b>",
+    "BUTTON_REDIRECT": "<%= otherRegionName %>にリダイレクト",
+    "BUTTON_CONTINUE_HERE": "ここから続ける"
+}

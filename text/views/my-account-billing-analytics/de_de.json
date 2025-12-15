@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Abrechnungsanalyse – FastComments",
+    "HEADING_BILLING_ANALYTICS": "Abrechnungsanalyse",
+    "HEADING_USAGE_THIS_PERIOD": "Nutzung in diesem Zeitraum",
+    "TABLE_HEADER_DESCRIPTION": "Beschreibung",
+    "TABLE_HEADER_COST_USD": "Kosten (USD)",
+    "TEXT_TOTAL": "Gesamt",
+    "TEXT_TRIAL_PERIOD_NOTE": "Sie befinden sich derzeit in der Testphase. <b>Der oben genannte Betrag ist in diesem Abrechnungszeitraum nicht fällig.</b>",
+    "TEXT_INVOICE_SEND_DATE": "Die Rechnung wird am <%= invoiceSendDate %> versandt.",
+    "HEADING_SERVICE_LIMITS": "Servicegrenzen",
+    "TEXT_TRIAL_LIMITS_NOTE": "<b>Hinweis!</b> Da Sie sich in der Testphase befinden, gelten für Ihr Konto niedrigere Limits. Um diese Limits zu erhöhen <a href=\"/auth/my-account/billing-info\">, wechseln Sie zu einem kostenpflichtigen Konto</a> oder <a href=\"/auth/my-account/help\">wenden Sie sich an den Support</a> .",
+    "LABEL_CURRENT": "Aktuell:",
+    "LABEL_MAX": "Max:",
+    "TEXT_MAX_NONE": "Keiner"
+}

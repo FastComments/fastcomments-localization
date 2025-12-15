@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Slet API-hemmelighed - FastComments",
+    "HEADING_DELETE_API_SECRET": "Slet API-hemmelighed",
+    "QUESTION_CONFIRM_DELETE": "Er du sikker på, at du vil fjerne <%= apiSecret.name ? 'the api key \"' + apiSecret.name + '\"' : 'this api key' %>?",
+    "WARNING_USED_BY_WEBHOOKS": "Denne API-nøgle bruges i øjeblikket af en webhook. Sletning af API-nøglen før opdatering af webhooken vil afbryde integrationen.",
+    "BUTTON_DELETE_API_SECRET": "Slet API-hemmelighed",
+    "BUTTON_CANCEL": "Ophæve"
+}

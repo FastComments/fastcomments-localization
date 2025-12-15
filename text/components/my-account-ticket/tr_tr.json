@@ -1,0 +1,18 @@
+{
+    "LABEL_CUSTOMER": "Müşteri",
+    "LABEL_SERVICE_REP": "Servis Temsilcisi",
+    "LABEL_OPENED": "Açıldı",
+    "LABEL_STATUS": "Durum",
+    "LABEL_CHANGE_STATUS": "Durumu Değiştir",
+    "LINK_IMPERSONATE": "taklit etmek",
+    "LINK_SWITCH": "Anahtar",
+    "AVG_RESPONSE_TIME": "Ortalama yanıt süresi:",
+    "STATUS_AWAITING_YOUR_REPLY": "CEVABINIZI BEKLİYORUM",
+    "STATE_OPEN": "Açık",
+    "STATE_ACKNOWLEDGED": "Onaylandı",
+    "STATE_RESOLVED": "Çözüldü",
+    "ERROR_GET_TICKET_FAILED": "En son bilet bilgilerini alma isteği başarısız oldu.",
+    "ERROR_CHANGE_STATE_FAILED": "Bilet durumunu değiştirme isteği başarısız oldu.",
+    "INITIAL_COMMENT": "Merhaba [username]! \"[subject]\" adlı bir destek talebi oluşturdunuz. Lütfen ek bilgiler bırakın, @[assignedTagName] sizinle iletişime geçecektir.",
+    "STATUS_CHANGE_COMMENT": "[username], statüsünü [oldStatus]'den [newStatus]'e değiştirdi."
+}
