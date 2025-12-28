@@ -60,7 +60,7 @@
         "bulk-ban-dialog-component": 35,
         "bulk-select-component": 9,
         "comment-component": 34,
-        "comment-list-manager": 151,
+        "comment-list-manager": 152,
         "confirm-dialog-component": 2,
         "dialog-component": 2,
         "header-component": 20,
@@ -1474,7 +1474,8 @@
         "t148": "COMMENT_LIST_ACTION_REMOVED_BADGE_PLURAL",
         "t149": "COMMENT_LIST_ACTION_ADDING_BADGE_PLURAL",
         "t150": "COMMENT_LIST_ACTION_ADDED_BADGE_PLURAL",
-        "t151": "BULK_ACTION_BTN_UNDO"
+        "t151": "BULK_ACTION_BTN_UNDO",
+        "t152": "COMMENT_LIST_WORKED_THROUGH"
     },
     "confirm-dialog-component": {
         "t1": "CONFIRM_DIALOG_CONTINUE",
