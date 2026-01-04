@@ -1,0 +1,12 @@
+{
+    "TITLE": "Configurações de Fatura - FastComments",
+    "HEADING": "Configurações de fatura",
+    "SETTINGS_UPDATED_SUCCESS": "Configurações de fatura atualizadas com sucesso.",
+    "INVOICE_EMAIL_LABEL": "E-mail de cobrança",
+    "INVOICE_EMAIL_HELP": "Este endereço de e-mail será utilizado para o envio de faturas e notificações de cobrança.",
+    "INVOICE_CURRENCY_LABEL": "Moeda da fatura",
+    "SELECT_CURRENCY": "Selecione a moeda",
+    "INVOICE_CURRENCY_HELP": "Essa moeda será utilizada para novas assinaturas e faturas.",
+    "SAVE_CHANGES": "Salvar alterações",
+    "ERROR_STRIPE_UPDATE_FAILED": "Não foi possível atualizar o e-mail de cobrança no Stripe. Tente novamente ou entre em contato com o suporte."
+}

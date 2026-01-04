@@ -1,0 +1,12 @@
+{
+    "TITLE": "Ustawienia faktury – FastComments",
+    "HEADING": "Ustawienia faktury",
+    "SETTINGS_UPDATED_SUCCESS": "Ustawienia faktury zostały pomyślnie zaktualizowane.",
+    "INVOICE_EMAIL_LABEL": "E-mail rozliczeniowy",
+    "INVOICE_EMAIL_HELP": "Na ten adres e-mail będziemy wysyłać faktury i powiadomienia o rachunkach.",
+    "INVOICE_CURRENCY_LABEL": "Waluta faktury",
+    "SELECT_CURRENCY": "Wybierz walutę",
+    "INVOICE_CURRENCY_HELP": "Ta waluta będzie używana w przypadku nowych subskrypcji i faktur.",
+    "SAVE_CHANGES": "Zapisz zmiany",
+    "ERROR_STRIPE_UPDATE_FAILED": "Nie udało się zaktualizować adresu e-mail do rozliczeń w Stripe. Spróbuj ponownie lub skontaktuj się z pomocą techniczną."
+}

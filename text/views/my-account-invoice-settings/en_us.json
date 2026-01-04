@@ -1,0 +1,12 @@
+{
+  "TITLE": "Invoice Settings - FastComments",
+  "HEADING": "Invoice Settings",
+  "SETTINGS_UPDATED_SUCCESS": "Invoice settings updated successfully.",
+  "INVOICE_EMAIL_LABEL": "Billing Email",
+  "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
+  "INVOICE_CURRENCY_LABEL": "Invoice Currency",
+  "SELECT_CURRENCY": "Select Currency",
+  "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+  "SAVE_CHANGES": "Save Changes",
+  "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support."
+}

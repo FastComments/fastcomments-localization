@@ -1,0 +1,12 @@
+{
+    "TITLE": "Podešavanja fakture - FastComments",
+    "HEADING": "Podešavanja fakture",
+    "SETTINGS_UPDATED_SUCCESS": "Podešavanja fakture su uspešno ažurirana.",
+    "INVOICE_EMAIL_LABEL": "E-pošta za naplatu",
+    "INVOICE_EMAIL_HELP": "Ova e-pošta će se koristiti za fakture i obaveštenja o naplati.",
+    "INVOICE_CURRENCY_LABEL": "Valuta fakture",
+    "SELECT_CURRENCY": "Izaberite valutu",
+    "INVOICE_CURRENCY_HELP": "Ova valuta će se koristiti za nove pretplate i fakture.",
+    "SAVE_CHANGES": "Sačuvaj izmene",
+    "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Pokušajte ponovo ili kontaktirajte podršku."
+}

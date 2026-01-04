@@ -1,0 +1,12 @@
+{
+    "TITLE": "Paramètres de facturation - FastComments",
+    "HEADING": "Paramètres de facturation",
+    "SETTINGS_UPDATED_SUCCESS": "Paramètres de facturation mis à jour avec succès.",
+    "INVOICE_EMAIL_LABEL": "Courriel de facturation",
+    "INVOICE_EMAIL_HELP": "Cette adresse e-mail sera utilisée pour les factures et les notifications de facturation.",
+    "INVOICE_CURRENCY_LABEL": "Devise de la facture",
+    "SELECT_CURRENCY": "Sélectionnez la devise",
+    "INVOICE_CURRENCY_HELP": "Cette devise sera utilisée pour les nouveaux abonnements et les factures.",
+    "SAVE_CHANGES": "Enregistrer les modifications",
+    "ERROR_STRIPE_UPDATE_FAILED": "Impossible de mettre à jour l'adresse e-mail de facturation dans Stripe. Veuillez réessayer ou contacter l'assistance."
+}

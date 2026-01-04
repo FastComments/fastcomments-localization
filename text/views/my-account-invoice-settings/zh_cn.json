@@ -1,0 +1,12 @@
+{
+    "TITLE": "发票设置 - FastComments",
+    "HEADING": "发票设置",
+    "SETTINGS_UPDATED_SUCCESS": "发票设置已成功更新。",
+    "INVOICE_EMAIL_LABEL": "账单邮件",
+    "INVOICE_EMAIL_HELP": "此邮箱将用于发送发票和账单通知。",
+    "INVOICE_CURRENCY_LABEL": "发票货币",
+    "SELECT_CURRENCY": "选择货币",
+    "INVOICE_CURRENCY_HELP": "这种货币将用于新的订阅和发票。",
+    "SAVE_CHANGES": "保存更改",
+    "ERROR_STRIPE_UPDATE_FAILED": "Stripe 中的账单邮箱更新失败。请重试或联系客服。"
+}

@@ -1,0 +1,12 @@
+{
+    "TITLE": "Rechnungseinstellungen – Schnellkommentare",
+    "HEADING": "Rechnungseinstellungen",
+    "SETTINGS_UPDATED_SUCCESS": "Die Rechnungseinstellungen wurden erfolgreich aktualisiert.",
+    "INVOICE_EMAIL_LABEL": "Rechnungs-E-Mail",
+    "INVOICE_EMAIL_HELP": "Diese E-Mail-Adresse wird für Rechnungen und Zahlungsbenachrichtigungen verwendet.",
+    "INVOICE_CURRENCY_LABEL": "Rechnungswährung",
+    "SELECT_CURRENCY": "Währung auswählen",
+    "INVOICE_CURRENCY_HELP": "Diese Währung wird für neue Abonnements und Rechnungen verwendet.",
+    "SAVE_CHANGES": "Änderungen speichern",
+    "ERROR_STRIPE_UPDATE_FAILED": "Die Aktualisierung der Rechnungs-E-Mail-Adresse in Stripe ist fehlgeschlagen. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support."
+}

@@ -1,0 +1,12 @@
+{
+    "TITLE": "Nastavitve računa - FastComments",
+    "HEADING": "Nastavitve računa",
+    "SETTINGS_UPDATED_SUCCESS": "Nastavitve računa so bile uspešno posodobljene.",
+    "INVOICE_EMAIL_LABEL": "E-pošta za obračunavanje",
+    "INVOICE_EMAIL_HELP": "Ta e-poštni naslov bo uporabljen za račune in obvestila o obračunavanju.",
+    "INVOICE_CURRENCY_LABEL": "Valuta računa",
+    "SELECT_CURRENCY": "Izberite valuto",
+    "INVOICE_CURRENCY_HELP": "Ta valuta bo uporabljena za nove naročnine in račune.",
+    "SAVE_CHANGES": "Shrani spremembe",
+    "ERROR_STRIPE_UPDATE_FAILED": "Posodobitev e-poštnega naslova za obračunavanje v storitvi Stripe ni uspela. Poskusite znova ali se obrnite na podporo."
+}

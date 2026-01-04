@@ -1,0 +1,12 @@
+{
+    "TITLE": "Fakturaindstillinger - FastComments",
+    "HEADING": "Fakturaindstillinger",
+    "SETTINGS_UPDATED_SUCCESS": "Fakturaindstillingerne er opdateret.",
+    "INVOICE_EMAIL_LABEL": "Fakturerings-e-mail",
+    "INVOICE_EMAIL_HELP": "Denne e-mailadresse vil blive brugt til fakturaer og faktureringsnotifikationer.",
+    "INVOICE_CURRENCY_LABEL": "Fakturavaluta",
+    "SELECT_CURRENCY": "Vælg valuta",
+    "INVOICE_CURRENCY_HELP": "Denne valuta vil blive brugt til nye abonnementer og fakturaer.",
+    "SAVE_CHANGES": "Gem ændringer",
+    "ERROR_STRIPE_UPDATE_FAILED": "Kunne ikke opdatere fakturerings-e-mailadressen i Stripe. Prøv igen, eller kontakt support."
+}

@@ -143,7 +143,7 @@
         "my-account-badge-users": 11,
         "my-account-billing-analytics": 13,
         "my-account-billing-history": 23,
-        "my-account-billing-info": 38,
+        "my-account-billing-info": 39,
         "my-account-cancel": 8,
         "my-account-cancel-failure": 4,
         "my-account-cancel-success": 5,
@@ -245,7 +245,7 @@
         "my-account-ticket": 21,
         "my-account-tickets": 22,
         "my-account-two-factor": 13,
-        "my-account-update-failure": 12,
+        "my-account-update-failure": 13,
         "my-account-users": 41,
         "my-account-users-user-delete": 4,
         "my-account-users-user-edit": 25,
@@ -313,7 +313,8 @@
         "flex-billing": 17,
         "render-error-item": 3,
         "user-permissions": 27,
-        "comment-log-dialog": 97
+        "comment-log-dialog": 97,
+        "my-account-invoice-settings": 10
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -2856,7 +2857,8 @@
         "t35": "LINK_ACTIVATE_TRIAL_LIMITS",
         "t36": "LINK_LIFT_TRIAL_LIMITS",
         "t37": "LINK_CANCEL_SUBSCRIPTION",
-        "t38": "LINK_DELETE_ACCOUNT"
+        "t38": "LINK_DELETE_ACCOUNT",
+        "t39": "BUTTON_INVOICE_SETTINGS"
     },
     "my-account-cancel": {
         "t1": "PAGE_TITLE",
@@ -4944,7 +4946,8 @@
         "t9": "ERROR_EMAIL_TAKEN",
         "t10": "ERROR_EMAIL_NOW_TAKEN",
         "t11": "ERROR_RATE_LIMITED_MINUTE",
-        "t12": "ERROR_RATE_LIMITED_DAY"
+        "t12": "ERROR_RATE_LIMITED_DAY",
+        "t13": "ERROR_STRIPE_UPDATE_FAILED"
     },
     "my-account-users": {
         "t1": "PAGE_TITLE",
@@ -5948,5 +5951,17 @@
         "t95": "MSG_ENGINE_TOKENS",
         "t96": "MSG_TRUST_FACTOR",
         "t97": "MSG_INVALID_LOCALE"
+    },
+    "my-account-invoice-settings": {
+        "t1": "TITLE",
+        "t2": "HEADING",
+        "t3": "SETTINGS_UPDATED_SUCCESS",
+        "t4": "INVOICE_EMAIL_LABEL",
+        "t5": "INVOICE_EMAIL_HELP",
+        "t6": "INVOICE_CURRENCY_LABEL",
+        "t7": "SELECT_CURRENCY",
+        "t8": "INVOICE_CURRENCY_HELP",
+        "t9": "SAVE_CHANGES",
+        "t10": "ERROR_STRIPE_UPDATE_FAILED"
     }
 }

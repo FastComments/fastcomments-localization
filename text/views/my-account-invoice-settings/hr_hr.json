@@ -1,0 +1,12 @@
+{
+    "TITLE": "Postavke računa - Brzi komentari",
+    "HEADING": "Postavke fakture",
+    "SETTINGS_UPDATED_SUCCESS": "Postavke fakture uspješno su ažurirane.",
+    "INVOICE_EMAIL_LABEL": "E-pošta za naplatu",
+    "INVOICE_EMAIL_HELP": "Ova e-mail adresa će se koristiti za fakture i obavijesti o naplati.",
+    "INVOICE_CURRENCY_LABEL": "Valuta fakture",
+    "SELECT_CURRENCY": "Odaberite valutu",
+    "INVOICE_CURRENCY_HELP": "Ova valuta će se koristiti za nove pretplate i fakture.",
+    "SAVE_CHANGES": "Spremi promjene",
+    "ERROR_STRIPE_UPDATE_FAILED": "Nije uspjelo ažuriranje e-pošte za naplatu u Stripeu. Pokušajte ponovno ili se obratite podršci."
+}

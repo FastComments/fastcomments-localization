@@ -1,0 +1,12 @@
+{
+    "TITLE": "請求書設定 - FastComments",
+    "HEADING": "請求書設定",
+    "SETTINGS_UPDATED_SUCCESS": "請求書設定が正常に更新されました。",
+    "INVOICE_EMAIL_LABEL": "請求先メールアドレス",
+    "INVOICE_EMAIL_HELP": "このメールは請求書と請求通知に使用されます。",
+    "INVOICE_CURRENCY_LABEL": "請求通貨",
+    "SELECT_CURRENCY": "通貨を選択",
+    "INVOICE_CURRENCY_HELP": "この通貨は新しいサブスクリプションと請求書に使用されます。",
+    "SAVE_CHANGES": "変更を保存",
+    "ERROR_STRIPE_UPDATE_FAILED": "Stripeで請求先メールアドレスを更新できませんでした。もう一度お試しいただくか、サポートにお問い合わせください。"
+}

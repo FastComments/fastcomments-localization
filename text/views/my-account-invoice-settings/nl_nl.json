@@ -1,0 +1,12 @@
+{
+    "TITLE": "Factuurinstellingen - FastComments",
+    "HEADING": "Factuurinstellingen",
+    "SETTINGS_UPDATED_SUCCESS": "Factuurinstellingen succesvol bijgewerkt.",
+    "INVOICE_EMAIL_LABEL": "Facturerings-e-mail",
+    "INVOICE_EMAIL_HELP": "Dit e-mailadres wordt gebruikt voor facturen en betalingsherinneringen.",
+    "INVOICE_CURRENCY_LABEL": "Factuurvaluta",
+    "SELECT_CURRENCY": "Valuta selecteren",
+    "INVOICE_CURRENCY_HELP": "Deze valuta wordt gebruikt voor nieuwe abonnementen en facturen.",
+    "SAVE_CHANGES": "Wijzigingen opslaan",
+    "ERROR_STRIPE_UPDATE_FAILED": "Het bijwerken van het facturerings-e-mailadres in Stripe is mislukt. Probeer het opnieuw of neem contact op met de klantenservice."
+}
