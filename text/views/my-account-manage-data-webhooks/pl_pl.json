@@ -9,7 +9,7 @@
     "PRODUCTION_NOTE_4": "Niedokonanie tego spowoduje, że integracja nie przejdzie pomyślnie walidacji.",
     "PRODUCTION_NOTE_5": "Należy pamiętać, że <i>wydarzenia nie są natychmiastowe</i> . Mogą wystąpić opóźnienia dochodzące do minuty, ponieważ nasz system jest asynchroniczny.",
     "PRODUCTION_NOTE_6": "Jeśli nie zwrócisz kodu statusu 200 OK, spróbujemy ponownie za minutę. Opóźnienie wydłuża się o minutę po każdym błędzie związanym z tym zdarzeniem.",
-    "DOCUMENTATION_LINK_TEXT": "Aby zapoznać się z dalszą dokumentacją i strukturą żądania, kliknij <a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">tutaj</a> .",
+    "DOCUMENTATION_LINK_TEXT": "Aby zapoznać się z dokumentacją i strukturą żądania, kliknij <a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">tutaj</a> .",
     "NOSCRIPT_MESSAGE": "Do prawidłowego działania tego interfejsu wymagany jest JavaScript.",
     "CONFIGURE_DOMAIN_LABEL": "Konfiguruj dla domeny",
     "ALL_DOMAINS_OPTION": "Wszystkie domeny",

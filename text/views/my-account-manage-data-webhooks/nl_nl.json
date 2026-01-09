@@ -9,7 +9,7 @@
     "PRODUCTION_NOTE_4": "Als u dit niet doet, zal de integratie de validatie niet doorstaan.",
     "PRODUCTION_NOTE_5": "Houd er rekening mee dat <i>gebeurtenissen niet onmiddellijk plaatsvinden</i> . Er kan een vertraging van maximaal een minuut optreden, aangezien ons systeem asynchroon werkt.",
     "PRODUCTION_NOTE_6": "Als u geen 200 OK-statuscode retourneert, proberen we het na een minuut opnieuw. De wachttijd neemt met een minuut toe na elke mislukte poging voor die gebeurtenis.",
-    "DOCUMENTATION_LINK_TEXT": "Voor meer documentatie en de aanvraagstructuur, zie <a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">hier</a> .",
+    "DOCUMENTATION_LINK_TEXT": "Voor documentatie en de aanvraagstructuur, zie <a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">hier</a> .",
     "NOSCRIPT_MESSAGE": "JavaScript is vereist voor een goede werking van deze gebruikersinterface.",
     "CONFIGURE_DOMAIN_LABEL": "Configureren voor domein",
     "ALL_DOMAINS_OPTION": "Alle domeinen",

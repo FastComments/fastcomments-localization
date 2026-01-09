@@ -9,7 +9,7 @@
     "PRODUCTION_NOTE_4": "Ако не направите това, интеграцията ще не премине валидирането.",
     "PRODUCTION_NOTE_5": "Обърнете внимание, че <i>събитията не са незабавни</i> . Възможно е да има забавяне до една минута, тъй като нашата система е асинхронна.",
     "PRODUCTION_NOTE_6": "Ако не върнете код за състояние 200 OK, ще опитаме отново след минута. Забавянето се увеличава с една минута след всеки неуспех за това събитие.",
-    "DOCUMENTATION_LINK_TEXT": "За повече документация и структурата на заявката вижте <a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">тук</a> .",
+    "DOCUMENTATION_LINK_TEXT": "За документацията и структурата на заявката вижте <a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">тук</a> .",
     "NOSCRIPT_MESSAGE": "За правилното функциониране на този потребителски интерфейс е необходим JavaScript.",
     "CONFIGURE_DOMAIN_LABEL": "Конфигуриране за домейн",
     "ALL_DOMAINS_OPTION": "Всички домейни",

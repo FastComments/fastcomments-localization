@@ -9,7 +9,7 @@
     "PRODUCTION_NOTE_4": "Ако то не урадите, интеграција неће проћи валидацију.",
     "PRODUCTION_NOTE_5": "Имајте на уму да <i>догађаји нису тренутни</i> . Може доћи до кашњења од једног минута јер је наш систем асинхрон.",
     "PRODUCTION_NOTE_6": "Ако не вратите статусни код 200 OK, покушаћемо поново после једног минута. Кашњење се повећава за један минут након сваког неуспеха за тај догађај.",
-    "DOCUMENTATION_LINK_TEXT": "За више документације и структуру захтева, погледајте <a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">овде</a> .",
+    "DOCUMENTATION_LINK_TEXT": "За документацију и структуру захтева, погледајте <a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">овде</a> .",
     "NOSCRIPT_MESSAGE": "Јаваскрипт је потребан да би овај кориснички интерфејс правилно функционисао.",
     "CONFIGURE_DOMAIN_LABEL": "Конфигуриши за домен",
     "ALL_DOMAINS_OPTION": "Сви домени",

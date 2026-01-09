@@ -9,7 +9,7 @@
     "PRODUCTION_NOTE_4": "そうしないと、統合の検証が失敗します。",
     "PRODUCTION_NOTE_5": "<i>イベントは即時に発生するわけではありません</i>のでご注意ください。システムは非同期であるため、最大1分程度の遅延が発生する場合があります。",
     "PRODUCTION_NOTE_6": "200 OK ステータスコードを返さない場合は、1分後に再試行します。イベントが失敗するたびに、遅延時間は1分ずつ増加します。",
-    "DOCUMENTATION_LINK_TEXT": "詳細なドキュメントとリクエスト構造については、<a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">ここを</a>参照してください。",
+    "DOCUMENTATION_LINK_TEXT": "ドキュメントとリクエスト構造については、<a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">ここを</a>参照してください。",
     "NOSCRIPT_MESSAGE": "この UI が正しく機能するには JavaScript が必要です。",
     "CONFIGURE_DOMAIN_LABEL": "ドメインの設定",
     "ALL_DOMAINS_OPTION": "すべてのドメイン",

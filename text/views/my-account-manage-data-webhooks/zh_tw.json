@@ -9,7 +9,7 @@
     "PRODUCTION_NOTE_4": "如果不這樣做，整合驗證將失敗。",
     "PRODUCTION_NOTE_5": "請注意，<i>事件並非立即發生</i>。由於我們的系統是異步的，可能會有長達一分鐘的延遲。",
     "PRODUCTION_NOTE_6": "如果您未回傳 200 OK 狀態碼，我們將在 1 分鐘後重試。每次失敗後，延遲時間將增加 1 分鐘。",
-    "DOCUMENTATION_LINK_TEXT": "更多文件和請求結構請參閱<a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">此處</a>。",
+    "DOCUMENTATION_LINK_TEXT": "有關文件和請求結構，請參閱<a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">此處</a>。",
     "NOSCRIPT_MESSAGE": "此使用者介面需要 JavaScript 才能正常運作。",
     "CONFIGURE_DOMAIN_LABEL": "配置域",
     "ALL_DOMAINS_OPTION": "所有域名",

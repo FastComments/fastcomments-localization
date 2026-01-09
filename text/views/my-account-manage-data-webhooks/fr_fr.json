@@ -9,7 +9,7 @@
     "PRODUCTION_NOTE_4": "Ne pas le faire entraînera l'échec de la validation de l'intégration.",
     "PRODUCTION_NOTE_5": "Veuillez noter que <i>les événements ne sont pas immédiats</i> . Un délai allant jusqu&#39;à une minute peut survenir, notre système étant asynchrone.",
     "PRODUCTION_NOTE_6": "Si vous ne renvoyez pas un code d'état 200 OK, nous réessayerons après une minute. Le délai augmente d'une minute après chaque échec pour cet événement.",
-    "DOCUMENTATION_LINK_TEXT": "Pour plus de documentation et la structure de la demande, voir <a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">ici</a> .",
+    "DOCUMENTATION_LINK_TEXT": "Pour la documentation et la structure de la demande, voir <a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">ici</a> .",
     "NOSCRIPT_MESSAGE": "JavaScript est nécessaire au bon fonctionnement de cette interface utilisateur.",
     "CONFIGURE_DOMAIN_LABEL": "Configurer pour le domaine",
     "ALL_DOMAINS_OPTION": "Tous les domaines",

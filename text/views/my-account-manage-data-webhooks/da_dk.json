@@ -9,7 +9,7 @@
     "PRODUCTION_NOTE_4": "Hvis du ikke gør dette, vil integrationen mislykkes med valideringen.",
     "PRODUCTION_NOTE_5": "Bemærk at <i>begivenheder ikke er øjeblikkelige</i> . Der kan være op til et minuts forsinkelse, da vores system er asynkront.",
     "PRODUCTION_NOTE_6": "Hvis du ikke returnerer statuskoden 200 OK, prøver vi igen efter et minut. Forsinkelsen øges med et minut efter hver fejl for den pågældende hændelse.",
-    "DOCUMENTATION_LINK_TEXT": "For mere dokumentation og anmodningsstruktur, se <a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">her</a> .",
+    "DOCUMENTATION_LINK_TEXT": "For dokumentation og anmodningsstruktur, se <a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">her</a> .",
     "NOSCRIPT_MESSAGE": "JavaScript er påkrævet for at denne brugergrænseflade kan fungere korrekt.",
     "CONFIGURE_DOMAIN_LABEL": "Konfigurer for domæne",
     "ALL_DOMAINS_OPTION": "Alle domæner",
