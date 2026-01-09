@@ -314,7 +314,8 @@
         "render-error-item": 3,
         "user-permissions": 27,
         "comment-log-dialog": 97,
-        "my-account-invoice-settings": 10
+        "my-account-invoice-settings": 10,
+        "my-account-rss": 10
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -5969,5 +5970,17 @@
         "t8": "INVOICE_CURRENCY_HELP",
         "t9": "SAVE_CHANGES",
         "t10": "ERROR_STRIPE_UPDATE_FAILED"
+    },
+    "my-account-rss": {
+        "t1": "PAGE_TITLE",
+        "t2": "HEADING",
+        "t3": "DESCRIPTION",
+        "t4": "LABEL_ENABLE_RSS",
+        "t5": "SECURITY_WARNING",
+        "t6": "LABEL_RSS_URL",
+        "t7": "BUTTON_COPY",
+        "t8": "BUTTON_COPIED",
+        "t9": "BUTTON_VIEW_FEED",
+        "t10": "FEED_INFO"
     }
 }
