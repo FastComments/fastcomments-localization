@@ -23,5 +23,11 @@
     "BUTTON_SET_READY": "Prêts à l'emploi",
     "BUTTON_SET_NOT_READY": "Ensemble non prêt",
     "CONFIRM_SET_READY": "Cette action définira manuellement l'état du webhook sur « Prêt », en contournant la validation de la clé API. Continuer ?",
-    "EVENTS_IN_QUEUE": "[count] événements en attente."
+    "EVENTS_IN_QUEUE": "[count] événements en attente.",
+    "INTRO_TEXT": "FastComments prend en charge les webhooks pour les commentaires. Toutes les données sont signées avec une signature HMAC. Vous pouvez configurer les webhooks ci-dessous, globalement ou pour des domaines spécifiques.",
+    "INCLUDE_API_KEY_LABEL": "Inclure la clé API (ancienne version)",
+    "TEST_STATUS_NO_URL": "Veuillez d'abord saisir une URL.",
+    "TEST_STATUS_SUCCESS": "✔️ Charge utile de test envoyée ! Statut : [statusCode]",
+    "TEST_STATUS_FAILED": "❌ Échec du test de la charge utile. Statut : [statusCode]",
+    "TEST_STATUS_ERROR": "❌ Échec de l'envoi de la charge utile de test."
 }

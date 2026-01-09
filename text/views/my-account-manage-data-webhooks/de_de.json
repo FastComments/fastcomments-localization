@@ -23,5 +23,11 @@
     "BUTTON_SET_READY": "Bereitmachen",
     "BUTTON_SET_NOT_READY": "Nicht bereit",
     "CONFIRM_SET_READY": "Dadurch wird der Webhook-Status manuell auf „Bereit“ gesetzt und die API-Schlüsselvalidierung umgangen. Fortfahren?",
-    "EVENTS_IN_QUEUE": "[count] Ereignisse in der Warteschlange."
+    "EVENTS_IN_QUEUE": "[count] Ereignisse in der Warteschlange.",
+    "INTRO_TEXT": "FastComments unterstützt Webhooks für Kommentare. Alle Nutzdaten werden mit einer HMAC-Signatur signiert. Im Folgenden können Sie Webhooks global oder für bestimmte Domains konfigurieren.",
+    "INCLUDE_API_KEY_LABEL": "API-Schlüssel einschließen (Legacy)",
+    "TEST_STATUS_NO_URL": "Bitte geben Sie zuerst eine URL ein.",
+    "TEST_STATUS_SUCCESS": "✔️ Testnutzdaten gesendet! Status: [statusCode]",
+    "TEST_STATUS_FAILED": "❌ Test der Nutzdaten fehlgeschlagen. Status: [statusCode]",
+    "TEST_STATUS_ERROR": "❌ Fehler beim Senden der Testnutzlast."
 }

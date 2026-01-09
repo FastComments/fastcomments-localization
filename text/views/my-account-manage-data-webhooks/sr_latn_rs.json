@@ -23,5 +23,11 @@
     "BUTTON_SET_READY": "Postavi spreman",
     "BUTTON_SET_NOT_READY": "Postavi nije spreman",
     "CONFIRM_SET_READY": "Ovo će ručno podesiti status vebhook-a kao Readi, zaobilazeći validaciju API ključa. Nastaviti?",
-    "EVENTS_IN_QUEUE": "[count] događaje u redu."
+    "EVENTS_IN_QUEUE": "[count] događaje u redu.",
+    "INTRO_TEXT": "FastComments podržava vebhookove za komentare. Svi korisni tereti su potpisani HMAC potpisom. Ispod možete konfigurisati vebhookove globalno ili za određene domene.",
+    "INCLUDE_API_KEY_LABEL": "Uključite API ključ (nasleđe)",
+    "TEST_STATUS_NO_URL": "Molimo Vas da prvo unesete URL.",
+    "TEST_STATUS_SUCCESS": "✔️ Test nosivost poslata! Status: [statusCode]",
+    "TEST_STATUS_FAILED": "❌ Test nosivost nije uspela. Status: [statusCode]",
+    "TEST_STATUS_ERROR": "❌ Failed to send test payload."
 }

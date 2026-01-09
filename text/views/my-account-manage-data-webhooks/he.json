@@ -23,5 +23,11 @@
     "BUTTON_SET_READY": "מוכן להגדרה",
     "BUTTON_SET_NOT_READY": "הסט לא מוכן",
     "CONFIRM_SET_READY": "פעולה זו תגדיר ידנית את סטטוס ה-webhook כ\"מוכן\", תוך עקיפת אימות מפתח ה-API. להמשיך?",
-    "EVENTS_IN_QUEUE": "[count] אירועים בתור."
+    "EVENTS_IN_QUEUE": "[count] אירועים בתור.",
+    "INTRO_TEXT": "FastComments תומך ב-webhooks עבור Comments. כל המטענים חתומים עם חתימת HMAC. למטה ניתן להגדיר webhooks באופן גלובלי או עבור דומיינים ספציפיים.",
+    "INCLUDE_API_KEY_LABEL": "כלול מפתח API (מדור קודם)",
+    "TEST_STATUS_NO_URL": "אנא הזן תחילה כתובת URL.",
+    "TEST_STATUS_SUCCESS": "✔️ מטען בדיקה נשלח! סטטוס: [statusCode]",
+    "TEST_STATUS_FAILED": "❌ בדיקת מטען נכשלה. סטטוס: [statusCode]",
+    "TEST_STATUS_ERROR": "❌ שליחת מטען הבדיקה נכשלה."
 }

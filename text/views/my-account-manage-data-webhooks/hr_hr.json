@@ -23,5 +23,11 @@
     "BUTTON_SET_READY": "Spremno",
     "BUTTON_SET_NOT_READY": "Nije spremno",
     "CONFIRM_SET_READY": "Ovim će se ručno postaviti status webhooka kao Spreman, zaobilazeći validaciju API ključa. Želite li nastaviti?",
-    "EVENTS_IN_QUEUE": "[count] događaja u redu čekanja."
+    "EVENTS_IN_QUEUE": "[count] događaja u redu čekanja.",
+    "INTRO_TEXT": "FastComments podržava webhookove za komentare. Svi korisni sadržaji potpisani su HMAC potpisom. U nastavku možete konfigurirati webhookove globalno ili za određene domene.",
+    "INCLUDE_API_KEY_LABEL": "Uključi API ključ (zastarjelo)",
+    "TEST_STATUS_NO_URL": "Prvo unesite URL.",
+    "TEST_STATUS_SUCCESS": "✔️ Testni teret poslan! Status: [statusCode]",
+    "TEST_STATUS_FAILED": "❌ Testni teret nije uspio. Status: [statusCode]",
+    "TEST_STATUS_ERROR": "❌ Slanje testnog sadržaja nije uspjelo."
 }

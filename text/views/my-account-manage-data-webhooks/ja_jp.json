@@ -23,5 +23,11 @@
     "BUTTON_SET_READY": "準備完了",
     "BUTTON_SET_NOT_READY": "準備ができていません",
     "CONFIRM_SET_READY": "これにより、APIキーの検証をバイパスし、Webhookのステータスを手動で「準備完了」に設定します。続行しますか？",
-    "EVENTS_IN_QUEUE": "キュー内のイベントが [count] 件あります。"
+    "EVENTS_IN_QUEUE": "キュー内のイベントが [count] 件あります。",
+    "INTRO_TEXT": "FastCommentsはコメント用のWebhookをサポートしています。すべてのペイロードはHMAC署名で署名されます。以下で、Webhookをグローバルまたは特定のドメインに対して設定できます。",
+    "INCLUDE_API_KEY_LABEL": "API キーを含める（レガシー）",
+    "TEST_STATUS_NO_URL": "まずURLを入力してください。",
+    "TEST_STATUS_SUCCESS": "✔️ テストペイロードを送信しました！ステータス: [statusCode]",
+    "TEST_STATUS_FAILED": "❌ テストペイロードに失敗しました。ステータス: [statusCode]",
+    "TEST_STATUS_ERROR": "❌ テストペイロードの送信に失敗しました。"
 }

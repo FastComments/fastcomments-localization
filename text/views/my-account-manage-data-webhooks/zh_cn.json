@@ -23,5 +23,11 @@
     "BUTTON_SET_READY": "准备就绪",
     "BUTTON_SET_NOT_READY": "设置尚未就绪",
     "CONFIRM_SET_READY": "这将手动将 webhook 状态设置为“就绪”，绕过 API 密钥验证。是否继续？",
-    "EVENTS_IN_QUEUE": "队列中已处理[count]事件。"
+    "EVENTS_IN_QUEUE": "队列中已处理[count]事件。",
+    "INTRO_TEXT": "FastComments 支持评论的 Webhook。所有有效负载均使用 HMAC 签名进行签名。您可以在下方全局配置 Webhook，也可以针对特定域进行配置。",
+    "INCLUDE_API_KEY_LABEL": "包含 API 密钥（旧版）",
+    "TEST_STATUS_NO_URL": "请先输入网址。",
+    "TEST_STATUS_SUCCESS": "✔️ 测试载荷已发送！状态：[statusCode]",
+    "TEST_STATUS_FAILED": "❌ 测试载荷失败。状态：[statusCode]",
+    "TEST_STATUS_ERROR": "❌ 测试载荷发送失败。"
 }

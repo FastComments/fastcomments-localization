@@ -23,5 +23,11 @@
     "BUTTON_SET_READY": "準備就緒",
     "BUTTON_SET_NOT_READY": "設定尚未就緒",
     "CONFIRM_SET_READY": "這將手動將 webhook 狀態設為“就緒”，繞過 API 金鑰驗證。是否繼續？",
-    "EVENTS_IN_QUEUE": "佇列中已處理[count]事件。"
+    "EVENTS_IN_QUEUE": "佇列中已處理[count]事件。",
+    "INTRO_TEXT": "FastComments 支援評論的 Webhook。所有有效負載均使用 HMAC 簽章進行簽章。您可以在下方全域設定 Webhook，也可以針對特定網域進行設定。",
+    "INCLUDE_API_KEY_LABEL": "包含 API 金鑰（舊版）",
+    "TEST_STATUS_NO_URL": "請先輸入網址。",
+    "TEST_STATUS_SUCCESS": "✔️ 測試載重已發送！狀態：[statusCode]",
+    "TEST_STATUS_FAILED": "❌ 測試載重失敗。狀態：[statusCode]",
+    "TEST_STATUS_ERROR": "❌ 測試負載發送失敗。"
 }

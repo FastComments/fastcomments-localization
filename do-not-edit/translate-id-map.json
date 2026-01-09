@@ -209,7 +209,7 @@
         "my-account-manage-data-users-export": 12,
         "my-account-manage-data-users-export-table": 2,
         "my-account-manage-data-webhook": 2,
-        "my-account-manage-data-webhooks": 32,
+        "my-account-manage-data-webhooks": 38,
         "my-account-manage-data-webhooks-for-domain": 5,
         "my-account-manage-data-webhooks-logs": 40,
         "my-account-managed-tenants-create": 24,
@@ -4173,7 +4173,13 @@
         "t29": "BUTTON_SET_READY",
         "t30": "BUTTON_SET_NOT_READY",
         "t31": "CONFIRM_SET_READY",
-        "t32": "EVENTS_IN_QUEUE"
+        "t32": "EVENTS_IN_QUEUE",
+        "t33": "INTRO_TEXT",
+        "t34": "INCLUDE_API_KEY_LABEL",
+        "t35": "TEST_STATUS_NO_URL",
+        "t36": "TEST_STATUS_SUCCESS",
+        "t37": "TEST_STATUS_FAILED",
+        "t38": "TEST_STATUS_ERROR"
     },
     "my-account-manage-data-webhooks-for-domain": {
         "t1": "ON_COMMENT_CREATED_LABEL",

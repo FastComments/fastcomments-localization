@@ -23,5 +23,11 @@
     "BUTTON_SET_READY": "Klaar voor gebruik",
     "BUTTON_SET_NOT_READY": "Niet gereed",
     "CONFIRM_SET_READY": "Hiermee wordt de webhookstatus handmatig ingesteld op 'Gereed', waardoor de API-sleutelvalidatie wordt overgeslagen. Doorgaan?",
-    "EVENTS_IN_QUEUE": "[count] evenementen in de wachtrij."
+    "EVENTS_IN_QUEUE": "[count] evenementen in de wachtrij.",
+    "INTRO_TEXT": "FastComments ondersteunt webhooks voor reacties. Alle payloads zijn ondertekend met een HMAC-handtekening. Hieronder kunt u webhooks globaal of voor specifieke domeinen configureren.",
+    "INCLUDE_API_KEY_LABEL": "API-sleutel toevoegen (verouderd)",
+    "TEST_STATUS_NO_URL": "Voer eerst een URL in.",
+    "TEST_STATUS_SUCCESS": "✔️ Testpayload verzonden! Status: [statusCode]",
+    "TEST_STATUS_FAILED": "❌ Testpayload mislukt. Status: [statusCode]",
+    "TEST_STATUS_ERROR": "❌ Het verzenden van de testpayload is mislukt."
 }

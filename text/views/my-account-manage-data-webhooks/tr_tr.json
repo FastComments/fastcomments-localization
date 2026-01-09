@@ -23,5 +23,11 @@
     "BUTTON_SET_READY": "Hazırlık Aşamasına Geçin",
     "BUTTON_SET_NOT_READY": "Henüz hazır değil.",
     "CONFIRM_SET_READY": "Bu işlem, API Anahtarı doğrulamasını atlayarak webhook durumunu manuel olarak Hazır olarak ayarlayacaktır. Devam edilsin mi?",
-    "EVENTS_IN_QUEUE": "Sırada [count] olay var."
+    "EVENTS_IN_QUEUE": "Sırada [count] olay var.",
+    "INTRO_TEXT": "FastComments, yorumlar için web kancalarını destekler. Tüm yükler HMAC imzasıyla imzalanır. Aşağıda web kancalarını genel olarak veya belirli alan adları için yapılandırabilirsiniz.",
+    "INCLUDE_API_KEY_LABEL": "API Anahtarını Dahil Et (Eski Sürüm)",
+    "TEST_STATUS_NO_URL": "Lütfen önce bir URL girin.",
+    "TEST_STATUS_SUCCESS": "✔️ Test yükü gönderildi! Durum: [statusCode]",
+    "TEST_STATUS_FAILED": "❌ Test yükü başarısız oldu. Durum: [statusCode]",
+    "TEST_STATUS_ERROR": "❌ Test yükü gönderilemedi."
 }

@@ -23,5 +23,11 @@
     "BUTTON_SET_READY": "Listo",
     "BUTTON_SET_NOT_READY": "El conjunto no está listo",
     "CONFIRM_SET_READY": "Esto configurará manualmente el estado del webhook como Listo, omitiendo la validación de la clave API. ¿Continuar?",
-    "EVENTS_IN_QUEUE": "[count] eventos en cola."
+    "EVENTS_IN_QUEUE": "[count] eventos en cola.",
+    "INTRO_TEXT": "FastComments admite webhooks para comentarios. Todas las cargas útiles se firman con una firma HMAC. A continuación, puede configurar webhooks globalmente o para dominios específicos.",
+    "INCLUDE_API_KEY_LABEL": "Incluir clave API (heredada)",
+    "TEST_STATUS_NO_URL": "Por favor, introduzca una URL primero.",
+    "TEST_STATUS_SUCCESS": "✔️ ¡Carga de prueba enviada! Estado: [statusCode]",
+    "TEST_STATUS_FAILED": "❌ Falló la carga de prueba. Estado: [statusCode]",
+    "TEST_STATUS_ERROR": "❌ Error al enviar la carga útil de prueba."
 }

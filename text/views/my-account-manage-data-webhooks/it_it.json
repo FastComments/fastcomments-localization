@@ -23,5 +23,11 @@
     "BUTTON_SET_READY": "Pronto",
     "BUTTON_SET_NOT_READY": "Imposta Non Pronto",
     "CONFIRM_SET_READY": "In questo modo lo stato del webhook verrà impostato manualmente su Pronto, ignorando la convalida della chiave API. Continuare?",
-    "EVENTS_IN_QUEUE": "[count] eventi in coda."
+    "EVENTS_IN_QUEUE": "[count] eventi in coda.",
+    "INTRO_TEXT": "FastComments supporta i webhook per i commenti. Tutti i payload sono firmati con una firma HMAC. Di seguito è possibile configurare i webhook a livello globale o per domini specifici.",
+    "INCLUDE_API_KEY_LABEL": "Includi chiave API (legacy)",
+    "TEST_STATUS_NO_URL": "Inserisci prima un URL.",
+    "TEST_STATUS_SUCCESS": "✔️ Payload di prova inviato! Stato: [statusCode]",
+    "TEST_STATUS_FAILED": "❌ Test del payload fallito. Stato: [statusCode]",
+    "TEST_STATUS_ERROR": "❌ Impossibile inviare il payload di prova."
 }

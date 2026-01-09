@@ -23,5 +23,11 @@
     "BUTTON_SET_READY": "Klar til opsætning",
     "BUTTON_SET_NOT_READY": "Sæt ikke klar",
     "CONFIRM_SET_READY": "Dette vil manuelt indstille webhook-statussen til Klar og omgå API-nøglens validering. Vil du fortsætte?",
-    "EVENTS_IN_QUEUE": "[count] begivenheder i kø."
+    "EVENTS_IN_QUEUE": "[count] begivenheder i kø.",
+    "INTRO_TEXT": "FastComments understøtter webhooks til kommentarer. Alle nyttelaster er signeret med en HMAC-signatur. Nedenfor kan du konfigurere webhooks globalt eller for specifikke domæner.",
+    "INCLUDE_API_KEY_LABEL": "Inkluder API-nøgle (ældre version)",
+    "TEST_STATUS_NO_URL": "Indtast venligst en URL først.",
+    "TEST_STATUS_SUCCESS": "✔️ Testnyttelast sendt! Status: [statusCode]",
+    "TEST_STATUS_FAILED": "❌ Test af nyttelast mislykkedes. Status: [statusCode]",
+    "TEST_STATUS_ERROR": "❌ Kunne ikke sende testnyttelast."
 }

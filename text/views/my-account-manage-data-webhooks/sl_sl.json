@@ -23,5 +23,11 @@
     "BUTTON_SET_READY": "Pripravljeno",
     "BUTTON_SET_NOT_READY": "Ni pripravljeno",
     "CONFIRM_SET_READY": "S tem boste ročno nastavili stanje spletnega kavlja na Pripravljen, s čimer boste zaobšli preverjanje veljavnosti ključa API. Želite nadaljevati?",
-    "EVENTS_IN_QUEUE": "[count] dogodkov v čakalni vrsti."
+    "EVENTS_IN_QUEUE": "[count] dogodkov v čakalni vrsti.",
+    "INTRO_TEXT": "FastComments podpira spletne kavlje za komentarje. Vsi koristni tokovi so podpisani s podpisom HMAC. Spodaj lahko konfigurirate spletne kavlje globalno ali za določene domene.",
+    "INCLUDE_API_KEY_LABEL": "Vključi ključ API-ja (zastarelo)",
+    "TEST_STATUS_NO_URL": "Najprej vnesite URL.",
+    "TEST_STATUS_SUCCESS": "✔️ Testni tovor poslan! Stanje: [statusCode]",
+    "TEST_STATUS_FAILED": "❌ Testni tovor ni uspel. Stanje: [statusCode]",
+    "TEST_STATUS_ERROR": "❌ Pošiljanje testnega koristnega tovora ni uspelo."
 }

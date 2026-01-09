@@ -23,5 +23,11 @@
     "BUTTON_SET_READY": "Ustaw gotowy",
     "BUTTON_SET_NOT_READY": "Zestaw nie jest gotowy",
     "CONFIRM_SET_READY": "Spowoduje to ręczne ustawienie statusu webhooka na „Gotowy”, pomijając weryfikację klucza API. Kontynuować?",
-    "EVENTS_IN_QUEUE": "[count] wydarzeń w kolejce."
+    "EVENTS_IN_QUEUE": "[count] wydarzeń w kolejce.",
+    "INTRO_TEXT": "FastComments obsługuje webhooki dla komentarzy. Wszystkie dane są podpisywane sygnaturą HMAC. Poniżej możesz skonfigurować webhooki globalnie lub dla określonych domen.",
+    "INCLUDE_API_KEY_LABEL": "Dołącz klucz API (starsza wersja)",
+    "TEST_STATUS_NO_URL": "Proszę najpierw wpisać adres URL.",
+    "TEST_STATUS_SUCCESS": "✔️ Wysłano ładunek testowy! Status: [statusCode]",
+    "TEST_STATUS_FAILED": "❌ Ładunek testowy nie powiódł się. Status: [statusCode]",
+    "TEST_STATUS_ERROR": "❌ Nie udało się wysłać danych testowych."
 }

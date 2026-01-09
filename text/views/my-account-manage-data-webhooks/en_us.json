@@ -2,6 +2,7 @@
   "PAGE_TITLE": "Webhooks - FastComments",
   "HEADING": "Webhooks",
   "WEBHOOK_LOGS_LINK": "Webhook Logs",
+  "INTRO_TEXT": "FastComments supports webhooks for Comments. All payloads are signed with an HMAC signature. Below you can configure webhooks globally or for specific domains.",
   "DOCUMENTATION_LINK_TEXT": "For documentation and the request structure, see <a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">here</a>.",
   "NOSCRIPT_MESSAGE": "JavaScript is required for this UI to function properly.",
   "CONFIGURE_DOMAIN_LABEL": "Configure for Domain",

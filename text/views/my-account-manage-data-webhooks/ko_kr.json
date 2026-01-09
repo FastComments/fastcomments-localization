@@ -23,5 +23,11 @@
     "BUTTON_SET_READY": "준비 완료",
     "BUTTON_SET_NOT_READY": "세트 준비 안 됨",
     "CONFIRM_SET_READY": "이렇게 하면 API 키 유효성 검사를 건너뛰고 웹훅 상태를 수동으로 '준비됨'으로 설정합니다. 계속하시겠습니까?",
-    "EVENTS_IN_QUEUE": "대기 중인 이벤트가 [count]개 있습니다."
+    "EVENTS_IN_QUEUE": "대기 중인 이벤트가 [count]개 있습니다.",
+    "INTRO_TEXT": "FastComments는 댓글에 대한 웹훅을 지원합니다. 모든 페이로드는 HMAC 서명으로 서명됩니다. 아래에서 웹훅을 전역적으로 또는 특정 도메인에 대해 구성할 수 있습니다.",
+    "INCLUDE_API_KEY_LABEL": "API 키 포함(레거시)",
+    "TEST_STATUS_NO_URL": "먼저 URL을 입력하세요.",
+    "TEST_STATUS_SUCCESS": "✔️ 테스트 페이로드 전송 완료! 상태: [statusCode]",
+    "TEST_STATUS_FAILED": "❌ 테스트 페이로드 실패. 상태: [statusCode]",
+    "TEST_STATUS_ERROR": "❌ 테스트 페이로드 전송에 실패했습니다."
 }
