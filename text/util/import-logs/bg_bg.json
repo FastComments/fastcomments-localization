@@ -1,0 +1,5 @@
+{
+    "STARTING_DUPLICATE_DETECTION": "Стартиране на откриване на дубликати за <%= commentCount %> коментари",
+    "SKIPPED_DUPLICATE": "Пропуснат дубликат (разстояние: <%= distance %>). Импортиран от \"<%= importedName %>\": \"<%= importedHtml %>\" | Съществуващ от \"<%= existingName %>\": \"<%= existingHtml %>\"",
+    "DUPLICATE_CHECK_PROGRESS": "Напредък на проверката за дубликати: <%= checked %>/<%= total %> проверени коментари, <%= duplicatesFound %> открити дубликати досега"
+}

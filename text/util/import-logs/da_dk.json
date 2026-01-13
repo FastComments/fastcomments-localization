@@ -1,0 +1,5 @@
+{
+    "STARTING_DUPLICATE_DETECTION": "Starter duplikatdetektion for <%= commentCount %> kommentarer",
+    "SKIPPED_DUPLICATE": "Springet over duplikat (afstand: <%= distance %>). Importeret af \"<%= importedName %>\": \"<%= importedHtml %>\" | Eksisterende af \"<%= existingName %>\": \"<%= existingHtml %>\"",
+    "DUPLICATE_CHECK_PROGRESS": "Status for duplikatkontrol: <%= checked %>_/<%= total %> kommentarer kontrolleret, <%= duplicatesFound %>_ dubletter fundet indtil videre"
+}

@@ -58,5 +58,7 @@
     "ERROR_INVALID_FILE_JUST_COMMENTS": "Zdi se, da je datoteka neveljavna. Datoteka mora biti tipa »json«.",
     "ERROR_GENERIC": "Nekaj je šlo narobe! Poskusite znova pozneje.",
     "ERROR_UPLOAD_FAILED": "Nalaganje datoteke ni uspelo. Poskusite znova pozneje.",
-    "ERROR_CREATE_IMPORT_FAILED": "Uvoza ni bilo mogoče ustvariti. Poskusite znova pozneje."
+    "ERROR_CREATE_IMPORT_FAILED": "Uvoza ni bilo mogoče ustvariti. Poskusite znova pozneje.",
+    "ADVANCED_COMMENTO_DEDUPE_LABEL": "Preskoči podvojene komentarje glede na vsebino?",
+    "ADVANCED_COMMENTO_DEDUPE_HINT": "Omogočite to možnost, če želite preskočiti uvoz komentarjev, ki imajo zelo podobno vsebino kot obstoječi komentarji na isti strani. Uporabno, če ste že uvozili nekaj komentarjev in se želite izogniti podvojitvam."
 }

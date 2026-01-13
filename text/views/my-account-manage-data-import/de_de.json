@@ -58,5 +58,7 @@
     "ERROR_INVALID_FILE_JUST_COMMENTS": "Die Datei scheint ungültig zu sein. Sie muss vom Typ „json“ sein.",
     "ERROR_GENERIC": "Etwas ist schiefgelaufen! Bitte versuchen Sie es später erneut.",
     "ERROR_UPLOAD_FAILED": "Die Datei konnte nicht hochgeladen werden. Bitte versuchen Sie es später erneut.",
-    "ERROR_CREATE_IMPORT_FAILED": "Wir konnten keinen Import erstellen. Bitte versuchen Sie es später erneut."
+    "ERROR_CREATE_IMPORT_FAILED": "Wir konnten keinen Import erstellen. Bitte versuchen Sie es später erneut.",
+    "ADVANCED_COMMENTO_DEDUPE_LABEL": "Doppelte Kommentare aufgrund des Inhalts überspringen?",
+    "ADVANCED_COMMENTO_DEDUPE_HINT": "Aktivieren Sie diese Option, um den Import von Kommentaren zu überspringen, die inhaltlich sehr ähnlichen Kommentaren auf derselben Seite ähneln. Dies ist hilfreich, wenn Sie bereits Kommentare importiert haben und Duplikate vermeiden möchten."
 }

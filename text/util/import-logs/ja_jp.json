@@ -1,0 +1,5 @@
+{
+    "STARTING_DUPLICATE_DETECTION": "<%= commentCount %>件のコメントの重複検出を開始します",
+    "SKIPPED_DUPLICATE": "重複をスキップしました (距離: <%= distance %>)。「<%= importedName %>」によってインポートされました: 「<%= importedHtml %>」 | 「<%= existingName %>」によって存在しています: 「<%= existingHtml %>」",
+    "DUPLICATE_CHECK_PROGRESS": "重複チェックの進行状況: <%= checked %>/<%= total %> 件のコメントがチェックされ、これまでに <%= duplicatesFound %> 件の重複が見つかりました"
+}

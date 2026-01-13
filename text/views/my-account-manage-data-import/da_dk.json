@@ -58,5 +58,7 @@
     "ERROR_INVALID_FILE_JUST_COMMENTS": "Det ser ud til, at filen er ugyldig. Filen skal være af filtypen \"json\".",
     "ERROR_GENERIC": "Noget gik galt! Prøv igen senere.",
     "ERROR_UPLOAD_FAILED": "Kunne ikke uploade filen. Prøv igen senere.",
-    "ERROR_CREATE_IMPORT_FAILED": "Vi kunne ikke oprette en import. Prøv igen senere."
+    "ERROR_CREATE_IMPORT_FAILED": "Vi kunne ikke oprette en import. Prøv igen senere.",
+    "ADVANCED_COMMENTO_DEDUPE_LABEL": "Spring dubletter af kommentarer baseret på indhold over?",
+    "ADVANCED_COMMENTO_DEDUPE_HINT": "Aktivér dette for at springe import af kommentarer over, der har meget lignende indhold som eksisterende kommentarer på samme side. Nyttigt, hvis du allerede har importeret nogle kommentarer og vil undgå dubletter."
 }

@@ -58,5 +58,7 @@
     "ERROR_INVALID_FILE_JUST_COMMENTS": "Il semblerait que ce fichier soit invalide. Il doit être au format « json ».",
     "ERROR_GENERIC": "Une erreur s'est produite ! Veuillez réessayer plus tard.",
     "ERROR_UPLOAD_FAILED": "Impossible de télécharger le fichier. Veuillez réessayer plus tard.",
-    "ERROR_CREATE_IMPORT_FAILED": "L'importation a échoué. Veuillez réessayer plus tard."
+    "ERROR_CREATE_IMPORT_FAILED": "L'importation a échoué. Veuillez réessayer plus tard.",
+    "ADVANCED_COMMENTO_DEDUPE_LABEL": "Ignorer les commentaires en double en fonction du contenu ?",
+    "ADVANCED_COMMENTO_DEDUPE_HINT": "Activez cette option pour ignorer l'importation des commentaires dont le contenu est très similaire à celui de commentaires déjà présents sur la même page. Utile si vous avez déjà importé des commentaires et souhaitez éviter les doublons."
 }

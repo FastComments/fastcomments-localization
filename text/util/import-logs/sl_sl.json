@@ -1,0 +1,5 @@
+{
+    "STARTING_DUPLICATE_DETECTION": "Začetek iskanja dvojnikov za <%= commentCount %> komentarjev",
+    "SKIPPED_DUPLICATE": "Preskočen dvojnik (razdalja: <%= distance %>). Uvožen s strani »<%= importedName %>«: »<%= importedHtml %>« | Obstoječ s strani »<%= existingName %>«: »<%= existingHtml %>«",
+    "DUPLICATE_CHECK_PROGRESS": "Napredek preverjanja dvojnikov: <%= checked %>/<%= total %> preverjenih komentarjev, do sedaj najdenih <%= duplicatesFound %> dvojnikov"
+}

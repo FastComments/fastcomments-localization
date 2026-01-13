@@ -1,0 +1,5 @@
+{
+  "STARTING_DUPLICATE_DETECTION": "Starting duplicate detection for <%= commentCount %> comments",
+  "SKIPPED_DUPLICATE": "Skipped duplicate (distance: <%= distance %>). Imported by \"<%= importedName %>\": \"<%= importedHtml %>\" | Existing by \"<%= existingName %>\": \"<%= existingHtml %>\"",
+  "DUPLICATE_CHECK_PROGRESS": "Duplicate check progress: <%= checked %>/<%= total %> comments checked, <%= duplicatesFound %> duplicates found so far"
+}

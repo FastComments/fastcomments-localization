@@ -1,0 +1,5 @@
+{
+    "STARTING_DUPLICATE_DETECTION": "Start met het detecteren van duplicaten voor <%= commentCount %> reacties",
+    "SKIPPED_DUPLICATE": "Dubbele vermelding overgeslagen (afstand: <%= distance %>). Geïmporteerd door \"<%= importedName %>\": \"<%= importedHtml %>\" | Bestaand door \"<%= existingName %>\": \"<%= existingHtml %>\"",
+    "DUPLICATE_CHECK_PROGRESS": "Voortgang van de controle op duplicaten: <%= checked %>/<%= total %> opmerkingen gecontroleerd, <%= duplicatesFound %> duplicaten tot nu toe gevonden"
+}

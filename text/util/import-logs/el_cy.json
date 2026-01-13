@@ -1,0 +1,5 @@
+{
+    "STARTING_DUPLICATE_DETECTION": "Έναρξη ανίχνευσης διπλότυπων για <%= commentCount %> σχόλια",
+    "SKIPPED_DUPLICATE": "Παράλειψη διπλότυπου (απόσταση: <%= distance %>). Εισαγωγή από \"<%= importedName %>\": \"<%= importedHtml %>\" | Υπάρχον από \"<%= existingName %>\": \"<%= existingHtml %>\"",
+    "DUPLICATE_CHECK_PROGRESS": "Πρόοδος ελέγχου διπλοτύπων: <%= checked %>/<%= total %>_ σχόλια ελέγχθηκαν, <%= duplicatesFound %> διπλότυπα βρέθηκαν μέχρι στιγμής"
+}

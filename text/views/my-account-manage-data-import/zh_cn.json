@@ -58,5 +58,7 @@
     "ERROR_INVALID_FILE_JUST_COMMENTS": "该文件似乎无效。该文件应为“json”文件类型。",
     "ERROR_GENERIC": "出错了！请稍后再试。",
     "ERROR_UPLOAD_FAILED": "文件上传失败，请稍后再试。",
-    "ERROR_CREATE_IMPORT_FAILED": "导入失败，请稍后再试。"
+    "ERROR_CREATE_IMPORT_FAILED": "导入失败，请稍后再试。",
+    "ADVANCED_COMMENTO_DEDUPE_LABEL": "根据内容跳过重复评论？",
+    "ADVANCED_COMMENTO_DEDUPE_HINT": "启用此功能可跳过导入与同一页面上现有评论内容非常相似的评论。如果您已经导入了一些评论并希望避免重复，此功能非常有用。"
 }

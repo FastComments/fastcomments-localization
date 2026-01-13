@@ -58,5 +58,7 @@
     "ERROR_INVALID_FILE_JUST_COMMENTS": "Wygląda na to, że ten plik jest nieprawidłowy. Plik powinien mieć typ pliku „json”.",
     "ERROR_GENERIC": "Coś poszło nie tak! Spróbuj ponownie później.",
     "ERROR_UPLOAD_FAILED": "Nie udało się przesłać pliku. Spróbuj ponownie później.",
-    "ERROR_CREATE_IMPORT_FAILED": "Nie udało się zaimportować. Spróbuj ponownie później."
+    "ERROR_CREATE_IMPORT_FAILED": "Nie udało się zaimportować. Spróbuj ponownie później.",
+    "ADVANCED_COMMENTO_DEDUPE_LABEL": "Pominąć duplikaty komentarzy na podstawie treści?",
+    "ADVANCED_COMMENTO_DEDUPE_HINT": "Włącz tę opcję, aby pominąć importowanie komentarzy o bardzo podobnej treści do komentarzy już istniejących na tej samej stronie. Przydatne, jeśli zaimportowałeś już jakieś komentarze i chcesz uniknąć duplikatów."
 }

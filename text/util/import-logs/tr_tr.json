@@ -1,0 +1,5 @@
+{
+    "STARTING_DUPLICATE_DETECTION": "<%= commentCount %> yorum için yinelenen yorum tespiti başlatılıyor",
+    "SKIPPED_DUPLICATE": "Yinelenen kayıt atlandı (mesafe: <%= distance %>). \"<%= importedName %>\" tarafından içe aktarıldı: \"<%= importedHtml %>\" | \"<%= existingName %>\" tarafından mevcut: \"<%= existingHtml %>\"",
+    "DUPLICATE_CHECK_PROGRESS": "Yinelenen kayıt kontrolü ilerlemesi: <%= checked %>/<%= total %> yorum kontrol edildi, şu ana kadar <%= duplicatesFound %> adet yinelenen kayıt bulundu."
+}

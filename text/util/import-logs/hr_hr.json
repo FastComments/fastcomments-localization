@@ -1,0 +1,5 @@
+{
+    "STARTING_DUPLICATE_DETECTION": "Pokretanje otkrivanja duplikata za <%= commentCount %> komentara",
+    "SKIPPED_DUPLICATE": "Preskočeni duplikat (udaljenost: <%= distance %>). Uvezeno od strane \"<%= importedName %>\": \"<%= importedHtml %>\" | Postojeće od strane \"<%= existingName %>\": \"<%= existingHtml %>\"",
+    "DUPLICATE_CHECK_PROGRESS": "Napredak provjere duplikata: <%= checked %>/<%= total %> komentara provjereno, do sada pronađeno <%= duplicatesFound %> duplikata"
+}

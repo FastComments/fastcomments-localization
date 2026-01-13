@@ -58,5 +58,7 @@
     "ERROR_INVALID_FILE_JUST_COMMENTS": "Parece que o arquivo é inválido. O arquivo deve ser do tipo \"json\".",
     "ERROR_GENERIC": "Algo deu errado! Por favor, tente novamente mais tarde.",
     "ERROR_UPLOAD_FAILED": "Falha ao enviar o arquivo. Por favor, tente novamente mais tarde.",
-    "ERROR_CREATE_IMPORT_FAILED": "Não foi possível criar a importação. Por favor, tente novamente mais tarde."
+    "ERROR_CREATE_IMPORT_FAILED": "Não foi possível criar a importação. Por favor, tente novamente mais tarde.",
+    "ADVANCED_COMMENTO_DEDUPE_LABEL": "Ignorar comentários duplicados com base no conteúdo?",
+    "ADVANCED_COMMENTO_DEDUPE_HINT": "Ative esta opção para ignorar a importação de comentários com conteúdo muito semelhante a comentários já existentes na mesma página. Isso é útil se você já importou alguns comentários e deseja evitar duplicatas."
 }

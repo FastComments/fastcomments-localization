@@ -58,5 +58,7 @@
     "ERROR_INVALID_FILE_JUST_COMMENTS": "該文件似乎無效。該文件應為“json”文件類型。",
     "ERROR_GENERIC": "出錯了！請稍後再試。",
     "ERROR_UPLOAD_FAILED": "文件上傳失敗，請稍後再試。",
-    "ERROR_CREATE_IMPORT_FAILED": "導入失敗，請稍後再試。"
+    "ERROR_CREATE_IMPORT_FAILED": "導入失敗，請稍後再試。",
+    "ADVANCED_COMMENTO_DEDUPE_LABEL": "根據內容跳過重複評論？",
+    "ADVANCED_COMMENTO_DEDUPE_HINT": "啟用此功能可跳過匯入與同一頁面上現有評論內容非常相似的評論。如果您已經匯入了一些評論並希望避免重複，此功能非常有用。"
 }

@@ -58,5 +58,7 @@
     "ERROR_INVALID_FILE_JUST_COMMENTS": "Izgleda da ta datoteka nije valjana. Datoteka bi trebala biti tipa \"json\".",
     "ERROR_GENERIC": "Nešto je pošlo po zlu! Pokušajte ponovno kasnije.",
     "ERROR_UPLOAD_FAILED": "Prijenos datoteke nije uspio. Pokušajte ponovno kasnije.",
-    "ERROR_CREATE_IMPORT_FAILED": "Nismo mogli napraviti uvoz. Pokušajte ponovno kasnije."
+    "ERROR_CREATE_IMPORT_FAILED": "Nismo mogli napraviti uvoz. Pokušajte ponovno kasnije.",
+    "ADVANCED_COMMENTO_DEDUPE_LABEL": "Preskoči duplicirane komentare na temelju sadržaja?",
+    "ADVANCED_COMMENTO_DEDUPE_HINT": "Omogućite ovo kako biste preskočili uvoz komentara koji imaju vrlo sličan sadržaj postojećim komentarima na istoj stranici. Korisno ako ste već uvezli neke komentare i želite izbjeći duplikate."
 }

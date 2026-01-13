@@ -195,7 +195,7 @@
         "my-account-manage-data-copy-comments-table": 0,
         "my-account-manage-data-export": 27,
         "my-account-manage-data-export-table": 17,
-        "my-account-manage-data-import": 60,
+        "my-account-manage-data-import": 62,
         "my-account-manage-data-import-logs": 10,
         "my-account-manage-data-import-scheduled-comments": 49,
         "my-account-manage-data-import-scheduled-comments-table": 9,
@@ -315,7 +315,8 @@
         "user-permissions": 27,
         "comment-log-dialog": 97,
         "my-account-invoice-settings": 10,
-        "my-account-rss": 10
+        "my-account-rss": 10,
+        "import-logs": 3
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -3952,7 +3953,9 @@
         "t57": "ERROR_INVALID_FILE_JUST_COMMENTS",
         "t58": "ERROR_GENERIC",
         "t59": "ERROR_UPLOAD_FAILED",
-        "t60": "ERROR_CREATE_IMPORT_FAILED"
+        "t60": "ERROR_CREATE_IMPORT_FAILED",
+        "t61": "ADVANCED_COMMENTO_DEDUPE_LABEL",
+        "t62": "ADVANCED_COMMENTO_DEDUPE_HINT"
     },
     "my-account-manage-data-import-logs": {
         "t1": "TITLE",
@@ -5982,5 +5985,10 @@
         "t8": "BUTTON_COPIED",
         "t9": "BUTTON_VIEW_FEED",
         "t10": "FEED_INFO"
+    },
+    "import-logs": {
+        "t1": "STARTING_DUPLICATE_DETECTION",
+        "t2": "SKIPPED_DUPLICATE",
+        "t3": "DUPLICATE_CHECK_PROGRESS"
     }
 }

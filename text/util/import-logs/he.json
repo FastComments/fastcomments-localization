@@ -1,0 +1,5 @@
+{
+    "STARTING_DUPLICATE_DETECTION": "הפעלת זיהוי כפילויות עבור <%= commentCount %> תגובות",
+    "SKIPPED_DUPLICATE": "דילג על כפילות (מרחק: <%= distance %>). יובא על ידי \"<%= importedName %>\": \"<%= importedHtml %>\" | קיים על ידי \"<%= existingName %>\": \"<%= existingHtml %>\"",
+    "DUPLICATE_CHECK_PROGRESS": "התקדמות בדיקת כפילויות: <%= checked %>_/<%= total %> הערות נבדקו, <%= duplicatesFound %>_ כפילויות נמצאו עד כה"
+}

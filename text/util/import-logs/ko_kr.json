@@ -1,0 +1,5 @@
+{
+    "STARTING_DUPLICATE_DETECTION": "<%= commentCount %> 댓글에 대한 중복 감지를 시작합니다.",
+    "SKIPPED_DUPLICATE": "중복 항목 건너뛰기(거리: <%= distance %>). 가져온 사용자: \"<%= importedName %>\": \"<%= importedHtml %>\" | 기존 사용자: \"<%= existingName %>\": \"<%= existingHtml %>\"",
+    "DUPLICATE_CHECK_PROGRESS": "중복 확인 진행 상황: <%= checked %>/<%= total %>개의 댓글을 확인했으며, 현재까지 <%= duplicatesFound %>개의 중복 댓글이 발견되었습니다."
+}

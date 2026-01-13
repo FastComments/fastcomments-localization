@@ -1,0 +1,5 @@
+{
+    "STARTING_DUPLICATE_DETECTION": "开始检测重复评论<%= commentCount %>",
+    "SKIPPED_DUPLICATE": "已跳过重复项（距离：<%= distance %>）。导入者“<%= importedName %>”：“<%= importedHtml %>” | 现有者“<%= existingName %>”：“<%= existingHtml %>”",
+    "DUPLICATE_CHECK_PROGRESS": "重复项检查进度：已检查<%= checked %>/<%= total %>条评论，目前已发现<%= duplicatesFound %>条重复项"
+}

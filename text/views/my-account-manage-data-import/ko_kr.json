@@ -58,5 +58,7 @@
     "ERROR_INVALID_FILE_JUST_COMMENTS": "해당 파일은 유효하지 않은 것 같습니다. 파일 형식은 \"json\"이어야 합니다.",
     "ERROR_GENERIC": "오류가 발생했습니다! 나중에 다시 시도해 주세요.",
     "ERROR_UPLOAD_FAILED": "파일 업로드에 실패했습니다. 나중에 다시 시도해 주세요.",
-    "ERROR_CREATE_IMPORT_FAILED": "가져오기를 생성할 수 없습니다. 나중에 다시 시도해 주세요."
+    "ERROR_CREATE_IMPORT_FAILED": "가져오기를 생성할 수 없습니다. 나중에 다시 시도해 주세요.",
+    "ADVANCED_COMMENTO_DEDUPE_LABEL": "내용상 중복 댓글을 건너뛰시겠습니까?",
+    "ADVANCED_COMMENTO_DEDUPE_HINT": "이 옵션을 활성화하면 동일 페이지에 이미 있는 댓글과 내용이 매우 유사한 댓글 가져오기를 건너뛸 수 있습니다. 이미 댓글을 가져왔고 중복을 방지하려는 경우 유용합니다."
 }

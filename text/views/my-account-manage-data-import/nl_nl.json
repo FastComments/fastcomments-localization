@@ -58,5 +58,7 @@
     "ERROR_INVALID_FILE_JUST_COMMENTS": "Het lijkt erop dat het bestand ongeldig is. Het bestand moet van het type \"json\" zijn.",
     "ERROR_GENERIC": "Er is iets misgegaan! Probeer het later opnieuw.",
     "ERROR_UPLOAD_FAILED": "Het uploaden van het bestand is mislukt. Probeer het later opnieuw.",
-    "ERROR_CREATE_IMPORT_FAILED": "Het is niet gelukt om een import aan te maken. Probeer het later opnieuw."
+    "ERROR_CREATE_IMPORT_FAILED": "Het is niet gelukt om een import aan te maken. Probeer het later opnieuw.",
+    "ADVANCED_COMMENTO_DEDUPE_LABEL": "Dubbele reacties overslaan op basis van inhoud?",
+    "ADVANCED_COMMENTO_DEDUPE_HINT": "Schakel deze optie in om reacties met zeer vergelijkbare inhoud als bestaande reacties op dezelfde pagina over te slaan. Dit is handig als u al reacties hebt geïmporteerd en duplicaten wilt voorkomen."
 }

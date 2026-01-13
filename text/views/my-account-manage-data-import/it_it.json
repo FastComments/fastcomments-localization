@@ -58,5 +58,7 @@
     "ERROR_INVALID_FILE_JUST_COMMENTS": "Sembra che il file non sia valido. Il file dovrebbe essere di tipo \"json\".",
     "ERROR_GENERIC": "Qualcosa è andato storto! Riprova più tardi.",
     "ERROR_UPLOAD_FAILED": "Impossibile caricare il file. Riprova più tardi.",
-    "ERROR_CREATE_IMPORT_FAILED": "Non è stato possibile creare un'importazione. Riprova più tardi."
+    "ERROR_CREATE_IMPORT_FAILED": "Non è stato possibile creare un'importazione. Riprova più tardi.",
+    "ADVANCED_COMMENTO_DEDUPE_LABEL": "Vuoi ignorare i commenti duplicati in base al contenuto?",
+    "ADVANCED_COMMENTO_DEDUPE_HINT": "Abilita questa opzione per saltare l'importazione di commenti con contenuti molto simili a commenti esistenti nella stessa pagina. Utile se hai già importato alcuni commenti e vuoi evitare duplicati."
 }
