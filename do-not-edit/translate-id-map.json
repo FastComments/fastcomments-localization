@@ -116,7 +116,7 @@
         "error": 8,
         "global-distribution": 44,
         "homepage-email-opt-out": 5,
-        "index": 93,
+        "index": 95,
         "layout-v2": 1,
         "login-failure": 6,
         "login-forgot-username": 12,
@@ -2343,7 +2343,9 @@
         "t90": "FLOATING_TOOLTIP_SDKS",
         "t91": "FLOATING_TOOLTIP_MODERATION",
         "t92": "FLOATING_TOOLTIP_PRICING",
-        "t93": "FLOATING_TOOLTIP_GLOBAL"
+        "t93": "FLOATING_TOOLTIP_GLOBAL",
+        "t94": "HERO_TITLE_LIGHT_ALT",
+        "t95": "HERO_TITLE_BOLD_ALT"
     },
     "layout-v2": {
         "t1": "PAGE_TITLE_DEFAULT"
