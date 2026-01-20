@@ -6,7 +6,7 @@
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Novi komentar<% } else { %>Novi komentari<% } %>",
     "UNSUBSCRIBE_HERE": "Odjavi pretplatu",
     "APPROVE_COMMENT": "Odobriti",
-    "VIEW_COMMENT": "Pogledaj komentar",
+    "VIEW_COMMENT": "Pogledajte komentar za odgovor",
     "HERE_ARE_LINKS_TO_PAGES": "Ovdje su poveznice na stranice na kojima su ti komentari, s brojem komentara za svaku.",
     "PAGE": "Stranica",
     "NEW_COMMENTS": "Novi komentari",

@@ -6,7 +6,7 @@
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Ny kommentar<% } else { %>Nye kommentarer<% } %>",
     "UNSUBSCRIBE_HERE": "Opsige abonnement",
     "APPROVE_COMMENT": "Godkende",
-    "VIEW_COMMENT": "Se kommentar",
+    "VIEW_COMMENT": "Se kommentar for at svare",
     "HERE_ARE_LINKS_TO_PAGES": "Her er links til de sider, disse kommentarer er på, med antallet af kommentarer for hver.",
     "PAGE": "Side",
     "NEW_COMMENTS": "Nye kommentarer",

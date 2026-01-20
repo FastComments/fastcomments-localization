@@ -6,7 +6,7 @@
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %><% if(commentCount === 1) {%>新しいコメント<% } else { %>新しいコメント<% } %>",
     "UNSUBSCRIBE_HERE": "購読を解除する",
     "APPROVE_COMMENT": "承認",
-    "VIEW_COMMENT": "コメントを見る",
+    "VIEW_COMMENT": "コメントを表示して返信する",
     "HERE_ARE_LINKS_TO_PAGES": "これらのコメントが掲載されているページへのリンクと、それぞれのコメントの数を次に示します。",
     "PAGE": "ページ",
     "NEW_COMMENTS": "新しいコメント",

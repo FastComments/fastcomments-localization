@@ -6,7 +6,7 @@
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%> תגובה חדשה<% } else { %>הערות חדשות<% } %>",
     "UNSUBSCRIBE_HERE": "בטל את המנוי",
     "APPROVE_COMMENT": "לְאַשֵׁר",
-    "VIEW_COMMENT": "הצג תגובה",
+    "VIEW_COMMENT": "הצג תגובה כדי להשיב",
     "HERE_ARE_LINKS_TO_PAGES": "להלן הקישורים לדפים שבהם מופיעות ההערות, עם ספירת ההערות לכל אחת מהן.",
     "PAGE": "עמוד",
     "NEW_COMMENTS": "הערות חדשות",

@@ -6,7 +6,7 @@
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>새 댓글<% } else { %>새 댓글<% } %>",
     "UNSUBSCRIBE_HERE": "구독 취소",
     "APPROVE_COMMENT": "승인",
-    "VIEW_COMMENT": "댓글 보기",
+    "VIEW_COMMENT": "댓글 보기 후 답글 달기",
     "HERE_ARE_LINKS_TO_PAGES": "다음은 해당 댓글이 있는 페이지 링크이며 댓글 수 또한 포함합니다.",
     "PAGE": "페이지",
     "NEW_COMMENTS": "새 댓글",

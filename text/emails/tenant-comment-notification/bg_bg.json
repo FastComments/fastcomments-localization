@@ -6,7 +6,7 @@
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Нов коментар<% } else { %>Нови коментари<% } %>",
     "UNSUBSCRIBE_HERE": "Отписване",
     "APPROVE_COMMENT": "Одобряване",
-    "VIEW_COMMENT": "Вижте коментара",
+    "VIEW_COMMENT": "Преглед на коментара за отговор",
     "HERE_ARE_LINKS_TO_PAGES": "Ето връзките към страниците, на които са тези коментари, с броя на коментарите за всяка.",
     "PAGE": "Страница",
     "NEW_COMMENTS": "Нови коментари",

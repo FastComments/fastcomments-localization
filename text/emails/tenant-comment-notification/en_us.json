@@ -6,7 +6,7 @@
   "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>New Comment<% } else { %>New Comments<% } %>",
   "UNSUBSCRIBE_HERE": "Unsubscribe",
   "APPROVE_COMMENT": "Approve",
-  "VIEW_COMMENT": "View Comment",
+  "VIEW_COMMENT": "View Comment to Reply",
   "HERE_ARE_LINKS_TO_PAGES": "Here are the links to the pages those comments are on, with the count of comments for each.",
   "PAGE": "Page",
   "NEW_COMMENTS": "New Comments",

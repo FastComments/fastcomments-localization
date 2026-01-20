@@ -6,7 +6,7 @@
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>NEW comentário<% } else { %>NEW Comments<% } %>",
     "UNSUBSCRIBE_HERE": "Cancelar subscrição",
     "APPROVE_COMMENT": "Aprovar",
-    "VIEW_COMMENT": "Ver comentário.",
+    "VIEW_COMMENT": "Ver comentário para responder",
     "HERE_ARE_LINKS_TO_PAGES": "Aqui estão os links para as páginas que os comentários estão ligados, com a contagem de comentários para cada um.",
     "PAGE": "Página",
     "NEW_COMMENTS": "Novos Comentários.",
