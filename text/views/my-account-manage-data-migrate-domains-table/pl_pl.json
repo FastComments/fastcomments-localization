@@ -1,3 +1,10 @@
 {
-    "N_A": "Nie dotyczy"
+    "N_A": "Nie dotyczy",
+    "STATUS_REQUESTED": "Wymagany",
+    "STATUS_RUNNING": "Działanie",
+    "STATUS_SUCCESS": "Sukces",
+    "STATUS_FAILED": "Przegrany",
+    "STATUS_EXPIRED": "Wygasły",
+    "STATUS_DELETING": "Usuwanie",
+    "STATUS_CANCELLED": "Odwołany"
 }

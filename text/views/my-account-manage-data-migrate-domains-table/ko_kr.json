@@ -1,3 +1,10 @@
 {
-    "N_A": "해당 없음"
+    "N_A": "해당 없음",
+    "STATUS_REQUESTED": "요청됨",
+    "STATUS_RUNNING": "달리기",
+    "STATUS_SUCCESS": "성공",
+    "STATUS_FAILED": "실패한",
+    "STATUS_EXPIRED": "만료됨",
+    "STATUS_DELETING": "삭제 중",
+    "STATUS_CANCELLED": "취소"
 }

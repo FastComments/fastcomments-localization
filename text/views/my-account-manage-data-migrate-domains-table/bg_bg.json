@@ -1,3 +1,10 @@
 {
-    "N_A": "Няма данни"
+    "N_A": "Няма данни",
+    "STATUS_REQUESTED": "Заявено",
+    "STATUS_RUNNING": "Бягане",
+    "STATUS_SUCCESS": "Успех",
+    "STATUS_FAILED": "Неуспешно",
+    "STATUS_EXPIRED": "Изтекъл",
+    "STATUS_DELETING": "Изтриване",
+    "STATUS_CANCELLED": "Отменено"
 }

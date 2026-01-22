@@ -1,3 +1,10 @@
 {
-    "N_A": "לא רלוונטי"
+    "N_A": "לא רלוונטי",
+    "STATUS_REQUESTED": "מבוקש",
+    "STATUS_RUNNING": "רִיצָה",
+    "STATUS_SUCCESS": "הַצלָחָה",
+    "STATUS_FAILED": "נִכשָׁל",
+    "STATUS_EXPIRED": "פג תוקף",
+    "STATUS_DELETING": "מחיקה",
+    "STATUS_CANCELLED": "בּוּטלָה"
 }

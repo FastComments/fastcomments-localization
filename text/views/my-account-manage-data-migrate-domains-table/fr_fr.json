@@ -1,3 +1,10 @@
 {
-    "N_A": "N / A"
+    "N_A": "N / A",
+    "STATUS_REQUESTED": "Demandé",
+    "STATUS_RUNNING": "En cours d'exécution",
+    "STATUS_SUCCESS": "Succès",
+    "STATUS_FAILED": "Échoué",
+    "STATUS_EXPIRED": "Expiré",
+    "STATUS_DELETING": "Suppression",
+    "STATUS_CANCELLED": "Annulé"
 }

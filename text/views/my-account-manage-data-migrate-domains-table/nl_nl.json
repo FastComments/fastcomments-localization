@@ -1,3 +1,10 @@
 {
-    "N_A": "Niet van toepassing"
+    "N_A": "Niet van toepassing",
+    "STATUS_REQUESTED": "Verzoek ingediend",
+    "STATUS_RUNNING": "Rennen",
+    "STATUS_SUCCESS": "Succes",
+    "STATUS_FAILED": "Mislukt",
+    "STATUS_EXPIRED": "Verlopen",
+    "STATUS_DELETING": "Verwijderen",
+    "STATUS_CANCELLED": "Geannuleerd"
 }

@@ -1,3 +1,10 @@
 {
-    "N_A": "N / A"
+    "N_A": "N / A",
+    "STATUS_REQUESTED": "Richiesto",
+    "STATUS_RUNNING": "Corsa",
+    "STATUS_SUCCESS": "Successo",
+    "STATUS_FAILED": "Fallito",
+    "STATUS_EXPIRED": "Scaduto",
+    "STATUS_DELETING": "Eliminazione",
+    "STATUS_CANCELLED": "Annullato"
 }

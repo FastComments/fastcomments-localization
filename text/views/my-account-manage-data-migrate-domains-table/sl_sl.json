@@ -1,3 +1,10 @@
 {
-    "N_A": "Ni na voljo"
+    "N_A": "Ni na voljo",
+    "STATUS_REQUESTED": "Zahtevano",
+    "STATUS_RUNNING": "Tek",
+    "STATUS_SUCCESS": "Uspeh",
+    "STATUS_FAILED": "Ni uspelo",
+    "STATUS_EXPIRED": "Poteklo",
+    "STATUS_DELETING": "Brisanje",
+    "STATUS_CANCELLED": "Preklicano"
 }

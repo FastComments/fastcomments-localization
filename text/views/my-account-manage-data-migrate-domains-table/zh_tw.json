@@ -1,3 +1,10 @@
 {
-    "N_A": "不適用"
+    "N_A": "不適用",
+    "STATUS_REQUESTED": "已請求",
+    "STATUS_RUNNING": "跑步",
+    "STATUS_SUCCESS": "成功",
+    "STATUS_FAILED": "失敗的",
+    "STATUS_EXPIRED": "已到期",
+    "STATUS_DELETING": "刪除",
+    "STATUS_CANCELLED": "取消"
 }

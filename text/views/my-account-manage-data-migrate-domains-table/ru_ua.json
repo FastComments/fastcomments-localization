@@ -1,3 +1,10 @@
 {
-    "N_A": "Н/Д"
+    "N_A": "Н/Д",
+    "STATUS_REQUESTED": "Запрошено",
+    "STATUS_RUNNING": "Бег",
+    "STATUS_SUCCESS": "Успех",
+    "STATUS_FAILED": "Неуспешный",
+    "STATUS_EXPIRED": "Истекший",
+    "STATUS_DELETING": "Удаление",
+    "STATUS_CANCELLED": "Отменено"
 }

@@ -1,3 +1,10 @@
 {
-    "N_A": "N/A"
+    "N_A": "N/A",
+    "STATUS_REQUESTED": "Zatraženo",
+    "STATUS_RUNNING": "Trčanje",
+    "STATUS_SUCCESS": "Uspjeh",
+    "STATUS_FAILED": "Neuspješno",
+    "STATUS_EXPIRED": "Istekao",
+    "STATUS_DELETING": "Brisanje",
+    "STATUS_CANCELLED": "Otkazano"
 }

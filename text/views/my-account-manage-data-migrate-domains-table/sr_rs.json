@@ -1,3 +1,10 @@
 {
-    "N_A": "Н/Д"
+    "N_A": "Н/Д",
+    "STATUS_REQUESTED": "Захтевано",
+    "STATUS_RUNNING": "Трчање",
+    "STATUS_SUCCESS": "Успех",
+    "STATUS_FAILED": "Неуспешно",
+    "STATUS_EXPIRED": "Истекло",
+    "STATUS_DELETING": "Брисање",
+    "STATUS_CANCELLED": "Отказано"
 }

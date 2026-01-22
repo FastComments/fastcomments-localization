@@ -1,3 +1,10 @@
 {
-    "N_A": "該当なし"
+    "N_A": "該当なし",
+    "STATUS_REQUESTED": "リクエスト",
+    "STATUS_RUNNING": "ランニング",
+    "STATUS_SUCCESS": "成功",
+    "STATUS_FAILED": "失敗した",
+    "STATUS_EXPIRED": "期限切れ",
+    "STATUS_DELETING": "削除中",
+    "STATUS_CANCELLED": "キャンセル"
 }

@@ -205,7 +205,7 @@
         "my-account-manage-data-integrations-integration-logs": 7,
         "my-account-manage-data-integrations-integration-settings": 8,
         "my-account-manage-data-migrate-domains": 19,
-        "my-account-manage-data-migrate-domains-table": 1,
+        "my-account-manage-data-migrate-domains-table": 8,
         "my-account-manage-data-users-export": 12,
         "my-account-manage-data-users-export-table": 2,
         "my-account-manage-data-webhook": 2,
@@ -4125,7 +4125,14 @@
         "t19": "NO_MIGRATIONS_MESSAGE"
     },
     "my-account-manage-data-migrate-domains-table": {
-        "t1": "N_A"
+        "t1": "N_A",
+        "t2": "STATUS_REQUESTED",
+        "t3": "STATUS_RUNNING",
+        "t4": "STATUS_SUCCESS",
+        "t5": "STATUS_FAILED",
+        "t6": "STATUS_EXPIRED",
+        "t7": "STATUS_DELETING",
+        "t8": "STATUS_CANCELLED"
     },
     "my-account-manage-data-users-export": {
         "t1": "PAGE_TITLE",

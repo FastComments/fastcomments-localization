@@ -1,3 +1,10 @@
 {
-    "N_A": "Ikke tilgængelig"
+    "N_A": "Ikke tilgængelig",
+    "STATUS_REQUESTED": "Anmodet",
+    "STATUS_RUNNING": "Løb",
+    "STATUS_SUCCESS": "Succes",
+    "STATUS_FAILED": "Mislykkedes",
+    "STATUS_EXPIRED": "Udløbet",
+    "STATUS_DELETING": "Sletning",
+    "STATUS_CANCELLED": "Annulleret"
 }

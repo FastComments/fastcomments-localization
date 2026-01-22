@@ -1,3 +1,10 @@
 {
-    "N_A": "Yok"
+    "N_A": "Yok",
+    "STATUS_REQUESTED": "Talep edildi",
+    "STATUS_RUNNING": "Koşma",
+    "STATUS_SUCCESS": "Başarı",
+    "STATUS_FAILED": "Arızalı",
+    "STATUS_EXPIRED": "Günü geçmiş",
+    "STATUS_DELETING": "Silme",
+    "STATUS_CANCELLED": "İptal edildi"
 }
