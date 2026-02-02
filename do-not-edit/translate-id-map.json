@@ -316,7 +316,8 @@
         "comment-log-dialog": 97,
         "my-account-invoice-settings": 10,
         "my-account-rss": 10,
-        "import-logs": 3
+        "import-logs": 3,
+        "tenant-conversion-outreach": 10
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -6042,5 +6043,17 @@
         "t1": "STARTING_DUPLICATE_DETECTION",
         "t2": "SKIPPED_DUPLICATE",
         "t3": "DUPLICATE_CHECK_PROGRESS"
+    },
+    "tenant-conversion-outreach": {
+        "t1": "INTRO",
+        "t2": "BANNER_TEXT",
+        "t3": "FROM_NAME",
+        "t4": "SUBJECT",
+        "t5": "SUBJECT_FOLLOWUP",
+        "t6": "NOTICED_NOT_SETUP",
+        "t7": "HELP_OFFER",
+        "t8": "SCHEDULE_CALL",
+        "t9": "EMAIL_SUPPORT",
+        "t10": "THANKS"
     }
 }
