@@ -116,7 +116,7 @@
         "error": 8,
         "global-distribution": 44,
         "homepage-email-opt-out": 5,
-        "index": 97,
+        "index": 99,
         "layout-v2": 1,
         "login-failure": 6,
         "login-forgot-username": 12,
@@ -2367,7 +2367,9 @@
         "t94": "HERO_TITLE_LIGHT_ALT",
         "t95": "HERO_TITLE_BOLD_ALT",
         "t96": "SCALE_DATA_ENCRYPTION",
-        "t97": "SCALE_DATA_ENCRYPTION_DESC"
+        "t97": "SCALE_DATA_ENCRYPTION_DESC",
+        "t98": "SCALE_LIVE_BACKUPS",
+        "t99": "SCALE_LIVE_BACKUPS_DESC"
     },
     "layout-v2": {
         "t1": "PAGE_TITLE_DEFAULT"
