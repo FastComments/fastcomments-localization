@@ -8,5 +8,7 @@
     "HELP_OFFER": "I'd love to help you get started! Whether you have questions about integration, customization, or just want a quick walkthrough, I'm happy to help out.",
     "SCHEDULE_CALL": "Schedule a Quick Call",
     "EMAIL_SUPPORT": "Or feel free to reply to this email with any questions. I read and respond to every message.",
-    "THANKS": "Thanks for your time,<br>Devon<br>FastComments"
+    "THANKS": "Thanks for your time,<br>Devon<br>FastComments",
+    "UNSUBSCRIBE_NOTICE_FIRST": "This automated email will send one more time. You can <a href=\"<%= unsubscribeLink.url %>\">opt out of all communications here</a>.",
+    "UNSUBSCRIBE_NOTICE_LAST": "This email won't be sent again, but you can <a href=\"<%= unsubscribeLink.url %>\">opt out of all communications here</a>."
 }

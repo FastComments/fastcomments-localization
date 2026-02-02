@@ -8,5 +8,7 @@
     "HELP_OFFER": "Z veseljem vam bom pomagal pri začetku! Ne glede na to, ali imate vprašanja o integraciji, prilagajanju ali pa si želite le hiter pregled, vam z veseljem pomagam.",
     "SCHEDULE_CALL": "Načrtujte hitri klic",
     "EMAIL_SUPPORT": "Ali pa mi prosim odgovorite na to e-pošto, če imate kakršna koli vprašanja. Preberem in odgovorim na vsako sporočilo.",
-    "THANKS": "Hvala za vaš čas,<br> Devon<br> Hitri komentarji"
+    "THANKS": "Hvala za vaš čas,<br> Devon<br> Hitri komentarji",
+    "UNSUBSCRIBE_NOTICE_FIRST": "To samodejno e-poštno sporočilo bo poslano še enkrat. <a href=\"<%= unsubscribeLink.url %>\">Od prejemanja vseh sporočil se lahko odjavite tukaj</a> .",
+    "UNSUBSCRIBE_NOTICE_LAST": "Tega e-poštnega sporočila ne bomo več poslali, vendar se lahko <a href=\"<%= unsubscribeLink.url %>\">od prejemanja vseh sporočil odjavite tukaj</a> ."
 }

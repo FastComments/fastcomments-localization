@@ -8,5 +8,7 @@
     "HELP_OFFER": "Jeg vil meget gerne hjælpe dig i gang! Uanset om du har spørgsmål om integration, tilpasning eller bare ønsker en hurtig gennemgang, hjælper jeg dig gerne.",
     "SCHEDULE_CALL": "Planlæg et hurtigt opkald",
     "EMAIL_SUPPORT": "Eller du er velkommen til at svare på denne e-mail, hvis du har spørgsmål. Jeg læser og besvarer alle beskeder.",
-    "THANKS": "Tak for din tid,<br> Devon<br> Hurtige kommentarer"
+    "THANKS": "Tak for din tid,<br> Devon<br> Hurtige kommentarer",
+    "UNSUBSCRIBE_NOTICE_FIRST": "Denne automatiske e-mail sendes én gang til. Du kan <a href=\"<%= unsubscribeLink.url %>\">framelde dig al kommunikation her</a> .",
+    "UNSUBSCRIBE_NOTICE_LAST": "Denne e-mail vil ikke blive sendt igen, men du kan <a href=\"<%= unsubscribeLink.url %>\">framelde dig al kommunikation her</a> ."
 }

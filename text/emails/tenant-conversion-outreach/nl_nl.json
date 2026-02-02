@@ -8,5 +8,7 @@
     "HELP_OFFER": "Ik help je graag op weg! Of je nu vragen hebt over integratie, aanpassing of gewoon een korte handleiding wilt, ik sta voor je klaar.",
     "SCHEDULE_CALL": "Plan een kort telefoongesprek in.",
     "EMAIL_SUPPORT": "U kunt ook gerust op deze e-mail reageren met eventuele vragen. Ik lees en beantwoord elk bericht.",
-    "THANKS": "Bedankt voor je tijd.<br> Devon<br> Snelle reacties"
+    "THANKS": "Bedankt voor je tijd.<br> Devon<br> Snelle reacties",
+    "UNSUBSCRIBE_NOTICE_FIRST": "Deze geautomatiseerde e-mail wordt nog een keer verzonden. U kunt <a href=\"<%= unsubscribeLink.url %>\">zich hier afmelden voor alle communicatie</a> .",
+    "UNSUBSCRIBE_NOTICE_LAST": "Deze e-mail wordt niet opnieuw verzonden, maar u kunt <a href=\"<%= unsubscribeLink.url %>\">zich hier afmelden voor alle communicatie</a> ."
 }

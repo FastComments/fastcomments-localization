@@ -8,5 +8,7 @@
     "HELP_OFFER": "Başlamanıza yardımcı olmaktan mutluluk duyarım! Entegrasyon, özelleştirme hakkında sorularınız varsa veya sadece hızlı bir genel bakışa ihtiyacınız varsa, yardımcı olmaktan memnuniyet duyarım.",
     "SCHEDULE_CALL": "Hızlı bir görüşme planlayın",
     "EMAIL_SUPPORT": "Dilerseniz bu e-postaya sorularınızla yanıt verebilirsiniz. Her mesajı okuyor ve yanıtlıyorum.",
-    "THANKS": "Zaman ayırdığınız için teşekkürler.<br> Devon<br> HızlıYorumlar"
+    "THANKS": "Zaman ayırdığınız için teşekkürler.<br> Devon<br> HızlıYorumlar",
+    "UNSUBSCRIBE_NOTICE_FIRST": "Bu otomatik e-posta bir kez daha gönderilecektir. <a href=\"<%= unsubscribeLink.url %>\">Tüm iletişimlerden çıkmak için buraya tıklayabilirsiniz</a> .",
+    "UNSUBSCRIBE_NOTICE_LAST": "Bu e-posta bir daha gönderilmeyecek, ancak <a href=\"<%= unsubscribeLink.url %>\">buradan tüm iletişimlerden çıkabilirsiniz</a> ."
 }

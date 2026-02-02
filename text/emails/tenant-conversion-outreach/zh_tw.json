@@ -8,5 +8,7 @@
     "HELP_OFFER": "我很樂意幫助您入門！無論您是想了解整合、客製化方面的問題，還是只想快速了解操作流程，我都樂意提供協助。",
     "SCHEDULE_CALL": "安排一次快速通話",
     "EMAIL_SUPPORT": "或者您也可以直接回覆這封郵件提出任何問題。我會閱讀並回覆每一則訊息。",
-    "THANKS": "感謝您抽出時間。<br>德文郡<br>快速評論"
+    "THANKS": "感謝您抽出時間。<br>德文郡<br>快速評論",
+    "UNSUBSCRIBE_NOTICE_FIRST": "這封自動發送的郵件將會再次發送。您可以<a href=\"<%= unsubscribeLink.url %>\">點擊此處取消訂閱所有郵件</a>。",
+    "UNSUBSCRIBE_NOTICE_LAST": "此郵件將不再發送，但您可以<a href=\"<%= unsubscribeLink.url %>\">點擊此處選擇退出所有通訊</a>。"
 }

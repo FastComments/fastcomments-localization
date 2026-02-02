@@ -317,7 +317,7 @@
         "my-account-invoice-settings": 10,
         "my-account-rss": 10,
         "import-logs": 3,
-        "tenant-conversion-outreach": 10
+        "tenant-conversion-outreach": 12
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -6054,6 +6054,8 @@
         "t7": "HELP_OFFER",
         "t8": "SCHEDULE_CALL",
         "t9": "EMAIL_SUPPORT",
-        "t10": "THANKS"
+        "t10": "THANKS",
+        "t11": "UNSUBSCRIBE_NOTICE_FIRST",
+        "t12": "UNSUBSCRIBE_NOTICE_LAST"
     }
 }

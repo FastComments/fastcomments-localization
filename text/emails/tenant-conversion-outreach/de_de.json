@@ -8,5 +8,7 @@
     "HELP_OFFER": "Ich helfe Ihnen sehr gerne beim Einstieg! Egal, ob Sie Fragen zur Integration oder Anpassung haben oder einfach nur eine kurze Einführung wünschen, ich helfe Ihnen gerne weiter.",
     "SCHEDULE_CALL": "Vereinbaren Sie einen kurzen Anruf",
     "EMAIL_SUPPORT": "Sie können Ihre Fragen auch gerne auf diese E-Mail senden. Ich lese und beantworte jede Nachricht.",
-    "THANKS": "Vielen Dank für Ihre Zeit.<br> Devon<br> Schnellkommentare"
+    "THANKS": "Vielen Dank für Ihre Zeit.<br> Devon<br> Schnellkommentare",
+    "UNSUBSCRIBE_NOTICE_FIRST": "Diese automatische E-Mail wird Ihnen noch einmal zugesendet. <a href=\"<%= unsubscribeLink.url %>\">Hier können Sie sich von allen Benachrichtigungen abmelden</a> .",
+    "UNSUBSCRIBE_NOTICE_LAST": "Diese E-Mail wird nicht erneut versendet. Sie können <a href=\"<%= unsubscribeLink.url %>\">sich hier von allen Mitteilungen abmelden</a> ."
 }
