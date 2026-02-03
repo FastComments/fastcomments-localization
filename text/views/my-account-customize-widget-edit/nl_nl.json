@@ -225,5 +225,14 @@
     "BUTTON_REMOVE_SPAM_RULE": "Verwijderen",
     "BUTTON_ADD_SPAM_RULE": "Spamregel toevoegen",
     "BUTTON_SAVE": "Redden",
-    "HEADING_PREVIEW": "Voorbeeld"
+    "HEADING_PREVIEW": "Voorbeeld",
+    "LABEL_ENABLE_TOS": "Voor nieuwe reageerders is het verplicht om de gebruiksvoorwaarden te accepteren.",
+    "TEXT_ENABLE_TOS_NOTE": "Indien ingeschakeld, moeten nieuwe reageerders uw gebruiksvoorwaarden accepteren voordat ze hun eerste reactie kunnen plaatsen.",
+    "LABEL_USE_DEFAULT_TOS": "Standaardtekst gebruiken",
+    "LABEL_CUSTOMIZE_TOS": "Tekst aanpassen per taal",
+    "PLACEHOLDER_TOS_TEXT": "Ik ga akkoord met de gebruiksvoorwaarden.",
+    "LABEL_TOS_LAST_UPDATED": "TOS Laatst bijgewerkte datum",
+    "TEXT_TOS_LAST_UPDATED_NOTE": "Zodra deze datum is ingesteld, moeten gebruikers die vóór deze datum al akkoord gingen, opnieuw akkoord gaan.",
+    "TEXT_TOS_CUSTOM_TEXT_NOTE": "Laat dit veld leeg om de standaardtekst voor deze taal te gebruiken.",
+    "LABEL_TOS_TEXT_MODE": "TOS-tekst"
 }

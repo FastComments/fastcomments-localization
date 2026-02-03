@@ -33,5 +33,8 @@
     "DEMO_OPTION_WYSIWYG_TITLE": "WYSIWYG-editor",
     "DEMO_OPTION_WYSIWYG_DESC": "Rich text editor for nemmere kommentarer.",
     "DEMO_OPTION_WYSIWYG_ABOUT": "WYSIWYG-editoren (What You See Is What You Get) giver en rig tekstredigeringsoplevelse til brugere, der foretrækker visuel formatering frem for markdown. Den inkluderer almindelige formateringsmuligheder som fed, kursiv, links og lister, samtidig med at sikkerheds- og ydeevnestandarderne for FastComments opretholdes.<br><br> Dette er især nyttigt for ikke-tekniske fællesskaber, hvor brugerne måske ikke er bekendt med markdown-syntaks. Dette eksempel aktiverer også størrelsesændringshåndtaget.",
-    "DEMO_OPTION_VIEW_DOCUMENTATION": "Se dokumentation"
+    "DEMO_OPTION_VIEW_DOCUMENTATION": "Se dokumentation",
+    "DEMO_OPTION_TOS_TITLE": "Servicevilkår",
+    "DEMO_OPTION_TOS_DESC": "Kræv accept af servicevilkår før kommentar.",
+    "DEMO_OPTION_TOS_ABOUT": "Denne demo viser afkrydsningsfeltet Servicevilkår, som kan være obligatorisk for førstegangskommentarskrivere. Når det er aktiveret, ser anonyme brugere afkrydsningsfeltet på hver kommentar, mens godkendte brugere kun ser det på deres første kommentar, eller når du opdaterer dine servicevilkår.<br><br> Du kan tilpasse afkrydsningsfeltteksten efter lokalitet og indstille en &quot;Sidst opdateret&quot;-dato for at tvinge brugerne til at acceptere igen, når dine vilkår ændres."
 }

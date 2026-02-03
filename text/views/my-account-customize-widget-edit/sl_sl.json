@@ -225,5 +225,14 @@
     "BUTTON_REMOVE_SPAM_RULE": "Odstrani",
     "BUTTON_ADD_SPAM_RULE": "Dodaj pravilo za neželeno pošto",
     "BUTTON_SAVE": "Shrani",
-    "HEADING_PREVIEW": "Predogled"
+    "HEADING_PREVIEW": "Predogled",
+    "LABEL_ENABLE_TOS": "Zahtevajte sprejetje pogojev storitve za komentatorje, ki prvič komentirajo",
+    "TEXT_ENABLE_TOS_NOTE": "Ko je ta možnost omogočena, morajo novi komentatorji pred oddajo prvega komentarja sprejeti vaše pogoje storitve.",
+    "LABEL_USE_DEFAULT_TOS": "Uporabi privzeto besedilo",
+    "LABEL_CUSTOMIZE_TOS": "Prilagodi besedilo glede na jezik",
+    "PLACEHOLDER_TOS_TEXT": "Strinjam se s pogoji storitve",
+    "LABEL_TOS_LAST_UPDATED": "Datum zadnje posodobitve pogojev storitve",
+    "TEXT_TOS_LAST_UPDATED_NOTE": "Ko je nastavljeno, bodo morali uporabniki, ki so sprejeli pred tem datumom, sprejeti znova.",
+    "TEXT_TOS_CUSTOM_TEXT_NOTE": "Pustite prazno, če želite uporabiti privzeto besedilo za to jezikovno nastavitev.",
+    "LABEL_TOS_TEXT_MODE": "Besedilo pogojev storitve"
 }

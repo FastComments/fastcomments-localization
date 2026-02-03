@@ -17,5 +17,12 @@
     "BILLING_INFO_INV": "Esta informação de faturamento da conta de FastComments está desatualizada. <b> Os comentários serão escondidos após sessenta dias, a menos que o problema seja resolvido </ b>.",
     "DEMO_CREATE_ACCT": "Esta é uma demonstração <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\"> criar uma conta </a>",
     "EXCEEDED_QUOTA": "Esta conta FastComments excedeu sua cota mensal e os comentários agora estão ocultos. Se você é o administrador deste site, faça <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">upgrade aqui</a>",
-    "EMBED_GOOGLE_INSTRUCTIONS": "Para incorporar FastComments no Google Sites, crie um URL de incorporação <a href=\"https://fastcomments.com/create\" target=\"_blank\">aqui</a> ."
+    "EMBED_GOOGLE_INSTRUCTIONS": "Para incorporar FastComments no Google Sites, crie um URL de incorporação <a href=\"https://fastcomments.com/create\" target=\"_blank\">aqui</a> .",
+    "URL_ID_MISSING": "O FastComments não pôde ser carregado - nenhum URL de página foi especificado.",
+    "TENANT_ID_MISSING": "O FastComments não pôde ser carregado - nenhum ID de conta foi especificado.",
+    "USER_NOT_FOUND": "O usuário solicitado não foi encontrado.",
+    "UNAUTHORIZED_USER_ACCESS": "Você não tem permissão para visualizar este usuário.",
+    "USER_ACTIVITY_PRIVATE": "A atividade deste usuário é privada.",
+    "BLOCKED_BY_USER": "Este usuário bloqueou você. Você não pode visualizar o feed de atividades dele.",
+    "TOS_REQUIRED": "Você precisa aceitar os Termos de Serviço e a Política de Privacidade para comentar."
 }

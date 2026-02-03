@@ -33,5 +33,8 @@
     "DEMO_OPTION_WYSIWYG_TITLE": "Éditeur WYSIWYG",
     "DEMO_OPTION_WYSIWYG_DESC": "Éditeur de texte enrichi pour faciliter les commentaires.",
     "DEMO_OPTION_WYSIWYG_ABOUT": "L&#39;éditeur WYSIWYG (Ce que vous voyez est ce que vous obtenez) offre une expérience d&#39;édition de texte enrichie aux utilisateurs qui privilégient la mise en forme visuelle au Markdown. Il inclut des options de mise en forme courantes telles que le gras, l&#39;italique, les liens et les listes, tout en respectant les normes de sécurité et de performance de FastComments.<br><br> Ceci est particulièrement utile pour les communautés non techniques où les utilisateurs ne sont pas forcément familiarisés avec la syntaxe Markdown. Cet exemple permet également d&#39;utiliser la poignée de redimensionnement.",
-    "DEMO_OPTION_VIEW_DOCUMENTATION": "Consulter la documentation"
+    "DEMO_OPTION_VIEW_DOCUMENTATION": "Consulter la documentation",
+    "DEMO_OPTION_TOS_TITLE": "Conditions d'utilisation",
+    "DEMO_OPTION_TOS_DESC": "L'acceptation des conditions d'utilisation est requise avant de commenter.",
+    "DEMO_OPTION_TOS_ABOUT": "Cette démonstration présente la case à cocher « Conditions d&#39;utilisation » qui peut être exigée des nouveaux utilisateurs. Lorsqu&#39;elle est activée, les utilisateurs anonymes voient cette case à cocher sur chaque commentaire, tandis que les utilisateurs authentifiés ne la voient que sur leur premier commentaire ou lors de la mise à jour de vos conditions d&#39;utilisation.<br><br> Vous pouvez personnaliser le texte de la case à cocher en fonction des paramètres régionaux et définir une date de « Dernière mise à jour » pour obliger les utilisateurs à accepter à nouveau les conditions générales lorsque celles-ci changent."
 }

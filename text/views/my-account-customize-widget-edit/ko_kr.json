@@ -225,5 +225,14 @@
     "BUTTON_REMOVE_SPAM_RULE": "제거하다",
     "BUTTON_ADD_SPAM_RULE": "스팸 규칙 추가",
     "BUTTON_SAVE": "구하다",
-    "HEADING_PREVIEW": "시사"
+    "HEADING_PREVIEW": "시사",
+    "LABEL_ENABLE_TOS": "처음 댓글을 작성하는 사용자에게 서비스 약관 동의를 요구합니다.",
+    "TEXT_ENABLE_TOS_NOTE": "이 기능을 활성화하면, 새로운 댓글 작성자는 첫 댓글을 제출하기 전에 서비스 약관에 동의해야 합니다.",
+    "LABEL_USE_DEFAULT_TOS": "기본 텍스트를 사용하세요",
+    "LABEL_CUSTOMIZE_TOS": "지역별로 텍스트를 사용자 지정하세요",
+    "PLACEHOLDER_TOS_TEXT": "서비스 약관에 동의합니다.",
+    "LABEL_TOS_LAST_UPDATED": "이용약관 최종 업데이트 날짜",
+    "TEXT_TOS_LAST_UPDATED_NOTE": "이 설정이 완료되면, 해당 날짜 이전에 수락했던 사용자들은 다시 수락해야 합니다.",
+    "TEXT_TOS_CUSTOM_TEXT_NOTE": "이 지역 설정에 대한 기본 텍스트를 사용하려면 비워 두십시오.",
+    "LABEL_TOS_TEXT_MODE": "이용약관"
 }

@@ -33,5 +33,8 @@
     "DEMO_OPTION_WYSIWYG_TITLE": "Editor WYSIWYG",
     "DEMO_OPTION_WYSIWYG_DESC": "Editor di testo avanzato per commenti più semplici.",
     "DEMO_OPTION_WYSIWYG_ABOUT": "L&#39;editor WYSIWYG (What You See Is What You Get) offre un&#39;esperienza di modifica del testo avanzata per gli utenti che preferiscono la formattazione visiva al markdown. Include opzioni di formattazione comuni come grassetto, corsivo, link ed elenchi, mantenendo gli standard di sicurezza e prestazioni di FastComments.<br><br> Questo è particolarmente utile per le comunità non tecniche in cui gli utenti potrebbero non avere familiarità con la sintassi markdown. Questo esempio abilita anche il ridimensionamento.",
-    "DEMO_OPTION_VIEW_DOCUMENTATION": "Visualizza la documentazione"
+    "DEMO_OPTION_VIEW_DOCUMENTATION": "Visualizza la documentazione",
+    "DEMO_OPTION_TOS_TITLE": "Termini di servizio",
+    "DEMO_OPTION_TOS_DESC": "Richiedi l'accettazione dei TOS prima di commentare.",
+    "DEMO_OPTION_TOS_ABOUT": "Questa demo mostra la casella di controllo &quot;Termini di servizio&quot; che può essere richiesta a chi commenta per la prima volta. Se abilitata, gli utenti anonimi visualizzano la casella di controllo in ogni commento, mentre gli utenti autenticati la visualizzano solo al loro primo commento o quando si aggiornano i Termini di servizio.<br><br> Puoi personalizzare il testo della casella di controllo in base alle impostazioni locali e impostare una data di &quot;Ultimo aggiornamento&quot; per obbligare gli utenti ad accettare nuovamente quando i termini cambiano."
 }

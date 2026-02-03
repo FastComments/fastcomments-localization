@@ -1,4 +1,10 @@
 {
+    "URL_ID_MISSING": "FastComments could not load - no page URL was specified.",
+    "TENANT_ID_MISSING": "FastComments could not load - no account ID was specified.",
+    "USER_NOT_FOUND": "The requested user was not found.",
+    "UNAUTHORIZED_USER_ACCESS": "You do not have access to view this user.",
+    "USER_ACTIVITY_PRIVATE": "This user's activity is private.",
+    "BLOCKED_BY_USER": "This user has blocked you. You cannot view their activity feed.",
     "RATE_LIMITED": "This FastComments.com account has exceeded its limits. Please contact the site administrator.",
     "DOMAIN_NOT_AUTHORIZED": "FastComments cannot load on this domain since it does not belong to your account. If you're an administrator of this site, you can fix this <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">here</a>.",
     "INVALID_TENANT": "FastComments could not load - invalid configuration specified. Check that the 'tenantId' specified is correct.",
@@ -17,5 +23,6 @@
     "BILLING_INFO_INV": "This FastComments account's billing information is out of date. <b>Comments will be hidden after sixty days unless the issue is resolved</b>.",
     "DEMO_CREATE_ACCT": "THIS IS A DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Create an Account</a>",
     "EXCEEDED_QUOTA": "This FastComments account has exceeded its monthly quota and comments are now hidden. If you're the administrator of this site, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade Here</a>",
-    "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>."
+    "EMBED_GOOGLE_INSTRUCTIONS": "To embed FastComments in Google Sites, create an Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">here</a>.",
+    "TOS_REQUIRED": "You must accept the Terms of Service and Privacy Policy to comment"
 }

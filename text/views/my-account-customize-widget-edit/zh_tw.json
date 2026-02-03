@@ -225,5 +225,14 @@
     "BUTTON_REMOVE_SPAM_RULE": "消除",
     "BUTTON_ADD_SPAM_RULE": "新增垃圾郵件規則",
     "BUTTON_SAVE": "節省",
-    "HEADING_PREVIEW": "預覽"
+    "HEADING_PREVIEW": "預覽",
+    "LABEL_ENABLE_TOS": "首次評論者需接受服務條款",
+    "TEXT_ENABLE_TOS_NOTE": "啟用此功能後，新評論者必須先接受您的服務條款才能提交第一條評論。",
+    "LABEL_USE_DEFAULT_TOS": "使用預設文字",
+    "LABEL_CUSTOMIZE_TOS": "根據語言環境自訂文本",
+    "PLACEHOLDER_TOS_TEXT": "我同意服務條款",
+    "LABEL_TOS_LAST_UPDATED": "服務條款最後更新日期",
+    "TEXT_TOS_LAST_UPDATED_NOTE": "設定完成後，在此日期之前接受過接受的使用者需要再次接受。",
+    "TEXT_TOS_CUSTOM_TEXT_NOTE": "留空則使用此語言環境的預設文字。",
+    "LABEL_TOS_TEXT_MODE": "服務條款文本"
 }

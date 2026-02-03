@@ -225,5 +225,14 @@
     "BUTTON_REMOVE_SPAM_RULE": "Rimuovere",
     "BUTTON_ADD_SPAM_RULE": "Aggiungi regola antispam",
     "BUTTON_SAVE": "Salva",
-    "HEADING_PREVIEW": "Anteprima"
+    "HEADING_PREVIEW": "Anteprima",
+    "LABEL_ENABLE_TOS": "Richiedi l'accettazione dei Termini di servizio per chi commenta per la prima volta",
+    "TEXT_ENABLE_TOS_NOTE": "Se abilitata, i nuovi commentatori dovranno accettare i Termini di servizio prima di inviare il loro primo commento.",
+    "LABEL_USE_DEFAULT_TOS": "Usa il testo predefinito",
+    "LABEL_CUSTOMIZE_TOS": "Personalizza il testo in base alle impostazioni locali",
+    "PLACEHOLDER_TOS_TEXT": "Accetto i Termini di servizio",
+    "LABEL_TOS_LAST_UPDATED": "Data dell'ultimo aggiornamento dei TOS",
+    "TEXT_TOS_LAST_UPDATED_NOTE": "Una volta impostata questa opzione, gli utenti che hanno accettato prima di questa data dovranno accettarla di nuovo.",
+    "TEXT_TOS_CUSTOM_TEXT_NOTE": "Lasciare vuoto per utilizzare il testo predefinito per questa impostazione locale.",
+    "LABEL_TOS_TEXT_MODE": "Testo TOS"
 }

@@ -17,5 +17,12 @@
     "BILLING_INFO_INV": "Τα στοιχεία χρέωσης αυτού του λογαριασμού FastComments δεν είναι ενημερωμένα. <b>Τα σχόλια θα αποκρύπτονται μετά από εξήντα ημέρες, εκτός εάν επιλυθεί το πρόβλημα</b> .",
     "DEMO_CREATE_ACCT": "ΑΥΤΟ ΕΙΝΑΙ ΕΝΑ DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Δημιουργία λογαριασμού</a>",
     "EXCEEDED_QUOTA": "Αυτός ο λογαριασμός FastComments έχει υπερβεί το μηνιαίο όριο και τα σχόλια είναι πλέον κρυφά. Εάν είστε ο διαχειριστής αυτού του ιστότοπου, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">κάντε αναβάθμιση εδώ</a>",
-    "EMBED_GOOGLE_INSTRUCTIONS": "Για να ενσωματώσετε τα FastComments στους Ιστότοπους Google, δημιουργήστε μια διεύθυνση URL ενσωμάτωσης <a href=\"https://fastcomments.com/create\" target=\"_blank\">εδώ</a> ."
+    "EMBED_GOOGLE_INSTRUCTIONS": "Για να ενσωματώσετε τα FastComments στους Ιστότοπους Google, δημιουργήστε μια διεύθυνση URL ενσωμάτωσης <a href=\"https://fastcomments.com/create\" target=\"_blank\">εδώ</a> .",
+    "URL_ID_MISSING": "Δεν ήταν δυνατή η φόρτωση του FastComments - δεν καθορίστηκε διεύθυνση URL σελίδας.",
+    "TENANT_ID_MISSING": "Δεν ήταν δυνατή η φόρτωση του FastComments - δεν καθορίστηκε αναγνωριστικό λογαριασμού.",
+    "USER_NOT_FOUND": "Ο χρήστης που ζητήθηκε δεν βρέθηκε.",
+    "UNAUTHORIZED_USER_ACCESS": "Δεν έχετε πρόσβαση για να δείτε αυτόν τον χρήστη.",
+    "USER_ACTIVITY_PRIVATE": "Η δραστηριότητα αυτού του χρήστη είναι ιδιωτική.",
+    "BLOCKED_BY_USER": "Αυτός ο χρήστης σας έχει αποκλείσει. Δεν μπορείτε να δείτε την ροή δραστηριότητάς του.",
+    "TOS_REQUIRED": "Πρέπει να αποδεχτείτε τους Όρους Παροχής Υπηρεσιών και την Πολιτική Απορρήτου για να σχολιάσετε"
 }

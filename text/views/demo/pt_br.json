@@ -8,40 +8,33 @@
     "DEMO_SELECTOR_SUBTITLE": "O FastComments oferece suporte a diversos casos de uso. Experimente um abaixo!",
     "OUR_CUSTOMERS_SUBTEXT": "Não é necessário cartão de crédito para o cadastro inicial e instalação.",
     "OUR_CUSTOMERS_BUTTON": "Inscreva-se agora",
-
     "DEMO_OPTION_DEMO_TITLE": "Demo",
     "DEMO_OPTION_DEMO_DESC": "O widget de comentários padrão.",
-
     "DEMO_OPTION_RATINGS_TITLE": "Avaliações",
     "DEMO_OPTION_RATINGS_DESC": "Perguntas e subperguntas personalizáveis.",
     "DEMO_OPTION_RATINGS_ABOUT": "Aqui temos dois widgets. O widget de resumo e o widget de comentários. Adicionamos algumas perguntas no painel em Personalizar->Perguntas e adicionamos uma configuração de widget em Personalizar->Personalizar que usa nossas perguntas. Configuramos a configuração do widget para se aplicar apenas a esta página, mas você também pode configurar perguntas para aparecer em todas as páginas ou em um subdomínio específico.",
-
     "DEMO_OPTION_SSO_TITLE": "SSO",
     "DEMO_OPTION_SSO_DESC": "Faça login de usuários automaticamente.",
     "DEMO_OPTION_SSO_ABOUT": "Aqui estamos usando a solução FastComment Secure SSO. Isso faz uma chamada de API quando você seleciona o botão para obter as informações do usuário, que são criptografadas contra uma API com um hash SHA-256 para verificação. <a href=\"https://github.com/FastComments/fastcomments-code-examples/blob/master/sso/node-express/routes/index.js#L8\">O código é muito semelhante a este.</a><br><br>O FastComments também suporta o que chamamos de Simple SSO, que não requer um servidor.<br><br>Com ambas as soluções, podemos configurar se o usuário é um moderador, um administrador, adicionar rótulos personalizados, distintivos, preferências de notificação, etc.",
-
     "DEMO_OPTION_ANON_TITLE": "Anônimo",
     "DEMO_OPTION_ANON_DESC": "Não exija e-mails para comentar.",
     "DEMO_OPTION_ANON_ABOUT": "Neste exemplo, ativamos algumas configurações. Habilitamos comentários anônimos, mas isso sozinho ainda mostraria o campo de entrada de e-mail e apenas o tornaria opcional. Também ocultamos o campo de entrada de e-mail e permitimos votação e denúncia anônimas. Tudo isso foi configurado pelo painel de administração, sem código escrito.",
-
     "DEMO_OPTION_BADGES_TITLE": "Distintivos",
     "DEMO_OPTION_BADGES_DESC": "O FastComments suporta distintivos como prêmios.",
     "DEMO_OPTION_BADGES_ABOUT": "O FastComments suporta o que chamamos de distintivos, que são concedidos aos usuários automaticamente com base em várias condições. Existem três distintivos que você pode ganhar aqui:<br><ul><li><b>Curioso:</b> Concedido por comentar nesta página.</li><li><b>Muito Curioso:</b> Concedido por comentar nesta página mais de uma vez. Configurado para substituir o distintivo Curioso.</li><li><b>Coruja Noturna:</b> Concedido por comentar nesta página à noite.</li><li><b>Bem Quisto:</b> Concedido quando você recebe 5 ou mais karma total nesta página.</li></ul>Estes serão automaticamente aplicados à sua conta e mostrados. Você pode ocultá-los indo ao seu perfil (clique no seu avatar) e clicando no menu de três pontos e clicando em Gerenciar Distintivos. Isso só funcionará em uma sessão verificada totalmente autenticada e não em uma sessão anônima.",
-
     "DEMO_OPTION_DARK_MODE_TITLE": "Modo Escuro",
     "DEMO_OPTION_DARK_MODE_DESC": "Experimente o modo escuro.",
     "DEMO_OPTION_DARK_MODE_ABOUT": "Neste exemplo, ativamos o modo escuro para toda a página. O widget de comentários detecta automaticamente que a árvore DOM em que está contém um fundo escuro e se ajusta.<br><br>Você também pode usar uma API para configurar esse comportamento.",
-
     "DEMO_OPTION_LIKES_TITLE": "Curtidas em vez de Cima/Baixo",
     "DEMO_OPTION_LIKES_DESC": "Use curtidas em vez de votos para cima/baixo.",
-
     "DEMO_OPTION_CODE_SNIPPETS_TITLE": "Compartilhamento de trechos de código.",
     "DEMO_OPTION_CODE_SNIPPETS_DESC": "O FastComments suporta comunidades de desenvolvedores detectando automaticamente linguagens de trechos de código e formatando-os.",
     "DEMO_OPTION_CODE_SNIPPETS_ABOUT": "Algumas comunidades, por exemplo Stack Overflow, promovem o compartilhamento de código entre desenvolvedores. O FastComments foi projetado para se encaixar nessas comunidades, manipulando trechos de código graciosamente enquanto sanitiza o conteúdo para prevenir ataques XSS ou de estilo.<br><a href=\"https://docs.fastcomments.com/guide-comment-syntax.html#security\" target=\"_blank\">Você pode aprender mais sobre a segurança da área de comentários aqui.</a>",
-
     "DEMO_OPTION_WYSIWYG_TITLE": "Editor WYSIWYG",
     "DEMO_OPTION_WYSIWYG_DESC": "Editor de texto rico para comentários mais fáceis.",
     "DEMO_OPTION_WYSIWYG_ABOUT": "O editor WYSIWYG (What You See Is What You Get - O Que Você Vê É O Que Você Obtém) oferece uma experiência de edição de texto rico para usuários que preferem formatação visual em vez de markdown. Inclui opções de formatação comuns como negrito, itálico, links e listas, mantendo os padrões de segurança e desempenho do FastComments.<br><br>Isso é particularmente útil para comunidades não técnicas onde os usuários podem não estar familiarizados com a sintaxe markdown. Este exemplo também habilita a alça de redimensionamento.",
-
-    "DEMO_OPTION_VIEW_DOCUMENTATION": "Ver Documentação"
+    "DEMO_OPTION_VIEW_DOCUMENTATION": "Ver Documentação",
+    "DEMO_OPTION_TOS_TITLE": "Termos de Serviço",
+    "DEMO_OPTION_TOS_DESC": "É necessário aceitar os Termos de Serviço antes de comentar.",
+    "DEMO_OPTION_TOS_ABOUT": "Esta demonstração mostra a caixa de seleção dos Termos de Serviço, que pode ser obrigatória para quem comenta pela primeira vez. Quando ativada, os usuários anônimos veem a caixa de seleção em todos os comentários, enquanto os usuários autenticados a veem apenas no primeiro comentário ou quando você atualiza seus Termos de Serviço.<br><br> Você pode personalizar o texto da caixa de seleção de acordo com o idioma e definir uma data de &quot;Última Atualização&quot; para obrigar os usuários a aceitarem novamente quando seus termos forem alterados."
 }

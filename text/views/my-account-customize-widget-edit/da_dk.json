@@ -225,5 +225,14 @@
     "BUTTON_REMOVE_SPAM_RULE": "Fjerne",
     "BUTTON_ADD_SPAM_RULE": "Tilføj spamregel",
     "BUTTON_SAVE": "Spare",
-    "HEADING_PREVIEW": "Forhåndsvisning"
+    "HEADING_PREVIEW": "Forhåndsvisning",
+    "LABEL_ENABLE_TOS": "Kræv accept af servicevilkår for førstegangskommentatorer",
+    "TEXT_ENABLE_TOS_NOTE": "Når det er aktiveret, skal nye kommentatorer acceptere dine servicevilkår, før de indsender deres første kommentar.",
+    "LABEL_USE_DEFAULT_TOS": "Brug standardtekst",
+    "LABEL_CUSTOMIZE_TOS": "Tilpas tekst efter sprogstandard",
+    "PLACEHOLDER_TOS_TEXT": "Jeg accepterer servicevilkårene",
+    "LABEL_TOS_LAST_UPDATED": "Sidst opdateret dato for brugsbetingelser",
+    "TEXT_TOS_LAST_UPDATED_NOTE": "Når den er angivet, skal brugere, der accepterede før denne dato, acceptere igen.",
+    "TEXT_TOS_CUSTOM_TEXT_NOTE": "Lad feltet stå tomt for at bruge standardteksten til denne lokalitet.",
+    "LABEL_TOS_TEXT_MODE": "Tekst af servicevilkår"
 }

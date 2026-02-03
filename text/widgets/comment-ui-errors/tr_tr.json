@@ -17,5 +17,12 @@
     "BILLING_INFO_INV": "Bu FastComments hesabının fatura bilgileri güncel değil. <b>Sorun çözülmediği sürece yorumlar altmış gün sonra gizlenecektir</b> .",
     "DEMO_CREATE_ACCT": "BU BİR DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Hesap Oluştur</a>",
     "EXCEEDED_QUOTA": "Bu FastComments hesabı aylık kotasını aştı ve yorumlar artık gizleniyor. Bu sitenin yöneticisiyseniz, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Buradan Yükseltin</a>",
-    "EMBED_GOOGLE_INSTRUCTIONS": "FastComments&#39;ı Google Sites&#39;a yerleştirmek için, <a href=\"https://fastcomments.com/create\" target=\"_blank\">burada</a> bir Yerleştirme URL&#39;si oluşturun."
+    "EMBED_GOOGLE_INSTRUCTIONS": "FastComments&#39;ı Google Sites&#39;a yerleştirmek için, <a href=\"https://fastcomments.com/create\" target=\"_blank\">burada</a> bir Yerleştirme URL&#39;si oluşturun.",
+    "URL_ID_MISSING": "FastComments yüklenemedi - sayfa URL'si belirtilmedi.",
+    "TENANT_ID_MISSING": "FastComments yüklenemedi - hesap kimliği belirtilmedi.",
+    "USER_NOT_FOUND": "İstenen kullanıcı bulunamadı.",
+    "UNAUTHORIZED_USER_ACCESS": "Bu kullanıcıyı görüntüleme erişiminiz yok.",
+    "USER_ACTIVITY_PRIVATE": "Bu kullanıcının etkinliği gizlidir.",
+    "BLOCKED_BY_USER": "Bu kullanıcı sizi engelledi. Onun etkinlik akışını görüntüleyemezsiniz.",
+    "TOS_REQUIRED": "Yorum yapabilmek için Hizmet Şartları ve Gizlilik Politikası'nı kabul etmelisiniz."
 }

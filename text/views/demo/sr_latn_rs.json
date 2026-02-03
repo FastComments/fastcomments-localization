@@ -33,5 +33,8 @@
     "DEMO_OPTION_WYSIWYG_TITLE": "WYSIWYG urednik",
     "DEMO_OPTION_WYSIWYG_DESC": "Bogat tekst editor za lakše komentarisanje.",
     "DEMO_OPTION_WYSIWYG_ABOUT": "VISIVIG (Ono što vidite je ono što dobijate) urednik pruža bogato iskustvo uređivanja teksta za korisnike koji preferiraju vizuelno oblikovanje u odnosu na markdovn. Uključuje uobičajene opcije oblikovanja kao što su bold, kurziv, linkovi i liste uz održavanje standarda sigurnosti i performansi FastComments-a. <br><br>Ovo je posebno korisno za ne-tehničke zajednice u kojima korisnici možda nisu upoznati sa markdovn sintaksom. Ovaj primer takođe omogućava ručicu za promenu veličine.",
-    "DEMO_OPTION_VIEW_DOCUMENTATION": "Pogledaj dokumentaciju"
+    "DEMO_OPTION_VIEW_DOCUMENTATION": "Pogledaj dokumentaciju",
+    "DEMO_OPTION_TOS_TITLE": "Uslovi korišćenja usluge",
+    "DEMO_OPTION_TOS_DESC": "Zahtevajte prihvatanje TOS-a pre komentarisanja.",
+    "DEMO_OPTION_TOS_ABOUT": "Ovaj demo prikazuje polje za potvrdu Uslovi korišćenja usluge koje se može zahtevati za prvi put komentatore. Kada je omogućeno, anonimni korisnici vide polje za potvrdu na svakom komentaru, dok ga autentifikovani korisnici vide samo na svom prvom komentaru ili kada ažurirate svoj TOS. <br><br>Možete da prilagodite tekst polja za potvrdu po jeziku i podesite datum \"Poslednje ažuriranje\" da biste primorali korisnike da ponovo prihvate kada se vaši uslovi promene."
 }

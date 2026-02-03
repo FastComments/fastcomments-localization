@@ -17,5 +17,12 @@
     "BILLING_INFO_INV": "Denne FastComments-kontos faktureringsoplysninger er forældede. <b>Kommentarer vil blive skjult efter tres dage, medmindre problemet er løst</b> .",
     "DEMO_CREATE_ACCT": "DETTE ER EN DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Opret en konto</a>",
     "EXCEEDED_QUOTA": "Denne FastComments-konto har overskredet sin månedlige kvote, og kommentarer er nu skjult. Hvis du er administrator af dette websted, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">opgrader her</a>",
-    "EMBED_GOOGLE_INSTRUCTIONS": "For at indlejre FastComments i Google Sites skal du oprette en Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">her</a> ."
+    "EMBED_GOOGLE_INSTRUCTIONS": "For at indlejre FastComments i Google Sites skal du oprette en Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">her</a> .",
+    "URL_ID_MISSING": "FastComments kunne ikke indlæses - der blev ikke angivet nogen side-URL.",
+    "TENANT_ID_MISSING": "FastComments kunne ikke indlæses - der blev ikke angivet et konto-ID.",
+    "USER_NOT_FOUND": "Den ønskede bruger blev ikke fundet.",
+    "UNAUTHORIZED_USER_ACCESS": "Du har ikke adgang til at se denne bruger.",
+    "USER_ACTIVITY_PRIVATE": "Denne brugers aktivitet er privat.",
+    "BLOCKED_BY_USER": "Denne bruger har blokeret dig. Du kan ikke se deres aktivitetsfeed.",
+    "TOS_REQUIRED": "Du skal acceptere servicevilkårene og privatlivspolitikken for at kunne kommentere"
 }

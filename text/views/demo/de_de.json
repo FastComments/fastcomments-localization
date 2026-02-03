@@ -33,5 +33,8 @@
     "DEMO_OPTION_WYSIWYG_TITLE": "WYSIWYG-Editor",
     "DEMO_OPTION_WYSIWYG_DESC": "Rich-Text-Editor für einfacheres Kommentieren.",
     "DEMO_OPTION_WYSIWYG_ABOUT": "Der WYSIWYG-Editor (What You See Is What You Get) bietet Nutzern, die visuelle Formatierung gegenüber Markdown bevorzugen, eine komfortable Textbearbeitung. Er umfasst gängige Formatierungsoptionen wie Fettdruck, Kursivschrift, Links und Listen und gewährleistet gleichzeitig die hohen Sicherheits- und Leistungsstandards von FastComments.<br><br> Dies ist besonders nützlich für nicht-technische Nutzergruppen, in denen die Markdown-Syntax möglicherweise nicht geläufig ist. Dieses Beispiel aktiviert außerdem den Ziehpunkt zum Ändern der Größe.",
-    "DEMO_OPTION_VIEW_DOCUMENTATION": "Dokumentation ansehen"
+    "DEMO_OPTION_VIEW_DOCUMENTATION": "Dokumentation ansehen",
+    "DEMO_OPTION_TOS_TITLE": "Nutzungsbedingungen",
+    "DEMO_OPTION_TOS_DESC": "Vor dem Kommentieren ist die Zustimmung zu den Nutzungsbedingungen erforderlich.",
+    "DEMO_OPTION_TOS_ABOUT": "Diese Demo zeigt das Kontrollkästchen für die Nutzungsbedingungen, das für Erstkommentatoren optional ist. Ist es aktiviert, sehen anonyme Nutzer das Kontrollkästchen bei jedem Kommentar, während authentifizierte Nutzer es nur bei ihrem ersten Kommentar oder bei einer Aktualisierung der Nutzungsbedingungen sehen.<br><br> Sie können den Text der Kontrollkästchen für jedes Gebietsschema individuell anpassen und ein Datum für die letzte Aktualisierung festlegen, um die Benutzer zu zwingen, die Bedingungen erneut zu akzeptieren, wenn sich diese ändern."
 }

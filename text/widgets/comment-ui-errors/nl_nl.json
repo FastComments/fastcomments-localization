@@ -17,5 +17,12 @@
     "BILLING_INFO_INV": "De factuurgegevens van dit FastComments-account zijn verouderd. <b>Reacties worden na zestig dagen verborgen, tenzij het probleem is opgelost</b> .",
     "DEMO_CREATE_ACCT": "DIT IS EEN DEMO <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Maak een account aan</a>",
     "EXCEEDED_QUOTA": "Dit FastComments-account heeft zijn maandelijkse quotum overschreden en reacties zijn nu verborgen. Als u de beheerder van deze site bent, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">kunt u hier upgraden</a>",
-    "EMBED_GOOGLE_INSTRUCTIONS": "Om FastComments in Google Sites in te sluiten, maakt u <a href=\"https://fastcomments.com/create\" target=\"_blank\">hier</a> een Embed-URL aan."
+    "EMBED_GOOGLE_INSTRUCTIONS": "Om FastComments in Google Sites in te sluiten, maakt u <a href=\"https://fastcomments.com/create\" target=\"_blank\">hier</a> een Embed-URL aan.",
+    "URL_ID_MISSING": "FastComments kon niet worden geladen - er is geen pagina-URL opgegeven.",
+    "TENANT_ID_MISSING": "FastComments kon niet worden geladen - er is geen account-ID opgegeven.",
+    "USER_NOT_FOUND": "De gevraagde gebruiker is niet gevonden.",
+    "UNAUTHORIZED_USER_ACCESS": "Je hebt geen toegang om deze gebruiker te bekijken.",
+    "USER_ACTIVITY_PRIVATE": "De activiteiten van deze gebruiker zijn privé.",
+    "BLOCKED_BY_USER": "Deze gebruiker heeft je geblokkeerd. Je kunt zijn of haar activiteitenoverzicht niet bekijken.",
+    "TOS_REQUIRED": "Om te kunnen reageren, moet u de gebruiksvoorwaarden en het privacybeleid accepteren."
 }

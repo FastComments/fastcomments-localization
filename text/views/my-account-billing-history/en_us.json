@@ -5,6 +5,7 @@
   "TEXT_BILLING_EXTERNALLY_MANAGED": "Your billing information is set to Externally Managed. Invoices may not show here.",
   "TEXT_SHOWING_PAGE": "Showing page <%= currentPage %> of invoices. <%= invoices.length %> invoices per page.",
   "TABLE_HEADER_INVOICE_DATE": "Invoice Date",
+  "TABLE_HEADER_BILLING_PERIOD": "Billing Period",
   "TABLE_HEADER_INVOICE_NUMBER": "Invoice Number",
   "TABLE_HEADER_DESCRIPTION": "Description",
   "TABLE_HEADER_TOTAL": "Total",

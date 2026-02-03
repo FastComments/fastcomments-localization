@@ -17,5 +17,12 @@
     "BILLING_INFO_INV": "Информация о счете этой учетной записи на льготах устарела. <b> Комментарии будут скрыты через шестьдесят дней, если проблема не решена, </ b>.",
     "DEMO_CREATE_ACCT": "Это демо-<a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\"> Создать учетную запись </a>",
     "EXCEEDED_QUOTA": "Эта учетная запись FastComments превысила свою ежемесячную квоту, и комментарии теперь скрыты. Если вы администратор этого сайта, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">обновите здесь</a>",
-    "EMBED_GOOGLE_INSTRUCTIONS": "Чтобы встроить FastComments в Сайты Google, создайте <a href=\"https://fastcomments.com/create\" target=\"_blank\">здесь</a> URL-адрес для встраивания."
+    "EMBED_GOOGLE_INSTRUCTIONS": "Чтобы встроить FastComments в Сайты Google, создайте <a href=\"https://fastcomments.com/create\" target=\"_blank\">здесь</a> URL-адрес для встраивания.",
+    "URL_ID_MISSING": "FastComments не удалось загрузить — не был указан URL страницы.",
+    "TENANT_ID_MISSING": "FastComments не удалось загрузить — не указан идентификатор учетной записи.",
+    "USER_NOT_FOUND": "Запрошенный пользователь не найден.",
+    "UNAUTHORIZED_USER_ACCESS": "У вас нет доступа к просмотру данных этого пользователя.",
+    "USER_ACTIVITY_PRIVATE": "Активность этого пользователя является конфиденциальной.",
+    "BLOCKED_BY_USER": "Этот пользователь вас заблокировал. Вы не можете просматривать его ленту активности.",
+    "TOS_REQUIRED": "Для того чтобы оставлять комментарии, вы должны принять Условия предоставления услуг и Политику конфиденциальности."
 }

@@ -225,5 +225,14 @@
     "BUTTON_REMOVE_SPAM_RULE": "Ukloniti",
     "BUTTON_ADD_SPAM_RULE": "Dodaj pravilo za neželjenu poštu",
     "BUTTON_SAVE": "Uštedjeti",
-    "HEADING_PREVIEW": "Pregled"
+    "HEADING_PREVIEW": "Pregled",
+    "LABEL_ENABLE_TOS": "Zahtijevajte prihvaćanje Uvjeta pružanja usluge za one koji prvi put komentiraju",
+    "TEXT_ENABLE_TOS_NOTE": "Kada je omogućeno, novi komentatori moraju prihvatiti vaše Uvjete pružanja usluge prije slanja prvog komentara.",
+    "LABEL_USE_DEFAULT_TOS": "Koristi zadani tekst",
+    "LABEL_CUSTOMIZE_TOS": "Prilagodite tekst prema lokaciji",
+    "PLACEHOLDER_TOS_TEXT": "Slažem se s Uvjetima pružanja usluge",
+    "LABEL_TOS_LAST_UPDATED": "Datum zadnjeg ažuriranja Uvjeta pružanja usluge",
+    "TEXT_TOS_LAST_UPDATED_NOTE": "Kada se postavi, korisnici koji su prihvatili prije ovog datuma morat će ponovno prihvatiti.",
+    "TEXT_TOS_CUSTOM_TEXT_NOTE": "Ostavite prazno da biste koristili zadani tekst za ovu lokaciju.",
+    "LABEL_TOS_TEXT_MODE": "Tekst uvjeta pružanja usluge"
 }

@@ -17,5 +17,12 @@
     "BILLING_INFO_INV": "此 FastComments 帳戶的帳單信息已過期。<b>除非問題得到解決，否則評論將在六十天后隱藏</b>。",
     "DEMO_CREATE_ACCT": "這是一個演示<a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">創建一個帳戶</a>",
     "EXCEEDED_QUOTA": "此 FastComments 帳戶已超出其每月配額，評論現已隱藏。如果您是此站點的管理員，請<a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">在此處升級</a>",
-    "EMBED_GOOGLE_INSTRUCTIONS": "要在 Google 協作平台中嵌入 FastComments，請在<a href=\"https://fastcomments.com/create\" target=\"_blank\">此處</a>創建一個嵌入 URL。"
+    "EMBED_GOOGLE_INSTRUCTIONS": "要在 Google 協作平台中嵌入 FastComments，請在<a href=\"https://fastcomments.com/create\" target=\"_blank\">此處</a>創建一個嵌入 URL。",
+    "URL_ID_MISSING": "FastComments 無法載入 - 未指定頁面 URL。",
+    "TENANT_ID_MISSING": "FastComments 無法載入 - 未指定帳號 ID。",
+    "USER_NOT_FOUND": "未找到請求的用戶。",
+    "UNAUTHORIZED_USER_ACCESS": "您無權查看此使用者。",
+    "USER_ACTIVITY_PRIVATE": "該用戶的活動是私密的。",
+    "BLOCKED_BY_USER": "該用戶已封鎖您。您無法查看其動態。",
+    "TOS_REQUIRED": "您必須接受服務條款和隱私權政策才能發表評論。"
 }

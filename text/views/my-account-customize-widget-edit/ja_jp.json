@@ -225,5 +225,14 @@
     "BUTTON_REMOVE_SPAM_RULE": "取り除く",
     "BUTTON_ADD_SPAM_RULE": "スパムルールを追加",
     "BUTTON_SAVE": "保存",
-    "HEADING_PREVIEW": "プレビュー"
+    "HEADING_PREVIEW": "プレビュー",
+    "LABEL_ENABLE_TOS": "初めてコメントするユーザーには利用規約への同意を求める",
+    "TEXT_ENABLE_TOS_NOTE": "有効にすると、新しいコメント投稿者は最初のコメントを送信する前に利用規約に同意する必要があります。",
+    "LABEL_USE_DEFAULT_TOS": "デフォルトのテキストを使用する",
+    "LABEL_CUSTOMIZE_TOS": "ロケールごとにテキストをカスタマイズ",
+    "PLACEHOLDER_TOS_TEXT": "利用規約に同意します",
+    "LABEL_TOS_LAST_UPDATED": "利用規約最終更新日",
+    "TEXT_TOS_LAST_UPDATED_NOTE": "設定すると、この日付より前に承諾したユーザーは再度承諾する必要があります。",
+    "TEXT_TOS_CUSTOM_TEXT_NOTE": "このロケールのデフォルトのテキストを使用するには、空のままにしておきます。",
+    "LABEL_TOS_TEXT_MODE": "利用規約テキスト"
 }

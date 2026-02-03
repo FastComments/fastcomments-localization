@@ -43,5 +43,9 @@
   "DEMO_OPTION_WYSIWYG_DESC": "Rich text editor for easier commenting.",
   "DEMO_OPTION_WYSIWYG_ABOUT": "The WYSIWYG (What You See Is What You Get) editor provides a rich text editing experience for users who prefer visual formatting over markdown. It includes common formatting options like bold, italic, links, and lists while maintaining the security and performance standards of FastComments.<br><br>This is particularly useful for non-technical communities where users might not be familiar with markdown syntax. This example also enables the resize handle.",
 
+  "DEMO_OPTION_TOS_TITLE": "Terms of Service",
+  "DEMO_OPTION_TOS_DESC": "Require TOS acceptance before commenting.",
+  "DEMO_OPTION_TOS_ABOUT": "This demo shows the Terms of Service checkbox that can be required for first-time commenters. When enabled, anonymous users see the checkbox on every comment, while authenticated users only see it on their first comment or when you update your TOS.<br><br>You can customize the checkbox text per locale and set a \"Last Updated\" date to force users to re-accept when your terms change.",
+
   "DEMO_OPTION_VIEW_DOCUMENTATION": "View Documentation"
 }

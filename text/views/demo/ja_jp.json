@@ -33,5 +33,8 @@
     "DEMO_OPTION_WYSIWYG_TITLE": "WYSIWYGエディター",
     "DEMO_OPTION_WYSIWYG_DESC": "コメントが簡単に記入できるリッチ テキスト エディター。",
     "DEMO_OPTION_WYSIWYG_ABOUT": "WYSIWYG（What You See Is What You Get）エディタは、Markdownよりも視覚的な書式設定を好むユーザーに、リッチなテキスト編集エクスペリエンスを提供します。太字、斜体、リンク、リストといった一般的な書式設定オプションを備えながら、FastCommentsのセキュリティとパフォーマンス基準を維持しています。<br><br>これは、Markdown構文に慣れていない非技術系コミュニティにとって特に便利です。この例では、サイズ変更ハンドルも有効になっています。",
-    "DEMO_OPTION_VIEW_DOCUMENTATION": "ドキュメントを見る"
+    "DEMO_OPTION_VIEW_DOCUMENTATION": "ドキュメントを見る",
+    "DEMO_OPTION_TOS_TITLE": "利用規約",
+    "DEMO_OPTION_TOS_DESC": "コメントする前に TOS への同意が必要です。",
+    "DEMO_OPTION_TOS_ABOUT": "このデモでは、初めてコメントを投稿するユーザーに必須にできる利用規約のチェックボックスを紹介します。有効にすると、匿名ユーザーにはすべてのコメントにチェックボックスが表示されますが、認証済みユーザーには最初のコメント投稿時または利用規約を更新した場合にのみ表示されます。<br><br>ロケールごとにチェックボックスのテキストをカスタマイズし、「最終更新」日を設定して、利用規約が変更されたときにユーザーに再度同意を求めることができます。"
 }

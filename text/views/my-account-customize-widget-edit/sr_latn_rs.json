@@ -225,5 +225,14 @@
     "BUTTON_REMOVE_SPAM_RULE": "Ukloni",
     "BUTTON_ADD_SPAM_RULE": "Dodaj pravilo neželjene pošte",
     "BUTTON_SAVE": "Sačuvaj",
-    "HEADING_PREVIEW": "Pretraga"
+    "HEADING_PREVIEW": "Pretraga",
+    "LABEL_ENABLE_TOS": "Zahtevajte prihvatanje uslova korišćenja usluge za prvi put komentatore",
+    "TEXT_ENABLE_TOS_NOTE": "Kada je omogućeno, novi komentatori moraju prihvatiti vaše uslove korišćenja usluge pre nego što pošalju svoj prvi komentar.",
+    "LABEL_USE_DEFAULT_TOS": "Koristi podrazumevani tekst",
+    "LABEL_CUSTOMIZE_TOS": "Prilagodite tekst po lokalnom jeziku",
+    "PLACEHOLDER_TOS_TEXT": "Slažem se sa Uslovima korišćenja usluge",
+    "LABEL_TOS_LAST_UPDATED": "TOS Datum poslednjeg ažuriranja",
+    "TEXT_TOS_LAST_UPDATED_NOTE": "Kada je postavljeno, korisnici koji su prihvatili pre ovog datuma moraće ponovo da prihvate.",
+    "TEXT_TOS_CUSTOM_TEXT_NOTE": "Ostavite prazno da koristite podrazumevani tekst za ovaj jezik.",
+    "LABEL_TOS_TEXT_MODE": "TOS Tekst"
 }

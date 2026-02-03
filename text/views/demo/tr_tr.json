@@ -33,5 +33,8 @@
     "DEMO_OPTION_WYSIWYG_TITLE": "WYSIWYG Editörü",
     "DEMO_OPTION_WYSIWYG_DESC": "Daha kolay yorum yazmayı sağlayan zengin metin düzenleyici.",
     "DEMO_OPTION_WYSIWYG_ABOUT": "WYSIWYG (Ne Görüyorsanız Onu Alırsınız) editörü, Markdown yerine görsel biçimlendirmeyi tercih eden kullanıcılar için zengin bir metin düzenleme deneyimi sunar. FastComments&#39;ın güvenlik ve performans standartlarını korurken, kalın, italik, bağlantılar ve listeler gibi yaygın biçimlendirme seçeneklerini içerir.<br><br> Bu, özellikle Markdown sözdizimine aşina olmayan kullanıcıların bulunduğu teknik olmayan topluluklar için oldukça kullanışlıdır. Bu örnek ayrıca yeniden boyutlandırma tutamacını da etkinleştirir.",
-    "DEMO_OPTION_VIEW_DOCUMENTATION": "Dokümantasyonu Görüntüle"
+    "DEMO_OPTION_VIEW_DOCUMENTATION": "Dokümantasyonu Görüntüle",
+    "DEMO_OPTION_TOS_TITLE": "Hizmet Şartları",
+    "DEMO_OPTION_TOS_DESC": "Yorum yapmadan önce Hizmet Şartlarını kabul etmeniz gerekmektedir.",
+    "DEMO_OPTION_TOS_ABOUT": "Bu demo, ilk kez yorum yapanlar için zorunlu hale getirilebilen Hizmet Şartları onay kutusunu göstermektedir. Etkinleştirildiğinde, anonim kullanıcılar her yorumda onay kutusunu görürken, kimliği doğrulanmış kullanıcılar bunu yalnızca ilk yorumlarında veya Hizmet Şartlarınızı güncellediğinizde görürler.<br><br> Her dil ayarı için onay kutusu metnini özelleştirebilir ve koşullarınızda değişiklik olduğunda kullanıcıların yeniden kabul etmesini sağlamak için bir &quot;Son Güncelleme&quot; tarihi belirleyebilirsiniz."
 }

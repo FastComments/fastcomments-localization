@@ -17,5 +17,12 @@
     "BILLING_INFO_INV": "Информацията за плащане на този акаунт на FastComments не е актуална. <b>Коментарите ще бъдат скрити след шестдесет дни, освен ако проблемът не бъде разрешен</b> .",
     "DEMO_CREATE_ACCT": "ТОВА Е ДЕМО <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">Създайте акаунт</a>",
     "EXCEEDED_QUOTA": "Този акаунт на FastComments е надхвърлил месечната си квота и коментарите вече са скрити. Ако сте администратор на този сайт, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">надстройте тук</a>",
-    "EMBED_GOOGLE_INSTRUCTIONS": "За да вградите FastComments в Google Sites, създайте URL за вграждане <a href=\"https://fastcomments.com/create\" target=\"_blank\">тук</a> ."
+    "EMBED_GOOGLE_INSTRUCTIONS": "За да вградите FastComments в Google Sites, създайте URL за вграждане <a href=\"https://fastcomments.com/create\" target=\"_blank\">тук</a> .",
+    "URL_ID_MISSING": "FastComments не можа да се зареди - не беше посочен URL адрес на страницата.",
+    "TENANT_ID_MISSING": "FastComments не можа да се зареди - не е посочен идентификатор на акаунт.",
+    "USER_NOT_FOUND": "Заявеният потребител не е намерен.",
+    "UNAUTHORIZED_USER_ACCESS": "Нямате достъп за преглед на този потребител.",
+    "USER_ACTIVITY_PRIVATE": "Активността на този потребител е поверителна.",
+    "BLOCKED_BY_USER": "Този потребител ви е блокирал. Не можете да видите емисията му с активност.",
+    "TOS_REQUIRED": "Трябва да приемете Общите условия и Политиката за поверителност, за да коментирате"
 }

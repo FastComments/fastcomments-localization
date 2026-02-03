@@ -21,7 +21,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 371,
+        "comment-ui": 380,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -112,7 +112,7 @@
         "create-conversation-failure": 6,
         "create-conversation-success": 10,
         "dashboard_common": 107,
-        "demo": 35,
+        "demo": 38,
         "error": 8,
         "global-distribution": 44,
         "homepage-email-opt-out": 5,
@@ -142,7 +142,7 @@
         "my-account-auto-spam-classifications": 6,
         "my-account-badge-users": 11,
         "my-account-billing-analytics": 13,
-        "my-account-billing-history": 23,
+        "my-account-billing-history": 24,
         "my-account-billing-info": 39,
         "my-account-cancel": 8,
         "my-account-cancel-failure": 4,
@@ -163,7 +163,7 @@
         "my-account-customize-email-templates": 17,
         "my-account-customize-widget": 13,
         "my-account-customize-widget-delete": 5,
-        "my-account-customize-widget-edit": 227,
+        "my-account-customize-widget-edit": 237,
         "my-account-delete": 13,
         "my-account-delete-failure": 4,
         "my-account-delete-success": 5,
@@ -1115,7 +1115,14 @@
         "t356": "BILLING_INFO_INV",
         "t357": "DEMO_CREATE_ACCT",
         "t358": "EXCEEDED_QUOTA",
-        "t359": "EMBED_GOOGLE_INSTRUCTIONS"
+        "t359": "EMBED_GOOGLE_INSTRUCTIONS",
+        "t374": "URL_ID_MISSING",
+        "t375": "TENANT_ID_MISSING",
+        "t376": "USER_NOT_FOUND",
+        "t377": "UNAUTHORIZED_USER_ACCESS",
+        "t378": "USER_ACTIVITY_PRIVATE",
+        "t379": "BLOCKED_BY_USER",
+        "t380": "TOS_REQUIRED"
     },
     "tenant-signup-welcome": {
         "t1": "INTRO",
@@ -2205,7 +2212,10 @@
         "t32": "DEMO_OPTION_WYSIWYG_TITLE",
         "t33": "DEMO_OPTION_WYSIWYG_DESC",
         "t34": "DEMO_OPTION_WYSIWYG_ABOUT",
-        "t35": "DEMO_OPTION_VIEW_DOCUMENTATION"
+        "t35": "DEMO_OPTION_VIEW_DOCUMENTATION",
+        "t36": "DEMO_OPTION_TOS_TITLE",
+        "t37": "DEMO_OPTION_TOS_DESC",
+        "t38": "DEMO_OPTION_TOS_ABOUT"
     },
     "error": {
         "t1": "PAGE_TITLE",
@@ -2847,7 +2857,8 @@
         "t20": "BUTTON_VIEW",
         "t21": "BUTTON_PDF",
         "t22": "PAGINATION_PREVIOUS",
-        "t23": "PAGINATION_NEXT"
+        "t23": "PAGINATION_NEXT",
+        "t24": "TABLE_HEADER_BILLING_PERIOD"
     },
     "my-account-billing-info": {
         "t1": "PAGE_TITLE",
@@ -3380,7 +3391,17 @@
         "t224": "BUTTON_REMOVE_SPAM_RULE",
         "t225": "BUTTON_ADD_SPAM_RULE",
         "t226": "BUTTON_SAVE",
-        "t227": "HEADING_PREVIEW"
+        "t227": "HEADING_PREVIEW",
+        "t228": "HEADING_TERMS_OF_SERVICE",
+        "t229": "LABEL_ENABLE_TOS",
+        "t230": "TEXT_ENABLE_TOS_NOTE",
+        "t231": "LABEL_USE_DEFAULT_TOS",
+        "t232": "LABEL_CUSTOMIZE_TOS",
+        "t233": "PLACEHOLDER_TOS_TEXT",
+        "t234": "LABEL_TOS_LAST_UPDATED",
+        "t235": "TEXT_TOS_LAST_UPDATED_NOTE",
+        "t236": "TEXT_TOS_CUSTOM_TEXT_NOTE",
+        "t237": "LABEL_TOS_TEXT_MODE"
     },
     "my-account-delete": {
         "t1": "PAGE_TITLE",
@@ -6059,5 +6080,9 @@
         "t10": "THANKS",
         "t11": "UNSUBSCRIBE_NOTICE_FIRST",
         "t12": "UNSUBSCRIBE_NOTICE_LAST"
+    },
+    "comment-ui-tos": {
+        "t372": "TOS",
+        "t373": "TOS_REQUIRED"
     }
 }

@@ -225,5 +225,14 @@
     "BUTTON_REMOVE_SPAM_RULE": "Kaldırmak",
     "BUTTON_ADD_SPAM_RULE": "Spam Kuralı Ekle",
     "BUTTON_SAVE": "Kaydetmek",
-    "HEADING_PREVIEW": "Önizleme"
+    "HEADING_PREVIEW": "Önizleme",
+    "LABEL_ENABLE_TOS": "İlk kez yorum yapanların Hizmet Şartlarını kabul etmesi zorunludur.",
+    "TEXT_ENABLE_TOS_NOTE": "Etkinleştirildiğinde, yeni yorumcuların ilk yorumlarını göndermeden önce Hizmet Şartlarınızı kabul etmeleri gerekir.",
+    "LABEL_USE_DEFAULT_TOS": "Varsayılan metni kullan",
+    "LABEL_CUSTOMIZE_TOS": "Metni yerel ayara göre özelleştirin.",
+    "PLACEHOLDER_TOS_TEXT": "Hizmet Şartlarını kabul ediyorum.",
+    "LABEL_TOS_LAST_UPDATED": "Kullanım Şartları Son Güncelleme Tarihi",
+    "TEXT_TOS_LAST_UPDATED_NOTE": "Bu tarih ayarlandığında, bu tarihten önce kabul eden kullanıcıların tekrar kabul etmeleri gerekecektir.",
+    "TEXT_TOS_CUSTOM_TEXT_NOTE": "Bu yerel ayar için varsayılan metni kullanmak üzere boş bırakın.",
+    "LABEL_TOS_TEXT_MODE": "TOS Metni"
 }

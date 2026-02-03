@@ -17,5 +17,12 @@
     "BILLING_INFO_INV": "이 FastComments 계정의 결제 정보가 만료되었습니다. <b>문제가 해결되지 않으면 댓글이 60일 후 숨겨집니다</b> .",
     "DEMO_CREATE_ACCT": "이것은 데모 <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">입니다 계정 만들기</a>",
     "EXCEEDED_QUOTA": "이 FastComments 계정은 월별 할당량을 초과했으며 댓글이 숨겨져 있습니다. 이 사이트의 관리자인 경우 <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">여기에서 업그레이드</a> 하십시오.",
-    "EMBED_GOOGLE_INSTRUCTIONS": "Google 사이트 도구에 FastComments를 포함하려면 <a href=\"https://fastcomments.com/create\" target=\"_blank\">여기</a> 에서 포함 URL을 만드세요."
+    "EMBED_GOOGLE_INSTRUCTIONS": "Google 사이트 도구에 FastComments를 포함하려면 <a href=\"https://fastcomments.com/create\" target=\"_blank\">여기</a> 에서 포함 URL을 만드세요.",
+    "URL_ID_MISSING": "FastComments를 로드할 수 없습니다. 페이지 URL이 지정되지 않았습니다.",
+    "TENANT_ID_MISSING": "FastComments를 로드할 수 없습니다. 계정 ID가 지정되지 않았습니다.",
+    "USER_NOT_FOUND": "요청하신 사용자를 찾을 수 없습니다.",
+    "UNAUTHORIZED_USER_ACCESS": "이 사용자를 볼 수 있는 권한이 없습니다.",
+    "USER_ACTIVITY_PRIVATE": "이 사용자의 활동 내역은 비공개입니다.",
+    "BLOCKED_BY_USER": "이 사용자가 당신을 차단했습니다. 따라서 해당 사용자의 활동 내역을 볼 수 없습니다.",
+    "TOS_REQUIRED": "댓글을 작성하려면 서비스 약관 및 개인정보처리방침에 동의해야 합니다."
 }

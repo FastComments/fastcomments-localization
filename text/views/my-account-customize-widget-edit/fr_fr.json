@@ -225,5 +225,14 @@
     "BUTTON_REMOVE_SPAM_RULE": "Retirer",
     "BUTTON_ADD_SPAM_RULE": "Ajouter une règle anti-spam",
     "BUTTON_SAVE": "Sauvegarder",
-    "HEADING_PREVIEW": "Aperçu"
+    "HEADING_PREVIEW": "Aperçu",
+    "LABEL_ENABLE_TOS": "L'acceptation des conditions d'utilisation est requise pour les nouveaux commentateurs.",
+    "TEXT_ENABLE_TOS_NOTE": "Une fois cette option activée, les nouveaux utilisateurs doivent accepter vos conditions d'utilisation avant de soumettre leur premier commentaire.",
+    "LABEL_USE_DEFAULT_TOS": "Utiliser le texte par défaut",
+    "LABEL_CUSTOMIZE_TOS": "Personnaliser le texte selon la langue",
+    "PLACEHOLDER_TOS_TEXT": "J'accepte les conditions d'utilisation",
+    "LABEL_TOS_LAST_UPDATED": "Date de dernière mise à jour des CGU",
+    "TEXT_TOS_LAST_UPDATED_NOTE": "Une fois cette date fixée, les utilisateurs qui avaient accepté avant cette date devront accepter à nouveau.",
+    "TEXT_TOS_CUSTOM_TEXT_NOTE": "Laissez ce champ vide pour utiliser le texte par défaut de cette langue.",
+    "LABEL_TOS_TEXT_MODE": "Texte des CGU"
 }

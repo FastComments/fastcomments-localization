@@ -113,7 +113,7 @@
   "FAQ_ALL_WIDGETS_ANSWER": "Yes. All plans include all widgets (live commenting, live chat, small widgets, etc).",
 
   "FAQ_DATA_STORAGE": "What countries is my data stored?",
-  "FAQ_DATA_STORAGE_ANSWER": "We have different deployments for different use cases. By default, FastComments globally replicates all data to many continents.<br><br>We do not have any servers in China.<br><br>For our EU customers, if your account resides on eu.fastcomments.com, data stays in the EU.",
+  "FAQ_DATA_STORAGE_ANSWER": "We have different deployments for different use cases. By default, FastComments globally replicates all data to many continents.<br><br>We do not have any servers in China. We have a node in Singapore for our customers in that region.<br><br>For our EU customers, if your account resides on eu.fastcomments.com, data stays in the EU.",
 
   "FAQ_BILLING_SCHEDULE": "What is the billing schedule for Flex?",
   "FAQ_BILLING_SCHEDULE_ANSWER": "You are billed at the end of every month based on your usage, not on the signup date.",

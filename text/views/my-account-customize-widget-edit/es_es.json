@@ -225,5 +225,14 @@
     "BUTTON_REMOVE_SPAM_RULE": "Eliminar",
     "BUTTON_ADD_SPAM_RULE": "Agregar regla de spam",
     "BUTTON_SAVE": "Ahorrar",
-    "HEADING_PREVIEW": "Avance"
+    "HEADING_PREVIEW": "Avance",
+    "LABEL_ENABLE_TOS": "Exigir la aceptación de los Términos de Servicio para quienes comentan por primera vez",
+    "TEXT_ENABLE_TOS_NOTE": "Cuando esta opción esté habilitada, los nuevos comentaristas deberán aceptar sus Términos de servicio antes de enviar su primer comentario.",
+    "LABEL_USE_DEFAULT_TOS": "Usar texto predeterminado",
+    "LABEL_CUSTOMIZE_TOS": "Personalizar el texto según la configuración regional",
+    "PLACEHOLDER_TOS_TEXT": "Acepto los Términos de Servicio",
+    "LABEL_TOS_LAST_UPDATED": "Fecha de última actualización de las Condiciones de servicio",
+    "TEXT_TOS_LAST_UPDATED_NOTE": "Una vez configurado, los usuarios que aceptaron antes de esta fecha deberán aceptarla nuevamente.",
+    "TEXT_TOS_CUSTOM_TEXT_NOTE": "Déjelo vacío para utilizar el texto predeterminado para esta configuración regional.",
+    "LABEL_TOS_TEXT_MODE": "Texto de las Condiciones de Servicio"
 }

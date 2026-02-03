@@ -225,5 +225,14 @@
     "BUTTON_REMOVE_SPAM_RULE": "Usunąć",
     "BUTTON_ADD_SPAM_RULE": "Dodaj regułę spamu",
     "BUTTON_SAVE": "Ratować",
-    "HEADING_PREVIEW": "Zapowiedź"
+    "HEADING_PREVIEW": "Zapowiedź",
+    "LABEL_ENABLE_TOS": "Wymagaj akceptacji Warunków korzystania z usługi dla osób komentujących po raz pierwszy",
+    "TEXT_ENABLE_TOS_NOTE": "Po włączeniu tej opcji nowi komentujący będą musieli zaakceptować Warunki korzystania z usługi przed przesłaniem pierwszego komentarza.",
+    "LABEL_USE_DEFAULT_TOS": "Użyj domyślnego tekstu",
+    "LABEL_CUSTOMIZE_TOS": "Dostosuj tekst według ustawień regionalnych",
+    "PLACEHOLDER_TOS_TEXT": "Zgadzam się z Warunkami korzystania z usługi",
+    "LABEL_TOS_LAST_UPDATED": "Data ostatniej aktualizacji Warunków korzystania z usługi",
+    "TEXT_TOS_LAST_UPDATED_NOTE": "Po ustawieniu tej daty użytkownicy, którzy zaakceptowali ją przed tą datą, będą musieli zaakceptować ją ponownie.",
+    "TEXT_TOS_CUSTOM_TEXT_NOTE": "Pozostaw puste, aby użyć domyślnego tekstu dla tej lokalizacji.",
+    "LABEL_TOS_TEXT_MODE": "Tekst TOS"
 }

@@ -33,5 +33,8 @@
     "DEMO_OPTION_WYSIWYG_TITLE": "WYSIWYG uređivač",
     "DEMO_OPTION_WYSIWYG_DESC": "Uređivač obogaćenog teksta za lakše komentiranje.",
     "DEMO_OPTION_WYSIWYG_ABOUT": "WYSIWYG (What You See Is What You Get - što vidiš, to i dobiješ) uređivač teksta pruža bogato iskustvo uređivanja teksta korisnicima koji preferiraju vizualno oblikovanje u odnosu na markdown. Uključuje uobičajene opcije oblikovanja poput podebljanog, kurzivnog, poveznica i popisa, a istovremeno održava sigurnosne i performansne standarde FastCommentsa.<br><br> Ovo je posebno korisno za netehničke zajednice gdje korisnici možda nisu upoznati sa sintaksom markdowna. Ovaj primjer također omogućuje ručku za promjenu veličine.",
-    "DEMO_OPTION_VIEW_DOCUMENTATION": "Prikaži dokumentaciju"
+    "DEMO_OPTION_VIEW_DOCUMENTATION": "Prikaži dokumentaciju",
+    "DEMO_OPTION_TOS_TITLE": "Uvjeti pružanja usluge",
+    "DEMO_OPTION_TOS_DESC": "Zahtijevajte prihvaćanje Uvjeta korištenja prije komentiranja.",
+    "DEMO_OPTION_TOS_ABOUT": "Ova demonstracija prikazuje potvrdni okvir Uvjeta pružanja usluge koji može biti potreban za one koji prvi put komentiraju. Kada je omogućen, anonimni korisnici vide potvrdni okvir na svakom komentaru, dok ga autentificirani korisnici vide samo na svom prvom komentaru ili kada ažurirate svoje Uvjete pružanja usluge.<br><br> Tekst potvrdnog okvira možete prilagoditi po lokaciji i postaviti datum &quot;Zadnje ažuriranje&quot; kako biste prisilili korisnike da ponovno prihvate uvjete kada se promijene."
 }

@@ -33,5 +33,8 @@
     "DEMO_OPTION_WYSIWYG_TITLE": "Editor WYSIWYG",
     "DEMO_OPTION_WYSIWYG_DESC": "Editor de texto enriquecido para comentar más fácilmente.",
     "DEMO_OPTION_WYSIWYG_ABOUT": "El editor WYSIWYG (Lo que ves es lo que obtienes) ofrece una experiencia de edición de texto enriquecida para quienes prefieren el formato visual al formato Markdown. Incluye opciones de formato comunes como negrita, cursiva, enlaces y listas, manteniendo los estándares de seguridad y rendimiento de FastComments.<br><br> Esto es especialmente útil para comunidades sin conocimientos técnicos, donde los usuarios podrían no estar familiarizados con la sintaxis de Markdown. Este ejemplo también habilita el controlador de cambio de tamaño.",
-    "DEMO_OPTION_VIEW_DOCUMENTATION": "Ver documentación"
+    "DEMO_OPTION_VIEW_DOCUMENTATION": "Ver documentación",
+    "DEMO_OPTION_TOS_TITLE": "Condiciones de servicio",
+    "DEMO_OPTION_TOS_DESC": "Se requiere la aceptación de los TOS antes de comentar.",
+    "DEMO_OPTION_TOS_ABOUT": "Esta demostración muestra la casilla de verificación de las Condiciones de Servicio, que puede ser obligatoria para quienes comentan por primera vez. Al activarla, los usuarios anónimos la ven en cada comentario, mientras que los autenticados solo la ven en su primer comentario o al actualizar las Condiciones de Servicio.<br><br> Puede personalizar el texto de la casilla de verificación según la configuración regional y establecer una fecha de &quot;Última actualización&quot; para obligar a los usuarios a volver a aceptar cuando cambien sus términos."
 }

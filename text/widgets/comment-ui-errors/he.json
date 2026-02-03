@@ -17,5 +17,12 @@
     "BILLING_INFO_INV": "פרטי החיוב של חשבון FastComments זה אינם מעודכנים. <b>הערות יוסתרו לאחר שישים יום, אלא אם הבעיה נפתרה</b> .",
     "DEMO_CREATE_ACCT": "זוהי הדגמה <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\">צור חשבון</a>",
     "EXCEEDED_QUOTA": "חשבון FastComments זה חרג מהמכסה החודשית שלו וההערות מוסתרות כעת. אם אתה המנהל של אתר זה, <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">שדרג כאן</a>",
-    "EMBED_GOOGLE_INSTRUCTIONS": "כדי להטמיע FastComments ב-Google Sites, צור כתובת URL להטמעה <a href=\"https://fastcomments.com/create\" target=\"_blank\">כאן</a> ."
+    "EMBED_GOOGLE_INSTRUCTIONS": "כדי להטמיע FastComments ב-Google Sites, צור כתובת URL להטמעה <a href=\"https://fastcomments.com/create\" target=\"_blank\">כאן</a> .",
+    "URL_ID_MISSING": "לא ניתן היה לטעון את FastComments - לא צוינה כתובת URL של הדף.",
+    "TENANT_ID_MISSING": "לא ניתן היה לטעון את FastComments - לא צוין מזהה חשבון.",
+    "USER_NOT_FOUND": "המשתמש המבוקש לא נמצא.",
+    "UNAUTHORIZED_USER_ACCESS": "אין לך גישה לצפות במשתמש זה.",
+    "USER_ACTIVITY_PRIVATE": "הפעילות של משתמש זה היא פרטית.",
+    "BLOCKED_BY_USER": "משתמש זה חסם אותך. אינך יכול לצפות בפיד הפעילות שלו.",
+    "TOS_REQUIRED": "עליך לקבל את תנאי השירות ומדיניות הפרטיות כדי להגיב"
 }

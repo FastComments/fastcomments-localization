@@ -225,5 +225,14 @@
     "BUTTON_REMOVE_SPAM_RULE": "לְהַסִיר",
     "BUTTON_ADD_SPAM_RULE": "הוסף כלל ספאם",
     "BUTTON_SAVE": "לְהַצִיל",
-    "HEADING_PREVIEW": "תצוגה מקדימה"
+    "HEADING_PREVIEW": "תצוגה מקדימה",
+    "LABEL_ENABLE_TOS": "דרוש אישור לתנאי השירות עבור מגיבים בפעם הראשונה",
+    "TEXT_ENABLE_TOS_NOTE": "כאשר האפשרות מופעלת, על מגיבים חדשים לקבל את תנאי השירות שלך לפני שליחת תגובתם הראשונה.",
+    "LABEL_USE_DEFAULT_TOS": "השתמש בטקסט ברירת מחדל",
+    "LABEL_CUSTOMIZE_TOS": "התאמה אישית של טקסט לפי מיקום",
+    "PLACEHOLDER_TOS_TEXT": "אני מסכים/ה לתנאי השירות",
+    "LABEL_TOS_LAST_UPDATED": "תאריך עדכון אחרון של תנאי השימוש",
+    "TEXT_TOS_LAST_UPDATED_NOTE": "לאחר הגדרת האישור, משתמשים שאישרו אותו לפני תאריך זה יצטרכו לאשר אותו שוב.",
+    "TEXT_TOS_CUSTOM_TEXT_NOTE": "השאר ריק כדי להשתמש בטקסט ברירת המחדל עבור מיקום זה.",
+    "LABEL_TOS_TEXT_MODE": "טקסט תנאי השימוש"
 }

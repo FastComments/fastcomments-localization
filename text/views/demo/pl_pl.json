@@ -33,5 +33,8 @@
     "DEMO_OPTION_WYSIWYG_TITLE": "Edytor WYSIWYG",
     "DEMO_OPTION_WYSIWYG_DESC": "Bogaty edytor tekstu ułatwiający komentowanie.",
     "DEMO_OPTION_WYSIWYG_ABOUT": "Edytor WYSIWYG (What You See Is What You Get) zapewnia bogate możliwości edycji tekstu użytkownikom, którzy preferują formatowanie wizualne zamiast znaczników Markdown. Zawiera popularne opcje formatowania, takie jak pogrubienie, kursywa, linki i listy, zachowując jednocześnie standardy bezpieczeństwa i wydajności FastComments.<br><br> Jest to szczególnie przydatne dla społeczności nietechnicznych, w których użytkownicy mogą nie znać składni Markdown. Ten przykład włącza również uchwyt zmiany rozmiaru.",
-    "DEMO_OPTION_VIEW_DOCUMENTATION": "Wyświetl dokumentację"
+    "DEMO_OPTION_VIEW_DOCUMENTATION": "Wyświetl dokumentację",
+    "DEMO_OPTION_TOS_TITLE": "Warunki korzystania z usługi",
+    "DEMO_OPTION_TOS_DESC": "Przed dodaniem komentarza należy zaakceptować regulamin.",
+    "DEMO_OPTION_TOS_ABOUT": "Ta demonstracja pokazuje pole wyboru „Warunki korzystania z usługi”, które może być wymagane dla osób komentujących po raz pierwszy. Po włączeniu, użytkownicy anonimowi widzą to pole wyboru przy każdym komentarzu, podczas gdy użytkownicy uwierzytelnieni widzą je tylko przy pierwszym komentarzu lub po aktualizacji Warunków korzystania z usługi.<br><br> Możesz dostosować tekst pola wyboru dla każdej lokalizacji i ustawić datę „Ostatniej aktualizacji”, aby zmusić użytkowników do ponownej akceptacji warunków po ich zmianie."
 }

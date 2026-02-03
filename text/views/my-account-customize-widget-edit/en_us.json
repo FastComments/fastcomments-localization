@@ -225,5 +225,14 @@
   "BUTTON_REMOVE_SPAM_RULE": "Remove",
   "BUTTON_ADD_SPAM_RULE": "Add Spam Rule",
   "BUTTON_SAVE": "Save",
-  "HEADING_PREVIEW": "Preview"
+  "HEADING_PREVIEW": "Preview",
+  "LABEL_ENABLE_TOS": "Require Terms of Service acceptance for first-time commenters",
+  "TEXT_ENABLE_TOS_NOTE": "When enabled, new commenters must accept your Terms of Service before submitting their first comment.",
+  "LABEL_TOS_TEXT_MODE": "TOS Text",
+  "LABEL_USE_DEFAULT_TOS": "Use default text",
+  "LABEL_CUSTOMIZE_TOS": "Customize text per locale",
+  "PLACEHOLDER_TOS_TEXT": "I agree to the Terms of Service",
+  "TEXT_TOS_CUSTOM_TEXT_NOTE": "Leave empty to use the default text for this locale.",
+  "LABEL_TOS_LAST_UPDATED": "TOS Last Updated Date",
+  "TEXT_TOS_LAST_UPDATED_NOTE": "When set, users who accepted before this date will need to accept again."
 }

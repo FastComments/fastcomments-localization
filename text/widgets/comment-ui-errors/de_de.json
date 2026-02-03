@@ -17,5 +17,12 @@
     "BILLING_INFO_INV": "Die Rechnungsinformationen dieses FastComments-Kontos sind veraltet. <b>Wenn die Rechninginformationen nicht innerhalb von 60 Tagen aktualisiert werden, werden die Kommentatre ausgebelendet.</ b>.",
     "DEMO_CREATE_ACCT": "Dies ist eine Demo <a href=\"https://fastcomments.com/auth/tenant-signup?tier=0\" class=\"redirect\"> Erstellen eines Kontos </a>",
     "EXCEEDED_QUOTA": "Dieses FastComments-Konto hat sein monatliches Kontingent überschritten und Kommentare sind jetzt ausgeblendet. Wenn du der Administrator dieser Site bsit, führe hier ein <a href=\"https://fastcomments.com/auth/my-account/billing-info\" class=\"redirect\">Upgrade durch</a>.",
-    "EMBED_GOOGLE_INSTRUCTIONS": "Um FastComments in Google Sites einzubetten, erstelle eine Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">hier</a> ."
+    "EMBED_GOOGLE_INSTRUCTIONS": "Um FastComments in Google Sites einzubetten, erstelle eine Embed URL <a href=\"https://fastcomments.com/create\" target=\"_blank\">hier</a> .",
+    "URL_ID_MISSING": "FastComments konnte nicht geladen werden – es wurde keine Seiten-URL angegeben.",
+    "TENANT_ID_MISSING": "FastComments konnte nicht geladen werden – es wurde keine Konto-ID angegeben.",
+    "USER_NOT_FOUND": "Der angeforderte Benutzer wurde nicht gefunden.",
+    "UNAUTHORIZED_USER_ACCESS": "Sie haben keinen Zugriff, um diesen Benutzer anzuzeigen.",
+    "USER_ACTIVITY_PRIVATE": "Die Aktivitäten dieses Nutzers sind privat.",
+    "BLOCKED_BY_USER": "Dieser Nutzer hat Sie blockiert. Sie können seinen Aktivitätsfeed nicht einsehen.",
+    "TOS_REQUIRED": "Um einen Kommentar abgeben zu können, müssen Sie den Nutzungsbedingungen und der Datenschutzrichtlinie zustimmen."
 }

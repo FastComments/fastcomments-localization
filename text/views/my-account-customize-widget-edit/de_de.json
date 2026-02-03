@@ -225,5 +225,14 @@
     "BUTTON_REMOVE_SPAM_RULE": "Entfernen",
     "BUTTON_ADD_SPAM_RULE": "Spam-Regel hinzufügen",
     "BUTTON_SAVE": "Speichern",
-    "HEADING_PREVIEW": "Vorschau"
+    "HEADING_PREVIEW": "Vorschau",
+    "LABEL_ENABLE_TOS": "Erstkommentatoren sollten die Nutzungsbedingungen akzeptieren müssen",
+    "TEXT_ENABLE_TOS_NOTE": "Wenn diese Funktion aktiviert ist, müssen neue Kommentatoren Ihre Nutzungsbedingungen akzeptieren, bevor sie ihren ersten Kommentar abgeben können.",
+    "LABEL_USE_DEFAULT_TOS": "Standardtext verwenden",
+    "LABEL_CUSTOMIZE_TOS": "Text je nach Sprache anpassen",
+    "PLACEHOLDER_TOS_TEXT": "Ich stimme den Nutzungsbedingungen zu.",
+    "LABEL_TOS_LAST_UPDATED": "Datum der letzten Aktualisierung der Nutzungsbedingungen",
+    "TEXT_TOS_LAST_UPDATED_NOTE": "Sobald dieser Zeitpunkt festgelegt ist, müssen Nutzer, die vor diesem Datum zugestimmt haben, erneut zustimmen.",
+    "TEXT_TOS_CUSTOM_TEXT_NOTE": "Lassen Sie das Feld leer, um den Standardtext für dieses Gebietsschema zu verwenden.",
+    "LABEL_TOS_TEXT_MODE": "Nutzungsbedingungen"
 }

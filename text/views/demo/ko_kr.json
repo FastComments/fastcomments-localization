@@ -33,5 +33,8 @@
     "DEMO_OPTION_WYSIWYG_TITLE": "WYSIWYG 편집기",
     "DEMO_OPTION_WYSIWYG_DESC": "댓글 작성을 더욱 쉽게 해주는 서식 있는 텍스트 편집기입니다.",
     "DEMO_OPTION_WYSIWYG_ABOUT": "WYSIWYG(What You See Is What You Get) 편집기는 마크다운보다 시각적 서식을 선호하는 사용자를 위해 풍부한 텍스트 편집 환경을 제공합니다. 굵게, 기울임, 링크, 목록과 같은 일반적인 서식 옵션을 포함하면서도 FastComments의 보안 및 성능 표준을 유지합니다.<br><br> 이는 특히 마크다운 구문에 익숙하지 않은 사용자가 많은 비전문가 커뮤니티에서 유용합니다. 이 예제에서는 크기 조절 핸들도 사용할 수 있습니다.",
-    "DEMO_OPTION_VIEW_DOCUMENTATION": "문서 보기"
+    "DEMO_OPTION_VIEW_DOCUMENTATION": "문서 보기",
+    "DEMO_OPTION_TOS_TITLE": "서비스 약관",
+    "DEMO_OPTION_TOS_DESC": "댓글을 작성하기 전에 이용약관에 동의해 주십시오.",
+    "DEMO_OPTION_TOS_ABOUT": "이 데모는 처음 댓글을 작성하는 사용자에게 필수로 설정할 수 있는 서비스 약관 동의 체크박스를 보여줍니다. 이 기능을 활성화하면 익명 사용자는 모든 댓글에 체크박스가 표시되고, 인증된 사용자는 첫 댓글 작성 시 또는 서비스 약관이 업데이트될 때만 체크박스가 표시됩니다.<br><br> 지역별로 체크박스 텍스트를 사용자 지정하고 &quot;최종 업데이트&quot; 날짜를 설정하여 약관이 변경될 때 사용자가 다시 동의하도록 강제할 수 있습니다."
 }

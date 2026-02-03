@@ -33,5 +33,8 @@
     "DEMO_OPTION_WYSIWYG_TITLE": "所見即所得編輯器",
     "DEMO_OPTION_WYSIWYG_DESC": "富文本編輯器，方便評論。",
     "DEMO_OPTION_WYSIWYG_ABOUT": "所見即所得 (WYSIWYG) 編輯器為偏好視覺化格式而非 Markdown 的使用者提供豐富的文字編輯體驗。它包含粗體、斜體、連結和清單等常用格式選項，同時保持 FastComments 的安全性和效能標準。<br><br>這對於非技術社群尤其有用，因為使用者可能不熟悉 Markdown 語法。此範例還啟用了調整大小功能。",
-    "DEMO_OPTION_VIEW_DOCUMENTATION": "查看文件"
+    "DEMO_OPTION_VIEW_DOCUMENTATION": "查看文件",
+    "DEMO_OPTION_TOS_TITLE": "服務條款",
+    "DEMO_OPTION_TOS_DESC": "評論前請先接受服務條款。",
+    "DEMO_OPTION_TOS_ABOUT": "此示範展示了「服務條款」複選框，該複選框可設定為首次評論者必須勾選。啟用後，匿名使用者在每次評論時都會看到此複選框，而已認證使用者僅在首次評論時或您更新服務條款時才會看到此複選框。<br><br>您可以根據語言環境自訂複選框文本，並設定“上次更新”日期，以便在條款更改時強制使用者重新接受。"
 }
