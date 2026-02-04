@@ -3,7 +3,6 @@
     "HEADING_BILLING_ANALYTICS": "Analyse de facturation",
     "HEADING_USAGE_THIS_PERIOD": "Utilisation pendant cette période",
     "TABLE_HEADER_DESCRIPTION": "Description",
-    "TABLE_HEADER_COST_USD": "Coût (USD)",
     "TEXT_TOTAL": "Total",
     "TEXT_TRIAL_PERIOD_NOTE": "Vous êtes actuellement en période d&#39;essai. <b>Le montant indiqué ci-dessus n&#39;est pas dû pour ce cycle de facturation.</b>",
     "TEXT_INVOICE_SEND_DATE": "Facture à envoyer le <%= invoiceSendDate %>.",
@@ -11,5 +10,6 @@
     "TEXT_TRIAL_LIMITS_NOTE": "<b>Attention !</b> Votre compte étant en période d’essai, des limites inférieures s’appliquent. <a href=\"/auth/my-account/billing-info\">Passez à un compte payant</a> ou <a href=\"/auth/my-account/help\">contactez l’assistance pour augmenter ces limites</a> .",
     "LABEL_CURRENT": "Actuel:",
     "LABEL_MAX": "Max :",
-    "TEXT_MAX_NONE": "Aucun"
+    "TEXT_MAX_NONE": "Aucun",
+    "TABLE_HEADER_COST": "Coût"
 }

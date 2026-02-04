@@ -3,7 +3,6 @@
     "HEADING_BILLING_ANALYTICS": "Analitika obračunavanja",
     "HEADING_USAGE_THIS_PERIOD": "Uporaba v tem obdobju",
     "TABLE_HEADER_DESCRIPTION": "Opis",
-    "TABLE_HEADER_COST_USD": "Cena (USD)",
     "TEXT_TOTAL": "Skupaj",
     "TEXT_TRIAL_PERIOD_NOTE": "Trenutno ste v poskusnem obdobju. <b>Zgornji znesek ne zapade v tem obračunskem ciklu.</b>",
     "TEXT_INVOICE_SEND_DATE": "Račun bo poslan dne <%= invoiceSendDate %>.",
@@ -11,5 +10,6 @@
     "TEXT_TRIAL_LIMITS_NOTE": "<b>Opomba!</b> Ker ste v preizkusni različici, imate za svoj račun nižje omejitve. <a href=\"/auth/my-account/billing-info\">Nadgradite na plačljivi račun</a> ali <a href=\"/auth/my-account/help\">se obrnite na podporo, da zvišate te omejitve</a> .",
     "LABEL_CURRENT": "Trenutno:",
     "LABEL_MAX": "Maks.:",
-    "TEXT_MAX_NONE": "Nobena"
+    "TEXT_MAX_NONE": "Nobena",
+    "TABLE_HEADER_COST": "Stroški"
 }

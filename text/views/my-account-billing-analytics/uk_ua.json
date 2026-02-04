@@ -3,7 +3,6 @@
     "HEADING_BILLING_ANALYTICS": "Аналітика виставлення рахунків",
     "HEADING_USAGE_THIS_PERIOD": "Використання в цей період",
     "TABLE_HEADER_DESCRIPTION": "Опис",
-    "TABLE_HEADER_COST_USD": "Вартість (дол. США)",
     "TEXT_TOTAL": "Всього",
     "TEXT_TRIAL_PERIOD_NOTE": "Ви зараз перебуваєте у пробному періоді. <b>Вищевказана сума не підлягає сплаті в цьому розрахунковому циклі.</b>",
     "TEXT_INVOICE_SEND_DATE": "Рахунок-фактуру буде надіслано <%= invoiceSendDate %>.",
@@ -11,5 +10,6 @@
     "TEXT_TRIAL_LIMITS_NOTE": "<b>Примітка!</b> Оскільки ви перебуваєте в пробному періоді, до вашого облікового запису застосовуються нижчі ліміти. <a href=\"/auth/my-account/billing-info\">Перейдіть на платний обліковий запис</a> або <a href=\"/auth/my-account/help\">зверніться до служби підтримки, щоб збільшити ці ліміти</a> .",
     "LABEL_CURRENT": "Поточний:",
     "LABEL_MAX": "Макс:",
-    "TEXT_MAX_NONE": "Жоден"
+    "TEXT_MAX_NONE": "Жоден",
+    "TABLE_HEADER_COST": "Вартість"
 }

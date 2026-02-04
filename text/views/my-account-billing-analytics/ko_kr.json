@@ -3,7 +3,6 @@
     "HEADING_BILLING_ANALYTICS": "청구 분석",
     "HEADING_USAGE_THIS_PERIOD": "이 기간 사용량",
     "TABLE_HEADER_DESCRIPTION": "설명",
-    "TABLE_HEADER_COST_USD": "비용(미국 달러)",
     "TEXT_TOTAL": "총",
     "TEXT_TRIAL_PERIOD_NOTE": "현재 체험 기간 중이시므로 <b>위 금액은 이번 청구 주기에 청구할 금액이 아닙니다.</b>",
     "TEXT_INVOICE_SEND_DATE": "청구서는 <%= invoiceSendDate %>일에 발송될 예정입니다.",
@@ -11,5 +10,6 @@
     "TEXT_TRIAL_LIMITS_NOTE": "<b>주의!</b> 현재 체험판을 사용 중이시므로 계정 사용량 제한이 적용됩니다. <a href=\"/auth/my-account/billing-info\">유료 계정으로 업그레이드</a> 하거나 <a href=\"/auth/my-account/help\">고객 지원팀에 문의하여 사용량 제한을 높이세요</a> .",
     "LABEL_CURRENT": "현재의:",
     "LABEL_MAX": "맥스:",
-    "TEXT_MAX_NONE": "없음"
+    "TEXT_MAX_NONE": "없음",
+    "TABLE_HEADER_COST": "비용"
 }

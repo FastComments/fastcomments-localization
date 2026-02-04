@@ -3,7 +3,6 @@
     "HEADING_BILLING_ANALYTICS": "Ανάλυση Χρέωσης",
     "HEADING_USAGE_THIS_PERIOD": "Χρήση Αυτής της Περιόδου",
     "TABLE_HEADER_DESCRIPTION": "Περιγραφή",
-    "TABLE_HEADER_COST_USD": "Κόστος (USD)",
     "TEXT_TOTAL": "Σύνολο",
     "TEXT_TRIAL_PERIOD_NOTE": "Αυτήν τη στιγμή βρίσκεστε σε δοκιμαστική περίοδο. <b>Το παραπάνω ποσό δεν οφείλεται σε αυτόν τον κύκλο χρέωσης.</b>",
     "TEXT_INVOICE_SEND_DATE": "Το τιμολόγιο θα αποσταλεί στις <%= invoiceSendDate %>.",
@@ -11,5 +10,6 @@
     "TEXT_TRIAL_LIMITS_NOTE": "<b>Σημείωση!</b> Εφόσον βρίσκεστε σε δοκιμαστική περίοδο, ισχύουν χαμηλότερα όρια στον λογαριασμό σας. <a href=\"/auth/my-account/billing-info\">Αναβαθμίστε σε λογαριασμό επί πληρωμή</a> ή <a href=\"/auth/my-account/help\">επικοινωνήστε με την υποστήριξη για να αυξήσετε αυτά τα όρια</a> .",
     "LABEL_CURRENT": "Ρεύμα:",
     "LABEL_MAX": "Μέγιστο:",
-    "TEXT_MAX_NONE": "Κανένας"
+    "TEXT_MAX_NONE": "Κανένας",
+    "TABLE_HEADER_COST": "Κόστος"
 }

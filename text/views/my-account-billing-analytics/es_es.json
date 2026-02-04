@@ -3,7 +3,6 @@
     "HEADING_BILLING_ANALYTICS": "Análisis de facturación",
     "HEADING_USAGE_THIS_PERIOD": "Uso durante este período",
     "TABLE_HEADER_DESCRIPTION": "Descripción",
-    "TABLE_HEADER_COST_USD": "Costo (USD)",
     "TEXT_TOTAL": "Total",
     "TEXT_TRIAL_PERIOD_NOTE": "Actualmente se encuentra en un período de prueba. <b>El importe anterior no vence en este ciclo de facturación.</b>",
     "TEXT_INVOICE_SEND_DATE": "Factura a enviar el <%= invoiceSendDate %>.",
@@ -11,5 +10,6 @@
     "TEXT_TRIAL_LIMITS_NOTE": "<b>¡Atención!</b> Al estar en una prueba, se aplican límites más bajos a su cuenta. <a href=\"/auth/my-account/billing-info\">Actualice a una cuenta de pago</a> o <a href=\"/auth/my-account/help\">contacte con el equipo de soporte para aumentar estos límites</a> .",
     "LABEL_CURRENT": "Actual:",
     "LABEL_MAX": "Máx.:",
-    "TEXT_MAX_NONE": "Ninguno"
+    "TEXT_MAX_NONE": "Ninguno",
+    "TABLE_HEADER_COST": "Costo"
 }

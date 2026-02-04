@@ -3,7 +3,6 @@
     "HEADING_BILLING_ANALYTICS": "請求分析",
     "HEADING_USAGE_THIS_PERIOD": "今期の使用量",
     "TABLE_HEADER_DESCRIPTION": "説明",
-    "TABLE_HEADER_COST_USD": "費用（米ドル）",
     "TEXT_TOTAL": "合計",
     "TEXT_TRIAL_PERIOD_NOTE": "現在、試用期間中です。<b>上記の金額は今回の請求サイクルではお支払いいただく必要はございません。</b>",
     "TEXT_INVOICE_SEND_DATE": "請求書は<%= invoiceSendDate %>に送付されます。",
@@ -11,5 +10,6 @@
     "TEXT_TRIAL_LIMITS_NOTE": "<b>注意！</b>トライアル期間中のため、アカウントに適用される制限は低くなっています。<a href=\"/auth/my-account/billing-info\">有料アカウントにアップグレードする</a>か、<a href=\"/auth/my-account/help\">サポートにお問い合わせの上、制限を引き上げてください</a>。",
     "LABEL_CURRENT": "現在：",
     "LABEL_MAX": "マックス：",
-    "TEXT_MAX_NONE": "なし"
+    "TEXT_MAX_NONE": "なし",
+    "TABLE_HEADER_COST": "料金"
 }

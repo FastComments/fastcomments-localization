@@ -141,7 +141,7 @@
         "my-account-auto-spam": 3,
         "my-account-auto-spam-classifications": 6,
         "my-account-badge-users": 11,
-        "my-account-billing-analytics": 13,
+        "my-account-billing-analytics": 14,
         "my-account-billing-history": 24,
         "my-account-billing-info": 39,
         "my-account-cancel": 8,
@@ -2832,7 +2832,8 @@
         "t10": "TEXT_TRIAL_LIMITS_NOTE",
         "t11": "LABEL_CURRENT",
         "t12": "LABEL_MAX",
-        "t13": "TEXT_MAX_NONE"
+        "t13": "TEXT_MAX_NONE",
+        "t14": "TABLE_HEADER_COST"
     },
     "my-account-billing-history": {
         "t1": "PAGE_TITLE",

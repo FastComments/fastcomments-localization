@@ -3,7 +3,6 @@
     "HEADING_BILLING_ANALYTICS": "Analityka rozliczeń",
     "HEADING_USAGE_THIS_PERIOD": "Okres użytkowania",
     "TABLE_HEADER_DESCRIPTION": "Opis",
-    "TABLE_HEADER_COST_USD": "Koszt (USD)",
     "TEXT_TOTAL": "Całkowity",
     "TEXT_TRIAL_PERIOD_NOTE": "Aktualnie jesteś w okresie próbnym. <b>Powyższa kwota nie jest należna w tym cyklu rozliczeniowym.</b>",
     "TEXT_INVOICE_SEND_DATE": "Faktura zostanie wysłana w dniu <%= invoiceSendDate %>.",
@@ -11,5 +10,6 @@
     "TEXT_TRIAL_LIMITS_NOTE": "<b>Uwaga!</b> Ponieważ korzystasz z wersji próbnej, Twoje konto ma niższe limity. <a href=\"/auth/my-account/billing-info\">Przejdź na konto płatne</a> lub <a href=\"/auth/my-account/help\">skontaktuj się z pomocą techniczną, aby zwiększyć te limity</a> .",
     "LABEL_CURRENT": "Aktualny:",
     "LABEL_MAX": "Maks.:",
-    "TEXT_MAX_NONE": "Nic"
+    "TEXT_MAX_NONE": "Nic",
+    "TABLE_HEADER_COST": "Koszt"
 }
