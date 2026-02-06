@@ -8,5 +8,19 @@
     "SELECT_CURRENCY": "בחר מטבע",
     "INVOICE_CURRENCY_HELP": "מטבע זה ישמש עבור מנויים וחשבוניות חדשים.",
     "SAVE_CHANGES": "שמירת שינויים",
-    "ERROR_STRIPE_UPDATE_FAILED": "נכשל עדכון כתובת המייל לחיוב ב-Stripe. אנא נסה שוב או צור קשר עם התמיכה."
+    "ERROR_STRIPE_UPDATE_FAILED": "נכשל עדכון כתובת המייל לחיוב ב-Stripe. אנא נסה שוב או צור קשר עם התמיכה.",
+    "ADDRESS_HEADING": "כתובת לחיוב",
+    "LABEL_NAME": "שֵׁם",
+    "PLACEHOLDER_NAME": "השם שלך",
+    "LABEL_ADDRESS": "כְּתוֹבֶת",
+    "PLACEHOLDER_ADDRESS": "כתובת הרחוב שלך",
+    "LABEL_CITY": "עִיר",
+    "PLACEHOLDER_CITY": "העיר שלך",
+    "LABEL_STATE": "מדינה / מחוז / אזור",
+    "PLACEHOLDER_STATE": "מדינה / מחוז / אזור",
+    "LABEL_POSTAL_CODE": "מיקוד",
+    "PLACEHOLDER_POSTAL_CODE": "מיקוד",
+    "LABEL_COUNTRY": "מְדִינָה",
+    "OPTION_SELECT_COUNTRY": "לִבחוֹר",
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "נכשל עדכון כתובת החיוב ב-Stripe. אנא נסה שוב או צור קשר עם התמיכה."
 }

@@ -8,5 +8,19 @@
     "SELECT_CURRENCY": "Odaberite valutu",
     "INVOICE_CURRENCY_HELP": "Ova valuta će se koristiti za nove pretplate i fakture.",
     "SAVE_CHANGES": "Spremi promjene",
-    "ERROR_STRIPE_UPDATE_FAILED": "Nije uspjelo ažuriranje e-pošte za naplatu u Stripeu. Pokušajte ponovno ili se obratite podršci."
+    "ERROR_STRIPE_UPDATE_FAILED": "Nije uspjelo ažuriranje e-pošte za naplatu u Stripeu. Pokušajte ponovno ili se obratite podršci.",
+    "ADDRESS_HEADING": "Adresa za naplatu",
+    "LABEL_NAME": "Ime",
+    "PLACEHOLDER_NAME": "Vaše ime",
+    "LABEL_ADDRESS": "Adresa",
+    "PLACEHOLDER_ADDRESS": "Vaša adresa",
+    "LABEL_CITY": "Grad",
+    "PLACEHOLDER_CITY": "Vaš grad",
+    "LABEL_STATE": "Država / Pokrajina / Regija",
+    "PLACEHOLDER_STATE": "Država / Pokrajina / Regija",
+    "LABEL_POSTAL_CODE": "Poštanski broj",
+    "PLACEHOLDER_POSTAL_CODE": "Poštanski broj",
+    "LABEL_COUNTRY": "Zemlja",
+    "OPTION_SELECT_COUNTRY": "Odaberite",
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Nije uspjelo ažuriranje adrese za naplatu u Stripeu. Pokušajte ponovno ili se obratite podršci."
 }

@@ -8,5 +8,19 @@
     "SELECT_CURRENCY": "Vælg valuta",
     "INVOICE_CURRENCY_HELP": "Denne valuta vil blive brugt til nye abonnementer og fakturaer.",
     "SAVE_CHANGES": "Gem ændringer",
-    "ERROR_STRIPE_UPDATE_FAILED": "Kunne ikke opdatere fakturerings-e-mailadressen i Stripe. Prøv igen, eller kontakt support."
+    "ERROR_STRIPE_UPDATE_FAILED": "Kunne ikke opdatere fakturerings-e-mailadressen i Stripe. Prøv igen, eller kontakt support.",
+    "ADDRESS_HEADING": "Faktureringsadresse",
+    "LABEL_NAME": "Navn",
+    "PLACEHOLDER_NAME": "Dit navn",
+    "LABEL_ADDRESS": "Adresse",
+    "PLACEHOLDER_ADDRESS": "Din gadeadresse",
+    "LABEL_CITY": "By",
+    "PLACEHOLDER_CITY": "Din by",
+    "LABEL_STATE": "Stat / Provins / Region",
+    "PLACEHOLDER_STATE": "Stat / Provins / Region",
+    "LABEL_POSTAL_CODE": "Postnummer",
+    "PLACEHOLDER_POSTAL_CODE": "Postnummer",
+    "LABEL_COUNTRY": "Land",
+    "OPTION_SELECT_COUNTRY": "Vælge",
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Faktureringsadressen i Stripe kunne ikke opdateres. Prøv igen, eller kontakt support."
 }

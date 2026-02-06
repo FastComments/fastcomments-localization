@@ -314,7 +314,7 @@
         "render-error-item": 3,
         "user-permissions": 27,
         "comment-log-dialog": 97,
-        "my-account-invoice-settings": 10,
+        "my-account-invoice-settings": 24,
         "my-account-rss": 10,
         "import-logs": 3,
         "tenant-conversion-outreach": 12
@@ -6049,7 +6049,21 @@
         "t7": "SELECT_CURRENCY",
         "t8": "INVOICE_CURRENCY_HELP",
         "t9": "SAVE_CHANGES",
-        "t10": "ERROR_STRIPE_UPDATE_FAILED"
+        "t10": "ERROR_STRIPE_UPDATE_FAILED",
+        "t11": "ADDRESS_HEADING",
+        "t12": "LABEL_NAME",
+        "t13": "PLACEHOLDER_NAME",
+        "t14": "LABEL_ADDRESS",
+        "t15": "PLACEHOLDER_ADDRESS",
+        "t16": "LABEL_CITY",
+        "t17": "PLACEHOLDER_CITY",
+        "t18": "LABEL_STATE",
+        "t19": "PLACEHOLDER_STATE",
+        "t20": "LABEL_POSTAL_CODE",
+        "t21": "PLACEHOLDER_POSTAL_CODE",
+        "t22": "LABEL_COUNTRY",
+        "t23": "OPTION_SELECT_COUNTRY",
+        "t24": "ERROR_STRIPE_ADDRESS_UPDATE_FAILED"
     },
     "my-account-rss": {
         "t1": "PAGE_TITLE",

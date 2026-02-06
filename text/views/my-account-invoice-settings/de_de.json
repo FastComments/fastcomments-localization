@@ -8,5 +8,19 @@
     "SELECT_CURRENCY": "Währung auswählen",
     "INVOICE_CURRENCY_HELP": "Diese Währung wird für neue Abonnements und Rechnungen verwendet.",
     "SAVE_CHANGES": "Änderungen speichern",
-    "ERROR_STRIPE_UPDATE_FAILED": "Die Aktualisierung der Rechnungs-E-Mail-Adresse in Stripe ist fehlgeschlagen. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support."
+    "ERROR_STRIPE_UPDATE_FAILED": "Die Aktualisierung der Rechnungs-E-Mail-Adresse in Stripe ist fehlgeschlagen. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support.",
+    "ADDRESS_HEADING": "Rechnungsadresse",
+    "LABEL_NAME": "Name",
+    "PLACEHOLDER_NAME": "Ihr Name",
+    "LABEL_ADDRESS": "Adresse",
+    "PLACEHOLDER_ADDRESS": "Ihre Straßenadresse",
+    "LABEL_CITY": "Stadt",
+    "PLACEHOLDER_CITY": "Ihre Stadt",
+    "LABEL_STATE": "Staat / Provinz / Region",
+    "PLACEHOLDER_STATE": "Staat / Provinz / Region",
+    "LABEL_POSTAL_CODE": "Postleitzahl",
+    "PLACEHOLDER_POSTAL_CODE": "Postleitzahl",
+    "LABEL_COUNTRY": "Land",
+    "OPTION_SELECT_COUNTRY": "Wählen",
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Die Aktualisierung der Rechnungsadresse in Stripe ist fehlgeschlagen. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support."
 }

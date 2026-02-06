@@ -8,5 +8,19 @@
     "SELECT_CURRENCY": "Виберіть валюту",
     "INVOICE_CURRENCY_HELP": "Ця валюта буде використана для нових підписок та рахунків-фактур.",
     "SAVE_CHANGES": "Зберегти зміни",
-    "ERROR_STRIPE_UPDATE_FAILED": "Не вдалося оновити платіжну електронну адресу в Stripe. Спробуйте ще раз або зверніться до служби підтримки."
+    "ERROR_STRIPE_UPDATE_FAILED": "Не вдалося оновити платіжну електронну адресу в Stripe. Спробуйте ще раз або зверніться до служби підтримки.",
+    "ADDRESS_HEADING": "Платіжна адреса",
+    "LABEL_NAME": "Ім'я",
+    "PLACEHOLDER_NAME": "Ваше ім'я",
+    "LABEL_ADDRESS": "Адреса",
+    "PLACEHOLDER_ADDRESS": "Ваша адреса",
+    "LABEL_CITY": "Місто",
+    "PLACEHOLDER_CITY": "Ваше місто",
+    "LABEL_STATE": "Штат / Провінція / Регіон",
+    "PLACEHOLDER_STATE": "Штат / Провінція / Регіон",
+    "LABEL_POSTAL_CODE": "Поштовий індекс",
+    "PLACEHOLDER_POSTAL_CODE": "Поштовий індекс",
+    "LABEL_COUNTRY": "Країна",
+    "OPTION_SELECT_COUNTRY": "Виберіть",
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Не вдалося оновити платіжну адресу в Stripe. Будь ласка, спробуйте ще раз або зверніться до служби підтримки."
 }

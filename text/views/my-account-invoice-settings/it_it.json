@@ -8,5 +8,19 @@
     "SELECT_CURRENCY": "Seleziona valuta",
     "INVOICE_CURRENCY_HELP": "Questa valuta verrà utilizzata per i nuovi abbonamenti e le fatture.",
     "SAVE_CHANGES": "Salva modifiche",
-    "ERROR_STRIPE_UPDATE_FAILED": "Impossibile aggiornare l'email di fatturazione in Stripe. Riprova o contatta l'assistenza."
+    "ERROR_STRIPE_UPDATE_FAILED": "Impossibile aggiornare l'email di fatturazione in Stripe. Riprova o contatta l'assistenza.",
+    "ADDRESS_HEADING": "Indirizzo di fatturazione",
+    "LABEL_NAME": "Nome",
+    "PLACEHOLDER_NAME": "Il tuo nome",
+    "LABEL_ADDRESS": "Indirizzo",
+    "PLACEHOLDER_ADDRESS": "Il tuo indirizzo",
+    "LABEL_CITY": "Città",
+    "PLACEHOLDER_CITY": "La tua città",
+    "LABEL_STATE": "Stato / Provincia / Regione",
+    "PLACEHOLDER_STATE": "Stato / Provincia / Regione",
+    "LABEL_POSTAL_CODE": "Codice Postale",
+    "PLACEHOLDER_POSTAL_CODE": "Codice Postale",
+    "LABEL_COUNTRY": "Paese",
+    "OPTION_SELECT_COUNTRY": "Selezionare",
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Impossibile aggiornare l'indirizzo di fatturazione su Stripe. Riprova o contatta l'assistenza."
 }

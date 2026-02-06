@@ -8,5 +8,19 @@
     "SELECT_CURRENCY": "Изберете валута",
     "INVOICE_CURRENCY_HELP": "Тази валута ще се използва за нови абонаменти и фактури.",
     "SAVE_CHANGES": "Запазване на промените",
-    "ERROR_STRIPE_UPDATE_FAILED": "Актуализирането на имейл адреса за фактуриране в Stripe не бе успешно. Моля, опитайте отново или се свържете с поддръжката."
+    "ERROR_STRIPE_UPDATE_FAILED": "Актуализирането на имейл адреса за фактуриране в Stripe не бе успешно. Моля, опитайте отново или се свържете с поддръжката.",
+    "ADDRESS_HEADING": "Адрес за фактуриране",
+    "LABEL_NAME": "Име",
+    "PLACEHOLDER_NAME": "Вашето име",
+    "LABEL_ADDRESS": "Адрес",
+    "PLACEHOLDER_ADDRESS": "Вашият адрес",
+    "LABEL_CITY": "Град",
+    "PLACEHOLDER_CITY": "Вашият град",
+    "LABEL_STATE": "Щат / Провинция / Регион",
+    "PLACEHOLDER_STATE": "Щат / Провинция / Регион",
+    "LABEL_POSTAL_CODE": "Пощенски код",
+    "PLACEHOLDER_POSTAL_CODE": "Пощенски код",
+    "LABEL_COUNTRY": "Държава",
+    "OPTION_SELECT_COUNTRY": "Изберете",
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Актуализирането на адреса за фактуриране в Stripe не бе успешно. Моля, опитайте отново или се свържете с екипа за поддръжка."
 }

@@ -8,5 +8,19 @@
     "SELECT_CURRENCY": "Selecione a moeda",
     "INVOICE_CURRENCY_HELP": "Essa moeda será utilizada para novas assinaturas e faturas.",
     "SAVE_CHANGES": "Salvar alterações",
-    "ERROR_STRIPE_UPDATE_FAILED": "Não foi possível atualizar o e-mail de cobrança no Stripe. Tente novamente ou entre em contato com o suporte."
+    "ERROR_STRIPE_UPDATE_FAILED": "Não foi possível atualizar o e-mail de cobrança no Stripe. Tente novamente ou entre em contato com o suporte.",
+    "ADDRESS_HEADING": "Endereço de Cobrança",
+    "LABEL_NAME": "Nome",
+    "PLACEHOLDER_NAME": "Seu nome",
+    "LABEL_ADDRESS": "Endereço",
+    "PLACEHOLDER_ADDRESS": "Seu endereço",
+    "LABEL_CITY": "Cidade",
+    "PLACEHOLDER_CITY": "Sua cidade",
+    "LABEL_STATE": "Estado/Província/Região",
+    "PLACEHOLDER_STATE": "Estado/Província/Região",
+    "LABEL_POSTAL_CODE": "Código postal",
+    "PLACEHOLDER_POSTAL_CODE": "Código postal",
+    "LABEL_COUNTRY": "País",
+    "OPTION_SELECT_COUNTRY": "Selecione",
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Não foi possível atualizar o endereço de cobrança no Stripe. Tente novamente ou entre em contato com o suporte."
 }

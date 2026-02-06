@@ -8,5 +8,19 @@
     "SELECT_CURRENCY": "Para Birimi Seçin",
     "INVOICE_CURRENCY_HELP": "Bu para birimi yeni abonelikler ve faturalar için kullanılacaktır.",
     "SAVE_CHANGES": "Değişiklikleri Kaydet",
-    "ERROR_STRIPE_UPDATE_FAILED": "Stripe'ta faturalama e-postası güncellenemedi. Lütfen tekrar deneyin veya destek ekibiyle iletişime geçin."
+    "ERROR_STRIPE_UPDATE_FAILED": "Stripe'ta faturalama e-postası güncellenemedi. Lütfen tekrar deneyin veya destek ekibiyle iletişime geçin.",
+    "ADDRESS_HEADING": "Fatura Adresi",
+    "LABEL_NAME": "İsim",
+    "PLACEHOLDER_NAME": "Adınız",
+    "LABEL_ADDRESS": "Adres",
+    "PLACEHOLDER_ADDRESS": "Sokak Adresiniz",
+    "LABEL_CITY": "Şehir",
+    "PLACEHOLDER_CITY": "Şehriniz",
+    "LABEL_STATE": "Eyalet / İl / Bölge",
+    "PLACEHOLDER_STATE": "Eyalet / İl / Bölge",
+    "LABEL_POSTAL_CODE": "Posta Kodu",
+    "PLACEHOLDER_POSTAL_CODE": "Posta Kodu",
+    "LABEL_COUNTRY": "Ülke",
+    "OPTION_SELECT_COUNTRY": "Seçme",
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Stripe'ta fatura adresini güncelleme işlemi başarısız oldu. Lütfen tekrar deneyin veya destek ekibiyle iletişime geçin."
 }

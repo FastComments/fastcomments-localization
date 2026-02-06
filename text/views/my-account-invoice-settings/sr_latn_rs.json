@@ -8,5 +8,19 @@
     "SELECT_CURRENCY": "Izaberite valutu",
     "INVOICE_CURRENCY_HELP": "Ova valuta će se koristiti za nove pretplate i fakture.",
     "SAVE_CHANGES": "Sačuvaj izmene",
-    "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Pokušajte ponovo ili kontaktirajte podršku."
+    "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Pokušajte ponovo ili kontaktirajte podršku.",
+    "ADDRESS_HEADING": "Adresa za naplatu",
+    "LABEL_NAME": "Ime i prezime",
+    "PLACEHOLDER_NAME": "Ime i prezime",
+    "LABEL_ADDRESS": "Korisničko ime",
+    "PLACEHOLDER_ADDRESS": "Vaša adresa",
+    "LABEL_CITY": "Srpski",
+    "PLACEHOLDER_CITY": "Vaš grad",
+    "LABEL_STATE": "Država / Pokrajina / Region",
+    "PLACEHOLDER_STATE": "Država / Pokrajina / Region",
+    "LABEL_POSTAL_CODE": "Poštenski kod",
+    "PLACEHOLDER_POSTAL_CODE": "Poštenski kod",
+    "LABEL_COUNTRY": "Država",
+    "OPTION_SELECT_COUNTRY": "Pretraga",
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Failed to update billing address in Stripe. Pokušajte ponovo ili kontaktirajte podršku."
 }

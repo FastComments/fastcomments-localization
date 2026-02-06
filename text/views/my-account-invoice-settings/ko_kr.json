@@ -8,5 +8,19 @@
     "SELECT_CURRENCY": "통화를 선택하세요",
     "INVOICE_CURRENCY_HELP": "이 통화는 신규 구독 및 청구서 발행에 사용됩니다.",
     "SAVE_CHANGES": "변경 사항 저장",
-    "ERROR_STRIPE_UPDATE_FAILED": "Stripe에서 결제 이메일 주소를 업데이트하는 데 실패했습니다. 다시 시도하거나 고객 지원팀에 문의하십시오."
+    "ERROR_STRIPE_UPDATE_FAILED": "Stripe에서 결제 이메일 주소를 업데이트하는 데 실패했습니다. 다시 시도하거나 고객 지원팀에 문의하십시오.",
+    "ADDRESS_HEADING": "청구 주소",
+    "LABEL_NAME": "이름",
+    "PLACEHOLDER_NAME": "당신의 이름",
+    "LABEL_ADDRESS": "주소",
+    "PLACEHOLDER_ADDRESS": "귀하의 주소",
+    "LABEL_CITY": "도시",
+    "PLACEHOLDER_CITY": "당신의 도시",
+    "LABEL_STATE": "주/도/지역",
+    "PLACEHOLDER_STATE": "주/도/지역",
+    "LABEL_POSTAL_CODE": "우편번호",
+    "PLACEHOLDER_POSTAL_CODE": "우편번호",
+    "LABEL_COUNTRY": "국가",
+    "OPTION_SELECT_COUNTRY": "선택하다",
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Stripe에서 결제 주소 업데이트에 실패했습니다. 다시 시도하거나 고객 지원팀에 문의하세요."
 }

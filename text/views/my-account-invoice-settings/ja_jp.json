@@ -8,5 +8,19 @@
     "SELECT_CURRENCY": "通貨を選択",
     "INVOICE_CURRENCY_HELP": "この通貨は新しいサブスクリプションと請求書に使用されます。",
     "SAVE_CHANGES": "変更を保存",
-    "ERROR_STRIPE_UPDATE_FAILED": "Stripeで請求先メールアドレスを更新できませんでした。もう一度お試しいただくか、サポートにお問い合わせください。"
+    "ERROR_STRIPE_UPDATE_FAILED": "Stripeで請求先メールアドレスを更新できませんでした。もう一度お試しいただくか、サポートにお問い合わせください。",
+    "ADDRESS_HEADING": "請求先住所",
+    "LABEL_NAME": "名前",
+    "PLACEHOLDER_NAME": "あなたの名前",
+    "LABEL_ADDRESS": "住所",
+    "PLACEHOLDER_ADDRESS": "あなたの住所",
+    "LABEL_CITY": "市",
+    "PLACEHOLDER_CITY": "あなたの街",
+    "LABEL_STATE": "州/県/区",
+    "PLACEHOLDER_STATE": "州/県/区",
+    "LABEL_POSTAL_CODE": "郵便番号",
+    "PLACEHOLDER_POSTAL_CODE": "郵便番号",
+    "LABEL_COUNTRY": "国",
+    "OPTION_SELECT_COUNTRY": "選択",
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Stripeで請求先住所を更新できませんでした。もう一度お試しいただくか、サポートにお問い合わせください。"
 }

@@ -8,5 +8,19 @@
     "SELECT_CURRENCY": "Valuta selecteren",
     "INVOICE_CURRENCY_HELP": "Deze valuta wordt gebruikt voor nieuwe abonnementen en facturen.",
     "SAVE_CHANGES": "Wijzigingen opslaan",
-    "ERROR_STRIPE_UPDATE_FAILED": "Het bijwerken van het facturerings-e-mailadres in Stripe is mislukt. Probeer het opnieuw of neem contact op met de klantenservice."
+    "ERROR_STRIPE_UPDATE_FAILED": "Het bijwerken van het facturerings-e-mailadres in Stripe is mislukt. Probeer het opnieuw of neem contact op met de klantenservice.",
+    "ADDRESS_HEADING": "Factuuradres",
+    "LABEL_NAME": "Naam",
+    "PLACEHOLDER_NAME": "Uw naam",
+    "LABEL_ADDRESS": "Adres",
+    "PLACEHOLDER_ADDRESS": "Uw straatadres",
+    "LABEL_CITY": "Stad",
+    "PLACEHOLDER_CITY": "Jouw stad",
+    "LABEL_STATE": "Staat / Provincie / Regio",
+    "PLACEHOLDER_STATE": "Staat / Provincie / Regio",
+    "LABEL_POSTAL_CODE": "Postcode",
+    "PLACEHOLDER_POSTAL_CODE": "Postcode",
+    "LABEL_COUNTRY": "Land",
+    "OPTION_SELECT_COUNTRY": "Select",
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Het bijwerken van het factuuradres in Stripe is mislukt. Probeer het opnieuw of neem contact op met de klantenservice."
 }

@@ -8,5 +8,19 @@
     "SELECT_CURRENCY": "Wybierz walutę",
     "INVOICE_CURRENCY_HELP": "Ta waluta będzie używana w przypadku nowych subskrypcji i faktur.",
     "SAVE_CHANGES": "Zapisz zmiany",
-    "ERROR_STRIPE_UPDATE_FAILED": "Nie udało się zaktualizować adresu e-mail do rozliczeń w Stripe. Spróbuj ponownie lub skontaktuj się z pomocą techniczną."
+    "ERROR_STRIPE_UPDATE_FAILED": "Nie udało się zaktualizować adresu e-mail do rozliczeń w Stripe. Spróbuj ponownie lub skontaktuj się z pomocą techniczną.",
+    "ADDRESS_HEADING": "Adres rozliczeniowy",
+    "LABEL_NAME": "Nazwa",
+    "PLACEHOLDER_NAME": "Twoje imię",
+    "LABEL_ADDRESS": "Adres",
+    "PLACEHOLDER_ADDRESS": "Twój adres uliczny",
+    "LABEL_CITY": "Miasto",
+    "PLACEHOLDER_CITY": "Twoje miasto",
+    "LABEL_STATE": "Stan / Prowincja / Region",
+    "PLACEHOLDER_STATE": "Stan / Prowincja / Region",
+    "LABEL_POSTAL_CODE": "Kod pocztowy",
+    "PLACEHOLDER_POSTAL_CODE": "Kod pocztowy",
+    "LABEL_COUNTRY": "Kraj",
+    "OPTION_SELECT_COUNTRY": "Wybierać",
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Nie udało się zaktualizować adresu rozliczeniowego w Stripe. Spróbuj ponownie lub skontaktuj się z pomocą techniczną."
 }

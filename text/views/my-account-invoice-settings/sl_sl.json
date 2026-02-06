@@ -8,5 +8,19 @@
     "SELECT_CURRENCY": "Izberite valuto",
     "INVOICE_CURRENCY_HELP": "Ta valuta bo uporabljena za nove naročnine in račune.",
     "SAVE_CHANGES": "Shrani spremembe",
-    "ERROR_STRIPE_UPDATE_FAILED": "Posodobitev e-poštnega naslova za obračunavanje v storitvi Stripe ni uspela. Poskusite znova ali se obrnite na podporo."
+    "ERROR_STRIPE_UPDATE_FAILED": "Posodobitev e-poštnega naslova za obračunavanje v storitvi Stripe ni uspela. Poskusite znova ali se obrnite na podporo.",
+    "ADDRESS_HEADING": "Naslov za izstavitev računa",
+    "LABEL_NAME": "Ime",
+    "PLACEHOLDER_NAME": "Vaše ime",
+    "LABEL_ADDRESS": "Naslov",
+    "PLACEHOLDER_ADDRESS": "Vaš naslov ulice",
+    "LABEL_CITY": "Mesto",
+    "PLACEHOLDER_CITY": "Vaše mesto",
+    "LABEL_STATE": "Zvezna država / Provinca / Regija",
+    "PLACEHOLDER_STATE": "Zvezna država / Provinca / Regija",
+    "LABEL_POSTAL_CODE": "Poštna številka",
+    "PLACEHOLDER_POSTAL_CODE": "Poštna številka",
+    "LABEL_COUNTRY": "Država",
+    "OPTION_SELECT_COUNTRY": "Izberite",
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Posodobitev naslova za izstavitev računa v storitvi Stripe ni uspela. Poskusite znova ali se obrnite na podporo."
 }

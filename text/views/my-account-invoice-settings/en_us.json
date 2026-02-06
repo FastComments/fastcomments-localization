@@ -8,5 +8,19 @@
   "SELECT_CURRENCY": "Select Currency",
   "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
   "SAVE_CHANGES": "Save Changes",
-  "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support."
+  "ADDRESS_HEADING": "Billing Address",
+  "LABEL_NAME": "Name",
+  "PLACEHOLDER_NAME": "Your Name",
+  "LABEL_ADDRESS": "Address",
+  "PLACEHOLDER_ADDRESS": "Your Street Address",
+  "LABEL_CITY": "City",
+  "PLACEHOLDER_CITY": "Your City",
+  "LABEL_STATE": "State / Province / Region",
+  "PLACEHOLDER_STATE": "State / Province / Region",
+  "LABEL_POSTAL_CODE": "Postal Code",
+  "PLACEHOLDER_POSTAL_CODE": "Postal Code",
+  "LABEL_COUNTRY": "Country",
+  "OPTION_SELECT_COUNTRY": "Select",
+  "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
+  "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Failed to update billing address in Stripe. Please try again or contact support."
 }
