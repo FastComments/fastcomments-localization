@@ -234,5 +234,7 @@
     "LABEL_TOS_LAST_UPDATED": "TOS Datum poslednjeg ažuriranja",
     "TEXT_TOS_LAST_UPDATED_NOTE": "Kada je postavljeno, korisnici koji su prihvatili pre ovog datuma moraće ponovo da prihvate.",
     "TEXT_TOS_CUSTOM_TEXT_NOTE": "Ostavite prazno da koristite podrazumevani tekst za ovaj jezik.",
-    "LABEL_TOS_TEXT_MODE": "TOS Tekst"
+    "LABEL_TOS_TEXT_MODE": "TOS Tekst",
+    "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN": "Pokaži slom rezultata nakon odgovora",
+    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "Nakon što korisnik odgovori, prikažite agregatnu analizu svih odgovora za ovu stranicu."
 }

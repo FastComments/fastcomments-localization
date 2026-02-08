@@ -234,5 +234,7 @@
     "LABEL_TOS_LAST_UPDATED": "Date de dernière mise à jour des CGU",
     "TEXT_TOS_LAST_UPDATED_NOTE": "Une fois cette date fixée, les utilisateurs qui avaient accepté avant cette date devront accepter à nouveau.",
     "TEXT_TOS_CUSTOM_TEXT_NOTE": "Laissez ce champ vide pour utiliser le texte par défaut de cette langue.",
-    "LABEL_TOS_TEXT_MODE": "Texte des CGU"
+    "LABEL_TOS_TEXT_MODE": "Texte des CGU",
+    "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN": "Afficher le détail des résultats après avoir répondu",
+    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "Après la réponse d'un utilisateur, afficher un récapitulatif agrégé de toutes les réponses pour cette page."
 }

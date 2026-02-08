@@ -234,5 +234,7 @@
     "LABEL_TOS_LAST_UPDATED": "Sidst opdateret dato for brugsbetingelser",
     "TEXT_TOS_LAST_UPDATED_NOTE": "Når den er angivet, skal brugere, der accepterede før denne dato, acceptere igen.",
     "TEXT_TOS_CUSTOM_TEXT_NOTE": "Lad feltet stå tomt for at bruge standardteksten til denne lokalitet.",
-    "LABEL_TOS_TEXT_MODE": "Tekst af servicevilkår"
+    "LABEL_TOS_TEXT_MODE": "Tekst af servicevilkår",
+    "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN": "Vis resultatoversigt efter besvarelse",
+    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "Når en bruger har svaret, vises en samlet oversigt over alle svar for denne side."
 }

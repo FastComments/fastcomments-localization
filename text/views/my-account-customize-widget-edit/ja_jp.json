@@ -234,5 +234,7 @@
     "LABEL_TOS_LAST_UPDATED": "利用規約最終更新日",
     "TEXT_TOS_LAST_UPDATED_NOTE": "設定すると、この日付より前に承諾したユーザーは再度承諾する必要があります。",
     "TEXT_TOS_CUSTOM_TEXT_NOTE": "このロケールのデフォルトのテキストを使用するには、空のままにしておきます。",
-    "LABEL_TOS_TEXT_MODE": "利用規約テキスト"
+    "LABEL_TOS_TEXT_MODE": "利用規約テキスト",
+    "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN": "回答後に結果の内訳を表示",
+    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "ユーザーが回答した後、このページのすべての回答の集計された内訳を表示します。"
 }

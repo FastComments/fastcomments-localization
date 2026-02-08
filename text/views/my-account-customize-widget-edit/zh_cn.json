@@ -234,5 +234,7 @@
     "LABEL_TOS_LAST_UPDATED": "服务条款最后更新日期",
     "TEXT_TOS_LAST_UPDATED_NOTE": "设置完成后，在此日期之前接受过接受的用户需要再次接受。",
     "TEXT_TOS_CUSTOM_TEXT_NOTE": "留空则使用此语言环境的默认文本。",
-    "LABEL_TOS_TEXT_MODE": "服务条款文本"
+    "LABEL_TOS_TEXT_MODE": "服务条款文本",
+    "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN": "显示回答后的结果细分",
+    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "用户回答后，显示此页面所有回复的汇总细分信息。"
 }

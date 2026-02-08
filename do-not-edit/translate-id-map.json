@@ -21,7 +21,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 380,
+        "comment-ui": 389,
         "recent-comments": 13,
         "top-pages": 1,
         "user-help-acknowledged": 6,
@@ -163,7 +163,7 @@
         "my-account-customize-email-templates": 17,
         "my-account-customize-widget": 13,
         "my-account-customize-widget-delete": 5,
-        "my-account-customize-widget-edit": 237,
+        "my-account-customize-widget-edit": 239,
         "my-account-delete": 13,
         "my-account-delete-failure": 4,
         "my-account-delete-success": 5,
@@ -1094,7 +1094,16 @@
     },
     "comment-ui-questions": {
         "t303": "ALREADY_LEFT_REVIEW",
-        "t304": "THANKS_FOR_YOUR_REVIEW"
+        "t304": "THANKS_FOR_YOUR_REVIEW",
+        "t381": "BREAKDOWN_RESPONSES_SINGULAR",
+        "t382": "BREAKDOWN_RESPONSES_PLURAL",
+        "t383": "BREAKDOWN_AVERAGE",
+        "t384": "BREAKDOWN_NPS_SCORE",
+        "t385": "BREAKDOWN_PROMOTERS",
+        "t386": "BREAKDOWN_PASSIVES",
+        "t387": "BREAKDOWN_DETRACTORS",
+        "t388": "BREAKDOWN_THUMBS_UP",
+        "t389": "BREAKDOWN_THUMBS_DOWN"
     },
     "comment-ui-errors": {
         "t306": "RATE_LIMITED",
@@ -3402,7 +3411,9 @@
         "t234": "LABEL_TOS_LAST_UPDATED",
         "t235": "TEXT_TOS_LAST_UPDATED_NOTE",
         "t236": "TEXT_TOS_CUSTOM_TEXT_NOTE",
-        "t237": "LABEL_TOS_TEXT_MODE"
+        "t237": "LABEL_TOS_TEXT_MODE",
+        "t238": "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN",
+        "t239": "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE"
     },
     "my-account-delete": {
         "t1": "PAGE_TITLE",

@@ -234,5 +234,7 @@
     "LABEL_TOS_LAST_UPDATED": "Datum der letzten Aktualisierung der Nutzungsbedingungen",
     "TEXT_TOS_LAST_UPDATED_NOTE": "Sobald dieser Zeitpunkt festgelegt ist, müssen Nutzer, die vor diesem Datum zugestimmt haben, erneut zustimmen.",
     "TEXT_TOS_CUSTOM_TEXT_NOTE": "Lassen Sie das Feld leer, um den Standardtext für dieses Gebietsschema zu verwenden.",
-    "LABEL_TOS_TEXT_MODE": "Nutzungsbedingungen"
+    "LABEL_TOS_TEXT_MODE": "Nutzungsbedingungen",
+    "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN": "Aufschlüsselung der Ergebnisse nach Beantwortung der Fragen",
+    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "Nachdem ein Benutzer geantwortet hat, wird eine zusammengefasste Aufschlüsselung aller Antworten für diese Seite angezeigt."
 }

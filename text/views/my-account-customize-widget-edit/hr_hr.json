@@ -234,5 +234,7 @@
     "LABEL_TOS_LAST_UPDATED": "Datum zadnjeg ažuriranja Uvjeta pružanja usluge",
     "TEXT_TOS_LAST_UPDATED_NOTE": "Kada se postavi, korisnici koji su prihvatili prije ovog datuma morat će ponovno prihvatiti.",
     "TEXT_TOS_CUSTOM_TEXT_NOTE": "Ostavite prazno da biste koristili zadani tekst za ovu lokaciju.",
-    "LABEL_TOS_TEXT_MODE": "Tekst uvjeta pružanja usluge"
+    "LABEL_TOS_TEXT_MODE": "Tekst uvjeta pružanja usluge",
+    "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN": "Prikaži raščlambu rezultata nakon odgovaranja",
+    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "Nakon što korisnik odgovori, prikaži agregirani pregled svih odgovora za ovu stranicu."
 }

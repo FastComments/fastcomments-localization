@@ -234,5 +234,7 @@
     "LABEL_TOS_LAST_UPDATED": "Data dell'ultimo aggiornamento dei TOS",
     "TEXT_TOS_LAST_UPDATED_NOTE": "Una volta impostata questa opzione, gli utenti che hanno accettato prima di questa data dovranno accettarla di nuovo.",
     "TEXT_TOS_CUSTOM_TEXT_NOTE": "Lasciare vuoto per utilizzare il testo predefinito per questa impostazione locale.",
-    "LABEL_TOS_TEXT_MODE": "Testo TOS"
+    "LABEL_TOS_TEXT_MODE": "Testo TOS",
+    "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN": "Mostra la ripartizione dei risultati dopo aver risposto",
+    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "Dopo che un utente ha risposto, mostra una ripartizione aggregata di tutte le risposte per questa pagina."
 }

@@ -234,5 +234,7 @@
     "LABEL_TOS_LAST_UPDATED": "Fecha de última actualización de las Condiciones de servicio",
     "TEXT_TOS_LAST_UPDATED_NOTE": "Una vez configurado, los usuarios que aceptaron antes de esta fecha deberán aceptarla nuevamente.",
     "TEXT_TOS_CUSTOM_TEXT_NOTE": "Déjelo vacío para utilizar el texto predeterminado para esta configuración regional.",
-    "LABEL_TOS_TEXT_MODE": "Texto de las Condiciones de Servicio"
+    "LABEL_TOS_TEXT_MODE": "Texto de las Condiciones de Servicio",
+    "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN": "Mostrar desglose de resultados después de responder",
+    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "Después de que un usuario responda, muestre un desglose agregado de todas las respuestas para esta página."
 }

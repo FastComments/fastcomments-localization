@@ -234,5 +234,7 @@
     "LABEL_TOS_LAST_UPDATED": "Data da última atualização dos Termos de Serviço",
     "TEXT_TOS_LAST_UPDATED_NOTE": "Após essa configuração, os usuários que aceitaram antes dessa data precisarão aceitar novamente.",
     "TEXT_TOS_CUSTOM_TEXT_NOTE": "Deixe em branco para usar o texto padrão para esta localidade.",
-    "LABEL_TOS_TEXT_MODE": "Texto dos Termos de Serviço"
+    "LABEL_TOS_TEXT_MODE": "Texto dos Termos de Serviço",
+    "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN": "Exibir detalhamento dos resultados após a resposta",
+    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "Após o usuário responder, mostre um resumo agregado de todas as respostas desta página."
 }
