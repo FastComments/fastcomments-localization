@@ -242,7 +242,7 @@
         "my-account-sent-emails": 21,
         "my-account-tenant-delete": 37,
         "my-account-tenants": 23,
-        "my-account-ticket": 25,
+        "my-account-ticket": 26,
         "my-account-tickets": 22,
         "my-account-two-factor": 13,
         "my-account-update-failure": 13,
@@ -5021,7 +5021,8 @@
         "t22": "LABEL_FILES",
         "t23": "FILE_SINGULAR",
         "t24": "FILE_PLURAL",
-        "t25": "LINK_MANAGE_FILES"
+        "t25": "LINK_MANAGE_FILES",
+        "t26": "FILE_UPLOAD_COMMENT"
     },
     "my-account-tickets": {
         "t1": "PAGE_TITLE",
