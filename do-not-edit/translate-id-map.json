@@ -336,7 +336,8 @@
         "site-starter-packages": 67,
         "site-renderer-component": 2,
         "my-account-ticket-files": 24,
-        "site-member-welcome": 9
+        "site-member-welcome": 9,
+        "site-auth": 6
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -6749,5 +6750,13 @@
         "t7": "VERIFY_TEXT",
         "t8": "CAN_CREATE_NEW_LINKS_HERE",
         "t9": "UNSUBSCRIBE_HERE"
+    },
+    "site-auth": {
+        "t1": "SITE_AUTH_EMAIL_REQUIRED",
+        "t2": "SITE_AUTH_RATE_LIMITED",
+        "t3": "SITE_AUTH_INVALID_CREDENTIALS",
+        "t4": "SITE_AUTH_ERROR",
+        "t5": "SITE_AUTH_ACCOUNT_EXISTS",
+        "t6": "SITE_AUTH_USERNAME_TAKEN"
     }
 }
