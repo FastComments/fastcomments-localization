@@ -11,5 +11,8 @@
     "CONFIRM_DELETE_FILE": "Êtes-vous sûr de vouloir supprimer ce fichier ?",
     "ERROR_INVALID_FILE_NAME": "Nom de fichier invalide. Veuillez utiliser des lettres, des chiffres, des tirets, des traits de soulignement et des barres obliques. L'extension doit être .njk.",
     "ERROR_FILE_EXISTS": "Un fichier portant ce nom existe déjà.",
-    "ERROR_CANNOT_DELETE_REQUIRED": "Ce fichier est obligatoire et ne peut pas être supprimé."
+    "ERROR_CANNOT_DELETE_REQUIRED": "Ce fichier est obligatoire et ne peut pas être supprimé.",
+    "TAB_LOCALIZATIONS": "Localisations",
+    "TEXT_LOCALIZATIONS_INFO": "Personnalisez les chaînes de texte par défaut utilisées dans le thème de votre site. Les modifications s'appliquent uniquement à la langue sélectionnée.",
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Personnaliser en fonction des paramètres régionaux :"
 }

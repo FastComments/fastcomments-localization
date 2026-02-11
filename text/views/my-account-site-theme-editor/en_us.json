@@ -11,5 +11,8 @@
   "CONFIRM_DELETE_FILE": "Are you sure you want to delete this file?",
   "ERROR_INVALID_FILE_NAME": "Invalid filename. Use letters, numbers, hyphens, underscores, and forward slashes. Must end with .njk.",
   "ERROR_FILE_EXISTS": "A file with that name already exists.",
-  "ERROR_CANNOT_DELETE_REQUIRED": "This file is required and cannot be deleted."
+  "ERROR_CANNOT_DELETE_REQUIRED": "This file is required and cannot be deleted.",
+  "TAB_LOCALIZATIONS": "Localizations",
+  "TEXT_LOCALIZATIONS_INFO": "Customize the default text strings used in your site theme. Changes apply only to the selected locale.",
+  "LABEL_CUSTOMIZE_FOR_LOCALE": "Customize for locale:"
 }

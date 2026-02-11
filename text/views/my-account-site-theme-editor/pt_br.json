@@ -11,5 +11,8 @@
     "CONFIRM_DELETE_FILE": "Tem certeza de que deseja excluir este arquivo?",
     "ERROR_INVALID_FILE_NAME": "Nome de arquivo inválido. Use letras, números, hífens, sublinhados e barras. Deve terminar com .njk.",
     "ERROR_FILE_EXISTS": "Já existe um arquivo com esse nome.",
-    "ERROR_CANNOT_DELETE_REQUIRED": "Este arquivo é obrigatório e não pode ser excluído."
+    "ERROR_CANNOT_DELETE_REQUIRED": "Este arquivo é obrigatório e não pode ser excluído.",
+    "TAB_LOCALIZATIONS": "Localizações",
+    "TEXT_LOCALIZATIONS_INFO": "Personalize as sequências de texto padrão usadas no tema do seu site. As alterações se aplicam somente ao idioma selecionado.",
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Personalize de acordo com a sua localidade:"
 }

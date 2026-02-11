@@ -11,5 +11,8 @@
     "CONFIRM_DELETE_FILE": "このファイルを削除してもよろしいですか?",
     "ERROR_INVALID_FILE_NAME": "ファイル名が無効です。文字、数字、ハイフン、アンダースコア、スラッシュを使用してください。末尾は .njk にする必要があります。",
     "ERROR_FILE_EXISTS": "その名前のファイルは既に存在します。",
-    "ERROR_CANNOT_DELETE_REQUIRED": "このファイルは必須であり、削除できません。"
+    "ERROR_CANNOT_DELETE_REQUIRED": "このファイルは必須であり、削除できません。",
+    "TAB_LOCALIZATIONS": "ローカリゼーション",
+    "TEXT_LOCALIZATIONS_INFO": "サイトのテーマで使用するデフォルトのテキスト文字列をカスタマイズします。変更は選択したロケールにのみ適用されます。",
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "ロケールに合わせてカスタマイズ:"
 }

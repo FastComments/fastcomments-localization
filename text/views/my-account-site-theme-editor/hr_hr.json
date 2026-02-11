@@ -11,5 +11,8 @@
     "CONFIRM_DELETE_FILE": "Jeste li sigurni da želite izbrisati ovu datoteku?",
     "ERROR_INVALID_FILE_NAME": "Nevažeći naziv datoteke. Koristite slova, brojeve, crtice, podcrte i kose crte. Mora završavati s .njk.",
     "ERROR_FILE_EXISTS": "Datoteka s tim nazivom već postoji.",
-    "ERROR_CANNOT_DELETE_REQUIRED": "Ova datoteka je obavezna i ne može se izbrisati."
+    "ERROR_CANNOT_DELETE_REQUIRED": "Ova datoteka je obavezna i ne može se izbrisati.",
+    "TAB_LOCALIZATIONS": "Lokalizacije",
+    "TEXT_LOCALIZATIONS_INFO": "Prilagodite zadane tekstualne nizove koji se koriste u temi vaše web-lokacije. Promjene se primjenjuju samo na odabranu lokaciju.",
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Prilagodi za lokalnu oznaku:"
 }

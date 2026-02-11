@@ -11,5 +11,8 @@
     "CONFIRM_DELETE_FILE": "Ali ste prepričani, da želite izbrisati to datoteko?",
     "ERROR_INVALID_FILE_NAME": "Neveljavno ime datoteke. Uporabite črke, številke, vezaje, podčrte in poševnice naprej. Končati se mora z .njk.",
     "ERROR_FILE_EXISTS": "Datoteka s tem imenom že obstaja.",
-    "ERROR_CANNOT_DELETE_REQUIRED": "Ta datoteka je obvezna in je ni mogoče izbrisati."
+    "ERROR_CANNOT_DELETE_REQUIRED": "Ta datoteka je obvezna in je ni mogoče izbrisati.",
+    "TAB_LOCALIZATIONS": "Lokalizacije",
+    "TEXT_LOCALIZATIONS_INFO": "Prilagodite privzete besedilne nize, ki se uporabljajo v temi vašega spletnega mesta. Spremembe veljajo samo za izbrano jezikovno nastavitev.",
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Prilagodi glede na jezikovne nastavitve:"
 }

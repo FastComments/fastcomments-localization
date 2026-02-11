@@ -11,5 +11,8 @@
     "CONFIRM_DELETE_FILE": "האם אתה בטוח שאתה רוצה למחוק את הקובץ הזה?",
     "ERROR_INVALID_FILE_NAME": "שם קובץ לא חוקי. יש להשתמש באותיות, מספרים, מקפים, קווים תחתונים ולוכסנים. חייב להסתיים ב-.njk.",
     "ERROR_FILE_EXISTS": "קובץ בשם זה כבר קיים.",
-    "ERROR_CANNOT_DELETE_REQUIRED": "קובץ זה נדרש ואינו ניתן למחיקתו."
+    "ERROR_CANNOT_DELETE_REQUIRED": "קובץ זה נדרש ואינו ניתן למחיקתו.",
+    "TAB_LOCALIZATIONS": "לוקליזציות",
+    "TEXT_LOCALIZATIONS_INFO": "התאם אישית את מחרוזות הטקסט המוגדרות כברירת מחדל בעיצוב האתר שלך. השינויים חלים רק על המיקום שנבחר.",
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "התאמה אישית למיקום:"
 }

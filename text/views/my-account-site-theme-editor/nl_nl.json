@@ -11,5 +11,8 @@
     "CONFIRM_DELETE_FILE": "Weet je zeker dat je dit bestand wilt verwijderen?",
     "ERROR_INVALID_FILE_NAME": "Ongeldige bestandsnaam. Gebruik letters, cijfers, koppeltekens, underscores en schuine strepen. Moet eindigen op .njk.",
     "ERROR_FILE_EXISTS": "Er bestaat al een bestand met die naam.",
-    "ERROR_CANNOT_DELETE_REQUIRED": "Dit bestand is verplicht en kan niet worden verwijderd."
+    "ERROR_CANNOT_DELETE_REQUIRED": "Dit bestand is verplicht en kan niet worden verwijderd.",
+    "TAB_LOCALIZATIONS": "Lokalisaties",
+    "TEXT_LOCALIZATIONS_INFO": "Pas de standaardteksten aan die in uw sitethema worden gebruikt. Wijzigingen worden alleen toegepast op de geselecteerde taal.",
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Aanpassen voor de lokale instellingen:"
 }

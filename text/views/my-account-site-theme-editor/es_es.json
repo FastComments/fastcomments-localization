@@ -11,5 +11,8 @@
     "CONFIRM_DELETE_FILE": "¿Estás seguro que deseas eliminar este archivo?",
     "ERROR_INVALID_FILE_NAME": "Nombre de archivo no válido. Use letras, números, guiones, guiones bajos y barras diagonales. Debe terminar en .njk.",
     "ERROR_FILE_EXISTS": "Ya existe un archivo con ese nombre.",
-    "ERROR_CANNOT_DELETE_REQUIRED": "Este archivo es obligatorio y no se puede eliminar."
+    "ERROR_CANNOT_DELETE_REQUIRED": "Este archivo es obligatorio y no se puede eliminar.",
+    "TAB_LOCALIZATIONS": "Localizaciones",
+    "TEXT_LOCALIZATIONS_INFO": "Personaliza las cadenas de texto predeterminadas del tema de tu sitio. Los cambios se aplican solo a la configuración regional seleccionada.",
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Personalizar para la configuración regional:"
 }

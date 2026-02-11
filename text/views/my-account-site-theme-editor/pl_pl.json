@@ -11,5 +11,8 @@
     "CONFIRM_DELETE_FILE": "Czy na pewno chcesz usunąć ten plik?",
     "ERROR_INVALID_FILE_NAME": "Nieprawidłowa nazwa pliku. Użyj liter, cyfr, myślników, podkreśleń i ukośników. Musi kończyć się rozszerzeniem .njk.",
     "ERROR_FILE_EXISTS": "Plik o takiej nazwie już istnieje.",
-    "ERROR_CANNOT_DELETE_REQUIRED": "Ten plik jest wymagany i nie można go usunąć."
+    "ERROR_CANNOT_DELETE_REQUIRED": "Ten plik jest wymagany i nie można go usunąć.",
+    "TAB_LOCALIZATIONS": "Lokalizacje",
+    "TEXT_LOCALIZATIONS_INFO": "Dostosuj domyślne ciągi tekstowe używane w motywie witryny. Zmiany dotyczą tylko wybranej lokalizacji.",
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Dostosuj do ustawień regionalnych:"
 }

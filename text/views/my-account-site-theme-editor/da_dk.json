@@ -11,5 +11,8 @@
     "CONFIRM_DELETE_FILE": "Er du sikker på, at du vil slette denne fil?",
     "ERROR_INVALID_FILE_NAME": "Ugyldigt filnavn. Brug bogstaver, tal, bindestreger, understregninger og skråstreger. Skal slutte med .njk.",
     "ERROR_FILE_EXISTS": "Der findes allerede en fil med det navn.",
-    "ERROR_CANNOT_DELETE_REQUIRED": "Denne fil er påkrævet og kan ikke slettes."
+    "ERROR_CANNOT_DELETE_REQUIRED": "Denne fil er påkrævet og kan ikke slettes.",
+    "TAB_LOCALIZATIONS": "Lokaliseringer",
+    "TEXT_LOCALIZATIONS_INFO": "Tilpas standardtekststrengene, der bruges i dit webstedstema. Ændringer gælder kun for den valgte landestandard.",
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Tilpas til lokalitet:"
 }

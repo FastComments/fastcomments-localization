@@ -11,5 +11,8 @@
     "CONFIRM_DELETE_FILE": "Möchten Sie diese Datei wirklich löschen?",
     "ERROR_INVALID_FILE_NAME": "Ungültiger Dateiname. Verwenden Sie Buchstaben, Zahlen, Bindestriche, Unterstriche und Schrägstriche. Die Datei muss mit .njk enden.",
     "ERROR_FILE_EXISTS": "Eine Datei mit diesem Namen existiert bereits.",
-    "ERROR_CANNOT_DELETE_REQUIRED": "Diese Datei ist erforderlich und kann nicht gelöscht werden."
+    "ERROR_CANNOT_DELETE_REQUIRED": "Diese Datei ist erforderlich und kann nicht gelöscht werden.",
+    "TAB_LOCALIZATIONS": "Lokalisierungen",
+    "TEXT_LOCALIZATIONS_INFO": "Passen Sie die Standardtexte Ihres Website-Designs an. Änderungen gelten nur für die ausgewählte Sprache.",
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Für die jeweilige Region anpassen:"
 }
