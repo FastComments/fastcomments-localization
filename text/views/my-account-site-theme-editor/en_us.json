@@ -1,0 +1,15 @@
+{
+  "PAGE_TITLE": "Theme Editor - FastComments",
+  "HEADING_EDITOR": "Theme Editor",
+  "BREADCRUMB_EDITOR": "Editor",
+  "TAB_TEMPLATE": "Template",
+  "TAB_CSS": "CSS",
+  "BTN_SAVE": "Save",
+  "PREVIEW_PAGE_LABEL": "Preview Page",
+  "BTN_NEW_FILE": "New File",
+  "PROMPT_FILE_NAME": "Enter the template filename (e.g. partials/header.njk):",
+  "CONFIRM_DELETE_FILE": "Are you sure you want to delete this file?",
+  "ERROR_INVALID_FILE_NAME": "Invalid filename. Use letters, numbers, hyphens, underscores, and forward slashes. Must end with .njk.",
+  "ERROR_FILE_EXISTS": "A file with that name already exists.",
+  "ERROR_CANNOT_DELETE_REQUIRED": "This file is required and cannot be deleted."
+}

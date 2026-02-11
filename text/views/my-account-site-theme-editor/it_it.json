@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Editor di temi - FastComments",
+    "HEADING_EDITOR": "Editor di temi",
+    "BREADCRUMB_EDITOR": "Redattore",
+    "TAB_TEMPLATE": "Modello",
+    "TAB_CSS": "CSS",
+    "BTN_SAVE": "Salva",
+    "PREVIEW_PAGE_LABEL": "Pagina di anteprima",
+    "BTN_NEW_FILE": "Nuovo file",
+    "PROMPT_FILE_NAME": "Inserisci il nome del file modello (ad esempio partials/header.njk):",
+    "CONFIRM_DELETE_FILE": "Sei sicuro di voler eliminare questo file?",
+    "ERROR_INVALID_FILE_NAME": "Nome file non valido. Utilizzare lettere, numeri, trattini, trattini bassi e barre. Deve terminare con .njk.",
+    "ERROR_FILE_EXISTS": "Esiste già un file con quel nome.",
+    "ERROR_CANNOT_DELETE_REQUIRED": "Questo file è obbligatorio e non può essere eliminato."
+}

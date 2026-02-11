@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Uređivač tema - FastComments",
+    "HEADING_EDITOR": "Uređivač tema",
+    "BREADCRUMB_EDITOR": "Urednik",
+    "TAB_TEMPLATE": "Predložak",
+    "TAB_CSS": "CSS",
+    "BTN_SAVE": "Uštedjeti",
+    "PREVIEW_PAGE_LABEL": "Pregled stranice",
+    "BTN_NEW_FILE": "Nova datoteka",
+    "PROMPT_FILE_NAME": "Unesite naziv datoteke predloška (npr. partials/header.njk):",
+    "CONFIRM_DELETE_FILE": "Jeste li sigurni da želite izbrisati ovu datoteku?",
+    "ERROR_INVALID_FILE_NAME": "Nevažeći naziv datoteke. Koristite slova, brojeve, crtice, podcrte i kose crte. Mora završavati s .njk.",
+    "ERROR_FILE_EXISTS": "Datoteka s tim nazivom već postoji.",
+    "ERROR_CANNOT_DELETE_REQUIRED": "Ova datoteka je obavezna i ne može se izbrisati."
+}

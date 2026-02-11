@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "主题编辑器 - FastComments",
+    "HEADING_EDITOR": "主题编辑器",
+    "BREADCRUMB_EDITOR": "编辑",
+    "TAB_TEMPLATE": "模板",
+    "TAB_CSS": "CSS",
+    "BTN_SAVE": "节省",
+    "PREVIEW_PAGE_LABEL": "预览页面",
+    "BTN_NEW_FILE": "新文件",
+    "PROMPT_FILE_NAME": "输入模板文件名（例如 partials/header.njk）：",
+    "CONFIRM_DELETE_FILE": "您确定要删除此文件吗？",
+    "ERROR_INVALID_FILE_NAME": "文件名无效。请使用字母、数字、连字符、下划线和斜杠。文件名必须以 .njk 结尾。",
+    "ERROR_FILE_EXISTS": "同名文件已存在。",
+    "ERROR_CANNOT_DELETE_REQUIRED": "此文件为必填文件，不可删除。"
+}

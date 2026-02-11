@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Theme-Editor – FastComments",
+    "HEADING_EDITOR": "Themeneditor",
+    "BREADCRUMB_EDITOR": "Editor",
+    "TAB_TEMPLATE": "Vorlage",
+    "TAB_CSS": "CSS",
+    "BTN_SAVE": "Speichern",
+    "PREVIEW_PAGE_LABEL": "Vorschauseite",
+    "BTN_NEW_FILE": "Neue Datei",
+    "PROMPT_FILE_NAME": "Geben Sie den Namen der Vorlagendatei ein (z. B. partials/header.njk):",
+    "CONFIRM_DELETE_FILE": "Möchten Sie diese Datei wirklich löschen?",
+    "ERROR_INVALID_FILE_NAME": "Ungültiger Dateiname. Verwenden Sie Buchstaben, Zahlen, Bindestriche, Unterstriche und Schrägstriche. Die Datei muss mit .njk enden.",
+    "ERROR_FILE_EXISTS": "Eine Datei mit diesem Namen existiert bereits.",
+    "ERROR_CANNOT_DELETE_REQUIRED": "Diese Datei ist erforderlich und kann nicht gelöscht werden."
+}

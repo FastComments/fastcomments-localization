@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Уређивач тема - FastComments",
+    "HEADING_EDITOR": "Уређивач тема",
+    "BREADCRUMB_EDITOR": "Уредник",
+    "TAB_TEMPLATE": "Шаблон",
+    "TAB_CSS": "CSS",
+    "BTN_SAVE": "Сачувај",
+    "PREVIEW_PAGE_LABEL": "Преглед странице",
+    "BTN_NEW_FILE": "Нова датотека",
+    "PROMPT_FILE_NAME": "Унесите назив датотеке шаблона (нпр. partials/header.njk):",
+    "CONFIRM_DELETE_FILE": "Да ли сте сигурни да желите да обришете ову датотеку?",
+    "ERROR_INVALID_FILE_NAME": "Неважеће име датотеке. Користите слова, бројеве, цртице, доње црте и косе црте. Мора да се завршава са .njk.",
+    "ERROR_FILE_EXISTS": "Датотека са тим именом већ постоји.",
+    "ERROR_CANNOT_DELETE_REQUIRED": "Ова датотека је обавезна и не може се избрисати."
+}

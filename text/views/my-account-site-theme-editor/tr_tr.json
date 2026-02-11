@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Tema Düzenleyici - FastComments",
+    "HEADING_EDITOR": "Tema Düzenleyici",
+    "BREADCRUMB_EDITOR": "Editör",
+    "TAB_TEMPLATE": "Şablon",
+    "TAB_CSS": "CSS",
+    "BTN_SAVE": "Kaydetmek",
+    "PREVIEW_PAGE_LABEL": "Önizleme Sayfası",
+    "BTN_NEW_FILE": "Yeni Dosya",
+    "PROMPT_FILE_NAME": "Şablon dosya adını girin (örneğin, partials/header.njk):",
+    "CONFIRM_DELETE_FILE": "Bu dosyayı silmek istediğinizden emin misiniz?",
+    "ERROR_INVALID_FILE_NAME": "Geçersiz dosya adı. Harfler, rakamlar, tireler, alt çizgiler ve eğik çizgiler kullanın. .njk ile bitmelidir.",
+    "ERROR_FILE_EXISTS": "Bu isimde bir dosya zaten mevcut.",
+    "ERROR_CANNOT_DELETE_REQUIRED": "Bu dosya zorunludur ve silinemez."
+}

@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "テーマエディター - FastComments",
+    "HEADING_EDITOR": "テーマエディター",
+    "BREADCRUMB_EDITOR": "エディタ",
+    "TAB_TEMPLATE": "テンプレート",
+    "TAB_CSS": "CSS",
+    "BTN_SAVE": "保存",
+    "PREVIEW_PAGE_LABEL": "プレビューページ",
+    "BTN_NEW_FILE": "新しいファイル",
+    "PROMPT_FILE_NAME": "テンプレートファイル名を入力します（例：partials/header.njk）。",
+    "CONFIRM_DELETE_FILE": "このファイルを削除してもよろしいですか?",
+    "ERROR_INVALID_FILE_NAME": "ファイル名が無効です。文字、数字、ハイフン、アンダースコア、スラッシュを使用してください。末尾は .njk にする必要があります。",
+    "ERROR_FILE_EXISTS": "その名前のファイルは既に存在します。",
+    "ERROR_CANNOT_DELETE_REQUIRED": "このファイルは必須であり、削除できません。"
+}

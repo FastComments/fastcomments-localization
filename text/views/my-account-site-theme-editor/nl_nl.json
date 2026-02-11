@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Thema-editor - FastComments",
+    "HEADING_EDITOR": "Thema-editor",
+    "BREADCRUMB_EDITOR": "Editor",
+    "TAB_TEMPLATE": "Sjabloon",
+    "TAB_CSS": "CSS",
+    "BTN_SAVE": "Redden",
+    "PREVIEW_PAGE_LABEL": "Voorbeeldpagina",
+    "BTN_NEW_FILE": "Nieuw bestand",
+    "PROMPT_FILE_NAME": "Voer de bestandsnaam van de sjabloon in (bijv. partials/header.njk):",
+    "CONFIRM_DELETE_FILE": "Weet je zeker dat je dit bestand wilt verwijderen?",
+    "ERROR_INVALID_FILE_NAME": "Ongeldige bestandsnaam. Gebruik letters, cijfers, koppeltekens, underscores en schuine strepen. Moet eindigen op .njk.",
+    "ERROR_FILE_EXISTS": "Er bestaat al een bestand met die naam.",
+    "ERROR_CANNOT_DELETE_REQUIRED": "Dit bestand is verplicht en kan niet worden verwijderd."
+}

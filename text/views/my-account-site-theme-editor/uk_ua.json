@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Редактор тем - FastComments",
+    "HEADING_EDITOR": "Редактор тем",
+    "BREADCRUMB_EDITOR": "Редактор",
+    "TAB_TEMPLATE": "Шаблон",
+    "TAB_CSS": "CSS",
+    "BTN_SAVE": "Зберегти",
+    "PREVIEW_PAGE_LABEL": "Сторінка попереднього перегляду",
+    "BTN_NEW_FILE": "Новий файл",
+    "PROMPT_FILE_NAME": "Введіть назву файлу шаблону (наприклад, partials/header.njk):",
+    "CONFIRM_DELETE_FILE": "Ви впевнені, що хочете видалити цей файл?",
+    "ERROR_INVALID_FILE_NAME": "Недійсне ім'я файлу. Використовуйте літери, цифри, дефіси, підкреслення та скісну риску. Повинно закінчуватися на .njk.",
+    "ERROR_FILE_EXISTS": "Файл із такою назвою вже існує.",
+    "ERROR_CANNOT_DELETE_REQUIRED": "Цей файл обов'язковий і його не можна видалити."
+}

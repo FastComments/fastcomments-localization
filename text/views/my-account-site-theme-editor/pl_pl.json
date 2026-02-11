@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Edytor motywów - FastComments",
+    "HEADING_EDITOR": "Edytor motywów",
+    "BREADCRUMB_EDITOR": "Redaktor",
+    "TAB_TEMPLATE": "Szablon",
+    "TAB_CSS": "CSS",
+    "BTN_SAVE": "Ratować",
+    "PREVIEW_PAGE_LABEL": "Podgląd strony",
+    "BTN_NEW_FILE": "Nowy plik",
+    "PROMPT_FILE_NAME": "Wprowadź nazwę pliku szablonu (np. partials/header.njk):",
+    "CONFIRM_DELETE_FILE": "Czy na pewno chcesz usunąć ten plik?",
+    "ERROR_INVALID_FILE_NAME": "Nieprawidłowa nazwa pliku. Użyj liter, cyfr, myślników, podkreśleń i ukośników. Musi kończyć się rozszerzeniem .njk.",
+    "ERROR_FILE_EXISTS": "Plik o takiej nazwie już istnieje.",
+    "ERROR_CANNOT_DELETE_REQUIRED": "Ten plik jest wymagany i nie można go usunąć."
+}

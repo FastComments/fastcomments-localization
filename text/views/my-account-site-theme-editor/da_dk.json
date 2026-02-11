@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Temaredigeringsprogram - FastComments",
+    "HEADING_EDITOR": "Temaredigeringsprogram",
+    "BREADCRUMB_EDITOR": "Redaktør",
+    "TAB_TEMPLATE": "Skabelon",
+    "TAB_CSS": "CSS",
+    "BTN_SAVE": "Spare",
+    "PREVIEW_PAGE_LABEL": "Forhåndsvisningsside",
+    "BTN_NEW_FILE": "Ny fil",
+    "PROMPT_FILE_NAME": "Indtast skabelonens filnavn (f.eks. partials/header.njk):",
+    "CONFIRM_DELETE_FILE": "Er du sikker på, at du vil slette denne fil?",
+    "ERROR_INVALID_FILE_NAME": "Ugyldigt filnavn. Brug bogstaver, tal, bindestreger, understregninger og skråstreger. Skal slutte med .njk.",
+    "ERROR_FILE_EXISTS": "Der findes allerede en fil med det navn.",
+    "ERROR_CANNOT_DELETE_REQUIRED": "Denne fil er påkrævet og kan ikke slettes."
+}

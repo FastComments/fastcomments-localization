@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "테마 편집기 - FastComments",
+    "HEADING_EDITOR": "테마 편집기",
+    "BREADCRUMB_EDITOR": "편집자",
+    "TAB_TEMPLATE": "주형",
+    "TAB_CSS": "CSS",
+    "BTN_SAVE": "구하다",
+    "PREVIEW_PAGE_LABEL": "미리보기 페이지",
+    "BTN_NEW_FILE": "새 파일",
+    "PROMPT_FILE_NAME": "템플릿 파일 이름을 입력하세요(예: partials/header.njk):",
+    "CONFIRM_DELETE_FILE": "이 파일을 정말로 삭제하시겠습니까?",
+    "ERROR_INVALID_FILE_NAME": "잘못된 파일 이름입니다. 문자, 숫자, 하이픈, 밑줄, 슬래시를 사용하십시오. 파일 이름은 반드시 .njk로 끝나야 합니다.",
+    "ERROR_FILE_EXISTS": "같은 이름의 파일이 이미 존재합니다.",
+    "ERROR_CANNOT_DELETE_REQUIRED": "이 파일은 필수 파일이므로 삭제할 수 없습니다."
+}
