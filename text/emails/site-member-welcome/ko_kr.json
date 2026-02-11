@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "<%= siteName %>, <%= username %>에 오신 것을 환영합니다!",
+    "BANNER_TEXT": "<%= siteName %>에 오신 것을 환영합니다",
+    "FROM_NAME": "<%= siteName %>",
+    "INTRO": "여기요 <%= username %>,",
+    "THANKS_FOR_SIGNING_UP": "<%= siteName %>에 가입해 주셔서 감사합니다.",
+    "VERIFY_YOUR_ACCOUNT": "계정을 인증하세요",
+    "VERIFY_TEXT": "아래 링크를 클릭하여 계정을 인증해 주세요. 이 링크를 클릭하면 자동으로 로그인됩니다.",
+    "CAN_CREATE_NEW_LINKS_HERE": "<a href=\"<%= MEMBERSITE_URL %>/login\">여기에서</a> 새 로그인 링크를 만들 수 있습니다.",
+    "UNSUBSCRIBE_HERE": "구독 취소"
+}

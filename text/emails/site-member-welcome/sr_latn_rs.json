@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "Dobrodošli u <%= siteName %>, <%= username %>!",
+    "BANNER_TEXT": "Dobrodošli u <%= siteName %>",
+    "FROM_NAME": "<%= siteName %>",
+    "INTRO": "Hej <%= username %>,",
+    "THANKS_FOR_SIGNING_UP": "Hvala što ste se prijavili na <%= siteName %>.",
+    "VERIFY_YOUR_ACCOUNT": "Potvrdite svoj nalog",
+    "VERIFY_TEXT": "Molimo Vas da potvrdite svoj nalog klikom na link ispod. Ovo će vas takođe prijaviti.",
+    "CAN_CREATE_NEW_LINKS_HERE": "Možete kreirati nove linkove za prijavljivanje <a href=\"<%= MEMBERSITE_URL %>/login\">ovde</a>.",
+    "UNSUBSCRIBE_HERE": "Odjavi se"
+}

@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "欢迎来到<%= siteName %>，<%= username %>！",
+    "BANNER_TEXT": "欢迎来到<%= siteName %>",
+    "FROM_NAME": "<%= siteName %>",
+    "INTRO": "嘿 <%= username %>，",
+    "THANKS_FOR_SIGNING_UP": "感谢您注册<%= siteName %>。",
+    "VERIFY_YOUR_ACCOUNT": "验证您的帐户",
+    "VERIFY_TEXT": "请点击下方链接验证您的账户。验证后您也将自动登录。",
+    "CAN_CREATE_NEW_LINKS_HERE": "您可以在<a href=\"<%= MEMBERSITE_URL %>/login\">这里</a>创建新的登录链接。",
+    "UNSUBSCRIBE_HERE": "取消订阅"
+}

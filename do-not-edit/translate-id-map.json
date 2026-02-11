@@ -335,7 +335,8 @@
         "my-account-site-theme-editor": 13,
         "site-starter-packages": 67,
         "site-renderer-component": 2,
-        "my-account-ticket-files": 24
+        "my-account-ticket-files": 24,
+        "site-member-welcome": 9
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -6737,5 +6738,16 @@
         "t22": "FILE_EXPIRED",
         "t23": "EXPIRES_IN_DAYS",
         "t24": "TABLE_HEADER_EXPIRES"
+    },
+    "site-member-welcome": {
+        "t1": "SUBJECT",
+        "t2": "BANNER_TEXT",
+        "t3": "FROM_NAME",
+        "t4": "INTRO",
+        "t5": "THANKS_FOR_SIGNING_UP",
+        "t6": "VERIFY_YOUR_ACCOUNT",
+        "t7": "VERIFY_TEXT",
+        "t8": "CAN_CREATE_NEW_LINKS_HERE",
+        "t9": "UNSUBSCRIBE_HERE"
     }
 }

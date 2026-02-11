@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "歡迎來到<%= siteName %>，<%= username %>！",
+    "BANNER_TEXT": "歡迎來到<%= siteName %>",
+    "FROM_NAME": "<%= siteName %>",
+    "INTRO": "嘿 <%= username %>，",
+    "THANKS_FOR_SIGNING_UP": "感謝您註冊<%= siteName %>。",
+    "VERIFY_YOUR_ACCOUNT": "驗證您的帳戶",
+    "VERIFY_TEXT": "請點擊下方連結驗證您的帳戶。驗證後您也將自動登入。",
+    "CAN_CREATE_NEW_LINKS_HERE": "您可以在<a href=\"<%= MEMBERSITE_URL %>/login\">這裡</a>建立新的登入連結。",
+    "UNSUBSCRIBE_HERE": "取消訂閱"
+}

@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "Καλώς ήρθατε στο <%= siteName %>, <%= username %>!",
+    "BANNER_TEXT": "Καλώς ορίσατε στο <%= siteName %>",
+    "FROM_NAME": "<%= siteName %>",
+    "INTRO": "Γεια <%= username %>,",
+    "THANKS_FOR_SIGNING_UP": "Ευχαριστούμε που εγγραφήκατε στο <%= siteName %>.",
+    "VERIFY_YOUR_ACCOUNT": "Επαληθεύστε τον λογαριασμό σας",
+    "VERIFY_TEXT": "Επαληθεύστε τον λογαριασμό σας κάνοντας κλικ στον παρακάτω σύνδεσμο. Με αυτόν τον τρόπο θα συνδεθείτε επίσης.",
+    "CAN_CREATE_NEW_LINKS_HERE": "Μπορείτε να δημιουργήσετε νέους συνδέσμους για να συνδεθείτε <a href=\"<%= MEMBERSITE_URL %>/login\">εδώ</a> .",
+    "UNSUBSCRIBE_HERE": "Διαγραφή από την εγγραφή"
+}

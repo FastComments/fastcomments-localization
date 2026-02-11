@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "ברוכים הבאים ל-<%= siteName %>, <%= username %>!",
+    "BANNER_TEXT": "ברוכים הבאים ל-<%= siteName %>",
+    "FROM_NAME": "<%= siteName %>",
+    "INTRO": "היי <%= username %>,",
+    "THANKS_FOR_SIGNING_UP": "תודה שנרשמת ל-<%= siteName %>.",
+    "VERIFY_YOUR_ACCOUNT": "אימות החשבון שלך",
+    "VERIFY_TEXT": "אנא אמת את חשבונך על ידי לחיצה על הקישור למטה. פעולה זו גם תביא אותך לכניסה.",
+    "CAN_CREATE_NEW_LINKS_HERE": "ניתן ליצור קישורים חדשים להתחברות <a href=\"<%= MEMBERSITE_URL %>/login\">כאן</a> .",
+    "UNSUBSCRIBE_HERE": "ביטול מנוי"
+}

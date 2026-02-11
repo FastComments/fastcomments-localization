@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "Bienvenue à <%= siteName %>, <%= username %>!",
+    "BANNER_TEXT": "Bienvenue à <%= siteName %>",
+    "FROM_NAME": "<%= siteName %>",
+    "INTRO": "Hé <%= username %>,",
+    "THANKS_FOR_SIGNING_UP": "Merci de vous être inscrit à <%= siteName %>.",
+    "VERIFY_YOUR_ACCOUNT": "Vérifiez votre compte",
+    "VERIFY_TEXT": "Veuillez vérifier votre compte en cliquant sur le lien ci-dessous. Cela vous permettra également de vous connecter.",
+    "CAN_CREATE_NEW_LINKS_HERE": "Vous pouvez créer de nouveaux liens pour vous connecter <a href=\"<%= MEMBERSITE_URL %>/login\">ici</a> .",
+    "UNSUBSCRIBE_HERE": "Se désabonner"
+}

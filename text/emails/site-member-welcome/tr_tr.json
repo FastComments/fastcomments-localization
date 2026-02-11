@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "<%= siteName %>, <%= username %>'e hoş geldiniz!",
+    "BANNER_TEXT": "<%= siteName %>'e hoş geldiniz",
+    "FROM_NAME": "<%= siteName %>",
+    "INTRO": "Hey <%= username %>,",
+    "THANKS_FOR_SIGNING_UP": "<%= siteName %>'e kaydolduğunuz için teşekkürler.",
+    "VERIFY_YOUR_ACCOUNT": "Hesabınızı Doğrulayın",
+    "VERIFY_TEXT": "Lütfen aşağıdaki bağlantıya tıklayarak hesabınızı doğrulayın. Bu işlem aynı zamanda oturum açmanızı da sağlayacaktır.",
+    "CAN_CREATE_NEW_LINKS_HERE": "<a href=\"<%= MEMBERSITE_URL %>/login\">Buradan</a> yeni giriş bağlantıları oluşturabilirsiniz.",
+    "UNSUBSCRIBE_HERE": "Abonelikten çık"
+}

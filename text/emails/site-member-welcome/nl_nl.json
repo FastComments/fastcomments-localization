@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "Welkom bij <%= siteName %>, <%= username %>!",
+    "BANNER_TEXT": "Welkom bij <%= siteName %>",
+    "FROM_NAME": "<%= siteName %>",
+    "INTRO": "Hoi <%= username %>,",
+    "THANKS_FOR_SIGNING_UP": "Bedankt voor je aanmelding bij <%= siteName %>.",
+    "VERIFY_YOUR_ACCOUNT": "Verifieer je account",
+    "VERIFY_TEXT": "Verifieer uw account door op de onderstaande link te klikken. Hiermee wordt u tevens ingelogd.",
+    "CAN_CREATE_NEW_LINKS_HERE": "Je kunt <a href=\"<%= MEMBERSITE_URL %>/login\">hier</a> nieuwe links aanmaken om in te loggen.",
+    "UNSUBSCRIBE_HERE": "Uitschrijven"
+}

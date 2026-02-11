@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "<%= siteName %> へようこそ、<%= username %> さん！",
+    "BANNER_TEXT": "<%= siteName %>へようこそ",
+    "FROM_NAME": "<%= siteName %>",
+    "INTRO": "おい <%= username %>、",
+    "THANKS_FOR_SIGNING_UP": "<%= siteName %> にご登録いただきありがとうございます。",
+    "VERIFY_YOUR_ACCOUNT": "アカウントを確認する",
+    "VERIFY_TEXT": "以下のリンクをクリックしてアカウントを確認してください。これによりサインインも完了します。",
+    "CAN_CREATE_NEW_LINKS_HERE": "<a href=\"<%= MEMBERSITE_URL %>/login\">ここで</a>ログインするための新しいリンクを作成できます。",
+    "UNSUBSCRIBE_HERE": "購読解除"
+}

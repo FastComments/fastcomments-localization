@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "Velkommen til <%= siteName %>, <%= username %>!",
+    "BANNER_TEXT": "Velkommen til <%= siteName %>",
+    "FROM_NAME": "<%= siteName %>",
+    "INTRO": "Hej <%= username %>,",
+    "THANKS_FOR_SIGNING_UP": "Tak for din tilmelding til <%= siteName %>.",
+    "VERIFY_YOUR_ACCOUNT": "Bekræft din konto",
+    "VERIFY_TEXT": "Bekræft venligst din konto ved at klikke på linket nedenfor. Dette vil også logge dig ind.",
+    "CAN_CREATE_NEW_LINKS_HERE": "Du kan oprette nye links til login <a href=\"<%= MEMBERSITE_URL %>/login\">her</a> .",
+    "UNSUBSCRIBE_HERE": "Afmeld abonnement"
+}

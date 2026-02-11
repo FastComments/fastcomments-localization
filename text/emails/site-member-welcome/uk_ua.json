@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "Ласкаво просимо до <%= siteName %>, <%= username %>!",
+    "BANNER_TEXT": "Ласкаво просимо до <%= siteName %>",
+    "FROM_NAME": "<%= siteName %>",
+    "INTRO": "Привіт, <%= username %>,",
+    "THANKS_FOR_SIGNING_UP": "Дякуємо за реєстрацію на <%= siteName %>.",
+    "VERIFY_YOUR_ACCOUNT": "Підтвердьте свій обліковий запис",
+    "VERIFY_TEXT": "Будь ласка, підтвердьте свій обліковий запис, натиснувши посилання нижче. Це також призведе до входу.",
+    "CAN_CREATE_NEW_LINKS_HERE": "Ви можете створити нові посилання для входу <a href=\"<%= MEMBERSITE_URL %>/login\">тут</a> .",
+    "UNSUBSCRIBE_HERE": "Скасувати підписку"
+}
