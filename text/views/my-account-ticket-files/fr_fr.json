@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Gérer les fichiers - <%- ticket.subject %>",
+  "HEADING": "Fichiers pour \"<%- ticket.subject %>\"",
+  "LINK_BACK_TO_TICKET": "Retour à la billetterie",
+  "LABEL_UPLOAD_FILE": "Téléverser un fichier",
+  "BUTTON_UPLOAD": "Télécharger",
+  "TABLE_HEADER_NAME": "Nom",
+  "TABLE_HEADER_SIZE": "Taille",
+  "TABLE_HEADER_UPLOADED_BY": "Téléchargé par",
+  "TABLE_HEADER_DATE": "Date",
+  "TABLE_HEADER_ACTIONS": "Actes",
+  "BUTTON_DELETE": "Supprimer",
+  "MESSAGE_NO_FILES": "Aucun fichier n'a encore été téléchargé.",
+  "ERROR_FILE_TOO_LARGE": "Le fichier est trop volumineux. La taille maximale autorisée est de 2 Go.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "La limite de taille totale des fichiers de 5 Go par ticket serait dépassée.",
+  "ERROR_NO_FILE": "Veuillez sélectionner un fichier à télécharger.",
+  "ERROR_UPLOAD_FAILED": "Le chargement du fichier a échoué. Veuillez réessayer.",
+  "FILE_EXPIRED": "Expiré",
+  "TABLE_HEADER_EXPIRES": "Expire"
+}

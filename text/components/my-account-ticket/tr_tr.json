@@ -14,5 +14,9 @@
     "ERROR_GET_TICKET_FAILED": "En son bilet bilgilerini alma isteği başarısız oldu.",
     "ERROR_CHANGE_STATE_FAILED": "Bilet durumunu değiştirme isteği başarısız oldu.",
     "INITIAL_COMMENT": "Merhaba [username]! \"[subject]\" adlı bir destek talebi oluşturdunuz. Lütfen ek bilgiler bırakın, @[assignedTagName] sizinle iletişime geçecektir.",
-    "STATUS_CHANGE_COMMENT": "[username], statüsünü [oldStatus]'den [newStatus]'e değiştirdi."
+    "STATUS_CHANGE_COMMENT": "[username], statüsünü [oldStatus]'den [newStatus]'e değiştirdi.",
+    "LABEL_FILES": "Dosyalar",
+    "FILE_SINGULAR": "dosya",
+    "FILE_PLURAL": "dosyalar",
+    "LINK_MANAGE_FILES": "Dosyaları Yönet"
 }

@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "Настройки на сайта - FastComments",
-    "HEADING_EDIT_SITE": "Настройки на сайта",
+    "HEADING_EDIT_SITE": "Редактиране на сайта",
     "NAV_BUILDER": "Строител",
     "NAV_COLLECTIONS": "Колекции",
     "NAV_SETTINGS": "Настройки",
@@ -31,5 +31,7 @@
     "LABEL_ENABLE_FLOATING_LIKES": "Показване на плаващ уиджет за харесвания на всички страници",
     "HEADING_ROBOTS_TXT": "Robots.txt",
     "LABEL_ROBOTS_TXT": "Персонализиран файл Robots.txt",
-    "LABEL_ROBOTS_TXT_HELP": "Контролира как търсачките обхождат сайта ви. Оставете празно за настройка по подразбиране (позволяват се всички)."
+    "LABEL_ROBOTS_TXT_HELP": "Контролира как търсачките обхождат сайта ви. Оставете празно за настройка по подразбиране (позволяват се всички).",
+    "HEADING_THEME_SETTINGS": "Настройки на темата",
+    "LABEL_SHOW_HEADER_AUTH_LINKS": "Показване на връзки за вход и присъединяване в заглавката"
 }

@@ -14,5 +14,9 @@
     "ERROR_GET_TICKET_FAILED": "Zahtjev za dobivanje najnovijih informacija o ulaznicama nije uspio.",
     "ERROR_CHANGE_STATE_FAILED": "Zahtjev za promjenu stanja tiketa nije uspio.",
     "INITIAL_COMMENT": "Pozdrav [username]! Izradio/la si tiket pod nazivom \"[subject]\". Molimo te da ostaviš dodatne informacije, a @[assignedTagName] će ti se javiti.",
-    "STATUS_CHANGE_COMMENT": "[username] je promijenio/la status iz [oldStatus] u [newStatus]."
+    "STATUS_CHANGE_COMMENT": "[username] je promijenio/la status iz [oldStatus] u [newStatus].",
+    "LABEL_FILES": "Datoteke",
+    "FILE_SINGULAR": "datoteka",
+    "FILE_PLURAL": "datoteke",
+    "LINK_MANAGE_FILES": "Upravljanje datotekama"
 }

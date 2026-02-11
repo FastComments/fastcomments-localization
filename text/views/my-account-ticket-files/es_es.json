@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Administrar archivos - <%- ticket.subject %>",
+  "HEADING": "Archivos para \"<%- ticket.subject %>\"",
+  "LINK_BACK_TO_TICKET": "Volver al ticket",
+  "LABEL_UPLOAD_FILE": "Subir un archivo",
+  "BUTTON_UPLOAD": "Subir",
+  "TABLE_HEADER_NAME": "Nombre",
+  "TABLE_HEADER_SIZE": "Tamaño",
+  "TABLE_HEADER_UPLOADED_BY": "Subido por",
+  "TABLE_HEADER_DATE": "Fecha",
+  "TABLE_HEADER_ACTIONS": "Comportamiento",
+  "BUTTON_DELETE": "Borrar",
+  "MESSAGE_NO_FILES": "Aún no se han cargado archivos.",
+  "ERROR_FILE_TOO_LARGE": "El archivo es demasiado grande. El tamaño máximo es 2 GB.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "Se superaría el límite de tamaño total de archivo de 5 GB por ticket.",
+  "ERROR_NO_FILE": "Seleccione un archivo para cargar.",
+  "ERROR_UPLOAD_FAILED": "Error al cargar el archivo. Inténtalo de nuevo.",
+  "FILE_EXPIRED": "Venció",
+  "TABLE_HEADER_EXPIRES": "Caduca"
+}

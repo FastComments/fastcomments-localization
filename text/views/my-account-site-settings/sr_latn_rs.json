@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "Podešavanja sajta - FastComments",
-    "HEADING_EDIT_SITE": "Podešavanja sajta",
+    "HEADING_EDIT_SITE": "Uredi sajt",
     "NAV_BUILDER": "Graditelj",
     "NAV_COLLECTIONS": "Zbirke",
     "NAV_SETTINGS": "Podešavanja",
@@ -31,5 +31,7 @@
     "LABEL_ENABLE_FLOATING_LIKES": "Pokaži plutajući lajkovi vidžet na svim stranicama",
     "HEADING_ROBOTS_TXT": "Robots.txt",
     "LABEL_ROBOTS_TXT": "Prilagođeni Robots.txt",
-    "LABEL_ROBOTS_TXT_HELP": "Kontroliše kako pretraživači popisuju vašu veb lokaciju. Ostavite prazno za podrazumevano (dozvoli sve)."
+    "LABEL_ROBOTS_TXT_HELP": "Kontroliše kako pretraživači popisuju vašu veb lokaciju. Ostavite prazno za podrazumevano (dozvoli sve).",
+    "HEADING_THEME_SETTINGS": "Podešavanja teme",
+    "LABEL_SHOW_HEADER_AUTH_LINKS": "Pokažite prijavljivanje i pridružite se vezama u zaglavlju"
 }

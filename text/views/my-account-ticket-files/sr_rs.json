@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Управљање датотекама - <%- ticket.subject %>",
+  "HEADING": "Датотеке за „<%- ticket.subject %>“",
+  "LINK_BACK_TO_TICKET": "Назад на карту",
+  "LABEL_UPLOAD_FILE": "Отпреми датотеку",
+  "BUTTON_UPLOAD": "Отпреми",
+  "TABLE_HEADER_NAME": "Име",
+  "TABLE_HEADER_SIZE": "Величина",
+  "TABLE_HEADER_UPLOADED_BY": "Отпремио/ла",
+  "TABLE_HEADER_DATE": "Датум",
+  "TABLE_HEADER_ACTIONS": "Акције",
+  "BUTTON_DELETE": "Обриши",
+  "MESSAGE_NO_FILES": "Још увек није отпремљена ниједна датотека.",
+  "ERROR_FILE_TOO_LARGE": "Датотека је превелика. Максимална величина је 2 ГБ.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "Укупно ограничење величине датотеке од 5 ГБ по тикету би било прекорачено.",
+  "ERROR_NO_FILE": "Молимо вас да изаберете датотеку за отпремање.",
+  "ERROR_UPLOAD_FAILED": "Отпремање датотеке није успело. Молимо покушајте поново.",
+  "FILE_EXPIRED": "Истекло",
+  "TABLE_HEADER_EXPIRES": "Истиче"
+}

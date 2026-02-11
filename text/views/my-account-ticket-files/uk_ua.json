@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Керування файлами - <%- ticket.subject %>",
+  "HEADING": "Файли для \"<%- ticket.subject %>\"",
+  "LINK_BACK_TO_TICKET": "Назад до квитка",
+  "LABEL_UPLOAD_FILE": "Завантажити файл",
+  "BUTTON_UPLOAD": "Завантажити",
+  "TABLE_HEADER_NAME": "Ім'я",
+  "TABLE_HEADER_SIZE": "Розмір",
+  "TABLE_HEADER_UPLOADED_BY": "Завантажено користувачем",
+  "TABLE_HEADER_DATE": "Дата",
+  "TABLE_HEADER_ACTIONS": "Дії",
+  "BUTTON_DELETE": "Видалити",
+  "MESSAGE_NO_FILES": "Жодних файлів ще не завантажено.",
+  "ERROR_FILE_TOO_LARGE": "Файл занадто великий. Максимальний розмір — 2 ГБ.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "Загальний розмір файлу на заявку буде перевищено в 5 ГБ.",
+  "ERROR_NO_FILE": "Будь ласка, виберіть файл для завантаження.",
+  "ERROR_UPLOAD_FAILED": "Не вдалося завантажити файл. Спробуйте ще раз.",
+  "FILE_EXPIRED": "Термін дії минув",
+  "TABLE_HEADER_EXPIRES": "Термін дії закінчується"
+}

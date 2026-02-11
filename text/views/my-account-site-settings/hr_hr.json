@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "Postavke web-mjesta - Brzi komentari",
-    "HEADING_EDIT_SITE": "Postavke web-mjesta",
+    "HEADING_EDIT_SITE": "Uredi stranicu",
     "NAV_BUILDER": "Graditelj",
     "NAV_COLLECTIONS": "Zbirke",
     "NAV_SETTINGS": "Postavke",
@@ -31,5 +31,7 @@
     "LABEL_ENABLE_FLOATING_LIKES": "Prikaži plutajući widget za lajkove na svim stranicama",
     "HEADING_ROBOTS_TXT": "Robots.txt",
     "LABEL_ROBOTS_TXT": "Prilagođena datoteka Robots.txt",
-    "LABEL_ROBOTS_TXT_HELP": "Kontrolira kako tražilice indeksiraju vašu web-lokaciju. Ostavite prazno za zadano (dopusti sve)."
+    "LABEL_ROBOTS_TXT_HELP": "Kontrolira kako tražilice indeksiraju vašu web-lokaciju. Ostavite prazno za zadano (dopusti sve).",
+    "HEADING_THEME_SETTINGS": "Postavke teme",
+    "LABEL_SHOW_HEADER_AUTH_LINKS": "Prikaži poveznice za prijavu i pridruživanje u zaglavlju"
 }

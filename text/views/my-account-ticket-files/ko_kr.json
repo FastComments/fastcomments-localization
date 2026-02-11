@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "파일 관리 - <%- ticket.subject %>",
+  "HEADING": "\"<%- ticket.subject %>\"용 파일",
+  "LINK_BACK_TO_TICKET": "티켓으로 돌아가기",
+  "LABEL_UPLOAD_FILE": "파일 업로드",
+  "BUTTON_UPLOAD": "업로드",
+  "TABLE_HEADER_NAME": "이름",
+  "TABLE_HEADER_SIZE": "크기",
+  "TABLE_HEADER_UPLOADED_BY": "업로드한 사람",
+  "TABLE_HEADER_DATE": "날짜",
+  "TABLE_HEADER_ACTIONS": "행위",
+  "BUTTON_DELETE": "삭제",
+  "MESSAGE_NO_FILES": "아직 파일이 업로드되지 않았습니다.",
+  "ERROR_FILE_TOO_LARGE": "파일 크기가 너무 큽니다. 최대 크기는 2GB입니다.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "티켓당 총 파일 크기 제한인 5GB를 초과하게 됩니다.",
+  "ERROR_NO_FILE": "업로드할 파일을 선택해 주세요.",
+  "ERROR_UPLOAD_FAILED": "파일 업로드에 실패했습니다. 다시 시도해 주세요.",
+  "FILE_EXPIRED": "만료됨",
+  "TABLE_HEADER_EXPIRES": "만료됨"
+}

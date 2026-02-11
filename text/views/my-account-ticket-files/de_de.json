@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Dateien verwalten - <%- ticket.subject %>",
+  "HEADING": "Dateien für \"<%- ticket.subject %>\"",
+  "LINK_BACK_TO_TICKET": "Zurück zum Ticket",
+  "LABEL_UPLOAD_FILE": "Datei hochladen",
+  "BUTTON_UPLOAD": "Hochladen",
+  "TABLE_HEADER_NAME": "Name",
+  "TABLE_HEADER_SIZE": "Größe",
+  "TABLE_HEADER_UPLOADED_BY": "Hochgeladen von",
+  "TABLE_HEADER_DATE": "Datum",
+  "TABLE_HEADER_ACTIONS": "Aktionen",
+  "BUTTON_DELETE": "Löschen",
+  "MESSAGE_NO_FILES": "Es wurden noch keine Dateien hochgeladen.",
+  "ERROR_FILE_TOO_LARGE": "Die Datei ist zu groß. Die maximale Größe beträgt 2 GB.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "Die maximale Dateigröße von 5 GB pro Ticket würde überschritten.",
+  "ERROR_NO_FILE": "Bitte wählen Sie eine Datei zum Hochladen aus.",
+  "ERROR_UPLOAD_FAILED": "Der Dateiupload ist fehlgeschlagen. Bitte versuchen Sie es erneut.",
+  "FILE_EXPIRED": "Abgelaufen",
+  "TABLE_HEADER_EXPIRES": "Läuft ab"
+}

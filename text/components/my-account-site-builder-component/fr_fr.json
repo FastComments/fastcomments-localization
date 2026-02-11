@@ -121,5 +121,20 @@
     "MSG_EXTRACT_FAILED": "Impossible d'extraire la recette",
     "PREVIEW_RECIPE_INGREDIENTS": "ingrédients",
     "LABEL_MEMBER_ONLY_ALLOW_SEO": "Autoriser les moteurs de recherche à indexer le contenu protégé",
-    "LABEL_MEMBER_ONLY_SHOW_PREVIEW": "Afficher un aperçu du contenu aux non-membres"
+    "LABEL_MEMBER_ONLY_SHOW_PREVIEW": "Afficher un aperçu du contenu aux non-membres",
+    "CONFIRM_COPY_PAGE": "Copier cette page et tous ses blocs ?",
+    "MSG_COPIED": "Page copiée",
+    "LABEL_MEMBER_ONLY_PREVIEW_BLOCK": "Afficher l'aperçu jusqu'au bloc",
+    "SECTION_ARTICLES": "Articles",
+    "BTN_ADD_ARTICLE": "Article",
+    "DEFAULT_ARTICLE_NAME": "Nouvel article",
+    "CONFIRM_DELETE_ARTICLE": "Supprimer cet article et tous ses blocs ?",
+    "CONFIRM_COPY_ARTICLE": "Copier cet article et tous ses blocs ?",
+    "MSG_ARTICLE_COPIED": "Article copié",
+    "BTN_BACK_TO_BLOCKS": "Retour aux blocs",
+    "BTN_FULLSCREEN": "Plein écran",
+    "BTN_EXIT_FULLSCREEN": "Quitter le mode plein écran",
+    "TEXT_NO_ARTICLE_SELECTED": "Sélectionnez un article dans l'arborescence pour afficher ses blocs",
+    "BLOCK_TYPE_COMPLETE_PROFILE": "Profil complet",
+    "BLOCK_DESC_COMPLETE_PROFILE": "Formulaire de profil à compléter pour les nouveaux membres"
 }

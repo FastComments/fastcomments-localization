@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Bestanden beheren - <%- ticket.subject %>",
+  "HEADING": "Bestanden voor \"<%- ticket.subject %>\"",
+  "LINK_BACK_TO_TICKET": "Terug naar ticket",
+  "LABEL_UPLOAD_FILE": "Een bestand uploaden",
+  "BUTTON_UPLOAD": "Uploaden",
+  "TABLE_HEADER_NAME": "Naam",
+  "TABLE_HEADER_SIZE": "Maat",
+  "TABLE_HEADER_UPLOADED_BY": "Geüpload door",
+  "TABLE_HEADER_DATE": "Datum",
+  "TABLE_HEADER_ACTIONS": "Acties",
+  "BUTTON_DELETE": "Verwijderen",
+  "MESSAGE_NO_FILES": "Er zijn nog geen bestanden geüpload.",
+  "ERROR_FILE_TOO_LARGE": "Het bestand is te groot. De maximale grootte is 2 GB.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "De maximale bestandsgrootte van 5 GB per ticket zou worden overschreden.",
+  "ERROR_NO_FILE": "Selecteer een bestand om te uploaden.",
+  "ERROR_UPLOAD_FAILED": "Het uploaden van het bestand is mislukt. Probeer het opnieuw.",
+  "FILE_EXPIRED": "Verlopen",
+  "TABLE_HEADER_EXPIRES": "Verloopt"
+}

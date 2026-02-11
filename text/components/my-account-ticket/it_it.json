@@ -14,5 +14,9 @@
     "ERROR_GET_TICKET_FAILED": "La richiesta di ottenere le informazioni più recenti sul biglietto non è riuscita.",
     "ERROR_CHANGE_STATE_FAILED": "La richiesta di modifica dello stato del ticket non è riuscita.",
     "INITIAL_COMMENT": "Ciao [username]! Hai creato un ticket chiamato \"[subject]\". Lascia qualche informazione aggiuntiva e @[assignedTagName] ti contatterà.",
-    "STATUS_CHANGE_COMMENT": "[username] ha cambiato lo stato da [oldStatus] a [newStatus]."
+    "STATUS_CHANGE_COMMENT": "[username] ha cambiato lo stato da [oldStatus] a [newStatus].",
+    "LABEL_FILES": "File",
+    "FILE_SINGULAR": "file",
+    "FILE_PLURAL": "file",
+    "LINK_MANAGE_FILES": "Gestisci file"
 }

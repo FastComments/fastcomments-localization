@@ -14,5 +14,9 @@
     "ERROR_GET_TICKET_FAILED": "Eine Anfrage zum Abrufen der aktuellsten Ticketinformationen ist fehlgeschlagen.",
     "ERROR_CHANGE_STATE_FAILED": "Ein Antrag auf Änderung des Ticketstatus ist fehlgeschlagen.",
     "INITIAL_COMMENT": "Hallo [username]! Sie haben ein Ticket mit dem Namen \"[subject]\" erstellt. Bitte geben Sie weitere Informationen an, und @[assignedTagName] wird sich bei Ihnen melden.",
-    "STATUS_CHANGE_COMMENT": "[username] hat den Status von [oldStatus] auf [newStatus] geändert."
+    "STATUS_CHANGE_COMMENT": "[username] hat den Status von [oldStatus] auf [newStatus] geändert.",
+    "LABEL_FILES": "Dateien",
+    "FILE_SINGULAR": "Datei",
+    "FILE_PLURAL": "Dateien",
+    "LINK_MANAGE_FILES": "Dateien verwalten"
 }

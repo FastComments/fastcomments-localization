@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Administrer filer - <%- ticket.subject %>",
+  "HEADING": "Filer til \"<%- ticket.subject %>\"",
+  "LINK_BACK_TO_TICKET": "Tilbage til billetten",
+  "LABEL_UPLOAD_FILE": "Upload en fil",
+  "BUTTON_UPLOAD": "Upload",
+  "TABLE_HEADER_NAME": "Navn",
+  "TABLE_HEADER_SIZE": "Størrelse",
+  "TABLE_HEADER_UPLOADED_BY": "Uploadet af",
+  "TABLE_HEADER_DATE": "Dato",
+  "TABLE_HEADER_ACTIONS": "Handlinger",
+  "BUTTON_DELETE": "Slet",
+  "MESSAGE_NO_FILES": "Der er endnu ikke uploadet nogen filer.",
+  "ERROR_FILE_TOO_LARGE": "Filen er for stor. Maksimal størrelse er 2 GB.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "Den samlede filstørrelsesgrænse på 5 GB pr. billet ville blive overskredet.",
+  "ERROR_NO_FILE": "Vælg venligst en fil at uploade.",
+  "ERROR_UPLOAD_FAILED": "Filupload mislykkedes. Prøv igen.",
+  "FILE_EXPIRED": "Udløbet",
+  "TABLE_HEADER_EXPIRES": "Udløber"
+}

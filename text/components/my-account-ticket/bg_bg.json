@@ -14,5 +14,9 @@
     "ERROR_GET_TICKET_FAILED": "Заявката за получаване на най-актуалната информация за билета не бе успешна.",
     "ERROR_CHANGE_STATE_FAILED": "Заявката за промяна на състоянието на билета е неуспешна.",
     "INITIAL_COMMENT": "Здравей [username]! Създал/а си заявка с име „[subject]“. Моля, остави допълнителна информация и @[assignedTagName] ще се свърже с теб.",
-    "STATUS_CHANGE_COMMENT": "[username] промени статуса от [oldStatus] на [newStatus]."
+    "STATUS_CHANGE_COMMENT": "[username] промени статуса от [oldStatus] на [newStatus].",
+    "LABEL_FILES": "Файлове",
+    "FILE_SINGULAR": "файл",
+    "FILE_PLURAL": "файлове",
+    "LINK_MANAGE_FILES": "Управление на файлове"
 }

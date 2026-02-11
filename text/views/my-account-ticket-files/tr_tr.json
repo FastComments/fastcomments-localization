@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Dosyaları Yönet - <%- ticket.subject %>",
+  "HEADING": "\"<%- ticket.subject %>\" için dosyalar",
+  "LINK_BACK_TO_TICKET": "Bilet sayfasına geri dön",
+  "LABEL_UPLOAD_FILE": "Dosya Yükle",
+  "BUTTON_UPLOAD": "Yüklemek",
+  "TABLE_HEADER_NAME": "İsim",
+  "TABLE_HEADER_SIZE": "Boyut",
+  "TABLE_HEADER_UPLOADED_BY": "Yükleyen",
+  "TABLE_HEADER_DATE": "Tarih",
+  "TABLE_HEADER_ACTIONS": "Eylemler",
+  "BUTTON_DELETE": "Silmek",
+  "MESSAGE_NO_FILES": "Henüz hiçbir dosya yüklenmedi.",
+  "ERROR_FILE_TOO_LARGE": "Dosya çok büyük. Maksimum boyut 2 GB.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "Her bilet için belirlenen toplam dosya boyutu limiti olan 5 GB aşılacaktır.",
+  "ERROR_NO_FILE": "Lütfen yüklemek istediğiniz dosyayı seçin.",
+  "ERROR_UPLOAD_FAILED": "Dosya yükleme başarısız oldu. Lütfen tekrar deneyin.",
+  "FILE_EXPIRED": "Günü geçmiş",
+  "TABLE_HEADER_EXPIRES": "Süresi doluyor"
+}

@@ -14,5 +14,9 @@
     "ERROR_GET_TICKET_FAILED": "Zahtev za dobijanje najnovijih informacija o kartama nije uspeo.",
     "ERROR_CHANGE_STATE_FAILED": "Zahtev za promenu stanja karte nije uspeo.",
     "INITIAL_COMMENT": "Zdravo [username]! Napravili ste kartu pod nazivom \"[subject]\". Molimo vas da ostavite neke dodatne informacije i @[assignedTagName] će vam se javiti.",
-    "STATUS_CHANGE_COMMENT": "[username] promenio status sa [oldStatus] na [newStatus]."
+    "STATUS_CHANGE_COMMENT": "[username] promenio status sa [oldStatus] na [newStatus].",
+    "LABEL_FILES": "Fajlovi",
+    "FILE_SINGULAR": "Fajl",
+    "FILE_PLURAL": "Fajlovi",
+    "LINK_MANAGE_FILES": "Upravljanje datotekama"
 }

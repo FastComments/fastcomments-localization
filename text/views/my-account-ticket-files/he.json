@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "ניהול קבצים - <%- ticket.subject %>",
+  "HEADING": "קבצים עבור \"<%- ticket.subject %>\"",
+  "LINK_BACK_TO_TICKET": "חזרה לכרטיס",
+  "LABEL_UPLOAD_FILE": "העלאת קובץ",
+  "BUTTON_UPLOAD": "העלאה",
+  "TABLE_HEADER_NAME": "שֵׁם",
+  "TABLE_HEADER_SIZE": "גוֹדֶל",
+  "TABLE_HEADER_UPLOADED_BY": "הועלה על ידי",
+  "TABLE_HEADER_DATE": "תַאֲרִיך",
+  "TABLE_HEADER_ACTIONS": "פעולות",
+  "BUTTON_DELETE": "לִמְחוֹק",
+  "MESSAGE_NO_FILES": "טרם הועלו קבצים.",
+  "ERROR_FILE_TOO_LARGE": "הקובץ גדול מדי. גודל מקסימלי הוא 2GB.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "גודל הקובץ הכולל של 5 ג'יגה-בייט לכל כרטיס ייחרג.",
+  "ERROR_NO_FILE": "אנא בחר קובץ להעלאה.",
+  "ERROR_UPLOAD_FAILED": "העלאת הקובץ נכשלה. אנא נסה שוב.",
+  "FILE_EXPIRED": "פג תוקף",
+  "TABLE_HEADER_EXPIRES": "פג תוקף"
+}

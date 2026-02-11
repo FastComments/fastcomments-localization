@@ -14,5 +14,9 @@
     "ERROR_GET_TICKET_FAILED": "En anmodning om at få de seneste billetoplysninger mislykkedes.",
     "ERROR_CHANGE_STATE_FAILED": "En anmodning om at ændre billetstatus mislykkedes.",
     "INITIAL_COMMENT": "Hej [username]! Du har oprettet en sag kaldet \"[subject]\". Indtal venligst nogle yderligere oplysninger, så vender @[assignedTagName] tilbage til dig.",
-    "STATUS_CHANGE_COMMENT": "[username] ændrede status fra [oldStatus] til [newStatus]."
+    "STATUS_CHANGE_COMMENT": "[username] ændrede status fra [oldStatus] til [newStatus].",
+    "LABEL_FILES": "Filer",
+    "FILE_SINGULAR": "fil",
+    "FILE_PLURAL": "filer",
+    "LINK_MANAGE_FILES": "Administrer filer"
 }

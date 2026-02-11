@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "Site-instellingen - FastComments",
-    "HEADING_EDIT_SITE": "Site-instellingen",
+    "HEADING_EDIT_SITE": "Site bewerken",
     "NAV_BUILDER": "Bouwer",
     "NAV_COLLECTIONS": "Collecties",
     "NAV_SETTINGS": "Instellingen",
@@ -31,5 +31,7 @@
     "LABEL_ENABLE_FLOATING_LIKES": "Toon de zwevende widget 'Vind ik leuk' op alle pagina's.",
     "HEADING_ROBOTS_TXT": "Robots.txt",
     "LABEL_ROBOTS_TXT": "Aangepaste Robots.txt",
-    "LABEL_ROBOTS_TXT_HELP": "Hiermee bepaalt u hoe zoekmachines uw site crawlen. Laat dit veld leeg voor de standaardinstelling (alles toestaan)."
+    "LABEL_ROBOTS_TXT_HELP": "Hiermee bepaalt u hoe zoekmachines uw site crawlen. Laat dit veld leeg voor de standaardinstelling (alles toestaan).",
+    "HEADING_THEME_SETTINGS": "Thema-instellingen",
+    "LABEL_SHOW_HEADER_AUTH_LINKS": "Toon inlog- en registratielinks in de header."
 }

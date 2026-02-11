@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Διαχείριση Αρχείων - <%- ticket.subject %>",
+  "HEADING": "Αρχεία για \"<%- ticket.subject %>\"",
+  "LINK_BACK_TO_TICKET": "Επιστροφή στο Εισιτήριο",
+  "LABEL_UPLOAD_FILE": "Μεταφόρτωση αρχείου",
+  "BUTTON_UPLOAD": "Μεταφόρτωση",
+  "TABLE_HEADER_NAME": "Ονομα",
+  "TABLE_HEADER_SIZE": "Μέγεθος",
+  "TABLE_HEADER_UPLOADED_BY": "Μεταφορτώθηκε από",
+  "TABLE_HEADER_DATE": "Ημερομηνία",
+  "TABLE_HEADER_ACTIONS": "Ενέργειες",
+  "BUTTON_DELETE": "Διαγράφω",
+  "MESSAGE_NO_FILES": "Δεν έχουν μεταφορτωθεί ακόμη αρχεία.",
+  "ERROR_FILE_TOO_LARGE": "Το αρχείο είναι πολύ μεγάλο. Το μέγιστο μέγεθος είναι 2 GB.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "Θα υπάρξει υπέρβαση του συνολικού ορίου μεγέθους αρχείου των 5GB ανά εισιτήριο.",
+  "ERROR_NO_FILE": "Επιλέξτε ένα αρχείο για μεταφόρτωση.",
+  "ERROR_UPLOAD_FAILED": "Η μεταφόρτωση του αρχείου απέτυχε. Δοκιμάστε ξανά.",
+  "FILE_EXPIRED": "Έληξε",
+  "TABLE_HEADER_EXPIRES": "Λήγει"
+}

@@ -14,5 +14,9 @@
   "ERROR_GET_TICKET_FAILED": "A request to get the latest ticket info failed.",
   "ERROR_CHANGE_STATE_FAILED": "A request to change the ticket state failed.",
   "INITIAL_COMMENT": "Hi [username]! You've created a ticket called \"[subject]\". Please leave some additional information and @[assignedTagName] will get back to you.",
-  "STATUS_CHANGE_COMMENT": "[username] changed the status from [oldStatus] to [newStatus]."
+  "STATUS_CHANGE_COMMENT": "[username] changed the status from [oldStatus] to [newStatus].",
+  "LABEL_FILES": "Files",
+  "FILE_SINGULAR": "file",
+  "FILE_PLURAL": "files",
+  "LINK_MANAGE_FILES": "Manage Files"
 }

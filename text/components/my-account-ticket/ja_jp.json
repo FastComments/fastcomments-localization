@@ -14,5 +14,9 @@
     "ERROR_GET_TICKET_FAILED": "最新のチケット情報を取得する要求が失敗しました。",
     "ERROR_CHANGE_STATE_FAILED": "チケットの状態を変更する要求が失敗しました。",
     "INITIAL_COMMENT": "こんにちは、[username]さん！「[subject]」というチケットが作成されました。追加情報をご記入いただければ、@[assignedTagName] から折り返しご連絡いたします。",
-    "STATUS_CHANGE_COMMENT": "[username] はステータスを [oldStatus] から [newStatus] に変更しました。"
+    "STATUS_CHANGE_COMMENT": "[username] はステータスを [oldStatus] から [newStatus] に変更しました。",
+    "LABEL_FILES": "ファイル",
+    "FILE_SINGULAR": "ファイル",
+    "FILE_PLURAL": "ファイル",
+    "LINK_MANAGE_FILES": "ファイルの管理"
 }

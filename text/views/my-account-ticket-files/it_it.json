@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Gestisci file - <%- ticket.subject %>",
+  "HEADING": "File per \"<%- ticket.subject %>\"",
+  "LINK_BACK_TO_TICKET": "Torna al biglietto",
+  "LABEL_UPLOAD_FILE": "Carica un file",
+  "BUTTON_UPLOAD": "Caricamento",
+  "TABLE_HEADER_NAME": "Nome",
+  "TABLE_HEADER_SIZE": "Misurare",
+  "TABLE_HEADER_UPLOADED_BY": "Caricato da",
+  "TABLE_HEADER_DATE": "Data",
+  "TABLE_HEADER_ACTIONS": "Azioni",
+  "BUTTON_DELETE": "Eliminare",
+  "MESSAGE_NO_FILES": "Nessun file è stato ancora caricato.",
+  "ERROR_FILE_TOO_LARGE": "Il file è troppo grande. La dimensione massima è 2 GB.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "Verrebbe superato il limite massimo di 5 GB per file per ticket.",
+  "ERROR_NO_FILE": "Seleziona un file da caricare.",
+  "ERROR_UPLOAD_FAILED": "Caricamento del file non riuscito. Riprova.",
+  "FILE_EXPIRED": "Scaduto",
+  "TABLE_HEADER_EXPIRES": "Scade"
+}

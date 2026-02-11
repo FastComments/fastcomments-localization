@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "サイト設定 - FastComments",
-    "HEADING_EDIT_SITE": "サイト設定",
+    "HEADING_EDIT_SITE": "サイトを編集",
     "NAV_BUILDER": "ビルダー",
     "NAV_COLLECTIONS": "コレクション",
     "NAV_SETTINGS": "設定",
@@ -31,5 +31,7 @@
     "LABEL_ENABLE_FLOATING_LIKES": "すべてのページにフローティングいいねウィジェットを表示する",
     "HEADING_ROBOTS_TXT": "robots.txt",
     "LABEL_ROBOTS_TXT": "カスタム Robots.txt",
-    "LABEL_ROBOTS_TXT_HELP": "検索エンジンがサイトをクロールする方法を制御します。デフォルト（すべて許可）の場合は空白のままにしてください。"
+    "LABEL_ROBOTS_TXT_HELP": "検索エンジンがサイトをクロールする方法を制御します。デフォルト（すべて許可）の場合は空白のままにしてください。",
+    "HEADING_THEME_SETTINGS": "テーマ設定",
+    "LABEL_SHOW_HEADER_AUTH_LINKS": "ヘッダーにサインインと参加リンクを表示する"
 }

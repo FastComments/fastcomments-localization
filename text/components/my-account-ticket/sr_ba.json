@@ -14,5 +14,9 @@
     "ERROR_GET_TICKET_FAILED": "Захтев за добијање најновијих информација о картама није успео.",
     "ERROR_CHANGE_STATE_FAILED": "Захтев за промену стања карте није успео.",
     "INITIAL_COMMENT": "Здраво [username]! Направили сте захтев под називом „[subject]“. Молимо вас да оставите додатне информације и @[assignedTagName] ће вам се јавити.",
-    "STATUS_CHANGE_COMMENT": "[username] је променио/ла статус са [oldStatus] на [newStatus]."
+    "STATUS_CHANGE_COMMENT": "[username] је променио/ла статус са [oldStatus] на [newStatus].",
+    "LABEL_FILES": "Датотеке",
+    "FILE_SINGULAR": "датотека",
+    "FILE_PLURAL": "датотеке",
+    "LINK_MANAGE_FILES": "Управљање датотекама"
 }

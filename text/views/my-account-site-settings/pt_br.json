@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "Configurações do site - FastComments",
-    "HEADING_EDIT_SITE": "Configurações do site",
+    "HEADING_EDIT_SITE": "Editar site",
     "NAV_BUILDER": "Construtor",
     "NAV_COLLECTIONS": "Coleções",
     "NAV_SETTINGS": "Configurações",
@@ -31,5 +31,7 @@
     "LABEL_ENABLE_FLOATING_LIKES": "Exibir widget de curtidas flutuante em todas as páginas",
     "HEADING_ROBOTS_TXT": "Robots.txt",
     "LABEL_ROBOTS_TXT": "Robôs personalizados.txt",
-    "LABEL_ROBOTS_TXT_HELP": "Controla como os mecanismos de busca rastreiam seu site. Deixe em branco para manter o padrão (permitir tudo)."
+    "LABEL_ROBOTS_TXT_HELP": "Controla como os mecanismos de busca rastreiam seu site. Deixe em branco para manter o padrão (permitir tudo).",
+    "HEADING_THEME_SETTINGS": "Configurações do tema",
+    "LABEL_SHOW_HEADER_AUTH_LINKS": "Exibir links de login e cadastro no cabeçalho"
 }

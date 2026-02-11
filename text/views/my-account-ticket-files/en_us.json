@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Manage Files - <%- ticket.subject %>",
+  "HEADING": "Files for \"<%- ticket.subject %>\"",
+  "LINK_BACK_TO_TICKET": "Back to Ticket",
+  "LABEL_UPLOAD_FILE": "Upload a File",
+  "BUTTON_UPLOAD": "Upload",
+  "TABLE_HEADER_NAME": "Name",
+  "TABLE_HEADER_SIZE": "Size",
+  "TABLE_HEADER_UPLOADED_BY": "Uploaded By",
+  "TABLE_HEADER_DATE": "Date",
+  "TABLE_HEADER_EXPIRES": "Expires",
+  "TABLE_HEADER_ACTIONS": "Actions",
+  "BUTTON_DELETE": "Delete",
+  "MESSAGE_NO_FILES": "No files have been uploaded yet.",
+  "ERROR_FILE_TOO_LARGE": "File is too large. Maximum size is 2GB.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "Total file size limit of 5GB per ticket would be exceeded.",
+  "ERROR_NO_FILE": "Please select a file to upload.",
+  "ERROR_UPLOAD_FAILED": "File upload failed. Please try again.",
+  "FILE_EXPIRED": "Expired"
+}

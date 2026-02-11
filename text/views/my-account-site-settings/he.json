@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "הגדרות אתר - FastComments",
-    "HEADING_EDIT_SITE": "הגדרות אתר",
+    "HEADING_EDIT_SITE": "עריכת אתר",
     "NAV_BUILDER": "בּוֹנֶה",
     "NAV_COLLECTIONS": "אוספים",
     "NAV_SETTINGS": "הגדרות",
@@ -31,5 +31,7 @@
     "LABEL_ENABLE_FLOATING_LIKES": "הצג ווידג'ט לייקים צפים בכל הדפים",
     "HEADING_ROBOTS_TXT": "קובץ Robots.txt",
     "LABEL_ROBOTS_TXT": "קובץ Robots.txt מותאם אישית",
-    "LABEL_ROBOTS_TXT_HELP": "שולט באופן שבו מנועי החיפוש סורקים את האתר שלך. השאר ריק עבור ברירת מחדל (אפשר הכל)."
+    "LABEL_ROBOTS_TXT_HELP": "שולט באופן שבו מנועי החיפוש סורקים את האתר שלך. השאר ריק עבור ברירת מחדל (אפשר הכל).",
+    "HEADING_THEME_SETTINGS": "הגדרות ערכת נושא",
+    "LABEL_SHOW_HEADER_AUTH_LINKS": "הצג קישורי כניסה והצטרפות בכותרת"
 }

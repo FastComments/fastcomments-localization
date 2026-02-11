@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "Ustawienia witryny – FastComments",
-    "HEADING_EDIT_SITE": "Ustawienia witryny",
+    "HEADING_EDIT_SITE": "Edytuj witrynę",
     "NAV_BUILDER": "Budowniczy",
     "NAV_COLLECTIONS": "Kolekcje",
     "NAV_SETTINGS": "Ustawienia",
@@ -31,5 +31,7 @@
     "LABEL_ENABLE_FLOATING_LIKES": "Pokaż widżet „lubię to” na wszystkich stronach",
     "HEADING_ROBOTS_TXT": "Plik Robots.txt",
     "LABEL_ROBOTS_TXT": "Niestandardowy plik Robots.txt",
-    "LABEL_ROBOTS_TXT_HELP": "Kontroluje sposób indeksowania Twojej witryny przez wyszukiwarki. Pozostaw puste pole, aby ustawić domyślną opcję (zezwól na wszystko)."
+    "LABEL_ROBOTS_TXT_HELP": "Kontroluje sposób indeksowania Twojej witryny przez wyszukiwarki. Pozostaw puste pole, aby ustawić domyślną opcję (zezwól na wszystko).",
+    "HEADING_THEME_SETTINGS": "Ustawienia motywu",
+    "LABEL_SHOW_HEADER_AUTH_LINKS": "Pokaż łącza do logowania i dołączania w nagłówku"
 }

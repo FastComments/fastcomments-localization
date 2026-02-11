@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Управление файлами - <%- ticket.subject %>",
+  "HEADING": "Файлы для \"<%- ticket.subject %>\"",
+  "LINK_BACK_TO_TICKET": "Вернуться к билету",
+  "LABEL_UPLOAD_FILE": "Загрузить файл",
+  "BUTTON_UPLOAD": "Загрузить",
+  "TABLE_HEADER_NAME": "Имя",
+  "TABLE_HEADER_SIZE": "Размер",
+  "TABLE_HEADER_UPLOADED_BY": "Загружено пользователем",
+  "TABLE_HEADER_DATE": "Дата",
+  "TABLE_HEADER_ACTIONS": "Действия",
+  "BUTTON_DELETE": "Удалить",
+  "MESSAGE_NO_FILES": "Файлы пока не загружены.",
+  "ERROR_FILE_TOO_LARGE": "Размер файла слишком велик. Максимальный размер — 2 ГБ.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "Будет превышен общий лимит размера файлов в 5 ГБ на один билет.",
+  "ERROR_NO_FILE": "Пожалуйста, выберите файл для загрузки.",
+  "ERROR_UPLOAD_FAILED": "Загрузка файла не удалась. Пожалуйста, попробуйте еще раз.",
+  "FILE_EXPIRED": "Истекший",
+  "TABLE_HEADER_EXPIRES": "Срок действия истекает"
+}

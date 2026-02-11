@@ -14,5 +14,9 @@
     "ERROR_GET_TICKET_FAILED": "获取最新票务信息的请求失败。",
     "ERROR_CHANGE_STATE_FAILED": "更改票务状态的请求失败。",
     "INITIAL_COMMENT": "您好，[username]！您创建了一个名为“[subject]”的工单。请提供一些补充信息，@[assignedTagName] 将会尽快与您联系。",
-    "STATUS_CHANGE_COMMENT": "[username] 将状态从 [oldStatus] 更改为 [newStatus]。"
+    "STATUS_CHANGE_COMMENT": "[username] 将状态从 [oldStatus] 更改为 [newStatus]。",
+    "LABEL_FILES": "文件",
+    "FILE_SINGULAR": "文件",
+    "FILE_PLURAL": "文件",
+    "LINK_MANAGE_FILES": "管理文件"
 }

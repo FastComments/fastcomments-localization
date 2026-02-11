@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Upravljanje datotekama - <%- ticket.subject %>",
+  "HEADING": "Fajlovi za \"<%- ticket.subject %>\"",
+  "LINK_BACK_TO_TICKET": "Povratak na kartu",
+  "LABEL_UPLOAD_FILE": "Otpremite datoteku",
+  "BUTTON_UPLOAD": "Otpremi",
+  "TABLE_HEADER_NAME": "Ime i prezime",
+  "TABLE_HEADER_SIZE": "Kategorije",
+  "TABLE_HEADER_UPLOADED_BY": "Uploaded Bi",
+  "TABLE_HEADER_DATE": "Datum",
+  "TABLE_HEADER_ACTIONS": "Akcije",
+  "BUTTON_DELETE": "Izbrisati",
+  "MESSAGE_NO_FILES": "Još uvek nema fajlova koji su otpremljeni.",
+  "ERROR_FILE_TOO_LARGE": "Fajl je prevelik. Maksimalna veličina je 2GB.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "Ukupno ograničenje veličine datoteke od 5GB po karti će biti prekoračeno.",
+  "ERROR_NO_FILE": "Molimo Vas da izaberete datoteku za otpremanje.",
+  "ERROR_UPLOAD_FAILED": "Otpremanje datoteka nije uspelo. Pokušajte ponovo.",
+  "FILE_EXPIRED": "Istekao",
+  "TABLE_HEADER_EXPIRES": "Ističe"
+}

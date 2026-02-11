@@ -242,7 +242,7 @@
         "my-account-sent-emails": 21,
         "my-account-tenant-delete": 37,
         "my-account-tenants": 23,
-        "my-account-ticket": 21,
+        "my-account-ticket": 25,
         "my-account-tickets": 22,
         "my-account-two-factor": 13,
         "my-account-update-failure": 13,
@@ -325,16 +325,17 @@
         "my-account-site-memberships": 25,
         "my-account-site-nav": 21,
         "my-account-sites": 15,
-        "my-account-site-builder-component": 123,
+        "my-account-site-builder-component": 138,
         "my-account-site-content-edit-component": 4,
         "my-account-site-builder": 7,
         "my-account-site-collections": 68,
-        "my-account-site-settings": 33,
-        "my-account-site-common": 34,
+        "my-account-site-settings": 35,
+        "my-account-site-common": 36,
         "my-account-site-theme": 10,
         "my-account-site-theme-editor": 13,
         "site-starter-packages": 67,
-        "site-renderer-component": 2
+        "site-renderer-component": 2,
+        "my-account-ticket-files": 24
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -5016,7 +5017,11 @@
         "t18": "ERROR_GET_TICKET_FAILED",
         "t19": "ERROR_CHANGE_STATE_FAILED",
         "t20": "INITIAL_COMMENT",
-        "t21": "STATUS_CHANGE_COMMENT"
+        "t21": "STATUS_CHANGE_COMMENT",
+        "t22": "LABEL_FILES",
+        "t23": "FILE_SINGULAR",
+        "t24": "FILE_PLURAL",
+        "t25": "LINK_MANAGE_FILES"
     },
     "my-account-tickets": {
         "t1": "PAGE_TITLE",
@@ -6429,7 +6434,22 @@
         "t120": "MSG_EXTRACT_FAILED",
         "t121": "PREVIEW_RECIPE_INGREDIENTS",
         "t122": "LABEL_MEMBER_ONLY_ALLOW_SEO",
-        "t123": "LABEL_MEMBER_ONLY_SHOW_PREVIEW"
+        "t123": "LABEL_MEMBER_ONLY_SHOW_PREVIEW",
+        "t124": "CONFIRM_COPY_PAGE",
+        "t125": "MSG_COPIED",
+        "t126": "LABEL_MEMBER_ONLY_PREVIEW_BLOCK",
+        "t127": "SECTION_ARTICLES",
+        "t128": "BTN_ADD_ARTICLE",
+        "t129": "DEFAULT_ARTICLE_NAME",
+        "t130": "CONFIRM_DELETE_ARTICLE",
+        "t131": "CONFIRM_COPY_ARTICLE",
+        "t132": "MSG_ARTICLE_COPIED",
+        "t133": "BTN_BACK_TO_BLOCKS",
+        "t134": "BTN_FULLSCREEN",
+        "t135": "BTN_EXIT_FULLSCREEN",
+        "t136": "TEXT_NO_ARTICLE_SELECTED",
+        "t137": "BLOCK_TYPE_COMPLETE_PROFILE",
+        "t138": "BLOCK_DESC_COMPLETE_PROFILE"
     },
     "my-account-site-content-edit-component": {
         "t1": "PLACEHOLDER_CONTENT",
@@ -6549,7 +6569,9 @@
         "t30": "LABEL_ENABLE_FLOATING_LIKES",
         "t31": "HEADING_ROBOTS_TXT",
         "t32": "LABEL_ROBOTS_TXT",
-        "t33": "LABEL_ROBOTS_TXT_HELP"
+        "t33": "LABEL_ROBOTS_TXT_HELP",
+        "t34": "HEADING_THEME_SETTINGS",
+        "t35": "LABEL_SHOW_HEADER_AUTH_LINKS"
     },
     "my-account-site-common": {
         "t1": "BREADCRUMB_SITES",
@@ -6585,7 +6607,9 @@
         "t31": "BLOCK_STATUS_ARCHIVED",
         "t32": "NAV_VIEW_PUBLIC",
         "t33": "NAV_VIEW_AS_MEMBER",
-        "t34": "SEARCH_MEMBERSHIPS"
+        "t34": "SEARCH_MEMBERSHIPS",
+        "t35": "NAV_VIEW_PAGE_PUBLIC",
+        "t36": "BLOCK_TYPE_COMPLETE_PROFILE"
     },
     "my-account-site-theme": {
         "t1": "PAGE_TITLE",
@@ -6686,5 +6710,31 @@
     "site-renderer-component": {
         "t1": "GATED_CTA_HEADING",
         "t2": "GATED_CTA_BUTTON"
+    },
+    "my-account-ticket-files": {
+        "t1": "UPLOADING",
+        "t2": "UPLOAD_COMPLETE",
+        "t3": "UPLOAD_FAILED",
+        "t4": "CONFIRM_DELETE",
+        "t5": "DELETE_FAILED",
+        "t6": "PAGE_TITLE",
+        "t7": "HEADING",
+        "t8": "LINK_BACK_TO_TICKET",
+        "t9": "LABEL_UPLOAD_FILE",
+        "t10": "BUTTON_UPLOAD",
+        "t11": "TABLE_HEADER_NAME",
+        "t12": "TABLE_HEADER_SIZE",
+        "t13": "TABLE_HEADER_UPLOADED_BY",
+        "t14": "TABLE_HEADER_DATE",
+        "t15": "TABLE_HEADER_ACTIONS",
+        "t16": "BUTTON_DELETE",
+        "t17": "MESSAGE_NO_FILES",
+        "t18": "ERROR_FILE_TOO_LARGE",
+        "t19": "ERROR_TOTAL_SIZE_EXCEEDED",
+        "t20": "ERROR_NO_FILE",
+        "t21": "ERROR_UPLOAD_FAILED",
+        "t22": "FILE_EXPIRED",
+        "t23": "EXPIRES_IN_DAYS",
+        "t24": "TABLE_HEADER_EXPIRES"
     }
 }

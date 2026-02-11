@@ -14,5 +14,9 @@
     "ERROR_GET_TICKET_FAILED": "בקשה לקבלת פרטי הכרטיס העדכניים ביותר נכשלה.",
     "ERROR_CHANGE_STATE_FAILED": "בקשה לשינוי מצב הכרטיס נכשלה.",
     "INITIAL_COMMENT": "היי [username]! יצרת פנייה בשם \"[subject]\". אנא השאירי מידע נוסף ו-@[assignedTagName] יחזור אליך.",
-    "STATUS_CHANGE_COMMENT": "[username] שינה את הסטטוס מ[oldStatus] ל[newStatus]."
+    "STATUS_CHANGE_COMMENT": "[username] שינה את הסטטוס מ[oldStatus] ל[newStatus].",
+    "LABEL_FILES": "קבצים",
+    "FILE_SINGULAR": "קוֹבֶץ",
+    "FILE_PLURAL": "קבצים",
+    "LINK_MANAGE_FILES": "ניהול קבצים"
 }

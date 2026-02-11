@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "文件管理 - <%- ticket.subject %>",
+  "HEADING": "文件“<%- ticket.subject %>”",
+  "LINK_BACK_TO_TICKET": "返回票务页面",
+  "LABEL_UPLOAD_FILE": "上传文件",
+  "BUTTON_UPLOAD": "上传",
+  "TABLE_HEADER_NAME": "姓名",
+  "TABLE_HEADER_SIZE": "尺寸",
+  "TABLE_HEADER_UPLOADED_BY": "上传者",
+  "TABLE_HEADER_DATE": "日期",
+  "TABLE_HEADER_ACTIONS": "行动",
+  "BUTTON_DELETE": "删除",
+  "MESSAGE_NO_FILES": "目前还没有文件上传。",
+  "ERROR_FILE_TOO_LARGE": "文件过大，最大限制为 2GB。",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "每张票的文件总大小将超过 5GB 的限制。",
+  "ERROR_NO_FILE": "请选择要上传的文件。",
+  "ERROR_UPLOAD_FAILED": "文件上传失败，请重试。",
+  "FILE_EXPIRED": "已到期",
+  "TABLE_HEADER_EXPIRES": "过期"
+}

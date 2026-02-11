@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Zarządzaj plikami - <%- ticket.subject %>",
+  "HEADING": "Pliki dla \"<%- ticket.subject %>\"",
+  "LINK_BACK_TO_TICKET": "Powrót do biletu",
+  "LABEL_UPLOAD_FILE": "Prześlij plik",
+  "BUTTON_UPLOAD": "Wgrywać",
+  "TABLE_HEADER_NAME": "Nazwa",
+  "TABLE_HEADER_SIZE": "Rozmiar",
+  "TABLE_HEADER_UPLOADED_BY": "Przesłane przez",
+  "TABLE_HEADER_DATE": "Data",
+  "TABLE_HEADER_ACTIONS": "Akcje",
+  "BUTTON_DELETE": "Usuwać",
+  "MESSAGE_NO_FILES": "Nie przesłano jeszcze żadnych plików.",
+  "ERROR_FILE_TOO_LARGE": "Plik jest za duży. Maksymalny rozmiar to 2 GB.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "Łączny rozmiar pliku wynoszący 5 GB na bilet zostanie przekroczony.",
+  "ERROR_NO_FILE": "Proszę wybrać plik do przesłania.",
+  "ERROR_UPLOAD_FAILED": "Przesyłanie pliku nie powiodło się. Spróbuj ponownie.",
+  "FILE_EXPIRED": "Wygasły",
+  "TABLE_HEADER_EXPIRES": "Wygasa"
+}

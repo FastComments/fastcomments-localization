@@ -14,5 +14,9 @@
     "ERROR_GET_TICKET_FAILED": "Żądanie pobrania najnowszych informacji o bilecie nie powiodło się.",
     "ERROR_CHANGE_STATE_FAILED": "Żądanie zmiany stanu zgłoszenia nie powiodło się.",
     "INITIAL_COMMENT": "Cześć [username]! Utworzyłeś zgłoszenie o nazwie „[subject]”. Zostaw kilka dodatkowych informacji, a @[assignedTagName] się z Tobą skontaktuje.",
-    "STATUS_CHANGE_COMMENT": "[username] zmienił status z [oldStatus] na [newStatus]."
+    "STATUS_CHANGE_COMMENT": "[username] zmienił status z [oldStatus] na [newStatus].",
+    "LABEL_FILES": "Akta",
+    "FILE_SINGULAR": "plik",
+    "FILE_PLURAL": "akta",
+    "LINK_MANAGE_FILES": "Zarządzaj plikami"
 }

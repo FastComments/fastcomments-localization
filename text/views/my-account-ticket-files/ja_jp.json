@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "ファイルの管理 - <%- ticket.subject %>",
+  "HEADING": "「<%- ticket.subject %>」のファイル",
+  "LINK_BACK_TO_TICKET": "チケットに戻る",
+  "LABEL_UPLOAD_FILE": "ファイルをアップロードする",
+  "BUTTON_UPLOAD": "アップロード",
+  "TABLE_HEADER_NAME": "名前",
+  "TABLE_HEADER_SIZE": "サイズ",
+  "TABLE_HEADER_UPLOADED_BY": "アップロード者",
+  "TABLE_HEADER_DATE": "日付",
+  "TABLE_HEADER_ACTIONS": "アクション",
+  "BUTTON_DELETE": "消去",
+  "MESSAGE_NO_FILES": "まだファイルはアップロードされていません。",
+  "ERROR_FILE_TOO_LARGE": "ファイルが大きすぎます。最大サイズは 2GB です。",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "チケットあたり 5 GB の合計ファイル サイズ制限を超えてしまいます。",
+  "ERROR_NO_FILE": "アップロードするファイルを選択してください。",
+  "ERROR_UPLOAD_FAILED": "ファイルのアップロードに失敗しました。もう一度お試しください。",
+  "FILE_EXPIRED": "期限切れ",
+  "TABLE_HEADER_EXPIRES": "有効期限"
+}

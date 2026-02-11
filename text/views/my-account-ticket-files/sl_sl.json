@@ -1,0 +1,20 @@
+{
+  "PAGE_TITLE": "Upravljanje datotek - <%- ticket.subject %>",
+  "HEADING": "Datoteke za \"<%- ticket.subject %>\"",
+  "LINK_BACK_TO_TICKET": "Nazaj na vozovnico",
+  "LABEL_UPLOAD_FILE": "Naloži datoteko",
+  "BUTTON_UPLOAD": "Naloži",
+  "TABLE_HEADER_NAME": "Ime",
+  "TABLE_HEADER_SIZE": "Velikost",
+  "TABLE_HEADER_UPLOADED_BY": "Naložil/a",
+  "TABLE_HEADER_DATE": "Datum",
+  "TABLE_HEADER_ACTIONS": "Dejanja",
+  "BUTTON_DELETE": "Izbriši",
+  "MESSAGE_NO_FILES": "Še ni bilo naloženih nobenih datotek.",
+  "ERROR_FILE_TOO_LARGE": "Datoteka je prevelika. Največja velikost je 2 GB.",
+  "ERROR_TOTAL_SIZE_EXCEEDED": "Skupna omejitev velikosti datoteke 5 GB na vstopnico bi bila presežena.",
+  "ERROR_NO_FILE": "Izberite datoteko za nalaganje.",
+  "ERROR_UPLOAD_FAILED": "Nalaganje datoteke ni uspelo. Poskusite znova.",
+  "FILE_EXPIRED": "Poteklo",
+  "TABLE_HEADER_EXPIRES": "Poteče"
+}
