@@ -13,6 +13,7 @@
   "TABLE_HEADER_PRICE_YEARLY": "Yearly",
   "TABLE_HEADER_BADGE": "Badge",
   "TABLE_HEADER_ORDER": "Order",
+  "TABLE_HEADER_SUBSCRIBERS": "Subscribers",
   "HEADING_ADD_MEMBERSHIP": "Add Membership Tier",
   "LABEL_NAME": "Tier Name",
   "LABEL_DESCRIPTION": "Description",
@@ -24,11 +25,19 @@
   "OPTION_NONE": "None",
   "BUTTON_ADD": "Add",
   "BUTTON_DELETE": "Delete",
+  "BUTTON_EDIT": "Edit",
   "TITLE_ADD_MEMBERSHIP": "Add Membership",
   "TEXT_ADD_MEMBERSHIP": "Add Membership",
   "HEADING_CREATE_MEMBERSHIP": "Create Membership",
   "BUTTON_CREATE_MEMBERSHIP": "Create Membership",
   "BUTTON_SAVE": "Save",
   "SELECT_CURRENCY": "Select Currency",
-  "ALT_PLUS": "Plus"
+  "ALT_PLUS": "Plus",
+  "CONFIRM_DELETE_MEMBERSHIP": "Are you sure you want to delete [name]?",
+  "WARNING_STRIPE_NOT_CONFIGURED": "Stripe is not connected. Paid memberships will not work until you <a href=\"[connectUrl]\">connect Stripe</a>.",
+  "TEXT_SELECT_MEMBERSHIPS": "Select which memberships are available on this site.",
+  "LINK_MANAGE_MEMBERSHIPS": "Manage memberships",
+  "BREADCRUMB_SITES": "Sites",
+  "NAV_THEME": "Theme",
+  "NAV_VIEW_PUBLIC": "View"
 }

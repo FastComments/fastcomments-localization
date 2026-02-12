@@ -4,5 +4,6 @@
     "SITE_AUTH_INVALID_CREDENTIALS": "Nevažeći akreditivi.",
     "SITE_AUTH_ERROR": "Nešto je pošlo naopako.",
     "SITE_AUTH_ACCOUNT_EXISTS": "Nalog sa ovom e-poštom već postoji. Molimo Vas da se prijavite.",
-    "SITE_AUTH_USERNAME_TAKEN": "Korisničko ime je već zauzeto."
+    "SITE_AUTH_USERNAME_TAKEN": "Korisničko ime je već zauzeto.",
+    "SITE_AUTH_STRIPE_NOT_CONFIGURED": "Ovaj sajt još nije konfigurisan da prihvata plaćanja. Molimo Vas da kontaktirate vlasnika sajta."
 }

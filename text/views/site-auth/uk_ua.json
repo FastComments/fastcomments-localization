@@ -4,5 +4,6 @@
     "SITE_AUTH_INVALID_CREDENTIALS": "Недійсні облікові дані.",
     "SITE_AUTH_ERROR": "Щось пішло не так.",
     "SITE_AUTH_ACCOUNT_EXISTS": "Обліковий запис із цією електронною адресою вже існує. Будь ласка, увійдіть.",
-    "SITE_AUTH_USERNAME_TAKEN": "Ім'я користувача вже зайняте."
+    "SITE_AUTH_USERNAME_TAKEN": "Ім'я користувача вже зайняте.",
+    "SITE_AUTH_STRIPE_NOT_CONFIGURED": "Цей сайт ще не налаштовано для прийому платежів. Зверніться до власника сайту."
 }

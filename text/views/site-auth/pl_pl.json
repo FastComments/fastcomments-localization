@@ -4,5 +4,6 @@
     "SITE_AUTH_INVALID_CREDENTIALS": "Nieprawidłowe dane uwierzytelniające.",
     "SITE_AUTH_ERROR": "Coś poszło nie tak.",
     "SITE_AUTH_ACCOUNT_EXISTS": "Konto o tym adresie e-mail już istnieje. Zaloguj się.",
-    "SITE_AUTH_USERNAME_TAKEN": "Nazwa użytkownika jest już zajęta."
+    "SITE_AUTH_USERNAME_TAKEN": "Nazwa użytkownika jest już zajęta.",
+    "SITE_AUTH_STRIPE_NOT_CONFIGURED": "Ta strona nie jest jeszcze skonfigurowana do przyjmowania płatności. Prosimy o kontakt z właścicielem strony."
 }

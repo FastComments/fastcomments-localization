@@ -4,5 +4,6 @@
     "SITE_AUTH_INVALID_CREDENTIALS": "잘못된 자격 증명입니다.",
     "SITE_AUTH_ERROR": "뭔가 잘못됐어요.",
     "SITE_AUTH_ACCOUNT_EXISTS": "이미 해당 이메일 주소로 계정이 있습니다. 로그인하세요.",
-    "SITE_AUTH_USERNAME_TAKEN": "해당 사용자 이름은 이미 사용 중입니다."
+    "SITE_AUTH_USERNAME_TAKEN": "해당 사용자 이름은 이미 사용 중입니다.",
+    "SITE_AUTH_STRIPE_NOT_CONFIGURED": "이 사이트는 아직 결제 기능을 지원하도록 설정되어 있지 않습니다. 사이트 소유자에게 문의해 주세요."
 }

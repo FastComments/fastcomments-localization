@@ -322,14 +322,14 @@
         "my-account-site-content-edit": 43,
         "my-account-site-edit": 18,
         "my-account-site-members": 21,
-        "my-account-site-memberships": 25,
+        "my-account-site-memberships": 42,
         "my-account-site-nav": 21,
-        "my-account-sites": 15,
-        "my-account-site-builder-component": 138,
+        "my-account-sites": 17,
+        "my-account-site-builder-component": 141,
         "my-account-site-content-edit-component": 4,
         "my-account-site-builder": 7,
         "my-account-site-collections": 68,
-        "my-account-site-settings": 35,
+        "my-account-site-settings": 38,
         "my-account-site-common": 36,
         "my-account-site-theme": 10,
         "my-account-site-theme-editor": 16,
@@ -337,7 +337,7 @@
         "site-renderer-component": 2,
         "my-account-ticket-files": 24,
         "site-member-welcome": 9,
-        "site-auth": 6
+        "site-auth": 7
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -6304,7 +6304,24 @@
         "t22": "NAV_COLLECTIONS",
         "t23": "NAV_SETTINGS",
         "t24": "NAV_MEMBERSHIPS",
-        "t25": "NAV_MEMBERS"
+        "t25": "NAV_MEMBERS",
+        "t26": "TABLE_HEADER_SUBSCRIBERS",
+        "t27": "PLACEHOLDER_PRICE",
+        "t28": "BUTTON_EDIT",
+        "t29": "TITLE_ADD_MEMBERSHIP",
+        "t30": "TEXT_ADD_MEMBERSHIP",
+        "t31": "HEADING_CREATE_MEMBERSHIP",
+        "t32": "BUTTON_CREATE_MEMBERSHIP",
+        "t33": "BUTTON_SAVE",
+        "t34": "SELECT_CURRENCY",
+        "t35": "ALT_PLUS",
+        "t36": "CONFIRM_DELETE_MEMBERSHIP",
+        "t37": "WARNING_STRIPE_NOT_CONFIGURED",
+        "t38": "TEXT_SELECT_MEMBERSHIPS",
+        "t39": "LINK_MANAGE_MEMBERSHIPS",
+        "t40": "BREADCRUMB_SITES",
+        "t41": "NAV_THEME",
+        "t42": "NAV_VIEW_PUBLIC"
     },
     "my-account-site-nav": {
         "t1": "PAGE_TITLE",
@@ -6344,7 +6361,9 @@
         "t12": "PACKAGE_CREATOR_NAME",
         "t13": "PACKAGE_CREATOR_DESC",
         "t14": "PACKAGE_BLANK_NAME",
-        "t15": "PACKAGE_BLANK_DESC"
+        "t15": "PACKAGE_BLANK_DESC",
+        "t16": "TAB_SITES",
+        "t17": "TAB_MEMBERSHIPS"
     },
     "my-account-site-builder-component": {
         "t1": "SECTION_PAGES",
@@ -6484,7 +6503,10 @@
         "t135": "BTN_EXIT_FULLSCREEN",
         "t136": "TEXT_NO_ARTICLE_SELECTED",
         "t137": "BLOCK_TYPE_COMPLETE_PROFILE",
-        "t138": "BLOCK_DESC_COMPLETE_PROFILE"
+        "t138": "BLOCK_DESC_COMPLETE_PROFILE",
+        "t139": "TAB_PROPERTIES",
+        "t140": "TAB_EXTRAS",
+        "t141": "TOOLTIP_MEMBERSHIP_GATE"
     },
     "my-account-site-content-edit-component": {
         "t1": "PLACEHOLDER_CONTENT",
@@ -6606,7 +6628,10 @@
         "t32": "LABEL_ROBOTS_TXT",
         "t33": "LABEL_ROBOTS_TXT_HELP",
         "t34": "HEADING_THEME_SETTINGS",
-        "t35": "LABEL_SHOW_HEADER_AUTH_LINKS"
+        "t35": "LABEL_SHOW_HEADER_AUTH_LINKS",
+        "t36": "TAB_GENERAL",
+        "t37": "TAB_THEME",
+        "t38": "TAB_ADVANCED"
     },
     "my-account-site-common": {
         "t1": "BREADCRUMB_SITES",
@@ -6792,6 +6817,7 @@
         "t3": "SITE_AUTH_INVALID_CREDENTIALS",
         "t4": "SITE_AUTH_ERROR",
         "t5": "SITE_AUTH_ACCOUNT_EXISTS",
-        "t6": "SITE_AUTH_USERNAME_TAKEN"
+        "t6": "SITE_AUTH_USERNAME_TAKEN",
+        "t7": "SITE_AUTH_STRIPE_NOT_CONFIGURED"
     }
 }

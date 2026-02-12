@@ -4,5 +4,6 @@
     "SITE_AUTH_INVALID_CREDENTIALS": "Identifiants invalides.",
     "SITE_AUTH_ERROR": "Quelque chose a mal fonctionné.",
     "SITE_AUTH_ACCOUNT_EXISTS": "Un compte existe déjà avec cette adresse e-mail. Veuillez vous connecter.",
-    "SITE_AUTH_USERNAME_TAKEN": "Ce nom d'utilisateur est déjà pris."
+    "SITE_AUTH_USERNAME_TAKEN": "Ce nom d'utilisateur est déjà pris.",
+    "SITE_AUTH_STRIPE_NOT_CONFIGURED": "Ce site n'est pas encore configuré pour accepter les paiements. Veuillez contacter le propriétaire du site."
 }

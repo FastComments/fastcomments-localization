@@ -4,5 +4,6 @@
     "SITE_AUTH_INVALID_CREDENTIALS": "憑證無效。",
     "SITE_AUTH_ERROR": "出問題了。",
     "SITE_AUTH_ACCOUNT_EXISTS": "此郵箱已註冊帳號，請登入。",
-    "SITE_AUTH_USERNAME_TAKEN": "使用者名稱已被佔用。"
+    "SITE_AUTH_USERNAME_TAKEN": "使用者名稱已被佔用。",
+    "SITE_AUTH_STRIPE_NOT_CONFIGURED": "本網站尚未配置支付功能。請聯絡網站所有者。"
 }

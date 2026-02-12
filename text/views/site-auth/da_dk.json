@@ -4,5 +4,6 @@
     "SITE_AUTH_INVALID_CREDENTIALS": "Ugyldige loginoplysninger.",
     "SITE_AUTH_ERROR": "Noget gik galt.",
     "SITE_AUTH_ACCOUNT_EXISTS": "Der findes allerede en konto med denne e-mail. Log venligst ind.",
-    "SITE_AUTH_USERNAME_TAKEN": "Brugernavnet er allerede taget."
+    "SITE_AUTH_USERNAME_TAKEN": "Brugernavnet er allerede taget.",
+    "SITE_AUTH_STRIPE_NOT_CONFIGURED": "Dette websted er endnu ikke konfigureret til at acceptere betalinger. Kontakt venligst webstedets ejer."
 }

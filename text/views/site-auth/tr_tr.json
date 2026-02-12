@@ -4,5 +4,6 @@
     "SITE_AUTH_INVALID_CREDENTIALS": "Geçersiz kimlik bilgileri.",
     "SITE_AUTH_ERROR": "Bir şeyler ters gitti.",
     "SITE_AUTH_ACCOUNT_EXISTS": "Bu e-posta adresiyle zaten bir hesap mevcut. Lütfen giriş yapın.",
-    "SITE_AUTH_USERNAME_TAKEN": "Kullanıcı adı zaten alınmış."
+    "SITE_AUTH_USERNAME_TAKEN": "Kullanıcı adı zaten alınmış.",
+    "SITE_AUTH_STRIPE_NOT_CONFIGURED": "Bu site henüz ödeme kabul edecek şekilde yapılandırılmamıştır. Lütfen site sahibiyle iletişime geçin."
 }

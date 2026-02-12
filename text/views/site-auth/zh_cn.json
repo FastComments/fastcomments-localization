@@ -4,5 +4,6 @@
     "SITE_AUTH_INVALID_CREDENTIALS": "凭据无效。",
     "SITE_AUTH_ERROR": "出问题了。",
     "SITE_AUTH_ACCOUNT_EXISTS": "此邮箱已注册账号，请登录。",
-    "SITE_AUTH_USERNAME_TAKEN": "用户名已被占用。"
+    "SITE_AUTH_USERNAME_TAKEN": "用户名已被占用。",
+    "SITE_AUTH_STRIPE_NOT_CONFIGURED": "本网站尚未配置支付功能。请联系网站所有者。"
 }

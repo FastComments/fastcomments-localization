@@ -4,5 +4,6 @@
     "SITE_AUTH_INVALID_CREDENTIALS": "אישורים לא חוקיים.",
     "SITE_AUTH_ERROR": "משהו השתבש.",
     "SITE_AUTH_ACCOUNT_EXISTS": "חשבון עם כתובת דוא\"ל זו כבר קיים. אנא התחבר.",
-    "SITE_AUTH_USERNAME_TAKEN": "שם המשתמש כבר תפוס."
+    "SITE_AUTH_USERNAME_TAKEN": "שם המשתמש כבר תפוס.",
+    "SITE_AUTH_STRIPE_NOT_CONFIGURED": "אתר זה עדיין לא מוגדר לקבל תשלומים. אנא צור קשר עם בעל האתר."
 }
