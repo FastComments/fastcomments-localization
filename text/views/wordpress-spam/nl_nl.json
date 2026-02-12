@@ -62,7 +62,7 @@
     "FAQ_WP_SPAM_WOOCOMMERCE": "Werkt het met WooCommerce?",
     "FAQ_WP_SPAM_WOOCOMMERCE_ANSWER": "Ja. FastComments biedt volledige ondersteuning voor productrecensies en reacties in WooCommerce. Spamfiltering is van toepassing op alle reactietypen in uw webwinkel.",
     "FAQ_WP_SPAM_MULTISITE": "Kan ik het gebruiken op een WordPress-multisite-netwerk?",
-    "FAQ_WP_SPAM_MULTISITE_ANSWER": "Ja. Eén FastComments-account kan uw hele netwerk van meerdere websites beheren. Reacties en moderatie zijn gecentraliseerd en elke subsite krijgt volledige spambescherming.",
+    "FAQ_WP_SPAM_MULTISITE_ANSWER": "Ja. Omdat WordPress numerieke pagina-ID's gebruikt, moet u voor elke site een aparte tenant aanmaken in uw FastComments-account om reacties gescheiden te houden. De moderatie is gecentraliseerd voor alle tenants en elke site krijgt volledige spambescherming.",
     "FAQ_WP_SPAM_SPEED": "Zal FastComments mijn website vertragen?",
     "FAQ_WP_SPAM_SPEED_ANSWER": "Nee. FastComments laadt asynchroon en wordt aangeboden via een wereldwijd CDN. Het is doorgaans sneller dan het standaard WordPress-reactiesysteem, omdat het de weergave van reacties en de spamfiltering van uw server overneemt.",
     "FINAL_CTA_TITLE": "Klaar om een einde te maken aan WordPress-spam?",

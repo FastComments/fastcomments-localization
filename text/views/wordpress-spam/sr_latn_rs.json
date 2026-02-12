@@ -62,7 +62,7 @@
     "FAQ_WP_SPAM_WOOCOMMERCE": "Da li radi sa VooCommerce?",
     "FAQ_WP_SPAM_WOOCOMMERCE_ANSWER": "Da. FastComments u potpunosti podržava VooCommerce preglede proizvoda i komentare teme. Zaštita od neželjene pošte odnosi se na sve tipove komentara u vašoj prodavnici.",
     "FAQ_WP_SPAM_MULTISITE": "Mogu li ga koristiti na VordPress multi-site mreži?",
-    "FAQ_WP_SPAM_MULTISITE_ANSWER": "Da. Jedan FastComments nalog može da služi čitavoj mreži sa više lokacija. Komentari i moderiranje su centralizovani, a svaki pod-sajt dobija potpunu zaštitu od neželjene pošte.",
+    "FAQ_WP_SPAM_MULTISITE_ANSWER": "Da. Pošto VordPress koristi numeričke ID-ove stranica, trebalo bi da kreirate poseban stanar na vašem FastComments nalogu za svaku lokaciju kako biste komentare razdvojili. Umerenost je centralizovana za sve stanare, a svaka lokacija dobija potpunu zaštitu od neželjene pošte.",
     "FAQ_WP_SPAM_SPEED": "Da li će FastComments usporiti moj sajt?",
     "FAQ_WP_SPAM_SPEED_ANSWER": "Ne. FastComments se učitava asinhrono i služi se iz globalnog CDN-a. Obično je brži od podrazumevanog VordPress sistema komentara jer rasterećuje prikazivanje komentara i obradu neželjene pošte sa vašeg servera.",
     "FINAL_CTA_TITLE": "Spremni ste da okončate VordPress spam?",

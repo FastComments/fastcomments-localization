@@ -62,7 +62,7 @@
     "FAQ_WP_SPAM_WOOCOMMERCE": "WooCommerce와 호환되나요?",
     "FAQ_WP_SPAM_WOOCOMMERCE_ANSWER": "네. FastComments는 WooCommerce 제품 리뷰 및 댓글 기능을 완벽하게 지원합니다. 스팸 방지 기능은 스토어의 모든 댓글 유형에 적용됩니다.",
     "FAQ_WP_SPAM_MULTISITE": "워드프레스 멀티사이트 네트워크에서 사용할 수 있나요?",
-    "FAQ_WP_SPAM_MULTISITE_ANSWER": "네. FastComments 계정 하나로 여러 사이트로 구성된 네트워크 전체를 관리할 수 있습니다. 댓글 및 관리 기능은 중앙에서 통합 관리되며, 각 하위 사이트는 스팸 방지 기능을 완벽하게 지원받습니다.",
+    "FAQ_WP_SPAM_MULTISITE_ANSWER": "네. 워드프레스는 숫자 페이지 ID를 사용하기 때문에 댓글을 분리하여 관리하려면 FastComments 계정에 각 사이트별로 별도의 테넌트를 생성해야 합니다. 모든 테넌트에 걸쳐 댓글 관리 기능은 중앙에서 작동하며, 각 사이트는 스팸 방지 기능을 완벽하게 지원받습니다.",
     "FAQ_WP_SPAM_SPEED": "FastComments를 사용하면 사이트 속도가 느려질까요?",
     "FAQ_WP_SPAM_SPEED_ANSWER": "아니요. FastComments는 비동기적으로 로드되며 글로벌 CDN에서 제공됩니다. 댓글 렌더링 및 스팸 처리 작업을 서버에서 FastComments로 분산시키기 때문에 일반적으로 기본 WordPress 댓글 시스템보다 빠릅니다.",
     "FINAL_CTA_TITLE": "워드프레스 스팸을 근절할 준비가 되셨나요?",

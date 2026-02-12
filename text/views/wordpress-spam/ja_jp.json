@@ -62,7 +62,7 @@
     "FAQ_WP_SPAM_WOOCOMMERCE": "WooCommerce で動作しますか?",
     "FAQ_WP_SPAM_WOOCOMMERCE_ANSWER": "はい。FastCommentsはWooCommerceの商品レビューとコメントスレッドを完全にサポートしています。スパム対策は、ストア全体のすべてのコメントタイプに適用されます。",
     "FAQ_WP_SPAM_MULTISITE": "WordPress マルチサイトネットワークで使用できますか?",
-    "FAQ_WP_SPAM_MULTISITE_ANSWER": "はい。FastCommentsアカウント1つで、マルチサイトネットワーク全体を管理できます。コメントとモデレーションは一元管理され、各サブサイトは完全なスパム対策が施されます。",
+    "FAQ_WP_SPAM_MULTISITE_ANSWER": "はい。WordPressは数値のページIDを使用しているため、コメントを分離するために、FastCommentsアカウントでサイトごとに別々のテナントを作成する必要があります。モデレーションはすべてのテナントで一元管理され、各サイトは完全なスパム対策を受けられます。",
     "FAQ_WP_SPAM_SPEED": "FastComments はサイトの速度を低下させますか?",
     "FAQ_WP_SPAM_SPEED_ANSWER": "いいえ。FastCommentsは非同期で読み込まれ、グローバルCDNから提供されます。コメントのレンダリングとスパム処理をサーバーからオフロードするため、通常はWordPressのデフォルトのコメントシステムよりも高速です。",
     "FINAL_CTA_TITLE": "WordPress スパムを終わらせる準備はできていますか?",

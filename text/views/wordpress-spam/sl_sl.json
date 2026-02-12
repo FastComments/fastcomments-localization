@@ -62,7 +62,7 @@
     "FAQ_WP_SPAM_WOOCOMMERCE": "Ali deluje z WooCommerceom?",
     "FAQ_WP_SPAM_WOOCOMMERCE_ANSWER": "Da. FastComments v celoti podpira ocene izdelkov in niti komentarjev WooCommerce. Zaščita pred neželeno pošto velja za vse vrste komentarjev v vaši trgovini.",
     "FAQ_WP_SPAM_MULTISITE": "Ali ga lahko uporabljam v večstranskem omrežju WordPress?",
-    "FAQ_WP_SPAM_MULTISITE_ANSWER": "Da. En sam račun FastComments lahko pokriva celotno omrežje z več spletnimi mesti. Komentarji in moderiranje so centralizirani, vsako podspletno mesto pa ima popolno zaščito pred neželeno pošto.",
+    "FAQ_WP_SPAM_MULTISITE_ANSWER": "Da. Ker WordPress uporablja numerične ID-je strani, morate v svojem računu FastComments za vsako spletno mesto ustvariti ločenega najemnika, da bodo komentarji ločeni. Moderiranje je centralizirano za vse najemnike in vsako spletno mesto ima popolno zaščito pred neželeno pošto.",
     "FAQ_WP_SPAM_SPEED": "Ali bo FastComments upočasnil mojo spletno stran?",
     "FAQ_WP_SPAM_SPEED_ANSWER": "Ne. FastComments se nalaga asinhrono in se streže iz globalnega CDN-ja. Običajno je hitrejši od privzetega sistema za komentiranje WordPressa, ker razbremeni upodabljanje komentarjev in obdelavo neželene pošte z vašega strežnika.",
     "FINAL_CTA_TITLE": "Ste pripravljeni končati neželeno pošto v WordPressu?",

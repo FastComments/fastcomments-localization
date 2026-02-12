@@ -62,7 +62,7 @@
     "FAQ_WP_SPAM_WOOCOMMERCE": "它是否兼容 WooCommerce？",
     "FAQ_WP_SPAM_WOOCOMMERCE_ANSWER": "是的。FastComments 完全支持 WooCommerce 产品评论和评论串。垃圾邮件防护功能适用于您商店中的所有评论类型。",
     "FAQ_WP_SPAM_MULTISITE": "我可以在 WordPress 多站点网络中使用它吗？",
-    "FAQ_WP_SPAM_MULTISITE_ANSWER": "是的。一个 FastComments 账户即可服务于您的整个多站点网络。评论和审核集中管理，每个子站点都享有全面的垃圾邮件防护。",
+    "FAQ_WP_SPAM_MULTISITE_ANSWER": "是的。由于 WordPress 使用数字页面 ID，您应该在 FastComments 帐户中为每个站点创建一个单独的租户，以便将评论区分开。所有租户的审核是集中进行的，每个站点都享有完整的垃圾邮件防护。",
     "FAQ_WP_SPAM_SPEED": "FastComments 会降低我的网站速度吗？",
     "FAQ_WP_SPAM_SPEED_ANSWER": "不。FastComments采用异步加载方式，并通过全球CDN提供服务。它通常比WordPress默认的评论系统更快，因为它将评论渲染和垃圾邮件处理从您的服务器卸载。",
     "FINAL_CTA_TITLE": "准备好终结 WordPress 垃圾邮件了吗？",

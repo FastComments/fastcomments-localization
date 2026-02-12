@@ -62,7 +62,7 @@
     "FAQ_WP_SPAM_WOOCOMMERCE": "WooCommerce ile uyumlu mu?",
     "FAQ_WP_SPAM_WOOCOMMERCE_ANSWER": "Evet. FastComments, WooCommerce ürün yorumlarını ve yorum dizilerini tamamen destekler. Spam koruması, mağazanızdaki tüm yorum türleri için geçerlidir.",
     "FAQ_WP_SPAM_MULTISITE": "Bunu WordPress çoklu site ağında kullanabilir miyim?",
-    "FAQ_WP_SPAM_MULTISITE_ANSWER": "Evet. Tek bir FastComments hesabı, çoklu site ağınızın tamamına hizmet edebilir. Yorumlar ve moderasyon merkezileştirilir ve her alt site tam spam korumasına sahip olur.",
+    "FAQ_WP_SPAM_MULTISITE_ANSWER": "Evet. WordPress sayısal sayfa kimlikleri kullandığı için, yorumları ayrı tutmak amacıyla FastComments hesabınızda her site için ayrı bir kiracı oluşturmalısınız. Moderasyon tüm kiracılar arasında merkezileştirilir ve her site tam spam korumasına sahip olur.",
     "FAQ_WP_SPAM_SPEED": "FastComments sitemi yavaşlatır mı?",
     "FAQ_WP_SPAM_SPEED_ANSWER": "Hayır. FastComments eşzamansız olarak yüklenir ve global bir CDN'den sunulur. Yorum oluşturma ve spam işleme işlemlerini sunucunuzdan devraldığı için genellikle varsayılan WordPress yorum sisteminden daha hızlıdır.",
     "FINAL_CTA_TITLE": "WordPress spam'ine son vermeye hazır mısınız?",

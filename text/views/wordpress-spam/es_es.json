@@ -62,7 +62,7 @@
     "FAQ_WP_SPAM_WOOCOMMERCE": "¿Funciona con WooCommerce?",
     "FAQ_WP_SPAM_WOOCOMMERCE_ANSWER": "Sí. FastComments es totalmente compatible con las reseñas de productos y los hilos de comentarios de WooCommerce. La protección antispam se aplica a todos los tipos de comentarios de tu tienda.",
     "FAQ_WP_SPAM_MULTISITE": "¿Puedo usarlo en una red multisitio de WordPress?",
-    "FAQ_WP_SPAM_MULTISITE_ANSWER": "Sí. Una sola cuenta de FastComments puede gestionar toda su red multisitio. Los comentarios y la moderación están centralizados, y cada subsitio cuenta con protección completa contra spam.",
+    "FAQ_WP_SPAM_MULTISITE_ANSWER": "Sí. Dado que WordPress usa identificadores de página numéricos, deberías crear un inquilino independiente en tu cuenta de FastComments para cada sitio para mantener los comentarios separados. La moderación está centralizada en todos los inquilinos y cada sitio cuenta con protección completa contra spam.",
     "FAQ_WP_SPAM_SPEED": "¿FastComments ralentizará mi sitio?",
     "FAQ_WP_SPAM_SPEED_ANSWER": "No. FastComments se carga de forma asíncrona y se sirve desde una CDN global. Suele ser más rápido que el sistema de comentarios predeterminado de WordPress, ya que descarga la representación de comentarios y el procesamiento de spam de tu servidor.",
     "FINAL_CTA_TITLE": "¿Estás listo para terminar con el spam en WordPress?",

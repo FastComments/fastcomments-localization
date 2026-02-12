@@ -62,7 +62,7 @@
     "FAQ_WP_SPAM_WOOCOMMERCE": "Fungerer det med WooCommerce?",
     "FAQ_WP_SPAM_WOOCOMMERCE_ANSWER": "Ja. FastComments understøtter fuldt ud WooCommerce-produktanmeldelser og kommentartråde. Spambeskyttelse gælder for alle kommentartyper i din butik.",
     "FAQ_WP_SPAM_MULTISITE": "Kan jeg bruge det på et WordPress multi-site netværk?",
-    "FAQ_WP_SPAM_MULTISITE_ANSWER": "Ja. En enkelt FastComments-konto kan betjene hele dit netværk af flere websteder. Kommentarer og moderering er centraliseret, og hvert underwebsted får fuld spambeskyttelse.",
+    "FAQ_WP_SPAM_MULTISITE_ANSWER": "Ja. Da WordPress bruger numeriske side-id'er, bør du oprette en separat lejer i din FastComments-konto for hvert websted for at holde kommentarer adskilte. Moderering er centraliseret på tværs af alle lejere, og hvert websted får fuld spambeskyttelse.",
     "FAQ_WP_SPAM_SPEED": "Vil FastComments gøre mit websted langsommere?",
     "FAQ_WP_SPAM_SPEED_ANSWER": "Nej. FastComments indlæses asynkront og serveres fra et globalt CDN. Det er typisk hurtigere end standard WordPress-kommentarsystemet, fordi det aflaster kommentargengivelse og spambehandling fra din server.",
     "FINAL_CTA_TITLE": "Klar til at stoppe WordPress-spam?",
