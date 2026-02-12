@@ -324,7 +324,7 @@
         "my-account-site-members": 21,
         "my-account-site-memberships": 42,
         "my-account-site-nav": 21,
-        "my-account-sites": 17,
+        "my-account-sites": 18,
         "my-account-site-builder-component": 141,
         "my-account-site-content-edit-component": 4,
         "my-account-site-builder": 7,
@@ -338,7 +338,8 @@
         "my-account-ticket-files": 24,
         "site-member-welcome": 9,
         "site-auth": 7,
-        "wordpress-spam": 68
+        "wordpress-spam": 68,
+        "my-account-site-delete": 10
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -6364,7 +6365,8 @@
         "t14": "PACKAGE_BLANK_NAME",
         "t15": "PACKAGE_BLANK_DESC",
         "t16": "TAB_SITES",
-        "t17": "TAB_MEMBERSHIPS"
+        "t17": "TAB_MEMBERSHIPS",
+        "t18": "BUTTON_DELETE_SITE"
     },
     "my-account-site-builder-component": {
         "t1": "SECTION_PAGES",
@@ -6890,5 +6892,17 @@
         "t66": "FAQ_WP_SPAM_SPEED_ANSWER",
         "t67": "FINAL_CTA_TITLE",
         "t68": "FINAL_CTA_DESCRIPTION"
+    },
+    "my-account-site-delete": {
+        "t1": "PAGE_TITLE",
+        "t2": "HEADING_DELETE_SITE",
+        "t3": "TEXT_DELETE_SITE_CONFIRM",
+        "t4": "LABEL_PAGES",
+        "t5": "LABEL_NAV_ENTRIES",
+        "t6": "LABEL_COLLECTIONS",
+        "t7": "LABEL_MEMBERS",
+        "t8": "TEXT_DELETE_WARNING",
+        "t9": "BUTTON_CANCEL",
+        "t10": "BUTTON_CONFIRM_DELETE_SITE"
     }
 }
