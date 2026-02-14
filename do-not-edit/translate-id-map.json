@@ -325,9 +325,9 @@
         "my-account-site-memberships": 42,
         "my-account-site-nav": 21,
         "my-account-sites": 19,
-        "my-account-site-builder-component": 148,
+        "my-account-site-builder-component": 152,
         "my-account-site-content-edit-component": 4,
-        "my-account-site-builder": 7,
+        "my-account-site-builder": 11,
         "my-account-site-collections": 68,
         "my-account-site-settings": 38,
         "my-account-site-common": 38,
@@ -6518,7 +6518,11 @@
         "t145": "MEDIA_PICKER_SELECT",
         "t146": "MEDIA_PICKER_CANCEL",
         "t147": "MEDIA_PICKER_UPLOAD",
-        "t148": "MEDIA_PICKER_UPLOADING"
+        "t148": "MEDIA_PICKER_UPLOADING",
+        "t149": "MEDIA_PICKER_SEARCH_PLACEHOLDER",
+        "t150": "LABEL_MANAGE_THUMBNAILS",
+        "t151": "LABEL_ALLOW_MULTIPLE_THUMBNAILS",
+        "t152": "TEXT_NO_THUMBNAILS"
     },
     "my-account-site-content-edit-component": {
         "t1": "PLACEHOLDER_CONTENT",
@@ -6533,7 +6537,11 @@
         "t4": "NAV_SETTINGS",
         "t5": "NAV_MEMBERSHIPS",
         "t6": "NAV_MEMBERS",
-        "t7": "HEADING_BUILDER"
+        "t7": "HEADING_BUILDER",
+        "t8": "MEDIA_PICKER_SEARCH_PLACEHOLDER",
+        "t9": "LABEL_MANAGE_THUMBNAILS",
+        "t10": "LABEL_ALLOW_MULTIPLE_THUMBNAILS",
+        "t11": "TEXT_NO_THUMBNAILS"
     },
     "my-account-site-collections": {
         "t1": "PAGE_TITLE",
