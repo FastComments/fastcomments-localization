@@ -324,13 +324,13 @@
         "my-account-site-members": 21,
         "my-account-site-memberships": 42,
         "my-account-site-nav": 21,
-        "my-account-sites": 18,
-        "my-account-site-builder-component": 141,
+        "my-account-sites": 19,
+        "my-account-site-builder-component": 148,
         "my-account-site-content-edit-component": 4,
         "my-account-site-builder": 7,
         "my-account-site-collections": 68,
         "my-account-site-settings": 38,
-        "my-account-site-common": 37,
+        "my-account-site-common": 38,
         "my-account-site-theme": 10,
         "my-account-site-theme-editor": 16,
         "site-starter-packages": 67,
@@ -339,7 +339,8 @@
         "site-member-welcome": 9,
         "site-auth": 7,
         "wordpress-spam": 68,
-        "my-account-site-delete": 10
+        "my-account-site-delete": 10,
+        "my-account-site-media": 18
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -6366,7 +6367,8 @@
         "t15": "PACKAGE_BLANK_DESC",
         "t16": "TAB_SITES",
         "t17": "TAB_MEMBERSHIPS",
-        "t18": "BUTTON_DELETE_SITE"
+        "t18": "BUTTON_DELETE_SITE",
+        "t19": "TAB_MEDIA"
     },
     "my-account-site-builder-component": {
         "t1": "SECTION_PAGES",
@@ -6509,7 +6511,14 @@
         "t138": "BLOCK_DESC_COMPLETE_PROFILE",
         "t139": "TAB_PROPERTIES",
         "t140": "TAB_EXTRAS",
-        "t141": "TOOLTIP_MEMBERSHIP_GATE"
+        "t141": "TOOLTIP_MEMBERSHIP_GATE",
+        "t142": "BTN_BROWSE_MEDIA",
+        "t143": "MEDIA_PICKER_TITLE",
+        "t144": "MEDIA_PICKER_NO_MEDIA",
+        "t145": "MEDIA_PICKER_SELECT",
+        "t146": "MEDIA_PICKER_CANCEL",
+        "t147": "MEDIA_PICKER_UPLOAD",
+        "t148": "MEDIA_PICKER_UPLOADING"
     },
     "my-account-site-content-edit-component": {
         "t1": "PLACEHOLDER_CONTENT",
@@ -6673,7 +6682,8 @@
         "t34": "SEARCH_MEMBERSHIPS",
         "t35": "NAV_VIEW_PAGE_PUBLIC",
         "t36": "BLOCK_TYPE_COMPLETE_PROFILE",
-        "t37": "NAV_PREVIEW_ARTICLE"
+        "t37": "NAV_PREVIEW_ARTICLE",
+        "t38": "NAV_MEDIA"
     },
     "my-account-site-theme": {
         "t1": "PAGE_TITLE",
@@ -6905,5 +6915,25 @@
         "t8": "TEXT_DELETE_WARNING",
         "t9": "BUTTON_CANCEL",
         "t10": "BUTTON_CONFIRM_DELETE_SITE"
+    },
+    "my-account-site-media": {
+        "t1": "PAGE_TITLE",
+        "t2": "HEADING_MEDIA",
+        "t3": "TEXT_DRAG_DROP",
+        "t4": "BTN_CHOOSE_FILES",
+        "t5": "TEXT_NO_MEDIA",
+        "t6": "TEXT_UPLOADING",
+        "t7": "TEXT_UPLOAD_FAILED",
+        "t8": "TEXT_DELETE_CONFIRM",
+        "t9": "BTN_DELETE",
+        "t10": "BREADCRUMB_SITES",
+        "t11": "NAV_BUILDER",
+        "t12": "NAV_COLLECTIONS",
+        "t13": "NAV_THEME",
+        "t14": "NAV_SETTINGS",
+        "t15": "NAV_MEMBERSHIPS",
+        "t16": "NAV_MEMBERS",
+        "t17": "NAV_MEDIA",
+        "t18": "NAV_VIEW_PUBLIC"
     }
 }
