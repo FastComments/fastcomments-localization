@@ -33,5 +33,7 @@
     "FREQUENCY_COLUMN": "Frequenza",
     "FREQUENCY_MINUTELY": "Ogni minuto",
     "FREQUENCY_HOURLY": "Riepilogo orario",
-    "FREQUENCY_DAILY": "Riepilogo giornaliero"
+    "FREQUENCY_DAILY": "Riepilogo giornaliero",
+    "NOTIFICATION_FREQUENCY_LABEL": "Frequenza di notifica dei nuovi commenti",
+    "NOTIFICATION_FREQUENCY_HELP": "Con quale frequenza ricevi notifiche via email per nuovi commenti e risposte ai tuoi commenti. Le notifiche @menzioni vengono sempre inviate immediatamente."
 }

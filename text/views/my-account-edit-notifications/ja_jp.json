@@ -33,5 +33,7 @@
     "FREQUENCY_COLUMN": "頻度",
     "FREQUENCY_MINUTELY": "毎分",
     "FREQUENCY_HOURLY": "1時間ごとのダイジェスト",
-    "FREQUENCY_DAILY": "毎日のダイジェスト"
+    "FREQUENCY_DAILY": "毎日のダイジェスト",
+    "NOTIFICATION_FREQUENCY_LABEL": "新しいコメントの通知頻度",
+    "NOTIFICATION_FREQUENCY_HELP": "新しいコメントや自分のコメントへの返信に関するメール通知を受け取る頻度。@メンション通知は常にすぐに送信されます。"
 }
