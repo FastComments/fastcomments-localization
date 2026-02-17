@@ -1,7 +1,6 @@
 {
     "INTRO": "Hej <%= username %>,",
     "BANNER_TEXT": "Novi odgovori na komentare",
-    "PAST_HOUR_COMMENT_COUNT": "U proteklih sat vremena dobili ste <% if(replyCount > 1) { %>neke odgovore<% } else { %>odgovor<% } %> na svoje<% if(commentsSummary.length > 1) {%> komentare<% } else { %> komentar<% } %>.",
     "FROM_NAME": "Robot FastComments",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Novi odgovor<% } else { %>Novi odgovori<% } %> na <% if(replyCount > 1) { %>Vaše komentare<% } else {%>Vaš komentar<% } %>",
     "VIEW_REPLIES": "Pogledaj i odgovori",

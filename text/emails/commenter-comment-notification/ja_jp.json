@@ -1,12 +1,11 @@
 {
     "INTRO": "おい <%= username %>、",
     "BANNER_TEXT": "新しいコメント返信",
-    "PAST_HOUR_COMMENT_COUNT": "過去1時間に、<% if(replyCount > 1) { %>コメント<% } else { %>コメント<% } %>に対する<% if(commentsSummary.length > 1) {%>いくつかの返信<% } else { %>返信<% } %>がありました。",
     "FROM_NAME": "FastCommentsロボット",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %><% if(replyCount === 1) {%>新しい返信<% } else { %>新しい返信<% } %>から<% if(replyCount > 1) { %>あなたのコメント<% } else {%>あなたのコメント<% } %>",
     "VIEW_REPLIES": "表示して返信",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "このコメントの通知を無効にする",
     "UNSUBSCRIBE_HERE": "購読を解除する",
     "REPLY_BY_EMAIL_TIP": "このメールに直接返信して、ご返答を投稿することができます。",
-    "RECENT_COMMENT_COUNT": "あなたのコメントに対して、いくつかの返信が寄せられました。"
+    "RECENT_COMMENT_COUNT": "You've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>."
 }

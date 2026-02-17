@@ -1,7 +1,6 @@
 {
     "INTRO": "Ei <%= username %>,",
     "BANNER_TEXT": "Novas respostas aos comentários",
-    "PAST_HOUR_COMMENT_COUNT": "Na última hora você já teve <% if(replyCount > 1) { %>Portalews<% } else { %>a Reply<% } %> para o seu<% if(commentsSummary.length > 1) {%> Comentários<% } else { %> Comentário<% } %>.",
     "FROM_NAME": "FastComments Robot.",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>NEW Reply<% } else { %>NEW Responde<% } %> para <% if(replyCount > 1) { %>Seour Comments<% } else {%>Your comentário<% } %>",
     "VIEW_REPLIES": "Ver e responder",

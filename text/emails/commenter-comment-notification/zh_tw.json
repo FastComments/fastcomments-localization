@@ -1,7 +1,6 @@
 {
     "INTRO": "嘿 <%= username %>，",
     "BANNER_TEXT": "新評論回复",
-    "PAST_HOUR_COMMENT_COUNT": "在過去的一個小時裡，你有<% if(replyCount > 1) { %>一些回复<% } else { %>對你的<% } %>評論<% if(commentsSummary.length > 1) {%>評論<% } else { %>的回复<% } %>。",
     "FROM_NAME": "快評機器人",
     "SUBJECT": "對您的評論的新回复",
     "VIEW_REPLIES": "查看並回复",

@@ -1,7 +1,6 @@
 {
     "INTRO": "Γεια <%= username %>,",
     "BANNER_TEXT": "Νέες απαντήσεις σχολίων",
-    "PAST_HOUR_COMMENT_COUNT": "Την τελευταία ώρα είχατε <% if(replyCount > 1) { %>μερικές απαντήσεις<% } else { %>απάντηση<% } %> στα <% if(commentsSummary.length > 1) {%> σχόλιά σας<% } else { %> σχόλιο<% } %>.",
     "FROM_NAME": "Ρομπότ FastComments",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Νέα απάντηση<% } else { %>Νέες απαντήσεις<% } %> σε <% if(replyCount > 1) { %>Τα σχόλιά σας<% } else {%>Το σχόλιό σας<% } %>",
     "VIEW_REPLIES": "Προβολή και απάντηση",
