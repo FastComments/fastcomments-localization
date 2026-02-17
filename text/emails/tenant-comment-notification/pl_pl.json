@@ -1,7 +1,7 @@
 {
     "INTRO": "Hej <%= username %>,",
     "YOU_HAVE_NEW_COMMENTS": "Masz jakieś nowe komentarze!",
-    "BANNER_TEXT": "Nowe komentarze - Ostatnia godzina",
+    "BANNER_TEXT": "Nowe komentarze",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Nowy komentarz<% } else { %>Nowe komentarze<% } %>",
     "UNSUBSCRIBE_HERE": "Anuluj subskrypcję",
     "APPROVE_COMMENT": "Zatwierdzać",

@@ -9,7 +9,7 @@
     },
     "lastCounts": {
         "404": 6,
-        "commenter-comment-notification": 10,
+        "commenter-comment-notification": 11,
         "commenter-verify-post": 20,
         "commenter-verify-vote": 9,
         "commenter-welcome-from-comment": 21,
@@ -176,7 +176,7 @@
         "my-account-edit-details": 32,
         "my-account-edit-details-change-password": 7,
         "my-account-edit-details-change-password-do": 10,
-        "my-account-edit-notifications": 30,
+        "my-account-edit-notifications": 35,
         "my-account-feedback-analytics": 16,
         "my-account-get-code": 22,
         "my-account-help": 22,
@@ -354,7 +354,8 @@
         "t7": "DISABLE_NOTIFICATIONS_FOR_COMMENT",
         "t8": "THANKS_FOR_USING_FASTCOMMENTS",
         "t9": "UNSUBSCRIBE_HERE",
-        "t10": "REPLY_BY_EMAIL_TIP"
+        "t10": "REPLY_BY_EMAIL_TIP",
+        "t11": "RECENT_COMMENT_COUNT"
     },
     "commenter-verify-post": {
         "t1": "SUBJECT",
@@ -3638,7 +3639,12 @@
         "t27": "STATUS_COLUMN",
         "t28": "SUBSCRIBED",
         "t29": "NO_SUBSCRIPTIONS",
-        "t30": "SAVE_CHANGES"
+        "t30": "SAVE_CHANGES",
+        "t31": "NOTIFICATIONS_HEADING",
+        "t32": "FREQUENCY_COLUMN",
+        "t33": "FREQUENCY_MINUTELY",
+        "t34": "FREQUENCY_HOURLY",
+        "t35": "FREQUENCY_DAILY"
     },
     "my-account-feedback-analytics": {
         "t1": "TITLE",

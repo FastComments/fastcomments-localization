@@ -2,7 +2,7 @@
     "INTRO": "Хеј <%= username %>,",
     "FROM_NAME": "ФастЦомментс Робот",
     "YOU_HAVE_NEW_COMMENTS": "Имате нове коментаре!",
-    "BANNER_TEXT": "Нови коментари - Последњи сат",
+    "BANNER_TEXT": "Нови коментари",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Нови коментар<% } else { %>Нови коментари<% } %>",
     "UNSUBSCRIBE_HERE": "Откажи претплату",
     "APPROVE_COMMENT": "Одобре",

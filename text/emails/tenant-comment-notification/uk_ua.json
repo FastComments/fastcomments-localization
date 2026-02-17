@@ -2,7 +2,7 @@
     "INTRO": "Привіт <%= username %>,",
     "FROM_NAME": "Робот FastComments",
     "YOU_HAVE_NEW_COMMENTS": "У вас є нові коментарі!",
-    "BANNER_TEXT": "Нові коментарі - Остання година",
+    "BANNER_TEXT": "Нові коментарі",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Новий коментар<% } else { %>Нові коментарі<% } %>",
     "UNSUBSCRIBE_HERE": "Відписатися",
     "APPROVE_COMMENT": "Затвердити",

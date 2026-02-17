@@ -1,11 +1,12 @@
 {
     "INTRO": "Hej<%= username %>",
-    "BANNER_TEXT": "Odgovori na komentare - poslednji čas",
+    "BANNER_TEXT": "Novi komentar Odgovori",
     "PAST_HOUR_COMMENT_COUNT": "U proteklih sat vremena imali ste <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
     "FROM_NAME": "Robot za brze snommente",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> do <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
     "VIEW_REPLIES": "Pogledaj i odgovori",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Onemogući obaveštenja za ovaj komentar",
     "UNSUBSCRIBE_HERE": "Otkazivanje pretplate",
-    "REPLY_BY_EMAIL_TIP": "Možete odgovoriti na ovaj e-mail direktno da postavite svoj odgovor."
+    "REPLY_BY_EMAIL_TIP": "Možete odgovoriti na ovaj e-mail direktno da postavite svoj odgovor.",
+    "RECENT_COMMENT_COUNT": "Imali ste <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> da your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>."
 }

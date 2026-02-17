@@ -2,7 +2,7 @@
     "INTRO": "嘿 <%= username %>，",
     "FROM_NAME": "快评机器人",
     "YOU_HAVE_NEW_COMMENTS": "你有一些新的评论！",
-    "BANNER_TEXT": "新评论 - 最后一小时",
+    "BANNER_TEXT": "新评论",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>新评论<% } else { %>新评论<% } %>",
     "UNSUBSCRIBE_HERE": "退订",
     "APPROVE_COMMENT": "批准",

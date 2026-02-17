@@ -2,7 +2,7 @@
     "INTRO": "Merhaba <%= username %>,",
     "FROM_NAME": "HızlıYorumlar Robotu",
     "YOU_HAVE_NEW_COMMENTS": "Bazı yeni yorumlarınız var!",
-    "BANNER_TEXT": "Yeni Yorumlar - Son Saat",
+    "BANNER_TEXT": "Yeni Yorumlar",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Yeni Yorum<% } else { %>Yeni Yorumlar<% } %>",
     "UNSUBSCRIBE_HERE": "abonelikten çık",
     "APPROVE_COMMENT": "Onaylamak",

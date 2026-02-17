@@ -2,7 +2,7 @@
     "INTRO": "Hej <%= username %>,",
     "FROM_NAME": "Robot FastComments",
     "YOU_HAVE_NEW_COMMENTS": "Imate nove komentare!",
-    "BANNER_TEXT": "Novi komentari - Zadnji sat",
+    "BANNER_TEXT": "Novi komentari",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Novi komentar<% } else { %>Novi komentari<% } %>",
     "UNSUBSCRIBE_HERE": "Odjavi pretplatu",
     "APPROVE_COMMENT": "Odobriti",

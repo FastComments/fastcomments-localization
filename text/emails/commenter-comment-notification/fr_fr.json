@@ -1,5 +1,5 @@
 {
-    "BANNER_TEXT": "Réponses aux commentaires - Dernière heure",
+    "BANNER_TEXT": "Réponses aux nouveaux commentaires",
     "FROM_NAME": "Robot FastComments",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>new Réponse<% } else { %>new Réponses<% } %> à <% if(replyCount > 1) { %>votre commentaire<% } else {%>votre commentaire<% } %>",
     "VIEW_REPLIES": "Afficher et répondre",
@@ -7,5 +7,6 @@
     "INTRO": "Hey <%= username %>,",
     "PAST_HOUR_COMMENT_COUNT": "Au cours de la dernière heure, vous avez reçu <% if(replyCount > 1) { %> quelques réponses<% } else { %> une réponse<% } %> à vos<% if(commentsSummary.length > 1) {%> commentaires<% } else { %> commentaire<% } %>.",
     "UNSUBSCRIBE_HERE": "Se désabonner",
-    "REPLY_BY_EMAIL_TIP": "Vous pouvez répondre directement à cet e-mail pour publier votre réponse."
+    "REPLY_BY_EMAIL_TIP": "Vous pouvez répondre directement à cet e-mail pour publier votre réponse.",
+    "RECENT_COMMENT_COUNT": "Vous avez reçu <% if(replyCount > 1) { %>des réponses<% } else { %>une réponse<% } %> à vos<% if(commentsSummary.length > 1) {%> commentaires<% } else { %> commentaire<% } %>."
 }

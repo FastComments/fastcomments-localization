@@ -1,11 +1,12 @@
 {
     "INTRO": "Привіт <%= username %>,",
-    "BANNER_TEXT": "Відповіді на коментарі - Остання година",
+    "BANNER_TEXT": "Нові відповіді на коментарі",
     "PAST_HOUR_COMMENT_COUNT": "За останню годину ви отримали <% if(replyCount > 1) { %>кілька відповідей<% } else { %>відповідь<% } %> на ваші<% if(commentsSummary.length > 1) {%> коментарі<% } else { %> коментар<% } %>.",
     "FROM_NAME": "Робот FastComments",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Нова відповідь<% } else { %>Нові відповіді<% } %> на <% if(replyCount > 1) { %>Ваші коментарі<% } else {%>Ваш коментар<% } %>",
     "VIEW_REPLIES": "Переглянути та відповісти",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Вимкнути сповіщення для цього коментаря",
     "UNSUBSCRIBE_HERE": "Відписатися",
-    "REPLY_BY_EMAIL_TIP": "Ви можете відповісти безпосередньо на цей електронний лист, щоб опублікувати свою відповідь."
+    "REPLY_BY_EMAIL_TIP": "Ви можете відповісти безпосередньо на цей електронний лист, щоб опублікувати свою відповідь.",
+    "RECENT_COMMENT_COUNT": "Ви отримали <% if(replyCount > 1) { %>деякі відповіді<% } else { %>відповідь<% } %>на ваші <% if(commentsSummary.length > 1) {%> коментарі<% } else { %> коментар <% } %>."
 }

@@ -2,7 +2,7 @@
     "INTRO": "Γεια <%= username %>,",
     "FROM_NAME": "Ρομπότ FastComments",
     "YOU_HAVE_NEW_COMMENTS": "Έχετε μερικά νέα σχόλια!",
-    "BANNER_TEXT": "Νέα σχόλια - Τελευταία ώρα",
+    "BANNER_TEXT": "Νέα σχόλια",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Νέο σχόλιο<% } else { %>Νέα σχόλια<% } %>",
     "UNSUBSCRIBE_HERE": "Απεγγραφή",
     "APPROVE_COMMENT": "Εγκρίνω",

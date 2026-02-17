@@ -1,7 +1,7 @@
 {
   "INTRO": "Hey <%= username %>,",
-  "BANNER_TEXT": "Comment Replies - Last Hour",
-  "PAST_HOUR_COMMENT_COUNT": "In the past hour you've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
+  "BANNER_TEXT": "New Comment Replies",
+  "RECENT_COMMENT_COUNT": "You've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>.",
   "FROM_NAME": "FastComments Robot",
   "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>New Reply<% } else { %>New Replies<% } %> to <% if(replyCount > 1) { %>Your Comments<% } else {%>Your Comment<% } %>",
   "VIEW_REPLIES": "View and Reply",

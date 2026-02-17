@@ -1,11 +1,12 @@
 {
     "INTRO": "Hoi <%= username %>,",
-    "BANNER_TEXT": "Reactie Antwoorden - Laatste uur",
+    "BANNER_TEXT": "Nieuwe reactie",
     "PAST_HOUR_COMMENT_COUNT": "Het afgelopen uur heeft u <% if(replyCount > 1) { %>enkele antwoorden<% } else { %>een antwoord<% } %> gehad op uw<% if(commentsSummary.length > 1) {%> opmerkingen<% } else { %> opmerking<% } %>.",
     "FROM_NAME": "FastComments-robot",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Nieuw antwoord<% } else { %>Nieuwe antwoorden<% } %> op <% if(replyCount > 1) { %>Uw opmerkingen<% } else {%>Uw commentaar<% } %>",
     "VIEW_REPLIES": "Bekijk en beantwoord",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Schakel meldingen voor deze reactie uit",
     "UNSUBSCRIBE_HERE": "Uitschrijven",
-    "REPLY_BY_EMAIL_TIP": "U kunt rechtstreeks op deze e-mail reageren om uw reactie te plaatsen."
+    "REPLY_BY_EMAIL_TIP": "U kunt rechtstreeks op deze e-mail reageren om uw reactie te plaatsen.",
+    "RECENT_COMMENT_COUNT": "Je hebt <% if(replyCount > 1) { %>enkele reacties<% } else { %>een reactie<% } %> op je<% if(commentsSummary.length > 1) {%> opmerkingen<% } else { %> opmerking<% } %>."
 }

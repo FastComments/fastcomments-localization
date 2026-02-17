@@ -2,6 +2,7 @@
   "TITLE": "Configure Notifications - FastComments",
   "HEADING": "Notifications Settings",
   "HOURLY_NOTIFICATIONS_HEADING": "Hourly Notifications",
+  "NOTIFICATIONS_HEADING": "Notifications",
   "CHANGES_SAVED": "Changes saved successfully.",
   "ENABLE_COMMENT_REPLY_NOTIFICATIONS": "Enable Comment Reply Notifications",
   "REPLY_NOTIFICATIONS_HELP_TENANT": "Hourly Notifications includes notifications about new comments, as well as replies to your own. We'll also send notifications when you're tagged.",
@@ -28,5 +29,9 @@
   "STATUS_COLUMN": "Status",
   "SUBSCRIBED": "Subscribed",
   "NO_SUBSCRIPTIONS": "You don't have any subscriptions yet.",
+  "FREQUENCY_COLUMN": "Frequency",
+  "FREQUENCY_MINUTELY": "Every minute",
+  "FREQUENCY_HOURLY": "Hourly digest",
+  "FREQUENCY_DAILY": "Daily digest",
   "SAVE_CHANGES": "Save Changes"
 }

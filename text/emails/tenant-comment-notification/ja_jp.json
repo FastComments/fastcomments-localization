@@ -2,7 +2,7 @@
     "INTRO": "おい <%= username %>、",
     "FROM_NAME": "FastCommentsロボット",
     "YOU_HAVE_NEW_COMMENTS": "新しいコメントがあります！",
-    "BANNER_TEXT": "新しいコメント-最後の1時間",
+    "BANNER_TEXT": "新しいコメント",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %><% if(commentCount === 1) {%>新しいコメント<% } else { %>新しいコメント<% } %>",
     "UNSUBSCRIBE_HERE": "購読を解除する",
     "APPROVE_COMMENT": "承認",

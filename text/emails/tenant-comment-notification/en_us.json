@@ -2,7 +2,7 @@
   "INTRO": "Hey <%= username %>,",
   "FROM_NAME": "FastComments Robot",
   "YOU_HAVE_NEW_COMMENTS": "You have some new comments!",
-  "BANNER_TEXT": "New Comments - Last Hour",
+  "BANNER_TEXT": "New Comments",
   "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>New Comment<% } else { %>New Comments<% } %>",
   "UNSUBSCRIBE_HERE": "Unsubscribe",
   "APPROVE_COMMENT": "Approve",

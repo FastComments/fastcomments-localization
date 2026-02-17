@@ -1,11 +1,12 @@
 {
     "INTRO": "嘿 <%= username %>，",
-    "BANNER_TEXT": "評論回复 - 最後一小時",
+    "BANNER_TEXT": "新評論回复",
     "PAST_HOUR_COMMENT_COUNT": "在過去的一個小時裡，你有<% if(replyCount > 1) { %>一些回复<% } else { %>對你的<% } %>評論<% if(commentsSummary.length > 1) {%>評論<% } else { %>的回复<% } %>。",
     "FROM_NAME": "快評機器人",
     "SUBJECT": "對您的評論的新回复",
     "VIEW_REPLIES": "查看並回复",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "禁用此評論的通知",
     "UNSUBSCRIBE_HERE": "退訂",
-    "REPLY_BY_EMAIL_TIP": "您可以直接回覆此電子郵件來發表您的回覆。"
+    "REPLY_BY_EMAIL_TIP": "您可以直接回覆此電子郵件來發表您的回覆。",
+    "RECENT_COMMENT_COUNT": "你收到了<% if(replyCount > 1) { %>一些回覆<% } else { %>一則回覆<% } %>針對你的<% if(commentsSummary.length > 1) {%>評論<% } else { %>評論<% } %>。"
 }

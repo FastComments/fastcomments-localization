@@ -2,7 +2,7 @@
     "INTRO": "안녕하세요 <%= username %>,",
     "FROM_NAME": "FastComments 로봇",
     "YOU_HAVE_NEW_COMMENTS": "새로운 의견이 있습니다!",
-    "BANNER_TEXT": "새 댓글 - 지난 1시간",
+    "BANNER_TEXT": "새 댓글",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>새 댓글<% } else { %>새 댓글<% } %>",
     "UNSUBSCRIBE_HERE": "구독 취소",
     "APPROVE_COMMENT": "승인",

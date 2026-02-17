@@ -2,7 +2,7 @@
     "INTRO": "היי <%= username %>,",
     "FROM_NAME": "FastComments רובוט",
     "YOU_HAVE_NEW_COMMENTS": "יש לך כמה הערות חדשות!",
-    "BANNER_TEXT": "הערות חדשות - שעה אחרונה",
+    "BANNER_TEXT": "תגובות חדשות",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%> תגובה חדשה<% } else { %>הערות חדשות<% } %>",
     "UNSUBSCRIBE_HERE": "בטל את המנוי",
     "APPROVE_COMMENT": "לְאַשֵׁר",

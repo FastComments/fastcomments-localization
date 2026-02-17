@@ -1,11 +1,12 @@
 {
     "INTRO": "היי <%= username %>,",
-    "BANNER_TEXT": "תגובה תגובות - שעה אחרונה",
+    "BANNER_TEXT": "תגובות חדשות",
     "PAST_HOUR_COMMENT_COUNT": "בשעה האחרונה קיבלת <% if(replyCount > 1) { %>כמה תגובות<% } else { %>תשובה<% } %> להערות<% if(commentsSummary.length > 1) {%><% } else { %>____ הערות<% } %>.",
     "FROM_NAME": "FastComments רובוט",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%> תגובה חדשה<% } else { %> תגובות חדשות<% } %> ל<% if(replyCount > 1) { %> ההערות שלך<% } else {%> התגובה שלך<% } %>",
     "VIEW_REPLIES": "הצג והשב",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "השבת הודעות עבור תגובה זו",
     "UNSUBSCRIBE_HERE": "בטל את המנוי",
-    "REPLY_BY_EMAIL_TIP": "באפשרותך להשיב ישירות למייל זה כדי לפרסם את תגובתך."
+    "REPLY_BY_EMAIL_TIP": "באפשרותך להשיב ישירות למייל זה כדי לפרסם את תגובתך.",
+    "RECENT_COMMENT_COUNT": "קיבלת <% if(replyCount > 1) { %>כמה תגובות<% } else { %>תגובה<% } %> לתגובות<% if(commentsSummary.length > 1) {%> שלך<% } else { %> תגובה<% } %>."
 }

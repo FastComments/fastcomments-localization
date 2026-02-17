@@ -1,11 +1,12 @@
 {
     "INTRO": "Zdravo <%= username %>,",
-    "BANNER_TEXT": "Odgovori na komentarje - zadnja ura",
+    "BANNER_TEXT": "Novi odgovori na komentarje",
     "PAST_HOUR_COMMENT_COUNT": "V pretekli uri ste prejeli <% if(replyCount > 1) { %>nekaj odgovorov<% } else { %> odgovor<% } %> na vaše<% if(commentsSummary.length > 1) {%> komentarje<% } else { %> komentar<% } %>.",
     "FROM_NAME": "Robot FastComments",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Nov odgovor<% } else { %>Novi odgovori<% } %> na <% if(replyCount > 1) { %>Vaše komentarje<% } else {%>Vaš komentar<% } %>",
     "VIEW_REPLIES": "Poglej in odgovori",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Onemogoči obvestila za ta komentar",
     "UNSUBSCRIBE_HERE": "Odjavi se",
-    "REPLY_BY_EMAIL_TIP": "Svoj odgovor lahko objavite tako, da odgovorite neposredno na to e-poštno sporočilo."
+    "REPLY_BY_EMAIL_TIP": "Svoj odgovor lahko objavite tako, da odgovorite neposredno na to e-poštno sporočilo.",
+    "RECENT_COMMENT_COUNT": "Prejeli ste <% if(replyCount > 1) { %>nekaj odgovorov<% } else { %>odgovor <% } %> na vaše <% if(commentsSummary.length > 1) {%> komentarje<% } else { %> komentar <% } %>."
 }
