@@ -64,7 +64,7 @@
     "FAQ_CODING_Q": "コーディングの経験は必要ですか?",
     "FAQ_CODING_A": "いいえ。ほとんどのプラットフォームでは、FastComments を追加するには、短いコードスニペットをコピー＆ペーストするだけで済みます。WordPress、Squarespace、Webflow、Wix をご利用の場合は、組み込みの HTML ブロックを使用して埋め込むことができます。コーディングの知識は必要ありません。",
     "FAQ_SPEED_Q": "コメントを追加するとウェブサイトの速度が低下しますか?",
-    "FAQ_SPEED_A": "FastCommentsはgzip圧縮され、非同期で読み込まれるため、ページのレンダリングをブロックすることはありません。Core Web VitalsやLighthouseスコアに測定可能な影響はありません。",
+    "FAQ_SPEED_A": "FastCommentsは<%= widgetSize %> gzip圧縮され、非同期で読み込まれるため、ページのレンダリングをブロックすることはありません。Core Web VitalsやLighthouseスコアに測定可能な影響はありません。",
     "FAQ_MODERATION_Q": "コメントが表示される前に管理できますか?",
     "FAQ_MODERATION_A": "はい。FastCommentsには、事前モデレーション（公開前の承認）、キーワードフィルター、スパム検出、ユーザーの追放機能など、モデレーションツールが組み込まれています。ダッシュボードまたはメール通知からモデレーションできます。",
     "FAQ_MIGRATION_Q": "Disqus または他のコメント システムから移行できますか?",

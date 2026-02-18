@@ -64,7 +64,7 @@
     "FAQ_CODING_Q": "Heb ik programmeerervaring nodig?",
     "FAQ_CODING_A": "Nee. Het toevoegen van FastComments aan de meeste platforms is een kwestie van een klein stukje code kopiëren en plakken. Als je WordPress, Squarespace, Webflow of Wix gebruikt, kun je het integreren met het ingebouwde HTML-blok – je hebt geen programmeerkennis nodig.",
     "FAQ_SPEED_Q": "Zal het toevoegen van reacties mijn website vertragen?",
-    "FAQ_SPEED_A": "FastComments is gecomprimeerd met gzip en laadt asynchroon, waardoor het de weergave van uw pagina niet blokkeert. Het heeft geen meetbare impact op Core Web Vitals of Lighthouse-scores.",
+    "FAQ_SPEED_A": "FastComments is <%= widgetSize %> gecomprimeerd met gzip en laadt asynchroon, waardoor het de weergave van uw pagina niet blokkeert. Het heeft geen meetbare impact op Core Web Vitals of Lighthouse-scores.",
     "FAQ_MODERATION_Q": "Kan ik reacties modereren voordat ze verschijnen?",
     "FAQ_MODERATION_A": "Ja. FastComments bevat ingebouwde moderatietools, waaronder pre-moderatie (goedkeuren vóór publicatie), trefwoordfilters, spamdetectie en de mogelijkheid om gebruikers te blokkeren. U kunt modereren via het dashboard of via e-mailmeldingen.",
     "FAQ_MIGRATION_Q": "Kan ik overstappen van Disqus of een ander reactiesysteem?",

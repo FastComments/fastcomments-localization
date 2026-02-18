@@ -64,7 +64,7 @@
     "FAQ_CODING_Q": "코딩 경험이 필요한가요?",
     "FAQ_CODING_A": "아니요. 대부분의 플랫폼에 FastComments를 추가하는 데는 간단한 코드 조각을 복사해서 붙여넣기만 하면 됩니다. WordPress, Squarespace, Webflow 또는 Wix를 사용하는 경우 내장된 HTML 블록을 사용하여 삽입할 수 있으므로 코딩 지식이 필요하지 않습니다.",
     "FAQ_SPEED_Q": "댓글 기능을 추가하면 웹사이트 속도가 느려질까요?",
-    "FAQ_SPEED_A": "FastComments는 gzip으로 압축되어 비동기적으로 로드되므로 페이지 렌더링을 차단하지 않습니다. Core Web Vitals 또는 Lighthouse 점수에 눈에 띄는 영향을 미치지 않습니다.",
+    "FAQ_SPEED_A": "FastComments는 <%= widgetSize %> gzip으로 압축되어 비동기적으로 로드되므로 페이지 렌더링을 차단하지 않습니다. Core Web Vitals 또는 Lighthouse 점수에 눈에 띄는 영향을 미치지 않습니다.",
     "FAQ_MODERATION_Q": "댓글이 게시되기 전에 제가 검토할 수 있나요?",
     "FAQ_MODERATION_A": "네. FastComments에는 게시 전 승인, 키워드 필터, 스팸 감지, 사용자 차단 기능 등 다양한 관리 도구가 내장되어 있습니다. 대시보드 또는 이메일 알림을 통해 댓글을 관리할 수 있습니다.",
     "FAQ_MIGRATION_Q": "Disqus나 다른 댓글 시스템에서 마이그레이션할 수 있나요?",

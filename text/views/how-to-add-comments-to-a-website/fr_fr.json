@@ -64,7 +64,7 @@
     "FAQ_CODING_Q": "Ai-je besoin d'expérience en programmation ?",
     "FAQ_CODING_A": "Non. Ajouter FastComments à la plupart des plateformes se résume à copier-coller un petit extrait de code. Si vous utilisez WordPress, Squarespace, Webflow ou Wix, vous pouvez l'intégrer grâce à leur bloc HTML intégré ; aucune connaissance en programmation n'est requise.",
     "FAQ_SPEED_Q": "L'ajout de commentaires va-t-il ralentir mon site web ?",
-    "FAQ_SPEED_A": "FastComments est compressé au format gzip et se charge de manière asynchrone, ce qui évite de bloquer l'affichage de votre page. Son impact sur les indicateurs Web essentiels et le score Lighthouse est négligeable.",
+    "FAQ_SPEED_A": "FastComments est <%= widgetSize %> compressé au format gzip et se charge de manière asynchrone, ce qui évite de bloquer l'affichage de votre page. Son impact sur les indicateurs Web essentiels et le score Lighthouse est négligeable.",
     "FAQ_MODERATION_Q": "Puis-je modérer les commentaires avant leur publication ?",
     "FAQ_MODERATION_A": "Oui. FastComments intègre des outils de modération, notamment la pré-modération (approbation avant publication), des filtres de mots-clés, la détection de spam et la possibilité de bannir des utilisateurs. Vous pouvez modérer les commentaires depuis le tableau de bord ou par notifications par e-mail.",
     "FAQ_MIGRATION_Q": "Puis-je migrer depuis Disqus ou un autre système de commentaires ?",

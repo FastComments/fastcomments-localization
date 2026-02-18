@@ -64,7 +64,7 @@
     "FAQ_CODING_Q": "Ali potrebujem izkušnje s kodiranjem?",
     "FAQ_CODING_A": "Ne. Za dodajanje FastComments na večino platform je potrebno le kopiranje in lepljenje majhnega delčka kode. Če uporabljate WordPress, Squarespace, Webflow ali Wix, ga lahko vdelate z njihovim vgrajenim blokom HTML – ni potrebno znanje kodiranja.",
     "FAQ_SPEED_Q": "Ali bo dodajanje komentarjev upočasnilo delovanje moje spletne strani?",
-    "FAQ_SPEED_A": "FastComments je stisnjen z gzip-om in se nalaga asinhrono, zato ne blokira upodabljanja strani. Nima merljivega vpliva na ključne kazalnike spletnega mesta ali rezultate Lighthouse.",
+    "FAQ_SPEED_A": "FastComments je <%= widgetSize %> stisnjen z gzip-om in se nalaga asinhrono, zato ne blokira upodabljanja strani. Nima merljivega vpliva na ključne kazalnike spletnega mesta ali rezultate Lighthouse.",
     "FAQ_MODERATION_Q": "Ali lahko moderiram komentarje, preden se pojavijo?",
     "FAQ_MODERATION_A": "Da. FastComments vključuje vgrajena orodja za moderiranje, vključno s predhodno moderacijo (odobritev pred objavo), filtri ključnih besed, zaznavanjem neželene pošte in možnostjo prepovedi uporabnikov. Moderirate lahko na nadzorni plošči ali prek e-poštnih obvestil.",
     "FAQ_MIGRATION_Q": "Ali lahko opravim selitev iz Disqusa ali drugega sistema za komentiranje?",
