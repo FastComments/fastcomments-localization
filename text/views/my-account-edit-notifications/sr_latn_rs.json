@@ -35,5 +35,9 @@
     "FREQUENCY_HOURLY": "Hourli digest",
     "FREQUENCY_DAILY": "Dnevni digest",
     "NOTIFICATION_FREQUENCY_LABEL": "Novi komentar Obaveštenje Frekvencija",
-    "NOTIFICATION_FREQUENCY_HELP": "Koliko često dobijate obaveštenja e-poštom za nove komentare i odgovore na vaše komentare. @mention obaveštenja se uvek šalju odmah."
+    "NOTIFICATION_FREQUENCY_HELP": "Koliko često dobijate obaveštenja e-poštom za nove komentare i odgovore na vaše komentare. @mention obaveštenja se uvek šalju odmah.",
+    "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Učestalost obaveštavanja o odgovoru",
+    "REPLY_NOTIFICATION_FREQUENCY_HELP": "Koliko često primate obaveštenja e-poštom za odgovore na vaše komentare. @mention obaveštenja se uvek šalju odmah.",
+    "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Učestalost obaveštavanja administratora",
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Koliko često dobijate obaveštenja e-pošte o novim komentarima na vašem sajtu."
 }

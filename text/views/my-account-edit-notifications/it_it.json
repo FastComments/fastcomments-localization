@@ -35,5 +35,9 @@
     "FREQUENCY_HOURLY": "Riepilogo orario",
     "FREQUENCY_DAILY": "Riepilogo giornaliero",
     "NOTIFICATION_FREQUENCY_LABEL": "Frequenza di notifica dei nuovi commenti",
-    "NOTIFICATION_FREQUENCY_HELP": "Con quale frequenza ricevi notifiche via email per nuovi commenti e risposte ai tuoi commenti. Le notifiche @menzioni vengono sempre inviate immediatamente."
+    "NOTIFICATION_FREQUENCY_HELP": "Con quale frequenza ricevi notifiche via email per nuovi commenti e risposte ai tuoi commenti. Le notifiche @menzioni vengono sempre inviate immediatamente.",
+    "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Frequenza di notifica delle risposte",
+    "REPLY_NOTIFICATION_FREQUENCY_HELP": "Con quale frequenza ricevi le notifiche via email per le risposte ai tuoi commenti. Le notifiche @menzione vengono sempre inviate immediatamente.",
+    "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Frequenza di notifica dell'amministratore",
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Con quale frequenza ricevi notifiche via email sui nuovi commenti sul tuo sito."
 }

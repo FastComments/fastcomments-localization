@@ -35,5 +35,9 @@
     "FREQUENCY_HOURLY": "每小时摘要",
     "FREQUENCY_DAILY": "每日摘要",
     "NOTIFICATION_FREQUENCY_LABEL": "新评论通知频率",
-    "NOTIFICATION_FREQUENCY_HELP": "您多久会收到一次关于新评论和回复的电子邮件通知？@提及通知始终立即发送。"
+    "NOTIFICATION_FREQUENCY_HELP": "您多久会收到一次关于新评论和回复的电子邮件通知？@提及通知始终立即发送。",
+    "REPLY_NOTIFICATION_FREQUENCY_LABEL": "回复通知频率",
+    "REPLY_NOTIFICATION_FREQUENCY_HELP": "您多久会收到一次评论回复的电子邮件通知？@提及通知始终立即发送。",
+    "TENANT_NOTIFICATION_FREQUENCY_LABEL": "管理员通知频率",
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "您多久会收到一次关于网站新评论的电子邮件通知？"
 }

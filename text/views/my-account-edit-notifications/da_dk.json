@@ -35,5 +35,9 @@
     "FREQUENCY_HOURLY": "Timeoversigt",
     "FREQUENCY_DAILY": "Daglig oversigt",
     "NOTIFICATION_FREQUENCY_LABEL": "Ny frekvens for kommentarnotifikationer",
-    "NOTIFICATION_FREQUENCY_HELP": "Hvor ofte du modtager e-mailnotifikationer om nye kommentarer og svar på dine kommentarer. @omtale-notifikationer sendes altid med det samme."
+    "NOTIFICATION_FREQUENCY_HELP": "Hvor ofte du modtager e-mailnotifikationer om nye kommentarer og svar på dine kommentarer. @omtale-notifikationer sendes altid med det samme.",
+    "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Frekvens af svarnotifikationer",
+    "REPLY_NOTIFICATION_FREQUENCY_HELP": "Hvor ofte du modtager e-mailnotifikationer om svar på dine kommentarer. @omtale-notifikationer sendes altid med det samme.",
+    "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Hyppigheden af administratormeddelelser",
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Hvor ofte du modtager e-mailnotifikationer om nye kommentarer på dit websted."
 }

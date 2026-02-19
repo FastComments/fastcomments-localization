@@ -35,5 +35,9 @@
   "FREQUENCY_DAILY": "Daily digest",
   "NOTIFICATION_FREQUENCY_LABEL": "New Comment Notification Frequency",
   "NOTIFICATION_FREQUENCY_HELP": "How often you receive email notifications for new comments and replies to your comments. @mention notifications are always sent right away.",
+  "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Reply Notification Frequency",
+  "REPLY_NOTIFICATION_FREQUENCY_HELP": "How often you receive email notifications for replies to your comments. @mention notifications are always sent right away.",
+  "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Admin Notification Frequency",
+  "TENANT_NOTIFICATION_FREQUENCY_HELP": "How often you receive email notifications about new comments on your site.",
   "SAVE_CHANGES": "Save Changes"
 }

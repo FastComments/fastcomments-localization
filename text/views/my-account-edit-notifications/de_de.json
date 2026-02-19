@@ -35,5 +35,9 @@
     "FREQUENCY_HOURLY": "Stündliche Zusammenfassung",
     "FREQUENCY_DAILY": "Tageszusammenfassung",
     "NOTIFICATION_FREQUENCY_LABEL": "Benachrichtigungshäufigkeit für neue Kommentare",
-    "NOTIFICATION_FREQUENCY_HELP": "Wie häufig Sie E-Mail-Benachrichtigungen für neue Kommentare und Antworten auf Ihre Kommentare erhalten. Benachrichtigungen bei @Erwähnungen werden immer sofort versendet."
+    "NOTIFICATION_FREQUENCY_HELP": "Wie häufig Sie E-Mail-Benachrichtigungen für neue Kommentare und Antworten auf Ihre Kommentare erhalten. Benachrichtigungen bei @Erwähnungen werden immer sofort versendet.",
+    "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Benachrichtigungshäufigkeit",
+    "REPLY_NOTIFICATION_FREQUENCY_HELP": "Wie häufig Sie E-Mail-Benachrichtigungen für Antworten auf Ihre Kommentare erhalten. Benachrichtigungen bei @Erwähnungen werden immer sofort versendet.",
+    "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Benachrichtigungshäufigkeit für Administratoren",
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Wie häufig Sie E-Mail-Benachrichtigungen über neue Kommentare auf Ihrer Website erhalten."
 }

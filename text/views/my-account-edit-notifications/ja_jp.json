@@ -35,5 +35,9 @@
     "FREQUENCY_HOURLY": "1時間ごとのダイジェスト",
     "FREQUENCY_DAILY": "毎日のダイジェスト",
     "NOTIFICATION_FREQUENCY_LABEL": "新しいコメントの通知頻度",
-    "NOTIFICATION_FREQUENCY_HELP": "新しいコメントや自分のコメントへの返信に関するメール通知を受け取る頻度。@メンション通知は常にすぐに送信されます。"
+    "NOTIFICATION_FREQUENCY_HELP": "新しいコメントや自分のコメントへの返信に関するメール通知を受け取る頻度。@メンション通知は常にすぐに送信されます。",
+    "REPLY_NOTIFICATION_FREQUENCY_LABEL": "返信通知頻度",
+    "REPLY_NOTIFICATION_FREQUENCY_HELP": "コメントへの返信に関するメール通知を受信する頻度。@メンション通知は常にすぐに送信されます。",
+    "TENANT_NOTIFICATION_FREQUENCY_LABEL": "管理者通知頻度",
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "サイトへの新しいコメントに関するメール通知を受信する頻度。"
 }

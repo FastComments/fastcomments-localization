@@ -35,5 +35,9 @@
     "FREQUENCY_HOURLY": "시간별 요약",
     "FREQUENCY_DAILY": "오늘의 요약",
     "NOTIFICATION_FREQUENCY_LABEL": "새 댓글 알림 빈도",
-    "NOTIFICATION_FREQUENCY_HELP": "새 댓글 및 내 댓글에 대한 답글 알림을 이메일로 얼마나 자주 받으실지 설정해주세요. @멘션 알림은 항상 즉시 전송됩니다."
+    "NOTIFICATION_FREQUENCY_HELP": "새 댓글 및 내 댓글에 대한 답글 알림을 이메일로 얼마나 자주 받으실지 설정해주세요. @멘션 알림은 항상 즉시 전송됩니다.",
+    "REPLY_NOTIFICATION_FREQUENCY_LABEL": "답글 알림 빈도",
+    "REPLY_NOTIFICATION_FREQUENCY_HELP": "내 댓글에 대한 답글 알림을 이메일로 얼마나 자주 받으시나요? @멘션 알림은 항상 즉시 전송됩니다.",
+    "TENANT_NOTIFICATION_FREQUENCY_LABEL": "관리자 알림 빈도",
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "사이트에 새 댓글이 달렸을 때 이메일 알림을 얼마나 자주 받으시나요?"
 }

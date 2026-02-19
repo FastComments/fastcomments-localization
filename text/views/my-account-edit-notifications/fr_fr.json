@@ -35,5 +35,9 @@
     "FREQUENCY_HOURLY": "Résumé horaire",
     "FREQUENCY_DAILY": "Résumé quotidien",
     "NOTIFICATION_FREQUENCY_LABEL": "Fréquence de notification des nouveaux commentaires",
-    "NOTIFICATION_FREQUENCY_HELP": "Vous recevez des notifications par e-mail à une fréquence variable pour les nouveaux commentaires et les réponses à vos commentaires. Les notifications de mention sont toujours envoyées instantanément."
+    "NOTIFICATION_FREQUENCY_HELP": "Vous recevez des notifications par e-mail à une fréquence variable pour les nouveaux commentaires et les réponses à vos commentaires. Les notifications de mention sont toujours envoyées instantanément.",
+    "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Fréquence de notification de réponse",
+    "REPLY_NOTIFICATION_FREQUENCY_HELP": "Fréquence de réception des notifications par e-mail pour les réponses à vos commentaires. Les notifications de mention sont toujours envoyées instantanément.",
+    "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Fréquence des notifications de l'administrateur",
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "À quelle fréquence recevez-vous des notifications par e-mail concernant les nouveaux commentaires sur votre site ?"
 }

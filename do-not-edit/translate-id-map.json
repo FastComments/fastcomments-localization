@@ -176,7 +176,7 @@
         "my-account-edit-details": 32,
         "my-account-edit-details-change-password": 7,
         "my-account-edit-details-change-password-do": 10,
-        "my-account-edit-notifications": 37,
+        "my-account-edit-notifications": 41,
         "my-account-feedback-analytics": 16,
         "my-account-get-code": 22,
         "my-account-help": 22,
@@ -3677,7 +3677,11 @@
         "t34": "FREQUENCY_HOURLY",
         "t35": "FREQUENCY_DAILY",
         "t36": "NOTIFICATION_FREQUENCY_LABEL",
-        "t37": "NOTIFICATION_FREQUENCY_HELP"
+        "t37": "NOTIFICATION_FREQUENCY_HELP",
+        "t38": "REPLY_NOTIFICATION_FREQUENCY_LABEL",
+        "t39": "REPLY_NOTIFICATION_FREQUENCY_HELP",
+        "t40": "TENANT_NOTIFICATION_FREQUENCY_LABEL",
+        "t41": "TENANT_NOTIFICATION_FREQUENCY_HELP"
     },
     "my-account-feedback-analytics": {
         "t1": "TITLE",
