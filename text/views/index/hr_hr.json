@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "FastComments - Komentiranje uživo za bilo koju web stranicu ili aplikaciju",
+    "PAGE_TITLE": "FastComments - Sustav za komentiranje uživo za bilo koju web stranicu ili aplikaciju",
     "HERO_TAG": "Brza, aktivna i fleksibilna rješenja za komentiranje",
-    "HERO_TITLE_LIGHT": "Komentiranje uživo za ",
+    "HERO_TITLE_LIGHT": "Sustav za komentiranje uživo za ",
     "HERO_TITLE_BOLD": "Bilo koja web-lokacija ili aplikacija",
     "HERO_DESCRIPTION": "Odaberite sustav komentiranja koji će oduševiti vaše korisnike i programere. Pružit ćemo vam značajke koje su vam važne bez da vas špijuniramo.",
     "BUTTON_GET_STARTED": "Započnite",
@@ -14,7 +14,7 @@
     "SECTION_INTEGRATES_TITLE_BOLD": "Vaša platforma",
     "SECTION_KEY_FEATURES_TITLE_LIGHT": "Ključ ",
     "SECTION_KEY_FEATURES_TITLE_BOLD": "Značajke",
-    "SECTION_KEY_FEATURES_SUBTITLE": "Otkrijte izvanredne značajke koje naš proizvod čine jedinstvenim: neusporedive performanse, dizajn jednostavan za korištenje, robusnu sigurnost i besprijekornu integraciju prilagođenu vašim potrebama.",
+    "SECTION_KEY_FEATURES_SUBTITLE": "Potpuni sustav za komentiranje s razgovorima uživo, SSO-om, zaštitom od neželjene pošte i dubinskom prilagodbom. Pomoću SDK-ova za prednji i pozadinski dio integrirajte komentiranje i chat u bilo koju web-lokaciju ili aplikaciju.",
     "FEATURE_LIVE_CONVERSATIONS": "Razgovori uživo",
     "FEATURE_LIVE_CONVERSATIONS_DESC": "Vaša zajednica razgovara u stvarnom vremenu na vašoj web stranici ili aplikaciji.",
     "FEATURE_SCALABLE": "Skalabilno",
@@ -97,5 +97,6 @@
     "SCALE_DATA_ENCRYPTION": "Šifriranje podataka",
     "SCALE_DATA_ENCRYPTION_DESC": "Vaši se podaci pohranjuju šifrirani u stanju mirovanja s potpunom enkripcijom diska.",
     "SCALE_LIVE_BACKUPS": "Sigurnosne kopije uživo između regija",
-    "SCALE_LIVE_BACKUPS_DESC": "FastComments se sigurnosno kopira uživo u više regija i kod pružatelja hostinga 24/7."
+    "SCALE_LIVE_BACKUPS_DESC": "FastComments se sigurnosno kopira uživo u više regija i kod pružatelja hostinga 24/7.",
+    "HEAD_META_DESCRIPTION": "FastComments je sustav za komentiranje uživo i alternativa Disqusu za statičke stranice, WordPress i bilo koju web aplikaciju. Frontend i backend SDK-ovi za ugradnju značajki komentiranja i chata u vaše postojeće aplikacije."
 }

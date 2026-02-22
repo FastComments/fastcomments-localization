@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "FastComments - Komentiranje v živo za katero koli spletno mesto ali aplikacijo",
+    "PAGE_TITLE": "FastComments - sistem za komentiranje v živo za katero koli spletno mesto ali aplikacijo",
     "HERO_TAG": "Hitre, žive in prilagodljive rešitve za komentiranje",
-    "HERO_TITLE_LIGHT": "Komentiranje v živo za ",
+    "HERO_TITLE_LIGHT": "Sistem za komentiranje v živo za ",
     "HERO_TITLE_BOLD": "Vsako spletno mesto ali aplikacija",
     "HERO_DESCRIPTION": "Izberite sistem komentiranja, ki bo navdušil vaše uporabnike in razvijalce. Zagotovili vam bomo funkcije, ki so vam pomembne, ne da bi vas pri tem vohunili.",
     "BUTTON_GET_STARTED": "Začnite",
@@ -14,7 +14,7 @@
     "SECTION_INTEGRATES_TITLE_BOLD": "Vaša platforma",
     "SECTION_KEY_FEATURES_TITLE_LIGHT": "Ključ ",
     "SECTION_KEY_FEATURES_TITLE_BOLD": "Značilnosti",
-    "SECTION_KEY_FEATURES_SUBTITLE": "Odkrijte izjemne lastnosti, zaradi katerih je naš izdelek edinstven: neprimerljiva zmogljivost, uporabniku prijazna zasnova, robustna varnost in brezhibna integracija, prilagojena vašim potrebam.",
+    "SECTION_KEY_FEATURES_SUBTITLE": "Celovit sistem za komentiranje z možnostjo pogovorov v živo, enotne prijave (SSO), zaščite pred neželeno pošto in poglobljene prilagoditve. Z vmesnikom za razvoj programske opreme (SDK) integrirajte komentiranje in klepet v katero koli spletno mesto ali aplikacijo.",
     "FEATURE_LIVE_CONVERSATIONS": "Pogovori v živo",
     "FEATURE_LIVE_CONVERSATIONS_DESC": "Vaša skupnost klepeta v realnem času na vašem spletnem mestu ali v aplikaciji.",
     "FEATURE_SCALABLE": "Prilagodljivo",
@@ -97,5 +97,6 @@
     "SCALE_DATA_ENCRYPTION": "Šifriranje podatkov",
     "SCALE_DATA_ENCRYPTION_DESC": "Vaši podatki so v mirovanju shranjeni šifrirano s popolnim šifriranjem diska.",
     "SCALE_LIVE_BACKUPS": "Varnostne kopije v živo med regijami",
-    "SCALE_LIVE_BACKUPS_DESC": "FastComments se varnostno kopira v živo v več regijah in pri ponudnikih gostovanja 24 ur na dan, 7 dni v tednu."
+    "SCALE_LIVE_BACKUPS_DESC": "FastComments se varnostno kopira v živo v več regijah in pri ponudnikih gostovanja 24 ur na dan, 7 dni v tednu.",
+    "HEAD_META_DESCRIPTION": "FastComments je sistem za komentiranje v živo in alternativa Disqusu za statična spletna mesta, WordPress in katero koli spletno aplikacijo. SDK-ji za sprednji in zaledni del za vgradnjo funkcij komentiranja in klepeta v vaše obstoječe aplikacije."
 }

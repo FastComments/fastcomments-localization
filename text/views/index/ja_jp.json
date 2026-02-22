@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "FastComments - あらゆるウェブサイトやアプリケーションにライブコメント機能を提供",
+    "PAGE_TITLE": "FastComments - あらゆるウェブサイトやアプリケーションのためのライブコメントシステム",
     "HERO_TAG": "高速、ライブ、柔軟なコメントソリューション",
-    "HERO_TITLE_LIGHT": "ライブコメント ",
+    "HERO_TITLE_LIGHT": "ライブコメントシステム ",
     "HERO_TITLE_BOLD": "あらゆるサイトまたはアプリケーション",
     "HERO_DESCRIPTION": "ユーザーと開発者にご満足いただけるコメントシステムをお選びください。私たちは、お客様を監視せずに、お客様が必要とする機能を提供します。",
     "BUTTON_GET_STARTED": "始める",
@@ -14,7 +14,7 @@
     "SECTION_INTEGRATES_TITLE_BOLD": "あなたのプラットフォーム",
     "SECTION_KEY_FEATURES_TITLE_LIGHT": "鍵  ",
     "SECTION_KEY_FEATURES_TITLE_BOLD": "特徴",
-    "SECTION_KEY_FEATURES_SUBTITLE": "当社製品の独自性を高める優れた機能、比類のないパフォーマンス、ユーザーフレンドリーなデザイン、強力なセキュリティ、お客様のニーズに合わせたシームレスな統合をご覧ください。",
+    "SECTION_KEY_FEATURES_SUBTITLE": "ライブ会話、SSO、スパム対策、そして高度なカスタマイズ機能を備えた、包括的なコメントシステムです。フロントエンドおよびバックエンドSDKを活用すれば、あらゆるサイトやアプリケーションにコメント機能とチャット機能を統合できます。",
     "FEATURE_LIVE_CONVERSATIONS": "ライブ会話",
     "FEATURE_LIVE_CONVERSATIONS_DESC": "コミュニティは、Web サイトまたはアプリケーション上でリアルタイムにチャットします。",
     "FEATURE_SCALABLE": "スケーラブル",
@@ -97,5 +97,6 @@
     "SCALE_DATA_ENCRYPTION": "データ暗号化",
     "SCALE_DATA_ENCRYPTION_DESC": "データはフルディスク暗号化により暗号化されて保存されます。",
     "SCALE_LIVE_BACKUPS": "ライブクロスリージョンバックアップ",
-    "SCALE_LIVE_BACKUPS_DESC": "FastComments は、複数の地域とホスティング プロバイダーにわたって 24 時間 365 日ライブ バックアップされます。"
+    "SCALE_LIVE_BACKUPS_DESC": "FastComments は、複数の地域とホスティング プロバイダーにわたって 24 時間 365 日ライブ バックアップされます。",
+    "HEAD_META_DESCRIPTION": "FastCommentsは、静的サイト、WordPress、その他あらゆるウェブアプリケーションに対応したライブコメントシステムであり、Disqusの代替となります。既存のアプリケーションにコメント機能やチャット機能を組み込むためのフロントエンドおよびバックエンドSDKもご用意しています。"
 }

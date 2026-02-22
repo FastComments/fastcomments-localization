@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "FastComments – komentowanie na żywo dla dowolnej witryny lub aplikacji",
+    "PAGE_TITLE": "FastComments – system komentowania na żywo dla dowolnej witryny lub aplikacji",
     "HERO_TAG": "Szybkie, aktywne i elastyczne rozwiązania do komentowania",
-    "HERO_TITLE_LIGHT": "Komentowanie na żywo dla ",
+    "HERO_TITLE_LIGHT": "System komentowania na żywo dla ",
     "HERO_TITLE_BOLD": "Dowolna witryna lub aplikacja",
     "HERO_DESCRIPTION": "Wybierz system komentarzy, który zachwyci Twoich użytkowników i programistów. Zapewnimy funkcje, na których Ci zależy, bez śledzenia Cię.",
     "BUTTON_GET_STARTED": "Rozpocznij",
@@ -14,7 +14,7 @@
     "SECTION_INTEGRATES_TITLE_BOLD": "Twoja platforma",
     "SECTION_KEY_FEATURES_TITLE_LIGHT": "Klucz ",
     "SECTION_KEY_FEATURES_TITLE_BOLD": "Cechy",
-    "SECTION_KEY_FEATURES_SUBTITLE": "Odkryj wyróżniające się cechy, które czynią nasz produkt wyjątkowym: niezrównana wydajność, przyjazna użytkownikowi konstrukcja, solidne zabezpieczenia i bezproblemowa integracja dostosowana do Twoich potrzeb.",
+    "SECTION_KEY_FEATURES_SUBTITLE": "Kompletny system komentarzy z rozmowami na żywo, logowaniem jednokrotnym (SSO), ochroną przed spamem i głęboką personalizacją. Dzięki zestawom SDK front-end i back-end zintegruj komentarze i czat z dowolną stroną lub aplikacją.",
     "FEATURE_LIVE_CONVERSATIONS": "Rozmowy na żywo",
     "FEATURE_LIVE_CONVERSATIONS_DESC": "Twoja społeczność prowadzi rozmowy na czacie w czasie rzeczywistym na Twojej stronie internetowej lub w aplikacji.",
     "FEATURE_SCALABLE": "Skalowalny",
@@ -97,5 +97,6 @@
     "SCALE_DATA_ENCRYPTION": "Szyfrowanie danych",
     "SCALE_DATA_ENCRYPTION_DESC": "Twoje dane są przechowywane w postaci zaszyfrowanej, a dysk jest w pełni szyfrowany.",
     "SCALE_LIVE_BACKUPS": "Kopie zapasowe na żywo między regionami",
-    "SCALE_LIVE_BACKUPS_DESC": "FastComments jest kopiowany na żywo w wielu regionach i przez wielu dostawców hostingu 24 godziny na dobę, 7 dni w tygodniu."
+    "SCALE_LIVE_BACKUPS_DESC": "FastComments jest kopiowany na żywo w wielu regionach i przez wielu dostawców hostingu 24 godziny na dobę, 7 dni w tygodniu.",
+    "HEAD_META_DESCRIPTION": "FastComments to system komentowania na żywo i alternatywa dla Disqus dla stron statycznych, WordPressa i dowolnych aplikacji internetowych. Zestawy SDK front-end i back-end do wbudowania funkcji komentowania i czatu w istniejące aplikacje."
 }

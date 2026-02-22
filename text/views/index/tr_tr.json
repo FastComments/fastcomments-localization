@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "FastComments - Herhangi Bir Web Sitesi veya Uygulama İçin Canlı Yorum Yapma Özelliği",
+    "PAGE_TITLE": "FastComments - Herhangi Bir Web Sitesi veya Uygulama İçin Canlı Yorum Sistemi",
     "HERO_TAG": "Hızlı, Canlı, Esnek Yorum Çözümleri",
-    "HERO_TITLE_LIGHT": "Canlı Yorum Yapmak İçin ",
+    "HERO_TITLE_LIGHT": "Canlı Yorum Sistemi ",
     "HERO_TITLE_BOLD": "Herhangi bir Site veya Uygulama",
     "HERO_DESCRIPTION": "Kullanıcılarınızı ve geliştiricilerinizi memnun edecek bir yorum sistemi seçin. Sizi gözetlemeden, önemsediğiniz özellikleri sağlayacağız.",
     "BUTTON_GET_STARTED": "Başlayın",
@@ -14,7 +14,7 @@
     "SECTION_INTEGRATES_TITLE_BOLD": "Platformunuz",
     "SECTION_KEY_FEATURES_TITLE_LIGHT": "Anahtar  ",
     "SECTION_KEY_FEATURES_TITLE_BOLD": "Özellikler",
-    "SECTION_KEY_FEATURES_SUBTITLE": "Ürünümüzü benzersiz kılan öne çıkan özellikleri keşfedin: emsalsiz performans, kullanıcı dostu tasarım, sağlam güvenlik ve ihtiyaçlarınıza göre uyarlanmış kusursuz entegrasyon.",
+    "SECTION_KEY_FEATURES_SUBTITLE": "Canlı sohbetler, SSO, spam koruması ve kapsamlı özelleştirme özelliklerine sahip eksiksiz bir yorum sistemi. Ön uç ve arka uç SDK'ları ile yorum ve sohbet özelliklerini herhangi bir siteye veya uygulamaya entegre edin.",
     "FEATURE_LIVE_CONVERSATIONS": "Canlı Sohbetler",
     "FEATURE_LIVE_CONVERSATIONS_DESC": "Topluluğunuz, web sitenizde veya uygulamanızda gerçek zamanlı olarak sohbet eder.",
     "FEATURE_SCALABLE": "Ölçeklenebilir",
@@ -97,5 +97,6 @@
     "SCALE_DATA_ENCRYPTION": "Veri Şifreleme",
     "SCALE_DATA_ENCRYPTION_DESC": "Verileriniz, tam disk şifrelemesi ile şifrelenmiş olarak saklanır.",
     "SCALE_LIVE_BACKUPS": "Canlı Bölgeler Arası Yedeklemeler",
-    "SCALE_LIVE_BACKUPS_DESC": "FastComments, birden fazla bölge ve barındırma sağlayıcısı genelinde 7/24 canlı olarak yedeklenmektedir."
+    "SCALE_LIVE_BACKUPS_DESC": "FastComments, birden fazla bölge ve barındırma sağlayıcısı genelinde 7/24 canlı olarak yedeklenmektedir.",
+    "HEAD_META_DESCRIPTION": "FastComments, statik siteler, WordPress ve herhangi bir web uygulaması için canlı yorum sistemi ve Disqus alternatifi sunar. Mevcut uygulamalarınıza yorum ve sohbet özellikleri eklemek için ön uç ve arka uç SDK'ları içerir."
 }
