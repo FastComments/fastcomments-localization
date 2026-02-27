@@ -1,0 +1,20 @@
+{
+    "TITLE": "E-mail back-up maken - FastComments",
+    "HEADING": "Reserve-e-mail",
+    "DESCRIPTION": "Als u geen toegang meer heeft tot uw primaire e-mailaccount, kunt u uw back-up-e-mailadres gebruiken om uw account te herstellen.",
+    "BACKUP_EMAIL_LABEL": "Reserve-e-mailadres:",
+    "CURRENT_BACKUP_EMAIL": "Huidig back-up e-mailadres:",
+    "SAVE": "Redden",
+    "BACKUP_EMAIL_PENDING_VERIFICATION": "Dit back-up e-mailadres moet nog worden geverifieerd.",
+    "RESEND_VERIFICATION": "Verificatiemail opnieuw verzenden.",
+    "REMOVE_BACKUP_EMAIL": "Verwijder back-up e-mail",
+    "BACKUP_EMAIL_VERIFIED_SUCCESS": "Gelukt! Uw back-up e-mailadres is geverifieerd.",
+    "BACKUP_EMAIL_REMOVED_SUCCESS": "Het back-up-e-mailadres is verwijderd.",
+    "VERIFICATION_EMAIL_SENT": "Verificatiemail verzonden! Controleer uw inbox op <%- user.pendingBackupEmail %> voor een link om het proces te voltooien.",
+    "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "Het e-mailadres van uw back-up mag niet hetzelfde zijn als uw primaire e-mailadres.",
+    "ERROR_BACKUP_EMAIL_TAKEN": "Dat e-mailadres is al in gebruik.",
+    "ERROR_BACKUP_EMAIL_INVALID": "Het e-mailadres [email] is niet geldig.",
+    "ERROR_RATE_LIMITED_MINUTE": "U heeft onze limieten voor het aantal aanvragen overschreden. Probeer het over een paar minuten opnieuw of neem contact op met de klantenservice.",
+    "ERROR_RATE_LIMITED_DAY": "Je hebt onze dagelijkse limieten overschreden. Probeer het over 24 uur opnieuw of neem contact op met de klantenservice.",
+    "BACK_TO_DETAILS": "Terug naar accountgegevens"
+}

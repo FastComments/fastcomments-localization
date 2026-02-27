@@ -1,0 +1,20 @@
+{
+    "TITLE": "גיבוי דוא\"ל - FastComments",
+    "HEADING": "דוא\"ל גיבוי",
+    "DESCRIPTION": "אם תאבד גישה לכתובת האימייל הראשית שלך, ניתן להשתמש בכתובת האימייל הגיבוי שלך כדי לשחזר את חשבונך.",
+    "BACKUP_EMAIL_LABEL": "דוא\"ל גיבוי:",
+    "CURRENT_BACKUP_EMAIL": "כתובת דוא\"ל גיבוי נוכחית:",
+    "SAVE": "לְהַצִיל",
+    "BACKUP_EMAIL_PENDING_VERIFICATION": "כתובת דוא\"ל גיבוי זו ממתינה לאימות.",
+    "RESEND_VERIFICATION": "שלח שוב את אימייל האימות.",
+    "REMOVE_BACKUP_EMAIL": "הסר את כתובת הדוא\"ל לגיבוי",
+    "BACKUP_EMAIL_VERIFIED_SUCCESS": "הצלחה! כתובת הדוא\"ל לגיבוי שלך אומתה.",
+    "BACKUP_EMAIL_REMOVED_SUCCESS": "כתובת הדוא\"ל לגיבוי הוסרה.",
+    "VERIFICATION_EMAIL_SENT": "נשלחה הודעת אימייל לאימות! בדוק את תיבת הדואר הנכנס שלך בכתובת <%- user.pendingBackupEmail %> לקבלת קישור להשלמת התהליך.",
+    "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "כתובת הדוא\"ל לגיבוי לא יכולה להיות זהה לכתובת הדוא\"ל הראשית שלך.",
+    "ERROR_BACKUP_EMAIL_TAKEN": "האימייל הזה כבר בשימוש.",
+    "ERROR_BACKUP_EMAIL_INVALID": "כתובת הדוא\"ל [email] אינה תקפה.",
+    "ERROR_RATE_LIMITED_MINUTE": "חרגת ממגבלות התעריפים שלנו. אנא נסה שוב בעוד מספר דקות או צור קשר עם התמיכה.",
+    "ERROR_RATE_LIMITED_DAY": "חרגת ממגבלות התעריף היומיות שלנו. אנא נסה שוב בעוד 24 שעות או צור קשר עם התמיכה.",
+    "BACK_TO_DETAILS": "חזרה לפרטי החשבון"
+}

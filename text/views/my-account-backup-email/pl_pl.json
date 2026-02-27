@@ -1,0 +1,20 @@
+{
+    "TITLE": "Zapasowa poczta e-mail – FastComments",
+    "HEADING": "Zapasowy adres e-mail",
+    "DESCRIPTION": "Jeśli utracisz dostęp do swojego głównego adresu e-mail, w celu odzyskania konta możesz skorzystać z adresu zapasowego.",
+    "BACKUP_EMAIL_LABEL": "Zapasowy adres e-mail:",
+    "CURRENT_BACKUP_EMAIL": "Aktualny adres e-mail zapasowy:",
+    "SAVE": "Ratować",
+    "BACKUP_EMAIL_PENDING_VERIFICATION": "Ta kopia zapasowa e-maila oczekuje na weryfikację.",
+    "RESEND_VERIFICATION": "Wyślij ponownie e-mail weryfikacyjny.",
+    "REMOVE_BACKUP_EMAIL": "Usuń kopię zapasową wiadomości e-mail",
+    "BACKUP_EMAIL_VERIFIED_SUCCESS": "Udało się! Twój adres e-mail zapasowy został zweryfikowany.",
+    "BACKUP_EMAIL_REMOVED_SUCCESS": "Adres e-mail zapasowy został usunięty.",
+    "VERIFICATION_EMAIL_SENT": "E-mail weryfikacyjny został wysłany! Sprawdź swoją skrzynkę odbiorczą pod adresem <%- user.pendingBackupEmail %>, aby uzyskać link do dokończenia procesu.",
+    "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "Adres e-mail zapasowy nie może być taki sam jak adres główny.",
+    "ERROR_BACKUP_EMAIL_TAKEN": "Ten adres e-mail jest już używany.",
+    "ERROR_BACKUP_EMAIL_INVALID": "Adres e-mail [email] jest nieprawidłowy.",
+    "ERROR_RATE_LIMITED_MINUTE": "Przekroczyłeś limity prędkości. Spróbuj ponownie za kilka minut lub skontaktuj się z pomocą techniczną.",
+    "ERROR_RATE_LIMITED_DAY": "Przekroczyłeś nasze dzienne limity stawek. Spróbuj ponownie za 24 godziny lub skontaktuj się z pomocą techniczną.",
+    "BACK_TO_DETAILS": "Powrót do szczegółów konta"
+}

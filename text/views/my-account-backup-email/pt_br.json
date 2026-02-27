@@ -1,0 +1,20 @@
+{
+    "TITLE": "E-mail de backup - FastComments",
+    "HEADING": "E-mail de backup",
+    "DESCRIPTION": "Caso perca o acesso ao seu e-mail principal, você poderá usar seu e-mail de backup para recuperar sua conta.",
+    "BACKUP_EMAIL_LABEL": "E-mail de backup:",
+    "CURRENT_BACKUP_EMAIL": "E-mail de backup atual:",
+    "SAVE": "Salvar",
+    "BACKUP_EMAIL_PENDING_VERIFICATION": "Este e-mail de backup está pendente de verificação.",
+    "RESEND_VERIFICATION": "Reenviar e-mail de verificação.",
+    "REMOVE_BACKUP_EMAIL": "Remover e-mail de backup",
+    "BACKUP_EMAIL_VERIFIED_SUCCESS": "Sucesso! Seu e-mail de backup foi verificado.",
+    "BACKUP_EMAIL_REMOVED_SUCCESS": "O e-mail de backup foi removido.",
+    "VERIFICATION_EMAIL_SENT": "E-mail de verificação enviado! Confira sua caixa de entrada em <%- user.pendingBackupEmail %> para obter um link para concluir o processo.",
+    "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "O endereço de e-mail de backup não pode ser o mesmo que o seu endereço de e-mail principal.",
+    "ERROR_BACKUP_EMAIL_TAKEN": "Esse endereço de e-mail já está em uso.",
+    "ERROR_BACKUP_EMAIL_INVALID": "O endereço de e-mail [email] não é válido.",
+    "ERROR_RATE_LIMITED_MINUTE": "Você excedeu nossos limites de taxa. Tente novamente em alguns minutos ou entre em contato com o suporte.",
+    "ERROR_RATE_LIMITED_DAY": "Você excedeu nossos limites diários de uso. Tente novamente em 24 horas ou entre em contato com o suporte.",
+    "BACK_TO_DETAILS": "Voltar aos detalhes da conta"
+}

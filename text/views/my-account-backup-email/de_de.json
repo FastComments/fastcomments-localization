@@ -1,0 +1,20 @@
+{
+    "TITLE": "Backup-E-Mail – FastComments",
+    "HEADING": "Backup-E-Mail",
+    "DESCRIPTION": "Sollten Sie den Zugriff auf Ihre primäre E-Mail-Adresse verlieren, können Sie Ihr Konto mithilfe Ihrer Backup-E-Mail-Adresse wiederherstellen.",
+    "BACKUP_EMAIL_LABEL": "Backup-E-Mail:",
+    "CURRENT_BACKUP_EMAIL": "Aktuelle Backup-E-Mail-Adresse:",
+    "SAVE": "Speichern",
+    "BACKUP_EMAIL_PENDING_VERIFICATION": "Diese Backup-E-Mail muss noch verifiziert werden.",
+    "RESEND_VERIFICATION": "Bestätigungs-E-Mail erneut senden.",
+    "REMOVE_BACKUP_EMAIL": "Backup-E-Mail entfernen",
+    "BACKUP_EMAIL_VERIFIED_SUCCESS": "Erfolg! Ihre Backup-E-Mail-Adresse wurde bestätigt.",
+    "BACKUP_EMAIL_REMOVED_SUCCESS": "Die Backup-E-Mail wurde entfernt.",
+    "VERIFICATION_EMAIL_SENT": "Die Bestätigungs-E-Mail wurde versendet! Überprüfen Sie Ihren Posteingang unter <%- user.pendingBackupEmail %>, um einen Link zur Vervollständigung des Vorgangs zu erhalten.",
+    "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "Die Backup-E-Mail-Adresse darf nicht mit Ihrer primären E-Mail-Adresse identisch sein.",
+    "ERROR_BACKUP_EMAIL_TAKEN": "Diese E-Mail-Adresse ist bereits in Gebrauch.",
+    "ERROR_BACKUP_EMAIL_INVALID": "Die E-Mail-Adresse [email] ist ungültig.",
+    "ERROR_RATE_LIMITED_MINUTE": "Sie haben unser Zugriffslimit überschritten. Bitte versuchen Sie es in wenigen Minuten erneut oder wenden Sie sich an den Support.",
+    "ERROR_RATE_LIMITED_DAY": "Sie haben unser tägliches Ratenlimit überschritten. Bitte versuchen Sie es in 24 Stunden erneut oder wenden Sie sich an den Support.",
+    "BACK_TO_DETAILS": "Zurück zu den Kontodetails"
+}

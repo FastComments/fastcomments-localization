@@ -1,0 +1,20 @@
+{
+    "TITLE": "Correo electrónico de respaldo - FastComments",
+    "HEADING": "Correo electrónico de respaldo",
+    "DESCRIPTION": "Si pierde el acceso a su correo electrónico principal, puede utilizar su correo electrónico de respaldo para recuperar su cuenta.",
+    "BACKUP_EMAIL_LABEL": "Correo electrónico de respaldo:",
+    "CURRENT_BACKUP_EMAIL": "Correo electrónico de respaldo actual:",
+    "SAVE": "Ahorrar",
+    "BACKUP_EMAIL_PENDING_VERIFICATION": "Este correo electrónico de respaldo está pendiente de verificación.",
+    "RESEND_VERIFICATION": "Reenviar correo electrónico de verificación.",
+    "REMOVE_BACKUP_EMAIL": "Eliminar el correo electrónico de respaldo",
+    "BACKUP_EMAIL_VERIFIED_SUCCESS": "¡Éxito! Tu correo electrónico de respaldo ha sido verificado.",
+    "BACKUP_EMAIL_REMOVED_SUCCESS": "Se ha eliminado el correo electrónico de respaldo.",
+    "VERIFICATION_EMAIL_SENT": "¡Correo de verificación enviado! Revisa tu bandeja de entrada en <%- user.pendingBackupEmail %> para obtener un enlace para completar el proceso.",
+    "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "El correo electrónico de respaldo no puede ser el mismo que su correo electrónico principal.",
+    "ERROR_BACKUP_EMAIL_TAKEN": "Ese correo electrónico ya está en uso.",
+    "ERROR_BACKUP_EMAIL_INVALID": "La dirección de correo electrónico [email] no es válida.",
+    "ERROR_RATE_LIMITED_MINUTE": "Has superado nuestros límites de velocidad. Inténtalo de nuevo en unos minutos o contacta con el servicio de asistencia.",
+    "ERROR_RATE_LIMITED_DAY": "Has superado nuestros límites de tarifa diaria. Vuelve a intentarlo en 24 horas o contacta con el servicio de asistencia.",
+    "BACK_TO_DETAILS": "Volver a los detalles de la cuenta"
+}

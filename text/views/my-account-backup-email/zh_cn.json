@@ -1,0 +1,20 @@
+{
+    "TITLE": "备份电子邮件 - FastComments",
+    "HEADING": "备份邮件",
+    "DESCRIPTION": "如果您无法访问您的主要电子邮件帐户，则可以使用您的备用电子邮件来恢复您的帐户。",
+    "BACKUP_EMAIL_LABEL": "备用邮箱：",
+    "CURRENT_BACKUP_EMAIL": "当前备用邮箱：",
+    "SAVE": "节省",
+    "BACKUP_EMAIL_PENDING_VERIFICATION": "此备份邮件尚待验证。",
+    "RESEND_VERIFICATION": "重新发送验证邮件。",
+    "REMOVE_BACKUP_EMAIL": "删除备份邮件",
+    "BACKUP_EMAIL_VERIFIED_SUCCESS": "成功！您的备用邮箱已通过验证。",
+    "BACKUP_EMAIL_REMOVED_SUCCESS": "备份邮箱已被删除。",
+    "VERIFICATION_EMAIL_SENT": "验证邮件已发送！请查看您的邮箱<%- user.pendingBackupEmail %>，获取完成验证流程的链接。",
+    "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "备用邮箱不能与您的主邮箱相同。",
+    "ERROR_BACKUP_EMAIL_TAKEN": "该邮箱地址已被占用。",
+    "ERROR_BACKUP_EMAIL_INVALID": "电子邮件地址[email]无效。",
+    "ERROR_RATE_LIMITED_MINUTE": "您已超出访问速率限制。请稍后再试，或联系客服。",
+    "ERROR_RATE_LIMITED_DAY": "您已超出每日访问量限制。请24小时后再试，或联系客服。",
+    "BACK_TO_DETAILS": "返回账户详情"
+}

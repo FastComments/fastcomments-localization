@@ -1,0 +1,20 @@
+{
+  "TITLE": "Backup Email - FastComments",
+  "HEADING": "Backup Email",
+  "DESCRIPTION": "If you lose access to your primary email, your backup email can be used to recover your account.",
+  "BACKUP_EMAIL_LABEL": "Backup Email:",
+  "CURRENT_BACKUP_EMAIL": "Current backup email:",
+  "SAVE": "Save",
+  "BACKUP_EMAIL_PENDING_VERIFICATION": "This backup email is pending verification.",
+  "RESEND_VERIFICATION": "Re-send verification email.",
+  "REMOVE_BACKUP_EMAIL": "Remove backup email",
+  "BACKUP_EMAIL_VERIFIED_SUCCESS": "Success! Your backup email has been verified.",
+  "BACKUP_EMAIL_REMOVED_SUCCESS": "Backup email has been removed.",
+  "VERIFICATION_EMAIL_SENT": "Verification email sent! Check your inbox at <%- user.pendingBackupEmail %> for a link to complete the process.",
+  "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "Backup email cannot be the same as your primary email.",
+  "ERROR_BACKUP_EMAIL_TAKEN": "That email is already in use.",
+  "ERROR_BACKUP_EMAIL_INVALID": "The email address [email] is not valid.",
+  "ERROR_RATE_LIMITED_MINUTE": "You have exceeded our rate limits. Please try again in a few minutes or reach out to support.",
+  "ERROR_RATE_LIMITED_DAY": "You have exceeded our daily rate limits. Please try again in 24 hours or reach out to support.",
+  "BACK_TO_DETAILS": "Back to Account Details"
+}

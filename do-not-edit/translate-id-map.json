@@ -173,7 +173,7 @@
         "my-account-digest-email-expired": 5,
         "my-account-digest-email-unsubscribed-success": 4,
         "my-account-edit-avatar": 6,
-        "my-account-edit-details": 32,
+        "my-account-edit-details": 33,
         "my-account-edit-details-change-password": 7,
         "my-account-edit-details-change-password-do": 10,
         "my-account-edit-notifications": 41,
@@ -345,7 +345,8 @@
         "my-account-site-collection-item-delete": 8,
         "how-to-add-comments-to-a-website": 80,
         "trust-factor-dialog-component": 9,
-        "new-ip-login": 11
+        "new-ip-login": 11,
+        "my-account-backup-email": 18
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -3626,7 +3627,8 @@
         "t29": "ERROR_RATE_LIMITED_DAY",
         "t30": "LOCALE_LABEL",
         "t31": "SELECT_LOCALE",
-        "t32": "LOCALE_HELP"
+        "t32": "LOCALE_HELP",
+        "t33": "DEFINE_BACKUP_EMAIL"
     },
     "my-account-edit-details-change-password": {
         "t1": "TITLE",
@@ -7159,5 +7161,25 @@
         "t9": "INFO_2",
         "t10": "CHANGE_PASSWORD_LINK_TEXT",
         "t11": "IP_PRIVACY_NOTE"
+    },
+    "my-account-backup-email": {
+        "t1": "TITLE",
+        "t2": "HEADING",
+        "t3": "DESCRIPTION",
+        "t4": "BACKUP_EMAIL_LABEL",
+        "t5": "CURRENT_BACKUP_EMAIL",
+        "t6": "SAVE",
+        "t7": "BACKUP_EMAIL_PENDING_VERIFICATION",
+        "t8": "RESEND_VERIFICATION",
+        "t9": "REMOVE_BACKUP_EMAIL",
+        "t10": "BACKUP_EMAIL_VERIFIED_SUCCESS",
+        "t11": "BACKUP_EMAIL_REMOVED_SUCCESS",
+        "t12": "VERIFICATION_EMAIL_SENT",
+        "t13": "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY",
+        "t14": "ERROR_BACKUP_EMAIL_TAKEN",
+        "t15": "ERROR_BACKUP_EMAIL_INVALID",
+        "t16": "ERROR_RATE_LIMITED_MINUTE",
+        "t17": "ERROR_RATE_LIMITED_DAY",
+        "t18": "BACK_TO_DETAILS"
     }
 }

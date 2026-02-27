@@ -1,0 +1,20 @@
+{
+    "TITLE": "Rezervna kopija e-pošte - FastComments",
+    "HEADING": "Rezervna e-pošta",
+    "DESCRIPTION": "Ako izgubite pristup primarnoj e-pošti, vaša rezervna e-pošta može se koristiti za oporavak naloga.",
+    "BACKUP_EMAIL_LABEL": "Rezervna e-pošta:",
+    "CURRENT_BACKUP_EMAIL": "Trenutna rezervna e-pošta:",
+    "SAVE": "Sačuvaj",
+    "BACKUP_EMAIL_PENDING_VERIFICATION": "Ova rezervna e-pošta čeka verifikaciju.",
+    "RESEND_VERIFICATION": "Ponovo pošaljite verifikacioni e-mail.",
+    "REMOVE_BACKUP_EMAIL": "Uklonite rezervnu e-poštu",
+    "BACKUP_EMAIL_VERIFIED_SUCCESS": "Uspeh! Vaša rezervna e-pošta je potvrđena.",
+    "BACKUP_EMAIL_REMOVED_SUCCESS": "Rezervna e-pošta je uklonjena.",
+    "VERIFICATION_EMAIL_SENT": "Verifikaciona e-pošta poslata! Proverite prijemno sanduče na <%- user.pendingBackupEmail %> za vezu za završetak procesa.",
+    "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "Rezervna e-pošta ne može biti ista kao i vaša primarna e-pošta.",
+    "ERROR_BACKUP_EMAIL_TAKEN": "Taj e-mail je već u upotrebi.",
+    "ERROR_BACKUP_EMAIL_INVALID": "Adresa e-pošte [email] nije važeća.",
+    "ERROR_RATE_LIMITED_MINUTE": "Premašili ste naše granice stope. Pokušajte ponovo za nekoliko minuta ili se obratite podršci.",
+    "ERROR_RATE_LIMITED_DAY": "Premašili ste naše dnevne granice stope. Pokušajte ponovo za 24 sata ili se obratite podršci.",
+    "BACK_TO_DETAILS": "Nazad na detalje računa"
+}

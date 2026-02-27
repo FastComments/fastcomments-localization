@@ -1,0 +1,20 @@
+{
+    "TITLE": "Varnostna kopija e-pošte - FastComments",
+    "HEADING": "Rezervna e-pošta",
+    "DESCRIPTION": "Če izgubite dostop do svojega glavnega e-poštnega naslova, lahko za obnovitev računa uporabite rezervni e-poštni naslov.",
+    "BACKUP_EMAIL_LABEL": "Rezervni e-poštni naslov:",
+    "CURRENT_BACKUP_EMAIL": "Trenutni rezervni e-poštni naslov:",
+    "SAVE": "Shrani",
+    "BACKUP_EMAIL_PENDING_VERIFICATION": "Ta rezervni e-poštni naslov čaka na potrditev.",
+    "RESEND_VERIFICATION": "Ponovno pošlji potrditveno e-pošto.",
+    "REMOVE_BACKUP_EMAIL": "Odstrani rezervni e-poštni naslov",
+    "BACKUP_EMAIL_VERIFIED_SUCCESS": "Uspelo! Vaš rezervni e-poštni naslov je bil potrjen.",
+    "BACKUP_EMAIL_REMOVED_SUCCESS": "Rezervni e-poštni naslov je bil odstranjen.",
+    "VERIFICATION_EMAIL_SENT": "Potrditveno e-poštno sporočilo je bilo poslano! Preverite svoj nabiralnik na <%- user.pendingBackupEmail %> za povezavo za dokončanje postopka.",
+    "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "Rezervni e-poštni naslov ne more biti enak vašemu glavnemu e-poštnemu naslovu.",
+    "ERROR_BACKUP_EMAIL_TAKEN": "Ta e-pošta je že v uporabi.",
+    "ERROR_BACKUP_EMAIL_INVALID": "E-poštni naslov [email] ni veljaven.",
+    "ERROR_RATE_LIMITED_MINUTE": "Presegli ste naše omejitve hitrosti. Poskusite znova čez nekaj minut ali se obrnite na podporo.",
+    "ERROR_RATE_LIMITED_DAY": "Presegli ste naše dnevne omejitve cen. Poskusite znova čez 24 ur ali se obrnite na podporo.",
+    "BACK_TO_DETAILS": "Nazaj na podrobnosti računa"
+}

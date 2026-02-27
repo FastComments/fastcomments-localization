@@ -1,0 +1,20 @@
+{
+    "TITLE": "Yedek E-posta - FastComments",
+    "HEADING": "Yedek E-posta",
+    "DESCRIPTION": "Birincil e-postanıza erişiminizi kaybederseniz, hesabınızı kurtarmak için yedek e-postanızı kullanabilirsiniz.",
+    "BACKUP_EMAIL_LABEL": "Yedek E-posta:",
+    "CURRENT_BACKUP_EMAIL": "Mevcut yedekleme e-postası:",
+    "SAVE": "Kaydetmek",
+    "BACKUP_EMAIL_PENDING_VERIFICATION": "Bu yedek e-posta doğrulama aşamasındadır.",
+    "RESEND_VERIFICATION": "Doğrulama e-postasını yeniden gönderin.",
+    "REMOVE_BACKUP_EMAIL": "Yedek e-postayı kaldır",
+    "BACKUP_EMAIL_VERIFIED_SUCCESS": "Başarılı! Yedek e-posta adresiniz doğrulandı.",
+    "BACKUP_EMAIL_REMOVED_SUCCESS": "Yedek e-posta kaldırıldı.",
+    "VERIFICATION_EMAIL_SENT": "Doğrulama e-postası gönderildi! İşlemi tamamlamak için <%- user.pendingBackupEmail %> adresindeki gelen kutunuzu kontrol edin.",
+    "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "Yedek e-posta adresiniz, birincil e-posta adresinizle aynı olamaz.",
+    "ERROR_BACKUP_EMAIL_TAKEN": "Bu e-posta adresi zaten kullanımda.",
+    "ERROR_BACKUP_EMAIL_INVALID": "[email] e-posta adresi geçerli değil.",
+    "ERROR_RATE_LIMITED_MINUTE": "Kullanım limitlerimizi aştınız. Lütfen birkaç dakika sonra tekrar deneyin veya destek ekibimizle iletişime geçin.",
+    "ERROR_RATE_LIMITED_DAY": "Günlük kullanım limitlerimizi aştınız. Lütfen 24 saat sonra tekrar deneyin veya destek ekibimizle iletişime geçin.",
+    "BACK_TO_DETAILS": "Hesap Bilgilerine Geri Dön"
+}

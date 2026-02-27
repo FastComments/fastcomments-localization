@@ -1,0 +1,20 @@
+{
+    "TITLE": "備份電子郵件 - FastComments",
+    "HEADING": "備份郵件",
+    "DESCRIPTION": "如果您無法存取您的主要電子郵件帳戶，則可以使用您的備用電子郵件來還原您的帳戶。",
+    "BACKUP_EMAIL_LABEL": "備用信箱：",
+    "CURRENT_BACKUP_EMAIL": "目前備用郵箱：",
+    "SAVE": "節省",
+    "BACKUP_EMAIL_PENDING_VERIFICATION": "此備份郵件尚待驗證。",
+    "RESEND_VERIFICATION": "重新發送驗證郵件。",
+    "REMOVE_BACKUP_EMAIL": "刪除備份郵件",
+    "BACKUP_EMAIL_VERIFIED_SUCCESS": "成功！您的備用郵箱已通過驗證。",
+    "BACKUP_EMAIL_REMOVED_SUCCESS": "備份郵箱已刪除。",
+    "VERIFICATION_EMAIL_SENT": "驗證郵件已發送！請查看您的郵箱<%- user.pendingBackupEmail %>，以取得完成驗證流程的連結。",
+    "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "備用郵箱不能與您的主信箱相同。",
+    "ERROR_BACKUP_EMAIL_TAKEN": "該郵箱地址已被佔用。",
+    "ERROR_BACKUP_EMAIL_INVALID": "電子郵件地址[email]無效。",
+    "ERROR_RATE_LIMITED_MINUTE": "您已超出存取速率限制。請稍後再試，或聯絡客服。",
+    "ERROR_RATE_LIMITED_DAY": "您已超出每日訪問量限制。請24小時後再試，或聯絡客服。",
+    "BACK_TO_DETAILS": "返回帳戶詳情"
+}

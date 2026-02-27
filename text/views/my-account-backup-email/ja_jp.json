@@ -1,0 +1,20 @@
+{
+    "TITLE": "バックアップメール - FastComments",
+    "HEADING": "バックアップメール",
+    "DESCRIPTION": "メインのメールにアクセスできなくなった場合は、バックアップメールを使用してアカウントを回復できます。",
+    "BACKUP_EMAIL_LABEL": "バックアップメール:",
+    "CURRENT_BACKUP_EMAIL": "現在のバックアップメール:",
+    "SAVE": "保存",
+    "BACKUP_EMAIL_PENDING_VERIFICATION": "このバックアップ メールは検証待ちです。",
+    "RESEND_VERIFICATION": "確認メールを再送信します。",
+    "REMOVE_BACKUP_EMAIL": "バックアップメールを削除する",
+    "BACKUP_EMAIL_VERIFIED_SUCCESS": "成功しました。バックアップメールが確認されました。",
+    "BACKUP_EMAIL_REMOVED_SUCCESS": "バックアップメールが削除されました。",
+    "VERIFICATION_EMAIL_SENT": "確認メールを送信しました。手続きを完了するためのリンクについては、<%- user.pendingBackupEmail %> の受信トレイを確認してください。",
+    "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "バックアップ メール アドレスはプライマリ メール アドレスと同じにすることはできません。",
+    "ERROR_BACKUP_EMAIL_TAKEN": "そのメールアドレスはすでに使用されています。",
+    "ERROR_BACKUP_EMAIL_INVALID": "メールアドレス [email] は無効です。",
+    "ERROR_RATE_LIMITED_MINUTE": "レート制限を超えました。数分後にもう一度お試しいただくか、サポートまでお問い合わせください。",
+    "ERROR_RATE_LIMITED_DAY": "1日のレート制限を超えました。24時間以内にもう一度お試しいただくか、サポートまでお問い合わせください。",
+    "BACK_TO_DETAILS": "アカウント詳細に戻る"
+}

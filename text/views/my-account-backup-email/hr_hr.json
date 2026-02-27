@@ -1,0 +1,20 @@
+{
+    "TITLE": "Sigurnosna kopija e-pošte - Brzi komentari",
+    "HEADING": "Sigurnosna kopija e-pošte",
+    "DESCRIPTION": "Ako izgubite pristup svojoj primarnoj e-pošti, rezervna e-pošta može se koristiti za oporavak računa.",
+    "BACKUP_EMAIL_LABEL": "Rezervna e-pošta:",
+    "CURRENT_BACKUP_EMAIL": "Trenutna rezervna e-pošta:",
+    "SAVE": "Uštedjeti",
+    "BACKUP_EMAIL_PENDING_VERIFICATION": "Ova rezervna e-pošta čeka potvrdu.",
+    "RESEND_VERIFICATION": "Ponovno pošalji e-poruku za potvrdu.",
+    "REMOVE_BACKUP_EMAIL": "Uklonite rezervnu e-poštu",
+    "BACKUP_EMAIL_VERIFIED_SUCCESS": "Uspjeh! Vaša rezervna e-pošta je potvrđena.",
+    "BACKUP_EMAIL_REMOVED_SUCCESS": "Rezervna e-pošta je uklonjena.",
+    "VERIFICATION_EMAIL_SENT": "E-poruka za potvrdu poslana! Provjerite pristiglu poštu na <%- user.pendingBackupEmail %> za poveznicu za dovršetak postupka.",
+    "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "Rezervna e-pošta ne može biti ista kao vaša primarna e-pošta.",
+    "ERROR_BACKUP_EMAIL_TAKEN": "Ta e-mail adresa je već u upotrebi.",
+    "ERROR_BACKUP_EMAIL_INVALID": "Adresa e-pošte [email] nije valjana.",
+    "ERROR_RATE_LIMITED_MINUTE": "Premašili ste naša ograničenja brzine. Pokušajte ponovno za nekoliko minuta ili se obratite podršci.",
+    "ERROR_RATE_LIMITED_DAY": "Premašili ste naša dnevna ograničenja cijene. Pokušajte ponovno za 24 sata ili se obratite podršci.",
+    "BACK_TO_DETAILS": "Natrag na detalje računa"
+}

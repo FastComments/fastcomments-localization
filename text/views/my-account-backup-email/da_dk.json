@@ -1,0 +1,20 @@
+{
+    "TITLE": "Backup-e-mail - FastComments",
+    "HEADING": "Backup-e-mail",
+    "DESCRIPTION": "Hvis du mister adgangen til din primære e-mail, kan din backup-e-mail bruges til at gendanne din konto.",
+    "BACKUP_EMAIL_LABEL": "Backup-e-mail:",
+    "CURRENT_BACKUP_EMAIL": "Nuværende backup-e-mail:",
+    "SAVE": "Spare",
+    "BACKUP_EMAIL_PENDING_VERIFICATION": "Denne backup-e-mail afventer bekræftelse.",
+    "RESEND_VERIFICATION": "Send bekræftelsesmailen igen.",
+    "REMOVE_BACKUP_EMAIL": "Fjern backup-e-mail",
+    "BACKUP_EMAIL_VERIFIED_SUCCESS": "Succes! Din backup-e-mail er blevet bekræftet.",
+    "BACKUP_EMAIL_REMOVED_SUCCESS": "Backup-e-mailen er blevet fjernet.",
+    "VERIFICATION_EMAIL_SENT": "Bekræftelsesmail sendt! Tjek din indbakke på <%- user.pendingBackupEmail %> for et link til at fuldføre processen.",
+    "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "Backup-e-mailadressen må ikke være den samme som din primære e-mail.",
+    "ERROR_BACKUP_EMAIL_TAKEN": "Den e-mail er allerede i brug.",
+    "ERROR_BACKUP_EMAIL_INVALID": "E-mailadressen [email] er ikke gyldig.",
+    "ERROR_RATE_LIMITED_MINUTE": "Du har overskredet vores takstgrænser. Prøv igen om et par minutter, eller kontakt support.",
+    "ERROR_RATE_LIMITED_DAY": "Du har overskredet vores daglige prisgrænser. Prøv igen om 24 timer, eller kontakt support.",
+    "BACK_TO_DETAILS": "Tilbage til kontooplysninger"
+}

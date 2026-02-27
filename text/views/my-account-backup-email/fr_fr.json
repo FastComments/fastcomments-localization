@@ -1,0 +1,20 @@
+{
+    "TITLE": "Sauvegarde de messagerie - FastComments",
+    "HEADING": "Courriel de sauvegarde",
+    "DESCRIPTION": "Si vous perdez l'accès à votre messagerie principale, votre messagerie de secours peut être utilisée pour récupérer votre compte.",
+    "BACKUP_EMAIL_LABEL": "Courriel de secours :",
+    "CURRENT_BACKUP_EMAIL": "Courriel de sauvegarde actuel :",
+    "SAVE": "Sauvegarder",
+    "BACKUP_EMAIL_PENDING_VERIFICATION": "Cette adresse e-mail de secours est en attente de vérification.",
+    "RESEND_VERIFICATION": "Renvoyer l'e-mail de vérification.",
+    "REMOVE_BACKUP_EMAIL": "Supprimer l'email de sauvegarde",
+    "BACKUP_EMAIL_VERIFIED_SUCCESS": "Succès ! Votre adresse e-mail de secours a été vérifiée.",
+    "BACKUP_EMAIL_REMOVED_SUCCESS": "L'adresse e-mail de secours a été supprimée.",
+    "VERIFICATION_EMAIL_SENT": "Courriel de vérification envoyé ! Consultez votre boîte de réception à l’adresse <%- user.pendingBackupEmail %> pour obtenir un lien vous permettant de finaliser la procédure.",
+    "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "Votre adresse e-mail de secours ne peut pas être la même que votre adresse e-mail principale.",
+    "ERROR_BACKUP_EMAIL_TAKEN": "Cette adresse e-mail est déjà utilisée.",
+    "ERROR_BACKUP_EMAIL_INVALID": "L'adresse e-mail [email] n'est pas valide.",
+    "ERROR_RATE_LIMITED_MINUTE": "Vous avez dépassé notre limite de requêtes. Veuillez réessayer dans quelques minutes ou contacter l'assistance.",
+    "ERROR_RATE_LIMITED_DAY": "Vous avez dépassé notre limite de requêtes quotidiennes. Veuillez réessayer dans 24 heures ou contacter l'assistance.",
+    "BACK_TO_DETAILS": "Retour aux détails du compte"
+}
