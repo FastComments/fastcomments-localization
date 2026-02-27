@@ -149,5 +149,9 @@
     "COMMENT_LIST_ACTION_REMOVED_BADGE_PLURAL": "[count] 배지를 제거했습니다.",
     "COMMENT_LIST_ACTION_ADDING_BADGE_PLURAL": "[count] 배지 추가하기",
     "COMMENT_LIST_ACTION_ADDED_BADGE_PLURAL": "[count] 배지를 추가했습니다.",
-    "COMMENT_LIST_WORKED_THROUGH": "이 댓글들을 모두 검토하셨습니다."
+    "COMMENT_LIST_WORKED_THROUGH": "이 댓글들을 모두 검토하셨습니다.",
+    "MOD_BTN_SET_TRUST_FACTOR": "신뢰도 설정",
+    "MOD_BTN_SET_TRUST_FACTOR_DESC": "댓글 작성자에 대한 신뢰도 값을 수동으로 재정의(0~100)하세요.",
+    "COMMENT_LIST_ACTION_SETTING_TRUST_FACTOR": "신뢰도 설정",
+    "COMMENT_LIST_ACTION_SET_TRUST_FACTOR": "신뢰도 설정"
 }

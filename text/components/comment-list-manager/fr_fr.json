@@ -149,5 +149,9 @@
     "COMMENT_LIST_ACTION_REMOVED_BADGE_PLURAL": "[count] badges retirés",
     "COMMENT_LIST_ACTION_ADDING_BADGE_PLURAL": "Ajout de [count] badges",
     "COMMENT_LIST_ACTION_ADDED_BADGE_PLURAL": "Ajout de [count] badges",
-    "COMMENT_LIST_WORKED_THROUGH": "Vous avez analysé cet ensemble de commentaires."
+    "COMMENT_LIST_WORKED_THROUGH": "Vous avez analysé cet ensemble de commentaires.",
+    "MOD_BTN_SET_TRUST_FACTOR": "Définir le facteur de confiance",
+    "MOD_BTN_SET_TRUST_FACTOR_DESC": "Définir une valeur de facteur de confiance manuelle (0-100) pour l'auteur du commentaire.",
+    "COMMENT_LIST_ACTION_SETTING_TRUST_FACTOR": "Définir le facteur de confiance",
+    "COMMENT_LIST_ACTION_SET_TRUST_FACTOR": "Définir le facteur de confiance"
 }

@@ -24,7 +24,6 @@
     "COMMENT_BTN_NOT_SPAM_PERM": "Não é spam (permanente)",
     "COMMENT_BTN_UNFLAG": "Remover sinalização",
     "COMMENT_BTN_VIEW_ALL_FROM_IP": "Ver tudo a partir do IP",
-
     "COMMENT_MENU_MARK_NOT_APPROVED": "Marcar Não Aprovado",
     "COMMENT_MENU_NOT_SPAM_PERM": "Não Spam Perm.",
     "COMMENT_MENU_UNPIN": "Desafixar",
@@ -33,5 +32,7 @@
     "COMMENT_LOG_TITLE": "Registro do Comentário",
     "COMMENT_EDIT_TITLE": "Editar Comentário de [name]",
     "COMMENT_TOOLTIP_WILL_MARK_REVIEWED": "Também marcará como revisado.",
-    "COMMENT_TOOLTIP_PERM_NOT_SPAM": "Marcará permanentemente como não spam e também como revisado."
+    "COMMENT_TOOLTIP_PERM_NOT_SPAM": "Marcará permanentemente como não spam e também como revisado.",
+    "COMMENT_MENU_SET_TRUST_FACTOR": "Definir Fator de Confiança",
+    "COMMENT_BTN_SET_TRUST_FACTOR": "Definir Fator de Confiança"
 }

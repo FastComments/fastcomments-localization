@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "Vertrauensfaktor für [name] festlegen",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "Der Vertrauensfaktor bestimmt, wie sehr das System diesem Nutzer vertraut. Ein höherer Wert bedeutet weniger Spamfilterung und weniger Einschränkungen. Setzen Sie den Wert auf 100, um zu verhindern, dass der Nutzer vom Spamfilter blockiert wird.",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "Aktueller Auto-Vertrauensfaktor: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "Aktuelle manuelle Überschreibung: [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "Es liegen noch keine Daten zum Vertrauensfaktor vor.",
+    "TRUST_FACTOR_DIALOG_LABEL": "Manueller Vertrauensfaktor (0-100)",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "Speichern",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "Manuelle Überschreibung löschen",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "Stornieren"
+}

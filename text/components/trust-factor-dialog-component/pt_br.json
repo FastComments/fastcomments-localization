@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "Defina o fator de confiança para [name]",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "O fator de confiança determina o quanto o sistema confia neste usuário. Um valor mais alto significa menos filtragem de spam e menos restrições. Defina como 100 para evitar que o usuário seja bloqueado pelo filtro de spam.",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "Fator de confiança atual em automóveis: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "Substituição manual atual: [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "Ainda não há dados sobre o fator de confiança.",
+    "TRUST_FACTOR_DIALOG_LABEL": "Fator de confiança manual (0-100)",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "Salvar",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "Limpar Substituição Manual",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "Cancelar"
+}

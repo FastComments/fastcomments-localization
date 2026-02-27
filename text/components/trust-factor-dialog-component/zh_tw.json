@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "為[name]設定信任因子",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "信任度決定了系統對該使用者的信任程度。數值越高，垃圾郵件過濾越少，限制也越少。設定為 100 可防止該使用者被垃圾郵件過濾器封鎖。",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "目前汽車信任係數：[value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "目前手動覆蓋：[value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "目前尚無信任度數據。",
+    "TRUST_FACTOR_DIALOG_LABEL": "手動信任係數（0-100）",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "節省",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "清除手動覆蓋",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "取消"
+}

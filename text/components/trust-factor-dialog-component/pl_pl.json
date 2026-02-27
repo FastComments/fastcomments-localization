@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "Ustaw współczynnik zaufania dla [name]",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "Współczynnik zaufania określa, jak bardzo system ufa danemu użytkownikowi. Wyższa wartość oznacza mniej filtrowania spamu i mniej ograniczeń. Ustaw na 100, aby zapobiec blokowaniu użytkownika przez filtr spamu.",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "Aktualny współczynnik zaufania do samochodów: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "Aktualne ręczne sterowanie: [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "Brak jeszcze danych na temat współczynnika zaufania.",
+    "TRUST_FACTOR_DIALOG_LABEL": "Ręczny współczynnik zaufania (0-100)",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "Ratować",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "Wyczyść ręczne nadpisywanie",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "Anulować"
+}

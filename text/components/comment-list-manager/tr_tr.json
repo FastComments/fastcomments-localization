@@ -149,5 +149,9 @@
     "COMMENT_LIST_ACTION_REMOVED_BADGE_PLURAL": "[count] rozetleri kaldırıldı",
     "COMMENT_LIST_ACTION_ADDING_BADGE_PLURAL": "[count] rozetleri ekleniyor",
     "COMMENT_LIST_ACTION_ADDED_BADGE_PLURAL": "[count] rozet eklendi",
-    "COMMENT_LIST_WORKED_THROUGH": "Bu yorumları incelediniz."
+    "COMMENT_LIST_WORKED_THROUGH": "Bu yorumları incelediniz.",
+    "MOD_BTN_SET_TRUST_FACTOR": "Güven Faktörünü Ayarla",
+    "MOD_BTN_SET_TRUST_FACTOR_DESC": "Yorum yazarı için manuel güven faktörü geçersiz kılma değeri (0-100) belirleyin.",
+    "COMMENT_LIST_ACTION_SETTING_TRUST_FACTOR": "Güven faktörünün ayarlanması",
+    "COMMENT_LIST_ACTION_SET_TRUST_FACTOR": "Güven faktörünü ayarlayın"
 }

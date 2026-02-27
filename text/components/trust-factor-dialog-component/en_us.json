@@ -1,0 +1,11 @@
+{
+  "TRUST_FACTOR_DIALOG_TITLE": "Set Trust Factor for [name]",
+  "TRUST_FACTOR_DIALOG_DESCRIPTION": "Trust factor determines how much the system trusts this user. A higher value means less spam filtering and fewer restrictions. Set to 100 to prevent the user from being blocked by the spam filter.",
+  "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "Current Auto Trust Factor: [value]",
+  "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "Current Manual Override: [value]",
+  "TRUST_FACTOR_DIALOG_NO_DATA": "No trust factor data yet.",
+  "TRUST_FACTOR_DIALOG_LABEL": "Manual Trust Factor (0-100)",
+  "TRUST_FACTOR_DIALOG_BTN_SAVE": "Save",
+  "TRUST_FACTOR_DIALOG_BTN_CLEAR": "Clear Manual Override",
+  "TRUST_FACTOR_DIALOG_BTN_CANCEL": "Cancel"
+}

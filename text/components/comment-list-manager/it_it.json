@@ -149,5 +149,9 @@
     "COMMENT_LIST_ACTION_REMOVED_BADGE_PLURAL": "Rimossi [count] badge",
     "COMMENT_LIST_ACTION_ADDING_BADGE_PLURAL": "Aggiunta di [count] badge",
     "COMMENT_LIST_ACTION_ADDED_BADGE_PLURAL": "Aggiunti [count] badge",
-    "COMMENT_LIST_WORKED_THROUGH": "Hai esaminato questa serie di commenti."
+    "COMMENT_LIST_WORKED_THROUGH": "Hai esaminato questa serie di commenti.",
+    "MOD_BTN_SET_TRUST_FACTOR": "Imposta il fattore di fiducia",
+    "MOD_BTN_SET_TRUST_FACTOR_DESC": "Imposta un override manuale del fattore di attendibilità (0-100) per l'autore del commento.",
+    "COMMENT_LIST_ACTION_SETTING_TRUST_FACTOR": "Impostazione del fattore di fiducia",
+    "COMMENT_LIST_ACTION_SET_TRUST_FACTOR": "Imposta il fattore di fiducia"
 }

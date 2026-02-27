@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "[name] için Güven Faktörünü Ayarla",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "Güven faktörü, sistemin bu kullanıcıya ne kadar güvendiğini belirler. Daha yüksek bir değer, daha az spam filtrelemesi ve daha az kısıtlama anlamına gelir. Kullanıcının spam filtresi tarafından engellenmesini önlemek için 100 olarak ayarlayın.",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "Mevcut Otomatik Güven Faktörü: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "Geçerli Manuel Geçersiz Kılma: [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "Henüz güven faktörü verisi yok.",
+    "TRUST_FACTOR_DIALOG_LABEL": "Manuel Güven Faktörü (0-100)",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "Kaydetmek",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "Manuel Geçersiz Kılmayı Temizle",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "İptal etmek"
+}

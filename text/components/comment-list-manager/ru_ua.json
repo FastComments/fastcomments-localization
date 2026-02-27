@@ -149,5 +149,9 @@
     "COMMENT_LIST_ACTION_REMOVED_BADGE_PLURAL": "Удалены [count] значки",
     "COMMENT_LIST_ACTION_ADDING_BADGE_PLURAL": "Добавление значков [count]",
     "COMMENT_LIST_ACTION_ADDED_BADGE_PLURAL": "Добавлены [count] значки",
-    "COMMENT_LIST_WORKED_THROUGH": "Вы проанализировали этот набор комментариев."
+    "COMMENT_LIST_WORKED_THROUGH": "Вы проанализировали этот набор комментариев.",
+    "MOD_BTN_SET_TRUST_FACTOR": "Установить коэффициент доверия",
+    "MOD_BTN_SET_TRUST_FACTOR_DESC": "Установите вручную значение коэффициента доверия (0-100) для автора комментария.",
+    "COMMENT_LIST_ACTION_SETTING_TRUST_FACTOR": "Установка фактора доверия",
+    "COMMENT_LIST_ACTION_SET_TRUST_FACTOR": "Установите коэффициент доверия"
 }

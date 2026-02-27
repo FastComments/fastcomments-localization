@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "Задайте фактор на доверие за [name]",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "Коефициентът на доверие определя доколко системата се доверява на този потребител. По-високата стойност означава по-малко филтриране на спам и по-малко ограничения. Задайте на 100, за да предотвратите блокирането на потребителя от филтъра за спам.",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "Текущ фактор на доверие към автомобила: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "Текущо ръчно отменяне: [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "Все още няма данни за фактора на доверие.",
+    "TRUST_FACTOR_DIALOG_LABEL": "Ръчен фактор на доверие (0-100)",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "Запазване",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "Изчистване на ръчното отменяне",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "Отказ"
+}

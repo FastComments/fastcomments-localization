@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "Indstil tillidsfaktor for [name]",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "Tillidsfaktoren bestemmer, hvor meget systemet stoler på denne bruger. En højere værdi betyder mindre spamfiltrering og færre begrænsninger. Indstil til 100 for at forhindre, at brugeren blokeres af spamfilteret.",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "Nuværende automatisk tillidsfaktor: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "Aktuel manuel overstyring: [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "Ingen data om tillidsfaktorer endnu.",
+    "TRUST_FACTOR_DIALOG_LABEL": "Manuel tillidsfaktor (0-100)",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "Spare",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "Ryd manuel tilsidesættelse",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "Ophæve"
+}

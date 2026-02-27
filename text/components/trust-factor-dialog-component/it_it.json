@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "Imposta il fattore di fiducia per [name]",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "Il fattore di attendibilità determina il livello di fiducia del sistema per questo utente. Un valore più alto significa meno filtri antispam e meno restrizioni. Impostalo su 100 per evitare che l'utente venga bloccato dal filtro antispam.",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "Fattore di fiducia automatica attuale: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "Sostituzione manuale corrente: [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "Non ci sono ancora dati sul fattore di fiducia.",
+    "TRUST_FACTOR_DIALOG_LABEL": "Fattore di fiducia manuale (0-100)",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "Salva",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "Cancella override manuale",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "Cancellare"
+}

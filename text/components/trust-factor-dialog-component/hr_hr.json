@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "Postavi faktor povjerenja za [name]",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "Faktor povjerenja određuje koliko sustav vjeruje ovom korisniku. Viša vrijednost znači manje filtriranja neželjene pošte i manje ograničenja. Postavite na 100 kako biste spriječili blokiranje korisnika pomoću filtera neželjene pošte.",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "Trenutni automatski faktor povjerenja: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "Trenutno ručno poništavanje: [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "Još nema podataka o faktoru povjerenja.",
+    "TRUST_FACTOR_DIALOG_LABEL": "Ručni faktor povjerenja (0-100)",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "Uštedjeti",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "Obriši ručno poništavanje",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "Otkazati"
+}

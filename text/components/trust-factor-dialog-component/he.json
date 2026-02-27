@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "הגדר גורם אמון עבור [name]",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "גורם האמון קובע עד כמה המערכת סומכת על משתמש זה. ערך גבוה יותר פירושו פחות סינון דואר זבל ופחות הגבלות. הגדר ל-100 כדי למנוע חסימה של המשתמש על ידי מסנן דואר הזבל.",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "גורם אמון אוטומטי נוכחי: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "עקיפה ידנית נוכחית: [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "עדיין אין נתוני גורם אמון.",
+    "TRUST_FACTOR_DIALOG_LABEL": "מקדם אמון ידני (0-100)",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "לְהַצִיל",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "נקה עקיפה ידנית",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "לְבַטֵל"
+}

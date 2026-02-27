@@ -149,5 +149,9 @@
     "COMMENT_LIST_ACTION_REMOVED_BADGE_PLURAL": "[count] バッジを削除しました",
     "COMMENT_LIST_ACTION_ADDING_BADGE_PLURAL": "[count] バッジを追加する",
     "COMMENT_LIST_ACTION_ADDED_BADGE_PLURAL": "[count] バッジを追加しました",
-    "COMMENT_LIST_WORKED_THROUGH": "この一連のコメントに取り組みました。"
+    "COMMENT_LIST_WORKED_THROUGH": "この一連のコメントに取り組みました。",
+    "MOD_BTN_SET_TRUST_FACTOR": "信頼係数を設定する",
+    "MOD_BTN_SET_TRUST_FACTOR_DESC": "コメント作成者の信頼度係数オーバーライド (0 ～ 100) を手動で設定します。",
+    "COMMENT_LIST_ACTION_SETTING_TRUST_FACTOR": "信頼度の設定",
+    "COMMENT_LIST_ACTION_SET_TRUST_FACTOR": "信頼度を設定する"
 }

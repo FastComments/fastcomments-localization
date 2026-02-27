@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "Встановити коефіцієнт довіри для [name]",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "Коефіцієнт довіри визначає, наскільки система довіряє цьому користувачеві. Вище значення означає менше фільтрації спаму та менше обмежень. Встановіть значення 100, щоб запобігти блокуванню користувача спам-фільтром.",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "Поточний коефіцієнт довіри до авто: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "Поточне ручне керування: [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "Даних про коефіцієнт довіри поки що немає.",
+    "TRUST_FACTOR_DIALOG_LABEL": "Фактор довіри вручну (0-100)",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "Зберегти",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "Очистити ручне керування",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "Скасувати"
+}

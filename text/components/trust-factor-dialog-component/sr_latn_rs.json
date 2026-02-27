@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "Podesite faktor poverenja za [name]",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "Faktor poverenja određuje koliko sistem veruje ovom korisniku. Veća vrednost znači manje filtriranja neželjene pošte i manje ograničenja. Podesite na 100 da biste sprečili korisnika da bude blokiran od strane spam filtera.",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "Trenutni faktor poverenja automobila: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "Trenutna ručna premošćivanje: [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "Još uvek nema podataka o faktoru poverenja.",
+    "TRUST_FACTOR_DIALOG_LABEL": "Ručni faktor poverenja (0-100)",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "Sačuvaj",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "Jasno Ručno Premošćivanje",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "Pretraživanje"
+}

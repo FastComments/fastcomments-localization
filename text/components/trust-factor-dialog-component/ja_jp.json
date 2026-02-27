@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "[name]の信頼係数を設定する",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "信頼度は、システムがこのユーザーをどの程度信頼するかを決定します。値が高いほど、スパムフィルタリングと制限が緩和されます。ユーザーがスパムフィルターによってブロックされないようにするには、100 に設定してください。",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "現在の自動車信頼度: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "現在の手動オーバーライド: [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "信頼度係数データはまだありません。",
+    "TRUST_FACTOR_DIALOG_LABEL": "手動信頼度係数（0～100）",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "保存",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "手動オーバーライドをクリア",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "キャンセル"
+}

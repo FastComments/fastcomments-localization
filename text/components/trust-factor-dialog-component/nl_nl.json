@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "Stel de vertrouwensfactor in voor [name]",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "De vertrouwensfactor bepaalt hoeveel vertrouwen het systeem in deze gebruiker heeft. Een hogere waarde betekent minder spamfiltering en minder beperkingen. Stel de factor in op 100 om te voorkomen dat de gebruiker door het spamfilter wordt geblokkeerd.",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "Huidige Auto Trust Factor: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "Huidige handmatige override: [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "Er zijn nog geen gegevens over de vertrouwensfactor beschikbaar.",
+    "TRUST_FACTOR_DIALOG_LABEL": "Handmatige vertrouwensfactor (0-100)",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "Redden",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "Handmatige overschrijving wissen",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "Annuleren"
+}

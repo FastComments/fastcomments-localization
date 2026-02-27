@@ -149,5 +149,9 @@
     "COMMENT_LIST_ACTION_REMOVED_BADGE_PLURAL": "Se eliminaron [count] insignias",
     "COMMENT_LIST_ACTION_ADDING_BADGE_PLURAL": "Añadiendo [count] insignias",
     "COMMENT_LIST_ACTION_ADDED_BADGE_PLURAL": "Se agregaron [count] insignias",
-    "COMMENT_LIST_WORKED_THROUGH": "Has revisado este conjunto de comentarios."
+    "COMMENT_LIST_WORKED_THROUGH": "Has revisado este conjunto de comentarios.",
+    "MOD_BTN_SET_TRUST_FACTOR": "Establecer factor de confianza",
+    "MOD_BTN_SET_TRUST_FACTOR_DESC": "Establezca un factor de confianza manual (0-100) para el autor del comentario.",
+    "COMMENT_LIST_ACTION_SETTING_TRUST_FACTOR": "Establecer el factor de confianza",
+    "COMMENT_LIST_ACTION_SET_TRUST_FACTOR": "Establecer el factor de confianza"
 }

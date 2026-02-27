@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "Définir le facteur de confiance pour [name]",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "Le facteur de confiance détermine le niveau de confiance que le système accorde à cet utilisateur. Plus sa valeur est élevée, moins le filtrage anti-spam et les restrictions sont importants. Définissez-le sur 100 pour empêcher le blocage de l'utilisateur par le filtre anti-spam.",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "Facteur de confiance automobile actuel : [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "Commande manuelle actuelle : [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "Aucune donnée sur le facteur de confiance pour le moment.",
+    "TRUST_FACTOR_DIALOG_LABEL": "Facteur de confiance manuel (0-100)",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "Sauvegarder",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "Effacer la commande manuelle",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "Annuler"
+}

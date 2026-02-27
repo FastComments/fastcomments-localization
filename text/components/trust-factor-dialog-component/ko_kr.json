@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "[name]에 대한 신뢰도 설정",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "신뢰도 계수는 시스템이 해당 사용자를 얼마나 신뢰하는지를 나타냅니다. 값이 높을수록 스팸 필터링 및 제한 사항이 줄어듭니다. 스팸 필터에 의해 사용자가 차단되지 않도록 하려면 100으로 설정하십시오.",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "현재 자동차 신뢰도 지수: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "현재 수동 재정의: [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "아직 신뢰도 관련 데이터가 없습니다.",
+    "TRUST_FACTOR_DIALOG_LABEL": "수동 신뢰도 (0-100)",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "구하다",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "수동 재정의 지우기",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "취소"
+}

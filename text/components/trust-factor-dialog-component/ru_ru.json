@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "Установить коэффициент доверия для [name]",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "Коэффициент доверия определяет, насколько система доверяет этому пользователю. Более высокое значение означает меньшую фильтрацию спама и меньше ограничений. Установите значение 100, чтобы предотвратить блокировку пользователя спам-фильтром.",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "Текущий коэффициент доверия к автосервису: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "Текущее ручное управление: [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "Данные о факторах доверия пока отсутствуют.",
+    "TRUST_FACTOR_DIALOG_LABEL": "Ручной коэффициент доверия (0-100)",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "Сохранять",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "Сбросить ручное управление",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "Отмена"
+}
