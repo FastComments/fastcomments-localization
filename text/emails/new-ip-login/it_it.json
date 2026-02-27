@@ -1,0 +1,13 @@
+{
+    "FROM_NAME": "Sicurezza FastComments",
+    "SUBJECT": "Accesso da nuovo IP rilevato",
+    "BANNER_TEXT": "Avviso di sicurezza",
+    "INTRO": "Ciao <%= displayName %>,",
+    "INFO": "Abbiamo rilevato un accesso al tuo account FastComments da una nuova posizione.",
+    "TIME_LABEL": "Tempo:",
+    "LOCATION_LABEL": "Posizione approssimativa:",
+    "IP_LABEL": "Indirizzo IP:",
+    "INFO_2": "Se non eri tu, ti consigliamo di cambiare immediatamente la password.",
+    "CHANGE_PASSWORD_LINK_TEXT": "Cambiare la password",
+    "IP_PRIVACY_NOTE": "Non memorizziamo il tuo indirizzo IP. Memorizziamo solo un modulo offuscato per motivi di sicurezza."
+}

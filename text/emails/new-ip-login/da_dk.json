@@ -1,0 +1,13 @@
+{
+    "FROM_NAME": "FastComments Sikkerhed",
+    "SUBJECT": "Log ind fra ny IP-adresse fundet",
+    "BANNER_TEXT": "Sikkerhedsadvarsel",
+    "INTRO": "Hej <%= displayName %>,",
+    "INFO": "Vi har registreret et login på din FastComments-konto fra en ny placering.",
+    "TIME_LABEL": "Tid:",
+    "LOCATION_LABEL": "Omtrentlig placering:",
+    "IP_LABEL": "IP-adresse:",
+    "INFO_2": "Hvis det ikke var dig, anbefaler vi, at du ændrer din adgangskode med det samme.",
+    "CHANGE_PASSWORD_LINK_TEXT": "Skift adgangskode",
+    "IP_PRIVACY_NOTE": "Vi gemmer ikke din IP-adresse. Vi gemmer kun en forvirret formular af sikkerhedsmæssige årsager."
+}

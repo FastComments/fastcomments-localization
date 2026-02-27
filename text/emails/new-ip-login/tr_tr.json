@@ -1,0 +1,13 @@
+{
+    "FROM_NAME": "Hızlı Yorumlar Güvenliği",
+    "SUBJECT": "Yeni IP adresinden giriş algılandı",
+    "BANNER_TEXT": "Güvenlik Uyarısı",
+    "INTRO": "Merhaba <%= displayName %>,",
+    "INFO": "FastComments hesabınıza yeni bir konumdan giriş yapıldığını tespit ettik.",
+    "TIME_LABEL": "Zaman:",
+    "LOCATION_LABEL": "Yaklaşık Konum:",
+    "IP_LABEL": "IP Adresi:",
+    "INFO_2": "Bu durum sizin başınıza gelmediyse, şifrenizi hemen değiştirmenizi öneririz.",
+    "CHANGE_PASSWORD_LINK_TEXT": "Şifre değiştir",
+    "IP_PRIVACY_NOTE": "IP adresinizi saklamıyoruz. Sadece güvenlik amacıyla gizlenmiş bir biçimini saklıyoruz."
+}

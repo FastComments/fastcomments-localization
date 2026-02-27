@@ -1,0 +1,13 @@
+{
+    "FROM_NAME": "FastComments 安全性",
+    "SUBJECT": "检测到来自新 IP 地址的登录",
+    "BANNER_TEXT": "安全警报",
+    "INTRO": "你好 <%= displayName %>，",
+    "INFO": "我们检测到您从新位置登录了 FastComments 帐户。",
+    "TIME_LABEL": "时间：",
+    "LOCATION_LABEL": "大致位置：",
+    "IP_LABEL": "IP地址：",
+    "INFO_2": "如果这不是您本人所为，我们建议您立即更改密码。",
+    "CHANGE_PASSWORD_LINK_TEXT": "更改密码",
+    "IP_PRIVACY_NOTE": "我们不会存储您的IP地址。出于安全考虑，我们只会存储经过混淆处理的IP地址。"
+}

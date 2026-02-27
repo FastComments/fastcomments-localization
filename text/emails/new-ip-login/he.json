@@ -1,0 +1,13 @@
+{
+    "FROM_NAME": "אבטחת FastComments",
+    "SUBJECT": "התחברות מכתובת IP חדשה זוהתה",
+    "BANNER_TEXT": "התראת אבטחה",
+    "INTRO": "שלום <%= displayName %>,",
+    "INFO": "זיהינו כניסה לחשבון FastComments שלך ממיקום חדש.",
+    "TIME_LABEL": "זְמַן:",
+    "LOCATION_LABEL": "מיקום משוער:",
+    "IP_LABEL": "כתובת IP:",
+    "INFO_2": "אם זה לא היית אתה, אנו ממליצים לשנות את הסיסמה שלך באופן מיידי.",
+    "CHANGE_PASSWORD_LINK_TEXT": "שינוי סיסמה",
+    "IP_PRIVACY_NOTE": "איננו שומרים את כתובת ה-IP שלך. אנו שומרים טופס מוסתר בלבד למטרות אבטחה."
+}

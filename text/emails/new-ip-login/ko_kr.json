@@ -1,0 +1,13 @@
+{
+    "FROM_NAME": "패스트컴즈 보안",
+    "SUBJECT": "새로운 IP 주소에서 로그인이 감지되었습니다.",
+    "BANNER_TEXT": "보안 경고",
+    "INTRO": "안녕하세요 <%= displayName %>,",
+    "INFO": "새로운 위치에서 FastComments 계정에 로그인한 것이 감지되었습니다.",
+    "TIME_LABEL": "시간:",
+    "LOCATION_LABEL": "대략적인 위치:",
+    "IP_LABEL": "IP 주소:",
+    "INFO_2": "만약 본인이 아니시라면, 즉시 비밀번호를 변경하시기를 권장합니다.",
+    "CHANGE_PASSWORD_LINK_TEXT": "비밀번호 변경",
+    "IP_PRIVACY_NOTE": "저희는 귀하의 IP 주소를 저장하지 않습니다. 보안상의 이유로 일부 정보만 난독화하여 저장합니다."
+}

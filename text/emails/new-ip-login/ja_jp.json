@@ -1,0 +1,13 @@
+{
+    "FROM_NAME": "FastComments セキュリティ",
+    "SUBJECT": "新しいIPからのログインが検出されました",
+    "BANNER_TEXT": "セキュリティ警告",
+    "INTRO": "こんにちは <%= displayName %>、",
+    "INFO": "新しい場所から FastComments アカウントへのサインインが検出されました。",
+    "TIME_LABEL": "時間：",
+    "LOCATION_LABEL": "おおよその場所:",
+    "IP_LABEL": "IPアドレス:",
+    "INFO_2": "心当たりがない場合は、すぐにパスワードを変更することをお勧めします。",
+    "CHANGE_PASSWORD_LINK_TEXT": "パスワードを変更する",
+    "IP_PRIVACY_NOTE": "お客様のIPアドレスは保存されません。セキュリティ上の理由から、難読化された形式でのみ保存されます。"
+}

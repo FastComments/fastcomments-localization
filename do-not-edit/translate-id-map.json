@@ -344,7 +344,8 @@
         "large-sites": 43,
         "my-account-site-collection-item-delete": 8,
         "how-to-add-comments-to-a-website": 80,
-        "trust-factor-dialog-component": 9
+        "trust-factor-dialog-component": 9,
+        "new-ip-login": 11
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -7145,5 +7146,18 @@
         "t7": "TRUST_FACTOR_DIALOG_BTN_SAVE",
         "t8": "TRUST_FACTOR_DIALOG_BTN_CLEAR",
         "t9": "TRUST_FACTOR_DIALOG_BTN_CANCEL"
+    },
+    "new-ip-login": {
+        "t1": "FROM_NAME",
+        "t2": "SUBJECT",
+        "t3": "BANNER_TEXT",
+        "t4": "INTRO",
+        "t5": "INFO",
+        "t6": "TIME_LABEL",
+        "t7": "LOCATION_LABEL",
+        "t8": "IP_LABEL",
+        "t9": "INFO_2",
+        "t10": "CHANGE_PASSWORD_LINK_TEXT",
+        "t11": "IP_PRIVACY_NOTE"
     }
 }

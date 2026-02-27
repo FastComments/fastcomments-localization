@@ -1,0 +1,13 @@
+{
+    "FROM_NAME": "Sigurnost FastCommentsa",
+    "SUBJECT": "Otkrivena prijava s nove IP adrese",
+    "BANNER_TEXT": "Sigurnosno upozorenje",
+    "INTRO": "Pozdrav <%= displayName %>,",
+    "INFO": "Otkrili smo prijavu na vaš FastComments račun s nove lokacije.",
+    "TIME_LABEL": "Vrijeme:",
+    "LOCATION_LABEL": "Približna lokacija:",
+    "IP_LABEL": "IP adresa:",
+    "INFO_2": "Ako to niste bili vi, preporučujemo da odmah promijenite lozinku.",
+    "CHANGE_PASSWORD_LINK_TEXT": "Promjena lozinke",
+    "IP_PRIVACY_NOTE": "Ne pohranjujemo vašu IP adresu. Pohranjujemo samo maskirani obrazac iz sigurnosnih razloga."
+}

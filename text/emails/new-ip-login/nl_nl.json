@@ -1,0 +1,13 @@
+{
+    "FROM_NAME": "FastComments Beveiliging",
+    "SUBJECT": "Aanmelden vanaf nieuw IP-adres gedetecteerd",
+    "BANNER_TEXT": "Beveiligingswaarschuwing",
+    "INTRO": "Hallo <%= displayName %>,",
+    "INFO": "We hebben een aanmelding bij uw FastComments-account vanaf een nieuwe locatie gedetecteerd.",
+    "TIME_LABEL": "Tijd:",
+    "LOCATION_LABEL": "Geschatte locatie:",
+    "IP_LABEL": "IP-adres:",
+    "INFO_2": "Als dit niet op u van toepassing is, raden we u aan uw wachtwoord onmiddellijk te wijzigen.",
+    "CHANGE_PASSWORD_LINK_TEXT": "Wachtwoord wijzigen",
+    "IP_PRIVACY_NOTE": "Wij bewaren uw IP-adres niet. We bewaren alleen een versleuteld formulier om veiligheidsredenen."
+}

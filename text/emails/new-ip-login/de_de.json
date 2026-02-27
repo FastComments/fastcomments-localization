@@ -1,0 +1,13 @@
+{
+    "FROM_NAME": "FastComments Sicherheit",
+    "SUBJECT": "Anmeldung von neuer IP-Adresse erkannt",
+    "BANNER_TEXT": "Sicherheitswarnung",
+    "INTRO": "Hallo <%= displayName %>,",
+    "INFO": "Wir haben festgestellt, dass Sie sich von einem neuen Standort aus in Ihr FastComments-Konto eingeloggt haben.",
+    "TIME_LABEL": "Zeit:",
+    "LOCATION_LABEL": "Ungefährer Standort:",
+    "IP_LABEL": "IP-Adresse:",
+    "INFO_2": "Falls dies nicht auf Sie zutrifft, empfehlen wir Ihnen, Ihr Passwort umgehend zu ändern.",
+    "CHANGE_PASSWORD_LINK_TEXT": "Kennwort ändern",
+    "IP_PRIVACY_NOTE": "Wir speichern Ihre IP-Adresse nicht. Wir speichern sie lediglich in verschlüsselter Form aus Sicherheitsgründen."
+}

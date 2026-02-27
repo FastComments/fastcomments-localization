@@ -1,0 +1,13 @@
+{
+  "FROM_NAME": "FastComments Security",
+  "SUBJECT": "Login from New IP Detected",
+  "BANNER_TEXT": "Security Alert",
+  "INTRO": "Hello <%= displayName %>,",
+  "INFO": "We detected a sign in to your FastComments account from a new location.",
+  "TIME_LABEL": "Time:",
+  "LOCATION_LABEL": "Approximate Location:",
+  "IP_LABEL": "IP Address:",
+  "INFO_2": "If this was not you, we recommend changing your password immediately.",
+  "CHANGE_PASSWORD_LINK_TEXT": "Change Password",
+  "IP_PRIVACY_NOTE": "We do not store your IP address. We only store an obfuscated form for security purposes."
+}

@@ -1,0 +1,13 @@
+{
+    "FROM_NAME": "Bezpieczeństwo FastComments",
+    "SUBJECT": "Wykryto logowanie z nowego adresu IP",
+    "BANNER_TEXT": "Alert bezpieczeństwa",
+    "INTRO": "Cześć <%= displayName %>,",
+    "INFO": "Wykryliśmy logowanie do Twojego konta FastComments z nowej lokalizacji.",
+    "TIME_LABEL": "Czas:",
+    "LOCATION_LABEL": "Przybliżona lokalizacja:",
+    "IP_LABEL": "Adres IP:",
+    "INFO_2": "Jeśli to nie Ty, zalecamy natychmiastową zmianę hasła.",
+    "CHANGE_PASSWORD_LINK_TEXT": "Zmień hasło",
+    "IP_PRIVACY_NOTE": "Nie przechowujemy Twojego adresu IP. Przechowujemy go jedynie w formie zaciemnionej ze względów bezpieczeństwa."
+}

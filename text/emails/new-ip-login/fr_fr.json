@@ -1,0 +1,13 @@
+{
+    "FROM_NAME": "Sécurité de FastComments",
+    "SUBJECT": "Connexion depuis une nouvelle adresse IP détectée",
+    "BANNER_TEXT": "Alerte de sécurité",
+    "INTRO": "Bonjour <%= displayName %>,",
+    "INFO": "Nous avons détecté une connexion à votre compte FastComments depuis un nouvel emplacement.",
+    "TIME_LABEL": "Temps:",
+    "LOCATION_LABEL": "Emplacement approximatif :",
+    "IP_LABEL": "Adresse IP :",
+    "INFO_2": "Si ce n'est pas vous, nous vous recommandons de changer immédiatement votre mot de passe.",
+    "CHANGE_PASSWORD_LINK_TEXT": "Changer le mot de passe",
+    "IP_PRIVACY_NOTE": "Nous ne conservons pas votre adresse IP. Nous n'en conservons qu'une version anonymisée à des fins de sécurité."
+}
