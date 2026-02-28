@@ -3,8 +3,8 @@
     "CONGRATULATIONS": "Συγχαρητήρια!",
     "BANNER_TEXT": "Νέο σήμα που αποκτήθηκε",
     "FROM_NAME": "Ρομπότ FastComments",
-    "SUBJECT": "Κερδίσατε το σήμα \"<%= badge.name %>\"!",
-    "BADGE_EARNED_MESSAGE": "Κερδίσατε με επιτυχία το σήμα <strong><%= badge.name %></strong> .",
+    "SUBJECT": "Κερδίσατε το σήμα \"<%= badge.displayLabel %>\"!",
+    "BADGE_EARNED_MESSAGE": "Κερδίσατε με επιτυχία το σήμα <strong><%= badge.displayLabel %></strong> .",
     "KEEP_UP_GOOD_WORK": "Συνέχισε την εξαιρετική δουλειά!",
     "UNSUBSCRIBE_HERE": "Διαγραφή από ειδοποιήσεις σήματος",
     "VIEW_YOUR_PROFILE": "Δείτε το προφίλ σας"

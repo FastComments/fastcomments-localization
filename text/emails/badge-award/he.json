@@ -3,8 +3,8 @@
     "CONGRATULATIONS": "מזל טוב!",
     "BANNER_TEXT": "תג חדש הושגה",
     "FROM_NAME": "רובוט FastComments",
-    "SUBJECT": "זכית בתג \"<%= badge.name %>\"!",
-    "BADGE_EARNED_MESSAGE": "זכית בהצלחה בתג <strong><%= badge.name %></strong> .",
+    "SUBJECT": "זכית בתג \"<%= badge.displayLabel %>\"!",
+    "BADGE_EARNED_MESSAGE": "זכית בהצלחה בתג <strong><%= badge.displayLabel %></strong> .",
     "KEEP_UP_GOOD_WORK": "המשיכו בעבודה הנפלאה!",
     "UNSUBSCRIBE_HERE": "ביטול הרשמה להתראות תגים",
     "VIEW_YOUR_PROFILE": "צפה בפרופיל שלך"

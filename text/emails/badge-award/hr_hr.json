@@ -3,8 +3,8 @@
     "CONGRATULATIONS": "Čestitamo!",
     "BANNER_TEXT": "Zarađena nova značka",
     "FROM_NAME": "Robot za brze komentare",
-    "SUBJECT": "Zaslužili ste značku \"<%= badge.name %>\"!",
-    "BADGE_EARNED_MESSAGE": "Uspješno ste zaradili <strong><%= badge.name %></strong> značku.",
+    "SUBJECT": "Zaslužili ste značku \"<%= badge.displayLabel %>\"!",
+    "BADGE_EARNED_MESSAGE": "Uspješno ste zaradili <strong><%= badge.displayLabel %></strong> značku.",
     "KEEP_UP_GOOD_WORK": "Samo tako nastavi!",
     "UNSUBSCRIBE_HERE": "Odjava s obavijesti o značkama",
     "VIEW_YOUR_PROFILE": "Pogledajte svoj profil"

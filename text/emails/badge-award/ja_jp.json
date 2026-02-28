@@ -3,8 +3,8 @@
     "CONGRATULATIONS": "おめでとう！",
     "BANNER_TEXT": "新しいバッジを獲得しました",
     "FROM_NAME": "ファストコメントロボット",
-    "SUBJECT": "「<%= badge.name %>」バッジを獲得しました。",
-    "BADGE_EARNED_MESSAGE": "<strong><%= badge.name %></strong>バッジを獲得しました。",
+    "SUBJECT": "「<%= badge.displayLabel %>」バッジを獲得しました。",
+    "BADGE_EARNED_MESSAGE": "<strong><%= badge.displayLabel %></strong>バッジを獲得しました。",
     "KEEP_UP_GOOD_WORK": "これからも素晴らしい仕事を続けてください!",
     "UNSUBSCRIBE_HERE": "バッジ通知の購読を解除する",
     "VIEW_YOUR_PROFILE": "プロフィールを見る"

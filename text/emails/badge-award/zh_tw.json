@@ -3,8 +3,8 @@
     "CONGRATULATIONS": "恭喜！",
     "BANNER_TEXT": "獲得新徽章",
     "FROM_NAME": "快速評論機器人",
-    "SUBJECT": "你獲得了「<%= badge.name %>」徽章！",
-    "BADGE_EARNED_MESSAGE": "你已成功獲得<strong><%= badge.name %></strong>徽章。",
+    "SUBJECT": "你獲得了「<%= badge.displayLabel %>」徽章！",
+    "BADGE_EARNED_MESSAGE": "你已成功獲得<strong><%= badge.displayLabel %></strong>徽章。",
     "KEEP_UP_GOOD_WORK": "繼續保持！",
     "UNSUBSCRIBE_HERE": "取消訂閱徽章通知",
     "VIEW_YOUR_PROFILE": "查看您的個人資料"

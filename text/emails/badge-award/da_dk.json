@@ -3,8 +3,8 @@
     "CONGRATULATIONS": "Tillykke!",
     "BANNER_TEXT": "Nyt badge optjent",
     "FROM_NAME": "FastComments Robot",
-    "SUBJECT": "Du har fortjent \"<%= badge.name %>\"-mærket!",
-    "BADGE_EARNED_MESSAGE": "Du har fortjent <strong><%= badge.name %>-</strong> mærket.",
+    "SUBJECT": "Du har fortjent \"<%= badge.displayLabel %>\"-mærket!",
+    "BADGE_EARNED_MESSAGE": "Du har fortjent <strong><%= badge.displayLabel %>-</strong> mærket.",
     "KEEP_UP_GOOD_WORK": "Fortsæt det gode arbejde!",
     "UNSUBSCRIBE_HERE": "Afmeld abonnement på badge-notifikationer",
     "VIEW_YOUR_PROFILE": "Se din profil"

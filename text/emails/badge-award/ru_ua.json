@@ -3,8 +3,8 @@
     "CONGRATULATIONS": "Поздравляю!",
     "BANNER_TEXT": "Получен новый значок",
     "FROM_NAME": "Робот FastComments",
-    "SUBJECT": "Вы заслужили значок «<%= badge.name %>»!",
-    "BADGE_EARNED_MESSAGE": "Вы успешно заслужили значок <strong><%= badge.name %></strong> .",
+    "SUBJECT": "Вы заслужили значок «<%= badge.displayLabel %>»!",
+    "BADGE_EARNED_MESSAGE": "Вы успешно заслужили значок <strong><%= badge.displayLabel %></strong> .",
     "KEEP_UP_GOOD_WORK": "Продолжайте в том же духе!",
     "UNSUBSCRIBE_HERE": "Отписаться от уведомлений о значках",
     "VIEW_YOUR_PROFILE": "Просмотреть ваш профиль"

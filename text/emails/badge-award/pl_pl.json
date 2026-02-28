@@ -3,8 +3,8 @@
     "CONGRATULATIONS": "Gratulacje!",
     "BANNER_TEXT": "Zdobyto nową odznakę",
     "FROM_NAME": "Robot FastComments",
-    "SUBJECT": "Zdobyłeś odznakę „<%= badge.name %>”!",
-    "BADGE_EARNED_MESSAGE": "Udało Ci się zdobyć odznakę <strong><%= badge.name %></strong> .",
+    "SUBJECT": "Zdobyłeś odznakę „<%= badge.displayLabel %>”!",
+    "BADGE_EARNED_MESSAGE": "Udało Ci się zdobyć odznakę <strong><%= badge.displayLabel %></strong> .",
     "KEEP_UP_GOOD_WORK": "Kontynuujcie wspaniałą pracę!",
     "UNSUBSCRIBE_HERE": "Anuluj subskrypcję powiadomień o odznakach",
     "VIEW_YOUR_PROFILE": "Wyświetl swój profil"

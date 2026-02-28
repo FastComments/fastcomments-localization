@@ -3,8 +3,8 @@
     "CONGRATULATIONS": "¡Felicidades!",
     "BANNER_TEXT": "Nueva insignia obtenida",
     "FROM_NAME": "Robot de comentarios rápidos",
-    "SUBJECT": "¡Te has ganado la insignia \"<%= badge.name %>\"!",
-    "BADGE_EARNED_MESSAGE": "Has obtenido con éxito la insignia <strong>de <%= badge.name %></strong> .",
+    "SUBJECT": "¡Te has ganado la insignia \"<%= badge.displayLabel %>\"!",
+    "BADGE_EARNED_MESSAGE": "Has obtenido con éxito la insignia <strong>de <%= badge.displayLabel %></strong> .",
     "KEEP_UP_GOOD_WORK": "¡Sigan con el excelente trabajo!",
     "UNSUBSCRIBE_HERE": "Cancelar la suscripción a las notificaciones de insignias",
     "VIEW_YOUR_PROFILE": "Ver tu perfil"

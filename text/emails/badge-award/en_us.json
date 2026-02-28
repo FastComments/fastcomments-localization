@@ -3,9 +3,9 @@
   "CONGRATULATIONS": "Congratulations!",
   "BANNER_TEXT": "New Badge Earned",
   "FROM_NAME": "FastComments Robot",
-  "SUBJECT": "You've earned the \"<%= badge.name %>\" badge!",
+  "SUBJECT": "You've earned the \"<%= badge.displayLabel %>\" badge!",
   "VIEW_YOUR_PROFILE": "View Your Profile",
-  "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.name %></strong> badge.",
+  "BADGE_EARNED_MESSAGE": "You've successfully earned the <strong><%= badge.displayLabel %></strong> badge.",
   "KEEP_UP_GOOD_WORK": "Keep up the great work!",
   "UNSUBSCRIBE_HERE": "Unsubscribe from badge notifications"
 }

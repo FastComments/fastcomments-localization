@@ -3,8 +3,8 @@
     "CONGRATULATIONS": "Иestitam!",
     "BANNER_TEXT": "Nova značka zarađena",
     "FROM_NAME": "FastComments Robot",
-    "SUBJECT": "Zaradili ste značku \"<%= badge.name %>\"!",
-    "BADGE_EARNED_MESSAGE": "Uspešno ste zaradili <strong>značku <%= badge.name %></strong>.",
+    "SUBJECT": "Zaradili ste značku \"<%= badge.displayLabel %>\"!",
+    "BADGE_EARNED_MESSAGE": "Uspešno ste zaradili <strong>značku <%= badge.displayLabel %></strong>.",
     "KEEP_UP_GOOD_WORK": "Nastavite sa sjajnim radom!",
     "UNSUBSCRIBE_HERE": "Odjavite se od obaveštenja o značkama",
     "VIEW_YOUR_PROFILE": "Pogledaj svoj profil"

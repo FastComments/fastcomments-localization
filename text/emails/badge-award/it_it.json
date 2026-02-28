@@ -3,8 +3,8 @@
     "CONGRATULATIONS": "Congratulazioni!",
     "BANNER_TEXT": "Nuovo distintivo guadagnato",
     "FROM_NAME": "Robot FastComments",
-    "SUBJECT": "Hai guadagnato il badge \"<%= badge.name %>\"!",
-    "BADGE_EARNED_MESSAGE": "Hai ottenuto con successo il badge <strong><%= badge.name %></strong> .",
+    "SUBJECT": "Hai guadagnato il badge \"<%= badge.displayLabel %>\"!",
+    "BADGE_EARNED_MESSAGE": "Hai ottenuto con successo il badge <strong><%= badge.displayLabel %></strong> .",
     "KEEP_UP_GOOD_WORK": "Continuate così!",
     "UNSUBSCRIBE_HERE": "Annulla l'iscrizione alle notifiche dei badge",
     "VIEW_YOUR_PROFILE": "Visualizza il tuo profilo"
