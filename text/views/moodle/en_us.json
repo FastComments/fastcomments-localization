@@ -1,0 +1,90 @@
+{
+  "PAGE_TITLE": "Commenting System Plugin for Moodle LMS | FastComments",
+  "META_DESCRIPTION": "Add live threaded comments and collaborative chat to your Moodle LMS with FastComments. GDPR compliant, EU CDN. Free trial.",
+  "HEAD_KEYWORDS": "moodle comments plugin, moodle commenting system, moodle discussion plugin, fastcomments moodle, moodle lms comments, moodle course comments, moodle sso comments",
+
+  "HERO_BADGE": "Moodle 4.1+ Plugin",
+  "HERO_TITLE": "Comments & Collaboration for Moodle LMS",
+  "HERO_DESCRIPTION": "Add threaded discussions, real-time collaborative chat, and automatic SSO to every Moodle course and page. Rich text, notifications, GDPR compliance - all in one lightweight plugin.",
+  "HERO_CTA_FREE_TRIAL": "Start Free Trial",
+  "HERO_CTA_GITHUB": "View on GitHub",
+
+  "STYLES_TITLE": "Three Ways to Engage Your Learners",
+  "STYLES_SUBTITLE": "FastComments brings flexible commenting styles to Moodle - choose what fits each course.",
+
+  "STYLE_1_TITLE": "Threaded Course Comments",
+  "STYLE_1_DESCRIPTION": "Add nested, threaded discussions to any Moodle course. Students reply in context, instructors moderate with ease, and conversations stay organized even in large classes.",
+  "STYLE_1_IMAGE_ALT": "Threaded comments on a Moodle course page",
+
+  "STYLE_2_TITLE": "Real-Time Collaborative Chat",
+  "STYLE_2_DESCRIPTION": "Enable live chat alongside course content for study groups, office hours, or peer collaboration. Messages appear instantly with online presence indicators.",
+  "STYLE_2_IMAGE_ALT": "Collaborative chat in a Moodle course",
+
+  "STYLE_3_TITLE": "Page-Level Discussions",
+  "STYLE_3_DESCRIPTION": "Attach comment threads to individual Moodle pages, resources, or activities. Students discuss specific content right where it lives.",
+  "STYLE_3_IMAGE_ALT": "Comments on a Moodle page resource",
+
+  "FEATURES_TITLE": "Built for Education",
+  "FEATURES_SUBTITLE": "Everything instructors and administrators need to run engaging, safe discussions.",
+
+  "FEATURE_SSO_TITLE": "Moodle SSO",
+  "FEATURE_SSO_DESCRIPTION": "Students are automatically signed in using their Moodle account. No separate registration, no password friction.",
+  "FEATURE_MENTIONS_TITLE": "@Mentions & Voting",
+  "FEATURE_MENTIONS_DESCRIPTION": "Tag classmates with @mentions and let students upvote the most helpful answers to surface quality content.",
+  "FEATURE_EDITOR_TITLE": "Rich Text Editor",
+  "FEATURE_EDITOR_DESCRIPTION": "Full rich text with images, code blocks, links, and formatting. Markdown support for technically inclined users.",
+  "FEATURE_NOTIFICATIONS_TITLE": "Notifications",
+  "FEATURE_NOTIFICATIONS_DESCRIPTION": "Email and in-app notifications keep students engaged. Configurable per-user so nobody gets overwhelmed.",
+  "FEATURE_PRESENCE_TITLE": "Online Presence",
+  "FEATURE_PRESENCE_DESCRIPTION": "See who is currently viewing and participating in a discussion in real time. Encourages active engagement.",
+  "FEATURE_GDPR_TITLE": "EU CDN & GDPR",
+  "FEATURE_GDPR_DESCRIPTION": "EU-based CDN option ensures data stays in Europe. Full GDPR compliance with data export and deletion support.",
+
+  "SSO_TITLE": "Flexible SSO Options",
+  "SSO_SUBTITLE": "Choose the authentication mode that fits your institution's security requirements.",
+
+  "SSO_SECURE_TITLE": "Secure SSO",
+  "SSO_SECURE_BADGE": "Recommended",
+  "SSO_SECURE_DESCRIPTION": "Server-side HMAC token verification for maximum security.",
+  "SSO_SECURE_FEATURE_1": "Cryptographic token verification",
+  "SSO_SECURE_FEATURE_2": "Automatic user provisioning",
+  "SSO_SECURE_FEATURE_3": "Avatar & display name sync",
+  "SSO_SECURE_FEATURE_4": "Session management",
+
+  "SSO_SIMPLE_TITLE": "Simple SSO",
+  "SSO_SIMPLE_DESCRIPTION": "Client-side SSO for quick setup without server configuration.",
+  "SSO_SIMPLE_FEATURE_1": "No server config needed",
+  "SSO_SIMPLE_FEATURE_2": "Username & email mapping",
+  "SSO_SIMPLE_FEATURE_3": "Automatic login",
+
+  "SSO_NONE_TITLE": "No SSO",
+  "SSO_NONE_DESCRIPTION": "Let students create their own FastComments accounts independently.",
+  "SSO_NONE_FEATURE_1": "Zero configuration",
+  "SSO_NONE_FEATURE_2": "Email-based accounts",
+  "SSO_NONE_FEATURE_3": "Optional anonymous commenting",
+
+  "HOW_IT_WORKS_TITLE": "Up and Running in Minutes",
+  "HOW_IT_WORKS_SUBTITLE": "Three steps to better Moodle discussions.",
+  "HOW_IT_WORKS_STEP_1_TITLE": "Download the Plugin",
+  "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Download fastcomments-moodle from GitHub or install via the Moodle plugin directory.",
+  "HOW_IT_WORKS_STEP_2_TITLE": "Install & Configure",
+  "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Upload to your Moodle instance, enter your FastComments API key, and choose your SSO mode.",
+  "HOW_IT_WORKS_STEP_3_TITLE": "Discuss & Collaborate",
+  "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Comments and chat appear on courses and pages. Students are automatically signed in via Moodle SSO.",
+
+  "FAQ_MOODLE_FREE_TRIAL": "Is there a free trial?",
+  "FAQ_MOODLE_FREE_TRIAL_ANSWER": "Yes. FastComments offers a 30-day free trial with full access to all features, including SSO, collaborative chat, and the rich text editor. No credit card required to start.",
+  "FAQ_MOODLE_SSO": "How does SSO work with student accounts?",
+  "FAQ_MOODLE_SSO_ANSWER": "When SSO is enabled, the plugin automatically creates a FastComments account for each student using their Moodle display name, email, and avatar. Students are signed in seamlessly without any extra registration. Their notification preferences are also propagated from Moodle, so students receive comment notifications based on their existing settings without needing to configure anything separately.",
+  "FAQ_MOODLE_VERSIONS": "Which Moodle versions are supported?",
+  "FAQ_MOODLE_VERSIONS_ANSWER": "The FastComments Moodle plugin supports Moodle 4.1 and above. It is built as a standard Moodle local plugin and follows Moodle's plugin API conventions.",
+  "FAQ_MOODLE_GDPR": "Is FastComments GDPR compliant?",
+  "FAQ_MOODLE_GDPR_ANSWER": "Yes. FastComments is fully GDPR compliant with an optional EU-based CDN that keeps all data within Europe. We support data export requests, right-to-deletion, and provide a Data Processing Agreement (DPA) on request.",
+  "FAQ_MOODLE_COLLAB_CHAT": "What is collaborative chat?",
+  "FAQ_MOODLE_COLLAB_CHAT_ANSWER": "Collaborative chat is a real-time messaging mode that can be enabled alongside or instead of threaded comments. It's ideal for live study sessions, office hours, or group activities where students need instant back-and-forth communication.",
+  "FAQ_MOODLE_NOTIFICATIONS": "Can students control their notifications?",
+  "FAQ_MOODLE_NOTIFICATIONS_ANSWER": "Yes. Students can manage their notification preferences individually, choosing to receive email notifications, in-app notifications, both, or neither. Administrators can also configure default notification settings.",
+
+  "FINAL_CTA_TITLE": "Ready to Upgrade Moodle Discussions?",
+  "FINAL_CTA_DESCRIPTION": "Add threaded comments, collaborative chat, and SSO to your Moodle LMS in minutes."
+}

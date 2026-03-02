@@ -22,6 +22,16 @@
   "PORTAL_SIGN_IN_PROMPT": "Please sign in to access your account.",
   "RECIPE_INGREDIENTS": "Ingredients",
   "RECIPE_NUTRITION": "Nutrition",
+  "RECIPE_INSTRUCTIONS": "Instructions",
+  "RECIPE_PREP_TIME": "Prep Time",
+  "RECIPE_COOK_TIME": "Cook Time",
+  "RECIPE_ADDITIONAL_TIME": "Additional Time",
+  "RECIPE_TOTAL_TIME": "Total Time",
+  "RECIPE_YIELD": "Yield",
+  "RECIPE_PRINT": "Print Recipe",
+  "RECIPE_TIME_HOURS": "hr",
+  "RECIPE_TIME_MINUTES": "min",
+  "RECIPE_AUTHOR": "By",
   "GATED_JOIN_TO_SEE": "Join %s to see this content",
   "GATED_BECOME_MEMBER": "Become a Member",
   "PROFILE_SAVE": "Save Profile",
@@ -30,5 +40,7 @@
   "SIGNUP_CHECK_EMAIL": "Check your email",
   "SIGNUP_VERIFICATION_SENT": "We sent a verification link to your email address. Click the link to complete your signup.",
   "ERROR_404_MESSAGE": "The page you're looking for doesn't exist.",
-  "ERROR_404_GO_HOME": "Go Home"
+  "ERROR_404_GO_HOME": "Go Home",
+  "VIDEO_PROCESSING": "Video is being processed...",
+  "VIDEO_PROCESSING_FAILED": "Video processing failed"
 }
