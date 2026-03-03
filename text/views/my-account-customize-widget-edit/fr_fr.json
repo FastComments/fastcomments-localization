@@ -236,5 +236,9 @@
     "TEXT_TOS_CUSTOM_TEXT_NOTE": "Laissez ce champ vide pour utiliser le texte par défaut de cette langue.",
     "LABEL_TOS_TEXT_MODE": "Texte des CGU",
     "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN": "Afficher le détail des résultats après avoir répondu",
-    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "Après la réponse d'un utilisateur, afficher un récapitulatif agrégé de toutes les réponses pour cette page."
+    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "Après la réponse d'un utilisateur, afficher un récapitulatif agrégé de toutes les réponses pour cette page.",
+    "LABEL_DISABLE_PROFILE_COMMENTS": "Désactiver les commentaires du profil",
+    "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "Masque l'onglet des commentaires du profil lors de la consultation du profil d'un utilisateur depuis le widget.",
+    "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "Désactiver les messages directs",
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Masque l'onglet des messages directs lors de la consultation du profil d'un utilisateur depuis le widget."
 }

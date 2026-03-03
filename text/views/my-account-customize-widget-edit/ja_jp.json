@@ -236,5 +236,9 @@
     "TEXT_TOS_CUSTOM_TEXT_NOTE": "このロケールのデフォルトのテキストを使用するには、空のままにしておきます。",
     "LABEL_TOS_TEXT_MODE": "利用規約テキスト",
     "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN": "回答後に結果の内訳を表示",
-    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "ユーザーが回答した後、このページのすべての回答の集計された内訳を表示します。"
+    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "ユーザーが回答した後、このページのすべての回答の集計された内訳を表示します。",
+    "LABEL_DISABLE_PROFILE_COMMENTS": "プロフィールコメントを無効にする",
+    "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "ウィジェットからユーザーのプロフィールを表示するときに、プロフィールコメントタブを非表示にします。",
+    "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "ダイレクトメッセージを無効にする",
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "ウィジェットからユーザーのプロフィールを表示するときに、ダイレクト メッセージ タブを非表示にします。"
 }

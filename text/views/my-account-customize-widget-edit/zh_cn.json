@@ -236,5 +236,9 @@
     "TEXT_TOS_CUSTOM_TEXT_NOTE": "留空则使用此语言环境的默认文本。",
     "LABEL_TOS_TEXT_MODE": "服务条款文本",
     "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN": "显示回答后的结果细分",
-    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "用户回答后，显示此页面所有回复的汇总细分信息。"
+    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "用户回答后，显示此页面所有回复的汇总细分信息。",
+    "LABEL_DISABLE_PROFILE_COMMENTS": "关闭个人资料评论",
+    "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "在小部件中查看用户个人资料时，隐藏个人资料评论选项卡。",
+    "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "关闭私信",
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "在小部件中查看用户个人资料时，隐藏“私信”选项卡。"
 }

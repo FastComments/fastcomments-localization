@@ -236,5 +236,9 @@
     "TEXT_TOS_CUSTOM_TEXT_NOTE": "Déjelo vacío para utilizar el texto predeterminado para esta configuración regional.",
     "LABEL_TOS_TEXT_MODE": "Texto de las Condiciones de Servicio",
     "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN": "Mostrar desglose de resultados después de responder",
-    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "Después de que un usuario responda, muestre un desglose agregado de todas las respuestas para esta página."
+    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "Después de que un usuario responda, muestre un desglose agregado de todas las respuestas para esta página.",
+    "LABEL_DISABLE_PROFILE_COMMENTS": "Deshabilitar comentarios de perfil",
+    "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "Oculta la pestaña de comentarios del perfil al ver el perfil de un usuario desde el widget.",
+    "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "Desactivar mensajes directos",
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Oculta la pestaña de mensajes directos al ver el perfil de un usuario desde el widget."
 }

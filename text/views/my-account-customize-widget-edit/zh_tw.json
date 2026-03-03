@@ -236,5 +236,9 @@
     "TEXT_TOS_CUSTOM_TEXT_NOTE": "留空則使用此語言環境的預設文字。",
     "LABEL_TOS_TEXT_MODE": "服務條款文本",
     "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN": "顯示回答後的結果細分",
-    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "使用者回答後，顯示此頁面所有回應的總計細分資訊。"
+    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "使用者回答後，顯示此頁面所有回應的總計細分資訊。",
+    "LABEL_DISABLE_PROFILE_COMMENTS": "關閉個人資料評論",
+    "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "在小部件中查看用戶個人資料時，隱藏個人資料評論標籤。",
+    "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "關閉私訊",
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "在小工具中查看使用者個人資料時，隱藏「私訊」標籤。"
 }

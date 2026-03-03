@@ -236,5 +236,9 @@
     "TEXT_TOS_CUSTOM_TEXT_NOTE": "Lad feltet stå tomt for at bruge standardteksten til denne lokalitet.",
     "LABEL_TOS_TEXT_MODE": "Tekst af servicevilkår",
     "LABEL_WIDGET_QUESTION_SHOW_BREAKDOWN": "Vis resultatoversigt efter besvarelse",
-    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "Når en bruger har svaret, vises en samlet oversigt over alle svar for denne side."
+    "TEXT_WIDGET_QUESTION_SHOW_BREAKDOWN_NOTE": "Når en bruger har svaret, vises en samlet oversigt over alle svar for denne side.",
+    "LABEL_DISABLE_PROFILE_COMMENTS": "Deaktiver profilkommentarer",
+    "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "Skjuler fanen med profilkommentarer, når en brugers profil vises fra widgetten.",
+    "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "Deaktiver direkte beskeder",
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Skjuler fanen med direkte beskeder, når en brugers profil vises fra widgetten."
 }
