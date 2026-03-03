@@ -28,7 +28,9 @@
   "RECIPE_ADDITIONAL_TIME": "Additional Time",
   "RECIPE_TOTAL_TIME": "Total Time",
   "RECIPE_YIELD": "Yield",
-  "RECIPE_PRINT": "Print Recipe",
+  "RECIPE_PRINT": "Print",
+  "RECIPE_PIN": "Pin",
+  "RECIPE_JUMP_TO": "Jump to Recipe",
   "RECIPE_TIME_HOURS": "hr",
   "RECIPE_TIME_MINUTES": "min",
   "RECIPE_AUTHOR": "By",
@@ -42,5 +44,15 @@
   "ERROR_404_MESSAGE": "The page you're looking for doesn't exist.",
   "ERROR_404_GO_HOME": "Go Home",
   "VIDEO_PROCESSING": "Video is being processed...",
-  "VIDEO_PROCESSING_FAILED": "Video processing failed"
+  "VIDEO_PROCESSING_FAILED": "Video processing failed",
+  "ARTICLE_BROWSE_MORE": "Browse more recipes:",
+  "ARTICLE_UPDATED": "updated",
+  "SEARCH_PLACEHOLDER": "Search recipes...",
+  "SEARCH_TITLE": "Search",
+  "SEARCH_NO_RESULTS": "No results found.",
+  "SEARCH_RESULTS_FOR": "Results for",
+  "BREADCRUMB_HOME": "Home",
+  "BREADCRUMB_RECIPES": "Recipes",
+  "RECIPE_CUISINE": "Cuisine",
+  "RECIPE_KEYWORDS": "Keywords"
 }
