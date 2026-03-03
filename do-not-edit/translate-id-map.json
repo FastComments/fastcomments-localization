@@ -325,7 +325,7 @@
         "my-account-site-memberships": 42,
         "my-account-site-nav": 21,
         "my-account-sites": 19,
-        "my-account-site-builder-component": 181,
+        "my-account-site-builder-component": 183,
         "my-account-site-content-edit-component": 4,
         "my-account-site-builder": 11,
         "my-account-site-collections": 69,
@@ -6610,7 +6610,9 @@
         "t178": "VIDEO_STATUS_ENCRYPTING",
         "t179": "VIDEO_STATUS_COMPLETE",
         "t180": "VIDEO_STATUS_FAILED",
-        "t181": "PREVIEW_VIDEO"
+        "t181": "PREVIEW_VIDEO",
+        "t182": "BTN_EXPAND_PROPERTIES",
+        "t183": "BTN_COLLAPSE_PROPERTIES"
     },
     "my-account-site-content-edit-component": {
         "t1": "PLACEHOLDER_CONTENT",
