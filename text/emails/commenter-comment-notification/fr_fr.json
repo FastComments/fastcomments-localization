@@ -1,11 +1,11 @@
 {
     "BANNER_TEXT": "Réponses aux nouveaux commentaires",
     "FROM_NAME": "Robot FastComments",
-    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>new Réponse<% } else { %>new Réponses<% } %> à <% if(replyCount > 1) { %>votre commentaire<% } else {%>votre commentaire<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) { %>nouvelle réponse<% } else { %>nouvelles réponses<% } %> à votre commentaire",
     "VIEW_REPLIES": "Afficher et répondre",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Désactiver les notifications pour ce commentaire",
     "INTRO": "Hey <%= username %>,",
     "UNSUBSCRIBE_HERE": "Se désabonner",
     "REPLY_BY_EMAIL_TIP": "Vous pouvez répondre directement à cet e-mail pour publier votre réponse.",
-    "RECENT_COMMENT_COUNT": "Vous avez reçu <% if(replyCount > 1) { %>des réponses<% } else { %>une réponse<% } %> à vos<% if(commentsSummary.length > 1) {%> commentaires<% } else { %> commentaire<% } %>."
+    "RECENT_COMMENT_COUNT": "Vous avez reçu <% if(replyCount > 1) { %>des réponses<% } else { %>une réponse<% } %> à <% if(commentsSummary.length > 1) { %>vos commentaires<% } else { %>votre commentaire<% } %>."
 }
