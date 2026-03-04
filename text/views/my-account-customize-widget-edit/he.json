@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "השבתת תגובות בפרופיל",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "מסתיר את לשונית תגובות הפרופיל בעת צפייה בפרופיל של משתמש מהווידג'ט.",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "השבתת הודעות ישירות",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "מסתיר את לשונית ההודעות הישירות בעת צפייה בפרופיל של משתמש מהווידג'ט."
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "מסתיר את לשונית ההודעות הישירות בעת צפייה בפרופיל של משתמש מהווידג'ט.",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "אזכור מצב השלמה אוטומטית",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "השלמה אוטומטית של כל המשתמשים",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "הסתר את מדור מנהלים/מנהלי מערכת בהשלמה אוטומטית",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "השלמה אוטומטית באותו עמוד בלבד",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "שולט באילו משתמשים מופיעים בתפריט הנפתח של השלמה אוטומטית של אזכור. מנהלים ומנהלי קבוצות עדיין יכולים להופיע במקטעים \"לפי דף\" ו\"לפי אתר\" אך לא יסומנו כמנהלים או מנהלי קבוצות."
 }

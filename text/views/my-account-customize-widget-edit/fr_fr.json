@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "Désactiver les commentaires du profil",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "Masque l'onglet des commentaires du profil lors de la consultation du profil d'un utilisateur depuis le widget.",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "Désactiver les messages directs",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Masque l'onglet des messages directs lors de la consultation du profil d'un utilisateur depuis le widget."
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Masque l'onglet des messages directs lors de la consultation du profil d'un utilisateur depuis le widget.",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "Mentionnez le mode de saisie automatique",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "Saisie semi-automatique pour tous les utilisateurs",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "Masquer la section Administrateurs/Modérateurs dans la saisie semi-automatique",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "Saisie semi-automatique uniquement sur la même page",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "Contrôle les utilisateurs qui apparaissent dans la liste déroulante de saisie semi-automatique des mentions. Les administrateurs et les modérateurs peuvent toujours apparaître dans les sections « Par page » et « Par site », mais ne seront pas mis en évidence en tant qu'administrateurs ou modérateurs."
 }

@@ -163,7 +163,7 @@
         "my-account-customize-email-templates": 17,
         "my-account-customize-widget": 13,
         "my-account-customize-widget-delete": 5,
-        "my-account-customize-widget-edit": 243,
+        "my-account-customize-widget-edit": 248,
         "my-account-delete": 13,
         "my-account-delete-failure": 4,
         "my-account-delete-success": 5,
@@ -3530,7 +3530,12 @@
         "t240": "LABEL_DISABLE_PROFILE_COMMENTS",
         "t241": "TEXT_DISABLE_PROFILE_COMMENTS_NOTE",
         "t242": "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES",
-        "t243": "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE"
+        "t243": "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE",
+        "t244": "LABEL_MENTION_AUTOCOMPLETE_MODE",
+        "t245": "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS",
+        "t246": "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS",
+        "t247": "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE",
+        "t248": "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE"
     },
     "my-account-delete": {
         "t1": "PAGE_TITLE",

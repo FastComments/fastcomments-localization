@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "Onemogući komentare profila",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "Skriva karticu s komentarima profila prilikom pregledavanja korisničkog profila iz widgeta.",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "Onemogući izravne poruke",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Skriva karticu izravnih poruka prilikom pregledavanja korisničkog profila iz widgeta."
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Skriva karticu izravnih poruka prilikom pregledavanja korisničkog profila iz widgeta.",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "Spomenite način automatskog dovršavanja",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "Automatsko dovršavanje za sve korisnike",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "Sakrij odjeljak Administratori/Moderatori u automatskom dovršavanju",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "Samodovršavanje samo na istoj stranici",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "Kontrolira koji se korisnici pojavljuju u padajućem izborniku za automatsko dovršavanje spominjanja. Administratori i moderatori i dalje se mogu prikazivati u odjeljcima Po stranici i Po web-mjestu, ali neće biti istaknuti kao administratori ili moderatori."
 }

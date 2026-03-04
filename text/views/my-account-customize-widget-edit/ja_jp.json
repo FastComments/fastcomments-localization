@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "プロフィールコメントを無効にする",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "ウィジェットからユーザーのプロフィールを表示するときに、プロフィールコメントタブを非表示にします。",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "ダイレクトメッセージを無効にする",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "ウィジェットからユーザーのプロフィールを表示するときに、ダイレクト メッセージ タブを非表示にします。"
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "ウィジェットからユーザーのプロフィールを表示するときに、ダイレクト メッセージ タブを非表示にします。",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "メンションオートコンプリートモード",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "すべてのユーザーを自動補完",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "オートコンプリートの管理者/モデレーターセクションを非表示にする",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "同じページのみのオートコンプリート",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "メンションのオートコンプリートドロップダウンに表示されるユーザーを制御します。管理者とモデレーターは「ページ別」および「サイト別」セクションに表示されますが、管理者またはモデレーターとしてハイライト表示されません。"
 }

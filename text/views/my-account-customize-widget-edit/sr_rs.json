@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "Онемогући коментаре профила",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "Сакрива картицу коментара профила када се профил корисника прегледа из виџета.",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "Онемогући директне поруке",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Сакрива картицу директних порука када се профил корисника прегледа из виџета."
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Сакрива картицу директних порука када се профил корисника прегледа из виџета.",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "Поменути режим аутоматског довршавања",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "Аутоматско довршавање свих корисника",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "Сакриј одељак Администратори/Модератори у аутоматском довршавању",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "Аутоматско довршавање само на истој страници",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "Контролише који се корисници појављују у падајућем менију за аутоматско довршавање помињања. Администратори и модератори се и даље могу појављивати у одељцима По страници и По сајту, али неће бити истакнути као администратори или модератори."
 }

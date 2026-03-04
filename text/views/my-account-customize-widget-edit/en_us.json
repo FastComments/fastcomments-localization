@@ -240,5 +240,10 @@
   "PLACEHOLDER_TOS_TEXT": "I agree to the Terms of Service",
   "TEXT_TOS_CUSTOM_TEXT_NOTE": "Leave empty to use the default text for this locale.",
   "LABEL_TOS_LAST_UPDATED": "TOS Last Updated Date",
-  "TEXT_TOS_LAST_UPDATED_NOTE": "When set, users who accepted before this date will need to accept again."
+  "TEXT_TOS_LAST_UPDATED_NOTE": "When set, users who accepted before this date will need to accept again.",
+  "LABEL_MENTION_AUTOCOMPLETE_MODE": "Mention AutoComplete Mode",
+  "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "AutoComplete All Users",
+  "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "Hide Admins/Moderators Section in AutoComplete",
+  "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "AutoComplete on Same Page Only",
+  "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "Controls which users appear in the mention autocomplete dropdown. Admins and moderators can still appear in the By Page and By Site sections but won't be highlighted as admins or mods."
 }

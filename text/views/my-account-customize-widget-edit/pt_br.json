@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "Desativar comentários no perfil",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "Oculta a aba de comentários do perfil ao visualizar o perfil de um usuário no widget.",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "Desativar mensagens diretas",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Oculta a aba de mensagens diretas ao visualizar o perfil de um usuário no widget."
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Oculta a aba de mensagens diretas ao visualizar o perfil de um usuário no widget.",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "Modo de preenchimento automático",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "Preenchimento automático para todos os usuários",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "Ocultar a seção de administradores/moderadores no preenchimento automático",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "Preenchimento automático somente na mesma página",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "Controla quais usuários aparecem na lista suspensa de preenchimento automático de menções. Administradores e moderadores ainda podem aparecer nas seções Por Página e Por Site, mas não serão destacados como administradores ou moderadores."
 }

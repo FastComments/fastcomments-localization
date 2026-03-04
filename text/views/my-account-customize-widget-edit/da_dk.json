@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "Deaktiver profilkommentarer",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "Skjuler fanen med profilkommentarer, når en brugers profil vises fra widgetten.",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "Deaktiver direkte beskeder",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Skjuler fanen med direkte beskeder, når en brugers profil vises fra widgetten."
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Skjuler fanen med direkte beskeder, når en brugers profil vises fra widgetten.",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "Nævn Autofuldførelsestilstand",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "Autofuldfør alle brugere",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "Skjul administrator-/moderatorsektionen i Autofuldførelse",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "Autofuldførelse kun på samme side",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "Styrer hvilke brugere der vises i rullemenuen til automatisk omtale. Administratorer og moderatorer kan stadig vises i afsnittene Efter side og Efter websted, men vil ikke blive fremhævet som administratorer eller moderatorer."
 }

@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "프로필 댓글 사용 안 함",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "위젯에서 사용자 프로필을 볼 때 프로필 댓글 탭을 숨깁니다.",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "다이렉트 메시지 비활성화",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "위젯에서 사용자 프로필을 볼 때 다이렉트 메시지 탭을 숨깁니다."
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "위젯에서 사용자 프로필을 볼 때 다이렉트 메시지 탭을 숨깁니다.",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "자동 완성 모드 언급",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "모든 사용자 자동 완성",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "자동 완성에서 관리자/운영자 섹션 숨기기",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "같은 페이지에서만 자동 완성 기능 사용",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "멘션 자동 완성 드롭다운 메뉴에 표시되는 사용자를 제어합니다. 관리자와 운영자는 '페이지별' 및 '사이트별' 섹션에는 계속 표시될 수 있지만, 관리자 또는 운영자로 강조 표시되지는 않습니다."
 }

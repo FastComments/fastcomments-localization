@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "Deshabilitar comentarios de perfil",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "Oculta la pestaña de comentarios del perfil al ver el perfil de un usuario desde el widget.",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "Desactivar mensajes directos",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Oculta la pestaña de mensajes directos al ver el perfil de un usuario desde el widget."
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Oculta la pestaña de mensajes directos al ver el perfil de un usuario desde el widget.",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "Mencionar el modo de autocompletar",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "Autocompletar todos los usuarios",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "Ocultar la sección de administradores/moderadores en Autocompletar",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "Autocompletar solo en la misma página",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "Controla qué usuarios aparecen en el menú desplegable de autocompletado de menciones. Los administradores y moderadores pueden seguir apareciendo en las secciones \"Por página\" y \"Por sitio\", pero no aparecerán destacados como administradores o moderadores."
 }

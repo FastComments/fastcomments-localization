@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "关闭个人资料评论",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "在小部件中查看用户个人资料时，隐藏个人资料评论选项卡。",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "关闭私信",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "在小部件中查看用户个人资料时，隐藏“私信”选项卡。"
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "在小部件中查看用户个人资料时，隐藏“私信”选项卡。",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "提及自动完成模式",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "自动完成所有用户",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "隐藏自动完成功能中的管理员/版主部分",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "仅在同一页面上启用自动完成功能",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "控制哪些用户会显示在提及自动完成下拉菜单中。管理员和版主仍会显示在“按页面”和“按站点”部分，但不会以管理员或版主身份突出显示。"
 }

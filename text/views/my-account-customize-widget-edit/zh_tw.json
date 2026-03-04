@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "關閉個人資料評論",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "在小部件中查看用戶個人資料時，隱藏個人資料評論標籤。",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "關閉私訊",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "在小工具中查看使用者個人資料時，隱藏「私訊」標籤。"
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "在小工具中查看使用者個人資料時，隱藏「私訊」標籤。",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "提及自動完成模式",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "自動完成所有用戶",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "隱藏自動完成功能中的管理員/版主部分",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "僅在同一頁啟用自動完成功能",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "控制哪些使用者會顯示在提及自動完成下拉式選單中。管理員和版主仍會顯示在「按頁面」和「按網站」部分，但不會以管理員或版主身分加以反白顯示。"
 }

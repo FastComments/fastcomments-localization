@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "Profil Yorumlarını Devre Dışı Bırak",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "Widget üzerinden bir kullanıcının profilini görüntülerken profil yorumları sekmesini gizler.",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "Direkt Mesajları Devre Dışı Bırak",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Widget üzerinden bir kullanıcının profilini görüntülerken doğrudan mesajlar sekmesini gizler."
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Widget üzerinden bir kullanıcının profilini görüntülerken doğrudan mesajlar sekmesini gizler.",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "Otomatik Tamamlama Modundan Bahsedin",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "Tüm Kullanıcılar İçin Otomatik Tamamlama",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "Otomatik Tamamlama'da Yöneticiler/Moderatörler Bölümünü Gizle",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "Yalnızca Aynı Sayfada Otomatik Tamamlama",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "Bahsetme otomatik tamamlama açılır menüsünde hangi kullanıcıların görüneceğini kontrol eder. Yöneticiler ve moderatörler \"Sayfaya Göre\" ve \"Siteye Göre\" bölümlerinde görünmeye devam edebilirler ancak yönetici veya moderatör olarak vurgulanmayacaklardır."
 }

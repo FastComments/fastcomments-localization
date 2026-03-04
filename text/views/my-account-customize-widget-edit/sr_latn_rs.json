@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "Onemogući komentare profila",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "Skriva karticu komentara profila prilikom pregledavanja korisničkog profila iz vidžeta.",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "Onemogući direktne poruke",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Skriva karticu direktne poruke prilikom pregledavanja korisničkog profila iz vidžeta."
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Skriva karticu direktne poruke prilikom pregledavanja korisničkog profila iz vidžeta.",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "Mention AutoComplete Mode",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "Automatsko dovršavanje svih korisnika",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "Sakrij odeljak Administratori / Moderatori u AutoComplete",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "AutoComplete samo na istoj stranici",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "Kontroliše koji se korisnici pojavljuju u padajućem meniju autocomplete. Administratori i moderatori i dalje mogu da se pojave u odeljcima Po stranici i Po sajtu, ali neće biti istaknuti kao administratori ili modovi."
 }

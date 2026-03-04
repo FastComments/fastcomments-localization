@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "Profielreacties uitschakelen",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "Verbergt het tabblad met profielopmerkingen wanneer je het profiel van een gebruiker bekijkt via de widget.",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "Schakel directe berichten uit",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Verbergt het tabblad met directe berichten wanneer je het profiel van een gebruiker bekijkt via de widget."
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Verbergt het tabblad met directe berichten wanneer je het profiel van een gebruiker bekijkt via de widget.",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "Vermeld de automatische aanvulmodus",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "Automatisch aanvullen voor alle gebruikers",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "Verberg de sectie Beheerders/Moderators in de automatische aanvulling.",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "Automatisch aanvullen alleen op dezelfde pagina",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "Hiermee kunt u bepalen welke gebruikers in het dropdownmenu voor vermeldingen verschijnen. Beheerders en moderators kunnen nog steeds in de secties 'Per pagina' en 'Per site' verschijnen, maar worden niet als zodanig gemarkeerd."
 }

@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "Onemogoči komentarje profila",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "Skrije zavihek s komentarji profila, ko si uporabnikov profil ogledujete iz pripomočka.",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "Onemogoči neposredna sporočila",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Skrije zavihek z neposrednimi sporočili, ko si uporabnikov profil ogledujete iz pripomočka."
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Skrije zavihek z neposrednimi sporočili, ko si uporabnikov profil ogledujete iz pripomočka.",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "Omeni način samodokončanja",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "Samodokončaj vse uporabnike",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "Skrij razdelek Skrij/Moderatorji v samodokončanju",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "Samodokončaj samo na isti strani",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "Določa, kateri uporabniki se prikažejo v spustnem meniju za samodejno dokončanje omembe. Skrbniki in moderatorji se lahko še vedno prikažejo v razdelkih Po strani in Po spletnem mestu, vendar ne bodo označeni kot skrbniki ali moderatorji."
 }

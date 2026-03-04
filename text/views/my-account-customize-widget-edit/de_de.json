@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "Profilkommentare deaktivieren",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "Blendet die Registerkarte „Profilkommentare“ aus, wenn das Profil eines Benutzers über das Widget angezeigt wird.",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "Direktnachrichten deaktivieren",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Blendet die Registerkarte „Direktnachrichten“ aus, wenn das Profil eines Benutzers über das Widget angezeigt wird."
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Blendet die Registerkarte „Direktnachrichten“ aus, wenn das Profil eines Benutzers über das Widget angezeigt wird.",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "AutoVervollständigen-Modus erwähnen",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "Alle Benutzer automatisch vervollständigen",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "Abschnitt „Admins/Moderatoren“ in der AutoVervollständigung ausblenden",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "Autovervollständigung nur auf derselben Seite",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "Steuert, welche Benutzer in der Autovervollständigungsliste für Erwähnungen angezeigt werden. Administratoren und Moderatoren können weiterhin in den Abschnitten „Nach Seite“ und „Nach Website“ erscheinen, werden aber nicht als Administratoren oder Moderatoren hervorgehoben."
 }

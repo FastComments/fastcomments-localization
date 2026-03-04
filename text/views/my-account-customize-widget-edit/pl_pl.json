@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "Wyłącz komentarze w profilu",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "Ukrywa kartę komentarzy profilu podczas przeglądania profilu użytkownika w widżecie.",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "Wyłącz wiadomości bezpośrednie",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Ukrywa kartę wiadomości bezpośrednich podczas przeglądania profilu użytkownika w widżecie."
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Ukrywa kartę wiadomości bezpośrednich podczas przeglądania profilu użytkownika w widżecie.",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "Tryb autouzupełniania wzmianek",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "Autouzupełnianie wszystkich użytkowników",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "Ukryj sekcję administratorów/moderatorów w autouzupełnianiu",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "Autouzupełnianie tylko na tej samej stronie",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "Kontroluje, którzy użytkownicy pojawiają się w rozwijanej liście autouzupełniania wzmianek. Administratorzy i moderatorzy nadal mogą pojawiać się w sekcjach „Według strony” i „Według witryny”, ale nie będą wyróżniani jako administratorzy ani moderatorzy."
 }

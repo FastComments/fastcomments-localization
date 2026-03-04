@@ -240,5 +240,10 @@
     "LABEL_DISABLE_PROFILE_COMMENTS": "Disabilita i commenti del profilo",
     "TEXT_DISABLE_PROFILE_COMMENTS_NOTE": "Nasconde la scheda dei commenti del profilo quando si visualizza il profilo di un utente dal widget.",
     "LABEL_DISABLE_PROFILE_DIRECT_MESSAGES": "Disabilita i messaggi diretti",
-    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Nasconde la scheda dei messaggi diretti quando si visualizza il profilo di un utente dal widget."
+    "TEXT_DISABLE_PROFILE_DIRECT_MESSAGES_NOTE": "Nasconde la scheda dei messaggi diretti quando si visualizza il profilo di un utente dal widget.",
+    "LABEL_MENTION_AUTOCOMPLETE_MODE": "Menzione Modalità di completamento automatico",
+    "OPTION_MENTION_AUTOCOMPLETE_ALL_USERS": "Completamento automatico per tutti gli utenti",
+    "OPTION_MENTION_AUTOCOMPLETE_HIDE_ADMINS": "Nascondi la sezione Amministratori/Moderatori nel Completamento automatico",
+    "OPTION_MENTION_AUTOCOMPLETE_SAME_PAGE": "Completamento automatico solo sulla stessa pagina",
+    "TEXT_MENTION_AUTOCOMPLETE_MODE_NOTE": "Controlla quali utenti compaiono nel menu a discesa del completamento automatico delle menzioni. Amministratori e moderatori possono ancora comparire nelle sezioni Per pagina e Per sito, ma non saranno evidenziati come amministratori o moderatori."
 }
