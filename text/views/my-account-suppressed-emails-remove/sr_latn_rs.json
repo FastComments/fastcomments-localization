@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Uklonite suzbijanje e-pošte - FastComments",
+    "HEADING": "Potvrdite uklanjanje supresije",
+    "CONFIRMATION_MESSAGE": "Da li ste sigurni da želite da uklonite ovo potiskivanje? Od provajdera e-pošte će biti zatraženo da deblokira ovu adresu.",
+    "LABEL_EMAIL": "E-mail poruka",
+    "LABEL_PROVIDER": "Dobavljač usluga",
+    "LABEL_TYPE": "Kategorije",
+    "LABEL_REASON": "Obrazloženje",
+    "LABEL_NO_REASON": "Nije naveden razlog",
+    "BUTTON_CONFIRM": "Uklonite suzbijanje",
+    "BUTTON_CANCEL": "Pretraživanje",
+    "ERROR_NOT_FOUND": "Suzbijanje nije pronađeno.",
+    "ERROR_RATE_LIMIT_EMAIL": "Ova e-pošta je već bila nepotisnuta u poslednjih 30 dana. Sačekajte pre nego što pokušate ponovo.",
+    "ERROR_RATE_LIMIT_TENANT": "Vaš nalog je dostigao mesečni limit za uklanjanje (5 mesečno). Pokušajte ponovo sledećeg meseca."
+}

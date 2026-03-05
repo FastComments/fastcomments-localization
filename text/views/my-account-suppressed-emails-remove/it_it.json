@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Rimuovi la soppressione delle e-mail - FastComments",
+    "HEADING": "Conferma rimozione soppressione",
+    "CONFIRMATION_MESSAGE": "Vuoi davvero rimuovere questa soppressione? Il provider di posta elettronica chiederà di sbloccare questo indirizzo.",
+    "LABEL_EMAIL": "E-mail",
+    "LABEL_PROVIDER": "Fornitore",
+    "LABEL_TYPE": "Tipo",
+    "LABEL_REASON": "Motivo",
+    "LABEL_NO_REASON": "Nessuna ragione fornita",
+    "BUTTON_CONFIRM": "Rimuovi soppressione",
+    "BUTTON_CANCEL": "Cancellare",
+    "ERROR_NOT_FOUND": "Soppressione non trovata.",
+    "ERROR_RATE_LIMIT_EMAIL": "Questa email è già stata ripristinata negli ultimi 30 giorni. Attendi prima di riprovare.",
+    "ERROR_RATE_LIMIT_TENANT": "Il tuo account ha raggiunto il limite mensile di rimozioni (5 al mese). Riprova il mese prossimo."
+}

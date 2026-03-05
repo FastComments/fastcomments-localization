@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "移除邮件屏蔽 - FastComments",
+    "HEADING": "确认移除抑制",
+    "CONFIRMATION_MESSAGE": "您确定要解除此屏蔽吗？我们将请求电子邮件服务提供商解除对此地址的屏蔽。",
+    "LABEL_EMAIL": "电子邮件",
+    "LABEL_PROVIDER": "提供者",
+    "LABEL_TYPE": "类型",
+    "LABEL_REASON": "原因",
+    "LABEL_NO_REASON": "未提供理由",
+    "BUTTON_CONFIRM": "移除抑制",
+    "BUTTON_CANCEL": "取消",
+    "ERROR_NOT_FOUND": "未找到抑制项。",
+    "ERROR_RATE_LIMIT_EMAIL": "此邮件在过去 30 天内已被解除屏蔽。请稍等片刻后再试。",
+    "ERROR_RATE_LIMIT_TENANT": "您的账户已达到每月删除次数上限（每月 5 次）。请下个月再试。"
+}

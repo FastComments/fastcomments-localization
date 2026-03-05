@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Odstranite blokiranje e-pošte - FastComments",
+    "HEADING": "Potrdi odstranitev zatiranja",
+    "CONFIRMATION_MESSAGE": "Ali ste prepričani, da želite odstraniti to blokiranje? Ponudnik e-pošte bo pozvan, da odblokira ta naslov.",
+    "LABEL_EMAIL": "E-pošta",
+    "LABEL_PROVIDER": "Ponudnik",
+    "LABEL_TYPE": "Vrsta",
+    "LABEL_REASON": "Razlog",
+    "LABEL_NO_REASON": "Razlog ni bil naveden",
+    "BUTTON_CONFIRM": "Odstrani zatiranje",
+    "BUTTON_CANCEL": "Prekliči",
+    "ERROR_NOT_FOUND": "Zatiranje ni bilo najdeno.",
+    "ERROR_RATE_LIMIT_EMAIL": "To e-poštno sporočilo je bilo v zadnjih 30 dneh že odstranjeno. Pred ponovnim poskusom počakajte.",
+    "ERROR_RATE_LIMIT_TENANT": "Vaš račun je dosegel mesečno omejitev odstranitev (5 na mesec). Poskusite znova naslednji mesec."
+}

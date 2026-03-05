@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "E-Mail-Sperre aufheben – FastComments",
+    "HEADING": "Bestätigung der Unterdrückungsbeseitigung",
+    "CONFIRMATION_MESSAGE": "Sind Sie sicher, dass Sie diese Sperre aufheben möchten? Der E-Mail-Anbieter wird gebeten, diese Adresse zu entsperren.",
+    "LABEL_EMAIL": "E-Mail",
+    "LABEL_PROVIDER": "Anbieter",
+    "LABEL_TYPE": "Typ",
+    "LABEL_REASON": "Grund",
+    "LABEL_NO_REASON": "Es wurde kein Grund angegeben.",
+    "BUTTON_CONFIRM": "Unterdrückung aufheben",
+    "BUTTON_CANCEL": "Stornieren",
+    "ERROR_NOT_FOUND": "Unterdrückung nicht gefunden.",
+    "ERROR_RATE_LIMIT_EMAIL": "Diese E-Mail wurde in den letzten 30 Tagen bereits zugestellt. Bitte warten Sie, bevor Sie es erneut versuchen.",
+    "ERROR_RATE_LIMIT_TENANT": "Ihr Konto hat das monatliche Abhebungslimit (5 Abhebungen pro Monat) erreicht. Bitte versuchen Sie es nächsten Monat erneut."
+}

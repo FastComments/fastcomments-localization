@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Fjern e-mail-undertrykkelse - FastComments",
+    "HEADING": "Bekræft fjernelse af undertrykkelse",
+    "CONFIRMATION_MESSAGE": "Er du sikker på, at du vil fjerne denne undertrykkelse? E-mailudbyderen vil blive bedt om at fjerne blokeringen af denne adresse.",
+    "LABEL_EMAIL": "E-mail",
+    "LABEL_PROVIDER": "Udbyder",
+    "LABEL_TYPE": "Type",
+    "LABEL_REASON": "Årsag",
+    "LABEL_NO_REASON": "Ingen begrundelse angivet",
+    "BUTTON_CONFIRM": "Fjern undertrykkelse",
+    "BUTTON_CANCEL": "Ophæve",
+    "ERROR_NOT_FOUND": "Undertrykkelse ikke fundet.",
+    "ERROR_RATE_LIMIT_EMAIL": "Denne e-mail er allerede blevet fjernet fra undertrykkelsen inden for de sidste 30 dage. Vent venligst, før du prøver igen.",
+    "ERROR_RATE_LIMIT_TENANT": "Din konto har nået den månedlige grænse for fjernelse (5 pr. måned). Prøv igen næste måned."
+}

@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "メール抑制を解除 - FastComments",
+    "HEADING": "抑制解除の確認",
+    "CONFIRMATION_MESSAGE": "この抑制を解除してもよろしいですか？メールプロバイダーにこのアドレスのブロックを解除するよう依頼します。",
+    "LABEL_EMAIL": "メール",
+    "LABEL_PROVIDER": "プロバイダー",
+    "LABEL_TYPE": "タイプ",
+    "LABEL_REASON": "理由",
+    "LABEL_NO_REASON": "理由は不明",
+    "BUTTON_CONFIRM": "抑制を解除",
+    "BUTTON_CANCEL": "キャンセル",
+    "ERROR_NOT_FOUND": "抑制が見つかりません。",
+    "ERROR_RATE_LIMIT_EMAIL": "このメールは過去30日間に既に配信停止解除されています。しばらくお待ちの上、もう一度お試しください。",
+    "ERROR_RATE_LIMIT_TENANT": "アカウントの月間削除上限（月5件）に達しました。来月もう一度お試しください。"
+}

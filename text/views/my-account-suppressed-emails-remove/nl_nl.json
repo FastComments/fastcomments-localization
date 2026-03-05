@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "E-mailonderdrukking opheffen - FastComments",
+    "HEADING": "Bevestig verwijdering van onderdrukking",
+    "CONFIRMATION_MESSAGE": "Weet u zeker dat u deze blokkering wilt opheffen? De e-mailprovider zal worden gevraagd dit adres te deblokkeren.",
+    "LABEL_EMAIL": "E-mail",
+    "LABEL_PROVIDER": "Aanbieder",
+    "LABEL_TYPE": "Type",
+    "LABEL_REASON": "Reden",
+    "LABEL_NO_REASON": "Geen reden opgegeven",
+    "BUTTON_CONFIRM": "Verwijder onderdrukking",
+    "BUTTON_CANCEL": "Annuleren",
+    "ERROR_NOT_FOUND": "Onderdrukking niet gevonden.",
+    "ERROR_RATE_LIMIT_EMAIL": "Deze e-mail is de afgelopen 30 dagen al eens geactiveerd. Wacht even voordat u het opnieuw probeert.",
+    "ERROR_RATE_LIMIT_TENANT": "Je account heeft de maandelijkse limiet voor verwijderingen bereikt (5 per maand). Probeer het volgende maand opnieuw."
+}

@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "E-posta Engellemeyi Kaldır - FastComments",
+    "HEADING": "Baskının Kaldırıldığını Onaylayın",
+    "CONFIRMATION_MESSAGE": "Bu engellemeyi kaldırmak istediğinizden emin misiniz? E-posta sağlayıcınızdan bu adresin engellemesini kaldırması istenecektir.",
+    "LABEL_EMAIL": "E-posta",
+    "LABEL_PROVIDER": "Sağlayıcı",
+    "LABEL_TYPE": "Tip",
+    "LABEL_REASON": "Sebep",
+    "LABEL_NO_REASON": "Gerekçe belirtilmedi.",
+    "BUTTON_CONFIRM": "Baskıyı Kaldır",
+    "BUTTON_CANCEL": "İptal etmek",
+    "ERROR_NOT_FOUND": "Baskılama bulunamadı.",
+    "ERROR_RATE_LIMIT_EMAIL": "Bu e-posta son 30 gün içinde zaten engellemeden kaldırıldı. Lütfen tekrar denemeden önce bekleyin.",
+    "ERROR_RATE_LIMIT_TENANT": "Hesabınızın aylık silme limiti (ayda 5) doldu. Lütfen önümüzdeki ay tekrar deneyin."
+}

@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Remover supressão de e-mail - FastComments",
+    "HEADING": "Confirmar a remoção da supressão",
+    "CONFIRMATION_MESSAGE": "Tem certeza de que deseja remover essa supressão? O provedor de e-mail será solicitado a desbloquear este endereço.",
+    "LABEL_EMAIL": "E-mail",
+    "LABEL_PROVIDER": "Fornecedor",
+    "LABEL_TYPE": "Tipo",
+    "LABEL_REASON": "Razão",
+    "LABEL_NO_REASON": "Nenhuma justificativa foi fornecida.",
+    "BUTTON_CONFIRM": "Remover Supressão",
+    "BUTTON_CANCEL": "Cancelar",
+    "ERROR_NOT_FOUND": "Supressão não encontrada.",
+    "ERROR_RATE_LIMIT_EMAIL": "Este e-mail já foi exibido novamente nos últimos 30 dias. Aguarde antes de tentar novamente.",
+    "ERROR_RATE_LIMIT_TENANT": "Sua conta atingiu o limite mensal de remoções (5 por mês). Tente novamente no próximo mês."
+}

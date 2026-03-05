@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Eliminar la supresión de correo electrónico - FastComments",
+    "HEADING": "Confirmar la eliminación de la supresión",
+    "CONFIRMATION_MESSAGE": "¿Seguro que desea eliminar esta supresión? Se le solicitará al proveedor de correo electrónico que desbloquee esta dirección.",
+    "LABEL_EMAIL": "Correo electrónico",
+    "LABEL_PROVIDER": "Proveedor",
+    "LABEL_TYPE": "Tipo",
+    "LABEL_REASON": "Razón",
+    "LABEL_NO_REASON": "No se proporcionó ninguna razón",
+    "BUTTON_CONFIRM": "Eliminar la supresión",
+    "BUTTON_CANCEL": "Cancelar",
+    "ERROR_NOT_FOUND": "No se encontró supresión.",
+    "ERROR_RATE_LIMIT_EMAIL": "Este correo electrónico ya se ha reactivado en los últimos 30 días. Espere antes de volver a intentarlo.",
+    "ERROR_RATE_LIMIT_TENANT": "Tu cuenta ha alcanzado el límite mensual de retiros (5 al mes). Inténtalo de nuevo el próximo mes."
+}

@@ -111,7 +111,7 @@
         "create-conversation": 24,
         "create-conversation-failure": 6,
         "create-conversation-success": 10,
-        "dashboard_common": 113,
+        "dashboard_common": 115,
         "demo": 38,
         "error": 8,
         "global-distribution": 44,
@@ -226,7 +226,7 @@
         "my-account-moderate-comments-moderator-delete": 8,
         "my-account-moderate-comments-moderator-edit": 18,
         "my-account-moderate-comments-moderator-select-tenant": 7,
-        "my-account-moderate-comments-moderators": 28,
+        "my-account-moderate-comments-moderators": 29,
         "my-account-moderate-comments-settings": 51,
         "my-account-moderate-comments-settings-update-failure": 5,
         "my-account-moderate-comments-settings-update-success": 4,
@@ -246,7 +246,7 @@
         "my-account-tickets": 22,
         "my-account-two-factor": 13,
         "my-account-update-failure": 13,
-        "my-account-users": 41,
+        "my-account-users": 42,
         "my-account-users-user-delete": 4,
         "my-account-users-user-edit": 25,
         "my-account-users-user-invite": 7,
@@ -348,7 +348,9 @@
         "new-ip-login": 11,
         "my-account-backup-email": 18,
         "moodle": 74,
-        "laravel": 75
+        "laravel": 75,
+        "my-account-suppressed-emails": 26,
+        "my-account-suppressed-emails-remove": 13
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -2264,7 +2266,9 @@
         "t110": "NAV_NAVIGATION",
         "t111": "NAV_CONTENT",
         "t112": "NAV_MEMBERSHIPS",
-        "t113": "NAV_MEMBERS"
+        "t113": "NAV_MEMBERS",
+        "t114": "SIDEBAR_SUPPRESSED_EMAILS",
+        "t115": "SIDEBAR_SUPPRESSED_EMAILS_DESCRIPTION"
     },
     "demo": {
         "t1": "PAGE_TITLE",
@@ -4760,7 +4764,8 @@
         "t25": "ADD_MODERATOR_LINK_TEXT",
         "t26": "ADD_MODERATOR_LINK_TITLE",
         "t27": "PLUS_ALT",
-        "t28": "PLUS_TITLE"
+        "t28": "PLUS_TITLE",
+        "t29": "EMAIL_SUPPRESSED"
     },
     "my-account-moderate-comments-settings": {
         "t1": "PAGE_TITLE",
@@ -5227,7 +5232,8 @@
         "t38": "USERS_NOTIFICATIONS",
         "t39": "USERS_ENABLED",
         "t40": "USERS_DISABLED",
-        "t41": "USERS_COMMENTS"
+        "t41": "USERS_COMMENTS",
+        "t42": "USERS_EMAIL_SUPPRESSED"
     },
     "my-account-users-user-delete": {
         "t1": "PAGE_TITLE",
@@ -7380,5 +7386,48 @@
         "t73": "FAQ_LARAVEL_API_ANSWER",
         "t74": "FINAL_CTA_TITLE",
         "t75": "FINAL_CTA_DESCRIPTION"
+    },
+    "my-account-suppressed-emails": {
+        "t1": "PAGE_TITLE",
+        "t2": "HEADING",
+        "t3": "INFO_NOTE",
+        "t4": "FILTER_LABEL_EMAIL",
+        "t5": "FILTER_PLACEHOLDER_EMAIL",
+        "t6": "FILTER_LABEL_PROVIDER",
+        "t7": "FILTER_OPTION_ALL",
+        "t8": "FILTER_BUTTON",
+        "t9": "TABLE_HEADER_EMAIL",
+        "t10": "TABLE_HEADER_PROVIDER",
+        "t11": "TABLE_HEADER_TYPE",
+        "t12": "TABLE_HEADER_REASON",
+        "t13": "TABLE_HEADER_DATE",
+        "t14": "TABLE_HEADER_ACTIONS",
+        "t15": "BUTTON_REMOVE",
+        "t16": "BUTTON_PREVIOUS",
+        "t17": "BUTTON_NEXT",
+        "t18": "EMPTY_STATE",
+        "t19": "EMPTY_STATE_FILTERED",
+        "t20": "SUCCESS_REMOVED",
+        "t21": "ERROR_REMOVE_FAILED",
+        "t22": "RATE_LIMIT_MONTHLY",
+        "t23": "RATE_LIMIT_RECENTLY_REMOVED",
+        "t24": "REMOVALS_USED",
+        "t25": "REMOVALS_OF",
+        "t26": "PAGE_LABEL"
+    },
+    "my-account-suppressed-emails-remove": {
+        "t1": "PAGE_TITLE",
+        "t2": "HEADING",
+        "t3": "CONFIRMATION_MESSAGE",
+        "t4": "LABEL_EMAIL",
+        "t5": "LABEL_PROVIDER",
+        "t6": "LABEL_TYPE",
+        "t7": "LABEL_REASON",
+        "t8": "LABEL_NO_REASON",
+        "t9": "BUTTON_CONFIRM",
+        "t10": "BUTTON_CANCEL",
+        "t11": "ERROR_NOT_FOUND",
+        "t12": "ERROR_RATE_LIMIT_EMAIL",
+        "t13": "ERROR_RATE_LIMIT_TENANT"
     }
 }

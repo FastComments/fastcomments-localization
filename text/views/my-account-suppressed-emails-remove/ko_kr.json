@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "이메일 수신 거부 해제 - FastComments",
+    "HEADING": "억제 제거 확인",
+    "CONFIRMATION_MESSAGE": "수신 거부를 해제하시겠습니까? 이메일 제공업체에 해당 주소의 차단 해제를 요청할 것입니다.",
+    "LABEL_EMAIL": "이메일",
+    "LABEL_PROVIDER": "공급자",
+    "LABEL_TYPE": "유형",
+    "LABEL_REASON": "이유",
+    "LABEL_NO_REASON": "이유 없음",
+    "BUTTON_CONFIRM": "억제 제거",
+    "BUTTON_CANCEL": "취소",
+    "ERROR_NOT_FOUND": "억제 항목을 찾을 수 없습니다.",
+    "ERROR_RATE_LIMIT_EMAIL": "이 이메일은 지난 30일 이내에 수신 거부가 해제되었습니다. 잠시 후 다시 시도해 주세요.",
+    "ERROR_RATE_LIMIT_TENANT": "회원님의 계정은 월별 삭제 한도(월 5회)에 도달했습니다. 다음 달에 다시 시도해 주세요."
+}
