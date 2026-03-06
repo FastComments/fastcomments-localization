@@ -1,0 +1,14 @@
+{
+    "FROM_NAME": "Hızlı Yorumlar Robotu",
+    "SUBJECT": "E-posta yanıtınız işlenemedi.",
+    "BANNER_TEXT": "E-posta Yanıt Hatası",
+    "INTRO": "Merhaba,",
+    "ERROR_INVALID_LINK": "Yanıt bağlantısının süresi dolmuş veya geçersiz.",
+    "ERROR_USER_NOT_FOUND": "Bu yanıt bağlantısıyla ilişkilendirilmiş bir hesap bulamadık.",
+    "ERROR_COMMENT_NOT_FOUND": "Yanıtlamaya çalıştığınız yorum artık mevcut değil.",
+    "ERROR_SAVE_FAILED": "Dahili bir hata nedeniyle yanıtınızı kaydedemedik.",
+    "ERROR_DM_CONVERSATION_NOT_FOUND": "Yanıtlamaya çalıştığınız konuşma bulunamadı.",
+    "ERROR_DM_SENDER_NOT_AUTHORIZED": "Bu konuşmaya yanıt verme yetkiniz yok.",
+    "ERROR_UNKNOWN": "Yanıtınız işlenirken beklenmedik bir hata oluştu.",
+    "HELP": "Lütfen bunun yerine doğrudan web sitesi üzerinden yanıt vermeyi deneyin."
+}

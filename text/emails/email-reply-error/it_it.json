@@ -1,0 +1,14 @@
+{
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "La tua risposta via email non è stata elaborata",
+    "BANNER_TEXT": "Errore nella risposta via email",
+    "INTRO": "Ciao,",
+    "ERROR_INVALID_LINK": "Il link di risposta è scaduto o non è valido.",
+    "ERROR_USER_NOT_FOUND": "Non siamo riusciti a trovare un account associato a questo link di risposta.",
+    "ERROR_COMMENT_NOT_FOUND": "Il commento a cui hai provato a rispondere non esiste più.",
+    "ERROR_SAVE_FAILED": "Non siamo riusciti a salvare la tua risposta a causa di un errore interno.",
+    "ERROR_DM_CONVERSATION_NOT_FOUND": "La conversazione a cui hai provato a rispondere non è stata trovata.",
+    "ERROR_DM_SENDER_NOT_AUTHORIZED": "Non sei autorizzato a rispondere a questa conversazione.",
+    "ERROR_UNKNOWN": "Si è verificato un errore imprevisto durante l'elaborazione della tua risposta.",
+    "HELP": "Prova invece a rispondere direttamente sul sito web."
+}

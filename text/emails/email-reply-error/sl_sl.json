@@ -1,0 +1,14 @@
+{
+    "FROM_NAME": "Robot za hitre komentarje",
+    "SUBJECT": "Vašega odgovora po e-pošti ni bilo mogoče obdelati",
+    "BANNER_TEXT": "Napaka pri odgovoru po e-pošti",
+    "INTRO": "Živjo,",
+    "ERROR_INVALID_LINK": "Povezava za odgovor je potekla ali je neveljavna.",
+    "ERROR_USER_NOT_FOUND": "Računa, povezanega s to povezavo za odgovor, nismo mogli najti.",
+    "ERROR_COMMENT_NOT_FOUND": "Komentar, na katerega ste poskušali odgovoriti, ne obstaja več.",
+    "ERROR_SAVE_FAILED": "Vašega odgovora nismo mogli shraniti zaradi notranje napake.",
+    "ERROR_DM_CONVERSATION_NOT_FOUND": "Pogovor, na katerega ste poskušali odgovoriti, ni bil najden.",
+    "ERROR_DM_SENDER_NOT_AUTHORIZED": "Niste pooblaščeni za odgovor na ta pogovor.",
+    "ERROR_UNKNOWN": "Med obdelavo vašega odgovora je prišlo do nepričakovane napake.",
+    "HELP": "Prosim, poskusite odgovoriti neposredno na spletni strani."
+}

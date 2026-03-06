@@ -1,0 +1,14 @@
+{
+    "FROM_NAME": "Robô de comentários rápidos",
+    "SUBJECT": "Sua resposta por e-mail não pôde ser processada.",
+    "BANNER_TEXT": "Erro na resposta do e-mail",
+    "INTRO": "Olá,",
+    "ERROR_INVALID_LINK": "O link para resposta expirou ou é inválido.",
+    "ERROR_USER_NOT_FOUND": "Não foi possível encontrar uma conta associada a este link de resposta.",
+    "ERROR_COMMENT_NOT_FOUND": "O comentário ao qual você tentou responder não existe mais.",
+    "ERROR_SAVE_FAILED": "Não foi possível salvar sua resposta devido a um erro interno.",
+    "ERROR_DM_CONVERSATION_NOT_FOUND": "A conversa à qual você tentou responder não foi encontrada.",
+    "ERROR_DM_SENDER_NOT_AUTHORIZED": "Você não tem autorização para responder a esta conversa.",
+    "ERROR_UNKNOWN": "Ocorreu um erro inesperado ao processar sua resposta.",
+    "HELP": "Por favor, tente responder diretamente no site."
+}

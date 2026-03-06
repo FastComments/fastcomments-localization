@@ -1,0 +1,14 @@
+{
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "Votre réponse par courriel n'a pas pu être traitée.",
+    "BANNER_TEXT": "Erreur de réponse par courriel",
+    "INTRO": "Bonjour,",
+    "ERROR_INVALID_LINK": "Le lien pour répondre a expiré ou n'est pas valide.",
+    "ERROR_USER_NOT_FOUND": "Nous n'avons trouvé aucun compte associé à ce lien de réponse.",
+    "ERROR_COMMENT_NOT_FOUND": "Le commentaire auquel vous avez tenté de répondre n'existe plus.",
+    "ERROR_SAVE_FAILED": "Nous n'avons pas pu enregistrer votre réponse en raison d'une erreur interne.",
+    "ERROR_DM_CONVERSATION_NOT_FOUND": "La conversation à laquelle vous avez tenté de répondre est introuvable.",
+    "ERROR_DM_SENDER_NOT_AUTHORIZED": "Vous n'êtes pas autorisé à répondre à cette conversation.",
+    "ERROR_UNKNOWN": "Une erreur inattendue s'est produite lors du traitement de votre réponse.",
+    "HELP": "Veuillez plutôt répondre directement sur le site web."
+}

@@ -1,0 +1,14 @@
+{
+    "FROM_NAME": "快速評論機器人",
+    "SUBJECT": "您的郵件回覆無法處理。",
+    "BANNER_TEXT": "電子郵件回覆錯誤",
+    "INTRO": "你好，",
+    "ERROR_INVALID_LINK": "回覆連結已過期或無效。",
+    "ERROR_USER_NOT_FOUND": "我們找不到與此回應連結關聯的帳戶。",
+    "ERROR_COMMENT_NOT_FOUND": "您嘗試回覆的評論已不存在。",
+    "ERROR_SAVE_FAILED": "由於內部錯誤，我們無法儲存您的回覆。",
+    "ERROR_DM_CONVERSATION_NOT_FOUND": "您嘗試回覆的對話未找到。",
+    "ERROR_DM_SENDER_NOT_AUTHORIZED": "您無權回覆此對話。",
+    "ERROR_UNKNOWN": "處理您的回覆時發生意外錯誤。",
+    "HELP": "請嘗試直接在網站上回覆。"
+}

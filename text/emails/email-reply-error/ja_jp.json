@@ -1,0 +1,14 @@
+{
+    "FROM_NAME": "ファストコメントロボット",
+    "SUBJECT": "メールの返信を処理できませんでした",
+    "BANNER_TEXT": "メール返信エラー",
+    "INTRO": "こんにちは、",
+    "ERROR_INVALID_LINK": "返信リンクの有効期限が切れているか無効です。",
+    "ERROR_USER_NOT_FOUND": "この返信リンクに関連付けられたアカウントが見つかりませんでした。",
+    "ERROR_COMMENT_NOT_FOUND": "返信しようとしたコメントは存在しません。",
+    "ERROR_SAVE_FAILED": "内部エラーのため、返信を保存できませんでした。",
+    "ERROR_DM_CONVERSATION_NOT_FOUND": "返信しようとした会話が見つかりませんでした。",
+    "ERROR_DM_SENDER_NOT_AUTHORIZED": "この会話に返信する権限がありません。",
+    "ERROR_UNKNOWN": "返信の処理中に予期しないエラーが発生しました。",
+    "HELP": "代わりに、Web サイトで直接返信してみてください。"
+}

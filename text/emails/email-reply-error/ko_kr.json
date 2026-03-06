@@ -1,0 +1,14 @@
+{
+    "FROM_NAME": "패스트컴츠 로봇",
+    "SUBJECT": "이메일 답장을 처리할 수 없습니다.",
+    "BANNER_TEXT": "이메일 답장 오류",
+    "INTRO": "안녕하세요,",
+    "ERROR_INVALID_LINK": "답글 링크가 만료되었거나 유효하지 않습니다.",
+    "ERROR_USER_NOT_FOUND": "이 답글 링크와 연결된 계정을 찾을 수 없습니다.",
+    "ERROR_COMMENT_NOT_FOUND": "답글을 달려고 했던 댓글은 더 이상 존재하지 않습니다.",
+    "ERROR_SAVE_FAILED": "내부 오류로 인해 고객님의 답변을 저장할 수 없었습니다.",
+    "ERROR_DM_CONVERSATION_NOT_FOUND": "답글을 달려고 시도한 대화를 찾을 수 없습니다.",
+    "ERROR_DM_SENDER_NOT_AUTHORIZED": "이 대화에 답글을 달 권한이 없습니다.",
+    "ERROR_UNKNOWN": "답변을 처리하는 동안 예기치 않은 오류가 발생했습니다.",
+    "HELP": "웹사이트에서 직접 답변을 남겨주세요."
+}

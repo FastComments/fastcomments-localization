@@ -1,0 +1,14 @@
+{
+    "FROM_NAME": "Robot de comentarios rápidos",
+    "SUBJECT": "No se pudo procesar su respuesta de correo electrónico",
+    "BANNER_TEXT": "Error de respuesta de correo electrónico",
+    "INTRO": "Hola,",
+    "ERROR_INVALID_LINK": "El enlace de respuesta ha expirado o no es válido.",
+    "ERROR_USER_NOT_FOUND": "No pudimos encontrar una cuenta asociada con este enlace de respuesta.",
+    "ERROR_COMMENT_NOT_FOUND": "El comentario que intentaste responder ya no existe.",
+    "ERROR_SAVE_FAILED": "No pudimos guardar su respuesta debido a un error interno.",
+    "ERROR_DM_CONVERSATION_NOT_FOUND": "No se encontró la conversación a la que intentaste responder.",
+    "ERROR_DM_SENDER_NOT_AUTHORIZED": "No estás autorizado para responder a esta conversación.",
+    "ERROR_UNKNOWN": "Se produjo un error inesperado al procesar su respuesta.",
+    "HELP": "Intente responder directamente en el sitio web."
+}
