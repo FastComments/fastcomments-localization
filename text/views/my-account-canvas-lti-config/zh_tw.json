@@ -57,7 +57,7 @@
     "STEP2_LMS_STEP_3": "選擇「輸入網址」作為設定方法，並將上面的設定網址貼到此處。",
     "STEP2_LMS_STEP_1": "前往 Canvas LMS 中的「管理」→「開發者金鑰」。",
     "STEP3_HEADING": "上線",
-    "STEP2_LMS_STEP_4": "儲存金鑰，然後將其設為 ON（啟用）。",
+    "STEP2_LMS_STEP_4": "儲存金鑰，然後將其設為“開啟”，並在出現提示時按一下“允許”。",
     "STEP3_SUMMARY_HEADING": "配置摘要",
     "STEP2_CLIENT_ID_HEADING": "請輸入您的 LMS 憑證",
     "STEP2_CLIENT_ID_DESCRIPTION": "請將您 LMS 系統中的客戶端 ID 貼到下方。",
@@ -72,5 +72,14 @@
     "COMPLETE_HEADING": "活躍部署",
     "HEADING_ADD_ANOTHER": "新增另一個部署",
     "BUTTON_ENABLE": "啟用集成",
-    "COMPLETE_DESCRIPTION": "您的 LTI 整合已上線。您可以在下方編輯配置或新增新的部署。"
+    "COMPLETE_DESCRIPTION": "您的 LTI 整合已上線。您可以在下方編輯配置或新增新的部署。",
+    "STEP2_PLACEMENT_CAVEAT": "實習安排",
+    "HEADING_PLACEMENTS": "實習安排",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "富文本編輯器按鈕",
+    "HELP_PLACEMENTS_MANAGEMENT": "變更此處的位置後，也請更新 Canvas Developer Key 中的「位置」部分以進行比對。",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "評論會自動顯示在作業下方。",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "任務視圖",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "教師可以透過富文本編輯器工具列將快速評論嵌入頁面、測驗和公告中。",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "當 LTI 處於活動狀態時，必須至少啟用一個部署。",
+    "HELP_PLACEMENTS": "選擇 FastComments 在 Canvas 課程中的顯示位置。"
 }

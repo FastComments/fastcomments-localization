@@ -54,7 +54,7 @@
     "STEP2_URL_HEADING": "URL di configurazione",
     "STEP2_LMS_INSTRUCTIONS_HEADING": "Fasi del tuo LMS",
     "STEP2_URL_INSTRUCTION": "Copia questo URL e incollalo nella configurazione della tua chiave sviluppatore LMS:",
-    "STEP2_LMS_STEP_4": "Salvare la chiave, quindi impostarla su ON (abilitata).",
+    "STEP2_LMS_STEP_4": "Salva la chiave, quindi impostala su ON e fai clic su Consenti quando richiesto.",
     "STEP2_LMS_STEP_2": "Fare clic su + Chiave sviluppatore → + Chiave LTI.",
     "STEP2_LMS_STEP_5": "Copia il numero nella colonna Dettagli: questo è il tuo ID cliente.",
     "STEP2_LMS_STEP_3": "Seleziona \"Inserisci URL\" come metodo di configurazione e incolla l'URL di configurazione sopra.",
@@ -72,5 +72,14 @@
     "BUTTON_SAVE_CONTINUE": "Salva e continua",
     "COMPLETE_DESCRIPTION": "Le tue integrazioni LTI sono attive. Puoi modificare le configurazioni o aggiungere nuove distribuzioni qui sotto.",
     "COPIED_FEEDBACK": "Copiato!",
-    "BUTTON_ENABLE": "Abilita l'integrazione"
+    "BUTTON_ENABLE": "Abilita l'integrazione",
+    "HEADING_PLACEMENTS": "Posizionamenti",
+    "HELP_PLACEMENTS": "Scegli dove visualizzare FastComments nei tuoi corsi Canvas.",
+    "HELP_PLACEMENTS_MANAGEMENT": "Dopo aver modificato i posizionamenti qui, aggiorna anche la sezione Posizionamenti nella tua Chiave sviluppatore Canvas in modo che corrisponda.",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "I commenti vengono visualizzati automaticamente sotto i compiti.",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "Visualizzazione assegnazione",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "Pulsante Editor di contenuti avanzati",
+    "STEP2_PLACEMENT_CAVEAT": "Posizionamenti",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "Gli insegnanti possono incorporare FastComments in pagine, quiz e annunci tramite la barra degli strumenti dell'editor di contenuti avanzati.",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "Quando LTI è attivo, è necessario abilitare almeno un posizionamento."
 }

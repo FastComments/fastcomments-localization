@@ -56,7 +56,7 @@
     "STEP2_LMS_INSTRUCTIONS_HEADING": "Schritte in Ihrem LMS",
     "STEP2_LMS_STEP_2": "Klicken Sie auf + Entwicklertaste → + LTI-Taste.",
     "STEP2_LMS_STEP_1": "Gehen Sie in Ihrem Canvas LMS zu Admin → Entwicklerschlüssel.",
-    "STEP2_LMS_STEP_4": "Speichern Sie den Schlüssel und stellen Sie ihn dann auf EIN (aktiviert).",
+    "STEP2_LMS_STEP_4": "Speichern Sie den Schlüssel, stellen Sie ihn dann auf EIN und klicken Sie auf Zulassen, wenn Sie dazu aufgefordert werden.",
     "STEP3_DESCRIPTION": "Überprüfen Sie Ihre Konfiguration und aktivieren Sie die Integration.",
     "STEP2_LMS_STEP_3": "Wählen Sie als Konfigurationsmethode „URL eingeben“ aus und fügen Sie die oben stehende Konfigurations-URL ein.",
     "STEP2_LMS_STEP_5": "Kopieren Sie die Nummer in der Spalte „Details“ – das ist Ihre Kunden-ID.",
@@ -72,5 +72,14 @@
     "HEADING_ADD_ANOTHER": "Weitere Bereitstellung hinzufügen",
     "COPIED_FEEDBACK": "Kopiert!",
     "BUTTON_SAVE_CONTINUE": "Speichern & Fortfahren",
-    "BUTTON_ENABLE": "Integration aktivieren"
+    "BUTTON_ENABLE": "Integration aktivieren",
+    "HEADING_PLACEMENTS": "Praktika",
+    "STEP2_PLACEMENT_CAVEAT": "Praktika",
+    "HELP_PLACEMENTS": "Wählen Sie aus, wo FastComments in Ihren Canvas-Kursen angezeigt wird.",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "Aufgabenansicht",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "Kommentare erscheinen automatisch unterhalb der Aufgaben.",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "Schaltfläche für Rich-Content-Editor",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "Mindestens eine Platzierung muss aktiviert sein, wenn LTI aktiv ist.",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "Dozenten können FastComments über die Symbolleiste des Rich Content Editors in Seiten, Quizze und Ankündigungen einbetten.",
+    "HELP_PLACEMENTS_MANAGEMENT": "Nachdem Sie die Platzierungen hier geändert haben, aktualisieren Sie bitte auch den Abschnitt „Platzierungen“ in Ihrem Canvas Developer Key, sodass dies übereinstimmt."
 }

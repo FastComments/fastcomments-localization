@@ -59,7 +59,7 @@
     "STEP2_CLIENT_ID_HEADING": "הזן את פרטי הגישה שלך למערכת הלמידה (LMS)",
     "STEP2_LMS_STEP_5": "העתק את המספר בעמודה 'פרטים' - זהו מזהה הלקוח שלך.",
     "STEP2_LMS_STEP_3": "בחר \"הזן כתובת URL\" כשיטת התצורה והדבק את כתובת ה-URL של התצורה למעלה.",
-    "STEP2_LMS_STEP_4": "שמור את המפתח, לאחר מכן הגדר אותו למצב מופעל (מופעל).",
+    "STEP2_LMS_STEP_4": "שמור את המפתח, לאחר מכן הגדר אותו למצב מופעל ולחץ על אפשר כאשר תתבקש לעשות זאת.",
     "STEP3_HEADING": "עבור לשידור חי",
     "STEP3_SUMMARY_HEADING": "סיכום תצורה",
     "STEP2_CLIENT_ID_DESCRIPTION": "הדבק את מזהה הלקוח ממערכת הלמידה (LMS) שלך למטה.",
@@ -72,5 +72,14 @@
     "STEP3_NOT_SET": "(לא מוגדר)",
     "BUTTON_ENABLE": "הפעל אינטגרציה",
     "COMPLETE_DESCRIPTION": "אינטגרציות ה-LTI שלך זמינות. תוכל לערוך תצורות או להוסיף פריסות חדשות למטה.",
-    "BUTTON_SAVE_CONTINUE": "שמור והמשך"
+    "BUTTON_SAVE_CONTINUE": "שמור והמשך",
+    "HEADING_PLACEMENTS": "מיקומים",
+    "HELP_PLACEMENTS": "בחרו היכן יופיע FastComments בקורסי Canvas שלכם.",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "תצוגת מטלה",
+    "HELP_PLACEMENTS_MANAGEMENT": "לאחר שינוי מיקומים כאן, עדכן גם את מקטע המיקומים במפתח המפתח של Canvas כך שיתאים.",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "הערות מופיעות אוטומטית מתחת למשימות.",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "כפתור עורך תוכן עשיר",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "לפחות מיקום אחד חייב להיות מופעל כאשר LTI פעיל.",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "מדריכים יכולים להטמיע FastComments בדפים, חידונים והכרזות דרך סרגל הכלים של עורך התוכן העשיר.",
+    "STEP2_PLACEMENT_CAVEAT": "מיקומים"
 }

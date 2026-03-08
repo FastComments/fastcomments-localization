@@ -60,7 +60,7 @@
     "STEP3_HEADING": "Przejdź na żywo",
     "STEP3_SUMMARY_HEADING": "Podsumowanie konfiguracji",
     "STEP2_CLIENT_ID_HEADING": "Wprowadź swoje dane uwierzytelniające LMS",
-    "STEP2_LMS_STEP_4": "Zapisz klucz, a następnie ustaw go na ON (włączony).",
+    "STEP2_LMS_STEP_4": "Zapisz klucz, ustaw go na ON i kliknij Zezwalaj, gdy pojawi się monit.",
     "STEP3_NOT_SET": "(nie ustawiono)",
     "STEP3_DESCRIPTION": "Sprawdź konfigurację i włącz integrację.",
     "STEP2_CLIENT_ID_DESCRIPTION": "Wklej poniżej identyfikator klienta z systemu LMS.",
@@ -72,5 +72,14 @@
     "COPIED_FEEDBACK": "Skopiowano!",
     "BUTTON_ENABLE": "Włącz integrację",
     "HEADING_ADD_ANOTHER": "Dodaj kolejne wdrożenie",
-    "BUTTON_SAVE_CONTINUE": "Zapisz i kontynuuj"
+    "BUTTON_SAVE_CONTINUE": "Zapisz i kontynuuj",
+    "HEADING_PLACEMENTS": "Umieszczenia",
+    "HELP_PLACEMENTS_MANAGEMENT": "Po zmianie umiejscowienia w tym miejscu należy również zaktualizować sekcję Umiejscowienia w kluczu Canvas Developer Key.",
+    "HELP_PLACEMENTS": "Wybierz, gdzie FastComments będą wyświetlane w kursach Canvas.",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "Widok zadania",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "Komentarze pojawiają się automatycznie pod zadaniami.",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "Przycisk Edytora Bogatej Treści",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "Instruktorzy mogą osadzać FastComments na stronach, quizach i ogłoszeniach za pomocą paska narzędzi Edytora treści rozbudowanych.",
+    "STEP2_PLACEMENT_CAVEAT": "Umieszczenia",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "Gdy funkcja LTI jest aktywna, musi być włączona co najmniej jedna lokalizacja."
 }

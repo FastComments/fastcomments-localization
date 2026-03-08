@@ -58,7 +58,7 @@
     "STEP3_HEADING": "Objavi v živo",
     "STEP2_LMS_STEP_1": "V sistemu za upravljanje učenja Canvas pojdite v razdelek Skrbnik → Ključi razvijalcev.",
     "STEP2_CLIENT_ID_HEADING": "Vnesite svoje poverilnice za LMS",
-    "STEP2_LMS_STEP_4": "Shranite ključ in ga nato nastavite na VKLOPLJENO (omogočeno).",
+    "STEP2_LMS_STEP_4": "Shranite ključ, nato ga nastavite na VKLOPLJENO in kliknite Dovoli, ko se prikaže poziv.",
     "STEP2_LMS_STEP_3": "Kot način konfiguracije izberite »Vnesi URL« in prilepite zgornji URL konfiguracije.",
     "STEP3_SUMMARY_HEADING": "Povzetek konfiguracije",
     "STEP2_LMS_STEP_5": "Kopirajte številko iz stolpca Podrobnosti – to je vaš ID stranke.",
@@ -72,5 +72,14 @@
     "COPIED_FEEDBACK": "Kopirano!",
     "BUTTON_SAVE_CONTINUE": "Shrani in nadaljuj",
     "HEADING_ADD_ANOTHER": "Dodaj še eno uvajanje",
-    "STEP2_CLIENT_ID_DESCRIPTION": "Spodaj prilepite ID stranke iz svojega sistema LMS."
+    "STEP2_CLIENT_ID_DESCRIPTION": "Spodaj prilepite ID stranke iz svojega sistema LMS.",
+    "STEP2_PLACEMENT_CAVEAT": "Umestitve",
+    "HEADING_PLACEMENTS": "Umestitve",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "Gumb urejevalnika obogatene vsebine",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "Pogled naloge",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "Komentarji se samodejno prikažejo pod nalogami.",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "Ko je LTI aktiven, mora biti omogočena vsaj ena umestitev.",
+    "HELP_PLACEMENTS": "Izberite, kje se FastComments prikaže v vaših tečajih Canvas.",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "Učitelji lahko vdelajo hitre komentarje (FastComments) na strani, kvize in obvestila prek orodne vrstice urejevalnika obogatene vsebine (Riht Content Editor).",
+    "HELP_PLACEMENTS_MANAGEMENT": "Ko tukaj spremenite umestitve, posodobite tudi razdelek Umestitve v svojem ključu razvijalca Canvas, da se ujema."
 }

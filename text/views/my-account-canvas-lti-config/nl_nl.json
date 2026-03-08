@@ -63,7 +63,7 @@
     "STEP3_SUMMARY_HEADING": "Configuratieoverzicht",
     "STEP2_CLIENT_ID_DESCRIPTION": "Plak hieronder de klant-ID uit uw LMS.",
     "STEP2_CLIENT_ID_HEADING": "Voer uw LMS-inloggegevens in",
-    "STEP2_LMS_STEP_4": "Sla de sleutel op en zet deze vervolgens op AAN (ingeschakeld).",
+    "STEP2_LMS_STEP_4": "Sla de sleutel op, zet hem vervolgens op AAN en klik op Toestaan wanneer daarom wordt gevraagd.",
     "STEP3_NOT_SET": "(niet ingesteld)",
     "COMPLETE_HEADING": "Actieve implementaties",
     "STATUS_ACTIVE": "Actief",
@@ -72,5 +72,14 @@
     "BUTTON_ENABLE": "Integratie inschakelen",
     "COMPLETE_DESCRIPTION": "Uw LTI-integraties zijn actief. U kunt hieronder configuraties bewerken of nieuwe implementaties toevoegen.",
     "COPIED_FEEDBACK": "Gekopieerd!",
-    "HEADING_ADD_ANOTHER": "Nog een implementatie toevoegen"
+    "HEADING_ADD_ANOTHER": "Nog een implementatie toevoegen",
+    "HEADING_PLACEMENTS": "Stages",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "Knop voor de rich content-editor",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "Opmerkingen verschijnen automatisch onder de opdrachten.",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "Toewijzingsweergave",
+    "HELP_PLACEMENTS_MANAGEMENT": "Nadat u de plaatsingen hier hebt gewijzigd, moet u ook het gedeelte 'Plaatsingen' in uw Canvas-ontwikkelaarssleutel bijwerken zodat deze overeenkomen.",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "Er moet ten minste één plaatsing ingeschakeld zijn wanneer LTI actief is.",
+    "HELP_PLACEMENTS": "Kies waar FastComments in je Canvas-cursussen verschijnt.",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "Docenten kunnen FastComments in pagina's, quizzen en aankondigingen integreren via de werkbalk van de Rich Content Editor.",
+    "STEP2_PLACEMENT_CAVEAT": "Stages"
 }

@@ -56,7 +56,7 @@
     "STEP2_LMS_STEP_1": "Accédez à Admin → Clés de développeur dans votre LMS Canvas.",
     "STEP2_URL_INSTRUCTION": "Copiez cette URL et collez-la dans la configuration de votre clé de développeur LMS :",
     "STEP2_LMS_STEP_2": "Cliquez sur + Clé développeur → + Clé LTI.",
-    "STEP2_LMS_STEP_4": "Enregistrez la clé, puis activez-la (ON).",
+    "STEP2_LMS_STEP_4": "Enregistrez la clé, puis activez-la et cliquez sur Autoriser lorsque vous y êtes invité.",
     "STEP2_LMS_STEP_3": "Sélectionnez « Saisir une URL » comme méthode de configuration et collez l’URL de configuration ci-dessus.",
     "STEP2_CLIENT_ID_HEADING": "Saisissez vos identifiants LMS",
     "STEP2_LMS_STEP_5": "Recopiez le numéro figurant dans la colonne Détails — il s'agit de votre identifiant client.",
@@ -72,5 +72,14 @@
     "BUTTON_SAVE_CONTINUE": "Enregistrer et continuer",
     "BUTTON_ENABLE": "Activer l'intégration",
     "COPIED_FEEDBACK": "Copié !",
-    "HEADING_ADD_ANOTHER": "Ajouter un autre déploiement"
+    "HEADING_ADD_ANOTHER": "Ajouter un autre déploiement",
+    "HEADING_PLACEMENTS": "Stages",
+    "HELP_PLACEMENTS": "Choisissez où FastComments apparaît dans vos cours Canvas.",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "Les commentaires apparaissent automatiquement sous les devoirs.",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "Vue des tâches",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "Bouton de l'éditeur de contenu enrichi",
+    "HELP_PLACEMENTS_MANAGEMENT": "Après avoir modifié les emplacements ici, mettez également à jour la section Emplacements dans votre clé de développeur Canvas pour qu'elle corresponde.",
+    "STEP2_PLACEMENT_CAVEAT": "Stages",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "Les enseignants peuvent intégrer FastComments dans les pages, les questionnaires et les annonces via la barre d'outils de l'éditeur de contenu enrichi.",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "Au moins un emplacement doit être activé lorsque LTI est actif."
 }

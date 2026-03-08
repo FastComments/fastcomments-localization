@@ -58,7 +58,7 @@
     "STEP2_LMS_STEP_1": "前往 Canvas LMS 中的“管理”→“开发者密钥”。",
     "STEP3_SUMMARY_HEADING": "配置摘要",
     "STEP2_CLIENT_ID_HEADING": "请输入您的 LMS 凭据",
-    "STEP2_LMS_STEP_4": "保存密钥，然后将其设置为 ON（启用）。",
+    "STEP2_LMS_STEP_4": "保存密钥，然后将其设置为“开启”，并在出现提示时单击“允许”。",
     "STEP2_CLIENT_ID_DESCRIPTION": "请将您 LMS 系统中的客户端 ID 粘贴到下方。",
     "STEP3_NOT_SET": "（未设置）",
     "STEP2_LMS_STEP_3": "选择“输入网址”作为配置方法，并将上面的配置网址粘贴到此处。",
@@ -72,5 +72,14 @@
     "BUTTON_ENABLE": "启用集成",
     "COPIED_FEEDBACK": "已复制！",
     "COMPLETE_DESCRIPTION": "您的 LTI 集成已上线。您可以在下方编辑配置或添加新的部署。",
-    "HEADING_ADD_ANOTHER": "添加另一个部署"
+    "HEADING_ADD_ANOTHER": "添加另一个部署",
+    "HEADING_PLACEMENTS": "实习安排",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "任务视图",
+    "HELP_PLACEMENTS_MANAGEMENT": "更改此处的位置后，也请更新 Canvas Developer Key 中的“位置”部分以进行匹配。",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "富文本编辑器按钮",
+    "STEP2_PLACEMENT_CAVEAT": "实习安排",
+    "HELP_PLACEMENTS": "选择 FastComments 在 Canvas 课程中的显示位置。",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "评论会自动显示在作业下方。",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "教师可以通过富文本编辑器工具栏将快速评论嵌入到页面、测验和公告中。",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "当 LTI 处于活动状态时，必须至少启用一个部署。"
 }

@@ -60,7 +60,7 @@
     "STEP3_NOT_SET": "(ayarlanmadı)",
     "STEP2_CLIENT_ID_HEADING": "LMS Kimlik Bilgilerinizi Girin",
     "STEP2_CLIENT_ID_DESCRIPTION": "LMS'nizden aldığınız İstemci Kimliğini aşağıya yapıştırın.",
-    "STEP2_LMS_STEP_4": "Anahtarı kaydedin, ardından AÇIK (etkin) konumuna getirin.",
+    "STEP2_LMS_STEP_4": "Anahtarı kaydedin, ardından AÇIK konumuna getirin ve istendiğinde İzin Ver'e tıklayın.",
     "STEP2_LMS_STEP_5": "Ayrıntılar sütunundaki numarayı kopyalayın; bu sizin Müşteri Kimliğinizdir.",
     "STEP3_DESCRIPTION": "Yapılandırmanızı gözden geçirin ve entegrasyonu etkinleştirin.",
     "STEP2_LMS_STEP_3": "Yapılandırma yöntemi olarak \"URL Girin\" seçeneğini belirleyin ve yukarıdaki yapılandırma URL'sini yapıştırın.",
@@ -72,5 +72,14 @@
     "COPIED_FEEDBACK": "Kopyalandı!",
     "COMPLETE_DESCRIPTION": "LTI entegrasyonlarınız aktif durumda. Aşağıdan yapılandırmaları düzenleyebilir veya yeni dağıtımlar ekleyebilirsiniz.",
     "BUTTON_ENABLE": "Entegrasyonu Etkinleştir",
-    "HEADING_ADD_ANOTHER": "Başka Bir Dağıtım Ekle"
+    "HEADING_ADD_ANOTHER": "Başka Bir Dağıtım Ekle",
+    "HEADING_PLACEMENTS": "Stajlar",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "Atama Görünümü",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "Ödevlerin altına yorumlar otomatik olarak eklenir.",
+    "HELP_PLACEMENTS_MANAGEMENT": "Buradaki yerleşimleri değiştirdikten sonra, Canvas Geliştirici Anahtarınızdaki Yerleşimler bölümünü de buna uygun şekilde güncelleyin.",
+    "HELP_PLACEMENTS": "FastComments'ın Canvas kurslarınızda nerede görüneceğini seçin.",
+    "STEP2_PLACEMENT_CAVEAT": "Stajlar",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "Zengin İçerik Düzenleyici Düğmesi",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "Eğitmenler, Zengin İçerik Düzenleyici araç çubuğunu kullanarak FastComments'ı Sayfalara, Sınavlara ve Duyurulara yerleştirebilirler.",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "LTI aktifken en az bir yerleşimin etkinleştirilmesi gerekir."
 }

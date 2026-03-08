@@ -60,7 +60,7 @@
     "STEP3_HEADING": "Idi uživo",
     "STEP2_CLIENT_ID_HEADING": "Unesite svoje LMS vjerodajnice",
     "STEP2_LMS_STEP_5": "Kopirajte broj iz stupca Detalji - to je vaš ID klijenta.",
-    "STEP2_LMS_STEP_4": "Spremite ključ, a zatim ga postavite na UKLJUČENO (omogućeno).",
+    "STEP2_LMS_STEP_4": "Spremite ključ, zatim ga postavite na UKLJUČENO i kliknite Dopusti kada se to od vas zatraži.",
     "STEP2_CLIENT_ID_DESCRIPTION": "Zalijepite ID klijenta iz svog LMS-a u nastavku.",
     "COMPLETE_HEADING": "Aktivna implementacije",
     "STEP3_NOT_SET": "(nije postavljeno)",
@@ -72,5 +72,14 @@
     "BUTTON_COPY": "Kopirati",
     "COPIED_FEEDBACK": "Kopirano!",
     "BUTTON_SAVE_CONTINUE": "Spremi i nastavi",
-    "BUTTON_ENABLE": "Omogući integraciju"
+    "BUTTON_ENABLE": "Omogući integraciju",
+    "HEADING_PLACEMENTS": "Položaji",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "Prikaz zadatka",
+    "STEP2_PLACEMENT_CAVEAT": "Položaji",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "Komentari se automatski prikazuju ispod zadataka.",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "Gumb za uređivanje bogatog sadržaja",
+    "HELP_PLACEMENTS": "Odaberite gdje će se FastComments prikazivati u vašim Canvas tečajevima.",
+    "HELP_PLACEMENTS_MANAGEMENT": "Nakon što ovdje promijenite položaje, ažurirajte i odjeljak Položaji u svom Canvas Developer Keyu kako bi se podudarao.",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "Nastavnici mogu ugraditi FastComments u stranice, kvizove i najave putem alatne trake Rich Content Editor.",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "Barem jedan položaj mora biti omogućen kada je LTI aktivan."
 }

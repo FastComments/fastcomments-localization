@@ -56,7 +56,7 @@
     "STEP2_URL_HEADING": "URL адреса за конфигурацију",
     "STEP2_LMS_INSTRUCTIONS_HEADING": "Кораци у вашем LMS-у",
     "STEP2_LMS_STEP_2": "Кликните на + Програмерски кључ → + LTI кључ.",
-    "STEP2_LMS_STEP_4": "Сачувајте кључ, а затим га подесите на УКЉУЧЕНО (омогућено).",
+    "STEP2_LMS_STEP_4": "Сачувајте кључ, затим га подесите на УКЉУЧЕНО и кликните на Дозволи када се то од вас затражи.",
     "STEP2_LMS_STEP_3": "Изаберите „Унесите URL“ као метод конфигурације и налепите URL конфигурације изнад.",
     "STEP2_CLIENT_ID_HEADING": "Унесите своје LMS акредитиве",
     "STEP3_HEADING": "Покрени уживо",
@@ -72,5 +72,14 @@
     "BUTTON_SAVE_CONTINUE": "Сачувај и настави",
     "COPIED_FEEDBACK": "Копирано!",
     "BUTTON_COPY": "Копија",
-    "BUTTON_ENABLE": "Омогући интеграцију"
+    "BUTTON_ENABLE": "Омогући интеграцију",
+    "HEADING_PLACEMENTS": "Одредишта",
+    "HELP_PLACEMENTS": "Изаберите где се FastComments појављује у вашим Canvas курсевима.",
+    "HELP_PLACEMENTS_MANAGEMENT": "Након промене положаја овде, ажурирајте и одељак Положаји у вашем Canvas Developer Key-у да би се подударао.",
+    "STEP2_PLACEMENT_CAVEAT": "Одредишта",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "Приказ задатка",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "Коментари се аутоматски појављују испод задатака.",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "Дугме за уређивање обогаћеног садржаја",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "Инструктори могу да уграђују брзе коментаре (FastComments) у странице, квизове и обавештења путем траке са алаткама Rich Content Editor.",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "Барем једно пласман мора бити омогућено када је LTI активан."
 }

@@ -56,7 +56,7 @@
     "STEP2_URL_INSTRUCTION": "Kopiér denne URL og indsæt den i din LMS Developer Key-opsætning:",
     "STEP2_LMS_INSTRUCTIONS_HEADING": "Trin i dit LMS",
     "STEP2_LMS_STEP_2": "Klik på + Udviklernøgle → + LTI-nøgle.",
-    "STEP2_LMS_STEP_4": "Gem nøglen, og indstil den derefter til TIL (aktiveret).",
+    "STEP2_LMS_STEP_4": "Gem nøglen, indstil den derefter til TIL, og klik på Tillad, når du bliver bedt om det.",
     "STEP2_LMS_STEP_3": "Vælg \"Indtast URL\" som konfigurationsmetode, og indsæt konfigurations-URL'en ovenfor.",
     "STEP3_HEADING": "Gå live",
     "STEP2_CLIENT_ID_HEADING": "Indtast dine LMS-legitimationsoplysninger",
@@ -72,5 +72,14 @@
     "COMPLETE_DESCRIPTION": "Dine LTI-integrationer er live. Du kan redigere konfigurationer eller tilføje nye implementeringer nedenfor.",
     "BUTTON_SAVE_CONTINUE": "Gem og fortsæt",
     "BUTTON_ENABLE": "Aktivér integration",
-    "HEADING_ADD_ANOTHER": "Tilføj endnu en implementering"
+    "HEADING_ADD_ANOTHER": "Tilføj endnu en implementering",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "Opgavevisning",
+    "HEADING_PLACEMENTS": "Placeringer",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "Knap til redigering af rigt indhold",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "Undervisere kan integrere FastComments i sider, quizzer og meddelelser via værktøjslinjen i Rich Content Editor.",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "Mindst én placering skal være aktiveret, når LTI er aktiv.",
+    "HELP_PLACEMENTS": "Vælg, hvor FastComments vises i dine Canvas-kurser.",
+    "HELP_PLACEMENTS_MANAGEMENT": "Når du har ændret placeringer her, skal du også opdatere afsnittet Placeringer i din Canvas Developer Key, så det matcher.",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "Kommentarer vises automatisk under opgaver.",
+    "STEP2_PLACEMENT_CAVEAT": "Placeringer"
 }

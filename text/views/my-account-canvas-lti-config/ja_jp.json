@@ -57,7 +57,7 @@
     "STEP2_URL_INSTRUCTION": "この URL をコピーして、LMS 開発者キーの設定に貼り付けます。",
     "STEP2_LMS_STEP_1": "Canvas LMS の「管理」→「開発者キー」に移動します。",
     "STEP2_LMS_STEP_3": "設定方法として「URL を入力」を選択し、上記の設定 URL を貼り付けます。",
-    "STEP2_LMS_STEP_4": "キーを保存し、ON（有効）に設定します。",
+    "STEP2_LMS_STEP_4": "キーを保存し、オンに設定して、プロンプトが表示されたら [許可] をクリックします。",
     "STEP2_CLIENT_ID_HEADING": "LMS認証情報を入力してください",
     "STEP2_LMS_STEP_5": "詳細列の番号をコピーします。これがクライアント ID です。",
     "STEP3_NOT_SET": "（未設定）",
@@ -72,5 +72,14 @@
     "BUTTON_COPY": "コピー",
     "BUTTON_ENABLE": "統合を有効にする",
     "COPIED_FEEDBACK": "コピーしました！",
-    "BUTTON_SAVE_CONTINUE": "保存して続行"
+    "BUTTON_SAVE_CONTINUE": "保存して続行",
+    "HEADING_PLACEMENTS": "配置",
+    "HELP_PLACEMENTS_MANAGEMENT": "ここで配置を変更した後、Canvas 開発者キーの配置セクションも一致するように更新します。",
+    "HELP_PLACEMENTS": "Canvas コースで FastComments が表示される場所を選択します。",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "コメントは課題の下に自動的に表示されます。",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "割り当てビュー",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "リッチコンテンツエディターボタン",
+    "STEP2_PLACEMENT_CAVEAT": "配置",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "講師は、リッチ コンテンツ エディター ツールバーを使用して、ページ、クイズ、お知らせに FastComments を埋め込むことができます。",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "LTI がアクティブな場合は、少なくとも 1 つの配置を有効にする必要があります。"
 }

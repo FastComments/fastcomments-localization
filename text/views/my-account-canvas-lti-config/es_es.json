@@ -56,7 +56,7 @@
     "STEP2_LMS_STEP_1": "Vaya a Admin → Claves de desarrollador en su Canvas LMS.",
     "STEP2_LMS_STEP_2": "Haga clic en + Clave de desarrollador → + Clave LTI.",
     "STEP3_HEADING": "Ponerse en marcha",
-    "STEP2_LMS_STEP_4": "Guarde la clave y luego configúrela en ON (habilitada).",
+    "STEP2_LMS_STEP_4": "Guarde la clave, luego configúrela en ON y haga clic en Permitir cuando se le solicite.",
     "STEP2_CLIENT_ID_HEADING": "Ingrese sus credenciales LMS",
     "STEP2_CLIENT_ID_DESCRIPTION": "Pegue el ID de cliente de su LMS a continuación.",
     "STEP2_LMS_STEP_3": "Seleccione \"Ingresar URL\" como método de configuración y pegue la URL de configuración arriba.",
@@ -72,5 +72,14 @@
     "BUTTON_ENABLE": "Habilitar la integración",
     "BUTTON_SAVE_CONTINUE": "Guardar y continuar",
     "HEADING_ADD_ANOTHER": "Agregar otra implementación",
-    "COMPLETE_DESCRIPTION": "Tus integraciones LTI ya están activas. Puedes editar las configuraciones o añadir nuevas implementaciones a continuación."
+    "COMPLETE_DESCRIPTION": "Tus integraciones LTI ya están activas. Puedes editar las configuraciones o añadir nuevas implementaciones a continuación.",
+    "HEADING_PLACEMENTS": "Colocaciones",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "Vista de asignación",
+    "STEP2_PLACEMENT_CAVEAT": "Colocaciones",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "Los comentarios aparecen automáticamente debajo de las tareas.",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "Botón del editor de contenido enriquecido",
+    "HELP_PLACEMENTS_MANAGEMENT": "Después de cambiar las ubicaciones aquí, actualice también la sección Ubicaciones en su clave de desarrollador de Canvas para que coincida.",
+    "HELP_PLACEMENTS": "Elija dónde aparecerá FastComments en sus cursos de Canvas.",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "Se debe habilitar al menos una ubicación cuando LTI está activo.",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "Los instructores pueden incorporar FastComments en páginas, cuestionarios y anuncios a través de la barra de herramientas del Editor de contenido enriquecido."
 }

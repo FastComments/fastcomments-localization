@@ -354,7 +354,7 @@
         "email-reply-error": 12,
         "user-internal-profile-dialog-component": 19,
         "canvas-lms": 55,
-        "my-account-canvas-lti-config": 93,
+        "my-account-canvas-lti-config": 102,
         "lti": 69,
         "dashboard_nav": 1
     },
@@ -7675,7 +7675,16 @@
         "t90": "BUTTON_COPY",
         "t91": "BUTTON_SAVE_CONTINUE",
         "t92": "BUTTON_ENABLE",
-        "t93": "COPIED_FEEDBACK"
+        "t93": "COPIED_FEEDBACK",
+        "t94": "HEADING_PLACEMENTS",
+        "t95": "HELP_PLACEMENTS",
+        "t96": "HELP_PLACEMENTS_MANAGEMENT",
+        "t97": "LABEL_PLACEMENT_ASSIGNMENT_VIEW",
+        "t98": "HELP_PLACEMENT_ASSIGNMENT_VIEW",
+        "t99": "LABEL_PLACEMENT_EDITOR_BUTTON",
+        "t100": "HELP_PLACEMENT_EDITOR_BUTTON",
+        "t101": "VALIDATION_AT_LEAST_ONE_PLACEMENT",
+        "t102": "STEP2_PLACEMENT_CAVEAT"
     },
     "lti": {
         "t1": "PAGE_TITLE",

@@ -60,7 +60,7 @@
     "STEP2_CLIENT_ID_DESCRIPTION": "LMS에서 클라이언트 ID를 아래에 붙여넣으세요.",
     "STEP3_NOT_SET": "(설정되지 않음)",
     "STEP3_SUMMARY_HEADING": "구성 요약",
-    "STEP2_LMS_STEP_4": "키를 저장한 다음, 활성화(ON)로 설정하세요.",
+    "STEP2_LMS_STEP_4": "키를 저장한 다음, 설정을 켜짐으로 변경하고 메시지가 나타나면 허용을 클릭하세요.",
     "STEP2_CLIENT_ID_HEADING": "LMS 자격 증명을 입력하세요",
     "STEP3_DESCRIPTION": "설정을 검토하고 통합 기능을 활성화하세요.",
     "STEP3_HEADING": "라이브 방송 시작",
@@ -72,5 +72,14 @@
     "COPIED_FEEDBACK": "복사했어요!",
     "COMPLETE_DESCRIPTION": "LTI 통합이 활성화되었습니다. 아래에서 구성을 편집하거나 새 배포를 추가할 수 있습니다.",
     "HEADING_ADD_ANOTHER": "다른 배포를 추가하세요",
-    "BUTTON_ENABLE": "통합 활성화"
+    "BUTTON_ENABLE": "통합 활성화",
+    "HEADING_PLACEMENTS": "배치",
+    "HELP_PLACEMENTS": "Canvas 강좌에서 FastComments가 표시되는 위치를 선택하세요.",
+    "HELP_PLACEMENTS_MANAGEMENT": "여기에서 배치 위치를 변경한 후에는 Canvas 개발자 키의 배치 섹션도 일치하도록 업데이트하십시오.",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "댓글은 과제 아래에 자동으로 표시됩니다.",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "풍부한 콘텐츠 편집기 버튼",
+    "STEP2_PLACEMENT_CAVEAT": "배치",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "과제 보기",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "강사는 리치 콘텐츠 편집기 도구 모음을 통해 페이지, 퀴즈 및 공지 사항에 FastComments를 삽입할 수 있습니다.",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "LTI가 활성화된 경우 최소 하나의 배치가 활성화되어야 합니다."
 }

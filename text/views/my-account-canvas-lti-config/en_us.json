@@ -28,7 +28,7 @@
     "STEP2_LMS_STEP_1": "Go to Admin → Developer Keys in your Canvas LMS.",
     "STEP2_LMS_STEP_2": "Click + Developer Key → + LTI Key.",
     "STEP2_LMS_STEP_3": "Select \"Enter URL\" as the configuration method and paste the Configuration URL above.",
-    "STEP2_LMS_STEP_4": "Save the key, then set it to ON (enabled).",
+    "STEP2_LMS_STEP_4": "Save the key, then set it to ON and click Allow when prompted.",
     "STEP2_LMS_STEP_5": "Copy the number in the Details column — that is your Client ID.",
     "STEP2_CLIENT_ID_HEADING": "Enter Your LMS Credentials",
     "STEP2_CLIENT_ID_DESCRIPTION": "Paste the Client ID from your LMS below.",
@@ -72,5 +72,14 @@
     "ROLE_LEARNER": "Regular commenter (no special permissions)",
     "HEADING_DOCUMENTATION": "Documentation",
     "DOCUMENTATION_TEXT": "Need help setting up LTI? Check out our <a href=\"https://docs.fastcomments.com/guide-installation-canvas-lms.html\" target=\"_blank\">Canvas LMS Setup Guide</a> or visit our <a href=\"https://fastcomments.com/lti\" target=\"_blank\">LTI landing page</a> for other LMS platforms, or <a href=\"/auth/my-account/help\">contact support</a> for assistance.",
-    "TOOLTIP_CLICK_TO_COPY": "Click to copy"
+    "TOOLTIP_CLICK_TO_COPY": "Click to copy",
+    "HEADING_PLACEMENTS": "Placements",
+    "HELP_PLACEMENTS": "Choose where FastComments appears in your Canvas courses.",
+    "HELP_PLACEMENTS_MANAGEMENT": "After changing placements here, also update the Placements section in your Canvas Developer Key to match.",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "Assignment View",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "Comments appear automatically below assignments.",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "Rich Content Editor Button",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "Instructors can embed FastComments in Pages, Quizzes, and Announcements via the Rich Content Editor toolbar.",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "At least one placement must be enabled when LTI is active.",
+    "STEP2_PLACEMENT_CAVEAT": "Placements"
 }

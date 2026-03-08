@@ -54,7 +54,7 @@
     "STEP2_URL_HEADING": "URL de configuração",
     "STEP2_LMS_STEP_1": "Acesse Admin → Chaves de desenvolvedor no seu Canvas LMS.",
     "STEP2_URL_INSTRUCTION": "Copie este URL e cole-o na configuração da sua chave de desenvolvedor do LMS:",
-    "STEP2_LMS_STEP_4": "Salve a chave e, em seguida, defina-a como LIGADO (ativado).",
+    "STEP2_LMS_STEP_4": "Salve a chave, ative-a e clique em Permitir quando solicitado.",
     "STEP2_LMS_STEP_3": "Selecione \"Inserir URL\" como método de configuração e cole a URL de configuração acima.",
     "STEP3_HEADING": "Transmissão ao vivo",
     "STEP2_CLIENT_ID_HEADING": "Insira suas credenciais do LMS",
@@ -72,5 +72,14 @@
     "COMPLETE_DESCRIPTION": "Suas integrações LTI estão ativas. Você pode editar as configurações ou adicionar novas implementações abaixo.",
     "COMPLETE_HEADING": "Implantações ativas",
     "HEADING_ADD_ANOTHER": "Adicionar outra implantação",
-    "BUTTON_ENABLE": "Habilitar integração"
+    "BUTTON_ENABLE": "Habilitar integração",
+    "HEADING_PLACEMENTS": "Colocações",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "Os comentários aparecem automaticamente abaixo das tarefas.",
+    "STEP2_PLACEMENT_CAVEAT": "Colocações",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "Visualização da Tarefa",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "Botão do Editor de Conteúdo Avançado",
+    "HELP_PLACEMENTS_MANAGEMENT": "Após alterar os posicionamentos aqui, atualize também a seção \"Posicionamentos\" na sua chave de desenvolvedor do Canvas para que correspondam.",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "Pelo menos um posicionamento deve estar habilitado quando o LTI estiver ativo.",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "Os instrutores podem incorporar o FastComments em Páginas, Questionários e Anúncios através da barra de ferramentas do Editor de Conteúdo Avançado.",
+    "HELP_PLACEMENTS": "Escolha onde o FastComments será exibido em seus cursos do Canvas."
 }

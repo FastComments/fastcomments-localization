@@ -52,7 +52,7 @@
     "STEP2_DESCRIPTION": "Koristite URL konfiguracije ispod da biste postavili ključ za programere u vašem LMS-u, a zatim unesite ID klijenta koji generiše.",
     "STEPPER_LABEL_3": "Idi uživo",
     "STEP2_URL_HEADING": "URL konfiguracije",
-    "STEP2_LMS_STEP_4": "Sačuvajte ključ, a zatim ga podesite na ON (omogućeno).",
+    "STEP2_LMS_STEP_4": "Sačuvajte ključ, a zatim ga podesite na ON i kliknite na dugme Dozvoli kada se to od vas zatraži.",
     "STEP3_SUMMARY_HEADING": "Konfiguracija Rezime",
     "STEP3_DESCRIPTION": "Pregledajte svoju konfiguraciju i omogućite integraciju.",
     "COMPLETE_HEADING": "Aktivno raspoređivanje",
@@ -72,5 +72,14 @@
     "BUTTON_SAVE_CONTINUE": "Sačuvaj i nastavi",
     "STATUS_ACTIVE": "Aktivan",
     "COPIED_FEEDBACK": "Kopirano!",
-    "COMPLETE_DESCRIPTION": "Vaše LTI integracije su uživo. Možete da uređujete konfiguracije ili dodate nove primene ispod."
+    "COMPLETE_DESCRIPTION": "Vaše LTI integracije su uživo. Možete da uređujete konfiguracije ili dodate nove primene ispod.",
+    "LABEL_PLACEMENT_ASSIGNMENT_VIEW": "Pregled zadataka",
+    "HEADING_PLACEMENTS": "Smeštaj",
+    "STEP2_PLACEMENT_CAVEAT": "Smeštaj",
+    "HELP_PLACEMENTS_MANAGEMENT": "Nakon što promenite položaje ovde, takođe ažurirajte odeljak Plasmani u ključu za programere platna kako bi se podudarao.",
+    "HELP_PLACEMENTS": "Izaberite gde se FastComments pojavljuje u vašim Canvas kursevima.",
+    "HELP_PLACEMENT_ASSIGNMENT_VIEW": "Komentari se automatski pojavljuju ispod zadataka.",
+    "VALIDATION_AT_LEAST_ONE_PLACEMENT": "Najmanje jedan plasman mora biti omogućen kada je LTI aktivan.",
+    "LABEL_PLACEMENT_EDITOR_BUTTON": "Dugme za uređivanje bogatog sadržaja",
+    "HELP_PLACEMENT_EDITOR_BUTTON": "Instruktori mogu ugraditi FastComments na stranice, kvizove i najave preko trake sa alatkama Rich Content Editor."
 }
