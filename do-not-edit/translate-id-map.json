@@ -354,9 +354,13 @@
         "email-reply-error": 12,
         "user-internal-profile-dialog-component": 19,
         "canvas-lms": 55,
-        "my-account-canvas-lti-config": 102,
+        "my-account-canvas-lti-config": 112,
         "lti": 69,
-        "dashboard_nav": 1
+        "dashboard_nav": 1,
+        "my-account-canvas-lti-config-connect": 1,
+        "my-account-canvas-lti-config-delete": 5,
+        "my-account-canvas-lti-config-enable": 1,
+        "my-account-canvas-lti-config-setup": 1
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -7684,7 +7688,17 @@
         "t99": "LABEL_PLACEMENT_EDITOR_BUTTON",
         "t100": "HELP_PLACEMENT_EDITOR_BUTTON",
         "t101": "VALIDATION_AT_LEAST_ONE_PLACEMENT",
-        "t102": "STEP2_PLACEMENT_CAVEAT"
+        "t102": "STEP2_PLACEMENT_CAVEAT",
+        "t103": "NO_CONFIGS",
+        "t104": "TABLE_HEADER_NAME",
+        "t105": "TABLE_HEADER_PLATFORM_URL",
+        "t106": "TABLE_HEADER_STATUS",
+        "t107": "STATUS_INCOMPLETE",
+        "t108": "BUTTON_BACK_TO_LIST",
+        "t109": "BUTTON_BACK_TO_SETUP",
+        "t110": "BUTTON_BACK_TO_CONNECT",
+        "t111": "BUTTON_CONTINUE_SETUP",
+        "t112": "BUTTON_EDIT"
     },
     "lti": {
         "t1": "PAGE_TITLE",
@@ -7759,5 +7773,21 @@
     },
     "dashboard_nav": {
         "t1": "NAV_LTI_CONFIG"
+    },
+    "my-account-canvas-lti-config-connect": {
+        "t1": "PAGE_TITLE"
+    },
+    "my-account-canvas-lti-config-delete": {
+        "t1": "PAGE_TITLE",
+        "t2": "DELETE_HEADING",
+        "t3": "DELETE_DESCRIPTION",
+        "t4": "BUTTON_CANCEL",
+        "t5": "BUTTON_CONFIRM_DELETE"
+    },
+    "my-account-canvas-lti-config-enable": {
+        "t1": "PAGE_TITLE"
+    },
+    "my-account-canvas-lti-config-setup": {
+        "t1": "PAGE_TITLE"
     }
 }
