@@ -1,15 +1,15 @@
 {
-  "PAGE_TITLE": "Remove Email Suppression - FastComments",
-  "HEADING": "Confirm Suppression Removal",
-  "CONFIRMATION_MESSAGE": "Are you sure you want to remove this suppression? The email provider will be asked to unblock this address.",
-  "LABEL_EMAIL": "Email",
-  "LABEL_PROVIDER": "Provider",
-  "LABEL_TYPE": "Type",
-  "LABEL_REASON": "Reason",
-  "LABEL_NO_REASON": "No reason provided",
-  "BUTTON_CONFIRM": "Remove Suppression",
-  "BUTTON_CANCEL": "Cancel",
-  "ERROR_NOT_FOUND": "Suppression not found.",
-  "ERROR_RATE_LIMIT_EMAIL": "This email was already unsuppressed in the last 30 days. Please wait before trying again.",
-  "ERROR_RATE_LIMIT_TENANT": "Your account has reached the monthly removal limit (5 per month). Please try again next month."
+    "PAGE_TITLE": "Remove Email Suppression - FastComments",
+    "HEADING": "Confirm Suppression Removal",
+    "CONFIRMATION_MESSAGE": "Are you sure you want to remove this suppression? The email provider will be asked to unblock this address.",
+    "LABEL_EMAIL": "Email",
+    "LABEL_PROVIDER": "Provider",
+    "LABEL_TYPE": "Type",
+    "LABEL_REASON": "Reason",
+    "LABEL_NO_REASON": "No reason provided",
+    "BUTTON_CONFIRM": "Remove Suppression",
+    "BUTTON_CANCEL": "Cancel",
+    "ERROR_NOT_FOUND": "Suppression not found.",
+    "ERROR_RATE_LIMIT_EMAIL": "This email was already unsuppressed in the last 30 days. Please wait before trying again.",
+    "ERROR_RATE_LIMIT_TENANT": "Your account has reached the monthly removal limit (5 per month). Please try again next month."
 }

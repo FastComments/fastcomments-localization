@@ -1,14 +1,14 @@
 {
-  "FROM_NAME": "FastComments Robot",
-  "SUBJECT": "Your Email Reply Could Not Be Processed",
-  "BANNER_TEXT": "Email Reply Error",
-  "INTRO": "Hello,",
-  "ERROR_INVALID_LINK": "The reply link has expired or is invalid.",
-  "ERROR_USER_NOT_FOUND": "We could not find an account associated with this reply link.",
-  "ERROR_COMMENT_NOT_FOUND": "The comment you tried to reply to no longer exists.",
-  "ERROR_SAVE_FAILED": "We were unable to save your reply due to an internal error.",
-  "ERROR_DM_CONVERSATION_NOT_FOUND": "The conversation you tried to reply to was not found.",
-  "ERROR_DM_SENDER_NOT_AUTHORIZED": "You are not authorized to reply to this conversation.",
-  "ERROR_UNKNOWN": "An unexpected error occurred while processing your reply.",
-  "HELP": "Please try replying directly on the website instead."
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "Your Email Reply Could Not Be Processed",
+    "BANNER_TEXT": "Email Reply Error",
+    "INTRO": "Hello,",
+    "ERROR_INVALID_LINK": "The reply link has expired or is invalid.",
+    "ERROR_USER_NOT_FOUND": "We could not find an account associated with this reply link.",
+    "ERROR_COMMENT_NOT_FOUND": "The comment you tried to reply to no longer exists.",
+    "ERROR_SAVE_FAILED": "We were unable to save your reply due to an internal error.",
+    "ERROR_DM_CONVERSATION_NOT_FOUND": "The conversation you tried to reply to was not found.",
+    "ERROR_DM_SENDER_NOT_AUTHORIZED": "You are not authorized to reply to this conversation.",
+    "ERROR_UNKNOWN": "An unexpected error occurred while processing your reply.",
+    "HELP": "Please try replying directly on the website instead."
 }

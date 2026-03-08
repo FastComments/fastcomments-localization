@@ -355,7 +355,8 @@
         "user-internal-profile-dialog-component": 19,
         "canvas-lms": 55,
         "my-account-canvas-lti-config": 61,
-        "lti": 69
+        "lti": 69,
+        "dashboard_nav": 1
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -7714,5 +7715,8 @@
         "t67": "FAQ_LTI_ROLES_ANSWER",
         "t68": "FINAL_CTA_TITLE",
         "t69": "FINAL_CTA_DESCRIPTION"
+    },
+    "dashboard_nav": {
+        "t1": "NAV_LTI_CONFIG"
     }
 }
