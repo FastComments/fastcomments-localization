@@ -1,14 +1,14 @@
 {
     "PAGE_TITLE": "LTI 1.3 評論與討論工具，適用於任何 LMS | FastComments",
-    "META_DESCRIPTION": "透過與 FastComments LTI 1.3 集成，即可為任何 LMS 添加即時線程評論、協作聊天和文字高亮討論功能。支援自動單一登入 (SSO)，符合 GDPR 標準。提供免費試用。",
-    "HEAD_KEYWORDS": "LTI 1.3 評論工具、LTI 討論工具、LMS 評論外掛程式、LTI 1.3 外部工具、LMS 協作工具、教育科技評論系統、LTI 評論系統、向 LMS 新增評論、LMS 討論工具、LTI 1.3 協作",
+    "META_DESCRIPTION": "透過與 FastComments LTI 1.3 集成，即可在任何 LMS 中添加即時線程式評論和討論功能。支援自動單一登入 (SSO)，符合 GDPR 標準。提供免費試用。",
+    "HEAD_KEYWORDS": "LTI 1.3 評論工具、LTI 討論工具、LMS 評論外掛程式、LTI 1.3 外部工具、教育科技評論系統、LTI 評論系統、新增評論至 LMS、LMS 討論工具",
     "HERO_BADGE": "LTI 1.3 標準",
     "HERO_TITLE": "為任何學習管理系統添加即時評論和協作功能",
-    "HERO_DESCRIPTION": "透過 LTI 1.3 標準，將主題討論、即時協作聊天和文字高亮對話功能引入您的課程。自動單一登錄，無需託管伺服器，符合 GDPR 標準。",
+    "HERO_DESCRIPTION": "透過 LTI 1.3 標準將主題討論引入您的課程。自動單一登錄，無需託管伺服器，符合 GDPR 標準。",
     "HERO_CTA_FREE_TRIAL": "開始免費試用",
     "HERO_CTA_DOCS": "設定指南",
-    "STYLES_TITLE": "學生參與的三種方式",
-    "STYLES_SUBTITLE": "從主題討論到即時協作—選擇適合您課程的形式。",
+    "STYLES_TITLE": "學生如何參與",
+    "STYLES_SUBTITLE": "融入課程工作流程的一系列討論。",
     "STYLE_1_TITLE": "課程評論帖",
     "STYLE_1_DESCRIPTION": "在任何課程中加入嵌套式、主題式討論。學生可以根據上下文回复，教師可以輕鬆管理討論，即使在大班授課的情況下，對話也能保持井然有序。",
     "STYLE_1_IMAGE_ALT": "LMS課程頁面上的評論串",
@@ -53,9 +53,9 @@
     "HOW_IT_WORKS_STEP_2_TITLE": "在您的學習管理系統 (LMS) 中註冊",
     "HOW_IT_WORKS_STEP_2_DESCRIPTION": "使用設定 URL 將 FastComments 新增為 LMS 中的外部工具。然後貼上客戶端 ID。",
     "HOW_IT_WORKS_STEP_3_TITLE": "討論與協作",
-    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "課程中會顯示評論和協作聊天功能。學生透過 LTI SSO 自動登入。",
+    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "評論會顯示在您的課程中。學生透過 LTI SSO 自動登入。",
     "FAQ_LTI_FREE_TRIAL": "有免費試用嗎？",
-    "FAQ_LTI_FREE_TRIAL_ANSWER": "是的。 FastComments 提供 30 天免費試用，期間可完全存取所有功能，包括 LTI 單點登入、協作聊天、文字高亮和富文本編輯器。無需信用卡即可開始使用。",
+    "FAQ_LTI_FREE_TRIAL_ANSWER": "是的。 FastComments 提供 30 天免費試用，期間可完全存取所有功能，包括 LTI 單一登入和富文本編輯器。無需信用卡即可開始使用。",
     "FAQ_LTI_SSO": "SSO 如何與 LTI 1.3 協同工作？",
     "FAQ_LTI_SSO_ANSWER": "當學生透過您的學習管理系統 (LMS) 啟動 FastComments 時，LTI 1.3 協定會將他們的識別資訊（姓名、信箱、個人資料和角色）安全地傳遞給 FastComments，並自動建立一個對應的帳戶。學生無需單獨註冊。",
     "FAQ_LTI_HOSTING": "我需要自己架設伺服器嗎？",
@@ -67,5 +67,5 @@
     "FAQ_LTI_ROLES": "LMS角色是如何管理的？",
     "FAQ_LTI_ROLES_ANSWER": "LTI啟動期間，LMS角色會自動映射：管理員成為FastComments管理員，教師成為可以管理評論的版主，學員則成為普通評論者。無需手動配置角色。",
     "FINAL_CTA_TITLE": "準備好升級您的課程討論了嗎？",
-    "FINAL_CTA_DESCRIPTION": "幾分鐘內即可為您的 LMS 添加線程序評論、協作聊天和自動 SSO 功能。"
+    "FINAL_CTA_DESCRIPTION": "只需幾分鐘，即可為您的學習管理系統 (LMS) 新增線程序評論和自動單一登入 (SSO) 功能。"
 }

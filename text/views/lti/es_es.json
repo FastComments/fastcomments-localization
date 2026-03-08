@@ -1,14 +1,14 @@
 {
     "PAGE_TITLE": "Herramienta de comentarios y debates LTI 1.3 para cualquier LMS | FastComments",
-    "META_DESCRIPTION": "Añade comentarios en directo, chat colaborativo y debates con texto destacado a cualquier LMS con la integración de FastComments LTI 1.3. Inicio de sesión único (SSO) automático, compatible con el RGPD. Prueba gratuita.",
-    "HEAD_KEYWORDS": "Herramienta de comentarios LTI 1.3, herramienta de discusión LTI, complemento de comentarios LMS, herramienta externa LTI 1.3, herramienta de colaboración LMS, sistema de comentarios Edtech, sistema de comentarios LTI, agregar comentarios a LMS, herramienta de discusión LMS, colaboración LTI 1.3",
+    "META_DESCRIPTION": "Añade comentarios y debates en directo a cualquier LMS con la integración de FastComments LTI 1.3. Inicio de sesión único (SSO) automático y cumplimiento del RGPD. Prueba gratuita.",
+    "HEAD_KEYWORDS": "Herramienta de comentarios LTI 1.3, herramienta de discusión LTI, complemento de comentarios LMS, herramienta externa LTI 1.3, sistema de comentarios de tecnología educativa, sistema de comentarios LTI, agregar comentarios a LMS, herramienta de discusión LMS",
     "HERO_BADGE": "Estándar LTI 1.3",
     "HERO_TITLE": "Agregue comentarios y colaboración en vivo a cualquier LMS",
-    "HERO_DESCRIPTION": "Integra discusiones en cadena, chat colaborativo en tiempo real y conversaciones con texto destacado en tus cursos mediante el estándar LTI 1.3. SSO automático, sin servidores alojados, compatible con el RGPD.",
+    "HERO_DESCRIPTION": "Integra debates en cadena en tus cursos mediante el estándar LTI 1.3. Inicio de sesión único (SSO) automático, sin servidores alojados, compatible con el RGPD.",
     "HERO_CTA_FREE_TRIAL": "Comience una prueba gratuita",
     "HERO_CTA_DOCS": "Guía de configuración",
-    "STYLES_TITLE": "Tres formas en que los estudiantes pueden participar",
-    "STYLES_SUBTITLE": "Desde debates en hilo hasta colaboración en vivo: elija el formato que se adapte a su curso.",
+    "STYLES_TITLE": "Cómo se involucran los estudiantes",
+    "STYLES_SUBTITLE": "Discusiones en cadena que se adaptan naturalmente al flujo de trabajo de su curso.",
     "STYLE_1_TITLE": "Comentarios del curso en hilo",
     "STYLE_1_DESCRIPTION": "Añade discusiones anidadas e interconectadas a cualquier curso. Los estudiantes responden en contexto, los instructores moderan con facilidad y las conversaciones se mantienen organizadas incluso en clases numerosas.",
     "STYLE_1_IMAGE_ALT": "Comentarios en cadena en una página de un curso LMS",
@@ -53,9 +53,9 @@
     "HOW_IT_WORKS_STEP_2_TITLE": "Regístrate en tu LMS",
     "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Añade FastComments como herramienta externa en tu LMS usando la URL de configuración. Pega el ID de cliente.",
     "HOW_IT_WORKS_STEP_3_TITLE": "Debatir y colaborar",
-    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Los comentarios y el chat colaborativo aparecen en tus cursos. Los estudiantes inician sesión automáticamente mediante el inicio de sesión único (SSO) de LTI.",
+    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Los comentarios aparecen en tus cursos. Los estudiantes inician sesión automáticamente mediante LTI SSO.",
     "FAQ_LTI_FREE_TRIAL": "¿Hay una prueba gratuita?",
-    "FAQ_LTI_FREE_TRIAL_ANSWER": "Sí. FastComments ofrece una prueba gratuita de 30 días con acceso completo a todas las funciones, incluyendo el inicio de sesión único (SSO) de LTI, el chat colaborativo, el resaltado de texto y el editor de texto enriquecido. No se requiere tarjeta de crédito para empezar.",
+    "FAQ_LTI_FREE_TRIAL_ANSWER": "Sí. FastComments ofrece una prueba gratuita de 30 días con acceso completo a todas las funciones, incluyendo el inicio de sesión único (SSO) de LTI y el editor de texto enriquecido. No se requiere tarjeta de crédito para empezar.",
     "FAQ_LTI_SSO": "¿Cómo funciona SSO con LTI 1.3?",
     "FAQ_LTI_SSO_ANSWER": "Cuando un estudiante inicia FastComments desde su LMS, el protocolo LTI 1.3 transfiere de forma segura su identidad (nombre, correo electrónico, avatar y rol) a FastComments. Se crea automáticamente la cuenta correspondiente. Los estudiantes no necesitan registrarse por separado.",
     "FAQ_LTI_HOSTING": "¿Necesito alojar un servidor?",
@@ -67,5 +67,5 @@
     "FAQ_LTI_ROLES": "¿Cómo se gestionan los roles del LMS?",
     "FAQ_LTI_ROLES_ANSWER": "Los roles del LMS se asignan automáticamente durante el lanzamiento de LTI: los administradores se convierten en administradores de FastComments, los instructores en moderadores que pueden gestionar comentarios, y los alumnos son comentaristas habituales. No es necesario configurar roles manualmente.",
     "FINAL_CTA_TITLE": "¿Estás listo para mejorar las discusiones de tu curso?",
-    "FINAL_CTA_DESCRIPTION": "Agregue comentarios en cadena, chat colaborativo y SSO automático a su LMS en minutos."
+    "FINAL_CTA_DESCRIPTION": "Agregue comentarios en hilo y SSO automático a su LMS en minutos."
 }

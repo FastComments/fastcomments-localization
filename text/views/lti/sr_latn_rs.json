@@ -1,14 +1,14 @@
 {
     "PAGE_TITLE": "LTI 1.3 Alat za komentarisanje i diskusiju za bilo koji LMS | Brzi komentari",
-    "META_DESCRIPTION": "Dodajte komentare sa živim navojem, kolaborativno ćaskanje i tekstualne diskusije u bilo koji LMS sa FastComments LTI KSNUMKS integracijom. Automatski DZS, GDPR usaglašen. Besplatna probna verzija.",
-    "HEAD_KEYWORDS": "LTI 1.3 Commenting Tool, LTI Discussion Tool, LMS Comments Plugin, LTI 1.3 Eksterni alat, LMS Alat za saradnju, EDTECH Commenting Sistem, LTI Commenting Sistem, Add Comments to LMS, LMS Discussion Tool, LTI 1.3 Collaboration",
+    "META_DESCRIPTION": "Dodajte komentare i diskusije uživo na bilo koji LMS sa FastComments LTI KSNUMKS integracijom. Automatski DZS, GDPR usaglašen. Besplatna probna verzija.",
+    "HEAD_KEYWORDS": "LTI 1.3 Commenting Tool, LTI Discussion Tool, LMS Comments Plugin, LTI 1.3 Eksterni alat, EDTECH Commenting Sistem, LTI Commenting Sistem, Dodajte komentare na LMS, LMS Discussion Tool",
     "HERO_BADGE": "LTI 1.3 standardni",
     "HERO_TITLE": "Dodajte komentare uživo i saradnju u bilo koji LMS",
-    "HERO_DESCRIPTION": "Donesite diskusije sa navojima, kolaborativno ćaskanje u realnom vremenu i razgovore sa tekstom na svoje kurseve putem LTI KSNUMKS standarda. Automatski DZS, nema servera za hostovanje, u skladu sa GDPR-om.",
+    "HERO_DESCRIPTION": "Donesite diskusije sa navojem na svoje kurseve preko LTI KSNUMKS standarda. Automatski DZS, nema servera za hostovanje, u skladu sa GDPR-om.",
     "HERO_CTA_FREE_TRIAL": "Pokrenite besplatnu probnu verziju",
     "HERO_CTA_DOCS": "Vodič za podešavanje",
-    "STYLES_TITLE": "Tri načina na koje se učenici mogu angažovati",
-    "STYLES_SUBTITLE": "Od diskusija sa navojem do saradnje uživo - izaberite format koji odgovara vašem kursu.",
+    "STYLES_TITLE": "Kako se učenici angažuju",
+    "STYLES_SUBTITLE": "Diskusije sa navojem koje se prirodno uklapaju u vaš tok kursa.",
     "STYLE_1_TITLE": "Threaded Komentari kursa",
     "STYLE_1_DESCRIPTION": "Dodajte ugnežđene, navojne diskusije na bilo koji kurs. Učenici odgovaraju u kontekstu, instruktori umeravaju sa lakoćom, a razgovori ostaju organizovani čak iu velikim razredima.",
     "STYLE_1_IMAGE_ALT": "Komentari sa navojem na stranici LMS kursa",
@@ -53,9 +53,9 @@
     "HOW_IT_WORKS_STEP_2_TITLE": "Registrujte se u svoj LMS",
     "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Dodajte FastComments kao spoljni alat u vašem LMS-u koristeći URL konfiguraciju. Nalepite ID klijenta nazad.",
     "HOW_IT_WORKS_STEP_3_TITLE": "Razgovarajte i sarađujte",
-    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Komentari i kolaborativno ćaskanje pojavljuju se na vašim kursevima. Studenti se automatski prijavljuju preko LTI SSO.",
+    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Komentari se pojavljuju na vašim kursevima. Studenti se automatski prijavljuju preko LTI SSO.",
     "FAQ_LTI_FREE_TRIAL": "Da li postoji besplatna probna verzija?",
-    "FAQ_LTI_FREE_TRIAL_ANSWER": "Da. FastComments nudi besplatnu probnu verziju KSNUMKS-a sa punim pristupom svim funkcijama, uključujući LTI SSO, kolaborativno ćaskanje, isticanje teksta i uređivač bogatog teksta. Nije potrebna kreditna kartica za početak.",
+    "FAQ_LTI_FREE_TRIAL_ANSWER": "Da. FastComments nudi besplatnu probnu verziju KSNUMKS-a sa punim pristupom svim funkcijama, uključujući LTI SSO i uređivač bogatog teksta. Nije potrebna kreditna kartica za početak.",
     "FAQ_LTI_SSO": "Kako DZS radi sa LTI KSNUMKS?",
     "FAQ_LTI_SSO_ANSWER": "Kada učenik pokrene FastComments iz vašeg LMS-a, LTI KSNUMKS protokol sigurno prenosi svoj identitet (ime, e-poštu, avatar i ulogu) u FastComments. Odgovarajući nalog se kreira automatski. Studenti nikada ne moraju da se registruju odvojeno.",
     "FAQ_LTI_HOSTING": "Da li treba da hostujem server?",
@@ -67,5 +67,5 @@
     "FAQ_LTI_ROLES": "Kako se rukuje LMS ulogama?",
     "FAQ_LTI_ROLES_ANSWER": "LMS uloge se automatski mapiraju tokom pokretanja LTI: Administratori postaju FastComments administratori, instruktori postaju moderatori koji mogu upravljati komentarima, a učenici su redovni komentatori. Nije potrebna ručna konfiguracija uloga.",
     "FINAL_CTA_TITLE": "Spremni ste da nadogradite svoje diskusije o kursu?",
-    "FINAL_CTA_DESCRIPTION": "Dodajte komentare sa navojima, kolaborativno ćaskanje i automatski DZS u svoj LMS za nekoliko minuta."
+    "FINAL_CTA_DESCRIPTION": "Dodajte komentare sa navojem i automatski DZS na vaš LMS za nekoliko minuta."
 }

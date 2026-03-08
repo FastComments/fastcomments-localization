@@ -1,14 +1,14 @@
 {
     "PAGE_TITLE": "LTI 1.3 Herhangi Bir Öğrenme Yönetim Sistemi İçin Yorum ve Tartışma Aracı | FastComments",
-    "META_DESCRIPTION": "FastComments LTI 1.3 entegrasyonu ile herhangi bir LMS'ye canlı yorumlar, işbirlikçi sohbet ve metin vurgulamalı tartışmalar ekleyin. Otomatik SSO, GDPR uyumlu. Ücretsiz deneme sürümü.",
-    "HEAD_KEYWORDS": "LTI 1.3 yorum aracı, LTI tartışma aracı, LMS yorum eklentisi, LTI 1.3 harici araç, LMS iş birliği aracı, eğitim teknolojisi yorum sistemi, LTI yorum sistemi, LMS'ye yorum ekleme, LMS tartışma aracı, LTI 1.3 iş birliği",
+    "META_DESCRIPTION": "FastComments LTI 1.3 entegrasyonu ile herhangi bir LMS'ye canlı, sıralı yorumlar ve tartışmalar ekleyin. Otomatik SSO, GDPR uyumlu. Ücretsiz deneme sürümü.",
+    "HEAD_KEYWORDS": "LTI 1.3 yorum aracı, LTI tartışma aracı, LMS yorum eklentisi, LTI 1.3 harici araç, eğitim teknolojisi yorum sistemi, LTI yorum sistemi, LMS'ye yorum ekleme, LMS tartışma aracı",
     "HERO_BADGE": "LTI 1.3 Standard",
     "HERO_TITLE": "Herhangi bir Öğrenme Yönetim Sistemine (LMS) Canlı Yorum ve İşbirliği Özelliği Ekleyin",
-    "HERO_DESCRIPTION": "LTI 1.3 standardı ile derslerinize konu bazlı tartışmalar, gerçek zamanlı işbirlikçi sohbet ve metin vurgulamalı konuşmalar getirin. Otomatik SSO, sunucu barındırmaya gerek yok, GDPR uyumlu.",
+    "HERO_DESCRIPTION": "LTI 1.3 standardı ile derslerinize konu bazlı tartışmalar ekleyin. Otomatik SSO, sunucu barındırmaya gerek yok, GDPR uyumlu.",
     "HERO_CTA_FREE_TRIAL": "Ücretsiz Deneme Sürümünü Başlatın",
     "HERO_CTA_DOCS": "Kurulum Kılavuzu",
-    "STYLES_TITLE": "Öğrencilerin Katılım Sağlayabileceği Üç Yol",
-    "STYLES_SUBTITLE": "Konu bazlı tartışmalardan canlı iş birliğine kadar, dersinize uygun formatı seçin.",
+    "STYLES_TITLE": "Öğrenciler Nasıl Katılım Sağlar?",
+    "STYLES_SUBTITLE": "Ders akışınıza doğal bir şekilde uyum sağlayan, konu başlıklarına göre düzenlenmiş tartışmalar.",
     "STYLE_1_TITLE": "Konu Başlıklı Ders Yorumları",
     "STYLE_1_DESCRIPTION": "Herhangi bir derse iç içe geçmiş, konu başlıklarına bağlı tartışmalar ekleyin. Öğrenciler bağlam içinde yanıt verir, eğitmenler kolaylıkla moderasyon sağlar ve büyük sınıflarda bile konuşmalar düzenli kalır.",
     "STYLE_1_IMAGE_ALT": "LMS ders sayfasındaki yorumlar dizisi",
@@ -53,9 +53,9 @@
     "HOW_IT_WORKS_STEP_2_TITLE": "Öğrenme Yönetim Sisteminizde Kayıt Olun",
     "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Yapılandırma URL'sini kullanarak FastComments'ı LMS'nize harici bir araç olarak ekleyin. İstemci Kimliğini tekrar yapıştırın.",
     "HOW_IT_WORKS_STEP_3_TITLE": "Tartışın ve İşbirliği Yapın",
-    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Yorumlar ve ortak sohbet, derslerinizde görünür. Öğrenciler LTI SSO aracılığıyla otomatik olarak oturum açarlar.",
+    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Yorumlar derslerinizde görünür. Öğrenciler LTI SSO aracılığıyla otomatik olarak giriş yaparlar.",
     "FAQ_LTI_FREE_TRIAL": "Ücretsiz deneme sürümü var mı?",
-    "FAQ_LTI_FREE_TRIAL_ANSWER": "Evet. FastComments, LTI SSO, ortak sohbet, metin vurgulama ve zengin metin düzenleyici dahil olmak üzere tüm özelliklere tam erişim sağlayan 30 günlük ücretsiz deneme sürümü sunmaktadır. Başlamak için kredi kartı gerekmez.",
+    "FAQ_LTI_FREE_TRIAL_ANSWER": "Evet. FastComments, LTI SSO ve zengin metin düzenleyici de dahil olmak üzere tüm özelliklere tam erişim sağlayan 30 günlük ücretsiz deneme sürümü sunmaktadır. Başlamak için kredi kartı gerekmez.",
     "FAQ_LTI_SSO": "LTI 1.3 ile SSO nasıl çalışır?",
     "FAQ_LTI_SSO_ANSWER": "Öğrenci LMS'nizden FastComments'ı başlattığında, LTI 1.3 protokolü kimlik bilgilerini (ad, e-posta, avatar ve rol) güvenli bir şekilde FastComments'a iletir. Buna karşılık gelen bir hesap otomatik olarak oluşturulur. Öğrencilerin ayrıca kayıt olmalarına gerek yoktur.",
     "FAQ_LTI_HOSTING": "Bir sunucu barındırmam gerekiyor mu?",
@@ -67,5 +67,5 @@
     "FAQ_LTI_ROLES": "LMS rolleri nasıl yönetiliyor?",
     "FAQ_LTI_ROLES_ANSWER": "LTI başlatıldığında LMS rolleri otomatik olarak eşleştirilir: Yöneticiler FastComments Yöneticisi olur, Eğitmenler yorumları yönetebilen Moderatör olur ve Öğrenciler normal yorumcu olur. Manuel rol yapılandırmasına gerek yoktur.",
     "FINAL_CTA_TITLE": "Ders Tartışmalarınızı Geliştirmeye Hazır Mısınız?",
-    "FINAL_CTA_DESCRIPTION": "Öğrenme yönetim sisteminize (LMS) dakikalar içinde konu bazlı yorumlar, ortak sohbet ve otomatik tek oturum açma (SSO) özelliği ekleyin."
+    "FINAL_CTA_DESCRIPTION": "Öğrenme yönetim sisteminize (LMS) dakikalar içinde sıralı yorumlar ve otomatik tek oturum açma (SSO) özelliği ekleyin."
 }

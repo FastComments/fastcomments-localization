@@ -1,14 +1,14 @@
 {
     "PAGE_TITLE": "あらゆるLMSに対応したLTI 1.3コメント＆ディスカッションツール | FastComments",
-    "META_DESCRIPTION": "FastComments LTI 1.3統合により、あらゆるLMSにライブスレッドコメント、共同チャット、テキストハイライトディスカッション機能を追加できます。自動SSO、GDPR準拠。無料トライアルもご利用いただけます。",
-    "HEAD_KEYWORDS": "lti 1.3 コメントツール、lti ディスカッションツール、lms コメントプラグイン、lti 1.3 外部ツール、lms コラボレーションツール、edtech コメントシステム、lti コメントシステム、lms へのコメントの追加、lms ディスカッションツール、lti 1.3 コラボレーション",
+    "META_DESCRIPTION": "FastComments LTI 1.3統合により、あらゆるLMSにライブスレッドコメントとディスカッション機能を追加できます。自動SSO、GDPR準拠。無料トライアルもご利用いただけます。",
+    "HEAD_KEYWORDS": "lti 1.3 コメントツール、lti ディスカッションツール、lms コメントプラグイン、lti 1.3 外部ツール、edtech コメントシステム、lti コメントシステム、lms へのコメントの追加、lms ディスカッションツール",
     "HERO_BADGE": "LTI 1.3 標準",
     "HERO_TITLE": "あらゆるLMSにライブコメントとコラボレーションを追加",
-    "HERO_DESCRIPTION": "LTI 1.3標準規格に準拠し、スレッド形式のディスカッション、リアルタイムの共同チャット、テキストハイライトによる会話をコースに導入できます。自動SSO、サーバーホスティング不要、GDPR準拠。",
+    "HERO_DESCRIPTION": "LTI 1.3標準規格に準拠し、コースにスレッド形式のディスカッション機能を導入できます。自動SSO、サーバーホスティング不要、GDPR準拠。",
     "HERO_CTA_FREE_TRIAL": "無料トライアルを始める",
     "HERO_CTA_DOCS": "セットアップガイド",
-    "STYLES_TITLE": "学生が参加できる3つの方法",
-    "STYLES_SUBTITLE": "スレッドディスカッションからライブコラボレーションまで、コースに適した形式を選択してください。",
+    "STYLES_TITLE": "学生の参加方法",
+    "STYLES_SUBTITLE": "コースのワークフローに自然に適合するスレッド化されたディスカッション。",
     "STYLE_1_TITLE": "スレッド化されたコースコメント",
     "STYLE_1_DESCRIPTION": "あらゆるコースに、ネストされたスレッド形式のディスカッションを追加できます。受講生は状況に応じて返信し、講師は簡単にモデレートでき、大人数のクラスでも会話が整理された状態を保ちます。",
     "STYLE_1_IMAGE_ALT": "LMS コースページ上のスレッドコメント",
@@ -53,9 +53,9 @@
     "HOW_IT_WORKS_STEP_2_TITLE": "LMSに登録する",
     "HOW_IT_WORKS_STEP_2_DESCRIPTION": "設定URLを使用して、FastCommentsをLMSの外部ツールとして追加します。クライアントIDを貼り付けてください。",
     "HOW_IT_WORKS_STEP_3_TITLE": "議論とコラボレーション",
-    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "コメントと共同チャットはコースに表示されます。学生はLTI SSO経由で自動的にサインインします。",
+    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "コメントはコースに表示されます。学生はLTI SSO経由で自動的にサインインします。",
     "FAQ_LTI_FREE_TRIAL": "無料トライアルはありますか？",
-    "FAQ_LTI_FREE_TRIAL_ANSWER": "はい。FastCommentsは30日間の無料トライアルを提供しており、LTI SSO、共同チャット、テキストハイライト、リッチテキストエディタなど、すべての機能をご利用いただけます。ご利用開始にクレジットカードは不要です。",
+    "FAQ_LTI_FREE_TRIAL_ANSWER": "はい。FastCommentsは30日間の無料トライアルを提供しており、LTI SSOやリッチテキストエディタを含むすべての機能をフルにご利用いただけます。ご利用開始にクレジットカードは不要です。",
     "FAQ_LTI_SSO": "LTI 1.3 では SSO はどのように機能しますか?",
     "FAQ_LTI_SSO_ANSWER": "学生がLMSからFastCommentsを起動すると、LTI 1.3プロトコルによって、学生のID（名前、メールアドレス、アバター、役割）がFastCommentsに安全に渡されます。対応するアカウントが自動的に作成されます。学生が別途登録する必要はありません。",
     "FAQ_LTI_HOSTING": "サーバーをホストする必要がありますか?",
@@ -67,5 +67,5 @@
     "FAQ_LTI_ROLES": "LMS の役割はどのように処理されますか?",
     "FAQ_LTI_ROLES_ANSWER": "LTIの起動時にLMSの役割が自動的に割り当てられます。管理者はFastComments管理者に、講師はコメントを管理できるモデレーターに、学習者は通常のコメント投稿者になります。手動での役割設定は不要です。",
     "FINAL_CTA_TITLE": "コースディスカッションをアップグレードする準備はできましたか?",
-    "FINAL_CTA_DESCRIPTION": "スレッド化されたコメント、共同チャット、自動 SSO を LMS に数分で追加できます。"
+    "FINAL_CTA_DESCRIPTION": "数分でスレッド化されたコメントと自動 SSO を LMS に追加できます。"
 }

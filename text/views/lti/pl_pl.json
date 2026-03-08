@@ -1,14 +1,14 @@
 {
     "PAGE_TITLE": "Narzędzie do komentowania i dyskusji LTI 1.3 dla dowolnego systemu LMS | FastComments",
-    "META_DESCRIPTION": "Dodawaj komentarze w wątkach na żywo, czat grupowy i dyskusje z podświetlaniem tekstu do dowolnego systemu LMS dzięki integracji FastComments LTI 1.3. Automatyczne logowanie jednokrotne (SSO), zgodność z RODO. Bezpłatny okres próbny.",
-    "HEAD_KEYWORDS": "Narzędzie do komentowania lti 1.3, narzędzie do dyskusji lti, wtyczka do komentarzy lms, zewnętrzne narzędzie lti 1.3, narzędzie do współpracy lms, system komentowania edtech, system komentowania lti, dodawanie komentarzy do lms, narzędzie do dyskusji lms, współpraca lti 1.3",
+    "META_DESCRIPTION": "Dodawaj komentarze i dyskusje w wątkach na żywo do dowolnego systemu LMS dzięki integracji FastComments LTI 1.3. Automatyczne logowanie jednokrotne (SSO), zgodność z RODO. Bezpłatny okres próbny.",
+    "HEAD_KEYWORDS": "Narzędzie do komentowania lti 1.3, narzędzie do dyskusji lti, wtyczka do komentarzy lms, zewnętrzne narzędzie lti 1.3, system komentowania edtech, system komentowania lti, dodawanie komentarzy do lms, narzędzie do dyskusji lms",
     "HERO_BADGE": "LTI 1.3 Standard",
     "HERO_TITLE": "Dodaj komentarze na żywo i współpracę do dowolnego systemu LMS",
-    "HERO_DESCRIPTION": "Wprowadź do swoich kursów dyskusje wątkowe, czat ze współpracą w czasie rzeczywistym i konwersacje z podświetlaniem tekstu dzięki standardowi LTI 1.3. Automatyczne logowanie jednokrotne (SSO), brak konieczności hostowania serwerów, zgodność z RODO.",
+    "HERO_DESCRIPTION": "Wprowadź dyskusje wątkowe do swoich kursów za pośrednictwem standardu LTI 1.3. Automatyczne logowanie jednokrotne (SSO), brak konieczności hostowania serwerów, zgodność z RODO.",
     "HERO_CTA_FREE_TRIAL": "Rozpocznij bezpłatny okres próbny",
     "HERO_CTA_DOCS": "Przewodnik po konfiguracji",
-    "STYLES_TITLE": "Trzy sposoby zaangażowania uczniów",
-    "STYLES_SUBTITLE": "Od dyskusji wątkowych po współpracę na żywo — wybierz format, który pasuje do Twojego kursu.",
+    "STYLES_TITLE": "Jak angażują się uczniowie",
+    "STYLES_SUBTITLE": "Dyskusje podzielone na wątki, które naturalnie dopasowują się do Twojego toku zajęć.",
     "STYLE_1_TITLE": "Komentarze do kursów wątkowych",
     "STYLE_1_DESCRIPTION": "Dodawaj zagnieżdżone, wątkowe dyskusje do dowolnego kursu. Uczestnicy odpowiadają w kontekście, instruktorzy z łatwością moderują, a dyskusje pozostają uporządkowane nawet w dużych grupach.",
     "STYLE_1_IMAGE_ALT": "Komentarze wątkowe na stronie kursu LMS",
@@ -53,9 +53,9 @@
     "HOW_IT_WORKS_STEP_2_TITLE": "Zarejestruj się w swoim LMS",
     "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Dodaj FastComments jako narzędzie zewnętrzne w swoim systemie LMS, korzystając z adresu URL konfiguracji. Wklej ponownie identyfikator klienta.",
     "HOW_IT_WORKS_STEP_3_TITLE": "Dyskutuj i współpracuj",
-    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Komentarze i czat ze współpracą pojawiają się w Twoich kursach. Studenci są automatycznie logowani za pomocą funkcji logowania jednokrotnego LTI.",
+    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Komentarze pojawiają się w Twoich kursach. Studenci logują się automatycznie za pomocą funkcji LTI SSO.",
     "FAQ_LTI_FREE_TRIAL": "Czy istnieje bezpłatny okres próbny?",
-    "FAQ_LTI_FREE_TRIAL_ANSWER": "Tak. FastComments oferuje 30-dniowy bezpłatny okres próbny z pełnym dostępem do wszystkich funkcji, w tym do logowania jednokrotnego LTI, czatu grupowego, podświetlania tekstu i edytora tekstu sformatowanego. Do rozpoczęcia nie jest wymagana karta kredytowa.",
+    "FAQ_LTI_FREE_TRIAL_ANSWER": "Tak. FastComments oferuje 30-dniowy bezpłatny okres próbny z pełnym dostępem do wszystkich funkcji, w tym LTI SSO i edytora tekstu sformatowanego. Do rozpoczęcia nie jest wymagana karta kredytowa.",
     "FAQ_LTI_SSO": "Jak działa SSO w LTI 1.3?",
     "FAQ_LTI_SSO_ANSWER": "Gdy student uruchamia FastComments z poziomu systemu LMS, protokół LTI 1.3 bezpiecznie przekazuje jego tożsamość (imię i nazwisko, adres e-mail, awatar i rolę) do FastComments. Odpowiednie konto jest tworzone automatycznie. Studenci nie muszą się rejestrować oddzielnie.",
     "FAQ_LTI_HOSTING": "Czy muszę hostować serwer?",
@@ -67,5 +67,5 @@
     "FAQ_LTI_ROLES": "W jaki sposób obsługiwane są role LMS?",
     "FAQ_LTI_ROLES_ANSWER": "Role LMS są automatycznie mapowane podczas uruchamiania LTI: Administratorzy stają się Administratorami FastComments, Instruktorzy – Moderatorami, którzy mogą zarządzać komentarzami, a Uczniowie – zwykłymi komentatorami. Ręczna konfiguracja ról nie jest wymagana.",
     "FINAL_CTA_TITLE": "Chcesz udoskonalić dyskusje na swoim kursie?",
-    "FINAL_CTA_DESCRIPTION": "W ciągu kilku minut dodaj do swojego systemu LMS wątki komentarzy, czat zespołowy i automatyczne logowanie jednokrotne."
+    "FINAL_CTA_DESCRIPTION": "Dodaj wątki komentarzy i automatyczne logowanie jednokrotne do swojego systemu LMS w ciągu kilku minut."
 }

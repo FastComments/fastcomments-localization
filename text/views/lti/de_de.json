@@ -1,14 +1,14 @@
 {
     "PAGE_TITLE": "LTI 1.3 Kommentar- und Diskussionstool für jedes LMS | FastComments",
-    "META_DESCRIPTION": "Mit der FastComments LTI 1.3-Integration können Sie Live-Kommentare, kollaborative Chats und Textmarkierungen in jedes LMS integrieren. Automatisches SSO, DSGVO-konform. Kostenlose Testversion.",
-    "HEAD_KEYWORDS": "LTI 1.3 Kommentartool, LTI Diskussionstool, LMS-Kommentar-Plugin, externes LTI 1.3 Tool, LMS Kollaborationstool, EdTech-Kommentarsystem, LTI-Kommentarsystem, Kommentare zu LMS hinzufügen, LMS Diskussionstool, LTI 1.3 Kollaboration",
+    "META_DESCRIPTION": "Integrieren Sie Live-Kommentare und Diskussionen in jedes LMS mit der FastComments LTI 1.3-Integration. Automatisches SSO, DSGVO-konform. Kostenlose Testversion.",
+    "HEAD_KEYWORDS": "LTI 1.3 Kommentartool, LTI Diskussionstool, LMS-Kommentar-Plugin, externes LTI 1.3 Tool, EdTech-Kommentarsystem, LTI-Kommentarsystem, Kommentare zu LMS hinzufügen, LMS-Diskussionstool",
     "HERO_BADGE": "LTI 1.3 Standard",
     "HERO_TITLE": "Fügen Sie Live-Kommentare und Zusammenarbeit zu jedem LMS hinzu",
-    "HERO_DESCRIPTION": "Integrieren Sie Diskussionsforen, kollaborativen Echtzeit-Chat und Textmarkierungen in Ihre Kurse gemäß dem LTI 1.3-Standard. Automatisches SSO, keine Server erforderlich, DSGVO-konform.",
+    "HERO_DESCRIPTION": "Integrieren Sie Diskussionsforen in Ihre Kurse gemäß dem LTI 1.3-Standard. Automatisches SSO, keine Server erforderlich, DSGVO-konform.",
     "HERO_CTA_FREE_TRIAL": "Kostenlose Testversion starten",
     "HERO_CTA_DOCS": "Einrichtungsanleitung",
-    "STYLES_TITLE": "Drei Möglichkeiten für Schüler, sich zu engagieren",
-    "STYLES_SUBTITLE": "Von Diskussionsforen bis hin zur Live-Zusammenarbeit – wählen Sie das Format, das am besten zu Ihrem Kurs passt.",
+    "STYLES_TITLE": "Wie sich Schüler engagieren",
+    "STYLES_SUBTITLE": "Diskussionsforen, die sich nahtlos in Ihren Kursablauf einfügen.",
     "STYLE_1_TITLE": "Verschachtelte Kurskommentare",
     "STYLE_1_DESCRIPTION": "Fügen Sie verschachtelte, thematisch strukturierte Diskussionen zu jedem Kurs hinzu. Studierende antworten im Kontext, Dozenten können mühelos moderieren, und die Gespräche bleiben auch in großen Kursen übersichtlich.",
     "STYLE_1_IMAGE_ALT": "Verschachtelte Kommentare auf einer LMS-Kursseite",
@@ -53,9 +53,9 @@
     "HOW_IT_WORKS_STEP_2_TITLE": "Registrieren Sie sich in Ihrem LMS.",
     "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Fügen Sie FastComments als externes Tool in Ihrem LMS über die Konfigurations-URL hinzu. Fügen Sie anschließend die Client-ID wieder ein.",
     "HOW_IT_WORKS_STEP_3_TITLE": "Diskutieren & Zusammenarbeiten",
-    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Kommentare und der kollaborative Chat werden in Ihren Kursen angezeigt. Studierende werden automatisch über LTI SSO angemeldet.",
+    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Kommentare werden in Ihren Kursen angezeigt. Studierende werden automatisch über LTI SSO angemeldet.",
     "FAQ_LTI_FREE_TRIAL": "Gibt es eine kostenlose Testversion?",
-    "FAQ_LTI_FREE_TRIAL_ANSWER": "Ja. FastComments bietet eine 30-tägige kostenlose Testphase mit vollem Zugriff auf alle Funktionen, einschließlich LTI SSO, kollaborativem Chat, Texthervorhebung und dem Rich-Text-Editor. Für den Start ist keine Kreditkarte erforderlich.",
+    "FAQ_LTI_FREE_TRIAL_ANSWER": "Ja. FastComments bietet eine 30-tägige kostenlose Testphase mit vollem Zugriff auf alle Funktionen, einschließlich LTI SSO und dem Rich-Text-Editor. Für den Start ist keine Kreditkarte erforderlich.",
     "FAQ_LTI_SSO": "Wie funktioniert SSO mit LTI 1.3?",
     "FAQ_LTI_SSO_ANSWER": "Wenn ein Student FastComments über Ihr LMS startet, übermittelt das LTI 1.3-Protokoll seine Identität (Name, E-Mail-Adresse, Avatar und Rolle) sicher an FastComments. Ein entsprechendes Konto wird automatisch erstellt. Eine separate Registrierung ist nicht erforderlich.",
     "FAQ_LTI_HOSTING": "Muss ich einen Server hosten?",
@@ -67,5 +67,5 @@
     "FAQ_LTI_ROLES": "Wie werden LMS-Rollen gehandhabt?",
     "FAQ_LTI_ROLES_ANSWER": "Die LMS-Rollen werden bei der LTI-Einführung automatisch zugeordnet: Administratoren werden zu FastComments-Administratoren, Dozenten zu Moderatoren, die Kommentare verwalten können, und Lernende zu regulären Kommentatoren. Eine manuelle Rollenkonfiguration ist nicht erforderlich.",
     "FINAL_CTA_TITLE": "Bereit für ein Upgrade Ihrer Kursdiskussionen?",
-    "FINAL_CTA_DESCRIPTION": "Fügen Sie Ihrem LMS in wenigen Minuten verschachtelte Kommentare, kollaborativen Chat und automatisches SSO hinzu."
+    "FINAL_CTA_DESCRIPTION": "Fügen Sie Ihrem LMS in wenigen Minuten verschachtelte Kommentare und automatisches SSO hinzu."
 }

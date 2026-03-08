@@ -1,14 +1,14 @@
 {
     "PAGE_TITLE": "LTI 1.3 Commentaar- en discussietool voor elk LMS | FastComments",
-    "META_DESCRIPTION": "Voeg live reacties met discussiedraden, samenwerkingschats en tekstmarkering toe aan elk LMS met de FastComments LTI 1.3-integratie. Automatische SSO, GDPR-conform. Gratis proefversie.",
-    "HEAD_KEYWORDS": "LTI 1.3 commentaartool, LTI discussietool, LMS commentaarplugin, LTI 1.3 externe tool, LMS samenwerkingstool, EdTech commentaarsysteem, LTI commentaarsysteem, reacties toevoegen aan LMS, LMS discussietool, LTI 1.3 samenwerking",
+    "META_DESCRIPTION": "Voeg live reacties en discussies toe aan elk LMS met de FastComments LTI 1.3-integratie. Automatische SSO, GDPR-conform. Gratis proefversie.",
+    "HEAD_KEYWORDS": "LTI 1.3 commentaartool, LTI discussietool, LMS commentaarplugin, LTI 1.3 externe tool, EdTech commentaarsysteem, LTI commentaarsysteem, reacties toevoegen aan LMS, LMS discussietool",
     "HERO_BADGE": "LTI 1.3-standaard",
     "HERO_TITLE": "Voeg live reacties en samenwerking toe aan elk LMS.",
-    "HERO_DESCRIPTION": "Voeg discussies met reactiedraden, realtime samenwerkingschats en gesprekken met tekstmarkering toe aan je cursussen via de LTI 1.3-standaard. Automatische SSO, geen servers nodig en GDPR-conform.",
+    "HERO_DESCRIPTION": "Integreer discussieforums in je cursussen met de LTI 1.3-standaard. Automatische SSO, geen servers nodig, GDPR-conform.",
     "HERO_CTA_FREE_TRIAL": "Start gratis proefperiode",
     "HERO_CTA_DOCS": "Installatiehandleiding",
-    "STYLES_TITLE": "Drie manieren waarop leerlingen betrokken kunnen raken",
-    "STYLES_SUBTITLE": "Van discussieforums tot live samenwerking: kies het formaat dat het beste bij uw cursus past.",
+    "STYLES_TITLE": "Hoe studenten betrokken raken",
+    "STYLES_SUBTITLE": "Discussieforums die naadloos aansluiten op de workflow van je cursus.",
     "STYLE_1_TITLE": "Discussieforum voor cursusreacties",
     "STYLE_1_DESCRIPTION": "Voeg geneste, gestructureerde discussies toe aan elke cursus. Studenten reageren in de juiste context, docenten kunnen eenvoudig modereren en gesprekken blijven overzichtelijk, zelfs in grote groepen.",
     "STYLE_1_IMAGE_ALT": "Discussie over reacties op een LMS-cursuspagina",
@@ -53,9 +53,9 @@
     "HOW_IT_WORKS_STEP_2_TITLE": "Registreer je in je LMS",
     "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Voeg FastComments toe als externe tool aan uw LMS met behulp van de configuratie-URL. Plak de client-ID hier.",
     "HOW_IT_WORKS_STEP_3_TITLE": "Overleggen en samenwerken",
-    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Reacties en gezamenlijke chatfuncties verschijnen in je cursussen. Studenten worden automatisch ingelogd via LTI SSO.",
+    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Opmerkingen verschijnen in je cursussen. Studenten worden automatisch ingelogd via LTI SSO.",
     "FAQ_LTI_FREE_TRIAL": "Is er een gratis proefperiode?",
-    "FAQ_LTI_FREE_TRIAL_ANSWER": "Ja. FastComments biedt een gratis proefperiode van 30 dagen met volledige toegang tot alle functies, waaronder LTI SSO, samenwerkingschatten, tekstmarkering en de rich text-editor. U heeft geen creditcard nodig om te beginnen.",
+    "FAQ_LTI_FREE_TRIAL_ANSWER": "Ja. FastComments biedt een gratis proefperiode van 30 dagen met volledige toegang tot alle functies, inclusief LTI SSO en de rich text-editor. U heeft geen creditcard nodig om te beginnen.",
     "FAQ_LTI_SSO": "Hoe werkt SSO met LTI 1.3?",
     "FAQ_LTI_SSO_ANSWER": "Wanneer een student FastComments opent vanuit uw LMS, stuurt het LTI 1.3-protocol op een veilige manier hun identiteit (naam, e-mailadres, avatar en rol) door naar FastComments. Er wordt automatisch een bijbehorend account aangemaakt. Studenten hoeven zich nooit apart te registreren.",
     "FAQ_LTI_HOSTING": "Moet ik een server hosten?",
@@ -67,5 +67,5 @@
     "FAQ_LTI_ROLES": "Hoe worden LMS-rollen beheerd?",
     "FAQ_LTI_ROLES_ANSWER": "LMS-rollen worden automatisch toegewezen tijdens de LTI-lancering: beheerders worden FastComments-beheerders, docenten worden moderators die reacties kunnen beheren en cursisten zijn gewone reageerders. Handmatige rolconfiguratie is niet nodig.",
     "FINAL_CTA_TITLE": "Klaar om je cursusdiscussies naar een hoger niveau te tillen?",
-    "FINAL_CTA_DESCRIPTION": "Voeg binnen enkele minuten discussiedraden, samenwerkingschats en automatische single sign-on (SSO) toe aan uw LMS."
+    "FINAL_CTA_DESCRIPTION": "Voeg binnen enkele minuten discussiedraden en automatische single sign-on (SSO) toe aan uw LMS."
 }
