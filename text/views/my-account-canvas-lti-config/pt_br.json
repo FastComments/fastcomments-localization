@@ -54,12 +54,12 @@
     "STEP2_URL_HEADING": "URL de configuração",
     "STEP2_LMS_STEP_1": "Acesse Admin → Chaves de desenvolvedor no seu Canvas LMS.",
     "STEP2_URL_INSTRUCTION": "Copie este URL e cole-o na configuração da sua chave de desenvolvedor do LMS:",
-    "STEP2_LMS_STEP_4": "Salve a chave, ative-a e clique em Permitir quando solicitado.",
-    "STEP2_LMS_STEP_3": "Selecione \"Inserir URL\" como método de configuração e cole a URL de configuração acima.",
+    "STEP2_LMS_STEP_4": "À direita, selecione \"Inserir URL\" como método de configuração e cole a URL de configuração no campo URL JSON.",
+    "STEP2_LMS_STEP_3": "No campo \"URIs de redirecionamento\", cole o URL de inicialização mostrado abaixo.",
     "STEP3_HEADING": "Transmissão ao vivo",
     "STEP2_CLIENT_ID_HEADING": "Insira suas credenciais do LMS",
     "STEP2_CLIENT_ID_DESCRIPTION": "Cole abaixo o ID do cliente do seu LMS.",
-    "STEP2_LMS_STEP_5": "Copie o número na coluna Detalhes — esse é o seu ID de cliente.",
+    "STEP2_LMS_STEP_5": "Dê um nome à chave (por exemplo, \"FastComments\") e clique em Salvar.",
     "STEP2_LMS_INSTRUCTIONS_HEADING": "Etapas do seu LMS",
     "STEP2_LMS_STEP_2": "Clique em + Chave do desenvolvedor → + Chave LTI.",
     "STEP3_SUMMARY_HEADING": "Resumo da configuração",
@@ -91,5 +91,9 @@
     "BUTTON_BACK_TO_LIST": "Voltar à lista",
     "BUTTON_BACK_TO_SETUP": "Voltar",
     "BUTTON_EDIT": "Editar",
-    "STATUS_INCOMPLETE": "Configuração incompleta"
+    "STATUS_INCOMPLETE": "Configuração incompleta",
+    "STEP2_LMS_STEP_6": "Coloque a chave em LIGADO e clique em Permitir quando solicitado.",
+    "STEP2_REDIRECT_URI_INSTRUCTION": "Insira este URL no campo \"URIs de redirecionamento\" ao criar sua chave de desenvolvedor:",
+    "STEP2_REDIRECT_URI_HEADING": "URL de inicialização (URI de redirecionamento)",
+    "STEP2_LMS_STEP_7": "Copie o número na coluna Detalhes — esse é o seu ID de cliente."
 }

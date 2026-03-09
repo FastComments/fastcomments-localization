@@ -56,14 +56,14 @@
     "STEP2_LMS_INSTRUCTIONS_HEADING": "Stappen in uw LMS",
     "STEP2_LMS_STEP_1": "Ga in je Canvas LMS naar Beheer → Ontwikkelaarssleutels.",
     "STEP2_LMS_STEP_2": "Klik op + Ontwikkelaarssleutel → + LTI-sleutel.",
-    "STEP2_LMS_STEP_5": "Kopieer het nummer in de kolom 'Details' — dat is uw klant-ID.",
+    "STEP2_LMS_STEP_5": "Geef de sleutel een naam (bijvoorbeeld \"FastComments\") en klik op Opslaan.",
     "STEP3_DESCRIPTION": "Controleer je configuratie en schakel de integratie in.",
-    "STEP2_LMS_STEP_3": "Selecteer \"URL invoeren\" als configuratiemethode en plak de bovenstaande configuratie-URL.",
+    "STEP2_LMS_STEP_3": "Plak in het veld 'Redirect URIs' de onderstaande start-URL.",
     "STEP3_HEADING": "Ga live",
     "STEP3_SUMMARY_HEADING": "Configuratieoverzicht",
     "STEP2_CLIENT_ID_DESCRIPTION": "Plak hieronder de klant-ID uit uw LMS.",
     "STEP2_CLIENT_ID_HEADING": "Voer uw LMS-inloggegevens in",
-    "STEP2_LMS_STEP_4": "Sla de sleutel op, zet hem vervolgens op AAN en klik op Toestaan wanneer daarom wordt gevraagd.",
+    "STEP2_LMS_STEP_4": "Selecteer aan de rechterkant 'URL invoeren' als configuratiemethode en plak de configuratie-URL in het veld 'JSON-URL'.",
     "STEP3_NOT_SET": "(niet ingesteld)",
     "COMPLETE_HEADING": "Actieve implementaties",
     "STATUS_ACTIVE": "Actief",
@@ -91,5 +91,9 @@
     "BUTTON_EDIT": "Bewerking",
     "BUTTON_BACK_TO_LIST": "Terug naar de lijst",
     "STATUS_INCOMPLETE": "Installatie onvolledig",
-    "BUTTON_CONTINUE_SETUP": "Doorgaan met instellen"
+    "BUTTON_CONTINUE_SETUP": "Doorgaan met instellen",
+    "STEP2_LMS_STEP_6": "Zet de sleutel op AAN en klik op Toestaan wanneer daarom wordt gevraagd.",
+    "STEP2_REDIRECT_URI_INSTRUCTION": "Voer deze URL in bij het veld 'Redirect URIs' wanneer u uw ontwikkelaarsleutel aanmaakt:",
+    "STEP2_REDIRECT_URI_HEADING": "Start-URL (omleidings-URI)",
+    "STEP2_LMS_STEP_7": "Kopieer het nummer in de kolom 'Details' — dat is uw klant-ID."
 }

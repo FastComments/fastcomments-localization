@@ -354,7 +354,7 @@
         "email-reply-error": 12,
         "user-internal-profile-dialog-component": 19,
         "canvas-lms": 55,
-        "my-account-canvas-lti-config": 112,
+        "my-account-canvas-lti-config": 116,
         "lti": 69,
         "dashboard_nav": 1,
         "my-account-canvas-lti-config-connect": 1,
@@ -7699,7 +7699,11 @@
         "t109": "BUTTON_BACK_TO_SETUP",
         "t110": "BUTTON_BACK_TO_CONNECT",
         "t111": "BUTTON_CONTINUE_SETUP",
-        "t112": "BUTTON_EDIT"
+        "t112": "BUTTON_EDIT",
+        "t113": "STEP2_LMS_STEP_6",
+        "t114": "STEP2_REDIRECT_URI_HEADING",
+        "t115": "STEP2_REDIRECT_URI_INSTRUCTION",
+        "t116": "STEP2_LMS_STEP_7"
     },
     "lti": {
         "t1": "PAGE_TITLE",

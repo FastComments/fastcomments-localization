@@ -60,10 +60,10 @@
     "STEP3_NOT_SET": "(ayarlanmadı)",
     "STEP2_CLIENT_ID_HEADING": "LMS Kimlik Bilgilerinizi Girin",
     "STEP2_CLIENT_ID_DESCRIPTION": "LMS'nizden aldığınız İstemci Kimliğini aşağıya yapıştırın.",
-    "STEP2_LMS_STEP_4": "Anahtarı kaydedin, ardından AÇIK konumuna getirin ve istendiğinde İzin Ver'e tıklayın.",
-    "STEP2_LMS_STEP_5": "Ayrıntılar sütunundaki numarayı kopyalayın; bu sizin Müşteri Kimliğinizdir.",
+    "STEP2_LMS_STEP_4": "Sağ tarafta, yapılandırma yöntemi olarak \"URL Girin\" seçeneğini belirleyin ve Yapılandırma URL'sini JSON URL alanına yapıştırın.",
+    "STEP2_LMS_STEP_5": "Anahtara bir ad verin (örneğin \"HızlıYorumlar\") ve Kaydet'e tıklayın.",
     "STEP3_DESCRIPTION": "Yapılandırmanızı gözden geçirin ve entegrasyonu etkinleştirin.",
-    "STEP2_LMS_STEP_3": "Yapılandırma yöntemi olarak \"URL Girin\" seçeneğini belirleyin ve yukarıdaki yapılandırma URL'sini yapıştırın.",
+    "STEP2_LMS_STEP_3": "Yönlendirme URI'leri alanına aşağıda gösterilen Başlatma URL'sini yapıştırın.",
     "STEP3_SUMMARY_HEADING": "Yapılandırma Özeti",
     "COMPLETE_HEADING": "Aktif Dağıtımlar",
     "BUTTON_COPY": "Kopyala",
@@ -91,5 +91,9 @@
     "STATUS_INCOMPLETE": "Kurulum Tamamlanmadı",
     "BUTTON_BACK_TO_CONNECT": "Geri",
     "BUTTON_CONTINUE_SETUP": "Kurulumu Devam Ettir",
-    "BUTTON_EDIT": "Düzenlemek"
+    "BUTTON_EDIT": "Düzenlemek",
+    "STEP2_LMS_STEP_6": "Anahtarı AÇIK konumuna getirin ve istendiğinde İzin Ver'e tıklayın.",
+    "STEP2_REDIRECT_URI_HEADING": "Başlatma URL'si (Yönlendirme URI'si)",
+    "STEP2_REDIRECT_URI_INSTRUCTION": "Geliştirici Anahtarınızı oluştururken Yönlendirme URI'leri alanına bu URL'yi girin:",
+    "STEP2_LMS_STEP_7": "Ayrıntılar sütunundaki numarayı kopyalayın; bu sizin Müşteri Kimliğinizdir."
 }

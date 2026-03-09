@@ -56,10 +56,10 @@
     "STEP2_LMS_INSTRUCTIONS_HEADING": "LMSの手順",
     "STEP2_URL_INSTRUCTION": "この URL をコピーして、LMS 開発者キーの設定に貼り付けます。",
     "STEP2_LMS_STEP_1": "Canvas LMS の「管理」→「開発者キー」に移動します。",
-    "STEP2_LMS_STEP_3": "設定方法として「URL を入力」を選択し、上記の設定 URL を貼り付けます。",
-    "STEP2_LMS_STEP_4": "キーを保存し、オンに設定して、プロンプトが表示されたら [許可] をクリックします。",
+    "STEP2_LMS_STEP_3": "「リダイレクト URI」フィールドに、以下に示す起動 URL を貼り付けます。",
+    "STEP2_LMS_STEP_4": "右側で、構成方法として「URL を入力」を選択し、構成 URL を JSON URL フィールドに貼り付けます。",
     "STEP2_CLIENT_ID_HEADING": "LMS認証情報を入力してください",
-    "STEP2_LMS_STEP_5": "詳細列の番号をコピーします。これがクライアント ID です。",
+    "STEP2_LMS_STEP_5": "キーに名前を付け（例：「FastComments」）、［保存］をクリックします。",
     "STEP3_NOT_SET": "（未設定）",
     "STEP3_SUMMARY_HEADING": "構成の概要",
     "STEP2_CLIENT_ID_DESCRIPTION": "以下の LMS からクライアント ID を貼り付けます。",
@@ -91,5 +91,9 @@
     "BUTTON_BACK_TO_CONNECT": "戻る",
     "BUTTON_BACK_TO_SETUP": "戻る",
     "BUTTON_EDIT": "編集",
-    "BUTTON_CONTINUE_SETUP": "セットアップを続行"
+    "BUTTON_CONTINUE_SETUP": "セットアップを続行",
+    "STEP2_REDIRECT_URI_HEADING": "起動URL（リダイレクトURI）",
+    "STEP2_REDIRECT_URI_INSTRUCTION": "開発者キーを作成するときに、リダイレクト URI フィールドに次の URL を入力します。",
+    "STEP2_LMS_STEP_6": "キーを ON に設定し、プロンプトが表示されたら [許可] をクリックします。",
+    "STEP2_LMS_STEP_7": "詳細列の番号をコピーします。これがクライアント ID です。"
 }

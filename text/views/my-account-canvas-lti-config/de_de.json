@@ -56,10 +56,10 @@
     "STEP2_LMS_INSTRUCTIONS_HEADING": "Schritte in Ihrem LMS",
     "STEP2_LMS_STEP_2": "Klicken Sie auf + Entwicklertaste → + LTI-Taste.",
     "STEP2_LMS_STEP_1": "Gehen Sie in Ihrem Canvas LMS zu Admin → Entwicklerschlüssel.",
-    "STEP2_LMS_STEP_4": "Speichern Sie den Schlüssel, stellen Sie ihn dann auf EIN und klicken Sie auf Zulassen, wenn Sie dazu aufgefordert werden.",
+    "STEP2_LMS_STEP_4": "Wählen Sie rechts als Konfigurationsmethode „URL eingeben“ aus und fügen Sie die Konfigurations-URL in das Feld „JSON-URL“ ein.",
     "STEP3_DESCRIPTION": "Überprüfen Sie Ihre Konfiguration und aktivieren Sie die Integration.",
-    "STEP2_LMS_STEP_3": "Wählen Sie als Konfigurationsmethode „URL eingeben“ aus und fügen Sie die oben stehende Konfigurations-URL ein.",
-    "STEP2_LMS_STEP_5": "Kopieren Sie die Nummer in der Spalte „Details“ – das ist Ihre Kunden-ID.",
+    "STEP2_LMS_STEP_3": "Fügen Sie im Feld „Umleitungs-URIs“ die unten angezeigte Start-URL ein.",
+    "STEP2_LMS_STEP_5": "Geben Sie dem Schlüssel einen Namen (z. B. „Schnellkommentare“) und klicken Sie auf Speichern.",
     "STEP3_NOT_SET": "(nicht festgelegt)",
     "COMPLETE_HEADING": "Aktive Einsätze",
     "COMPLETE_DESCRIPTION": "Ihre LTI-Integrationen sind unten aufgeführt. Sie können Konfigurationen bearbeiten oder neue Bereitstellungen hinzufügen.",
@@ -91,5 +91,9 @@
     "BUTTON_BACK_TO_CONNECT": "Zurück",
     "BUTTON_CONTINUE_SETUP": "Einrichtung fortsetzen",
     "BUTTON_BACK_TO_LIST": "Zurück zur Liste",
-    "BUTTON_EDIT": "Bearbeiten"
+    "BUTTON_EDIT": "Bearbeiten",
+    "STEP2_LMS_STEP_6": "Stellen Sie den Schlüssel auf EIN und klicken Sie auf Zulassen, wenn Sie dazu aufgefordert werden.",
+    "STEP2_REDIRECT_URI_HEADING": "Start-URL (Umleitungs-URI)",
+    "STEP2_REDIRECT_URI_INSTRUCTION": "Geben Sie diese URL beim Erstellen Ihres Entwicklerschlüssels im Feld „Umleitungs-URIs“ ein:",
+    "STEP2_LMS_STEP_7": "Kopieren Sie die Nummer in der Spalte „Details“ – das ist Ihre Kunden-ID."
 }

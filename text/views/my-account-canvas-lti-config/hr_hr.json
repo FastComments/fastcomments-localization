@@ -56,11 +56,11 @@
     "STEP2_LMS_INSTRUCTIONS_HEADING": "Koraci u vašem LMS-u",
     "STEP2_URL_HEADING": "URL konfiguracije",
     "STEP2_LMS_STEP_1": "Idite na Administrator → Ključevi za razvojne programere u svom Canvas LMS-u.",
-    "STEP2_LMS_STEP_3": "Odaberite \"Unesi URL\" kao metodu konfiguracije i zalijepite URL konfiguracije iznad.",
+    "STEP2_LMS_STEP_3": "U polje Preusmjeravanje URI-jeva zalijepite URL za pokretanje prikazan u nastavku.",
     "STEP3_HEADING": "Idi uživo",
     "STEP2_CLIENT_ID_HEADING": "Unesite svoje LMS vjerodajnice",
-    "STEP2_LMS_STEP_5": "Kopirajte broj iz stupca Detalji - to je vaš ID klijenta.",
-    "STEP2_LMS_STEP_4": "Spremite ključ, zatim ga postavite na UKLJUČENO i kliknite Dopusti kada se to od vas zatraži.",
+    "STEP2_LMS_STEP_5": "Dajte ključu naziv (npr. \"FastComments\") i kliknite Spremi.",
+    "STEP2_LMS_STEP_4": "S desne strane odaberite \"Unesi URL\" kao metodu konfiguracije i zalijepite URL konfiguracije u polje JSON URL.",
     "STEP2_CLIENT_ID_DESCRIPTION": "Zalijepite ID klijenta iz svog LMS-a u nastavku.",
     "COMPLETE_HEADING": "Aktivna implementacije",
     "STEP3_NOT_SET": "(nije postavljeno)",
@@ -91,5 +91,9 @@
     "BUTTON_CONTINUE_SETUP": "Nastavi postavljanje",
     "STATUS_INCOMPLETE": "Postavljanje nije dovršeno",
     "BUTTON_BACK_TO_LIST": "Natrag na popis",
-    "BUTTON_EDIT": "Uredi"
+    "BUTTON_EDIT": "Uredi",
+    "STEP2_REDIRECT_URI_HEADING": "URL za pokretanje (URI za preusmjeravanje)",
+    "STEP2_LMS_STEP_6": "Postavite ključ na UKLJUČENO i kliknite Dopusti kada se to od vas zatraži.",
+    "STEP2_REDIRECT_URI_INSTRUCTION": "Unesite ovaj URL u polje Preusmjeravanje URI-jeva prilikom izrade ključa za razvojne programere:",
+    "STEP2_LMS_STEP_7": "Kopirajte broj iz stupca Detalji - to je vaš ID klijenta."
 }

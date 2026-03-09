@@ -56,10 +56,10 @@
     "STEP2_LMS_STEP_1": "Accédez à Admin → Clés de développeur dans votre LMS Canvas.",
     "STEP2_URL_INSTRUCTION": "Copiez cette URL et collez-la dans la configuration de votre clé de développeur LMS :",
     "STEP2_LMS_STEP_2": "Cliquez sur + Clé développeur → + Clé LTI.",
-    "STEP2_LMS_STEP_4": "Enregistrez la clé, puis activez-la et cliquez sur Autoriser lorsque vous y êtes invité.",
-    "STEP2_LMS_STEP_3": "Sélectionnez « Saisir une URL » comme méthode de configuration et collez l’URL de configuration ci-dessus.",
+    "STEP2_LMS_STEP_4": "À droite, sélectionnez « Saisir une URL » comme méthode de configuration et collez l’URL de configuration dans le champ URL JSON.",
+    "STEP2_LMS_STEP_3": "Dans le champ « URI de redirection », collez l’URL de lancement indiquée ci-dessous.",
     "STEP2_CLIENT_ID_HEADING": "Saisissez vos identifiants LMS",
-    "STEP2_LMS_STEP_5": "Recopiez le numéro figurant dans la colonne Détails — il s'agit de votre identifiant client.",
+    "STEP2_LMS_STEP_5": "Donnez un nom à la clé (par exemple « FastComments ») et cliquez sur Enregistrer.",
     "STEP3_HEADING": "Passer en direct",
     "STEP2_CLIENT_ID_DESCRIPTION": "Collez ci-dessous l'identifiant client de votre LMS.",
     "COMPLETE_HEADING": "Déploiements actifs",
@@ -91,5 +91,9 @@
     "STATUS_INCOMPLETE": "Configuration incomplète",
     "BUTTON_EDIT": "Modifier",
     "BUTTON_BACK_TO_CONNECT": "Dos",
-    "BUTTON_CONTINUE_SETUP": "Poursuivre la configuration"
+    "BUTTON_CONTINUE_SETUP": "Poursuivre la configuration",
+    "STEP2_LMS_STEP_6": "Mettez la clé sur ON et cliquez sur Autoriser lorsque vous y êtes invité.",
+    "STEP2_REDIRECT_URI_HEADING": "URL de lancement (URI de redirection)",
+    "STEP2_REDIRECT_URI_INSTRUCTION": "Saisissez cette URL dans le champ URI de redirection lors de la création de votre clé de développeur :",
+    "STEP2_LMS_STEP_7": "Recopiez le numéro figurant dans la colonne Détails — il s'agit de votre identifiant client."
 }

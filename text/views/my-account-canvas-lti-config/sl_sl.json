@@ -58,10 +58,10 @@
     "STEP3_HEADING": "Objavi v živo",
     "STEP2_LMS_STEP_1": "V sistemu za upravljanje učenja Canvas pojdite v razdelek Skrbnik → Ključi razvijalcev.",
     "STEP2_CLIENT_ID_HEADING": "Vnesite svoje poverilnice za LMS",
-    "STEP2_LMS_STEP_4": "Shranite ključ, nato ga nastavite na VKLOPLJENO in kliknite Dovoli, ko se prikaže poziv.",
-    "STEP2_LMS_STEP_3": "Kot način konfiguracije izberite »Vnesi URL« in prilepite zgornji URL konfiguracije.",
+    "STEP2_LMS_STEP_4": "Na desni strani izberite kot način konfiguracije »Vnesi URL« in prilepite URL konfiguracije v polje URL JSON.",
+    "STEP2_LMS_STEP_3": "V polje Preusmeritveni URI-ji prilepite spodaj prikazani URL za zagon.",
     "STEP3_SUMMARY_HEADING": "Povzetek konfiguracije",
-    "STEP2_LMS_STEP_5": "Kopirajte številko iz stolpca Podrobnosti – to je vaš ID stranke.",
+    "STEP2_LMS_STEP_5": "Ključu dajte ime (npr. »FastComments«) in kliknite Shrani.",
     "STEP3_DESCRIPTION": "Preglejte konfiguracijo in omogočite integracijo.",
     "STEP3_NOT_SET": "(ni nastavljeno)",
     "BUTTON_COPY": "Kopiraj",
@@ -91,5 +91,9 @@
     "BUTTON_EDIT": "Uredi",
     "BUTTON_BACK_TO_SETUP": "Nazaj",
     "STATUS_INCOMPLETE": "Nastavitev ni dokončana",
-    "BUTTON_CONTINUE_SETUP": "Nadaljuj z nastavitvijo"
+    "BUTTON_CONTINUE_SETUP": "Nadaljuj z nastavitvijo",
+    "STEP2_LMS_STEP_6": "Ključ nastavite na VKLOP in ob pozivu kliknite Dovoli.",
+    "STEP2_REDIRECT_URI_INSTRUCTION": "Pri ustvarjanju ključa razvijalca v polje Preusmeritveni URI-ji vnesite ta URL:",
+    "STEP2_REDIRECT_URI_HEADING": "URL za zagon (URI za preusmeritev)",
+    "STEP2_LMS_STEP_7": "Kopirajte številko iz stolpca Podrobnosti – to je vaš ID stranke."
 }

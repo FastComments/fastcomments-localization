@@ -56,12 +56,12 @@
     "STEP2_URL_INSTRUCTION": "Kopiér denne URL og indsæt den i din LMS Developer Key-opsætning:",
     "STEP2_LMS_INSTRUCTIONS_HEADING": "Trin i dit LMS",
     "STEP2_LMS_STEP_2": "Klik på + Udviklernøgle → + LTI-nøgle.",
-    "STEP2_LMS_STEP_4": "Gem nøglen, indstil den derefter til TIL, og klik på Tillad, når du bliver bedt om det.",
-    "STEP2_LMS_STEP_3": "Vælg \"Indtast URL\" som konfigurationsmetode, og indsæt konfigurations-URL'en ovenfor.",
+    "STEP2_LMS_STEP_4": "Til højre skal du vælge \"Indtast URL\" som konfigurationsmetode og indsætte konfigurations-URL'en i JSON URL-feltet.",
+    "STEP2_LMS_STEP_3": "Indsæt den nedenfor viste start-URL i feltet Omdirigerings-URI'er.",
     "STEP3_HEADING": "Gå live",
     "STEP2_CLIENT_ID_HEADING": "Indtast dine LMS-legitimationsoplysninger",
     "STEP2_CLIENT_ID_DESCRIPTION": "Indsæt klient-ID'et fra dit LMS nedenfor.",
-    "STEP2_LMS_STEP_5": "Kopiér nummeret i kolonnen Detaljer – det er dit klient-ID.",
+    "STEP2_LMS_STEP_5": "Giv nøglen et navn (f.eks. \"FastComments\") og klik på Gem.",
     "STEP3_NOT_SET": "(ikke indstillet)",
     "STEP3_SUMMARY_HEADING": "Konfigurationsoversigt",
     "STEP3_DESCRIPTION": "Gennemgå din konfiguration, og aktiver integrationen.",
@@ -91,5 +91,9 @@
     "BUTTON_BACK_TO_LIST": "Tilbage til listen",
     "BUTTON_BACK_TO_CONNECT": "Tilbage",
     "BUTTON_EDIT": "Redigere",
-    "BUTTON_CONTINUE_SETUP": "Fortsæt opsætningen"
+    "BUTTON_CONTINUE_SETUP": "Fortsæt opsætningen",
+    "STEP2_REDIRECT_URI_HEADING": "Start-URL (omdirigerings-URI)",
+    "STEP2_LMS_STEP_6": "Sæt nøglen til ON, og klik på Tillad, når du bliver bedt om det.",
+    "STEP2_REDIRECT_URI_INSTRUCTION": "Indtast denne URL i feltet Omdirigerings-URI'er, når du opretter din udviklernøgle:",
+    "STEP2_LMS_STEP_7": "Kopiér nummeret i kolonnen Detaljer – det er dit klient-ID."
 }

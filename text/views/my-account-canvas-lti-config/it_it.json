@@ -54,10 +54,10 @@
     "STEP2_URL_HEADING": "URL di configurazione",
     "STEP2_LMS_INSTRUCTIONS_HEADING": "Fasi del tuo LMS",
     "STEP2_URL_INSTRUCTION": "Copia questo URL e incollalo nella configurazione della tua chiave sviluppatore LMS:",
-    "STEP2_LMS_STEP_4": "Salva la chiave, quindi impostala su ON e fai clic su Consenti quando richiesto.",
+    "STEP2_LMS_STEP_4": "Sulla destra, seleziona \"Inserisci URL\" come metodo di configurazione e incolla l'URL di configurazione nel campo URL JSON.",
     "STEP2_LMS_STEP_2": "Fare clic su + Chiave sviluppatore → + Chiave LTI.",
-    "STEP2_LMS_STEP_5": "Copia il numero nella colonna Dettagli: questo è il tuo ID cliente.",
-    "STEP2_LMS_STEP_3": "Seleziona \"Inserisci URL\" come metodo di configurazione e incolla l'URL di configurazione sopra.",
+    "STEP2_LMS_STEP_5": "Assegna un nome alla chiave (ad esempio \"FastComments\") e fai clic su Salva.",
+    "STEP2_LMS_STEP_3": "Nel campo URI di reindirizzamento, incolla l'URL di avvio mostrato di seguito.",
     "STEP2_LMS_STEP_1": "Vai su Amministrazione → Chiavi sviluppatore nel tuo Canvas LMS.",
     "STEP2_CLIENT_ID_DESCRIPTION": "Incolla qui sotto l'ID client del tuo LMS.",
     "STEP2_CLIENT_ID_HEADING": "Inserisci le tue credenziali LMS",
@@ -91,5 +91,9 @@
     "BUTTON_BACK_TO_CONNECT": "Indietro",
     "BUTTON_EDIT": "Modificare",
     "STATUS_INCOMPLETE": "Installazione incompleta",
-    "BUTTON_CONTINUE_SETUP": "Continua la configurazione"
+    "BUTTON_CONTINUE_SETUP": "Continua la configurazione",
+    "STEP2_REDIRECT_URI_HEADING": "URL di avvio (URI di reindirizzamento)",
+    "STEP2_LMS_STEP_6": "Impostare la chiave su ON e fare clic su Consenti quando richiesto.",
+    "STEP2_REDIRECT_URI_INSTRUCTION": "Inserisci questo URL nel campo URI di reindirizzamento quando crei la tua Chiave sviluppatore:",
+    "STEP2_LMS_STEP_7": "Copia il numero nella colonna Dettagli: questo è il tuo ID cliente."
 }
