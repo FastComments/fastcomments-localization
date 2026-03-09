@@ -95,5 +95,7 @@
     "STEP2_REDIRECT_URI_HEADING": "起動URL（リダイレクトURI）",
     "STEP2_REDIRECT_URI_INSTRUCTION": "開発者キーを作成するときに、リダイレクト URI フィールドに次の URL を入力します。",
     "STEP2_LMS_STEP_6": "キーを ON に設定し、プロンプトが表示されたら [許可] をクリックします。",
-    "STEP2_LMS_STEP_7": "詳細列の番号をコピーします。これがクライアント ID です。"
+    "STEP2_LMS_STEP_7": "詳細列の番号をコピーします。これがクライアント ID です。",
+    "TABLE_HEADER_CLIENT_ID": "クライアントID",
+    "TABLE_HEADER_DEPLOYMENT_ID": "デプロイメントID"
 }

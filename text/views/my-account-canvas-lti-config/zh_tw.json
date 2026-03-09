@@ -95,5 +95,7 @@
     "STEP2_REDIRECT_URI_HEADING": "啟動 URL（重定向 URI）",
     "STEP2_REDIRECT_URI_INSTRUCTION": "建立開發者金鑰時，請在「重定向 URI」欄位中輸入此 URL：",
     "STEP2_LMS_STEP_6": "將金鑰設為“開啟”，並在出現提示時按一下“允許”。",
-    "STEP2_LMS_STEP_7": "複製「詳細資料」列中的數字—這就是您的客戶 ID。"
+    "STEP2_LMS_STEP_7": "複製「詳細資料」列中的數字—這就是您的客戶 ID。",
+    "TABLE_HEADER_CLIENT_ID": "客戶ID",
+    "TABLE_HEADER_DEPLOYMENT_ID": "部署 ID"
 }
