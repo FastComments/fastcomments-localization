@@ -1,5 +1,5 @@
 {
-    "INTRO": "היי <%= username %>, זכית בתג חדש!",
+    "INTRO": "היי <%= username %>, זכית בתג חדש ב <strong>-<%= siteDomain %></strong> !",
     "CONGRATULATIONS": "מזל טוב!",
     "BANNER_TEXT": "תג חדש הושגה",
     "FROM_NAME": "רובוט FastComments",

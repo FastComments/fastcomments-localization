@@ -1,5 +1,5 @@
 {
-    "INTRO": "Здраво <%= username %>, зарадио/ла си нову значку!",
+    "INTRO": "Здраво <%= username %>, зарадио/ла си нову значку на <strong><%= siteDomain %></strong> !",
     "CONGRATULATIONS": "Честитам!",
     "BANNER_TEXT": "Зарађена нова значка",
     "FROM_NAME": "Робот за брзе коментаре",

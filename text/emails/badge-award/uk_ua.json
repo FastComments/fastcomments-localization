@@ -1,5 +1,5 @@
 {
-    "INTRO": "Привіт, <%= username %>, ти заслужив новий значок!",
+    "INTRO": "Привіт, <%= username %>, ти заробив новий значок на <strong><%= siteDomain %></strong> !",
     "CONGRATULATIONS": "Вітаємо!",
     "BANNER_TEXT": "Новий значок зароблено",
     "FROM_NAME": "Робот FastComments",

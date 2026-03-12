@@ -1,5 +1,5 @@
 {
-    "INTRO": "안녕하세요 <%= username %>, 새로운 배지를 획득하셨습니다!",
+    "INTRO": "안녕하세요, <%= username %>님! <strong><%= siteDomain %></strong> 에서 새로운 배지를 획득하셨습니다!",
     "CONGRATULATIONS": "축하해요!",
     "BANNER_TEXT": "새로운 배지 획득",
     "FROM_NAME": "FastComments 로봇",

@@ -1,5 +1,5 @@
 {
-    "INTRO": "Hej <%= username %>, zaradili ste novu značku!",
+    "INTRO": "Hej <%= username %>, zaradili ste novu značku na <strong><%= siteDomain %></strong>!",
     "CONGRATULATIONS": "Иestitam!",
     "BANNER_TEXT": "Nova značka zarađena",
     "FROM_NAME": "FastComments Robot",

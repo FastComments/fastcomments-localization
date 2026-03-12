@@ -1,5 +1,5 @@
 {
-    "INTRO": "Hey <%= username %>, yeni bir rozet kazandın!",
+    "INTRO": "Merhaba <%= username %>, <strong><%= siteDomain %></strong> &#39;de yeni bir rozet kazandın!",
     "CONGRATULATIONS": "Tebrikler!",
     "BANNER_TEXT": "Yeni Rozet Kazanıldı",
     "FROM_NAME": "Hızlı Yorumlar Robotu",

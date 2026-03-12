@@ -1,5 +1,5 @@
 {
-    "INTRO": "嘿，<%= username %>，你获得了一枚新徽章！",
+    "INTRO": "嘿，<%= username %>，你在<strong><%= siteDomain %></strong>上获得了一枚新徽章！",
     "CONGRATULATIONS": "恭喜！",
     "BANNER_TEXT": "获得新徽章",
     "FROM_NAME": "快速评论机器人",

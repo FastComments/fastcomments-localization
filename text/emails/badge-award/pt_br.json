@@ -1,5 +1,5 @@
 {
-    "INTRO": "Olá <%= username %>, você ganhou um novo distintivo!",
+    "INTRO": "Olá <%= username %>, você ganhou um novo distintivo em <strong><%= siteDomain %></strong> !",
     "CONGRATULATIONS": "Parabéns!",
     "BANNER_TEXT": "Novo distintivo conquistado",
     "FROM_NAME": "Robô de comentários rápidos",

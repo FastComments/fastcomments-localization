@@ -1,5 +1,5 @@
 {
-    "INTRO": "Hej <%= username %>, zdobyłeś nową odznakę!",
+    "INTRO": "Hej <%= username %>, zdobyłeś nową odznakę na <strong><%= siteDomain %></strong> !",
     "CONGRATULATIONS": "Gratulacje!",
     "BANNER_TEXT": "Zdobyto nową odznakę",
     "FROM_NAME": "Robot FastComments",

@@ -1,5 +1,5 @@
 {
-    "INTRO": "こんにちは、<%= username %> さん。新しいバッジを獲得しました!",
+    "INTRO": "こんにちは <%= username %> さん、 <strong><%= siteDomain %></strong>で新しいバッジを獲得しました!",
     "CONGRATULATIONS": "おめでとう！",
     "BANNER_TEXT": "新しいバッジを獲得しました",
     "FROM_NAME": "ファストコメントロボット",
