@@ -114,5 +114,12 @@
     "FAQ_SUBDOMAIN": "Co jeśli mam domenę mysite.com i subdomain.mysite.com?",
     "FAQ_SUBDOMAIN_ANSWER": "Zależy to od konfiguracji. Jeśli dodasz domenę mysite.com do swojego konta, zostanie ona rozliczona jako jedna domena, a dane/komentarze nadal będą przechowywane osobno. Załóżmy jednak, że chcesz skonfigurować konkretną subdomenę dla subdomeny.mysite.com – wtedy musisz dodać ją osobno do swojego konta i zostanie ona rozliczona jako taka.",
     "FAQ_MISSED_PAYMENT": "Co się stanie, jeśli nie dokonam płatności?",
-    "FAQ_MISSED_PAYMENT_ANSWER": "System daje Ci tygodniowy okres karencji na opłacenie niezapłaconych faktur, po czym Twoje konto zostanie wstrzymane. Niezapłacone konta są usuwane po roku."
+    "FAQ_MISSED_PAYMENT_ANSWER": "System daje Ci tygodniowy okres karencji na opłacenie niezapłaconych faktur, po czym Twoje konto zostanie wstrzymane. Niezapłacone konta są usuwane po roku.",
+    "PUBLIC_FOOTER_V2_INTEGRATIONS": "Integracje",
+    "PUBLIC_FOOTER_V2_LTI": "LTI",
+    "PUBLIC_FOOTER_V2_LARAVEL": "Laravel",
+    "PUBLIC_FOOTER_V2_LARGE_SITES": "Duże witryny",
+    "PUBLIC_FOOTER_V2_HOW_TO_ADD_COMMENTS": "Dodawanie komentarzy do witryny internetowej",
+    "PUBLIC_FOOTER_V2_MOODLE": "Moodle",
+    "PUBLIC_FOOTER_V2_WORDPRESS_SPAM": "Spam WordPress"
 }

@@ -126,7 +126,7 @@
         "login-success": 9,
         "login-two-factor": 18,
         "maintenance-page": 4,
-        "marketing_common": 116,
+        "marketing_common": 123,
         "moderator-join-failure": 9,
         "moderator-join-success": 6,
         "my-account": 5,
@@ -360,7 +360,9 @@
         "my-account-canvas-lti-config-connect": 1,
         "my-account-canvas-lti-config-delete": 5,
         "my-account-canvas-lti-config-enable": 1,
-        "my-account-canvas-lti-config-setup": 1
+        "my-account-canvas-lti-config-setup": 1,
+        "tickets": 31,
+        "tickets-admin": 13
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -2742,7 +2744,14 @@
         "t113": "FAQ_SUBDOMAIN",
         "t114": "FAQ_SUBDOMAIN_ANSWER",
         "t115": "FAQ_MISSED_PAYMENT",
-        "t116": "FAQ_MISSED_PAYMENT_ANSWER"
+        "t116": "FAQ_MISSED_PAYMENT_ANSWER",
+        "t117": "PUBLIC_FOOTER_V2_INTEGRATIONS",
+        "t118": "PUBLIC_FOOTER_V2_LARGE_SITES",
+        "t119": "PUBLIC_FOOTER_V2_HOW_TO_ADD_COMMENTS",
+        "t120": "PUBLIC_FOOTER_V2_MOODLE",
+        "t121": "PUBLIC_FOOTER_V2_LARAVEL",
+        "t122": "PUBLIC_FOOTER_V2_LTI",
+        "t123": "PUBLIC_FOOTER_V2_WORDPRESS_SPAM"
     },
     "moderator-join-failure": {
         "t1": "PAGE_TITLE",
@@ -7797,5 +7806,53 @@
     },
     "my-account-canvas-lti-config-setup": {
         "t1": "PAGE_TITLE"
+    },
+    "tickets": {
+        "t1": "TITLE",
+        "t2": "CREATE_TICKET",
+        "t3": "NO_TICKETS",
+        "t4": "SUBJECT_LABEL",
+        "t5": "SUBJECT_PLACEHOLDER",
+        "t6": "MESSAGE_LABEL",
+        "t7": "MESSAGE_PLACEHOLDER",
+        "t8": "SUBMIT",
+        "t9": "CANCEL",
+        "t10": "BACK_TO_LIST",
+        "t11": "STATE_OPEN",
+        "t12": "STATE_ACKNOWLEDGED",
+        "t13": "STATE_RESOLVED",
+        "t14": "CHANGE_STATUS",
+        "t15": "CREATED",
+        "t16": "LAST_REPLY",
+        "t17": "FILES",
+        "t18": "AWAITING_REPLY",
+        "t19": "UPLOAD_FILE",
+        "t20": "FILE_EXPIRED",
+        "t21": "EXPIRES_IN_DAYS",
+        "t22": "SEARCH_KB",
+        "t23": "RELATED_ARTICLES",
+        "t24": "NO_SEARCH_RESULTS",
+        "t25": "ERROR_CREATE_FAILED",
+        "t26": "ERROR_LOAD_FAILED",
+        "t27": "ERROR_STATE_CHANGE_FAILED",
+        "t28": "ERROR_UPLOAD_FAILED",
+        "t29": "ERROR_FILE_TOO_LARGE",
+        "t30": "SUBJECT_REQUIRED",
+        "t31": "SSO_REQUIRED"
+    },
+    "tickets-admin": {
+        "t1": "TITLE",
+        "t2": "FILTER_BY_STATE",
+        "t3": "FILTER_BY_ASSIGNEE",
+        "t4": "ALL_STATES",
+        "t5": "ALL_ASSIGNEES",
+        "t6": "ASSIGN_TO",
+        "t7": "UNASSIGNED",
+        "t8": "CUSTOMER",
+        "t9": "ASSIGNED_TO",
+        "t10": "RESPONSE_TIME",
+        "t11": "NO_TICKETS",
+        "t12": "ERROR_ASSIGN_FAILED",
+        "t13": "ERROR_LOAD_FAILED"
     }
 }

@@ -114,5 +114,12 @@
     "FAQ_SUBDOMAIN": "만약 mysite.com이라는 도메인과 subdomain.mysite.com이라는 서브도메인이 있다면 어떻게 해야 할까요?",
     "FAQ_SUBDOMAIN_ANSWER": "이는 설정 방식에 따라 다릅니다. mysite.com을 계정에 추가하면 하나의 도메인으로 청구되지만, 데이터와 댓글은 별도로 저장됩니다. 하지만 서브도메인인 mysite.com에 대해 특정 설정을 적용하고 싶다면, 해당 서브도메인을 계정에 별도로 추가해야 하며, 그에 따라 요금이 부과됩니다.",
     "FAQ_MISSED_PAYMENT": "만약 대금 납부를 놓치면 어떻게 되나요?",
-    "FAQ_MISSED_PAYMENT_ANSWER": "시스템은 미납된 청구서에 대해 일주일의 유예 기간을 제공하며, 그 이후에는 계정이 일시 정지됩니다. 미납 계정은 1년 후 삭제됩니다."
+    "FAQ_MISSED_PAYMENT_ANSWER": "시스템은 미납된 청구서에 대해 일주일의 유예 기간을 제공하며, 그 이후에는 계정이 일시 정지됩니다. 미납 계정은 1년 후 삭제됩니다.",
+    "PUBLIC_FOOTER_V2_INTEGRATIONS": "통합",
+    "PUBLIC_FOOTER_V2_MOODLE": "무들",
+    "PUBLIC_FOOTER_V2_LARGE_SITES": "대규모 사이트",
+    "PUBLIC_FOOTER_V2_HOW_TO_ADD_COMMENTS": "웹사이트에 댓글 추가하기",
+    "PUBLIC_FOOTER_V2_LARAVEL": "라라벨",
+    "PUBLIC_FOOTER_V2_LTI": "LTI",
+    "PUBLIC_FOOTER_V2_WORDPRESS_SPAM": "워드프레스 스팸"
 }

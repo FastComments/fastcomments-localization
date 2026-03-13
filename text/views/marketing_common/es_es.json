@@ -114,5 +114,12 @@
     "FAQ_SUBDOMAIN": "¿Qué pasa si tengo mysite.com y subdominio.mysite.com?",
     "FAQ_SUBDOMAIN_ANSWER": "Esto depende de la configuración. Si añades \"misitio.com\" a tu cuenta, se facturará como un solo dominio y los datos/comentarios se almacenarán por separado. Sin embargo, supongamos que deseas una configuración específica para \"subdominio.misitio.com\", tendrás que añadirlo por separado en tu cuenta y se facturará como tal.",
     "FAQ_MISSED_PAYMENT": "¿Qué pasa si me olvido de realizar un pago?",
-    "FAQ_MISSED_PAYMENT_ANSWER": "El sistema le da un periodo de gracia de una semana para pagar las facturas impagas, tras lo cual su cuenta se pausará. Las cuentas impagas se eliminan después de un año."
+    "FAQ_MISSED_PAYMENT_ANSWER": "El sistema le da un periodo de gracia de una semana para pagar las facturas impagas, tras lo cual su cuenta se pausará. Las cuentas impagas se eliminan después de un año.",
+    "PUBLIC_FOOTER_V2_INTEGRATIONS": "Integraciones",
+    "PUBLIC_FOOTER_V2_LARGE_SITES": "Sitios grandes",
+    "PUBLIC_FOOTER_V2_MOODLE": "Moodle",
+    "PUBLIC_FOOTER_V2_HOW_TO_ADD_COMMENTS": "Agregar comentarios a un sitio web",
+    "PUBLIC_FOOTER_V2_LARAVEL": "Laravel",
+    "PUBLIC_FOOTER_V2_LTI": "LTI",
+    "PUBLIC_FOOTER_V2_WORDPRESS_SPAM": "Spam de WordPress"
 }

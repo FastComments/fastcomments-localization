@@ -114,5 +114,12 @@
     "FAQ_SUBDOMAIN": "Šta ako imam mysite.com i subdomain.mysite.com?",
     "FAQ_SUBDOMAIN_ANSWER": "To zavisi od podešavanja. Ako dodate mysite.com na svoj nalog, on će se naplaćivati kao jedan, a podaci / komentari se i dalje čuvaju odvojeno. Međutim, recimo da želite određenu konfiguraciju za subdomain.mysite.com - onda biste morali da je dodate odvojeno na svoj nalog i to će se naplaćivati kao takvo.",
     "FAQ_MISSED_PAYMENT": "Šta ako propustite uplatu?",
-    "FAQ_MISSED_PAYMENT_ANSWER": "Sistem vam daje grejs period od nedelju dana da platite neplaćene fakture, a onda će vaš račun biti pauziran. Neplaćeni računi se brišu nakon godinu dana."
+    "FAQ_MISSED_PAYMENT_ANSWER": "Sistem vam daje grejs period od nedelju dana da platite neplaćene fakture, a onda će vaš račun biti pauziran. Neplaćeni računi se brišu nakon godinu dana.",
+    "PUBLIC_FOOTER_V2_LTI": "LTI",
+    "PUBLIC_FOOTER_V2_LARAVEL": "Laravel",
+    "PUBLIC_FOOTER_V2_INTEGRATIONS": "Integracije",
+    "PUBLIC_FOOTER_V2_MOODLE": "Omiljeno",
+    "PUBLIC_FOOTER_V2_WORDPRESS_SPAM": "UordPress spamera",
+    "PUBLIC_FOOTER_V2_LARGE_SITES": "Veliki sajtovi",
+    "PUBLIC_FOOTER_V2_HOW_TO_ADD_COMMENTS": "Dodajte komentare na veb lokaciju"
 }

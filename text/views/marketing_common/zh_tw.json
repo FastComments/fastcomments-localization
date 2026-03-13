@@ -114,5 +114,12 @@
     "FAQ_SUBDOMAIN": "如果我同時擁有 mysite.com 和 subdomain.mysite.com 呢？",
     "FAQ_SUBDOMAIN_ANSWER": "這取決於您的設定。如果您將 mysite.com 新增至您的帳戶，它將作為一個整體計費，資料/評論仍單獨儲存。但是，假設您想要對 subdomain.mysite.com 進行特定配置，那麼您必須將其單獨新增至您的帳戶中，並且它將單獨計費。",
     "FAQ_MISSED_PAYMENT": "如果錯過付款怎麼辦？",
-    "FAQ_MISSED_PAYMENT_ANSWER": "系統會給予您一週的寬限期來支付未付帳單，之後您的帳戶將被暫停。未付款的帳戶將在一年後被刪除。"
+    "FAQ_MISSED_PAYMENT_ANSWER": "系統會給予您一週的寬限期來支付未付帳單，之後您的帳戶將被暫停。未付款的帳戶將在一年後被刪除。",
+    "PUBLIC_FOOTER_V2_INTEGRATIONS": "整合",
+    "PUBLIC_FOOTER_V2_MOODLE": "Moodle",
+    "PUBLIC_FOOTER_V2_LARAVEL": "Laravel",
+    "PUBLIC_FOOTER_V2_HOW_TO_ADD_COMMENTS": "在網站上新增評論",
+    "PUBLIC_FOOTER_V2_LTI": "LTI",
+    "PUBLIC_FOOTER_V2_WORDPRESS_SPAM": "WordPress垃圾郵件",
+    "PUBLIC_FOOTER_V2_LARGE_SITES": "大型網站"
 }

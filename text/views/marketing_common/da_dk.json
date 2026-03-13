@@ -114,5 +114,12 @@
     "FAQ_SUBDOMAIN": "Hvad hvis jeg har mysite.com og subdomæne.mysite.com?",
     "FAQ_SUBDOMAIN_ANSWER": "Dette afhænger af opsætningen. Hvis du tilføjer mysite.com til din konto, vil den blive faktureret som én konto, og data/kommentarer gemmes stadig separat. Men lad os sige, at du ønsker en specifik konfiguration for underdomæne.mysite.com - så skal du tilføje den separat i din konto, og den vil blive faktureret som sådan.",
     "FAQ_MISSED_PAYMENT": "Hvad hvis man glemmer en betaling?",
-    "FAQ_MISSED_PAYMENT_ANSWER": "Systemet giver dig en uges afdragsfrihed til at betale ubetalte fakturaer, hvorefter din konto sættes på pause. Ubetalte konti slettes efter et år."
+    "FAQ_MISSED_PAYMENT_ANSWER": "Systemet giver dig en uges afdragsfrihed til at betale ubetalte fakturaer, hvorefter din konto sættes på pause. Ubetalte konti slettes efter et år.",
+    "PUBLIC_FOOTER_V2_INTEGRATIONS": "Integrationer",
+    "PUBLIC_FOOTER_V2_MOODLE": "Moodle",
+    "PUBLIC_FOOTER_V2_LARAVEL": "Laravel",
+    "PUBLIC_FOOTER_V2_LARGE_SITES": "Store steder",
+    "PUBLIC_FOOTER_V2_HOW_TO_ADD_COMMENTS": "Tilføj kommentarer til et websted",
+    "PUBLIC_FOOTER_V2_LTI": "LTI",
+    "PUBLIC_FOOTER_V2_WORDPRESS_SPAM": "WordPress-spam"
 }

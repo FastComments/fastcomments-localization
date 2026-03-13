@@ -114,5 +114,12 @@
     "FAQ_SUBDOMAIN": "Que se passe-t-il si j'ai mysite.com et subdomain.mysite.com ?",
     "FAQ_SUBDOMAIN_ANSWER": "Cela dépend de votre configuration. Si vous ajoutez mysite.com à votre compte, il sera facturé comme un seul site, et les données et commentaires resteront stockés séparément. En revanche, si vous souhaitez une configuration spécifique pour subdomain.mysite.com, vous devrez l'ajouter séparément à votre compte et il sera facturé en conséquence.",
     "FAQ_MISSED_PAYMENT": "Que se passe-t-il si je manque un paiement ?",
-    "FAQ_MISSED_PAYMENT_ANSWER": "Le système vous accorde un délai d'une semaine pour régler vos factures impayées. Passé ce délai, votre compte sera suspendu. Les comptes impayés sont supprimés au bout d'un an."
+    "FAQ_MISSED_PAYMENT_ANSWER": "Le système vous accorde un délai d'une semaine pour régler vos factures impayées. Passé ce délai, votre compte sera suspendu. Les comptes impayés sont supprimés au bout d'un an.",
+    "PUBLIC_FOOTER_V2_INTEGRATIONS": "Intégrations",
+    "PUBLIC_FOOTER_V2_MOODLE": "Moodle",
+    "PUBLIC_FOOTER_V2_LARAVEL": "Laravel",
+    "PUBLIC_FOOTER_V2_HOW_TO_ADD_COMMENTS": "Ajouter des commentaires à un site web",
+    "PUBLIC_FOOTER_V2_LARGE_SITES": "Grands sites",
+    "PUBLIC_FOOTER_V2_LTI": "LTI",
+    "PUBLIC_FOOTER_V2_WORDPRESS_SPAM": "Spam WordPress"
 }

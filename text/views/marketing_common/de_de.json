@@ -114,5 +114,12 @@
     "FAQ_SUBDOMAIN": "Was passiert, wenn ich meineWebsite.com und die Subdomain meineWebsite.com habe?",
     "FAQ_SUBDOMAIN_ANSWER": "Das hängt von der Konfiguration ab. Wenn Sie mysite.com zu Ihrem Konto hinzufügen, wird es als eine einzige Domain abgerechnet, und die Daten/Kommentare werden weiterhin separat gespeichert. Wenn Sie jedoch eine spezifische Konfiguration für subdomain.mysite.com wünschen, müssen Sie diese separat in Ihrem Konto hinzufügen, und sie wird entsprechend abgerechnet.",
     "FAQ_MISSED_PAYMENT": "Was passiert, wenn eine Zahlung versäumt wird?",
-    "FAQ_MISSED_PAYMENT_ANSWER": "Das System gewährt Ihnen eine Woche Zeit, um offene Rechnungen zu begleichen. Danach wird Ihr Konto gesperrt. Offene Rechnungen werden nach einem Jahr gelöscht."
+    "FAQ_MISSED_PAYMENT_ANSWER": "Das System gewährt Ihnen eine Woche Zeit, um offene Rechnungen zu begleichen. Danach wird Ihr Konto gesperrt. Offene Rechnungen werden nach einem Jahr gelöscht.",
+    "PUBLIC_FOOTER_V2_MOODLE": "Moodle",
+    "PUBLIC_FOOTER_V2_INTEGRATIONS": "Integrationen",
+    "PUBLIC_FOOTER_V2_LARGE_SITES": "Große Standorte",
+    "PUBLIC_FOOTER_V2_HOW_TO_ADD_COMMENTS": "Kommentare zu einer Website hinzufügen",
+    "PUBLIC_FOOTER_V2_LARAVEL": "Laravel",
+    "PUBLIC_FOOTER_V2_LTI": "LTI",
+    "PUBLIC_FOOTER_V2_WORDPRESS_SPAM": "WordPress-Spam"
 }

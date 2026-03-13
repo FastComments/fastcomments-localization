@@ -114,5 +114,12 @@
     "FAQ_SUBDOMAIN": "mysite.com と subdomain.mysite.com がある場合はどうなりますか?",
     "FAQ_SUBDOMAIN_ANSWER": "設定によって異なります。mysite.com をアカウントに追加した場合、1つのドメインとして課金され、データやコメントは引き続き別々に保存されます。ただし、subdomain.mysite.com に特別な設定が必要な場合は、アカウントに別途追加する必要があり、そのドメインとして課金されます。",
     "FAQ_MISSED_PAYMENT": "支払いを忘れた場合はどうなりますか?",
-    "FAQ_MISSED_PAYMENT_ANSWER": "未払いの請求書については、1週間の猶予期間を設けており、その期間を過ぎるとアカウントは一時停止されます。未払いのアカウントは1年後に削除されます。"
+    "FAQ_MISSED_PAYMENT_ANSWER": "未払いの請求書については、1週間の猶予期間を設けており、その期間を過ぎるとアカウントは一時停止されます。未払いのアカウントは1年後に削除されます。",
+    "PUBLIC_FOOTER_V2_INTEGRATIONS": "統合",
+    "PUBLIC_FOOTER_V2_LARAVEL": "ララベル",
+    "PUBLIC_FOOTER_V2_MOODLE": "ムードル",
+    "PUBLIC_FOOTER_V2_LTI": "LTI",
+    "PUBLIC_FOOTER_V2_LARGE_SITES": "大規模サイト",
+    "PUBLIC_FOOTER_V2_HOW_TO_ADD_COMMENTS": "ウェブサイトにコメントを追加する",
+    "PUBLIC_FOOTER_V2_WORDPRESS_SPAM": "WordPressスパム"
 }

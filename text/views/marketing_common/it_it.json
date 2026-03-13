@@ -114,5 +114,12 @@
     "FAQ_SUBDOMAIN": "Cosa succede se ho mysite.com e subdomain.mysite.com?",
     "FAQ_SUBDOMAIN_ANSWER": "Dipende dalla configurazione. Se aggiungi mysite.com al tuo account, verrà fatturato come un dominio unico e i dati/commenti verranno comunque archiviati separatamente. Tuttavia, supponiamo che tu voglia una configurazione specifica per il sottodominio.mysite.com: in tal caso, dovrai aggiungerlo separatamente al tuo account e verrà fatturato come tale.",
     "FAQ_MISSED_PAYMENT": "Cosa succede se salto un pagamento?",
-    "FAQ_MISSED_PAYMENT_ANSWER": "Il sistema ti concede un periodo di grazia di una settimana per saldare le fatture non pagate, dopodiché il tuo account verrà sospeso. Gli account non pagati vengono eliminati dopo un anno."
+    "FAQ_MISSED_PAYMENT_ANSWER": "Il sistema ti concede un periodo di grazia di una settimana per saldare le fatture non pagate, dopodiché il tuo account verrà sospeso. Gli account non pagati vengono eliminati dopo un anno.",
+    "PUBLIC_FOOTER_V2_INTEGRATIONS": "Integrazioni",
+    "PUBLIC_FOOTER_V2_MOODLE": "Moodle",
+    "PUBLIC_FOOTER_V2_LARAVEL": "Laravel",
+    "PUBLIC_FOOTER_V2_LARGE_SITES": "Siti di grandi dimensioni",
+    "PUBLIC_FOOTER_V2_HOW_TO_ADD_COMMENTS": "Aggiungere commenti a un sito web",
+    "PUBLIC_FOOTER_V2_WORDPRESS_SPAM": "Spam su WordPress",
+    "PUBLIC_FOOTER_V2_LTI": "LTI"
 }
