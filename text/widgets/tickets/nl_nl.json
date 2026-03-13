@@ -29,5 +29,15 @@
     "SUBJECT_REQUIRED": "Een onderwerp is vereist.",
     "ERROR_STATE_CHANGE_FAILED": "Het is niet gelukt om de ticketstatus te wijzigen.",
     "ERROR_UPLOAD_FAILED": "Het uploaden van het bestand is mislukt.",
-    "SSO_REQUIRED": "Voor het gebruik van supporttickets is authenticatie vereist."
+    "SSO_REQUIRED": "Voor het gebruik van supporttickets is authenticatie vereist.",
+    "FILTER_BY_STATE": "Filteren op status",
+    "FILTER_BY_ASSIGNEE": "Filteren op toegewezen persoon",
+    "ALL_STATES": "Alle",
+    "ALL_ASSIGNEES": "Alle",
+    "CUSTOMER": "Klant",
+    "ASSIGN_TO": "Toewijzen aan",
+    "ASSIGNED_TO": "Toegewezen aan",
+    "UNASSIGNED": "Niet toegewezen",
+    "RESPONSE_TIME": "Gemiddelde reactietijd",
+    "ERROR_ASSIGN_FAILED": "Het is niet gelukt om een ticket toe te wijzen."
 }

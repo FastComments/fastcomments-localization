@@ -29,5 +29,15 @@
     "ERROR_UPLOAD_FAILED": "Nie udało się przesłać pliku.",
     "ERROR_LOAD_FAILED": "Nie udało się załadować biletów. Spróbuj ponownie.",
     "SUBJECT_REQUIRED": "Temat jest wymagany.",
-    "SSO_REQUIRED": "Aby skorzystać ze zgłoszeń pomocy technicznej, wymagane jest uwierzytelnienie."
+    "SSO_REQUIRED": "Aby skorzystać ze zgłoszeń pomocy technicznej, wymagane jest uwierzytelnienie.",
+    "ALL_ASSIGNEES": "Wszystko",
+    "ALL_STATES": "Wszystko",
+    "ASSIGN_TO": "Przypisz do",
+    "FILTER_BY_STATE": "Filtruj według statusu",
+    "FILTER_BY_ASSIGNEE": "Filtruj według osoby przypisanej",
+    "CUSTOMER": "Klient",
+    "UNASSIGNED": "Nieprzypisane",
+    "ASSIGNED_TO": "Przypisany do",
+    "ERROR_ASSIGN_FAILED": "Nie udało się przypisać biletu.",
+    "RESPONSE_TIME": "Średni czas reakcji"
 }

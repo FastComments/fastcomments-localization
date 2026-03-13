@@ -29,5 +29,15 @@
     "ERROR_STATE_CHANGE_FAILED": "更改工单状态失败。",
     "ERROR_LOAD_FAILED": "门票加载失败，请重试。",
     "SUBJECT_REQUIRED": "必须填写主题。",
-    "SSO_REQUIRED": "使用支持工单需要进行身份验证。"
+    "SSO_REQUIRED": "使用支持工单需要进行身份验证。",
+    "FILTER_BY_ASSIGNEE": "按受让人筛选",
+    "ASSIGN_TO": "分配给",
+    "ALL_ASSIGNEES": "全部",
+    "ALL_STATES": "全部",
+    "UNASSIGNED": "未分配",
+    "CUSTOMER": "顾客",
+    "FILTER_BY_STATE": "按状态筛选",
+    "ASSIGNED_TO": "分配给",
+    "RESPONSE_TIME": "平均响应时间",
+    "ERROR_ASSIGN_FAILED": "分配工单失败。"
 }

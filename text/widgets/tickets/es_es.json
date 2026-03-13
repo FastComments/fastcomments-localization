@@ -29,5 +29,15 @@
     "ERROR_LOAD_FAILED": "No se pudieron cargar los boletos. Inténtelo de nuevo.",
     "ERROR_STATE_CHANGE_FAILED": "No se pudo cambiar el estado del ticket.",
     "SUBJECT_REQUIRED": "Se requiere un asunto.",
-    "SSO_REQUIRED": "Se requiere autenticación para utilizar los tickets de soporte."
+    "SSO_REQUIRED": "Se requiere autenticación para utilizar los tickets de soporte.",
+    "FILTER_BY_STATE": "Filtrar por estado",
+    "ALL_ASSIGNEES": "Todo",
+    "FILTER_BY_ASSIGNEE": "Filtrar por cesionario",
+    "ALL_STATES": "Todo",
+    "ASSIGN_TO": "Asignar a",
+    "UNASSIGNED": "Sin asignar",
+    "CUSTOMER": "Cliente",
+    "ASSIGNED_TO": "Asignado a",
+    "RESPONSE_TIME": "Tiempo de respuesta promedio",
+    "ERROR_ASSIGN_FAILED": "No se pudo asignar el ticket."
 }

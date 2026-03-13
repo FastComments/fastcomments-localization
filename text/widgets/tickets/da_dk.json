@@ -29,5 +29,15 @@
     "ERROR_CREATE_FAILED": "Kunne ikke oprette en sag. Prøv igen.",
     "ERROR_UPLOAD_FAILED": "Kunne ikke uploade filen.",
     "SUBJECT_REQUIRED": "Et emne er påkrævet.",
-    "SSO_REQUIRED": "Godkendelse er påkrævet for at bruge supportsager."
+    "SSO_REQUIRED": "Godkendelse er påkrævet for at bruge supportsager.",
+    "ALL_STATES": "Alle",
+    "ALL_ASSIGNEES": "Alle",
+    "ASSIGN_TO": "Tildel til",
+    "FILTER_BY_STATE": "Filtrer efter status",
+    "FILTER_BY_ASSIGNEE": "Filtrer efter tildeler",
+    "CUSTOMER": "Kunde",
+    "RESPONSE_TIME": "Gennemsnitlig svartid",
+    "ERROR_ASSIGN_FAILED": "Kunne ikke tildele billet.",
+    "ASSIGNED_TO": "Tildelt til",
+    "UNASSIGNED": "Ikke-tildelt"
 }

@@ -29,5 +29,15 @@
     "ERROR_FILE_TOO_LARGE": "Die Datei ist zu groß.",
     "ERROR_UPLOAD_FAILED": "Datei konnte nicht hochgeladen werden.",
     "SUBJECT_REQUIRED": "Ein Thema ist erforderlich.",
-    "SSO_REQUIRED": "Zur Nutzung von Support-Tickets ist eine Authentifizierung erforderlich."
+    "SSO_REQUIRED": "Zur Nutzung von Support-Tickets ist eine Authentifizierung erforderlich.",
+    "ALL_STATES": "Alle",
+    "ALL_ASSIGNEES": "Alle",
+    "FILTER_BY_ASSIGNEE": "Nach Bearbeiter filtern",
+    "FILTER_BY_STATE": "Nach Status filtern",
+    "ASSIGN_TO": "Zuweisen an",
+    "UNASSIGNED": "Nicht zugewiesen",
+    "CUSTOMER": "Kunde",
+    "ASSIGNED_TO": "Zugewiesen an",
+    "RESPONSE_TIME": "Durchschnittliche Antwortzeit",
+    "ERROR_ASSIGN_FAILED": "Ticketzuweisung fehlgeschlagen."
 }

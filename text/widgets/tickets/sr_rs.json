@@ -29,5 +29,15 @@
     "ERROR_STATE_CHANGE_FAILED": "Промена статуса карте није успела.",
     "SUBJECT_REQUIRED": "Наслов је обавезан.",
     "ERROR_UPLOAD_FAILED": "Отпремање датотеке није успело.",
-    "SSO_REQUIRED": "За коришћење тикета за подршку потребна је аутентификација."
+    "SSO_REQUIRED": "За коришћење тикета за подршку потребна је аутентификација.",
+    "ALL_STATES": "Сви",
+    "ALL_ASSIGNEES": "Сви",
+    "FILTER_BY_STATE": "Филтрирај по статусу",
+    "FILTER_BY_ASSIGNEE": "Филтрирај по додељеном лицу",
+    "ASSIGN_TO": "Додели",
+    "CUSTOMER": "Муштерија",
+    "UNASSIGNED": "Недодељено",
+    "ASSIGNED_TO": "Додељено",
+    "ERROR_ASSIGN_FAILED": "Додељивање карте није успело.",
+    "RESPONSE_TIME": "Просечно време одзива"
 }

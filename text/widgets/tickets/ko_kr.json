@@ -29,5 +29,15 @@
     "ERROR_CREATE_FAILED": "티켓 생성에 실패했습니다. 다시 시도해 주세요.",
     "ERROR_LOAD_FAILED": "티켓을 불러오는 데 실패했습니다. 다시 시도해 주세요.",
     "SUBJECT_REQUIRED": "과목을 입력해야 합니다.",
-    "SSO_REQUIRED": "지원 티켓을 사용하려면 인증이 필요합니다."
+    "SSO_REQUIRED": "지원 티켓을 사용하려면 인증이 필요합니다.",
+    "ALL_STATES": "모두",
+    "FILTER_BY_STATE": "상태별 필터링",
+    "ALL_ASSIGNEES": "모두",
+    "FILTER_BY_ASSIGNEE": "담당자별로 필터링",
+    "ASSIGN_TO": "할당 대상",
+    "UNASSIGNED": "미지정",
+    "CUSTOMER": "고객",
+    "ASSIGNED_TO": "배정됨",
+    "RESPONSE_TIME": "평균 응답 시간",
+    "ERROR_ASSIGN_FAILED": "티켓 배정에 실패했습니다."
 }

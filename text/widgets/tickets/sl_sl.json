@@ -29,5 +29,15 @@
     "ERROR_STATE_CHANGE_FAILED": "Stanja zahteve ni bilo mogoče spremeniti.",
     "SUBJECT_REQUIRED": "Zadeva je obvezna.",
     "ERROR_UPLOAD_FAILED": "Nalaganje datoteke ni uspelo.",
-    "SSO_REQUIRED": "Za uporabo podpornih zahtevkov je potrebna avtentikacija."
+    "SSO_REQUIRED": "Za uporabo podpornih zahtevkov je potrebna avtentikacija.",
+    "ALL_STATES": "Vse",
+    "FILTER_BY_STATE": "Filtriraj po stanju",
+    "FILTER_BY_ASSIGNEE": "Filtriraj po dodeljevalcu",
+    "ALL_ASSIGNEES": "Vse",
+    "ASSIGN_TO": "Dodeli",
+    "CUSTOMER": "Stranka",
+    "ASSIGNED_TO": "Dodeljeno",
+    "RESPONSE_TIME": "Povprečni odzivni čas",
+    "UNASSIGNED": "Nedodeljeno",
+    "ERROR_ASSIGN_FAILED": "Dodelitev vozovnice ni uspela."
 }

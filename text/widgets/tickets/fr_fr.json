@@ -29,5 +29,15 @@
     "ERROR_FILE_TOO_LARGE": "Le fichier est trop volumineux.",
     "ERROR_UPLOAD_FAILED": "Échec du chargement du fichier.",
     "SSO_REQUIRED": "L'authentification est requise pour utiliser les tickets d'assistance.",
-    "SUBJECT_REQUIRED": "Un sujet est requis."
+    "SUBJECT_REQUIRED": "Un sujet est requis.",
+    "FILTER_BY_STATE": "Filtrer par statut",
+    "FILTER_BY_ASSIGNEE": "Filtrer par responsable",
+    "ALL_STATES": "Tous",
+    "ALL_ASSIGNEES": "Tous",
+    "ASSIGN_TO": "Attribuer à",
+    "UNASSIGNED": "Non attribué",
+    "CUSTOMER": "Client",
+    "ASSIGNED_TO": "Affecté à",
+    "RESPONSE_TIME": "Temps de réponse moyen",
+    "ERROR_ASSIGN_FAILED": "Impossible d'attribuer le billet."
 }

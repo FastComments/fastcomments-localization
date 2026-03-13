@@ -29,5 +29,15 @@
     "ERROR_STATE_CHANGE_FAILED": "更改工單狀態失敗。",
     "ERROR_LOAD_FAILED": "門票加載失敗，請重試。",
     "SSO_REQUIRED": "使用支援工單需要進行身份驗證。",
-    "SUBJECT_REQUIRED": "必須填寫主題。"
+    "SUBJECT_REQUIRED": "必須填寫主題。",
+    "FILTER_BY_ASSIGNEE": "按受讓人篩選",
+    "ALL_STATES": "全部",
+    "FILTER_BY_STATE": "按狀態篩選",
+    "ALL_ASSIGNEES": "全部",
+    "ASSIGN_TO": "分配給",
+    "CUSTOMER": "顧客",
+    "UNASSIGNED": "未分配",
+    "ASSIGNED_TO": "分配給",
+    "RESPONSE_TIME": "平均回應時間",
+    "ERROR_ASSIGN_FAILED": "分配工單失敗。"
 }

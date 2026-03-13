@@ -29,5 +29,15 @@
     "ERROR_UPLOAD_FAILED": "Dosya yükleme başarısız oldu.",
     "ERROR_CREATE_FAILED": "Destek talebi oluşturulamadı. Lütfen tekrar deneyin.",
     "SSO_REQUIRED": "Destek biletlerini kullanmak için kimlik doğrulama gereklidir.",
-    "SUBJECT_REQUIRED": "Bir ders alınması zorunludur."
+    "SUBJECT_REQUIRED": "Bir ders alınması zorunludur.",
+    "FILTER_BY_STATE": "Duruma göre filtrele",
+    "ALL_STATES": "Tüm",
+    "ALL_ASSIGNEES": "Tüm",
+    "CUSTOMER": "Müşteri",
+    "FILTER_BY_ASSIGNEE": "Atanan kişiye göre filtrele",
+    "UNASSIGNED": "Atanmamış",
+    "ASSIGNED_TO": "Atandığı kişi",
+    "ASSIGN_TO": "Ata",
+    "RESPONSE_TIME": "Ortalama yanıt süresi",
+    "ERROR_ASSIGN_FAILED": "Bilet atama işlemi başarısız oldu."
 }

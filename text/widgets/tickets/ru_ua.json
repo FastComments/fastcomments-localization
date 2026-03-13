@@ -29,5 +29,15 @@
     "ERROR_STATE_CHANGE_FAILED": "Не удалось изменить статус заявки.",
     "ERROR_UPLOAD_FAILED": "Не удалось загрузить файл.",
     "SSO_REQUIRED": "Для использования заявок в службу поддержки требуется аутентификация.",
-    "SUBJECT_REQUIRED": "Требуется указать предмет."
+    "SUBJECT_REQUIRED": "Требуется указать предмет.",
+    "ALL_STATES": "Все",
+    "ALL_ASSIGNEES": "Все",
+    "FILTER_BY_STATE": "Фильтрация по статусу",
+    "FILTER_BY_ASSIGNEE": "Фильтр по назначенному лицу",
+    "UNASSIGNED": "Не назначено",
+    "ASSIGN_TO": "Назначить",
+    "CUSTOMER": "Клиент",
+    "ASSIGNED_TO": "Назначен в",
+    "RESPONSE_TIME": "Среднее время отклика",
+    "ERROR_ASSIGN_FAILED": "Не удалось назначить билет."
 }

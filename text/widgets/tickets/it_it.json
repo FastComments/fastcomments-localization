@@ -29,5 +29,15 @@
     "ERROR_FILE_TOO_LARGE": "Il file è troppo grande.",
     "SUBJECT_REQUIRED": "È richiesto un argomento.",
     "ERROR_UPLOAD_FAILED": "Impossibile caricare il file.",
-    "SSO_REQUIRED": "Per utilizzare i ticket di supporto è necessaria l'autenticazione."
+    "SSO_REQUIRED": "Per utilizzare i ticket di supporto è necessaria l'autenticazione.",
+    "FILTER_BY_STATE": "Filtra per stato",
+    "ALL_STATES": "Tutto",
+    "ALL_ASSIGNEES": "Tutto",
+    "FILTER_BY_ASSIGNEE": "Filtra per assegnatario",
+    "ASSIGN_TO": "Assegnare a",
+    "CUSTOMER": "Cliente",
+    "ASSIGNED_TO": "Assegnato a",
+    "UNASSIGNED": "Non assegnato",
+    "RESPONSE_TIME": "tempo medio di risposta",
+    "ERROR_ASSIGN_FAILED": "Impossibile assegnare il ticket."
 }

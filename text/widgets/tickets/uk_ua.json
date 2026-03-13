@@ -29,5 +29,15 @@
     "ERROR_STATE_CHANGE_FAILED": "Не вдалося змінити статус заявки.",
     "ERROR_CREATE_FAILED": "Не вдалося створити квиток. Спробуйте ще раз.",
     "SSO_REQUIRED": "Для використання заявок на підтримку потрібна автентифікація.",
-    "SUBJECT_REQUIRED": "Обов'язкова тема."
+    "SUBJECT_REQUIRED": "Обов'язкова тема.",
+    "FILTER_BY_STATE": "Фільтрувати за статусом",
+    "FILTER_BY_ASSIGNEE": "Фільтрувати за правонаступником",
+    "ALL_STATES": "Усі",
+    "ALL_ASSIGNEES": "Усі",
+    "CUSTOMER": "Клієнт",
+    "ASSIGNED_TO": "Призначено",
+    "ASSIGN_TO": "Призначити",
+    "UNASSIGNED": "Не призначено",
+    "RESPONSE_TIME": "Середній час відгуку",
+    "ERROR_ASSIGN_FAILED": "Не вдалося призначити квиток."
 }

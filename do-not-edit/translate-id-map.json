@@ -361,8 +361,9 @@
         "my-account-canvas-lti-config-delete": 5,
         "my-account-canvas-lti-config-enable": 1,
         "my-account-canvas-lti-config-setup": 1,
-        "tickets": 31,
-        "tickets-admin": 13
+        "tickets": 41,
+        "tickets-admin": 13,
+        "demo-ticketing": 11
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -7838,7 +7839,17 @@
         "t28": "ERROR_UPLOAD_FAILED",
         "t29": "ERROR_FILE_TOO_LARGE",
         "t30": "SUBJECT_REQUIRED",
-        "t31": "SSO_REQUIRED"
+        "t31": "SSO_REQUIRED",
+        "t32": "FILTER_BY_STATE",
+        "t33": "FILTER_BY_ASSIGNEE",
+        "t34": "ALL_STATES",
+        "t35": "ALL_ASSIGNEES",
+        "t36": "ASSIGN_TO",
+        "t37": "UNASSIGNED",
+        "t38": "CUSTOMER",
+        "t39": "ASSIGNED_TO",
+        "t40": "RESPONSE_TIME",
+        "t41": "ERROR_ASSIGN_FAILED"
     },
     "tickets-admin": {
         "t1": "TITLE",
@@ -7854,5 +7865,18 @@
         "t11": "NO_TICKETS",
         "t12": "ERROR_ASSIGN_FAILED",
         "t13": "ERROR_LOAD_FAILED"
+    },
+    "demo-ticketing": {
+        "t1": "PAGE_TITLE",
+        "t2": "META_DESCRIPTION",
+        "t3": "HERO_TITLE_LIGHT",
+        "t4": "HERO_TITLE_BOLD",
+        "t5": "HERO_DESCRIPTION",
+        "t6": "ROLE_LABEL",
+        "t7": "ROLE_END_USER",
+        "t8": "ROLE_ADMIN",
+        "t9": "DARK_MODE",
+        "t10": "OUR_CUSTOMERS_SUBTEXT",
+        "t11": "OUR_CUSTOMERS_BUTTON"
     }
 }

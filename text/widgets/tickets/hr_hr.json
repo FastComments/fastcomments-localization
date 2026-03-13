@@ -29,5 +29,15 @@
     "ERROR_CREATE_FAILED": "Nije uspjelo kreiranje karte. Pokušajte ponovno.",
     "ERROR_UPLOAD_FAILED": "Prijenos datoteke nije uspio.",
     "SUBJECT_REQUIRED": "Potreban je predmet.",
-    "SSO_REQUIRED": "Za korištenje tiketa za podršku potrebna je autentifikacija."
+    "SSO_REQUIRED": "Za korištenje tiketa za podršku potrebna je autentifikacija.",
+    "ALL_STATES": "Sve",
+    "FILTER_BY_STATE": "Filtriraj po statusu",
+    "ALL_ASSIGNEES": "Sve",
+    "ASSIGN_TO": "Dodijeli",
+    "UNASSIGNED": "Nedodijeljeno",
+    "ASSIGNED_TO": "Dodijeljeno",
+    "ERROR_ASSIGN_FAILED": "Dodjeljivanje karte nije uspjelo.",
+    "CUSTOMER": "Kupac",
+    "RESPONSE_TIME": "Prosječno vrijeme odziva",
+    "FILTER_BY_ASSIGNEE": "Filtriraj po osobi koja je zadužena"
 }

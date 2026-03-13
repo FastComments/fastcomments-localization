@@ -29,5 +29,15 @@
     "ERROR_FILE_TOO_LARGE": "ファイルが大きすぎます。",
     "ERROR_UPLOAD_FAILED": "ファイルのアップロードに失敗しました。",
     "SUBJECT_REQUIRED": "科目が必要です。",
-    "SSO_REQUIRED": "サポートチケットを利用するには認証が必要です。"
+    "SSO_REQUIRED": "サポートチケットを利用するには認証が必要です。",
+    "ASSIGN_TO": "割り当てる",
+    "ALL_ASSIGNEES": "全て",
+    "ALL_STATES": "全て",
+    "FILTER_BY_ASSIGNEE": "担当者で絞り込む",
+    "FILTER_BY_STATE": "ステータスでフィルタリング",
+    "UNASSIGNED": "未割り当て",
+    "CUSTOMER": "お客様",
+    "ASSIGNED_TO": "割り当て先",
+    "ERROR_ASSIGN_FAILED": "チケットの割り当てに失敗しました。",
+    "RESPONSE_TIME": "平均応答時間"
 }

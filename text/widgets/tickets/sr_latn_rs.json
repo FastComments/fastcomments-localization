@@ -29,5 +29,15 @@
     "SEARCH_KB": "Potražite pomoć",
     "ERROR_CREATE_FAILED": "Failed to create ticket. Pokušajte ponovo.",
     "SSO_REQUIRED": "Autentifikacija je potrebna za korišćenje karata za podršku.",
-    "ERROR_STATE_CHANGE_FAILED": "Nije uspelo da promenite status karte."
+    "ERROR_STATE_CHANGE_FAILED": "Nije uspelo da promenite status karte.",
+    "ALL_STATES": "Sve",
+    "FILTER_BY_ASSIGNEE": "Filtriraj po dodeljenom",
+    "FILTER_BY_STATE": "Filtriraj po statusu",
+    "CUSTOMER": "Kupaц",
+    "ALL_ASSIGNEES": "Sve",
+    "ASSIGNED_TO": "Dodeljen",
+    "ASSIGN_TO": "Dodeli",
+    "UNASSIGNED": "Neraspoređeno",
+    "RESPONSE_TIME": "Prosečno vreme odziva",
+    "ERROR_ASSIGN_FAILED": "Failed to assign ticket."
 }
