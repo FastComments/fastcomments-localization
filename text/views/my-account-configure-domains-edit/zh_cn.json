@@ -1,0 +1,19 @@
+{
+    "LABEL_DOMAIN_NAME": "域名",
+    "PAGE_TITLE": "编辑域名 - FastComments",
+    "BUTTON_SAVE": "节省",
+    "HEADING_MIGRATION_OPTIONS": "迁移选项",
+    "BUTTON_CANCEL": "取消",
+    "PLACEHOLDER_DOMAIN_NAME": "输入顶级域名，例如 fastcomments.com",
+    "HEADING_EDITING_DOMAIN": "编辑<%= domainName %>",
+    "HEADING_EDIT_DOMAIN": "编辑域",
+    "LABEL_MIGRATE_COMMENTS": "评论 （<%= migrationCounts.comments %>）",
+    "TEXT_MIGRATION_HELP": "如果您重命名此域名，以下数据可以迁移到新域名。取消选中您不想迁移的任何项目。",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "小部件配置（<%= migrationCounts.widgetConfig %>）",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "电子邮件模板（<%= migrationCounts.emailTemplates %>）",
+    "LABEL_MIGRATE_API_KEYS": "API密钥（<%= migrationCounts.apiKeys %>）",
+    "LABEL_MIGRATE_SITES": "网站（<%= migrationCounts.sites %>）",
+    "HELP_MIGRATE_COMMENTS": "评论会在后台迁移，可能需要几分钟时间。",
+    "LABEL_MIGRATE_WEBHOOKS": "Webhooks（<%= migrationCounts.webhooks %>）",
+    "LABEL_MIGRATE_INTEGRATIONS": "积分（<%= migrationCounts.integrations %>）"
+}

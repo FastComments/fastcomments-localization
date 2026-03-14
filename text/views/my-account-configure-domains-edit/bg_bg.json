@@ -1,0 +1,19 @@
+{
+    "BUTTON_SAVE": "Запазване",
+    "BUTTON_CANCEL": "Отказ",
+    "LABEL_DOMAIN_NAME": "Име на домейн",
+    "HEADING_MIGRATION_OPTIONS": "Опции за миграция",
+    "PAGE_TITLE": "Редактиране на домейн - FastComments",
+    "PLACEHOLDER_DOMAIN_NAME": "Въведете домейн от най-високо ниво, като например fastcomments.com",
+    "HEADING_EDIT_DOMAIN": "Редактиране на домейн",
+    "HEADING_EDITING_DOMAIN": "Редактиране на <%= domainName %>",
+    "LABEL_MIGRATE_COMMENTS": "Коментари (<%= migrationCounts.comments %>)",
+    "TEXT_MIGRATION_HELP": "Ако преименувате този домейн, следните данни могат да бъдат мигрирани към новото име на домейн. Махнете отметката от всички елементи, които не искате да мигрирате.",
+    "HELP_MIGRATE_COMMENTS": "Коментарите се мигрират във фонов режим и може да отнемат няколко минути.",
+    "LABEL_MIGRATE_INTEGRATIONS": "Интеграции (<%= migrationCounts.integrations %>)",
+    "LABEL_MIGRATE_SITES": "Сайтове (<%= migrationCounts.sites %>)",
+    "LABEL_MIGRATE_API_KEYS": "API ключове (<%= migrationCounts.apiKeys %>)",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "Шаблони за имейли (<%= migrationCounts.emailTemplates %>)",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "Конфигурации на джаджи (<%= migrationCounts.widgetConfig %>)",
+    "LABEL_MIGRATE_WEBHOOKS": "Уеб кукички (<%= migrationCounts.webhooks %>)"
+}

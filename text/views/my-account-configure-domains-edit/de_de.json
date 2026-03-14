@@ -1,0 +1,19 @@
+{
+    "PAGE_TITLE": "Domain bearbeiten – FastComments",
+    "LABEL_DOMAIN_NAME": "Domainname",
+    "HEADING_EDITING_DOMAIN": "Bearbeitung <%= domainName %>",
+    "HEADING_EDIT_DOMAIN": "Domäne bearbeiten",
+    "BUTTON_SAVE": "Speichern",
+    "BUTTON_CANCEL": "Stornieren",
+    "PLACEHOLDER_DOMAIN_NAME": "Geben Sie eine Top-Level-Domain ein, z. B. fastcomments.com",
+    "HEADING_MIGRATION_OPTIONS": "Migrationsoptionen",
+    "LABEL_MIGRATE_COMMENTS": "Kommentare (<%= migrationCounts.comments %>)",
+    "TEXT_MIGRATION_HELP": "Wenn Sie diese Domain umbenennen, können die folgenden Daten auf den neuen Domainnamen migriert werden. Deaktivieren Sie alle Elemente, die Sie nicht migrieren möchten.",
+    "LABEL_MIGRATE_WEBHOOKS": "Webhooks (<%= migrationCounts.webhooks %>)",
+    "HELP_MIGRATE_COMMENTS": "Die Kommentare werden im Hintergrund übertragen, dies kann einige Minuten dauern.",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "E-Mail-Vorlagen (<%= migrationCounts.emailTemplates %>)",
+    "LABEL_MIGRATE_API_KEYS": "API-Schlüssel (<%= migrationCounts.apiKeys %>)",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "Widget-Konfigurationen (<%= migrationCounts.widgetConfig %>)",
+    "LABEL_MIGRATE_SITES": "Standorte (<%= migrationCounts.sites %>)",
+    "LABEL_MIGRATE_INTEGRATIONS": "Integrationen (<%= migrationCounts.integrations %>)"
+}

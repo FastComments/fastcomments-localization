@@ -66,5 +66,7 @@
     "TEXT_REPLY_DOMAIN_ENABLE_ERROR": "Nije uspelo da omogući domen odgovora. Pokušajte ponovo.",
     "TEXT_MX_VERIFY_ERROR": "Nije uspelo da proveri MKS zapise. Pokušajte ponovo.",
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "Nevažeći prefiks poddomena. Koristite samo mala slova, brojeve i crtice (moraju početi i završiti slovom ili brojem, maksimalno 63 znakova).",
-    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Previše zahteva. Pokušajte ponovo kasnije."
+    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Previše zahteva. Pokušajte ponovo kasnije.",
+    "LINK_EDIT": "Uredi",
+    "TEXT_DOMAIN_EDITED_SUCCESS": "Domen je uspešno ažuriran!"
 }

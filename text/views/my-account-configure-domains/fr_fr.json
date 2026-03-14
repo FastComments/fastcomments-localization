@@ -66,5 +66,7 @@
     "TEXT_REPLY_DOMAIN_ENABLE_ERROR": "Impossible d'activer le domaine de réponse. Veuillez réessayer.",
     "TEXT_MX_VERIFY_ERROR": "Impossible de vérifier les enregistrements MX. Veuillez réessayer.",
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "Préfixe de sous-domaine invalide. Utilisez uniquement des lettres minuscules, des chiffres et des tirets (doit commencer et se terminer par une lettre ou un chiffre, maximum 63 caractères).",
-    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Trop de requêtes. Veuillez réessayer plus tard."
+    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Trop de requêtes. Veuillez réessayer plus tard.",
+    "LINK_EDIT": "Modifier",
+    "TEXT_DOMAIN_EDITED_SUCCESS": "Domaine mis à jour avec succès !"
 }

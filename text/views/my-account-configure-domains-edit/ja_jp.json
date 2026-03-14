@@ -1,0 +1,19 @@
+{
+    "PAGE_TITLE": "ドメインを編集 - FastComments",
+    "HEADING_EDIT_DOMAIN": "ドメインを編集",
+    "BUTTON_CANCEL": "キャンセル",
+    "BUTTON_SAVE": "保存",
+    "HEADING_EDITING_DOMAIN": "編集 <%= domainName %>",
+    "PLACEHOLDER_DOMAIN_NAME": "fastcomments.comのようなトップレベルドメインを入力してください。",
+    "LABEL_DOMAIN_NAME": "ドメイン名",
+    "HEADING_MIGRATION_OPTIONS": "移行オプション",
+    "TEXT_MIGRATION_HELP": "このドメイン名を変更すると、以下のデータが新しいドメイン名に移行されます。移行したくない項目はチェックを外してください。",
+    "HELP_MIGRATE_COMMENTS": "コメントはバックグラウンドで移行されるため、数分かかる場合があります。",
+    "LABEL_MIGRATE_COMMENTS": "コメント（<%= migrationCounts.comments %>）",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "ウィジェットの設定（<%= migrationCounts.widgetConfig %>）",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "メールテンプレート（<%= migrationCounts.emailTemplates %>）",
+    "LABEL_MIGRATE_INTEGRATIONS": "統合（<%= migrationCounts.integrations %>）",
+    "LABEL_MIGRATE_API_KEYS": "APIキー（<%= migrationCounts.apiKeys %>）",
+    "LABEL_MIGRATE_WEBHOOKS": "ウェブフック（<%= migrationCounts.webhooks %>）",
+    "LABEL_MIGRATE_SITES": "サイト（<%= migrationCounts.sites %>）"
+}

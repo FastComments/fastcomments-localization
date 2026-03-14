@@ -150,7 +150,7 @@
         "my-account-configure-badges": 16,
         "my-account-configure-badges-badge": 47,
         "my-account-configure-badges-delete": 6,
-        "my-account-configure-domains": 70,
+        "my-account-configure-domains": 72,
         "my-account-configure-domains-disable-auto-add-confirm": 9,
         "my-account-configure-domains-failure": 4,
         "my-account-configure-domains-new": 10,
@@ -363,7 +363,8 @@
         "my-account-canvas-lti-config-setup": 1,
         "tickets": 41,
         "tickets-admin": 13,
-        "demo-ticketing": 11
+        "demo-ticketing": 11,
+        "my-account-configure-domains-edit": 17
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -3222,7 +3223,9 @@
         "t67": "TEXT_REPLY_DOMAIN_ENABLE_ERROR",
         "t68": "TEXT_MX_VERIFY_ERROR",
         "t69": "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN",
-        "t70": "TEXT_REPLY_DOMAIN_RATE_LIMITED"
+        "t70": "TEXT_REPLY_DOMAIN_RATE_LIMITED",
+        "t71": "TEXT_DOMAIN_EDITED_SUCCESS",
+        "t72": "LINK_EDIT"
     },
     "my-account-configure-domains-disable-auto-add-confirm": {
         "t1": "PAGE_TITLE",
@@ -7878,5 +7881,24 @@
         "t9": "DARK_MODE",
         "t10": "OUR_CUSTOMERS_SUBTEXT",
         "t11": "OUR_CUSTOMERS_BUTTON"
+    },
+    "my-account-configure-domains-edit": {
+        "t1": "PAGE_TITLE",
+        "t2": "HEADING_EDITING_DOMAIN",
+        "t3": "HEADING_EDIT_DOMAIN",
+        "t4": "LABEL_DOMAIN_NAME",
+        "t5": "PLACEHOLDER_DOMAIN_NAME",
+        "t6": "BUTTON_CANCEL",
+        "t7": "BUTTON_SAVE",
+        "t8": "HEADING_MIGRATION_OPTIONS",
+        "t9": "TEXT_MIGRATION_HELP",
+        "t10": "LABEL_MIGRATE_COMMENTS",
+        "t11": "HELP_MIGRATE_COMMENTS",
+        "t12": "LABEL_MIGRATE_WIDGET_CONFIG",
+        "t13": "LABEL_MIGRATE_API_KEYS",
+        "t14": "LABEL_MIGRATE_WEBHOOKS",
+        "t15": "LABEL_MIGRATE_EMAIL_TEMPLATES",
+        "t16": "LABEL_MIGRATE_INTEGRATIONS",
+        "t17": "LABEL_MIGRATE_SITES"
     }
 }

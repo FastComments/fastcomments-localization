@@ -1,0 +1,19 @@
+{
+    "PAGE_TITLE": "Modifier le domaine - FastComments",
+    "HEADING_EDITING_DOMAIN": "Édition <%= domainName %>",
+    "LABEL_DOMAIN_NAME": "Nom de domaine",
+    "BUTTON_SAVE": "Sauvegarder",
+    "BUTTON_CANCEL": "Annuler",
+    "PLACEHOLDER_DOMAIN_NAME": "Saisissez un domaine de premier niveau, comme fastcomments.com",
+    "HEADING_MIGRATION_OPTIONS": "Options de migration",
+    "LABEL_MIGRATE_COMMENTS": "Commentaires (<%= migrationCounts.comments %>)",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "Configurations des widgets (<%= migrationCounts.widgetConfig %>)",
+    "HELP_MIGRATE_COMMENTS": "Les commentaires sont transférés en arrière-plan et peuvent prendre quelques minutes.",
+    "LABEL_MIGRATE_WEBHOOKS": "Webhooks (<%= migrationCounts.webhooks %>)",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "Modèles d'e-mails (<%= migrationCounts.emailTemplates %>)",
+    "LABEL_MIGRATE_API_KEYS": "Clés API (<%= migrationCounts.apiKeys %>)",
+    "LABEL_MIGRATE_SITES": "Sites (<%= migrationCounts.sites %>)",
+    "LABEL_MIGRATE_INTEGRATIONS": "Intégrations (<%= migrationCounts.integrations %>)",
+    "TEXT_MIGRATION_HELP": "Si vous renommez ce domaine, les données suivantes pourront être transférées vers le nouveau nom de domaine. Décochez les éléments que vous ne souhaitez pas transférer.",
+    "HEADING_EDIT_DOMAIN": "Modifier le domaine"
+}

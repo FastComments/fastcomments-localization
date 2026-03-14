@@ -1,0 +1,19 @@
+{
+    "PAGE_TITLE": "Domein bewerken - FastComments",
+    "HEADING_EDITING_DOMAIN": "Bewerken <%= domainName %>",
+    "BUTTON_SAVE": "Redden",
+    "BUTTON_CANCEL": "Annuleren",
+    "LABEL_DOMAIN_NAME": "Domeinnaam",
+    "LABEL_MIGRATE_COMMENTS": "Opmerkingen (<%= migrationCounts.comments %>)",
+    "PLACEHOLDER_DOMAIN_NAME": "Voer een topdomein in, zoals fastcomments.com",
+    "HEADING_MIGRATION_OPTIONS": "Migratieopties",
+    "HEADING_EDIT_DOMAIN": "Domein bewerken",
+    "TEXT_MIGRATION_HELP": "Als u deze domeinnaam wijzigt, kunnen de volgende gegevens naar de nieuwe domeinnaam worden gemigreerd. Schakel de items uit die u niet wilt migreren.",
+    "HELP_MIGRATE_COMMENTS": "Reacties worden op de achtergrond gemigreerd en dit kan een paar minuten duren.",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "Widgetconfiguraties (<%= migrationCounts.widgetConfig %>)",
+    "LABEL_MIGRATE_WEBHOOKS": "Webhooks (<%= migrationCounts.webhooks %>)",
+    "LABEL_MIGRATE_SITES": "Locaties (<%= migrationCounts.sites %>)",
+    "LABEL_MIGRATE_API_KEYS": "API-sleutels (<%= migrationCounts.apiKeys %>)",
+    "LABEL_MIGRATE_INTEGRATIONS": "Integraties (<%= migrationCounts.integrations %>)",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "E-mailtemplates (<%= migrationCounts.emailTemplates %>)"
+}

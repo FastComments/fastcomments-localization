@@ -1,0 +1,19 @@
+{
+    "PAGE_TITLE": "Rediger domæne - FastComments",
+    "BUTTON_CANCEL": "Ophæve",
+    "BUTTON_SAVE": "Spare",
+    "LABEL_DOMAIN_NAME": "Domænenavn",
+    "HEADING_EDITING_DOMAIN": "Redigering <%= domainName %>",
+    "HEADING_EDIT_DOMAIN": "Rediger domæne",
+    "PLACEHOLDER_DOMAIN_NAME": "Indtast et topdomæne, f.eks. fastcomments.com",
+    "TEXT_MIGRATION_HELP": "Hvis du omdøber dette domæne, kan følgende data migreres til det nye domænenavn. Fjern markeringen i de elementer, du ikke vil migrere.",
+    "LABEL_MIGRATE_COMMENTS": "Kommentarer (<%= migrationCounts.comments %>)",
+    "HEADING_MIGRATION_OPTIONS": "Migreringsmuligheder",
+    "HELP_MIGRATE_COMMENTS": "Kommentarer migreres i baggrunden og kan tage et par minutter.",
+    "LABEL_MIGRATE_API_KEYS": "API-nøgler (<%= migrationCounts.apiKeys %>)",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "Widgetkonfigurationer (<%= migrationCounts.widgetConfig %>)",
+    "LABEL_MIGRATE_INTEGRATIONS": "Integrationer (<%= migrationCounts.integrations %>)",
+    "LABEL_MIGRATE_SITES": "Websteder (<%= migrationCounts.sites %>)",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "E-mailskabeloner (<%= migrationCounts.emailTemplates %>)",
+    "LABEL_MIGRATE_WEBHOOKS": "Webhooks (<%= migrationCounts.webhooks %>)"
+}

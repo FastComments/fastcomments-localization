@@ -1,0 +1,19 @@
+{
+    "LABEL_DOMAIN_NAME": "Alan Adı",
+    "BUTTON_CANCEL": "İptal etmek",
+    "BUTTON_SAVE": "Kaydetmek",
+    "PAGE_TITLE": "Alan Adını Düzenle - Hızlı Yorumlar",
+    "HEADING_EDITING_DOMAIN": "Düzenleme <%= domainName %>",
+    "HEADING_EDIT_DOMAIN": "Alan adını düzenle",
+    "PLACEHOLDER_DOMAIN_NAME": "fastcomments.com gibi üst düzey bir alan adı girin.",
+    "LABEL_MIGRATE_COMMENTS": "Yorumlar (<%= migrationCounts.comments %>)",
+    "HEADING_MIGRATION_OPTIONS": "Göç Seçenekleri",
+    "TEXT_MIGRATION_HELP": "Bu alan adını yeniden adlandırırsanız, aşağıdaki veriler yeni alan adına taşınabilir. Taşımak istemediğiniz öğelerin işaretini kaldırın.",
+    "LABEL_MIGRATE_API_KEYS": "API Anahtarları (<%= migrationCounts.apiKeys %>)",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "Widget Yapılandırmaları (<%= migrationCounts.widgetConfig %>)",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "E-posta Şablonları (<%= migrationCounts.emailTemplates %>)",
+    "LABEL_MIGRATE_INTEGRATIONS": "Entegrasyonlar (<%= migrationCounts.integrations %>)",
+    "LABEL_MIGRATE_WEBHOOKS": "Web kancaları (<%= migrationCounts.webhooks %>)",
+    "HELP_MIGRATE_COMMENTS": "Yorumlar arka planda taşınıyor ve birkaç dakika sürebilir.",
+    "LABEL_MIGRATE_SITES": "Siteler (<%= migrationCounts.sites %>)"
+}

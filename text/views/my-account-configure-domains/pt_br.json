@@ -66,5 +66,7 @@
     "TEXT_REPLY_DOMAIN_ENABLE_ERROR": "Não foi possível ativar o domínio de resposta. Tente novamente.",
     "TEXT_MX_VERIFY_ERROR": "Falha ao verificar os registros MX. Tente novamente.",
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "Prefixo de subdomínio inválido. Use apenas letras minúsculas, números e hífenes (deve começar e terminar com uma letra ou número, máximo de 63 caracteres).",
-    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Muitas solicitações. Tente novamente mais tarde."
+    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Muitas solicitações. Tente novamente mais tarde.",
+    "LINK_EDIT": "Editar",
+    "TEXT_DOMAIN_EDITED_SUCCESS": "Domínio atualizado com sucesso!"
 }

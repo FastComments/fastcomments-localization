@@ -1,0 +1,19 @@
+{
+    "LABEL_DOMAIN_NAME": "網域",
+    "BUTTON_CANCEL": "取消",
+    "BUTTON_SAVE": "節省",
+    "HEADING_MIGRATION_OPTIONS": "遷移選項",
+    "HEADING_EDIT_DOMAIN": "編輯域",
+    "HEADING_EDITING_DOMAIN": "編輯<%= domainName %>",
+    "LABEL_MIGRATE_COMMENTS": "評論 （<%= migrationCounts.comments %>）",
+    "PLACEHOLDER_DOMAIN_NAME": "輸入頂級域名，例如 fastcomments.com",
+    "TEXT_MIGRATION_HELP": "如果您重新命名此域名，以下資料可以遷移到新域名。取消選取您不想遷移的任何項目。",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "小工具配置（<%= migrationCounts.widgetConfig %>）",
+    "PAGE_TITLE": "編輯域名 - FastComments",
+    "HELP_MIGRATE_COMMENTS": "評論會在背景遷移，可能需要幾分鐘。",
+    "LABEL_MIGRATE_SITES": "網站（<%= migrationCounts.sites %>）",
+    "LABEL_MIGRATE_WEBHOOKS": "Webhooks（<%= migrationCounts.webhooks %>）",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "電子郵件範本（<%= migrationCounts.emailTemplates %>）",
+    "LABEL_MIGRATE_INTEGRATIONS": "積分（<%= migrationCounts.integrations %>）",
+    "LABEL_MIGRATE_API_KEYS": "API金鑰（<%= migrationCounts.apiKeys %>）"
+}

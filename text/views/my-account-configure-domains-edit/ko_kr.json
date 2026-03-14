@@ -1,0 +1,19 @@
+{
+    "PAGE_TITLE": "도메인 편집 - FastComments",
+    "HEADING_EDIT_DOMAIN": "도메인 편집",
+    "BUTTON_CANCEL": "취소",
+    "HEADING_EDITING_DOMAIN": "편집 중 <%= domainName %>",
+    "LABEL_DOMAIN_NAME": "도메인 이름",
+    "BUTTON_SAVE": "구하다",
+    "PLACEHOLDER_DOMAIN_NAME": "fastcomments.com과 같은 최상위 도메인을 입력하세요.",
+    "HEADING_MIGRATION_OPTIONS": "마이그레이션 옵션",
+    "HELP_MIGRATE_COMMENTS": "댓글은 백그라운드에서 이전되므로 몇 분 정도 소요될 수 있습니다.",
+    "TEXT_MIGRATION_HELP": "이 도메인의 이름을 변경하면 다음 데이터가 새 도메인으로 이전될 수 있습니다. 이전하지 않으려는 항목은 선택을 해제하세요.",
+    "LABEL_MIGRATE_COMMENTS": "댓글 (<%= migrationCounts.comments %>)",
+    "LABEL_MIGRATE_SITES": "사이트(<%= migrationCounts.sites %>)",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "위젯 구성 (<%= migrationCounts.widgetConfig %>)",
+    "LABEL_MIGRATE_WEBHOOKS": "웹훅(<%= migrationCounts.webhooks %>)",
+    "LABEL_MIGRATE_API_KEYS": "API 키 (<%= migrationCounts.apiKeys %>)",
+    "LABEL_MIGRATE_INTEGRATIONS": "통합 (<%= migrationCounts.integrations %>)",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "이메일 템플릿 (<%= migrationCounts.emailTemplates %>)"
+}

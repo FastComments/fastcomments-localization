@@ -66,5 +66,7 @@
     "TEXT_REPLY_DOMAIN_ENABLE_ERROR": "Nie udało się włączyć domeny odpowiedzi. Spróbuj ponownie.",
     "TEXT_MX_VERIFY_ERROR": "Nie udało się zweryfikować rekordów MX. Spróbuj ponownie.",
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "Nieprawidłowy prefiks subdomeny. Używaj tylko małych liter, cyfr i myślników (musi zaczynać się i kończyć literą lub cyfrą, maks. 63 znaki).",
-    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Zbyt wiele żądań. Spróbuj ponownie później."
+    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Zbyt wiele żądań. Spróbuj ponownie później.",
+    "LINK_EDIT": "Redagować",
+    "TEXT_DOMAIN_EDITED_SUCCESS": "Domena zaktualizowana pomyślnie!"
 }

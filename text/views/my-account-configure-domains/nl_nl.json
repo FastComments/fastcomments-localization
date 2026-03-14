@@ -66,5 +66,7 @@
     "TEXT_REPLY_DOMAIN_ENABLE_ERROR": "Het is niet gelukt om het antwoorddomein in te schakelen. Probeer het opnieuw.",
     "TEXT_MX_VERIFY_ERROR": "MX-records konden niet worden geverifieerd. Probeer het opnieuw.",
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "Ongeldig subdomeinvoorvoegsel. Gebruik alleen kleine letters, cijfers en koppeltekens (moet beginnen en eindigen met een letter of cijfer, maximaal 63 tekens).",
-    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Te veel aanvragen. Probeer het later opnieuw."
+    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Te veel aanvragen. Probeer het later opnieuw.",
+    "LINK_EDIT": "Bewerking",
+    "TEXT_DOMAIN_EDITED_SUCCESS": "Domein succesvol bijgewerkt!"
 }

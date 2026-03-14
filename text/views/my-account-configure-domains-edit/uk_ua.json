@@ -1,0 +1,19 @@
+{
+    "PAGE_TITLE": "Редагувати домен - FastComments",
+    "LABEL_DOMAIN_NAME": "Доменне ім'я",
+    "HEADING_EDIT_DOMAIN": "Редагувати домен",
+    "HEADING_EDITING_DOMAIN": "Редагування <%= domainName %>",
+    "BUTTON_CANCEL": "Скасувати",
+    "PLACEHOLDER_DOMAIN_NAME": "Введіть домен верхнього рівня, наприклад, fastcomments.com",
+    "BUTTON_SAVE": "Зберегти",
+    "TEXT_MIGRATION_HELP": "Якщо ви перейменуєте цей домен, на нове доменне ім’я можна буде перенести такі дані. Зніміть позначки з тих елементів, які ви не хочете переносити.",
+    "HEADING_MIGRATION_OPTIONS": "Варіанти міграції",
+    "LABEL_MIGRATE_COMMENTS": "Коментарі (<%= migrationCounts.comments %>)",
+    "HELP_MIGRATE_COMMENTS": "Коментарі переносяться у фоновому режимі та можуть тривати кілька хвилин.",
+    "LABEL_MIGRATE_WEBHOOKS": "Вебхуки (<%= migrationCounts.webhooks %>)",
+    "LABEL_MIGRATE_API_KEYS": "Ключі API (<%= migrationCounts.apiKeys %>)",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "Конфігурації віджетів (<%= migrationCounts.widgetConfig %>)",
+    "LABEL_MIGRATE_INTEGRATIONS": "Інтеграції (<%= migrationCounts.integrations %>)",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "Шаблони електронних листів (<%= migrationCounts.emailTemplates %>)",
+    "LABEL_MIGRATE_SITES": "Сайти (<%= migrationCounts.sites %>)"
+}

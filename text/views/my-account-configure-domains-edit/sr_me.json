@@ -1,0 +1,19 @@
+{
+    "PAGE_TITLE": "Измена домена - Брзи коментари",
+    "HEADING_EDIT_DOMAIN": "Измени домен",
+    "HEADING_EDITING_DOMAIN": "Уређивање <%= domainName %>",
+    "PLACEHOLDER_DOMAIN_NAME": "Унесите домен највишег нивоа, као што је fastcomments.com",
+    "LABEL_DOMAIN_NAME": "Име домена",
+    "BUTTON_SAVE": "Сачувај",
+    "BUTTON_CANCEL": "Откажи",
+    "LABEL_MIGRATE_COMMENTS": "Коментари (<%= migrationCounts.comments %>)",
+    "TEXT_MIGRATION_HELP": "Ако преименујете овај домен, следећи подаци могу бити мигрирани на ново име домена. Опозовите избор свих ставки које не желите да мигрирате.",
+    "HELP_MIGRATE_COMMENTS": "Коментари се мигрирају у позадини и може потрајати неколико минута.",
+    "HEADING_MIGRATION_OPTIONS": "Опције миграције",
+    "LABEL_MIGRATE_WEBHOOKS": "Вебхукови (<%= migrationCounts.webhooks %>)",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "Конфигурације виџета (<%= migrationCounts.widgetConfig %>)",
+    "LABEL_MIGRATE_API_KEYS": "API кључеви (<%= migrationCounts.apiKeys %>)",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "Шаблони имејлова (<%= migrationCounts.emailTemplates %>)",
+    "LABEL_MIGRATE_INTEGRATIONS": "Интеграције (<%= migrationCounts.integrations %>)",
+    "LABEL_MIGRATE_SITES": "Сајтови (<%= migrationCounts.sites %>)"
+}

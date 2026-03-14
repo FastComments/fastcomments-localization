@@ -1,0 +1,19 @@
+{
+    "BUTTON_SAVE": "Εκτός",
+    "BUTTON_CANCEL": "Ματαίωση",
+    "PAGE_TITLE": "Επεξεργασία τομέα - FastComments",
+    "HEADING_EDITING_DOMAIN": "Επεξεργασία <%= domainName %>",
+    "HEADING_EDIT_DOMAIN": "Επεξεργασία τομέα",
+    "HEADING_MIGRATION_OPTIONS": "Επιλογές μετεγκατάστασης",
+    "LABEL_DOMAIN_NAME": "Όνομα τομέα",
+    "PLACEHOLDER_DOMAIN_NAME": "Εισαγάγετε έναν τομέα ανώτατου επιπέδου, όπως fastcomments.com",
+    "TEXT_MIGRATION_HELP": "Εάν μετονομάσετε αυτόν τον τομέα, τα ακόλουθα δεδομένα μπορούν να μετεγκατασταθούν στο νέο όνομα τομέα. Αποεπιλέξτε τυχόν στοιχεία που δεν θέλετε να μετεγκατασταθούν.",
+    "LABEL_MIGRATE_COMMENTS": "Σχόλια (<%= migrationCounts.comments %>)",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "Διαμορφώσεις γραφικών στοιχείων (<%= migrationCounts.widgetConfig %>)",
+    "LABEL_MIGRATE_SITES": "Ιστότοποι (<%= migrationCounts.sites %>)",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "Πρότυπα ηλεκτρονικού ταχυδρομείου (<%= migrationCounts.emailTemplates %>)",
+    "LABEL_MIGRATE_INTEGRATIONS": "Ενσωματώσεις (<%= migrationCounts.integrations %>)",
+    "LABEL_MIGRATE_WEBHOOKS": "Ιστοσελίδες (<%= migrationCounts.webhooks %>)",
+    "LABEL_MIGRATE_API_KEYS": "Κλειδιά API (<%= migrationCounts.apiKeys %>)",
+    "HELP_MIGRATE_COMMENTS": "Τα σχόλια μεταφέρονται στο παρασκήνιο και ενδέχεται να χρειαστούν μερικά λεπτά."
+}

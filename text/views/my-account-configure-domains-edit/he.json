@@ -1,0 +1,19 @@
+{
+    "BUTTON_SAVE": "לְהַצִיל",
+    "BUTTON_CANCEL": "לְבַטֵל",
+    "HEADING_EDIT_DOMAIN": "עריכת דומיין",
+    "HEADING_EDITING_DOMAIN": "עריכה <%= domainName %>",
+    "LABEL_DOMAIN_NAME": "שם הדומיין",
+    "PLACEHOLDER_DOMAIN_NAME": "הזן דומיין ברמה עליונה, כמו fastcomments.com",
+    "HEADING_MIGRATION_OPTIONS": "אפשרויות הגירה",
+    "TEXT_MIGRATION_HELP": "אם תשנה את שם הדומיין הזה, ניתן יהיה להעביר את הנתונים הבאים לשם הדומיין החדש. בטל את הסימון של כל פריט שאינך רוצה להעביר.",
+    "PAGE_TITLE": "עריכת דומיין - FastComments",
+    "LABEL_MIGRATE_COMMENTS": "תגובות (<%= migrationCounts.comments %>)",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "תבניות דוא\"ל (<%= migrationCounts.emailTemplates %>)",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "תצורות ווידג'ט (<%= migrationCounts.widgetConfig %>)",
+    "LABEL_MIGRATE_SITES": "אתרים (<%= migrationCounts.sites %>)",
+    "LABEL_MIGRATE_WEBHOOKS": "וו-ווים (<%= migrationCounts.webhooks %>)",
+    "HELP_MIGRATE_COMMENTS": "התגובות מועברות ברקע ועשויות להימשך מספר דקות.",
+    "LABEL_MIGRATE_INTEGRATIONS": "אינטגרציות (<%= migrationCounts.integrations %>)",
+    "LABEL_MIGRATE_API_KEYS": "מפתחות API (<%= migrationCounts.apiKeys %>)"
+}

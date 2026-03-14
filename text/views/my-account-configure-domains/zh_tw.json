@@ -66,5 +66,7 @@
     "TEXT_REPLY_DOMAIN_ENABLE_ERROR": "回復網域啟用失敗，請重試。",
     "TEXT_MX_VERIFY_ERROR": "MX記錄驗證失敗，請重試。",
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "無效的子網域前綴。請僅使用小寫字母、數字和連字符（必須以字母或數字開頭和結尾，最多 63 個字元）。",
-    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "請求次數過多，請稍後再試。"
+    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "請求次數過多，請稍後再試。",
+    "LINK_EDIT": "編輯",
+    "TEXT_DOMAIN_EDITED_SUCCESS": "域名更新成功！"
 }

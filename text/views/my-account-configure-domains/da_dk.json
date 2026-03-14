@@ -66,5 +66,7 @@
     "TEXT_REPLY_DOMAIN_ENABLE_ERROR": "Kunne ikke aktivere svardomænet. Prøv igen.",
     "TEXT_MX_VERIFY_ERROR": "MX-poster kunne ikke bekræftes. Prøv igen.",
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "Ugyldigt underdomænepræfiks. Brug kun små bogstaver, tal og bindestreger (skal starte og slutte med et bogstav eller tal, maks. 63 tegn).",
-    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "For mange anmodninger. Prøv igen senere."
+    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "For mange anmodninger. Prøv igen senere.",
+    "LINK_EDIT": "Redigere",
+    "TEXT_DOMAIN_EDITED_SUCCESS": "Domænet er blevet opdateret!"
 }

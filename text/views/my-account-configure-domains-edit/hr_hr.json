@@ -1,0 +1,19 @@
+{
+    "HEADING_EDITING_DOMAIN": "Uređivanje <%= domainName %>",
+    "PAGE_TITLE": "Uredi domenu - Brzi komentari",
+    "BUTTON_CANCEL": "Otkazati",
+    "BUTTON_SAVE": "Uštedjeti",
+    "LABEL_DOMAIN_NAME": "Naziv domene",
+    "HEADING_EDIT_DOMAIN": "Uredi domenu",
+    "LABEL_MIGRATE_COMMENTS": "Komentari (<%= migrationCounts.comments %>)",
+    "HEADING_MIGRATION_OPTIONS": "Mogućnosti migracije",
+    "PLACEHOLDER_DOMAIN_NAME": "Unesite domenu najviše razine, kao što je fastcomments.com",
+    "TEXT_MIGRATION_HELP": "Ako preimenujete ovu domenu, sljedeći podaci mogu se migrirati na novi naziv domene. Poništite odabir svih stavki koje ne želite migrirati.",
+    "LABEL_MIGRATE_WEBHOOKS": "Webhookovi (<%= migrationCounts.webhooks %>)",
+    "LABEL_MIGRATE_API_KEYS": "API ključevi (<%= migrationCounts.apiKeys %>)",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "Konfiguracije widgeta (<%= migrationCounts.widgetConfig %>)",
+    "HELP_MIGRATE_COMMENTS": "Komentari se migriraju u pozadini i to može potrajati nekoliko minuta.",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "Predlošci e-pošte (<%= migrationCounts.emailTemplates %>)",
+    "LABEL_MIGRATE_INTEGRATIONS": "Integracije (<%= migrationCounts.integrations %>)",
+    "LABEL_MIGRATE_SITES": "Stranice (<%= migrationCounts.sites %>)"
+}

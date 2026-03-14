@@ -1,0 +1,19 @@
+{
+    "PAGE_TITLE": "Edit Domain - FastComments",
+    "HEADING_EDITING_DOMAIN": "Editing <%= domainName %>",
+    "HEADING_EDIT_DOMAIN": "Edit Domain",
+    "LABEL_DOMAIN_NAME": "Domain Name",
+    "PLACEHOLDER_DOMAIN_NAME": "Enter a top-level domain, like fastcomments.com",
+    "BUTTON_CANCEL": "Cancel",
+    "BUTTON_SAVE": "Save",
+    "HEADING_MIGRATION_OPTIONS": "Migration Options",
+    "TEXT_MIGRATION_HELP": "If you rename this domain, the following data can be migrated to the new domain name. Uncheck any items you do not want to migrate.",
+    "LABEL_MIGRATE_COMMENTS": "Comments (<%= migrationCounts.comments %>)",
+    "HELP_MIGRATE_COMMENTS": "Comments are migrated in the background and may take a few minutes.",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "Widget Configurations (<%= migrationCounts.widgetConfig %>)",
+    "LABEL_MIGRATE_API_KEYS": "API Keys (<%= migrationCounts.apiKeys %>)",
+    "LABEL_MIGRATE_WEBHOOKS": "Webhooks (<%= migrationCounts.webhooks %>)",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "Email Templates (<%= migrationCounts.emailTemplates %>)",
+    "LABEL_MIGRATE_INTEGRATIONS": "Integrations (<%= migrationCounts.integrations %>)",
+    "LABEL_MIGRATE_SITES": "Sites (<%= migrationCounts.sites %>)"
+}

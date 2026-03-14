@@ -66,5 +66,7 @@
     "TEXT_REPLY_DOMAIN_ENABLE_ERROR": "Nije uspjelo omogućiti domenu za odgovor. Pokušajte ponovno.",
     "TEXT_MX_VERIFY_ERROR": "Nije uspjela provjera MX zapisa. Pokušajte ponovno.",
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "Nevažeći prefiks poddomene. Koristite samo mala slova, brojeve i crtice (mora započeti i završiti slovom ili brojem, maksimalno 63 znaka).",
-    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Previše zahtjeva. Pokušajte ponovno kasnije."
+    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Previše zahtjeva. Pokušajte ponovno kasnije.",
+    "TEXT_DOMAIN_EDITED_SUCCESS": "Domena je uspješno ažurirana!",
+    "LINK_EDIT": "Uredi"
 }

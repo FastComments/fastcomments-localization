@@ -66,5 +66,7 @@
     "TEXT_REPLY_DOMAIN_ENABLE_ERROR": "Die Antwortdomäne konnte nicht aktiviert werden. Bitte versuchen Sie es erneut.",
     "TEXT_MX_VERIFY_ERROR": "Die Überprüfung der MX-Einträge ist fehlgeschlagen. Bitte versuchen Sie es erneut.",
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "Ungültiges Subdomain-Präfix. Verwenden Sie nur Kleinbuchstaben, Zahlen und Bindestriche (muss mit einem Buchstaben oder einer Zahl beginnen und enden, maximal 63 Zeichen).",
-    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Zu viele Anfragen. Bitte versuchen Sie es später erneut."
+    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Zu viele Anfragen. Bitte versuchen Sie es später erneut.",
+    "LINK_EDIT": "Bearbeiten",
+    "TEXT_DOMAIN_EDITED_SUCCESS": "Domain erfolgreich aktualisiert!"
 }

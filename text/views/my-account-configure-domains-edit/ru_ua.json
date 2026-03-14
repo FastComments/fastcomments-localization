@@ -1,0 +1,19 @@
+{
+    "LABEL_DOMAIN_NAME": "Доменное имя",
+    "BUTTON_CANCEL": "Отмена",
+    "BUTTON_SAVE": "Сохранять",
+    "HEADING_EDITING_DOMAIN": "Редактирование <%= domainName %>",
+    "HEADING_MIGRATION_OPTIONS": "Варианты миграции",
+    "HEADING_EDIT_DOMAIN": "Редактировать домен",
+    "PAGE_TITLE": "Редактировать домен - FastComments",
+    "PLACEHOLDER_DOMAIN_NAME": "Введите домен верхнего уровня, например, fastcomments.com.",
+    "TEXT_MIGRATION_HELP": "При переименовании этого домена следующие данные могут быть перенесены на новое доменное имя. Снимите флажки с тех элементов, которые вы не хотите переносить.",
+    "HELP_MIGRATE_COMMENTS": "Перенос комментариев происходит в фоновом режиме и может занять несколько минут.",
+    "LABEL_MIGRATE_API_KEYS": "Ключи API (<%= migrationCounts.apiKeys %>)",
+    "LABEL_MIGRATE_COMMENTS": "Комментарии (<%= migrationCounts.comments %>)",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "Настройки виджета (<%= migrationCounts.widgetConfig %>)",
+    "LABEL_MIGRATE_WEBHOOKS": "Вебхуки (<%= migrationCounts.webhooks %>)",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "Шаблоны электронных писем (<%= migrationCounts.emailTemplates %>)",
+    "LABEL_MIGRATE_SITES": "Сайты (<%= migrationCounts.sites %>)",
+    "LABEL_MIGRATE_INTEGRATIONS": "Интеграции (<%= migrationCounts.integrations %>)"
+}

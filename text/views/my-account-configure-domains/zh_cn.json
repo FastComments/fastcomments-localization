@@ -66,5 +66,7 @@
     "TEXT_REPLY_DOMAIN_ENABLE_ERROR": "回复域启用失败，请重试。",
     "TEXT_MX_VERIFY_ERROR": "MX记录验证失败，请重试。",
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "无效的子域名前缀。请仅使用小写字母、数字和连字符（必须以字母或数字开头和结尾，最多 63 个字符）。",
-    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "请求次数过多，请稍后再试。"
+    "TEXT_REPLY_DOMAIN_RATE_LIMITED": "请求次数过多，请稍后再试。",
+    "TEXT_DOMAIN_EDITED_SUCCESS": "域名更新成功！",
+    "LINK_EDIT": "编辑"
 }
