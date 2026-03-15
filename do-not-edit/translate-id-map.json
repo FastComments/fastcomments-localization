@@ -270,7 +270,7 @@
         "privacy-policy": 113,
         "product-demo-collab-chat": 27,
         "product-demo-image-chat": 7,
-        "product-demo-live-chat": 8,
+        "product-demo-live-chat": 12,
         "profile-comment-approve-success": 5,
         "profile-comment-reject-success": 5,
         "public-installation-wizard": 5,
@@ -5707,7 +5707,11 @@
         "t5": "HERO_DESCRIPTION",
         "t6": "INTRO_TWO_CHATS",
         "t7": "INTRO_ONE_CHAT",
-        "t8": "OUTRO_TEXT"
+        "t8": "OUTRO_TEXT",
+        "t9": "LABEL_USER_A",
+        "t10": "LABEL_USER_B",
+        "t11": "BADGE_LIVE",
+        "t12": "SYNC_CTA"
     },
     "profile-comment-approve-success": {
         "t1": "PAGE_TITLE",
