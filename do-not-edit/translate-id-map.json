@@ -369,7 +369,7 @@
         "drupal": 110,
         "shopify-add-domain": 11,
         "shopify-entrypoint": 11,
-        "shopify-success": 18
+        "shopify-success": 22
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -8086,6 +8086,10 @@
         "t15": "SETTINGS_LINK_TEXT",
         "t16": "BUTTON_SUBSCRIBE",
         "t17": "BUTTON_MANAGE_SUBSCRIPTION",
-        "t18": "BUTTON_DASHBOARD"
+        "t18": "BUTTON_DASHBOARD",
+        "t19": "BUTTON_CUSTOMIZE",
+        "t20": "BUTTON_ADD_USERS",
+        "t21": "BUTTON_MODERATE",
+        "t22": "BUTTON_ACCOUNT_HOME"
     }
 }
