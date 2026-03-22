@@ -366,7 +366,10 @@
         "tickets-admin": 13,
         "demo-ticketing": 11,
         "my-account-configure-domains-edit": 17,
-        "drupal": 110
+        "drupal": 110,
+        "shopify-add-domain": 11,
+        "shopify-entrypoint": 11,
+        "shopify-success": 18
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -8038,5 +8041,51 @@
         "t108": "FAQ_DRUPAL_MULTILINGUAL_ANSWER",
         "t109": "FINAL_CTA_TITLE",
         "t110": "FINAL_CTA_DESCRIPTION"
+    },
+    "shopify-add-domain": {
+        "t1": "PAGE_TITLE",
+        "t2": "META_DESCRIPTION",
+        "t3": "STEP_LABEL",
+        "t4": "HEADING",
+        "t5": "DESCRIPTION",
+        "t6": "DOMAIN_LABEL",
+        "t7": "WHAT_HAPPENS_HEADING",
+        "t8": "WHAT_HAPPENS_TEXT",
+        "t9": "BUTTON_CONNECT",
+        "t10": "MANAGE_DOMAINS_NOTE",
+        "t11": "MANAGE_DOMAINS_LINK_TEXT"
+    },
+    "shopify-entrypoint": {
+        "t1": "PAGE_TITLE",
+        "t2": "META_DESCRIPTION",
+        "t3": "STEP_LABEL",
+        "t4": "HEADING",
+        "t5": "DESCRIPTION",
+        "t6": "SHOP_DOMAIN_LABEL",
+        "t7": "HAVE_ACCOUNT_HEADING",
+        "t8": "BUTTON_LOGIN",
+        "t9": "BUTTON_SIGNUP",
+        "t10": "ERROR_INVALID_HMAC",
+        "t11": "ERROR_MISSING_SHOP"
+    },
+    "shopify-success": {
+        "t1": "PAGE_TITLE",
+        "t2": "META_DESCRIPTION",
+        "t3": "STEP_LABEL",
+        "t4": "HEADING",
+        "t5": "DESCRIPTION",
+        "t6": "TENANT_ID_LABEL",
+        "t7": "COPY_BUTTON",
+        "t8": "COPIED_BUTTON",
+        "t9": "HOW_TO_HEADING",
+        "t10": "HOW_TO_STEP_1",
+        "t11": "HOW_TO_STEP_2",
+        "t12": "HOW_TO_STEP_3",
+        "t13": "HOW_TO_STEP_4",
+        "t14": "FIND_LATER_NOTE",
+        "t15": "SETTINGS_LINK_TEXT",
+        "t16": "BUTTON_SUBSCRIBE",
+        "t17": "BUTTON_MANAGE_SUBSCRIPTION",
+        "t18": "BUTTON_DASHBOARD"
     }
 }
