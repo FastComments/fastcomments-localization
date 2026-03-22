@@ -8,16 +8,17 @@
     "COPIED_BUTTON": "Kopieret!",
     "TENANT_ID_LABEL": "Dit lejer-ID",
     "HOW_TO_HEADING": "Sådan tilføjer du kommentarer til din butik",
-    "HOW_TO_STEP_4": "Gem og udgiv. Kommentarer er live!",
+    "HOW_TO_STEP_4": "Gem og udgiv. Kommentarer er live! Kunder, der er logget ind, identificeres automatisk via SSO.",
     "FIND_LATER_NOTE": "Du kan altid finde dit lejer-ID senere på",
-    "HOW_TO_STEP_2": "Tilføj en <b>FastComments-</b> blok til enhver sideskabelon",
+    "HOW_TO_STEP_2": "Klik på <b>Tilføj sektion</b> , og se derefter under <b>Apps</b> for at finde FastComments-blokke",
     "HOW_TO_STEP_1": "Åbn din Shopify-administrator og gå til <b>Webshop → Temaer → Tilpas</b>",
     "BUTTON_MANAGE_SUBSCRIPTION": "Administrer abonnement",
-    "HOW_TO_STEP_3": "Indsæt dit <b>lejer-ID</b> i blokindstillingerne",
+    "HOW_TO_STEP_3": "Tilføj en <b>FastComments-</b> blok, og indsæt dit <b>lejer-ID</b> i blokindstillingerne",
     "BUTTON_SUBSCRIBE": "Start abonnement",
     "SETTINGS_LINK_TEXT": "Indstillinger → API/SSO",
     "BUTTON_MODERATE": "Moderat",
     "BUTTON_ADD_USERS": "Tilføj brugere",
     "BUTTON_CUSTOMIZE": "Tilpas",
-    "BUTTON_ACCOUNT_HOME": "Konto Hjem"
+    "BUTTON_ACCOUNT_HOME": "Konto Hjem",
+    "HOW_TO_STEP_5": "Udforsk yderligere widgets som f.eks. <b>Seneste kommentarer</b> , <b>Seneste diskussioner</b> , <b>Topsider</b> og <b>Kommentarantal</b>"
 }

@@ -8,10 +8,10 @@
     "TENANT_ID_LABEL": "Uw huurders-ID",
     "DESCRIPTION": "Je Shopify-winkel is nu gekoppeld aan FastComments. Nog één ding: kopieer je tenant-ID naar de thema-blokken van je Shopify-winkel.",
     "HOW_TO_HEADING": "Hoe voeg je reacties toe aan je winkel?",
-    "HOW_TO_STEP_4": "Opslaan en publiceren. Reacties zijn live!",
+    "HOW_TO_STEP_4": "Opslaan en publiceren. Reacties zijn live! Ingelogde klanten worden automatisch geïdentificeerd via SSO.",
     "HOW_TO_STEP_1": "Open je Shopify-beheerpaneel en ga naar <b>Online winkel → Thema&#39;s → Aanpassen.</b>",
-    "HOW_TO_STEP_3": "Plak uw <b>huurders-ID</b> in de blokinstellingen.",
-    "HOW_TO_STEP_2": "Voeg een <b>FastComments-</b> blok toe aan elke paginasjabloon.",
+    "HOW_TO_STEP_3": "Voeg een <b>FastComments-</b> blok toe en plak uw <b>tenant-ID</b> in de blokinstellingen.",
+    "HOW_TO_STEP_2": "Klik op <b>&#39;Sectie toevoegen&#39;</b> en zoek vervolgens onder <b>&#39;Apps&#39;</b> naar de FastComments-blokken.",
     "BUTTON_MANAGE_SUBSCRIPTION": "Abonnement beheren",
     "SETTINGS_LINK_TEXT": "Instellingen → API/SSO",
     "FIND_LATER_NOTE": "U kunt uw huurders-ID later altijd terugvinden op",
@@ -19,5 +19,6 @@
     "BUTTON_CUSTOMIZE": "Aanpassen",
     "BUTTON_MODERATE": "Gematigd",
     "BUTTON_ACCOUNT_HOME": "Account Home",
-    "BUTTON_ADD_USERS": "Gebruikers toevoegen"
+    "BUTTON_ADD_USERS": "Gebruikers toevoegen",
+    "HOW_TO_STEP_5": "Ontdek extra widgets zoals <b>Recente reacties</b> , <b>Recente discussies</b> , <b>Populaire pagina&#39;s</b> en <b>Aantal reacties.</b>"
 }

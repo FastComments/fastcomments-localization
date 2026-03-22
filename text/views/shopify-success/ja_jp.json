@@ -8,9 +8,9 @@
     "COPY_BUTTON": "コピー",
     "TENANT_ID_LABEL": "テナントID",
     "HOW_TO_HEADING": "ストアにコメントを追加する方法",
-    "HOW_TO_STEP_4": "保存して公開します。コメントは公開中です！",
-    "HOW_TO_STEP_3": "<b>テナントID</b>をブロック設定に貼り付けてください",
-    "HOW_TO_STEP_2": "任意のページテンプレートに<b>FastComments</b>ブロックを追加する",
+    "HOW_TO_STEP_4": "保存して公開します。コメントは公開中です！ログイン済みのお客様はSSO（シングルサインオン）により自動的に識別されます。",
+    "HOW_TO_STEP_3": "<b>FastComments</b>ブロックを追加し、ブロック設定に<b>テナントID</b>を貼り付けてください。",
+    "HOW_TO_STEP_2": "<b>「セクションを追加」</b>をクリックし、 <b>「アプリ」</b>の下にある「FastCommentsブロック」を探してください。",
     "FIND_LATER_NOTE": "テナントIDは後でいつでも確認できます。",
     "SETTINGS_LINK_TEXT": "設定 → API/SSO",
     "BUTTON_SUBSCRIBE": "購読を開始する",
@@ -19,5 +19,6 @@
     "BUTTON_CUSTOMIZE": "カスタマイズ",
     "BUTTON_ADD_USERS": "ユーザーを追加する",
     "BUTTON_MODERATE": "適度",
-    "BUTTON_ACCOUNT_HOME": "アカウントホーム"
+    "BUTTON_ACCOUNT_HOME": "アカウントホーム",
+    "HOW_TO_STEP_5": "<b>最近のコメント</b>、<b>最近のディスカッション</b>、<b>人気ページ</b>、<b>コメント数</b>などのその他のウィジェットもご覧ください。"
 }

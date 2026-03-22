@@ -9,15 +9,16 @@
     "TENANT_ID_LABEL": "Vaš ID najmoprimca",
     "DESCRIPTION": "Vaša Shopify trgovina sada je povezana s FastCommentsima. Još jedna stvar: kopirajte svoj Tenant ID u blokove Shopify teme.",
     "HOW_TO_STEP_1": "Otvorite administratorsku stranicu Shopifyja i idite na <b>Online trgovina → Teme → Prilagodi</b>",
-    "HOW_TO_STEP_2": "Dodajte blok <b>FastComments</b> bilo kojem predlošku stranice",
-    "HOW_TO_STEP_3": "Zalijepite svoj <b>ID najmoprimca</b> u postavke bloka",
+    "HOW_TO_STEP_2": "Kliknite <b>Dodaj odjeljak</b> , a zatim potražite pod <b>Aplikacije</b> blokove FastComments",
+    "HOW_TO_STEP_3": "Dodajte blok <b>FastComments</b> i zalijepite svoj <b>ID najmoprimca</b> u postavke bloka",
     "FIND_LATER_NOTE": "Svoj ID najmoprimca uvijek možete kasnije pronaći na",
     "SETTINGS_LINK_TEXT": "Postavke → API/SSO",
-    "HOW_TO_STEP_4": "Spremi i objavi. Komentari su dostupni!",
+    "HOW_TO_STEP_4": "Spremi i objavi. Komentari su aktivni! Prijavljeni korisnici se automatski identificiraju putem SSO-a.",
     "BUTTON_MANAGE_SUBSCRIPTION": "Upravljanje pretplatom",
     "BUTTON_SUBSCRIBE": "Započni pretplatu",
     "BUTTON_MODERATE": "Umjereno",
     "BUTTON_CUSTOMIZE": "Prilagodi",
     "BUTTON_ACCOUNT_HOME": "Početna stranica računa",
-    "BUTTON_ADD_USERS": "Dodaj korisnike"
+    "BUTTON_ADD_USERS": "Dodaj korisnike",
+    "HOW_TO_STEP_5": "Istražite dodatne widgete poput <b>Nedavnih komentara</b> , <b>Nedavnih rasprava</b> , <b>Najpopularnijih stranica</b> i <b>Broja komentara</b>"
 }

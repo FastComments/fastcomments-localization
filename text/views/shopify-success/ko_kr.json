@@ -8,16 +8,17 @@
     "DESCRIPTION": "이제 Shopify 스토어가 FastComments에 연결되었습니다. 마지막으로, 테넌트 ID를 Shopify 테마 블록에 복사해 두세요.",
     "TENANT_ID_LABEL": "임차인 ID",
     "HOW_TO_HEADING": "상점에 댓글을 추가하는 방법",
-    "HOW_TO_STEP_2": "<b>FastComments</b> 블록을 모든 페이지 템플릿에 추가하세요.",
-    "HOW_TO_STEP_3": "차단 설정에 <b>테넌트 ID를</b> 붙여넣으세요.",
+    "HOW_TO_STEP_2": "<b>&#39;섹션 추가&#39;를</b> 클릭한 다음 <b>&#39;앱&#39;</b> 아래에서 FastComments 블록을 찾으세요.",
+    "HOW_TO_STEP_3": "<b>FastComments</b> 블록을 추가하고 블록 설정에 <b>테넌트 ID를</b> 붙여넣으세요.",
     "HOW_TO_STEP_1": "Shopify 관리자 페이지를 열고 <b>온라인 스토어 → 테마 → 사용자 정의</b> 로 이동하세요.",
     "BUTTON_SUBSCRIBE": "구독 시작하기",
     "SETTINGS_LINK_TEXT": "설정 → API/SSO",
     "BUTTON_MANAGE_SUBSCRIPTION": "구독 관리",
     "FIND_LATER_NOTE": "임차인 ID는 나중에 언제든지 확인할 수 있습니다.",
-    "HOW_TO_STEP_4": "저장 후 게시하세요. 댓글 기능을 사용할 수 있습니다!",
+    "HOW_TO_STEP_4": "저장 후 게시하세요. 댓글 기능이 활성화되었습니다! 로그인한 고객은 SSO를 통해 자동으로 식별됩니다.",
     "BUTTON_ADD_USERS": "사용자 추가",
     "BUTTON_CUSTOMIZE": "맞춤 설정",
     "BUTTON_ACCOUNT_HOME": "계정 홈",
-    "BUTTON_MODERATE": "보통의"
+    "BUTTON_MODERATE": "보통의",
+    "HOW_TO_STEP_5": "<b>최근 댓글</b> , <b>최근 토론</b> , <b>인기 페이지</b> , <b>댓글 수</b> 등 추가 위젯을 살펴보세요."
 }
