@@ -22,8 +22,9 @@
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
         "comment-ui": 392,
-        "recent-comments": 13,
-        "top-pages": 1,
+        "recent-comments": 15,
+        "top-pages": 3,
+        "recent-discussions": 3,
         "user-help-acknowledged": 6,
         "common": 36,
         "tenant-user-removed-from-tenant": 5,
@@ -63,7 +64,7 @@
         "comment-list-manager": 190,
         "confirm-dialog-component": 2,
         "dialog-component": 2,
-        "header-component": 20,
+        "header-component": 21,
         "localized-list": 3,
         "manage-my-badges-dialog-component": 12,
         "moderate-user-badges-dialog-component": 13,
@@ -254,7 +255,7 @@
         "my-account-users-user-invite-failure": 5,
         "my-account-users-user-invite-success": 5,
         "my-account-widget": 27,
-        "my-account-widgets": 24,
+        "my-account-widgets": 30,
         "my-account-wp-connect": 11,
         "my-account-wp-sso-enable": 9,
         "my-account-wp-sync": 5,
@@ -266,7 +267,7 @@
         "notification-opt-out-comment-success": 5,
         "pending-tenant-signup-success": 6,
         "pricing-calculator-tier": 7,
-        "pricing-v2": 28,
+        "pricing-v2": 29,
         "privacy-policy": 113,
         "product-demo-collab-chat": 27,
         "product-demo-image-chat": 7,
@@ -717,10 +718,19 @@
         "t10": "DAYS_AGO",
         "t11": "WEEKS_AGO",
         "t12": "MONTHS_AGO",
-        "t13": "YEARS_AGO"
+        "t13": "YEARS_AGO",
+        "t14": "HEADING",
+        "t15": "WEEK_AGO"
     },
     "top-pages": {
-        "t1": "NO_PAGES_WITH_COMMENTS"
+        "t1": "NO_PAGES_WITH_COMMENTS",
+        "t2": "HEADING",
+        "t3": "LAST_ACTIVITY"
+    },
+    "recent-discussions": {
+        "t1": "HEADING",
+        "t2": "LAST_ACTIVITY",
+        "t3": "NO_RECENT_DISCUSSIONS"
     },
     "user-help-acknowledged": {
         "t1": "FROM_NAME",
@@ -1672,7 +1682,8 @@
         "t17": "HEADER_CHANGE_PASSWORD",
         "t18": "HEADER_SENT_EMAILS",
         "t19": "HEADER_LOGOUT",
-        "t20": "HEADER_LOGOUT_CONFIRM"
+        "t20": "HEADER_LOGOUT_CONFIRM",
+        "t21": "HEADER_DISMISS"
     },
     "localized-list": {
         "t1": "LIST_SEPARATOR",
@@ -5430,7 +5441,13 @@
         "t21": "WIDGET_RECENT_COMMENTS_TITLE",
         "t22": "WIDGET_RECENT_COMMENTS_DESCRIPTION",
         "t23": "WIDGET_TOP_PAGES_TITLE",
-        "t24": "WIDGET_TOP_PAGES_DESCRIPTION"
+        "t24": "WIDGET_TOP_PAGES_DESCRIPTION",
+        "t25": "WIDGET_RECENT_COMMENTS_V2_TITLE",
+        "t26": "WIDGET_RECENT_COMMENTS_V2_DESCRIPTION",
+        "t27": "WIDGET_TOP_PAGES_V2_TITLE",
+        "t28": "WIDGET_TOP_PAGES_V2_DESCRIPTION",
+        "t29": "WIDGET_RECENT_DISCUSSIONS_V2_TITLE",
+        "t30": "WIDGET_RECENT_DISCUSSIONS_V2_DESCRIPTION"
     },
     "my-account-wp-connect": {
         "t1": "PAGE_TITLE",
@@ -5546,7 +5563,8 @@
         "t25": "SMALL_WIDGET_CREDITS",
         "t26": "PER_MODERATOR",
         "t27": "PER_ADMIN_FIRST_FREE",
-        "t28": "ARIA_FREE_TRIAL"
+        "t28": "ARIA_FREE_TRIAL",
+        "t29": "META_DESCRIPTION"
     },
     "privacy-policy": {
         "t1": "PAGE_TITLE",
