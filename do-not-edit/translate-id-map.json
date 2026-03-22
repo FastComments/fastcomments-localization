@@ -255,7 +255,7 @@
         "my-account-users-user-invite-failure": 5,
         "my-account-users-user-invite-success": 5,
         "my-account-widget": 27,
-        "my-account-widgets": 30,
+        "my-account-widgets": 32,
         "my-account-wp-connect": 11,
         "my-account-wp-sso-enable": 9,
         "my-account-wp-sync": 5,
@@ -5447,7 +5447,9 @@
         "t27": "WIDGET_TOP_PAGES_V2_TITLE",
         "t28": "WIDGET_TOP_PAGES_V2_DESCRIPTION",
         "t29": "WIDGET_RECENT_DISCUSSIONS_V2_TITLE",
-        "t30": "WIDGET_RECENT_DISCUSSIONS_V2_DESCRIPTION"
+        "t30": "WIDGET_RECENT_DISCUSSIONS_V2_DESCRIPTION",
+        "t31": "WIDGET_RECENT_DISCUSSIONS_TITLE",
+        "t32": "WIDGET_RECENT_DISCUSSIONS_DESCRIPTION"
     },
     "my-account-wp-connect": {
         "t1": "PAGE_TITLE",

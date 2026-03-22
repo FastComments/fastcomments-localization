@@ -20,13 +20,9 @@
     "WIDGET_COMMENT_COUNT_BULK_TITLE": "一括コメント数",
     "WIDGET_COMMENT_COUNT_BULK_DESCRIPTION": "このウィジェットは、任意のページにコメント数を追加します。リスト内の多数のアイテムの数を表示する場合に使用します。",
     "WIDGET_RECENT_COMMENTS_TITLE": "最近のコメント",
-    "WIDGET_RECENT_COMMENTS_DESCRIPTION": "このウィジェットは、任意のページに最近のコメントのリストを追加します。",
-    "WIDGET_TOP_PAGES_TITLE": "トップページ",
-    "WIDGET_TOP_PAGES_DESCRIPTION": "このウィジェットは、コメント数によるトップページのリストを任意のページに追加します。",
-    "WIDGET_TOP_PAGES_V2_TITLE": "トップページ（v2）",
-    "WIDGET_RECENT_COMMENTS_V2_DESCRIPTION": "最新のコメントを表示するモダンなウィジェット。",
-    "WIDGET_TOP_PAGES_V2_DESCRIPTION": "コメント数順にランキングされた人気ページを表示する最新ウィジェット。",
-    "WIDGET_RECENT_COMMENTS_V2_TITLE": "最近のコメント（v2）",
-    "WIDGET_RECENT_DISCUSSIONS_V2_TITLE": "最近の議論（v2）",
-    "WIDGET_RECENT_DISCUSSIONS_V2_DESCRIPTION": "最近の議論が掲載されているページを表示するモダンなウィジェット。"
+    "WIDGET_RECENT_COMMENTS_DESCRIPTION": "アバター、プレビュー、クリック可能な日付付きで、最近のコメントを表示します。",
+    "WIDGET_TOP_PAGES_TITLE": "最も話題になったページ",
+    "WIDGET_TOP_PAGES_DESCRIPTION": "コメント数の多いページを、コメント数順にランキング形式で表示します。",
+    "WIDGET_RECENT_DISCUSSIONS_TITLE": "最近の議論",
+    "WIDGET_RECENT_DISCUSSIONS_DESCRIPTION": "最新のコメント投稿があったページを表示します。"
 }

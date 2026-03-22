@@ -20,13 +20,9 @@
     "WIDGET_COMMENT_COUNT_BULK_TITLE": "Количество комментариев",
     "WIDGET_COMMENT_COUNT_BULK_DESCRIPTION": "Этот виджет добавит счетчик комментариев на любую страницу. Используется при отображении количества элементов в списке.",
     "WIDGET_RECENT_COMMENTS_TITLE": "Последние комментарии",
-    "WIDGET_RECENT_COMMENTS_DESCRIPTION": "Этот виджет добавит список последних комментариев на любую страницу.",
-    "WIDGET_TOP_PAGES_TITLE": "Главные страницы",
-    "WIDGET_TOP_PAGES_DESCRIPTION": "Этот виджет добавит к любой странице список самых популярных страниц по количеству комментариев.",
-    "WIDGET_RECENT_COMMENTS_V2_DESCRIPTION": "Современный виджет, отображающий последние комментарии.",
-    "WIDGET_RECENT_COMMENTS_V2_TITLE": "Последние комментарии (версия 2)",
-    "WIDGET_TOP_PAGES_V2_TITLE": "Главные страницы (версия 2)",
-    "WIDGET_TOP_PAGES_V2_DESCRIPTION": "Современный виджет, отображающий самые популярные страницы, ранжированные по количеству комментариев.",
-    "WIDGET_RECENT_DISCUSSIONS_V2_TITLE": "Последние обсуждения (версия 2)",
-    "WIDGET_RECENT_DISCUSSIONS_V2_DESCRIPTION": "Современный виджет, отображающий страницы с недавними обсуждениями."
+    "WIDGET_RECENT_COMMENTS_DESCRIPTION": "Отображает последние комментарии с аватарами, предварительным просмотром и датами, по которым можно перейти по ссылке.",
+    "WIDGET_TOP_PAGES_TITLE": "Самые обсуждаемые страницы",
+    "WIDGET_TOP_PAGES_DESCRIPTION": "Отображает ваши страницы с наибольшим количеством комментариев, ранжированные по числу комментариев.",
+    "WIDGET_RECENT_DISCUSSIONS_TITLE": "Недавние обсуждения",
+    "WIDGET_RECENT_DISCUSSIONS_DESCRIPTION": "Отображает страницы с самой свежей активностью комментариев."
 }

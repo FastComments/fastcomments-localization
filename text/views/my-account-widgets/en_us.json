@@ -20,13 +20,9 @@
     "WIDGET_COMMENT_COUNT_BULK_TITLE": "Bulk Comment Count",
     "WIDGET_COMMENT_COUNT_BULK_DESCRIPTION": "This widget will add a comment count to any page. Used when displaying counts of many items in a list.",
     "WIDGET_RECENT_COMMENTS_TITLE": "Recent Comments",
-    "WIDGET_RECENT_COMMENTS_DESCRIPTION": "This widget will add a list of recent comments to any page.",
-    "WIDGET_TOP_PAGES_TITLE": "Top Pages",
-    "WIDGET_TOP_PAGES_DESCRIPTION": "This widget will add a list of top pages, by comment count, to any page.",
-    "WIDGET_RECENT_COMMENTS_V2_TITLE": "Recent Comments (v2)",
-    "WIDGET_RECENT_COMMENTS_V2_DESCRIPTION": "A modern widget showing recent comments.",
-    "WIDGET_TOP_PAGES_V2_TITLE": "Top Pages (v2)",
-    "WIDGET_TOP_PAGES_V2_DESCRIPTION": "A modern widget showing top pages ranked by comment count.",
-    "WIDGET_RECENT_DISCUSSIONS_V2_TITLE": "Recent Discussions (v2)",
-    "WIDGET_RECENT_DISCUSSIONS_V2_DESCRIPTION": "A modern widget showing pages with recent discussions."
+    "WIDGET_RECENT_COMMENTS_DESCRIPTION": "Shows recent comments with avatars, previews, and clickable dates.",
+    "WIDGET_TOP_PAGES_TITLE": "Most Discussed Pages",
+    "WIDGET_TOP_PAGES_DESCRIPTION": "Shows your most commented pages ranked by comment count.",
+    "WIDGET_RECENT_DISCUSSIONS_TITLE": "Recent Discussions",
+    "WIDGET_RECENT_DISCUSSIONS_DESCRIPTION": "Shows pages with the most recent comment activity."
 }
