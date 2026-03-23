@@ -47,5 +47,9 @@
     "ERROR_STOP_FAILED": "再生を停止できませんでした :(",
     "ERROR_DELETE_COMMENTS_FAILED": "コメントの削除に失敗しました :(",
     "ERROR_START_FAILED": "再生を開始できませんでした:(",
-    "ERROR_DELETE_FAILED": "削除に失敗しました :("
+    "ERROR_DELETE_FAILED": "削除に失敗しました :(",
+    "STATUS_REQUESTED": "リクエスト",
+    "STATUS_RUNNING": "ランニング",
+    "STATUS_SUCCESS": "成功",
+    "STATUS_FAILED": "失敗した"
 }

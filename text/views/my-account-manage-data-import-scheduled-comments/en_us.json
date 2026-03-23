@@ -47,5 +47,9 @@
     "ERROR_STOP_FAILED": "Stopping playback failed :(",
     "ERROR_DELETE_COMMENTS_FAILED": "Deleting comments failed :(",
     "ERROR_START_FAILED": "Starting playback failed :(",
-    "ERROR_DELETE_FAILED": "Delete failed :("
+    "ERROR_DELETE_FAILED": "Delete failed :(",
+    "STATUS_REQUESTED": "Requested",
+    "STATUS_RUNNING": "Running",
+    "STATUS_SUCCESS": "Success",
+    "STATUS_FAILED": "Failed"
 }

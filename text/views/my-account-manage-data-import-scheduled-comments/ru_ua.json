@@ -47,5 +47,9 @@
     "ERROR_STOP_FAILED": "Остановка воспроизведения не удалась :(",
     "ERROR_DELETE_COMMENTS_FAILED": "Удаление комментариев не удалось :(",
     "ERROR_START_FAILED": "Воспроизведение не удалось запустить :(",
-    "ERROR_DELETE_FAILED": "Удаление не удалось :("
+    "ERROR_DELETE_FAILED": "Удаление не удалось :(",
+    "STATUS_REQUESTED": "Запрошено",
+    "STATUS_RUNNING": "Бег",
+    "STATUS_SUCCESS": "Успех",
+    "STATUS_FAILED": "Неуспешный"
 }

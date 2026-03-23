@@ -47,5 +47,9 @@
     "ERROR_STOP_FAILED": "Ustavitev predvajanja ni uspela :(",
     "ERROR_DELETE_COMMENTS_FAILED": "Brisanje komentarjev ni uspelo :(",
     "ERROR_START_FAILED": "Začetek predvajanja ni uspel :(",
-    "ERROR_DELETE_FAILED": "Brisanje ni uspelo :("
+    "ERROR_DELETE_FAILED": "Brisanje ni uspelo :(",
+    "STATUS_RUNNING": "Tek",
+    "STATUS_FAILED": "Ni uspelo",
+    "STATUS_SUCCESS": "Uspeh",
+    "STATUS_REQUESTED": "Zahtevano"
 }

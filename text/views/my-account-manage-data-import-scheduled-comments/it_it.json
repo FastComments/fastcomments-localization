@@ -47,5 +47,9 @@
     "ERROR_STOP_FAILED": "Interruzione della riproduzione non riuscita :(",
     "ERROR_DELETE_COMMENTS_FAILED": "Eliminazione dei commenti fallita :(",
     "ERROR_START_FAILED": "Avvio della riproduzione non riuscito :(",
-    "ERROR_DELETE_FAILED": "Eliminazione fallita :("
+    "ERROR_DELETE_FAILED": "Eliminazione fallita :(",
+    "STATUS_REQUESTED": "richiesto",
+    "STATUS_RUNNING": "Corsa",
+    "STATUS_SUCCESS": "Successo",
+    "STATUS_FAILED": "Fallito"
 }

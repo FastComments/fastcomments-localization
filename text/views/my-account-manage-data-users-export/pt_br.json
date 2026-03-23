@@ -10,5 +10,9 @@
     "TABLE_HEADER_USER_COUNT": "Contagem de usuários",
     "TABLE_HEADER_DOWNLOAD": "Download",
     "EXPIRATION_NOTE": "Observação: os arquivos exportados expiram automaticamente após dez dias. Os dados são excluídos e o link para download será removido após esse período.",
-    "NO_EXPORTS_MESSAGE": "Você não tem nenhuma exportação pendente ou passada."
+    "NO_EXPORTS_MESSAGE": "Você não tem nenhuma exportação pendente ou passada.",
+    "STATUS_REQUESTED": "Solicitado",
+    "STATUS_RUNNING": "Correndo",
+    "STATUS_SUCCESS": "Sucesso",
+    "STATUS_FAILED": "Fracassado"
 }

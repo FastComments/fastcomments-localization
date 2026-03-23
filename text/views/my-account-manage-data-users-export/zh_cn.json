@@ -10,5 +10,9 @@
     "TABLE_HEADER_USER_COUNT": "用户数量",
     "TABLE_HEADER_DOWNLOAD": "下载",
     "EXPIRATION_NOTE": "注意：导出文件将在十天后自动过期。届时数据将被删除，下载链接也将失效。",
-    "NO_EXPORTS_MESSAGE": "您没有任何待处理或已完成的出口订单。"
+    "NO_EXPORTS_MESSAGE": "您没有任何待处理或已完成的出口订单。",
+    "STATUS_RUNNING": "跑步",
+    "STATUS_REQUESTED": "已请求",
+    "STATUS_SUCCESS": "成功",
+    "STATUS_FAILED": "失败的"
 }

@@ -10,5 +10,9 @@
     "TABLE_HEADER_USER_COUNT": "사용자 수",
     "TABLE_HEADER_DOWNLOAD": "다운로드",
     "EXPIRATION_NOTE": "참고: 내보내기 파일은 10일 후 자동으로 만료됩니다. 이후에는 데이터가 삭제되고 다운로드 링크도 제거됩니다.",
-    "NO_EXPORTS_MESSAGE": "현재 진행 중이거나 완료된 수출 내역이 없습니다."
+    "NO_EXPORTS_MESSAGE": "현재 진행 중이거나 완료된 수출 내역이 없습니다.",
+    "STATUS_RUNNING": "달리기",
+    "STATUS_SUCCESS": "성공",
+    "STATUS_FAILED": "실패한",
+    "STATUS_REQUESTED": "요청됨"
 }

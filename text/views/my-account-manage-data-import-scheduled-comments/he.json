@@ -47,5 +47,9 @@
     "ERROR_STOP_FAILED": "עצירת ההשמעה נכשלה :(",
     "ERROR_DELETE_COMMENTS_FAILED": "מחיקת התגובות נכשלה :(",
     "ERROR_START_FAILED": "התחלת ההשמעה נכשלה :(",
-    "ERROR_DELETE_FAILED": "המחיקה נכשלה :("
+    "ERROR_DELETE_FAILED": "המחיקה נכשלה :(",
+    "STATUS_RUNNING": "רִיצָה",
+    "STATUS_REQUESTED": "מבוקש",
+    "STATUS_FAILED": "נִכשָׁל",
+    "STATUS_SUCCESS": "הַצלָחָה"
 }

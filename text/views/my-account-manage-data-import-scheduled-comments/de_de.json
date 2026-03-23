@@ -47,5 +47,9 @@
     "ERROR_STOP_FAILED": "Wiedergabe konnte nicht gestoppt werden :(",
     "ERROR_DELETE_COMMENTS_FAILED": "Kommentare konnten nicht gelöscht werden :(",
     "ERROR_START_FAILED": "Wiedergabestart fehlgeschlagen :(",
-    "ERROR_DELETE_FAILED": "Löschen fehlgeschlagen :("
+    "ERROR_DELETE_FAILED": "Löschen fehlgeschlagen :(",
+    "STATUS_REQUESTED": "Angefordert",
+    "STATUS_RUNNING": "Läuft",
+    "STATUS_SUCCESS": "Erfolg",
+    "STATUS_FAILED": "Fehlgeschlagen"
 }

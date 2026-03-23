@@ -192,13 +192,13 @@
         "my-account-licenses": 15,
         "my-account-manage-data": 12,
         "my-account-manage-data-audit-logs": 27,
-        "my-account-manage-data-copy-comments": 26,
+        "my-account-manage-data-copy-comments": 30,
         "my-account-manage-data-copy-comments-table": 0,
         "my-account-manage-data-export": 27,
         "my-account-manage-data-export-table": 17,
         "my-account-manage-data-import": 82,
         "my-account-manage-data-import-logs": 10,
-        "my-account-manage-data-import-scheduled-comments": 49,
+        "my-account-manage-data-import-scheduled-comments": 53,
         "my-account-manage-data-import-scheduled-comments-table": 9,
         "my-account-manage-data-import-table": 20,
         "my-account-manage-data-integrations": 16,
@@ -207,7 +207,7 @@
         "my-account-manage-data-integrations-integration-settings": 8,
         "my-account-manage-data-migrate-domains": 19,
         "my-account-manage-data-migrate-domains-table": 8,
-        "my-account-manage-data-users-export": 12,
+        "my-account-manage-data-users-export": 16,
         "my-account-manage-data-users-export-table": 2,
         "my-account-manage-data-webhook": 2,
         "my-account-manage-data-webhooks": 38,
@@ -4135,7 +4135,11 @@
         "t23": "TABLE_STATUS",
         "t24": "TABLE_COMMENTS_FOUND",
         "t25": "TABLE_COMMENTS_COPIED",
-        "t26": "NO_JOBS"
+        "t26": "NO_JOBS",
+        "t27": "STATUS_REQUESTED",
+        "t28": "STATUS_RUNNING",
+        "t29": "STATUS_SUCCESS",
+        "t30": "STATUS_FAILED"
     },
     "my-account-manage-data-copy-comments-table": {},
     "my-account-manage-data-export": {
@@ -4331,7 +4335,11 @@
         "t46": "ERROR_STOP_FAILED",
         "t47": "ERROR_DELETE_COMMENTS_FAILED",
         "t48": "ERROR_START_FAILED",
-        "t49": "ERROR_DELETE_FAILED"
+        "t49": "ERROR_DELETE_FAILED",
+        "t50": "STATUS_REQUESTED",
+        "t51": "STATUS_RUNNING",
+        "t52": "STATUS_SUCCESS",
+        "t53": "STATUS_FAILED"
     },
     "my-account-manage-data-import-scheduled-comments-table": {
         "t1": "TEXT_NA",
@@ -4455,7 +4463,11 @@
         "t9": "TABLE_HEADER_USER_COUNT",
         "t10": "TABLE_HEADER_DOWNLOAD",
         "t11": "EXPIRATION_NOTE",
-        "t12": "NO_EXPORTS_MESSAGE"
+        "t12": "NO_EXPORTS_MESSAGE",
+        "t13": "STATUS_REQUESTED",
+        "t14": "STATUS_RUNNING",
+        "t15": "STATUS_SUCCESS",
+        "t16": "STATUS_FAILED"
     },
     "my-account-manage-data-users-export-table": {
         "t1": "DOWNLOAD_LINK",

@@ -10,5 +10,9 @@
     "TABLE_HEADER_USER_COUNT": "Número de usuarios",
     "TABLE_HEADER_DOWNLOAD": "Descargar",
     "EXPIRATION_NOTE": "Nota: Las exportaciones caducan automáticamente después de diez días. Transcurrido este tiempo, los datos se eliminarán y el enlace de descarga se eliminará.",
-    "NO_EXPORTS_MESSAGE": "No tienes ninguna exportación pendiente ni pasada."
+    "NO_EXPORTS_MESSAGE": "No tienes ninguna exportación pendiente ni pasada.",
+    "STATUS_RUNNING": "Correr",
+    "STATUS_REQUESTED": "Solicitado",
+    "STATUS_FAILED": "Fallido",
+    "STATUS_SUCCESS": "Éxito"
 }

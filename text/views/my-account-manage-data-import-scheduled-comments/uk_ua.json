@@ -47,5 +47,9 @@
     "ERROR_STOP_FAILED": "Не вдалося зупинити відтворення :(",
     "ERROR_DELETE_COMMENTS_FAILED": "Не вдалося видалити коментарі :(",
     "ERROR_START_FAILED": "Не вдалося розпочати відтворення :(",
-    "ERROR_DELETE_FAILED": "Видалити не вдалося :("
+    "ERROR_DELETE_FAILED": "Видалити не вдалося :(",
+    "STATUS_RUNNING": "Біг",
+    "STATUS_REQUESTED": "Запитано",
+    "STATUS_SUCCESS": "Успіх",
+    "STATUS_FAILED": "Не вдалося"
 }

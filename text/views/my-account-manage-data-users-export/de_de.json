@@ -10,5 +10,9 @@
     "TABLE_HEADER_USER_COUNT": "Benutzeranzahl",
     "TABLE_HEADER_DOWNLOAD": "Herunterladen",
     "EXPIRATION_NOTE": "Hinweis: Exporte verfallen automatisch nach zehn Tagen. Die Daten werden danach gelöscht und der Download-Link entfernt.",
-    "NO_EXPORTS_MESSAGE": "Sie haben keine ausstehenden oder abgeschlossenen Exporte."
+    "NO_EXPORTS_MESSAGE": "Sie haben keine ausstehenden oder abgeschlossenen Exporte.",
+    "STATUS_REQUESTED": "Angefordert",
+    "STATUS_RUNNING": "Läuft",
+    "STATUS_SUCCESS": "Erfolg",
+    "STATUS_FAILED": "Fehlgeschlagen"
 }

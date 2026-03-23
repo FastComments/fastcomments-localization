@@ -24,5 +24,9 @@
     "TABLE_STATUS": "状態",
     "TABLE_COMMENTS_FOUND": "コメントが見つかりました",
     "TABLE_COMMENTS_COPIED": "コメントをコピーしました",
-    "NO_JOBS": "保留中の仕事や過去の仕事はありません。"
+    "NO_JOBS": "保留中の仕事や過去の仕事はありません。",
+    "STATUS_REQUESTED": "リクエスト",
+    "STATUS_FAILED": "失敗した",
+    "STATUS_SUCCESS": "成功",
+    "STATUS_RUNNING": "ランニング"
 }

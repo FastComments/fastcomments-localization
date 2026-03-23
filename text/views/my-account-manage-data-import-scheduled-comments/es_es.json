@@ -47,5 +47,9 @@
     "ERROR_STOP_FAILED": "Error al detener la reproducción :(",
     "ERROR_DELETE_COMMENTS_FAILED": "La eliminación de comentarios falló :(",
     "ERROR_START_FAILED": "Error al iniciar la reproducción :(",
-    "ERROR_DELETE_FAILED": "La eliminación falló :("
+    "ERROR_DELETE_FAILED": "La eliminación falló :(",
+    "STATUS_REQUESTED": "Solicitado",
+    "STATUS_RUNNING": "Correr",
+    "STATUS_SUCCESS": "Éxito",
+    "STATUS_FAILED": "Fallido"
 }

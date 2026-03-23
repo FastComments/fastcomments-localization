@@ -47,5 +47,9 @@
     "ERROR_STOP_FAILED": "Falha ao parar a reprodução :(",
     "ERROR_DELETE_COMMENTS_FAILED": "Falha ao excluir comentários :(",
     "ERROR_START_FAILED": "Falha ao iniciar a reprodução :(",
-    "ERROR_DELETE_FAILED": "Falha ao excluir :("
+    "ERROR_DELETE_FAILED": "Falha ao excluir :(",
+    "STATUS_RUNNING": "Correndo",
+    "STATUS_FAILED": "Fracassado",
+    "STATUS_REQUESTED": "Solicitado",
+    "STATUS_SUCCESS": "Sucesso"
 }

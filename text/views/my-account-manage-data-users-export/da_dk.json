@@ -10,5 +10,9 @@
     "TABLE_HEADER_USER_COUNT": "Brugerantal",
     "TABLE_HEADER_DOWNLOAD": "Download",
     "EXPIRATION_NOTE": "Bemærk: Eksporter udløber automatisk efter ti dage. Dataene slettes, og downloadlinket fjernes efter dette tidspunkt.",
-    "NO_EXPORTS_MESSAGE": "Du har ingen ventende eller tidligere eksporter."
+    "NO_EXPORTS_MESSAGE": "Du har ingen ventende eller tidligere eksporter.",
+    "STATUS_REQUESTED": "Anmodet",
+    "STATUS_FAILED": "Mislykkedes",
+    "STATUS_SUCCESS": "Succes",
+    "STATUS_RUNNING": "Løb"
 }

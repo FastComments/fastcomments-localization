@@ -47,5 +47,9 @@
     "ERROR_STOP_FAILED": "Kunne ikke stoppe afspilningen :(",
     "ERROR_DELETE_COMMENTS_FAILED": "Sletning af kommentarer mislykkedes :(",
     "ERROR_START_FAILED": "Afspilning mislykkedes :(",
-    "ERROR_DELETE_FAILED": "Sletning mislykkedes :("
+    "ERROR_DELETE_FAILED": "Sletning mislykkedes :(",
+    "STATUS_RUNNING": "Løb",
+    "STATUS_REQUESTED": "Anmodet",
+    "STATUS_FAILED": "Mislykkedes",
+    "STATUS_SUCCESS": "Succes"
 }

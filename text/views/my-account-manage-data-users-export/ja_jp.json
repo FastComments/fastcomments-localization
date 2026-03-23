@@ -10,5 +10,9 @@
     "TABLE_HEADER_USER_COUNT": "ユーザー数",
     "TABLE_HEADER_DOWNLOAD": "ダウンロード",
     "EXPIRATION_NOTE": "注: エクスポートは10日後に自動的に期限切れとなります。期限が過ぎるとデータは削除され、ダウンロードリンクも削除されます。",
-    "NO_EXPORTS_MESSAGE": "保留中または過去のエクスポートはありません。"
+    "NO_EXPORTS_MESSAGE": "保留中または過去のエクスポートはありません。",
+    "STATUS_REQUESTED": "リクエスト",
+    "STATUS_SUCCESS": "成功",
+    "STATUS_RUNNING": "ランニング",
+    "STATUS_FAILED": "失敗した"
 }

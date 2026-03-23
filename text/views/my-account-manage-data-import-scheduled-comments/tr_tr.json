@@ -47,5 +47,9 @@
     "ERROR_STOP_FAILED": "Oynatma durdurulamadı :(",
     "ERROR_DELETE_COMMENTS_FAILED": "Yorumları silme işlemi başarısız oldu :(",
     "ERROR_START_FAILED": "Oynatma başlatma başarısız oldu :(",
-    "ERROR_DELETE_FAILED": "Silme işlemi başarısız oldu :("
+    "ERROR_DELETE_FAILED": "Silme işlemi başarısız oldu :(",
+    "STATUS_REQUESTED": "Talep edildi",
+    "STATUS_SUCCESS": "Başarı",
+    "STATUS_FAILED": "Arızalı",
+    "STATUS_RUNNING": "Koşma"
 }

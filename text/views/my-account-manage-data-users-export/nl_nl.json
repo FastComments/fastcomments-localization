@@ -10,5 +10,9 @@
     "TABLE_HEADER_USER_COUNT": "Gebruikersaantal",
     "TABLE_HEADER_DOWNLOAD": "Download",
     "EXPIRATION_NOTE": "Let op: Exportbestanden verlopen automatisch na tien dagen. De gegevens worden verwijderd en de downloadlink wordt na deze periode verwijderd.",
-    "NO_EXPORTS_MESSAGE": "Je hebt geen lopende of reeds voltooide exportopdrachten."
+    "NO_EXPORTS_MESSAGE": "Je hebt geen lopende of reeds voltooide exportopdrachten.",
+    "STATUS_REQUESTED": "Verzoek ingediend",
+    "STATUS_RUNNING": "Rennen",
+    "STATUS_SUCCESS": "Succes",
+    "STATUS_FAILED": "Mislukt"
 }

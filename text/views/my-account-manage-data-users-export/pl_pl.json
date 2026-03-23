@@ -10,5 +10,9 @@
     "TABLE_HEADER_USER_COUNT": "Liczba użytkowników",
     "TABLE_HEADER_DOWNLOAD": "Pobierać",
     "EXPIRATION_NOTE": "Uwaga: Eksport automatycznie wygasa po dziesięciu dniach. Dane zostaną usunięte, a link do pobrania zostanie usunięty po tym czasie.",
-    "NO_EXPORTS_MESSAGE": "Nie masz żadnych oczekujących ani zakończonych eksportów."
+    "NO_EXPORTS_MESSAGE": "Nie masz żadnych oczekujących ani zakończonych eksportów.",
+    "STATUS_REQUESTED": "Wymagany",
+    "STATUS_RUNNING": "Działanie",
+    "STATUS_FAILED": "Przegrany",
+    "STATUS_SUCCESS": "Sukces"
 }

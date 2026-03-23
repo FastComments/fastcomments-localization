@@ -47,5 +47,9 @@
     "ERROR_STOP_FAILED": "Спирането на възпроизвеждането не бе успешно :(",
     "ERROR_DELETE_COMMENTS_FAILED": "Изтриването на коментарите не бе успешно :(",
     "ERROR_START_FAILED": "Стартирането на възпроизвеждането не бе успешно :(",
-    "ERROR_DELETE_FAILED": "Изтриването не бе успешно :("
+    "ERROR_DELETE_FAILED": "Изтриването не бе успешно :(",
+    "STATUS_RUNNING": "Бягане",
+    "STATUS_SUCCESS": "Успех",
+    "STATUS_FAILED": "Неуспешно",
+    "STATUS_REQUESTED": "Заявено"
 }

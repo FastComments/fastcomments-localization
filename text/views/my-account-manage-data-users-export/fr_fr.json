@@ -10,5 +10,9 @@
     "TABLE_HEADER_USER_COUNT": "Nombre d'utilisateurs",
     "TABLE_HEADER_DOWNLOAD": "Télécharger",
     "EXPIRATION_NOTE": "Remarque : les exportations expirent automatiquement après dix jours. Les données sont supprimées et le lien de téléchargement devient indisponible après ce délai.",
-    "NO_EXPORTS_MESSAGE": "Vous n'avez aucune exportation en cours ou passée."
+    "NO_EXPORTS_MESSAGE": "Vous n'avez aucune exportation en cours ou passée.",
+    "STATUS_REQUESTED": "Demandé",
+    "STATUS_RUNNING": "En cours d'exécution",
+    "STATUS_SUCCESS": "Succès",
+    "STATUS_FAILED": "Échoué"
 }

@@ -47,5 +47,9 @@
     "ERROR_STOP_FAILED": "Η διακοπή της αναπαραγωγής απέτυχε :(",
     "ERROR_DELETE_COMMENTS_FAILED": "Η διαγραφή των σχολίων απέτυχε :(",
     "ERROR_START_FAILED": "Η έναρξη της αναπαραγωγής απέτυχε :(",
-    "ERROR_DELETE_FAILED": "Η διαγραφή απέτυχε :("
+    "ERROR_DELETE_FAILED": "Η διαγραφή απέτυχε :(",
+    "STATUS_RUNNING": "Τρέξιμο",
+    "STATUS_REQUESTED": "Ζητήθηκε",
+    "STATUS_SUCCESS": "Επιτυχία",
+    "STATUS_FAILED": "Αποτυχημένος"
 }

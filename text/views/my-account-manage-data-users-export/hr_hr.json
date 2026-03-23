@@ -10,5 +10,9 @@
     "TABLE_HEADER_USER_COUNT": "Broj korisnika",
     "TABLE_HEADER_DOWNLOAD": "Preuzmi",
     "EXPIRATION_NOTE": "Napomena: Izvozi automatski istječu nakon deset dana. Podaci se brišu, a poveznica za preuzimanje bit će uklonjena nakon tog vremena.",
-    "NO_EXPORTS_MESSAGE": "Nemate nikakvih izvoza na čekanju ili prošlih."
+    "NO_EXPORTS_MESSAGE": "Nemate nikakvih izvoza na čekanju ili prošlih.",
+    "STATUS_RUNNING": "Trčanje",
+    "STATUS_SUCCESS": "Uspjeh",
+    "STATUS_FAILED": "Neuspješno",
+    "STATUS_REQUESTED": "Zatraženo"
 }

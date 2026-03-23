@@ -47,5 +47,9 @@
     "ERROR_STOP_FAILED": "Zaustavljanje reprodukcije nije uspjelo :(",
     "ERROR_DELETE_COMMENTS_FAILED": "Brisanje komentara nije uspjelo :(",
     "ERROR_START_FAILED": "Pokretanje reprodukcije nije uspjelo :(",
-    "ERROR_DELETE_FAILED": "Brisanje nije uspjelo :("
+    "ERROR_DELETE_FAILED": "Brisanje nije uspjelo :(",
+    "STATUS_FAILED": "Neuspješno",
+    "STATUS_SUCCESS": "Uspjeh",
+    "STATUS_RUNNING": "Trčanje",
+    "STATUS_REQUESTED": "Zatraženo"
 }

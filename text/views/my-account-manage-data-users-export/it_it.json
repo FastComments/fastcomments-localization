@@ -10,5 +10,9 @@
     "TABLE_HEADER_USER_COUNT": "Conteggio utenti",
     "TABLE_HEADER_DOWNLOAD": "Scaricamento",
     "EXPIRATION_NOTE": "Nota: le esportazioni scadono automaticamente dopo dieci giorni. Dopo tale periodo, i dati verranno eliminati e il link per il download verrà rimosso.",
-    "NO_EXPORTS_MESSAGE": "Non hai esportazioni in sospeso o passate."
+    "NO_EXPORTS_MESSAGE": "Non hai esportazioni in sospeso o passate.",
+    "STATUS_REQUESTED": "richiesto",
+    "STATUS_RUNNING": "Corsa",
+    "STATUS_FAILED": "Fallito",
+    "STATUS_SUCCESS": "Successo"
 }

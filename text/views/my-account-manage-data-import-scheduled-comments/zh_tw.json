@@ -47,5 +47,9 @@
     "ERROR_STOP_FAILED": "停止播放失敗 :(",
     "ERROR_DELETE_COMMENTS_FAILED": "刪除評論失敗了 :(",
     "ERROR_START_FAILED": "播放啟動失敗 :(",
-    "ERROR_DELETE_FAILED": "刪除失敗 :("
+    "ERROR_DELETE_FAILED": "刪除失敗 :(",
+    "STATUS_RUNNING": "跑步",
+    "STATUS_FAILED": "失敗的",
+    "STATUS_SUCCESS": "成功",
+    "STATUS_REQUESTED": "已請求"
 }
