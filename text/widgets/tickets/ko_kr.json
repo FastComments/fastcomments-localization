@@ -44,5 +44,19 @@
     "CONFIRM_DELETE_FILE": "이 파일을 정말로 삭제하시겠습니까?",
     "DELETE_FILE": "삭제",
     "ERROR_DELETE_FAILED": "파일 삭제에 실패했습니다.",
-    "MAX_FILE_SIZE_HINT": "최대 파일 크기: [maxSize]"
+    "MAX_FILE_SIZE_HINT": "최대 파일 크기: [maxSize]",
+    "TABLE_HEADER_SUBJECT": "주제",
+    "TABLE_HEADER_ID": "ID",
+    "TABLE_HEADER_CREATED_BY": "제작자:",
+    "FILE_NAME_COL": "이름",
+    "TABLE_HEADER_STATUS": "상태",
+    "VALUE_NONE": "없음",
+    "FILE_SIZE_COL": "크기",
+    "FILE_DATE_COL": "날짜",
+    "VALUE_DELETED": "삭제됨",
+    "TABLE_HEADER_LAST_REPLY": "마지막 답변",
+    "FILE_EXPIRES_COL": "만료됨",
+    "FILE_ACTIONS_COL": "행위",
+    "FILE_SINGULAR": "파일",
+    "FILE_PLURAL": "파일"
 }

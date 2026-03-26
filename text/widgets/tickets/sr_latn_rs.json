@@ -44,5 +44,19 @@
     "CONFIRM_DELETE_FILE": "Da li ste sigurni da želite da izbrišete ovu datoteku?",
     "DELETE_FILE": "Izbrisati",
     "ERROR_DELETE_FAILED": "Failed to delete file.",
-    "MAX_FILE_SIZE_HINT": "Maksimalna veličina fajla: [maxSize]"
+    "MAX_FILE_SIZE_HINT": "Maksimalna veličina fajla: [maxSize]",
+    "FILE_DATE_COL": "Datum",
+    "TABLE_HEADER_SUBJECT": "Pretraga",
+    "TABLE_HEADER_ID": "Kodovi",
+    "TABLE_HEADER_CREATED_BY": "Autor",
+    "TABLE_HEADER_LAST_REPLY": "Poslednji odgovor",
+    "TABLE_HEADER_STATUS": "Istorijat",
+    "VALUE_NONE": "Nijedan",
+    "VALUE_DELETED": "Izbrisan",
+    "FILE_NAME_COL": "Ime i prezime",
+    "FILE_SIZE_COL": "Kategorije",
+    "FILE_SINGULAR": "Fajl",
+    "FILE_ACTIONS_COL": "Akcije",
+    "FILE_PLURAL": "Fajlovi",
+    "FILE_EXPIRES_COL": "Ističe"
 }

@@ -44,5 +44,19 @@
     "DELETE_FILE": "消去",
     "CONFIRM_DELETE_FILE": "このファイルを削除してもよろしいですか？",
     "ERROR_DELETE_FAILED": "ファイルの削除に失敗しました。",
-    "MAX_FILE_SIZE_HINT": "最大ファイルサイズ：[maxSize]"
+    "MAX_FILE_SIZE_HINT": "最大ファイルサイズ：[maxSize]",
+    "TABLE_HEADER_ID": "ID",
+    "TABLE_HEADER_CREATED_BY": "作成者",
+    "TABLE_HEADER_SUBJECT": "主題",
+    "TABLE_HEADER_STATUS": "状態",
+    "TABLE_HEADER_LAST_REPLY": "最後の返信",
+    "VALUE_NONE": "なし",
+    "VALUE_DELETED": "削除済み",
+    "FILE_NAME_COL": "名前",
+    "FILE_DATE_COL": "日付",
+    "FILE_SIZE_COL": "サイズ",
+    "FILE_ACTIONS_COL": "行動",
+    "FILE_EXPIRES_COL": "有効期限",
+    "FILE_PLURAL": "ファイル",
+    "FILE_SINGULAR": "ファイル"
 }

@@ -44,5 +44,19 @@
     "ERROR_DELETE_FAILED": "Изтриването на файла не бе успешно.",
     "DELETE_FILE": "Изтриване",
     "MAX_FILE_SIZE_HINT": "Максимален размер на файла: [maxSize]",
-    "CONFIRM_DELETE_FILE": "Сигурни ли сте, че искате да изтриете този файл?"
+    "CONFIRM_DELETE_FILE": "Сигурни ли сте, че искате да изтриете този файл?",
+    "TABLE_HEADER_ID": "Идентификационен номер",
+    "FILE_NAME_COL": "Име",
+    "FILE_SIZE_COL": "Размер",
+    "FILE_DATE_COL": "Дата",
+    "TABLE_HEADER_STATUS": "Статус",
+    "TABLE_HEADER_SUBJECT": "Тема",
+    "VALUE_NONE": "Няма",
+    "TABLE_HEADER_LAST_REPLY": "Последен отговор",
+    "VALUE_DELETED": "Изтрито",
+    "TABLE_HEADER_CREATED_BY": "Създадено от",
+    "FILE_ACTIONS_COL": "Действия",
+    "FILE_PLURAL": "файлове",
+    "FILE_SINGULAR": "файл",
+    "FILE_EXPIRES_COL": "Изтича"
 }

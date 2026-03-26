@@ -44,5 +44,19 @@
     "DELETE_FILE": "Delete",
     "CONFIRM_DELETE_FILE": "Are you sure you want to delete this file?",
     "ERROR_DELETE_FAILED": "Failed to delete file.",
-    "MAX_FILE_SIZE_HINT": "Max file size: [maxSize]"
+    "MAX_FILE_SIZE_HINT": "Max file size: [maxSize]",
+    "TABLE_HEADER_ID": "ID",
+    "TABLE_HEADER_SUBJECT": "Subject",
+    "TABLE_HEADER_CREATED_BY": "Created By",
+    "TABLE_HEADER_LAST_REPLY": "Last Reply",
+    "TABLE_HEADER_STATUS": "Status",
+    "VALUE_NONE": "None",
+    "VALUE_DELETED": "Deleted",
+    "FILE_NAME_COL": "Name",
+    "FILE_SIZE_COL": "Size",
+    "FILE_DATE_COL": "Date",
+    "FILE_EXPIRES_COL": "Expires",
+    "FILE_ACTIONS_COL": "Actions",
+    "FILE_SINGULAR": "file",
+    "FILE_PLURAL": "files"
 }

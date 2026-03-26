@@ -44,5 +44,19 @@
     "DELETE_FILE": "Izbrisati",
     "CONFIRM_DELETE_FILE": "Jeste li sigurni da želite izbrisati ovu datoteku?",
     "ERROR_DELETE_FAILED": "Brisanje datoteke nije uspjelo.",
-    "MAX_FILE_SIZE_HINT": "Maksimalna veličina datoteke: [maxSize]"
+    "MAX_FILE_SIZE_HINT": "Maksimalna veličina datoteke: [maxSize]",
+    "TABLE_HEADER_SUBJECT": "Predmet",
+    "TABLE_HEADER_CREATED_BY": "Izradio/la",
+    "VALUE_NONE": "Ništa",
+    "TABLE_HEADER_STATUS": "Status",
+    "TABLE_HEADER_ID": "ID",
+    "VALUE_DELETED": "Izbrisano",
+    "TABLE_HEADER_LAST_REPLY": "Zadnji odgovor",
+    "FILE_SIZE_COL": "Veličina",
+    "FILE_NAME_COL": "Ime",
+    "FILE_DATE_COL": "Datum",
+    "FILE_ACTIONS_COL": "Radnje",
+    "FILE_EXPIRES_COL": "Istječe",
+    "FILE_PLURAL": "datoteke",
+    "FILE_SINGULAR": "datoteka"
 }

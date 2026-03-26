@@ -44,5 +44,19 @@
     "DELETE_FILE": "Видалити",
     "CONFIRM_DELETE_FILE": "Ви впевнені, що хочете видалити цей файл?",
     "MAX_FILE_SIZE_HINT": "Максимальний розмір файлу: [maxSize]",
-    "ERROR_DELETE_FAILED": "Не вдалося видалити файл."
+    "ERROR_DELETE_FAILED": "Не вдалося видалити файл.",
+    "TABLE_HEADER_SUBJECT": "Тема",
+    "TABLE_HEADER_ID": "Ідентифікатор",
+    "TABLE_HEADER_STATUS": "Статус",
+    "TABLE_HEADER_CREATED_BY": "Створено",
+    "VALUE_NONE": "Жоден",
+    "VALUE_DELETED": "Видалено",
+    "TABLE_HEADER_LAST_REPLY": "Остання відповідь",
+    "FILE_NAME_COL": "Ім'я",
+    "FILE_SIZE_COL": "Розмір",
+    "FILE_ACTIONS_COL": "Дії",
+    "FILE_DATE_COL": "Дата",
+    "FILE_EXPIRES_COL": "Термін дії закінчується",
+    "FILE_PLURAL": "файли",
+    "FILE_SINGULAR": "файл"
 }

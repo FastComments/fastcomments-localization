@@ -44,5 +44,19 @@
     "DELETE_FILE": "Borrar",
     "CONFIRM_DELETE_FILE": "¿Estás seguro de que quieres eliminar este archivo?",
     "ERROR_DELETE_FAILED": "No se pudo eliminar el archivo.",
-    "MAX_FILE_SIZE_HINT": "Tamaño máximo del archivo: [maxSize]"
+    "MAX_FILE_SIZE_HINT": "Tamaño máximo del archivo: [maxSize]",
+    "TABLE_HEADER_ID": "IDENTIFICACIÓN",
+    "TABLE_HEADER_SUBJECT": "Sujeto",
+    "TABLE_HEADER_CREATED_BY": "Creado por",
+    "VALUE_NONE": "Ninguno",
+    "TABLE_HEADER_STATUS": "Estado",
+    "FILE_NAME_COL": "Nombre",
+    "VALUE_DELETED": "Eliminado",
+    "TABLE_HEADER_LAST_REPLY": "Última respuesta",
+    "FILE_DATE_COL": "Fecha",
+    "FILE_SIZE_COL": "Tamaño",
+    "FILE_EXPIRES_COL": "Caduca",
+    "FILE_ACTIONS_COL": "Comportamiento",
+    "FILE_SINGULAR": "archivo",
+    "FILE_PLURAL": "archivos"
 }

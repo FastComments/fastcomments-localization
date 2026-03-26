@@ -44,5 +44,19 @@
     "DELETE_FILE": "Slet",
     "CONFIRM_DELETE_FILE": "Er du sikker på, at du vil slette denne fil?",
     "MAX_FILE_SIZE_HINT": "Maksimal filstørrelse: [maxSize]",
-    "ERROR_DELETE_FAILED": "Kunne ikke slette filen."
+    "ERROR_DELETE_FAILED": "Kunne ikke slette filen.",
+    "TABLE_HEADER_ID": "ID",
+    "TABLE_HEADER_CREATED_BY": "Oprettet af",
+    "TABLE_HEADER_SUBJECT": "Emne",
+    "TABLE_HEADER_STATUS": "Status",
+    "VALUE_NONE": "Ingen",
+    "TABLE_HEADER_LAST_REPLY": "Sidste svar",
+    "FILE_NAME_COL": "Navn",
+    "VALUE_DELETED": "Slettet",
+    "FILE_SIZE_COL": "Størrelse",
+    "FILE_DATE_COL": "Dato",
+    "FILE_ACTIONS_COL": "Handlinger",
+    "FILE_SINGULAR": "fil",
+    "FILE_PLURAL": "filer",
+    "FILE_EXPIRES_COL": "Udløber"
 }

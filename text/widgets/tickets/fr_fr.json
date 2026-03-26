@@ -44,5 +44,19 @@
     "DELETE_FILE": "Supprimer",
     "ERROR_DELETE_FAILED": "Échec de la suppression du fichier.",
     "CONFIRM_DELETE_FILE": "Êtes-vous sûr de vouloir supprimer ce fichier ?",
-    "MAX_FILE_SIZE_HINT": "Taille maximale du fichier : [maxSize]"
+    "MAX_FILE_SIZE_HINT": "Taille maximale du fichier : [maxSize]",
+    "TABLE_HEADER_ID": "IDENTIFIANT",
+    "TABLE_HEADER_SUBJECT": "Sujet",
+    "TABLE_HEADER_STATUS": "Statut",
+    "TABLE_HEADER_LAST_REPLY": "Dernière réponse",
+    "TABLE_HEADER_CREATED_BY": "Créé par",
+    "VALUE_NONE": "Aucun",
+    "VALUE_DELETED": "Supprimé",
+    "FILE_NAME_COL": "Nom",
+    "FILE_SIZE_COL": "Taille",
+    "FILE_EXPIRES_COL": "Expire",
+    "FILE_ACTIONS_COL": "Actes",
+    "FILE_DATE_COL": "Date",
+    "FILE_SINGULAR": "déposer",
+    "FILE_PLURAL": "fichiers"
 }

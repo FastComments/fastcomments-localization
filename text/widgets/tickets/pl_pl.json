@@ -44,5 +44,19 @@
     "DELETE_FILE": "Usuwać",
     "CONFIRM_DELETE_FILE": "Czy na pewno chcesz usunąć ten plik?",
     "MAX_FILE_SIZE_HINT": "Maksymalny rozmiar pliku: [maxSize]",
-    "ERROR_DELETE_FAILED": "Nie udało się usunąć pliku."
+    "ERROR_DELETE_FAILED": "Nie udało się usunąć pliku.",
+    "TABLE_HEADER_SUBJECT": "Temat",
+    "TABLE_HEADER_ID": "ID",
+    "TABLE_HEADER_STATUS": "Status",
+    "TABLE_HEADER_CREATED_BY": "Stworzone przez",
+    "VALUE_NONE": "Nic",
+    "VALUE_DELETED": "Usunięto",
+    "FILE_SIZE_COL": "Rozmiar",
+    "FILE_NAME_COL": "Nazwa",
+    "TABLE_HEADER_LAST_REPLY": "Ostatnia odpowiedź",
+    "FILE_DATE_COL": "Data",
+    "FILE_EXPIRES_COL": "Wygasa",
+    "FILE_ACTIONS_COL": "Akcje",
+    "FILE_PLURAL": "akta",
+    "FILE_SINGULAR": "plik"
 }

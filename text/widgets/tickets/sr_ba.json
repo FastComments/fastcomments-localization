@@ -44,5 +44,19 @@
     "DELETE_FILE": "Обриши",
     "CONFIRM_DELETE_FILE": "Да ли сте сигурни да желите да обришете ову датотеку?",
     "MAX_FILE_SIZE_HINT": "Максимална величина датотеке: [maxSize]",
-    "ERROR_DELETE_FAILED": "Брисање датотеке није успело."
+    "ERROR_DELETE_FAILED": "Брисање датотеке није успело.",
+    "TABLE_HEADER_SUBJECT": "Предмет",
+    "TABLE_HEADER_ID": "ИД",
+    "TABLE_HEADER_CREATED_BY": "Креирао/ла",
+    "TABLE_HEADER_LAST_REPLY": "Последњи одговор",
+    "TABLE_HEADER_STATUS": "Статус",
+    "VALUE_NONE": "Ниједан",
+    "FILE_NAME_COL": "Име",
+    "FILE_SIZE_COL": "Величина",
+    "FILE_ACTIONS_COL": "Акције",
+    "FILE_DATE_COL": "Датум",
+    "FILE_EXPIRES_COL": "Истиче",
+    "VALUE_DELETED": "Избрисано",
+    "FILE_SINGULAR": "датотека",
+    "FILE_PLURAL": "датотеке"
 }

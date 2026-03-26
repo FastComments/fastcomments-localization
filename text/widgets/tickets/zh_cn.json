@@ -44,5 +44,19 @@
     "CONFIRM_DELETE_FILE": "您确定要删除此文件吗？",
     "DELETE_FILE": "删除",
     "MAX_FILE_SIZE_HINT": "最大文件大小：[maxSize]",
-    "ERROR_DELETE_FAILED": "文件删除失败。"
+    "ERROR_DELETE_FAILED": "文件删除失败。",
+    "TABLE_HEADER_CREATED_BY": "创建者",
+    "TABLE_HEADER_STATUS": "地位",
+    "TABLE_HEADER_SUBJECT": "主题",
+    "TABLE_HEADER_ID": "ID",
+    "VALUE_NONE": "没有任何",
+    "TABLE_HEADER_LAST_REPLY": "最后回复",
+    "VALUE_DELETED": "已删除",
+    "FILE_NAME_COL": "姓名",
+    "FILE_DATE_COL": "日期",
+    "FILE_SIZE_COL": "尺寸",
+    "FILE_EXPIRES_COL": "过期",
+    "FILE_PLURAL": "文件",
+    "FILE_SINGULAR": "文件",
+    "FILE_ACTIONS_COL": "行动"
 }

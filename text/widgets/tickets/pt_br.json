@@ -44,5 +44,19 @@
     "DELETE_FILE": "Excluir",
     "CONFIRM_DELETE_FILE": "Tem certeza de que deseja excluir este arquivo?",
     "ERROR_DELETE_FAILED": "Falha ao excluir o arquivo.",
-    "MAX_FILE_SIZE_HINT": "Tamanho máximo do arquivo: [maxSize]"
+    "MAX_FILE_SIZE_HINT": "Tamanho máximo do arquivo: [maxSize]",
+    "TABLE_HEADER_ID": "EU IA",
+    "TABLE_HEADER_CREATED_BY": "Criado por",
+    "TABLE_HEADER_SUBJECT": "Assunto",
+    "TABLE_HEADER_STATUS": "Status",
+    "TABLE_HEADER_LAST_REPLY": "Última resposta",
+    "VALUE_NONE": "Nenhum",
+    "FILE_NAME_COL": "Nome",
+    "FILE_DATE_COL": "Data",
+    "FILE_ACTIONS_COL": "Ações",
+    "FILE_EXPIRES_COL": "Expira",
+    "FILE_SINGULAR": "arquivo",
+    "FILE_PLURAL": "arquivos",
+    "FILE_SIZE_COL": "Tamanho",
+    "VALUE_DELETED": "Excluído"
 }

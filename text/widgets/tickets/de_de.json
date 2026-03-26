@@ -44,5 +44,19 @@
     "DELETE_FILE": "Löschen",
     "CONFIRM_DELETE_FILE": "Möchten Sie diese Datei wirklich löschen?",
     "ERROR_DELETE_FAILED": "Datei konnte nicht gelöscht werden.",
-    "MAX_FILE_SIZE_HINT": "Maximale Dateigröße: [maxSize]"
+    "MAX_FILE_SIZE_HINT": "Maximale Dateigröße: [maxSize]",
+    "TABLE_HEADER_ID": "AUSWEIS",
+    "TABLE_HEADER_SUBJECT": "Thema",
+    "TABLE_HEADER_LAST_REPLY": "Letzte Antwort",
+    "TABLE_HEADER_CREATED_BY": "Erstellt von",
+    "TABLE_HEADER_STATUS": "Status",
+    "FILE_NAME_COL": "Name",
+    "VALUE_NONE": "Keiner",
+    "VALUE_DELETED": "Gelöscht",
+    "FILE_SIZE_COL": "Größe",
+    "FILE_DATE_COL": "Datum",
+    "FILE_EXPIRES_COL": "Läuft ab",
+    "FILE_ACTIONS_COL": "Aktionen",
+    "FILE_PLURAL": "Dateien",
+    "FILE_SINGULAR": "Datei"
 }

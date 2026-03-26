@@ -44,5 +44,19 @@
     "DELETE_FILE": "刪除",
     "CONFIRM_DELETE_FILE": "您確定要刪除此檔案嗎？",
     "ERROR_DELETE_FAILED": "文件刪除失敗。",
-    "MAX_FILE_SIZE_HINT": "最大檔案大小：[maxSize]"
+    "MAX_FILE_SIZE_HINT": "最大檔案大小：[maxSize]",
+    "TABLE_HEADER_ID": "ID",
+    "TABLE_HEADER_SUBJECT": "主題",
+    "TABLE_HEADER_CREATED_BY": "創建者",
+    "TABLE_HEADER_STATUS": "地位",
+    "VALUE_NONE": "沒有任何",
+    "FILE_SIZE_COL": "尺寸",
+    "VALUE_DELETED": "已刪除",
+    "FILE_NAME_COL": "姓名",
+    "FILE_EXPIRES_COL": "過期",
+    "TABLE_HEADER_LAST_REPLY": "最後回覆",
+    "FILE_ACTIONS_COL": "行動",
+    "FILE_DATE_COL": "日期",
+    "FILE_SINGULAR": "文件",
+    "FILE_PLURAL": "文件"
 }

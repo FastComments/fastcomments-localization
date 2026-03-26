@@ -44,5 +44,19 @@
     "DELETE_FILE": "Verwijderen",
     "CONFIRM_DELETE_FILE": "Weet je zeker dat je dit bestand wilt verwijderen?",
     "MAX_FILE_SIZE_HINT": "Maximale bestandsgrootte: [maxSize]",
-    "ERROR_DELETE_FAILED": "Het verwijderen van het bestand is mislukt."
+    "ERROR_DELETE_FAILED": "Het verwijderen van het bestand is mislukt.",
+    "TABLE_HEADER_ID": "ID",
+    "TABLE_HEADER_SUBJECT": "Onderwerp",
+    "TABLE_HEADER_CREATED_BY": "Gemaakt door",
+    "VALUE_NONE": "Geen",
+    "VALUE_DELETED": "Verwijderd",
+    "TABLE_HEADER_STATUS": "Status",
+    "FILE_SIZE_COL": "Maat",
+    "TABLE_HEADER_LAST_REPLY": "Laatste antwoord",
+    "FILE_NAME_COL": "Naam",
+    "FILE_DATE_COL": "Datum",
+    "FILE_ACTIONS_COL": "Acties",
+    "FILE_EXPIRES_COL": "Verloopt",
+    "FILE_SINGULAR": "bestand",
+    "FILE_PLURAL": "bestanden"
 }

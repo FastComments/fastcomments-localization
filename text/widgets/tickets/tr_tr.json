@@ -44,5 +44,19 @@
     "DELETE_FILE": "Silmek",
     "CONFIRM_DELETE_FILE": "Bu dosyayı silmek istediğinizden emin misiniz?",
     "ERROR_DELETE_FAILED": "Dosya silme işlemi başarısız oldu.",
-    "MAX_FILE_SIZE_HINT": "Maksimum dosya boyutu: [maxSize]"
+    "MAX_FILE_SIZE_HINT": "Maksimum dosya boyutu: [maxSize]",
+    "TABLE_HEADER_ID": "İD",
+    "TABLE_HEADER_SUBJECT": "Ders",
+    "TABLE_HEADER_CREATED_BY": "Tarafından oluşturuldu",
+    "TABLE_HEADER_LAST_REPLY": "Son Yanıt",
+    "TABLE_HEADER_STATUS": "Durum",
+    "VALUE_NONE": "Hiçbiri",
+    "VALUE_DELETED": "Silindi",
+    "FILE_NAME_COL": "İsim",
+    "FILE_SIZE_COL": "Boyut",
+    "FILE_DATE_COL": "Tarih",
+    "FILE_ACTIONS_COL": "Eylemler",
+    "FILE_EXPIRES_COL": "Süresi doluyor",
+    "FILE_SINGULAR": "dosya",
+    "FILE_PLURAL": "dosyalar"
 }

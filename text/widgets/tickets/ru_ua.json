@@ -44,5 +44,19 @@
     "DELETE_FILE": "Удалить",
     "CONFIRM_DELETE_FILE": "Вы уверены, что хотите удалить этот файл?",
     "ERROR_DELETE_FAILED": "Не удалось удалить файл.",
-    "MAX_FILE_SIZE_HINT": "Максимальный размер файла: [maxSize]"
+    "MAX_FILE_SIZE_HINT": "Максимальный размер файла: [maxSize]",
+    "TABLE_HEADER_SUBJECT": "Предмет",
+    "TABLE_HEADER_ID": "ИДЕНТИФИКАТОР",
+    "TABLE_HEADER_STATUS": "Статус",
+    "TABLE_HEADER_CREATED_BY": "Создано пользователем",
+    "VALUE_NONE": "Никто",
+    "VALUE_DELETED": "Удалено",
+    "TABLE_HEADER_LAST_REPLY": "Последний ответ",
+    "FILE_NAME_COL": "Имя",
+    "FILE_SIZE_COL": "Размер",
+    "FILE_DATE_COL": "Дата",
+    "FILE_EXPIRES_COL": "Срок действия истекает",
+    "FILE_SINGULAR": "файл",
+    "FILE_ACTIONS_COL": "Действия",
+    "FILE_PLURAL": "файлы"
 }
