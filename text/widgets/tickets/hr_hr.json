@@ -40,5 +40,9 @@
     "CUSTOMER": "Kupac",
     "RESPONSE_TIME": "Prosječno vrijeme odziva",
     "FILTER_BY_ASSIGNEE": "Filtriraj po osobi koja je zadužena",
-    "CREATE_TICKET_HINT": "Nakon slanja možete dodati više detalja i priložiti datoteke."
+    "CREATE_TICKET_HINT": "Nakon slanja možete dodati više detalja i priložiti datoteke.",
+    "DELETE_FILE": "Izbrisati",
+    "CONFIRM_DELETE_FILE": "Jeste li sigurni da želite izbrisati ovu datoteku?",
+    "ERROR_DELETE_FAILED": "Brisanje datoteke nije uspjelo.",
+    "MAX_FILE_SIZE_HINT": "Maksimalna veličina datoteke: [maxSize]"
 }

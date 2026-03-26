@@ -19,5 +19,6 @@
     "FILE_SINGULAR": "arquivo",
     "FILE_PLURAL": "arquivos",
     "LINK_MANAGE_FILES": "Gerenciar arquivos",
-    "FILE_UPLOAD_COMMENT": "[username] carregou um arquivo: [filename]."
+    "FILE_UPLOAD_COMMENT": "[username] carregou um arquivo: [filename].",
+    "FILE_UPLOAD_COMMENT_WITH_MENTIONS": "[username] carregou um arquivo: [filename]. [mentionTags]"
 }

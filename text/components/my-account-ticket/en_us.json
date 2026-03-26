@@ -19,5 +19,6 @@
     "FILE_SINGULAR": "file",
     "FILE_PLURAL": "files",
     "LINK_MANAGE_FILES": "Manage Files",
-    "FILE_UPLOAD_COMMENT": "[username] uploaded a file: [filename]."
+    "FILE_UPLOAD_COMMENT": "[username] uploaded a file: [filename].",
+    "FILE_UPLOAD_COMMENT_WITH_MENTIONS": "[username] uploaded a file: [filename]. [mentionTags]"
 }

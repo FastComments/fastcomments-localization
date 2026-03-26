@@ -19,5 +19,6 @@
     "FILE_SINGULAR": "文件",
     "FILE_PLURAL": "文件",
     "LINK_MANAGE_FILES": "管理文件",
-    "FILE_UPLOAD_COMMENT": "使用者[username]上傳了一個檔案：[filename]。"
+    "FILE_UPLOAD_COMMENT": "使用者[username]上傳了一個檔案：[filename]。",
+    "FILE_UPLOAD_COMMENT_WITH_MENTIONS": "使用者[username]上傳了一個檔案：[filename]。 [mentionTags]"
 }

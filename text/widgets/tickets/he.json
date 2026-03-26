@@ -40,5 +40,9 @@
     "ERROR_ASSIGN_FAILED": "הקצאת הכרטיס נכשלה.",
     "RESPONSE_TIME": "זמן תגובה ממוצע",
     "ASSIGNED_TO": "הוקצה ל",
-    "CREATE_TICKET_HINT": "ניתן להוסיף פרטים נוספים ולצרף קבצים לאחר השליחה."
+    "CREATE_TICKET_HINT": "ניתן להוסיף פרטים נוספים ולצרף קבצים לאחר השליחה.",
+    "DELETE_FILE": "לִמְחוֹק",
+    "MAX_FILE_SIZE_HINT": "גודל קובץ מקסימלי: [maxSize]",
+    "ERROR_DELETE_FAILED": "מחיקת הקובץ נכשלה.",
+    "CONFIRM_DELETE_FILE": "האם אתה בטוח שאתה רוצה למחוק את הקובץ הזה?"
 }

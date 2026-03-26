@@ -40,5 +40,9 @@
     "ASSIGNED_TO": "Przypisany do",
     "ERROR_ASSIGN_FAILED": "Nie udało się przypisać biletu.",
     "RESPONSE_TIME": "Średni czas reakcji",
-    "CREATE_TICKET_HINT": "Po przesłaniu możesz dodać więcej szczegółów i załączyć pliki."
+    "CREATE_TICKET_HINT": "Po przesłaniu możesz dodać więcej szczegółów i załączyć pliki.",
+    "DELETE_FILE": "Usuwać",
+    "CONFIRM_DELETE_FILE": "Czy na pewno chcesz usunąć ten plik?",
+    "MAX_FILE_SIZE_HINT": "Maksymalny rozmiar pliku: [maxSize]",
+    "ERROR_DELETE_FAILED": "Nie udało się usunąć pliku."
 }

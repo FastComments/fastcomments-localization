@@ -40,5 +40,9 @@
     "ASSIGNED_TO": "割り当て先",
     "ERROR_ASSIGN_FAILED": "チケットの割り当てに失敗しました。",
     "RESPONSE_TIME": "平均応答時間",
-    "CREATE_TICKET_HINT": "送信後、詳細情報を追加したり、ファイルを添付したりできます。"
+    "CREATE_TICKET_HINT": "送信後、詳細情報を追加したり、ファイルを添付したりできます。",
+    "DELETE_FILE": "消去",
+    "CONFIRM_DELETE_FILE": "このファイルを削除してもよろしいですか？",
+    "ERROR_DELETE_FAILED": "ファイルの削除に失敗しました。",
+    "MAX_FILE_SIZE_HINT": "最大ファイルサイズ：[maxSize]"
 }

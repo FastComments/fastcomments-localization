@@ -40,5 +40,9 @@
     "ASSIGNED_TO": "Zugewiesen an",
     "RESPONSE_TIME": "Durchschnittliche Antwortzeit",
     "ERROR_ASSIGN_FAILED": "Ticketzuweisung fehlgeschlagen.",
-    "CREATE_TICKET_HINT": "Sie können nach dem Absenden weitere Details hinzufügen und Dateien anhängen."
+    "CREATE_TICKET_HINT": "Sie können nach dem Absenden weitere Details hinzufügen und Dateien anhängen.",
+    "DELETE_FILE": "Löschen",
+    "CONFIRM_DELETE_FILE": "Möchten Sie diese Datei wirklich löschen?",
+    "ERROR_DELETE_FAILED": "Datei konnte nicht gelöscht werden.",
+    "MAX_FILE_SIZE_HINT": "Maximale Dateigröße: [maxSize]"
 }

@@ -19,5 +19,6 @@
     "FILE_SINGULAR": "datoteka",
     "FILE_PLURAL": "datoteke",
     "LINK_MANAGE_FILES": "Upravljanje datotekama",
-    "FILE_UPLOAD_COMMENT": "[username] je prenio/la datoteku: [filename]."
+    "FILE_UPLOAD_COMMENT": "[username] je prenio/la datoteku: [filename].",
+    "FILE_UPLOAD_COMMENT_WITH_MENTIONS": "[username] je prenio/la datoteku: [filename]. [mentionTags]"
 }

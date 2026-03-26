@@ -40,5 +40,9 @@
     "UNASSIGNED": "Neraspoređeno",
     "RESPONSE_TIME": "Prosečno vreme odziva",
     "ERROR_ASSIGN_FAILED": "Failed to assign ticket.",
-    "CREATE_TICKET_HINT": "Možete dodati više detalja i priložiti datoteke nakon slanja."
+    "CREATE_TICKET_HINT": "Možete dodati više detalja i priložiti datoteke nakon slanja.",
+    "CONFIRM_DELETE_FILE": "Da li ste sigurni da želite da izbrišete ovu datoteku?",
+    "DELETE_FILE": "Izbrisati",
+    "ERROR_DELETE_FAILED": "Failed to delete file.",
+    "MAX_FILE_SIZE_HINT": "Maksimalna veličina fajla: [maxSize]"
 }

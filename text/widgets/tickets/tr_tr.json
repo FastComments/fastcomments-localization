@@ -40,5 +40,9 @@
     "ASSIGN_TO": "Ata",
     "RESPONSE_TIME": "Ortalama yanıt süresi",
     "ERROR_ASSIGN_FAILED": "Bilet atama işlemi başarısız oldu.",
-    "CREATE_TICKET_HINT": "Gönderdikten sonra daha fazla ayrıntı ekleyebilir ve dosyalar ekleyebilirsiniz."
+    "CREATE_TICKET_HINT": "Gönderdikten sonra daha fazla ayrıntı ekleyebilir ve dosyalar ekleyebilirsiniz.",
+    "DELETE_FILE": "Silmek",
+    "CONFIRM_DELETE_FILE": "Bu dosyayı silmek istediğinizden emin misiniz?",
+    "ERROR_DELETE_FAILED": "Dosya silme işlemi başarısız oldu.",
+    "MAX_FILE_SIZE_HINT": "Maksimum dosya boyutu: [maxSize]"
 }

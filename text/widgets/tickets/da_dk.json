@@ -40,5 +40,9 @@
     "ERROR_ASSIGN_FAILED": "Kunne ikke tildele billet.",
     "ASSIGNED_TO": "Tildelt til",
     "UNASSIGNED": "Ikke-tildelt",
-    "CREATE_TICKET_HINT": "Du kan tilføje flere oplysninger og vedhæfte filer efter indsendelse."
+    "CREATE_TICKET_HINT": "Du kan tilføje flere oplysninger og vedhæfte filer efter indsendelse.",
+    "DELETE_FILE": "Slet",
+    "CONFIRM_DELETE_FILE": "Er du sikker på, at du vil slette denne fil?",
+    "MAX_FILE_SIZE_HINT": "Maksimal filstørrelse: [maxSize]",
+    "ERROR_DELETE_FAILED": "Kunne ikke slette filen."
 }

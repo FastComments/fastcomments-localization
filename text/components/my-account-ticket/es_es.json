@@ -19,5 +19,6 @@
     "FILE_SINGULAR": "archivo",
     "FILE_PLURAL": "archivos",
     "LINK_MANAGE_FILES": "Administrar archivos",
-    "FILE_UPLOAD_COMMENT": "[username] subió un archivo: [filename]."
+    "FILE_UPLOAD_COMMENT": "[username] subió un archivo: [filename].",
+    "FILE_UPLOAD_COMMENT_WITH_MENTIONS": "[username] subió un archivo: [filename]. [mentionTags]"
 }

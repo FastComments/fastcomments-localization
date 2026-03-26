@@ -40,5 +40,9 @@
     "RESPONSE_TIME": "Povprečni odzivni čas",
     "UNASSIGNED": "Nedodeljeno",
     "ERROR_ASSIGN_FAILED": "Dodelitev vozovnice ni uspela.",
-    "CREATE_TICKET_HINT": "Po oddaji lahko dodate več podrobnosti in priložite datoteke."
+    "CREATE_TICKET_HINT": "Po oddaji lahko dodate več podrobnosti in priložite datoteke.",
+    "DELETE_FILE": "Izbriši",
+    "CONFIRM_DELETE_FILE": "Ali ste prepričani, da želite izbrisati to datoteko?",
+    "ERROR_DELETE_FAILED": "Brisanje datoteke ni uspelo.",
+    "MAX_FILE_SIZE_HINT": "Največja velikost datoteke: [maxSize]"
 }

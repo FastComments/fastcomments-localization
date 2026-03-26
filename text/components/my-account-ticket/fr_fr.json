@@ -19,5 +19,6 @@
     "FILE_SINGULAR": "déposer",
     "FILE_PLURAL": "fichiers",
     "LINK_MANAGE_FILES": "Gérer les fichiers",
-    "FILE_UPLOAD_COMMENT": "[username] a téléchargé un fichier : [filename]."
+    "FILE_UPLOAD_COMMENT": "[username] a téléchargé un fichier : [filename].",
+    "FILE_UPLOAD_COMMENT_WITH_MENTIONS": "[username] a téléchargé un fichier : [filename]. [mentionTags]"
 }

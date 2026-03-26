@@ -40,5 +40,9 @@
     "CUSTOMER": "Customer",
     "ASSIGNED_TO": "Assigned to",
     "RESPONSE_TIME": "Avg response time",
-    "ERROR_ASSIGN_FAILED": "Failed to assign ticket."
+    "ERROR_ASSIGN_FAILED": "Failed to assign ticket.",
+    "DELETE_FILE": "Delete",
+    "CONFIRM_DELETE_FILE": "Are you sure you want to delete this file?",
+    "ERROR_DELETE_FAILED": "Failed to delete file.",
+    "MAX_FILE_SIZE_HINT": "Max file size: [maxSize]"
 }

@@ -40,5 +40,9 @@
     "ASSIGNED_TO": "分配给",
     "RESPONSE_TIME": "平均响应时间",
     "ERROR_ASSIGN_FAILED": "分配工单失败。",
-    "CREATE_TICKET_HINT": "提交后，您可以添加更多详细信息并附加文件。"
+    "CREATE_TICKET_HINT": "提交后，您可以添加更多详细信息并附加文件。",
+    "CONFIRM_DELETE_FILE": "您确定要删除此文件吗？",
+    "DELETE_FILE": "删除",
+    "MAX_FILE_SIZE_HINT": "最大文件大小：[maxSize]",
+    "ERROR_DELETE_FAILED": "文件删除失败。"
 }

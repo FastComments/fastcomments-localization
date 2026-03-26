@@ -40,5 +40,9 @@
     "ASSIGNED_TO": "Asignado a",
     "RESPONSE_TIME": "Tiempo de respuesta promedio",
     "ERROR_ASSIGN_FAILED": "No se pudo asignar el ticket.",
-    "CREATE_TICKET_HINT": "Puedes añadir más detalles y adjuntar archivos después de enviar el formulario."
+    "CREATE_TICKET_HINT": "Puedes añadir más detalles y adjuntar archivos después de enviar el formulario.",
+    "DELETE_FILE": "Borrar",
+    "CONFIRM_DELETE_FILE": "¿Estás seguro de que quieres eliminar este archivo?",
+    "ERROR_DELETE_FAILED": "No se pudo eliminar el archivo.",
+    "MAX_FILE_SIZE_HINT": "Tamaño máximo del archivo: [maxSize]"
 }

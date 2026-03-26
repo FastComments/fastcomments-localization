@@ -40,5 +40,9 @@
     "ASSIGNED_TO": "배정됨",
     "RESPONSE_TIME": "평균 응답 시간",
     "ERROR_ASSIGN_FAILED": "티켓 배정에 실패했습니다.",
-    "CREATE_TICKET_HINT": "제출 후 추가 정보를 입력하고 파일을 첨부할 수 있습니다."
+    "CREATE_TICKET_HINT": "제출 후 추가 정보를 입력하고 파일을 첨부할 수 있습니다.",
+    "CONFIRM_DELETE_FILE": "이 파일을 정말로 삭제하시겠습니까?",
+    "DELETE_FILE": "삭제",
+    "ERROR_DELETE_FAILED": "파일 삭제에 실패했습니다.",
+    "MAX_FILE_SIZE_HINT": "최대 파일 크기: [maxSize]"
 }

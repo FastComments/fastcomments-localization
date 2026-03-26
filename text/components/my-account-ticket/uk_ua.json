@@ -19,5 +19,6 @@
     "FILE_SINGULAR": "файл",
     "FILE_PLURAL": "файли",
     "LINK_MANAGE_FILES": "Керування файлами",
-    "FILE_UPLOAD_COMMENT": "[username] завантажив файл: [filename]."
+    "FILE_UPLOAD_COMMENT": "[username] завантажив файл: [filename].",
+    "FILE_UPLOAD_COMMENT_WITH_MENTIONS": "[username] завантажив файл: [filename]. [mentionTags]"
 }

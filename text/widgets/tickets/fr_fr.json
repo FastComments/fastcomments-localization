@@ -40,5 +40,9 @@
     "ASSIGNED_TO": "Affecté à",
     "RESPONSE_TIME": "Temps de réponse moyen",
     "ERROR_ASSIGN_FAILED": "Impossible d'attribuer le billet.",
-    "CREATE_TICKET_HINT": "Vous pouvez ajouter plus de détails et joindre des fichiers après l'envoi."
+    "CREATE_TICKET_HINT": "Vous pouvez ajouter plus de détails et joindre des fichiers après l'envoi.",
+    "DELETE_FILE": "Supprimer",
+    "ERROR_DELETE_FAILED": "Échec de la suppression du fichier.",
+    "CONFIRM_DELETE_FILE": "Êtes-vous sûr de vouloir supprimer ce fichier ?",
+    "MAX_FILE_SIZE_HINT": "Taille maximale du fichier : [maxSize]"
 }

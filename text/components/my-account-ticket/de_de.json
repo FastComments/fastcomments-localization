@@ -19,5 +19,6 @@
     "FILE_SINGULAR": "Datei",
     "FILE_PLURAL": "Dateien",
     "LINK_MANAGE_FILES": "Dateien verwalten",
-    "FILE_UPLOAD_COMMENT": "[username] hat eine Datei hochgeladen: [filename]."
+    "FILE_UPLOAD_COMMENT": "[username] hat eine Datei hochgeladen: [filename].",
+    "FILE_UPLOAD_COMMENT_WITH_MENTIONS": "[username] hat eine Datei hochgeladen: [filename]. [mentionTags]"
 }

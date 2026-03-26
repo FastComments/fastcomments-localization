@@ -40,5 +40,9 @@
     "UNASSIGNED": "Non assegnato",
     "RESPONSE_TIME": "tempo medio di risposta",
     "ERROR_ASSIGN_FAILED": "Impossibile assegnare il ticket.",
-    "CREATE_TICKET_HINT": "Dopo l'invio, potrai aggiungere ulteriori dettagli e allegare file."
+    "CREATE_TICKET_HINT": "Dopo l'invio, potrai aggiungere ulteriori dettagli e allegare file.",
+    "DELETE_FILE": "Eliminare",
+    "CONFIRM_DELETE_FILE": "Sei sicuro di voler eliminare questo file?",
+    "MAX_FILE_SIZE_HINT": "Dimensione massima del file: [maxSize]",
+    "ERROR_DELETE_FAILED": "Impossibile eliminare il file."
 }

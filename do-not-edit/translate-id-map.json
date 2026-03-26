@@ -243,7 +243,7 @@
         "my-account-sent-emails": 21,
         "my-account-tenant-delete": 37,
         "my-account-tenants": 23,
-        "my-account-ticket": 26,
+        "my-account-ticket": 27,
         "my-account-tickets": 22,
         "my-account-two-factor": 13,
         "my-account-update-failure": 13,
@@ -362,7 +362,7 @@
         "my-account-canvas-lti-config-delete": 5,
         "my-account-canvas-lti-config-enable": 1,
         "my-account-canvas-lti-config-setup": 1,
-        "tickets": 42,
+        "tickets": 46,
         "tickets-admin": 13,
         "demo-ticketing": 11,
         "my-account-configure-domains-edit": 17,
@@ -5241,7 +5241,8 @@
         "t23": "FILE_SINGULAR",
         "t24": "FILE_PLURAL",
         "t25": "LINK_MANAGE_FILES",
-        "t26": "FILE_UPLOAD_COMMENT"
+        "t26": "FILE_UPLOAD_COMMENT",
+        "t27": "FILE_UPLOAD_COMMENT_WITH_MENTIONS"
     },
     "my-account-tickets": {
         "t1": "PAGE_TITLE",
@@ -7894,7 +7895,11 @@
         "t39": "ASSIGNED_TO",
         "t40": "RESPONSE_TIME",
         "t41": "ERROR_ASSIGN_FAILED",
-        "t42": "CREATE_TICKET_HINT"
+        "t42": "CREATE_TICKET_HINT",
+        "t43": "DELETE_FILE",
+        "t44": "CONFIRM_DELETE_FILE",
+        "t45": "ERROR_DELETE_FAILED",
+        "t46": "MAX_FILE_SIZE_HINT"
     },
     "tickets-admin": {
         "t1": "TITLE",
