@@ -362,7 +362,7 @@
         "my-account-canvas-lti-config-delete": 5,
         "my-account-canvas-lti-config-enable": 1,
         "my-account-canvas-lti-config-setup": 1,
-        "tickets": 41,
+        "tickets": 42,
         "tickets-admin": 13,
         "demo-ticketing": 11,
         "my-account-configure-domains-edit": 17,
@@ -7893,7 +7893,8 @@
         "t38": "CUSTOMER",
         "t39": "ASSIGNED_TO",
         "t40": "RESPONSE_TIME",
-        "t41": "ERROR_ASSIGN_FAILED"
+        "t41": "ERROR_ASSIGN_FAILED",
+        "t42": "CREATE_TICKET_HINT"
     },
     "tickets-admin": {
         "t1": "TITLE",
