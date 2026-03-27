@@ -20,5 +20,17 @@
     "FILE_PLURAL": "ファイル",
     "LINK_MANAGE_FILES": "ファイルの管理",
     "FILE_UPLOAD_COMMENT": "[username] がファイルをアップロードしました: [filename]。",
-    "FILE_UPLOAD_COMMENT_WITH_MENTIONS": "[username] がファイルをアップロードしました: [filename]. [mentionTags]"
+    "FILE_UPLOAD_COMMENT_WITH_MENTIONS": "[username] がファイルをアップロードしました: [filename]. [mentionTags]",
+    "DURATION_IMMEDIATELY": "すぐに",
+    "DURATION_MINUTES": "[v] 分",
+    "DURATION_SECONDS": "[v]秒",
+    "DURATION_COUPLE_MINUTES": "数分",
+    "DURATION_AN_HOUR": "1時間",
+    "DURATION_A_DAY": "1日",
+    "DURATION_YEARS": "[v]年",
+    "DURATION_WEEKS": "[v]週間",
+    "DURATION_MONTHS": "[v]ヶ月",
+    "DURATION_DAYS": "[v]日",
+    "DURATION_A_WEEK": "1週間",
+    "DURATION_HOURS": "[v]時間"
 }

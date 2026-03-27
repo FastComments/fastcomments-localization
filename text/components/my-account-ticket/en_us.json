@@ -20,5 +20,17 @@
     "FILE_PLURAL": "files",
     "LINK_MANAGE_FILES": "Manage Files",
     "FILE_UPLOAD_COMMENT": "[username] uploaded a file: [filename].",
-    "FILE_UPLOAD_COMMENT_WITH_MENTIONS": "[username] uploaded a file: [filename]. [mentionTags]"
+    "FILE_UPLOAD_COMMENT_WITH_MENTIONS": "[username] uploaded a file: [filename]. [mentionTags]",
+    "DURATION_IMMEDIATELY": "immediately",
+    "DURATION_SECONDS": "[v] seconds",
+    "DURATION_COUPLE_MINUTES": "a couple minutes",
+    "DURATION_MINUTES": "[v] minutes",
+    "DURATION_AN_HOUR": "an hour",
+    "DURATION_HOURS": "[v] hours",
+    "DURATION_A_DAY": "a day",
+    "DURATION_DAYS": "[v] days",
+    "DURATION_A_WEEK": "a week",
+    "DURATION_WEEKS": "[v] weeks",
+    "DURATION_MONTHS": "[v] months",
+    "DURATION_YEARS": "[v] years"
 }
