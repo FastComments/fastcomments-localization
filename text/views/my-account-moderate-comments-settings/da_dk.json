@@ -17,7 +17,7 @@
     "SPAM_FILTER_LABEL": "Spamfilter",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Naive Bayes (Delt)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Naive Bayes (Isoleret)",
-    "SPAM_FILTER_LLM": "LLM (OpenAI)",
+    "SPAM_FILTER_LLM": "LLM",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Med Naïve Bayes kan du bruge det spamfilter, som alle andre bruger, eller isolere din spamfiltertræning til kun at omfatte din lejer. Begge dele lærer løbende.",
     "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Vælg en LLM-mulighed for AI-drevet spamdetektion (faktureres $<%= tenantPackage.flexLLMCostCents / 100 %> pr. 1000 tokens). Kun ikke-åbenlys spam sendes til LLM'en for at reducere omkostningerne.",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "LLM-baseret spamdetektion er tilgængelig for Flex (tilpassede pakker er tilgængelige).",
@@ -50,5 +50,12 @@
     "COPY_TO_SUB_TENANTS_LABEL": "Kopi til underlejere",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Hvis du markerer dette, kopieres indstillingerne til alle underlejere.",
     "SAVE_BUTTON": "Spare",
-    "SPAM_FILTER_DEEPINFRA": "LLM (Dyb Infrastruktur)"
+    "SPAM_FILTER_DEEPINFRA": "LLM (Dyb Infrastruktur)",
+    "LLM_MODEL_LABEL": "LLM-model",
+    "LLM_CONTEXT_LABEL": "Yderligere LLM-kontekst (valgfrit)",
+    "LLM_CONTEXT_DESCRIPTION": "Giv yderligere kontekst for at hjælpe LLM'en med at træffe bedre beslutninger om spamdetektion for dit websted.",
+    "LLM_CONTEXT_PLACEHOLDER": "F.eks. \"Vi er et spilforum, referencer til vold er normalt diskussioner i spillet\"",
+    "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
+    "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo",
+    "LLM_CONTEXT_CHAR_COUNT": "/1000 tegn"
 }

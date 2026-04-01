@@ -228,7 +228,7 @@
         "my-account-moderate-comments-moderator-edit": 18,
         "my-account-moderate-comments-moderator-select-tenant": 7,
         "my-account-moderate-comments-moderators": 29,
-        "my-account-moderate-comments-settings": 52,
+        "my-account-moderate-comments-settings": 59,
         "my-account-moderate-comments-settings-update-failure": 5,
         "my-account-moderate-comments-settings-update-success": 4,
         "my-account-moderate-comments-thread": 4,
@@ -4933,7 +4933,14 @@
         "t49": "COPY_TO_SUB_TENANTS_LABEL",
         "t50": "COPY_TO_SUB_TENANTS_DESCRIPTION",
         "t51": "SAVE_BUTTON",
-        "t52": "SPAM_FILTER_DEEPINFRA"
+        "t52": "SPAM_FILTER_DEEPINFRA",
+        "t53": "LLM_MODEL_LABEL",
+        "t54": "LLM_MODEL_OPENAI",
+        "t55": "LLM_MODEL_DEEPINFRA",
+        "t56": "LLM_CONTEXT_LABEL",
+        "t57": "LLM_CONTEXT_PLACEHOLDER",
+        "t58": "LLM_CONTEXT_DESCRIPTION",
+        "t59": "LLM_CONTEXT_CHAR_COUNT"
     },
     "my-account-moderate-comments-settings-update-failure": {
         "t1": "PAGE_TITLE",

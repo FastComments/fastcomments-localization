@@ -17,7 +17,7 @@
     "SPAM_FILTER_LABEL": "Spam Filter",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Naivni Baies (zajednički)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Naivni Baies (izolovani)",
-    "SPAM_FILTER_LLM": "LLM (OpenAI)",
+    "SPAM_FILTER_LLM": "LLM",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Sa Naivnim Baies-om, možete koristiti filter za neželjenu poštu koji svi drugi koriste, ili izolovati obuku filtera za neželjenu poštu samo na vašeg stanara. Oboje kontinuirano uče.",
     "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Izaberite LLM opciju za detekciju neželjene pošte sa AI-om (naplaćuje se $ <%= tenantPackage.flexLLMCostCents / 100 %> po 1k tokena). Samo ne-očigledan spam se šalje na LLM kako bi se smanjili troškovi.",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Detekcija neželjene pošte zasnovana na LLM-u dostupna je za Flek (dostupni prilagođeni paketi).",
@@ -50,5 +50,12 @@
     "COPY_TO_SUB_TENANTS_LABEL": "Kopiraj na Sub stanare",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Provera ovoga će kopirati podešavanja svim podstanarima.",
     "SAVE_BUTTON": "Sačuvaj",
-    "SPAM_FILTER_DEEPINFRA": "LLM (DeepInfra)"
+    "SPAM_FILTER_DEEPINFRA": "LLM (DeepInfra)",
+    "LLM_CONTEXT_CHAR_COUNT": "/1000 likovi",
+    "LLM_CONTEXT_LABEL": "Dodatni LLM kontekst (opciono)",
+    "LLM_CONTEXT_PLACEHOLDER": "Na primer, \"Mi smo forum za igre, reference na nasilje su obično diskusije u igri\"",
+    "LLM_MODEL_LABEL": "LLM modela",
+    "LLM_MODEL_DEEPINFRA": "Srpski/srpski",
+    "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
+    "LLM_CONTEXT_DESCRIPTION": "Obezbedite dodatni kontekst kako biste pomogli LLM-u da donese bolje odluke o otkrivanju neželjene pošte za vašu veb lokaciju."
 }

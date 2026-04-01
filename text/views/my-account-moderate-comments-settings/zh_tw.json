@@ -17,7 +17,7 @@
     "SPAM_FILTER_LABEL": "垃圾郵件過濾器",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "樸素貝葉斯（共享）",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "樸素貝葉斯（孤立式）",
-    "SPAM_FILTER_LLM": "LLM（OpenAI）",
+    "SPAM_FILTER_LLM": "法學碩士",
     "SPAM_FILTER_DESCRIPTION_BAYES": "使用樸素貝葉斯演算法，您可以採用所有人都在使用的垃圾郵件過濾器，也可以將垃圾郵件過濾器的訓練範圍限定在您的租戶範圍內。兩種方法都能持續學習。",
     "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "選擇 LLM 選項以啟用 AI 驅動的垃圾郵件偵測（每 1000 個令牌收費 $<%= tenantPackage.flexLLMCostCents / 100 %>）。為了降低成本，只有非明顯垃圾郵件才會傳送到 LLM。",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Flex 提供基於 LLM 的垃圾郵件偵測（提供客製化軟體套件）。",
@@ -50,5 +50,12 @@
     "COPY_TO_SUB_TENANTS_LABEL": "抄送至次級租戶",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "選取此項目會將設定複製到所有子租用戶。",
     "SAVE_BUTTON": "節省",
-    "SPAM_FILTER_DEEPINFRA": "LLM（DeepInfra）"
+    "SPAM_FILTER_DEEPINFRA": "LLM（DeepInfra）",
+    "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
+    "LLM_MODEL_LABEL": "LLM模型",
+    "LLM_CONTEXT_LABEL": "法學碩士附加背景資訊（可選）",
+    "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo",
+    "LLM_CONTEXT_PLACEHOLDER": "例如，「我們是一個遊戲論壇，提及暴力內容通常僅用於遊戲內討論」。",
+    "LLM_CONTEXT_CHAR_COUNT": "/1000個字符",
+    "LLM_CONTEXT_DESCRIPTION": "提供更多上下文信息，以幫助 LLM 更好地檢測您網站的垃圾郵件。"
 }

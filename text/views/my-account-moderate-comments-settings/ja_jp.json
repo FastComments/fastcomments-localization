@@ -17,7 +17,7 @@
     "SPAM_FILTER_LABEL": "スパムフィルター",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "ナイーブベイズ（共有）",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "ナイーブベイズ（分離型）",
-    "SPAM_FILTER_LLM": "LLM（OpenAI）",
+    "SPAM_FILTER_LLM": "法学修士",
     "SPAM_FILTER_DESCRIPTION_BAYES": "ナイーブベイズを使用すると、他のテナントで使用されているスパムフィルターを使用することも、スパムフィルターのトレーニングをテナントのみに限定することもできます。どちらも継続的に学習します。",
     "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "AIを活用したスパム検出機能を提供するLLMオプションを選択してください（1,000トークンあたり$<%= tenantPackage.flexLLMCostCents / 100 %>の料金がかかります）。コスト削減のため、明らかにスパムと判断できないもののみがLLMに送信されます。",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Flexでは、LLMベースのスパム検出機能が利用可能です（カスタムパッケージもご用意しています）。",
@@ -50,5 +50,12 @@
     "COPY_TO_SUB_TENANTS_LABEL": "サブテナントへのコピー",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "これにチェックを入れると、設定がすべてのサブテナントにコピーされます。",
     "SAVE_BUTTON": "保存",
-    "SPAM_FILTER_DEEPINFRA": "LLM（ディープインフラ）"
+    "SPAM_FILTER_DEEPINFRA": "LLM（ディープインフラ）",
+    "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo",
+    "LLM_MODEL_LABEL": "LLMモデル",
+    "LLM_CONTEXT_LABEL": "LLMに関する追加情報（任意）",
+    "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
+    "LLM_CONTEXT_CHAR_COUNT": "/1000文字",
+    "LLM_CONTEXT_DESCRIPTION": "LLMがあなたのサイトに対してより適切なスパム検出判断を下せるよう、追加の情報を提供してください。",
+    "LLM_CONTEXT_PLACEHOLDER": "例えば、「ここはゲームフォーラムなので、暴力に関する言及は通常、ゲーム内での議論に限られます」"
 }

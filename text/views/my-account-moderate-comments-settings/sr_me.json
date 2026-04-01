@@ -17,7 +17,7 @@
     "SPAM_FILTER_LABEL": "Филтер за нежељену пошту",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Наивни Бајес (Дељено)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Наивни Бајесов (изоловани)",
-    "SPAM_FILTER_LLM": "Магистар права (OpenAI)",
+    "SPAM_FILTER_LLM": "Мастер права (LLM)",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Са Наивним Бајесовим системом, можете користити филтер за спам који сви остали користе или изоловати обуку филтера за спам само за вашег закупца. Оба система континуирано уче.",
     "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Изаберите LLM опцију за детекцију спама помоћу вештачке интелигенције (наплаћује се <%= tenantPackage.flexLLMCostCents / 100 %> долара по 1 хиљади токена). Само неочигледан спам се шаље LLM-у ради смањења трошкова.",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Детекција нежељене поште заснована на LLM-у је доступна за Flex (доступни су прилагођени пакети).",
@@ -50,5 +50,12 @@
     "COPY_TO_SUB_TENANTS_LABEL": "Копија за подстанаре",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Означавањем ове опције подешавања ће се копирати на све подстанаре.",
     "SAVE_BUTTON": "Сачувај",
-    "SPAM_FILTER_DEEPINFRA": "Магистар права (ДипИнфра)"
+    "SPAM_FILTER_DEEPINFRA": "Магистар права (ДипИнфра)",
+    "LLM_MODEL_LABEL": "Модел мастер права",
+    "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
+    "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo",
+    "LLM_CONTEXT_LABEL": "Додатни контекст мастер студија права (опционо)",
+    "LLM_CONTEXT_CHAR_COUNT": "/1000 карактера",
+    "LLM_CONTEXT_DESCRIPTION": "Наведите додатни контекст како бисте помогли LLM-у да доноси боље одлуке о откривању непожељне поруке на вашем сајту.",
+    "LLM_CONTEXT_PLACEHOLDER": "Нпр. „Ми смо форум за игре, референце на насиље су обично део дискусије у игри“"
 }

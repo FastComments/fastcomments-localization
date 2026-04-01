@@ -17,7 +17,7 @@
     "SPAM_FILTER_LABEL": "Филтър за спам",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Наивен Байес (споделен)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Наивен Байес (изолиран)",
-    "SPAM_FILTER_LLM": "Магистър по право (OpenAI)",
+    "SPAM_FILTER_LLM": "Магистър по право",
     "SPAM_FILTER_DESCRIPTION_BAYES": "С Naïve Bayes можете да използвате спам филтъра, който всички останали използват, или да изолирате обучението си за спам филтър само за вашия клиент. И двете непрекъснато се учат.",
     "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Изберете LLM опция за откриване на спам, задвижвано от изкуствен интелект (таксува се $<%= tenantPackage.flexLLMCostCents / 100 %> за 1k токена). Само неочевиден спам се изпраща към LLM, за да се намалят разходите.",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "За Flex е налично LLM-базирано откриване на спам (налични са персонализирани пакети).",
@@ -50,5 +50,12 @@
     "COPY_TO_SUB_TENANTS_LABEL": "Копие до поднаемателите",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Отметването на това ще копира настройките към всички поднаематели.",
     "SAVE_BUTTON": "Запазване",
-    "SPAM_FILTER_DEEPINFRA": "Магистър по право (Дълбока инфраструктура)"
+    "SPAM_FILTER_DEEPINFRA": "Магистър по право (Дълбока инфраструктура)",
+    "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo",
+    "LLM_MODEL_LABEL": "Модел на магистърска степен по право (LLM)",
+    "LLM_CONTEXT_LABEL": "Допълнителен контекст за LLM (по избор)",
+    "LLM_CONTEXT_CHAR_COUNT": "/1000 знака",
+    "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
+    "LLM_CONTEXT_PLACEHOLDER": "Например, „Ние сме геймърски форум, препратките към насилие обикновено са дискусии в играта“",
+    "LLM_CONTEXT_DESCRIPTION": "Предоставете допълнителен контекст, който да помогне на LLM да взема по-добри решения за откриване на спам за вашия сайт."
 }

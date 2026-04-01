@@ -17,7 +17,7 @@
     "SPAM_FILTER_LABEL": "Φίλτρο ανεπιθύμητης αλληλογραφίας",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Αφελής Bayes (Κοινόχρηστο)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Αφελής Bayes (Απομονωμένος)",
-    "SPAM_FILTER_LLM": "LLM (OpenAI)",
+    "SPAM_FILTER_LLM": "Μεταπτυχιακό Δίπλωμα Νομικής (LLM)",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Με το Naïve Bayes, μπορείτε να χρησιμοποιήσετε το φίλτρο ανεπιθύμητης αλληλογραφίας που χρησιμοποιούν όλοι οι άλλοι ή να απομονώσετε την εκπαίδευση φίλτρου ανεπιθύμητης αλληλογραφίας μόνο στον ενοικιαστή σας. Και οι δύο μαθαίνουν συνεχώς.",
     "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Επιλέξτε μια επιλογή LLM για ανίχνευση ανεπιθύμητης αλληλογραφίας με την υποστήριξη της τεχνητής νοημοσύνης (χρεώνεται $<%= tenantPackage.flexLLMCostCents / 100 %> ανά 1.000 tokens). Μόνο μη προφανές ανεπιθύμητο περιεχόμενο αποστέλλεται στο LLM για μείωση του κόστους.",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Η ανίχνευση ανεπιθύμητης αλληλογραφίας (spam) που βασίζεται σε LLM είναι διαθέσιμη για το Flex (διατίθενται προσαρμοσμένα πακέτα).",
@@ -50,5 +50,12 @@
     "COPY_TO_SUB_TENANTS_LABEL": "Αντιγραφή στους Υπενοικιαστές",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Αν επιλέξετε αυτό, οι ρυθμίσεις θα αντιγραφούν σε όλους τους υποενοικιαστές.",
     "SAVE_BUTTON": "Εκτός",
-    "SPAM_FILTER_DEEPINFRA": "LLM (DeepInfra)"
+    "SPAM_FILTER_DEEPINFRA": "LLM (DeepInfra)",
+    "LLM_CONTEXT_LABEL": "Πρόσθετο Πλαίσιο LLM (Προαιρετικό)",
+    "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
+    "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo",
+    "LLM_MODEL_LABEL": "Μοντέλο LLM",
+    "LLM_CONTEXT_DESCRIPTION": "Παρέχετε επιπλέον πληροφορίες που θα βοηθήσουν τον/την LLM να λάβει καλύτερες αποφάσεις ανίχνευσης ανεπιθύμητων μηνυμάτων για τον ιστότοπό σας.",
+    "LLM_CONTEXT_PLACEHOLDER": "Π.χ., «Είμαστε ένα φόρουμ παιχνιδιών, οι αναφορές στη βία είναι συνήθως συζητήσεις εντός παιχνιδιού».",
+    "LLM_CONTEXT_CHAR_COUNT": "/1000 χαρακτήρες"
 }

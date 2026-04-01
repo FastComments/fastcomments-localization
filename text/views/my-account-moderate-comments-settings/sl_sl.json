@@ -17,7 +17,7 @@
     "SPAM_FILTER_LABEL": "Filter neželene pošte",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Naivni Bayes (skupno)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Naivni Bayesov sindrom (izoliran)",
-    "SPAM_FILTER_LLM": "LLM (Odprta umetna inteligenca)",
+    "SPAM_FILTER_LLM": "LLM",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Z Naïve Bayes lahko uporabite filter neželene pošte, ki ga uporabljajo vsi ostali, ali pa učenje filtra neželene pošte omejite samo na svojega najemnika. Oba se nenehno učita.",
     "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Izberite možnost LLM za zaznavanje neželene pošte z umetno inteligenco (zaračunava se <%= tenantPackage.flexLLMCostCents / 100 %> USD na 1000 žetonov). LLM-u se pošilja samo neočitna neželena pošta, da se zmanjšajo stroški.",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Za Flex je na voljo zaznavanje neželene pošte na osnovi LLM (na voljo so tudi paketi po meri).",
@@ -50,5 +50,12 @@
     "COPY_TO_SUB_TENANTS_LABEL": "Kopija za podnajemnike",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Če to potrdite, se bodo nastavitve kopirale na vse podnajemnike.",
     "SAVE_BUTTON": "Shrani",
-    "SPAM_FILTER_DEEPINFRA": "LLM (globoka infrastruktura)"
+    "SPAM_FILTER_DEEPINFRA": "LLM (globoka infrastruktura)",
+    "LLM_MODEL_LABEL": "Model LLM",
+    "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
+    "LLM_CONTEXT_PLACEHOLDER": "Npr. »Smo igralni forum, omembe nasilja so običajno del razprav v igri.«",
+    "LLM_CONTEXT_DESCRIPTION": "Navedite dodaten kontekst, ki bo LLM-ju pomagal pri sprejemanju boljših odločitev o zaznavanju neželene pošte na vašem spletnem mestu.",
+    "LLM_CONTEXT_CHAR_COUNT": "/1000 znakov",
+    "LLM_CONTEXT_LABEL": "Dodatni kontekst LLM (neobvezno)",
+    "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo"
 }

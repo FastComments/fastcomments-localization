@@ -17,7 +17,7 @@
     "SPAM_FILTER_LABEL": "Filtro antispam",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Naive Bayes (condiviso)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Bayes ingenuo (isolato)",
-    "SPAM_FILTER_LLM": "LLM (OpenAI)",
+    "SPAM_FILTER_LLM": "LLM",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Con Naïve Bayes, puoi usare il filtro antispam che usano tutti gli altri, oppure limitare l'addestramento del filtro antispam solo al tuo tenant. Entrambi i metodi apprendono continuamente.",
     "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Seleziona un'opzione LLM per il rilevamento dello spam basato sull'IA (fatturato a $<%= tenantPackage.flexLLMCostCents / 100 %> ogni 1k token). Solo lo spam non evidente viene inviato all'LLM per ridurre i costi.",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Flex offre il rilevamento dello spam basato su LLM (pacchetti personalizzati disponibili).",
@@ -50,5 +50,12 @@
     "COPY_TO_SUB_TENANTS_LABEL": "Copia ai subaffittuari",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Selezionando questa opzione, le impostazioni verranno copiate su tutti i sub-teant.",
     "SAVE_BUTTON": "Salva",
-    "SPAM_FILTER_DEEPINFRA": "LLM (DeepInfra)"
+    "SPAM_FILTER_DEEPINFRA": "LLM (DeepInfra)",
+    "LLM_MODEL_LABEL": "Modello LLM",
+    "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
+    "LLM_CONTEXT_PLACEHOLDER": "Ad esempio, \"Siamo un forum di videogiochi, i riferimenti alla violenza si trovano solitamente nelle discussioni all'interno del gioco\".",
+    "LLM_CONTEXT_CHAR_COUNT": "/1000 caratteri",
+    "LLM_CONTEXT_DESCRIPTION": "Fornisci ulteriori informazioni contestuali per aiutare il sistema LLM a prendere decisioni più efficaci in materia di rilevamento dello spam per il tuo sito.",
+    "LLM_CONTEXT_LABEL": "Contesto aggiuntivo del LLM (facoltativo)",
+    "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo"
 }

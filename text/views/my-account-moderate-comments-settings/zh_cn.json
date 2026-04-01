@@ -17,7 +17,7 @@
     "SPAM_FILTER_LABEL": "垃圾邮件过滤器",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "朴素贝叶斯（共享）",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "朴素贝叶斯（孤立式）",
-    "SPAM_FILTER_LLM": "LLM（OpenAI）",
+    "SPAM_FILTER_LLM": "法学硕士",
     "SPAM_FILTER_DESCRIPTION_BAYES": "使用朴素贝叶斯算法，您可以采用所有人都在使用的垃圾邮件过滤器，也可以将垃圾邮件过滤器的训练范围限定在您的租户范围内。两种方法都能持续学习。",
     "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "选择 LLM 选项以启用 AI 驱动的垃圾邮件检测（每 1000 个令牌收费 $<%= tenantPackage.flexLLMCostCents / 100 %>）。为了降低成本，只有非明显垃圾邮件才会发送到 LLM。",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Flex 提供基于 LLM 的垃圾邮件检测（提供定制软件包）。",
@@ -50,5 +50,12 @@
     "COPY_TO_SUB_TENANTS_LABEL": "抄送至次级租户",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "选中此项会将设置复制到所有子租户。",
     "SAVE_BUTTON": "节省",
-    "SPAM_FILTER_DEEPINFRA": "LLM（DeepInfra）"
+    "SPAM_FILTER_DEEPINFRA": "LLM（DeepInfra）",
+    "LLM_MODEL_LABEL": "LLM模型",
+    "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
+    "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo",
+    "LLM_CONTEXT_LABEL": "法学硕士附加背景信息（可选）",
+    "LLM_CONTEXT_CHAR_COUNT": "/1000个字符",
+    "LLM_CONTEXT_DESCRIPTION": "提供更多上下文信息，以帮助 LLM 更好地检测您网站的垃圾邮件。",
+    "LLM_CONTEXT_PLACEHOLDER": "例如，“我们是一个游戏论坛，提及暴力内容通常仅用于游戏内讨论”。"
 }
