@@ -102,5 +102,7 @@
     "CTA_BUTTON_TRIAL": "Pokrenite besplatnu probnu verziju",
     "FAQ_WEBINARS_SCALE_ANSWER": "FastComments koristi VebSocket-based pub / sub poruke sa rubnim čvorovima na više kontinenata. Poruke se emituju u realnom vremenu bez glasanja. Za sobe iznad 10.000 istovremenih korisnika, sistem automatski prilagođava svoj način isporuke kako bi održao kašnjenje ispod sekunde. Za sobe iznad 100.000, prebacuje se na optimizovan režim glasanja. Ovo se dešava transparentno - učesnici ne vide promene u performansama.",
     "FAQ_WEBINARS_QA_VOTING_ANSWER": "Da. Sistem glasanja omogućava učesnicima da glasaju za pitanja, pojavljujući se na onima na koja većina ljudi želi odgovor. Moderatori mogu da prikače pitanja na vrh feeda i objavljuju odgovore sa navojem. Zakačena i najglasnija pitanja ostaju vidljiva čak i kada stignu nove poruke, tako da vaš predavač može da se obrati onome što je najvažnije za publiku.",
-    "FAQ_WEBINARS_GDPR": "Da li je FastComments GDPR usaglašen?"
+    "FAQ_WEBINARS_GDPR": "Da li je FastComments GDPR usaglašen?",
+    "DEMO_TAB_THREADED": "Komentari sa navojem",
+    "DEMO_TAB_STREAMING": "Striming ćaskanje"
 }

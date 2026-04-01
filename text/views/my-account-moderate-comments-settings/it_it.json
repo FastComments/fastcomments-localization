@@ -17,10 +17,10 @@
     "SPAM_FILTER_LABEL": "Filtro antispam",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Naive Bayes (condiviso)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Bayes ingenuo (isolato)",
-    "SPAM_FILTER_LLM": "LLM (ChatGPT)",
+    "SPAM_FILTER_LLM": "LLM (OpenAI)",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Con Naïve Bayes, puoi usare il filtro antispam che usano tutti gli altri, oppure limitare l'addestramento del filtro antispam solo al tuo tenant. Entrambi i metodi apprendono continuamente.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Seleziona LLM per utilizzare ChatGPT per il rilevamento dello spam (fatturato $<%= tenantPackage.flexChatGPTCostCents / 100 %> per 1k token). Solo lo spam non ovvio viene inviato a OpenAI per ridurre i costi.",
-    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Il rilevamento dello spam basato su ChatGPT è disponibile per Flex (sono disponibili pacchetti personalizzati).",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Seleziona un'opzione LLM per il rilevamento dello spam basato sull'IA (fatturato a $<%= tenantPackage.flexLLMCostCents / 100 %> ogni 1k token). Solo lo spam non evidente viene inviato all'LLM per ridurre i costi.",
+    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Flex offre il rilevamento dello spam basato su LLM (pacchetti personalizzati disponibili).",
     "COMMENT_APPROVAL_HEADING": "Approvazione del commento",
     "AUTO_APPROVE_COMMENTS_LABEL": "Approva automaticamente i commenti",
     "AUTO_APPROVE_COMMENTS_DESCRIPTION": "La modifica di questa impostazione non avrà effetto sui commenti precedenti.",
@@ -49,5 +49,6 @@
     "SPAM_PROFANITY_BLOG_LINK": "Per saperne di più sul filtraggio di spam e volgarità di FastComments, <a href=\"https://blog.fastcomments.com/(1-28-2020)-how-to-prevent-spam-in-your-comments.html\" target=\"_blank\">clicca qui</a> .",
     "COPY_TO_SUB_TENANTS_LABEL": "Copia ai subaffittuari",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Selezionando questa opzione, le impostazioni verranno copiate su tutti i sub-teant.",
-    "SAVE_BUTTON": "Salva"
+    "SAVE_BUTTON": "Salva",
+    "SPAM_FILTER_DEEPINFRA": "LLM (DeepInfra)"
 }

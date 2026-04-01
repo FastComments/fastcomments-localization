@@ -17,10 +17,10 @@
     "SPAM_FILTER_LABEL": "Filter neželjene pošte",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Naivni Bayes (Zajedničko)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Naivni Bayesov sindrom (izoliran)",
-    "SPAM_FILTER_LLM": "LLM (ChatGPT)",
+    "SPAM_FILTER_LLM": "LLM (OpenAI)",
     "SPAM_FILTER_DESCRIPTION_BAYES": "S Naïve Bayesom možete koristiti filter neželjene pošte koji koriste svi ostali ili izolirati obuku filtera neželjene pošte samo za svog zakupnika. Oboje kontinuirano uče.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Odaberite LLM za korištenje ChatGPT-a za otkrivanje neželjene pošte (naplaćuje se <%= tenantPackage.flexChatGPTCostCents / 100 %> USD po 1000 tokena). OpenAI-u se šalje samo neočigledna neželjena pošta radi smanjenja troškova.",
-    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Detekcija neželjene pošte temeljena na ChatGPT-u dostupna je za Flex (dostupni su prilagođeni paketi).",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Odaberite LLM opciju za otkrivanje neželjene pošte pokretano umjetnom inteligencijom (naplaćuje se <%= tenantPackage.flexLLMCostCents / 100 %> USD po 1000 tokena). LLM-u se šalje samo neočigledna neželjena pošta radi smanjenja troškova.",
+    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Detekcija neželjene pošte temeljena na LLM-u dostupna je za Flex (dostupni su prilagođeni paketi).",
     "COMMENT_APPROVAL_HEADING": "Odobrenje komentara",
     "AUTO_APPROVE_COMMENTS_LABEL": "Automatski odobri komentare",
     "AUTO_APPROVE_COMMENTS_DESCRIPTION": "Promjena ove postavke neće utjecati na prethodne komentare.",
@@ -49,5 +49,6 @@
     "SPAM_PROFANITY_BLOG_LINK": "Više o filtriranju neželjene pošte i vulgarizama putem FastCommentsa pročitajte <a href=\"https://blog.fastcomments.com/(1-28-2020)-how-to-prevent-spam-in-your-comments.html\" target=\"_blank\">ovdje</a> .",
     "COPY_TO_SUB_TENANTS_LABEL": "Kopija za podstanare",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Označavanjem ovoga kopirat će se postavke na sve podstanare.",
-    "SAVE_BUTTON": "Uštedjeti"
+    "SAVE_BUTTON": "Uštedjeti",
+    "SPAM_FILTER_DEEPINFRA": "LLM (DeepInfra)"
 }

@@ -17,10 +17,10 @@
     "SPAM_FILTER_LABEL": "Filtro de spam",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Bayes ingenuo (compartido)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Bayes ingenuo (aislado)",
-    "SPAM_FILTER_LLM": "Maestría en Derecho (ChatGPT)",
+    "SPAM_FILTER_LLM": "Máster en Derecho (Inteligencia Artificial Abierta)",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Con Naïve Bayes, puedes usar el filtro antispam que usan los demás o limitar el entrenamiento de tu filtro antispam a tu inquilino. Ambos métodos aprenden continuamente.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Seleccione LLM para usar ChatGPT para la detección de spam (se factura $<%= tenantPackage.flexChatGPTCostCents / 100 %> por cada 1000 tokens). Solo el spam no evidente se envía a OpenAI para reducir costos.",
-    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "La detección de spam basada en ChatGPT está disponible para Flex (paquetes personalizados disponibles).",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Seleccione una opción LLM para la detección de spam mediante IA (facturado a $<%= tenantPackage.flexLLMCostCents / 100 %> por cada 1000 tokens). Solo el spam no evidente se envía a LLM para reducir costos.",
+    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "La detección de spam basada en LLM está disponible para Flex (paquetes personalizados disponibles).",
     "COMMENT_APPROVAL_HEADING": "Aprobación de comentarios",
     "AUTO_APPROVE_COMMENTS_LABEL": "Aprobar comentarios automáticamente",
     "AUTO_APPROVE_COMMENTS_DESCRIPTION": "Cambiar esta configuración no afectará los comentarios anteriores.",
@@ -49,5 +49,6 @@
     "SPAM_PROFANITY_BLOG_LINK": "Lea más acerca del filtrado de spam y blasfemias de FastComments <a href=\"https://blog.fastcomments.com/(1-28-2020)-how-to-prevent-spam-in-your-comments.html\" target=\"_blank\">aquí</a> .",
     "COPY_TO_SUB_TENANTS_LABEL": "Copia a los subarrendatarios",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Al marcar esta opción se copiarán las configuraciones a todos los subinquilinos.",
-    "SAVE_BUTTON": "Ahorrar"
+    "SAVE_BUTTON": "Ahorrar",
+    "SPAM_FILTER_DEEPINFRA": "Máster en Derecho (Infraestructura Profunda)"
 }

@@ -127,7 +127,7 @@
         "login-success": 9,
         "login-two-factor": 18,
         "maintenance-page": 4,
-        "marketing_common": 125,
+        "marketing_common": 126,
         "moderator-join-failure": 9,
         "moderator-join-success": 6,
         "my-account": 5,
@@ -228,7 +228,7 @@
         "my-account-moderate-comments-moderator-edit": 18,
         "my-account-moderate-comments-moderator-select-tenant": 7,
         "my-account-moderate-comments-moderators": 29,
-        "my-account-moderate-comments-settings": 51,
+        "my-account-moderate-comments-settings": 52,
         "my-account-moderate-comments-settings-update-failure": 5,
         "my-account-moderate-comments-settings-update-success": 4,
         "my-account-moderate-comments-thread": 4,
@@ -311,7 +311,7 @@
         "domain-item": 4,
         "domain-validation": 4,
         "email-template-item": 6,
-        "flex-billing": 18,
+        "flex-billing": 19,
         "render-error-item": 3,
         "user-permissions": 27,
         "comment-log-dialog": 97,
@@ -372,7 +372,8 @@
         "shopify-success": 23,
         "my-account-manage-data-ai-agents": 67,
         "collab-chat": 10,
-        "webinars": 105
+        "webinars": 107,
+        "news-sites": 35
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -2775,7 +2776,8 @@
         "t122": "PUBLIC_FOOTER_V2_LTI",
         "t123": "PUBLIC_FOOTER_V2_WORDPRESS_SPAM",
         "t124": "PUBLIC_FOOTER_V2_DRUPAL",
-        "t125": "PUBLIC_FOOTER_V2_WEBINARS"
+        "t125": "PUBLIC_FOOTER_V2_WEBINARS",
+        "t126": "PUBLIC_FOOTER_V2_NEWS_SITES"
     },
     "moderator-join-failure": {
         "t1": "PAGE_TITLE",
@@ -4930,7 +4932,8 @@
         "t48": "SPAM_PROFANITY_BLOG_LINK",
         "t49": "COPY_TO_SUB_TENANTS_LABEL",
         "t50": "COPY_TO_SUB_TENANTS_DESCRIPTION",
-        "t51": "SAVE_BUTTON"
+        "t51": "SAVE_BUTTON",
+        "t52": "SPAM_FILTER_DEEPINFRA"
     },
     "my-account-moderate-comments-settings-update-failure": {
         "t1": "PAGE_TITLE",
@@ -6199,7 +6202,8 @@
         "t15": "FLEX_FREE",
         "t16": "FLEX_PER",
         "t17": "FLEX_MANAGED_TENANT_PREFIX",
-        "t18": "FLEX_AI_AGENT_TOKENS"
+        "t18": "FLEX_AI_AGENT_TOKENS",
+        "t19": "FLEX_LLM_TOKENS"
     },
     "render-error-item": {
         "t1": "TEXT_RENDER_ERRORS_HEADING",
@@ -8349,6 +8353,45 @@
         "t102": "CTA_TITLE",
         "t103": "CTA_SUBTITLE",
         "t104": "CTA_BUTTON_TRIAL",
-        "t105": "CTA_BUTTON_CONTACT"
+        "t105": "CTA_BUTTON_CONTACT",
+        "t106": "DEMO_TAB_THREADED",
+        "t107": "DEMO_TAB_STREAMING"
+    },
+    "news-sites": {
+        "t1": "PAGE_TITLE",
+        "t2": "META_DESCRIPTION",
+        "t3": "HERO_TITLE",
+        "t4": "HERO_SUBTITLE",
+        "t5": "HERO_CTA_PRIMARY",
+        "t6": "HERO_CTA_SECONDARY",
+        "t7": "PROBLEM_TITLE",
+        "t8": "PROBLEM_P1",
+        "t9": "PROBLEM_P2",
+        "t10": "PROBLEM_P3",
+        "t11": "WHY_FC_TITLE",
+        "t12": "WHY_FC_P1",
+        "t13": "WHY_FC_P2",
+        "t14": "WHY_FC_P3",
+        "t15": "WHY_FC_P4",
+        "t16": "MODERATION_TITLE",
+        "t17": "MODERATION_P1",
+        "t18": "MODERATION_P2",
+        "t19": "MODERATION_P3",
+        "t20": "PRIVACY_TITLE",
+        "t21": "PRIVACY_P1",
+        "t22": "PRIVACY_P2",
+        "t23": "SCALE_TITLE",
+        "t24": "SCALE_P1",
+        "t25": "SCALE_P2",
+        "t26": "MIGRATION_TITLE",
+        "t27": "MIGRATION_P1",
+        "t28": "MIGRATION_P2",
+        "t29": "COMMUNITY_TITLE",
+        "t30": "COMMUNITY_P1",
+        "t31": "COMMUNITY_P2",
+        "t32": "CTA_TITLE",
+        "t33": "CTA_SUBTITLE",
+        "t34": "CTA_PRIMARY",
+        "t35": "CTA_SECONDARY"
     }
 }

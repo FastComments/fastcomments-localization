@@ -17,10 +17,10 @@
     "SPAM_FILTER_LABEL": "Spam Filtresi",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Naive Bayes (Paylaşımlı)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Naive Bayes (İzole Edilmiş)",
-    "SPAM_FILTER_LLM": "LLM (ChatGPT)",
+    "SPAM_FILTER_LLM": "LLM (OpenAI)",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Naive Bayes algoritmasıyla, herkesin kullandığı spam filtresini kullanabilir veya spam filtresi eğitimini yalnızca kendi kiracınıza özel olarak sınırlandırabilirsiniz. Her iki durumda da sürekli öğrenme gerçekleşir.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Spam tespiti için ChatGPT'yi kullanmak üzere LLM'yi seçin (1000 token başına <%= tenantPackage.flexChatGPTCostCents / 100 %> $ ücretlendirilir). Maliyetleri düşürmek için yalnızca belirgin olmayan spam'ler OpenAI'ye gönderilir.",
-    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Flex için ChatGPT tabanlı spam tespiti mevcuttur (özel paketler de sunulmaktadır).",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Yapay zeka destekli spam tespiti için bir LLM seçeneği belirleyin (1000 token başına <%= tenantPackage.flexLLMCostCents / 100 %> $ ücretlendirilir). Maliyetleri düşürmek için yalnızca belirgin olmayan spam e-postalar LLM'ye gönderilir.",
+    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Flex için LLM tabanlı spam tespiti mevcuttur (özel paketler de bulunmaktadır).",
     "COMMENT_APPROVAL_HEADING": "Yorum Onayı",
     "AUTO_APPROVE_COMMENTS_LABEL": "Yorumları Otomatik Olarak Onayla",
     "AUTO_APPROVE_COMMENTS_DESCRIPTION": "Bu ayarı değiştirmek önceki yorumları etkilemeyecektir.",
@@ -49,5 +49,6 @@
     "SPAM_PROFANITY_BLOG_LINK": "FastComments&#39;ın spam ve küfür filtreleme özelliği hakkında daha fazla bilgiyi <a href=\"https://blog.fastcomments.com/(1-28-2020)-how-to-prevent-spam-in-your-comments.html\" target=\"_blank\">burada</a> bulabilirsiniz.",
     "COPY_TO_SUB_TENANTS_LABEL": "Alt kiracılara kopyala",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Bu seçeneği işaretlemek, ayarları tüm alt kiracılara kopyalayacaktır.",
-    "SAVE_BUTTON": "Kaydetmek"
+    "SAVE_BUTTON": "Kaydetmek",
+    "SPAM_FILTER_DEEPINFRA": "LLM (Derin Altyapı)"
 }

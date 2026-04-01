@@ -17,10 +17,10 @@
     "SPAM_FILTER_LABEL": "מסנן דואר זבל",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "נאיב בייס (משותף)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "נאיבי בייס (מבודד)",
-    "SPAM_FILTER_LLM": "תואר ראשון במשפטים (צ'אט GPT)",
+    "SPAM_FILTER_LLM": "תואר ראשון במשפטים (OpenAI)",
     "SPAM_FILTER_DESCRIPTION_BAYES": "עם Naïve Bayes, תוכלו להשתמש במסנן הספאם שכולם משתמשים בו, או לבודד את אימון מסנן הספאם שלכם רק לדייר שלכם. שניהם לומדים כל הזמן.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "בחר LLM כדי להשתמש ב-ChatGPT לזיהוי ספאם (חיוב של $<%= tenantPackage.flexChatGPTCostCents / 100 %> לכל 1,000 טוקנים). רק ספאם שאינו ברור מאליו נשלח ל-OpenAI כדי להפחית עלויות.",
-    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "זיהוי ספאם מבוסס ChatGPT זמין עבור Flex (חבילות מותאמות אישית זמינות).",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "בחר אפשרות LLM לזיהוי ספאם המופעל על ידי בינה מלאכותית (חיוב של <%= tenantPackage.flexLLMCostCents / 100 %>_ דולר לכל 1,000 טוקנים). רק ספאם שאינו ברור מאליו נשלח ל-LLM כדי להפחית עלויות.",
+    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "זיהוי ספאם מבוסס LLM זמין עבור Flex (חבילות מותאמות אישית זמינות).",
     "COMMENT_APPROVAL_HEADING": "אישור תגובה",
     "AUTO_APPROVE_COMMENTS_LABEL": "אישור אוטומטי של תגובות",
     "AUTO_APPROVE_COMMENTS_DESCRIPTION": "שינוי הגדרה זו לא ישפיע על תגובות קודמות.",
@@ -49,5 +49,6 @@
     "SPAM_PROFANITY_BLOG_LINK": "קרא עוד על סינון ספאם וניבולי פה של FastComments <a href=\"https://blog.fastcomments.com/(1-28-2020)-how-to-prevent-spam-in-your-comments.html\" target=\"_blank\">כאן</a> .",
     "COPY_TO_SUB_TENANTS_LABEL": "העתק לשוכרי משנה",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "סימון אפשרות זו יעתיק את ההגדרות לכל דיירי המשנה.",
-    "SAVE_BUTTON": "לְהַצִיל"
+    "SAVE_BUTTON": "לְהַצִיל",
+    "SPAM_FILTER_DEEPINFRA": "תואר ראשון במשפטים (LLM) (DeepInfra)"
 }

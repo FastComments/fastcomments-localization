@@ -17,10 +17,10 @@
     "SPAM_FILTER_LABEL": "Filtr spamu",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Naiwny Bayes (wspólny)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Naiwny Bayes (izolowany)",
-    "SPAM_FILTER_LLM": "Magister prawa (ChatGPT)",
+    "SPAM_FILTER_LLM": "Magister prawa (OpenAI)",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Dzięki Naïve Bayes możesz korzystać z filtra antyspamowego, z którego korzystają wszyscy inni, lub ograniczyć szkolenie dotyczące filtra antyspamowego tylko do swojego dzierżawcy. Oba systemy uczą się nieustannie.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Wybierz LLM, aby używać ChatGPT do wykrywania spamu (opłata <%= tenantPackage.flexChatGPTCostCents / 100 %> USD za 1000 tokenów). Do OpenAI wysyłany jest tylko nieoczywisty spam, aby obniżyć koszty.",
-    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Wykrywanie spamu w oparciu o ChatGPT jest dostępne dla Flex (dostępne są pakiety niestandardowe).",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Wybierz opcję LLM, aby korzystać z wykrywania spamu wspomaganego sztuczną inteligencją (opłata <%= tenantPackage.flexLLMCostCents / 100 %> USD za 1000 tokenów). Aby obniżyć koszty, do LLM wysyłany jest tylko nieoczywisty spam.",
+    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Wykrywanie spamu oparte na LLM jest dostępne dla Flex (dostępne są pakiety niestandardowe).",
     "COMMENT_APPROVAL_HEADING": "Zatwierdzenie komentarza",
     "AUTO_APPROVE_COMMENTS_LABEL": "Automatyczne zatwierdzanie komentarzy",
     "AUTO_APPROVE_COMMENTS_DESCRIPTION": "Zmiana tego ustawienia nie będzie miała wpływu na wcześniejsze komentarze.",
@@ -49,5 +49,6 @@
     "SPAM_PROFANITY_BLOG_LINK": "Więcej informacji na temat filtrowania spamu i wulgaryzmów w FastComments <a href=\"https://blog.fastcomments.com/(1-28-2020)-how-to-prevent-spam-in-your-comments.html\" target=\"_blank\">znajdziesz tutaj</a> .",
     "COPY_TO_SUB_TENANTS_LABEL": "Kopiuj do podnajemców",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Zaznaczenie tej opcji spowoduje skopiowanie ustawień do wszystkich podnajemców.",
-    "SAVE_BUTTON": "Ratować"
+    "SAVE_BUTTON": "Ratować",
+    "SPAM_FILTER_DEEPINFRA": "LLM (głęboka infrastruktura)"
 }

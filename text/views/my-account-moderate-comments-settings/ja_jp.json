@@ -17,10 +17,10 @@
     "SPAM_FILTER_LABEL": "スパムフィルター",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "ナイーブベイズ（共有）",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "ナイーブベイズ（分離型）",
-    "SPAM_FILTER_LLM": "LLM（チャットGPT）",
+    "SPAM_FILTER_LLM": "LLM（OpenAI）",
     "SPAM_FILTER_DESCRIPTION_BAYES": "ナイーブベイズを使用すると、他のテナントで使用されているスパムフィルターを使用することも、スパムフィルターのトレーニングをテナントのみに限定することもできます。どちらも継続的に学習します。",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "LLMを選択すると、ChatGPTによるスパム検出が利用されます（1,000トークンあたり$<%= tenantPackage.flexChatGPTCostCents / 100 %>の料金がかかります）。コスト削減のため、明白でないスパムのみがOpenAIに送信されます。",
-    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "ChatGPT ベースのスパム検出は Flex で利用できます (カスタム パッケージも利用可能)。",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "AIを活用したスパム検出機能を提供するLLMオプションを選択してください（1,000トークンあたり$<%= tenantPackage.flexLLMCostCents / 100 %>の料金がかかります）。コスト削減のため、明らかにスパムと判断できないもののみがLLMに送信されます。",
+    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Flexでは、LLMベースのスパム検出機能が利用可能です（カスタムパッケージもご用意しています）。",
     "COMMENT_APPROVAL_HEADING": "コメント承認",
     "AUTO_APPROVE_COMMENTS_LABEL": "コメントを自動承認",
     "AUTO_APPROVE_COMMENTS_DESCRIPTION": "この設定を変更しても過去のコメントには影響しません。",
@@ -49,5 +49,6 @@
     "SPAM_PROFANITY_BLOG_LINK": "FastComments のスパムおよび不適切な表現のフィルタリングの詳細については、 <a href=\"https://blog.fastcomments.com/(1-28-2020)-how-to-prevent-spam-in-your-comments.html\" target=\"_blank\">ここを</a>参照してください。",
     "COPY_TO_SUB_TENANTS_LABEL": "サブテナントへのコピー",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "これにチェックを入れると、設定がすべてのサブテナントにコピーされます。",
-    "SAVE_BUTTON": "保存"
+    "SAVE_BUTTON": "保存",
+    "SPAM_FILTER_DEEPINFRA": "LLM（ディープインフラ）"
 }

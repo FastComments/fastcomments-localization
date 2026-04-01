@@ -17,10 +17,10 @@
     "SPAM_FILTER_LABEL": "Филтър за спам",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Наивен Байес (споделен)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Наивен Байес (изолиран)",
-    "SPAM_FILTER_LLM": "Магистър по право (ChatGPT)",
+    "SPAM_FILTER_LLM": "Магистър по право (OpenAI)",
     "SPAM_FILTER_DESCRIPTION_BAYES": "С Naïve Bayes можете да използвате спам филтъра, който всички останали използват, или да изолирате обучението си за спам филтър само за вашия клиент. И двете непрекъснато се учат.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Изберете LLM, за да използвате ChatGPT за откриване на спам (таксува се $<%= tenantPackage.flexChatGPTCostCents / 100 %> за 1k токени). Само неочевиден спам се изпраща към OpenAI, за да се намалят разходите.",
-    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "За Flex е налично откриване на спам, базирано на ChatGPT (налични са персонализирани пакети).",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Изберете LLM опция за откриване на спам, задвижвано от изкуствен интелект (таксува се $<%= tenantPackage.flexLLMCostCents / 100 %> за 1k токена). Само неочевиден спам се изпраща към LLM, за да се намалят разходите.",
+    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "За Flex е налично LLM-базирано откриване на спам (налични са персонализирани пакети).",
     "COMMENT_APPROVAL_HEADING": "Одобрение на коментара",
     "AUTO_APPROVE_COMMENTS_LABEL": "Автоматично одобряване на коментари",
     "AUTO_APPROVE_COMMENTS_DESCRIPTION": "Промяната на тази настройка няма да повлияе на предишните коментари.",
@@ -49,5 +49,6 @@
     "SPAM_PROFANITY_BLOG_LINK": "Прочетете повече за филтрирането на спам и нецензурни думи от FastComments <a href=\"https://blog.fastcomments.com/(1-28-2020)-how-to-prevent-spam-in-your-comments.html\" target=\"_blank\">тук</a> .",
     "COPY_TO_SUB_TENANTS_LABEL": "Копие до поднаемателите",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Отметването на това ще копира настройките към всички поднаематели.",
-    "SAVE_BUTTON": "Запазване"
+    "SAVE_BUTTON": "Запазване",
+    "SPAM_FILTER_DEEPINFRA": "Магистър по право (Дълбока инфраструктура)"
 }

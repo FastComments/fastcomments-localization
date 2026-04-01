@@ -17,10 +17,10 @@
     "SPAM_FILTER_LABEL": "Spamfilter",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Naïeve Bayes (Gedeeld)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Naïeve Bayes (geïsoleerd)",
-    "SPAM_FILTER_LLM": "LLM (ChatGPT)",
+    "SPAM_FILTER_LLM": "LLM (OpenAI)",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Met Naïve Bayes kunt u hetzelfde spamfilter gebruiken als alle andere gebruikers, of de training van uw spamfilter beperken tot uw eigen tenant. Beide methoden leren continu bij.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Selecteer LLM om ChatGPT te gebruiken voor spamdetectie (kosten: $<%= tenantPackage.flexChatGPTCostCents / 100 %> per 1000 tokens). Alleen niet-duidelijke spam wordt naar OpenAI gestuurd om de kosten te drukken.",
-    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Spamdetectie op basis van ChatGPT is beschikbaar voor Flex (aangepaste pakketten beschikbaar).",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Selecteer een LLM-optie voor AI-gestuurde spamdetectie (kosten: $<%= tenantPackage.flexLLMCostCents / 100 %> per 1000 tokens). Alleen niet-overduidelijke spam wordt naar de LLM gestuurd om de kosten te drukken.",
+    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Op LLM gebaseerde spamdetectie is beschikbaar voor Flex (aangepaste pakketten beschikbaar).",
     "COMMENT_APPROVAL_HEADING": "Goedkeuring van reacties",
     "AUTO_APPROVE_COMMENTS_LABEL": "Reacties automatisch goedkeuren",
     "AUTO_APPROVE_COMMENTS_DESCRIPTION": "Het wijzigen van deze instelling heeft geen invloed op eerdere reacties.",
@@ -49,5 +49,6 @@
     "SPAM_PROFANITY_BLOG_LINK": "Lees <a href=\"https://blog.fastcomments.com/(1-28-2020)-how-to-prevent-spam-in-your-comments.html\" target=\"_blank\">hier</a> meer over de spam- en scheldwoordenfiltering van FastComments.",
     "COPY_TO_SUB_TENANTS_LABEL": "Kopie naar onderhuurders",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Als u dit aanvinkt, worden de instellingen naar alle subgebruikers gekopieerd.",
-    "SAVE_BUTTON": "Redden"
+    "SAVE_BUTTON": "Redden",
+    "SPAM_FILTER_DEEPINFRA": "LLM (DeepInfra)"
 }

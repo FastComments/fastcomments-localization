@@ -17,10 +17,10 @@
     "SPAM_FILTER_LABEL": "Filtre anti-spam",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Bayes naïf (partagé)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Bayes naïf (isolé)",
-    "SPAM_FILTER_LLM": "LLM (ChatGPT)",
+    "SPAM_FILTER_LLM": "LLM (OpenAI)",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Avec Naïve Bayes, vous pouvez utiliser le filtre anti-spam standard ou limiter l'entraînement de votre filtre à votre seul locataire. Dans les deux cas, l'apprentissage est continu.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Choisissez LLM pour utiliser ChatGPT pour la détection de spam (facturé à <%= tenantPackage.flexChatGPTCostCents / 100 %> $ par tranche de 1 000 jetons). Seuls les spams non manifestement suspects sont envoyés à OpenAI afin de réduire les coûts.",
-    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "La détection de spam basée sur ChatGPT est disponible pour Flex (packages personnalisés disponibles).",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Choisissez une option LLM pour la détection de spam par IA (facturée à <%= tenantPackage.flexLLMCostCents / 100 %> $ par tranche de 1 000 jetons). Seuls les spams non évidents sont envoyés au LLM afin de réduire les coûts.",
+    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "La détection de spam basée sur LLM est disponible pour Flex (packages personnalisés disponibles).",
     "COMMENT_APPROVAL_HEADING": "Commentaire approuvé",
     "AUTO_APPROVE_COMMENTS_LABEL": "Approbation automatique des commentaires",
     "AUTO_APPROVE_COMMENTS_DESCRIPTION": "Modifier ce paramètre n'affectera pas les commentaires précédents.",
@@ -49,5 +49,6 @@
     "SPAM_PROFANITY_BLOG_LINK": "Pour en savoir plus sur le filtrage des spams et des propos vulgaires de FastComments, cliquez <a href=\"https://blog.fastcomments.com/(1-28-2020)-how-to-prevent-spam-in-your-comments.html\" target=\"_blank\">ici</a> .",
     "COPY_TO_SUB_TENANTS_LABEL": "Copie aux sous-locataires",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Cocher cette option copiera les paramètres à tous les sous-locataires.",
-    "SAVE_BUTTON": "Sauvegarder"
+    "SAVE_BUTTON": "Sauvegarder",
+    "SPAM_FILTER_DEEPINFRA": "LLM (Infrastructure profonde)"
 }

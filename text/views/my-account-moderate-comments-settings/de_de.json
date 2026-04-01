@@ -17,10 +17,10 @@
     "SPAM_FILTER_LABEL": "Spamfilter",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Naive Bayes (gemeinsam)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Naive Bayes (Isoliert)",
-    "SPAM_FILTER_LLM": "LLM (ChatGPT)",
+    "SPAM_FILTER_LLM": "LLM (OpenAI)",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Mit Naive Bayes können Sie entweder den von allen anderen verwendeten Spamfilter nutzen oder das Training Ihres Spamfilters auf Ihren einzelnen Mandanten beschränken. Beide Ansätze lernen kontinuierlich dazu.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Wählen Sie LLM, um ChatGPT zur Spam-Erkennung zu nutzen (Abrechnung: $<%= tenantPackage.flexChatGPTCostCents / 100 %> pro 1.000 Token). Um Kosten zu sparen, werden nur nicht offensichtliche Spam-Mails an OpenAI gesendet.",
-    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Für Flex ist eine ChatGPT-basierte Spam-Erkennung verfügbar (individuelle Pakete sind erhältlich).",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Wählen Sie eine LLM-Option für die KI-gestützte Spam-Erkennung (Abrechnung: $<%= tenantPackage.flexLLMCostCents / 100 %> pro 1.000 Token). Um die Kosten zu senken, werden nur nicht offensichtliche Spam-Mails an das LLM gesendet.",
+    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Für Flex ist eine LLM-basierte Spam-Erkennung verfügbar (individuelle Pakete sind erhältlich).",
     "COMMENT_APPROVAL_HEADING": "Kommentarfreigabe",
     "AUTO_APPROVE_COMMENTS_LABEL": "Kommentare automatisch genehmigen",
     "AUTO_APPROVE_COMMENTS_DESCRIPTION": "Eine Änderung dieser Einstellung hat keine Auswirkungen auf frühere Kommentare.",
@@ -49,5 +49,6 @@
     "SPAM_PROFANITY_BLOG_LINK": "Mehr über die Spam- und Obszönitätsfilter von FastComments erfahren Sie <a href=\"https://blog.fastcomments.com/(1-28-2020)-how-to-prevent-spam-in-your-comments.html\" target=\"_blank\">hier</a> .",
     "COPY_TO_SUB_TENANTS_LABEL": "Kopie an Untermieter",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Wenn Sie diese Option aktivieren, werden die Einstellungen in alle Untermieter kopiert.",
-    "SAVE_BUTTON": "Speichern"
+    "SAVE_BUTTON": "Speichern",
+    "SPAM_FILTER_DEEPINFRA": "LLM (DeepInfra)"
 }

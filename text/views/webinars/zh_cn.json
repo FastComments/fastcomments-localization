@@ -102,5 +102,7 @@
     "FAQ_WEBINARS_AFTER_EVENT_ANSWER": "评论和问答数据会永久保留在您的页面上。当您将直播流替换为录播时，原始聊天记录仍会显示在旁边。观看回放的观众可以阅读直播中的所有问题和答案。如果您为每次网络研讨会使用新的 URL，则每次活动都会自动生成新的评论串。如果您重复使用相同的 URL，则可以批量删除之前的评论，以便重新开始。您还可以将所有内容导出为 CSV 或 JSON 格式，或通过 Webhook 和 Zapier 将数据推送到外部工具。",
     "FAQ_WEBINARS_GDPR_ANSWER": "是的。FastComments 提供仅限欧盟地区的部署服务，网址为 eu.fastcomments.com，所有数据均保留在欧盟境内。该插件不使用跟踪 cookie 或加载第三方广告脚本。如有数据主体访问请求，可要求导出和删除完整数据。通过单点登录 (SSO)，用户身份数据保留在您的系统中，而非我们的系统中。",
     "CTA_SUBTITLE": "在您的网站上。立即开始免费试用——无需信用卡，5分钟内即可完成设置。",
-    "FAQ_WEBINARS_PRICING_ANSWER": "FastComments 的计费方式是按页面加载量和评论量计费，而非按观看人数计费。如果页面加载量在您的套餐范围内，那么 5 万名观众的网络研讨会与 500 名观众的网络研讨会费用相同。参与者无需支付任何席位费用。这使得重复性活动的成本可预测。<a href='/traffic-pricing' target='_blank'>查看当前定价</a>。"
+    "FAQ_WEBINARS_PRICING_ANSWER": "FastComments 的计费方式是按页面加载量和评论量计费，而非按观看人数计费。如果页面加载量在您的套餐范围内，那么 5 万名观众的网络研讨会与 500 名观众的网络研讨会费用相同。参与者无需支付任何席位费用。这使得重复性活动的成本可预测。<a href='/traffic-pricing' target='_blank'>查看当前定价</a>。",
+    "DEMO_TAB_THREADED": "主题评论",
+    "DEMO_TAB_STREAMING": "流媒体聊天"
 }

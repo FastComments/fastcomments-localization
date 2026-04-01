@@ -17,10 +17,10 @@
     "SPAM_FILTER_LABEL": "Φίλτρο ανεπιθύμητης αλληλογραφίας",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Αφελής Bayes (Κοινόχρηστο)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Αφελής Bayes (Απομονωμένος)",
-    "SPAM_FILTER_LLM": "LLM (ChatGPT)",
+    "SPAM_FILTER_LLM": "LLM (OpenAI)",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Με το Naïve Bayes, μπορείτε να χρησιμοποιήσετε το φίλτρο ανεπιθύμητης αλληλογραφίας που χρησιμοποιούν όλοι οι άλλοι ή να απομονώσετε την εκπαίδευση φίλτρου ανεπιθύμητης αλληλογραφίας μόνο στον ενοικιαστή σας. Και οι δύο μαθαίνουν συνεχώς.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Επιλέξτε LLM για να χρησιμοποιήσετε το ChatGPT για την ανίχνευση ανεπιθύμητης αλληλογραφίας (χρεώνεται $<%= tenantPackage.flexChatGPTCostCents / 100 %> ανά 1.000 διακριτικά). Μόνο μη προφανές ανεπιθύμητο περιεχόμενο αποστέλλεται στο OpenAI για μείωση του κόστους.",
-    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Η ανίχνευση ανεπιθύμητης αλληλογραφίας που βασίζεται στο ChatGPT είναι διαθέσιμη για το Flex (διατίθενται προσαρμοσμένα πακέτα).",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Επιλέξτε μια επιλογή LLM για ανίχνευση ανεπιθύμητης αλληλογραφίας με την υποστήριξη της τεχνητής νοημοσύνης (χρεώνεται $<%= tenantPackage.flexLLMCostCents / 100 %> ανά 1.000 tokens). Μόνο μη προφανές ανεπιθύμητο περιεχόμενο αποστέλλεται στο LLM για μείωση του κόστους.",
+    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Η ανίχνευση ανεπιθύμητης αλληλογραφίας (spam) που βασίζεται σε LLM είναι διαθέσιμη για το Flex (διατίθενται προσαρμοσμένα πακέτα).",
     "COMMENT_APPROVAL_HEADING": "Έγκριση σχολίου",
     "AUTO_APPROVE_COMMENTS_LABEL": "Αυτόματη έγκριση σχολίων",
     "AUTO_APPROVE_COMMENTS_DESCRIPTION": "Η αλλαγή αυτής της ρύθμισης δεν θα επηρεάσει τα προηγούμενα σχόλια.",
@@ -49,5 +49,6 @@
     "SPAM_PROFANITY_BLOG_LINK": "Διαβάστε περισσότερα σχετικά με το φιλτράρισμα ανεπιθύμητης αλληλογραφίας και βωμολοχίας του FastComments <a href=\"https://blog.fastcomments.com/(1-28-2020)-how-to-prevent-spam-in-your-comments.html\" target=\"_blank\">εδώ</a> .",
     "COPY_TO_SUB_TENANTS_LABEL": "Αντιγραφή στους Υπενοικιαστές",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Αν επιλέξετε αυτό, οι ρυθμίσεις θα αντιγραφούν σε όλους τους υποενοικιαστές.",
-    "SAVE_BUTTON": "Εκτός"
+    "SAVE_BUTTON": "Εκτός",
+    "SPAM_FILTER_DEEPINFRA": "LLM (DeepInfra)"
 }

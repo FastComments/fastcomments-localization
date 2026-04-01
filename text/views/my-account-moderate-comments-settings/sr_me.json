@@ -17,10 +17,10 @@
     "SPAM_FILTER_LABEL": "Филтер за нежељену пошту",
     "SPAM_FILTER_NAIVE_BAYES_SHARED": "Наивни Бајес (Дељено)",
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Наивни Бајесов (изоловани)",
-    "SPAM_FILTER_LLM": "Магистар права (ChatGPT)",
+    "SPAM_FILTER_LLM": "Магистар права (OpenAI)",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Са Наивним Бајесовим системом, можете користити филтер за спам који сви остали користе или изоловати обуку филтера за спам само за вашег закупца. Оба система континуирано уче.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Изаберите LLM да бисте користили ChatGPT за детекцију непожељне поште (наплаћује се <%= tenantPackage.flexChatGPTCostCents / 100 %> долара по 1 хиљади токена). Само неочигледна непожељна пошта се шаље OpenAI-у ради смањења трошкова.",
-    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Детекција спама заснована на ChatGPT-у је доступна за Flex (доступни су прилагођени пакети).",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Изаберите LLM опцију за детекцију спама помоћу вештачке интелигенције (наплаћује се <%= tenantPackage.flexLLMCostCents / 100 %> долара по 1 хиљади токена). Само неочигледан спам се шаље LLM-у ради смањења трошкова.",
+    "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Детекција нежељене поште заснована на LLM-у је доступна за Flex (доступни су прилагођени пакети).",
     "COMMENT_APPROVAL_HEADING": "Одобравање коментара",
     "AUTO_APPROVE_COMMENTS_LABEL": "Аутоматски одобри коментаре",
     "AUTO_APPROVE_COMMENTS_DESCRIPTION": "Промена овог подешавања неће утицати на претходне коментаре.",
@@ -49,5 +49,6 @@
     "SPAM_PROFANITY_BLOG_LINK": "Више о филтрирању спама и вулгарности помоћу FastComments прочитајте <a href=\"https://blog.fastcomments.com/(1-28-2020)-how-to-prevent-spam-in-your-comments.html\" target=\"_blank\">овде</a> .",
     "COPY_TO_SUB_TENANTS_LABEL": "Копија за подстанаре",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Означавањем ове опције подешавања ће се копирати на све подстанаре.",
-    "SAVE_BUTTON": "Сачувај"
+    "SAVE_BUTTON": "Сачувај",
+    "SPAM_FILTER_DEEPINFRA": "Магистар права (ДипИнфра)"
 }
