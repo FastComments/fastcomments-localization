@@ -117,7 +117,7 @@
         "error": 8,
         "global-distribution": 44,
         "homepage-email-opt-out": 5,
-        "index": 100,
+        "index": 101,
         "layout-v2": 1,
         "login-failure": 6,
         "login-forgot-username": 12,
@@ -2548,7 +2548,8 @@
         "t97": "SCALE_DATA_ENCRYPTION_DESC",
         "t98": "SCALE_LIVE_BACKUPS",
         "t99": "SCALE_LIVE_BACKUPS_DESC",
-        "t100": "HEAD_META_DESCRIPTION"
+        "t100": "HEAD_META_DESCRIPTION",
+        "t101": "BUTTON_SEE_DEMO"
     },
     "layout-v2": {
         "t1": "PAGE_TITLE_DEFAULT"
