@@ -61,7 +61,7 @@
         "bulk-ban-dialog-component": 35,
         "bulk-select-component": 9,
         "comment-component": 38,
-        "comment-list-manager": 190,
+        "comment-list-manager": 192,
         "confirm-dialog-component": 2,
         "dialog-component": 2,
         "header-component": 21,
@@ -1659,7 +1659,9 @@
         "t187": "KB_SHORTCUT_GUIDERS",
         "t188": "KB_SHORTCUT_SEARCH",
         "t189": "KB_SHORTCUT_PREV_PAGE",
-        "t190": "KB_SHORTCUT_NEXT_PAGE"
+        "t190": "KB_SHORTCUT_NEXT_PAGE",
+        "t191": "MOD_NEW_COMMENTS_AVAILABLE",
+        "t192": "MOD_NEW_COMMENTS_LOAD"
     },
     "confirm-dialog-component": {
         "t1": "CONFIRM_DIALOG_CONTINUE",
