@@ -242,7 +242,7 @@
         "my-account-sent-email-detail": 13,
         "my-account-sent-emails": 21,
         "my-account-tenant-delete": 37,
-        "my-account-tenants": 35,
+        "my-account-tenants": 36,
         "my-account-ticket": 39,
         "my-account-tickets": 22,
         "my-account-two-factor": 13,
@@ -5244,7 +5244,8 @@
         "t32": "CSV_COL_DAYS_LEFT",
         "t33": "CSV_COL_MRR",
         "t34": "CSV_COL_MONTHLY_COST",
-        "t35": "CSV_COL_TENANT_ID"
+        "t35": "CSV_COL_TENANT_ID",
+        "t36": "CSV_COL_MANAGED_BY_TENANT_ID"
     },
     "my-account-ticket": {
         "t1": "PAGE_TITLE",
