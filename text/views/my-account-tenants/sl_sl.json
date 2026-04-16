@@ -21,5 +21,17 @@
     "MENU_DELETE": "Izbriši",
     "MESSAGE_NO_TENANTS": "Nimate upravljanih najemnikov! Dodajte enega spodaj.",
     "LINK_CREATE_TENANT": "Ustvari najemnika",
-    "ALT_PLUS": "Plus"
+    "ALT_PLUS": "Plus",
+    "BUTTON_EXPORT_CSV": "Izvozi CSV",
+    "EXPORT_CSV_TITLE": "Prenesi najemnike kot datoteko CSV",
+    "CSV_COL_EMAIL": "E-pošta",
+    "CSV_COL_TENANT_NAME": "Ime najemnika",
+    "CSV_COL_COMMENT_COUNT": "Število komentarjev",
+    "CSV_COL_USAGE": "Uporaba v tem obdobju",
+    "CSV_COL_MRR": "MRR",
+    "CSV_COL_DAYS_LEFT": "Preostali dnevi v poskusnem obdobju",
+    "CSV_COL_BILLING_VALID": "Veljavne informacije o obračunu",
+    "CSV_COL_SIGN_UP_DATE": "Datum prijave",
+    "CSV_COL_MONTHLY_COST": "Mesečni stroški",
+    "CSV_COL_TENANT_ID": "ID najemnika"
 }

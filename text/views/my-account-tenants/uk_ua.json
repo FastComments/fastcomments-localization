@@ -21,5 +21,17 @@
     "MENU_DELETE": "Видалити",
     "MESSAGE_NO_TENANTS": "У вас немає керованих орендарів! Додайте одного нижче.",
     "LINK_CREATE_TENANT": "Створити орендаря",
-    "ALT_PLUS": "Плюс"
+    "ALT_PLUS": "Плюс",
+    "BUTTON_EXPORT_CSV": "Експорт CSV-файлу",
+    "CSV_COL_EMAIL": "Електронна пошта",
+    "CSV_COL_TENANT_NAME": "Ім'я орендаря",
+    "CSV_COL_SIGN_UP_DATE": "Дата реєстрації",
+    "CSV_COL_USAGE": "Використання в цей період",
+    "CSV_COL_COMMENT_COUNT": "Кількість коментарів",
+    "EXPORT_CSV_TITLE": "Завантажити орендарів у форматі CSV-файлу",
+    "CSV_COL_MRR": "MRR",
+    "CSV_COL_MONTHLY_COST": "Щомісячна вартість",
+    "CSV_COL_BILLING_VALID": "Платіжна інформація дійсна",
+    "CSV_COL_DAYS_LEFT": "Залишилося днів до кінця пробного періоду",
+    "CSV_COL_TENANT_ID": "Ідентифікатор орендаря"
 }

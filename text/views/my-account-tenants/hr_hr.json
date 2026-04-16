@@ -21,5 +21,17 @@
     "MENU_DELETE": "Izbrisati",
     "MESSAGE_NO_TENANTS": "Nemate upravljanih najmoprimaca! Dodajte jednog u nastavku.",
     "LINK_CREATE_TENANT": "Stvori najmoprimca",
-    "ALT_PLUS": "Plus"
+    "ALT_PLUS": "Plus",
+    "EXPORT_CSV_TITLE": "Preuzmite stanare kao CSV datoteku",
+    "BUTTON_EXPORT_CSV": "Izvoz CSV-a",
+    "CSV_COL_EMAIL": "E-pošta",
+    "CSV_COL_TENANT_NAME": "Ime najmoprimca",
+    "CSV_COL_DAYS_LEFT": "Preostali dani suđenja",
+    "CSV_COL_USAGE": "Upotreba u ovom razdoblju",
+    "CSV_COL_COMMENT_COUNT": "Broj komentara",
+    "CSV_COL_SIGN_UP_DATE": "Datum prijave",
+    "CSV_COL_TENANT_ID": "ID najmoprimca",
+    "CSV_COL_MRR": "MRR",
+    "CSV_COL_MONTHLY_COST": "Mjesečni trošak",
+    "CSV_COL_BILLING_VALID": "Podaci o naplati važeći"
 }

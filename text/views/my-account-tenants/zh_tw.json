@@ -21,5 +21,17 @@
     "MENU_DELETE": "刪除",
     "MESSAGE_NO_TENANTS": "您目前沒有任何託管租戶！請在下方新增。",
     "LINK_CREATE_TENANT": "建立租戶",
-    "ALT_PLUS": "加"
+    "ALT_PLUS": "加",
+    "BUTTON_EXPORT_CSV": "匯出 CSV 文件",
+    "CSV_COL_EMAIL": "電子郵件",
+    "CSV_COL_COMMENT_COUNT": "評論數",
+    "EXPORT_CSV_TITLE": "將租戶資訊下載為 CSV 文件",
+    "CSV_COL_USAGE": "本期間使用情況",
+    "CSV_COL_TENANT_NAME": "租戶姓名",
+    "CSV_COL_TENANT_ID": "租戶 ID",
+    "CSV_COL_MONTHLY_COST": "每月費用",
+    "CSV_COL_SIGN_UP_DATE": "報名日期",
+    "CSV_COL_BILLING_VALID": "帳單資訊有效",
+    "CSV_COL_MRR": "市場報酬率",
+    "CSV_COL_DAYS_LEFT": "審判剩餘天數"
 }

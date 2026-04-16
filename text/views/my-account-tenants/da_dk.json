@@ -21,5 +21,17 @@
     "MENU_DELETE": "Slet",
     "MESSAGE_NO_TENANTS": "Du har ingen administrerede lejere! Tilføj en nedenfor.",
     "LINK_CREATE_TENANT": "Opret lejer",
-    "ALT_PLUS": "Plus"
+    "ALT_PLUS": "Plus",
+    "EXPORT_CSV_TITLE": "Download lejere som en CSV-fil",
+    "BUTTON_EXPORT_CSV": "Eksportér CSV",
+    "CSV_COL_EMAIL": "E-mail",
+    "CSV_COL_TENANT_NAME": "Lejerens navn",
+    "CSV_COL_COMMENT_COUNT": "Antal kommentarer",
+    "CSV_COL_BILLING_VALID": "Faktureringsoplysninger gyldige",
+    "CSV_COL_USAGE": "Brug i denne periode",
+    "CSV_COL_DAYS_LEFT": "Dage tilbage i retssagen",
+    "CSV_COL_SIGN_UP_DATE": "Tilmeldingsdato",
+    "CSV_COL_MRR": "MRR",
+    "CSV_COL_TENANT_ID": "Lejer-ID",
+    "CSV_COL_MONTHLY_COST": "Månedlige omkostninger"
 }

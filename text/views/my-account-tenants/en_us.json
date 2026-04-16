@@ -18,8 +18,20 @@
     "VALUE_MANAGED": "Managed",
     "BUTTON_SWITCH": "Switch",
     "BUTTON_SWITCH_DISABLED_TOOLTIP": "You're in this tenant.",
+    "BUTTON_EXPORT_CSV": "Export CSV",
+    "EXPORT_CSV_TITLE": "Download tenants as a CSV file",
     "MENU_DELETE": "Delete",
     "MESSAGE_NO_TENANTS": "You don't have any managed tenants! Add one below.",
     "LINK_CREATE_TENANT": "Create Tenant",
-    "ALT_PLUS": "Plus"
+    "ALT_PLUS": "Plus",
+    "CSV_COL_TENANT_NAME": "Tenant Name",
+    "CSV_COL_EMAIL": "Email",
+    "CSV_COL_COMMENT_COUNT": "Comment Count",
+    "CSV_COL_USAGE": "Usage This Period",
+    "CSV_COL_SIGN_UP_DATE": "Sign Up Date",
+    "CSV_COL_BILLING_VALID": "Billing Info Valid",
+    "CSV_COL_DAYS_LEFT": "Days Left in Trial",
+    "CSV_COL_MRR": "MRR",
+    "CSV_COL_MONTHLY_COST": "Monthly Cost",
+    "CSV_COL_TENANT_ID": "Tenant ID"
 }

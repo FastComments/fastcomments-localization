@@ -21,5 +21,17 @@
     "MENU_DELETE": "Excluir",
     "MESSAGE_NO_TENANTS": "Você não tem nenhum inquilino gerenciado! Adicione um abaixo.",
     "LINK_CREATE_TENANT": "Criar locatário",
-    "ALT_PLUS": "Mais"
+    "ALT_PLUS": "Mais",
+    "CSV_COL_COMMENT_COUNT": "Contagem de comentários",
+    "CSV_COL_EMAIL": "E-mail",
+    "BUTTON_EXPORT_CSV": "Exportar CSV",
+    "EXPORT_CSV_TITLE": "Baixe os inquilinos como um arquivo CSV.",
+    "CSV_COL_TENANT_NAME": "Nome do inquilino",
+    "CSV_COL_BILLING_VALID": "Informações de faturamento válidas",
+    "CSV_COL_USAGE": "Utilização neste período",
+    "CSV_COL_DAYS_LEFT": "Faltam dias para o fim do julgamento.",
+    "CSV_COL_SIGN_UP_DATE": "Data de inscrição",
+    "CSV_COL_MONTHLY_COST": "Custo mensal",
+    "CSV_COL_TENANT_ID": "ID do inquilino",
+    "CSV_COL_MRR": "MRR"
 }

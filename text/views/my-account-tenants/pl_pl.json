@@ -21,5 +21,17 @@
     "MENU_DELETE": "Usuwać",
     "MESSAGE_NO_TENANTS": "Nie masz żadnych zarządzanych najemców! Dodaj jednego poniżej.",
     "LINK_CREATE_TENANT": "Utwórz najemcę",
-    "ALT_PLUS": "Plus"
+    "ALT_PLUS": "Plus",
+    "BUTTON_EXPORT_CSV": "Eksportuj CSV",
+    "CSV_COL_EMAIL": "E-mail",
+    "CSV_COL_COMMENT_COUNT": "Liczba komentarzy",
+    "CSV_COL_TENANT_NAME": "Imię i nazwisko najemcy",
+    "CSV_COL_USAGE": "Okres użytkowania",
+    "EXPORT_CSV_TITLE": "Pobierz najemców jako plik CSV",
+    "CSV_COL_DAYS_LEFT": "Pozostało dni do rozprawy",
+    "CSV_COL_BILLING_VALID": "Informacje rozliczeniowe są ważne",
+    "CSV_COL_SIGN_UP_DATE": "Data rejestracji",
+    "CSV_COL_MONTHLY_COST": "Koszt miesięczny",
+    "CSV_COL_TENANT_ID": "ID najemcy",
+    "CSV_COL_MRR": "MRR"
 }

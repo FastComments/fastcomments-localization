@@ -21,5 +21,17 @@
     "MENU_DELETE": "Διαγράφω",
     "MESSAGE_NO_TENANTS": "Δεν έχετε κανέναν διαχειριζόμενο ενοικιαστή! Προσθέστε έναν παρακάτω.",
     "LINK_CREATE_TENANT": "Δημιουργία Ενοικιαστή",
-    "ALT_PLUS": "Συν"
+    "ALT_PLUS": "Συν",
+    "CSV_COL_TENANT_NAME": "Όνομα Ενοικιαστή",
+    "EXPORT_CSV_TITLE": "Λήψη ενοικιαστών ως αρχείο CSV",
+    "BUTTON_EXPORT_CSV": "Εξαγωγή CSV",
+    "CSV_COL_EMAIL": "E-mail",
+    "CSV_COL_COMMENT_COUNT": "Αριθμός σχολίων",
+    "CSV_COL_SIGN_UP_DATE": "Ημερομηνία εγγραφής",
+    "CSV_COL_DAYS_LEFT": "Ημέρες που απομένουν στη δίκη",
+    "CSV_COL_BILLING_VALID": "Πληροφορίες Χρέωσης Ισχύουν",
+    "CSV_COL_USAGE": "Χρήση Αυτής της Περιόδου",
+    "CSV_COL_MRR": "MRR",
+    "CSV_COL_TENANT_ID": "Ταυτότητα ενοικιαστή",
+    "CSV_COL_MONTHLY_COST": "Μηνιαίο κόστος"
 }

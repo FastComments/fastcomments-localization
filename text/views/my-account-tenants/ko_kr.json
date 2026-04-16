@@ -21,5 +21,17 @@
     "MENU_DELETE": "삭제",
     "MESSAGE_NO_TENANTS": "현재 관리 중인 임차인이 없습니다! 아래에 추가해 주세요.",
     "LINK_CREATE_TENANT": "테넌트 생성",
-    "ALT_PLUS": "을 더한"
+    "ALT_PLUS": "을 더한",
+    "BUTTON_EXPORT_CSV": "CSV 내보내기",
+    "CSV_COL_EMAIL": "이메일",
+    "CSV_COL_TENANT_NAME": "임차인 이름",
+    "CSV_COL_USAGE": "이 기간 사용량",
+    "EXPORT_CSV_TITLE": "테넌트 목록을 CSV 파일로 다운로드하세요",
+    "CSV_COL_BILLING_VALID": "청구 정보 유효함",
+    "CSV_COL_DAYS_LEFT": "재판 남은 일수",
+    "CSV_COL_SIGN_UP_DATE": "등록 날짜",
+    "CSV_COL_MONTHLY_COST": "월 비용",
+    "CSV_COL_MRR": "MRR",
+    "CSV_COL_COMMENT_COUNT": "댓글 수",
+    "CSV_COL_TENANT_ID": "임차인 ID"
 }

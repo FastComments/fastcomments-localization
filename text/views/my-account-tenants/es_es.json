@@ -21,5 +21,17 @@
     "MENU_DELETE": "Borrar",
     "MESSAGE_NO_TENANTS": "¡No tienes inquilinos administrados! Agrega uno a continuación.",
     "LINK_CREATE_TENANT": "Crear inquilino",
-    "ALT_PLUS": "Más"
+    "ALT_PLUS": "Más",
+    "BUTTON_EXPORT_CSV": "Exportar CSV",
+    "CSV_COL_TENANT_NAME": "Nombre del inquilino",
+    "EXPORT_CSV_TITLE": "Descargar inquilinos como un archivo CSV",
+    "CSV_COL_EMAIL": "Correo electrónico",
+    "CSV_COL_COMMENT_COUNT": "Número de comentarios",
+    "CSV_COL_SIGN_UP_DATE": "Fecha de inscripción",
+    "CSV_COL_MRR": "MRR",
+    "CSV_COL_DAYS_LEFT": "Días restantes en el juicio",
+    "CSV_COL_USAGE": "Uso durante este período",
+    "CSV_COL_TENANT_ID": "ID de inquilino",
+    "CSV_COL_MONTHLY_COST": "Costo mensual",
+    "CSV_COL_BILLING_VALID": "Información de facturación válida"
 }

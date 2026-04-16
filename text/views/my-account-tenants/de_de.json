@@ -21,5 +21,17 @@
     "MENU_DELETE": "Löschen",
     "MESSAGE_NO_TENANTS": "Sie haben keine verwalteten Mieter! Fügen Sie unten einen hinzu.",
     "LINK_CREATE_TENANT": "Mandant erstellen",
-    "ALT_PLUS": "Plus"
+    "ALT_PLUS": "Plus",
+    "BUTTON_EXPORT_CSV": "CSV exportieren",
+    "CSV_COL_EMAIL": "E-Mail",
+    "CSV_COL_TENANT_NAME": "Mietername",
+    "EXPORT_CSV_TITLE": "Mandanten als CSV-Datei herunterladen",
+    "CSV_COL_COMMENT_COUNT": "Anzahl der Kommentare",
+    "CSV_COL_USAGE": "Nutzung in diesem Zeitraum",
+    "CSV_COL_DAYS_LEFT": "Verbleibende Tage bis zum Prozess",
+    "CSV_COL_SIGN_UP_DATE": "Anmeldedatum",
+    "CSV_COL_MRR": "MRR",
+    "CSV_COL_BILLING_VALID": "Gültig für Rechnungsinformationen",
+    "CSV_COL_MONTHLY_COST": "Monatliche Kosten",
+    "CSV_COL_TENANT_ID": "Mieter-ID"
 }

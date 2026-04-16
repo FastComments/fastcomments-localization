@@ -21,5 +21,17 @@
     "MENU_DELETE": "消去",
     "MESSAGE_NO_TENANTS": "管理対象テナントがありません。以下にテナントを追加してください。",
     "LINK_CREATE_TENANT": "テナントの作成",
-    "ALT_PLUS": "プラス"
+    "ALT_PLUS": "プラス",
+    "BUTTON_EXPORT_CSV": "CSVをエクスポート",
+    "EXPORT_CSV_TITLE": "テナント情報をCSVファイルとしてダウンロードする",
+    "CSV_COL_EMAIL": "メール",
+    "CSV_COL_MONTHLY_COST": "月額費用",
+    "CSV_COL_MRR": "MRR",
+    "CSV_COL_TENANT_NAME": "テナント名",
+    "CSV_COL_BILLING_VALID": "請求情報有効",
+    "CSV_COL_SIGN_UP_DATE": "登録日",
+    "CSV_COL_USAGE": "今期間の使用状況",
+    "CSV_COL_DAYS_LEFT": "裁判の残り日数",
+    "CSV_COL_COMMENT_COUNT": "コメント数",
+    "CSV_COL_TENANT_ID": "テナントID"
 }

@@ -21,5 +21,17 @@
     "MENU_DELETE": "Verwijderen",
     "MESSAGE_NO_TENANTS": "Je hebt nog geen beheerde huurders! Voeg er hieronder een toe.",
     "LINK_CREATE_TENANT": "Huurder aanmaken",
-    "ALT_PLUS": "Plus"
+    "ALT_PLUS": "Plus",
+    "BUTTON_EXPORT_CSV": "Exporteer naar CSV",
+    "CSV_COL_EMAIL": "E-mail",
+    "EXPORT_CSV_TITLE": "Download huurders als een CSV-bestand",
+    "CSV_COL_TENANT_NAME": "Naam van de huurder",
+    "CSV_COL_COMMENT_COUNT": "Aantal reacties",
+    "CSV_COL_BILLING_VALID": "Factuurgegevens geldig",
+    "CSV_COL_SIGN_UP_DATE": "Aanmeldingsdatum",
+    "CSV_COL_USAGE": "Gebruik deze periode",
+    "CSV_COL_DAYS_LEFT": "Aantal dagen resterend in de rechtszaak",
+    "CSV_COL_TENANT_ID": "Huurders-ID",
+    "CSV_COL_MONTHLY_COST": "Maandelijkse kosten",
+    "CSV_COL_MRR": "MRR"
 }

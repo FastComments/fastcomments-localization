@@ -21,5 +21,17 @@
     "MENU_DELETE": "Supprimer",
     "MESSAGE_NO_TENANTS": "Vous n'avez aucun locataire géré ! Ajoutez-en un ci-dessous.",
     "LINK_CREATE_TENANT": "Créer un locataire",
-    "ALT_PLUS": "Plus"
+    "ALT_PLUS": "Plus",
+    "BUTTON_EXPORT_CSV": "Exporter au format CSV",
+    "EXPORT_CSV_TITLE": "Télécharger les locataires sous forme de fichier CSV",
+    "CSV_COL_TENANT_NAME": "Nom du locataire",
+    "CSV_COL_COMMENT_COUNT": "Nombre de commentaires",
+    "CSV_COL_SIGN_UP_DATE": "Date d'inscription",
+    "CSV_COL_EMAIL": "E-mail",
+    "CSV_COL_USAGE": "Utilisation pendant cette période",
+    "CSV_COL_DAYS_LEFT": "Jours restants avant le procès",
+    "CSV_COL_MONTHLY_COST": "Coût mensuel",
+    "CSV_COL_BILLING_VALID": "Informations de facturation valides",
+    "CSV_COL_MRR": "MRR",
+    "CSV_COL_TENANT_ID": "Identifiant du locataire"
 }

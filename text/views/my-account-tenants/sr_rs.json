@@ -21,5 +21,17 @@
     "MENU_DELETE": "Обриши",
     "MESSAGE_NO_TENANTS": "Немате ниједног управљаног закупца! Додајте једног испод.",
     "LINK_CREATE_TENANT": "Креирај закупца",
-    "ALT_PLUS": "Плус"
+    "ALT_PLUS": "Плус",
+    "BUTTON_EXPORT_CSV": "Извези CSV датотеку",
+    "EXPORT_CSV_TITLE": "Преузмите станаре као CSV датотеку",
+    "CSV_COL_TENANT_NAME": "Име закупца",
+    "CSV_COL_EMAIL": "Е-пошта",
+    "CSV_COL_COMMENT_COUNT": "Број коментара",
+    "CSV_COL_SIGN_UP_DATE": "Датум регистрације",
+    "CSV_COL_USAGE": "Употреба у овом периоду",
+    "CSV_COL_BILLING_VALID": "Важећи подаци за наплату",
+    "CSV_COL_MRR": "MRR",
+    "CSV_COL_DAYS_LEFT": "Преостали дани у пробном периоду",
+    "CSV_COL_MONTHLY_COST": "Месечни трошкови",
+    "CSV_COL_TENANT_ID": "ИД закупца"
 }

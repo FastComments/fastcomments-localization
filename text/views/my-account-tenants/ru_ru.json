@@ -21,5 +21,17 @@
     "MENU_DELETE": "Удалить",
     "MESSAGE_NO_TENANTS": "У вас нет управляемых арендаторов! Добавьте его ниже.",
     "LINK_CREATE_TENANT": "Создать арендатора",
-    "ALT_PLUS": "Плюс"
+    "ALT_PLUS": "Плюс",
+    "BUTTON_EXPORT_CSV": "Экспорт CSV",
+    "EXPORT_CSV_TITLE": "Скачать список арендаторов в виде CSV-файла",
+    "CSV_COL_TENANT_NAME": "Имя арендатора",
+    "CSV_COL_EMAIL": "Электронная почта",
+    "CSV_COL_MRR": "МРР",
+    "CSV_COL_DAYS_LEFT": "До конца судебного процесса осталось дней",
+    "CSV_COL_SIGN_UP_DATE": "Дата регистрации",
+    "CSV_COL_MONTHLY_COST": "Ежемесячная стоимость",
+    "CSV_COL_BILLING_VALID": "Платежная информация действительна",
+    "CSV_COL_USAGE": "Использовать этот период",
+    "CSV_COL_COMMENT_COUNT": "Количество комментариев",
+    "CSV_COL_TENANT_ID": "Идентификатор арендатора"
 }

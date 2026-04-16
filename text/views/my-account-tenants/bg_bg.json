@@ -21,5 +21,17 @@
     "MENU_DELETE": "Изтриване",
     "MESSAGE_NO_TENANTS": "Нямате управлявани наематели! Добавете такъв по-долу.",
     "LINK_CREATE_TENANT": "Създаване на наемател",
-    "ALT_PLUS": "Плюс"
+    "ALT_PLUS": "Плюс",
+    "CSV_COL_SIGN_UP_DATE": "Дата на регистрация",
+    "CSV_COL_USAGE": "Употреба през този период",
+    "CSV_COL_MRR": "MRR",
+    "EXPORT_CSV_TITLE": "Изтегляне на наемателите като CSV файл",
+    "CSV_COL_DAYS_LEFT": "Оставащи дни в пробния период",
+    "CSV_COL_EMAIL": "Имейл",
+    "CSV_COL_COMMENT_COUNT": "Брой коментари",
+    "CSV_COL_TENANT_NAME": "Име на наемателя",
+    "BUTTON_EXPORT_CSV": "Експортиране на CSV файл",
+    "CSV_COL_BILLING_VALID": "Валидна информация за фактуриране",
+    "CSV_COL_TENANT_ID": "Идентификационен номер на наемател",
+    "CSV_COL_MONTHLY_COST": "Месечна цена"
 }

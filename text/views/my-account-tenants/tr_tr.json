@@ -21,5 +21,17 @@
     "MENU_DELETE": "Silmek",
     "MESSAGE_NO_TENANTS": "Şu anda yönettiğiniz kiracınız yok! Aşağıdan bir tane ekleyin.",
     "LINK_CREATE_TENANT": "Kiracı Oluştur",
-    "ALT_PLUS": "Artı"
+    "ALT_PLUS": "Artı",
+    "CSV_COL_EMAIL": "E-posta",
+    "CSV_COL_COMMENT_COUNT": "Yorum Sayısı",
+    "CSV_COL_TENANT_NAME": "Kiracı Adı",
+    "EXPORT_CSV_TITLE": "Kiracı bilgilerini CSV dosyası olarak indirin",
+    "BUTTON_EXPORT_CSV": "CSV olarak dışa aktar",
+    "CSV_COL_MONTHLY_COST": "Aylık Maliyet",
+    "CSV_COL_MRR": "MRR",
+    "CSV_COL_USAGE": "Bu Dönemdeki Kullanım",
+    "CSV_COL_BILLING_VALID": "Fatura Bilgileri Geçerli",
+    "CSV_COL_DAYS_LEFT": "Duruşmanın bitmesine kalan gün sayısı",
+    "CSV_COL_TENANT_ID": "Kiracı Kimliği",
+    "CSV_COL_SIGN_UP_DATE": "Kayıt Tarihi"
 }
