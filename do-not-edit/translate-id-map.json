@@ -117,7 +117,7 @@
         "error": 8,
         "global-distribution": 44,
         "homepage-email-opt-out": 5,
-        "index": 101,
+        "index": 105,
         "layout-v2": 1,
         "login-failure": 6,
         "login-forgot-username": 12,
@@ -2549,7 +2549,11 @@
         "t98": "SCALE_LIVE_BACKUPS",
         "t99": "SCALE_LIVE_BACKUPS_DESC",
         "t100": "HEAD_META_DESCRIPTION",
-        "t101": "BUTTON_SEE_DEMO"
+        "t101": "BUTTON_SEE_DEMO",
+        "t102": "SNIPPET_VIEW_LIBRARY_REACT",
+        "t103": "SNIPPET_VIEW_LIBRARY_VUE",
+        "t104": "SNIPPET_VIEW_LIBRARY_ANGULAR",
+        "t105": "SNIPPET_VIEW_LIBRARY_SOLIDJS"
     },
     "layout-v2": {
         "t1": "PAGE_TITLE_DEFAULT"

@@ -97,5 +97,9 @@
     "SCALE_LIVE_BACKUPS": "Резервне копије уживо између региона",
     "SCALE_LIVE_BACKUPS_DESC": "Резервна копија FastComments-а се прави уживо у више региона и код провајдера хостинга 24/7.",
     "HEAD_META_DESCRIPTION": "FastComments је систем за коментарисање уживо и алтернатива Disqus-у за статичке сајтове, WordPress и било коју веб апликацију. SDK-ови за фронтенд и бекенд за уградњу функција за коментарисање и ћаскање у ваше постојеће апликације.",
-    "BUTTON_SEE_DEMO": "Погледајте демо"
+    "BUTTON_SEE_DEMO": "Погледајте демо",
+    "SNIPPET_VIEW_LIBRARY_REACT": "Погледајте библиотеку React компоненти",
+    "SNIPPET_VIEW_LIBRARY_SOLIDJS": "Погледајте библиотеку компоненти SolidJS-а",
+    "SNIPPET_VIEW_LIBRARY_ANGULAR": "Погледајте библиотеку Angular компоненти",
+    "SNIPPET_VIEW_LIBRARY_VUE": "Погледајте библиотеку Vue компоненти"
 }
