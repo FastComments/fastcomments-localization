@@ -60,7 +60,7 @@
         "bulk-action-component": 13,
         "bulk-ban-dialog-component": 35,
         "bulk-select-component": 9,
-        "comment-component": 38,
+        "comment-component": 40,
         "comment-list-manager": 203,
         "confirm-dialog-component": 2,
         "dialog-component": 2,
@@ -1469,7 +1469,9 @@
         "t35": "COMMENT_MENU_SET_TRUST_FACTOR",
         "t36": "COMMENT_BTN_SET_TRUST_FACTOR",
         "t37": "COMMENT_MENU_VIEW_INTERNAL_PROFILE",
-        "t38": "COMMENT_BTN_VIEW_INTERNAL_PROFILE"
+        "t38": "COMMENT_BTN_VIEW_INTERNAL_PROFILE",
+        "t39": "COMMENT_MENU_LOCK",
+        "t40": "COMMENT_MENU_UNLOCK"
     },
     "comment-list-manager": {
         "t1": "COMMENT_LIST_SEARCH_PLACEHOLDER",
