@@ -21,7 +21,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 392,
+        "comment-ui": 394,
         "recent-comments": 15,
         "top-pages": 3,
         "recent-discussions": 3,
@@ -710,7 +710,8 @@
         "t368": "COMMENT_MENU_UNPIN",
         "t390": "MENTION_SECTION_MODERATORS",
         "t391": "MENTION_SECTION_ON_THIS_PAGE",
-        "t392": "MENTION_SECTION_ON_THIS_SITE"
+        "t392": "MENTION_SECTION_ON_THIS_SITE",
+        "t393": "THIS_COMMENT_LOCKED"
     },
     "recent-comments": {
         "t1": "AVATAR",
@@ -1162,7 +1163,8 @@
         "t286": "COMMENT_EDITING_NOT_ALLOWED"
     },
     "comment-ui-error-locked": {
-        "t289": "COMMENT_LOCKED_FOR_NEW_REPLIES"
+        "t289": "COMMENT_LOCKED_FOR_NEW_REPLIES",
+        "t394": "COMMENT_LOCKED_CANNOT_MODIFY"
     },
     "comment-ui-vote-list": {
         "t294": "GETTING_VOTE_LIST",
