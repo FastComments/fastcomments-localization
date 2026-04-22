@@ -61,7 +61,7 @@
         "bulk-ban-dialog-component": 35,
         "bulk-select-component": 9,
         "comment-component": 38,
-        "comment-list-manager": 192,
+        "comment-list-manager": 203,
         "confirm-dialog-component": 2,
         "dialog-component": 2,
         "header-component": 21,
@@ -1663,7 +1663,18 @@
         "t189": "KB_SHORTCUT_PREV_PAGE",
         "t190": "KB_SHORTCUT_NEXT_PAGE",
         "t191": "MOD_NEW_COMMENTS_AVAILABLE",
-        "t192": "MOD_NEW_COMMENTS_LOAD"
+        "t192": "MOD_NEW_COMMENTS_LOAD",
+        "t193": "COMMENT_LIST_ACTION_LOCKING",
+        "t194": "COMMENT_LIST_ACTION_LOCKED",
+        "t195": "COMMENT_LIST_ACTION_UNLOCKING",
+        "t196": "COMMENT_LIST_ACTION_UNLOCKED",
+        "t197": "MOD_ACTION_LOCK_SELECTED",
+        "t198": "MOD_ACTION_UNLOCK_SELECTED",
+        "t199": "MOD_FILTER_LOCKED",
+        "t200": "COMMENT_LIST_ACTION_LOCKING_PLURAL",
+        "t201": "COMMENT_LIST_ACTION_LOCKED_PLURAL",
+        "t202": "COMMENT_LIST_ACTION_UNLOCKING_PLURAL",
+        "t203": "COMMENT_LIST_ACTION_UNLOCKED_PLURAL"
     },
     "confirm-dialog-component": {
         "t1": "CONFIRM_DIALOG_CONTINUE",

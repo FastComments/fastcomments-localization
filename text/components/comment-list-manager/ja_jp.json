@@ -189,5 +189,16 @@
     "KB_SHORTCUT_PREV_PAGE": "前のページ",
     "KB_SHORTCUT_NEXT_PAGE": "次のページ",
     "MOD_NEW_COMMENTS_LOAD": "クリックして表示",
-    "MOD_NEW_COMMENTS_AVAILABLE": "新しいコメントがあなたのフィルターに一致しました"
+    "MOD_NEW_COMMENTS_AVAILABLE": "新しいコメントがあなたのフィルターに一致しました",
+    "COMMENT_LIST_ACTION_LOCKING": "コメントをロックする",
+    "MOD_FILTER_LOCKED": "ロック済み",
+    "COMMENT_LIST_ACTION_UNLOCKED": "コメントをロック解除しました",
+    "COMMENT_LIST_ACTION_LOCKED": "コメントをロックしました",
+    "MOD_ACTION_UNLOCK_SELECTED": "選択した項目をロック解除",
+    "COMMENT_LIST_ACTION_UNLOCKING": "コメントのロックを解除する",
+    "MOD_ACTION_LOCK_SELECTED": "選択した項目をロックする",
+    "COMMENT_LIST_ACTION_LOCKING_PLURAL": "コメントをロックしています",
+    "COMMENT_LIST_ACTION_LOCKED_PLURAL": "ロックされた [count] コメント",
+    "COMMENT_LIST_ACTION_UNLOCKED_PLURAL": "ロック解除された [count] コメント",
+    "COMMENT_LIST_ACTION_UNLOCKING_PLURAL": "コメントのロックを解除"
 }
