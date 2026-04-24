@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Agent Webhook Logs - FastComments",
+    "HEADING": "Agent Webhook Logs",
+    "BACK_LINK": "Back to Agent Webhooks",
+    "INTRO_TEXT": "Recent delivery attempts for this webhook. Queued events are awaiting retry.",
+    "QUEUED_LABEL": "In queue:",
+    "COLUMN_WHEN": "When",
+    "COLUMN_EVENT": "Event",
+    "COLUMN_STATUS": "Status",
+    "COLUMN_STATUS_CODE": "HTTP",
+    "COLUMN_DESCRIPTION": "Description",
+    "STATUS_SUCCESS": "Success",
+    "STATUS_FAILURE": "Failure",
+    "EVENT_TRIGGER_SUCCEEDED": "Agent run succeeded",
+    "EVENT_TRIGGER_FAILED": "Agent run failed",
+    "EVENT_APPROVAL_REQUESTED": "Approval requested",
+    "EVENT_APPROVAL_DECIDED": "Approval decided",
+    "PAGER_NEXT": "Next",
+    "PAGER_PREV": "Previous",
+    "EMPTY_MESSAGE": "No delivery attempts recorded for this webhook yet."
+}
