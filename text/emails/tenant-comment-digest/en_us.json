@@ -25,5 +25,16 @@
     "MARK_AS_SPAM": "Mark as Spam",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> New Likes",
     "DELTA_LIKES": "❤️",
-    "TOTAL_LIKES": "Total"
+    "TOTAL_LIKES": "Total",
+    "AUTOMATED_MODERATION_HEADING": "Automated Moderation",
+    "AUTOMATED_MODERATION_INTRO": "Actions your AI agents took on this community. Dry-run rows show what the agent would have done if it had been live.",
+    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "Marked {count} comments reviewed",
+    "AGENT_ACTION_MARK_COMMENT_APPROVED": "Approved {count} comments",
+    "AGENT_ACTION_MARK_COMMENT_SPAM": "Marked {count} comments as spam",
+    "AGENT_ACTION_LOCK_COMMENT": "Locked {count} comments",
+    "AGENT_ACTION_UNLOCK_COMMENT": "Unlocked {count} comments",
+    "AGENT_ACTION_BAN_USER": "Banned {count} users",
+    "AGENT_ACTION_WARNED_USER": "Warned {count} users via DM",
+    "AGENT_ACTION_LIVE_BADGE": "Live",
+    "AGENT_ACTION_DRY_RUN_BADGE": "Dry Run"
 }

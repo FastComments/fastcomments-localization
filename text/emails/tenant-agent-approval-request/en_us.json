@@ -1,0 +1,11 @@
+{
+    "BANNER_TEXT": "Agent Action Needs Approval",
+    "FROM_NAME": "FastComments Agents",
+    "SUBJECT": "Approval needed: <%= agentName %> wants to take an action",
+    "INTRO": "An AI agent has queued an action and needs your approval before it runs.",
+    "META_AGENT": "Agent:",
+    "META_ACTION": "Action:",
+    "BODY": "Click below to review the action arguments, originating context, and approve or reject it. The link signs you into your FastComments account directly.",
+    "REVIEW_BUTTON": "Review approval",
+    "FALLBACK_LINK": "If the button doesn't work, copy and paste this URL into your browser: <%= reviewUrl %>"
+}

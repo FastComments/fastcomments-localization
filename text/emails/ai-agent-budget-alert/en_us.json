@@ -1,0 +1,16 @@
+{
+    "BANNER_TEXT": "AI Agent Budget Alert",
+    "FROM_NAME": "FastComments Agents",
+    "SUBJECT": "<%= agentName %> reached <%= thresholdPct %>% of its <%= scopeLabel %>",
+    "INTRO": "One of your AI agents has reached a spend threshold you configured.",
+    "META_AGENT": "Agent:",
+    "META_SCOPE": "Budget:",
+    "META_USAGE": "Usage:",
+    "BODY": "Click below to open the agent in your account and raise the limit, pause the agent, or adjust its settings. The link signs you into your FastComments account directly.",
+    "MANAGE_BUTTON": "Manage agent",
+    "FALLBACK_LINK": "If the button doesn't work, copy and paste this URL into your browser: <%= manageUrl %>",
+    "SCOPE_AGENT_DAILY": "agent daily budget",
+    "SCOPE_AGENT_MONTHLY": "agent monthly budget",
+    "SCOPE_TENANT_DAILY": "account daily budget",
+    "SCOPE_TENANT_MONTHLY": "account monthly budget"
+}

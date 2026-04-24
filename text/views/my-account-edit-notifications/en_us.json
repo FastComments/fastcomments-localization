@@ -39,5 +39,12 @@
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "How often you receive email notifications for replies to your comments. @mention notifications are always sent right away.",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Admin Notification Frequency",
     "TENANT_NOTIFICATION_FREQUENCY_HELP": "How often you receive email notifications about new comments on your site.",
+    "AGENT_APPROVAL_HEADING": "AI Agent Approvals",
+    "AGENT_APPROVAL_FREQUENCY_LABEL": "Approval Notification Frequency",
+    "AGENT_APPROVAL_FREQUENCY_HELP": "How often you receive email notifications when an AI agent queues an action for your review.",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Never email me",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "Immediately",
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "Hourly digest",
+    "AGENT_APPROVAL_FREQUENCY_DAILY": "Daily digest",
     "SAVE_CHANGES": "Save Changes"
 }

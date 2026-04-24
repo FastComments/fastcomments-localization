@@ -1,0 +1,11 @@
+{
+    "BANNER_TEXT": "Pending Agent Approvals",
+    "FROM_NAME": "FastComments Agents",
+    "SUBJECT": "<%= approvalCount %> agent actions pending approval",
+    "INTRO": "The following AI agent actions are waiting for you to approve or reject.",
+    "COLUMN_AGENT": "Agent",
+    "COLUMN_ACTION": "Action",
+    "COLUMN_CREATED": "Queued at",
+    "INBOX_BUTTON": "Open approvals inbox",
+    "FALLBACK_LINK": "If the button doesn't work, copy and paste this URL into your browser: <%= inboxUrl %>"
+}
