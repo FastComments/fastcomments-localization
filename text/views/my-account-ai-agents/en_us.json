@@ -104,6 +104,7 @@
     "TRIGGER_MODERATOR_AWARDED_BADGE": "A moderator awards a badge",
     "TRIGGER_COMMENT_FLAG_THRESHOLD": "A comment crosses a flag threshold",
     "TRIGGER_NEW_USER_FIRST_COMMENT": "A user posts their first comment on this site",
+    "TRIGGER_COMMENT_AUTO_SPAMMED": "A comment is auto-captured as spam by the system",
 
     "VOTE_THRESHOLD_LABEL": "Vote threshold",
     "VOTE_THRESHOLD_HINT": "The agent runs when a comment reaches this many net votes.",
