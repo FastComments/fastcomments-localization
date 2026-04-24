@@ -14,6 +14,7 @@
     "ANALYTICS_HEADING": "Agent Analytics",
 
     "INTRO_TEXT": "AI agents watch for events in your community and respond. Give each agent a personality in its initial prompt, pick which events should trigger it, and it will use its available tools - posting comments, voting, moderating, awarding badges - to act on your behalf.",
+    "CREATED_FROM_TEMPLATE_BANNER": "Created from the {templateName} template. Review the settings below, then change status to Live when you're ready.",
     "CREATE_NEW_BUTTON": "Create new agent",
     "UPGRADE_BUTTON": "Upgrade to enable",
     "NO_AGENTS_MESSAGE": "You haven't created any AI agents yet.",

@@ -1,0 +1,32 @@
+{
+    "PAGE_TITLE": "Pick an Agent Template - FastComments",
+    "HEADING": "Start from a template",
+    "SUBHEADING": "Pick a pre-tuned starter or build from scratch. Templates create the agent in Dry Run mode so you can review and tune it before going live.",
+    "BACK_TO_AGENTS": "Back to agents",
+
+    "PREVIEW_EMPTY_TITLE": "Pick a template to preview",
+    "PREVIEW_EMPTY_BODY": "Click any card to see its prompt, triggers, and allowed actions. No agent is created until you confirm.",
+    "PREVIEW_PROMPT_LABEL": "Initial prompt",
+    "PREVIEW_TRIGGERS_LABEL": "Runs when",
+    "PREVIEW_ACTIONS_LABEL": "Allowed actions",
+    "PREVIEW_VOTE_THRESHOLD_LABEL": "Vote threshold",
+    "PREVIEW_FLAG_THRESHOLD_LABEL": "Flag threshold",
+    "PREVIEW_DELAY_LABEL": "Trigger delay",
+    "PREVIEW_DELAY_VALUE": "{minutes} minutes",
+    "USE_TEMPLATE_BUTTON": "Use this template",
+
+    "START_FRESH_NAME": "Start fresh",
+    "START_FRESH_DESCRIPTION": "Open a blank form and configure every field yourself.",
+
+    "TEMPLATE_TOS_ENFORCER_CARD_NAME": "ToS Enforcer",
+    "TEMPLATE_TOS_ENFORCER_CARD_DESCRIPTION": "Reviews new and flagged comments against your rules. Warns first offenders, marks spam, escalates repeat violations.",
+
+    "TEMPLATE_WELCOME_GREETER_CARD_NAME": "Welcome Greeter",
+    "TEMPLATE_WELCOME_GREETER_CARD_DESCRIPTION": "Replies to first-time commenters with a short, specific welcome. Helps new users feel seen without spamming old accounts.",
+
+    "TEMPLATE_TOP_COMMENT_PINNER_CARD_NAME": "Top-Comment Pinner",
+    "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "Pins substantive top-level comments once they cross a vote threshold. Rotates pins so the best take is always at the top.",
+
+    "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "Thread Summarizer",
+    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Posts a neutral summary on long threads after a short delay. Gives late arrivers a fast read on positions and open questions."
+}
