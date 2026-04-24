@@ -108,8 +108,12 @@
     "TRIGGER_DELAY_UNIT_HOURS": "hours",
     "TRIGGER_DELAY_UNIT_DAYS": "days",
 
+    "ALLOWED_TOOLS_HEADING": "Allowed tool calls",
+    "ALLOWED_TOOLS_HINT": "Control which actions this agent is allowed to take. Unchecked tools are hidden from the model entirely, not just gated behind approval. Leave 'Allow any tool calls' checked to keep the full toolset.",
+    "ALLOW_ANY_TOOL": "Allow any tool calls",
+
     "APPROVALS_HEADING": "Approvals",
-    "APPROVALS_HINT": "Select actions that must be approved by a human before the agent executes them. Approvals are queued and notified reviewers can approve or reject.",
+    "APPROVALS_HINT": "Select actions that must be approved by a human before the agent executes them. Approvals only apply to tools the agent is allowed to invoke; disallowed tools are refused outright.",
     "APPROVALS_EU_DSA_NOTICE": "EU DSA Article 17: user suspensions require human review. \"Ban a user\" is locked on and cannot be fully automated in the EU region.",
     "APPROVALS_EU_LOCKED_TOOLTIP": "Locked on by EU DSA Article 17 - fully-automated bans are not permitted in the EU region.",
 
@@ -226,6 +230,7 @@
     "ERROR_VOTE_THRESHOLD_REQUIRED": "Please set a vote threshold of 1 or more when the vote-threshold trigger is selected.",
     "ERROR_FLAG_THRESHOLD_REQUIRED": "Please set a flag threshold of 1 or more when the flag-threshold trigger is selected.",
     "ERROR_TRIGGER_DELAY_INVALID": "Please set a delay between 0 and 2,592,000 seconds (30 days).",
+    "ERROR_ALLOWED_ACTIONS_EMPTY": "Select at least one tool, or check 'Allow any tool calls'.",
     "ERROR_NOT_FOUND": "That agent could not be found.",
     "ERROR_GENERIC": "Something went wrong while saving. Please try again.",
     "ERROR_BILLING_INVALID": "AI agents require valid billing on file. Please update your billing info to continue.",
