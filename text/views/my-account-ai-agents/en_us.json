@@ -84,6 +84,10 @@
     "SCOPE_HINT": "Optional. One URL pattern per line. The agent only runs on comments whose page URL matches one of these patterns. Use glob syntax: '/news/*' matches any page under /news. Leave blank to run on every page in this tenant.",
     "SCOPE_PLACEHOLDER": "/news/*\n/forums/*",
 
+    "LOCALES_LABEL": "Restrict to specific locales",
+    "LOCALES_HINT": "Optional. Comma-separated locale IDs (for example: en_us, zh_cn). The agent only runs on comments whose detected locale is in this list. Leave blank to run on every locale.",
+    "LOCALES_PLACEHOLDER": "en_us, zh_cn",
+
     "TRIGGERS_HEADING": "When to run",
     "TRIGGERS_HINT": "Pick at least one event. The agent runs each time one occurs.",
     "TRIGGER_COMMENT_ADD": "A new comment is posted",
@@ -237,6 +241,7 @@
     "ERROR_ALLOWED_ACTIONS_EMPTY": "Select at least one tool, or check 'Allow any tool calls'.",
     "ERROR_SCOPE_TOO_MANY": "Too many URL patterns. Please list 50 or fewer.",
     "ERROR_SCOPE_PATTERN_INVALID": "One of the URL patterns is invalid. Patterns must use url-pattern glob syntax, for example '/news/*'.",
+    "ERROR_LOCALES_INVALID": "One or more locale IDs are not recognized. Use IDs like en_us or zh_cn, comma-separated.",
     "ERROR_NOT_FOUND": "That agent could not be found.",
     "ERROR_GENERIC": "Something went wrong while saving. Please try again.",
     "ERROR_BILLING_INVALID": "AI agents require valid billing on file. Please update your billing info to continue.",
