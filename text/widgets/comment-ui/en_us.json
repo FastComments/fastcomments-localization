@@ -107,6 +107,12 @@
     "HIDE_COMMENTS_BUTTON_TEXT": "Hide [count] Comment(s)",
     "COMMENT_MENU_BLOCK_USER": "Block User",
     "COMMENT_MENU_UNBLOCK_USER": "Unblock User",
+    "BLOCK_CONFIRM_TITLE": "Block User",
+    "BLOCK_CONFIRM_MESSAGE": "Are you sure you want to block this user?",
+    "UNBLOCK_CONFIRM_TITLE": "Unblock User",
+    "UNBLOCK_CONFIRM_MESSAGE": "Are you sure you want to unblock this user?",
+    "BLOCK": "Block",
+    "UNBLOCK": "Unblock",
     "COMMENT_MENU_FLAG": "Flag",
     "COMMENT_MENU_UNFLAG": "Un-Flag",
     "COMMENT_MENU_PIN": "Pin",
@@ -128,5 +134,14 @@
     "REPLIES_COUNT": "[v] Replies",
     "MENTION_SECTION_MODERATORS": "Moderators & Administrators",
     "MENTION_SECTION_ON_THIS_PAGE": "On This Page",
-    "MENTION_SECTION_ON_THIS_SITE": "On This Site"
+    "MENTION_SECTION_ON_THIS_SITE": "On This Site",
+    "MENTION_SEARCHING": "Searching for users...",
+    "MENTION_NO_MATCHES": "No matching users.",
+    "FEED_EMPTY": "No posts yet.",
+    "FEED_NEW_POST_BANNER": "Show [count] New Post",
+    "FEED_NEW_POST_BANNER_PLURAL": "Show [count] New Posts",
+    "FEED_COMPOSER_TITLE_PLACEHOLDER": "Title (optional)",
+    "FEED_COMPOSER_CONTENT_PLACEHOLDER": "Share something...",
+    "FEED_SUBMIT_POST": "Post",
+    "FEED_LOAD_FAILED": "Could not load the feed. Please try again."
 }
