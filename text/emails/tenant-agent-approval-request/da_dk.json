@@ -1,0 +1,11 @@
+{
+    "META_AGENT": "Agent:",
+    "META_ACTION": "Handling:",
+    "BANNER_TEXT": "Agenthandling kræver godkendelse",
+    "SUBJECT": "Godkendelse nødvendig: <%= agentName %> ønsker at foretage en handling",
+    "FROM_NAME": "FastComments Agenter",
+    "BODY": "Klik nedenfor for at gennemgå handlingsargumenterne, den oprindelige kontekst og godkende eller afvise det. Linket logger dig direkte ind på din FastComments-konto.",
+    "FALLBACK_LINK": "Hvis knappen ikke virker, så kopier og indsæt denne URL i din browser: <%= reviewUrl %>",
+    "REVIEW_BUTTON": "Godkendelse af gennemgang",
+    "INTRO": "En AI-agent har sat en handling i kø og skal bruge din godkendelse, før den kører."
+}

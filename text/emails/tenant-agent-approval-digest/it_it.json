@@ -1,0 +1,11 @@
+{
+    "BANNER_TEXT": "In attesa dell'approvazione dell'agente.",
+    "SUBJECT": "<%= approvalCount %> azioni dell'agente in attesa di approvazione",
+    "COLUMN_AGENT": "Agente",
+    "COLUMN_ACTION": "Azione",
+    "FROM_NAME": "Agenti di FastComments",
+    "INTRO": "Le seguenti azioni dell'agente IA sono in attesa della tua approvazione o del tuo rifiuto.",
+    "FALLBACK_LINK": "Se il pulsante non funziona, copia e incolla questo URL nel tuo browser: <%= inboxUrl %>",
+    "INBOX_BUTTON": "Apri la casella di posta delle approvazioni",
+    "COLUMN_CREATED": "In coda alle"
+}

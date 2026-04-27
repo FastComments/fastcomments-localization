@@ -1,0 +1,11 @@
+{
+    "FROM_NAME": "FastCommentsエージェント",
+    "BANNER_TEXT": "代理店の承認待ち",
+    "SUBJECT": "<%= approvalCount %> エージェントのアクションは承認待ちです",
+    "COLUMN_AGENT": "エージェント",
+    "INTRO": "以下のAIエージェントのアクションは、承認または拒否をお待ちしています。",
+    "COLUMN_ACTION": "アクション",
+    "COLUMN_CREATED": "列に並びました",
+    "INBOX_BUTTON": "承認受信トレイを開く",
+    "FALLBACK_LINK": "ボタンが機能しない場合は、このURLをコピーしてブラウザに貼り付けてください：<%= inboxUrl %>"
+}

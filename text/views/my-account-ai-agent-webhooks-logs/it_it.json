@@ -1,0 +1,21 @@
+{
+    "COLUMN_WHEN": "Quando",
+    "COLUMN_STATUS": "Stato",
+    "COLUMN_EVENT": "Evento",
+    "COLUMN_DESCRIPTION": "Descrizione",
+    "COLUMN_STATUS_CODE": "AMD",
+    "PAGE_TITLE": "Registri Webhook dell'agente - FastComments",
+    "HEADING": "Registri webhook dell'agente",
+    "BACK_LINK": "Torna ai webhook dell'agente",
+    "INTRO_TEXT": "Tentativi di consegna recenti per questo webhook. Gli eventi in coda sono in attesa di un nuovo tentativo.",
+    "QUEUED_LABEL": "In coda:",
+    "STATUS_SUCCESS": "Successo",
+    "STATUS_FAILURE": "Fallimento",
+    "PAGER_NEXT": "Prossimo",
+    "PAGER_PREV": "Precedente",
+    "EVENT_APPROVAL_REQUESTED": "Richiesta di approvazione",
+    "EVENT_TRIGGER_SUCCEEDED": "L'esecuzione dell'agente è andata a buon fine.",
+    "EVENT_APPROVAL_DECIDED": "Approvazione decisa",
+    "EVENT_TRIGGER_FAILED": "L'esecuzione dell'agente non è riuscita.",
+    "EMPTY_MESSAGE": "Non sono ancora stati registrati tentativi di consegna per questo webhook."
+}

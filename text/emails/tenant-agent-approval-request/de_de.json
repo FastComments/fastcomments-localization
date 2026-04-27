@@ -1,0 +1,11 @@
+{
+    "BANNER_TEXT": "Die Handlung des Agenten bedarf der Genehmigung.",
+    "FROM_NAME": "FastComments-Agenten",
+    "SUBJECT": "Genehmigung erforderlich: <%= agentName %> möchte eine Maßnahme ergreifen",
+    "META_AGENT": "Agent:",
+    "META_ACTION": "Aktion:",
+    "INTRO": "Ein KI-Agent hat eine Aktion in die Warteschlange gestellt und benötigt Ihre Zustimmung, bevor er ausgeführt wird.",
+    "BODY": "Klicken Sie unten, um die Argumente für die Aktion und den ursprünglichen Kontext zu prüfen und sie zu genehmigen oder abzulehnen. Über den Link gelangen Sie direkt zu Ihrem FastComments-Konto.",
+    "FALLBACK_LINK": "Falls der Button nicht funktioniert, kopieren Sie diese URL und fügen Sie sie in Ihren Browser ein: <%= reviewUrl %>",
+    "REVIEW_BUTTON": "Genehmigung prüfen"
+}

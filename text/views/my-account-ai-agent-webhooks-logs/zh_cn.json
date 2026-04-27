@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "代理 Webhook 日志 - FastComments",
+    "HEADING": "代理 Webhook 日志",
+    "BACK_LINK": "返回代理 Webhooks",
+    "COLUMN_WHEN": "什么时候",
+    "QUEUED_LABEL": "已排队：",
+    "COLUMN_EVENT": "事件",
+    "INTRO_TEXT": "最近几次尝试发送此 webhook 的记录。已排队的事件正在等待重试。",
+    "COLUMN_STATUS": "地位",
+    "STATUS_SUCCESS": "成功",
+    "COLUMN_DESCRIPTION": "描述",
+    "COLUMN_STATUS_CODE": "HTTP",
+    "STATUS_FAILURE": "失败",
+    "PAGER_NEXT": "下一个",
+    "EVENT_APPROVAL_REQUESTED": "已请求批准",
+    "EVENT_TRIGGER_FAILED": "代理运行失败",
+    "EVENT_TRIGGER_SUCCEEDED": "代理运行成功",
+    "PAGER_PREV": "以前的",
+    "EMPTY_MESSAGE": "目前尚未记录到此 webhook 的任何投递尝试。",
+    "EVENT_APPROVAL_DECIDED": "已批准"
+}

@@ -25,5 +25,16 @@
     "MARK_AS_SPAM": "Spam olarak işaretle",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Yeni Beğeniler",
     "DELTA_LIKES": "❤️",
-    "TOTAL_LIKES": "Toplam"
+    "TOTAL_LIKES": "Toplam",
+    "AUTOMATED_MODERATION_HEADING": "Otomatik Moderasyon",
+    "AGENT_ACTION_MARK_COMMENT_APPROVED": "Onaylanan yorum sayısı: {count}",
+    "AGENT_ACTION_MARK_COMMENT_SPAM": "{count} yorum spam olarak işaretlendi.",
+    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "İşaretlenen yorumlar incelendi: {count} yorum",
+    "AUTOMATED_MODERATION_INTRO": "Yapay zekâ ajanlarınızın bu topluluk üzerinde gerçekleştirdiği eylemler. Deneme çalıştırma satırları, ajanın canlı modda olsaydı ne yapacağını gösterir.",
+    "AGENT_ACTION_UNLOCK_COMMENT": "Kilidi açılmış {count} yorum",
+    "AGENT_ACTION_LOCK_COMMENT": "Kilitli {count} yorum",
+    "AGENT_ACTION_WARNED_USER": "{count} kullanıcıya DM yoluyla uyarı gönderildi.",
+    "AGENT_ACTION_LIVE_BADGE": "Canlı",
+    "AGENT_ACTION_DRY_RUN_BADGE": "Deneme Sürüşü",
+    "AGENT_ACTION_BAN_USER": "Yasaklanan {count} kullanıcı"
 }

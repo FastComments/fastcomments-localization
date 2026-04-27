@@ -1,0 +1,16 @@
+{
+    "META_AGENT": "Agente:",
+    "FROM_NAME": "Agenti di FastComments",
+    "BANNER_TEXT": "Avviso di budget per l'agente AI",
+    "META_USAGE": "Utilizzo:",
+    "SUBJECT": "<%= agentName %> ha raggiunto il <%= thresholdPct %>% del suo <%= scopeLabel %>",
+    "INTRO": "Uno dei tuoi agenti IA ha raggiunto la soglia di spesa da te configurata.",
+    "META_SCOPE": "Bilancio:",
+    "BODY": "Fai clic qui sotto per aprire l'agente nel tuo account e aumentare il limite, mettere in pausa l'agente o modificarne le impostazioni. Il link ti consente di accedere direttamente al tuo account FastComments.",
+    "MANAGE_BUTTON": "Agente di gestione",
+    "SCOPE_AGENT_MONTHLY": "budget mensile dell'agente",
+    "FALLBACK_LINK": "Se il pulsante non funziona, copia e incolla questo URL nel tuo browser: <%= manageUrl %>",
+    "SCOPE_TENANT_DAILY": "bilancio giornaliero del conto",
+    "SCOPE_AGENT_DAILY": "budget giornaliero dell'agente",
+    "SCOPE_TENANT_MONTHLY": "bilancio mensile del conto"
+}

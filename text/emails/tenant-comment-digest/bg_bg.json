@@ -25,5 +25,16 @@
     "MARK_AS_SPAM": "Отбележи като спам",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Нови харесвания",
     "DELTA_LIKES": "❤️",
-    "TOTAL_LIKES": "Обща сума"
+    "TOTAL_LIKES": "Обща сума",
+    "AUTOMATED_MODERATION_HEADING": "Автоматизирана модерация",
+    "AUTOMATED_MODERATION_INTRO": "Действия, които вашите ИИ агенти предприеха в тази общност. Редовете с пробни изпълнения показват какво би направил агентът, ако беше активен.",
+    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "Маркирани като прегледани коментари",
+    "AGENT_ACTION_LOCK_COMMENT": "Заключени коментари",
+    "AGENT_ACTION_MARK_COMMENT_SPAM": "Маркирани {count} коментара като спам",
+    "AGENT_ACTION_MARK_COMMENT_APPROVED": "Одобрени коментари",
+    "AGENT_ACTION_WARNED_USER": "Предупредени са {count} потребители чрез лично съобщение",
+    "AGENT_ACTION_BAN_USER": "Забранени {count} потребители",
+    "AGENT_ACTION_LIVE_BADGE": "На живо",
+    "AGENT_ACTION_DRY_RUN_BADGE": "Пробно изпълнение",
+    "AGENT_ACTION_UNLOCK_COMMENT": "Отключени {count} коментара"
 }

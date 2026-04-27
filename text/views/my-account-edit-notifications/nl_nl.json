@@ -39,5 +39,12 @@
     "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Reactiemeldingfrequentie",
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "Hoe vaak ontvang je e-mailmeldingen voor reacties op je opmerkingen? Meldingen voor @vermeldingen worden altijd direct verzonden.",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Meldingsfrequentie voor beheerders",
-    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Hoe vaak ontvangt u e-mailmeldingen over nieuwe reacties op uw site?"
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Hoe vaak ontvangt u e-mailmeldingen over nieuwe reacties op uw site?",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Stuur me nooit een e-mail.",
+    "AGENT_APPROVAL_FREQUENCY_LABEL": "Frequentie van goedkeuringsmeldingen",
+    "AGENT_APPROVAL_HEADING": "Goedkeuringen van AI-agenten",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "Onmiddellijk",
+    "AGENT_APPROVAL_FREQUENCY_HELP": "Hoe vaak ontvangt u e-mailmeldingen wanneer een AI-agent een actie voor uw beoordeling in de wachtrij plaatst?",
+    "AGENT_APPROVAL_FREQUENCY_DAILY": "Dagelijkse samenvatting",
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "Uurlijkse samenvatting"
 }

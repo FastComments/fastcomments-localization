@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "에이전트 웹훅 로그 - FastComments",
+    "COLUMN_WHEN": "언제",
+    "COLUMN_STATUS": "상태",
+    "INTRO_TEXT": "이 웹훅에 대한 최근 전송 시도 내역입니다. 대기 중인 이벤트는 재시도를 기다리고 있습니다.",
+    "COLUMN_EVENT": "이벤트",
+    "QUEUED_LABEL": "대기열에 있는 사람:",
+    "COLUMN_DESCRIPTION": "설명",
+    "BACK_LINK": "에이전트 웹훅으로 돌아가기",
+    "HEADING": "에이전트 웹훅 로그",
+    "STATUS_SUCCESS": "성공",
+    "COLUMN_STATUS_CODE": "HTTP",
+    "STATUS_FAILURE": "실패",
+    "EVENT_TRIGGER_SUCCEEDED": "에이전트 실행 성공",
+    "EVENT_TRIGGER_FAILED": "에이전트 실행 실패",
+    "PAGER_NEXT": "다음",
+    "PAGER_PREV": "이전의",
+    "EVENT_APPROVAL_REQUESTED": "승인 요청됨",
+    "EMPTY_MESSAGE": "이 웹훅에 대한 전송 시도는 아직 기록되지 않았습니다.",
+    "EVENT_APPROVAL_DECIDED": "승인 결정됨"
+}

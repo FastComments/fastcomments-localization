@@ -39,5 +39,12 @@
     "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Učestalost obavijesti o odgovoru",
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "Koliko često primate obavijesti e-poštom za odgovore na vaše komentare. Obavijesti o @spominjanja uvijek se šalju odmah.",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Učestalost obavijesti administratora",
-    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Koliko često primate obavijesti e-poštom o novim komentarima na vašoj web stranici."
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Koliko često primate obavijesti e-poštom o novim komentarima na vašoj web stranici.",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "Odmah",
+    "AGENT_APPROVAL_HEADING": "Odobrenja AI agenata",
+    "AGENT_APPROVAL_FREQUENCY_LABEL": "Učestalost obavijesti o odobrenju",
+    "AGENT_APPROVAL_FREQUENCY_HELP": "Koliko često primate obavijesti e-poštom kada AI agent stavi radnju u red čekanja za vaš pregled.",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Nikad mi ne šalji e-poštu",
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "Sažetak po satu",
+    "AGENT_APPROVAL_FREQUENCY_DAILY": "Dnevni sažetak"
 }

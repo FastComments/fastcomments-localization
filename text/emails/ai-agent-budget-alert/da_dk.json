@@ -1,0 +1,16 @@
+{
+    "BANNER_TEXT": "Budgetalarm for AI-agenter",
+    "FROM_NAME": "FastComments Agenter",
+    "META_SCOPE": "Budget:",
+    "META_AGENT": "Agent:",
+    "SUBJECT": "<%= agentName %> nåede <%= thresholdPct %>% af sin <%= scopeLabel %>",
+    "META_USAGE": "Anvendelse:",
+    "BODY": "Klik nedenfor for at åbne agenten på din konto og hæve grænsen, sætte agenten på pause eller justere dens indstillinger. Linket logger dig direkte ind på din FastComments-konto.",
+    "INTRO": "En af dine AI-agenter har nået en forbrugsgrænse, du har konfigureret.",
+    "MANAGE_BUTTON": "Administrer agent",
+    "FALLBACK_LINK": "Hvis knappen ikke virker, så kopier og indsæt denne URL i din browser: <%= manageUrl %>",
+    "SCOPE_AGENT_DAILY": "agentens daglige budget",
+    "SCOPE_TENANT_MONTHLY": "månedligt kontobudget",
+    "SCOPE_AGENT_MONTHLY": "agentens månedlige budget",
+    "SCOPE_TENANT_DAILY": "kontoens daglige budget"
+}

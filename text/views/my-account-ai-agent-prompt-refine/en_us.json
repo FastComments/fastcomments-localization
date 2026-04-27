@@ -1,26 +1,20 @@
 {
     "PAGE_TITLE": "Refine Agent Prompt - FastComments",
     "BACK_TO_APPROVAL": "Back to approval",
-
     "HEADING": "Refine the agent",
     "SUBHEADING": "You rejected the action below. Use this moment to improve the agent's instructions so it doesn't make the same kind of mistake again.",
-
+    "FLASH_REJECTED": "Rejected. You can refine the agent's prompt below to prevent similar misfires.",
     "CONTEXT_AGENT_LABEL": "Agent",
     "CONTEXT_ACTION_LABEL": "Rejected action",
-
     "STEP_I_LABEL": "I",
     "STEP_I_HEADING": "Choose how to refine",
-
     "CHOICE_AUTO_LABEL": "Automatic",
     "CHOICE_AUTO_DESC": "Describe what went wrong. A model proposes a revised prompt for you to review.",
     "CHOICE_AUTO_BADGE": "assisted",
-
     "CHOICE_MANUAL_LABEL": "Manual",
     "CHOICE_MANUAL_DESC": "Open the full agent editor and rewrite the prompt yourself.",
     "CHOICE_MANUAL_BADGE": "freehand",
-
     "SKIP_LINK": "Skip and return to the approval",
-
     "STEP_II_LABEL": "II",
     "STEP_II_HEADING": "Describe what was wrong",
     "FEEDBACK_LABEL": "What should the agent have done differently?",
@@ -28,7 +22,6 @@
     "FEEDBACK_COUNTER_SUFFIX": "characters",
     "FEEDBACK_COUNTER_MAX_HINT": "/ 2000",
     "PROPOSE_BUTTON": "Propose refined prompt",
-
     "STEP_III_LABEL": "III",
     "STEP_III_HEADING": "Review & apply",
     "REFINING_TEXT": "Refining prompt",
@@ -38,11 +31,9 @@
     "NO_CHANGE_MESSAGE": "The model did not propose any changes. Try describing what was wrong more specifically.",
     "APPLY_BUTTON": "Apply refined prompt",
     "TRY_AGAIN_BUTTON": "Back — try again",
-
     "ERROR_GENERIC": "Something went wrong while contacting the refiner model. Please try again.",
     "ERROR_RATE_LIMITED": "Too many refine requests in the last minute. Please wait and try again.",
     "ERROR_EMPTY_FEEDBACK": "Please describe what was wrong so the model has something to go on.",
-
     "APPLY_ERROR_EMPTY": "The refined prompt was empty. Please try again.",
     "APPLY_ERROR_TOO_LONG": "The refined prompt was too long to save. Please shorten it and try again."
 }

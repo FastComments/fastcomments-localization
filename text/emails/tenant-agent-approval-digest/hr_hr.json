@@ -1,0 +1,11 @@
+{
+    "BANNER_TEXT": "Odobrenja agenta na čekanju",
+    "COLUMN_AGENT": "Agent",
+    "SUBJECT": "<%= approvalCount %> radnje agenta čekaju odobrenje",
+    "FROM_NAME": "Agenti za brze komentare",
+    "INTRO": "Sljedeće akcije AI agenta čekaju vaše odobrenje ili odbijanje.",
+    "COLUMN_ACTION": "Akcijski",
+    "COLUMN_CREATED": "U redu čekanja",
+    "INBOX_BUTTON": "Otvori pristiglu poštu s odobrenjima",
+    "FALLBACK_LINK": "Ako gumb ne radi, kopirajte i zalijepite ovaj URL u preglednik: <%= inboxUrl %>"
+}

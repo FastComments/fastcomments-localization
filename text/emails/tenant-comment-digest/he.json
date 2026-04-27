@@ -25,5 +25,16 @@
     "MARK_AS_SPAM": "סמן כספאם",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> לייקים חדשים",
     "DELTA_LIKES": "❤️",
-    "TOTAL_LIKES": "סה\"כ"
+    "TOTAL_LIKES": "סה\"כ",
+    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "סומנו כ-{count} תגובות שנבדקו",
+    "AGENT_ACTION_MARK_COMMENT_APPROVED": "תגובות מאושרות ({count})",
+    "AGENT_ACTION_MARK_COMMENT_SPAM": "סומנו {count} תגובות כספאם",
+    "AUTOMATED_MODERATION_HEADING": "ניהול אוטומטי",
+    "AUTOMATED_MODERATION_INTRO": "פעולות שסוכני הבינה המלאכותית שלך ביצעו בקהילה זו. שורות ניסוי מראות מה הסוכן היה עושה אם היא הייתה פעילה.",
+    "AGENT_ACTION_LOCK_COMMENT": "נעולות {count} תגובות",
+    "AGENT_ACTION_LIVE_BADGE": "לִחיוֹת",
+    "AGENT_ACTION_WARNED_USER": "הוזהרו ל-{count} משתמשים באמצעות הודעה פרטית",
+    "AGENT_ACTION_UNLOCK_COMMENT": "נעילת {count} תגובות",
+    "AGENT_ACTION_DRY_RUN_BADGE": "ריצה יבשה",
+    "AGENT_ACTION_BAN_USER": "משתמשים חסומים ({count})"
 }

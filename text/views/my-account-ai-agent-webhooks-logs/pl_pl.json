@@ -1,0 +1,21 @@
+{
+    "COLUMN_WHEN": "Gdy",
+    "COLUMN_EVENT": "Wydarzenie",
+    "HEADING": "Dzienniki webhooka agenta",
+    "QUEUED_LABEL": "W kolejce:",
+    "PAGE_TITLE": "Dzienniki webhooka agenta – FastComments",
+    "BACK_LINK": "Powrót do webhooków agentów",
+    "COLUMN_STATUS": "Status",
+    "INTRO_TEXT": "Ostatnie próby dostarczenia dla tego webhooka. Zdarzenia w kolejce oczekują na ponowną próbę.",
+    "COLUMN_DESCRIPTION": "Opis",
+    "STATUS_FAILURE": "Awaria",
+    "STATUS_SUCCESS": "Sukces",
+    "COLUMN_STATUS_CODE": "HTTP",
+    "PAGER_PREV": "Poprzedni",
+    "PAGER_NEXT": "Następny",
+    "EVENT_APPROVAL_REQUESTED": "Prośba o zatwierdzenie",
+    "EVENT_APPROVAL_DECIDED": "Zatwierdzenie zostało podjęte",
+    "EVENT_TRIGGER_SUCCEEDED": "Uruchomienie agenta powiodło się",
+    "EVENT_TRIGGER_FAILED": "Nieudane uruchomienie agenta",
+    "EMPTY_MESSAGE": "Nie zarejestrowano jeszcze żadnych prób dostarczenia przesyłki dla tego webhooka."
+}

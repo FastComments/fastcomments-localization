@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "Goedkeuring vereist: <%= agentName %> wil een actie ondernemen.",
+    "FROM_NAME": "FastComments-agenten",
+    "BANNER_TEXT": "Agentactie vereist goedkeuring",
+    "META_AGENT": "Tussenpersoon:",
+    "INTRO": "Een AI-agent heeft een actie in de wachtrij gezet en heeft uw goedkeuring nodig voordat deze kan worden uitgevoerd.",
+    "META_ACTION": "Actie:",
+    "BODY": "Klik hieronder om de argumenten voor de actie, de oorspronkelijke context en de goedkeuring of afwijzing ervan te bekijken. Via de link wordt u direct ingelogd op uw FastComments-account.",
+    "FALLBACK_LINK": "Als de knop niet werkt, kopieer en plak dan deze URL in je browser: <%= reviewUrl %>",
+    "REVIEW_BUTTON": "Goedkeuring beoordelen"
+}

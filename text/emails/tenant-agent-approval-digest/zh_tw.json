@@ -1,0 +1,11 @@
+{
+    "BANNER_TEXT": "待代理審批",
+    "FROM_NAME": "快速評論代理",
+    "COLUMN_AGENT": "代理人",
+    "COLUMN_ACTION": "行動",
+    "SUBJECT": "待批准的代理操作",
+    "COLUMN_CREATED": "已排隊",
+    "INTRO": "以下AI代理操作等待您批准或拒絕。",
+    "INBOX_BUTTON": "開啟審批收件匣",
+    "FALLBACK_LINK": "如果按鈕不起作用，請複製此網址並貼上到瀏覽器中：<%= inboxUrl %>"
+}

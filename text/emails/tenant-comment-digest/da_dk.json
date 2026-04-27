@@ -25,5 +25,16 @@
     "MARK_AS_SPAM": "Marker som spam",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Nye likes",
     "DELTA_LIKES": "❤️",
-    "TOTAL_LIKES": "Total"
+    "TOTAL_LIKES": "Total",
+    "AUTOMATED_MODERATION_INTRO": "Handlinger, som dine AI-agenter foretog sig i dette fællesskab. Prøverækker viser, hvad agenten ville have gjort, hvis det havde været live.",
+    "AUTOMATED_MODERATION_HEADING": "Automatiseret moderering",
+    "AGENT_ACTION_LOCK_COMMENT": "Låste {count} kommentarer",
+    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "Markeret {count} kommentarer som gennemgået",
+    "AGENT_ACTION_MARK_COMMENT_SPAM": "Markerede {count} kommentarer som spam",
+    "AGENT_ACTION_MARK_COMMENT_APPROVED": "Godkendte {count} kommentarer",
+    "AGENT_ACTION_LIVE_BADGE": "Levende",
+    "AGENT_ACTION_UNLOCK_COMMENT": "Låste {count} kommentarer op",
+    "AGENT_ACTION_DRY_RUN_BADGE": "Tørløb",
+    "AGENT_ACTION_WARNED_USER": "Advarede {count} brugere via DM",
+    "AGENT_ACTION_BAN_USER": "Udelukkede {count} brugere"
 }

@@ -39,5 +39,12 @@
     "REPLY_NOTIFICATION_FREQUENCY_LABEL": "回覆通知頻率",
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "您多久會收到一次留言回覆的電子郵件通知？ @提及通知始終立即發送。",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "管理員通知頻率",
-    "TENANT_NOTIFICATION_FREQUENCY_HELP": "您多久會收到一次關於網站新評論的電子郵件通知？"
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "您多久會收到一次關於網站新評論的電子郵件通知？",
+    "AGENT_APPROVAL_HEADING": "AI代理審批",
+    "AGENT_APPROVAL_FREQUENCY_DAILY": "每日摘要",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "立即地",
+    "AGENT_APPROVAL_FREQUENCY_LABEL": "審批通知頻率",
+    "AGENT_APPROVAL_FREQUENCY_HELP": "AI代理將操作加入佇列供您審核時，您多久會收到一次電子郵件通知？",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "永遠不要寄郵件",
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "每小時摘要"
 }

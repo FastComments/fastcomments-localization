@@ -39,5 +39,12 @@
     "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Честота на известията за отговори",
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "Колко често получавате имейл известия за отговори на вашите коментари. Известията за @споменаване винаги се изпращат веднага.",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Честота на известията на администратора",
-    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Колко често получавате имейл известия за нови коментари на вашия сайт."
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Колко често получавате имейл известия за нови коментари на вашия сайт.",
+    "AGENT_APPROVAL_FREQUENCY_LABEL": "Честота на известията за одобрение",
+    "AGENT_APPROVAL_HEADING": "Одобрения на AI агенти",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "Веднага",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Никога не ми изпращай имейли",
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "Почасов дайджест",
+    "AGENT_APPROVAL_FREQUENCY_HELP": "Колко често получавате имейл известия, когато агент с изкуствен интелект постави действие на опашка за преглед.",
+    "AGENT_APPROVAL_FREQUENCY_DAILY": "Дневен дайджест"
 }

@@ -39,5 +39,12 @@
     "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Częstotliwość powiadomień o odpowiedziach",
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "Jak często otrzymujesz powiadomienia e-mail o odpowiedziach na Twoje komentarze. Powiadomienia @wzmiankowe są zawsze wysyłane natychmiast.",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Częstotliwość powiadomień administratora",
-    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Jak często otrzymujesz powiadomienia e-mail o nowych komentarzach na swojej stronie."
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Jak często otrzymujesz powiadomienia e-mail o nowych komentarzach na swojej stronie.",
+    "AGENT_APPROVAL_FREQUENCY_LABEL": "Częstotliwość powiadomień o zatwierdzeniu",
+    "AGENT_APPROVAL_HEADING": "Zatwierdzenia agentów AI",
+    "AGENT_APPROVAL_FREQUENCY_HELP": "Jak często otrzymujesz powiadomienia e-mail, gdy agent AI umieszcza akcję w kolejce do sprawdzenia.",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "Natychmiast",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Nigdy do mnie nie pisz",
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "Podsumowanie godzinowe",
+    "AGENT_APPROVAL_FREQUENCY_DAILY": "Codzienne podsumowanie"
 }

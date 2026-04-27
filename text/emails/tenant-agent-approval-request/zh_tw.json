@@ -1,0 +1,11 @@
+{
+    "META_AGENT": "代理人：",
+    "META_ACTION": "行動：",
+    "FROM_NAME": "快速評論代理",
+    "BANNER_TEXT": "代理人的操作需要批准",
+    "SUBJECT": "需要批准：<%= agentName %>想要採取行動",
+    "INTRO": "人工智慧代理已將一項操作加入隊列，需要您的批准才能運行。",
+    "REVIEW_BUTTON": "審核通過",
+    "BODY": "點擊下方連結查看操作論點、原始上下文，並批准或拒絕該操作。該連結將直接登入您的 FastComments 帳戶。",
+    "FALLBACK_LINK": "如果按鈕不起作用，請複製此網址並貼上到瀏覽器中：<%= reviewUrl %>"
+}

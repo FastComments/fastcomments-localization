@@ -1,0 +1,16 @@
+{
+    "META_SCOPE": "Budžet:",
+    "MANAGE_BUTTON": "Upravljanje agentom",
+    "META_USAGE": "Upotreba:",
+    "BODY": "Kliknite ispod da biste otvorili agenta na vašem nalogu i podigli limit, pauzirali agenta ili prilagodili njegova podešavanja. Veza vas direktno prijavljuje na vaš FastComments nalog.",
+    "BANNER_TEXT": "Upozorenje o budžetu AI agenta",
+    "META_AGENT": "Agent:",
+    "INTRO": "Jedan od vaših AI agenata dostigao je prag potrošnje koji ste konfigurisali.",
+    "FROM_NAME": "Agenti FastComments",
+    "SCOPE_AGENT_DAILY": "Dnevni budžet agenta",
+    "SUBJECT": "<%= agentName %> dostigao <%= thresholdPct %>% svojih <%= scopeLabel %>",
+    "FALLBACK_LINK": "Ako dugme ne radi, kopirajte i nalepite ovaj URL u pregledač: <%= manageUrl %>",
+    "SCOPE_AGENT_MONTHLY": "Agent mesečni budžet",
+    "SCOPE_TENANT_MONTHLY": "Račun mesečni budžet",
+    "SCOPE_TENANT_DAILY": "Dnevni budžet računa"
+}

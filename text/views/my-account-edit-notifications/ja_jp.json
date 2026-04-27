@@ -39,5 +39,12 @@
     "REPLY_NOTIFICATION_FREQUENCY_LABEL": "返信通知頻度",
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "コメントへの返信に関するメール通知を受信する頻度。@メンション通知は常にすぐに送信されます。",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "管理者通知頻度",
-    "TENANT_NOTIFICATION_FREQUENCY_HELP": "サイトへの新しいコメントに関するメール通知を受信する頻度。"
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "サイトへの新しいコメントに関するメール通知を受信する頻度。",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "すぐに",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "私にメールを送らないでください",
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "時間ごとのダイジェスト",
+    "AGENT_APPROVAL_HEADING": "AIエージェントの承認",
+    "AGENT_APPROVAL_FREQUENCY_LABEL": "承認通知頻度",
+    "AGENT_APPROVAL_FREQUENCY_HELP": "AIエージェントがレビュー対象のアクションをキューに追加した際に、メール通知を受け取る頻度。",
+    "AGENT_APPROVAL_FREQUENCY_DAILY": "デイリーダイジェスト"
 }

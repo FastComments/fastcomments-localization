@@ -1,0 +1,16 @@
+{
+    "META_SCOPE": "预算：",
+    "FROM_NAME": "快速评论代理",
+    "META_AGENT": "代理人：",
+    "INTRO": "您的某个 AI 代理已达到您设置的消费阈值。",
+    "META_USAGE": "用法：",
+    "SUBJECT": "<%= agentName %> 达到了其 <%= thresholdPct %>% 的目标 <%= scopeLabel %>",
+    "BANNER_TEXT": "AI代理预算提醒",
+    "MANAGE_BUTTON": "管理代理",
+    "SCOPE_TENANT_DAILY": "账户每日预算",
+    "SCOPE_AGENT_DAILY": "代理每日预算",
+    "SCOPE_AGENT_MONTHLY": "代理人每月预算",
+    "SCOPE_TENANT_MONTHLY": "账户月度预算",
+    "FALLBACK_LINK": "如果按钮不起作用，请复制此网址并粘贴到浏览器中：<%= manageUrl %>",
+    "BODY": "点击下方链接即可在您的账户中打开代理，并可提高限额、暂停代理或调整其设置。该链接将直接登录您的 FastComments 账户。"
+}

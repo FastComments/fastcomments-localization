@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Agent Webhook Günlükleri - FastComments",
+    "COLUMN_STATUS": "Durum",
+    "COLUMN_EVENT": "Etkinlik",
+    "COLUMN_WHEN": "Ne zaman",
+    "COLUMN_STATUS_CODE": "HTTP",
+    "QUEUED_LABEL": "Sırada:",
+    "BACK_LINK": "Ajan Web Kancalarına Geri Dön",
+    "HEADING": "Aracı Webhook Günlükleri",
+    "INTRO_TEXT": "Bu webhook için son teslimat denemeleri. Sıraya alınmış olaylar yeniden denenmeyi bekliyor.",
+    "STATUS_SUCCESS": "Başarı",
+    "COLUMN_DESCRIPTION": "Tanım",
+    "STATUS_FAILURE": "Arıza",
+    "PAGER_NEXT": "Sonraki",
+    "PAGER_PREV": "Öncesi",
+    "EMPTY_MESSAGE": "Bu webhook için henüz herhangi bir teslimat denemesi kaydedilmedi.",
+    "EVENT_TRIGGER_FAILED": "Aracı çalıştırma başarısız oldu",
+    "EVENT_APPROVAL_DECIDED": "Onay kararı verildi.",
+    "EVENT_APPROVAL_REQUESTED": "Onay talep edildi",
+    "EVENT_TRIGGER_SUCCEEDED": "Ajan çalıştırma işlemi başarıyla tamamlandı."
+}

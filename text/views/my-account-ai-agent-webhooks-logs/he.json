@@ -1,0 +1,21 @@
+{
+    "HEADING": "יומני Webhook של סוכן",
+    "PAGE_TITLE": "יומני Webhook של סוכן - FastComments",
+    "COLUMN_WHEN": "כַּאֲשֵׁר",
+    "COLUMN_STATUS": "סטָטוּס",
+    "COLUMN_EVENT": "מִקרֶה",
+    "BACK_LINK": "חזרה ל-Webhooks של סוכנים",
+    "QUEUED_LABEL": "בתור:",
+    "INTRO_TEXT": "ניסיונות מסירה אחרונים עבור webhook זה. אירועים בתור ממתינים לניסיון חוזר.",
+    "STATUS_FAILURE": "כֶּשֶׁל",
+    "STATUS_SUCCESS": "הַצלָחָה",
+    "COLUMN_DESCRIPTION": "תֵאוּר",
+    "COLUMN_STATUS_CODE": "HTTP",
+    "PAGER_NEXT": "הַבָּא",
+    "EVENT_TRIGGER_SUCCEEDED": "ריצת הסוכן הצליחה",
+    "EVENT_APPROVAL_REQUESTED": "התבקש אישור",
+    "EVENT_TRIGGER_FAILED": "הפעלת הסוכן נכשלה",
+    "PAGER_PREV": "קוֹדֵם",
+    "EVENT_APPROVAL_DECIDED": "הוחלט על אישור",
+    "EMPTY_MESSAGE": "עדיין לא נרשמו ניסיונות מסירה עבור webhook זה."
+}

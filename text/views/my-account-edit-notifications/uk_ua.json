@@ -39,5 +39,12 @@
     "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Частота сповіщень про відповіді",
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "Як часто ви отримуєте сповіщення електронною поштою про відповіді на ваші коментарі. Сповіщення про @згадки завжди надсилаються одразу.",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Частота сповіщень адміністратора",
-    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Як часто ви отримуєте сповіщення електронною поштою про нові коментарі на вашому сайті."
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Як часто ви отримуєте сповіщення електронною поштою про нові коментарі на вашому сайті.",
+    "AGENT_APPROVAL_FREQUENCY_HELP": "Як часто ви отримуєте сповіщення електронною поштою, коли агент штучного інтелекту ставить дію в чергу на ваш огляд.",
+    "AGENT_APPROVAL_FREQUENCY_LABEL": "Частота сповіщень про затвердження",
+    "AGENT_APPROVAL_HEADING": "Схвалення агентів штучного інтелекту",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "Негайно",
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "Погодинний дайджест",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Ніколи не надсилайте мені електронні листи",
+    "AGENT_APPROVAL_FREQUENCY_DAILY": "Щоденний дайджест"
 }

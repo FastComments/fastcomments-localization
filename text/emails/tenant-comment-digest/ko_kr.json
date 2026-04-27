@@ -25,5 +25,16 @@
     "MARK_AS_SPAM": "스팸으로 표시",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> 새로운 좋아요",
     "DELTA_LIKES": "❤️",
-    "TOTAL_LIKES": "총"
+    "TOTAL_LIKES": "총",
+    "AUTOMATED_MODERATION_HEADING": "자동 검열",
+    "AUTOMATED_MODERATION_INTRO": "AI 에이전트가 이 커뮤니티에서 수행한 작업입니다. 시뮬레이션 결과는 에이전트가 실제 운영 환경에서 수행했을 때 어떤 작업을 했을지 보여줍니다.",
+    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "{count}개의 댓글이 검토되었습니다.",
+    "AGENT_ACTION_LOCK_COMMENT": "잠금된 댓글 {count}개",
+    "AGENT_ACTION_MARK_COMMENT_SPAM": "{count}개의 댓글을 스팸으로 표시했습니다.",
+    "AGENT_ACTION_MARK_COMMENT_APPROVED": "승인된 댓글 수: {count}개",
+    "AGENT_ACTION_LIVE_BADGE": "살다",
+    "AGENT_ACTION_BAN_USER": "차단된 사용자 수: {count}명",
+    "AGENT_ACTION_UNLOCK_COMMENT": "잠금 해제된 {count}개의 댓글",
+    "AGENT_ACTION_WARNED_USER": "{count}명의 사용자에게 DM으로 경고했습니다.",
+    "AGENT_ACTION_DRY_RUN_BADGE": "모의 실행"
 }

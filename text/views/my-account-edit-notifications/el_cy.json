@@ -39,5 +39,12 @@
     "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Συχνότητα ειδοποίησης απάντησης",
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "Πόσο συχνά λαμβάνετε ειδοποιήσεις μέσω email για απαντήσεις στα σχόλιά σας. Οι ειδοποιήσεις @mention αποστέλλονται πάντα αμέσως.",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Συχνότητα ειδοποιήσεων διαχειριστή",
-    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Πόσο συχνά λαμβάνετε ειδοποιήσεις μέσω email σχετικά με νέα σχόλια στον ιστότοπό σας."
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Πόσο συχνά λαμβάνετε ειδοποιήσεις μέσω email σχετικά με νέα σχόλια στον ιστότοπό σας.",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "Αμέσως",
+    "AGENT_APPROVAL_FREQUENCY_HELP": "Πόσο συχνά λαμβάνετε ειδοποιήσεις μέσω email όταν ένας εκπρόσωπος Τεχνητής Νοημοσύνης (AI) θέτει σε αναμονή μια ενέργεια για την αξιολόγησή σας.",
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "Ωριαία σύνοψη",
+    "AGENT_APPROVAL_FREQUENCY_DAILY": "Ημερήσια σύνοψη",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Ποτέ μην μου στέλνετε email μέσω email για να μην στέλνετε ποτέ.",
+    "AGENT_APPROVAL_HEADING": "Εγκρίσεις πρακτόρων τεχνητής νοημοσύνης",
+    "AGENT_APPROVAL_FREQUENCY_LABEL": "Συχνότητα ειδοποίησης έγκρισης"
 }

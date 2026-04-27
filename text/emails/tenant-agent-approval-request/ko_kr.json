@@ -1,0 +1,11 @@
+{
+    "BANNER_TEXT": "에이전트 활동에는 승인이 필요합니다.",
+    "FROM_NAME": "FastComments 에이전트",
+    "META_ACTION": "행동:",
+    "META_AGENT": "대리인:",
+    "SUBJECT": "승인 필요: <%= agentName %>님이 조치를 취하려고 합니다.",
+    "BODY": "아래 링크를 클릭하여 조치 근거, 배경 맥락을 검토하고 승인 또는 거부하세요. 링크를 클릭하면 FastComments 계정에 바로 로그인됩니다.",
+    "INTRO": "AI 에이전트가 작업을 대기열에 추가했으며 실행하기 전에 사용자의 승인이 필요합니다.",
+    "REVIEW_BUTTON": "검토 승인",
+    "FALLBACK_LINK": "버튼이 작동하지 않으면 다음 URL을 복사하여 브라우저에 붙여넣으세요: <%= reviewUrl %>"
+}

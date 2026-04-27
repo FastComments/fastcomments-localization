@@ -1,0 +1,11 @@
+{
+    "META_AGENT": "Agent:",
+    "SUBJECT": "Wymagana zgoda: <%= agentName %> chce podjąć działanie",
+    "FROM_NAME": "Agenci FastComments",
+    "BANNER_TEXT": "Działanie agenta wymaga zatwierdzenia",
+    "META_ACTION": "Działanie:",
+    "INTRO": "Agent AI ustawił akcję w kolejce i potrzebuje Twojej zgody, zanim ją uruchomi.",
+    "REVIEW_BUTTON": "Zatwierdzenie przeglądu",
+    "FALLBACK_LINK": "Jeżeli przycisk nie działa, skopiuj i wklej ten adres URL do przeglądarki: <%= reviewUrl %>",
+    "BODY": "Kliknij poniżej, aby przejrzeć argumenty akcji, kontekst źródłowy i zatwierdzić lub odrzucić. Link zaloguje Cię bezpośrednio do konta FastComments."
+}

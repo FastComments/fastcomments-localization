@@ -25,5 +25,16 @@
     "MARK_AS_SPAM": "Označi kot vsiljeno pošto",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Novi všečki",
     "DELTA_LIKES": "❤️",
-    "TOTAL_LIKES": "Skupaj"
+    "TOTAL_LIKES": "Skupaj",
+    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "Označeni komentarji pregledani",
+    "AUTOMATED_MODERATION_HEADING": "Avtomatizirano moderiranje",
+    "AGENT_ACTION_MARK_COMMENT_SPAM": "Označeno {count} komentarjev kot neželena pošta",
+    "AGENT_ACTION_MARK_COMMENT_APPROVED": "Odobreni komentarji",
+    "AUTOMATED_MODERATION_INTRO": "Dejanja, ki so jih vaši agenti umetne inteligence izvedli v tej skupnosti. Vrstice s poskusnim izvajanjem prikazujejo, kaj bi agent storil, če bi bil aktiven.",
+    "AGENT_ACTION_LIVE_BADGE": "V živo",
+    "AGENT_ACTION_LOCK_COMMENT": "Zaklenjeni komentarji",
+    "AGENT_ACTION_WARNED_USER": "Opozorjeno {count} uporabnikov prek DM",
+    "AGENT_ACTION_UNLOCK_COMMENT": "Odklenjenih {count} komentarjev",
+    "AGENT_ACTION_BAN_USER": "Izključenih {count} uporabnikov",
+    "AGENT_ACTION_DRY_RUN_BADGE": "Poskusni zagon"
 }

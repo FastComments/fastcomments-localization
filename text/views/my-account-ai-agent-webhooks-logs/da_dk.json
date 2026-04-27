@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Agent Webhook-logge - FastComments",
+    "BACK_LINK": "Tilbage til Agent Webhooks",
+    "HEADING": "Agent Webhook-logge",
+    "COLUMN_WHEN": "Når",
+    "QUEUED_LABEL": "I kø:",
+    "COLUMN_DESCRIPTION": "Beskrivelse",
+    "COLUMN_EVENT": "Tilfælde",
+    "STATUS_SUCCESS": "Succes",
+    "COLUMN_STATUS": "Status",
+    "STATUS_FAILURE": "Fiasko",
+    "INTRO_TEXT": "Seneste leveringsforsøg for denne webhook. Hændelser i køen afventer nyt forsøg.",
+    "EVENT_TRIGGER_SUCCEEDED": "Agentkørsel lykkedes",
+    "COLUMN_STATUS_CODE": "HTTP",
+    "PAGER_PREV": "Tidligere",
+    "PAGER_NEXT": "Næste",
+    "EVENT_APPROVAL_DECIDED": "Godkendelse besluttet",
+    "EVENT_APPROVAL_REQUESTED": "Godkendelse anmodet",
+    "EVENT_TRIGGER_FAILED": "Agentkørsel mislykkedes",
+    "EMPTY_MESSAGE": "Der er endnu ikke registreret nogen leveringsforsøg for denne webhook."
+}

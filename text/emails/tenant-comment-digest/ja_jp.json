@@ -25,5 +25,16 @@
     "MARK_AS_SPAM": "スパムとしてマークする",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> 新しいいいね",
     "DELTA_LIKES": "❤️",
-    "TOTAL_LIKES": "合計"
+    "TOTAL_LIKES": "合計",
+    "AGENT_ACTION_MARK_COMMENT_APPROVED": "承認済みコメント数：{count}件",
+    "AUTOMATED_MODERATION_HEADING": "自動モデレーション",
+    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "{count}件のコメントを確認しました",
+    "AGENT_ACTION_LOCK_COMMENT": "ロックされたコメント数：{count}件",
+    "AUTOMATED_MODERATION_INTRO": "AIエージェントがこのコミュニティで実行したアクション。ドライランの行は、エージェントが実際に稼働していた場合に実行したであろうアクションを示しています。",
+    "AGENT_ACTION_MARK_COMMENT_SPAM": "{count}件のコメントをスパムとしてマークしました",
+    "AGENT_ACTION_UNLOCK_COMMENT": "ロック解除されたコメント数：{count}件",
+    "AGENT_ACTION_BAN_USER": "{count}人のユーザーを禁止しました",
+    "AGENT_ACTION_DRY_RUN_BADGE": "ドライラン",
+    "AGENT_ACTION_LIVE_BADGE": "ライブ",
+    "AGENT_ACTION_WARNED_USER": "{count}人のユーザーにDMで警告しました"
 }

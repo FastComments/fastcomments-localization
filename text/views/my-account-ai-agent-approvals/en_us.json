@@ -6,15 +6,17 @@
     "BACK_TO_AGENTS": "Back to AI Agents",
     "BACK_TO_INBOX": "Back to approvals",
     "DETAIL_HEADING": "Approval details",
-
     "FILTER_PENDING": "Pending",
     "FILTER_EXECUTING": "Executing",
     "FILTER_APPROVED": "Approved",
     "FILTER_REJECTED": "Rejected",
     "FILTER_FAILED": "Failed",
     "FILTER_ALL": "All",
-
     "EMPTY_MESSAGE": "No approvals match this filter.",
+    "FLASH_APPROVED": "Approved and executed.",
+    "FLASH_APPROVE_FAILED": "Approval recorded but the action did not execute. See status below.",
+    "FLASH_REJECTED": "Rejected. You can refine the agent's prompt below to prevent similar misfires.",
+    "FLASH_REJECT_FAILED": "Could not reject this approval. Please try again.",
     "TABLE_CREATED": "Created",
     "TABLE_AGENT": "Agent",
     "TABLE_ACTION": "Action",
@@ -23,13 +25,11 @@
     "TABLE_VIEW_BUTTON": "Review",
     "PREV_BUTTON": "Prev",
     "NEXT_BUTTON": "Next",
-
     "STATUS_PENDING": "Pending",
     "STATUS_APPROVED": "Approved",
     "STATUS_REJECTED": "Rejected",
     "STATUS_EXECUTION_FAILED": "Failed",
     "STATUS_EXECUTING": "Executing...",
-
     "SUMMARY_AGENT": "Agent:",
     "SUMMARY_ACTION": "Action:",
     "SUMMARY_CREATED": "Created:",
@@ -37,21 +37,15 @@
     "SUMMARY_DECIDED_AT": "Decided at:",
     "SUMMARY_DECIDED_BY": "Decided by:",
     "SUMMARY_CONFIDENCE": "Confidence:",
-
     "REASONING_HEADING": "Agent reasoning",
-
     "ACTION_DETAILS_HEADING": "Action arguments",
     "CONTEXT_URL_ID": "Source page",
     "CONTEXT_COMMENT_ID": "Target comment",
-
     "EXECUTION_RESULT_HEADING": "Execution result",
-
     "APPROVE_BUTTON": "Approve & execute",
     "REJECT_BUTTON": "Reject",
     "REJECT_CONFIRM": "Reject this action? The agent will not retry it.",
-
     "VIEW_ORIGINATING_RUN": "View originating agent run",
-
     "ACTION_WRITE_COMMENT": "Write a comment",
     "ACTION_VOTE_COMMENT": "Vote on a comment",
     "ACTION_PIN_COMMENT": "Pin a comment",

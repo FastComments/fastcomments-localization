@@ -1,0 +1,11 @@
+{
+    "FROM_NAME": "Agents FastComments",
+    "BANNER_TEXT": "L'action de l'agent nécessite une approbation",
+    "META_AGENT": "Agent:",
+    "META_ACTION": "Action:",
+    "REVIEW_BUTTON": "Approbation de l'examen",
+    "BODY": "Cliquez ci-dessous pour consulter les arguments et le contexte de l'action, puis approuvez ou refusez-la. Ce lien vous connecte directement à votre compte FastComments.",
+    "INTRO": "Un agent d'IA a programmé une action et a besoin de votre approbation avant de l'exécuter.",
+    "FALLBACK_LINK": "Si le bouton ne fonctionne pas, copiez et collez cette URL dans votre navigateur : <%= reviewUrl %>",
+    "SUBJECT": "Approbation nécessaire : <%= agentName %> souhaite entreprendre une action"
+}

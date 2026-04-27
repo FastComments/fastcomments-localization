@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "エージェントWebhookログ - FastComments",
+    "COLUMN_STATUS": "状態",
+    "COLUMN_WHEN": "いつ",
+    "COLUMN_EVENT": "イベント",
+    "QUEUED_LABEL": "キューに入っているもの:",
+    "INTRO_TEXT": "このウェブフックの最近の配信試行状況。キューに登録されたイベントは再試行待ちです。",
+    "COLUMN_STATUS_CODE": "HTTP",
+    "COLUMN_DESCRIPTION": "説明",
+    "STATUS_SUCCESS": "成功",
+    "HEADING": "エージェントのWebhookログ",
+    "BACK_LINK": "エージェントWebhookに戻る",
+    "STATUS_FAILURE": "失敗",
+    "EVENT_TRIGGER_FAILED": "エージェントの実行に失敗しました",
+    "EVENT_TRIGGER_SUCCEEDED": "エージェントの実行に成功しました",
+    "PAGER_NEXT": "次",
+    "PAGER_PREV": "前の",
+    "EMPTY_MESSAGE": "このウェブフックに対する配信試行はまだ記録されていません。",
+    "EVENT_APPROVAL_DECIDED": "承認決定",
+    "EVENT_APPROVAL_REQUESTED": "承認申請"
+}

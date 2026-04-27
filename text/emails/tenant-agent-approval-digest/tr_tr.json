@@ -1,0 +1,11 @@
+{
+    "BANNER_TEXT": "Temsilci Onayları Bekleniyor",
+    "FROM_NAME": "HızlıYorum Temsilcileri",
+    "SUBJECT": "<%= approvalCount %> temsilci işlemleri onay bekliyor",
+    "COLUMN_ACTION": "Aksiyon",
+    "COLUMN_AGENT": "Ajan",
+    "COLUMN_CREATED": "Sıraya girdi",
+    "INTRO": "Aşağıdaki yapay zeka ajanı eylemleri, onaylamanız veya reddetmeniz için bekliyor.",
+    "INBOX_BUTTON": "Onaylar gelen kutusunu açın",
+    "FALLBACK_LINK": "Buton çalışmazsa, bu URL'yi tarayıcınıza kopyalayıp yapıştırın: <%= inboxUrl %>"
+}

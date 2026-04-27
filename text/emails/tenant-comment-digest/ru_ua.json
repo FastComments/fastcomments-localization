@@ -25,5 +25,16 @@
     "MARK_AS_SPAM": "Отметить как спам",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Новые лайки",
     "DELTA_LIKES": "❤️",
-    "TOTAL_LIKES": "Общий"
+    "TOTAL_LIKES": "Общий",
+    "AUTOMATED_MODERATION_HEADING": "Автоматическая модерация",
+    "AUTOMATED_MODERATION_INTRO": "Действия, предпринятые вашими ИИ-агентами в этом сообществе. В строках, отображающих тестовый запуск, показано, что бы сделал агент, если бы запуск был активным.",
+    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "Отмечено {count} комментариев, рассмотренных",
+    "AGENT_ACTION_MARK_COMMENT_APPROVED": "Одобрено {количество} комментариев",
+    "AGENT_ACTION_LOCK_COMMENT": "Заблокировано {count} комментариев",
+    "AGENT_ACTION_MARK_COMMENT_SPAM": "Комментарии {count} помечены как спам",
+    "AGENT_ACTION_BAN_USER": "Заблокировано {количество} пользователей",
+    "AGENT_ACTION_UNLOCK_COMMENT": "Разблокировано {count} комментариев",
+    "AGENT_ACTION_LIVE_BADGE": "Жить",
+    "AGENT_ACTION_DRY_RUN_BADGE": "Пробный запуск",
+    "AGENT_ACTION_WARNED_USER": "Предупреждено {count} пользователей через личные сообщения"
 }

@@ -1,0 +1,16 @@
+{
+    "BANNER_TEXT": "Alerta de orçamento para agente de IA",
+    "META_SCOPE": "Orçamento:",
+    "META_AGENT": "Agente:",
+    "INTRO": "Um dos seus agentes de IA atingiu o limite de gastos que você configurou.",
+    "SUBJECT": "<%= agentName %> atingiu <%= thresholdPct %>% de seu <%= scopeLabel %>",
+    "FROM_NAME": "Agentes FastComments",
+    "META_USAGE": "Uso:",
+    "BODY": "Clique abaixo para abrir o agente na sua conta e aumentar o limite, pausar o agente ou ajustar as suas configurações. O link o conectará diretamente à sua conta FastComments.",
+    "MANAGE_BUTTON": "Agente de gerenciamento",
+    "SCOPE_AGENT_MONTHLY": "orçamento mensal do agente",
+    "SCOPE_AGENT_DAILY": "orçamento diário do agente",
+    "FALLBACK_LINK": "Se o botão não funcionar, copie e cole este URL no seu navegador: <%= manageUrl %>",
+    "SCOPE_TENANT_DAILY": "orçamento diário da conta",
+    "SCOPE_TENANT_MONTHLY": "orçamento mensal da conta"
+}

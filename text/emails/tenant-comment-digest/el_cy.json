@@ -25,5 +25,16 @@
     "MARK_AS_SPAM": "Επισήμανση ως ανεπιθύμητο",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Νέα Likes",
     "DELTA_LIKES": "❤️",
-    "TOTAL_LIKES": "Σύνολο"
+    "TOTAL_LIKES": "Σύνολο",
+    "AUTOMATED_MODERATION_HEADING": "Αυτοματοποιημένη εποπτεία",
+    "AGENT_ACTION_LOCK_COMMENT": "Κλειδωμένα {count} σχόλια",
+    "AGENT_ACTION_UNLOCK_COMMENT": "Ξεκλείδωτα {count} σχόλια",
+    "AUTOMATED_MODERATION_INTRO": "Ενέργειες που έλαβαν οι πράκτορες τεχνητής νοημοσύνης σας σε αυτήν την κοινότητα. Οι σειρές dry-run δείχνουν τι θα είχε κάνει ο πράκτορας αν ήταν ενεργός.",
+    "AGENT_ACTION_MARK_COMMENT_SPAM": "Επισημάνθηκαν {count} σχόλια ως ανεπιθύμητα",
+    "AGENT_ACTION_MARK_COMMENT_APPROVED": "Εγκρίθηκαν {count} σχόλια",
+    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "Επισημάνθηκαν {count} σχόλια ως αξιολογημένα",
+    "AGENT_ACTION_LIVE_BADGE": "Ζω",
+    "AGENT_ACTION_WARNED_USER": "Προειδοποιήθηκαν {count} χρήστες μέσω DM",
+    "AGENT_ACTION_BAN_USER": "Αποκλεισμένοι {count} χρήστες",
+    "AGENT_ACTION_DRY_RUN_BADGE": "Ξηρή λειτουργία"
 }

@@ -39,5 +39,12 @@
     "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Frekvens af svarnotifikationer",
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "Hvor ofte du modtager e-mailnotifikationer om svar på dine kommentarer. @omtale-notifikationer sendes altid med det samme.",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Hyppigheden af administratormeddelelser",
-    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Hvor ofte du modtager e-mailnotifikationer om nye kommentarer på dit websted."
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Hvor ofte du modtager e-mailnotifikationer om nye kommentarer på dit websted.",
+    "AGENT_APPROVAL_HEADING": "Godkendelser af AI-agenter",
+    "AGENT_APPROVAL_FREQUENCY_LABEL": "Hyppighed for godkendelsesmeddelelser",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "Straks",
+    "AGENT_APPROVAL_FREQUENCY_HELP": "Hvor ofte du modtager e-mailnotifikationer, når en AI-agent sætter en handling i kø til din gennemgang.",
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "Timeoversigt",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Send mig aldrig en e-mail",
+    "AGENT_APPROVAL_FREQUENCY_DAILY": "Daglig oversigt"
 }

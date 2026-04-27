@@ -25,5 +25,16 @@
     "MARK_AS_SPAM": "Означи као нежељену пошту",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Нови лајкови",
     "DELTA_LIKES": "❤",
-    "TOTAL_LIKES": "Укупно"
+    "TOTAL_LIKES": "Укупно",
+    "AGENT_ACTION_LOCK_COMMENT": "Закључани коментари",
+    "AGENT_ACTION_MARK_COMMENT_SPAM": "Означено {count} коментара као спам",
+    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "Означено као прегледано",
+    "AUTOMATED_MODERATION_HEADING": "Аутоматизована модерација",
+    "AGENT_ACTION_MARK_COMMENT_APPROVED": "Одобрени коментари",
+    "AGENT_ACTION_UNLOCK_COMMENT": "Откључано {count} коментара",
+    "AUTOMATED_MODERATION_INTRO": "Акције које су ваши AI агенти предузели у овој заједници. Пробни редови показују шта би агент урадио да је био активан.",
+    "AGENT_ACTION_BAN_USER": "Забрањено {count} корисницима",
+    "AGENT_ACTION_WARNED_USER": "Упозорено {count} корисника путем директне поруке",
+    "AGENT_ACTION_LIVE_BADGE": "Уживо",
+    "AGENT_ACTION_DRY_RUN_BADGE": "Пробни рад"
 }

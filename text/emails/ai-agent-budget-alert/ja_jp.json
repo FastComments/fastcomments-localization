@@ -1,0 +1,16 @@
+{
+    "META_AGENT": "エージェント：",
+    "SUBJECT": "<%= agentName %>が<%= scopeLabel %>の<%= thresholdPct %>％に達しました。",
+    "FROM_NAME": "FastCommentsエージェント",
+    "BANNER_TEXT": "AIエージェント予算アラート",
+    "META_USAGE": "使用法：",
+    "META_SCOPE": "予算：",
+    "INTRO": "お客様のAIエージェントの1つが、お客様が設定した支出しきい値に達しました。",
+    "BODY": "下記をクリックすると、アカウント内のエージェントが開き、制限値の引き上げ、エージェントの一時停止、または設定の調整を行うことができます。このリンクをクリックすると、FastCommentsアカウントに直接ログインできます。",
+    "FALLBACK_LINK": "ボタンが機能しない場合は、このURLをコピーしてブラウザに貼り付けてください：<%= manageUrl %>",
+    "MANAGE_BUTTON": "エージェントを管理する",
+    "SCOPE_AGENT_DAILY": "エージェントの1日あたりの予算",
+    "SCOPE_TENANT_MONTHLY": "口座の月間予算",
+    "SCOPE_AGENT_MONTHLY": "エージェントの月間予算",
+    "SCOPE_TENANT_DAILY": "日々の予算"
+}

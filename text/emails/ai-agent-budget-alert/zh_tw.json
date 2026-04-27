@@ -1,0 +1,16 @@
+{
+    "META_SCOPE": "預算：",
+    "META_AGENT": "代理人：",
+    "META_USAGE": "用法：",
+    "BANNER_TEXT": "AI代理預算提醒",
+    "FROM_NAME": "快速評論代理",
+    "SUBJECT": "<%= agentName %> 達到了其 <%= thresholdPct %>% 的目標 <%= scopeLabel %>",
+    "MANAGE_BUTTON": "管理代理",
+    "BODY": "點擊下方連結即可在您的帳戶中開啟代理，並可提高限額、暫停代理或調整其設定。該連結將直接登入您的 FastComments 帳戶。",
+    "FALLBACK_LINK": "如果按鈕不起作用，請複製此網址並貼上到瀏覽器中：<%= manageUrl %>",
+    "INTRO": "您的某個 AI 代理程式已達到您設定的消費閾值。",
+    "SCOPE_AGENT_MONTHLY": "代理人每月預算",
+    "SCOPE_AGENT_DAILY": "代理每日預算",
+    "SCOPE_TENANT_DAILY": "帳戶每日預算",
+    "SCOPE_TENANT_MONTHLY": "帳戶每月預算"
+}

@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Αρχεία καταγραφής Webhook Agent - FastComments",
+    "BACK_LINK": "Επιστροφή στα Webhooks του Agent",
+    "COLUMN_WHEN": "Οταν",
+    "HEADING": "Αρχεία καταγραφής Webhook πρακτόρων",
+    "COLUMN_EVENT": "Συμβάν",
+    "INTRO_TEXT": "Πρόσφατες προσπάθειες παράδοσης για αυτό το webhook. Τα συμβάντα στην ουρά αναμένουν επανάληψη.",
+    "COLUMN_STATUS": "Κατάσταση",
+    "COLUMN_DESCRIPTION": "Περιγραφή",
+    "STATUS_SUCCESS": "Επιτυχία",
+    "QUEUED_LABEL": "Στην ουρά:",
+    "STATUS_FAILURE": "Αποτυχία",
+    "COLUMN_STATUS_CODE": "HTTP",
+    "EVENT_TRIGGER_FAILED": "Η εκτέλεση του παράγοντα απέτυχε",
+    "EVENT_APPROVAL_REQUESTED": "Αίτημα έγκρισης",
+    "EVENT_TRIGGER_SUCCEEDED": "Η εκτέλεση του πράκτορα ήταν επιτυχής",
+    "PAGER_PREV": "Προηγούμενος",
+    "PAGER_NEXT": "Επόμενος",
+    "EVENT_APPROVAL_DECIDED": "Αποφασίστηκε η έγκριση",
+    "EMPTY_MESSAGE": "Δεν έχουν καταγραφεί ακόμη προσπάθειες παράδοσης για αυτό το webhook."
+}

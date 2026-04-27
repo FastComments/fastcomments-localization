@@ -1,0 +1,11 @@
+{
+    "COLUMN_ACTION": "Dejanje",
+    "FROM_NAME": "Agenti za hitre komentarje",
+    "COLUMN_AGENT": "Agent",
+    "BANNER_TEXT": "Čakajoče odobritve agentov",
+    "SUBJECT": "<%= approvalCount %> dejanja agenta čakajo na odobritev",
+    "INTRO": "Naslednja dejanja agenta umetne inteligence čakajo na vašo odobritev ali zavrnitev.",
+    "COLUMN_CREATED": "V vrsti ob",
+    "INBOX_BUTTON": "Odpri mapo »Prejeto« z odobritvami",
+    "FALLBACK_LINK": "Če gumb ne deluje, kopirajte in prilepite ta URL v brskalnik: <%= inboxUrl %>"
+}

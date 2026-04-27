@@ -1,0 +1,16 @@
+{
+    "BANNER_TEXT": "Yapay Zeka Ajanı Bütçe Uyarısı",
+    "SUBJECT": "<%= agentName %>, <%= thresholdPct %>'nin %<%= scopeLabel %>'sine ulaştı.",
+    "FROM_NAME": "HızlıYorum Temsilcileri",
+    "META_AGENT": "Ajan:",
+    "META_SCOPE": "Bütçe:",
+    "META_USAGE": "Kullanım:",
+    "INTRO": "Yapay zekâ ajanlarınızdan biri, yapılandırdığınız harcama eşiğine ulaştı.",
+    "BODY": "Hesabınızdaki aracı açmak, limiti yükseltmek, aracı duraklatmak veya ayarlarını değiştirmek için aşağıdaki bağlantıya tıklayın. Bu bağlantı sizi doğrudan FastComments hesabınıza giriş yaptırır.",
+    "FALLBACK_LINK": "Buton çalışmazsa, bu URL'yi tarayıcınıza kopyalayıp yapıştırın: <%= manageUrl %>",
+    "SCOPE_AGENT_DAILY": "acentenin günlük bütçesi",
+    "MANAGE_BUTTON": "Temsilciyi yönetin",
+    "SCOPE_AGENT_MONTHLY": "acente aylık bütçesi",
+    "SCOPE_TENANT_MONTHLY": "aylık bütçe hesabı",
+    "SCOPE_TENANT_DAILY": "hesap günlük bütçe"
+}

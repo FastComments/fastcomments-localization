@@ -1,0 +1,16 @@
+{
+    "META_AGENT": "Agent:",
+    "META_SCOPE": "Budget:",
+    "META_USAGE": "Verwendung:",
+    "BANNER_TEXT": "Budgetwarnung für KI-Agenten",
+    "SUBJECT": "<%= agentName %> erreichte <%= thresholdPct %>% seiner <%= scopeLabel %>",
+    "FROM_NAME": "FastComments-Agenten",
+    "BODY": "Klicken Sie unten, um den Agenten in Ihrem Konto zu öffnen und das Limit zu erhöhen, den Agenten zu pausieren oder seine Einstellungen anzupassen. Der Link meldet Sie direkt bei Ihrem FastComments-Konto an.",
+    "INTRO": "Einer Ihrer KI-Agenten hat einen von Ihnen festgelegten Ausgabenschwellenwert erreicht.",
+    "MANAGE_BUTTON": "Agenten verwalten",
+    "FALLBACK_LINK": "Falls der Button nicht funktioniert, kopieren Sie diese URL und fügen Sie sie in Ihren Browser ein: <%= manageUrl %>",
+    "SCOPE_TENANT_DAILY": "Tagesbudget",
+    "SCOPE_TENANT_MONTHLY": "monatliches Budget",
+    "SCOPE_AGENT_MONTHLY": "monatliches Budget des Agenten",
+    "SCOPE_AGENT_DAILY": "Agenten-Tagesbudget"
+}

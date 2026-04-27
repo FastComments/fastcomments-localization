@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "<%= approvalCount %> działania agenta oczekujące na zatwierdzenie",
+    "FROM_NAME": "Agenci FastComments",
+    "BANNER_TEXT": "Oczekujące zatwierdzenia agentów",
+    "COLUMN_AGENT": "Agent",
+    "INTRO": "Następujące działania agenta AI czekają na Twoją akceptację lub odrzucenie.",
+    "COLUMN_ACTION": "Działanie",
+    "COLUMN_CREATED": "W kolejce",
+    "INBOX_BUTTON": "Otwórz skrzynkę odbiorczą zatwierdzeń",
+    "FALLBACK_LINK": "Jeżeli przycisk nie działa, skopiuj i wklej ten adres URL do przeglądarki: <%= inboxUrl %>"
+}

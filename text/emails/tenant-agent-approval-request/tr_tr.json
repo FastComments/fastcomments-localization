@@ -1,0 +1,11 @@
+{
+    "META_AGENT": "Ajan:",
+    "META_ACTION": "Aksiyon:",
+    "FROM_NAME": "HızlıYorum Temsilcileri",
+    "BANNER_TEXT": "Temsilci İşlemi Onay Gerektiriyor",
+    "SUBJECT": "Onay gerekiyor: <%= agentName %> bir işlem yapmak istiyor.",
+    "INTRO": "Bir yapay zeka ajanı bir işlem sıraya koydu ve çalıştırılmadan önce onayınıza ihtiyacı var.",
+    "BODY": "Aşağıdaki bağlantıya tıklayarak eylem argümanlarını, kaynak bağlamı inceleyebilir ve onaylayabilir veya reddedebilirsiniz. Bağlantı sizi doğrudan FastComments hesabınıza giriş yaptırır.",
+    "REVIEW_BUTTON": "İnceleme onayı",
+    "FALLBACK_LINK": "Buton çalışmazsa, bu URL'yi tarayıcınıza kopyalayıp yapıştırın: <%= reviewUrl %>"
+}

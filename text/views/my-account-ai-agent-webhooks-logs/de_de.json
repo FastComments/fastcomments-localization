@@ -1,0 +1,21 @@
+{
+    "HEADING": "Agent-Webhook-Protokolle",
+    "PAGE_TITLE": "Agent-Webhook-Protokolle – FastComments",
+    "COLUMN_EVENT": "Ereignis",
+    "COLUMN_WHEN": "Wann",
+    "BACK_LINK": "Zurück zu Agent-Webhooks",
+    "QUEUED_LABEL": "In der Warteschlange:",
+    "COLUMN_STATUS": "Status",
+    "COLUMN_STATUS_CODE": "HTTP",
+    "INTRO_TEXT": "Die letzten Zustellversuche für diesen Webhook liefen erfolglos. Ereignisse in der Warteschlange warten auf einen erneuten Versuch.",
+    "COLUMN_DESCRIPTION": "Beschreibung",
+    "STATUS_FAILURE": "Versagen",
+    "STATUS_SUCCESS": "Erfolg",
+    "PAGER_NEXT": "Nächste",
+    "PAGER_PREV": "Vorherige",
+    "EVENT_TRIGGER_FAILED": "Agentenlauf fehlgeschlagen",
+    "EVENT_APPROVAL_DECIDED": "Genehmigung beschlossen",
+    "EVENT_APPROVAL_REQUESTED": "Genehmigung beantragt",
+    "EVENT_TRIGGER_SUCCEEDED": "Agentenlauf erfolgreich",
+    "EMPTY_MESSAGE": "Für diesen Webhook wurden noch keine Zustellversuche protokolliert."
+}

@@ -25,5 +25,16 @@
     "MARK_AS_SPAM": "Markeer als spam",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Nieuwe vind-ik-leuks",
     "DELTA_LIKES": "❤️",
-    "TOTAL_LIKES": "Totaal"
+    "TOTAL_LIKES": "Totaal",
+    "AUTOMATED_MODERATION_INTRO": "Acties die uw AI-agenten in deze community hebben ondernomen. De rijen met testruns laten zien wat de agent zou hebben gedaan als hij in een live situatie was geweest.",
+    "AGENT_ACTION_MARK_COMMENT_SPAM": "{count} reacties gemarkeerd als spam",
+    "AGENT_ACTION_LOCK_COMMENT": "Vergrendelde {count} reacties",
+    "AUTOMATED_MODERATION_HEADING": "Geautomatiseerde moderatie",
+    "AGENT_ACTION_MARK_COMMENT_APPROVED": "Goedgekeurde {count} reacties",
+    "AGENT_ACTION_UNLOCK_COMMENT": "Ontgrendeld {count} reacties",
+    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "Gemarkeerde {count} reacties beoordeeld",
+    "AGENT_ACTION_LIVE_BADGE": "Live",
+    "AGENT_ACTION_WARNED_USER": "{count} gebruikers via DM gewaarschuwd",
+    "AGENT_ACTION_BAN_USER": "Verbannen {count} gebruikers",
+    "AGENT_ACTION_DRY_RUN_BADGE": "Proefloop"
 }

@@ -25,5 +25,16 @@
     "MARK_AS_SPAM": "Позначити як спам",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Нові вподобання",
     "DELTA_LIKES": "❤️",
-    "TOTAL_LIKES": "Всього"
+    "TOTAL_LIKES": "Всього",
+    "AUTOMATED_MODERATION_HEADING": "Автоматизована модерація",
+    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "Позначено як перевірені коментарі",
+    "AGENT_ACTION_MARK_COMMENT_APPROVED": "Схвалено коментарів: {count}",
+    "AUTOMATED_MODERATION_INTRO": "Дії, які виконали ваші агенти штучного інтелекту в цій спільноті. Рядки пробного запуску показують, що зробив би агент, якби він був активний.",
+    "AGENT_ACTION_MARK_COMMENT_SPAM": "Позначено {count} коментарів як спам",
+    "AGENT_ACTION_LIVE_BADGE": "Живий",
+    "AGENT_ACTION_DRY_RUN_BADGE": "Пробний запуск",
+    "AGENT_ACTION_LOCK_COMMENT": "Заблоковано {count} коментарів",
+    "AGENT_ACTION_WARNED_USER": "Попереджено {count} користувачів через прямі повідомлення",
+    "AGENT_ACTION_BAN_USER": "Заблоковано {count} користувачів",
+    "AGENT_ACTION_UNLOCK_COMMENT": "Розблоковано {count} коментарів"
 }

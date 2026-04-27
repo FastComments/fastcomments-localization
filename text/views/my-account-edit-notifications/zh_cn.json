@@ -39,5 +39,12 @@
     "REPLY_NOTIFICATION_FREQUENCY_LABEL": "回复通知频率",
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "您多久会收到一次评论回复的电子邮件通知？@提及通知始终立即发送。",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "管理员通知频率",
-    "TENANT_NOTIFICATION_FREQUENCY_HELP": "您多久会收到一次关于网站新评论的电子邮件通知？"
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "您多久会收到一次关于网站新评论的电子邮件通知？",
+    "AGENT_APPROVAL_FREQUENCY_LABEL": "审批通知频率",
+    "AGENT_APPROVAL_HEADING": "AI代理审批",
+    "AGENT_APPROVAL_FREQUENCY_DAILY": "每日摘要",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "立即地",
+    "AGENT_APPROVAL_FREQUENCY_HELP": "AI代理将操作加入队列供您审核时，您多久会收到一次电子邮件通知？",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "永远不要给我发邮件",
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "每小时摘要"
 }

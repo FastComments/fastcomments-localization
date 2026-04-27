@@ -1,0 +1,16 @@
+{
+    "BANNER_TEXT": "התראת תקציב סוכן בינה מלאכותית",
+    "FROM_NAME": "סוכני FastComments",
+    "META_AGENT": "סוֹכֵן:",
+    "META_SCOPE": "תַקצִיב:",
+    "SUBJECT": "<%= agentName %> הגיעה ל-<%= thresholdPct %>% מה-<%= scopeLabel %> שלה",
+    "INTRO": "אחד מסוכני הבינה המלאכותית שלך הגיע לסף הוצאה שהגדרת.",
+    "META_USAGE": "נוֹהָג:",
+    "MANAGE_BUTTON": "ניהול סוכן",
+    "BODY": "לחץ למטה כדי לפתוח את הסוכן בחשבונך ולהעלות את המגבלה, להשהות את הסוכן או להתאים את ההגדרות שלו. הקישור מחבר אותך ישירות לחשבון FastComments שלך.",
+    "FALLBACK_LINK": "אם הכפתור לא עובד, העתיקו והדביקו את כתובת האתר הזו בדפדפן שלכם: <%= manageUrl %>",
+    "SCOPE_AGENT_MONTHLY": "תקציב חודשי של סוכן",
+    "SCOPE_TENANT_MONTHLY": "תקציב חודשי של החשבון",
+    "SCOPE_TENANT_DAILY": "תקציב יומי של החשבון",
+    "SCOPE_AGENT_DAILY": "תקציב יומי של סוכן"
+}

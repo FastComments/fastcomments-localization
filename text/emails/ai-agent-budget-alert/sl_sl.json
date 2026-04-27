@@ -1,0 +1,16 @@
+{
+    "BANNER_TEXT": "Opozorilo o proračunu agenta umetne inteligence",
+    "FROM_NAME": "Agenti za hitre komentarje",
+    "META_USAGE": "Uporaba:",
+    "INTRO": "Eden od vaših agentov umetne inteligence je dosegel prag porabe, ki ste ga konfigurirali.",
+    "META_SCOPE": "Proračun:",
+    "SUBJECT": "<%= agentName %> je dosegel <%= thresholdPct %> % svojega <%= scopeLabel %>",
+    "META_AGENT": "Agent:",
+    "MANAGE_BUTTON": "Upravljanje agenta",
+    "SCOPE_AGENT_DAILY": "dnevni proračun agenta",
+    "FALLBACK_LINK": "Če gumb ne deluje, kopirajte in prilepite ta URL v brskalnik: <%= manageUrl %>",
+    "BODY": "Kliknite spodaj, da odprete agenta v svojem računu in zvišate omejitev, začasno ustavite agenta ali prilagodite njegove nastavitve. Povezava vas neposredno prijavi v vaš račun FastComments.",
+    "SCOPE_AGENT_MONTHLY": "mesečni proračun agenta",
+    "SCOPE_TENANT_MONTHLY": "mesečni proračun računa",
+    "SCOPE_TENANT_DAILY": "dnevni proračun računa"
+}

@@ -1,0 +1,11 @@
+{
+    "BANNER_TEXT": "Afventer godkendelser fra agenter",
+    "COLUMN_AGENT": "Agent",
+    "SUBJECT": "<%= approvalCount %> agenthandlinger afventer godkendelse",
+    "FROM_NAME": "FastComments Agenter",
+    "COLUMN_ACTION": "Handling",
+    "INTRO": "Følgende AI-agenthandlinger venter på, at du godkender eller afviser dem.",
+    "COLUMN_CREATED": "I kø kl.",
+    "INBOX_BUTTON": "Åbn godkendelsesindbakken",
+    "FALLBACK_LINK": "Hvis knappen ikke virker, så kopier og indsæt denne URL i din browser: <%= inboxUrl %>"
+}

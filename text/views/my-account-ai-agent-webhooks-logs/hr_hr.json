@@ -1,0 +1,21 @@
+{
+    "BACK_LINK": "Natrag na webhookove agenata",
+    "PAGE_TITLE": "Zapisnici webhooka agenta - Brzi komentari",
+    "COLUMN_WHEN": "Kada",
+    "HEADING": "Zapisnici webhooka agenta",
+    "INTRO_TEXT": "Nedavni pokušaji isporuke za ovaj webhook. Događaji u redu čekaju ponovni pokušaj.",
+    "QUEUED_LABEL": "U redu čekanja:",
+    "COLUMN_EVENT": "Događaj",
+    "COLUMN_STATUS": "Status",
+    "COLUMN_DESCRIPTION": "Opis",
+    "STATUS_SUCCESS": "Uspjeh",
+    "STATUS_FAILURE": "Neuspjeh",
+    "COLUMN_STATUS_CODE": "HTTP",
+    "PAGER_NEXT": "Sljedeći",
+    "PAGER_PREV": "Prethodno",
+    "EVENT_APPROVAL_DECIDED": "Odobrenje odlučeno",
+    "EVENT_TRIGGER_FAILED": "Pokretanje agenta nije uspjelo",
+    "EVENT_APPROVAL_REQUESTED": "Zatraženo odobrenje",
+    "EVENT_TRIGGER_SUCCEEDED": "Pokretanje agenta uspjelo",
+    "EMPTY_MESSAGE": "Za ovaj webhook još nije zabilježen nijedan pokušaj isporuke."
+}

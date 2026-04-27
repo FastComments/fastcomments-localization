@@ -39,5 +39,12 @@
     "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Frequenza di notifica delle risposte",
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "Con quale frequenza ricevi le notifiche via email per le risposte ai tuoi commenti. Le notifiche @menzione vengono sempre inviate immediatamente.",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Frequenza di notifica dell'amministratore",
-    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Con quale frequenza ricevi notifiche via email sui nuovi commenti sul tuo sito."
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Con quale frequenza ricevi notifiche via email sui nuovi commenti sul tuo sito.",
+    "AGENT_APPROVAL_FREQUENCY_LABEL": "Frequenza di notifica dell'approvazione",
+    "AGENT_APPROVAL_HEADING": "Approvazioni degli agenti IA",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "Immediatamente",
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "Riepilogo orario",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Non inviarmi mai email",
+    "AGENT_APPROVAL_FREQUENCY_HELP": "Con quale frequenza ricevi notifiche via email quando un agente AI mette in coda un'azione per la tua revisione.",
+    "AGENT_APPROVAL_FREQUENCY_DAILY": "Riepilogo quotidiano"
 }

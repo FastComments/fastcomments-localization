@@ -1,0 +1,11 @@
+{
+    "FROM_NAME": "Agenti FastComments",
+    "SUBJECT": "<%= approvalCount %> akcije agenta čekaju odobrenje",
+    "COLUMN_ACTION": "Akcija",
+    "INBOX_BUTTON": "Otvorena odobrenja inbok",
+    "BANNER_TEXT": "Čekanje odobrenja agenta",
+    "COLUMN_AGENT": "Pretraga",
+    "COLUMN_CREATED": "U redu čekanja na",
+    "FALLBACK_LINK": "Ako dugme ne radi, kopirajte i nalepite ovaj URL u pregledač: <%= inboxUrl %>",
+    "INTRO": "Sledeće akcije AI agenta čekaju da odobrite ili odbijete."
+}

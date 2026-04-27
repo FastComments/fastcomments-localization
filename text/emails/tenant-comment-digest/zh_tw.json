@@ -25,5 +25,16 @@
     "MARK_AS_SPAM": "標記為垃圾郵件",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> 新喜歡",
     "DELTA_LIKES": "❤️",
-    "TOTAL_LIKES": "全部的"
+    "TOTAL_LIKES": "全部的",
+    "AUTOMATED_MODERATION_INTRO": "您的 AI 代理在此社群中採取的行動。試運行行顯示了代理程式在實際運作狀態下會採取的行動。",
+    "AGENT_ACTION_LOCK_COMMENT": "已鎖定 {count} 則評論",
+    "AGENT_ACTION_MARK_COMMENT_APPROVED": "已批准 {count} 一條評論",
+    "AGENT_ACTION_MARK_COMMENT_SPAM": "已將 {count} 條評論標記為垃圾郵件",
+    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "已審核 {count} 則評論",
+    "AUTOMATED_MODERATION_HEADING": "自動審核",
+    "AGENT_ACTION_DRY_RUN_BADGE": "演練",
+    "AGENT_ACTION_LIVE_BADGE": "居住",
+    "AGENT_ACTION_UNLOCK_COMMENT": "已解鎖 {count} 則評論",
+    "AGENT_ACTION_WARNED_USER": "已透過私訊警告 {count} 位元用戶",
+    "AGENT_ACTION_BAN_USER": "封禁了 {count} 位用戶"
 }

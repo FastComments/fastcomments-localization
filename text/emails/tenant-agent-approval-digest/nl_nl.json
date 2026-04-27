@@ -1,0 +1,11 @@
+{
+    "FROM_NAME": "FastComments-agenten",
+    "BANNER_TEXT": "Goedkeuring van de agent is nog in behandeling.",
+    "SUBJECT": "<%= approvalCount %> acties van de agent in afwachting van goedkeuring",
+    "COLUMN_AGENT": "Tussenpersoon",
+    "COLUMN_ACTION": "Actie",
+    "INTRO": "De volgende acties van de AI-agent wachten op uw goedkeuring of afwijzing.",
+    "COLUMN_CREATED": "In de rij bij",
+    "INBOX_BUTTON": "Open de inbox voor goedkeuringen",
+    "FALLBACK_LINK": "Als de knop niet werkt, kopieer en plak dan deze URL in je browser: <%= inboxUrl %>"
+}

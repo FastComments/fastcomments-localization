@@ -39,5 +39,12 @@
     "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Yanıt Bildirimi Sıklığı",
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "Yorumlarınıza gelen yanıtlar için e-posta bildirimlerini ne sıklıkla alıyorsunuz? @bahsetme bildirimleri her zaman anında gönderilir.",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Yönetici Bildirim Sıklığı",
-    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Sitenize gelen yeni yorumlar hakkında ne sıklıkla e-posta bildirimi alıyorsunuz?"
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Sitenize gelen yeni yorumlar hakkında ne sıklıkla e-posta bildirimi alıyorsunuz?",
+    "AGENT_APPROVAL_FREQUENCY_LABEL": "Onay Bildirimi Sıklığı",
+    "AGENT_APPROVAL_HEADING": "Yapay Zeka Temsilcisi Onayları",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "Hemen",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Bana asla e-posta gönderme.",
+    "AGENT_APPROVAL_FREQUENCY_HELP": "Yapay zekâ ajanı incelemeniz için bir işlem sıraya koyduğunda ne sıklıkla e-posta bildirimi alıyorsunuz?",
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "Saatlik özet",
+    "AGENT_APPROVAL_FREQUENCY_DAILY": "Günlük özet"
 }

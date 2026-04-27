@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Registros de Webhooks de Agentes - FastComments",
+    "HEADING": "Registros de webhook do agente",
+    "COLUMN_EVENT": "Evento",
+    "COLUMN_STATUS": "Status",
+    "BACK_LINK": "Voltar para Webhooks do Agente",
+    "COLUMN_WHEN": "Quando",
+    "COLUMN_STATUS_CODE": "HTTP",
+    "STATUS_SUCCESS": "Sucesso",
+    "QUEUED_LABEL": "Na fila:",
+    "COLUMN_DESCRIPTION": "Descrição",
+    "INTRO_TEXT": "Tentativas recentes de entrega para este webhook. Os eventos em fila estão aguardando nova tentativa.",
+    "STATUS_FAILURE": "Falha",
+    "EVENT_APPROVAL_REQUESTED": "Aprovação solicitada",
+    "EVENT_TRIGGER_SUCCEEDED": "A execução do agente foi bem-sucedida.",
+    "PAGER_NEXT": "Próximo",
+    "PAGER_PREV": "Anterior",
+    "EVENT_TRIGGER_FAILED": "A execução do agente falhou",
+    "EVENT_APPROVAL_DECIDED": "A aprovação foi decidida.",
+    "EMPTY_MESSAGE": "Ainda não foram registradas tentativas de entrega para este webhook."
+}

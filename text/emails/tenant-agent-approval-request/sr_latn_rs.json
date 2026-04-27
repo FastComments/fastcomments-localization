@@ -1,0 +1,11 @@
+{
+    "FROM_NAME": "Agenti FastComments",
+    "META_AGENT": "Agent:",
+    "META_ACTION": "Akcija:",
+    "FALLBACK_LINK": "Ako dugme ne radi, kopirajte i nalepite ovaj URL u pregledač: <%= reviewUrl %>",
+    "SUBJECT": "Potrebno odobrenje: <%= agentName %> želi da preduzme akciju",
+    "REVIEW_BUTTON": "Pregledajte odobrenje",
+    "INTRO": "AI agent je stavio akciju u red i potrebno mu je vaše odobrenje pre nego što se pokrene.",
+    "BANNER_TEXT": "Agent Akcija treba odobrenje",
+    "BODY": "Kliknite ispod da biste pregledali argumente akcije, izvorni kontekst i odobrili ili odbacili ga. Veza vas direktno prijavljuje na vaš FastComments nalog."
+}

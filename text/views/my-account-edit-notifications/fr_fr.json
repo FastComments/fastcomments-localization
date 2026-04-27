@@ -39,5 +39,12 @@
     "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Fréquence de notification de réponse",
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "Fréquence de réception des notifications par e-mail pour les réponses à vos commentaires. Les notifications de mention sont toujours envoyées instantanément.",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Fréquence des notifications de l'administrateur",
-    "TENANT_NOTIFICATION_FREQUENCY_HELP": "À quelle fréquence recevez-vous des notifications par e-mail concernant les nouveaux commentaires sur votre site ?"
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "À quelle fréquence recevez-vous des notifications par e-mail concernant les nouveaux commentaires sur votre site ?",
+    "AGENT_APPROVAL_HEADING": "Approbations des agents IA",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "Immédiatement",
+    "AGENT_APPROVAL_FREQUENCY_LABEL": "Fréquence de notification d'approbation",
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "Résumé horaire",
+    "AGENT_APPROVAL_FREQUENCY_DAILY": "Résumé quotidien",
+    "AGENT_APPROVAL_FREQUENCY_HELP": "À quelle fréquence recevez-vous des notifications par e-mail lorsqu'un agent IA met en file d'attente une action pour votre examen ?",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Ne m'envoyez jamais de courriel"
 }

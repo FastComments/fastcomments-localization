@@ -1,0 +1,16 @@
+{
+    "META_SCOPE": "Begroting:",
+    "META_AGENT": "Tussenpersoon:",
+    "BANNER_TEXT": "AI-agent budgetwaarschuwing",
+    "SUBJECT": "<%= agentName %> bereikte <%= thresholdPct %>% van zijn <%= scopeLabel %>",
+    "FROM_NAME": "FastComments-agenten",
+    "INTRO": "Een van uw AI-agenten heeft een door u ingestelde bestedingsdrempel bereikt.",
+    "META_USAGE": "Gebruik:",
+    "SCOPE_AGENT_DAILY": "dagelijks budget van de agent",
+    "MANAGE_BUTTON": "Beheer agent",
+    "SCOPE_AGENT_MONTHLY": "maandelijks budget van de agent",
+    "FALLBACK_LINK": "Als de knop niet werkt, kopieer en plak dan deze URL in je browser: <%= manageUrl %>",
+    "BODY": "Klik hieronder om de agent in uw account te openen en de limiet te verhogen, de agent te pauzeren of de instellingen aan te passen. De link meldt u direct aan bij uw FastComments-account.",
+    "SCOPE_TENANT_MONTHLY": "maandelijks budget",
+    "SCOPE_TENANT_DAILY": "Dagelijkse begroting beheren"
+}

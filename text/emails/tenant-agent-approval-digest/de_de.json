@@ -1,0 +1,11 @@
+{
+    "FROM_NAME": "FastComments-Agenten",
+    "BANNER_TEXT": "Ausstehende Agentengenehmigungen",
+    "COLUMN_AGENT": "Agent",
+    "SUBJECT": "<%= approvalCount %> Agentenaktionen warten auf Genehmigung",
+    "COLUMN_ACTION": "Aktion",
+    "INTRO": "Die folgenden Aktionen des KI-Agenten warten darauf, von Ihnen genehmigt oder abgelehnt zu werden.",
+    "INBOX_BUTTON": "Genehmigungs-Posteingang öffnen",
+    "COLUMN_CREATED": "In der Warteschlange bei",
+    "FALLBACK_LINK": "Falls der Button nicht funktioniert, kopieren Sie diese URL und fügen Sie sie in Ihren Browser ein: <%= inboxUrl %>"
+}

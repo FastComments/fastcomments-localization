@@ -39,5 +39,12 @@
     "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Benachrichtigungshäufigkeit",
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "Wie häufig Sie E-Mail-Benachrichtigungen für Antworten auf Ihre Kommentare erhalten. Benachrichtigungen bei @Erwähnungen werden immer sofort versendet.",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Benachrichtigungshäufigkeit für Administratoren",
-    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Wie häufig Sie E-Mail-Benachrichtigungen über neue Kommentare auf Ihrer Website erhalten."
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Wie häufig Sie E-Mail-Benachrichtigungen über neue Kommentare auf Ihrer Website erhalten.",
+    "AGENT_APPROVAL_HEADING": "Genehmigungen für KI-Agenten",
+    "AGENT_APPROVAL_FREQUENCY_LABEL": "Häufigkeit der Genehmigungsbenachrichtigung",
+    "AGENT_APPROVAL_FREQUENCY_HELP": "Wie häufig Sie E-Mail-Benachrichtigungen erhalten, wenn ein KI-Agent eine Aktion zur Überprüfung in die Warteschlange stellt.",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "Sofort",
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "Stündliche Zusammenfassung",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Schickt mir niemals eine E-Mail!",
+    "AGENT_APPROVAL_FREQUENCY_DAILY": "Tageszusammenfassung"
 }

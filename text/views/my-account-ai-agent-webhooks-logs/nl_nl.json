@@ -1,0 +1,21 @@
+{
+    "HEADING": "Agent Webhook Logs",
+    "COLUMN_WHEN": "Wanneer",
+    "PAGE_TITLE": "Agent-webhooklogboeken - FastComments",
+    "COLUMN_STATUS": "Status",
+    "COLUMN_EVENT": "Evenement",
+    "COLUMN_DESCRIPTION": "Beschrijving",
+    "STATUS_SUCCESS": "Succes",
+    "COLUMN_STATUS_CODE": "HTTP",
+    "BACK_LINK": "Terug naar Agent Webhooks",
+    "STATUS_FAILURE": "Mislukking",
+    "QUEUED_LABEL": "In de wachtrij:",
+    "EVENT_TRIGGER_FAILED": "Agent-uitvoering mislukt",
+    "EVENT_TRIGGER_SUCCEEDED": "Agent-uitvoering is geslaagd",
+    "EVENT_APPROVAL_REQUESTED": "Goedkeuring aangevraagd",
+    "PAGER_NEXT": "Volgende",
+    "PAGER_PREV": "Vorig",
+    "INTRO_TEXT": "Recente pogingen om deze webhook te bezorgen. Gebeurtenissen in de wachtrij wachten op een nieuwe poging.",
+    "EVENT_APPROVAL_DECIDED": "Goedkeuring besloten",
+    "EMPTY_MESSAGE": "Er zijn nog geen bezorgpogingen geregistreerd voor deze webhook."
+}

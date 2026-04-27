@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Journaux des webhooks d'agents - FastComments",
+    "COLUMN_STATUS": "Statut",
+    "COLUMN_STATUS_CODE": "HTTP",
+    "COLUMN_DESCRIPTION": "Description",
+    "COLUMN_WHEN": "Quand",
+    "HEADING": "Journaux de webhook d'agent",
+    "COLUMN_EVENT": "Événement",
+    "STATUS_SUCCESS": "Succès",
+    "BACK_LINK": "Retour aux webhooks d'agent",
+    "INTRO_TEXT": "Dernières tentatives de livraison pour ce webhook. Les événements en file d'attente sont en attente de nouvelle tentative.",
+    "QUEUED_LABEL": "En attente :",
+    "STATUS_FAILURE": "Échec",
+    "PAGER_NEXT": "Suivant",
+    "PAGER_PREV": "Précédent",
+    "EVENT_TRIGGER_FAILED": "L'exécution de l'agent a échoué",
+    "EVENT_APPROVAL_REQUESTED": "Approbation demandée",
+    "EVENT_TRIGGER_SUCCEEDED": "L'exécution de l'agent a réussi",
+    "EMPTY_MESSAGE": "Aucune tentative de livraison n'a encore été enregistrée pour ce webhook.",
+    "EVENT_APPROVAL_DECIDED": "Approbation décidée"
+}

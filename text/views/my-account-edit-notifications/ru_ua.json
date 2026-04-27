@@ -39,5 +39,12 @@
     "REPLY_NOTIFICATION_FREQUENCY_LABEL": "Частота уведомлений об ответе",
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "Как часто вы получаете уведомления по электронной почте об ответах на ваши комментарии? Уведомления с упоминанием (@mention) отправляются всегда сразу же.",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Частота уведомлений администратора",
-    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Как часто вы получаете уведомления по электронной почте о новых комментариях на вашем сайте?"
+    "TENANT_NOTIFICATION_FREQUENCY_HELP": "Как часто вы получаете уведомления по электронной почте о новых комментариях на вашем сайте?",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "Немедленно",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Никогда не пишите мне электронные письма.",
+    "AGENT_APPROVAL_FREQUENCY_LABEL": "Частота уведомлений об одобрении",
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "Ежечасный дайджест",
+    "AGENT_APPROVAL_HEADING": "Одобрение агентов ИИ",
+    "AGENT_APPROVAL_FREQUENCY_DAILY": "Ежедневный дайджест",
+    "AGENT_APPROVAL_FREQUENCY_HELP": "Как часто вы получаете уведомления по электронной почте, когда ИИ-агент ставит действие в очередь на ваше рассмотрение?"
 }

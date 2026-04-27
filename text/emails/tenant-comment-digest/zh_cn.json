@@ -25,5 +25,16 @@
     "MARK_AS_SPAM": "标记为垃圾邮件",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> 新喜欢",
     "DELTA_LIKES": "❤️",
-    "TOTAL_LIKES": "全部的"
+    "TOTAL_LIKES": "全部的",
+    "AUTOMATED_MODERATION_HEADING": "自动审核",
+    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "已审核 {count} 条评论",
+    "AUTOMATED_MODERATION_INTRO": "您的 AI 代理在此社区中采取的行动。试运行行显示了代理在实际运行状态下会采取的行动。",
+    "AGENT_ACTION_MARK_COMMENT_APPROVED": "已批准 {count} 条评论",
+    "AGENT_ACTION_MARK_COMMENT_SPAM": "已将 {count} 条评论标记为垃圾邮件",
+    "AGENT_ACTION_LOCK_COMMENT": "已锁定 {count} 条评论",
+    "AGENT_ACTION_UNLOCK_COMMENT": "已解锁 {count} 条评论",
+    "AGENT_ACTION_BAN_USER": "封禁了 {count} 位用户",
+    "AGENT_ACTION_DRY_RUN_BADGE": "演练",
+    "AGENT_ACTION_LIVE_BADGE": "居住",
+    "AGENT_ACTION_WARNED_USER": "已通过私信警告 {count} 位用户"
 }

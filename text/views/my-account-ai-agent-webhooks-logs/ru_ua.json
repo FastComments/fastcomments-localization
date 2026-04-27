@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Журналы веб-перехватчиков агентов - FastComments",
+    "HEADING": "Журналы веб-перехватчика агента",
+    "COLUMN_EVENT": "Событие",
+    "COLUMN_WHEN": "Когда",
+    "BACK_LINK": "Вернуться к веб-хукам агентов",
+    "QUEUED_LABEL": "В очереди:",
+    "COLUMN_STATUS": "Статус",
+    "COLUMN_STATUS_CODE": "HTTP",
+    "COLUMN_DESCRIPTION": "Описание",
+    "STATUS_SUCCESS": "Успех",
+    "INTRO_TEXT": "Последние попытки доставки для этого веб-хука. События в очереди ожидают повторной попытки.",
+    "STATUS_FAILURE": "Отказ",
+    "EVENT_APPROVAL_REQUESTED": "Запрос на одобрение",
+    "EVENT_TRIGGER_FAILED": "Запуск агента завершился неудачей.",
+    "EVENT_TRIGGER_SUCCEEDED": "Запуск агента прошел успешно.",
+    "PAGER_PREV": "Предыдущий",
+    "PAGER_NEXT": "Следующий",
+    "EVENT_APPROVAL_DECIDED": "Решение об одобрении принято.",
+    "EMPTY_MESSAGE": "Пока не зафиксировано ни одной попытки доставки для этого веб-хука."
+}
