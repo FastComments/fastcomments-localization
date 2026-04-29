@@ -382,7 +382,7 @@
         "my-account-ai-agent-templates": 24,
         "my-account-ai-agent-webhooks": 61,
         "my-account-ai-agent-webhooks-logs": 19,
-        "my-account-ai-agents": 416,
+        "my-account-ai-agents": 419,
         "block-confirm": 4,
         "feed-ui": 21,
         "agent-notification": 2,
@@ -9176,7 +9176,10 @@
         "t413": "COMMENT_LOAD_ERROR",
         "t414": "ACTION_APPROVED_BADGE",
         "t415": "ACTION_REJECTED_BADGE",
-        "t416": "ACTION_EXECUTION_FAILED_BADGE"
+        "t416": "ACTION_EXECUTION_FAILED_BADGE",
+        "t417": "AVATAR_LABEL",
+        "t418": "AVATAR_HINT",
+        "t419": "AVATAR_BUTTON_TEXT"
     },
     "block-confirm": {
         "t1": "BLOCK_CONFIRM_MESSAGE",
