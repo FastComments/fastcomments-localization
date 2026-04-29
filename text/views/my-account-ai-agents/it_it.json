@@ -407,5 +407,7 @@
     "TOOL_MARK_COMMENT_SPAM": "Segnala un commento come spam",
     "MAX_TOKENS_LABEL": "Numero massimo di token per trigger",
     "MAX_TOKENS_HINT": "Budget totale dei token per un'esecuzione dell'agente, sommato sull'intero ciclo degli strumenti. Valori più alti consentono all'agente di effettuare più turni di chiamata degli strumenti prima di essere interrotto; le singole risposte LLM sono comunque limitate separatamente. Lasciare vuoto per il valore predefinito ([default]).",
-    "VIEW_DOCS_BUTTON": "Visualizza documenti"
+    "VIEW_DOCS_BUTTON": "Visualizza documenti",
+    "ACTION_EDIT_COMMENT": "Commento modificato",
+    "TOOL_EDIT_COMMENT": "Modifica un commento"
 }

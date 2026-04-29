@@ -407,5 +407,7 @@
     "TOOL_SAVED_MEMORY": "Gem en mindenote",
     "MAX_TOKENS_LABEL": "Maks. antal tokens pr. trigger",
     "MAX_TOKENS_HINT": "Samlet tokenbudget for én agentkørsel, summeret på tværs af hele værktøjsløjfen. Højere værdier giver agenten mulighed for at tage flere værktøjskald, før den afbrydes; individuelle LLM-svar er stadig begrænset separat. Lad feltet stå tomt for standardindstillingen ([default]).",
-    "VIEW_DOCS_BUTTON": "Se dokumenter"
+    "VIEW_DOCS_BUTTON": "Se dokumenter",
+    "TOOL_EDIT_COMMENT": "Rediger en kommentar",
+    "ACTION_EDIT_COMMENT": "Redigerede en kommentar"
 }

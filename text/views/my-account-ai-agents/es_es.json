@@ -407,5 +407,7 @@
     "TOOL_SAVED_MEMORY": "Guarda una nota de recuerdo",
     "MAX_TOKENS_LABEL": "Máximo de tokens por activador",
     "MAX_TOKENS_HINT": "Presupuesto total de tokens para una ejecución del agente, sumado a lo largo de todo el ciclo de la herramienta. Valores más altos permiten que el agente realice más llamadas a la herramienta antes de que se interrumpa; las respuestas individuales de LLM siguen teniendo un límite por separado. Dejar en blanco para el valor predeterminado ([default]).",
-    "VIEW_DOCS_BUTTON": "Ver documentos"
+    "VIEW_DOCS_BUTTON": "Ver documentos",
+    "TOOL_EDIT_COMMENT": "Editar un comentario",
+    "ACTION_EDIT_COMMENT": "Se editó un comentario"
 }

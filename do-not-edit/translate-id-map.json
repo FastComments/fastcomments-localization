@@ -382,7 +382,7 @@
         "my-account-ai-agent-templates": 24,
         "my-account-ai-agent-webhooks": 61,
         "my-account-ai-agent-webhooks-logs": 19,
-        "my-account-ai-agents": 409,
+        "my-account-ai-agents": 411,
         "block-confirm": 4,
         "feed-ui": 21,
         "agent-notification": 2,
@@ -9165,7 +9165,9 @@
         "t406": "TOOL_SAVED_MEMORY",
         "t407": "MAX_TOKENS_LABEL",
         "t408": "MAX_TOKENS_HINT",
-        "t409": "VIEW_DOCS_BUTTON"
+        "t409": "VIEW_DOCS_BUTTON",
+        "t410": "ACTION_EDIT_COMMENT",
+        "t411": "TOOL_EDIT_COMMENT"
     },
     "block-confirm": {
         "t1": "BLOCK_CONFIRM_MESSAGE",
