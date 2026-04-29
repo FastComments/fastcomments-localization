@@ -404,5 +404,7 @@
     "TOOL_WARNED_USER": "Kullanıcıyı özel mesaj yoluyla uyar",
     "TOOL_BAN_USER": "Bir kullanıcıyı yasakla",
     "TOOL_SAVED_MEMORY": "Bir hatıra notu kaydedin.",
-    "DELETE_DIALOG_TITLE": "Aracıyı sil"
+    "DELETE_DIALOG_TITLE": "Aracıyı sil",
+    "MAX_TOKENS_LABEL": "Tetikleyici başına maksimum jeton sayısı",
+    "MAX_TOKENS_HINT": "Bir ajan çalıştırması için toplam token bütçesi, tüm araç döngüsü boyunca toplanır. Daha yüksek değerler, ajanın kesilmeden önce daha fazla araç çağırma sırası almasına olanak tanır; bireysel LLM yanıtları yine de ayrı ayrı sınırlandırılır. Varsayılan değer için boş bırakın ([default])."
 }

@@ -404,5 +404,7 @@
     "BAN_ALLOW_IP_HINT": "Kada se proveri, agent može da izabere da zabrani i IP adresu komentar je postavljen iz. Korisno protiv utaje zabrane alt-naloga. Izbegavajte za deljene IP adrese (korporativne, školske, mobilne operatere) gde nevini korisnici mogu biti blokirani.",
     "TOOL_LOCK_COMMENT": "Zaključaj komentar",
     "TOOL_AWARDED_BADGE": "Dodelite značku",
-    "TOOL_SAVED_MEMORY": "Sačuvajte memorijsku belešku"
+    "TOOL_SAVED_MEMORY": "Sačuvajte memorijsku belešku",
+    "MAX_TOKENS_LABEL": "Maksimalni broj tokena po okidaču",
+    "MAX_TOKENS_HINT": "Ukupan token budžet za jednu vožnju agenta, sumiran preko celog alata-petlje. Veće vrednosti omogućavaju agentu da uzme više alata za pozivanje pre nego što bude odsečen; pojedinačni LLM odgovori su i dalje ograničeni odvojeno. Ostavite prazno za podrazumevano ([default])."
 }

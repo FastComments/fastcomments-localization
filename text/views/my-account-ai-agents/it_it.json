@@ -404,5 +404,7 @@
     "TOOL_BAN_USER": "Bloccare un utente",
     "TOOL_WARNED_USER": "Avvisa un utente tramite messaggio privato",
     "TOOL_SAVED_MEMORY": "Salva una nota di memoria",
-    "TOOL_MARK_COMMENT_SPAM": "Segnala un commento come spam"
+    "TOOL_MARK_COMMENT_SPAM": "Segnala un commento come spam",
+    "MAX_TOKENS_LABEL": "Numero massimo di token per trigger",
+    "MAX_TOKENS_HINT": "Budget totale dei token per un'esecuzione dell'agente, sommato sull'intero ciclo degli strumenti. Valori più alti consentono all'agente di effettuare più turni di chiamata degli strumenti prima di essere interrotto; le singole risposte LLM sono comunque limitate separatamente. Lasciare vuoto per il valore predefinito ([default])."
 }

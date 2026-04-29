@@ -404,5 +404,7 @@
     "TOOL_AWARDED_BADGE": "Tildel et badge",
     "TOOL_SENT_EMAIL": "Send en e-mail",
     "TOOL_MARK_COMMENT_SPAM": "Markér en kommentar som spam",
-    "TOOL_SAVED_MEMORY": "Gem en mindenote"
+    "TOOL_SAVED_MEMORY": "Gem en mindenote",
+    "MAX_TOKENS_LABEL": "Maks. antal tokens pr. trigger",
+    "MAX_TOKENS_HINT": "Samlet tokenbudget for én agentkørsel, summeret på tværs af hele værktøjsløjfen. Højere værdier giver agenten mulighed for at tage flere værktøjskald, før den afbrydes; individuelle LLM-svar er stadig begrænset separat. Lad feltet stå tomt for standardindstillingen ([default])."
 }

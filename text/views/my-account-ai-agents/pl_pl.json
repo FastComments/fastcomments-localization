@@ -404,5 +404,7 @@
     "TOOL_WARNED_USER": "Ostrzeż użytkownika za pomocą wiadomości prywatnej",
     "TOOL_SAVED_MEMORY": "Zapisz notatkę pamięciową",
     "TOOL_SENT_EMAIL": "Wyślij e-mail",
-    "TOOL_BAN_USER": "Zablokuj użytkownika"
+    "TOOL_BAN_USER": "Zablokuj użytkownika",
+    "MAX_TOKENS_LABEL": "Maksymalna liczba tokenów na wyzwalacz",
+    "MAX_TOKENS_HINT": "Całkowity budżet tokenów na jedno uruchomienie agenta, zsumowany w całej pętli narzędzi. Wyższe wartości pozwalają agentowi na wykonanie większej liczby wywołań narzędzi przed przerwaniem; indywidualne odpowiedzi LLM są nadal limitowane osobno. Pozostaw puste dla wartości domyślnej ([default])."
 }

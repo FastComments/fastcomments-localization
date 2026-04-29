@@ -404,5 +404,7 @@
     "TOOL_SAVED_MEMORY": "保存一份纪念笔记",
     "TOOL_WARNED_USER": "通过私信警告用户。",
     "TOOL_BAN_USER": "封禁用户",
-    "CLONE_DIALOG_CONFIRM_BUTTON": "克隆试剂"
+    "CLONE_DIALOG_CONFIRM_BUTTON": "克隆试剂",
+    "MAX_TOKENS_LABEL": "每个触发器的最大令牌数",
+    "MAX_TOKENS_HINT": "单个智能体运行的总代币预算，在整个工具循环中累加。数值越高，智能体在被限制前可以执行更多次工具调用；单个LLM响应的次数仍然单独设置上限。留空则使用默认值（[default]）。"
 }

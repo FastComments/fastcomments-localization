@@ -404,5 +404,7 @@
     "TOOL_SENT_EMAIL": "Stuur een e-mail",
     "TOOL_WARNED_USER": "Een gebruiker via DM waarschuwen",
     "TOOL_SAVED_MEMORY": "Bewaar een herinneringsnotitie",
-    "TOOL_BAN_USER": "Een gebruiker blokkeren"
+    "TOOL_BAN_USER": "Een gebruiker blokkeren",
+    "MAX_TOKENS_LABEL": "Maximaal aantal tokens per trigger",
+    "MAX_TOKENS_HINT": "Totaal tokenbudget voor één agentrun, opgeteld over de hele toolloop. Hogere waarden geven de agent meer beurten om tools aan te roepen voordat de toegang wordt afgesneden; individuele LLM-reacties worden nog steeds afzonderlijk beperkt. Laat dit veld leeg voor de standaardwaarde ([default])."
 }

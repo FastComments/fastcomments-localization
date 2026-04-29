@@ -404,5 +404,7 @@
     "TOOL_AWARDED_BADGE": "Verleihe ein Abzeichen",
     "TOOL_SENT_EMAIL": "Senden Sie eine E-Mail",
     "TOOL_WARNED_USER": "Warne einen Nutzer per Direktnachricht",
-    "TOOL_SAVED_MEMORY": "Erinnerungsnotiz speichern"
+    "TOOL_SAVED_MEMORY": "Erinnerungsnotiz speichern",
+    "MAX_TOKENS_LABEL": "Maximale Anzahl an Token pro Auslöser",
+    "MAX_TOKENS_HINT": "Gesamtes Token-Budget für einen Agentenlauf, summiert über die gesamte Tool-Schleife. Höhere Werte ermöglichen dem Agenten mehr Tool-Aufrufe, bevor er unterbrochen wird; die einzelnen LLM-Antworten sind weiterhin separat begrenzt. Für den Standardwert leer lassen ([default])."
 }

@@ -91,6 +91,8 @@
     "MODEL_HINT": "Pick the model this agent should use.",
     "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
     "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+    "MAX_TOKENS_LABEL": "Max tokens per trigger",
+    "MAX_TOKENS_HINT": "Total token budget for one agent run, summed across the whole tool-loop. Higher values let the agent take more tool-calling turns before being cut off; individual LLM responses are still capped separately. Leave blank for the default ([default]).",
     "BUDGET_HEADING": "Budget",
     "BUDGET_HINT": "Caps how much this agent can spend before it stops dispatching. Shown in your account currency.",
     "DAILY_BUDGET_LABEL": "Daily budget",
