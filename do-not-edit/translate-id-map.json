@@ -117,7 +117,7 @@
         "error": 8,
         "global-distribution": 44,
         "homepage-email-opt-out": 5,
-        "index": 105,
+        "index": 107,
         "layout-v2": 1,
         "login-failure": 6,
         "login-forgot-username": 12,
@@ -386,7 +386,7 @@
         "block-confirm": 4,
         "feed-ui": 21,
         "agent-notification": 2,
-        "ai-agents": 195
+        "ai-agents": 196
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -2625,7 +2625,9 @@
         "t102": "SNIPPET_VIEW_LIBRARY_REACT",
         "t103": "SNIPPET_VIEW_LIBRARY_VUE",
         "t104": "SNIPPET_VIEW_LIBRARY_ANGULAR",
-        "t105": "SNIPPET_VIEW_LIBRARY_SOLIDJS"
+        "t105": "SNIPPET_VIEW_LIBRARY_SOLIDJS",
+        "t106": "FEATURE_AI_AGENTS",
+        "t107": "FEATURE_AI_AGENTS_DESC"
     },
     "layout-v2": {
         "t1": "PAGE_TITLE_DEFAULT"
@@ -9393,6 +9395,7 @@
         "t192": "FAQ_A_PROMPT",
         "t193": "FINAL_CTA_HEADING_LIGHT",
         "t194": "FINAL_CTA_HEADING_BOLD",
-        "t195": "FINAL_CTA_SUB"
+        "t195": "FINAL_CTA_SUB",
+        "t196": "HERO_BUTTON_DOCS"
     }
 }
