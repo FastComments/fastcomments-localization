@@ -411,5 +411,8 @@
     "TOOL_EDIT_COMMENT": "编辑评论",
     "ACTION_EDIT_COMMENT": "编辑了一条评论",
     "COMMENT_LOADING": "正在加载评论……",
-    "COMMENT_LOAD_ERROR": "无法加载此评论。它可能已被删除。"
+    "COMMENT_LOAD_ERROR": "无法加载此评论。它可能已被删除。",
+    "ACTION_APPROVED_BADGE": "得到正式认可的",
+    "ACTION_REJECTED_BADGE": "已拒绝",
+    "ACTION_EXECUTION_FAILED_BADGE": "执行失败"
 }

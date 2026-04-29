@@ -411,5 +411,8 @@
     "ACTION_EDIT_COMMENT": "編輯了一則評論",
     "TOOL_EDIT_COMMENT": "編輯評論",
     "COMMENT_LOADING": "正在加載評論…",
-    "COMMENT_LOAD_ERROR": "無法加載此評論。它可能已被刪除。"
+    "COMMENT_LOAD_ERROR": "無法加載此評論。它可能已被刪除。",
+    "ACTION_APPROVED_BADGE": "得到正式認可的",
+    "ACTION_REJECTED_BADGE": "已拒絕",
+    "ACTION_EXECUTION_FAILED_BADGE": "執行失敗"
 }

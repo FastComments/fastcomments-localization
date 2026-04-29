@@ -411,5 +411,8 @@
     "ACTION_EDIT_COMMENT": "コメントを編集しました",
     "TOOL_EDIT_COMMENT": "コメントを編集する",
     "COMMENT_LOADING": "コメントを読み込んでいます...",
-    "COMMENT_LOAD_ERROR": "このコメントを読み込めませんでした。削除された可能性があります。"
+    "COMMENT_LOAD_ERROR": "このコメントを読み込めませんでした。削除された可能性があります。",
+    "ACTION_APPROVED_BADGE": "承認された",
+    "ACTION_REJECTED_BADGE": "拒否されました",
+    "ACTION_EXECUTION_FAILED_BADGE": "実行に失敗しました"
 }

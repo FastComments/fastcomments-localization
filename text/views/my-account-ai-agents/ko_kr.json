@@ -411,5 +411,8 @@
     "ACTION_EDIT_COMMENT": "댓글을 수정했습니다",
     "TOOL_EDIT_COMMENT": "댓글 수정하기",
     "COMMENT_LOADING": "댓글 불러오는 중...",
-    "COMMENT_LOAD_ERROR": "이 댓글을 불러올 수 없습니다. 삭제되었을 수 있습니다."
+    "COMMENT_LOAD_ERROR": "이 댓글을 불러올 수 없습니다. 삭제되었을 수 있습니다.",
+    "ACTION_APPROVED_BADGE": "승인됨",
+    "ACTION_REJECTED_BADGE": "거절됨",
+    "ACTION_EXECUTION_FAILED_BADGE": "실행 실패"
 }
