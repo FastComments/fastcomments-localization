@@ -409,5 +409,7 @@
     "MAX_TOKENS_HINT": "Presupuesto total de tokens para una ejecución del agente, sumado a lo largo de todo el ciclo de la herramienta. Valores más altos permiten que el agente realice más llamadas a la herramienta antes de que se interrumpa; las respuestas individuales de LLM siguen teniendo un límite por separado. Dejar en blanco para el valor predeterminado ([default]).",
     "VIEW_DOCS_BUTTON": "Ver documentos",
     "TOOL_EDIT_COMMENT": "Editar un comentario",
-    "ACTION_EDIT_COMMENT": "Se editó un comentario"
+    "ACTION_EDIT_COMMENT": "Se editó un comentario",
+    "COMMENT_LOADING": "Cargando comentario...",
+    "COMMENT_LOAD_ERROR": "No se pudo cargar este comentario. Es posible que haya sido eliminado."
 }

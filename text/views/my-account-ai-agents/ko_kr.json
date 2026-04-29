@@ -409,5 +409,7 @@
     "MAX_TOKENS_HINT": "에이전트 실행당 총 토큰 예산은 전체 툴 루프에 걸쳐 합산됩니다. 값이 높을수록 에이전트가 차단되기 전에 더 많은 툴 호출 턴을 수행할 수 있습니다. 개별 LLM 응답은 별도로 제한됩니다. 기본값([default])을 사용하려면 비워 두십시오.",
     "VIEW_DOCS_BUTTON": "문서 보기",
     "ACTION_EDIT_COMMENT": "댓글을 수정했습니다",
-    "TOOL_EDIT_COMMENT": "댓글 수정하기"
+    "TOOL_EDIT_COMMENT": "댓글 수정하기",
+    "COMMENT_LOADING": "댓글 불러오는 중...",
+    "COMMENT_LOAD_ERROR": "이 댓글을 불러올 수 없습니다. 삭제되었을 수 있습니다."
 }

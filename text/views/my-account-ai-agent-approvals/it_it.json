@@ -59,5 +59,8 @@
     "ACTION_MARK_COMMENT_APPROVED": "Approva un commento",
     "ACTION_BAN_USER": "Bloccare un utente",
     "ACTION_WARNED_USER": "Avvisa un utente tramite messaggio privato",
-    "ACTION_SAVED_MEMORY": "Salva una nota di memoria"
+    "ACTION_SAVED_MEMORY": "Salva una nota di memoria",
+    "TARGET_COMMENT_HEADING": "Commento di Target",
+    "COMMENT_LOADING": "Caricamento del commento in corso...",
+    "COMMENT_LOAD_ERROR": "Impossibile caricare questo commento. Potrebbe essere stato eliminato."
 }

@@ -409,5 +409,7 @@
     "MAX_TOKENS_HINT": "Budget totale dei token per un'esecuzione dell'agente, sommato sull'intero ciclo degli strumenti. Valori più alti consentono all'agente di effettuare più turni di chiamata degli strumenti prima di essere interrotto; le singole risposte LLM sono comunque limitate separatamente. Lasciare vuoto per il valore predefinito ([default]).",
     "VIEW_DOCS_BUTTON": "Visualizza documenti",
     "ACTION_EDIT_COMMENT": "Commento modificato",
-    "TOOL_EDIT_COMMENT": "Modifica un commento"
+    "TOOL_EDIT_COMMENT": "Modifica un commento",
+    "COMMENT_LOADING": "Caricamento del commento in corso...",
+    "COMMENT_LOAD_ERROR": "Impossibile caricare questo commento. Potrebbe essere stato eliminato."
 }

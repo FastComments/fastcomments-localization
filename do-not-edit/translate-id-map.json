@@ -26,7 +26,7 @@
         "top-pages": 3,
         "recent-discussions": 3,
         "user-help-acknowledged": 6,
-        "common": 36,
+        "common": 37,
         "tenant-user-removed-from-tenant": 5,
         "tenant-user-invite": 6,
         "tenant-new-user-invite": 6,
@@ -377,12 +377,12 @@
         "ai-agent-budget-alert": 14,
         "tenant-agent-approval-digest": 9,
         "tenant-agent-approval-request": 9,
-        "my-account-ai-agent-approvals": 61,
+        "my-account-ai-agent-approvals": 64,
         "my-account-ai-agent-prompt-refine": 37,
         "my-account-ai-agent-templates": 24,
         "my-account-ai-agent-webhooks": 61,
         "my-account-ai-agent-webhooks-logs": 19,
-        "my-account-ai-agents": 411,
+        "my-account-ai-agents": 413,
         "block-confirm": 4,
         "feed-ui": 21,
         "agent-notification": 2,
@@ -838,7 +838,8 @@
         "t33": "SIGNUP_CHECK_EMAIL",
         "t34": "SIGNUP_VERIFICATION_SENT",
         "t35": "ERROR_404_MESSAGE",
-        "t36": "ERROR_404_GO_HOME"
+        "t36": "ERROR_404_GO_HOME",
+        "t37": "BOT_LABEL"
     },
     "tenant-user-removed-from-tenant": {
         "t1": "INTRO",
@@ -8605,7 +8606,10 @@
         "t58": "ACTION_BAN_USER",
         "t59": "ACTION_SENT_EMAIL",
         "t60": "ACTION_WARNED_USER",
-        "t61": "ACTION_SAVED_MEMORY"
+        "t61": "ACTION_SAVED_MEMORY",
+        "t62": "TARGET_COMMENT_HEADING",
+        "t63": "COMMENT_LOADING",
+        "t64": "COMMENT_LOAD_ERROR"
     },
     "my-account-ai-agent-prompt-refine": {
         "t1": "PAGE_TITLE",
@@ -9167,7 +9171,9 @@
         "t408": "MAX_TOKENS_HINT",
         "t409": "VIEW_DOCS_BUTTON",
         "t410": "ACTION_EDIT_COMMENT",
-        "t411": "TOOL_EDIT_COMMENT"
+        "t411": "TOOL_EDIT_COMMENT",
+        "t412": "COMMENT_LOADING",
+        "t413": "COMMENT_LOAD_ERROR"
     },
     "block-confirm": {
         "t1": "BLOCK_CONFIRM_MESSAGE",

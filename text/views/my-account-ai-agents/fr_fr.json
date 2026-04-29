@@ -409,5 +409,7 @@
     "MAX_TOKENS_HINT": "Budget total de jetons pour une exécution d'agent, cumulé sur l'ensemble de la boucle d'outils. Des valeurs plus élevées permettent à l'agent d'effectuer davantage d'appels d'outils avant d'être interrompu ; les réponses LLM individuelles restent plafonnées séparément. Laisser vide pour la valeur par défaut ([default]).",
     "VIEW_DOCS_BUTTON": "Consulter les documents",
     "ACTION_EDIT_COMMENT": "J'ai modifié un commentaire",
-    "TOOL_EDIT_COMMENT": "Modifier un commentaire"
+    "TOOL_EDIT_COMMENT": "Modifier un commentaire",
+    "COMMENT_LOADING": "Chargement du commentaire...",
+    "COMMENT_LOAD_ERROR": "Impossible de charger ce commentaire. Il a peut-être été supprimé."
 }

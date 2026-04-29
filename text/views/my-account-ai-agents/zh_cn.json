@@ -409,5 +409,7 @@
     "MAX_TOKENS_HINT": "单个智能体运行的总代币预算，在整个工具循环中累加。数值越高，智能体在被限制前可以执行更多次工具调用；单个LLM响应的次数仍然单独设置上限。留空则使用默认值（[default]）。",
     "VIEW_DOCS_BUTTON": "查看文档",
     "TOOL_EDIT_COMMENT": "编辑评论",
-    "ACTION_EDIT_COMMENT": "编辑了一条评论"
+    "ACTION_EDIT_COMMENT": "编辑了一条评论",
+    "COMMENT_LOADING": "正在加载评论……",
+    "COMMENT_LOAD_ERROR": "无法加载此评论。它可能已被删除。"
 }

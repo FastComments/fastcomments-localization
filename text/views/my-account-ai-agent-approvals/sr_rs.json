@@ -59,5 +59,8 @@
     "ACTION_SENT_EMAIL": "Пошаљи имејл",
     "ACTION_MARK_COMMENT_SPAM": "Означи коментар као спам",
     "ACTION_WARNED_USER": "Упозорите корисника путем директне поруке",
-    "ACTION_SAVED_MEMORY": "Сачувајте белешку за памћење"
+    "ACTION_SAVED_MEMORY": "Сачувајте белешку за памћење",
+    "TARGET_COMMENT_HEADING": "Циљани коментар",
+    "COMMENT_LOADING": "Учитавање коментара...",
+    "COMMENT_LOAD_ERROR": "Није могуће учитати овај коментар. Можда је обрисан."
 }

@@ -59,5 +59,8 @@
     "ACTION_SENT_EMAIL": "发送电子邮件",
     "ACTION_LOCK_COMMENT": "锁定评论",
     "ACTION_WARNED_USER": "通过私信警告用户。",
-    "ACTION_SAVED_MEMORY": "保存一份纪念笔记"
+    "ACTION_SAVED_MEMORY": "保存一份纪念笔记",
+    "COMMENT_LOADING": "正在加载评论……",
+    "TARGET_COMMENT_HEADING": "目标评论",
+    "COMMENT_LOAD_ERROR": "无法加载此评论。它可能已被删除。"
 }

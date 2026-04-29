@@ -59,5 +59,8 @@
     "ACTION_SENT_EMAIL": "Enviar un correo electrónico",
     "ACTION_WARNED_USER": "Advertir a un usuario por mensaje directo",
     "ACTION_MARK_COMMENT_APPROVED": "Aprobar un comentario",
-    "ACTION_SAVED_MEMORY": "Guarda una nota de recuerdo"
+    "ACTION_SAVED_MEMORY": "Guarda una nota de recuerdo",
+    "COMMENT_LOADING": "Cargando comentario...",
+    "TARGET_COMMENT_HEADING": "Comentario objetivo",
+    "COMMENT_LOAD_ERROR": "No se pudo cargar este comentario. Es posible que haya sido eliminado."
 }

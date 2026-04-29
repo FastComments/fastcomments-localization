@@ -59,5 +59,8 @@
     "ACTION_WARNED_USER": "Kullanıcıyı özel mesaj yoluyla uyar",
     "ACTION_MARK_COMMENT_SPAM": "Bir yorumu spam olarak işaretle",
     "ACTION_SENT_EMAIL": "E-posta gönder",
-    "ACTION_SAVED_MEMORY": "Bir hatıra notu kaydedin."
+    "ACTION_SAVED_MEMORY": "Bir hatıra notu kaydedin.",
+    "COMMENT_LOADING": "Yorum yükleniyor...",
+    "TARGET_COMMENT_HEADING": "Hedef yorum",
+    "COMMENT_LOAD_ERROR": "Bu yorum yüklenemedi. Silinmiş olabilir."
 }

@@ -409,5 +409,7 @@
     "MAX_TOKENS_HINT": "Bir ajan çalıştırması için toplam token bütçesi, tüm araç döngüsü boyunca toplanır. Daha yüksek değerler, ajanın kesilmeden önce daha fazla araç çağırma sırası almasına olanak tanır; bireysel LLM yanıtları yine de ayrı ayrı sınırlandırılır. Varsayılan değer için boş bırakın ([default]).",
     "VIEW_DOCS_BUTTON": "Belgeleri Görüntüle",
     "TOOL_EDIT_COMMENT": "Bir yorumu düzenle",
-    "ACTION_EDIT_COMMENT": "Bir yorumu düzenledim."
+    "ACTION_EDIT_COMMENT": "Bir yorumu düzenledim.",
+    "COMMENT_LOADING": "Yorum yükleniyor...",
+    "COMMENT_LOAD_ERROR": "Bu yorum yüklenemedi. Silinmiş olabilir."
 }

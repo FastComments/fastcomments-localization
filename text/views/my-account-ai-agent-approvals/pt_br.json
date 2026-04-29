@@ -59,5 +59,8 @@
     "ACTION_MARK_COMMENT_APPROVED": "Aprovar um comentário",
     "ACTION_BAN_USER": "Banir um usuário",
     "ACTION_SAVED_MEMORY": "Guarde uma nota de memória",
-    "ACTION_WARNED_USER": "Avisar um usuário por mensagem direta"
+    "ACTION_WARNED_USER": "Avisar um usuário por mensagem direta",
+    "COMMENT_LOADING": "Carregando comentário...",
+    "TARGET_COMMENT_HEADING": "Comentário do alvo",
+    "COMMENT_LOAD_ERROR": "Não foi possível carregar este comentário. Ele pode ter sido excluído."
 }

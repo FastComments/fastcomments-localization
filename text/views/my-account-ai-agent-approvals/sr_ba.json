@@ -59,5 +59,8 @@
     "ACTION_MARK_COMMENT_REVIEWED": "Означи коментар као прегледан",
     "ACTION_BAN_USER": "Забрана приступа кориснику",
     "ACTION_SAVED_MEMORY": "Сачувајте белешку за памћење",
-    "ACTION_WARNED_USER": "Упозорите корисника путем директне поруке"
+    "ACTION_WARNED_USER": "Упозорите корисника путем директне поруке",
+    "COMMENT_LOADING": "Учитавање коментара...",
+    "TARGET_COMMENT_HEADING": "Циљани коментар",
+    "COMMENT_LOAD_ERROR": "Није могуће учитати овај коментар. Можда је обрисан."
 }

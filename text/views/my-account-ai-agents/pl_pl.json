@@ -409,5 +409,7 @@
     "MAX_TOKENS_HINT": "Całkowity budżet tokenów na jedno uruchomienie agenta, zsumowany w całej pętli narzędzi. Wyższe wartości pozwalają agentowi na wykonanie większej liczby wywołań narzędzi przed przerwaniem; indywidualne odpowiedzi LLM są nadal limitowane osobno. Pozostaw puste dla wartości domyślnej ([default]).",
     "VIEW_DOCS_BUTTON": "Wyświetl dokumenty",
     "ACTION_EDIT_COMMENT": "Edytowano komentarz",
-    "TOOL_EDIT_COMMENT": "Edytuj komentarz"
+    "TOOL_EDIT_COMMENT": "Edytuj komentarz",
+    "COMMENT_LOADING": "Ładowanie komentarza...",
+    "COMMENT_LOAD_ERROR": "Nie udało się załadować tego komentarza. Mógł zostać usunięty."
 }

@@ -409,5 +409,7 @@
     "MAX_TOKENS_HINT": "Skupni proračun žetonov za en zagon agenta, seštet za celotno zanko orodja. Višje vrednosti omogočajo agentu, da izvede več klicev orodja, preden je prekinjen; posamezni odzivi LLM so še vedno omejeni ločeno. Za privzeto vrednost ([default]) pustite prazno.",
     "VIEW_DOCS_BUTTON": "Ogled dokumentov",
     "TOOL_EDIT_COMMENT": "Uredi komentar",
-    "ACTION_EDIT_COMMENT": "Urejal komentar"
+    "ACTION_EDIT_COMMENT": "Urejal komentar",
+    "COMMENT_LOADING": "Nalaganje komentarja ...",
+    "COMMENT_LOAD_ERROR": "Tega komentarja ni bilo mogoče naložiti. Morda je bil izbrisan."
 }

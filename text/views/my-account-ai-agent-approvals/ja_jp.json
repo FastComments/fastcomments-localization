@@ -59,5 +59,8 @@
     "ACTION_SENT_EMAIL": "メールを送信する",
     "ACTION_BAN_USER": "ユーザーを追放する",
     "ACTION_WARNED_USER": "DMでユーザーに警告する",
-    "ACTION_SAVED_MEMORY": "記憶のメモを保存する"
+    "ACTION_SAVED_MEMORY": "記憶のメモを保存する",
+    "TARGET_COMMENT_HEADING": "対象コメント",
+    "COMMENT_LOADING": "コメントを読み込んでいます...",
+    "COMMENT_LOAD_ERROR": "このコメントを読み込めませんでした。削除された可能性があります。"
 }

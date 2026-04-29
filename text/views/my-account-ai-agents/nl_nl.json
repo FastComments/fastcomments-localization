@@ -409,5 +409,7 @@
     "MAX_TOKENS_HINT": "Totaal tokenbudget voor één agentrun, opgeteld over de hele toolloop. Hogere waarden geven de agent meer beurten om tools aan te roepen voordat de toegang wordt afgesneden; individuele LLM-reacties worden nog steeds afzonderlijk beperkt. Laat dit veld leeg voor de standaardwaarde ([default]).",
     "VIEW_DOCS_BUTTON": "Documenten bekijken",
     "ACTION_EDIT_COMMENT": "Een reactie bewerkt",
-    "TOOL_EDIT_COMMENT": "Een reactie bewerken"
+    "TOOL_EDIT_COMMENT": "Een reactie bewerken",
+    "COMMENT_LOADING": "Reactie laden...",
+    "COMMENT_LOAD_ERROR": "Deze reactie kon niet worden geladen. Mogelijk is deze verwijderd."
 }
