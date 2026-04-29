@@ -36,5 +36,8 @@
     "DEMO_OPTION_VIEW_DOCUMENTATION": "Pogledaj dokumentaciju",
     "DEMO_OPTION_TOS_TITLE": "Uslovi korišćenja usluge",
     "DEMO_OPTION_TOS_DESC": "Zahtevajte prihvatanje TOS-a pre komentarisanja.",
-    "DEMO_OPTION_TOS_ABOUT": "Ovaj demo prikazuje polje za potvrdu Uslovi korišćenja usluge koje se može zahtevati za prvi put komentatore. Kada je omogućeno, anonimni korisnici vide polje za potvrdu na svakom komentaru, dok ga autentifikovani korisnici vide samo na svom prvom komentaru ili kada ažurirate svoj TOS. <br><br>Možete da prilagodite tekst polja za potvrdu po jeziku i podesite datum \"Poslednje ažuriranje\" da biste primorali korisnike da ponovo prihvate kada se vaši uslovi promene."
+    "DEMO_OPTION_TOS_ABOUT": "Ovaj demo prikazuje polje za potvrdu Uslovi korišćenja usluge koje se može zahtevati za prvi put komentatore. Kada je omogućeno, anonimni korisnici vide polje za potvrdu na svakom komentaru, dok ga autentifikovani korisnici vide samo na svom prvom komentaru ili kada ažurirate svoj TOS. <br><br>Možete da prilagodite tekst polja za potvrdu po jeziku i podesite datum \"Poslednje ažuriranje\" da biste primorali korisnike da ponovo prihvate kada se vaši uslovi promene.",
+    "DEMO_OPTION_AI_AGENTS_TITLE": "Tema Summarizer",
+    "DEMO_OPTION_AI_AGENTS_DESC": "Sumiranje teme pomoću <a href = \"https://docs.fastcomments.com/guide-ai-agents.html\" target = \"_blank\" >AI Agents</a>, zajedno sa nekim drugim funkcijama AI Agent-a kao što su e-poruke dobrodošlice.",
+    "DEMO_OPTION_AI_AGENTS_ABOUT": "Ovo je demo naše funkcije AI Agents. Agent je konfigurisan da periodično sumira komentare i ostavi komentar i zakači ga. Pored toga, drugi agent je konfigurisan da vam pošalje e-poštu dobrodošlice kada prvi put komentarišete ovde (ako još niste komentarisali nijednu od naših drugih demonstracija). AI agent je takođe konfigurisan da uradi opšte umerenost."
 }

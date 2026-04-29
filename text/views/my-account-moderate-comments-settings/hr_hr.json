@@ -19,7 +19,7 @@
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Naivni Bayesov sindrom (izoliran)",
     "SPAM_FILTER_LLM": "LLM",
     "SPAM_FILTER_DESCRIPTION_BAYES": "S Naïve Bayesom možete koristiti filter neželjene pošte koji koriste svi ostali ili izolirati obuku filtera neželjene pošte samo za svog zakupnika. Oboje kontinuirano uče.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Odaberite LLM opciju za otkrivanje neželjene pošte pokretano umjetnom inteligencijom (naplaćuje se <%= tenantPackage.flexLLMCostCents / 100 %> USD po 1000 tokena). LLM-u se šalje samo neočigledna neželjena pošta radi smanjenja troškova.",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Odaberite LLM opciju za otkrivanje neželjene pošte pokretano umjetnom inteligencijom (naplaćuje se <%= (tenantPackage.flexLLMCostCents * 10000 / tenantPackage.flexLLMUnit).toFixed(2) %> USD po milijunu tokena). LLM-u se šalje samo neočigledna neželjena pošta radi smanjenja troškova.",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Detekcija neželjene pošte temeljena na LLM-u dostupna je za Flex (dostupni su prilagođeni paketi).",
     "COMMENT_APPROVAL_HEADING": "Odobrenje komentara",
     "AUTO_APPROVE_COMMENTS_LABEL": "Automatski odobri komentare",
@@ -56,5 +56,6 @@
     "LLM_CONTEXT_LABEL": "Dodatni LLM kontekst (nije obavezno)",
     "LLM_CONTEXT_DESCRIPTION": "Navedite dodatni kontekst kako biste pomogli LLM-u da donosi bolje odluke o otkrivanju neželjene pošte na vašoj web-lokaciji.",
     "LLM_CONTEXT_PLACEHOLDER": "Npr., 'Mi smo forum za igre, reference na nasilje obično su rasprave unutar igre'",
-    "LLM_CONTEXT_CHAR_COUNT": "/1000 znakova"
+    "LLM_CONTEXT_CHAR_COUNT": "/1000 znakova",
+    "TRY_AI_AGENTS_MESSAGE": "Pokušajte koristiti <a href=\"/auth/my-account/ai-agents\">AI agente</a> za moderiranje, što može pružiti bolje iskustvo."
 }

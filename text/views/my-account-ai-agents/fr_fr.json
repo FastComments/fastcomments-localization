@@ -406,5 +406,6 @@
     "TOOL_SAVED_MEMORY": "Enregistrer une note souvenir",
     "TOOL_WRITE_COMMENT": "Écrire un commentaire",
     "MAX_TOKENS_LABEL": "Nombre maximal de jetons par déclencheur",
-    "MAX_TOKENS_HINT": "Budget total de jetons pour une exécution d'agent, cumulé sur l'ensemble de la boucle d'outils. Des valeurs plus élevées permettent à l'agent d'effectuer davantage d'appels d'outils avant d'être interrompu ; les réponses LLM individuelles restent plafonnées séparément. Laisser vide pour la valeur par défaut ([default])."
+    "MAX_TOKENS_HINT": "Budget total de jetons pour une exécution d'agent, cumulé sur l'ensemble de la boucle d'outils. Des valeurs plus élevées permettent à l'agent d'effectuer davantage d'appels d'outils avant d'être interrompu ; les réponses LLM individuelles restent plafonnées séparément. Laisser vide pour la valeur par défaut ([default]).",
+    "VIEW_DOCS_BUTTON": "Consulter les documents"
 }

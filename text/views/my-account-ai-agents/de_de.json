@@ -406,5 +406,6 @@
     "TOOL_WARNED_USER": "Warne einen Nutzer per Direktnachricht",
     "TOOL_SAVED_MEMORY": "Erinnerungsnotiz speichern",
     "MAX_TOKENS_LABEL": "Maximale Anzahl an Token pro Auslöser",
-    "MAX_TOKENS_HINT": "Gesamtes Token-Budget für einen Agentenlauf, summiert über die gesamte Tool-Schleife. Höhere Werte ermöglichen dem Agenten mehr Tool-Aufrufe, bevor er unterbrochen wird; die einzelnen LLM-Antworten sind weiterhin separat begrenzt. Für den Standardwert leer lassen ([default])."
+    "MAX_TOKENS_HINT": "Gesamtes Token-Budget für einen Agentenlauf, summiert über die gesamte Tool-Schleife. Höhere Werte ermöglichen dem Agenten mehr Tool-Aufrufe, bevor er unterbrochen wird; die einzelnen LLM-Antworten sind weiterhin separat begrenzt. Für den Standardwert leer lassen ([default]).",
+    "VIEW_DOCS_BUTTON": "Dokumente ansehen"
 }

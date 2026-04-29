@@ -406,5 +406,6 @@
     "TOOL_AWARDED_BADGE": "Dodijelite značku",
     "TOOL_WARNED_USER": "Upozori korisnika putem izravne poruke",
     "MAX_TOKENS_LABEL": "Maksimalan broj tokena po okidaču",
-    "MAX_TOKENS_HINT": "Ukupni proračun tokena za jedno pokretanje agenta, zbrajan za cijelu petlju alata. Veće vrijednosti omogućuju agentu da više puta poziva alate prije nego što bude prekinut; pojedinačni LLM odgovori i dalje su zasebno ograničeni. Ostavite prazno za zadanu vrijednost ([default])."
+    "MAX_TOKENS_HINT": "Ukupni proračun tokena za jedno pokretanje agenta, zbrajan za cijelu petlju alata. Veće vrijednosti omogućuju agentu da više puta poziva alate prije nego što bude prekinut; pojedinačni LLM odgovori i dalje su zasebno ograničeni. Ostavite prazno za zadanu vrijednost ([default]).",
+    "VIEW_DOCS_BUTTON": "Prikaži dokumente"
 }

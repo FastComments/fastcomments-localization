@@ -406,5 +406,6 @@
     "TOOL_AWARDED_BADGE": "Dodelite značku",
     "TOOL_SAVED_MEMORY": "Sačuvajte memorijsku belešku",
     "MAX_TOKENS_LABEL": "Maksimalni broj tokena po okidaču",
-    "MAX_TOKENS_HINT": "Ukupan token budžet za jednu vožnju agenta, sumiran preko celog alata-petlje. Veće vrednosti omogućavaju agentu da uzme više alata za pozivanje pre nego što bude odsečen; pojedinačni LLM odgovori su i dalje ograničeni odvojeno. Ostavite prazno za podrazumevano ([default])."
+    "MAX_TOKENS_HINT": "Ukupan token budžet za jednu vožnju agenta, sumiran preko celog alata-petlje. Veće vrednosti omogućavaju agentu da uzme više alata za pozivanje pre nego što bude odsečen; pojedinačni LLM odgovori su i dalje ograničeni odvojeno. Ostavite prazno za podrazumevano ([default]).",
+    "VIEW_DOCS_BUTTON": "Pogledaj dokumente"
 }

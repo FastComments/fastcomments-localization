@@ -19,7 +19,7 @@
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Naive Bayes (Isoliert)",
     "SPAM_FILTER_LLM": "LLM",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Mit Naive Bayes können Sie entweder den von allen anderen verwendeten Spamfilter nutzen oder das Training Ihres Spamfilters auf Ihren einzelnen Mandanten beschränken. Beide Ansätze lernen kontinuierlich dazu.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Wählen Sie eine LLM-Option für die KI-gestützte Spam-Erkennung (Abrechnung: $<%= tenantPackage.flexLLMCostCents / 100 %> pro 1.000 Token). Um die Kosten zu senken, werden nur nicht offensichtliche Spam-Mails an das LLM gesendet.",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Wählen Sie eine LLM-Option für die KI-gestützte Spam-Erkennung (Abrechnung: $<%= (tenantPackage.flexLLMCostCents * 10000 / tenantPackage.flexLLMUnit).toFixed(2) %> pro 1 Million Token). Um Kosten zu sparen, werden nur nicht offensichtliche Spam-Mails an das LLM gesendet.",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Für Flex ist eine LLM-basierte Spam-Erkennung verfügbar (individuelle Pakete sind erhältlich).",
     "COMMENT_APPROVAL_HEADING": "Kommentarfreigabe",
     "AUTO_APPROVE_COMMENTS_LABEL": "Kommentare automatisch genehmigen",
@@ -56,5 +56,6 @@
     "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo",
     "LLM_CONTEXT_PLACEHOLDER": "Beispiel: „Wir sind ein Spieleforum, Gewaltdarstellungen beziehen sich üblicherweise auf Diskussionen innerhalb des Spiels.“",
     "LLM_CONTEXT_DESCRIPTION": "Stellen Sie zusätzliche Kontextinformationen bereit, damit das LLM bessere Entscheidungen zur Spam-Erkennung Ihrer Website treffen kann.",
-    "LLM_CONTEXT_CHAR_COUNT": "/1000 Zeichen"
+    "LLM_CONTEXT_CHAR_COUNT": "/1000 Zeichen",
+    "TRY_AI_AGENTS_MESSAGE": "Versuchen Sie, <a href=\"/auth/my-account/ai-agents\">KI-Agenten</a> für die Moderation einzusetzen, das kann ein besseres Nutzererlebnis bieten."
 }

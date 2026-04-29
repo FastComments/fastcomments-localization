@@ -36,5 +36,8 @@
     "DEMO_OPTION_VIEW_DOCUMENTATION": "Se dokumentation",
     "DEMO_OPTION_TOS_TITLE": "Servicevilkår",
     "DEMO_OPTION_TOS_DESC": "Kræv accept af servicevilkår før kommentar.",
-    "DEMO_OPTION_TOS_ABOUT": "Denne demo viser afkrydsningsfeltet Servicevilkår, som kan være obligatorisk for førstegangskommentarskrivere. Når det er aktiveret, ser anonyme brugere afkrydsningsfeltet på hver kommentar, mens godkendte brugere kun ser det på deres første kommentar, eller når du opdaterer dine servicevilkår.<br><br> Du kan tilpasse afkrydsningsfeltteksten efter lokalitet og indstille en &quot;Sidst opdateret&quot;-dato for at tvinge brugerne til at acceptere igen, når dine vilkår ændres."
+    "DEMO_OPTION_TOS_ABOUT": "Denne demo viser afkrydsningsfeltet Servicevilkår, som kan være obligatorisk for førstegangskommentarskrivere. Når det er aktiveret, ser anonyme brugere afkrydsningsfeltet på hver kommentar, mens godkendte brugere kun ser det på deres første kommentar, eller når du opdaterer dine servicevilkår.<br><br> Du kan tilpasse afkrydsningsfeltteksten efter lokalitet og indstille en &quot;Sidst opdateret&quot;-dato for at tvinge brugerne til at acceptere igen, når dine vilkår ændres.",
+    "DEMO_OPTION_AI_AGENTS_TITLE": "Trådopsummerer",
+    "DEMO_OPTION_AI_AGENTS_ABOUT": "Dette er en demo af vores AI-agentfunktion. En agent er konfigureret til periodisk at opsummere kommentarerne og efterlade en kommentar og fastgøre den. Derudover er en anden agent konfigureret til at sende dig en velkomstmail første gang du kommenterer her (hvis du ikke har kommenteret på nogen af vores andre demoer endnu). En AI-agent er også konfigureret til at udføre generel moderation.",
+    "DEMO_OPTION_AI_AGENTS_DESC": "Trådopsummering ved hjælp af <a href=\"https://docs.fastcomments.com/guide-ai-agents.html\" target=\"_blank\">AI-agenter</a> , sammen med nogle andre AI-agentfunktioner som f.eks. velkomstmails."
 }

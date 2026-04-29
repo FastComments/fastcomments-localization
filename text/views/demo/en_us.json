@@ -36,5 +36,8 @@
     "DEMO_OPTION_TOS_TITLE": "Terms of Service",
     "DEMO_OPTION_TOS_DESC": "Require TOS acceptance before commenting.",
     "DEMO_OPTION_TOS_ABOUT": "This demo shows the Terms of Service checkbox that can be required for first-time commenters. When enabled, anonymous users see the checkbox on every comment, while authenticated users only see it on their first comment or when you update your TOS.<br><br>You can customize the checkbox text per locale and set a \"Last Updated\" date to force users to re-accept when your terms change.",
+    "DEMO_OPTION_AI_AGENTS_TITLE": "Thread Summarizer",
+    "DEMO_OPTION_AI_AGENTS_DESC": "Thread summarization using <a href=\"https://docs.fastcomments.com/guide-ai-agents.html\" target=\"_blank\">AI Agents</a>, along with some other AI Agent features like welcome emails.",
+    "DEMO_OPTION_AI_AGENTS_ABOUT": "This is a demo of our AI Agents feature. An agent is configured to periodically summarize the comments and leave a comment and pin it. Additionally, another agent is configured to send you a welcome email the first time you comment here (if you haven't commented on any of our other demos yet). An AI agent is also configured to do general moderation.",
     "DEMO_OPTION_VIEW_DOCUMENTATION": "View Documentation"
 }

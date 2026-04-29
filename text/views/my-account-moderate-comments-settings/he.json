@@ -19,7 +19,7 @@
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "נאיבי בייס (מבודד)",
     "SPAM_FILTER_LLM": "תואר שני במשפטים",
     "SPAM_FILTER_DESCRIPTION_BAYES": "עם Naïve Bayes, תוכלו להשתמש במסנן הספאם שכולם משתמשים בו, או לבודד את אימון מסנן הספאם שלכם רק לדייר שלכם. שניהם לומדים כל הזמן.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "בחר אפשרות LLM לזיהוי ספאם המופעל על ידי בינה מלאכותית (חיוב של <%= tenantPackage.flexLLMCostCents / 100 %>_ דולר לכל 1,000 טוקנים). רק ספאם שאינו ברור מאליו נשלח ל-LLM כדי להפחית עלויות.",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "בחר אפשרות LLM לזיהוי ספאם המופעל על ידי בינה מלאכותית (חיוב של <%= (tenantPackage.flexLLMCostCents * 10000 / tenantPackage.flexLLMUnit).toFixed(2) %>_ דולר לכל מיליון טוקנים). רק ספאם שאינו ברור מאליו נשלח ל-LLM כדי להפחית עלויות.",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "זיהוי ספאם מבוסס LLM זמין עבור Flex (חבילות מותאמות אישית זמינות).",
     "COMMENT_APPROVAL_HEADING": "אישור תגובה",
     "AUTO_APPROVE_COMMENTS_LABEL": "אישור אוטומטי של תגובות",
@@ -56,5 +56,6 @@
     "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
     "LLM_CONTEXT_PLACEHOLDER": "לדוגמה, 'אנחנו פורום משחקים, אזכורים לאלימות הם בדרך כלל דיונים בתוך המשחק'",
     "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo",
-    "LLM_CONTEXT_DESCRIPTION": "ספקו הקשר נוסף שיעזור ל-LLM לקבל החלטות טובות יותר לזיהוי ספאם עבור האתר שלכם."
+    "LLM_CONTEXT_DESCRIPTION": "ספקו הקשר נוסף שיעזור ל-LLM לקבל החלטות טובות יותר לזיהוי ספאם עבור האתר שלכם.",
+    "TRY_AI_AGENTS_MESSAGE": "נסו להשתמש <a href=\"/auth/my-account/ai-agents\">בסוכני בינה מלאכותית</a> לצורך ניהול תוכן, דבר שיכול לספק חוויה טובה יותר."
 }

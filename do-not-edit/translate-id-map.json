@@ -113,7 +113,7 @@
         "create-conversation-failure": 6,
         "create-conversation-success": 10,
         "dashboard_common": 118,
-        "demo": 38,
+        "demo": 41,
         "error": 8,
         "global-distribution": 44,
         "homepage-email-opt-out": 5,
@@ -162,7 +162,7 @@
         "my-account-customize-email-template-delete": 5,
         "my-account-customize-email-template-delete-success": 4,
         "my-account-customize-email-templates": 17,
-        "my-account-customize-widget": 13,
+        "my-account-customize-widget": 14,
         "my-account-customize-widget-delete": 5,
         "my-account-customize-widget-edit": 248,
         "my-account-delete": 13,
@@ -228,7 +228,7 @@
         "my-account-moderate-comments-moderator-edit": 18,
         "my-account-moderate-comments-moderator-select-tenant": 7,
         "my-account-moderate-comments-moderators": 29,
-        "my-account-moderate-comments-settings": 59,
+        "my-account-moderate-comments-settings": 60,
         "my-account-moderate-comments-settings-update-failure": 5,
         "my-account-moderate-comments-settings-update-success": 4,
         "my-account-moderate-comments-thread": 4,
@@ -382,7 +382,7 @@
         "my-account-ai-agent-templates": 24,
         "my-account-ai-agent-webhooks": 61,
         "my-account-ai-agent-webhooks-logs": 19,
-        "my-account-ai-agents": 408,
+        "my-account-ai-agents": 409,
         "block-confirm": 4,
         "feed-ui": 21,
         "agent-notification": 2,
@@ -2452,7 +2452,10 @@
         "t35": "DEMO_OPTION_VIEW_DOCUMENTATION",
         "t36": "DEMO_OPTION_TOS_TITLE",
         "t37": "DEMO_OPTION_TOS_DESC",
-        "t38": "DEMO_OPTION_TOS_ABOUT"
+        "t38": "DEMO_OPTION_TOS_ABOUT",
+        "t39": "DEMO_OPTION_AI_AGENTS_TITLE",
+        "t40": "DEMO_OPTION_AI_AGENTS_DESC",
+        "t41": "DEMO_OPTION_AI_AGENTS_ABOUT"
     },
     "error": {
         "t1": "PAGE_TITLE",
@@ -3462,7 +3465,8 @@
         "t10": "BUTTON_EDIT",
         "t11": "BUTTON_DELETE",
         "t12": "TITLE_ADD_CUSTOMIZATION",
-        "t13": "TEXT_ADD_CUSTOMIZATION_RULE"
+        "t13": "TEXT_ADD_CUSTOMIZATION_RULE",
+        "t14": "VIEW_DOCS_BUTTON"
     },
     "my-account-customize-widget-delete": {
         "t1": "PAGE_TITLE",
@@ -5025,7 +5029,8 @@
         "t56": "LLM_CONTEXT_LABEL",
         "t57": "LLM_CONTEXT_PLACEHOLDER",
         "t58": "LLM_CONTEXT_DESCRIPTION",
-        "t59": "LLM_CONTEXT_CHAR_COUNT"
+        "t59": "LLM_CONTEXT_CHAR_COUNT",
+        "t60": "TRY_AI_AGENTS_MESSAGE"
     },
     "my-account-moderate-comments-settings-update-failure": {
         "t1": "PAGE_TITLE",
@@ -9157,7 +9162,8 @@
         "t405": "TOOL_WARNED_USER",
         "t406": "TOOL_SAVED_MEMORY",
         "t407": "MAX_TOKENS_LABEL",
-        "t408": "MAX_TOKENS_HINT"
+        "t408": "MAX_TOKENS_HINT",
+        "t409": "VIEW_DOCS_BUTTON"
     },
     "block-confirm": {
         "t1": "BLOCK_CONFIRM_MESSAGE",

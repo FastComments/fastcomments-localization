@@ -406,5 +406,6 @@
     "TOOL_BAN_USER": "封鎖用戶",
     "TOOL_SAVED_MEMORY": "保存一份紀念筆記",
     "MAX_TOKENS_HINT": "單次智能體運行的總代幣預算，在整個工具循環中累積。數值越高，智能體在被限制前可以執行更多次工具呼叫；單一LLM回應的次數仍單獨設定上限。留空則使用預設值（[default]）。",
-    "MAX_TOKENS_LABEL": "每個觸發器的最大令牌數"
+    "MAX_TOKENS_LABEL": "每個觸發器的最大令牌數",
+    "VIEW_DOCS_BUTTON": "查看文件"
 }

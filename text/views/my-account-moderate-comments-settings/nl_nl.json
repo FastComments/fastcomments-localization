@@ -19,7 +19,7 @@
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Naïeve Bayes (geïsoleerd)",
     "SPAM_FILTER_LLM": "LLM",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Met Naïve Bayes kunt u hetzelfde spamfilter gebruiken als alle andere gebruikers, of de training van uw spamfilter beperken tot uw eigen tenant. Beide methoden leren continu bij.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Selecteer een LLM-optie voor AI-gestuurde spamdetectie (kosten: $<%= tenantPackage.flexLLMCostCents / 100 %> per 1000 tokens). Alleen niet-overduidelijke spam wordt naar de LLM gestuurd om de kosten te drukken.",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Selecteer een LLM-optie voor AI-gestuurde spamdetectie (kosten: $<%= (tenantPackage.flexLLMCostCents * 10000 / tenantPackage.flexLLMUnit).toFixed(2) %> per 1 miljoen tokens). Alleen niet-overduidelijke spam wordt naar de LLM gestuurd om de kosten te drukken.",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Op LLM gebaseerde spamdetectie is beschikbaar voor Flex (aangepaste pakketten beschikbaar).",
     "COMMENT_APPROVAL_HEADING": "Goedkeuring van reacties",
     "AUTO_APPROVE_COMMENTS_LABEL": "Reacties automatisch goedkeuren",
@@ -56,5 +56,6 @@
     "LLM_CONTEXT_CHAR_COUNT": "/1000 tekens",
     "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo",
     "LLM_CONTEXT_DESCRIPTION": "Geef extra context om het LLM te helpen betere beslissingen te nemen over spamdetectie op uw site.",
-    "LLM_CONTEXT_PLACEHOLDER": "Bijvoorbeeld: 'Wij zijn een gamingforum, verwijzingen naar geweld vinden meestal plaats binnen de game zelf.'"
+    "LLM_CONTEXT_PLACEHOLDER": "Bijvoorbeeld: 'Wij zijn een gamingforum, verwijzingen naar geweld vinden meestal plaats binnen de game zelf.'",
+    "TRY_AI_AGENTS_MESSAGE": "Probeer <a href=\"/auth/my-account/ai-agents\">AI-agenten</a> in te zetten voor moderatie; dat kan een betere gebruikerservaring opleveren."
 }

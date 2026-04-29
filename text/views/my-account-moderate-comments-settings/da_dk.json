@@ -19,7 +19,7 @@
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Naive Bayes (Isoleret)",
     "SPAM_FILTER_LLM": "LLM",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Med Naïve Bayes kan du bruge det spamfilter, som alle andre bruger, eller isolere din spamfiltertræning til kun at omfatte din lejer. Begge dele lærer løbende.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Vælg en LLM-mulighed for AI-drevet spamdetektion (faktureres $<%= tenantPackage.flexLLMCostCents / 100 %> pr. 1000 tokens). Kun ikke-åbenlys spam sendes til LLM'en for at reducere omkostningerne.",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Vælg en LLM-mulighed for AI-drevet spamdetektion (faktureres $<%= (tenantPackage.flexLLMCostCents * 10000 / tenantPackage.flexLLMUnit).toFixed(2) %> pr. 1 million tokens). Kun ikke-åbenlys spam sendes til LLM'en for at reducere omkostningerne.",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "LLM-baseret spamdetektion er tilgængelig for Flex (tilpassede pakker er tilgængelige).",
     "COMMENT_APPROVAL_HEADING": "Godkendelse af kommentar",
     "AUTO_APPROVE_COMMENTS_LABEL": "Godkend kommentarer automatisk",
@@ -56,5 +56,6 @@
     "LLM_CONTEXT_PLACEHOLDER": "F.eks. \"Vi er et spilforum, referencer til vold er normalt diskussioner i spillet\"",
     "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
     "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo",
-    "LLM_CONTEXT_CHAR_COUNT": "/1000 tegn"
+    "LLM_CONTEXT_CHAR_COUNT": "/1000 tegn",
+    "TRY_AI_AGENTS_MESSAGE": "Prøv at bruge <a href=\"/auth/my-account/ai-agents\">AI-agenter</a> til moderering, hvilket kan give en bedre oplevelse."
 }

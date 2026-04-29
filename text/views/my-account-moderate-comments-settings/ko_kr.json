@@ -19,7 +19,7 @@
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "나이브 베이즈(단독)",
     "SPAM_FILTER_LLM": "법학 석사",
     "SPAM_FILTER_DESCRIPTION_BAYES": "나이브 베이즈를 사용하면 다른 모든 사용자가 사용하는 스팸 필터를 사용하거나, 테넌트별로 스팸 필터 학습을 제한할 수 있습니다. 두 가지 방법 모두 지속적으로 학습합니다.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "AI 기반 스팸 감지 기능을 사용하려면 LLM 옵션을 선택하세요(토큰 1,000개당 $<%= tenantPackage.flexLLMCostCents / 100 %> 요금이 부과됩니다). 비용 절감을 위해 명확하지 않은 스팸만 LLM으로 전송됩니다.",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "AI 기반 스팸 감지 기능을 사용하려면 LLM 옵션을 선택하세요(토큰 100만 개당 $<%= (tenantPackage.flexLLMCostCents * 10000 / tenantPackage.flexLLMUnit).toFixed(2) %> 달러 청구). 비용 절감을 위해 명확하지 않은 스팸만 LLM으로 전송됩니다.",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Flex에서는 LLM 기반 스팸 탐지 기능을 사용할 수 있습니다(맞춤형 패키지 제공).",
     "COMMENT_APPROVAL_HEADING": "댓글 승인",
     "AUTO_APPROVE_COMMENTS_LABEL": "댓글 자동 승인",
@@ -56,5 +56,6 @@
     "LLM_CONTEXT_LABEL": "추가 LLM 관련 정보 (선택 사항)",
     "LLM_CONTEXT_DESCRIPTION": "LLM이 사이트의 스팸 감지 여부를 더 정확하게 판단할 수 있도록 추가적인 맥락 정보를 제공해 주세요.",
     "LLM_CONTEXT_PLACEHOLDER": "예: '저희는 게임 포럼이며, 폭력에 대한 언급은 주로 게임 내 토론에서 이루어집니다.'",
-    "LLM_CONTEXT_CHAR_COUNT": "/1000자"
+    "LLM_CONTEXT_CHAR_COUNT": "/1000자",
+    "TRY_AI_AGENTS_MESSAGE": "더 나은 사용자 경험을 제공하기 위해 <a href=\"/auth/my-account/ai-agents\">AI 에이전트를</a> 활용한 중재를 시도해 보세요."
 }

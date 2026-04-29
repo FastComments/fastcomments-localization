@@ -19,7 +19,7 @@
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Naive Bayes (İzole Edilmiş)",
     "SPAM_FILTER_LLM": "LLM",
     "SPAM_FILTER_DESCRIPTION_BAYES": "Naive Bayes algoritmasıyla, herkesin kullandığı spam filtresini kullanabilir veya spam filtresi eğitimini yalnızca kendi kiracınıza özel olarak sınırlandırabilirsiniz. Her iki durumda da sürekli öğrenme gerçekleşir.",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Yapay zeka destekli spam tespiti için bir LLM seçeneği belirleyin (1000 token başına <%= tenantPackage.flexLLMCostCents / 100 %> $ ücretlendirilir). Maliyetleri düşürmek için yalnızca belirgin olmayan spam e-postalar LLM'ye gönderilir.",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Yapay zeka destekli spam tespiti için bir LLM seçeneği belirleyin (1 milyon token başına <%= (tenantPackage.flexLLMCostCents * 10000 / tenantPackage.flexLLMUnit).toFixed(2) %> $ ücretlendirilir). Maliyetleri düşürmek için yalnızca belirgin olmayan spam e-postalar LLM'ye gönderilir.",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Flex için LLM tabanlı spam tespiti mevcuttur (özel paketler de bulunmaktadır).",
     "COMMENT_APPROVAL_HEADING": "Yorum Onayı",
     "AUTO_APPROVE_COMMENTS_LABEL": "Yorumları Otomatik Olarak Onayla",
@@ -56,5 +56,6 @@
     "LLM_CONTEXT_LABEL": "Ek LLM Bağlamı (İsteğe Bağlı)",
     "LLM_CONTEXT_PLACEHOLDER": "Örneğin, 'Biz bir oyun forumuyuz, şiddete dair göndermeler genellikle oyun içi tartışmalarda yer alır.'",
     "LLM_CONTEXT_DESCRIPTION": "LLM'nin siteniz için daha iyi spam tespit kararları almasına yardımcı olmak amacıyla ek bağlam sağlayın.",
-    "LLM_CONTEXT_CHAR_COUNT": "/1000 karakter"
+    "LLM_CONTEXT_CHAR_COUNT": "/1000 karakter",
+    "TRY_AI_AGENTS_MESSAGE": "Daha iyi bir deneyim sağlamak için moderasyon işlemlerinde <a href=\"/auth/my-account/ai-agents\">yapay zeka ajanlarını</a> kullanmayı deneyin."
 }

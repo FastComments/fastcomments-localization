@@ -19,7 +19,7 @@
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "朴素贝叶斯（孤立式）",
     "SPAM_FILTER_LLM": "法学硕士",
     "SPAM_FILTER_DESCRIPTION_BAYES": "使用朴素贝叶斯算法，您可以采用所有人都在使用的垃圾邮件过滤器，也可以将垃圾邮件过滤器的训练范围限定在您的租户范围内。两种方法都能持续学习。",
-    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "选择 LLM 选项以启用 AI 驱动的垃圾邮件检测（每 1000 个令牌收费 $<%= tenantPackage.flexLLMCostCents / 100 %>）。为了降低成本，只有非明显垃圾邮件才会发送到 LLM。",
+    "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "选择 LLM 选项以启用 AI 驱动的垃圾邮件检测（按每百万个令牌收费 $<%= (tenantPackage.flexLLMCostCents * 10000 / tenantPackage.flexLLMUnit).toFixed(2) %>）。为降低成本，仅将非明显垃圾邮件发送至 LLM。",
     "SPAM_FILTER_DESCRIPTION_LLM_UNAVAILABLE": "Flex 提供基于 LLM 的垃圾邮件检测（提供定制软件包）。",
     "COMMENT_APPROVAL_HEADING": "评论审核",
     "AUTO_APPROVE_COMMENTS_LABEL": "自动批准评论",
@@ -56,5 +56,6 @@
     "LLM_CONTEXT_LABEL": "法学硕士附加背景信息（可选）",
     "LLM_CONTEXT_CHAR_COUNT": "/1000个字符",
     "LLM_CONTEXT_DESCRIPTION": "提供更多上下文信息，以帮助 LLM 更好地检测您网站的垃圾邮件。",
-    "LLM_CONTEXT_PLACEHOLDER": "例如，“我们是一个游戏论坛，提及暴力内容通常仅用于游戏内讨论”。"
+    "LLM_CONTEXT_PLACEHOLDER": "例如，“我们是一个游戏论坛，提及暴力内容通常仅用于游戏内讨论”。",
+    "TRY_AI_AGENTS_MESSAGE": "尝试使用<a href=\"/auth/my-account/ai-agents\">人工智能代理</a>进行审核，这可以提供更好的体验。"
 }
