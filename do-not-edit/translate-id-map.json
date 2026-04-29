@@ -382,11 +382,12 @@
         "my-account-ai-agent-templates": 24,
         "my-account-ai-agent-webhooks": 61,
         "my-account-ai-agent-webhooks-logs": 19,
-        "my-account-ai-agents": 419,
+        "my-account-ai-agents": 421,
         "block-confirm": 4,
         "feed-ui": 21,
         "agent-notification": 2,
-        "ai-agents": 196
+        "ai-agents": 196,
+        "common-duration": 4
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -9179,7 +9180,9 @@
         "t416": "ACTION_EXECUTION_FAILED_BADGE",
         "t417": "AVATAR_LABEL",
         "t418": "AVATAR_HINT",
-        "t419": "AVATAR_BUTTON_TEXT"
+        "t419": "AVATAR_BUTTON_TEXT",
+        "t420": "RUN_TABLE_DURATION",
+        "t421": "RUN_DURATION_LABEL"
     },
     "block-confirm": {
         "t1": "BLOCK_CONFIRM_MESSAGE",
@@ -9411,5 +9414,11 @@
         "t194": "FINAL_CTA_HEADING_BOLD",
         "t195": "FINAL_CTA_SUB",
         "t196": "HERO_BUTTON_DOCS"
+    },
+    "common-duration": {
+        "t1": "DURATION_LT_SECOND",
+        "t2": "DURATION_SECONDS",
+        "t3": "DURATION_MINUTES_SECONDS",
+        "t4": "DURATION_HOURS_MINUTES"
     }
 }
