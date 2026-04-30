@@ -423,5 +423,10 @@
     "ACTION_SENT_EMAIL_DIRECT": "Изпратен имейл (директен адрес)",
     "ACTION_SENT_DM": "Изпратих лично съобщение",
     "TOOL_SENT_EMAIL_DIRECT": "Изпращане на имейл до директен адрес",
-    "TOOL_SENT_DM": "Изпрати лично съобщение"
+    "TOOL_SENT_DM": "Изпрати лично съобщение",
+    "RUN_RETRY_BUTTON_RETRYING": "Повторен опит...",
+    "RUN_RETRY_BUTTON_SUCCESS": "Започнато",
+    "RUN_RETRY_BUTTON_ERROR": "Повторният опит не бе успешен",
+    "RUN_RETRY_BUTTON": "Повторен опит за изпълнение",
+    "RUN_RETRY_COMMENT_GONE": "Не може да се опита отново: оригиналният коментар вече не съществува."
 }

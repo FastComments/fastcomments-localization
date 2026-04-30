@@ -423,5 +423,10 @@
     "ACTION_SENT_DM": "Έστειλα ένα DM",
     "TOOL_SENT_DM": "Στείλτε ένα DM",
     "ACTION_SENT_EMAIL_DIRECT": "Έστειλα email (άμεση διεύθυνση)",
-    "TOOL_SENT_EMAIL_DIRECT": "Στείλτε ένα email σε μια άμεση διεύθυνση"
+    "TOOL_SENT_EMAIL_DIRECT": "Στείλτε ένα email σε μια άμεση διεύθυνση",
+    "RUN_RETRY_BUTTON_SUCCESS": "Ξεκίνησε",
+    "RUN_RETRY_BUTTON": "Επανάληψη εκτέλεσης",
+    "RUN_RETRY_BUTTON_RETRYING": "Επανάληψη προσπάθειας...",
+    "RUN_RETRY_BUTTON_ERROR": "Η επανάληψη απέτυχε",
+    "RUN_RETRY_COMMENT_GONE": "Δεν είναι δυνατή η επανάληψη: το αρχικό σχόλιο δεν υπάρχει πλέον."
 }

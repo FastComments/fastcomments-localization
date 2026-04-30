@@ -423,5 +423,10 @@
     "ACTION_SENT_DM": "Послао/ла сам директну поруку",
     "ACTION_SENT_EMAIL_DIRECT": "Послат је имејл (директна адреса)",
     "TOOL_SENT_DM": "Пошаљи директну поруку",
-    "TOOL_SENT_EMAIL_DIRECT": "Пошаљите имејл на директну адресу"
+    "TOOL_SENT_EMAIL_DIRECT": "Пошаљите имејл на директну адресу",
+    "RUN_RETRY_BUTTON": "Покушај поново",
+    "RUN_RETRY_BUTTON_SUCCESS": "Започето",
+    "RUN_RETRY_BUTTON_RETRYING": "Поновни покушај...",
+    "RUN_RETRY_BUTTON_ERROR": "Поновни покушај није успео",
+    "RUN_RETRY_COMMENT_GONE": "Не могу поново покушати: оригинални коментар више не постоји."
 }

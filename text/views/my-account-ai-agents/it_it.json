@@ -423,5 +423,10 @@
     "ACTION_SENT_DM": "Ho inviato un messaggio privato",
     "ACTION_SENT_EMAIL_DIRECT": "Inviata un'email (indirizzo diretto)",
     "TOOL_SENT_DM": "Invia un messaggio privato",
-    "TOOL_SENT_EMAIL_DIRECT": "Invia un'e-mail a un indirizzo diretto"
+    "TOOL_SENT_EMAIL_DIRECT": "Invia un'e-mail a un indirizzo diretto",
+    "RUN_RETRY_BUTTON_SUCCESS": "Iniziato",
+    "RUN_RETRY_BUTTON_RETRYING": "Riprovo...",
+    "RUN_RETRY_BUTTON_ERROR": "Tentativo fallito",
+    "RUN_RETRY_BUTTON": "Riprova a eseguire",
+    "RUN_RETRY_COMMENT_GONE": "Impossibile riprovare: il commento originale non esiste più."
 }

@@ -423,5 +423,10 @@
     "TOOL_SENT_DM": "Envie uma mensagem direta.",
     "ACTION_SENT_DM": "Enviei uma mensagem direta.",
     "ACTION_SENT_EMAIL_DIRECT": "Enviei um e-mail (endereço direto)",
-    "TOOL_SENT_EMAIL_DIRECT": "Enviar um e-mail para um endereço direto"
+    "TOOL_SENT_EMAIL_DIRECT": "Enviar um e-mail para um endereço direto",
+    "RUN_RETRY_BUTTON_RETRYING": "Tentando novamente...",
+    "RUN_RETRY_BUTTON_SUCCESS": "Iniciado",
+    "RUN_RETRY_BUTTON": "Tentar novamente",
+    "RUN_RETRY_BUTTON_ERROR": "A nova tentativa falhou.",
+    "RUN_RETRY_COMMENT_GONE": "Não é possível tentar novamente: o comentário original não existe mais."
 }

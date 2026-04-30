@@ -423,5 +423,10 @@
     "TOOL_SENT_EMAIL_DIRECT": "Senden Sie eine E-Mail an eine direkte Adresse",
     "TOOL_SENT_DM": "Schick mir eine Direktnachricht",
     "ACTION_SENT_EMAIL_DIRECT": "Ich habe eine E-Mail gesendet (direkte Adresse)",
-    "ACTION_SENT_DM": "Ich habe eine Direktnachricht gesendet."
+    "ACTION_SENT_DM": "Ich habe eine Direktnachricht gesendet.",
+    "RUN_RETRY_BUTTON_SUCCESS": "Begonnen",
+    "RUN_RETRY_BUTTON_RETRYING": "Wiederholungsversuch...",
+    "RUN_RETRY_BUTTON": "Wiederholungsversuch",
+    "RUN_RETRY_BUTTON_ERROR": "Wiederholungsversuch fehlgeschlagen",
+    "RUN_RETRY_COMMENT_GONE": "Wiederholungsversuch nicht möglich: Der ursprüngliche Kommentar existiert nicht mehr."
 }

@@ -423,5 +423,10 @@
     "ACTION_SENT_DM": "DM을 보냈습니다",
     "TOOL_SENT_DM": "DM 보내주세요",
     "TOOL_SENT_EMAIL_DIRECT": "직접 이메일 주소로 이메일을 보내세요",
-    "ACTION_SENT_EMAIL_DIRECT": "이메일을 보냈습니다 (직접 주소)"
+    "ACTION_SENT_EMAIL_DIRECT": "이메일을 보냈습니다 (직접 주소)",
+    "RUN_RETRY_BUTTON": "재시도 실행",
+    "RUN_RETRY_BUTTON_SUCCESS": "시작됨",
+    "RUN_RETRY_BUTTON_ERROR": "재시도 실패",
+    "RUN_RETRY_COMMENT_GONE": "다시 시도할 수 없습니다. 원래 댓글이 더 이상 존재하지 않습니다.",
+    "RUN_RETRY_BUTTON_RETRYING": "다시 시도 중..."
 }

@@ -423,5 +423,10 @@
     "ACTION_SENT_DM": "已发送私信",
     "TOOL_SENT_EMAIL_DIRECT": "直接发送电子邮件至该地址",
     "ACTION_SENT_EMAIL_DIRECT": "已发送电子邮件（直接地址）",
-    "TOOL_SENT_DM": "发送私信"
+    "TOOL_SENT_DM": "发送私信",
+    "RUN_RETRY_BUTTON_SUCCESS": "开始",
+    "RUN_RETRY_COMMENT_GONE": "无法重试：原始评论已不存在。",
+    "RUN_RETRY_BUTTON": "重试运行",
+    "RUN_RETRY_BUTTON_ERROR": "重试失败",
+    "RUN_RETRY_BUTTON_RETRYING": "正在重试……"
 }

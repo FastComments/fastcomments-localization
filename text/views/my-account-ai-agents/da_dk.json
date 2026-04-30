@@ -423,5 +423,10 @@
     "ACTION_SENT_DM": "Sendte en DM",
     "ACTION_SENT_EMAIL_DIRECT": "Sendte en e-mail (direkte adresse)",
     "TOOL_SENT_DM": "Send en DM",
-    "TOOL_SENT_EMAIL_DIRECT": "Send en e-mail til en direkte adresse"
+    "TOOL_SENT_EMAIL_DIRECT": "Send en e-mail til en direkte adresse",
+    "RUN_RETRY_BUTTON_RETRYING": "Prøver igen...",
+    "RUN_RETRY_BUTTON": "Prøv at køre igen",
+    "RUN_RETRY_BUTTON_SUCCESS": "Startet",
+    "RUN_RETRY_BUTTON_ERROR": "Genforsøg mislykkedes",
+    "RUN_RETRY_COMMENT_GONE": "Kan ikke forsøge igen: den oprindelige kommentar findes ikke længere."
 }

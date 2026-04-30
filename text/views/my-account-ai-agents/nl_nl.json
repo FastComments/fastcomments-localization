@@ -423,5 +423,10 @@
     "TOOL_SENT_DM": "Stuur een DM",
     "ACTION_SENT_DM": "Ik heb een privébericht gestuurd.",
     "TOOL_SENT_EMAIL_DIRECT": "Stuur een e-mail naar een direct adres.",
-    "ACTION_SENT_EMAIL_DIRECT": "Een e-mail verzonden (direct adres)"
+    "ACTION_SENT_EMAIL_DIRECT": "Een e-mail verzonden (direct adres)",
+    "RUN_RETRY_BUTTON_SUCCESS": "Gestart",
+    "RUN_RETRY_BUTTON": "Probeer de uitvoering opnieuw",
+    "RUN_RETRY_BUTTON_ERROR": "Opnieuw proberen mislukt",
+    "RUN_RETRY_BUTTON_RETRYING": "Opnieuw proberen...",
+    "RUN_RETRY_COMMENT_GONE": "Opnieuw proberen is niet mogelijk: de oorspronkelijke reactie bestaat niet meer."
 }
