@@ -428,5 +428,8 @@
     "RUN_RETRY_BUTTON": "Повторить выполнение",
     "RUN_RETRY_BUTTON_SUCCESS": "Началось",
     "RUN_RETRY_BUTTON_ERROR": "Повторная попытка не удалась.",
-    "RUN_RETRY_COMMENT_GONE": "Повторная попытка невозможна: исходный комментарий больше не существует."
+    "RUN_RETRY_COMMENT_GONE": "Повторная попытка невозможна: исходный комментарий больше не существует.",
+    "ACTION_DM_MESSAGE_LABEL": "Сообщение отправлено",
+    "ACTION_SHOW_RELATED_COMMENT": "Показать соответствующий комментарий",
+    "ACTION_HIDE_RELATED_COMMENT": "Скрыть связанный комментарий"
 }

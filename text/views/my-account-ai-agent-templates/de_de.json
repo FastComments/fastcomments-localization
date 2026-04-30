@@ -22,5 +22,7 @@
     "TEMPLATE_WELCOME_GREETER_CARD_NAME": "Willkommensgruß",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Veröffentlicht nach kurzer Verzögerung eine neutrale Zusammenfassung längerer Threads. Ermöglicht Nachzüglern einen schnellen Überblick über Positionen und offene Fragen.",
     "TEMPLATE_WELCOME_GREETER_CARD_DESCRIPTION": "Begrüßt Erstkommentatoren kurz und individuell. So fühlen sich neue Nutzer wahrgenommen, ohne dass ältere Accounts mit Spam überhäuft werden.",
-    "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "Heft die wichtigsten Kommentare an, sobald sie eine bestimmte Anzahl an Stimmen erreicht haben. Die angehefteten Kommentare werden regelmäßig gewechselt, sodass der beste Kommentar immer ganz oben steht."
+    "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "Heft die wichtigsten Kommentare an, sobald sie eine bestimmte Anzahl an Stimmen erreicht haben. Die angehefteten Kommentare werden regelmäßig gewechselt, sodass der beste Kommentar immer ganz oben steht.",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Gaslichtdetektor",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Überwacht Kommentarbearbeitungen auf mitten im Thread vorgenommene Änderungen, die die Antworten verfälschen. Stellt den Originaltext wieder her und kontaktiert den Autor per Direktnachricht."
 }

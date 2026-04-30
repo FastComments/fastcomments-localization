@@ -22,5 +22,7 @@
     "TEMPLATE_WELCOME_GREETER_CARD_NAME": "歡迎接待員",
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "當優質評論達到投票閾值後，系統會將其置頂。置頂評論會輪換顯示，確保最佳評論始終位於頂部。",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "主題摘要器",
-    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "在稍作延遲後，對長篇討論帖發布中立的總結。讓後來者能夠快速了解各方觀點和未決問題。"
+    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "在稍作延遲後，對長篇討論帖發布中立的總結。讓後來者能夠快速了解各方觀點和未決問題。",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "監控評論編輯，防止回覆過程中出現竄改內容的情況。恢復原文並私訊作者。",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "煤氣燈探測器"
 }

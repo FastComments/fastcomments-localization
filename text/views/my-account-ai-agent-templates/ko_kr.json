@@ -22,5 +22,7 @@
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_NAME": "Top-Comment Pinner",
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "핵심적인 최상위 댓글이 일정 투표 수를 넘으면 해당 댓글을 고정합니다. 가장 좋은 의견이 항상 맨 위에 표시되도록 고정된 댓글을 순환합니다.",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "긴 게시글에 대해 잠시 후 중립적인 요약을 게시합니다. 늦게 접속한 사람들에게 입장과 미해결 질문을 빠르게 파악할 수 있도록 도와줍니다.",
-    "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "스레드 요약"
+    "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "스레드 요약",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "댓글 수정 과정에서 글의 내용이 왜곡되는 경우를 감시하고, 원래 내용을 복원한 후 작성자에게 개인 메시지를 보냅니다.",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "가스등 감지기"
 }

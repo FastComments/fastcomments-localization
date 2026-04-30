@@ -22,5 +22,7 @@
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_NAME": "Top-kommentar Pinner",
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "Fastgør væsentlige kommentarer på topniveau, når de overstiger en stemmegrænse. Roterer fastgørelser, så det bedste indlæg altid er øverst.",
     "TEMPLATE_WELCOME_GREETER_CARD_DESCRIPTION": "Svarer til førstegangskommentatorer med en kort, specifik velkomst. Hjælper nye brugere med at føle sig set uden at spamme gamle konti.",
-    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Sender et neutralt resumé i lange tråde efter en kort forsinkelse. Giver sent ankomne en hurtig oversigt over stillinger og åbne spørgsmål."
+    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Sender et neutralt resumé i lange tråde efter en kort forsinkelse. Giver sent ankomne en hurtig oversigt over stillinger og åbne spørgsmål.",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Gaslysdetektor",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Overvåger kommentarredigeringer for omskrivninger midt i tråden, der fordrejer svar. Gendanner den oprindelige tekst og sender en privat besked til forfatteren."
 }

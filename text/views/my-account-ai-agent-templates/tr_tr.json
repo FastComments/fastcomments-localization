@@ -22,5 +22,7 @@
     "TEMPLATE_TOS_ENFORCER_CARD_DESCRIPTION": "Kurallarınıza aykırı olan yeni ve işaretlenmiş yorumları inceler. İlk kez ihlal edenleri uyarır, spam olarak işaretler, tekrar eden ihlalleri üst mercilere iletir.",
     "TEMPLATE_WELCOME_GREETER_CARD_DESCRIPTION": "İlk kez yorum yapanlara kısa ve öz bir hoş geldiniz mesajıyla yanıt verir. Yeni kullanıcıların kendilerini değerli hissetmelerine yardımcı olurken eski hesaplara da gereksiz mesajlar göndermez.",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Uzun tartışma başlıklarına kısa bir gecikmenin ardından tarafsız bir özet gönderir. Geç gelenlere pozisyonlar ve açık sorular hakkında hızlı bir okuma imkanı sunar.",
-    "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "Konu Özetleyici"
+    "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "Konu Özetleyici",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Gaz lambası dedektörü",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Yorum düzenlemelerini takip eder ve yanıtları bozan, konu içi yeniden yazımları düzeltir. Orijinal metni geri yükler ve yazara özel mesaj gönderir."
 }

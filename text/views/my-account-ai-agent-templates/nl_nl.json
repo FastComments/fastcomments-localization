@@ -22,5 +22,7 @@
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "Belangrijkste reacties worden vastgezet zodra een bepaalde stemdrempel is bereikt. De vastgezette reacties worden roulerend weergegeven, zodat de beste mening altijd bovenaan staat.",
     "TEMPLATE_WELCOME_GREETER_CARD_DESCRIPTION": "Reageert op nieuwe gebruikers met een kort, specifiek welkomstbericht. Zo voelen nieuwe gebruikers zich gezien zonder oude accounts te overladen met berichten.",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "Discussieoverzicht",
-    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Plaatst na een korte vertraging een neutrale samenvatting van lange discussies. Biedt laatkomers een snel overzicht van standpunten en openstaande vragen."
+    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Plaatst na een korte vertraging een neutrale samenvatting van lange discussies. Biedt laatkomers een snel overzicht van standpunten en openstaande vragen.",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Gaslichtdetector",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Houdt reacties in de gaten die midden in een discussie worden bewerkt en reacties vervormen. Herstelt de oorspronkelijke tekst en stuurt een privébericht naar de auteur."
 }

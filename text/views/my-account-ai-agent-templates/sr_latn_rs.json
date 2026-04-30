@@ -22,5 +22,7 @@
     "TEMPLATE_TOS_ENFORCER_CARD_NAME": "Pretraga",
     "TEMPLATE_WELCOME_GREETER_CARD_NAME": "Dobrodošli Pozdravljač",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "Tema Summarizer",
-    "TEMPLATE_WELCOME_GREETER_CARD_DESCRIPTION": "Odgovori na prvi put komentatora sa kratkom, specifičnom dobrodošlicom. Pomaže novim korisnicima da se osećaju viđeno bez spamiranja starih naloga."
+    "TEMPLATE_WELCOME_GREETER_CARD_DESCRIPTION": "Odgovori na prvi put komentatora sa kratkom, specifičnom dobrodošlicom. Pomaže novim korisnicima da se osećaju viđeno bez spamiranja starih naloga.",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Gleda izmene komentara za sredinu teme prepisuje da varp odgovara. Vraća originalni tekst i DM autora.",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Gasno svetlo detektor"
 }

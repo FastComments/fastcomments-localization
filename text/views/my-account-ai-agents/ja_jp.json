@@ -428,5 +428,8 @@
     "RUN_RETRY_BUTTON": "再実行",
     "RUN_RETRY_BUTTON_SUCCESS": "開始しました",
     "RUN_RETRY_BUTTON_ERROR": "再試行に失敗しました",
-    "RUN_RETRY_COMMENT_GONE": "再試行できません。元のコメントは既に存在しません。"
+    "RUN_RETRY_COMMENT_GONE": "再試行できません。元のコメントは既に存在しません。",
+    "ACTION_DM_MESSAGE_LABEL": "メッセージが送信されました",
+    "ACTION_HIDE_RELATED_COMMENT": "関連コメントを非表示にする",
+    "ACTION_SHOW_RELATED_COMMENT": "関連コメントを表示"
 }

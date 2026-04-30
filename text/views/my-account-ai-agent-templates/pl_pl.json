@@ -22,5 +22,7 @@
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_NAME": "Pinner z najpopularniejszymi komentarzami",
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "Przypina merytoryczne komentarze najwyższego poziomu po przekroczeniu progu głosów. Rotuje przypinanie, tak aby najlepsze ujęcie zawsze znajdowało się na górze.",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "Podsumowanie wątków",
-    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Publikuje neutralne podsumowanie długich wątków po krótkim opóźnieniu. Spóźnialskim umożliwia szybkie zapoznanie się ze stanowiskami i pytaniami otwartymi."
+    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Publikuje neutralne podsumowanie długich wątków po krótkim opóźnieniu. Spóźnialskim umożliwia szybkie zapoznanie się ze stanowiskami i pytaniami otwartymi.",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Obserwuje edycje komentarzy pod kątem przeróbek w trakcie wątku, które zniekształcają odpowiedzi. Przywraca oryginalny tekst i wysyła wiadomość prywatną do autora.",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Detektor światła gazowego"
 }

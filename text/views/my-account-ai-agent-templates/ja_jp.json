@@ -22,5 +22,7 @@
     "TEMPLATE_TOS_ENFORCER_CARD_DESCRIPTION": "新規コメントおよびルール違反が報告されたコメントを審査します。初回違反者には警告を発し、スパムとしてマークし、違反を繰り返す場合は上位機関に報告します。",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "スレッド要約ツール",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "長文のスレッドには、少し遅れて中立的な要約を投稿する。これにより、後から参加する人にも、それぞれの立場や未解決の疑問点を素早く把握できる。",
-    "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "投票数が一定の基準を超えた、内容の濃いトップレベルのコメントを固定表示します。固定表示はローテーションされるため、常に最も優れた意見が一番上に表示されます。"
+    "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "投票数が一定の基準を超えた、内容の濃いトップレベルのコメントを固定表示します。固定表示はローテーションされるため、常に最も優れた意見が一番上に表示されます。",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "ガス灯検知器",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "スレッドの途中で返信内容を歪めるようなコメント編集を監視します。元のテキストを復元し、投稿者にダイレクトメッセージを送ります。"
 }

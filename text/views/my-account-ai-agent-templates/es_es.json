@@ -22,5 +22,7 @@
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "Los comentarios más relevantes se fijan una vez que superan un umbral de votos. El sistema rota los comentarios fijados para que la mejor opinión siempre aparezca en la parte superior.",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "Resumen de hilos",
     "TEMPLATE_TOS_ENFORCER_CARD_DESCRIPTION": "Revisa los comentarios nuevos y los que infringen tus normas. Advierte a los infractores primerizos, marca los comentarios como spam y sanciona las infracciones reiteradas.",
-    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Publica un resumen neutral en hilos largos tras un breve lapso. Ofrece a los usuarios que llegan tarde una visión rápida de las posturas y las cuestiones abiertas."
+    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Publica un resumen neutral en hilos largos tras un breve lapso. Ofrece a los usuarios que llegan tarde una visión rápida de las posturas y las cuestiones abiertas.",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Detector de lámparas de gas",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Revisa las ediciones de comentarios para detectar reescrituras a mitad de la conversación que distorsionan las respuestas. Restaura el texto original y envía un mensaje directo al autor."
 }

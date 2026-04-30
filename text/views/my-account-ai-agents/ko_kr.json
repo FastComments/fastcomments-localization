@@ -428,5 +428,8 @@
     "RUN_RETRY_BUTTON_SUCCESS": "시작됨",
     "RUN_RETRY_BUTTON_ERROR": "재시도 실패",
     "RUN_RETRY_COMMENT_GONE": "다시 시도할 수 없습니다. 원래 댓글이 더 이상 존재하지 않습니다.",
-    "RUN_RETRY_BUTTON_RETRYING": "다시 시도 중..."
+    "RUN_RETRY_BUTTON_RETRYING": "다시 시도 중...",
+    "ACTION_DM_MESSAGE_LABEL": "메시지 전송됨",
+    "ACTION_HIDE_RELATED_COMMENT": "관련 댓글 숨기기",
+    "ACTION_SHOW_RELATED_COMMENT": "관련 댓글 보기"
 }

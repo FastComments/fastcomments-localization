@@ -379,10 +379,10 @@
         "tenant-agent-approval-request": 9,
         "my-account-ai-agent-approvals": 64,
         "my-account-ai-agent-prompt-refine": 37,
-        "my-account-ai-agent-templates": 24,
+        "my-account-ai-agent-templates": 26,
         "my-account-ai-agent-webhooks": 61,
         "my-account-ai-agent-webhooks-logs": 19,
-        "my-account-ai-agents": 430,
+        "my-account-ai-agents": 433,
         "block-confirm": 4,
         "feed-ui": 21,
         "agent-notification": 2,
@@ -8697,7 +8697,9 @@
         "t21": "TEMPLATE_TOP_COMMENT_PINNER_CARD_NAME",
         "t22": "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION",
         "t23": "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME",
-        "t24": "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION"
+        "t24": "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION",
+        "t25": "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME",
+        "t26": "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION"
     },
     "my-account-ai-agent-webhooks": {
         "t1": "PAGE_TITLE",
@@ -9213,7 +9215,10 @@
         "t427": "RUN_RETRY_BUTTON_RETRYING",
         "t428": "RUN_RETRY_BUTTON_SUCCESS",
         "t429": "RUN_RETRY_BUTTON_ERROR",
-        "t430": "RUN_RETRY_COMMENT_GONE"
+        "t430": "RUN_RETRY_COMMENT_GONE",
+        "t431": "ACTION_DM_MESSAGE_LABEL",
+        "t432": "ACTION_SHOW_RELATED_COMMENT",
+        "t433": "ACTION_HIDE_RELATED_COMMENT"
     },
     "block-confirm": {
         "t1": "BLOCK_CONFIRM_MESSAGE",

@@ -22,5 +22,7 @@
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "Prikvačiva bitne komentare najviše razine nakon što prijeđu prag glasovanja. Rotira prikvačene komentare tako da je najbolji odgovor uvijek na vrhu.",
     "TEMPLATE_TOS_ENFORCER_CARD_DESCRIPTION": "Pregledava nove i označene komentare koji krše vaša pravila. Upozorava prve prekršitelje, označava neželjenu poštu, eskalira ponovljene prekršaje.",
     "TEMPLATE_WELCOME_GREETER_CARD_DESCRIPTION": "Odgovara komentatorima koji prvi put komentiraju kratkom, specifičnom dobrodošlicom. Pomaže novim korisnicima da se osjećaju viđeno bez neželjene pošte na starim računima.",
-    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Objavljuje neutralan sažetak dugih tema nakon kratkog kašnjenja. Zakašnjelima omogućuje brz uvid u stavove i otvorena pitanja."
+    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Objavljuje neutralan sažetak dugih tema nakon kratkog kašnjenja. Zakašnjelima omogućuje brz uvid u stavove i otvorena pitanja.",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Detektor plinskog svjetla",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Prati uređivanja komentara za prepravljanja usred teme koja iskrivljuju odgovore. Vraća izvorni tekst i šalje izravnu poruku autoru."
 }

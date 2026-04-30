@@ -22,5 +22,7 @@
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_NAME": "Top-Comment Pinner",
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "Pins substantive top-level comments once they cross a vote threshold. Rotates pins so the best take is always at the top.",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "Thread Summarizer",
-    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Posts a neutral summary on long threads after a short delay. Gives late arrivers a fast read on positions and open questions."
+    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Posts a neutral summary on long threads after a short delay. Gives late arrivers a fast read on positions and open questions.",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Gaslight Detector",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Watches comment edits for mid-thread rewrites that warp replies. Restores the original text and DMs the author."
 }

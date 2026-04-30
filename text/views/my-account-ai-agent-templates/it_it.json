@@ -22,5 +22,7 @@
     "START_FRESH_DESCRIPTION": "Apri un modulo vuoto e configura ogni campo manualmente.",
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "Fissa in alto i commenti più rilevanti una volta superata una determinata soglia di voti. Ruota i commenti in alto in modo che il commento migliore sia sempre in cima.",
     "TEMPLATE_WELCOME_GREETER_CARD_DESCRIPTION": "Risponde ai nuovi commentatori con un breve e specifico messaggio di benvenuto. Aiuta i nuovi utenti a sentirsi considerati senza intasare i vecchi account con spam.",
-    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Pubblica un riassunto neutrale delle discussioni lunghe dopo un breve ritardo. Offre a chi arriva in ritardo una rapida panoramica delle posizioni e delle questioni aperte."
+    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Pubblica un riassunto neutrale delle discussioni lunghe dopo un breve ritardo. Offre a chi arriva in ritardo una rapida panoramica delle posizioni e delle questioni aperte.",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Rilevatore di luce a gas",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Controlla le modifiche ai commenti per individuare eventuali riscritture a metà discussione che alterano le risposte. Ripristina il testo originale e invia un messaggio privato all'autore."
 }

@@ -22,5 +22,7 @@
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_NAME": "置顶评论者",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "主题摘要器",
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "当优质评论达到投票阈值后，系统会将其置顶。置顶评论会轮换显示，确保最佳评论始终位于顶部。",
-    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "在稍作延迟后，对长篇讨论帖发布中立的总结。让后来者能够快速了解各方观点和未决问题。"
+    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "在稍作延迟后，对长篇讨论帖发布中立的总结。让后来者能够快速了解各方观点和未决问题。",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "煤气灯探测器",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "监控评论编辑，防止回复过程中出现篡改内容的情况。恢复原文并私信作者。"
 }

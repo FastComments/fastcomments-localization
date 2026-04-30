@@ -428,5 +428,8 @@
     "RUN_RETRY_COMMENT_GONE": "无法重试：原始评论已不存在。",
     "RUN_RETRY_BUTTON": "重试运行",
     "RUN_RETRY_BUTTON_ERROR": "重试失败",
-    "RUN_RETRY_BUTTON_RETRYING": "正在重试……"
+    "RUN_RETRY_BUTTON_RETRYING": "正在重试……",
+    "ACTION_DM_MESSAGE_LABEL": "消息已发送",
+    "ACTION_SHOW_RELATED_COMMENT": "显示相关评论",
+    "ACTION_HIDE_RELATED_COMMENT": "隐藏相关评论"
 }

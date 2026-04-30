@@ -22,5 +22,7 @@
     "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "Resumo de tópicos",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Publica um resumo neutro em tópicos longos após um breve intervalo. Permite que os participantes que chegam atrasados tenham uma visão rápida das posições e das questões em aberto.",
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "Fixa comentários relevantes de alto nível assim que ultrapassam um determinado limite de votos. Rotaciona os comentários fixados para que a melhor opinião esteja sempre no topo.",
-    "TEMPLATE_TOS_ENFORCER_CARD_DESCRIPTION": "Analisa comentários novos e sinalizados que violam suas regras. Adverte os infratores primários, marca como spam e encaminha violações reincidentes."
+    "TEMPLATE_TOS_ENFORCER_CARD_DESCRIPTION": "Analisa comentários novos e sinalizados que violam suas regras. Adverte os infratores primários, marca como spam e encaminha violações reincidentes.",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Detector de gás",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Monitora edições de comentários em busca de alterações no meio da discussão que distorcem as respostas. Restaura o texto original e envia uma mensagem direta ao autor."
 }

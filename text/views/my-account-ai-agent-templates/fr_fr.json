@@ -22,5 +22,7 @@
     "TEMPLATE_WELCOME_GREETER_CARD_NAME": "Accueil",
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "Épingle les commentaires les plus pertinents dès qu'ils atteignent un certain seuil de votes. Fait tourner les épingles pour que la meilleure opinion soit toujours en haut.",
     "TEMPLATE_WELCOME_GREETER_CARD_DESCRIPTION": "Répondre aux nouveaux utilisateurs avec un message de bienvenue court et personnalisé. Cela permet aux nouveaux venus de se sentir reconnus sans polluer les anciens comptes.",
-    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Publie un résumé neutre des longs fils de discussion après un court délai. Permet aux nouveaux arrivants d'avoir rapidement une vue d'ensemble des positions et des questions en suspens."
+    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Publie un résumé neutre des longs fils de discussion après un court délai. Permet aux nouveaux arrivants d'avoir rapidement une vue d'ensemble des positions et des questions en suspens.",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Surveille les modifications de commentaires en cours de discussion qui déforment les réponses. Restaure le texte original et contacte l'auteur par message privé.",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Détecteur de gaz"
 }
