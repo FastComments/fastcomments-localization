@@ -431,5 +431,7 @@
     "RUN_RETRY_COMMENT_GONE": "No se puede reintentar: el comentario original ya no existe.",
     "ACTION_DM_MESSAGE_LABEL": "Mensaje enviado",
     "ACTION_HIDE_RELATED_COMMENT": "Ocultar comentario relacionado",
-    "ACTION_SHOW_RELATED_COMMENT": "Mostrar comentario relacionado"
+    "ACTION_SHOW_RELATED_COMMENT": "Mostrar comentario relacionado",
+    "TOOL_GET_PINNED_COMMENTS": "Lista de comentarios fijados en la página actual.",
+    "TOOL_GET_LOCKED_COMMENTS": "Lista de comentarios bloqueados en la página actual"
 }

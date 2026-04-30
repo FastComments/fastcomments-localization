@@ -431,5 +431,7 @@
     "RUN_RETRY_COMMENT_GONE": "Повторная попытка невозможна: исходный комментарий больше не существует.",
     "ACTION_DM_MESSAGE_LABEL": "Сообщение отправлено",
     "ACTION_SHOW_RELATED_COMMENT": "Показать соответствующий комментарий",
-    "ACTION_HIDE_RELATED_COMMENT": "Скрыть связанный комментарий"
+    "ACTION_HIDE_RELATED_COMMENT": "Скрыть связанный комментарий",
+    "TOOL_GET_PINNED_COMMENTS": "Список закрепленных комментариев на текущей странице",
+    "TOOL_GET_LOCKED_COMMENTS": "Список заблокированных комментариев на текущей странице"
 }

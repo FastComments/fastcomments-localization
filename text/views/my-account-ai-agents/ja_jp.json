@@ -431,5 +431,7 @@
     "RUN_RETRY_COMMENT_GONE": "再試行できません。元のコメントは既に存在しません。",
     "ACTION_DM_MESSAGE_LABEL": "メッセージが送信されました",
     "ACTION_HIDE_RELATED_COMMENT": "関連コメントを非表示にする",
-    "ACTION_SHOW_RELATED_COMMENT": "関連コメントを表示"
+    "ACTION_SHOW_RELATED_COMMENT": "関連コメントを表示",
+    "TOOL_GET_PINNED_COMMENTS": "現在のページに固定されているコメントを一覧表示する",
+    "TOOL_GET_LOCKED_COMMENTS": "現在のページにあるロックされたコメントの一覧を表示する"
 }

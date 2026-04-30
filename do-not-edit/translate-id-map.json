@@ -382,7 +382,7 @@
         "my-account-ai-agent-templates": 26,
         "my-account-ai-agent-webhooks": 61,
         "my-account-ai-agent-webhooks-logs": 19,
-        "my-account-ai-agents": 433,
+        "my-account-ai-agents": 435,
         "block-confirm": 4,
         "feed-ui": 21,
         "agent-notification": 2,
@@ -9218,7 +9218,9 @@
         "t430": "RUN_RETRY_COMMENT_GONE",
         "t431": "ACTION_DM_MESSAGE_LABEL",
         "t432": "ACTION_SHOW_RELATED_COMMENT",
-        "t433": "ACTION_HIDE_RELATED_COMMENT"
+        "t433": "ACTION_HIDE_RELATED_COMMENT",
+        "t434": "TOOL_GET_PINNED_COMMENTS",
+        "t435": "TOOL_GET_LOCKED_COMMENTS"
     },
     "block-confirm": {
         "t1": "BLOCK_CONFIRM_MESSAGE",

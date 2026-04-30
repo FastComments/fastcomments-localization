@@ -431,5 +431,7 @@
     "RUN_RETRY_BUTTON_ERROR": "重試失敗",
     "ACTION_SHOW_RELATED_COMMENT": "顯示相關評論",
     "ACTION_DM_MESSAGE_LABEL": "訊息已發送",
-    "ACTION_HIDE_RELATED_COMMENT": "隱藏相關評論"
+    "ACTION_HIDE_RELATED_COMMENT": "隱藏相關評論",
+    "TOOL_GET_PINNED_COMMENTS": "列出目前頁面上的置頂評論",
+    "TOOL_GET_LOCKED_COMMENTS": "列出目前頁面上的已鎖定評論"
 }

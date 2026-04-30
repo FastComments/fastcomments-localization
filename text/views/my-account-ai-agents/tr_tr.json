@@ -431,5 +431,7 @@
     "RUN_RETRY_COMMENT_GONE": "Tekrar deneme yapılamıyor: orijinal yorum artık mevcut değil.",
     "ACTION_DM_MESSAGE_LABEL": "Mesaj gönderildi.",
     "ACTION_SHOW_RELATED_COMMENT": "İlgili yorumu göster",
-    "ACTION_HIDE_RELATED_COMMENT": "İlgili yorumu gizle"
+    "ACTION_HIDE_RELATED_COMMENT": "İlgili yorumu gizle",
+    "TOOL_GET_LOCKED_COMMENTS": "Geçerli sayfadaki kilitli yorumları listele",
+    "TOOL_GET_PINNED_COMMENTS": "Geçerli sayfadaki sabitlenmiş yorumları listele"
 }

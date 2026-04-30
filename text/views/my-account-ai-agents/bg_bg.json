@@ -431,5 +431,7 @@
     "RUN_RETRY_COMMENT_GONE": "Не може да се опита отново: оригиналният коментар вече не съществува.",
     "ACTION_DM_MESSAGE_LABEL": "Съобщението е изпратено",
     "ACTION_SHOW_RELATED_COMMENT": "Покажи свързан коментар",
-    "ACTION_HIDE_RELATED_COMMENT": "Скриване на свързан коментар"
+    "ACTION_HIDE_RELATED_COMMENT": "Скриване на свързан коментар",
+    "TOOL_GET_PINNED_COMMENTS": "Списък с закачени коментари на текущата страница",
+    "TOOL_GET_LOCKED_COMMENTS": "Списък с заключени коментари на текущата страница"
 }

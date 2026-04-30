@@ -431,5 +431,7 @@
     "RUN_RETRY_COMMENT_GONE": "Wiederholungsversuch nicht möglich: Der ursprüngliche Kommentar existiert nicht mehr.",
     "ACTION_DM_MESSAGE_LABEL": "Nachricht gesendet",
     "ACTION_SHOW_RELATED_COMMENT": "Zugehörigen Kommentar anzeigen",
-    "ACTION_HIDE_RELATED_COMMENT": "Verwandten Kommentar ausblenden"
+    "ACTION_HIDE_RELATED_COMMENT": "Verwandten Kommentar ausblenden",
+    "TOOL_GET_PINNED_COMMENTS": "Liste der angehefteten Kommentare auf der aktuellen Seite",
+    "TOOL_GET_LOCKED_COMMENTS": "Liste der gesperrten Kommentare auf der aktuellen Seite"
 }
