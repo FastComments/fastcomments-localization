@@ -1,0 +1,11 @@
+{
+    "HEADING": "Forbind FastComments med Vercel",
+    "PAGE_TITLE": "Installer FastComments - Vercel-integration",
+    "SUBTITLE": "Vælg hvilke Vercel-projekter, der skal modtage din FastComments-konfiguration som miljøvariabler.",
+    "BUTTON_INSTALL": "Installere",
+    "TENANT_LABEL": "FastComments-konto",
+    "SELECT_PROJECTS": "Vercel-projekter",
+    "NO_PROJECTS": "Der blev ikke fundet nogen projekter på din Vercel-konto.",
+    "EXPOSE_API_KEY_HINT": "Tilføjer FASTCOMMENTS_API_KEY til dit projekt. Aktiver kun dette, hvis du har brug for SSO på serversiden eller adgang til administrator-API'en.",
+    "EXPOSE_API_KEY": "Inkluder API-nøgle (til serverfunktioner som SSO)"
+}

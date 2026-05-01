@@ -1,0 +1,11 @@
+{
+    "HEADING": "Połącz FastComments z Vercel",
+    "PAGE_TITLE": "Zainstaluj FastComments - integracja Vercel",
+    "TENANT_LABEL": "Konto FastComments",
+    "BUTTON_INSTALL": "Zainstalować",
+    "NO_PROJECTS": "Nie znaleziono projektów na Twoim koncie Vercel.",
+    "SELECT_PROJECTS": "Projekty Vercel",
+    "EXPOSE_API_KEY_HINT": "Dodaje FASTCOMMENTS_API_KEY do Twojego projektu. Włącz tę opcję tylko wtedy, gdy potrzebujesz logowania jednokrotnego po stronie serwera lub dostępu do interfejsu API administratora.",
+    "EXPOSE_API_KEY": "Dołącz klucz API (dla funkcji po stronie serwera, takich jak logowanie jednokrotne)",
+    "SUBTITLE": "Wybierz projekty Vercel, które mają otrzymać konfigurację FastComments jako zmienne środowiskowe."
+}

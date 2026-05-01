@@ -1,0 +1,12 @@
+{
+    "SELECT_PROJECTS": "베르셀 프로젝트",
+    "PAGE_TITLE": "FastComments 설정 - Vercel 연동",
+    "TENANT_LABEL": "패스트컴먼츠 계정",
+    "HEADING": "FastComments 연동 설정",
+    "SUBTITLE": "FastComments 계정에 연결된 Vercel 프로젝트를 업데이트하세요.",
+    "NO_PROJECTS": "Vercel 계정에서 프로젝트를 찾을 수 없습니다.",
+    "BUTTON_SAVE": "변경 사항 저장",
+    "EXPOSE_API_KEY": "(SSO와 같은 서버 측 기능을 위해) API 키를 포함하세요.",
+    "SAVED_MESSAGE": "설정이 저장되었습니다.",
+    "EXPOSE_API_KEY_HINT": "프로젝트에 FASTCOMMENTS_API_KEY를 추가합니다. 서버 측 SSO 또는 관리자 API 액세스가 필요한 경우에만 활성화하십시오."
+}

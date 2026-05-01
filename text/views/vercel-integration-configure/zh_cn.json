@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "配置 FastComments - Vercel 集成",
+    "HEADING": "配置 FastComments 集成",
+    "EXPOSE_API_KEY": "请提供 API 密钥（用于服务器端功能，例如 SSO）。",
+    "SUBTITLE": "更新哪些 Vercel 项目已连接到您的 FastComments 帐户。",
+    "SELECT_PROJECTS": "Vercel 项目",
+    "NO_PROJECTS": "您的Vercel账户中未找到任何项目。",
+    "TENANT_LABEL": "FastComments 帐户",
+    "BUTTON_SAVE": "保存更改",
+    "EXPOSE_API_KEY_HINT": "将 FASTCOMMENTS_API_KEY 添加到您的项目中。仅当您需要服务器端单点登录 (SSO) 或管理员 API 访问权限时才启用此选项。",
+    "SAVED_MESSAGE": "配置已保存。"
+}

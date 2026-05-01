@@ -1,0 +1,12 @@
+{
+    "SELECT_PROJECTS": "Vercel Projecten",
+    "HEADING": "Configureer de FastComments-integratie",
+    "TENANT_LABEL": "FastComments-account",
+    "SUBTITLE": "Werk bij welke Vercel-projecten aan uw FastComments-account zijn gekoppeld.",
+    "BUTTON_SAVE": "Wijzigingen opslaan",
+    "NO_PROJECTS": "Er zijn geen projecten gevonden in uw Vercel-account.",
+    "PAGE_TITLE": "FastComments - Vercel-integratie configureren",
+    "EXPOSE_API_KEY": "Voeg de API-sleutel toe (voor server-side functies zoals SSO)",
+    "EXPOSE_API_KEY_HINT": "Voegt FASTCOMMENTS_API_KEY toe aan uw project. Schakel dit alleen in als u server-side SSO of toegang tot de beheerders-API nodig hebt.",
+    "SAVED_MESSAGE": "Configuratie opgeslagen."
+}

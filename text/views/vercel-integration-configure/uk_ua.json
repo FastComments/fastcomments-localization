@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "Налаштування FastComments – інтеграція з Vercel",
+    "SELECT_PROJECTS": "Проекти Верселя",
+    "TENANT_LABEL": "Обліковий запис FastComments",
+    "HEADING": "Налаштування інтеграції FastComments",
+    "SUBTITLE": "Оновіть, які проекти Vercel підключені до вашого облікового запису FastComments.",
+    "NO_PROJECTS": "У вашому обліковому записі Vercel не знайдено жодних проектів.",
+    "BUTTON_SAVE": "Зберегти зміни",
+    "EXPOSE_API_KEY_HINT": "Додає FASTCOMMENTS_API_KEY до вашого проєкту. Увімкніть це лише якщо вам потрібен єдиний вхід на стороні сервера або доступ до API адміністратора.",
+    "EXPOSE_API_KEY": "Включити ключ API (для функцій на стороні сервера, таких як SSO)",
+    "SAVED_MESSAGE": "Конфігурацію збережено."
+}

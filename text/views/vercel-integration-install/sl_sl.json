@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Namestitev FastComments - integracija Vercela",
+    "HEADING": "Povežite FastComments z Vercelom",
+    "SUBTITLE": "Izberite, kateri Vercel projekti naj prejmejo vašo konfiguracijo FastComments kot okoljske spremenljivke.",
+    "TENANT_LABEL": "Račun FastComments",
+    "SELECT_PROJECTS": "Vercel Projects",
+    "BUTTON_INSTALL": "Namestitev",
+    "NO_PROJECTS": "V vašem računu Vercel ni bilo najdenih projektov.",
+    "EXPOSE_API_KEY": "Vključi ključ API (za funkcije na strani strežnika, kot je enotna prijava)",
+    "EXPOSE_API_KEY_HINT": "Doda FASTCOMMENTS_API_KEY vašemu projektu. To omogočite le, če potrebujete enotno prijavo na strani strežnika ali dostop do skrbniškega API-ja."
+}

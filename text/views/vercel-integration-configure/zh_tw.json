@@ -1,0 +1,12 @@
+{
+    "TENANT_LABEL": "FastComments 帳戶",
+    "HEADING": "配置 FastComments 集成",
+    "PAGE_TITLE": "配置 FastComments - Vercel 集成",
+    "SUBTITLE": "更新哪些 Vercel 項目已連結到您的 FastComments 帳戶。",
+    "NO_PROJECTS": "您的Vercel帳戶中未找到任何項目。",
+    "BUTTON_SAVE": "儲存變更",
+    "SELECT_PROJECTS": "Vercel 項目",
+    "SAVED_MESSAGE": "配置已儲存。",
+    "EXPOSE_API_KEY_HINT": "將 FASTCOMMENTS_API_KEY 新增到您的專案中。僅當您需要伺服器端單一登入 (SSO) 或管理員 API 存取權限時才啟用此選項。",
+    "EXPOSE_API_KEY": "請提供 API 金鑰（用於伺服器端功能，例如 SSO）。"
+}

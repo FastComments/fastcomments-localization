@@ -1,0 +1,11 @@
+{
+    "HEADING": "Σύνδεση FastComments με Vercel",
+    "PAGE_TITLE": "Εγκατάσταση FastComments - Ενσωμάτωση Vercel",
+    "BUTTON_INSTALL": "Εγκαθιστώ",
+    "NO_PROJECTS": "Δεν βρέθηκαν έργα στον λογαριασμό σας Vercel.",
+    "SELECT_PROJECTS": "Έργα Vercel",
+    "SUBTITLE": "Επιλέξτε ποια έργα Vercel θα πρέπει να λάβουν τη διαμόρφωση FastComments ως μεταβλητές περιβάλλοντος.",
+    "TENANT_LABEL": "Λογαριασμός FastComments",
+    "EXPOSE_API_KEY": "Συμπερίληψη κλειδιού API (για λειτουργίες από την πλευρά του διακομιστή όπως το SSO)",
+    "EXPOSE_API_KEY_HINT": "Προσθέτει το FASTCOMMENTS_API_KEY στο έργο σας. Ενεργοποιήστε το μόνο εάν χρειάζεστε πρόσβαση SSO από την πλευρά του διακομιστή ή API διαχειριστή."
+}

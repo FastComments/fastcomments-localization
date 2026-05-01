@@ -1,0 +1,11 @@
+{
+    "HEADING": "Повежите FastComments са Vercel-ом",
+    "PAGE_TITLE": "Инсталирајте FastComments - Vercel интеграција",
+    "SELECT_PROJECTS": "Версел пројекти",
+    "TENANT_LABEL": "Налог за брзе коментаре",
+    "SUBTITLE": "Изаберите који Vercel пројекти треба да приме вашу FastComments конфигурацију као променљиве окружења.",
+    "BUTTON_INSTALL": "Инсталирај",
+    "EXPOSE_API_KEY": "Укључи API кључ (за функције на страни сервера као што је SSO)",
+    "EXPOSE_API_KEY_HINT": "Додаје FASTCOMMENTS_API_KEY вашем пројекту. Омогућите ово само ако вам је потребан SSO на страни сервера или администраторски API приступ.",
+    "NO_PROJECTS": "Није пронађен ниједан пројекат на вашем Vercel налогу."
+}

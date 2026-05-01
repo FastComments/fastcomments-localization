@@ -1,0 +1,11 @@
+{
+    "PAGE_TITLE": "Install FastComments - Vercel Integration",
+    "HEADING": "Connect FastComments to Vercel",
+    "SUBTITLE": "Select which Vercel projects should receive your FastComments configuration as environment variables.",
+    "TENANT_LABEL": "FastComments Account",
+    "SELECT_PROJECTS": "Vercel Projects",
+    "NO_PROJECTS": "No projects found in your Vercel account.",
+    "EXPOSE_API_KEY": "Include API key (for server-side features like SSO)",
+    "EXPOSE_API_KEY_HINT": "Adds FASTCOMMENTS_API_KEY to your project. Only enable this if you need server-side SSO or admin API access.",
+    "BUTTON_INSTALL": "Install"
+}

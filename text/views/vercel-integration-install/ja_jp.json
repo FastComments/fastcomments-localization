@@ -1,0 +1,11 @@
+{
+    "TENANT_LABEL": "FastCommentsアカウント",
+    "PAGE_TITLE": "FastComments - Vercelとの連携をインストールする",
+    "HEADING": "FastCommentsをVercelに接続する",
+    "SELECT_PROJECTS": "ヴェルセル・プロジェクト",
+    "SUBTITLE": "どのVercelプロジェクトにFastCommentsの設定を環境変数として渡すかを選択してください。",
+    "EXPOSE_API_KEY_HINT": "プロジェクトにFASTCOMMENTS_API_KEYを追加します。サーバーサイドSSOまたは管理者APIアクセスが必要な場合にのみ有効にしてください。",
+    "EXPOSE_API_KEY": "APIキーを含める（SSOなどのサーバー側機能用）",
+    "NO_PROJECTS": "Vercelアカウントにプロジェクトが見つかりませんでした。",
+    "BUTTON_INSTALL": "インストール"
+}
