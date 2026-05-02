@@ -1,0 +1,11 @@
+{
+    "SUBJECT": "Confirm switching FastComments to Shopify billing",
+    "INTRO": "Hello",
+    "PARAGRAPH_REQUEST": "Someone just installed the FastComments app on the Shopify shop <b>[shop]</b> and asked to switch your existing FastComments account to Shopify billing.",
+    "PARAGRAPH_WARNING": "Confirming will replace your current plan list with the four Shopify-billed plans (Starter, Growth, Pro, Business) and set your existing Stripe subscription to cancel at the end of its current paid period. Your old plans are archived for 90 days for support recovery.",
+    "PARAGRAPH_PRESERVED": "Comments, users, moderators, and widget configuration are preserved. Only billing source and the plan list change.",
+    "BUTTON_CONFIRM": "Confirm and switch to Shopify billing",
+    "PARAGRAPH_DISMISS": "If you didn't request this, you can dismiss this email or click the link below to cancel the request immediately. The link otherwise expires in one hour.",
+    "LINK_CANCEL": "I didn't request this - cancel",
+    "OUTRO": "Thanks for using FastComments!"
+}

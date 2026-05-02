@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Shopify-Abrechnungsmigration bestätigen – FastComments",
+    "LABEL_TENANT_NAME": "Konto",
+    "HEADING": "Auf Shopify-Abrechnung umsteigen?",
+    "EXISTING_TENANT_HEADING": "Bestehendes FastComments-Konto",
+    "LABEL_TENANT_EMAIL": "E-Mail",
+    "DESCRIPTION": "Sie installieren die FastComments Shopify-App in einem Shop, der bereits mit einem FastComments-Konto verknüpft ist. Um die Shopify-Abrechnung nutzen zu können, muss dieses Konto umgestellt werden.",
+    "PRESERVED_DATA_NOTE": "Alle Kommentare, Benutzer, Moderatoren und Widget-Konfigurationen bleiben erhalten. Nur die Tarifliste und die Abrechnungsquelle ändern sich.",
+    "WARNING_ALREADY_SHOPIFY": "Dieses Konto ist bereits für die Shopify-Abrechnung konfiguriert. Durch die Bestätigung wird es erneut mit diesem Shop verknüpft und die Zugriffstoken werden aktualisiert.",
+    "WARNING_PACKAGE_REPLACEMENT": "Mit der Bestätigung werden Ihre aktuellen FastComments-Tarife durch die vier über Shopify abgerechneten Tarife (Starter, Growth, Pro, Business) ersetzt. Ihr bestehendes Stripe-Abonnement wird zum Ende des aktuellen Zahlungszeitraums gekündigt. Alte Tarife werden 90 Tage lang archiviert und können vom Support wiederhergestellt werden. Kommentare, Benutzer, Moderatoren und Konfigurationen bleiben erhalten.",
+    "BUTTON_CANCEL": "Stornieren",
+    "HEADING_EXPIRED": "Der Bestätigungslink ist abgelaufen.",
+    "BUTTON_CONFIRM": "Ja, wechseln Sie zur Shopify-Abrechnung.",
+    "BUTTON_BACK_TO_SHOPIFY": "Zurück zu den Shopify-Apps",
+    "DESCRIPTION_EXPIRED": "Dieser Bestätigungslink ist abgelaufen oder wurde bereits verwendet. Um es erneut zu versuchen, installieren Sie die FastComments-App in Ihrem Shopify-Shop neu."
+}

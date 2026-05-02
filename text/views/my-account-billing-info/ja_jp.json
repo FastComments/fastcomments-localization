@@ -37,5 +37,7 @@
     "LINK_LIFT_TRIAL_LIMITS": "トライアル制限を解除",
     "LINK_CANCEL_SUBSCRIPTION": "サブスクリプションをキャンセルする",
     "LINK_DELETE_ACCOUNT": "アカウントを削除",
-    "BUTTON_INVOICE_SETTINGS": "請求書設定"
+    "BUTTON_INVOICE_SETTINGS": "請求書設定",
+    "TEXT_BILLING_MANAGED_BY_SHOPIFY": "このテナントの請求はShopifyによって管理されます。プランの変更や請求書は、Shopifyの管理画面で処理されます。",
+    "BUTTON_MANAGE_IN_SHOPIFY": "Shopifyでプランを管理する"
 }

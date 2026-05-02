@@ -1,0 +1,11 @@
+{
+    "INTRO": "こんにちは",
+    "PARAGRAPH_WARNING": "確認すると、現在のプラン一覧がShopifyが課金する4つのプラン（Starter、Growth、Pro、Business）に置き換えられ、既存のStripeサブスクリプションは現在の支払い期間終了時に自動的にキャンセルされます。以前のプランは、サポート復旧のために90日間アーカイブされます。",
+    "SUBJECT": "FastCommentsの請求システムをShopifyに切り替えることを確認してください。",
+    "PARAGRAPH_PRESERVED": "コメント、ユーザー、モデレーター、ウィジェットの設定は保持されます。変更されるのは、請求元とプラン一覧のみです。",
+    "PARAGRAPH_REQUEST": "誰かがShopifyショップ<b>[shop]</b>にFastCommentsアプリをインストールし、既存のFastCommentsアカウントをShopifyの請求に切り替えるよう依頼しました。",
+    "BUTTON_CONFIRM": "確認してShopifyの請求方法に切り替えます",
+    "LINK_CANCEL": "私はこれを要求していません - キャンセル",
+    "OUTRO": "FastCommentsをご利用いただきありがとうございます！",
+    "PARAGRAPH_DISMISS": "このリクエストをしていない場合は、このメールを閉じるか、下記のリンクをクリックしてリクエストをすぐにキャンセルしてください。リンクは1時間後に期限切れとなります。"
+}

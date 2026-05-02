@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Shopify fatura geçişini onaylayın - FastComments",
+    "HEADING": "Shopify faturalandırmasına geçmek mi istiyorsunuz?",
+    "LABEL_TENANT_NAME": "Hesap",
+    "DESCRIPTION": "FastComments Shopify uygulamasını, halihazırda bir FastComments hesabına bağlı olan bir mağazaya yüklüyorsunuz. Shopify faturalandırmasını kullanmak için bu hesabın geçiş yapması gerekiyor.",
+    "LABEL_TENANT_EMAIL": "E-posta",
+    "EXISTING_TENANT_HEADING": "Mevcut FastComments hesabı",
+    "WARNING_PACKAGE_REPLACEMENT": "Onaylama işlemi, mevcut FastComments planlarınızı Shopify faturalı dört planla (Başlangıç, Büyüme, Profesyonel, İşletme) DEĞİŞTİRECEKTİR. Mevcut Stripe aboneliğiniz, mevcut ödeme döneminin sonunda iptal edilecek şekilde ayarlanacaktır. Eski planlar 90 gün boyunca arşivlenir ve destek ekibi tarafından geri yüklenebilir. Yorumlar, kullanıcılar, moderatörler ve yapılandırma korunur.",
+    "WARNING_ALREADY_SHOPIFY": "Bu hesap zaten Shopify faturalandırması için yapılandırılmış durumda. Onaylama işlemi, hesabı bu mağazaya yeniden bağlayacak ve erişim belirteçlerini yenileyecektir.",
+    "BUTTON_CANCEL": "İptal etmek",
+    "DESCRIPTION_EXPIRED": "Bu onay bağlantısının süresi dolmuş veya daha önce kullanılmış. Tekrar denemek için, FastComments uygulamasını Shopify mağazanıza yeniden yükleyin.",
+    "PRESERVED_DATA_NOTE": "Tüm yorumlar, kullanıcılar, moderatörler ve widget yapılandırmaları korunur. Sadece plan listesi ve faturalama kaynağı değişir.",
+    "BUTTON_CONFIRM": "Evet, Shopify faturalandırmasına geçin.",
+    "HEADING_EXPIRED": "Onay bağlantısının süresi doldu.",
+    "BUTTON_BACK_TO_SHOPIFY": "Shopify Uygulamalarına Geri Dön"
+}

@@ -1,0 +1,16 @@
+{
+    "LABEL_TENANT_NAME": "帳戶",
+    "LABEL_TENANT_EMAIL": "電子郵件",
+    "HEADING": "切換到 Shopify 結算方式？",
+    "PAGE_TITLE": "確認 Shopify 帳單遷移 - FastComments",
+    "DESCRIPTION": "您正在將 FastComments Shopify 應用程式安裝到已關聯 FastComments 帳戶的店鋪中。要使用 Shopify 結算，需要切換此帳戶。",
+    "EXISTING_TENANT_HEADING": "已有的 FastComments 帳戶",
+    "BUTTON_CANCEL": "取消",
+    "WARNING_PACKAGE_REPLACEMENT": "確認後，您目前的 FastComments 方案將被替換為 Shopify 提供的四種付費方案（Starter、Growth、Pro 和 Business）。您現有的 Stripe 訂閱將在目前付費週期結束後自動取消。舊套餐將存檔 90 天，您可以聯絡客服恢復。評論、使用者、版主和設定資訊將全部保留。",
+    "BUTTON_CONFIRM": "是的，切換到 Shopify 結算方式。",
+    "WARNING_ALREADY_SHOPIFY": "此帳戶已配置為 Shopify 結算。確認作業會將此帳戶重新綁定到此店鋪並刷新存取權杖。",
+    "PRESERVED_DATA_NOTE": "所有評論、使用者、版主和組件配置均保留。僅套餐清單和計費來源發生變更。",
+    "BUTTON_BACK_TO_SHOPIFY": "返回 Shopify 應用",
+    "DESCRIPTION_EXPIRED": "此確認連結已過期或已被使用。如需重試，請在您的 Shopify 商店重新安裝 FastComments 應用程式。",
+    "HEADING_EXPIRED": "確認連結已過期"
+}

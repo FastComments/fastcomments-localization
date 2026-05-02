@@ -1,0 +1,16 @@
+{
+    "LABEL_TENANT_NAME": "Račun",
+    "LABEL_TENANT_EMAIL": "E-mail poruka",
+    "DESCRIPTION": "Instalirate aplikaciju FastComments Shopifi u prodavnici koja je već povezana sa nalogom FastComments. Da biste koristili Shopifi naplatu, ovaj račun treba da se prebaci.",
+    "PRESERVED_DATA_NOTE": "Svi komentari, korisnici, moderatori i konfiguracija vidžeta su sačuvani. Samo lista planova i izvor naplate se menjaju.",
+    "WARNING_PACKAGE_REPLACEMENT": "Potvrđivanje će zameniti vaše trenutne planove FastComments sa četiri plana Shopifi-a (Starter, Grovth, Pro, Business). Vaša postojeća pretplata na Stripe će biti postavljena da otkaže na kraju tekućeg plaćenog perioda. Stari planovi se arhiviraju za 90 dana i mogu se vratiti podrškom. Komentari, korisnici, moderatori i konfiguracija se čuvaju.",
+    "BUTTON_BACK_TO_SHOPIFY": "Nazad na Shopifi aplikacije",
+    "DESCRIPTION_EXPIRED": "Ovaj link za potvrdu je istekao ili je već korišćen. Da biste pokušali ponovo, ponovo instalirajte aplikaciju FastComments na vašoj Shopifi prodavnici.",
+    "PAGE_TITLE": "Potvrdite migraciju naplate Shopifi - FastComments",
+    "EXISTING_TENANT_HEADING": "Postojeći FastComments nalog",
+    "BUTTON_CONFIRM": "Da, pređite na Shopifi naplatu",
+    "BUTTON_CANCEL": "Pretraživanje",
+    "HEADING": "Prebacite se na Shopifi naplatu?",
+    "HEADING_EXPIRED": "Link za potvrdu je istekao",
+    "WARNING_ALREADY_SHOPIFY": "Ovaj račun je već konfigurisan za Shopifi naplatu. Potvrđivanje će ga ponovo vezati za ovu radnju i osvežiti pristupne tokene."
+}

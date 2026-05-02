@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Confirm Shopify billing migration - FastComments",
+    "HEADING": "Switch to Shopify billing?",
+    "DESCRIPTION": "You're installing the FastComments Shopify app on a shop that's already linked to a FastComments account. To use Shopify billing, this account needs to switch over.",
+    "EXISTING_TENANT_HEADING": "Existing FastComments account",
+    "LABEL_TENANT_NAME": "Account",
+    "LABEL_TENANT_EMAIL": "Email",
+    "WARNING_PACKAGE_REPLACEMENT": "Confirming will REPLACE your current FastComments plans with the four Shopify-billed plans (Starter, Growth, Pro, Business). Your existing Stripe subscription will be set to cancel at the end of its current paid period. Old plans are archived for 90 days and can be restored by support. Comments, users, moderators, and configuration are kept.",
+    "WARNING_ALREADY_SHOPIFY": "This account is already configured for Shopify billing. Confirming will rebind it to this shop and refresh access tokens.",
+    "PRESERVED_DATA_NOTE": "All comments, users, moderators, and widget configuration are preserved. Only the plan list and billing source change.",
+    "BUTTON_CONFIRM": "Yes, switch to Shopify billing",
+    "BUTTON_CANCEL": "Cancel",
+    "HEADING_EXPIRED": "Confirmation link expired",
+    "DESCRIPTION_EXPIRED": "This confirmation link has expired or already been used. To try again, reinstall the FastComments app on your Shopify shop.",
+    "BUTTON_BACK_TO_SHOPIFY": "Back to Shopify Apps"
+}

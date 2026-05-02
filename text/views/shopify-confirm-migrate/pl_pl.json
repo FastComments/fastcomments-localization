@@ -1,0 +1,16 @@
+{
+    "LABEL_TENANT_EMAIL": "E-mail",
+    "LABEL_TENANT_NAME": "Konto",
+    "PAGE_TITLE": "Potwierdź migrację rozliczeń Shopify - FastComments",
+    "EXISTING_TENANT_HEADING": "Istniejące konto FastComments",
+    "HEADING": "Przejść na rozliczenia Shopify?",
+    "WARNING_PACKAGE_REPLACEMENT": "Potwierdzenie spowoduje ZASTĄPIENIE Twoich obecnych planów FastComments czterema planami rozliczanymi przez Shopify (Starter, Growth, Pro, Business). Twoja obecna subskrypcja Stripe zostanie anulowana po zakończeniu bieżącego okresu płatności. Stare plany są archiwizowane przez 90 dni i mogą zostać przywrócone przez dział wsparcia. Komentarze, użytkownicy, moderatorzy i konfiguracja pozostają zachowane.",
+    "BUTTON_CANCEL": "Anulować",
+    "WARNING_ALREADY_SHOPIFY": "To konto jest już skonfigurowane do rozliczeń Shopify. Potwierdzenie spowoduje ponowne powiązanie go ze sklepem i odświeżenie tokenów dostępu.",
+    "PRESERVED_DATA_NOTE": "Wszystkie komentarze, użytkownicy, moderatorzy i konfiguracja widżetów pozostają zachowane. Zmieniają się jedynie lista planów i źródło rozliczeń.",
+    "DESCRIPTION": "Instalujesz aplikację FastComments Shopify w sklepie, który jest już połączony z kontem FastComments. Aby korzystać z rozliczeń Shopify, musisz przełączyć to konto.",
+    "BUTTON_CONFIRM": "Tak, przejdź na rozliczenia Shopify",
+    "HEADING_EXPIRED": "Link potwierdzający wygasł",
+    "DESCRIPTION_EXPIRED": "Ten link potwierdzający wygasł lub został już użyty. Aby spróbować ponownie, zainstaluj ponownie aplikację FastComments w swoim sklepie Shopify.",
+    "BUTTON_BACK_TO_SHOPIFY": "Powrót do aplikacji Shopify"
+}

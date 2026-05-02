@@ -1,0 +1,11 @@
+{
+    "INTRO": "你好",
+    "SUBJECT": "确认将 FastComments 的结算方式切换至 Shopify。",
+    "PARAGRAPH_WARNING": "确认操作后，您当前的套餐列表将被替换为 Shopify 提供的四种计费套餐（Starter、Growth、Pro 和 Business），并且您现有的 Stripe 订阅将在当前付费周期结束后自动取消。您的旧套餐信息将被存档 90 天，以便我们进行技术支持。",
+    "PARAGRAPH_REQUEST": "有人刚刚在 Shopify 商店<b>[shop]</b>上安装了 FastComments 应用，并要求将您现有的 FastComments 帐户切换到 Shopify 结算。",
+    "PARAGRAPH_PRESERVED": "评论、用户、版主和插件配置均保留。仅计费来源和套餐列表会发生变化。",
+    "BUTTON_CONFIRM": "确认并切换到 Shopify 付款方式。",
+    "LINK_CANCEL": "我没有提出这个请求 - 取消",
+    "PARAGRAPH_DISMISS": "如果您并未提出此项请求，您可以忽略此邮件，或点击下方链接立即取消请求。否则，该链接将在1小时后失效。",
+    "OUTRO": "感谢您使用 FastComments！"
+}

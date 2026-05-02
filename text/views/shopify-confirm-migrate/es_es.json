@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Confirmar la migración de facturación de Shopify - FastComments",
+    "HEADING": "¿Cambiar a la facturación de Shopify?",
+    "LABEL_TENANT_NAME": "Cuenta",
+    "EXISTING_TENANT_HEADING": "Cuenta de FastComments existente",
+    "DESCRIPTION": "Estás instalando la aplicación FastComments para Shopify en una tienda que ya está vinculada a una cuenta de FastComments. Para usar la facturación de Shopify, esta cuenta debe cambiarse.",
+    "LABEL_TENANT_EMAIL": "Correo electrónico",
+    "PRESERVED_DATA_NOTE": "Se conservan todos los comentarios, usuarios, moderadores y la configuración del widget. Solo cambian la lista de planes y la fuente de facturación.",
+    "BUTTON_CANCEL": "Cancelar",
+    "HEADING_EXPIRED": "El enlace de confirmación ha caducado.",
+    "BUTTON_BACK_TO_SHOPIFY": "Volver a las aplicaciones de Shopify",
+    "DESCRIPTION_EXPIRED": "Este enlace de confirmación ha caducado o ya se ha utilizado. Para intentarlo de nuevo, reinstale la aplicación FastComments en su tienda Shopify.",
+    "BUTTON_CONFIRM": "Sí, cambia a la facturación de Shopify.",
+    "WARNING_ALREADY_SHOPIFY": "Esta cuenta ya está configurada para la facturación de Shopify. Al confirmar, se volverá a vincular a esta tienda y se actualizarán los tokens de acceso.",
+    "WARNING_PACKAGE_REPLACEMENT": "Al confirmar, tus planes actuales de FastComments se reemplazarán por los cuatro planes facturados por Shopify (Starter, Growth, Pro y Business). Tu suscripción actual a Stripe se cancelará al finalizar el período de pago vigente. Los planes antiguos se archivan durante 90 días y pueden recuperarse contactando con el soporte técnico. Se conservan los comentarios, los usuarios, los moderadores y la configuración."
+}

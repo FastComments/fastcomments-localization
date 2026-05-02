@@ -1,0 +1,11 @@
+{
+    "INTRO": "Hola",
+    "BUTTON_CONFIRM": "Confirma y cambia a la facturación de Shopify.",
+    "PARAGRAPH_REQUEST": "Alguien acaba de instalar la aplicación FastComments en la tienda Shopify <b>[shop]</b> y ha solicitado cambiar su cuenta FastComments existente a la facturación de Shopify.",
+    "PARAGRAPH_DISMISS": "Si no solicitaste esto, puedes ignorar este correo electrónico o hacer clic en el enlace a continuación para cancelar la solicitud de inmediato. De lo contrario, el enlace caduca en una hora.",
+    "PARAGRAPH_WARNING": "Al confirmar, se reemplazará tu lista de planes actual con los cuatro planes facturados por Shopify (Starter, Growth, Pro y Business) y se cancelará tu suscripción a Stripe al finalizar el período de pago actual. Tus planes anteriores se archivarán durante 90 días para que puedas recuperarlos si necesitas asistencia técnica.",
+    "PARAGRAPH_PRESERVED": "Los comentarios, los usuarios, los moderadores y la configuración del widget se conservan. Solo cambian la fuente de facturación y la lista de planes.",
+    "OUTRO": "¡Gracias por usar FastComments!",
+    "LINK_CANCEL": "Yo no solicité esto - cancelar",
+    "SUBJECT": "Confirma el cambio de facturación de FastComments a Shopify."
+}

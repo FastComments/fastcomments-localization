@@ -1,0 +1,16 @@
+{
+    "LABEL_TENANT_NAME": "계정",
+    "DESCRIPTION": "이미 FastComments 계정에 연결된 쇼핑몰에 FastComments Shopify 앱을 설치하려고 합니다. Shopify 결제를 사용하려면 해당 계정을 전환해야 합니다.",
+    "HEADING": "쇼피파이 결제 시스템으로 전환하시겠습니까?",
+    "EXISTING_TENANT_HEADING": "기존 FastComments 계정",
+    "LABEL_TENANT_EMAIL": "이메일",
+    "PAGE_TITLE": "Shopify 결제 시스템 이전 확인 - FastComments",
+    "WARNING_ALREADY_SHOPIFY": "이 계정은 이미 Shopify 결제에 맞게 구성되어 있습니다. 확인을 클릭하면 해당 계정이 이 상점에 다시 연결되고 액세스 토큰이 갱신됩니다.",
+    "PRESERVED_DATA_NOTE": "모든 댓글, 사용자, 운영자 및 위젯 설정은 그대로 유지됩니다. 요금제 목록과 결제 수단만 변경됩니다.",
+    "WARNING_PACKAGE_REPLACEMENT": "확인을 클릭하시면 현재 사용 중인 FastComments 플랜이 Shopify에서 결제하는 4가지 플랜(Starter, Growth, Pro, Business)으로 대체됩니다. 기존 Stripe 구독은 현재 결제 기간이 만료되는 시점에 자동으로 취소됩니다. 이전 플랜은 90일 동안 보관되며, 고객 지원을 통해 복원할 수 있습니다. 댓글, 사용자, 관리자 및 설정 정보는 모두 유지됩니다.",
+    "BUTTON_CANCEL": "취소",
+    "HEADING_EXPIRED": "확인 링크가 만료되었습니다",
+    "BUTTON_CONFIRM": "네, 쇼피파이 결제 시스템으로 전환하세요.",
+    "BUTTON_BACK_TO_SHOPIFY": "Shopify 앱으로 돌아가기",
+    "DESCRIPTION_EXPIRED": "이 확인 링크는 만료되었거나 이미 사용되었습니다. 다시 시도하려면 Shopify 쇼핑몰에 FastComments 앱을 다시 설치하세요."
+}

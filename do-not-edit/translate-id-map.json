@@ -87,7 +87,7 @@
         "tenant-traffic-tile": 6,
         "tenant-users-online-tile": 7,
         "undo-toast": 4,
-        "packages": 44,
+        "packages": 74,
         "amptest": 2,
         "auth-login-link-failure": 5,
         "auth-my-account-integration-confirm": 10,
@@ -144,7 +144,7 @@
         "my-account-badge-users": 11,
         "my-account-billing-analytics": 14,
         "my-account-billing-history": 24,
-        "my-account-billing-info": 39,
+        "my-account-billing-info": 41,
         "my-account-cancel": 8,
         "my-account-cancel-failure": 4,
         "my-account-cancel-success": 5,
@@ -389,7 +389,11 @@
         "ai-agents": 196,
         "common-duration": 4,
         "vercel-integration-configure": 10,
-        "vercel-integration-install": 9
+        "vercel-integration-install": 9,
+        "shopify-admin": 6,
+        "shopify-billing-migration-confirm": 9,
+        "shopify-confirm-migrate": 14,
+        "shopify-migration-pending": 7
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -1943,7 +1947,37 @@
         "t41": "FLEX_PROPERTY_DOMAINS",
         "t42": "FLEX_PROPERTY_CHATGPT",
         "t43": "FLEX_PROPERTY_SSO_ADMINS",
-        "t44": "FLEX_PROPERTY_SSO_MODERATORS"
+        "t44": "FLEX_PROPERTY_SSO_MODERATORS",
+        "t45": "SHOPIFY_STARTER_NAME",
+        "t46": "SHOPIFY_STARTER_FOR_WHO",
+        "t47": "SHOPIFY_STARTER_FEATURE_1",
+        "t48": "SHOPIFY_STARTER_FEATURE_2",
+        "t49": "SHOPIFY_STARTER_FEATURE_3",
+        "t50": "SHOPIFY_STARTER_FEATURE_4",
+        "t51": "SHOPIFY_GROWTH_NAME",
+        "t52": "SHOPIFY_GROWTH_FOR_WHO",
+        "t53": "SHOPIFY_GROWTH_FEATURE_1",
+        "t54": "SHOPIFY_GROWTH_FEATURE_2",
+        "t55": "SHOPIFY_GROWTH_FEATURE_3",
+        "t56": "SHOPIFY_GROWTH_FEATURE_4",
+        "t57": "SHOPIFY_GROWTH_FEATURE_5",
+        "t58": "SHOPIFY_PRO_NAME",
+        "t59": "SHOPIFY_PRO_FOR_WHO",
+        "t60": "SHOPIFY_PRO_FEATURE_1",
+        "t61": "SHOPIFY_PRO_FEATURE_2",
+        "t62": "SHOPIFY_PRO_FEATURE_3",
+        "t63": "SHOPIFY_PRO_FEATURE_4",
+        "t64": "SHOPIFY_PRO_FEATURE_5",
+        "t65": "SHOPIFY_PRO_FEATURE_6",
+        "t66": "SHOPIFY_BUSINESS_NAME",
+        "t67": "SHOPIFY_BUSINESS_FOR_WHO",
+        "t68": "SHOPIFY_BUSINESS_FEATURE_1",
+        "t69": "SHOPIFY_BUSINESS_FEATURE_2",
+        "t70": "SHOPIFY_BUSINESS_FEATURE_3",
+        "t71": "SHOPIFY_BUSINESS_FEATURE_4",
+        "t72": "SHOPIFY_BUSINESS_FEATURE_5",
+        "t73": "SHOPIFY_BUSINESS_FEATURE_6",
+        "t74": "SHOPIFY_BUSINESS_FEATURE_7"
     },
     "amptest": {
         "t1": "PAGE_TITLE",
@@ -3199,7 +3233,9 @@
         "t36": "LINK_LIFT_TRIAL_LIMITS",
         "t37": "LINK_CANCEL_SUBSCRIPTION",
         "t38": "LINK_DELETE_ACCOUNT",
-        "t39": "BUTTON_INVOICE_SETTINGS"
+        "t39": "BUTTON_INVOICE_SETTINGS",
+        "t40": "TEXT_BILLING_MANAGED_BY_SHOPIFY",
+        "t41": "BUTTON_MANAGE_IN_SHOPIFY"
     },
     "my-account-cancel": {
         "t1": "PAGE_TITLE",
@@ -9518,5 +9554,49 @@
         "t7": "EXPOSE_API_KEY",
         "t8": "EXPOSE_API_KEY_HINT",
         "t9": "BUTTON_INSTALL"
+    },
+    "shopify-admin": {
+        "t1": "ERROR_AUTH_REQUIRED",
+        "t2": "ERROR_REQUEST_FAILED",
+        "t3": "PLAN_NONE",
+        "t4": "STATUS_ACTIVE",
+        "t5": "STATUS_GRACE_PERIOD",
+        "t6": "STATUS_NO_SUBSCRIPTION"
+    },
+    "shopify-billing-migration-confirm": {
+        "t1": "SUBJECT",
+        "t2": "INTRO",
+        "t3": "PARAGRAPH_REQUEST",
+        "t4": "PARAGRAPH_WARNING",
+        "t5": "PARAGRAPH_PRESERVED",
+        "t6": "BUTTON_CONFIRM",
+        "t7": "PARAGRAPH_DISMISS",
+        "t8": "LINK_CANCEL",
+        "t9": "OUTRO"
+    },
+    "shopify-confirm-migrate": {
+        "t1": "PAGE_TITLE",
+        "t2": "HEADING",
+        "t3": "DESCRIPTION",
+        "t4": "EXISTING_TENANT_HEADING",
+        "t5": "LABEL_TENANT_NAME",
+        "t6": "LABEL_TENANT_EMAIL",
+        "t7": "WARNING_PACKAGE_REPLACEMENT",
+        "t8": "WARNING_ALREADY_SHOPIFY",
+        "t9": "PRESERVED_DATA_NOTE",
+        "t10": "BUTTON_CONFIRM",
+        "t11": "BUTTON_CANCEL",
+        "t12": "HEADING_EXPIRED",
+        "t13": "DESCRIPTION_EXPIRED",
+        "t14": "BUTTON_BACK_TO_SHOPIFY"
+    },
+    "shopify-migration-pending": {
+        "t1": "PAGE_TITLE",
+        "t2": "HEADING",
+        "t3": "DESCRIPTION",
+        "t4": "SENT_TO_PREFIX",
+        "t5": "SENT_TO_SUFFIX",
+        "t6": "EXPIRY_NOTE",
+        "t7": "NO_EMAIL_NOTE"
     }
 }

@@ -1,0 +1,16 @@
+{
+    "LABEL_TENANT_NAME": "Račun",
+    "DESCRIPTION": "Aplikacijo FastComments Shopify nameščate v trgovino, ki je že povezana z računom FastComments. Če želite uporabljati obračunavanje Shopify, je treba ta račun preklopiti.",
+    "EXISTING_TENANT_HEADING": "Obstoječi račun FastComments",
+    "HEADING": "Želite preklopiti na obračunavanje v Shopifyju?",
+    "PAGE_TITLE": "Potrdite selitev obračunavanja v Shopify - FastComments",
+    "LABEL_TENANT_EMAIL": "E-pošta",
+    "BUTTON_CANCEL": "Prekliči",
+    "BUTTON_CONFIRM": "Da, preklopi na obračunavanje v Shopifyju",
+    "WARNING_PACKAGE_REPLACEMENT": "S potrditvijo boste ZAMENJALI svoje trenutne pakete FastComments s štirimi paketi, ki jih zaračunava Shopify (Starter, Growth, Pro, Business). Vaša obstoječa naročnina na Stripe bo preklicana ob koncu trenutnega plačljivega obdobja. Stari paketi so arhivirani 90 dni in jih lahko obnovi podpora. Komentarji, uporabniki, moderatorji in konfiguracija se ohranijo.",
+    "DESCRIPTION_EXPIRED": "Ta potrditvena povezava je potekla ali je bila že uporabljena. Če želite poskusiti znova, znova namestite aplikacijo FastComments v svojo trgovino Shopify.",
+    "HEADING_EXPIRED": "Povezava za potrditev je potekla",
+    "WARNING_ALREADY_SHOPIFY": "Ta račun je že konfiguriran za obračunavanje Shopify. S potrditvijo bo ponovno povezan s to trgovino in osveženi bodo žetoni za dostop.",
+    "PRESERVED_DATA_NOTE": "Vsi komentarji, uporabniki, moderatorji in konfiguracija gradnikov se ohranijo. Spremeni se le seznam paketov in vir obračunavanja.",
+    "BUTTON_BACK_TO_SHOPIFY": "Nazaj na aplikacije Shopify"
+}

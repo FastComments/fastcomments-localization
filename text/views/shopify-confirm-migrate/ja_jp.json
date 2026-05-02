@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "Shopifyの請求システム移行を確認する - FastComments",
+    "LABEL_TENANT_NAME": "アカウント",
+    "LABEL_TENANT_EMAIL": "メール",
+    "EXISTING_TENANT_HEADING": "既存のFastCommentsアカウント",
+    "HEADING": "Shopifyの決済システムに切り替えますか？",
+    "DESCRIPTION": "FastComments Shopifyアプリを、既にFastCommentsアカウントにリンクされているショップにインストールしようとしています。Shopifyの課金機能を使用するには、このアカウントを切り替える必要があります。",
+    "PRESERVED_DATA_NOTE": "コメント、ユーザー、モデレーター、ウィジェットの設定はすべて保持されます。変更されるのはプラン一覧と請求元のみです。",
+    "WARNING_ALREADY_SHOPIFY": "このアカウントは既にShopifyの課金設定が完了しています。確認すると、このショップにアカウントが再紐付けられ、アクセストークンが更新されます。",
+    "WARNING_PACKAGE_REPLACEMENT": "確認すると、現在ご利用中の FastComments プランが Shopify が課金する 4 つのプラン (Starter、Growth、Pro、Business) に置き換えられます。既存の Stripe サブスクリプションは、現在の支払い期間の終了時に自動的にキャンセルされます。以前のプランは 90 日間アーカイブされ、サポートを通じて復元できます。コメント、ユーザー、モデレーター、および設定は保持されます。",
+    "BUTTON_CANCEL": "キャンセル",
+    "BUTTON_CONFIRM": "はい、Shopifyの請求システムに切り替えます。",
+    "HEADING_EXPIRED": "確認リンクの有効期限が切れました",
+    "DESCRIPTION_EXPIRED": "この確認リンクは期限切れか、既に使用されています。もう一度お試しいただくには、ShopifyストアにFastCommentsアプリを再インストールしてください。",
+    "BUTTON_BACK_TO_SHOPIFY": "Shopifyアプリに戻る"
+}

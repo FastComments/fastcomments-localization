@@ -1,0 +1,16 @@
+{
+    "LABEL_TENANT_EMAIL": "电子邮件",
+    "EXISTING_TENANT_HEADING": "已有的 FastComments 帐户",
+    "DESCRIPTION": "您正在将 FastComments Shopify 应用安装到已关联 FastComments 帐户的店铺中。要使用 Shopify 结算，需要切换此帐户。",
+    "LABEL_TENANT_NAME": "帐户",
+    "PAGE_TITLE": "确认 Shopify 账单迁移 - FastComments",
+    "HEADING": "切换到 Shopify 结算方式？",
+    "WARNING_ALREADY_SHOPIFY": "此账户已配置为 Shopify 结算。确认操作会将此账户重新绑定到此店铺并刷新访问令牌。",
+    "WARNING_PACKAGE_REPLACEMENT": "确认后，您当前的 FastComments 套餐将被替换为 Shopify 提供的四种付费套餐（Starter、Growth、Pro 和 Business）。您现有的 Stripe 订阅将在当前付费周期结束后自动取消。旧套餐将存档 90 天，您可以联系客服恢复。评论、用户、版主和配置信息将全部保留。",
+    "BUTTON_CANCEL": "取消",
+    "PRESERVED_DATA_NOTE": "所有评论、用户、版主和组件配置均保留。仅套餐列表和计费来源发生变更。",
+    "BUTTON_CONFIRM": "是的，切换到 Shopify 结算方式。",
+    "BUTTON_BACK_TO_SHOPIFY": "返回 Shopify 应用",
+    "HEADING_EXPIRED": "确认链接已过期",
+    "DESCRIPTION_EXPIRED": "此确认链接已过期或已被使用。如需重试，请在您的 Shopify 商店重新安装 FastComments 应用。"
+}

@@ -1,0 +1,16 @@
+{
+    "LABEL_TENANT_NAME": "Conta",
+    "HEADING": "Mudar para o sistema de faturamento do Shopify?",
+    "LABEL_TENANT_EMAIL": "E-mail",
+    "PAGE_TITLE": "Confirme a migração de faturamento do Shopify - FastComments",
+    "WARNING_PACKAGE_REPLACEMENT": "Ao confirmar, seus planos atuais do FastComments serão SUBSTITUÍDOS pelos quatro planos cobrados pela Shopify (Starter, Growth, Pro e Business). Sua assinatura atual do Stripe será cancelada ao final do período pago vigente. Os planos antigos serão arquivados por 90 dias e poderão ser restaurados pelo suporte. Comentários, usuários, moderadores e configurações serão mantidos.",
+    "DESCRIPTION": "Você está instalando o aplicativo FastComments para Shopify em uma loja que já está vinculada a uma conta FastComments. Para usar o faturamento do Shopify, essa conta precisa ser migrada.",
+    "EXISTING_TENANT_HEADING": "Conta FastComments existente",
+    "WARNING_ALREADY_SHOPIFY": "Esta conta já está configurada para faturamento do Shopify. A confirmação irá vinculá-la novamente a esta loja e atualizar os tokens de acesso.",
+    "PRESERVED_DATA_NOTE": "Todos os comentários, usuários, moderadores e configurações do widget são preservados. Apenas a lista de planos e a forma de pagamento são alteradas.",
+    "BUTTON_CANCEL": "Cancelar",
+    "HEADING_EXPIRED": "O link de confirmação expirou.",
+    "BUTTON_CONFIRM": "Sim, mude para o sistema de faturamento do Shopify.",
+    "DESCRIPTION_EXPIRED": "Este link de confirmação expirou ou já foi usado. Para tentar novamente, reinstale o aplicativo FastComments na sua loja Shopify.",
+    "BUTTON_BACK_TO_SHOPIFY": "Voltar aos aplicativos da Shopify"
+}

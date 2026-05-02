@@ -1,0 +1,16 @@
+{
+    "LABEL_TENANT_NAME": "Konto",
+    "PAGE_TITLE": "Bekræft Shopify-faktureringsmigrering - FastComments",
+    "LABEL_TENANT_EMAIL": "E-mail",
+    "HEADING": "Skift til Shopify-fakturering?",
+    "EXISTING_TENANT_HEADING": "Eksisterende FastComments-konto",
+    "DESCRIPTION": "Du installerer FastComments Shopify-appen på en butik, der allerede er knyttet til en FastComments-konto. For at bruge Shopify-fakturering skal denne konto skifte.",
+    "WARNING_PACKAGE_REPLACEMENT": "Bekræftelse vil ERSTATTE dine nuværende FastComments-abonnementer med de fire Shopify-fakturerede abonnementer (Starter, Growth, Pro, Business). Dit eksisterende Stripe-abonnement vil blive indstillet til at blive annulleret ved udgangen af den nuværende betalte periode. Gamle abonnementer arkiveres i 90 dage og kan gendannes af support. Kommentarer, brugere, moderatorer og konfiguration gemmes.",
+    "WARNING_ALREADY_SHOPIFY": "Denne konto er allerede konfigureret til Shopify-fakturering. Bekræftelse vil tilknytte den til denne butik igen, og adgangstokens vil blive opdateret.",
+    "PRESERVED_DATA_NOTE": "Alle kommentarer, brugere, moderatorer og widgetkonfiguration bevares. Kun planlisten og faktureringskilden ændres.",
+    "BUTTON_CANCEL": "Ophæve",
+    "HEADING_EXPIRED": "Bekræftelseslinket er udløbet",
+    "BUTTON_BACK_TO_SHOPIFY": "Tilbage til Shopify-apps",
+    "BUTTON_CONFIRM": "Ja, skift til Shopify-fakturering",
+    "DESCRIPTION_EXPIRED": "Dette bekræftelseslink er udløbet eller allerede blevet brugt. Geninstaller FastComments-appen i din Shopify-butik for at prøve igen."
+}

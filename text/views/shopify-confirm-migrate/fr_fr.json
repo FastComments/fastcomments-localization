@@ -1,0 +1,16 @@
+{
+    "LABEL_TENANT_NAME": "Compte",
+    "DESCRIPTION": "Vous installez l'application FastComments pour Shopify sur une boutique déjà associée à un compte FastComments. Pour utiliser la facturation Shopify, ce compte doit être transféré.",
+    "EXISTING_TENANT_HEADING": "Compte FastComments existant",
+    "PAGE_TITLE": "Confirmation de la migration de la facturation Shopify - FastComments",
+    "HEADING": "Passer à la facturation Shopify ?",
+    "WARNING_PACKAGE_REPLACEMENT": "La confirmation remplacera vos abonnements FastComments actuels par les quatre abonnements facturés par Shopify (Starter, Growth, Pro et Business). Votre abonnement Stripe actuel sera résilié à la fin de sa période de facturation en cours. Les anciens abonnements sont archivés pendant 90 jours et peuvent être restaurés par le support. Les commentaires, les utilisateurs, les modérateurs et la configuration sont conservés.",
+    "PRESERVED_DATA_NOTE": "Tous les commentaires, utilisateurs, modérateurs et la configuration des widgets sont conservés. Seules la liste des forfaits et la source de facturation changent.",
+    "WARNING_ALREADY_SHOPIFY": "Ce compte est déjà configuré pour la facturation Shopify. La confirmation le reliera à cette boutique et actualisera les jetons d'accès.",
+    "LABEL_TENANT_EMAIL": "E-mail",
+    "BUTTON_CANCEL": "Annuler",
+    "BUTTON_CONFIRM": "Oui, passez à la facturation Shopify",
+    "HEADING_EXPIRED": "Le lien de confirmation a expiré.",
+    "BUTTON_BACK_TO_SHOPIFY": "Retour aux applications Shopify",
+    "DESCRIPTION_EXPIRED": "Ce lien de confirmation a expiré ou a déjà été utilisé. Pour réessayer, réinstallez l'application FastComments sur votre boutique Shopify."
+}
