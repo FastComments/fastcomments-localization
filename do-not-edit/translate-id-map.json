@@ -176,7 +176,7 @@
         "my-account-edit-avatar": 6,
         "my-account-edit-details": 33,
         "my-account-edit-details-change-password": 7,
-        "my-account-edit-details-change-password-do": 10,
+        "my-account-edit-details-change-password-do": 14,
         "my-account-edit-notifications": 48,
         "my-account-feedback-analytics": 16,
         "my-account-get-code": 22,
@@ -3955,7 +3955,11 @@
         "t7": "RETURN_TO_ACCOUNT",
         "t8": "INVALID_LINK_MESSAGE",
         "t9": "REQUEST_NEW_LINK",
-        "t10": "FAILURE_MESSAGE"
+        "t10": "FAILURE_MESSAGE",
+        "t11": "CONFIRM_PASSWORD_LABEL",
+        "t12": "PASSWORDS_DONT_MATCH",
+        "t13": "SHOW_PASSWORD",
+        "t14": "HIDE_PASSWORD"
     },
     "my-account-edit-notifications": {
         "t1": "TITLE",

@@ -16,5 +16,7 @@
     "EMAIL_HELP_TEXT": "Le enviaremos un enlace por correo electrónico para iniciar sesión. Si no tiene una cuenta, crearemos una para usted.",
     "LABEL_CAPTCHA": "¿Cuánto es <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Ayuda a determinar que no eres un bot.",
-    "BUTTON_LOGIN": "Acceso"
+    "BUTTON_LOGIN": "Acceso",
+    "HIDE_PASSWORD": "Ocultar contraseña",
+    "SHOW_PASSWORD": "Mostrar contraseña"
 }

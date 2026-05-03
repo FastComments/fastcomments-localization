@@ -16,5 +16,7 @@
     "EMAIL_HELP_TEXT": "We sturen je een link per e-mail om in te loggen. Als je nog geen account hebt, maken we er een voor je aan.",
     "LABEL_CAPTCHA": "Wat is <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Helpt vaststellen dat je geen bot bent.",
-    "BUTTON_LOGIN": "Login"
+    "BUTTON_LOGIN": "Login",
+    "SHOW_PASSWORD": "Wachtwoord weergeven",
+    "HIDE_PASSWORD": "Wachtwoord verbergen"
 }

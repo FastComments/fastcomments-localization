@@ -16,5 +16,7 @@
     "EMAIL_HELP_TEXT": "Poslat ćemo vam poveznicu za prijavu putem e-pošte. Ako nemate račun, kreirat ćemo ga za vas.",
     "LABEL_CAPTCHA": "Što je <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Pomaže utvrditi da niste bot.",
-    "BUTTON_LOGIN": "Prijava"
+    "BUTTON_LOGIN": "Prijava",
+    "SHOW_PASSWORD": "Prikaži lozinku",
+    "HIDE_PASSWORD": "Sakrij lozinku"
 }

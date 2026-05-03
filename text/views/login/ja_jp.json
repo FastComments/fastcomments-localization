@@ -16,5 +16,7 @@
     "EMAIL_HELP_TEXT": "サインインするためのリンクをメールで送信します。アカウントをお持ちでない場合は、こちらでアカウントを作成します。",
     "LABEL_CAPTCHA": "<%= captchaA %> + <%= captchaB %> とは何ですか?",
     "CAPTCHA_HELP": "あなたがボットではないことを確認できるようにします。",
-    "BUTTON_LOGIN": "ログイン"
+    "BUTTON_LOGIN": "ログイン",
+    "SHOW_PASSWORD": "パスワードを表示",
+    "HIDE_PASSWORD": "パスワードを隠す"
 }

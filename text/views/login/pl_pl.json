@@ -16,5 +16,7 @@
     "EMAIL_HELP_TEXT": "Wyślemy Ci link do logowania w wiadomości e-mail. Jeśli nie masz konta, utworzymy je dla Ciebie.",
     "LABEL_CAPTCHA": "Co to jest <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Pomaga ustalić, czy nie jesteś botem.",
-    "BUTTON_LOGIN": "Login"
+    "BUTTON_LOGIN": "Login",
+    "HIDE_PASSWORD": "Ukryj hasło",
+    "SHOW_PASSWORD": "Pokaż hasło"
 }

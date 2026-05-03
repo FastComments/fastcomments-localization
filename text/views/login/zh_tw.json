@@ -16,5 +16,7 @@
     "EMAIL_HELP_TEXT": "我們會透過電子郵件向您發送登入連結。如果您還沒有帳戶，我們會為您建立一個。",
     "LABEL_CAPTCHA": "<%= captchaA %> + <%= captchaB %> 等於多少？",
     "CAPTCHA_HELP": "有助於判斷您不是機器人。",
-    "BUTTON_LOGIN": "登入"
+    "BUTTON_LOGIN": "登入",
+    "SHOW_PASSWORD": "顯示密碼",
+    "HIDE_PASSWORD": "隱藏密碼"
 }

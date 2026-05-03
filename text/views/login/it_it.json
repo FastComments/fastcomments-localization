@@ -16,5 +16,7 @@
     "EMAIL_HELP_TEXT": "Ti invieremo un link via email per effettuare l'accesso. Se non hai un account, ne creeremo uno per te.",
     "LABEL_CAPTCHA": "Quanto fa <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Aiuta a stabilire che non sei un bot.",
-    "BUTTON_LOGIN": "Login"
+    "BUTTON_LOGIN": "Login",
+    "HIDE_PASSWORD": "Nascondi password",
+    "SHOW_PASSWORD": "Mostra password"
 }

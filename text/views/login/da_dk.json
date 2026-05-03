@@ -16,5 +16,7 @@
     "EMAIL_HELP_TEXT": "Vi sender dig et link via e-mail, så du kan logge ind. Hvis du ikke har en konto, opretter vi en til dig.",
     "LABEL_CAPTCHA": "Hvad er <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Hjælper med at afgøre, at du ikke er en bot.",
-    "BUTTON_LOGIN": "Log ind"
+    "BUTTON_LOGIN": "Log ind",
+    "HIDE_PASSWORD": "Skjul adgangskode",
+    "SHOW_PASSWORD": "Vis adgangskode"
 }

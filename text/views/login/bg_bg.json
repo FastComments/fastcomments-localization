@@ -16,5 +16,7 @@
     "EMAIL_HELP_TEXT": "Ще ви изпратим линк за вход по имейл. Ако нямате акаунт, ще ви създадем такъв.",
     "LABEL_CAPTCHA": "Какво е <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Помага да се определи, че не сте бот.",
-    "BUTTON_LOGIN": "Вход"
+    "BUTTON_LOGIN": "Вход",
+    "HIDE_PASSWORD": "Скриване на парола",
+    "SHOW_PASSWORD": "Покажи паролата"
 }
