@@ -39,5 +39,7 @@
     "LINK_DELETE_ACCOUNT": "アカウントを削除",
     "BUTTON_INVOICE_SETTINGS": "請求書設定",
     "TEXT_BILLING_MANAGED_BY_SHOPIFY": "このテナントの請求はShopifyによって管理されます。プランの変更や請求書は、Shopifyの管理画面で処理されます。",
-    "BUTTON_MANAGE_IN_SHOPIFY": "Shopifyでプランを管理する"
+    "BUTTON_MANAGE_IN_SHOPIFY": "Shopifyでプランを管理する",
+    "BUTTON_MANAGE_IN_BIGCOMMERCE": "BigCommerceでプランを管理する",
+    "TEXT_BILLING_MANAGED_BY_BIGCOMMERCE": "このテナントの請求はBigCommerceによって管理されます。プランの変更や請求書の発行は、BigCommerceの管理画面で行います。"
 }
