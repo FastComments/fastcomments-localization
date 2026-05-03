@@ -68,5 +68,7 @@
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "קידומת תת-דומיין לא חוקית. יש להשתמש רק באותיות קטנות, מספרים ומקפים (חייב להתחיל ולהסתיים באות או מספר, מקסימום 63 תווים).",
     "TEXT_REPLY_DOMAIN_RATE_LIMITED": "יותר מדי בקשות. אנא נסה שוב מאוחר יותר.",
     "TEXT_DOMAIN_EDITED_SUCCESS": "הדומיין עודכן בהצלחה!",
-    "LINK_EDIT": "לַעֲרוֹך"
+    "LINK_EDIT": "לַעֲרוֹך",
+    "LABEL_OBFUSCATE_EMAIL_LINKS": "ניתוב קישורי דוא\"ל דרך fastcomments.com",
+    "HELP_OBFUSCATE_EMAIL_LINKS": "הפעל אפשרות זו אם מוניטין הדומיין של האתר שלך גורם להודעות דוא\"ל להגיע לספאם. כפתורי צפייה בתגובה בהודעות דוא\"ל יפנו דרך fastcomments.com לפני שיגיעו לדף שלך."
 }

@@ -68,5 +68,7 @@
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "Prefisso di sottodominio non valido. Utilizzare solo lettere minuscole, numeri e trattini (devono iniziare e terminare con una lettera o un numero, massimo 63 caratteri).",
     "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Troppe richieste. Riprova più tardi.",
     "LINK_EDIT": "Modificare",
-    "TEXT_DOMAIN_EDITED_SUCCESS": "Dominio aggiornato con successo!"
+    "TEXT_DOMAIN_EDITED_SUCCESS": "Dominio aggiornato con successo!",
+    "LABEL_OBFUSCATE_EMAIL_LINKS": "Instrada i link email tramite fastcomments.com",
+    "HELP_OBFUSCATE_EMAIL_LINKS": "Attiva questa opzione se la reputazione del dominio del tuo sito sta causando l'invio di email di notifica nella cartella spam. I pulsanti \"Visualizza commenti\" nelle email reindirizzeranno a fastcomments.com prima di arrivare alla tua pagina."
 }

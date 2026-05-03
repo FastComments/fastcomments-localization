@@ -68,5 +68,7 @@
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "Nieprawidłowy prefiks subdomeny. Używaj tylko małych liter, cyfr i myślników (musi zaczynać się i kończyć literą lub cyfrą, maks. 63 znaki).",
     "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Zbyt wiele żądań. Spróbuj ponownie później.",
     "LINK_EDIT": "Redagować",
-    "TEXT_DOMAIN_EDITED_SUCCESS": "Domena zaktualizowana pomyślnie!"
+    "TEXT_DOMAIN_EDITED_SUCCESS": "Domena zaktualizowana pomyślnie!",
+    "LABEL_OBFUSCATE_EMAIL_LINKS": "Kieruj linki e-mail przez fastcomments.com",
+    "HELP_OBFUSCATE_EMAIL_LINKS": "Włącz tę opcję, jeśli reputacja domeny Twojej witryny powoduje, że powiadomienia e-mail trafiają do spamu. Przyciski „Wyświetl komentarze” w e-mailach będą przekierowywać przez fastcomments.com, zanim trafią na Twoją stronę."
 }

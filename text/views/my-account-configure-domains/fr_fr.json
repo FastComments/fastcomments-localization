@@ -68,5 +68,7 @@
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "Préfixe de sous-domaine invalide. Utilisez uniquement des lettres minuscules, des chiffres et des tirets (doit commencer et se terminer par une lettre ou un chiffre, maximum 63 caractères).",
     "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Trop de requêtes. Veuillez réessayer plus tard.",
     "LINK_EDIT": "Modifier",
-    "TEXT_DOMAIN_EDITED_SUCCESS": "Domaine mis à jour avec succès !"
+    "TEXT_DOMAIN_EDITED_SUCCESS": "Domaine mis à jour avec succès !",
+    "LABEL_OBFUSCATE_EMAIL_LINKS": "Faites transiter les liens de courriel par fastcomments.com",
+    "HELP_OBFUSCATE_EMAIL_LINKS": "Activez cette option si la réputation de votre domaine fait que les e-mails de notification atterrissent dans les spams. Les boutons « Voir les commentaires » dans les e-mails redirigeront vers fastcomments.com avant d'afficher votre page."
 }

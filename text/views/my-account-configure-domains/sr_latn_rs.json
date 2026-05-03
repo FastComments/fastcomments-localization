@@ -68,5 +68,7 @@
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "Nevažeći prefiks poddomena. Koristite samo mala slova, brojeve i crtice (moraju početi i završiti slovom ili brojem, maksimalno 63 znakova).",
     "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Previše zahteva. Pokušajte ponovo kasnije.",
     "LINK_EDIT": "Uredi",
-    "TEXT_DOMAIN_EDITED_SUCCESS": "Domen je uspešno ažuriran!"
+    "TEXT_DOMAIN_EDITED_SUCCESS": "Domen je uspešno ažuriran!",
+    "LABEL_OBFUSCATE_EMAIL_LINKS": "Usmerite linkove e-pošte kroz fastcomments.com",
+    "HELP_OBFUSCATE_EMAIL_LINKS": "Omogućite ovo ako reputacija domena vašeg sajta uzrokuje da e-poruke sa obaveštenjima slete u neželjenu poštu. Dugmad za prikaz komentara u e-porukama će se preusmeriti kroz fastcomments.com pre nego što slete na vašu stranicu."
 }

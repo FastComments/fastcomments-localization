@@ -151,7 +151,7 @@
         "my-account-configure-badges": 16,
         "my-account-configure-badges-badge": 47,
         "my-account-configure-badges-delete": 6,
-        "my-account-configure-domains": 72,
+        "my-account-configure-domains": 74,
         "my-account-configure-domains-disable-auto-add-confirm": 9,
         "my-account-configure-domains-failure": 4,
         "my-account-configure-domains-new": 10,
@@ -395,7 +395,8 @@
         "shopify-confirm-migrate": 14,
         "shopify-migration-pending": 7,
         "packages-bigcommerce": 30,
-        "packages-shopify": 30
+        "packages-shopify": 30,
+        "email-redirect-expired": 4
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -3411,7 +3412,9 @@
         "t69": "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN",
         "t70": "TEXT_REPLY_DOMAIN_RATE_LIMITED",
         "t71": "TEXT_DOMAIN_EDITED_SUCCESS",
-        "t72": "LINK_EDIT"
+        "t72": "LINK_EDIT",
+        "t73": "LABEL_OBFUSCATE_EMAIL_LINKS",
+        "t74": "HELP_OBFUSCATE_EMAIL_LINKS"
     },
     "my-account-configure-domains-disable-auto-add-confirm": {
         "t1": "PAGE_TITLE",
@@ -9670,5 +9673,11 @@
         "t28": "SHOPIFY_BUSINESS_FEATURE_5",
         "t29": "SHOPIFY_BUSINESS_FEATURE_6",
         "t30": "SHOPIFY_BUSINESS_FEATURE_7"
+    },
+    "email-redirect-expired": {
+        "t1": "PAGE_TITLE",
+        "t2": "HEADING_LIGHT",
+        "t3": "HEADING_BOLD",
+        "t4": "TEXT_LINK_EXPIRED"
     }
 }

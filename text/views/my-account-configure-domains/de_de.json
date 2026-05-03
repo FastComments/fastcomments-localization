@@ -68,5 +68,7 @@
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "Ungültiges Subdomain-Präfix. Verwenden Sie nur Kleinbuchstaben, Zahlen und Bindestriche (muss mit einem Buchstaben oder einer Zahl beginnen und enden, maximal 63 Zeichen).",
     "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Zu viele Anfragen. Bitte versuchen Sie es später erneut.",
     "LINK_EDIT": "Bearbeiten",
-    "TEXT_DOMAIN_EDITED_SUCCESS": "Domain erfolgreich aktualisiert!"
+    "TEXT_DOMAIN_EDITED_SUCCESS": "Domain erfolgreich aktualisiert!",
+    "HELP_OBFUSCATE_EMAIL_LINKS": "Aktivieren Sie diese Option, wenn die Domain-Reputation Ihrer Website dazu führt, dass Benachrichtigungs-E-Mails im Spam-Ordner landen. Schaltflächen zum Anzeigen von Kommentaren in E-Mails werden über fastcomments.com weitergeleitet, bevor sie auf Ihre Seite gelangen.",
+    "LABEL_OBFUSCATE_EMAIL_LINKS": "Leiten Sie E-Mail-Links über fastcomments.com weiter."
 }

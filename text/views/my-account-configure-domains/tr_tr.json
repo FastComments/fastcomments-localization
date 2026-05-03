@@ -68,5 +68,7 @@
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "Geçersiz alt alan adı öneki. Yalnızca küçük harfler, rakamlar ve tireler kullanın (bir harf veya rakamla başlayıp bitmeli, en fazla 63 karakter).",
     "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Çok fazla istek geldi. Lütfen daha sonra tekrar deneyin.",
     "LINK_EDIT": "Düzenlemek",
-    "TEXT_DOMAIN_EDITED_SUCCESS": "Alan adı başarıyla güncellendi!"
+    "TEXT_DOMAIN_EDITED_SUCCESS": "Alan adı başarıyla güncellendi!",
+    "LABEL_OBFUSCATE_EMAIL_LINKS": "E-posta bağlantılarını fastcomments.com üzerinden yönlendirin.",
+    "HELP_OBFUSCATE_EMAIL_LINKS": "Sitenizin alan adı itibarı, bildirim e-postalarının spam klasörüne düşmesine neden oluyorsa bunu etkinleştirin. E-postalardaki yorumları görüntüle düğmeleri, sayfanıza ulaşmadan önce fastcomments.com üzerinden yönlendirme yapacaktır."
 }

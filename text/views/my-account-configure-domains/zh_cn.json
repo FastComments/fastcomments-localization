@@ -68,5 +68,7 @@
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "无效的子域名前缀。请仅使用小写字母、数字和连字符（必须以字母或数字开头和结尾，最多 63 个字符）。",
     "TEXT_REPLY_DOMAIN_RATE_LIMITED": "请求次数过多，请稍后再试。",
     "TEXT_DOMAIN_EDITED_SUCCESS": "域名更新成功！",
-    "LINK_EDIT": "编辑"
+    "LINK_EDIT": "编辑",
+    "LABEL_OBFUSCATE_EMAIL_LINKS": "通过 fastcomments.com 路由电子邮件链接",
+    "HELP_OBFUSCATE_EMAIL_LINKS": "如果您的网站域名信誉导致通知邮件被判定为垃圾邮件，请启用此功能。邮件中的“查看评论”按钮将先重定向到 fastcomments.com，然后再跳转到您的页面。"
 }

@@ -68,5 +68,7 @@
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "Neveljavna predpona poddomene. Uporabite samo male črke, številke in vezaje (začeti in končati se mora s črko ali številko, največ 63 znakov).",
     "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Preveč zahtev. Poskusite znova pozneje.",
     "TEXT_DOMAIN_EDITED_SUCCESS": "Domena je bila uspešno posodobljena!",
-    "LINK_EDIT": "Uredi"
+    "LINK_EDIT": "Uredi",
+    "LABEL_OBFUSCATE_EMAIL_LINKS": "Usmerjanje povezav e-pošte prek fastcomments.com",
+    "HELP_OBFUSCATE_EMAIL_LINKS": "Omogočite to možnost, če ugled domene vašega spletnega mesta povzroča, da e-poštna obvestila pristanejo v neželeni pošti. Gumbi za ogled komentarjev v e-poštnih sporočilih bodo preusmerili prek fastcomments.com, preden bodo pristali na vaši strani."
 }

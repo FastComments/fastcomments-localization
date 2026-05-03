@@ -68,5 +68,7 @@
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "無效的子網域前綴。請僅使用小寫字母、數字和連字符（必須以字母或數字開頭和結尾，最多 63 個字元）。",
     "TEXT_REPLY_DOMAIN_RATE_LIMITED": "請求次數過多，請稍後再試。",
     "LINK_EDIT": "編輯",
-    "TEXT_DOMAIN_EDITED_SUCCESS": "域名更新成功！"
+    "TEXT_DOMAIN_EDITED_SUCCESS": "域名更新成功！",
+    "HELP_OBFUSCATE_EMAIL_LINKS": "如果您的網站網域名稱信譽導致通知郵件被判定為垃圾郵件，請啟用此功能。郵件中的「檢視評論」按鈕將先重定向到 fastcomments.com，然後再跳到您的頁面。",
+    "LABEL_OBFUSCATE_EMAIL_LINKS": "透過 fastcomments.com 路由電子郵件鏈接"
 }

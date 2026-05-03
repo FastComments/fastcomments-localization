@@ -68,5 +68,7 @@
     "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "サブドメインのプレフィックスが無効です。小文字、数字、ハイフンのみを使用してください（先頭と末尾は文字または数字でなければなりません。最大63文字）。",
     "TEXT_REPLY_DOMAIN_RATE_LIMITED": "リクエストが多すぎます。しばらくしてからもう一度お試しください。",
     "TEXT_DOMAIN_EDITED_SUCCESS": "ドメインの更新に成功しました！",
-    "LINK_EDIT": "編集"
+    "LINK_EDIT": "編集",
+    "HELP_OBFUSCATE_EMAIL_LINKS": "サイトのドメイン評判が原因で通知メールがスパムフォルダに振り分けられてしまう場合は、この設定を有効にしてください。メール内のコメント表示ボタンをクリックすると、fastcomments.comを経由してページに移動します。",
+    "LABEL_OBFUSCATE_EMAIL_LINKS": "メールリンクはfastcomments.com経由でルーティングされます。"
 }
