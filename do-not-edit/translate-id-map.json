@@ -113,7 +113,7 @@
         "create-conversation-failure": 6,
         "create-conversation-success": 10,
         "dashboard_common": 118,
-        "demo": 41,
+        "demo": 44,
         "error": 8,
         "global-distribution": 44,
         "homepage-email-opt-out": 5,
@@ -397,7 +397,7 @@
         "packages-bigcommerce": 30,
         "packages-shopify": 30,
         "email-redirect-expired": 4,
-        "comment-ui-online-users": 7
+        "comment-ui-online-users": 10
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -2532,7 +2532,10 @@
         "t38": "DEMO_OPTION_TOS_ABOUT",
         "t39": "DEMO_OPTION_AI_AGENTS_TITLE",
         "t40": "DEMO_OPTION_AI_AGENTS_DESC",
-        "t41": "DEMO_OPTION_AI_AGENTS_ABOUT"
+        "t41": "DEMO_OPTION_AI_AGENTS_ABOUT",
+        "t42": "DEMO_OPTION_USER_LIST_TITLE",
+        "t43": "DEMO_OPTION_USER_LIST_DESC",
+        "t44": "DEMO_OPTION_USER_LIST_ABOUT"
     },
     "error": {
         "t1": "PAGE_TITLE",
@@ -9713,6 +9716,9 @@
         "t4": "ONLINE_USERS_ANON_COUNT_MANY",
         "t5": "PRIVATE_PROFILE",
         "t6": "ONLINE_USERS_LOAD_MORE",
-        "t7": "ONLINE_USERS_MEMBERS_TITLE"
+        "t7": "ONLINE_USERS_MEMBERS_TITLE",
+        "t8": "ONLINE_USERS_PANEL_TITLE",
+        "t9": "ONLINE_USERS_SECTION_ONLINE",
+        "t10": "ONLINE_USERS_SECTION_OFFLINE"
     }
 }

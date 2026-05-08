@@ -39,5 +39,8 @@
     "DEMO_OPTION_AI_AGENTS_TITLE": "Thread Summarizer",
     "DEMO_OPTION_AI_AGENTS_DESC": "Thread summarization using <a href=\"https://docs.fastcomments.com/guide-ai-agents.html\" target=\"_blank\">AI Agents</a>, along with some other AI Agent features like welcome emails.",
     "DEMO_OPTION_AI_AGENTS_ABOUT": "This is a demo of our AI Agents feature. An agent is configured to periodically summarize the comments and leave a comment and pin it. Additionally, another agent is configured to send you a welcome email the first time you comment here (if you haven't commented on any of our other demos yet). An AI agent is also configured to do general moderation.",
+    "DEMO_OPTION_USER_LIST_TITLE": "User List",
+    "DEMO_OPTION_USER_LIST_DESC": "Show a sidebar of online viewers and past commenters next to the widget.",
+    "DEMO_OPTION_USER_LIST_ABOUT": "Renders a list of people on this page beside the comment widget. The Online Participants section shows everyone currently viewing in real time; the Offline Participants section lists past commenters when usersListIncludeOffline is enabled. Configurable to render as a top facepile, a left sidebar, or a right sidebar.",
     "DEMO_OPTION_VIEW_DOCUMENTATION": "View Documentation"
 }
