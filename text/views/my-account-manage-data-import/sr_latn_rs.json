@@ -80,19 +80,5 @@
     "IMPORT_TYPE_WORDPRESS": "Fejsbuk",
     "IMPORT_TYPE_WORDPRESS_CSV": "UordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "UordPress (KSML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Samo-Komentari",
-    "ANYCOMMENT": "Srpski (.xml",
-    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "URL adrese cele stranice",
-    "ANYCOMMENT_BASE_URL_LABEL": "URL baze sajta",
-    "ANYCOMMENT_BASE_URL_HINT": "Uključite protokol, kao https://blog.fastcomments.com. AnyComment izvozi relativne putanje; ova vrednost je prepended za struganje ili kao prefiks URL stranice.",
-    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Unesite osnovni URL za ovaj uvoz (kao https://blog.fastcomments.com).",
-    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Molimo Vas da uključite protokol za osnovni URL (kao https://blog.fastcomments.com).",
-    "IMPORT_TYPE_ANYCOMMENT": "Bilo kojiKomentar",
-    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "Relativni URL-ovi stranica",
-    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://yoursite.com",
-    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "VordPress ID članaka (će strugati vaš sajt)",
-    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "Format identifikatora stranice",
-    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Izaberite format identifikatora stranice.",
-    "ERROR_INVALID_FILE_ANYCOMMENT": "Izgleda da je taj fajl nevažeći. Za AnyComment uvoz, samo XML fajlovi su podržani.",
-    "ANYCOMMENT_URL_ID_FORMAT_HINT": "Izaberite format koji vaša instalacija FastComments koristi za identifikaciju stranica. VordPress ID članaka je podrazumevani za FastComments VordPress plugin: svaka jedinstvena stranica u vašem izvozu AniComment će biti preuzeta jednom, tako da možemo izvući VP post ID iz HTML-a. URL adrese pune stranice su podrazumevane za FastComments JavaScript vidžet na ne-VordPress sajtovima. Relativni URL-ovi stranica su za prilagođene integracije koje prolaze puteve umesto punih URL-ova."
+    "IMPORT_TYPE_JUST_COMMENTS": "Samo-Komentari"
 }

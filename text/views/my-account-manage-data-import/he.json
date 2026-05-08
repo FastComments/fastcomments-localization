@@ -80,19 +80,5 @@
     "IMPORT_TYPE_WORDPRESS": "וורדפרס",
     "IMPORT_TYPE_WORDPRESS_CSV": "וורדפרס (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "וורדפרס (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "רק תגובות",
-    "ANYCOMMENT": "תגובה כלשהי (.xml)",
-    "IMPORT_TYPE_ANYCOMMENT": "תגובה כלשהי",
-    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "פורמט מזהה הדף",
-    "ANYCOMMENT_URL_ID_FORMAT_HINT": "בחרו את הפורמט בו התקנת FastComments שלכם משתמשת לזיהוי דפים. מזהי מאמר של WordPress הם ברירת המחדל עבור תוסף FastComments של WordPress: כל עמוד ייחודי בייצוא AnyComment שלכם ייאסף פעם אחת כדי שנוכל לחלץ את מזהה הפוסט של WP מה-HTML. כתובות URL של דף מלא הן ברירת המחדל עבור ווידג'ט ה-JavaScript של FastComments באתרים שאינם של WordPress. כתובות URL של דף יחסי מיועדות לאינטגרציות מותאמות אישית שמעבירה נתיבים במקום כתובות URL מלאות.",
-    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "כתובות URL של דפים יחסיים",
-    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "כתובות URL של דף מלא",
-    "ANYCOMMENT_BASE_URL_LABEL": "כתובת אתר בסיסית",
-    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://yoursite.com",
-    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "מזהי מאמרים של וורדפרס (יגרדו את האתר שלך)",
-    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "בחר פורמט של מזהה עמוד.",
-    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "הזן כתובת URL בסיסית עבור ייבוא זה (כגון https://blog.fastcomments.com).",
-    "ANYCOMMENT_BASE_URL_HINT": "כלול את הפרוטוקול, כמו https://blog.fastcomments.com. AnyComment מייצא נתיבים יחסיים; ערך זה מוכנס מראש לצורך גירוד או כקידומת כתובת URL של הדף.",
-    "ERROR_INVALID_FILE_ANYCOMMENT": "נראה שהקובץ הזה אינו חוקי. עבור ייבוא AnyComment, רק קבצי XML נתמכים.",
-    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "אנא כלול את הפרוטוקול עבור כתובת ה-URL הבסיסית (כגון https://blog.fastcomments.com)."
+    "IMPORT_TYPE_JUST_COMMENTS": "רק תגובות"
 }

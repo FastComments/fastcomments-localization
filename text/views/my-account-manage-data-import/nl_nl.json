@@ -80,19 +80,5 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Just-Comments",
-    "ANYCOMMENT": "AnyComment (.xml)",
-    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "Pagina-identificatieformaat",
-    "IMPORT_TYPE_ANYCOMMENT": "AnyComment",
-    "ANYCOMMENT_BASE_URL_LABEL": "Basis-URL van de site",
-    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "Relatieve pagina-URL's",
-    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "Volledige pagina-URL's",
-    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "WordPress-artikel-ID's (worden van uw site gescrapet)",
-    "ANYCOMMENT_URL_ID_FORMAT_HINT": "Kies het formaat dat uw FastComments-installatie gebruikt om pagina's te identificeren. WordPress-artikel-ID's is de standaard voor de FastComments WordPress-plugin: elke unieke pagina in uw AnyComments-export wordt één keer opgehaald, zodat we de WP-bericht-ID uit de HTML kunnen halen. Volledige pagina-URL's is de standaard voor de FastComments JavaScript-widget op niet-WordPress-sites. Relatieve pagina-URL's is voor aangepaste integraties die paden in plaats van volledige URL's doorgeven.",
-    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://jouwsite.com",
-    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Kies een pagina-identificatieformaat.",
-    "ANYCOMMENT_BASE_URL_HINT": "Voeg het protocol toe, zoals https://blog.fastcomments.com. AnyComment exporteert relatieve paden; deze waarde wordt toegevoegd voor het scrapen of als voorvoegsel van de pagina-URL.",
-    "ERROR_INVALID_FILE_ANYCOMMENT": "Het lijkt erop dat dat bestand ongeldig is. Voor AnyComment-imports worden alleen XML-bestanden ondersteund.",
-    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Voer een basis-URL in voor deze import (bijvoorbeeld https://blog.fastcomments.com).",
-    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Vermeld het protocol voor de basis-URL (bijvoorbeeld https://blog.fastcomments.com)."
+    "IMPORT_TYPE_JUST_COMMENTS": "Just-Comments"
 }

@@ -80,19 +80,5 @@
     "IMPORT_TYPE_WORDPRESS": "Вордпрес",
     "IMPORT_TYPE_WORDPRESS_CSV": "Вордпрес (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "Вордпрес (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Само коментари",
-    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "Комплетни URL-ови страница",
-    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "ИД-ови чланака са WordPress-а (скраћиваће садржај вашег сајта)",
-    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "Формат идентификатора странице",
-    "ANYCOMMENT": "Било који коментар (.xml)",
-    "IMPORT_TYPE_ANYCOMMENT": "Било који коментар",
-    "ANYCOMMENT_BASE_URL_LABEL": "Основни URL сајта",
-    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "Релативни URL-ови страница",
-    "ANYCOMMENT_URL_ID_FORMAT_HINT": "Изаберите формат који ваша FastComments инсталација користи за идентификацију страница. WordPress ИД-ови чланака су подразумевани за FastComments WordPress додатак: свака јединствена страница у вашем AnyComment извозу биће преузета једном како бисмо могли да издвојимо WP ИД објаве из HTML-а. Комплетни URL-ови страница су подразумевани за FastComments JavaScript виџет на сајтовима који нису WordPress. Релативни URL-ови страница су за прилагођене интеграције које прослеђују путање уместо пуних URL-ова.",
-    "ANYCOMMENT_BASE_URL_HINT": "Укључите протокол, као што је https://blog.fastcomments.com. AnyComment извози релативне путање; ова вредност се додаје на почетак за извлачење података или као префикс URL-а странице.",
-    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://yoursite.com",
-    "ERROR_INVALID_FILE_ANYCOMMENT": "Изгледа да је та датотека неважећа. За увоз AnyComment-а, подржане су само XML датотеке.",
-    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Изаберите формат идентификатора странице.",
-    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Унесите основни URL за овај увоз (као што је https://blog.fastcomments.com).",
-    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Молимо вас да наведете протокол за основни URL (као што је https://blog.fastcomments.com)."
+    "IMPORT_TYPE_JUST_COMMENTS": "Само коментари"
 }

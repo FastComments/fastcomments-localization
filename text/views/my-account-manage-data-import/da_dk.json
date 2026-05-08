@@ -80,19 +80,5 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Bare kommentarer",
-    "ANYCOMMENT": "Enhver kommentar (.xml)",
-    "IMPORT_TYPE_ANYCOMMENT": "Enhver kommentar",
-    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "WordPress Artikel ID'er (vil scrape dit websted)",
-    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "Format for sideidentifikator",
-    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://dinside.com",
-    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "URL'er til hele siden",
-    "ANYCOMMENT_BASE_URL_LABEL": "Webstedsbasis-URL",
-    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Vælg et format for sideidentifikator.",
-    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "Relative side-URL'er",
-    "ANYCOMMENT_BASE_URL_HINT": "Inkluder protokollen, f.eks. https://blog.fastcomments.com. AnyComment eksporterer relative stier; denne værdi sættes ind før scraping eller som præfiks for sidens URL.",
-    "ERROR_INVALID_FILE_ANYCOMMENT": "Det ser ud til, at filen er ugyldig. Kun XML-filer understøttes til AnyComment-import.",
-    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Indtast en basis-URL til denne import (f.eks. https://blog.fastcomments.com).",
-    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Angiv venligst protokollen for basis-URL'en (f.eks. https://blog.fastcomments.com).",
-    "ANYCOMMENT_URL_ID_FORMAT_HINT": "Vælg det format, din FastComments-installation bruger til at identificere sider. WordPress Artikel-ID'er er standardindstillingen for FastComments WordPress-pluginnet: hver unikke side i din AnyComment-eksport hentes én gang, så vi kan udtrække WP-indlægs-ID'et fra HTML-koden. Fuld side-URL'er er standardindstillingen for FastComments JavaScript-widgetten på ikke-WordPress-websteder. Relative side-URL'er er til tilpassede integrationer, der overfører stier i stedet for fulde URL'er."
+    "IMPORT_TYPE_JUST_COMMENTS": "Bare kommentarer"
 }

@@ -80,19 +80,5 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Просто комментарии",
-    "IMPORT_TYPE_ANYCOMMENT": "Любой комментарий",
-    "ANYCOMMENT": "AnyComment (.xml)",
-    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "Формат идентификатора страницы",
-    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "Идентификаторы статей WordPress (будут сканировать ваш сайт)",
-    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "Относительные URL-адреса страниц",
-    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "URL-адреса полных страниц",
-    "ANYCOMMENT_URL_ID_FORMAT_HINT": "Выберите формат, используемый вашей установкой FastComments для идентификации страниц. По умолчанию для плагина FastComments WordPress используется формат «Идентификаторы статей WordPress»: каждая уникальная страница в вашем экспорте AnyComment будет загружена один раз, чтобы мы могли извлечь идентификатор записи WP из HTML. По умолчанию для виджета FastComments JavaScript на сайтах, не использующих WordPress, используется формат «Полные URL-адреса страниц». Формат «Относительные URL-адреса страниц» используется для пользовательских интеграций, которые передают пути вместо полных URL-адресов.",
-    "ANYCOMMENT_BASE_URL_HINT": "Укажите протокол, например, https://blog.fastcomments.com. AnyComment экспортирует относительные пути; это значение добавляется в начало для парсинга или в качестве префикса URL страницы.",
-    "ANYCOMMENT_BASE_URL_LABEL": "Базовый URL сайта",
-    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://yoursite.com",
-    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Выберите формат идентификатора страницы.",
-    "ERROR_INVALID_FILE_ANYCOMMENT": "Похоже, этот файл недействителен. Для импорта через AnyComment поддерживаются только XML-файлы.",
-    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Пожалуйста, укажите протокол для базового URL-адреса (например, https://blog.fastcomments.com).",
-    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Введите базовый URL-адрес для импорта (например, https://blog.fastcomments.com)."
+    "IMPORT_TYPE_JUST_COMMENTS": "Просто комментарии"
 }

@@ -80,19 +80,5 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Commentaires justes",
-    "IMPORT_TYPE_ANYCOMMENT": "Commentaire",
-    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "format d'identifiant de page",
-    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "Identifiants d'articles WordPress (extraction de données de votre site)",
-    "ANYCOMMENT": "AnyComment (.xml)",
-    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "URL relatives des pages",
-    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "URL de page complète",
-    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://votresite.com",
-    "ANYCOMMENT_BASE_URL_LABEL": "URL de base du site",
-    "ERROR_INVALID_FILE_ANYCOMMENT": "Il semblerait que ce fichier soit invalide. Seuls les fichiers XML sont pris en charge pour les importations AnyComment.",
-    "ANYCOMMENT_URL_ID_FORMAT_HINT": "Choisissez le format utilisé par votre installation FastComments pour identifier les pages. Les identifiants d'articles WordPress sont le format par défaut pour l'extension FastComments WordPress : chaque page unique de votre exportation AnyComment sera récupérée une seule fois afin d'extraire l'identifiant de l'article WordPress du code HTML. Les URL complètes sont le format par défaut pour le widget JavaScript FastComments sur les sites non WordPress. Les URL relatives sont destinées aux intégrations personnalisées qui transmettent des chemins d'accès plutôt que des URL complètes.",
-    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Choisissez un format d'identifiant de page.",
-    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Veuillez inclure le protocole pour l'URL de base (comme https://blog.fastcomments.com).",
-    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Saisissez une URL de base pour cette importation (par exemple : https://blog.fastcomments.com).",
-    "ANYCOMMENT_BASE_URL_HINT": "Incluez le protocole, par exemple https://blog.fastcomments.com. AnyComment exporte les chemins relatifs ; cette valeur est ajoutée en début d’URL pour l’extraction de données ou comme préfixe de l’URL de la page."
+    "IMPORT_TYPE_JUST_COMMENTS": "Commentaires justes"
 }

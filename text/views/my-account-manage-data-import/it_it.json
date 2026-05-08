@@ -80,19 +80,5 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Solo commenti",
-    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "Formato identificativo pagina",
-    "ANYCOMMENT": "Qualsiasi commento (.xml)",
-    "IMPORT_TYPE_ANYCOMMENT": "Qualsiasi commento",
-    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "ID degli articoli di WordPress (verrà effettuato lo scraping del tuo sito)",
-    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "URL della pagina completa",
-    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "URL di pagine relative",
-    "ANYCOMMENT_BASE_URL_LABEL": "URL di base del sito",
-    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://yoursite.com",
-    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Inserisci un URL di base per questa importazione (ad esempio https://blog.fastcomments.com).",
-    "ERROR_INVALID_FILE_ANYCOMMENT": "Sembra che il file non sia valido. Per le importazioni AnyComment, sono supportati solo i file XML.",
-    "ANYCOMMENT_BASE_URL_HINT": "Includi il protocollo, ad esempio https://blog.fastcomments.com. AnyComment esporta percorsi relativi; questo valore viene anteposto per lo scraping o come prefisso dell'URL della pagina.",
-    "ANYCOMMENT_URL_ID_FORMAT_HINT": "Scegli il formato che la tua installazione di FastComments utilizza per identificare le pagine. Gli ID degli articoli di WordPress sono l'impostazione predefinita per il plugin FastComments per WordPress: ogni pagina univoca nell'esportazione di AnyComment verrà recuperata una sola volta, in modo da poter estrarre l'ID del post di WordPress dall'HTML. Gli URL completi delle pagine sono l'impostazione predefinita per il widget JavaScript di FastComments sui siti non WordPress. Gli URL relativi delle pagine sono per le integrazioni personalizzate che passano i percorsi anziché gli URL completi.",
-    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Scegli un formato per l'identificativo della pagina.",
-    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Si prega di includere il protocollo per l'URL di base (ad esempio https://blog.fastcomments.com)."
+    "IMPORT_TYPE_JUST_COMMENTS": "Solo commenti"
 }
