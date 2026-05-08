@@ -127,7 +127,7 @@
         "login-success": 9,
         "login-two-factor": 18,
         "maintenance-page": 4,
-        "marketing_common": 128,
+        "marketing_common": 130,
         "moderator-join-failure": 9,
         "moderator-join-success": 6,
         "my-account": 5,
@@ -397,7 +397,8 @@
         "packages-bigcommerce": 30,
         "packages-shopify": 30,
         "email-redirect-expired": 4,
-        "comment-ui-online-users": 10
+        "comment-ui-online-users": 10,
+        "examples": 8
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -2940,7 +2941,9 @@
         "t125": "PUBLIC_FOOTER_V2_WEBINARS",
         "t126": "PUBLIC_FOOTER_V2_NEWS_SITES",
         "t127": "PUBLIC_NAV_ITEM_AI_AGENTS",
-        "t128": "PUBLIC_NAV_ITEM_AI_AGENTS_DESC"
+        "t128": "PUBLIC_NAV_ITEM_AI_AGENTS_DESC",
+        "t129": "PUBLIC_NAV_ITEM_LIVE_EXAMPLES",
+        "t130": "PUBLIC_NAV_ITEM_LIVE_EXAMPLES_DESC"
     },
     "moderator-join-failure": {
         "t1": "PAGE_TITLE",
@@ -9720,5 +9723,15 @@
         "t8": "ONLINE_USERS_PANEL_TITLE",
         "t9": "ONLINE_USERS_SECTION_ONLINE",
         "t10": "ONLINE_USERS_SECTION_OFFLINE"
+    },
+    "examples": {
+        "t1": "PAGE_TITLE",
+        "t2": "META_DESCRIPTION",
+        "t3": "HERO_TITLE_LIGHT",
+        "t4": "HERO_TITLE_BOLD",
+        "t5": "HERO_DESCRIPTION",
+        "t6": "COL_SITE",
+        "t7": "COL_COMMENT_COUNT",
+        "t8": "EMPTY_STATE"
     }
 }
