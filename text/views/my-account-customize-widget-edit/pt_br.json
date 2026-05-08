@@ -267,5 +267,15 @@
     "AI_ASSISTANT_TYPING": "Pensamento",
     "AI_ASSISTANT_YOU": "Você",
     "AI_ASSISTANT_ASSISTANT": "Assistente",
-    "AI_ASSISTANT_FIELD_UNKNOWN": "[field] (campo desconhecido)"
+    "AI_ASSISTANT_FIELD_UNKNOWN": "[field] (campo desconhecido)",
+    "OPTION_USERS_LIST_OFF": "Desligado",
+    "LABEL_USERS_LIST_LOCATION": "Localização da lista de usuários",
+    "OPTION_USERS_LIST_RIGHT": "Barra lateral direita",
+    "OPTION_USERS_LIST_TOP": "Topo (fileira de avatares)",
+    "OPTION_USERS_LIST_LEFT": "Barra lateral esquerda",
+    "TEXT_USERS_LIST_LOCATION_NOTE": "Exibe as pessoas que comentaram na página ou que estão visualizando-a no momento. A opção \"Top\" exibe uma linha sobreposta de avatares acima dos comentários. As opções \"Esquerda\" e \"Direita\" exibem uma barra lateral com nomes e indicadores de presença online.",
+    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Incluir comentários anteriores",
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Quando ativada, a lista de usuários também inclui pessoas que comentaram na página, mas que não estão online no momento. Por padrão: apenas os visitantes online no momento são exibidos.",
+    "LABEL_ENABLE_FCHAT": "Ativar o aplicativo FChat para desktop",
+    "TEXT_ENABLE_FCHAT_NOTE": "Habilitar essa opção permite que os usuários do fastcomments.com entrem neste site como servidores de bate-papo no aplicativo FChat para desktop. Eles podem navegar pelas páginas, ler comentários e postar respostas em tempo real."
 }

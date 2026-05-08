@@ -80,5 +80,19 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Samo komentarji"
+    "IMPORT_TYPE_JUST_COMMENTS": "Samo komentarji",
+    "IMPORT_TYPE_ANYCOMMENT": "Katerikoli komentar",
+    "ANYCOMMENT": "KaterikoliKomentar (.xml)",
+    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "Oblika identifikatorja strani",
+    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "Celotni URL-ji strani",
+    "ANYCOMMENT_BASE_URL_LABEL": "Osnovni URL spletnega mesta",
+    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "Relativni URL-ji strani",
+    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "ID-ji člankov WordPressa (bodo strgali vsebino vašega spletnega mesta)",
+    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://vasastran.com",
+    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Vnesite osnovni URL za ta uvoz (na primer https://blog.fastcomments.com).",
+    "ANYCOMMENT_BASE_URL_HINT": "Vključite protokol, na primer https://blog.fastcomments.com. AnyComment izvozi relativne poti; ta vrednost je dodana za strganje ali kot predpona URL-ja strani.",
+    "ERROR_INVALID_FILE_ANYCOMMENT": "Zdi se, da je datoteka neveljavna. Za uvoz AnyComment so podprte samo datoteke XML.",
+    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Izberite obliko identifikatorja strani.",
+    "ANYCOMMENT_URL_ID_FORMAT_HINT": "Izberite obliko zapisa, ki jo vaša namestitev FastComments uporablja za prepoznavanje strani. ID-ji člankov WordPress so privzeta vrednost za vtičnik FastComments WordPress: vsaka edinstvena stran v vašem izvozu AnyComment bo pridobljena enkrat, da bomo lahko iz HTML-ja izluščili ID objave WP. Celotni URL-ji strani so privzeta vrednost za gradnik JavaScript FastComments na spletnih mestih, ki niso WordPress. Relativni URL-ji strani so namenjeni prilagojenim integracijam, ki posredujejo poti namesto celotnih URL-jev.",
+    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Prosimo, vključite protokol za osnovni URL (kot je https://blog.fastcomments.com)."
 }

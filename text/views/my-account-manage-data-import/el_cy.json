@@ -80,5 +80,19 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Μόνο σχόλια"
+    "IMPORT_TYPE_JUST_COMMENTS": "Μόνο σχόλια",
+    "IMPORT_TYPE_ANYCOMMENT": "Οποιοδήποτε σχόλιο",
+    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "Μορφή αναγνωριστικού σελίδας",
+    "ANYCOMMENT": "Οποιοδήποτε σχόλιο (.xml)",
+    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "Σχετικές διευθύνσεις URL σελίδας",
+    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "Αναγνωριστικά άρθρων WordPress (θα διαγράψουν τον ιστότοπό σας)",
+    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "URL πλήρους σελίδας",
+    "ANYCOMMENT_BASE_URL_LABEL": "URL βάσης ιστότοπου",
+    "ANYCOMMENT_BASE_URL_HINT": "Συμπεριλάβετε το πρωτόκολλο, όπως https://blog.fastcomments.com. Το AnyComment εξάγει σχετικές διαδρομές. Αυτή η τιμή προτίθεται για την αποκομιδή ή ως πρόθεμα διεύθυνσης URL σελίδας.",
+    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://yoursite.com",
+    "ERROR_INVALID_FILE_ANYCOMMENT": "Φαίνεται ότι αυτό το αρχείο δεν είναι έγκυρο. Για τις εισαγωγές AnyComment, υποστηρίζονται μόνο αρχεία XML.",
+    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Εισαγάγετε μια βασική διεύθυνση URL για αυτήν την εισαγωγή (όπως https://blog.fastcomments.com).",
+    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Επιλέξτε μια μορφή αναγνωριστικού σελίδας.",
+    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Παρακαλώ συμπεριλάβετε το πρωτόκολλο για τη βασική διεύθυνση URL (όπως https://blog.fastcomments.com).",
+    "ANYCOMMENT_URL_ID_FORMAT_HINT": "Επιλέξτε τη μορφή που χρησιμοποιεί η εγκατάσταση του FastComments για την αναγνώριση σελίδων. Τα αναγνωριστικά άρθρων WordPress είναι η προεπιλογή για την προσθήκη FastComments WordPress: κάθε μοναδική σελίδα στην εξαγωγή AnyComment θα ανακτηθεί μία φορά, ώστε να μπορέσουμε να εξαγάγουμε το αναγνωριστικό ανάρτησης WP από την HTML. Οι διευθύνσεις URL πλήρους σελίδας είναι η προεπιλογή για το γραφικό στοιχείο JavaScript του FastComments σε ιστότοπους που δεν είναι WordPress. Οι σχετικές διευθύνσεις URL σελίδας είναι για προσαρμοσμένες ενσωματώσεις που μεταδίδουν διαδρομές αντί για πλήρεις διευθύνσεις URL."
 }

@@ -267,5 +267,15 @@
     "AI_ASSISTANT_FIELD_UPDATED": "Ažurirano [field].",
     "AI_ASSISTANT_ERROR_TOKEN_BUDGET": "Dosegli ste današnje ograničenje korištenja za asistenta. Pokušajte ponovno sutra.",
     "AI_ASSISTANT_YOU": "Vas",
-    "AI_ASSISTANT_ASSISTANT": "Pomoćnik"
+    "AI_ASSISTANT_ASSISTANT": "Pomoćnik",
+    "OPTION_USERS_LIST_OFF": "Isključeno",
+    "LABEL_USERS_LIST_LOCATION": "Lokacija popisa korisnika",
+    "TEXT_USERS_LIST_LOCATION_NOTE": "Prikažite ljude koji su komentirali stranicu ili je trenutno pregledavaju. Gore prikazuje preklopljeni red avatara iznad komentara. Lijevo i desno prikazuju bočnu traku s imenima i online indikatorima.",
+    "LABEL_ENABLE_FCHAT": "Omogući aplikaciju FChat za stolna računala",
+    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Uključi bivše komentatore",
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Kada je omogućeno, popis korisnika također uključuje osobe koje su komentirale stranicu, ali trenutno nisu online. Zadano: prikazuju se samo trenutno online gledatelji.",
+    "TEXT_ENABLE_FCHAT_NOTE": "Omogućavanjem ove opcije korisnici fastcomments.com mogu se pridružiti ovoj stranici kao poslužitelj za chat u aplikaciji FChat za stolna računala. Mogu pregledavati stranice, čitati komentare i objavljivati odgovore u stvarnom vremenu.",
+    "OPTION_USERS_LIST_RIGHT": "Desna bočna traka",
+    "OPTION_USERS_LIST_TOP": "Gore (red avatara)",
+    "OPTION_USERS_LIST_LEFT": "Lijeva bočna traka"
 }

@@ -267,5 +267,15 @@
     "AI_ASSISTANT_FIELD_UNKNOWN": "[field] (neznano polje)",
     "AI_ASSISTANT_YOU": "Ti",
     "AI_ASSISTANT_ASSISTANT": "Pomočnik",
-    "AI_ASSISTANT_TYPING": "Razmišljanje"
+    "AI_ASSISTANT_TYPING": "Razmišljanje",
+    "LABEL_USERS_LIST_LOCATION": "Lokacija seznama uporabnikov",
+    "OPTION_USERS_LIST_OFF": "Izklopljeno",
+    "TEXT_USERS_LIST_LOCATION_NOTE": "Prikaži ljudi, ki so komentirali stran ali si jo trenutno ogledujejo. Zgoraj prikaže prekrivajočo se vrstico avatarjev nad komentarji. Levo in desno prikažeta stransko vrstico z imeni in kazalniki spletne povezave.",
+    "OPTION_USERS_LIST_RIGHT": "Desna stranska vrstica",
+    "OPTION_USERS_LIST_TOP": "Zgoraj (vrstica z avatarji)",
+    "OPTION_USERS_LIST_LEFT": "Leva stranska vrstica",
+    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Vključi pretekle komentatorje",
+    "LABEL_ENABLE_FCHAT": "Omogoči namizno aplikacijo FChat",
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Ko je ta možnost omogočena, seznam uporabnikov vključuje tudi osebe, ki so komentirale stran, vendar trenutno niso na spletu. Privzeto: prikazani so samo trenutno na spletu dostopni obiskovalci.",
+    "TEXT_ENABLE_FCHAT_NOTE": "Če to omogočite, se uporabniki fastcomments.com pridružijo temu spletnemu mestu kot klepetalni strežnik v namizni aplikaciji FChat. Lahko brskajo po straneh, berejo komentarje in objavljajo odgovore v realnem času."
 }

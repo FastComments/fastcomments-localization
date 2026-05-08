@@ -267,5 +267,15 @@
     "AI_ASSISTANT_FIELD_UPDATED": "עודכן [field].",
     "AI_ASSISTANT_YOU": "אַתָה",
     "AI_ASSISTANT_TYPING": "חֲשִׁיבָה",
-    "AI_ASSISTANT_ASSISTANT": "עוֹזֵר"
+    "AI_ASSISTANT_ASSISTANT": "עוֹזֵר",
+    "LABEL_USERS_LIST_LOCATION": "מיקום רשימת משתמשים",
+    "OPTION_USERS_LIST_OFF": "כבוי",
+    "TEXT_USERS_LIST_LOCATION_NOTE": "הצג אנשים שהגיבו בדף או שצופים בו כעת. החלק העליון מציג שורה חופפת של אווטארים מעל התגובות. הצד השמאלי והימני מציג סרגל צד עם שמות וסמנים מקוונים.",
+    "OPTION_USERS_LIST_LEFT": "סרגל צד שמאלי",
+    "OPTION_USERS_LIST_RIGHT": "סרגל צד ימין",
+    "OPTION_USERS_LIST_TOP": "למעלה (שורת אווטאר)",
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "כאשר אפשרות זו מופעלת, רשימת המשתמשים כוללת גם אנשים שהגיבו בדף אך אינם מחוברים כעת. ברירת מחדל: מוצגים רק צופים המחוברים כעת.",
+    "TEXT_ENABLE_FCHAT_NOTE": "הפעלת אפשרות זו מאפשרת למשתמשי fastcomments.com להצטרף לאתר זה כשרת צ'אט באפליקציית שולחן העבודה של FChat. הם יכולים לדפדף בדפים, לקרוא תגובות ולפרסם תשובות בזמן אמת.",
+    "LABEL_ENABLE_FCHAT": "הפעל את אפליקציית שולחן העבודה FChat",
+    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "כלול מגיבים קודמים"
 }

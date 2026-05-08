@@ -80,5 +80,19 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Apenas comentários"
+    "IMPORT_TYPE_JUST_COMMENTS": "Apenas comentários",
+    "ANYCOMMENT": "Qualquer comentário (.xml)",
+    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "URLs de página completa",
+    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "IDs de artigos do WordPress (Extrairemos dados do seu site)",
+    "IMPORT_TYPE_ANYCOMMENT": "Qualquer comentário",
+    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "Formato do identificador de página",
+    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "URLs de página relativas",
+    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://yoursite.com",
+    "ANYCOMMENT_BASE_URL_LABEL": "URL base do site",
+    "ANYCOMMENT_BASE_URL_HINT": "Inclua o protocolo, como https://blog.fastcomments.com. O AnyComment exporta caminhos relativos; esse valor é adicionado para extração de dados ou como prefixo da URL da página.",
+    "ANYCOMMENT_URL_ID_FORMAT_HINT": "Selecione o formato que sua instalação do FastComments usa para identificar páginas. IDs de Artigos do WordPress é o padrão para o plugin FastComments para WordPress: cada página exclusiva na sua exportação do AnyComment será buscada uma vez para que possamos extrair o ID da publicação do WordPress do HTML. URLs de Página Completas é o padrão para o widget JavaScript do FastComments em sites que não usam WordPress. URLs de Página Relativas é para integrações personalizadas que passam caminhos em vez de URLs completas.",
+    "ERROR_INVALID_FILE_ANYCOMMENT": "Parece que esse arquivo é inválido. Para importações do AnyComment, somente arquivos XML são suportados.",
+    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Insira um URL base para esta importação (como https://blog.fastcomments.com).",
+    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Por favor, inclua o protocolo para o URL base (como https://blog.fastcomments.com).",
+    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Escolha um formato de identificador de página."
 }

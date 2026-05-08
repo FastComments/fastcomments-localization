@@ -70,5 +70,6 @@
     "TEXT_DOMAIN_EDITED_SUCCESS": "ドメインの更新に成功しました！",
     "LINK_EDIT": "編集",
     "HELP_OBFUSCATE_EMAIL_LINKS": "サイトのドメイン評判が原因で通知メールがスパムフォルダに振り分けられてしまう場合は、この設定を有効にしてください。メール内のコメント表示ボタンをクリックすると、fastcomments.comを経由してページに移動します。",
-    "LABEL_OBFUSCATE_EMAIL_LINKS": "メールリンクはfastcomments.com経由でルーティングされます。"
+    "LABEL_OBFUSCATE_EMAIL_LINKS": "メールリンクはfastcomments.com経由でルーティングされます。",
+    "HEADING_EMAIL_LINK_OBFUSCATION": "メールリンクの難読化"
 }

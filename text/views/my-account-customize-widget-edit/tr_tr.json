@@ -267,5 +267,15 @@
     "AI_ASSISTANT_YOU": "Sen",
     "AI_ASSISTANT_FIELD_UPDATED": "Güncellendi [field].",
     "AI_ASSISTANT_FIELD_UNKNOWN": "[field] (bilinmeyen alan)",
-    "AI_ASSISTANT_ASSISTANT": "Asistan"
+    "AI_ASSISTANT_ASSISTANT": "Asistan",
+    "OPTION_USERS_LIST_OFF": "Kapalı",
+    "OPTION_USERS_LIST_LEFT": "Sol kenar çubuğu",
+    "TEXT_USERS_LIST_LOCATION_NOTE": "Sayfaya yorum yapan veya şu anda sayfayı görüntüleyen kişileri gösterin. Üst kısım, yorumların üzerinde üst üste binen bir avatar satırı oluşturur. Sol ve Sağ kısımlar ise isimler ve çevrimiçi olma göstergeleri içeren bir kenar çubuğu oluşturur.",
+    "LABEL_USERS_LIST_LOCATION": "Kullanıcılar Listesi Konumu",
+    "OPTION_USERS_LIST_TOP": "Üst (avatar satırı)",
+    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Önceki yorumcuları da dahil et",
+    "OPTION_USERS_LIST_RIGHT": "Sağ kenar çubuğu",
+    "LABEL_ENABLE_FCHAT": "FChat Masaüstü Uygulamasını Etkinleştirin",
+    "TEXT_ENABLE_FCHAT_NOTE": "Bu özelliği etkinleştirmek, fastcomments.com kullanıcılarının FChat masaüstü uygulamasında bu siteye bir sohbet sunucusu olarak katılmalarını sağlar. Kullanıcılar sayfaları inceleyebilir, yorumları okuyabilir ve gerçek zamanlı olarak yanıtlar gönderebilirler.",
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Etkinleştirildiğinde, kullanıcı listesi sayfaya yorum yapmış ancak şu anda çevrimiçi olmayan kişileri de içerir. Varsayılan: yalnızca şu anda çevrimiçi olan izleyiciler gösterilir."
 }

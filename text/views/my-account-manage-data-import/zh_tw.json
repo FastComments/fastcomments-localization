@@ -80,5 +80,19 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress（CSV）",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress（XML）",
-    "IMPORT_TYPE_JUST_COMMENTS": "僅評論"
+    "IMPORT_TYPE_JUST_COMMENTS": "僅評論",
+    "ANYCOMMENT": "任意註釋（.xml）",
+    "IMPORT_TYPE_ANYCOMMENT": "任何評論",
+    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "相對頁面網址",
+    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "完整頁面網址",
+    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "頁面識別碼格式",
+    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "WordPress 文章 ID（將抓取您的網站）",
+    "ANYCOMMENT_BASE_URL_LABEL": "網站基本網址",
+    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://yoursite.com",
+    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "選擇頁面標識符格式。",
+    "ERROR_INVALID_FILE_ANYCOMMENT": "該文件似乎無效。 AnyComment 匯入僅支援 XML 檔案。",
+    "ANYCOMMENT_URL_ID_FORMAT_HINT": "選擇 FastComments 安裝用於識別頁面的格式。 WordPress 文章 ID 是 FastComments WordPress 外掛程式的預設格式：AnyComment 匯出中的每個唯一頁面都會被取得一次，以便我們從 HTML 中提取 WordPress 文章 ID。完整頁面 URL 是非 WordPress 網站上 FastComments JavaScript 小工具的預設格式。相對頁面 URL 適用於傳遞路徑而非完整 URL 的自訂整合。",
+    "ANYCOMMENT_BASE_URL_HINT": "請包含協議，例如 https://blog.fastcomments.com。 AnyComment 匯出的是相對路徑；此值會加到抓取頁面或作為頁面 URL 前綴。",
+    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "請包含基本 URL 的協定（例如 https://blog.fastcomments.com）。",
+    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "請輸入此匯入的基本 URL（例如 https://blog.fastcomments.com）。"
 }

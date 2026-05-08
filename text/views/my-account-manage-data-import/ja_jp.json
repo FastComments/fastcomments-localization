@@ -80,5 +80,19 @@
     "IMPORT_TYPE_WORDPRESS": "ワードプレス",
     "IMPORT_TYPE_WORDPRESS_CSV": "ワードプレス（CSV）",
     "IMPORT_TYPE_WORDPRESS_XML": "ワードプレス（XML）",
-    "IMPORT_TYPE_JUST_COMMENTS": "コメントのみ"
+    "IMPORT_TYPE_JUST_COMMENTS": "コメントのみ",
+    "ANYCOMMENT": "任意のコメント (.xml)",
+    "IMPORT_TYPE_ANYCOMMENT": "コメント",
+    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "ページ識別子フォーマット",
+    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "フルページURL",
+    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "相対ページURL",
+    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "WordPress記事ID（サイトから情報を収集します）",
+    "ANYCOMMENT_URL_ID_FORMAT_HINT": "FastCommentsのインストール環境で使用するページ識別のフォーマットを選択してください。WordPress記事IDはFastComments WordPressプラグインのデフォルトです。AnyCommentエクスポート内の各ページが一度ずつ取得され、HTMLからWP投稿IDを抽出します。ページURL全体は、WordPress以外のサイトにおけるFastComments JavaScriptウィジェットのデフォルトです。ページURL相対パスは、完全なURLではなくパスを渡すカスタム統合に使用します。",
+    "ANYCOMMENT_BASE_URL_LABEL": "サイトベースURL",
+    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "ページ識別子の形式を選択してください。",
+    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://yoursite.com",
+    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "このインポートのベースURLを入力してください（例：https://blog.fastcomments.com）。",
+    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "ベースURLのプロトコル（例：https://blog.fastcomments.com）を含めてください。",
+    "ERROR_INVALID_FILE_ANYCOMMENT": "そのファイルは無効なようです。AnyComment のインポートでは、XML ファイルのみがサポートされています。",
+    "ANYCOMMENT_BASE_URL_HINT": "プロトコルを含めてください（例：https://blog.fastcomments.com）。AnyCommentは相対パスをエクスポートします。この値はスクレイピング時、またはページURLのプレフィックスとして先頭に追加されます。"
 }

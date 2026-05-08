@@ -267,5 +267,15 @@
     "AI_ASSISTANT_FIELD_UPDATED": "Aggiornato [field].",
     "AI_ASSISTANT_FIELD_UNKNOWN": "[field] (campo sconosciuto)",
     "AI_ASSISTANT_YOU": "Voi",
-    "AI_ASSISTANT_ASSISTANT": "Assistente"
+    "AI_ASSISTANT_ASSISTANT": "Assistente",
+    "OPTION_USERS_LIST_OFF": "Spento",
+    "LABEL_USERS_LIST_LOCATION": "Elenco utenti Posizione",
+    "TEXT_USERS_LIST_LOCATION_NOTE": "Mostra le persone che hanno commentato la pagina o che la stanno visualizzando. In alto viene visualizzata una riga sovrapposta di avatar sopra i commenti. A sinistra e a destra viene visualizzata una barra laterale con i nomi e gli indicatori di stato online.",
+    "OPTION_USERS_LIST_RIGHT": "Barra laterale destra",
+    "OPTION_USERS_LIST_LEFT": "Barra laterale sinistra",
+    "OPTION_USERS_LIST_TOP": "In alto (riga degli avatar)",
+    "LABEL_ENABLE_FCHAT": "Abilita l'app desktop FChat",
+    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Includi i commentatori precedenti",
+    "TEXT_ENABLE_FCHAT_NOTE": "L'attivazione di questa opzione consente agli utenti di fastcomments.com di unirsi a questo sito come server di chat nell'applicazione desktop FChat. Possono navigare tra le pagine, leggere i commenti e pubblicare risposte in tempo reale.",
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Quando abilitata, la lista utenti include anche le persone che hanno commentato la pagina ma non sono attualmente online. Impostazione predefinita: vengono mostrati solo gli utenti attualmente online."
 }

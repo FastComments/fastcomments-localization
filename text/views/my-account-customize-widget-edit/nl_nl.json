@@ -267,5 +267,15 @@
     "AI_ASSISTANT_FIELD_UNKNOWN": "[field] (onbekend veld)",
     "AI_ASSISTANT_TYPING": "Denken",
     "AI_ASSISTANT_YOU": "Jij",
-    "AI_ASSISTANT_ASSISTANT": "Assistent"
+    "AI_ASSISTANT_ASSISTANT": "Assistent",
+    "OPTION_USERS_LIST_OFF": "Uit",
+    "LABEL_USERS_LIST_LOCATION": "Gebruikerslijst Locatie",
+    "TEXT_USERS_LIST_LOCATION_NOTE": "Toon mensen die een reactie op de pagina hebben geplaatst of deze momenteel bekijken. Bovenaan wordt een overlappende rij avatars boven de reacties weergegeven. Links en rechts wordt een zijbalk weergegeven met namen en online-indicatoren.",
+    "OPTION_USERS_LIST_TOP": "Boven (avatarrij)",
+    "OPTION_USERS_LIST_LEFT": "Linker zijbalk",
+    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Neem eerdere reacties mee.",
+    "OPTION_USERS_LIST_RIGHT": "Rechter zijbalk",
+    "LABEL_ENABLE_FCHAT": "Schakel de FChat-desktopapp in.",
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Indien ingeschakeld, bevat de gebruikerslijst ook personen die een reactie op de pagina hebben geplaatst maar momenteel niet online zijn. Standaard: alleen momenteel online bezoekers worden weergegeven.",
+    "TEXT_ENABLE_FCHAT_NOTE": "Door deze optie in te schakelen, kunnen gebruikers van fastcomments.com zich bij deze site aansluiten als chatserver in de FChat-desktopapp. Ze kunnen pagina's bekijken, reacties lezen en in realtime antwoorden plaatsen."
 }

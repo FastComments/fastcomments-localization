@@ -267,5 +267,15 @@
     "AI_ASSISTANT_ASSISTANT": "助理",
     "AI_ASSISTANT_YOU": "你",
     "AI_ASSISTANT_ERROR_TOKEN_BUDGET": "您今天已達到助手的使用次數上限，請明天再試。",
-    "AI_ASSISTANT_FIELD_UNKNOWN": "[field]（未知欄位）"
+    "AI_ASSISTANT_FIELD_UNKNOWN": "[field]（未知欄位）",
+    "OPTION_USERS_LIST_OFF": "離開",
+    "OPTION_USERS_LIST_LEFT": "左側邊欄",
+    "OPTION_USERS_LIST_RIGHT": "右側邊欄",
+    "OPTION_USERS_LIST_TOP": "頂部（頭像行）",
+    "LABEL_USERS_LIST_LOCATION": "使用者列表位置",
+    "LABEL_ENABLE_FCHAT": "啟用 FChat 桌面應用程式",
+    "TEXT_USERS_LIST_LOCATION_NOTE": "顯示已評論或正在瀏覽此頁面的使用者。頂部會在評論上方顯示一排重疊的頭像。左側和右側會顯示包含姓名和線上狀態指示的側邊欄。",
+    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "包括先前的評論者",
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "啟用此功能後，使用者清單還會包含曾在頁面上發表評論但目前不在線上的使用者。預設情況下，僅顯示目前線上的訪客。",
+    "TEXT_ENABLE_FCHAT_NOTE": "啟用此功能後，fastcomments.com 使用者可以透過 FChat 桌面應用程式加入此網站，成為聊天伺服器。他們可以瀏覽頁面、閱讀評論並即時回覆。"
 }

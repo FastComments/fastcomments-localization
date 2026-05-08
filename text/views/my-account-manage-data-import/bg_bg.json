@@ -80,5 +80,19 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Просто коментари"
+    "IMPORT_TYPE_JUST_COMMENTS": "Просто коментари",
+    "IMPORT_TYPE_ANYCOMMENT": "Всеки коментар",
+    "ANYCOMMENT": "Всеки коментар (.xml)",
+    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "Идентификационни номера на статии в WordPress (ще изтрият данните от вашия сайт)",
+    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "Пълни URL адреси на страници",
+    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "Формат на идентификатора на страницата",
+    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "Относителни URL адреси на страници",
+    "ANYCOMMENT_BASE_URL_LABEL": "Базов URL адрес на сайта",
+    "ANYCOMMENT_BASE_URL_HINT": "Включете протокола, например https://blog.fastcomments.com. AnyComment експортира относителни пътища; тази стойност се добавя за извличане на данни или като префикс на URL адреса на страницата.",
+    "ANYCOMMENT_URL_ID_FORMAT_HINT": "Изберете формата, който вашата инсталация на FastComments използва за идентифициране на страници. WordPress Article IDs е форматът по подразбиране за плъгина FastComments за WordPress: всяка уникална страница във вашия AnyComment експорт ще бъде извлечена веднъж, за да можем да извлечем WP ID на публикацията от HTML кода. Full Page URLs е форматът по подразбиране за JavaScript джаджата на FastComments в сайтове, които не са на WordPress. Relative Page URLs е за персонализирани интеграции, които предават пътища вместо пълни URL адреси.",
+    "ERROR_INVALID_FILE_ANYCOMMENT": "Изглежда, че този файл е невалиден. За импортиране от AnyComment се поддържат само XML файлове.",
+    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Изберете формат на идентификатор на страница.",
+    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://yoursite.com",
+    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Въведете основен URL адрес за това импортиране (като https://blog.fastcomments.com).",
+    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Моля, включете протокола за основния URL адрес (като https://blog.fastcomments.com)."
 }

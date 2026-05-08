@@ -267,5 +267,15 @@
     "AI_ASSISTANT_TYPING": "考え",
     "AI_ASSISTANT_YOU": "あなた",
     "AI_ASSISTANT_FIELD_UNKNOWN": "[field]（不明なフィールド）",
-    "AI_ASSISTANT_ASSISTANT": "アシスタント"
+    "AI_ASSISTANT_ASSISTANT": "アシスタント",
+    "LABEL_USERS_LIST_LOCATION": "ユーザーリストの場所",
+    "OPTION_USERS_LIST_OFF": "オフ",
+    "TEXT_USERS_LIST_LOCATION_NOTE": "ページにコメントしたユーザー、または現在ページを閲覧しているユーザーを表示します。上部をクリックすると、コメントの上にアバターが重なり合った列が表示されます。左右をクリックすると、名前とオンライン状態を示すインジケーターが表示されたサイドバーが表示されます。",
+    "OPTION_USERS_LIST_TOP": "一番上（アバター列）",
+    "OPTION_USERS_LIST_RIGHT": "右サイドバー",
+    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "過去のコメント投稿者を含める",
+    "OPTION_USERS_LIST_LEFT": "左サイドバー",
+    "LABEL_ENABLE_FCHAT": "FChatデスクトップアプリを有効にする",
+    "TEXT_ENABLE_FCHAT_NOTE": "この機能を有効にすると、fastcomments.comのユーザーはFChatデスクトップアプリでこのサイトをチャットサーバーとして利用できるようになります。ユーザーはページを閲覧したり、コメントを読んだり、リアルタイムで返信を投稿したりできます。",
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "有効にすると、ページにコメントを残したものの現在オフラインのユーザーもユーザーリストに表示されます。デフォルト設定では、現在オンラインの閲覧者のみが表示されます。"
 }

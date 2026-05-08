@@ -267,5 +267,15 @@
     "AI_ASSISTANT_TYPING": "Myślący",
     "AI_ASSISTANT_FIELD_UNKNOWN": "[field] (nieznane pole)",
     "AI_ASSISTANT_YOU": "Ty",
-    "AI_ASSISTANT_ASSISTANT": "Asystent"
+    "AI_ASSISTANT_ASSISTANT": "Asystent",
+    "OPTION_USERS_LIST_OFF": "Wyłączony",
+    "TEXT_USERS_LIST_LOCATION_NOTE": "Pokaż osoby, które skomentowały stronę lub aktualnie ją przeglądają. Górna część wyświetla nakładający się rząd awatarów nad komentarzami. Lewa i prawa część wyświetlają pasek boczny z nazwami i wskaźnikami aktywności.",
+    "LABEL_ENABLE_FCHAT": "Włącz aplikację komputerową FChat",
+    "OPTION_USERS_LIST_LEFT": "Lewy pasek boczny",
+    "LABEL_USERS_LIST_LOCATION": "Lokalizacja listy użytkowników",
+    "OPTION_USERS_LIST_RIGHT": "Prawy pasek boczny",
+    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Uwzględnij poprzednich komentujących",
+    "OPTION_USERS_LIST_TOP": "Góra (rząd awatarów)",
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Po włączeniu tej opcji lista użytkowników obejmuje również osoby, które skomentowały stronę, ale są obecnie niedostępne. Domyślnie: wyświetlani są tylko użytkownicy aktualnie online.",
+    "TEXT_ENABLE_FCHAT_NOTE": "Włączenie tej opcji umożliwia użytkownikom fastcomments.com dołączenie do tej witryny jako serwera czatu w aplikacji FChat na komputery. Mogą oni przeglądać strony, czytać komentarze i odpowiadać na nie w czasie rzeczywistym."
 }

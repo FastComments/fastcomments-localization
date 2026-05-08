@@ -80,5 +80,19 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Tylko komentarze"
+    "IMPORT_TYPE_JUST_COMMENTS": "Tylko komentarze",
+    "IMPORT_TYPE_ANYCOMMENT": "AnyComment",
+    "ANYCOMMENT": "Dowolny komentarz (.xml)",
+    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "Względne adresy URL stron",
+    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "Pełne adresy URL stron",
+    "ANYCOMMENT_BASE_URL_LABEL": "Podstawowy adres URL witryny",
+    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "Identyfikatory artykułów WordPress (przeszukamy Twoją witrynę)",
+    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "Format identyfikatora strony",
+    "ANYCOMMENT_BASE_URL_HINT": "Uwzględnij protokół, np. https://blog.fastcomments.com. AnyComment eksportuje ścieżki względne; ta wartość jest dodawana na początku w celu scrapowania lub jako prefiks adresu URL strony.",
+    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://twojastrona.com",
+    "ANYCOMMENT_URL_ID_FORMAT_HINT": "Wybierz format, którego instalacja FastComments używa do identyfikacji stron. Identyfikatory artykułów WordPress są domyślne dla wtyczki WordPress FastComments: każda unikalna strona w eksporcie AnyComment zostanie pobrana raz, abyśmy mogli wyodrębnić identyfikator wpisu WP z kodu HTML. Pełne adresy URL stron są domyślne dla widżetu JavaScript FastComments w witrynach innych niż WordPress. Względne adresy URL stron są przeznaczone dla niestandardowych integracji, które przekazują ścieżki zamiast pełnych adresów URL.",
+    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Wybierz format identyfikatora strony.",
+    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Proszę uwzględnić protokół dla adresu URL bazowego (np. https://blog.fastcomments.com).",
+    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Wprowadź adres URL bazowy dla tego importu (np. https://blog.fastcomments.com).",
+    "ERROR_INVALID_FILE_ANYCOMMENT": "Wygląda na to, że ten plik jest nieprawidłowy. W przypadku importu AnyComment obsługiwane są tylko pliki XML."
 }

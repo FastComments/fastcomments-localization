@@ -80,5 +80,19 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV-файл)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Просто коментарі"
+    "IMPORT_TYPE_JUST_COMMENTS": "Просто коментарі",
+    "ANYCOMMENT": "Будь-який коментар (.xml)",
+    "IMPORT_TYPE_ANYCOMMENT": "Будь-який коментар",
+    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "Формат ідентифікатора сторінки",
+    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "Повні URL-адреси сторінок",
+    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "Ідентифікатори статей WordPress (використовуватимуть парсинг вашого сайту)",
+    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://yoursite.com",
+    "ANYCOMMENT_BASE_URL_LABEL": "Базова URL-адреса сайту",
+    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "Відносні URL-адреси сторінок",
+    "ERROR_INVALID_FILE_ANYCOMMENT": "Схоже, що цей файл недійсний. Для імпорту AnyComment підтримуються лише XML-файли.",
+    "ANYCOMMENT_URL_ID_FORMAT_HINT": "Виберіть формат, який ваша інсталяція FastComments використовує для ідентифікації сторінок. Ідентифікатори статей WordPress – це значення за замовчуванням для плагіна FastComments WordPress: кожна унікальна сторінка у вашому експорті AnyComment буде отримана один раз, щоб ми могли витягти ідентифікатор публікації WP з HTML. Повні URL-адреси сторінок – це значення за замовчуванням для віджета JavaScript FastComments на сайтах, що не належать WordPress. Відносні URL-адреси сторінок призначені для налаштованих інтеграцій, які передають шляхи замість повних URL-адрес.",
+    "ANYCOMMENT_BASE_URL_HINT": "Включіть протокол, наприклад https://blog.fastcomments.com. AnyComment експортує відносні шляхи; це значення додається для парсингу або як префікс URL-адреси сторінки.",
+    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Введіть базову URL-адресу для цього імпорту (наприклад, https://blog.fastcomments.com).",
+    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Виберіть формат ідентифікатора сторінки.",
+    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Будь ласка, вкажіть протокол для базової URL-адреси (наприклад, https://blog.fastcomments.com)."
 }

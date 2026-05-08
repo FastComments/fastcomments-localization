@@ -267,5 +267,15 @@
     "AI_ASSISTANT_FIELD_UNKNOWN": "[field] (champ inconnu)",
     "AI_ASSISTANT_TYPING": "Pensée",
     "AI_ASSISTANT_ASSISTANT": "Assistant",
-    "AI_ASSISTANT_YOU": "Toi"
+    "AI_ASSISTANT_YOU": "Toi",
+    "OPTION_USERS_LIST_OFF": "Désactivé",
+    "OPTION_USERS_LIST_TOP": "En haut (rangée d'avatar)",
+    "LABEL_USERS_LIST_LOCATION": "Liste des utilisateurs Emplacement",
+    "TEXT_USERS_LIST_LOCATION_NOTE": "Afficher les personnes ayant commenté la page ou la consultant actuellement. En haut, une rangée d'avatars se superpose au-dessus des commentaires. À gauche et à droite, une barre latérale affiche les noms et les indicateurs de connexion.",
+    "LABEL_ENABLE_FCHAT": "Activer l'application FChat pour ordinateur",
+    "OPTION_USERS_LIST_RIGHT": "barre latérale droite",
+    "OPTION_USERS_LIST_LEFT": "barre latérale gauche",
+    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Inclure les commentateurs précédents",
+    "TEXT_ENABLE_FCHAT_NOTE": "L'activation de cette option permet aux utilisateurs de fastcomments.com de rejoindre ce site en tant que serveur de chat dans l'application de bureau FChat. Ils peuvent ainsi consulter les pages, lire les commentaires et y répondre en temps réel.",
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Lorsque cette option est activée, la liste des utilisateurs inclut également les personnes ayant commenté la page mais qui ne sont pas actuellement en ligne. Par défaut : seuls les utilisateurs actuellement en ligne sont affichés."
 }

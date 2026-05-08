@@ -151,7 +151,7 @@
         "my-account-configure-badges": 16,
         "my-account-configure-badges-badge": 47,
         "my-account-configure-badges-delete": 6,
-        "my-account-configure-domains": 74,
+        "my-account-configure-domains": 75,
         "my-account-configure-domains-disable-auto-add-confirm": 9,
         "my-account-configure-domains-failure": 4,
         "my-account-configure-domains-new": 10,
@@ -164,7 +164,7 @@
         "my-account-customize-email-templates": 17,
         "my-account-customize-widget": 14,
         "my-account-customize-widget-delete": 5,
-        "my-account-customize-widget-edit": 270,
+        "my-account-customize-widget-edit": 280,
         "my-account-delete": 13,
         "my-account-delete-failure": 4,
         "my-account-delete-success": 5,
@@ -196,7 +196,7 @@
         "my-account-manage-data-copy-comments-table": 0,
         "my-account-manage-data-export": 27,
         "my-account-manage-data-export-table": 17,
-        "my-account-manage-data-import": 82,
+        "my-account-manage-data-import": 96,
         "my-account-manage-data-import-logs": 10,
         "my-account-manage-data-import-scheduled-comments": 53,
         "my-account-manage-data-import-scheduled-comments-table": 9,
@@ -396,7 +396,8 @@
         "shopify-migration-pending": 7,
         "packages-bigcommerce": 30,
         "packages-shopify": 30,
-        "email-redirect-expired": 4
+        "email-redirect-expired": 4,
+        "comment-ui-online-users": 7
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -3414,7 +3415,8 @@
         "t71": "TEXT_DOMAIN_EDITED_SUCCESS",
         "t72": "LINK_EDIT",
         "t73": "LABEL_OBFUSCATE_EMAIL_LINKS",
-        "t74": "HELP_OBFUSCATE_EMAIL_LINKS"
+        "t74": "HELP_OBFUSCATE_EMAIL_LINKS",
+        "t75": "HEADING_EMAIL_LINK_OBFUSCATION"
     },
     "my-account-configure-domains-disable-auto-add-confirm": {
         "t1": "PAGE_TITLE",
@@ -3829,7 +3831,17 @@
         "t267": "AI_ASSISTANT_FIELD_UNKNOWN",
         "t268": "AI_ASSISTANT_TYPING",
         "t269": "AI_ASSISTANT_YOU",
-        "t270": "AI_ASSISTANT_ASSISTANT"
+        "t270": "AI_ASSISTANT_ASSISTANT",
+        "t271": "LABEL_USERS_LIST_LOCATION",
+        "t272": "TEXT_USERS_LIST_LOCATION_NOTE",
+        "t273": "OPTION_USERS_LIST_OFF",
+        "t274": "OPTION_USERS_LIST_TOP",
+        "t275": "OPTION_USERS_LIST_LEFT",
+        "t276": "OPTION_USERS_LIST_RIGHT",
+        "t277": "LABEL_USERS_LIST_INCLUDE_OFFLINE",
+        "t278": "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE",
+        "t279": "LABEL_ENABLE_FCHAT",
+        "t280": "TEXT_ENABLE_FCHAT_NOTE"
     },
     "my-account-delete": {
         "t1": "PAGE_TITLE",
@@ -4479,7 +4491,21 @@
         "t79": "IMPORT_TYPE_WORDPRESS",
         "t80": "IMPORT_TYPE_WORDPRESS_CSV",
         "t81": "IMPORT_TYPE_WORDPRESS_XML",
-        "t82": "IMPORT_TYPE_JUST_COMMENTS"
+        "t82": "IMPORT_TYPE_JUST_COMMENTS",
+        "t83": "IMPORT_TYPE_ANYCOMMENT",
+        "t84": "ANYCOMMENT",
+        "t85": "ANYCOMMENT_URL_ID_FORMAT_LABEL",
+        "t86": "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID",
+        "t87": "ANYCOMMENT_URL_ID_FORMAT_FULL_URL",
+        "t88": "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL",
+        "t89": "ANYCOMMENT_URL_ID_FORMAT_HINT",
+        "t90": "ANYCOMMENT_BASE_URL_LABEL",
+        "t91": "ANYCOMMENT_BASE_URL_HINT",
+        "t92": "ANYCOMMENT_BASE_URL_PLACEHOLDER",
+        "t93": "ERROR_INVALID_FILE_ANYCOMMENT",
+        "t94": "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED",
+        "t95": "ERROR_ANYCOMMENT_BASE_URL_REQUIRED",
+        "t96": "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED"
     },
     "my-account-manage-data-import-logs": {
         "t1": "TITLE",
@@ -9679,5 +9705,14 @@
         "t2": "HEADING_LIGHT",
         "t3": "HEADING_BOLD",
         "t4": "TEXT_LINK_EXPIRED"
+    },
+    "comment-ui-online-users": {
+        "t1": "ONLINE_USERS_TITLE",
+        "t2": "ONLINE_USERS_EMPTY",
+        "t3": "ONLINE_USERS_ANON_COUNT_ONE",
+        "t4": "ONLINE_USERS_ANON_COUNT_MANY",
+        "t5": "PRIVATE_PROFILE",
+        "t6": "ONLINE_USERS_LOAD_MORE",
+        "t7": "ONLINE_USERS_MEMBERS_TITLE"
     }
 }

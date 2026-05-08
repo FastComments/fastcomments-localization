@@ -80,5 +80,19 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Sadece Yorumlar"
+    "IMPORT_TYPE_JUST_COMMENTS": "Sadece Yorumlar",
+    "IMPORT_TYPE_ANYCOMMENT": "Herhangi bir yorum",
+    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "Sayfa tanımlayıcı formatı",
+    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "WordPress Makale Kimlikleri (Sitenizi Kazıyacak)",
+    "ANYCOMMENT": "Herhangi bir yorum (.xml)",
+    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "Göreceli Sayfa URL'leri",
+    "ANYCOMMENT_BASE_URL_HINT": "Protokolü ekleyin, örneğin https://blog.fastcomments.com. AnyComment göreceli yolları dışa aktarır; bu değer, veri kazıma işlemi için veya sayfa URL'sinin ön eki olarak eklenir.",
+    "ANYCOMMENT_URL_ID_FORMAT_HINT": "FastComments kurulumunuzun sayfaları tanımlamak için kullandığı formatı seçin. WordPress Makale Kimlikleri, FastComments WordPress eklentisi için varsayılan ayardır: AnyComment dışa aktarımınızdaki her benzersiz sayfa bir kez alınır, böylece HTML'den WP gönderi kimliğini çıkarabiliriz. Tam Sayfa URL'leri, WordPress olmayan sitelerdeki FastComments JavaScript widget'ı için varsayılan ayardır. Göreceli Sayfa URL'leri, tam URL'ler yerine yollar geçiren özelleştirilmiş entegrasyonlar içindir.",
+    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "Tam Sayfa URL'leri",
+    "ANYCOMMENT_BASE_URL_LABEL": "Site Taban URL'si",
+    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://yoursite.com",
+    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Bu içe aktarma işlemi için bir temel URL girin (örneğin https://blog.fastcomments.com).",
+    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Lütfen temel URL için protokolü de ekleyin (örneğin https://blog.fastcomments.com).",
+    "ERROR_INVALID_FILE_ANYCOMMENT": "Dosya geçersiz görünüyor. AnyComment içe aktarma işlemleri için yalnızca XML dosyaları desteklenmektedir.",
+    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Sayfa tanımlayıcı biçimini seçin."
 }

@@ -267,5 +267,15 @@
     "AI_ASSISTANT_ERROR_TOKEN_BUDGET": "Du har nået assistentens forbrugsgrænse i dag. Prøv igen i morgen.",
     "AI_ASSISTANT_TYPING": "Tænkning",
     "AI_ASSISTANT_ASSISTANT": "Assistent",
-    "AI_ASSISTANT_YOU": "Du"
+    "AI_ASSISTANT_YOU": "Du",
+    "OPTION_USERS_LIST_OFF": "Slukket",
+    "LABEL_USERS_LIST_LOCATION": "Placering af brugerliste",
+    "OPTION_USERS_LIST_RIGHT": "Højre sidebar",
+    "TEXT_USERS_LIST_LOCATION_NOTE": "Vis personer, der har kommenteret på siden eller ser den i øjeblikket. Øverst gengiver en overlappende række af avatarer over kommentarerne. Venstre og højre gengiver en sidebjælke med navne og onlineindikatorer.",
+    "OPTION_USERS_LIST_TOP": "Øverst (avatarrække)",
+    "OPTION_USERS_LIST_LEFT": "Venstre sidebar",
+    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Inkluder tidligere kommentatorer",
+    "LABEL_ENABLE_FCHAT": "Aktivér FChat Desktop-appen",
+    "TEXT_ENABLE_FCHAT_NOTE": "Hvis dette aktiveres, kan fastcomments.com-brugere deltage i dette websted som en chatserver i FChat-desktopappen. De kan gennemse sider, læse kommentarer og skrive svar i realtid.",
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Når den er aktiveret, indeholder brugerlisten også personer, der har kommenteret på siden, men som ikke er online i øjeblikket. Standard: kun personer, der aktuelt er online, vises."
 }

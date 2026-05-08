@@ -80,5 +80,19 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Samo komentari"
+    "IMPORT_TYPE_JUST_COMMENTS": "Samo komentari",
+    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "Format identifikatora stranice",
+    "ANYCOMMENT": "Bilo kojiKomentar (.xml)",
+    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "Puni URL-ovi stranica",
+    "IMPORT_TYPE_ANYCOMMENT": "Bilo koji komentar",
+    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "ID-ovi članaka WordPressa (strugat će vašu web-stranicu)",
+    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "Relativni URL-ovi stranica",
+    "ANYCOMMENT_BASE_URL_LABEL": "Osnovni URL web-mjesta",
+    "ANYCOMMENT_URL_ID_FORMAT_HINT": "Odaberite format koji vaša FastComments instalacija koristi za identifikaciju stranica. WordPress ID-ovi članaka zadani su za FastComments WordPress dodatak: svaka jedinstvena stranica u vašem AnyComment izvozu bit će dohvaćena jednom kako bismo mogli izdvojiti WP ID objave iz HTML-a. Potpuni URL-ovi stranica zadani su za FastComments JavaScript widget na web-lokacijama koje nisu WordPress. Relativni URL-ovi stranica namijenjeni su prilagođenim integracijama koje prosljeđuju putove umjesto punih URL-ova.",
+    "ANYCOMMENT_BASE_URL_HINT": "Uključite protokol, kao što je https://blog.fastcomments.com. AnyComment izvozi relativne putanje; ova vrijednost se dodaje na početak za struganje ili kao prefiks URL-a stranice.",
+    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Odaberite format identifikatora stranice.",
+    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://vasastranica.com",
+    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Unesite osnovni URL za ovaj uvoz (kao što je https://blog.fastcomments.com).",
+    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Molimo uključite protokol za osnovni URL (kao što je https://blog.fastcomments.com).",
+    "ERROR_INVALID_FILE_ANYCOMMENT": "Izgleda da ta datoteka nije valjana. Za uvoz AnyComment podržane su samo XML datoteke."
 }

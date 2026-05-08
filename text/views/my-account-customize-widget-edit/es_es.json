@@ -267,5 +267,15 @@
     "AI_ASSISTANT_ERROR_TOKEN_BUDGET": "Has alcanzado el límite de uso del asistente para hoy. Inténtalo de nuevo mañana.",
     "AI_ASSISTANT_TYPING": "Pensamiento",
     "AI_ASSISTANT_YOU": "Tú",
-    "AI_ASSISTANT_ASSISTANT": "Asistente"
+    "AI_ASSISTANT_ASSISTANT": "Asistente",
+    "LABEL_USERS_LIST_LOCATION": "Ubicación de la lista de usuarios",
+    "OPTION_USERS_LIST_OFF": "Apagado",
+    "OPTION_USERS_LIST_RIGHT": "Barra lateral derecha",
+    "OPTION_USERS_LIST_LEFT": "Barra lateral izquierda",
+    "OPTION_USERS_LIST_TOP": "Arriba (fila del avatar)",
+    "TEXT_USERS_LIST_LOCATION_NOTE": "Muestra a las personas que han comentado en la página o que la están viendo actualmente. La parte superior muestra una fila superpuesta de avatares sobre los comentarios. Las secciones izquierda y derecha muestran una barra lateral con nombres e indicadores de conexión.",
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Cuando está habilitada, la lista de usuarios también incluye a las personas que han comentado en la página pero que no están conectadas en ese momento. Por defecto: solo se muestran los usuarios que están conectados.",
+    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Incluir comentaristas anteriores",
+    "LABEL_ENABLE_FCHAT": "Habilitar la aplicación de escritorio FChat",
+    "TEXT_ENABLE_FCHAT_NOTE": "Al habilitar esta opción, los usuarios de fastcomments.com pueden unirse a este sitio como servidor de chat en la aplicación de escritorio FChat. Podrán navegar por las páginas, leer comentarios y publicar respuestas en tiempo real."
 }

@@ -80,5 +80,19 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress（CSV）",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress（XML）",
-    "IMPORT_TYPE_JUST_COMMENTS": "仅评论"
+    "IMPORT_TYPE_JUST_COMMENTS": "仅评论",
+    "IMPORT_TYPE_ANYCOMMENT": "任何评论",
+    "ANYCOMMENT": "任意注释（.xml）",
+    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "完整页面网址",
+    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "WordPress 文章 ID（将抓取您的网站）",
+    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "相对页面网址",
+    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "页面标识符格式",
+    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://yoursite.com",
+    "ANYCOMMENT_URL_ID_FORMAT_HINT": "选择 FastComments 安装用于识别页面的格式。WordPress 文章 ID 是 FastComments WordPress 插件的默认格式：AnyComment 导出中的每个唯一页面都会被获取一次，以便我们从 HTML 中提取 WordPress 文章 ID。完整页面 URL 是非 WordPress 网站上 FastComments JavaScript 小工具的默认格式。相对页面 URL 适用于传递路径而非完整 URL 的自定义集成。",
+    "ANYCOMMENT_BASE_URL_LABEL": "网站基本网址",
+    "ANYCOMMENT_BASE_URL_HINT": "请包含协议，例如 https://blog.fastcomments.com。AnyComment 导出的是相对路径；此值会添加到抓取页面或作为页面 URL 前缀。",
+    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "选择页面标识符格式。",
+    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "请输入此导入的基本 URL（例如 https://blog.fastcomments.com）。",
+    "ERROR_INVALID_FILE_ANYCOMMENT": "该文件似乎无效。AnyComment 导入仅支持 XML 文件。",
+    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "请包含基本 URL 的协议（例如 https://blog.fastcomments.com）。"
 }

@@ -267,5 +267,15 @@
     "AI_ASSISTANT_FIELD_UNKNOWN": "[field] (알 수 없는 필드)",
     "AI_ASSISTANT_YOU": "너",
     "AI_ASSISTANT_TYPING": "생각",
-    "AI_ASSISTANT_ASSISTANT": "어시스턴트"
+    "AI_ASSISTANT_ASSISTANT": "어시스턴트",
+    "OPTION_USERS_LIST_OFF": "끄다",
+    "OPTION_USERS_LIST_TOP": "맨 위 (아바타 행)",
+    "LABEL_USERS_LIST_LOCATION": "사용자 목록 위치",
+    "TEXT_USERS_LIST_LOCATION_NOTE": "페이지에 댓글을 남긴 사람 또는 현재 페이지를 보고 있는 사람을 표시합니다. 상단 버튼을 클릭하면 댓글 위에 아바타가 겹쳐진 행이 표시됩니다. 왼쪽과 오른쪽 버튼을 클릭하면 이름과 온라인 상태 표시기가 포함된 사이드바가 표시됩니다.",
+    "OPTION_USERS_LIST_RIGHT": "오른쪽 사이드바",
+    "OPTION_USERS_LIST_LEFT": "왼쪽 사이드바",
+    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "이전 댓글 작성자를 포함하세요",
+    "LABEL_ENABLE_FCHAT": "FChat 데스크톱 앱 활성화",
+    "TEXT_ENABLE_FCHAT_NOTE": "이 기능을 활성화하면 fastcomments.com 사용자는 FChat 데스크톱 앱에서 이 사이트를 채팅 서버로 이용할 수 있습니다. 페이지를 탐색하고, 댓글을 읽고, 실시간으로 답글을 달 수 있습니다.",
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "이 옵션을 활성화하면 페이지에 댓글을 남겼지만 현재 접속하지 않은 사용자도 사용자 목록에 표시됩니다. 기본값은 현재 접속 중인 사용자만 표시하는 것입니다."
 }

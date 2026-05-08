@@ -267,5 +267,15 @@
     "AI_ASSISTANT_DISABLE_NO": "尽量减少",
     "AI_ASSISTANT_FIELD_UNKNOWN": "[field]（未知字段）",
     "AI_ASSISTANT_YOU": "你",
-    "AI_ASSISTANT_ASSISTANT": "助手"
+    "AI_ASSISTANT_ASSISTANT": "助手",
+    "LABEL_USERS_LIST_LOCATION": "用户列表位置",
+    "OPTION_USERS_LIST_OFF": "离开",
+    "OPTION_USERS_LIST_LEFT": "左侧边栏",
+    "OPTION_USERS_LIST_TOP": "顶部（头像行）",
+    "TEXT_USERS_LIST_LOCATION_NOTE": "显示已评论或正在浏览此页面的用户。顶部会在评论上方显示一排重叠的头像。左侧和右侧会显示包含姓名和在线状态指示的侧边栏。",
+    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "包括之前的评论者",
+    "OPTION_USERS_LIST_RIGHT": "右侧边栏",
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "启用此功能后，用户列表还会包含曾在页面上发表评论但当前不在线的用户。默认情况下，仅显示当前在线的访问者。",
+    "LABEL_ENABLE_FCHAT": "启用 FChat 桌面应用程序",
+    "TEXT_ENABLE_FCHAT_NOTE": "启用此功能后，fastcomments.com 用户可以通过 FChat 桌面应用程序加入此网站，成为聊天服务器。他们可以浏览页面、阅读评论并实时回复。"
 }

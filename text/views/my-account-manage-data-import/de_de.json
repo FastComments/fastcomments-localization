@@ -80,5 +80,19 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Just-Comments"
+    "IMPORT_TYPE_JUST_COMMENTS": "Just-Comments",
+    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "WordPress-Artikel-IDs (werden Ihre Website auslesen)",
+    "IMPORT_TYPE_ANYCOMMENT": "AnyComment",
+    "ANYCOMMENT": "AnyComment (.xml)",
+    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "Format der Seitenkennung",
+    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "URLs der vollständigen Seiten",
+    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "Relative Seiten-URLs",
+    "ANYCOMMENT_BASE_URL_LABEL": "Basis-URL der Website",
+    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://yoursite.com",
+    "ANYCOMMENT_URL_ID_FORMAT_HINT": "Wählen Sie das Format, das Ihre FastComments-Installation zur Seitenidentifizierung verwendet. WordPress-Artikel-IDs sind die Standardeinstellung für das FastComments-WordPress-Plugin: Jede eindeutige Seite in Ihrem AnyComment-Export wird einmal abgerufen, damit wir die WordPress-Beitrags-ID aus dem HTML extrahieren können. Vollständige Seiten-URLs sind die Standardeinstellung für das FastComments-JavaScript-Widget auf Nicht-WordPress-Websites. Relative Seiten-URLs werden für benutzerdefinierte Integrationen verwendet, die Pfade anstelle vollständiger URLs übergeben.",
+    "ANYCOMMENT_BASE_URL_HINT": "Fügen Sie das Protokoll hinzu, z. B. https://blog.fastcomments.com. AnyComment exportiert relative Pfade; dieser Wert wird beim Scraping oder als Seiten-URL-Präfix vorangestellt.",
+    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Geben Sie eine Basis-URL für diesen Import ein (z. B. https://blog.fastcomments.com).",
+    "ERROR_INVALID_FILE_ANYCOMMENT": "Die Datei scheint ungültig zu sein. Für den Import mit AnyComment werden nur XML-Dateien unterstützt.",
+    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Bitte geben Sie das Protokoll für die Basis-URL an (z. B. https://blog.fastcomments.com).",
+    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Wählen Sie ein Seitenbezeichnerformat."
 }

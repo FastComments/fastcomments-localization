@@ -80,5 +80,19 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Solo comentarios"
+    "IMPORT_TYPE_JUST_COMMENTS": "Solo comentarios",
+    "IMPORT_TYPE_ANYCOMMENT": "¿Algún comentario?",
+    "ANYCOMMENT": "Cualquier comentario (.xml)",
+    "ANYCOMMENT_URL_ID_FORMAT_WP_ARTICLE_ID": "IDs de artículos de WordPress (Extraerá información de tu sitio)",
+    "ANYCOMMENT_URL_ID_FORMAT_FULL_URL": "URLs de página completa",
+    "ANYCOMMENT_URL_ID_FORMAT_LABEL": "Formato del identificador de página",
+    "ANYCOMMENT_URL_ID_FORMAT_RELATIVE_URL": "URLs de páginas relativas",
+    "ANYCOMMENT_BASE_URL_PLACEHOLDER": "https://tudominio.com",
+    "ANYCOMMENT_BASE_URL_LABEL": "URL base del sitio",
+    "ANYCOMMENT_BASE_URL_HINT": "Incluye el protocolo, como https://blog.fastcomments.com. AnyComment exporta rutas relativas; este valor se antepone para el web scraping o como prefijo de la URL de la página.",
+    "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED": "Seleccione un formato de identificador de página.",
+    "ERROR_ANYCOMMENT_BASE_URL_REQUIRED": "Introduzca una URL base para esta importación (por ejemplo, https://blog.fastcomments.com).",
+    "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED": "Por favor, incluya el protocolo para la URL base (como https://blog.fastcomments.com).",
+    "ERROR_INVALID_FILE_ANYCOMMENT": "Parece que ese archivo no es válido. Para las importaciones de AnyComment, solo se admiten archivos XML.",
+    "ANYCOMMENT_URL_ID_FORMAT_HINT": "Seleccione el formato que utiliza su instalación de FastComments para identificar las páginas. Los ID de artículos de WordPress son la opción predeterminada para el plugin FastComments de WordPress: cada página única en su exportación de AnyComment se recuperará una vez para que podamos extraer el ID de la publicación de WP del HTML. Las URL de página completas son la opción predeterminada para el widget JavaScript de FastComments en sitios que no son de WordPress. Las URL de página relativas se utilizan para integraciones personalizadas que pasan rutas en lugar de URL completas."
 }
