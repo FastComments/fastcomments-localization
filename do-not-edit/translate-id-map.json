@@ -397,7 +397,7 @@
         "packages-bigcommerce": 30,
         "packages-shopify": 30,
         "email-redirect-expired": 4,
-        "comment-ui-online-users": 10,
+        "comment-ui-online-users": 12,
         "examples": 8
     },
     "commenter-comment-notification": {
@@ -9722,7 +9722,9 @@
         "t7": "ONLINE_USERS_MEMBERS_TITLE",
         "t8": "ONLINE_USERS_PANEL_TITLE",
         "t9": "ONLINE_USERS_SECTION_ONLINE",
-        "t10": "ONLINE_USERS_SECTION_OFFLINE"
+        "t10": "ONLINE_USERS_SECTION_OFFLINE",
+        "t11": "ONLINE_USERS_OPEN_LIST",
+        "t12": "ONLINE_USERS_CLOSE"
     },
     "examples": {
         "t1": "PAGE_TITLE",
