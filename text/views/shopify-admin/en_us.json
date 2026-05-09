@@ -1,6 +1,12 @@
 {
     "PAGE_TITLE": "FastComments - Shopify Admin",
     "HEADING": "FastComments",
+    "TILE_DASHBOARD_LABEL": "FastComments Dashboard",
+    "TILE_DASHBOARD_DESC": "Account overview and settings",
+    "TILE_MODERATE_LABEL": "Moderate Comments",
+    "TILE_MODERATE_DESC": "Review, approve, and reply",
+    "TILE_CUSTOMIZE_LABEL": "Customize Widget",
+    "TILE_CUSTOMIZE_DESC": "Style and configuration",
     "STATUS_HEADING": "Subscription status",
     "STATUS_LOADING": "Loading subscription details...",
     "STATUS_ERROR": "Could not load subscription details. Refresh the page to retry.",
