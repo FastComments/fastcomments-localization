@@ -398,7 +398,8 @@
         "packages-shopify": 30,
         "email-redirect-expired": 4,
         "comment-ui-online-users": 12,
-        "examples": 8
+        "examples": 8,
+        "shopify-iframe-redirect": 4
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -9735,5 +9736,11 @@
         "t6": "COL_SITE",
         "t7": "COL_COMMENT_COUNT",
         "t8": "EMPTY_STATE"
+    },
+    "shopify-iframe-redirect": {
+        "t1": "PAGE_TITLE",
+        "t2": "HEADING",
+        "t3": "DESCRIPTION",
+        "t4": "BUTTON_CONTINUE"
     }
 }
