@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Nastavitev ocen in mnenj – FastComments",
+    "STEP1_HEADING": "Definirajte svoja vprašanja",
+    "HEADING": "Nastavitev ocen in mnenj",
+    "INTRO": "Ta čarovnik vas bo vodil skozi nastavitev ocen in mnenj. Ta stran se bo samodejno posodabljala, ko boste zaključili vsak korak.",
+    "STEP1_DESCRIPTION": "Izberite svojo oceno z zvezdicami in vsa podvprašanja, na katera bodo obiskovalci odgovorili, ko bodo oddali oceno. Izbirate lahko med vnaprej določenimi vrstami vprašanj, kot so zvezdice, palci, drsniki, ali pa ustvarite svojo lastno.",
+    "STEP1_BUTTON": "Odprta vprašanja",
+    "STEP2_HEADING": "Ustvarjanje ali posodabljanje konfiguracije gradnika",
+    "STEP2_DESCRIPTION": "Odprite orodje za prilagajanje, ustvarite ali uredite konfiguracijo gradnika in označite možnost »Omogoči ocene ali druga vprašanja«. Vsako konfiguracijo lahko omejite na vzorec URL-ja (npr. mysite.com/products/*), tako da se ocene prikazujejo samo na pravih straneh.",
+    "STEP3_HEADING": "Dodajte pripomoček Povzetek ocen",
+    "STEP2_BUTTON": "Odpri orodje za prilagajanje",
+    "STEP3_SHOPIFY_BUTTON": "Kako dodati blok (dokumentacija Shopify)",
+    "STEP_BADGE_DONE": "Končano",
+    "STEP3_GENERIC_BUTTON": "Preberite celoten priročnik za namestitev",
+    "STEP3_SHOPIFY_DESCRIPTION": "V urejevalniku tem Shopify dodajte blok FastComments - Reviews Summary v razdelek na strani, kjer želite prikazati skupno oceno z zvezdicami. Ko je ta korak dodan v urejevalnik, se samodejno preveri.",
+    "STEP3_SNIPPET_LABEL": "Vdelana koda",
+    "STEP_BADGE_TODO": "Narediti",
+    "STEP3_GENERIC_DESCRIPTION": "Spodnji delček kode dodajte na katero koli stran, kjer želite prikazati skupno oceno z zvezdicami. Pripomoček se naloži asinhrono in poskrbi za ostalo.",
+    "STATUS_LOADING": "Preverjanje vaše nastavitve ...",
+    "STEP3_NA": "Povežite trgovino Shopify, da bo ta korak samodejno zaznan."
+}

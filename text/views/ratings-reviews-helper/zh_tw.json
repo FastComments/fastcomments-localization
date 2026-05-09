@@ -1,0 +1,21 @@
+{
+    "HEADING": "評分和評論設置",
+    "PAGE_TITLE": "評分和評論設定 - FastComments",
+    "STEP1_BUTTON": "未解決的問題",
+    "INTRO": "此嚮導將引導您完成評分和評論的設定。此頁面將隨著您完成每個步驟而自動更新。",
+    "STEP2_HEADING": "建立或更新小工具配置",
+    "STEP1_DESCRIPTION": "選擇星級評分以及訪客在留下評論時需要回答的子問題。您可以從預設的問題類型中選擇，例如星級、按讚數、滑桿，或建立自己的問題類型。",
+    "STEP1_HEADING": "明確你的問題",
+    "STEP2_DESCRIPTION": "開啟自訂工具，建立或編輯小工具配置，並勾選「啟用評分或其他問題」。您可以將每個設定限定於特定的 URL 模式（例如 mysite.com/products/*），這樣評論就只會顯示在正確的頁面上。",
+    "STEP2_BUTTON": "開啟自訂程式",
+    "STEP3_SHOPIFY_DESCRIPTION": "在 Shopify 主題編輯器中，將 FastComments - Reviews Summary 模組新增至頁面上您希望顯示總計星級評分的部分。新增到編輯器後，此步驟會自動檢查。",
+    "STEP3_GENERIC_DESCRIPTION": "將以下程式碼片段新增至任何想要顯示總計星級評分的頁面。該組件非同步加載，並自動處理其餘操作。",
+    "STEP3_SNIPPET_LABEL": "嵌入程式碼",
+    "STEP3_HEADING": "新增“評論摘要”小工具",
+    "STEP3_SHOPIFY_BUTTON": "如何新增模組（Shopify 文件）",
+    "STEP_BADGE_TODO": "待辦事項",
+    "STEP_BADGE_DONE": "完畢",
+    "STEP3_GENERIC_BUTTON": "請閱讀完整安裝指南",
+    "STATUS_LOADING": "正在檢查您的設定…",
+    "STEP3_NA": "連接 Shopify 商店以自動偵測此步驟。"
+}

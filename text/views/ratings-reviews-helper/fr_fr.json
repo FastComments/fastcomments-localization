@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Configuration des notes et des avis - FastComments",
+    "HEADING": "Configuration des notes et des avis",
+    "INTRO": "Cet assistant vous guidera dans la configuration des notes et des avis. Cette page se mettra à jour automatiquement à chaque étape.",
+    "STEP1_HEADING": "Définissez vos questions",
+    "STEP2_DESCRIPTION": "Ouvrez l'outil de personnalisation, créez ou modifiez une configuration de widget, puis cochez « Activer les évaluations ou autres questions ». Vous pouvez limiter chaque configuration à un modèle d'URL (par exemple, mysite.com/products/*) afin que les avis n'apparaissent que sur les pages appropriées.",
+    "STEP1_BUTTON": "Questions ouvertes",
+    "STEP3_HEADING": "Ajouter le widget Résumé des avis",
+    "STEP2_BUTTON": "Ouvrir le personnalisateur",
+    "STEP1_DESCRIPTION": "Choisissez votre système de notation par étoiles et les questions auxquelles les visiteurs devront répondre lorsqu'ils laisseront un avis. Vous pouvez opter pour des types de questions prédéfinis (étoiles, pouces, curseurs) ou créer les vôtres.",
+    "STEP2_HEADING": "Créer ou mettre à jour une configuration de widget",
+    "STEP3_SHOPIFY_BUTTON": "Comment ajouter un bloc (Documentation Shopify)",
+    "STEP3_SHOPIFY_DESCRIPTION": "Dans l'éditeur de thème Shopify, ajoutez le bloc FastComments - Résumé des avis à la section de la page où vous souhaitez afficher le récapitulatif des notes. Une fois ajouté, ce bloc est automatiquement validé.",
+    "STEP3_SNIPPET_LABEL": "Code d'intégration",
+    "STEP3_GENERIC_BUTTON": "Consultez le guide d'installation complet",
+    "STEP_BADGE_TODO": "Faire",
+    "STEP_BADGE_DONE": "Fait",
+    "STEP3_GENERIC_DESCRIPTION": "Ajoutez l'extrait de code ci-dessous à n'importe quelle page où vous souhaitez afficher le système de notation par étoiles. Le widget se charge de manière asynchrone et gère le reste.",
+    "STATUS_LOADING": "Vérification de votre configuration...",
+    "STEP3_NA": "Connectez une boutique Shopify pour que cette étape soit détectée automatiquement."
+}

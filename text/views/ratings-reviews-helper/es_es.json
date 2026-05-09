@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Configuración de calificaciones y reseñas - FastComments",
+    "HEADING": "Configuración de calificaciones y reseñas",
+    "STEP1_BUTTON": "Preguntas abiertas",
+    "STEP1_HEADING": "Define tus preguntas",
+    "INTRO": "Este asistente le guiará en el proceso de configuración de calificaciones y reseñas. Esta página se actualizará automáticamente a medida que complete cada paso.",
+    "STEP1_DESCRIPTION": "Elige tu sistema de calificación por estrellas y las preguntas adicionales que los visitantes deberán responder al dejar una reseña. Puedes seleccionar entre tipos de preguntas predefinidos como estrellas, pulgares arriba, controles deslizantes o crear los tuyos propios.",
+    "STEP2_BUTTON": "Abrir personalizador",
+    "STEP2_HEADING": "Crear o actualizar una configuración de widget",
+    "STEP3_HEADING": "Agregar el widget Resumen de reseñas",
+    "STEP3_SNIPPET_LABEL": "Código de inserción",
+    "STEP3_SHOPIFY_BUTTON": "Cómo agregar un bloque (documentación de Shopify)",
+    "STEP2_DESCRIPTION": "Abre el personalizador, crea o edita una configuración de widget y marca la opción \"Habilitar valoraciones u otras preguntas\". Puedes limitar cada configuración a un patrón de URL (por ejemplo, mysite.com/products/*) para que las reseñas solo aparezcan en las páginas correspondientes.",
+    "STEP_BADGE_DONE": "Hecho",
+    "STEP3_GENERIC_BUTTON": "Lea la guía de instalación completa.",
+    "STEP_BADGE_TODO": "Hacer",
+    "STEP3_GENERIC_DESCRIPTION": "Agrega el siguiente fragmento de código a cualquier página donde quieras mostrar la calificación acumulativa por estrellas. El widget se carga de forma asíncrona y se encarga del resto.",
+    "STEP3_SHOPIFY_DESCRIPTION": "En el editor de temas de Shopify, añade el bloque FastComments - Resumen de reseñas a la sección de la página donde quieras mostrar la calificación acumulativa por estrellas. Una vez añadido en el editor, este paso se comprueba automáticamente.",
+    "STEP3_NA": "Conecta una tienda Shopify para que detecte automáticamente este paso.",
+    "STATUS_LOADING": "Comprobando tu configuración..."
+}

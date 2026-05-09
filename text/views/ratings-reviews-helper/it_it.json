@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Configurazione di valutazioni e recensioni - FastComments",
+    "HEADING": "Configurazione di valutazioni e recensioni",
+    "STEP1_HEADING": "Definisci le tue domande",
+    "STEP1_BUTTON": "Domande aperte",
+    "STEP1_DESCRIPTION": "Scegli la valutazione in stelle e le eventuali domande secondarie a cui i visitatori dovranno rispondere quando lasceranno una recensione. Puoi scegliere tra tipologie di domande predefinite come stelle, pollici in su, cursori o crearne di personalizzate.",
+    "INTRO": "Questa procedura guidata ti accompagnerà nella configurazione di valutazioni e recensioni. Questa pagina si aggiornerà automaticamente man mano che completi ogni passaggio.",
+    "STEP2_HEADING": "Creare o aggiornare la configurazione di un widget",
+    "STEP2_DESCRIPTION": "Apri il personalizzatore, crea o modifica una configurazione del widget e seleziona \"Abilita valutazioni o altre domande\". Puoi limitare ogni configurazione a un modello di URL (ad esempio mysite.com/products/*) in modo che le recensioni vengano visualizzate solo sulle pagine corrette.",
+    "STEP2_BUTTON": "Apri il personalizzatore",
+    "STEP3_HEADING": "Aggiungi il widget Riepilogo recensioni",
+    "STEP3_SNIPPET_LABEL": "Codice di incorporamento",
+    "STEP_BADGE_DONE": "Fatto",
+    "STEP3_SHOPIFY_BUTTON": "Come aggiungere un blocco (documentazione Shopify)",
+    "STEP3_GENERIC_BUTTON": "Leggi la guida completa all'installazione",
+    "STEP3_GENERIC_DESCRIPTION": "Aggiungi il seguente frammento di codice a qualsiasi pagina in cui desideri visualizzare la valutazione a stelle cumulativa. Il widget si carica in modo asincrono e si occupa del resto.",
+    "STEP3_SHOPIFY_DESCRIPTION": "Nell'editor del tema Shopify, aggiungi il blocco FastComments - Riepilogo recensioni in una sezione della pagina in cui desideri visualizzare il riepilogo delle valutazioni a stelle. Una volta aggiunto nell'editor, questo passaggio viene verificato automaticamente.",
+    "STEP_BADGE_TODO": "Fare",
+    "STEP3_NA": "Collega un negozio Shopify per rilevare automaticamente questo passaggio.",
+    "STATUS_LOADING": "Controllo della configurazione in corso..."
+}

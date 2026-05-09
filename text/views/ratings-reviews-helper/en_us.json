@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Ratings & Reviews Setup - FastComments",
+    "HEADING": "Ratings & Reviews Setup",
+    "INTRO": "This wizard will guide you through setting up ratings & reviews. This page will auto update as you complete each step.",
+    "STEP1_HEADING": "Define your questions",
+    "STEP1_DESCRIPTION": "Choose your star rating and any sub-questions visitors will answer when leaving a review. You can pick from preset question types like stars, thumbs, sliders, or build your own.",
+    "STEP1_BUTTON": "Open Questions",
+    "STEP2_HEADING": "Create or update a Widget Configuration",
+    "STEP2_DESCRIPTION": "Open the customizer, create or edit a Widget Configuration, and check 'Enable Ratings or Other Questions'. You can scope each configuration to a URL pattern (e.g. mysite.com/products/*) so reviews only appear on the right pages.",
+    "STEP2_BUTTON": "Open Customizer",
+    "STEP3_HEADING": "Add the Reviews Summary widget",
+    "STEP3_SHOPIFY_DESCRIPTION": "In your Shopify theme editor, add the FastComments - Reviews Summary block to a section on the page where you want to show the rollup star rating. Once added in the editor, this step auto-checks.",
+    "STEP3_SHOPIFY_BUTTON": "How to add a block (Shopify docs)",
+    "STEP3_GENERIC_DESCRIPTION": "Add the snippet below to any page where you want to show the rollup star rating. The widget loads asynchronously and takes care of the rest.",
+    "STEP3_GENERIC_BUTTON": "Read full installation guide",
+    "STEP3_SNIPPET_LABEL": "Embed code",
+    "STEP_BADGE_DONE": "Done",
+    "STEP_BADGE_TODO": "To do",
+    "STEP3_NA": "Connect a Shopify store to auto-detect this step.",
+    "STATUS_LOADING": "Checking your setup..."
+}

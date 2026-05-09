@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Konfiguracja ocen i recenzji – FastComments",
+    "INTRO": "Ten kreator przeprowadzi Cię przez proces konfiguracji ocen i recenzji. Ta strona będzie automatycznie aktualizowana po ukończeniu każdego kroku.",
+    "HEADING": "Konfiguracja ocen i recenzji",
+    "STEP1_DESCRIPTION": "Wybierz swoją ocenę gwiazdkową i wszelkie pytania podrzędne, na które goście będą odpowiadać, zostawiając recenzję. Możesz wybrać spośród predefiniowanych typów pytań, takich jak gwiazdki, kciuki, suwaki, lub utworzyć własne.",
+    "STEP2_HEADING": "Utwórz lub zaktualizuj konfigurację widżetu",
+    "STEP1_HEADING": "Zdefiniuj swoje pytania",
+    "STEP2_DESCRIPTION": "Otwórz narzędzie do personalizacji, utwórz lub edytuj konfigurację widżetu i zaznacz opcję „Włącz oceny lub inne pytania”. Możesz zawęzić zakres każdej konfiguracji do wzorca adresu URL (np. mysite.com/products/*), aby recenzje pojawiały się tylko na odpowiednich stronach.",
+    "STEP1_BUTTON": "Otwarte pytania",
+    "STEP3_HEADING": "Dodaj widżet Podsumowanie recenzji",
+    "STEP2_BUTTON": "Otwórz Customizer",
+    "STEP3_SHOPIFY_DESCRIPTION": "W edytorze motywu Shopify dodaj blok „Szybkie komentarze – podsumowanie recenzji” do sekcji na stronie, w której chcesz wyświetlić podsumowanie ocen w gwiazdkach. Po dodaniu w edytorze ten krok zostanie automatycznie sprawdzony.",
+    "STEP3_SHOPIFY_BUTTON": "Jak dodać blok (dokumentacja Shopify)",
+    "STEP3_GENERIC_DESCRIPTION": "Dodaj poniższy fragment kodu do dowolnej strony, na której chcesz wyświetlić podsumowanie ocen w gwiazdkach. Widżet ładuje się asynchronicznie i zajmuje się resztą.",
+    "STEP3_GENERIC_BUTTON": "Przeczytaj pełną instrukcję instalacji",
+    "STEP3_SNIPPET_LABEL": "Kod do osadzenia",
+    "STEP_BADGE_TODO": "Do zrobienia",
+    "STEP_BADGE_DONE": "Zrobione",
+    "STEP3_NA": "Połącz sklep Shopify, aby automatycznie wykryć ten krok.",
+    "STATUS_LOADING": "Sprawdzanie konfiguracji..."
+}

@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Einrichtung von Bewertungen und Rezensionen – FastComments",
+    "HEADING": "Einrichtung von Bewertungen und Rezensionen",
+    "STEP1_BUTTON": "Offene Fragen",
+    "INTRO": "Dieser Assistent führt Sie durch die Einrichtung von Bewertungen und Rezensionen. Diese Seite wird automatisch aktualisiert, sobald Sie jeden Schritt abgeschlossen haben.",
+    "STEP2_HEADING": "Widget-Konfiguration erstellen oder aktualisieren",
+    "STEP1_HEADING": "Definieren Sie Ihre Fragen",
+    "STEP1_DESCRIPTION": "Wählen Sie Ihre Sternebewertung und die Unterfragen, die Besucher beim Verfassen einer Rezension beantworten sollen. Sie können aus voreingestellten Fragetypen wie Sternen, Daumen oder Schiebereglern wählen oder Ihre eigenen erstellen.",
+    "STEP3_HEADING": "Fügen Sie das Widget „Rezensionsübersicht“ hinzu.",
+    "STEP2_BUTTON": "Customizer öffnen",
+    "STEP2_DESCRIPTION": "Öffnen Sie den Customizer, erstellen oder bearbeiten Sie eine Widget-Konfiguration und aktivieren Sie „Bewertungen oder andere Fragen aktivieren“. Sie können jede Konfiguration auf ein URL-Muster (z. B. meineseite.com/produkte/*) beschränken, sodass Bewertungen nur auf den richtigen Seiten angezeigt werden.",
+    "STEP3_SHOPIFY_DESCRIPTION": "Fügen Sie im Shopify-Theme-Editor den Block „FastComments – Zusammenfassung der Bewertungen“ zu einem Abschnitt der Seite hinzu, in dem die zusammengefasste Sternebewertung angezeigt werden soll. Nach dem Hinzufügen im Editor wird dieser Schritt automatisch überprüft.",
+    "STEP3_SNIPPET_LABEL": "Einbettungscode",
+    "STEP3_GENERIC_DESCRIPTION": "Fügen Sie den unten stehenden Code-Schnipsel auf jeder Seite ein, auf der Sie die zusammengefasste Sternebewertung anzeigen möchten. Das Widget wird asynchron geladen und kümmert sich um den Rest.",
+    "STEP3_SHOPIFY_BUTTON": "Wie man einen Block hinzufügt (Shopify-Dokumentation)",
+    "STEP3_GENERIC_BUTTON": "Lesen Sie die vollständige Installationsanleitung.",
+    "STEP_BADGE_TODO": "Zu erledigen",
+    "STEP_BADGE_DONE": "Erledigt",
+    "STEP3_NA": "Verbinden Sie einen Shopify-Shop, um diesen Schritt automatisch erkennen zu lassen.",
+    "STATUS_LOADING": "Ich überprüfe Ihre Einstellungen..."
+}

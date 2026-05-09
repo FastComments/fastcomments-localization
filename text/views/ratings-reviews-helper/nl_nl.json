@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "Beoordelingen en recensies instellen - FastComments",
+    "INTRO": "Deze wizard begeleidt u bij het instellen van beoordelingen en recensies. Deze pagina wordt automatisch bijgewerkt zodra u elke stap hebt voltooid.",
+    "HEADING": "Beoordelingen en recensies instellen",
+    "STEP1_HEADING": "Formuleer je vragen",
+    "STEP1_DESCRIPTION": "Kies je sterrenbeoordeling en eventuele subvragen die bezoekers moeten beantwoorden bij het achterlaten van een recensie. Je kunt kiezen uit vooraf ingestelde vraagtypen zoals sterren, duimpjes omhoog, schuifregelaars, of je eigen vraagtype samenstellen.",
+    "STEP2_HEADING": "Een widgetconfiguratie maken of bijwerken",
+    "STEP1_BUTTON": "Open vragen",
+    "STEP2_DESCRIPTION": "Open de customizer, maak of bewerk een widgetconfiguratie en vink 'Beoordelingen of andere vragen inschakelen' aan. Je kunt elke configuratie koppelen aan een URL-patroon (bijv. mysite.com/products/*) zodat beoordelingen alleen op de juiste pagina's verschijnen.",
+    "STEP3_GENERIC_BUTTON": "Lees de volledige installatiehandleiding.",
+    "STEP3_HEADING": "Voeg de widget 'Overzicht van beoordelingen' toe.",
+    "STEP2_BUTTON": "Open de aanpasfunctie",
+    "STEP3_SHOPIFY_BUTTON": "Hoe voeg je een blok toe (Shopify-documentatie)?",
+    "STEP3_GENERIC_DESCRIPTION": "Voeg het onderstaande codefragment toe aan elke pagina waar u de sterrenbeoordeling wilt weergeven. De widget laadt asynchroon en regelt de rest.",
+    "STEP3_SNIPPET_LABEL": "Insluitcode",
+    "STEP3_SHOPIFY_DESCRIPTION": "Voeg in de thema-editor van Shopify het blok 'FastComments - Reviews Summary' toe aan een gedeelte van de pagina waar je de sterrenbeoordeling wilt weergeven. Zodra je dit in de editor hebt toegevoegd, wordt deze stap automatisch gecontroleerd.",
+    "STEP_BADGE_DONE": "Klaar",
+    "STEP_BADGE_TODO": "Te doen",
+    "STEP3_NA": "Koppel een Shopify-winkel om deze stap automatisch te detecteren.",
+    "STATUS_LOADING": "Uw instellingen worden gecontroleerd..."
+}

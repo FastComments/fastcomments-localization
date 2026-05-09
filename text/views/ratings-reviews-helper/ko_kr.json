@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "평점 및 리뷰 설정 - FastComments",
+    "STEP1_BUTTON": "미해결 질문",
+    "STEP1_HEADING": "질문을 구체적으로 작성하세요",
+    "INTRO": "이 마법사는 평점 및 리뷰 설정 과정을 안내합니다. 각 단계를 완료할 때마다 이 페이지가 자동으로 업데이트됩니다.",
+    "HEADING": "평점 및 리뷰 설정",
+    "STEP1_DESCRIPTION": "별점과 리뷰 작성 시 방문자가 답변할 하위 질문을 선택하세요. 별, 엄지손가락, 슬라이더 등 미리 설정된 질문 유형 중에서 선택하거나 직접 만들 수도 있습니다.",
+    "STEP3_SHOPIFY_DESCRIPTION": "Shopify 테마 편집기에서 FastComments - Reviews Summary 블록을 별점 요약을 표시하려는 페이지 섹션에 추가하세요. 편집기에서 추가되면 이 단계는 자동으로 선택됩니다.",
+    "STEP2_DESCRIPTION": "커스터마이저를 열고 위젯 구성을 생성 또는 편집한 다음 '평점 또는 기타 질문 활성화'를 선택하세요. 각 구성을 특정 URL 패턴(예: mysite.com/products/*)으로 제한하면 리뷰가 지정된 페이지에만 표시됩니다.",
+    "STEP2_HEADING": "위젯 구성 생성 또는 업데이트",
+    "STEP2_BUTTON": "커스터마이저 열기",
+    "STEP3_HEADING": "리뷰 요약 위젯을 추가하세요",
+    "STEP3_SHOPIFY_BUTTON": "블록 추가 방법 (Shopify 문서)",
+    "STEP3_SNIPPET_LABEL": "임베드 코드",
+    "STEP3_GENERIC_DESCRIPTION": "별점 롤업을 표시하려는 페이지에 아래 코드 조각을 추가하세요. 위젯은 비동기적으로 로드되어 나머지를 처리합니다.",
+    "STEP3_GENERIC_BUTTON": "전체 설치 가이드를 읽어보세요.",
+    "STEP_BADGE_TODO": "할 일",
+    "STEP_BADGE_DONE": "완료",
+    "STATUS_LOADING": "설정 상태를 확인하는 중입니다...",
+    "STEP3_NA": "Shopify 스토어를 연결하면 이 단계가 자동으로 감지됩니다."
+}

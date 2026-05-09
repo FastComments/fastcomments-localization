@@ -1,0 +1,21 @@
+{
+    "HEADING": "Configuração de Avaliações e Comentários",
+    "STEP1_HEADING": "Defina suas perguntas.",
+    "PAGE_TITLE": "Configuração de Avaliações e Comentários - FastComments",
+    "INTRO": "Este assistente irá guiá-lo na configuração de avaliações e classificações. Esta página será atualizada automaticamente à medida que você concluir cada etapa.",
+    "STEP1_BUTTON": "Questões em aberto",
+    "STEP1_DESCRIPTION": "Escolha a sua classificação por estrelas e as perguntas adicionais que os visitantes responderão ao deixar uma avaliação. Você pode escolher entre tipos de perguntas predefinidos, como estrelas, polegares, barras deslizantes ou criar as suas próprias.",
+    "STEP2_BUTTON": "Abrir Personalizador",
+    "STEP3_SNIPPET_LABEL": "Código de incorporação",
+    "STEP2_HEADING": "Criar ou atualizar uma configuração de widget",
+    "STEP2_DESCRIPTION": "Abra o personalizador, crie ou edite uma Configuração de Widget e marque a opção \"Ativar Avaliações ou Outras Perguntas\". Você pode definir o escopo de cada configuração para um padrão de URL (por exemplo, meusite.com/produtos/*) para que as avaliações apareçam apenas nas páginas corretas.",
+    "STEP3_SHOPIFY_BUTTON": "Como adicionar um bloco (documentação do Shopify)",
+    "STEP3_SHOPIFY_DESCRIPTION": "No editor de temas do Shopify, adicione o bloco FastComments - Resumo de Avaliações à seção da página onde deseja exibir a classificação por estrelas. Depois de adicionado no editor, esta etapa será marcada automaticamente.",
+    "STEP_BADGE_DONE": "Feito",
+    "STEP3_GENERIC_BUTTON": "Leia o guia de instalação completo.",
+    "STEP3_HEADING": "Adicione o widget de Resumo de Avaliações",
+    "STEP3_GENERIC_DESCRIPTION": "Adicione o trecho de código abaixo a qualquer página onde você queira exibir a classificação por estrelas cumulativa. O widget carrega de forma assíncrona e cuida do resto.",
+    "STEP_BADGE_TODO": "Pendência",
+    "STATUS_LOADING": "Verificando sua configuração...",
+    "STEP3_NA": "Conecte uma loja Shopify para que essa etapa seja detectada automaticamente."
+}

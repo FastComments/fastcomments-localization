@@ -1,0 +1,21 @@
+{
+    "PAGE_TITLE": "评分和评论设置 - FastComments",
+    "STEP1_BUTTON": "未解决的问题",
+    "HEADING": "评分和评论设置",
+    "STEP1_HEADING": "明确你的问题",
+    "INTRO": "此向导将引导您完成评分和评论的设置。此页面将随着您完成每个步骤而自动更新。",
+    "STEP1_DESCRIPTION": "选择星级评分以及访客在留下评论时需要回答的子问题。您可以从预设的问题类型中选择，例如星级、点赞数、滑块，或者创建您自己的问题类型。",
+    "STEP2_HEADING": "创建或更新小部件配置",
+    "STEP3_HEADING": "添加“评论摘要”小部件",
+    "STEP2_BUTTON": "打开自定义程序",
+    "STEP3_SHOPIFY_DESCRIPTION": "在 Shopify 主题编辑器中，将 FastComments - Reviews Summary 模块添加到页面上您想要显示汇总星级评分的部分。添加到编辑器后，此步骤会自动检查。",
+    "STEP2_DESCRIPTION": "打开自定义工具，创建或编辑小部件配置，并勾选“启用评分或其他问题”。您可以将每个配置限定于特定的 URL 模式（例如 mysite.com/products/*），这样评论就只会显示在正确的页面上。",
+    "STEP3_SNIPPET_LABEL": "嵌入代码",
+    "STEP_BADGE_DONE": "完毕",
+    "STEP_BADGE_TODO": "待办事项",
+    "STEP3_GENERIC_DESCRIPTION": "将以下代码片段添加到任何想要显示汇总星级评分的页面。该组件异步加载，并自动处理其余操作。",
+    "STEP3_GENERIC_BUTTON": "请阅读完整安装指南",
+    "STEP3_SHOPIFY_BUTTON": "如何添加模块（Shopify 文档）",
+    "STATUS_LOADING": "正在检查您的设置……",
+    "STEP3_NA": "连接 Shopify 商店以自动检测此步骤。"
+}

@@ -399,7 +399,8 @@
         "email-redirect-expired": 4,
         "comment-ui-online-users": 12,
         "examples": 8,
-        "shopify-iframe-redirect": 4
+        "shopify-iframe-redirect": 4,
+        "ratings-reviews-helper": 6
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -9742,5 +9743,13 @@
         "t2": "HEADING",
         "t3": "DESCRIPTION",
         "t4": "BUTTON_CONTINUE"
+    },
+    "ratings-reviews-helper": {
+        "t1": "STEP_DONE_ARIA",
+        "t2": "STEP_TODO_ARIA",
+        "t3": "STEP_NA_ARIA",
+        "t4": "STATUS_FAILED",
+        "t5": "COPY_SNIPPET",
+        "t6": "COPY_SNIPPET_DONE"
     }
 }
