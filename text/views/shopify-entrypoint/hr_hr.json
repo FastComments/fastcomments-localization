@@ -9,5 +9,7 @@
     "BUTTON_SIGNUP": "Ne, kreiraj račun",
     "BUTTON_LOGIN": "Da, prijavi me",
     "ERROR_INVALID_HMAC": "Potpis zahtjeva nije važeći. Pokušajte ponovno iz Shopifyja.",
-    "ERROR_MISSING_SHOP": "Nedostaju podaci o trgovini. Pokušajte ponovno putem Shopifyja."
+    "ERROR_MISSING_SHOP": "Nedostaju podaci o trgovini. Pokušajte ponovno putem Shopifyja.",
+    "ERROR_INSTALL_FAILED": "Instalacija je neočekivano neuspjela. Pokušajte ponovno iz administratorske stranice Shopifyja i kontaktirajte support@fastcomments.com ako se problem nastavi.",
+    "ERROR_SESSION_EXPIRED": "Token sesije Shopifyja istekao je prije nego što je instalacija mogla završiti. Ponovno učitajte aplikaciju iz Shopify administratorske stranice i pokušajte ponovno."
 }

@@ -9,5 +9,7 @@
     "BUTTON_SIGNUP": "No, crea una cuenta",
     "META_DESCRIPTION": "Conecta tu tienda Shopify con FastComments.",
     "ERROR_MISSING_SHOP": "Falta información de la tienda. Inténtalo de nuevo desde Shopify.",
-    "ERROR_INVALID_HMAC": "La firma de la solicitud no es válida. Inténtalo de nuevo desde Shopify."
+    "ERROR_INVALID_HMAC": "La firma de la solicitud no es válida. Inténtalo de nuevo desde Shopify.",
+    "ERROR_SESSION_EXPIRED": "El token de sesión de Shopify caducó antes de que finalizara la instalación. Recarga la aplicación desde tu panel de administración de Shopify e inténtalo de nuevo.",
+    "ERROR_INSTALL_FAILED": "La instalación falló inesperadamente. Inténtalo de nuevo desde el panel de administración de Shopify y, si el problema persiste, ponte en contacto con support@fastcomments.com."
 }

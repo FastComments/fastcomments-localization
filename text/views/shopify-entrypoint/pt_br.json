@@ -9,5 +9,7 @@
     "HAVE_ACCOUNT_HEADING": "Você tem uma conta FastComments?",
     "BUTTON_SIGNUP": "Não, crie uma conta.",
     "ERROR_INVALID_HMAC": "A assinatura da solicitação é inválida. Tente novamente pelo Shopify.",
-    "ERROR_MISSING_SHOP": "Informações da loja ausentes. Tente novamente pelo Shopify."
+    "ERROR_MISSING_SHOP": "Informações da loja ausentes. Tente novamente pelo Shopify.",
+    "ERROR_INSTALL_FAILED": "A instalação falhou inesperadamente. Tente novamente pelo painel de administração do Shopify e, se o problema persistir, entre em contato com support@fastcomments.com.",
+    "ERROR_SESSION_EXPIRED": "O token de sessão do Shopify expirou antes que a instalação pudesse ser concluída. Recarregue o aplicativo no painel de administração do Shopify e tente novamente."
 }

@@ -9,5 +9,7 @@
     "HAVE_ACCOUNT_HEADING": "Possiedi un account FastComments?",
     "META_DESCRIPTION": "Collega il tuo negozio Shopify a FastComments.",
     "HEADING": "Collega il tuo negozio Shopify",
-    "SHOP_DOMAIN_LABEL": "Il tuo negozio"
+    "SHOP_DOMAIN_LABEL": "Il tuo negozio",
+    "ERROR_INSTALL_FAILED": "L'installazione non è riuscita in modo imprevisto. Riprova dall'area amministrativa di Shopify e, se il problema persiste, contatta support@fastcomments.com.",
+    "ERROR_SESSION_EXPIRED": "Il token di sessione di Shopify è scaduto prima che l'installazione potesse essere completata. Si prega di ricaricare l'app dal pannello di amministrazione di Shopify e riprovare."
 }

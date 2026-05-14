@@ -9,5 +9,7 @@
     "BUTTON_SIGNUP": "いいえ、アカウントを作成してください",
     "ERROR_INVALID_HMAC": "リクエストの署名が無効です。Shopifyから再度お試しください。",
     "DESCRIPTION": "Shopifyストアにライブコメントとチャット機能を数分で追加できます。FastCommentsアカウントにストアを連携させましょう。",
-    "ERROR_MISSING_SHOP": "店舗情報が不足しています。Shopifyから再度お試しください。"
+    "ERROR_MISSING_SHOP": "店舗情報が不足しています。Shopifyから再度お試しください。",
+    "ERROR_SESSION_EXPIRED": "Shopifyセッショントークンの有効期限が切れたため、インストールが完了できませんでした。Shopify管理画面からアプリを再読み込みして、もう一度お試しください。",
+    "ERROR_INSTALL_FAILED": "インストールが予期せず失敗しました。Shopify管理画面から再度お試しください。問題が解決しない場合は、support@fastcomments.comまでお問い合わせください。"
 }

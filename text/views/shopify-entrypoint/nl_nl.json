@@ -9,5 +9,7 @@
     "BUTTON_LOGIN": "Ja, meld me aan.",
     "SHOP_DOMAIN_LABEL": "Uw winkel",
     "ERROR_INVALID_HMAC": "De aanvraaghandtekening is ongeldig. Probeer het opnieuw via Shopify.",
-    "ERROR_MISSING_SHOP": "Winkelgegevens ontbreken. Probeer het opnieuw via Shopify."
+    "ERROR_MISSING_SHOP": "Winkelgegevens ontbreken. Probeer het opnieuw via Shopify.",
+    "ERROR_INSTALL_FAILED": "De installatie is onverwacht mislukt. Probeer het opnieuw via het Shopify-beheerpaneel en neem contact op met support@fastcomments.com als het probleem aanhoudt.",
+    "ERROR_SESSION_EXPIRED": "Het Shopify-sessietoken is verlopen voordat de installatie kon worden voltooid. Herlaad de app vanuit uw Shopify-beheerpaneel en probeer het opnieuw."
 }

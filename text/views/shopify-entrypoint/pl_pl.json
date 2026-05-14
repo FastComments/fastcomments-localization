@@ -9,5 +9,7 @@
     "DESCRIPTION": "Dodawaj komentarze na żywo i czatuj w swoim sklepie Shopify w kilka minut. Połączmy Twój sklep z kontem FastComments.",
     "BUTTON_SIGNUP": "Nie, załóż konto",
     "ERROR_INVALID_HMAC": "Podpis żądania jest nieprawidłowy. Spróbuj ponownie z Shopify.",
-    "ERROR_MISSING_SHOP": "Brak informacji o sklepie. Spróbuj ponownie z Shopify."
+    "ERROR_MISSING_SHOP": "Brak informacji o sklepie. Spróbuj ponownie z Shopify.",
+    "ERROR_SESSION_EXPIRED": "Token sesji Shopify wygasł przed zakończeniem instalacji. Uruchom ponownie aplikację z poziomu panelu administracyjnego Shopify i spróbuj jeszcze raz.",
+    "ERROR_INSTALL_FAILED": "Instalacja nieoczekiwanie nie powiodła się. Spróbuj ponownie z poziomu panelu administracyjnego Shopify i skontaktuj się z support@fastcomments.com, jeśli problem będzie się powtarzał."
 }

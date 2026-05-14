@@ -9,5 +9,7 @@
     "BUTTON_SIGNUP": "Ne, ustvari račun",
     "HAVE_ACCOUNT_HEADING": "Ali imate račun FastComments?",
     "ERROR_MISSING_SHOP": "Manjkajo podatki o trgovini. Poskusite znova prek Shopifyja.",
-    "ERROR_INVALID_HMAC": "Podpis zahteve ni veljaven. Poskusite znova iz Shopifyja."
+    "ERROR_INVALID_HMAC": "Podpis zahteve ni veljaven. Poskusite znova iz Shopifyja.",
+    "ERROR_INSTALL_FAILED": "Namestitev ni bila pričakovano uspešna. Poskusite znova iz skrbniškega vmesnika Shopify in se obrnite na support@fastcomments.com, če težava še vedno obstaja.",
+    "ERROR_SESSION_EXPIRED": "Žeton seje Shopify je potekel, preden se je namestitev lahko končala. Ponovno naložite aplikacijo iz skrbniškega računa Shopify in poskusite znova."
 }

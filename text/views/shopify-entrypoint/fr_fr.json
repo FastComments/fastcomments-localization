@@ -9,5 +9,7 @@
     "BUTTON_SIGNUP": "Non, créez un compte",
     "BUTTON_LOGIN": "Oui, inscrivez-moi",
     "ERROR_INVALID_HMAC": "La signature de la requête est invalide. Veuillez réessayer depuis Shopify.",
-    "ERROR_MISSING_SHOP": "Informations sur la boutique manquantes. Veuillez réessayer sur Shopify."
+    "ERROR_MISSING_SHOP": "Informations sur la boutique manquantes. Veuillez réessayer sur Shopify.",
+    "ERROR_SESSION_EXPIRED": "Le jeton de session Shopify a expiré avant la fin de l'installation. Veuillez recharger l'application depuis votre interface d'administration Shopify et réessayer.",
+    "ERROR_INSTALL_FAILED": "L'installation a échoué de manière inattendue. Veuillez réessayer depuis l'interface d'administration Shopify et contacter support@fastcomments.com si le problème persiste."
 }

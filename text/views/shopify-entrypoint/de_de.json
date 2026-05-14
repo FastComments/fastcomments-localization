@@ -9,5 +9,7 @@
     "BUTTON_SIGNUP": "Nein, erstelle ein Konto.",
     "HAVE_ACCOUNT_HEADING": "Haben Sie ein FastComments-Konto?",
     "ERROR_INVALID_HMAC": "Die Anforderungssignatur ist ungültig. Bitte versuchen Sie es erneut über Shopify.",
-    "ERROR_MISSING_SHOP": "Die Shop-Informationen fehlen. Bitte versuchen Sie es erneut über Shopify."
+    "ERROR_MISSING_SHOP": "Die Shop-Informationen fehlen. Bitte versuchen Sie es erneut über Shopify.",
+    "ERROR_SESSION_EXPIRED": "Das Shopify-Sitzungstoken ist abgelaufen, bevor die Installation abgeschlossen werden konnte. Bitte laden Sie die App in Ihrem Shopify-Adminbereich neu und versuchen Sie es erneut.",
+    "ERROR_INSTALL_FAILED": "Die Installation ist unerwartet fehlgeschlagen. Bitte versuchen Sie es erneut über die Shopify-Administration und kontaktieren Sie support@fastcomments.com, falls das Problem weiterhin besteht."
 }

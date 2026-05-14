@@ -368,7 +368,7 @@
         "my-account-configure-domains-edit": 17,
         "drupal": 110,
         "shopify-add-domain": 11,
-        "shopify-entrypoint": 11,
+        "shopify-entrypoint": 13,
         "shopify-success": 23,
         "my-account-manage-data-ai-agents": 67,
         "collab-chat": 10,
@@ -400,7 +400,11 @@
         "comment-ui-online-users": 12,
         "examples": 8,
         "shopify-iframe-redirect": 4,
-        "ratings-reviews-helper": 6
+        "ratings-reviews-helper": 6,
+        "lti-v1p3-deep-link-return": 4,
+        "lti-v1p3-launch": 4,
+        "lti-v1p3-register-complete": 4,
+        "my-account-lti-config": 26
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -8394,7 +8398,9 @@
         "t8": "BUTTON_LOGIN",
         "t9": "BUTTON_SIGNUP",
         "t10": "ERROR_INVALID_HMAC",
-        "t11": "ERROR_MISSING_SHOP"
+        "t11": "ERROR_MISSING_SHOP",
+        "t12": "ERROR_SESSION_EXPIRED",
+        "t13": "ERROR_INSTALL_FAILED"
     },
     "shopify-success": {
         "t1": "PAGE_TITLE",
@@ -9751,5 +9757,51 @@
         "t4": "STATUS_FAILED",
         "t5": "COPY_SNIPPET",
         "t6": "COPY_SNIPPET_DONE"
+    },
+    "lti-v1p3-deep-link-return": {
+        "t1": "PAGE_TITLE",
+        "t2": "AUTO_SUBMIT_MESSAGE",
+        "t3": "NOSCRIPT_MESSAGE",
+        "t4": "SUBMIT_BUTTON"
+    },
+    "lti-v1p3-launch": {
+        "t1": "PAGE_TITLE_SUFFIX",
+        "t2": "LOADING_TEXT",
+        "t3": "NOSCRIPT_HEADING",
+        "t4": "NOSCRIPT_MESSAGE"
+    },
+    "lti-v1p3-register-complete": {
+        "t1": "PAGE_TITLE",
+        "t2": "HEADING",
+        "t3": "INSTRUCTION",
+        "t4": "NOSCRIPT_MESSAGE"
+    },
+    "my-account-lti-config": {
+        "t1": "PAGE_TITLE",
+        "t2": "HEADING",
+        "t3": "INTRO",
+        "t4": "GENERATE_HEADING",
+        "t5": "PLATFORM_TYPE_LABEL",
+        "t6": "PLATFORM_OPTION_AUTO",
+        "t7": "PLATFORM_OPTION_D2L",
+        "t8": "PLATFORM_OPTION_MOODLE",
+        "t9": "PLATFORM_OPTION_BLACKBOARD",
+        "t10": "PLATFORM_OPTION_SAKAI",
+        "t11": "PLATFORM_OPTION_SCHOOLOGY",
+        "t12": "PLATFORM_OPTION_GENERIC",
+        "t13": "GENERATE_BUTTON",
+        "t14": "GENERATED_URL_HEADING",
+        "t15": "GENERATED_URL_INSTRUCTION",
+        "t16": "EXISTING_HEADING",
+        "t17": "NO_CONFIGS",
+        "t18": "TABLE_HEADER_NAME",
+        "t19": "TABLE_HEADER_PLATFORM",
+        "t20": "TABLE_HEADER_ISSUER",
+        "t21": "TABLE_HEADER_CLIENT_ID",
+        "t22": "TABLE_HEADER_STATUS",
+        "t23": "STATUS_ENABLED",
+        "t24": "STATUS_DISABLED",
+        "t25": "DELETE_BUTTON",
+        "t26": "DELETE_CONFIRM"
     }
 }

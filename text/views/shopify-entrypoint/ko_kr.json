@@ -9,5 +9,7 @@
     "HAVE_ACCOUNT_HEADING": "FastComments 계정이 있으신가요?",
     "BUTTON_SIGNUP": "아니요, 계정을 만드세요.",
     "ERROR_MISSING_SHOP": "상점 정보가 누락되었습니다. Shopify에서 다시 시도해 주세요.",
-    "ERROR_INVALID_HMAC": "요청 서명이 유효하지 않습니다. Shopify에서 다시 시도해 주세요."
+    "ERROR_INVALID_HMAC": "요청 서명이 유효하지 않습니다. Shopify에서 다시 시도해 주세요.",
+    "ERROR_SESSION_EXPIRED": "Shopify 세션 토큰이 설치 완료 전에 만료되었습니다. Shopify 관리자 페이지에서 앱을 새로고침하고 다시 시도해 주세요.",
+    "ERROR_INSTALL_FAILED": "설치가 예기치 않게 실패했습니다. Shopify 관리자 페이지에서 다시 시도해 주시고, 문제가 지속되면 support@fastcomments.com으로 문의해 주세요."
 }

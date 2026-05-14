@@ -9,5 +9,7 @@
     "BUTTON_SIGNUP": "Hayır, hesap oluşturun.",
     "BUTTON_LOGIN": "Evet, beni oturuma kaydet.",
     "ERROR_INVALID_HMAC": "İmza isteği geçersiz. Lütfen Shopify üzerinden tekrar deneyin.",
-    "ERROR_MISSING_SHOP": "Mağaza bilgileri eksik. Lütfen Shopify üzerinden tekrar deneyin."
+    "ERROR_MISSING_SHOP": "Mağaza bilgileri eksik. Lütfen Shopify üzerinden tekrar deneyin.",
+    "ERROR_INSTALL_FAILED": "Kurulum beklenmedik şekilde başarısız oldu. Lütfen Shopify yönetim panelinden tekrar deneyin ve sorun devam ederse support@fastcomments.com adresinden destek ekibiyle iletişime geçin.",
+    "ERROR_SESSION_EXPIRED": "Shopify oturum belirteci, yükleme tamamlanmadan önce süresi doldu. Lütfen uygulamayı Shopify yönetici panelinizden yeniden yükleyin ve tekrar deneyin."
 }

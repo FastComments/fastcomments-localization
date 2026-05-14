@@ -9,5 +9,7 @@
     "DESCRIPTION": "הוסף תגובות בזמן אמת וצ'אט לחנות Shopify שלך תוך דקות. בואו נקשר את החנות שלך לחשבון FastComments.",
     "BUTTON_SIGNUP": "לא, צור חשבון",
     "ERROR_INVALID_HMAC": "חתימת הבקשה אינה חוקית. אנא נסה שוב מ-Shopify.",
-    "ERROR_MISSING_SHOP": "חסרים פרטי חנות. אנא נסה שוב מ-Shopify."
+    "ERROR_MISSING_SHOP": "חסרים פרטי חנות. אנא נסה שוב מ-Shopify.",
+    "ERROR_SESSION_EXPIRED": "פג תוקף אסימון הסשן של Shopify לפני שההתקנה הסתיימה. אנא טען מחדש את האפליקציה ממנהל Shopify ונסה שוב.",
+    "ERROR_INSTALL_FAILED": "ההתקנה נכשלה באופן בלתי צפוי. אנא נסה שוב ממנהל Shopify, וצור קשר עם support@fastcomments.com אם הבעיה נמשכת."
 }

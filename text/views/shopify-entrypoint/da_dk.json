@@ -9,5 +9,7 @@
     "BUTTON_LOGIN": "Ja, log mig ind",
     "BUTTON_SIGNUP": "Nej, opret en konto",
     "ERROR_INVALID_HMAC": "Anmodningens signatur er ugyldig. Prøv igen fra Shopify.",
-    "ERROR_MISSING_SHOP": "Manglende butiksoplysninger. Prøv igen fra Shopify."
+    "ERROR_MISSING_SHOP": "Manglende butiksoplysninger. Prøv igen fra Shopify.",
+    "ERROR_INSTALL_FAILED": "Installationen mislykkedes uventet. Prøv igen fra Shopify-administratoren, og kontakt support@fastcomments.com, hvis problemet fortsætter.",
+    "ERROR_SESSION_EXPIRED": "Shopify-sessionstokenet udløb, før installationen kunne afsluttes. Genindlæs appen fra din Shopify-administrator, og prøv igen."
 }

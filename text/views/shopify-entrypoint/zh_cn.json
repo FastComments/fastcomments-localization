@@ -9,5 +9,7 @@
     "BUTTON_LOGIN": "是的，请帮我登记。",
     "BUTTON_SIGNUP": "不，请创建一个账户",
     "ERROR_INVALID_HMAC": "请求签名无效。请通过 Shopify 重试。",
-    "ERROR_MISSING_SHOP": "店铺信息缺失。请通过 Shopify 重试。"
+    "ERROR_MISSING_SHOP": "店铺信息缺失。请通过 Shopify 重试。",
+    "ERROR_SESSION_EXPIRED": "Shopify 会话令牌在安装完成前已过期。请从 Shopify 管理后台重新加载应用并重试。",
+    "ERROR_INSTALL_FAILED": "安装意外失败。请从 Shopify 管理后台重试，如果问题仍然存在，请联系 support@fastcomments.com。"
 }
