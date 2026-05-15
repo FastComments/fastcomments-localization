@@ -5,7 +5,7 @@
     "TABLE_HEADER_DOMAIN": "Domena",
     "TABLE_HEADER_LAST_USED": "Nazadnje uporabljeno",
     "TABLE_HEADER_STATUS": "Stanje",
-    "NO_INTEGRATIONS_MESSAGE": "Nimate integracij! Integracije se uporabljajo za sinhronizacijo storitev tretjih oseb, kot je WordPress, z vašim računom FastComments.",
+    "NO_INTEGRATIONS_MESSAGE": "Nimate integracij! Integracije se uporabljajo za sinhronizacijo storitev tretjih oseb, kot sta WordPress ali vaš LMS, z vašim računom FastComments.",
     "WORDPRESS_PLUGIN_LINK_TEXT": "Več o namestitvi vtičnika za WordPress si preberite tukaj.",
     "DOMAIN_N_A": "Ni na voljo",
     "LAST_USED_MORE_THAN_90_DAYS": "> Pred 90 dnevi",
@@ -14,5 +14,12 @@
     "VIEW_LOGS_LINK": "Ogled dnevnikov",
     "SETTINGS_LINK": "Nastavitve",
     "DELETE_LINK": "Izbriši",
-    "INTEGRATION_LOGO_ALT": "Logotip integracije"
+    "INTEGRATION_LOGO_ALT": "Logotip integracije",
+    "STATUS_ACTIVE": "Aktivno",
+    "STATUS_INCOMPLETE": "Nepopolno",
+    "STATUS_ENABLED": "Omogočeno",
+    "STATUS_DISABLED": "Onemogočeno",
+    "MANAGE_LINK": "Upravljanje",
+    "LAST_USED_NOT_TRACKED": "Ni sledeno",
+    "TYPE_CANVAS_LTI": "Platno LTI"
 }

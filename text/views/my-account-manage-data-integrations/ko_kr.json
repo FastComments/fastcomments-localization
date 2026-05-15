@@ -5,7 +5,7 @@
     "TABLE_HEADER_DOMAIN": "도메인",
     "TABLE_HEADER_LAST_USED": "최근 사용",
     "TABLE_HEADER_STATUS": "상태",
-    "NO_INTEGRATIONS_MESSAGE": "연동된 서비스가 없습니다! 연동 기능은 WordPress와 같은 타사 서비스를 FastComments 계정과 동기화하는 데 사용됩니다.",
+    "NO_INTEGRATIONS_MESSAGE": "연동된 서비스가 없습니다! 연동 기능은 WordPress나 학습 관리 시스템(LMS)과 같은 타사 서비스를 FastComments 계정과 동기화하는 데 사용됩니다.",
     "WORDPRESS_PLUGIN_LINK_TEXT": "여기에서 워드프레스 플러그인 설치에 대해 알아보세요.",
     "DOMAIN_N_A": "해당 없음",
     "LAST_USED_MORE_THAN_90_DAYS": "90일 전",
@@ -14,5 +14,12 @@
     "VIEW_LOGS_LINK": "로그 보기",
     "SETTINGS_LINK": "설정",
     "DELETE_LINK": "삭제",
-    "INTEGRATION_LOGO_ALT": "통합 로고"
+    "INTEGRATION_LOGO_ALT": "통합 로고",
+    "STATUS_DISABLED": "장애가 있는",
+    "STATUS_INCOMPLETE": "불완전한",
+    "STATUS_ACTIVE": "활동적인",
+    "LAST_USED_NOT_TRACKED": "추적되지 않음",
+    "STATUS_ENABLED": "활성화됨",
+    "MANAGE_LINK": "관리하다",
+    "TYPE_CANVAS_LTI": "캔버스 LTI"
 }

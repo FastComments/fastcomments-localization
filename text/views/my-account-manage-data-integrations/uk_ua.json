@@ -5,7 +5,7 @@
     "TABLE_HEADER_DOMAIN": "Домен",
     "TABLE_HEADER_LAST_USED": "Останнє використання",
     "TABLE_HEADER_STATUS": "Статус",
-    "NO_INTEGRATIONS_MESSAGE": "У вас немає інтеграцій! Інтеграції використовуються для синхронізації сторонніх сервісів, таких як WordPress, з вашим обліковим записом FastComments.",
+    "NO_INTEGRATIONS_MESSAGE": "У вас немає інтеграцій! Інтеграції використовуються для синхронізації сторонніх сервісів, таких як WordPress або ваша LMS, з вашим обліковим записом FastComments.",
     "WORDPRESS_PLUGIN_LINK_TEXT": "Дізнайтеся про встановлення плагіна WordPress тут.",
     "DOMAIN_N_A": "Немає даних",
     "LAST_USED_MORE_THAN_90_DAYS": "> 90 днів тому",
@@ -14,5 +14,12 @@
     "VIEW_LOGS_LINK": "Переглянути журнали",
     "SETTINGS_LINK": "Налаштування",
     "DELETE_LINK": "Видалити",
-    "INTEGRATION_LOGO_ALT": "Логотип інтеграції"
+    "INTEGRATION_LOGO_ALT": "Логотип інтеграції",
+    "STATUS_ENABLED": "Увімкнено",
+    "STATUS_ACTIVE": "Активний",
+    "STATUS_INCOMPLETE": "Незавершене",
+    "STATUS_DISABLED": "Інвалід",
+    "MANAGE_LINK": "Керувати",
+    "TYPE_CANVAS_LTI": "Полотно LTI",
+    "LAST_USED_NOT_TRACKED": "Не відстежується"
 }

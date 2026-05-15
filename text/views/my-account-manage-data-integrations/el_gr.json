@@ -5,7 +5,7 @@
     "TABLE_HEADER_DOMAIN": "Πεδίο ορισμού",
     "TABLE_HEADER_LAST_USED": "Τελευταία χρήση",
     "TABLE_HEADER_STATUS": "Κατάσταση",
-    "NO_INTEGRATIONS_MESSAGE": "Δεν έχετε ενσωματώσεις! Οι ενσωματώσεις χρησιμοποιούνται για να διατηρούνται οι υπηρεσίες τρίτων, όπως το WordPress, συγχρονισμένες με τον λογαριασμό σας στο FastComments.",
+    "NO_INTEGRATIONS_MESSAGE": "Δεν έχετε ενσωματώσεις! Οι ενσωματώσεις χρησιμοποιούνται για να διατηρούνται υπηρεσίες τρίτων μερών, όπως το WordPress ή το LMS σας, συγχρονισμένες με τον λογαριασμό σας FastComments.",
     "WORDPRESS_PLUGIN_LINK_TEXT": "Μάθετε για την εγκατάσταση του πρόσθετου WordPress εδώ.",
     "DOMAIN_N_A": "Δ/Υ",
     "LAST_USED_MORE_THAN_90_DAYS": "> 90 ημέρες πριν",
@@ -14,5 +14,12 @@
     "VIEW_LOGS_LINK": "Προβολή αρχείων καταγραφής",
     "SETTINGS_LINK": "Ρυθμίσεις",
     "DELETE_LINK": "Διαγράφω",
-    "INTEGRATION_LOGO_ALT": "Λογότυπο ενσωμάτωσης"
+    "INTEGRATION_LOGO_ALT": "Λογότυπο ενσωμάτωσης",
+    "STATUS_ACTIVE": "Ενεργός",
+    "STATUS_INCOMPLETE": "Ατελής",
+    "LAST_USED_NOT_TRACKED": "Δεν παρακολουθείται",
+    "STATUS_DISABLED": "Ανάπηρος",
+    "STATUS_ENABLED": "Ενεργοποιημένο",
+    "MANAGE_LINK": "Διαχειρίζομαι",
+    "TYPE_CANVAS_LTI": "LTI στον καμβά"
 }

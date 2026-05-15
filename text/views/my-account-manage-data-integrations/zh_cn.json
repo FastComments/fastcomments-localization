@@ -5,7 +5,7 @@
     "TABLE_HEADER_DOMAIN": "领域",
     "TABLE_HEADER_LAST_USED": "上次使用",
     "TABLE_HEADER_STATUS": "地位",
-    "NO_INTEGRATIONS_MESSAGE": "您尚未启用任何集成！集成用于使 WordPress 等第三方服务与您的 FastComments 帐户保持同步。",
+    "NO_INTEGRATIONS_MESSAGE": "您尚未启用任何集成！集成功能用于使第三方服务（例如 WordPress 或您的 LMS）与您的 FastComments 帐户保持同步。",
     "WORDPRESS_PLUGIN_LINK_TEXT": "点击此处了解WordPress插件安装方法。",
     "DOMAIN_N_A": "不适用",
     "LAST_USED_MORE_THAN_90_DAYS": "90天前",
@@ -14,5 +14,12 @@
     "VIEW_LOGS_LINK": "查看日志",
     "SETTINGS_LINK": "设置",
     "DELETE_LINK": "删除",
-    "INTEGRATION_LOGO_ALT": "集成标志"
+    "INTEGRATION_LOGO_ALT": "集成标志",
+    "LAST_USED_NOT_TRACKED": "未追踪",
+    "STATUS_ACTIVE": "积极的",
+    "STATUS_ENABLED": "已启用",
+    "STATUS_INCOMPLETE": "未完成",
+    "STATUS_DISABLED": "已禁用",
+    "MANAGE_LINK": "管理",
+    "TYPE_CANVAS_LTI": "Canvas LTI"
 }

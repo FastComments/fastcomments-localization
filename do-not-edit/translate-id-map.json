@@ -201,7 +201,7 @@
         "my-account-manage-data-import-scheduled-comments": 53,
         "my-account-manage-data-import-scheduled-comments-table": 9,
         "my-account-manage-data-import-table": 20,
-        "my-account-manage-data-integrations": 16,
+        "my-account-manage-data-integrations": 23,
         "my-account-manage-data-integrations-integration-delete": 7,
         "my-account-manage-data-integrations-integration-logs": 7,
         "my-account-manage-data-integrations-integration-settings": 8,
@@ -404,7 +404,8 @@
         "lti-v1p3-deep-link-return": 4,
         "lti-v1p3-launch": 4,
         "lti-v1p3-register-complete": 4,
-        "my-account-lti-config": 26
+        "my-account-lti-config": 26,
+        "my-account-lti-config-delete": 10
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -4635,7 +4636,14 @@
         "t13": "VIEW_LOGS_LINK",
         "t14": "SETTINGS_LINK",
         "t15": "DELETE_LINK",
-        "t16": "INTEGRATION_LOGO_ALT"
+        "t16": "INTEGRATION_LOGO_ALT",
+        "t17": "LAST_USED_NOT_TRACKED",
+        "t18": "STATUS_ACTIVE",
+        "t19": "STATUS_INCOMPLETE",
+        "t20": "STATUS_ENABLED",
+        "t21": "STATUS_DISABLED",
+        "t22": "MANAGE_LINK",
+        "t23": "TYPE_CANVAS_LTI"
     },
     "my-account-manage-data-integrations-integration-delete": {
         "t1": "PAGE_TITLE",
@@ -9803,5 +9811,17 @@
         "t24": "STATUS_DISABLED",
         "t25": "DELETE_BUTTON",
         "t26": "DELETE_CONFIRM"
+    },
+    "my-account-lti-config-delete": {
+        "t1": "PAGE_TITLE",
+        "t2": "HEADING",
+        "t3": "DELETE_HEADING",
+        "t4": "DELETE_DESCRIPTION",
+        "t5": "LABEL_NAME",
+        "t6": "LABEL_PLATFORM",
+        "t7": "LABEL_ISSUER",
+        "t8": "LABEL_CLIENT_ID",
+        "t9": "BUTTON_CANCEL",
+        "t10": "BUTTON_CONFIRM_DELETE"
     }
 }

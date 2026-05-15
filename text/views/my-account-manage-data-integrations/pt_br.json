@@ -5,7 +5,7 @@
     "TABLE_HEADER_DOMAIN": "Domínio",
     "TABLE_HEADER_LAST_USED": "Último uso",
     "TABLE_HEADER_STATUS": "Status",
-    "NO_INTEGRATIONS_MESSAGE": "Você não possui nenhuma integração! As integrações são usadas para manter serviços de terceiros, como o WordPress, sincronizados com sua conta FastComments.",
+    "NO_INTEGRATIONS_MESSAGE": "Você não possui nenhuma integração! As integrações são usadas para manter serviços de terceiros, como o WordPress ou seu LMS, sincronizados com sua conta FastComments.",
     "WORDPRESS_PLUGIN_LINK_TEXT": "Saiba mais sobre a instalação de plugins do WordPress aqui.",
     "DOMAIN_N_A": "N / D",
     "LAST_USED_MORE_THAN_90_DAYS": "> 90 dias atrás",
@@ -14,5 +14,12 @@
     "VIEW_LOGS_LINK": "Ver registos",
     "SETTINGS_LINK": "Configurações",
     "DELETE_LINK": "Excluir",
-    "INTEGRATION_LOGO_ALT": "Logotipo de integração"
+    "INTEGRATION_LOGO_ALT": "Logotipo de integração",
+    "LAST_USED_NOT_TRACKED": "Não rastreado",
+    "STATUS_ACTIVE": "Ativo",
+    "STATUS_INCOMPLETE": "Incompleto",
+    "STATUS_DISABLED": "Desabilitado",
+    "MANAGE_LINK": "Gerenciar",
+    "STATUS_ENABLED": "Habilitado",
+    "TYPE_CANVAS_LTI": "Canvas LTI"
 }

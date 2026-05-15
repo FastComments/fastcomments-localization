@@ -5,7 +5,7 @@
     "TABLE_HEADER_DOMAIN": "תְחוּם",
     "TABLE_HEADER_LAST_USED": "בשימוש אחרון",
     "TABLE_HEADER_STATUS": "סטָטוּס",
-    "NO_INTEGRATIONS_MESSAGE": "אין לך אינטגרציות! אינטגרציות משמשות לסנכרון שירותי צד שלישי, כמו וורדפרס, עם חשבון FastComments שלך.",
+    "NO_INTEGRATIONS_MESSAGE": "אין לך אינטגרציות! אינטגרציות משמשות לסנכרון שירותי צד שלישי, כמו וורדפרס או מערכת הלמידה שלך, עם חשבון FastComments שלך.",
     "WORDPRESS_PLUGIN_LINK_TEXT": "למדו על התקנת תוסף וורדפרס כאן.",
     "DOMAIN_N_A": "לא רלוונטי",
     "LAST_USED_MORE_THAN_90_DAYS": "לפני 90 ימים",
@@ -14,5 +14,12 @@
     "VIEW_LOGS_LINK": "הצג יומני רישום",
     "SETTINGS_LINK": "הגדרות",
     "DELETE_LINK": "לִמְחוֹק",
-    "INTEGRATION_LOGO_ALT": "לוגו אינטגרציה"
+    "INTEGRATION_LOGO_ALT": "לוגו אינטגרציה",
+    "STATUS_ACTIVE": "פָּעִיל",
+    "LAST_USED_NOT_TRACKED": "לא במעקב",
+    "STATUS_INCOMPLETE": "לֹא שָׁלֵם",
+    "STATUS_DISABLED": "נָכֶה",
+    "MANAGE_LINK": "לְנַהֵל",
+    "STATUS_ENABLED": "מופעל",
+    "TYPE_CANVAS_LTI": "קנבס LTI"
 }

@@ -5,7 +5,7 @@
     "TABLE_HEADER_DOMAIN": "ドメイン",
     "TABLE_HEADER_LAST_USED": "最後に使用したもの",
     "TABLE_HEADER_STATUS": "状態",
-    "NO_INTEGRATIONS_MESSAGE": "統合がありません。統合は、WordPress などのサードパーティのサービスを FastComments アカウントと同期させるために使用されます。",
+    "NO_INTEGRATIONS_MESSAGE": "連携機能が全くありません！連携機能は、WordPressやLMSなどのサードパーティサービスをFastCommentsアカウントと同期させるために使用されます。",
     "WORDPRESS_PLUGIN_LINK_TEXT": "WordPress プラグインのインストールについては、こちらをご覧ください。",
     "DOMAIN_N_A": "該当なし",
     "LAST_USED_MORE_THAN_90_DAYS": "> 90日前",
@@ -14,5 +14,12 @@
     "VIEW_LOGS_LINK": "ログを表示",
     "SETTINGS_LINK": "設定",
     "DELETE_LINK": "消去",
-    "INTEGRATION_LOGO_ALT": "統合ロゴ"
+    "INTEGRATION_LOGO_ALT": "統合ロゴ",
+    "LAST_USED_NOT_TRACKED": "追跡されていません",
+    "STATUS_ACTIVE": "アクティブ",
+    "STATUS_INCOMPLETE": "不完全",
+    "STATUS_DISABLED": "無効",
+    "MANAGE_LINK": "管理",
+    "STATUS_ENABLED": "有効",
+    "TYPE_CANVAS_LTI": "キャンバスLTI"
 }
