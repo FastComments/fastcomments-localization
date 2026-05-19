@@ -1,0 +1,14 @@
+{
+    "BANNER_TEXT": "FastComments API Errors Detected",
+    "FROM_NAME": "FastComments API Robot",
+    "SUBJECT": "FastComments API Errors Detected",
+    "GREETING": "Hello,",
+    "ERROR_SINGULAR": "error",
+    "ERROR_PLURAL": "errors",
+    "DETECTION": "We detected <%= errorCountFormatted %> API <%= errorWord %> for your account on the day of <%= errorDate %>.",
+    "TENANT_NOTE": "This is in regard to tenant with the id \"<%= tenantId %>\".",
+    "EXPLANATION": "These errors occurred when calling our platform. We suggest that you check logs for any custom API integrations with FastComments for errors.",
+    "OPT_OUT": "You can opt out of these notifications <a href=\"<%= notificationSettingsUrl %>\">here</a>.",
+    "SIGN_OFF": "Sincerely,",
+    "TEAM_NAME": "The FastComments Engineering Team"
+}
