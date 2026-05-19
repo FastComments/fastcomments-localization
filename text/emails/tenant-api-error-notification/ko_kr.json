@@ -5,7 +5,7 @@
     "FROM_NAME": "FastComments API 로봇",
     "ERROR_SINGULAR": "오류",
     "ERROR_PLURAL": "오류",
-    "DETECTION": "저희는 ____일에 귀하의 계정에 대해 <%= errorCountFormatted %> API <%= errorWord %>를 감지했습니다.",
+    "DETECTION": "저희는 <%= errorDate %>에 귀하의 계정에 대해 <%= errorCountFormatted %> API <%= errorWord %>를 감지했습니다.",
     "TENANT_NOTE": "이는 ID가 \"<%= tenantId %>\"인 임차인에 관한 것입니다.",
     "OPT_OUT": "<a href=\"<%= notificationSettingsUrl %>\">여기</a> 에서 알림 수신을 거부할 수 있습니다.",
     "SIGN_OFF": "감사합니다,",
