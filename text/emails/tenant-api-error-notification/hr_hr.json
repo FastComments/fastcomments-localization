@@ -1,0 +1,14 @@
+{
+    "BANNER_TEXT": "Otkrivene su pogreške FastComments API-ja",
+    "GREETING": "Zdravo,",
+    "FROM_NAME": "Robot API-ja FastComments",
+    "ERROR_PLURAL": "pogreške",
+    "ERROR_SINGULAR": "pogreška",
+    "SUBJECT": "Otkrivene su pogreške FastComments API-ja",
+    "SIGN_OFF": "Iskreno,",
+    "EXPLANATION": "Ove su se pogreške pojavile prilikom pozivanja naše platforme. Predlažemo da provjerite zapisnike za sve prilagođene API integracije s FastCommentsima radi grešaka.",
+    "TENANT_NOTE": "Ovo se odnosi na najmoprimca s ID-om \"<%= tenantId %>\".",
+    "DETECTION": "Otkrili smo <%= errorCountFormatted %> API <%= errorWord %> za vaš račun na dan <%= errorDate %>.",
+    "TEAM_NAME": "Inženjerski tim FastCommentsa",
+    "OPT_OUT": "<a href=\"<%= notificationSettingsUrl %>\">Ovdje</a> se možete isključiti iz ovih obavijesti."
+}

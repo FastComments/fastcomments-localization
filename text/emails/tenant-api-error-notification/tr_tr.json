@@ -1,0 +1,14 @@
+{
+    "FROM_NAME": "FastComments API Robot",
+    "BANNER_TEXT": "FastComments API Hataları Tespit Edildi",
+    "GREETING": "Merhaba,",
+    "ERROR_PLURAL": "hatalar",
+    "ERROR_SINGULAR": "hata",
+    "SUBJECT": "FastComments API Hataları Tespit Edildi",
+    "DETECTION": "Hesabınız için <%= errorCountFormatted %> tarihinde <%= errorWord %> API <%= errorDate %> tespit ettik.",
+    "SIGN_OFF": "Samimi olarak,",
+    "TENANT_NOTE": "Bu, \"<%= tenantId %>\" kimlik numaralı kiracı ile ilgilidir.",
+    "TEAM_NAME": "FastComments Mühendislik Ekibi",
+    "OPT_OUT": "Bu bildirimleri almak istemiyorsanız <a href=\"<%= notificationSettingsUrl %>\">buradan</a> aboneliğinizi iptal edebilirsiniz.",
+    "EXPLANATION": "Platformumuzu çağırırken bu hatalar oluştu. Hata olup olmadığını kontrol etmek için FastComments ile yaptığınız özel API entegrasyonlarına ait günlükleri incelemenizi öneririz."
+}

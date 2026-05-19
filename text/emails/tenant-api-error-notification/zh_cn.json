@@ -1,0 +1,14 @@
+{
+    "ERROR_SINGULAR": "错误",
+    "GREETING": "你好，",
+    "ERROR_PLURAL": "错误",
+    "BANNER_TEXT": "检测到 FastComments API 错误",
+    "FROM_NAME": "FastComments API 机器人",
+    "SUBJECT": "检测到 FastComments API 错误",
+    "SIGN_OFF": "真挚地，",
+    "TENANT_NOTE": "这是关于 ID 为“<%= tenantId %>”的租户的。",
+    "EXPLANATION": "调用我们的平台时出现这些错误。我们建议您检查日志，查找与 FastComments 集成的任何自定义 API 的错误。",
+    "TEAM_NAME": "FastComments 工程团队",
+    "DETECTION": "我们检测到您的帐户在<%= errorCountFormatted %>日存在<%= errorWord %> API <%= errorDate %>。",
+    "OPT_OUT": "您可以点击<a href=\"<%= notificationSettingsUrl %>\">此处</a>选择退出接收这些通知。"
+}

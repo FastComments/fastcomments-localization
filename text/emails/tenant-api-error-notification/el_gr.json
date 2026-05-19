@@ -1,0 +1,14 @@
+{
+    "FROM_NAME": "Ρομπότ API FastComments",
+    "BANNER_TEXT": "Εντοπίστηκαν σφάλματα API FastComments",
+    "GREETING": "Γειά σου,",
+    "ERROR_SINGULAR": "σφάλμα",
+    "TENANT_NOTE": "Αυτό ισχύει για τον ενοικιαστή με αναγνωριστικό \"<%= tenantId %>\".",
+    "ERROR_PLURAL": "λάθη",
+    "SUBJECT": "Εντοπίστηκαν σφάλματα API FastComments",
+    "DETECTION": "Εντοπίσαμε <%= errorCountFormatted %> API <%= errorWord %> για τον λογαριασμό σας την ημέρα της <%= errorDate %>.",
+    "SIGN_OFF": "Ειλικρινά,",
+    "EXPLANATION": "Αυτά τα σφάλματα παρουσιάστηκαν κατά την κλήση της πλατφόρμας μας. Σας προτείνουμε να ελέγξετε τα αρχεία καταγραφής για τυχόν προσαρμοσμένες ενσωματώσεις API με το FastComments για σφάλματα.",
+    "OPT_OUT": "Μπορείτε να εξαιρεθείτε από αυτές τις ειδοποιήσεις <a href=\"<%= notificationSettingsUrl %>\">εδώ</a> .",
+    "TEAM_NAME": "Η Ομάδα Μηχανικών FastComments"
+}

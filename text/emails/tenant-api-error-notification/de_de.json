@@ -1,0 +1,14 @@
+{
+    "BANNER_TEXT": "FastComments-API-Fehler erkannt",
+    "SUBJECT": "FastComments-API-Fehler erkannt",
+    "FROM_NAME": "FastComments API-Roboter",
+    "GREETING": "Hallo,",
+    "ERROR_SINGULAR": "Fehler",
+    "ERROR_PLURAL": "Fehler",
+    "SIGN_OFF": "Aufrichtig,",
+    "EXPLANATION": "Diese Fehler traten beim Aufruf unserer Plattform auf. Wir empfehlen Ihnen, die Protokolle aller benutzerdefinierten API-Integrationen mit FastComments auf Fehler zu überprüfen.",
+    "DETECTION": "Wir haben am <%= errorCountFormatted %> eine API-Attacke auf Ihr Konto festgestellt.",
+    "OPT_OUT": "<a href=\"<%= notificationSettingsUrl %>\">Hier</a> können Sie diese Benachrichtigungen abbestellen.",
+    "TEAM_NAME": "Das FastComments-Entwicklungsteam",
+    "TENANT_NOTE": "Dies bezieht sich auf den Mieter mit der ID \"<%= tenantId %>\"."
+}

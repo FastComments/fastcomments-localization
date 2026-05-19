@@ -1,0 +1,14 @@
+{
+    "FROM_NAME": "Robô da API FastComments",
+    "BANNER_TEXT": "Erros detectados na API FastComments",
+    "GREETING": "Olá,",
+    "ERROR_PLURAL": "erros",
+    "ERROR_SINGULAR": "erro",
+    "SUBJECT": "Erros detectados na API FastComments",
+    "DETECTION": "Detectamos uma solicitação de API <%= errorCountFormatted %> para sua conta no dia <%= errorWord %>.",
+    "SIGN_OFF": "Sinceramente,",
+    "TENANT_NOTE": "Isto diz respeito ao inquilino com o ID \"<%= tenantId %>\".",
+    "EXPLANATION": "Esses erros ocorreram ao acessar nossa plataforma. Sugerimos que você verifique os registros de quaisquer integrações de API personalizadas com o FastComments em busca de erros.",
+    "TEAM_NAME": "A equipe de engenharia do FastComments",
+    "OPT_OUT": "Você pode cancelar o recebimento dessas notificações <a href=\"<%= notificationSettingsUrl %>\">aqui</a> ."
+}

@@ -178,7 +178,7 @@
         "my-account-edit-details-change-password": 7,
         "my-account-edit-details-change-password-do": 14,
         "my-account-edit-notifications": 48,
-        "my-account-feedback-analytics": 16,
+        "my-account-feedback-analytics": 18,
         "my-account-get-code": 22,
         "my-account-help": 22,
         "my-account-help-acknowledge-failure": 4,
@@ -405,7 +405,8 @@
         "lti-v1p3-launch": 4,
         "lti-v1p3-register-complete": 4,
         "my-account-lti-config": 26,
-        "my-account-lti-config-delete": 10
+        "my-account-lti-config-delete": 10,
+        "tenant-api-error-notification": 12
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -4056,7 +4057,9 @@
         "t13": "CHART_BREAKDOWN",
         "t14": "CHART_TOP_DOWN",
         "t15": "CHART_BOTTOM_UP",
-        "t16": "NO_DATA"
+        "t16": "NO_DATA",
+        "t17": "RESPONSE_SINGULAR",
+        "t18": "RESPONSE_PLURAL"
     },
     "my-account-get-code": {
         "t1": "TITLE",
@@ -9824,5 +9827,19 @@
         "t8": "LABEL_CLIENT_ID",
         "t9": "BUTTON_CANCEL",
         "t10": "BUTTON_CONFIRM_DELETE"
+    },
+    "tenant-api-error-notification": {
+        "t1": "BANNER_TEXT",
+        "t2": "FROM_NAME",
+        "t3": "SUBJECT",
+        "t4": "GREETING",
+        "t5": "ERROR_SINGULAR",
+        "t6": "ERROR_PLURAL",
+        "t7": "DETECTION",
+        "t8": "TENANT_NOTE",
+        "t9": "EXPLANATION",
+        "t10": "OPT_OUT",
+        "t11": "SIGN_OFF",
+        "t12": "TEAM_NAME"
     }
 }

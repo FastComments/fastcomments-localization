@@ -1,0 +1,14 @@
+{
+    "ERROR_SINGULAR": "錯誤",
+    "ERROR_PLURAL": "錯誤",
+    "GREETING": "你好，",
+    "FROM_NAME": "FastComments API 機器人",
+    "BANNER_TEXT": "偵測到 FastComments API 錯誤",
+    "SUBJECT": "偵測到 FastComments API 錯誤",
+    "SIGN_OFF": "真摯地，",
+    "TENANT_NOTE": "這是關於 ID 為「<%= tenantId %>」的租戶的。",
+    "DETECTION": "我們偵測到您的帳戶在<%= errorCountFormatted %>日有<%= errorWord %> API <%= errorDate %>。",
+    "EXPLANATION": "調用我們的平台時出現這些錯誤。我們建議您檢查日誌，以尋找與 FastComments 整合的任何自訂 API 的錯誤。",
+    "OPT_OUT": "您可以點擊<a href=\"<%= notificationSettingsUrl %>\">此處</a>選擇退出接收這些通知。",
+    "TEAM_NAME": "FastComments 工程團隊"
+}

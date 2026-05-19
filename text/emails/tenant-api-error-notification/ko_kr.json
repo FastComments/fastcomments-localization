@@ -1,0 +1,14 @@
+{
+    "SUBJECT": "FastComments API 오류가 감지되었습니다.",
+    "GREETING": "안녕하세요,",
+    "BANNER_TEXT": "FastComments API 오류가 감지되었습니다.",
+    "FROM_NAME": "FastComments API 로봇",
+    "ERROR_SINGULAR": "오류",
+    "ERROR_PLURAL": "오류",
+    "DETECTION": "저희는 ____일에 귀하의 계정에 대해 <%= errorCountFormatted %> API <%= errorWord %>를 감지했습니다.",
+    "TENANT_NOTE": "이는 ID가 \"<%= tenantId %>\"인 임차인에 관한 것입니다.",
+    "OPT_OUT": "<a href=\"<%= notificationSettingsUrl %>\">여기</a> 에서 알림 수신을 거부할 수 있습니다.",
+    "SIGN_OFF": "감사합니다,",
+    "EXPLANATION": "이러한 오류는 저희 플랫폼을 호출할 때 발생했습니다. FastComments와 연동된 사용자 지정 API의 로그에서 오류를 확인해 보시기 바랍니다.",
+    "TEAM_NAME": "FastComments 엔지니어링 팀"
+}

@@ -1,0 +1,14 @@
+{
+    "BANNER_TEXT": "Виявлено помилки API FastComments",
+    "FROM_NAME": "Робот API FastComments",
+    "GREETING": "Привіт,",
+    "SUBJECT": "Виявлено помилки API FastComments",
+    "ERROR_SINGULAR": "помилка",
+    "ERROR_PLURAL": "помилки",
+    "EXPLANATION": "Ці помилки виникли під час виклику нашої платформи. Радимо вам перевірити журнали на наявність помилок у інтеграціях користувацького API з FastComments.",
+    "DETECTION": "Ми виявили <%= errorCountFormatted %> API <%= errorWord %> для вашого облікового запису <%= errorDate %> числа.",
+    "TENANT_NOTE": "Це стосується орендаря з ідентифікатором \"<%= tenantId %>\".",
+    "SIGN_OFF": "З повагою,",
+    "TEAM_NAME": "Команда інженерів FastComments",
+    "OPT_OUT": "Ви можете відмовитися від цих сповіщень <a href=\"<%= notificationSettingsUrl %>\">тут</a> ."
+}
