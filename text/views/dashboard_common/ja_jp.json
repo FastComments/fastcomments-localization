@@ -115,5 +115,7 @@
     "SIDEBAR_SUPPRESSED_EMAILS": "抑制されたメール",
     "SIDEBAR_SUPPRESSED_EMAILS_DESCRIPTION": "電子メールの抑制を表示および管理します。",
     "SIDEBAR_AI_AGENTS": "AIエージェント",
-    "SIDEBAR_AI_AGENTS_DESCRIPTION": "あなたのコメントを監視し、行動を起こすAIエージェントを作成します。"
+    "SIDEBAR_AI_AGENTS_DESCRIPTION": "あなたのコメントを監視し、行動を起こすAIエージェントを作成します。",
+    "SIDEBAR_MCP_SERVER": "MCPサーバー",
+    "SIDEBAR_MCP_SERVER_DESCRIPTION": "Claude CodeやCursorのようなAIアシスタントがFastComments APIを直接呼び出せるようにしましょう。"
 }

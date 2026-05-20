@@ -112,7 +112,7 @@
         "create-conversation": 24,
         "create-conversation-failure": 6,
         "create-conversation-success": 10,
-        "dashboard_common": 118,
+        "dashboard_common": 120,
         "demo": 44,
         "error": 8,
         "global-distribution": 44,
@@ -406,7 +406,8 @@
         "lti-v1p3-register-complete": 4,
         "my-account-lti-config": 26,
         "my-account-lti-config-delete": 10,
-        "tenant-api-error-notification": 12
+        "tenant-api-error-notification": 12,
+        "my-account-mcp-setup": 28
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -2498,7 +2499,9 @@
         "t115": "SIDEBAR_SUPPRESSED_EMAILS_DESCRIPTION",
         "t116": "NAV_CANVAS_LTI_CONFIG",
         "t117": "SIDEBAR_AI_AGENTS",
-        "t118": "SIDEBAR_AI_AGENTS_DESCRIPTION"
+        "t118": "SIDEBAR_AI_AGENTS_DESCRIPTION",
+        "t119": "SIDEBAR_MCP_SERVER",
+        "t120": "SIDEBAR_MCP_SERVER_DESCRIPTION"
     },
     "demo": {
         "t1": "PAGE_TITLE",
@@ -9841,5 +9844,35 @@
         "t10": "OPT_OUT",
         "t11": "SIGN_OFF",
         "t12": "TEAM_NAME"
+    },
+    "my-account-mcp-setup": {
+        "t1": "PAGE_TITLE",
+        "t2": "HEADING",
+        "t3": "INTRO",
+        "t4": "WHAT_IS_MCP_HEADING",
+        "t5": "WHAT_IS_MCP_BODY",
+        "t6": "CHOOSE_KEY_HEADING",
+        "t7": "CHOOSE_KEY_LABEL",
+        "t8": "CHOOSE_KEY_HELP_PREFIX",
+        "t9": "CHOOSE_KEY_HELP_LINK",
+        "t10": "CHOOSE_KEY_HELP_SUFFIX",
+        "t11": "NO_KEYS_HEADING",
+        "t12": "NO_KEYS_BODY",
+        "t13": "NO_KEYS_BUTTON",
+        "t14": "DEFAULT_KEY_NAME",
+        "t15": "ENDPOINT_HEADING",
+        "t16": "ENDPOINT_HELP",
+        "t17": "CLAUDE_CODE_HEADING",
+        "t18": "CLAUDE_CODE_HELP",
+        "t19": "CLAUDE_DESKTOP_HEADING",
+        "t20": "CLAUDE_DESKTOP_HELP",
+        "t21": "COPY_BUTTON",
+        "t22": "COPIED_LABEL",
+        "t23": "REVEAL_OVERLAY",
+        "t24": "SNIPPET_WARNING",
+        "t25": "DOCS_LINK_HEADING",
+        "t26": "DOCS_LINK_PREFIX",
+        "t27": "DOCS_LINK_TEXT",
+        "t28": "DOCS_LINK_SUFFIX"
     }
 }

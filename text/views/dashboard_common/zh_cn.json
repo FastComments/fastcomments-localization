@@ -115,5 +115,7 @@
     "SIDEBAR_SUPPRESSED_EMAILS": "被屏蔽的电子邮件",
     "SIDEBAR_SUPPRESSED_EMAILS_DESCRIPTION": "查看和管理邮件屏蔽设置。",
     "SIDEBAR_AI_AGENTS": "人工智能代理",
-    "SIDEBAR_AI_AGENTS_DESCRIPTION": "创建人工智能代理，使其观察你的评论并采取行动。"
+    "SIDEBAR_AI_AGENTS_DESCRIPTION": "创建人工智能代理，使其观察你的评论并采取行动。",
+    "SIDEBAR_MCP_SERVER": "MCP 服务器",
+    "SIDEBAR_MCP_SERVER_DESCRIPTION": "让 Claude Code 和 Cursor 等 AI 助手直接调用 FastComments API。"
 }
