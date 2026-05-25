@@ -44,11 +44,14 @@
     "NOSCRIPT_SUB_QUESTIONS": "Alt soruları düzenlemek için lütfen JavaScript'i etkinleştirin.",
     "HEADING_SUB_QUESTIONS": "Alt Sorular",
     "MESSAGE_ADD_QUESTIONS_FIRST": "Önce diğer soruları ekleyin, daha sonra bunları alt sorular olarak ekleyin.",
-    "LABEL_PREVIEW": "Önizleme:",
+    "LABEL_PREVIEW": "Önizleme",
     "BUTTON_CREATE": "Soru Oluştur",
     "BUTTON_UPDATE": "Güncelleme Sorusu",
     "QUESTION_TYPE_NPS": "NPS",
     "QUESTION_TYPE_SLIDER": "Kaydırıcı",
     "QUESTION_TYPE_STAR": "Yıldız Derecelendirmesi",
-    "QUESTION_TYPE_THUMBS": "Beğen/Beğenme"
+    "QUESTION_TYPE_THUMBS": "Beğen/Beğenme",
+    "OPTION_STYLE_INLINE": "Çizgide",
+    "OPTION_STYLE_CENTERED": "Merkezlenmiş",
+    "LABEL_DISPLAY_STYLE": "Görüntüleme Stili"
 }

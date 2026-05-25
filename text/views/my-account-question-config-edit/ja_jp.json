@@ -44,11 +44,14 @@
     "NOSCRIPT_SUB_QUESTIONS": "サブ質問を編集するにはJavaScriptを有効にしてください。",
     "HEADING_SUB_QUESTIONS": "サブ質問",
     "MESSAGE_ADD_QUESTIONS_FIRST": "サブ質問として追加するには、まず他の質問を追加します。",
-    "LABEL_PREVIEW": "プレビュー:",
+    "LABEL_PREVIEW": "プレビュー",
     "BUTTON_CREATE": "質問を作成",
     "BUTTON_UPDATE": "質問を更新する",
     "QUESTION_TYPE_NPS": "NPS",
     "QUESTION_TYPE_SLIDER": "スライダー",
     "QUESTION_TYPE_STAR": "星評価",
-    "QUESTION_TYPE_THUMBS": "親指を立てる/下げる"
+    "QUESTION_TYPE_THUMBS": "親指を立てる/下げる",
+    "OPTION_STYLE_CENTERED": "中央揃え",
+    "OPTION_STYLE_INLINE": "列をなして",
+    "LABEL_DISPLAY_STYLE": "表示スタイル"
 }

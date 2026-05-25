@@ -44,11 +44,14 @@
     "NOSCRIPT_SUB_QUESTIONS": "请启用 JavaScript 以编辑子问题。",
     "HEADING_SUB_QUESTIONS": "子问题",
     "MESSAGE_ADD_QUESTIONS_FIRST": "请先添加其他问题，再将其添加为子问题。",
-    "LABEL_PREVIEW": "预览：",
+    "LABEL_PREVIEW": "预览",
     "BUTTON_CREATE": "创建问题",
     "BUTTON_UPDATE": "更新问题",
     "QUESTION_TYPE_NPS": "国家公园",
     "QUESTION_TYPE_SLIDER": "滑块",
     "QUESTION_TYPE_STAR": "星级评定",
-    "QUESTION_TYPE_THUMBS": "点赞/点踩"
+    "QUESTION_TYPE_THUMBS": "点赞/点踩",
+    "LABEL_DISPLAY_STYLE": "显示样式",
+    "OPTION_STYLE_INLINE": "排队",
+    "OPTION_STYLE_CENTERED": "居中"
 }

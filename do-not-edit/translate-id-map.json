@@ -61,7 +61,7 @@
         "bulk-ban-dialog-component": 35,
         "bulk-select-component": 9,
         "comment-component": 40,
-        "comment-list-manager": 203,
+        "comment-list-manager": 204,
         "confirm-dialog-component": 2,
         "dialog-component": 2,
         "header-component": 21,
@@ -235,7 +235,7 @@
         "my-account-moderate-comments-v2": 9,
         "my-account-on-prem-status": 0,
         "my-account-question-config-delete": 7,
-        "my-account-question-config-edit": 52,
+        "my-account-question-config-edit": 55,
         "my-account-question-configs": 18,
         "my-account-question-configs-table": 6,
         "my-account-saml-config": 63,
@@ -1752,7 +1752,8 @@
         "t200": "COMMENT_LIST_ACTION_LOCKING_PLURAL",
         "t201": "COMMENT_LIST_ACTION_LOCKED_PLURAL",
         "t202": "COMMENT_LIST_ACTION_UNLOCKING_PLURAL",
-        "t203": "COMMENT_LIST_ACTION_UNLOCKED_PLURAL"
+        "t203": "COMMENT_LIST_ACTION_UNLOCKED_PLURAL",
+        "t204": "KB_SHORTCUTS_VIEW_BUTTON"
     },
     "confirm-dialog-component": {
         "t1": "CONFIRM_DIALOG_CONTINUE",
@@ -5287,7 +5288,10 @@
         "t49": "QUESTION_TYPE_NPS",
         "t50": "QUESTION_TYPE_SLIDER",
         "t51": "QUESTION_TYPE_STAR",
-        "t52": "QUESTION_TYPE_THUMBS"
+        "t52": "QUESTION_TYPE_THUMBS",
+        "t53": "LABEL_DISPLAY_STYLE",
+        "t54": "OPTION_STYLE_CENTERED",
+        "t55": "OPTION_STYLE_INLINE"
     },
     "my-account-question-configs": {
         "t1": "PAGE_TITLE",

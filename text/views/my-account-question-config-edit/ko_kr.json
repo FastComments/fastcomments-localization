@@ -44,11 +44,14 @@
     "NOSCRIPT_SUB_QUESTIONS": "하위 질문을 수정하려면 JavaScript를 활성화하십시오.",
     "HEADING_SUB_QUESTIONS": "세부 질문",
     "MESSAGE_ADD_QUESTIONS_FIRST": "먼저 다른 질문들을 추가해서 하위 질문으로 넣어주세요.",
-    "LABEL_PREVIEW": "시사:",
+    "LABEL_PREVIEW": "시사",
     "BUTTON_CREATE": "질문 생성",
     "BUTTON_UPDATE": "질문 업데이트",
     "QUESTION_TYPE_NPS": "국립공원관리청(NPS)",
     "QUESTION_TYPE_SLIDER": "슬라이더",
     "QUESTION_TYPE_STAR": "별점 평가",
-    "QUESTION_TYPE_THUMBS": "좋아요/싫어요"
+    "QUESTION_TYPE_THUMBS": "좋아요/싫어요",
+    "OPTION_STYLE_INLINE": "인라인",
+    "LABEL_DISPLAY_STYLE": "디스플레이 스타일",
+    "OPTION_STYLE_CENTERED": "중앙에"
 }

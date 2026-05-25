@@ -44,11 +44,14 @@
     "NOSCRIPT_SUB_QUESTIONS": "Veuillez activer JavaScript pour modifier les sous-questions.",
     "HEADING_SUB_QUESTIONS": "Questions secondaires",
     "MESSAGE_ADD_QUESTIONS_FIRST": "Ajoutez d'abord les autres questions pour les ajouter en tant que sous-questions.",
-    "LABEL_PREVIEW": "Aperçu :",
+    "LABEL_PREVIEW": "Aperçu",
     "BUTTON_CREATE": "Créer une question",
     "BUTTON_UPDATE": "Question de mise à jour",
     "QUESTION_TYPE_NPS": "NPS",
     "QUESTION_TYPE_SLIDER": "Curseur",
     "QUESTION_TYPE_STAR": "Évaluation par étoiles",
-    "QUESTION_TYPE_THUMBS": "Pouce levé/pouce baissé"
+    "QUESTION_TYPE_THUMBS": "Pouce levé/pouce baissé",
+    "OPTION_STYLE_INLINE": "En ligne",
+    "OPTION_STYLE_CENTERED": "Centré",
+    "LABEL_DISPLAY_STYLE": "Style d'affichage"
 }

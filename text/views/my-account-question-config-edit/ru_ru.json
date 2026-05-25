@@ -44,11 +44,14 @@
     "NOSCRIPT_SUB_QUESTIONS": "Включите JavaScript для редактирования дополнительных вопросов.",
     "HEADING_SUB_QUESTIONS": "Дополнительные вопросы",
     "MESSAGE_ADD_QUESTIONS_FIRST": "Сначала добавьте другие вопросы, чтобы затем добавить их в качестве подвопросов.",
-    "LABEL_PREVIEW": "Предварительный просмотр:",
+    "LABEL_PREVIEW": "Предварительный просмотр",
     "BUTTON_CREATE": "Создать вопрос",
     "BUTTON_UPDATE": "Обновить вопрос",
     "QUESTION_TYPE_NPS": "НПС",
     "QUESTION_TYPE_SLIDER": "Ползунок",
     "QUESTION_TYPE_STAR": "Звездный рейтинг",
-    "QUESTION_TYPE_THUMBS": "Палец вверх/Палец вниз"
+    "QUESTION_TYPE_THUMBS": "Палец вверх/Палец вниз",
+    "OPTION_STYLE_CENTERED": "Центрированный",
+    "OPTION_STYLE_INLINE": "В соответствии",
+    "LABEL_DISPLAY_STYLE": "Стиль отображения"
 }
