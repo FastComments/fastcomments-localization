@@ -107,7 +107,7 @@
         "common-user-profile": 3,
         "company": 18,
         "competitors": 14,
-        "contact-us": 58,
+        "contact-us": 62,
         "cookie-auth-window": 7,
         "create-conversation": 24,
         "create-conversation-failure": 6,
@@ -127,7 +127,7 @@
         "login-success": 9,
         "login-two-factor": 18,
         "maintenance-page": 4,
-        "marketing_common": 131,
+        "marketing_common": 132,
         "moderator-join-failure": 9,
         "moderator-join-success": 6,
         "my-account": 5,
@@ -2325,7 +2325,11 @@
         "t55": "FOOTNOTE_HEADING",
         "t56": "FOOTNOTE_BODY",
         "t57": "FOOTNOTE_PRIMARY_CTA",
-        "t58": "FOOTNOTE_SECONDARY_CTA"
+        "t58": "FOOTNOTE_SECONDARY_CTA",
+        "t59": "CHANNEL_LABEL_DISCORD",
+        "t60": "CHANNEL_DESC_DISCORD",
+        "t61": "CHANNEL_CTA_DISCORD",
+        "t62": "CHANNEL_PILL_DISCORD"
     },
     "cookie-auth-window": {
         "t1": "PAGE_TITLE_ALREADY_LOGGED_IN",
@@ -2956,7 +2960,8 @@
         "t128": "PUBLIC_NAV_ITEM_AI_AGENTS_DESC",
         "t129": "PUBLIC_NAV_ITEM_LIVE_EXAMPLES",
         "t130": "PUBLIC_NAV_ITEM_LIVE_EXAMPLES_DESC",
-        "t131": "PUBLIC_NAV_ITEM_ACCESSIBILITY"
+        "t131": "PUBLIC_NAV_ITEM_ACCESSIBILITY",
+        "t132": "PUBLIC_NAV_DISCORD"
     },
     "moderator-join-failure": {
         "t1": "PAGE_TITLE",
