@@ -33,5 +33,20 @@
     "CTA_SUBTITLE": "Ingen sideforsinkelser, ingen kompromiser med privatlivets fred, ingen overraskelser med skalering. Se, hvordan FastComments ser ud på dit websted med en gratis prøveperiode, intet kreditkort påkrævet.",
     "CTA_TITLE": "Dine læsere taler allerede. Giv dem et bedre sted at gøre det.",
     "COMMUNITY_P1": "En kommentarsektion er udgangspunktet, ikke destinationen. FastComments inkluderer priser og badges, der anerkender dine mest tankevækkende bidragydere, reaktioner ud over simple opvotes og indbyggede undersøgelser, der giver dig mulighed for at måle læsernes holdning til de emner, du dækker. Direkte beskeder mellem brugere lader samtaler fortsætte ud over individuelle tråde. Disse er de værktøjer, der forvandler engangskommentatorer til faste deltagere og faste deltagere til loyale abonnenter.",
-    "MIGRATION_P1": "Det lyder forstyrrende at skifte kommentarsystem. I praksis importerer FastComments dine eksisterende kommentarer fra Disqus, WordPress og andre platforme med et simpelt migreringsværktøj. Dine eksisterende tråde, brugernavne og samtalehistorik overføres intakt. Læserne vender tilbage for at finde deres tidligere kommentarer præcis der, hvor de efterlod dem, og overgangen er problemfri nok til, at de fleste ikke vil bemærke ændringen, kun forbedringen."
+    "MIGRATION_P1": "Det lyder forstyrrende at skifte kommentarsystem. I praksis importerer FastComments dine eksisterende kommentarer fra Disqus, WordPress og andre platforme med et simpelt migreringsværktøj. Dine eksisterende tråde, brugernavne og samtalehistorik overføres intakt. Læserne vender tilbage for at finde deres tidligere kommentarer præcis der, hvor de efterlod dem, og overgangen er problemfri nok til, at de fleste ikke vil bemærke ændringen, kun forbedringen.",
+    "NEWSPACK_TITLE": "FastComments fungerer med Newspack, lige fra starten",
+    "NEWSPACK_P1": "Newspack er bygget på WordPress, og det samme gælder FastComments-pluginnet. Hvis du udgiver med Newspack, behøver du ikke at skifte platform eller genopbygge noget. Installer FastComments WordPress-pluginnet på dit Newspack-websted, tilslut det med et par klik, og livekommentarer kører på få minutter. Dine indlæg, dit tema og din redaktionelle arbejdsgang forbliver præcis, hvor de er.",
+    "NEWSPACK_COL_WP": "Newspack standardkommentarer",
+    "NEWSPACK_COL_FC": "Hurtige kommentarer",
+    "NEWSPACK_COMPARE_CAPTION": "Newspack standardkommentarer sammenlignet med FastComments",
+    "NEWSPACK_P3": "Du beholder Newspack for alt, hvad det gør godt – udgivelse, medlemskab og din redaktionelle drift – og FastComments overtager samtalen. Det er fuldt ud GDPR-kompatibelt, det sporer eller profilerer ikke dine læsere, og det indlæser ingen reklamepixels på dine sider. Resultatet er en kommentarsektion, der matcher de standarder, dit redaktionslokale allerede har, og som kører på den platform, du allerede har valgt.",
+    "NEWSPACK_P2": "Newspack leveres med WordPress' indbyggede kommentarer, og disse kommentarer har alle de begrænsninger, WordPress har med sig. Der er ingen opdateringer i realtid, så læserne opdaterer siden for at se nye svar. Markeringen tilføjer vægt, der trækker Core Web Vitals ned på artikelsider, der i forvejen er fyldt med annoncer og medier. Spambeskyttelsen er tynd, og moderering betyder, at man skal arbejde sig igennem wp-admin-køen én kommentar ad gangen. På en ny historie, der tiltrækker tusindvis af læsere på én gang, holder den model ikke. FastComments erstatter den med øjeblikkelige, live kommentarer, der vises, mens samtalen finder sted, med et fodaftryk på cirka 30 kilobyte.",
+    "NEWSPACK_ROW_REALTIME": "Liveopdateringer i realtid",
+    "NEWSPACK_ROW_FOOTPRINT": "~30 kb fodaftryk, hurtigere Core Web Vitals",
+    "NEWSPACK_ROW_SPAM": "Maskinlæringsbaseret spamfiltrering",
+    "NEWSPACK_ROW_MODERATION": "Moderationsgrupper og massehandlinger",
+    "NEWSPACK_ROW_PRIVACY": "GDPR-kompatibel, ingen læsersporing",
+    "NEWSPACK_NO": "Ikke tilgængelig",
+    "NEWSPACK_ROW_SCALE": "Holder sig hurtig gennem trafikpropper",
+    "NEWSPACK_YES": "Inkluderet"
 }

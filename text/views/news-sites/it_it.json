@@ -33,5 +33,20 @@
     "CTA_PRIMARY": "Inizia la tua prova gratuita",
     "COMMUNITY_P2": "Il coinvolgimento dei lettori sui siti di notizie compete direttamente con i social media per l'attenzione e la creazione di abitudini di lettura. Le testate che vincono questa competizione sono quelle che offrono al proprio pubblico un motivo per tornare alla fonte. Gli strumenti di analisi integrati in FastComments mostrano quali articoli generano maggiore coinvolgimento, quali commentatori sono più attivi e come la community cresce nel tempo.",
     "CTA_TITLE": "I tuoi lettori ne parlano già. Offri loro un luogo migliore dove farlo.",
-    "CTA_SUBTITLE": "Nessun rallentamento delle pagine, nessun compromesso sulla privacy, nessuna sorpresa in termini di scalabilità. Scopri come FastComments funziona sul tuo sito con una prova gratuita, senza bisogno di carta di credito."
+    "CTA_SUBTITLE": "Nessun rallentamento delle pagine, nessun compromesso sulla privacy, nessuna sorpresa in termini di scalabilità. Scopri come FastComments funziona sul tuo sito con una prova gratuita, senza bisogno di carta di credito.",
+    "NEWSPACK_TITLE": "FastComments funziona con Newspack, pronto all'uso",
+    "NEWSPACK_COMPARE_CAPTION": "Confronto tra i commenti predefiniti di Newspack e FastComments",
+    "NEWSPACK_COL_WP": "commenti predefiniti del pacchetto di notizie",
+    "NEWSPACK_COL_FC": "FastComments",
+    "NEWSPACK_P3": "Puoi continuare a utilizzare Newspack per tutte le sue funzionalità principali: pubblicazione, gestione degli abbonamenti e redazione, mentre FastComments si occupa della sezione commenti. È pienamente conforme al GDPR, non traccia né profila i tuoi lettori e non inserisce pixel pubblicitari sulle tue pagine. Il risultato è una sezione commenti che rispecchia gli standard della tua redazione, e che funziona sulla piattaforma che hai già scelto.",
+    "NEWSPACK_P2": "Newspack include i commenti nativi di WordPress, che presentano tutte le limitazioni imposte da WordPress. Non ci sono aggiornamenti in tempo reale, quindi i lettori devono aggiornare la pagina per visualizzare le nuove risposte. Il markup aggiunge peso, penalizzando i Core Web Vitals nelle pagine degli articoli già ricche di annunci e contenuti multimediali. La protezione antispam è limitata e la moderazione richiede di gestire la coda di wp-admin un commento alla volta. In caso di notizie dell'ultima ora che attraggono migliaia di lettori contemporaneamente, questo modello non è efficace. FastComments lo sostituisce con commenti istantanei e in tempo reale che appaiono man mano che la conversazione si svolge, con un ingombro di circa 30 kilobyte.",
+    "NEWSPACK_P1": "Newspack è basato su WordPress, così come il plugin FastComments. Se pubblichi con Newspack, non devi cambiare piattaforma né ricostruire nulla. Installa il plugin FastComments per WordPress sul tuo sito Newspack, collegalo in pochi clic e i commenti in tempo reale saranno attivi in pochi minuti. I tuoi articoli, il tuo tema e il tuo flusso di lavoro editoriale rimangono esattamente dove sono.",
+    "NEWSPACK_ROW_REALTIME": "Aggiornamenti in tempo reale",
+    "NEWSPACK_ROW_FOOTPRINT": "Ingombro di circa 30 kB, Core Web Vitals più veloce",
+    "NEWSPACK_ROW_SPAM": "Filtro antispam basato sull'apprendimento automatico",
+    "NEWSPACK_ROW_MODERATION": "Gruppi di moderazione e azioni collettive",
+    "NEWSPACK_YES": "Incluso",
+    "NEWSPACK_NO": "Non disponibile",
+    "NEWSPACK_ROW_PRIVACY": "Conforme al GDPR, nessun tracciamento dei lettori.",
+    "NEWSPACK_ROW_SCALE": "Mantiene la velocità anche nei picchi di traffico."
 }

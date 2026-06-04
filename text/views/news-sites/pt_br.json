@@ -33,5 +33,20 @@
     "MIGRATION_P1": "Mudar de sistema de comentários pode parecer complicado. Na prática, o FastComments importa seus comentários existentes do Disqus, WordPress e outras plataformas com uma ferramenta de migração simples. Seus tópicos, nomes de usuário e histórico de conversas são transferidos intactos. Os leitores encontram seus comentários antigos exatamente onde os deixaram, e a transição é tão perfeita que a maioria não notará a mudança, apenas a melhoria.",
     "CTA_SECONDARY": "Contate o departamento de vendas.",
     "COMMUNITY_P1": "A seção de comentários é o ponto de partida, não o destino. O FastComments inclui prêmios e distintivos que reconhecem seus colaboradores mais atenciosos, reações que vão além de simples votos positivos e pesquisas integradas que permitem avaliar a opinião dos leitores sobre os assuntos que você aborda. O envio de mensagens diretas entre usuários permite que as conversas continuem além dos tópicos individuais. Essas são as ferramentas que transformam comentaristas ocasionais em participantes regulares e participantes regulares em assinantes fiéis.",
-    "CTA_SUBTITLE": "Sem lentidão no carregamento das páginas, sem comprometer a privacidade, sem surpresas desagradáveis com a escalabilidade. Veja como o FastComments fica no seu site com um teste gratuito, sem necessidade de cartão de crédito."
+    "CTA_SUBTITLE": "Sem lentidão no carregamento das páginas, sem comprometer a privacidade, sem surpresas desagradáveis com a escalabilidade. Veja como o FastComments fica no seu site com um teste gratuito, sem necessidade de cartão de crédito.",
+    "NEWSPACK_TITLE": "O FastComments funciona com o Newspack imediatamente após a instalação.",
+    "NEWSPACK_P1": "O Newspack é baseado no WordPress, assim como o plugin FastComments. Se você publica com o Newspack, não precisa trocar de plataforma nem reconstruir nada. Instale o plugin FastComments para WordPress no seu site Newspack, conecte-o com alguns cliques e os comentários ao vivo estarão funcionando em minutos. Suas postagens, seu tema e seu fluxo de trabalho editorial permanecem exatamente como estão.",
+    "NEWSPACK_COL_FC": "Comentários rápidos",
+    "NEWSPACK_COMPARE_CAPTION": "Comentários padrão do Newspack comparados com FastComments",
+    "NEWSPACK_ROW_REALTIME": "Atualizações ao vivo em tempo real",
+    "NEWSPACK_COL_WP": "Comentários padrão do Newspack",
+    "NEWSPACK_P3": "Você mantém o Newspack por tudo o que ele faz bem — publicação, membros e sua operação editorial — e o FastComments assume a conversa. Ele é totalmente compatível com o GDPR, não rastreia nem cria perfis de seus leitores e não carrega pixels de publicidade em suas páginas. O resultado é uma seção de comentários que atende aos padrões que sua redação já segue, funcionando na plataforma que você já escolheu.",
+    "NEWSPACK_P2": "O Newspack vem com os comentários nativos do WordPress, e esses comentários carregam todas as limitações inerentes ao WordPress. Não há atualizações em tempo real, então os leitores precisam atualizar a página para ver novas respostas. A marcação adiciona peso, o que prejudica os indicadores vitais da Web (Core Web Vitals) em páginas de artigos já sobrecarregadas com anúncios e mídia. A proteção contra spam é frágil e a moderação significa analisar a fila do wp-admin um comentário por vez. Em uma notícia de última hora que atrai milhares de leitores simultaneamente, esse modelo não funciona. O FastComments o substitui por comentários instantâneos e ao vivo que aparecem conforme a conversa acontece, com um tamanho de aproximadamente 30 kilobytes.",
+    "NEWSPACK_ROW_FOOTPRINT": "Tamanho aproximado de 30 kb, Core Web Vitals mais rápido.",
+    "NEWSPACK_ROW_SPAM": "Filtragem de spam por aprendizado de máquina",
+    "NEWSPACK_YES": "Incluído",
+    "NEWSPACK_ROW_PRIVACY": "Em conformidade com o RGPD, sem rastreamento de leitores.",
+    "NEWSPACK_ROW_MODERATION": "Grupos de moderação e ações em massa",
+    "NEWSPACK_ROW_SCALE": "Mantém a velocidade mesmo em picos de tráfego.",
+    "NEWSPACK_NO": "Não disponível"
 }

@@ -33,5 +33,20 @@
     "COMMUNITY_P2": "新闻网站的读者互动与社交媒体争夺用户注意力和用户习惯。能够赢得这场竞争的媒体，是那些能够让读者有理由再次访问其网站的媒体。FastComments 内置的分析功能可以显示哪些文章互动最多，哪些评论者最活跃，以及您的社区如何随时间发展壮大。",
     "COMMUNITY_P1": "评论区是起点，而非终点。FastComments 提供奖励和徽章，表彰最具见地的贡献者；提供除点赞之外的其他互动方式；内置调查问卷，让您了解读者对所报道议题的看法。用户间的直接消息功能让对话超越单个主题帖，持续进行。这些工具能将偶尔评论的用户转化为活跃用户，并将活跃用户转化为忠实订阅者。",
     "CTA_SUBTITLE": "页面加载速度不减慢，隐私无妥协，扩展性无意外。立即免费试用 FastComments，无需信用卡，即可体验其在您网站上的实际效果。",
-    "CTA_TITLE": "你的读者已经在讨论中了。给他们提供一个更好的讨论平台。"
+    "CTA_TITLE": "你的读者已经在讨论中了。给他们提供一个更好的讨论平台。",
+    "NEWSPACK_TITLE": "FastComments 与 Newspack 开箱即用",
+    "NEWSPACK_P1": "Newspack 和 FastComments 插件都基于 WordPress 构建。如果您使用 Newspack 发布内容，无需切换平台或重新构建任何内容。只需在您的 Newspack 网站上安装 FastComments WordPress 插件，点击几下即可完成连接，几分钟内即可启用实时评论功能。您的文章、主题和编辑工作流程都将保持不变。",
+    "NEWSPACK_COL_FC": "快速评论",
+    "NEWSPACK_COMPARE_CAPTION": "Newspack 默认注释与 FastComments 的比较",
+    "NEWSPACK_COL_WP": "新闻包默认注释",
+    "NEWSPACK_ROW_REALTIME": "实时更新",
+    "NEWSPACK_P2": "Newspack 自带 WordPress 原生评论功能，但这些评论也存在 WordPress 的所有局限性。评论不会实时更新，读者需要刷新页面才能看到新的回复。此外，评论标记会增加网站体积，拖累原本就广告和媒体内容繁多的文章页面，降低其核心网页性能。垃圾邮件防护功能也比较薄弱，审核评论需要逐条在 WordPress 后台队列中进行。对于同时吸引数千读者的突发新闻，这种模式显然行不通。FastComments 则提供了一种替代方案，它能即时显示实时评论，评论内容会随着对话的进行而实时呈现，而且文件大小仅约 30 KB。",
+    "NEWSPACK_P3": "您保留 Newspack 的所有优势功能，包括发布、会员管理和编辑运营，而 FastComments 则负责评论功能。它完全符合 GDPR 标准，不会追踪或分析您的读者，也不会在您的页面上加载任何广告像素。最终，您将获得一个符合您新闻编辑室现有标准的评论区，并且运行在您选择的平台上。",
+    "NEWSPACK_ROW_FOOTPRINT": "约 30kb 的占用空间，更快的核心 Web 功能",
+    "NEWSPACK_YES": "包括",
+    "NEWSPACK_NO": "无法使用",
+    "NEWSPACK_ROW_SCALE": "即使在交通高峰期也能保持高速行驶。",
+    "NEWSPACK_ROW_SPAM": "机器学习垃圾邮件过滤",
+    "NEWSPACK_ROW_MODERATION": "审核组和批量操作",
+    "NEWSPACK_ROW_PRIVACY": "符合GDPR规定，不追踪读者"
 }

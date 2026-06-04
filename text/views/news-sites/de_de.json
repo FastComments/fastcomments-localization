@@ -33,5 +33,20 @@
     "COMMUNITY_P1": "Der Kommentarbereich ist der Ausgangspunkt, nicht das Ziel. FastComments bietet Auszeichnungen und Abzeichen für besonders engagierte Kommentatoren, Reaktionen jenseits einfacher Upvotes und integrierte Umfragen, mit denen Sie die Meinung Ihrer Leser zu den behandelten Themen erfassen können. Direktnachrichten zwischen Nutzern ermöglichen es, Gespräche über einzelne Threads hinaus fortzusetzen. Diese Tools verwandeln Gelegenheitskommentatoren in regelmäßige Teilnehmer und regelmäßige Teilnehmer in treue Abonnenten.",
     "CTA_TITLE": "Ihre Leser diskutieren bereits. Bieten Sie ihnen einen besseren Ort dafür.",
     "CTA_SUBTITLE": "Keine Seitenladezeiten, keine Datenschutzbeeinträchtigungen, keine unerwarteten Skalierungsprobleme. Testen Sie FastComments kostenlos und überzeugen Sie sich selbst von seiner Wirkung auf Ihrer Website – ganz ohne Kreditkarte.",
-    "COMMUNITY_P2": "Die Leserinteraktion auf Nachrichtenseiten konkurriert direkt mit sozialen Medien um Aufmerksamkeit und Gewohnheitsbildung. Die Publikationen, die diesen Wettbewerb gewinnen, sind diejenigen, die ihren Lesern einen Grund geben, zur Quelle zurückzukehren. Die in FastComments integrierten Analysen zeigen Ihnen, welche Artikel die größte Interaktion hervorrufen, welche Kommentatoren am aktivsten sind und wie Ihre Community im Laufe der Zeit wächst."
+    "COMMUNITY_P2": "Die Leserinteraktion auf Nachrichtenseiten konkurriert direkt mit sozialen Medien um Aufmerksamkeit und Gewohnheitsbildung. Die Publikationen, die diesen Wettbewerb gewinnen, sind diejenigen, die ihren Lesern einen Grund geben, zur Quelle zurückzukehren. Die in FastComments integrierten Analysen zeigen Ihnen, welche Artikel die größte Interaktion hervorrufen, welche Kommentatoren am aktivsten sind und wie Ihre Community im Laufe der Zeit wächst.",
+    "NEWSPACK_TITLE": "FastComments funktioniert sofort mit Newspack.",
+    "NEWSPACK_COL_FC": "Schnellkommentare",
+    "NEWSPACK_P1": "Newspack basiert auf WordPress, genau wie das FastComments-Plugin. Wenn Sie mit Newspack veröffentlichen, müssen Sie weder die Plattform wechseln noch etwas neu erstellen. Installieren Sie einfach das FastComments-WordPress-Plugin auf Ihrer Newspack-Website, verbinden Sie es mit wenigen Klicks, und schon nach wenigen Minuten können Sie Kommentare live kommentieren. Ihre Beiträge, Ihr Theme und Ihr redaktioneller Workflow bleiben dabei unverändert.",
+    "NEWSPACK_COL_WP": "Newspack-Standardkommentare",
+    "NEWSPACK_COMPARE_CAPTION": "Newspack-Standardkommentare im Vergleich zu FastComments",
+    "NEWSPACK_ROW_REALTIME": "Live-Updates in Echtzeit",
+    "NEWSPACK_ROW_FOOTPRINT": "~30 KB Speicherbedarf, schnellere Core Web Vitals",
+    "NEWSPACK_P2": "Newspack verwendet die nativen WordPress-Kommentare, die jedoch alle damit verbundenen Einschränkungen mit sich bringen. Es gibt keine Echtzeit-Aktualisierungen, sodass Leser die Seite neu laden müssen, um neue Kommentare zu sehen. Der zusätzliche Code erhöht die Seitengröße und verschlechtert die Core Web Vitals auf Artikelseiten, die ohnehin schon viele Anzeigen und Medien enthalten. Der Spamschutz ist unzureichend, und die Moderation erfordert das Abarbeiten der Kommentarwarteschlange im WordPress-Adminbereich – Kommentar für Kommentar. Bei aktuellen Nachrichten, die Tausende von Lesern gleichzeitig erreichen, ist dieses Modell nicht praktikabel. FastComments bietet stattdessen sofortige Live-Kommentare, die während der Konversation angezeigt werden und nur etwa 30 Kilobyte Speicherplatz benötigen.",
+    "NEWSPACK_P3": "Sie behalten Newspack für all seine Stärken – Veröffentlichung, Mitgliederverwaltung und redaktionelle Abläufe – und FastComments übernimmt die Konversation. Es ist vollständig DSGVO-konform, verfolgt oder profiliert Ihre Leser nicht und lädt keine Werbepixel auf Ihre Seiten. Das Ergebnis ist ein Kommentarbereich, der den Standards Ihrer Redaktion entspricht und auf der von Ihnen gewählten Plattform läuft.",
+    "NEWSPACK_ROW_MODERATION": "Moderationsgruppen und Massenaktionen",
+    "NEWSPACK_ROW_SPAM": "Spamfilterung mit maschinellem Lernen",
+    "NEWSPACK_NO": "Nicht verfügbar",
+    "NEWSPACK_ROW_PRIVACY": "DSGVO-konform, keine Leserverfolgung",
+    "NEWSPACK_ROW_SCALE": "Bleibt auch bei Verkehrsspitzen schnell.",
+    "NEWSPACK_YES": "Inklusive"
 }

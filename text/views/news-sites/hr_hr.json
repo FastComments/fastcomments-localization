@@ -33,5 +33,20 @@
     "MIGRATION_P1": "Promjena sustava komentiranja zvuči kao nešto što remeti radnju. U praksi, FastComments uvozi vaše postojeće komentare s Disqusa, WordPressa i drugih platformi pomoću jednostavnog alata za migraciju. Vaše postojeće teme, korisnička imena i povijest razgovora prenose se netaknuti. Čitatelji se vraćaju i pronalaze svoje prošle komentare točno tamo gdje su ih ostavili, a prijelaz je dovoljno besprijekoran da većina neće primijetiti promjenu, već samo poboljšanje.",
     "COMMUNITY_P1": "Odjeljak za komentare je početna točka, a ne odredište. FastComments uključuje nagrade i značke koje prepoznaju vaše najpromišljenije suradnike, reakcije koje nadilaze obične pozitivne glasove i ugrađene ankete koje vam omogućuju procjenu mišljenja čitatelja o temama koje obrađujete. Izravna poruka između korisnika omogućuje nastavak razgovora izvan pojedinačnih tema. To su alati koji jednokratne komentatore pretvaraju u redovite sudionike, a redovite sudionike u vjerne pretplatnike.",
     "COMMUNITY_P2": "Angažman čitatelja na stranicama s vijestima izravno se natječe s društvenim mrežama za pažnju i stvaranje navika. Publikacije koje pobjeđuju u tom natjecanju su one koje svojoj publici daju razlog da se vrati izvoru. Analitika ugrađena u FastComments pokazuje vam koje priče potiču najveći angažman, koji su komentatori najaktivniji i kako vaša zajednica raste tijekom vremena.",
-    "CTA_TITLE": "Vaši čitatelji već pričaju. Dajte im bolje mjesto da to učine."
+    "CTA_TITLE": "Vaši čitatelji već pričaju. Dajte im bolje mjesto da to učine.",
+    "NEWSPACK_TITLE": "FastComments radi s Newspackom, odmah po vađenju iz kutije",
+    "NEWSPACK_P1": "Newspack je izgrađen na WordPressu, kao i dodatak FastComments. Ako objavljujete s Newspackom, ne morate mijenjati platforme niti išta ponovno izrađivati. Instalirajte dodatak FastComments za WordPress na svoju Newspack stranicu, povežite ga u nekoliko klikova i komentiranje uživo počinje za nekoliko minuta. Vaše objave, vaša tema i vaš urednički tijek rada ostaju točno tamo gdje jesu.",
+    "NEWSPACK_COMPARE_CAPTION": "Zadani komentari u Newspacku u usporedbi s FastCommentsima",
+    "NEWSPACK_COL_WP": "Zadani komentari u Newspacku",
+    "NEWSPACK_P3": "Vi zadržavate Newspack za sve što dobro radi, izdavaštvo, članstvo i vaše uredničke operacije, a FastComments preuzima razgovor. U potpunosti je usklađen s GDPR-om, ne prati niti profilira vaše čitatelje i ne učitava reklamne piksele na vaše stranice. Rezultat je odjeljak za komentare koji odgovara standardima kojih se vaša redakcija već pridržava, a radi na platformi koju ste već odabrali.",
+    "NEWSPACK_P2": "Newspack dolazi s WordPressovim izvornim komentarima, a ti komentari nose sva ograničenja koja WordPress donosi sa sobom. Nema ažuriranja u stvarnom vremenu, pa čitatelji osvježavaju stranicu kako bi vidjeli nove odgovore. Označavanje dodaje težinu koja smanjuje Core Web Vitals na stranicama članaka koje su već prepune oglasa i medija. Zaštita od neželjene pošte je slaba, a moderiranje znači rad kroz wp-admin red, jedan komentar po jedan. Kod važne priče koja privlači tisuće čitatelja odjednom, taj model ne drži se. FastComments ga zamjenjuje trenutnim, živim komentarima koji se pojavljuju dok se razgovor odvija, s otiskom od otprilike 30 kilobajta.",
+    "NEWSPACK_ROW_REALTIME": "Ažuriranja uživo u stvarnom vremenu",
+    "NEWSPACK_COL_FC": "Brzi komentari",
+    "NEWSPACK_ROW_SPAM": "Filtriranje neželjene pošte strojnim učenjem",
+    "NEWSPACK_NO": "Nije dostupno",
+    "NEWSPACK_ROW_FOOTPRINT": "~30kb prostora na disku, brži Core Web Vitals",
+    "NEWSPACK_YES": "Uključeno",
+    "NEWSPACK_ROW_PRIVACY": "U skladu s GDPR-om, bez praćenja čitatelja",
+    "NEWSPACK_ROW_MODERATION": "Grupe za moderiranje i skupne radnje",
+    "NEWSPACK_ROW_SCALE": "Ostaje brz kroz prometne gužve"
 }

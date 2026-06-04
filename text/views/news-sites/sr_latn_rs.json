@@ -33,5 +33,20 @@
     "SCALE_TITLE": "Performanse na skali Vesti Zahtevi",
     "MODERATION_P1": "Moderiranje sajta vesti funkcioniše pod ograničenjima koja većina platformi nikada ne uzima u obzir. Politička priča može generisati stotine komentara za nekoliko minuta, od kojih značajan deo može biti zapaljiv, van teme ili otvorena neželjena pošta. Potrebna vam je umerenost koja radi tom brzinom bez potrebe za osobljem od dvadeset ljudi koji gledaju teme non-stop. Spor ili nespretan sistem moderiranja ne košta samo vremena. Omogućava toksičnom sadržaju da sedi ispred vaših čitalaca i vaših oglašivača.",
     "SCALE_P2": "Saobraćajni šiljci nisu ivični slučaj za sajtove sa vestima. Oni su normalno radno stanje tokom bilo koje značajne priče. FastComments ne gasi, čeka ili degradira tokom prenapona. Ne postoje zamke za cene po prikazu stranice koje vas kažnjavaju zbog uspešne priče. Kada vaša publika raste, vaš sistem komentarisanja treba da nastavi bez slanja fakture za višak. Sa fiksnim i fleksibilnim planovima cena, vaši troškovi ostaju predvidljivi čak i kada vaš saobraćaj ne.",
-    "PRIVACY_P2": "Za novinske organizacije, ovo nije samo polje za potvrdu usklađenosti. Vaš kredibilitet zavisi od poverenja koje vaši čitaoci polažu u vas. Kada sistem za komentarisanje sakuplja korisničke podatke ili ubrizgava tragače, to stvara sukob između vaše uredničke misije i vašeg tehnološkog stacka. Čitaoci i regulatori primećuju. FastComments uklanja taj sukob u potpunosti. Vaš odeljak za komentare je alat za angažovanje čitalaca, ništa više, a ta jasnoća jača odnos između vaše publikacije i vaše publike."
+    "PRIVACY_P2": "Za novinske organizacije, ovo nije samo polje za potvrdu usklađenosti. Vaš kredibilitet zavisi od poverenja koje vaši čitaoci polažu u vas. Kada sistem za komentarisanje sakuplja korisničke podatke ili ubrizgava tragače, to stvara sukob između vaše uredničke misije i vašeg tehnološkog stacka. Čitaoci i regulatori primećuju. FastComments uklanja taj sukob u potpunosti. Vaš odeljak za komentare je alat za angažovanje čitalaca, ništa više, a ta jasnoća jača odnos između vaše publikacije i vaše publike.",
+    "NEWSPACK_P2": "Nevspack se isporučuje sa izvornim komentarima VordPress-a, a ti komentari nose svako ograničenje koje VordPress donosi sa sobom. Nema ažuriranja u realnom vremenu, tako da čitaoci osvežavaju stranicu da vide nove odgovore. Oznaka dodaje težinu koja povlači Core Veb Vitals na stranice članaka koje su već teške sa oglasima i medijima. Zaštita od neželjene pošte je tanka, a umerenost znači rad kroz vp-admin red jedan po jedan komentar. Na udarnoj priči koja privlači hiljade čitalaca odjednom, taj model se ne drži. FastComments ga zamenjuje trenutnim, živim komentarima koji se pojavljuju dok se razgovor dešava, na otisku od oko 30 kilobajta.",
+    "NEWSPACK_COL_FC": "Brzi komentari",
+    "NEWSPACK_ROW_SPAM": "Filtriranje neželjene pošte mašinskim učenjem",
+    "NEWSPACK_P3": "Držite Nevspack za sve što dobro radi, objavljivanje, članstvo i urednički rad, a FastComments preuzima razgovor. U potpunosti je usklađen sa GDPR-om, ne prati ili profilira vaše čitaoce i ne učitava reklamne piksele na vaše stranice. Rezultat je odeljak za komentare koji odgovara standardima koje vaša redakcija već drži, a radi na platformi koju ste već izabrali.",
+    "NEWSPACK_ROW_FOOTPRINT": "~ 30kb otisak, brži Core Veb Vitals",
+    "NEWSPACK_P1": "Nevspack je izgrađen na VordPress-u, a tako je i FastComments plugin. Ako objavljujete sa Nevspack-om, ne menjate platforme niti obnavljate bilo šta. Instalirajte FastComments VordPress plugin na vašu Nevspack stranicu, povežite ga u nekoliko klikova, a komentarisanje uživo se pokreće za nekoliko minuta. Vaši postovi, vaša tema i vaš urednički tok rada ostaju tačno tamo gde jesu.",
+    "NEWSPACK_COL_WP": "Najnoviji komentari",
+    "NEWSPACK_COMPARE_CAPTION": "Nevspack podrazumevani komentari u poređenju sa FastComments",
+    "NEWSPACK_ROW_REALTIME": "Ažuriranja uživo u realnom vremenu",
+    "NEWSPACK_TITLE": "FastComments radi sa Nevspack-om, out of the bok",
+    "NEWSPACK_ROW_PRIVACY": "Usklađen sa GDPR-om, bez praćenja čitača",
+    "NEWSPACK_NO": "Nije dostupno",
+    "NEWSPACK_ROW_MODERATION": "Grupe za moderiranje i masovne akcije",
+    "NEWSPACK_ROW_SCALE": "Ostaje brz kroz saobraćajne šiljke",
+    "NEWSPACK_YES": "Uključeno"
 }

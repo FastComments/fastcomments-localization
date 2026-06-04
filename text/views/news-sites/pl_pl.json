@@ -33,5 +33,20 @@
     "CTA_PRIMARY": "Rozpocznij bezpłatny okres próbny",
     "CTA_SECONDARY": "Skontaktuj się ze sprzedażą",
     "COMMUNITY_P2": "Zaangażowanie czytelników na stronach informacyjnych bezpośrednio konkuruje z mediami społecznościowymi o uwagę i kształtowanie nawyków. Publikacje, które wygrywają w tej rywalizacji, to te, które dają swoim odbiorcom powód, by wracali do źródła. Analityka wbudowana w FastComments pokazuje, które artykuły generują największe zaangażowanie, którzy komentujący są najbardziej aktywni i jak Twoja społeczność rozwija się z czasem.",
-    "CTA_TITLE": "Twoi czytelnicy już o tym mówią. Daj im lepsze miejsce, żeby to zrobić."
+    "CTA_TITLE": "Twoi czytelnicy już o tym mówią. Daj im lepsze miejsce, żeby to zrobić.",
+    "NEWSPACK_TITLE": "FastComments współpracuje z Newspackiem od razu po wyjęciu z pudełka",
+    "NEWSPACK_P1": "Newspack, podobnie jak wtyczka FastComments, jest oparty na WordPressie. Publikując za pomocą Newspack, nie musisz zmieniać platformy ani niczego przebudowywać. Zainstaluj wtyczkę FastComments WordPress na swojej stronie Newspack, połącz ją kilkoma kliknięciami, a komentowanie na żywo rozpocznie się w ciągu kilku minut. Twoje posty, motyw i proces redakcyjny pozostaną dokładnie takie same.",
+    "NEWSPACK_P2": "Newspack jest dostarczany z natywnymi komentarzami WordPressa, które niosą ze sobą wszystkie ograniczenia WordPressa. Brak aktualizacji w czasie rzeczywistym sprawia, że czytelnicy odświeżają stronę, aby zobaczyć nowe odpowiedzi. Znaczniki dodają ciężaru, który obniża wskaźniki Core Web Vitals na stronach artykułów, i tak już przeładowanych reklamami i multimediami. Ochrona przed spamem jest słaba, a moderacja oznacza przeglądanie kolejki wp-admin po jednym komentarzu na raz. W przypadku pilnych wiadomości, które przyciągają tysiące czytelników jednocześnie, ten model się nie sprawdza. FastComments zastępuje go natychmiastowymi, dynamicznymi komentarzami, które pojawiają się w trakcie rozmowy, zajmując około 30 kilobajtów.",
+    "NEWSPACK_COL_WP": "Domyślne komentarze Newspack",
+    "NEWSPACK_COMPARE_CAPTION": "Porównanie domyślnych komentarzy Newspack z FastComments",
+    "NEWSPACK_P3": "Używasz Newspacka do wszystkiego, co robi dobrze – publikacji, członkostwa i działań redakcyjnych – a FastComments przejmuje konwersację. Jest w pełni zgodny z RODO, nie śledzi ani nie profiluje czytelników i nie wgrywa pikseli reklamowych na Twoje strony. Rezultatem jest sekcja komentarzy, która spełnia standardy, których przestrzega Twoja redakcja, działająca na wybranej przez Ciebie platformie.",
+    "NEWSPACK_COL_FC": "Szybkie komentarze",
+    "NEWSPACK_ROW_SPAM": "Filtrowanie spamu z wykorzystaniem uczenia maszynowego",
+    "NEWSPACK_ROW_FOOTPRINT": "~30 kb pamięci, szybsze Core Web Vitals",
+    "NEWSPACK_ROW_REALTIME": "Aktualizacje na żywo w czasie rzeczywistym",
+    "NEWSPACK_ROW_PRIVACY": "Zgodność z RODO, brak śledzenia czytelników",
+    "NEWSPACK_ROW_SCALE": "Utrzymuje prędkość w okresach szczytowego natężenia ruchu",
+    "NEWSPACK_YES": "Dołączony",
+    "NEWSPACK_ROW_MODERATION": "Grupy moderacyjne i akcje zbiorcze",
+    "NEWSPACK_NO": "Niedostępne"
 }

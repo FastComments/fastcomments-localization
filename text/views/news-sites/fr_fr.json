@@ -33,5 +33,20 @@
     "MIGRATION_P1": "Changer de système de commentaires peut sembler perturbant. En réalité, FastComments importe vos commentaires existants depuis Disqus, WordPress et d'autres plateformes grâce à un outil de migration simple d'utilisation. Vos fils de discussion, noms d'utilisateur et historiques de conversations sont transférés intacts. Les lecteurs retrouvent leurs anciens commentaires exactement là où ils les avaient laissés, et la transition est si fluide que la plupart des utilisateurs ne remarqueront que l'amélioration, sans même s'en apercevoir.",
     "COMMUNITY_P2": "L'engagement des lecteurs sur les sites d'actualités est en concurrence directe avec les réseaux sociaux pour capter l'attention et fidéliser les abonnés. Les publications qui remportent cette compétition sont celles qui incitent leur public à revenir. Les outils d'analyse intégrés à FastComments vous indiquent quels articles suscitent le plus d'engagement, quels commentateurs sont les plus actifs et comment votre communauté évolue.",
     "CTA_SUBTITLE": "Aucun ralentissement des pages, aucune atteinte à votre vie privée, aucune mauvaise surprise liée à la mise à l'échelle. Découvrez FastComments sur votre site grâce à un essai gratuit, sans carte de crédit.",
-    "CTA_TITLE": "Vos lecteurs en parlent déjà. Offrez-leur un meilleur endroit pour le faire."
+    "CTA_TITLE": "Vos lecteurs en parlent déjà. Offrez-leur un meilleur endroit pour le faire.",
+    "NEWSPACK_TITLE": "FastComments fonctionne avec Newspack, prêt à l'emploi.",
+    "NEWSPACK_COL_WP": "Commentaires par défaut de Newspack",
+    "NEWSPACK_COL_FC": "Commentaires rapides",
+    "NEWSPACK_COMPARE_CAPTION": "Comparaison des commentaires par défaut de Newspack avec FastComments",
+    "NEWSPACK_P1": "Newspack est basé sur WordPress, tout comme l'extension FastComments. Publier avec Newspack ne nécessite aucun changement de plateforme ni aucune reconstruire quoi que ce soit. Installez l'extension FastComments sur votre site Newspack, connectez-la en quelques clics, et les commentaires seront opérationnels en quelques minutes. Vos articles, votre thème et votre flux de travail éditorial restent inchangés.",
+    "NEWSPACK_P3": "Vous conservez Newspack pour tous ses atouts : publication, gestion des abonnements et votre ligne éditoriale. FastComments prend le relais pour les échanges. Entièrement conforme au RGPD, FastComments ne suit ni ne profile vos lecteurs et n’intègre aucun pixel publicitaire sur vos pages. Résultat : une section commentaires à la hauteur des standards de votre rédaction, fonctionnant sur la plateforme que vous avez déjà choisie.",
+    "NEWSPACK_P2": "Newspack intègre le système de commentaires natif de WordPress, avec toutes les limitations inhérentes à ce système. Les mises à jour ne sont pas instantanées : les lecteurs doivent actualiser la page pour voir les nouvelles réponses. Le balisage ajoute du poids, ce qui pénalise les statistiques Web des pages d'articles déjà chargées de publicités et de médias. La protection anti-spam est minimale et la modération consiste à traiter les commentaires un par un dans la file d'attente de l'interface d'administration WordPress. Face à un article d'actualité attirant des milliers de lecteurs simultanément, ce modèle est inadapté. FastComments le remplace par des commentaires instantanés et en direct, qui s'affichent au fur et à mesure de la conversation, pour une taille d'environ 30 kilo-octets.",
+    "NEWSPACK_ROW_FOOTPRINT": "Empreinte d'environ 30 ko, Core Web Vitals plus rapide",
+    "NEWSPACK_ROW_REALTIME": "Mises à jour en direct en temps réel",
+    "NEWSPACK_ROW_SPAM": "Filtrage anti-spam par apprentissage automatique",
+    "NEWSPACK_NO": "Pas disponible",
+    "NEWSPACK_ROW_MODERATION": "Groupes de modération et actions groupées",
+    "NEWSPACK_YES": "Compris",
+    "NEWSPACK_ROW_PRIVACY": "Conforme au RGPD, aucun suivi des lecteurs",
+    "NEWSPACK_ROW_SCALE": "Maintient sa vitesse même lors des pics de trafic"
 }
