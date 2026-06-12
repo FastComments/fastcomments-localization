@@ -1,0 +1,20 @@
+{
+    "HEADING": "您已达到[packageName]计划限额",
+    "BODY_USERS_ONE": "您的[packageName]套餐最多包含[max]个用户。如需添加更多用户，请切换到灵活套餐或其他套餐。",
+    "BODY_USERS_OTHER": "您的[packageName]套餐最多包含[max]个用户。如需增加用户，请升级到灵活套餐或其他套餐。",
+    "BODY_MODERATORS_ONE": "您的[packageName]套餐最多包含[max]名主持人。如需增加主持人，请升级至灵活套餐或其他套餐。",
+    "BODY_MODERATORS_OTHER": "您的[packageName]套餐最多包含[max]名版主。如需增加版主数量，请升级至灵活套餐或其他套餐。",
+    "BODY_DOMAINS_OTHER": "您的[packageName]套餐最多包含[max]个域名。如需添加更多域名，请升级到Flex套餐或其他套餐。",
+    "BODY_FLEX_MODERATORS_OTHER": "您的 Flex 套餐最多包含 [max] 位版主。如需提高此限制，请联系客服。",
+    "BODY_MANAGED_TENANTS_ONE": "您的[packageName]套餐最多包含[max]个托管租户。如需增加租户数量，请升级至灵活套餐或其他套餐。",
+    "BODY_MANAGED_TENANTS_OTHER": "您的[packageName]套餐最多可管理[max]个租户。如需增加租户数量，请升级至灵活套餐或其他套餐。",
+    "BODY_FLEX_MODERATORS_ONE": "您的 Flex 套餐最多包含 [max] 位版主。如需提高此限制，请联系客服。",
+    "BODY_DOMAINS_ONE": "您的[packageName]套餐包含最多[max]个域名。如需添加更多域名，请升级到Flex套餐或其他套餐。",
+    "BODY_FLEX_USERS_ONE": "您的 Flex 套餐最多包含 [max] 个用户。如需提高此限制，请联系客服。",
+    "BODY_FLEX_USERS_OTHER": "您的 Flex 套餐最多包含 [max] 个用户。如需提高此限制，请联系客服。",
+    "BODY_FLEX_DOMAINS_ONE": "您的 Flex 套餐包含最多 [max] 个域名。如需提高此限制，请联系客服。",
+    "BODY_FLEX_DOMAINS_OTHER": "您的 Flex 套餐最多包含 [max] 个域名。如需提高此限制，请联系客服。",
+    "CTA": "查看平面图",
+    "BODY_FLEX_MANAGED_TENANTS_OTHER": "您的 Flex 套餐最多可管理 [max] 个租户。如需提高此限制，请联系客服。",
+    "BODY_FLEX_MANAGED_TENANTS_ONE": "您的 Flex 套餐最多包含 [max] 个受管租户。如需提高此限制，请联系客服。"
+}

@@ -1,0 +1,20 @@
+{
+    "HEADING": "[packageName] 플랜 한도에 도달했습니다.",
+    "BODY_USERS_ONE": "귀하의 [packageName] 요금제에는 최대 [max]명의 사용자가 포함됩니다. 더 많은 사용자를 추가하려면 Flex 또는 다른 패키지로 변경하세요.",
+    "BODY_DOMAINS_OTHER": "고객님의 [packageName] 플랜에는 최대 [max]개의 도메인이 포함되어 있습니다. 도메인을 추가하려면 Flex 또는 다른 패키지로 변경하세요.",
+    "BODY_MODERATORS_OTHER": "귀하의 [packageName] 플랜에는 최대 [max]명의 운영자가 포함되어 있습니다. 운영자를 추가하려면 Flex 또는 다른 패키지로 변경하세요.",
+    "BODY_DOMAINS_ONE": "귀하의 [packageName] 플랜에는 최대 [max]개의 도메인이 포함되어 있습니다. 도메인을 추가하려면 Flex 또는 다른 패키지로 변경하세요.",
+    "BODY_MODERATORS_ONE": "귀하의 [packageName] 플랜에는 최대 [max]명의 운영자가 포함되어 있습니다. 운영자를 추가하려면 Flex 또는 다른 패키지로 변경하세요.",
+    "BODY_USERS_OTHER": "현재 사용 중인 요금제에는 최대 [packageName]명까지 사용자가 포함됩니다. 사용자를 추가하려면 Flex 또는 다른 요금제로 변경하세요.",
+    "BODY_MANAGED_TENANTS_ONE": "귀하의 [packageName] 플랜에는 최대 [max]개의 관리형 테넌트가 포함되어 있습니다. 더 추가하려면 Flex 또는 다른 패키지로 변경하십시오.",
+    "BODY_MANAGED_TENANTS_OTHER": "귀하의 [packageName] 플랜에는 최대 [max]개의 관리형 테넌트가 포함됩니다. 더 추가하려면 Flex 또는 다른 패키지로 변경하세요.",
+    "BODY_FLEX_USERS_ONE": "Flex 플랜에는 최대 [max]명의 사용자가 포함되어 있습니다. 이 제한을 늘리려면 고객 지원팀에 문의하십시오.",
+    "BODY_FLEX_USERS_OTHER": "Flex 플랜에는 최대 [max]명의 사용자가 포함됩니다. 이 제한을 늘리려면 고객 지원팀에 문의하세요.",
+    "CTA": "계획 보기",
+    "BODY_FLEX_MANAGED_TENANTS_ONE": "Flex 플랜에는 최대 [max]개의 관리형 테넌트가 포함되어 있습니다. 이 한도를 늘리려면 고객 지원팀에 문의하세요.",
+    "BODY_FLEX_MODERATORS_OTHER": "Flex 플랜에는 최대 [max]명의 운영자가 포함되어 있습니다. 이 제한을 늘리려면 고객 지원팀에 문의하세요.",
+    "BODY_FLEX_MANAGED_TENANTS_OTHER": "Flex 플랜에는 최대 [max]개의 관리형 테넌트가 포함됩니다. 이 한도를 늘리려면 고객 지원팀에 문의하세요.",
+    "BODY_FLEX_DOMAINS_OTHER": "Flex 플랜에는 최대 [max]개의 도메인이 포함되어 있습니다. 이 제한을 늘리려면 고객 지원팀에 문의하세요.",
+    "BODY_FLEX_DOMAINS_ONE": "Flex 플랜에는 최대 [max]개의 도메인이 포함되어 있습니다. 이 한도를 늘리려면 고객 지원팀에 문의하세요.",
+    "BODY_FLEX_MODERATORS_ONE": "Flex 플랜에는 최대 [max]명의 운영자가 포함되어 있습니다. 이 제한을 늘리려면 고객 지원팀에 문의하세요."
+}

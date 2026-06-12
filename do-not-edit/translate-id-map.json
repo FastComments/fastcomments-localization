@@ -407,7 +407,8 @@
         "my-account-lti-config": 26,
         "my-account-lti-config-delete": 10,
         "tenant-api-error-notification": 12,
-        "my-account-mcp-setup": 28
+        "my-account-mcp-setup": 28,
+        "common-plan-limit-banner": 18
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -9921,5 +9922,25 @@
         "t26": "DOCS_LINK_PREFIX",
         "t27": "DOCS_LINK_TEXT",
         "t28": "DOCS_LINK_SUFFIX"
+    },
+    "common-plan-limit-banner": {
+        "t1": "HEADING",
+        "t2": "BODY_USERS_ONE",
+        "t3": "BODY_USERS_OTHER",
+        "t4": "BODY_MODERATORS_ONE",
+        "t5": "BODY_MODERATORS_OTHER",
+        "t6": "BODY_DOMAINS_ONE",
+        "t7": "BODY_DOMAINS_OTHER",
+        "t8": "BODY_MANAGED_TENANTS_ONE",
+        "t9": "BODY_MANAGED_TENANTS_OTHER",
+        "t10": "BODY_FLEX_USERS_ONE",
+        "t11": "BODY_FLEX_USERS_OTHER",
+        "t12": "BODY_FLEX_MODERATORS_ONE",
+        "t13": "BODY_FLEX_MODERATORS_OTHER",
+        "t14": "BODY_FLEX_DOMAINS_ONE",
+        "t15": "BODY_FLEX_DOMAINS_OTHER",
+        "t16": "BODY_FLEX_MANAGED_TENANTS_ONE",
+        "t17": "BODY_FLEX_MANAGED_TENANTS_OTHER",
+        "t18": "CTA"
     }
 }
