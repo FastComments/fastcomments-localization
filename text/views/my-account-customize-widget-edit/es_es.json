@@ -277,5 +277,10 @@
     "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Cuando está habilitada, la lista de usuarios también incluye a las personas que han comentado en la página pero que no están conectadas en ese momento. Por defecto: solo se muestran los usuarios que están conectados.",
     "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Incluir comentaristas anteriores",
     "LABEL_ENABLE_FCHAT": "Habilitar la aplicación de escritorio FChat",
-    "TEXT_ENABLE_FCHAT_NOTE": "Al habilitar esta opción, los usuarios de fastcomments.com pueden unirse a este sitio como servidor de chat en la aplicación de escritorio FChat. Podrán navegar por las páginas, leer comentarios y publicar respuestas en tiempo real."
+    "TEXT_ENABLE_FCHAT_NOTE": "Al habilitar esta opción, los usuarios de fastcomments.com pueden unirse a este sitio como servidor de chat en la aplicación de escritorio FChat. Podrán navegar por las páginas, leer comentarios y publicar respuestas en tiempo real.",
+    "LABEL_ALLOW_EMBEDS": "¿Permitir la inserción de contenido multimedia?",
+    "TEXT_ALLOW_EMBEDS_NOTE": "Permite a los comentaristas insertar vídeos y reproductores (YouTube, Vimeo, SoundCloud, Spotify y más) pegando el iframe del proveedor. Solo se permiten proveedores de confianza.",
+    "LABEL_ALLOWED_EMBED_DOMAINS": "Dominios de incrustación adicionales",
+    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Lista separada por comas de nombres de host adicionales que se permitirán además de los proveedores de confianza integrados."
 }

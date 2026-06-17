@@ -277,5 +277,10 @@
     "OPTION_USERS_LIST_RIGHT": "右侧边栏",
     "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "启用此功能后，用户列表还会包含曾在页面上发表评论但当前不在线的用户。默认情况下，仅显示当前在线的访问者。",
     "LABEL_ENABLE_FCHAT": "启用 FChat 桌面应用程序",
-    "TEXT_ENABLE_FCHAT_NOTE": "启用此功能后，fastcomments.com 用户可以通过 FChat 桌面应用程序加入此网站，成为聊天服务器。他们可以浏览页面、阅读评论并实时回复。"
+    "TEXT_ENABLE_FCHAT_NOTE": "启用此功能后，fastcomments.com 用户可以通过 FChat 桌面应用程序加入此网站，成为聊天服务器。他们可以浏览页面、阅读评论并实时回复。",
+    "LABEL_ALLOW_EMBEDS": "允许嵌入媒体文件吗？",
+    "LABEL_ALLOWED_EMBED_DOMAINS": "附加嵌入域",
+    "TEXT_ALLOW_EMBEDS_NOTE": "允许评论者通过粘贴提供商的 iframe 代码来嵌入视频和播放器（YouTube、Vimeo、SoundCloud、Spotify 等）。仅允许使用受信任的提供商。",
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "用逗号分隔的额外嵌入式主机名列表，允许在内置受信任提供商之外进行访问。",
+    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com，embed.example.com"
 }

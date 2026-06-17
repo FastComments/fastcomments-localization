@@ -277,5 +277,10 @@
     "TEXT_ENABLE_FCHAT_NOTE": "Omogućavanjem ove opcije korisnici fastcomments.com mogu se pridružiti ovoj stranici kao poslužitelj za chat u aplikaciji FChat za stolna računala. Mogu pregledavati stranice, čitati komentare i objavljivati odgovore u stvarnom vremenu.",
     "OPTION_USERS_LIST_RIGHT": "Desna bočna traka",
     "OPTION_USERS_LIST_TOP": "Gore (red avatara)",
-    "OPTION_USERS_LIST_LEFT": "Lijeva bočna traka"
+    "OPTION_USERS_LIST_LEFT": "Lijeva bočna traka",
+    "TEXT_ALLOW_EMBEDS_NOTE": "Omogućuje komentatorima ugrađivanje videozapisa i playera (YouTube, Vimeo, SoundCloud, Spotify i više) lijepljenjem iframea pružatelja usluga. Dopušteni su samo pouzdani pružatelji usluga.",
+    "LABEL_ALLOWED_EMBED_DOMAINS": "Dodatne ugrađene domene",
+    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Popis dodatnih ugrađenih naziva hostova odvojenih zarezima koji će biti dopušteni uz ugrađene pouzdane pružatelje usluga.",
+    "LABEL_ALLOW_EMBEDS": "Dopustiti ugrađivanje medija?"
 }

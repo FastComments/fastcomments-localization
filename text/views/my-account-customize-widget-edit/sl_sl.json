@@ -277,5 +277,10 @@
     "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Vključi pretekle komentatorje",
     "LABEL_ENABLE_FCHAT": "Omogoči namizno aplikacijo FChat",
     "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Ko je ta možnost omogočena, seznam uporabnikov vključuje tudi osebe, ki so komentirale stran, vendar trenutno niso na spletu. Privzeto: prikazani so samo trenutno na spletu dostopni obiskovalci.",
-    "TEXT_ENABLE_FCHAT_NOTE": "Če to omogočite, se uporabniki fastcomments.com pridružijo temu spletnemu mestu kot klepetalni strežnik v namizni aplikaciji FChat. Lahko brskajo po straneh, berejo komentarje in objavljajo odgovore v realnem času."
+    "TEXT_ENABLE_FCHAT_NOTE": "Če to omogočite, se uporabniki fastcomments.com pridružijo temu spletnemu mestu kot klepetalni strežnik v namizni aplikaciji FChat. Lahko brskajo po straneh, berejo komentarje in objavljajo odgovore v realnem času.",
+    "LABEL_ALLOW_EMBEDS": "Dovolim vdelavo medijev?",
+    "TEXT_ALLOW_EMBEDS_NOTE": "Komentatorjem omogoča vdelavo videoposnetkov in predvajalnikov (YouTube, Vimeo, SoundCloud, Spotify in drugi) z lepljenjem vstavljivega okvirja ponudnika. Dovoljeni so samo zaupanja vredni ponudniki.",
+    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "igralec.primer.com, vdelaj.primer.com",
+    "LABEL_ALLOWED_EMBED_DOMAINS": "Dodatne vdelane domene",
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Seznam dodatnih vdelanih imen gostiteljev, ločenih z vejicami, ki jih je treba dovoliti poleg vgrajenih zaupanja vrednih ponudnikov."
 }

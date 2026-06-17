@@ -164,7 +164,7 @@
         "my-account-customize-email-templates": 17,
         "my-account-customize-widget": 14,
         "my-account-customize-widget-delete": 5,
-        "my-account-customize-widget-edit": 280,
+        "my-account-customize-widget-edit": 285,
         "my-account-delete": 13,
         "my-account-delete-failure": 4,
         "my-account-delete-success": 5,
@@ -3897,7 +3897,12 @@
         "t277": "LABEL_USERS_LIST_INCLUDE_OFFLINE",
         "t278": "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE",
         "t279": "LABEL_ENABLE_FCHAT",
-        "t280": "TEXT_ENABLE_FCHAT_NOTE"
+        "t280": "TEXT_ENABLE_FCHAT_NOTE",
+        "t281": "LABEL_ALLOW_EMBEDS",
+        "t282": "TEXT_ALLOW_EMBEDS_NOTE",
+        "t283": "LABEL_ALLOWED_EMBED_DOMAINS",
+        "t284": "PLACEHOLDER_ALLOWED_EMBED_DOMAINS",
+        "t285": "TEXT_ALLOWED_EMBED_DOMAINS_NOTE"
     },
     "my-account-delete": {
         "t1": "PAGE_TITLE",

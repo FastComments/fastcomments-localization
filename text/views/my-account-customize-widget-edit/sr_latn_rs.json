@@ -277,5 +277,10 @@
     "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Uključite prošle komentatore",
     "TEXT_USERS_LIST_LOCATION_NOTE": "Pokažite ljude koji su komentarisali na stranici ili je trenutno gledaju. Vrh prikazuje preklapajući red avatara iznad komentara. Levo i desno prikazuju bočnu traku sa imenima i online indikatorima.",
     "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Kada je omogućeno, lista korisnika takođe uključuje ljude koji su komentarisali na stranici, ali trenutno nisu na mreži. Podrazumevano: prikazani su samo gledaoci koji su trenutno na mreži.",
-    "TEXT_ENABLE_FCHAT_NOTE": "Omogućavanje ovoga omogućava fastcomments.com korisnicima da se pridruže ovom sajtu kao serveru za ćaskanje u FChat desktop aplikaciji. Oni mogu da pretražuju stranice, čitaju komentare i objavljuju odgovore u realnom vremenu."
+    "TEXT_ENABLE_FCHAT_NOTE": "Omogućavanje ovoga omogućava fastcomments.com korisnicima da se pridruže ovom sajtu kao serveru za ćaskanje u FChat desktop aplikaciji. Oni mogu da pretražuju stranice, čitaju komentare i objavljuju odgovore u realnom vremenu.",
+    "LABEL_ALLOWED_EMBED_DOMAINS": "Dodatni domeni za ugradnju",
+    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
+    "LABEL_ALLOW_EMBEDS": "Dozvoliti ugradnju medija?",
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Lista odvojenih zarezom dodatnih imena domaćina za ugradnju kako bi se omogućilo pored ugrađenih pouzdanih provajdera.",
+    "TEXT_ALLOW_EMBEDS_NOTE": "Omogućava komentatorima da ugrađuju video zapise i plejere (IouTube, Vimeo, SoundCloud, Spotifi i još mnogo toga) lepljenjem iframe-a provajdera. Dozvoljeni su samo pouzdani provajderi."
 }

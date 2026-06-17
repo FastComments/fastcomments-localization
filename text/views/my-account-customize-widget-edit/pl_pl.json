@@ -277,5 +277,10 @@
     "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Uwzględnij poprzednich komentujących",
     "OPTION_USERS_LIST_TOP": "Góra (rząd awatarów)",
     "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Po włączeniu tej opcji lista użytkowników obejmuje również osoby, które skomentowały stronę, ale są obecnie niedostępne. Domyślnie: wyświetlani są tylko użytkownicy aktualnie online.",
-    "TEXT_ENABLE_FCHAT_NOTE": "Włączenie tej opcji umożliwia użytkownikom fastcomments.com dołączenie do tej witryny jako serwera czatu w aplikacji FChat na komputery. Mogą oni przeglądać strony, czytać komentarze i odpowiadać na nie w czasie rzeczywistym."
+    "TEXT_ENABLE_FCHAT_NOTE": "Włączenie tej opcji umożliwia użytkownikom fastcomments.com dołączenie do tej witryny jako serwera czatu w aplikacji FChat na komputery. Mogą oni przeglądać strony, czytać komentarze i odpowiadać na nie w czasie rzeczywistym.",
+    "TEXT_ALLOW_EMBEDS_NOTE": "Umożliwia komentatorom osadzanie filmów i odtwarzaczy (YouTube, Vimeo, SoundCloud, Spotify i innych) poprzez wklejenie ramki iframe dostawcy. Dozwolone są tylko zaufane źródła.",
+    "LABEL_ALLOW_EMBEDS": "Czy zezwolić na osadzanie multimediów?",
+    "LABEL_ALLOWED_EMBED_DOMAINS": "Dodatkowe domeny osadzone",
+    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Lista oddzielonych przecinkami dodatkowych nazw hostów, które należy osadzić oprócz wbudowanych zaufanych dostawców."
 }

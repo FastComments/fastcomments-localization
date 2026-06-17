@@ -277,5 +277,10 @@
     "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "כאשר אפשרות זו מופעלת, רשימת המשתמשים כוללת גם אנשים שהגיבו בדף אך אינם מחוברים כעת. ברירת מחדל: מוצגים רק צופים המחוברים כעת.",
     "TEXT_ENABLE_FCHAT_NOTE": "הפעלת אפשרות זו מאפשרת למשתמשי fastcomments.com להצטרף לאתר זה כשרת צ'אט באפליקציית שולחן העבודה של FChat. הם יכולים לדפדף בדפים, לקרוא תגובות ולפרסם תשובות בזמן אמת.",
     "LABEL_ENABLE_FCHAT": "הפעל את אפליקציית שולחן העבודה FChat",
-    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "כלול מגיבים קודמים"
+    "LABEL_USERS_LIST_INCLUDE_OFFLINE": "כלול מגיבים קודמים",
+    "LABEL_ALLOW_EMBEDS": "לאפשר הטמעות מדיה?",
+    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
+    "LABEL_ALLOWED_EMBED_DOMAINS": "דומיינים נוספים להטמעה",
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "רשימה מופרדת בפסיקים של שמות מארחים נוספים להטמעה, שיותרו בנוסף לספקים המהימנים המובנים.",
+    "TEXT_ALLOW_EMBEDS_NOTE": "מאפשר למגיבים להטמיע סרטונים ונגנים (YouTube, Vimeo, SoundCloud, Spotify ועוד) על ידי הדבקת ה-iframe של הספק. רק ספקים מהימנים מורשים."
 }

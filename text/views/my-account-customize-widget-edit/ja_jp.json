@@ -277,5 +277,10 @@
     "OPTION_USERS_LIST_LEFT": "左サイドバー",
     "LABEL_ENABLE_FCHAT": "FChatデスクトップアプリを有効にする",
     "TEXT_ENABLE_FCHAT_NOTE": "この機能を有効にすると、fastcomments.comのユーザーはFChatデスクトップアプリでこのサイトをチャットサーバーとして利用できるようになります。ユーザーはページを閲覧したり、コメントを読んだり、リアルタイムで返信を投稿したりできます。",
-    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "有効にすると、ページにコメントを残したものの現在オフラインのユーザーもユーザーリストに表示されます。デフォルト設定では、現在オンラインの閲覧者のみが表示されます。"
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "有効にすると、ページにコメントを残したものの現在オフラインのユーザーもユーザーリストに表示されます。デフォルト設定では、現在オンラインの閲覧者のみが表示されます。",
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "組み込みの信頼できるプロバイダに加えて許可する追加の埋め込みホスト名をカンマで区切ったリスト。",
+    "TEXT_ALLOW_EMBEDS_NOTE": "コメント投稿者は、プロバイダーのiframeを貼り付けることで、動画やプレーヤー（YouTube、Vimeo、SoundCloud、Spotifyなど）を埋め込むことができます。信頼できるプロバイダーのみが許可されます。",
+    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com、embed.example.com",
+    "LABEL_ALLOWED_EMBED_DOMAINS": "追加の埋め込みドメイン",
+    "LABEL_ALLOW_EMBEDS": "メディア埋め込みを許可しますか？"
 }

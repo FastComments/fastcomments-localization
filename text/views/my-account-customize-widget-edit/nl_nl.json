@@ -277,5 +277,10 @@
     "OPTION_USERS_LIST_RIGHT": "Rechter zijbalk",
     "LABEL_ENABLE_FCHAT": "Schakel de FChat-desktopapp in.",
     "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Indien ingeschakeld, bevat de gebruikerslijst ook personen die een reactie op de pagina hebben geplaatst maar momenteel niet online zijn. Standaard: alleen momenteel online bezoekers worden weergegeven.",
-    "TEXT_ENABLE_FCHAT_NOTE": "Door deze optie in te schakelen, kunnen gebruikers van fastcomments.com zich bij deze site aansluiten als chatserver in de FChat-desktopapp. Ze kunnen pagina's bekijken, reacties lezen en in realtime antwoorden plaatsen."
+    "TEXT_ENABLE_FCHAT_NOTE": "Door deze optie in te schakelen, kunnen gebruikers van fastcomments.com zich bij deze site aansluiten als chatserver in de FChat-desktopapp. Ze kunnen pagina's bekijken, reacties lezen en in realtime antwoorden plaatsen.",
+    "LABEL_ALLOW_EMBEDS": "Media-integraties toestaan?",
+    "TEXT_ALLOW_EMBEDS_NOTE": "Hiermee kunnen reageerders video's en mediaspelers (YouTube, Vimeo, SoundCloud, Spotify en meer) insluiten door de iframe van de aanbieder te plakken. Alleen vertrouwde aanbieders zijn toegestaan.",
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Door komma's gescheiden lijst met extra hostnamen voor embed-websites die naast de ingebouwde vertrouwde providers mogen worden gebruikt.",
+    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
+    "LABEL_ALLOWED_EMBED_DOMAINS": "Aanvullende insluitdomeinen"
 }

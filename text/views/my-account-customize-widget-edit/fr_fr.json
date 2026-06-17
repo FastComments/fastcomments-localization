@@ -277,5 +277,10 @@
     "OPTION_USERS_LIST_LEFT": "barre latérale gauche",
     "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Inclure les commentateurs précédents",
     "TEXT_ENABLE_FCHAT_NOTE": "L'activation de cette option permet aux utilisateurs de fastcomments.com de rejoindre ce site en tant que serveur de chat dans l'application de bureau FChat. Ils peuvent ainsi consulter les pages, lire les commentaires et y répondre en temps réel.",
-    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Lorsque cette option est activée, la liste des utilisateurs inclut également les personnes ayant commenté la page mais qui ne sont pas actuellement en ligne. Par défaut : seuls les utilisateurs actuellement en ligne sont affichés."
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Lorsque cette option est activée, la liste des utilisateurs inclut également les personnes ayant commenté la page mais qui ne sont pas actuellement en ligne. Par défaut : seuls les utilisateurs actuellement en ligne sont affichés.",
+    "LABEL_ALLOW_EMBEDS": "Autoriser l'intégration de médias ?",
+    "LABEL_ALLOWED_EMBED_DOMAINS": "Domaines d'intégration supplémentaires",
+    "TEXT_ALLOW_EMBEDS_NOTE": "Les commentateurs peuvent intégrer des vidéos et des lecteurs (YouTube, Vimeo, SoundCloud, Spotify, etc.) en collant l'iframe du fournisseur. Seuls les fournisseurs de confiance sont autorisés.",
+    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Liste, séparée par des virgules, de noms d'hôtes supplémentaires à intégrer, en plus des fournisseurs de confiance intégrés."
 }

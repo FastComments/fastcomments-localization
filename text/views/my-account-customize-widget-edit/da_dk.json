@@ -277,5 +277,10 @@
     "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Inkluder tidligere kommentatorer",
     "LABEL_ENABLE_FCHAT": "Aktivér FChat Desktop-appen",
     "TEXT_ENABLE_FCHAT_NOTE": "Hvis dette aktiveres, kan fastcomments.com-brugere deltage i dette websted som en chatserver i FChat-desktopappen. De kan gennemse sider, læse kommentarer og skrive svar i realtid.",
-    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Når den er aktiveret, indeholder brugerlisten også personer, der har kommenteret på siden, men som ikke er online i øjeblikket. Standard: kun personer, der aktuelt er online, vises."
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Når den er aktiveret, indeholder brugerlisten også personer, der har kommenteret på siden, men som ikke er online i øjeblikket. Standard: kun personer, der aktuelt er online, vises.",
+    "LABEL_ALLOW_EMBEDS": "Tillad medieindlejringer?",
+    "LABEL_ALLOWED_EMBED_DOMAINS": "Yderligere indlejringsdomæner",
+    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "spiller.eksempel.com, indlejr.eksempel.com",
+    "TEXT_ALLOW_EMBEDS_NOTE": "Giver kommentatorer mulighed for at integrere videoer og afspillere (YouTube, Vimeo, SoundCloud, Spotify og flere) ved at indsætte udbyderens iframe. Kun betroede udbydere er tilladt.",
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Kommasepareret liste over ekstra indlejrede værtsnavne, der skal tillades ud over de indbyggede betroede udbydere."
 }

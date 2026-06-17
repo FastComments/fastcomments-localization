@@ -277,5 +277,10 @@
     "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Wenn diese Option aktiviert ist, werden in der Benutzerliste auch Personen angezeigt, die die Seite kommentiert haben, aber aktuell nicht online sind. Standardmäßig werden nur die aktuell online befindlichen Benutzer angezeigt.",
     "OPTION_USERS_LIST_RIGHT": "Rechte Seitenleiste",
     "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Beziehe frühere Kommentatoren mit ein.",
-    "TEXT_ENABLE_FCHAT_NOTE": "Durch Aktivierung dieser Funktion können Nutzer von fastcomments.com dieser Website als Chat-Server in der FChat-Desktop-App beitreten. Sie können Seiten durchsuchen, Kommentare lesen und in Echtzeit antworten."
+    "TEXT_ENABLE_FCHAT_NOTE": "Durch Aktivierung dieser Funktion können Nutzer von fastcomments.com dieser Website als Chat-Server in der FChat-Desktop-App beitreten. Sie können Seiten durchsuchen, Kommentare lesen und in Echtzeit antworten.",
+    "LABEL_ALLOW_EMBEDS": "Medieneinbettungen zulassen?",
+    "TEXT_ALLOW_EMBEDS_NOTE": "Ermöglicht es Kommentatoren, Videos und Player (YouTube, Vimeo, SoundCloud, Spotify usw.) einzubetten, indem sie den iFrame des jeweiligen Anbieters einfügen. Nur vertrauenswürdige Anbieter sind zulässig.",
+    "LABEL_ALLOWED_EMBED_DOMAINS": "Zusätzliche Einbettungsdomänen",
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Durch Kommas getrennte Liste zusätzlicher eingebetteter Hostnamen, die zusätzlich zu den integrierten vertrauenswürdigen Anbietern zugelassen werden sollen.",
+    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com"
 }

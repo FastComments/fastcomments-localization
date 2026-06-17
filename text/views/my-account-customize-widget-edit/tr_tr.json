@@ -277,5 +277,10 @@
     "OPTION_USERS_LIST_RIGHT": "Sağ kenar çubuğu",
     "LABEL_ENABLE_FCHAT": "FChat Masaüstü Uygulamasını Etkinleştirin",
     "TEXT_ENABLE_FCHAT_NOTE": "Bu özelliği etkinleştirmek, fastcomments.com kullanıcılarının FChat masaüstü uygulamasında bu siteye bir sohbet sunucusu olarak katılmalarını sağlar. Kullanıcılar sayfaları inceleyebilir, yorumları okuyabilir ve gerçek zamanlı olarak yanıtlar gönderebilirler.",
-    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Etkinleştirildiğinde, kullanıcı listesi sayfaya yorum yapmış ancak şu anda çevrimiçi olmayan kişileri de içerir. Varsayılan: yalnızca şu anda çevrimiçi olan izleyiciler gösterilir."
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Etkinleştirildiğinde, kullanıcı listesi sayfaya yorum yapmış ancak şu anda çevrimiçi olmayan kişileri de içerir. Varsayılan: yalnızca şu anda çevrimiçi olan izleyiciler gösterilir.",
+    "LABEL_ALLOW_EMBEDS": "Medya yerleştirmelerine izin verilsin mi?",
+    "TEXT_ALLOW_EMBEDS_NOTE": "Yorum yapanların, sağlayıcının iframe kodunu yapıştırarak video ve oynatıcı (YouTube, Vimeo, SoundCloud, Spotify ve daha fazlası) eklemesine olanak tanır. Yalnızca güvenilir sağlayıcılara izin verilir.",
+    "LABEL_ALLOWED_EMBED_DOMAINS": "Ek Gömme Alan Adları",
+    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "oyuncu.örnek.com, embed.örnek.com",
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Yerleşik güvenilir sağlayıcılara ek olarak izin verilecek ek gömülü ana bilgisayar adlarının virgülle ayrılmış listesi."
 }

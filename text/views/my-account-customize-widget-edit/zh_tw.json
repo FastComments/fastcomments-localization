@@ -277,5 +277,10 @@
     "TEXT_USERS_LIST_LOCATION_NOTE": "顯示已評論或正在瀏覽此頁面的使用者。頂部會在評論上方顯示一排重疊的頭像。左側和右側會顯示包含姓名和線上狀態指示的側邊欄。",
     "LABEL_USERS_LIST_INCLUDE_OFFLINE": "包括先前的評論者",
     "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "啟用此功能後，使用者清單還會包含曾在頁面上發表評論但目前不在線上的使用者。預設情況下，僅顯示目前線上的訪客。",
-    "TEXT_ENABLE_FCHAT_NOTE": "啟用此功能後，fastcomments.com 使用者可以透過 FChat 桌面應用程式加入此網站，成為聊天伺服器。他們可以瀏覽頁面、閱讀評論並即時回覆。"
+    "TEXT_ENABLE_FCHAT_NOTE": "啟用此功能後，fastcomments.com 使用者可以透過 FChat 桌面應用程式加入此網站，成為聊天伺服器。他們可以瀏覽頁面、閱讀評論並即時回覆。",
+    "LABEL_ALLOW_EMBEDS": "允許嵌入媒體檔案嗎？",
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "以逗號分隔的額外嵌入式主機名稱列表，允許在內建受信任提供者之外進行存取。",
+    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com，embed.example.com",
+    "TEXT_ALLOW_EMBEDS_NOTE": "允許評論者透過貼上提供者的 iframe 程式碼來嵌入影片和播放器（YouTube、Vimeo、SoundCloud、Spotify 等）。僅允許使用受信任的提供者。",
+    "LABEL_ALLOWED_EMBED_DOMAINS": "附加嵌入域"
 }

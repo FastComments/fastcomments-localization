@@ -277,5 +277,10 @@
     "LABEL_ENABLE_FCHAT": "Abilita l'app desktop FChat",
     "LABEL_USERS_LIST_INCLUDE_OFFLINE": "Includi i commentatori precedenti",
     "TEXT_ENABLE_FCHAT_NOTE": "L'attivazione di questa opzione consente agli utenti di fastcomments.com di unirsi a questo sito come server di chat nell'applicazione desktop FChat. Possono navigare tra le pagine, leggere i commenti e pubblicare risposte in tempo reale.",
-    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Quando abilitata, la lista utenti include anche le persone che hanno commentato la pagina ma non sono attualmente online. Impostazione predefinita: vengono mostrati solo gli utenti attualmente online."
+    "TEXT_USERS_LIST_INCLUDE_OFFLINE_NOTE": "Quando abilitata, la lista utenti include anche le persone che hanno commentato la pagina ma non sono attualmente online. Impostazione predefinita: vengono mostrati solo gli utenti attualmente online.",
+    "LABEL_ALLOW_EMBEDS": "Consentire l'incorporamento di contenuti multimediali?",
+    "TEXT_ALLOW_EMBEDS_NOTE": "Consente agli utenti di incorporare video e lettori multimediali (YouTube, Vimeo, SoundCloud, Spotify e altri) incollando l'iframe del fornitore. Sono ammessi solo fornitori affidabili.",
+    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
+    "LABEL_ALLOWED_EMBED_DOMAINS": "Domini di incorporamento aggiuntivi",
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Elenco di hostname aggiuntivi da incorporare, separati da virgole, da consentire in aggiunta ai provider attendibili predefiniti."
 }
