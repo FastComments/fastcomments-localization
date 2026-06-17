@@ -384,7 +384,7 @@
         "my-account-ai-agent-webhooks-logs": 19,
         "my-account-ai-agents": 435,
         "block-confirm": 4,
-        "feed-ui": 21,
+        "feed-ui": 32,
         "agent-notification": 2,
         "ai-agents": 196,
         "common-duration": 4,
@@ -408,7 +408,8 @@
         "my-account-lti-config-delete": 10,
         "tenant-api-error-notification": 12,
         "my-account-mcp-setup": 28,
-        "common-plan-limit-banner": 18
+        "common-plan-limit-banner": 18,
+        "comment-ui-react-native": 2
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -9436,7 +9437,18 @@
         "t18": "FEED_REACTION_WOW",
         "t19": "FEED_REACTION_SAD",
         "t20": "FEED_REACTION_ANGRY",
-        "t21": "FEED_REACTION_FAILED"
+        "t21": "FEED_REACTION_FAILED",
+        "t22": "FEED_COMMENTS",
+        "t23": "FEED_SHARE",
+        "t24": "FEED_DELETE_POST_TITLE",
+        "t25": "FEED_DELETE_POST_CONFIRM",
+        "t26": "FEED_COMPOSER_ANONYMOUS",
+        "t27": "FEED_COMPOSER_CANCEL",
+        "t28": "FEED_COMPOSER_ADD_LINK",
+        "t29": "FEED_COMPOSER_LINK_BUTTON",
+        "t30": "FEED_COMPOSER_LINK_PLACEHOLDER",
+        "t31": "FEED_COMPOSER_REMOVE_LINK",
+        "t32": "DELETE"
     },
     "agent-notification": {
         "t1": "FROM_NAME",
@@ -9942,5 +9954,9 @@
         "t16": "BODY_FLEX_MANAGED_TENANTS_ONE",
         "t17": "BODY_FLEX_MANAGED_TENANTS_OTHER",
         "t18": "CTA"
+    },
+    "comment-ui-react-native": {
+        "t1": "TODAY",
+        "t2": "AND_N_MORE_ONLINE"
     }
 }
