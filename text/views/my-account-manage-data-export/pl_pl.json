@@ -2,7 +2,7 @@
     "TITLE": "Eksportuj komentarze – FastComments",
     "HEADING": "Eksportuj komentarze",
     "SOURCE_LABEL": "Źródło",
-    "SOURCE_COMMENTS": "<%= tenant.name %> Uwagi",
+    "SOURCE_COMMENTS": "<%= tenant.name %> Komentarze",
     "SOURCE_DELETED_COMMENTS": "<%= tenant.name %> Usunięte komentarze",
     "TIME_RANGE_LABEL": "Zakres czasu",
     "ALL_TIME": "Cały czas",
@@ -22,8 +22,8 @@
     "TABLE_STATUS": "Status",
     "TABLE_COMMENT_COUNT": "Liczba komentarzy",
     "TABLE_OPTIONS": "Opcje",
-    "DOWNLOAD_BUTTON": "Pobierać",
-    "DELETE_BUTTON": "Usuwać",
+    "DOWNLOAD_BUTTON": "Pobierz",
+    "DELETE_BUTTON": "Usuń",
     "NO_EXPORTS": "Nie masz żadnych oczekujących ani zakończonych eksportów.",
     "EXPORT_EXPIRY_NOTE": "Uwaga: Eksport automatycznie wygasa po dziesięciu dniach. Dane zostaną usunięte, a link do pobrania zostanie usunięty po tym czasie."
 }

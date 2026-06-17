@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Komentarze na żywo dla serwisów informacyjnych | Zaangażowanie czytelników w czasie rzeczywistym | Szybkie komentarze",
+    "PAGE_TITLE": "Komentarze na żywo dla serwisów informacyjnych | Zaangażowanie czytelników w czasie rzeczywistym | FastComments",
     "META_DESCRIPTION": "Dodaj funkcję komentowania na żywo do swojej witryny z wiadomościami w kilka minut. FastComments obsługuje miliony komentarzy, skoki ruchu i moderację na dużą skalę, a jego rozmiar to 30 KB, co nie spowolni Twoich stron. Zaufało nam ponad <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organizacji.",
     "HERO_TITLE": "Komentarze na żywo dla serwisów informacyjnych, które faktycznie nadążają za wydarzeniami",
     "HERO_CTA_PRIMARY": "Rozpocznij bezpłatny okres próbny",
@@ -40,7 +40,7 @@
     "NEWSPACK_COL_WP": "Domyślne komentarze Newspack",
     "NEWSPACK_COMPARE_CAPTION": "Porównanie domyślnych komentarzy Newspack z FastComments",
     "NEWSPACK_P3": "Używasz Newspacka do wszystkiego, co robi dobrze – publikacji, członkostwa i działań redakcyjnych – a FastComments przejmuje konwersację. Jest w pełni zgodny z RODO, nie śledzi ani nie profiluje czytelników i nie wgrywa pikseli reklamowych na Twoje strony. Rezultatem jest sekcja komentarzy, która spełnia standardy, których przestrzega Twoja redakcja, działająca na wybranej przez Ciebie platformie.",
-    "NEWSPACK_COL_FC": "Szybkie komentarze",
+    "NEWSPACK_COL_FC": "FastComments",
     "NEWSPACK_ROW_SPAM": "Filtrowanie spamu z wykorzystaniem uczenia maszynowego",
     "NEWSPACK_ROW_FOOTPRINT": "~30 kb pamięci, szybsze Core Web Vitals",
     "NEWSPACK_ROW_REALTIME": "Aktualizacje na żywo w czasie rzeczywistym",

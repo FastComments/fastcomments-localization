@@ -12,7 +12,7 @@
     "UPDATE_EVENTS_OPTION": "업데이트 이벤트",
     "SUCCESSFUL_EVENTS_OPTION": "성공적인 이벤트",
     "FAILED_EVENTS_OPTION": "실패한 이벤트",
-    "SEARCH_BUTTON": "찾다",
+    "SEARCH_BUTTON": "검색",
     "STATS_WAITING": "<b><%= Number(countPending).toLocaleString() %></b> 대기 중",
     "STATS_PENDING_RETRY": "<b><%= Number(countPendingRetried).toLocaleString() %></b> 재시도 대기 중",
     "TABLE_HEADER_WHEN": "언제",
@@ -20,7 +20,7 @@
     "TABLE_HEADER_STATUS": "상태",
     "TABLE_HEADER_TYPE": "유형",
     "TABLE_HEADER_DESCRIPTION": "설명",
-    "TABLE_HEADER_ACTIONS": "행위",
+    "TABLE_HEADER_ACTIONS": "작업",
     "DOMAIN_N_A": "해당 없음",
     "STATUS_SUCCESS": "성공",
     "STATUS_FAILED": "실패한",
@@ -38,5 +38,5 @@
     "RETENTION_INFO": "웹훅 로그는 1년간 보존됩니다.",
     "N_A_VALUES_NOTE": "일부 항목은 저희가 항상 수집하지 않은 값에 대해 '해당 없음(N/A)'으로 표시될 수 있습니다.",
     "LOG_DETAILS_HEADING": "로그 세부 정보",
-    "CLOSE_BUTTON": "닫다"
+    "CLOSE_BUTTON": "닫기"
 }

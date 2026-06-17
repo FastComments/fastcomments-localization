@@ -1,6 +1,6 @@
 {
-    "FROM_NAME": "Robot de comentarios rápidos",
-    "SUBJECT": "Contraseña actualiza",
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "Contraseña actualizada",
     "INTRO": "Hola <%= username %>,",
     "INFO": "Su contraseña ha sido actualizada."
 }

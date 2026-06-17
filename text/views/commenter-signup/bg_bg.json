@@ -11,9 +11,9 @@
     "USERNAME_DESCRIPTION": "Това потребителско име ще бъде публично видимо.",
     "LABEL_EMAIL": "*Имейл:",
     "PLACEHOLDER_EMAIL": "Въведете имейл адрес",
-    "EMAIL_DESCRIPTION": "Ще ви изпратим линк по имейл, за да завършите регистрацията на вашия акаунт и да влезете.",
-    "SIGNUP_EMAIL_TEXT": "Регистрирате се, използвайки <b><%= email %></b> .",
-    "TERMS_AGREEMENT": "С кликване върху „Регистрация“, вие се съгласявате с <a href=\"/terms-of-service\" target=\"_blank\">Общите условия</a> .",
+    "EMAIL_DESCRIPTION": "Ще ви изпратим връзка по имейл, за да завършите регистрацията на вашия акаунт и да влезете.",
+    "SIGNUP_EMAIL_TEXT": "Регистрирате се, използвайки <b><%= email %></b>.",
+    "TERMS_AGREEMENT": "С кликване върху „Регистрация“ вие се съгласявате с <a href=\"/terms-of-service\" target=\"_blank\">Общите условия</a>.",
     "BUTTON_SIGN_UP": "Регистрация",
     "LABEL_CAPTCHA": "Какво е <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Помага да се определи, че не сте бот."

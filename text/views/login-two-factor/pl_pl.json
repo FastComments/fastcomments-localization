@@ -10,7 +10,7 @@
     "AUTHENTICATOR_INSTRUCTION": "Wprowadź 6-cyfrowy kod z aplikacji uwierzytelniającej",
     "SMS_INSTRUCTION": "Wysłaliśmy kod do <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>",
     "LABEL_VERIFICATION_CODE": "Kod weryfikacyjny",
-    "BUTTON_VERIFY": "Zweryfikować",
+    "BUTTON_VERIFY": "Zweryfikuj",
     "LABEL_BACKUP_CODE": "Wprowadź kod zapasowy:",
     "BUTTON_USE_BACKUP_CODE": "Użyj kodu zapasowego",
     "BUTTON_BACK": "Z powrotem",

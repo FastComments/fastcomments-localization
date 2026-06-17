@@ -1,8 +1,8 @@
 {
-    "PAGE_TITLE": "Konfiguracja LTI 1.3 – Szybkie komentarze",
+    "PAGE_TITLE": "Konfiguracja LTI 1.3 – FastComments",
     "HEADING": "Konfiguracja LTI 1.3",
     "GENERATE_HEADING": "Wygeneruj dynamiczny adres URL rejestracji",
-    "INTRO": "Użyj Dynamic Registration, aby dodać Szybkie Komentarze do swojego LMS w jednym kroku. Wygeneruj adres URL poniżej, a następnie wklej go na ekranie rejestracji LTI 1.3 w swoim LMS.",
+    "INTRO": "Użyj Dynamic Registration, aby dodać FastComments do swojego LMS w jednym kroku. Wygeneruj adres URL poniżej, a następnie wklej go na ekranie rejestracji LTI 1.3 w swoim LMS.",
     "PLATFORM_OPTION_AUTO": "Automatyczne wykrywanie",
     "PLATFORM_OPTION_SAKAI": "Sakai",
     "PLATFORM_OPTION_BLACKBOARD": "Blackboard Learn",
@@ -23,5 +23,5 @@
     "STATUS_DISABLED": "Wyłączony",
     "NO_CONFIGS": "Brak jeszcze konfiguracji LTI. Wygeneruj powyżej adres URL rejestracji, aby ją dodać.",
     "GENERATED_URL_INSTRUCTION": "Skopiuj ten adres URL i wklej go w polu „Rejestracja dynamiczna” w systemie LMS. Adres URL wygasa po 30 minutach i można go użyć tylko raz.",
-    "DELETE_BUTTON": "Usuwać"
+    "DELETE_BUTTON": "Usuń"
 }

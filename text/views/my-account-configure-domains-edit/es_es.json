@@ -1,10 +1,10 @@
 {
-    "PAGE_TITLE": "Editar dominio - Comentarios rápidos",
+    "PAGE_TITLE": "Editar dominio - FastComments",
     "LABEL_DOMAIN_NAME": "Nombre de dominio",
     "BUTTON_CANCEL": "Cancelar",
     "HEADING_EDIT_DOMAIN": "Editar dominio",
     "HEADING_EDITING_DOMAIN": "Edición <%= domainName %>",
-    "BUTTON_SAVE": "Ahorrar",
+    "BUTTON_SAVE": "Guardar",
     "HEADING_MIGRATION_OPTIONS": "Opciones de migración",
     "PLACEHOLDER_DOMAIN_NAME": "Introduce un dominio de nivel superior, como fastcomments.com",
     "LABEL_MIGRATE_WEBHOOKS": "Webhooks (<%= migrationCounts.webhooks %>)",

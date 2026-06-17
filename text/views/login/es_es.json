@@ -1,7 +1,7 @@
 {
     "PAGE_TITLE": "Iniciar sesión - FastComments",
     "HERO_TITLE_LIGHT": "",
-    "HERO_TITLE_BOLD": "Acceso",
+    "HERO_TITLE_BOLD": "Iniciar sesión",
     "HERO_DESCRIPTION": "Acceda a su cuenta de FastComments",
     "TAB_LOGIN_VIA_EMAIL": "Iniciar sesión por correo electrónico",
     "TAB_LOGIN_VIA_PASSWORD": "Iniciar sesión mediante contraseña",
@@ -16,7 +16,7 @@
     "EMAIL_HELP_TEXT": "Le enviaremos un enlace por correo electrónico para iniciar sesión. Si no tiene una cuenta, crearemos una para usted.",
     "LABEL_CAPTCHA": "¿Cuánto es <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Ayuda a determinar que no eres un bot.",
-    "BUTTON_LOGIN": "Acceso",
+    "BUTTON_LOGIN": "Iniciar sesión",
     "HIDE_PASSWORD": "Ocultar contraseña",
     "SHOW_PASSWORD": "Mostrar contraseña"
 }

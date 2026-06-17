@@ -1,8 +1,8 @@
 {
-    "PAGE_TITLE": "Desbanear a un usuario - FastComments",
-    "HEADING": "Desbanear a un usuario",
-    "SUB_HEADING": "¿Desbancar <%= bannedUser.username %>?",
-    "CONFIRM_MESSAGE": "¿Estás seguro que deseas desbanear a este usuario?",
-    "BANNED_FOR_SAYING_TEXT": "Se les prohibió decir &quot; <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> &quot;",
-    "UN_BAN_BUTTON": "Desbanear usuario"
+    "PAGE_TITLE": "Quitar el veto a un usuario - FastComments",
+    "HEADING": "Quitar el veto a un usuario",
+    "SUB_HEADING": "¿Quitar el veto a <%= bannedUser.username %>?",
+    "CONFIRM_MESSAGE": "¿Estás seguro de que deseas quitar el veto a este usuario?",
+    "BANNED_FOR_SAYING_TEXT": "Se le vetó por decir &quot;<span class=\"quote\"><%= bannedUser.bannedCommentText %></span>&quot;",
+    "UN_BAN_BUTTON": "Quitar veto al usuario"
 }

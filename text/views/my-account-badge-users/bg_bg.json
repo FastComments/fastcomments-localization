@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - Бързи коментари",
-    "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> Потребител с бадж <%- tenantBadge.displayLabel %>",
-    "HEADING_USERS_WITH_BADGE_PLURAL": "<%- Number(userBadges.length).toLocaleString() %> Потребители с бадж <%- tenantBadge.displayLabel %>",
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - FastComments",
+    "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> потребител със значка <%- tenantBadge.displayLabel %>",
+    "HEADING_USERS_WITH_BADGE_PLURAL": "<%- Number(userBadges.length).toLocaleString() %> потребители със значка <%- tenantBadge.displayLabel %>",
     "TEXT_NO_USERS_WITH_BADGE": "Няма потребители, които да притежават тази значка! Повечето значки се присъждат автоматично. Ако е ръчна значка, ще трябва да я присъдите ръчно.",
     "TABLE_HEADER_USER_ID": "Потребителски идентификатор",
     "TABLE_HEADER_EMAIL": "Имейл",

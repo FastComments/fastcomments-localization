@@ -1,8 +1,8 @@
 {
     "BULK_BAN_TITLE": "Masowe banowanie użytkowników",
     "BULK_BAN_SUBTITLE": "Zachowaj ostrożność!",
-    "BULK_BAN_BTN_BAN": "Zakaz",
-    "BULK_BAN_BTN_CANCEL": "Anulować",
+    "BULK_BAN_BTN_BAN": "Zablokuj",
+    "BULK_BAN_BTN_CANCEL": "Anuluj",
     "BULK_BAN_PLURAL_EMAILS": "e-maile",
     "BULK_BAN_SINGULAR_EMAIL": "e-mail",
     "BULK_BAN_PLURAL_USERS": "użytkownicy",
@@ -18,12 +18,12 @@
     "BULK_BAN_VIA_IP": "Zablokuj przez IP",
     "BULK_BAN_ALL_DOMAIN_USERS": "Zablokuj wszystkich [domains] użytkowników",
     "BULK_BAN_TYPE_LABEL": "Typ bana",
-    "BULK_BAN_TYPE_BAN": "Zakaz",
-    "BULK_BAN_TYPE_SHADOW_BAN": "Zakaz cienia",
+    "BULK_BAN_TYPE_BAN": "Ban",
+    "BULK_BAN_TYPE_SHADOW_BAN": "Cichy ban",
     "BULK_BAN_DURATION_LABEL": "Czas trwania bana",
     "BULK_BAN_DURATION_FOREVER": "Na zawsze",
     "BULK_BAN_DURATION_ONE_HOUR": "Jedna godzina",
-    "BULK_BAN_DURATION_ONE_DAY": "Pewnego dnia",
+    "BULK_BAN_DURATION_ONE_DAY": "Jeden dzień",
     "BULK_BAN_DURATION_ONE_WEEK": "Jeden tydzień",
     "BULK_BAN_DURATION_ONE_MONTH": "Jeden miesiąc",
     "BULK_BAN_DURATION_SIX_MONTHS": "Sześć miesięcy",
@@ -33,5 +33,5 @@
     "BULK_BAN_BY_EMAIL": "Przez e-mail",
     "BULK_BAN_BY_IP": "Według IP",
     "BULK_BAN_BY_EMAIL_DOMAIN": "W przypadku wiadomości e-mail kończących się na: [domains]",
-    "BULK_BAN_DELETE_RELATED_COMMENTS": "Usuń [count] powiązane komentarze[summary]."
+    "BULK_BAN_DELETE_RELATED_COMMENTS": "Usuń [count] powiązanych komentarzy[summary]."
 }

@@ -1,7 +1,7 @@
 {
-    "ON_COMMENT_CREATED_LABEL": "En Comentario <b>Creado</b> , llamar...",
-    "ON_COMMENT_UPDATED_LABEL": "En Comentario <b>Actualizado</b> , llamar...",
-    "ON_COMMENT_DELETED_LABEL": "En Comentario <b>Eliminado</b> , llamar...",
+    "ON_COMMENT_CREATED_LABEL": "Al <b>crear</b> un comentario, llamar a...",
+    "ON_COMMENT_UPDATED_LABEL": "Al <b>actualizar</b> un comentario, llamar a...",
+    "ON_COMMENT_DELETED_LABEL": "Al <b>eliminar</b> un comentario, llamar a...",
     "IDEMPOTENT_OPERATION_TITLE": "Esta debería ser una operación idempotente ya que contiene un ID, por lo que es un PUT.",
-    "SAVE_BUTTON": "Ahorrar"
+    "SAVE_BUTTON": "Guardar"
 }

@@ -9,6 +9,6 @@
     "ERROR_USERNAME_TAKEN": "Ta nazwa użytkownika jest już zajęta przez kogoś innego!",
     "ERROR_EMAIL_TAKEN": "Przepraszamy, ale ten adres e-mail jest już używany przez kogoś innego! Może masz już konto?",
     "ERROR_EMAIL_NOW_TAKEN": "Przepraszamy, ale podany adres e-mail jest już używany przez kogoś innego! Czy utworzyłeś/aś inne konto?",
-    "ERROR_RATE_LIMITED_MINUTE": "Przekroczyłeś limity prędkości. Spróbuj ponownie za kilka minut lub skontaktuj się z pomocą techniczną.",
-    "ERROR_RATE_LIMITED_DAY": "Przekroczyłeś nasze dzienne limity stawek. Spróbuj ponownie za 24 godziny lub skontaktuj się z pomocą techniczną."
+    "ERROR_RATE_LIMITED_MINUTE": "Przekroczyłeś nasze limity liczby żądań. Spróbuj ponownie za kilka minut lub skontaktuj się z pomocą techniczną.",
+    "ERROR_RATE_LIMITED_DAY": "Przekroczyłeś nasze dzienne limity liczby żądań. Spróbuj ponownie za 24 godziny lub skontaktuj się z pomocą techniczną."
 }

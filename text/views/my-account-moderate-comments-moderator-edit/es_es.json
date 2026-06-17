@@ -3,7 +3,7 @@
     "HEADING_ADD": "Agregar un moderador",
     "HEADING_EDIT": "Personalizar <%= moderator.name %>",
     "SUB_HEADING_ADD": "Agregar un moderador",
-    "SUB_HEADING_EDIT": "Edición <%= moderator.name %>",
+    "SUB_HEADING_EDIT": "Editando a <%= moderator.name %>",
     "INTRO_PARAGRAPH_1": "Has llegado al lugar correcto si deseas darle acceso a alguien para moderar tus comentarios.",
     "INTRO_PARAGRAPH_2": "Tenga en cuenta que no es necesario agregar moderadores para los usuarios administradores. Estos ya tienen funciones de moderación.",
     "NAME_SECTION_HEADING": "Dales un nombre",
@@ -16,5 +16,5 @@
     "MODERATION_GROUPS_LABEL": "Grupos de moderación",
     "CLEAR_ALL_LINK": "Borrar todo",
     "GROUPS_DESCRIPTION": "Solo verán los comentarios de estos grupos en la página de Comentarios moderados.",
-    "SAVE_BUTTON": "Ahorrar"
+    "SAVE_BUTTON": "Guardar"
 }

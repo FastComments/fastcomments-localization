@@ -10,12 +10,12 @@
     "COLUMN_STATUS_CODE": "HTTP",
     "COLUMN_DESCRIPTION": "Descripción",
     "STATUS_SUCCESS": "Éxito",
-    "STATUS_FAILURE": "Falla",
+    "STATUS_FAILURE": "Error",
     "PAGER_PREV": "Anterior",
-    "PAGER_NEXT": "Próximo",
+    "PAGER_NEXT": "Siguiente",
     "EVENT_TRIGGER_FAILED": "Falló la ejecución del agente.",
     "EVENT_TRIGGER_SUCCEEDED": "La ejecución del agente fue exitosa.",
-    "EVENT_APPROVAL_DECIDED": "Aprobación tomada",
+    "EVENT_APPROVAL_DECIDED": "Aprobación decidida",
     "EVENT_APPROVAL_REQUESTED": "Se solicita aprobación",
     "EMPTY_MESSAGE": "Aún no se han registrado intentos de entrega para este webhook."
 }

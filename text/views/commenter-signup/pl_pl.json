@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "Zapisać się",
+    "PAGE_TITLE": "Zarejestruj się",
     "HERO_TITLE_LIGHT": "Dołącz do ",
-    "HERO_TITLE_BOLD": "Dyskusja",
+    "HERO_TITLE_BOLD": "dyskusji",
     "HERO_DESCRIPTION": "Chcesz skomentować stronę internetową korzystającą z FastComments? Dobrze trafiłeś.",
     "HERO_ADDITIONAL_TEXT": "Jeśli chcesz dodać FastComments do swojej witryny, zarejestruj się <a href=\"/auth/tenant-signup?email=<%= email %>\">tutaj.</a>",
     "FORM_DESCRIPTION": "Aby się zarejestrować, potrzebujesz jedynie nazwy użytkownika i adresu e-mail.",
@@ -12,9 +12,9 @@
     "LABEL_EMAIL": "*E-mail:",
     "PLACEHOLDER_EMAIL": "Podaj adres e-mail",
     "EMAIL_DESCRIPTION": "Wyślemy Ci link e-mailem, dzięki któremu dokończysz zakładanie konta i się zalogujesz.",
-    "SIGNUP_EMAIL_TEXT": "Rejestrujesz się używając <b><%= email %></b> .",
-    "TERMS_AGREEMENT": "Klikając przycisk Zarejestruj się, akceptujesz <a href=\"/terms-of-service\" target=\"_blank\">Warunki korzystania z usługi</a> .",
-    "BUTTON_SIGN_UP": "Zapisać się",
+    "SIGNUP_EMAIL_TEXT": "Rejestrujesz się używając <b><%= email %></b>.",
+    "TERMS_AGREEMENT": "Klikając przycisk Zarejestruj się, akceptujesz <a href=\"/terms-of-service\" target=\"_blank\">Warunki korzystania z usługi</a>.",
+    "BUTTON_SIGN_UP": "Zarejestruj się",
     "LABEL_CAPTCHA": "Co to jest <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Pomaga ustalić, czy nie jesteś botem."
 }

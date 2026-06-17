@@ -1,13 +1,13 @@
 {
-    "PAGE_TITLE": "Prohibir a un usuario - FastComments",
-    "HEADING": "Prohibir a un usuario",
-    "SUB_HEADING": "Prohibir a un usuario por correo electrónico",
-    "INTRO_DESCRIPTION": "Aquí puedes introducir un correo electrónico para banear a un usuario. Hay dos maneras de banear a un usuario. Banear permanentemente a un usuario no le permitirá votar ni comentar, y se enterará de inmediato cuando intente comentar, ya que se le notificará. Banear en la sombra hará que parezca que sus votos o comentarios han sido exitosos, pero no persistirá.",
+    "PAGE_TITLE": "Vetar a un usuario - FastComments",
+    "HEADING": "Vetar a un usuario",
+    "SUB_HEADING": "Vetar a un usuario por correo electrónico",
+    "INTRO_DESCRIPTION": "Aquí puedes introducir un correo electrónico para vetar a un usuario. Hay un par de maneras de vetar a un usuario. Vetar permanentemente a un usuario no le permitirá votar ni comentar, y se enterará de inmediato cuando intente comentar, ya que se le notificará. El veto en la sombra hará que parezca que sus votos o comentarios se han registrado correctamente, pero no se conservarán.",
     "ENTER_EMAIL_HEADING": "Introduzca un correo electrónico",
     "EMAIL_LABEL": "Correo electrónico",
     "TYPE_LABEL": "Tipo",
-    "TYPE_BAN": "Prohibición",
-    "TYPE_SHADOW_BAN": "Prohibición de las sombras",
+    "TYPE_BAN": "Veto",
+    "TYPE_SHADOW_BAN": "Veto en la sombra",
     "DURATION_LABEL": "Duración",
     "DURATION_FOREVER": "Para siempre",
     "DURATION_ONE_HOUR": "Una hora",
@@ -16,5 +16,5 @@
     "DURATION_ONE_MONTH": "Un mes",
     "DURATION_SIX_MONTHS": "Seis meses",
     "DURATION_ONE_YEAR": "Un año",
-    "BAN_USER_BUTTON": "Prohibir usuario"
+    "BAN_USER_BUTTON": "Vetar usuario"
 }

@@ -2,7 +2,7 @@
     "FROM_NAME": "Bot de ayuda FastComments",
     "SUBJECT": "Solicitud de ayuda reconocida por el personal de soporte",
     "HEY": "Oye <%= commenterUsername %>,",
-    "ACKNOWLEDGED_BY_ADMIN": "Parece que el agente de soporte con el nombre de usuario \"<%= adminUsername %>\" ha reconocido su solicitud. Deberían comunicarse contigo en breve.",
+    "ACKNOWLEDGED_BY_ADMIN": "Parece que el agente de soporte con el nombre de usuario \"<%= adminUsername %>\" ha reconocido tu solicitud. Deberían contactarte en breve.",
     "THANKS_FOR_USING_FC": "¡Gracias por usar FastComments!",
-    "DONT_REPLY_TO_THIS": "Este correo electrónico proviene de un buzón de correo electrónico solo saliente, no lo responda. Nos comunicaremos contigo por separado."
+    "DONT_REPLY_TO_THIS": "Este correo electrónico proviene de un buzón solo de salida; no lo respondas. Nos pondremos en contacto contigo por separado."
 }

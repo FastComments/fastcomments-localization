@@ -2,10 +2,10 @@
     "INTRO": "Hola <%= username %>, ¡has ganado una nueva insignia en <strong><%= siteDomain %></strong> !",
     "CONGRATULATIONS": "¡Felicidades!",
     "BANNER_TEXT": "Nueva insignia obtenida",
-    "FROM_NAME": "Robot de comentarios rápidos",
+    "FROM_NAME": "FastComments Robot",
     "SUBJECT": "¡Te has ganado la insignia \"<%= badge.displayLabel %>\"!",
     "BADGE_EARNED_MESSAGE": "Has obtenido con éxito la insignia <strong><%= badge.displayLabel %></strong> .",
-    "KEEP_UP_GOOD_WORK": "¡Sigan con el excelente trabajo!",
+    "KEEP_UP_GOOD_WORK": "¡Sigue con el buen trabajo!",
     "UNSUBSCRIBE_HERE": "Cancelar la suscripción a las notificaciones de insignias",
     "VIEW_YOUR_PROFILE": "Ver tu perfil"
 }

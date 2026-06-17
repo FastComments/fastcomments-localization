@@ -14,7 +14,7 @@
     "BAN_VIA_IP_LABEL": "IP를 통한 차단",
     "BAN_EMAIL_DOMAIN_LABEL": "모든 <%= comment.commenterEmail.substring(comment.commenterEmail.indexOf('@'), comment.commenterEmail.length) %> 사용자 차단",
     "BAN_TYPE_LABEL": "금지 유형",
-    "BAN_TYPE_BAN": "반",
+    "BAN_TYPE_BAN": "차단",
     "BAN_TYPE_SHADOW_BAN": "섀도우밴",
     "BAN_DURATION_LABEL": "금지 기간",
     "DURATION_FOREVER": "영원히",

@@ -1,11 +1,11 @@
 {
-    "INTRO": "Hej <%= username %>, zdobyłeś nową odznakę na <strong><%= siteDomain %></strong> !",
+    "INTRO": "Hej <%= username %>, zdobyłeś nową odznakę na <strong><%= siteDomain %></strong>!",
     "CONGRATULATIONS": "Gratulacje!",
     "BANNER_TEXT": "Zdobyto nową odznakę",
     "FROM_NAME": "Robot FastComments",
     "SUBJECT": "Zdobyłeś odznakę „<%= badge.displayLabel %>”!",
-    "BADGE_EARNED_MESSAGE": "Udało Ci się zdobyć odznakę <strong><%= badge.displayLabel %></strong> .",
-    "KEEP_UP_GOOD_WORK": "Kontynuujcie wspaniałą pracę!",
+    "BADGE_EARNED_MESSAGE": "Udało Ci się zdobyć odznakę <strong><%= badge.displayLabel %></strong>.",
+    "KEEP_UP_GOOD_WORK": "Kontynuuj wspaniałą pracę!",
     "UNSUBSCRIBE_HERE": "Anuluj subskrypcję powiadomień o odznakach",
     "VIEW_YOUR_PROFILE": "Wyświetl swój profil"
 }

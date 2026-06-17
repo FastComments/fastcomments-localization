@@ -1,9 +1,9 @@
 {
     "INTRO": "Oye <%= commenterName %>,",
-    "SUBJECT": "<%= commenterName %> - Verifique su voto.",
-    "LOOKS_LIKE_YOU_VOTED_HERE": "Parece que has votado en una publicación <a href=\"<%= url %>\"> aquí </a>. Si hace clic en el enlace de verificación a continuación, nos ayudará a saber que fue usted que dejó esta votación.",
+    "SUBJECT": "<%= commenterName %> - Verifica tu voto.",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Parece que has votado en una publicación <a href=\"<%= url %>\">aquí</a>. Si haces clic en el enlace de verificación a continuación, nos ayudará a saber que fuiste tú quien dejó este voto.",
     "VERIFY_YOUR_VOTE_LINK": "Verifica tu voto",
-    "WAS_YOU_IGNORE_THIS_EMAIL": "Si no fue así, ignore este correo electrónico.",
+    "WAS_YOU_IGNORE_THIS_EMAIL": "Si no fuiste tú, ignora este correo electrónico.",
     "THANKS_SO_MUCH": "¡Muchas gracias!",
     "BANNER_TEXT": "Verifica tu voto",
     "FROM_NAME": "Robot FastComments",

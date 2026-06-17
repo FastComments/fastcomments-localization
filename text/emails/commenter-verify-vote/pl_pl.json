@@ -2,9 +2,9 @@
     "INTRO": "Hej <%= commenterName %>,",
     "BANNER_TEXT": "Zweryfikuj swój głos",
     "SUBJECT": "<%= commenterName %> - Zweryfikuj swój głos.",
-    "LOOKS_LIKE_YOU_VOTED_HERE": "Wygląda na to, że głosowałeś na słupku <a href=\"<%= url %>\"> tutaj </a>. Jeśli klikniesz poniższy link weryfikacyjny, pomoże nam wiedzieć, że to byłeś ten głos.",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Wygląda na to, że oddałeś głos na wpis <a href=\"<%= url %>\">tutaj</a>. Jeśli klikniesz poniższy link weryfikacyjny, pomoże nam to potwierdzić, że to Ty oddałeś ten głos.",
     "VERIFY_YOUR_VOTE_LINK": "Zweryfikuj swój głos",
-    "WAS_YOU_IGNORE_THIS_EMAIL": "Jeśli tak nie było, zignoruj ​​tego e-maila.",
+    "WAS_YOU_IGNORE_THIS_EMAIL": "Jeśli tak nie było, zignoruj tego e-maila.",
     "THANKS_SO_MUCH": "Dzięki wielkie!",
     "FROM_NAME": "Robot FastComments",
     "UNSUBSCRIBE_HERE": "Anuluj subskrypcję"

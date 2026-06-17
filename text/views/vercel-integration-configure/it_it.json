@@ -1,9 +1,9 @@
 {
-    "PAGE_TITLE": "Configura l'integrazione di FastComments con Vercel.",
+    "PAGE_TITLE": "Configura FastComments - Integrazione Vercel",
     "TENANT_LABEL": "Account FastComments",
     "HEADING": "Configura l'integrazione con FastComments",
     "SUBTITLE": "Aggiorna i progetti Vercel collegati al tuo account FastComments.",
-    "SELECT_PROJECTS": "Vercel Projects",
+    "SELECT_PROJECTS": "Progetti Vercel",
     "NO_PROJECTS": "Nessun progetto trovato nel tuo account Vercel.",
     "EXPOSE_API_KEY": "Includi la chiave API (per le funzionalità lato server come l'SSO)",
     "EXPOSE_API_KEY_HINT": "Aggiunge FASTCOMMENTS_API_KEY al tuo progetto. Abilita questa opzione solo se hai bisogno di SSO lato server o di accesso API di amministrazione.",

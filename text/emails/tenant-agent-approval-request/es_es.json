@@ -5,7 +5,7 @@
     "META_AGENT": "Agente:",
     "INTRO": "Un agente de IA ha puesto una acción en cola y necesita tu aprobación antes de ejecutarse.",
     "META_ACTION": "Acción:",
-    "REVIEW_BUTTON": "Revisión de aprobación",
+    "REVIEW_BUTTON": "Revisar aprobación",
     "BODY": "Haz clic abajo para revisar los argumentos de la acción, el contexto original y aprobarla o rechazarla. El enlace te conectará directamente con tu cuenta de FastComments.",
     "FALLBACK_LINK": "Si el botón no funciona, copie y pegue esta URL en su navegador: <%= reviewUrl %>"
 }

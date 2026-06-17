@@ -1,15 +1,15 @@
 {
     "TITLE": "Gestión de tickets",
     "FILTER_BY_STATE": "Filtrar por estado",
-    "FILTER_BY_ASSIGNEE": "Filtrar por cesionario",
+    "FILTER_BY_ASSIGNEE": "Filtrar por responsable",
     "ALL_ASSIGNEES": "Todo",
     "ALL_STATES": "Todo",
     "ASSIGN_TO": "Asignar a",
     "UNASSIGNED": "Sin asignar",
     "ASSIGNED_TO": "Asignado a",
     "CUSTOMER": "Cliente",
-    "NO_TICKETS": "No se encontraron entradas.",
+    "NO_TICKETS": "No se encontraron tickets.",
     "RESPONSE_TIME": "Tiempo de respuesta promedio",
     "ERROR_ASSIGN_FAILED": "No se pudo asignar el ticket.",
-    "ERROR_LOAD_FAILED": "No se pudieron cargar los boletos."
+    "ERROR_LOAD_FAILED": "No se pudieron cargar los tickets."
 }

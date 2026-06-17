@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Configuración de LTI 1.3 - Comentarios rápidos",
+    "PAGE_TITLE": "Configuración de LTI 1.3 - FastComments",
     "PLATFORM_TYPE_LABEL": "Plataforma (opcional)",
     "HEADING": "Configuración LTI 1.3",
     "GENERATE_HEADING": "Generar una URL de registro dinámica",
@@ -18,7 +18,7 @@
     "GENERATED_URL_INSTRUCTION": "Copia esta URL y pégala en el campo de Registro Dinámico de tu LMS. La URL caduca en 30 minutos y solo se puede usar una vez.",
     "TABLE_HEADER_PLATFORM": "Plataforma",
     "TABLE_HEADER_CLIENT_ID": "ID de cliente",
-    "TABLE_HEADER_ISSUER": "Editor",
+    "TABLE_HEADER_ISSUER": "Emisor",
     "TABLE_HEADER_STATUS": "Estado",
     "NO_CONFIGS": "Aún no hay configuraciones LTI. Genere una URL de registro arriba para agregar una.",
     "STATUS_ENABLED": "Activado",

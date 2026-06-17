@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Widget <%= TEXT[widget.titleKey] %> - Comentarios rápidos",
+    "PAGE_TITLE": "Widget <%= TEXT[widget.titleKey] %> - FastComments",
     "HEADING": "Código del widget",
     "HEADING_MULTIPLE_INSTANCES": "Nota: Múltiples instancias",
     "MESSAGE_MULTIPLE_INSTANCES": "Para usar varias instancias de este widget en la misma página, como con una lista de entradas de blog, simplemente genere los identificadores del elemento de destino y páselos al widget. Por ejemplo, \"widget-id-0\", \"widget-id-1\", etc.",
@@ -21,7 +21,7 @@
     "WIDGET_COMMENT_COUNT_TITLE": "Recuento de comentarios",
     "WIDGET_COMMENT_COUNT_DESCRIPTION": "Este widget agregará un recuento de comentarios a cualquier página.",
     "WIDGET_COMMENT_COUNT_BULK_TITLE": "Recuento de comentarios masivos",
-    "WIDGET_COMMENT_COUNT_BULK_DESCRIPTION": "Este widget añadirá un contador de comentarios a cualquier página. Se utiliza para mostrar el número de elementos en una lista.",
+    "WIDGET_COMMENT_COUNT_BULK_DESCRIPTION": "Este widget añadirá un recuento de comentarios a cualquier página. Se utiliza al mostrar los recuentos de muchos elementos en una lista.",
     "WIDGET_RECENT_COMMENTS_TITLE": "Comentarios recientes",
     "WIDGET_RECENT_COMMENTS_DESCRIPTION": "Este widget agregará una lista de comentarios recientes a cualquier página.",
     "WIDGET_TOP_PAGES_TITLE": "Páginas principales",

@@ -1,8 +1,8 @@
 {
     "INTRO": "Hej <%= username %>,",
-    "INVITE_DETAILS": "Zostałeś zaproszony do dołączenia do dzierżawcy <%= tenantName %>. Przyjęcie tego zaproszenia spowoduje podniesienie Twojego konta komentatora do konta administratora. <%= tenantName %> będzie miał <b>PEŁNE WŁASNOŚCI</b> nad Twoim kontem, w tym możliwość jego usunięcia. Będziesz mieć następujące uprawnienia:",
+    "INVITE_DETAILS": "Zostałeś zaproszony do dołączenia do najemcy <%= tenantName %>. Przyjęcie tego zaproszenia spowoduje podniesienie Twojego konta komentatora do konta administratora. <%= tenantName %> będzie miał <b>PEŁNĄ WŁASNOŚĆ</b> nad Twoim kontem, w tym możliwość jego usunięcia. Będziesz mieć następujące uprawnienia:",
     "ACCEPT_INVITE": "Zaakceptuj zaproszenie",
-    "BANNER_TEXT": "Zaproś lokatora",
+    "BANNER_TEXT": "Zaproszenie do najemcy",
     "FROM_NAME": "Robot FastComments",
     "SUBJECT": "Zostałeś zaproszony do <%= tenantName %>!"
 }

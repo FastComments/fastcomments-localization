@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Inscribirse",
+    "PAGE_TITLE": "Registrarse",
     "HERO_TITLE_LIGHT": "Únete a la ",
     "HERO_TITLE_BOLD": "Discusión",
     "HERO_DESCRIPTION": "¿Quieres comentar en un sitio web que usa FastComments? Estás en el lugar indicado.",
@@ -14,7 +14,7 @@
     "EMAIL_DESCRIPTION": "Le enviaremos un enlace por correo electrónico para completar su cuenta e iniciar sesión.",
     "SIGNUP_EMAIL_TEXT": "Te estás registrando usando <b><%= email %></b> .",
     "TERMS_AGREEMENT": "Al hacer clic en Registrarse, acepta los <a href=\"/terms-of-service\" target=\"_blank\">Términos de servicio</a> .",
-    "BUTTON_SIGN_UP": "Inscribirse",
+    "BUTTON_SIGN_UP": "Registrarse",
     "LABEL_CAPTCHA": "¿Cuánto es <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Ayuda a determinar que no eres un bot."
 }

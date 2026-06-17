@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "<%= TEXT[widget.titleKey] %> Widget - Szybkie komentarze",
+    "PAGE_TITLE": "<%= TEXT[widget.titleKey] %> Widget - FastComments",
     "HEADING": "Kod widżetu",
     "HEADING_MULTIPLE_INSTANCES": "Uwaga – wiele wystąpień",
     "MESSAGE_MULTIPLE_INSTANCES": "Aby użyć wielu wystąpień tego widżetu na tej samej stronie, np. w przypadku listy wpisów na blogu, wystarczy wygenerować identyfikatory elementu docelowego i przekazać je do widżetu. Na przykład „widget-id-0”, „widget-id-1” itd.",

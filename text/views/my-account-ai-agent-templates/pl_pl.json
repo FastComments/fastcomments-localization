@@ -12,17 +12,17 @@
     "PREVIEW_ACTIONS_LABEL": "Dozwolone działania",
     "PREVIEW_FLAG_THRESHOLD_LABEL": "Próg flagi",
     "USE_TEMPLATE_BUTTON": "Użyj tego szablonu",
-    "PREVIEW_DELAY_VALUE": "{minut} minut",
+    "PREVIEW_DELAY_VALUE": "{minutes} minut",
     "TEMPLATE_TOS_ENFORCER_CARD_NAME": "Moderator",
-    "TEMPLATE_WELCOME_GREETER_CARD_NAME": "Witamy witacza",
+    "TEMPLATE_WELCOME_GREETER_CARD_NAME": "Witacz powitalny",
     "START_FRESH_NAME": "Zacznij od nowa",
     "TEMPLATE_WELCOME_GREETER_CARD_DESCRIPTION": "Odpowiada nowym użytkownikom, którzy dodają komentarze po raz pierwszy, krótkim, konkretnym powitaniem. Pomaga nowym użytkownikom poczuć się zauważonymi, bez spamowania starych kont.",
     "START_FRESH_DESCRIPTION": "Otwórz pusty formularz i samodzielnie skonfiguruj każde pole.",
     "TEMPLATE_TOS_ENFORCER_CARD_DESCRIPTION": "Sprawdza nowe i zgłoszone komentarze pod kątem zgodności z Twoimi zasadami. Ostrzega osoby naruszające zasady po raz pierwszy, oznacza spam, eskaluje kolejne naruszenia.",
-    "TEMPLATE_TOP_COMMENT_PINNER_CARD_NAME": "Pinner z najpopularniejszymi komentarzami",
+    "TEMPLATE_TOP_COMMENT_PINNER_CARD_NAME": "Przypinacz najlepszych komentarzy",
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "Przypina merytoryczne komentarze najwyższego poziomu po przekroczeniu progu głosów. Rotuje przypinanie, tak aby najlepsze ujęcie zawsze znajdowało się na górze.",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "Podsumowanie wątków",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Publikuje neutralne podsumowanie długich wątków po krótkim opóźnieniu. Spóźnialskim umożliwia szybkie zapoznanie się ze stanowiskami i pytaniami otwartymi.",
     "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Obserwuje edycje komentarzy pod kątem przeróbek w trakcie wątku, które zniekształcają odpowiedzi. Przywraca oryginalny tekst i wysyła wiadomość prywatną do autora.",
-    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Detektor światła gazowego"
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Detektor gaslightingu"
 }

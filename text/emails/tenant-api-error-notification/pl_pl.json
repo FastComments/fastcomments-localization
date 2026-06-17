@@ -7,8 +7,8 @@
     "ERROR_PLURAL": "błędy",
     "SIGN_OFF": "Z poważaniem,",
     "TENANT_NOTE": "Dotyczy to najemcy o identyfikatorze „<%= tenantId %>”.",
-    "DETECTION": "Wykryliśmy <%= errorCountFormatted %> API <%= errorWord %> dla Twojego konta w dniu <%= errorDate %>.",
+    "DETECTION": "Wykryliśmy <%= errorCountFormatted %> <%= errorWord %> API dla Twojego konta w dniu <%= errorDate %>.",
     "EXPLANATION": "Te błędy wystąpiły podczas wywoływania naszej platformy. Zalecamy sprawdzenie logów integracji niestandardowych interfejsów API z FastComments pod kątem błędów.",
-    "OPT_OUT": "Możesz zrezygnować z tych powiadomień <a href=\"<%= notificationSettingsUrl %>\">tutaj</a> .",
+    "OPT_OUT": "Możesz zrezygnować z tych powiadomień <a href=\"<%= notificationSettingsUrl %>\">tutaj</a>.",
     "TEAM_NAME": "Zespół inżynierów FastComments"
 }

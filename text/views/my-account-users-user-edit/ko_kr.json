@@ -15,7 +15,7 @@
     "PLACEHOLDER_EMAIL": "email@example.com",
     "LABEL_LOCALE": "장소",
     "LABEL_PERMISSIONS": "권한",
-    "BUTTON_SUBMIT": "제출하다",
+    "BUTTON_SUBMIT": "제출",
     "USERNAME_EXISTS_SAME_TENANT": "❗ 해당 사용자 이름을 가진 사용자가 이미 이 테넌트에 존재합니다.",
     "USERNAME_EXISTS_INVITE": "❗ 해당 사용자 이름을 가진 FastComments 사용자가 이미 존재하지만, 이 테넌트에는 없습니다. <a href=\"{{INVITE_URL}}\">초대</a> 하시겠습니까?",
     "USERNAME_EXISTS_OTHER_TENANT": "❌ 해당 사용자 이름을 가진 FastComments 사용자가 이미 다른 테넌트에 존재합니다.",

@@ -14,12 +14,12 @@
     "DIGEST_APPROVED_COMMENTS": "Zatwierdzone komentarze",
     "DIGEST_SPAM": "Spam",
     "DIGEST_NEW_USERS": "Nowi użytkownicy",
-    "DIGEST_SCHEDULE_LABEL": "Harmonogram streszczenia",
+    "DIGEST_SCHEDULE_LABEL": "Harmonogram podsumowań",
     "DIGEST_DISABLED": "Wyłączony",
     "DIGEST_DAILY": "Codziennie (pon.-pt. 8:00 czasu PST)",
     "DIGEST_WEEKLY": "Tygodniowo (poniedziałek, 8 rano czasu PST)",
     "DIGEST_MONTHLY": "Miesięcznie (1. dzień miesiąca, 8:00 czasu PST)",
-    "DIGEST_SCHEDULE_HELP": "Wyślemy Ci e-mail z podsumowaniem tego harmonogramu.",
+    "DIGEST_SCHEDULE_HELP": "Wyślemy Ci e-mail z podsumowaniem zgodnie z tym harmonogramem.",
     "LANGUAGE_LABEL": "Język",
     "LANGUAGE_HELP": "Język, w którym powinny być tłumaczone wiadomości e-mail.",
     "SUBSCRIPTIONS_HEADING": "Subskrypcje",
@@ -44,7 +44,7 @@
     "AGENT_APPROVAL_HEADING": "Zatwierdzenia agentów AI",
     "AGENT_APPROVAL_FREQUENCY_HELP": "Jak często otrzymujesz powiadomienia e-mail, gdy agent AI umieszcza akcję w kolejce do sprawdzenia.",
     "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "Natychmiast",
-    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Nigdy do mnie nie pisz",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Nigdy nie wysyłaj mi e-maili",
     "AGENT_APPROVAL_FREQUENCY_HOURLY": "Podsumowanie godzinowe",
     "AGENT_APPROVAL_FREQUENCY_DAILY": "Codzienne podsumowanie"
 }

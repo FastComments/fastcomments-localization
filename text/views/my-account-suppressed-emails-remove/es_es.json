@@ -5,11 +5,11 @@
     "LABEL_EMAIL": "Correo electrónico",
     "LABEL_PROVIDER": "Proveedor",
     "LABEL_TYPE": "Tipo",
-    "LABEL_REASON": "Razón",
-    "LABEL_NO_REASON": "No se proporcionó ninguna razón",
+    "LABEL_REASON": "Motivo",
+    "LABEL_NO_REASON": "No se proporcionó ningún motivo",
     "BUTTON_CONFIRM": "Eliminar la supresión",
     "BUTTON_CANCEL": "Cancelar",
     "ERROR_NOT_FOUND": "No se encontró supresión.",
     "ERROR_RATE_LIMIT_EMAIL": "Este correo electrónico ya se ha reactivado en los últimos 30 días. Espere antes de volver a intentarlo.",
-    "ERROR_RATE_LIMIT_TENANT": "Tu cuenta ha alcanzado el límite mensual de retiros (5 al mes). Inténtalo de nuevo el próximo mes."
+    "ERROR_RATE_LIMIT_TENANT": "Tu cuenta ha alcanzado el límite mensual de eliminaciones (5 al mes). Inténtalo de nuevo el próximo mes."
 }

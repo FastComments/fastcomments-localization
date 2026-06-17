@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "Elimina <%= targetTenant.name %> - FastComments",
-    "HEADING": "Elimina inquilino",
+    "HEADING": "Elimina tenant",
     "CONFIRM_HEADING": "Sei sicuro di voler eliminare <%= targetTenant.name %>?",
     "MESSAGE_WILL_DELETE": "Questo eliminerà:",
     "MESSAGE_SUCCESS": "Successo! Le seguenti informazioni sono state eliminate:",

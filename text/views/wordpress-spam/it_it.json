@@ -23,7 +23,7 @@
     "ANTI_SPAM_TRUST_DESCRIPTION": "Assegna automaticamente un punteggio ai commentatori in base al loro comportamento. Gli utenti fidati pubblicano liberamente, mentre i nuovi account sono sottoposti a controlli più rigorosi.",
     "ANTI_SPAM_REPEAT_TITLE": "Rilevamento di messaggi ripetuti",
     "ANTI_SPAM_REPEAT_DESCRIPTION": "Rileva e blocca i commenti duplicati o quasi duplicati sul tuo sito, bloccando all'istante le campagne di spam copia-incolla.",
-    "ANTI_SPAM_PROFANITY_TITLE": "Filtro parolacce e parolacce",
+    "ANTI_SPAM_PROFANITY_TITLE": "Filtro per linguaggio offensivo e parolacce",
     "ANTI_SPAM_PROFANITY_DESCRIPTION": "Elenchi di parole configurabili che segnalano o bloccano automaticamente i commenti contenenti parolacce, insulti o termini vietati personalizzati.",
     "ANTI_SPAM_BOT_TITLE": "Blocco degli endpoint del bot",
     "ANTI_SPAM_BOT_DESCRIPTION": "I bot che prendono di mira wp-comments-post.php e la REST API di WordPress sono in un vicolo cieco. I commenti passano invece attraverso l'infrastruttura protetta di FastComments.",
