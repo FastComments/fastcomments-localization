@@ -201,5 +201,21 @@
     "COMMENT_LIST_ACTION_LOCKING_PLURAL": "Bloqueando [count] comentarios",
     "COMMENT_LIST_ACTION_UNLOCKING_PLURAL": "Desbloqueando [count] comentarios",
     "COMMENT_LIST_ACTION_UNLOCKED_PLURAL": "[count] comentarios desbloqueados",
-    "KB_SHORTCUTS_VIEW_BUTTON": "Ver combinaciones de teclas"
+    "KB_SHORTCUTS_VIEW_BUTTON": "Ver combinaciones de teclas",
+    "MOD_EXPORT_BUTTON": "Descargar",
+    "MOD_EXPORT_CONFIRM_BUTTON": "Iniciar exportación",
+    "MOD_EXPORT_CONFIRM_TITLE": "¿Comentarios para exportar?",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "Gestionar datos -> Exportar",
+    "MOD_EXPORT_CONFIRM_BODY": "Esto exportará [count] comentarios que coincidan con tus filtros actuales a un archivo CSV. Lo prepararemos en segundo plano y podrás descargarlo aquí o desde [manageDataLink] cuando esté listo.",
+    "MOD_EXPORT_PROGRESS_LABEL": "[count] de [total] comentarios exportados",
+    "MOD_EXPORT_STATUS_QUEUED": "Su exportación está en cola y comenzará en breve. Puede cerrar esta ventana y volver a ella desde [manageDataLink].",
+    "MOD_EXPORT_STATUS_RUNNING": "Exportando tus comentarios...",
+    "MOD_EXPORT_DIALOG_TITLE": "Exportar comentarios",
+    "MOD_EXPORT_STATUS_SUCCESS": "Su exportación está lista.",
+    "MOD_EXPORT_DOWNLOAD_LINK": "Descargar CSV",
+    "MOD_EXPORT_START_FAILED": "No se pudo iniciar la exportación. Inténtelo de nuevo.",
+    "MOD_EXPORT_STATUS_FAILED": "Lo sentimos, la exportación ha fallado. Por favor, inténtelo de nuevo.",
+    "MOD_EXPORT_CLOSE": "Cerca",
+    "MOD_EXPORT_MANAGE_LINK": "Gestiona tus exportaciones",
+    "MOD_EXPORT_JOB_NAME": "Exportación moderada"
 }

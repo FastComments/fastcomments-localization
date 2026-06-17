@@ -201,5 +201,21 @@
     "COMMENT_LIST_ACTION_LOCKED_PLURAL": "נעולות [count] תגובות",
     "MOD_ACTION_LOCK_SELECTED": "נעל את האפשרויות הנבחרות",
     "COMMENT_LIST_ACTION_UNLOCKED_PLURAL": "תגובות [count] נפתחו",
-    "KB_SHORTCUTS_VIEW_BUTTON": "הצג חיבורי מקשים"
+    "KB_SHORTCUTS_VIEW_BUTTON": "הצג חיבורי מקשים",
+    "MOD_EXPORT_BUTTON": "הורדה",
+    "MOD_EXPORT_CONFIRM_BUTTON": "התחל ייצוא",
+    "MOD_EXPORT_DIALOG_TITLE": "ייצוא תגובות",
+    "MOD_EXPORT_CONFIRM_TITLE": "לייצא תגובות?",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "ניהול נתונים -> ייצוא",
+    "MOD_EXPORT_CONFIRM_BODY": "פעולה זו תייצא [count] תגובות התואמות את המסננים הנוכחיים שלך לקובץ CSV. נכין אותו ברקע, ותוכל להוריד אותו כאן או מ-[manageDataLink] כשהוא יהיה מוכן.",
+    "MOD_EXPORT_PROGRESS_LABEL": "[count] מתוך [total] תגובות יוצאו",
+    "MOD_EXPORT_STATUS_RUNNING": "מייצא את התגובות שלך...",
+    "MOD_EXPORT_STATUS_QUEUED": "הייצוא שלך נמצא בתור ויתחיל בקרוב. תוכל לסגור חלון זה ולחזור אליו מ-[manageDataLink].",
+    "MOD_EXPORT_STATUS_SUCCESS": "הייצוא שלך מוכן.",
+    "MOD_EXPORT_DOWNLOAD_LINK": "הורד קובץ CSV",
+    "MOD_EXPORT_MANAGE_LINK": "ניהול היצוא שלך",
+    "MOD_EXPORT_STATUS_FAILED": "מצטערים, הייצוא נכשל. אנא נסה שוב.",
+    "MOD_EXPORT_CLOSE": "לִסְגוֹר",
+    "MOD_EXPORT_START_FAILED": "לא ניתן היה להתחיל את הייצוא. אנא נסה שוב.",
+    "MOD_EXPORT_JOB_NAME": "ייצוא ניהול"
 }

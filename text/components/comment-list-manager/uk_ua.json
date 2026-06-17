@@ -201,5 +201,21 @@
     "COMMENT_LIST_ACTION_UNLOCKED_PLURAL": "Розблоковано [count] коментарів",
     "COMMENT_LIST_ACTION_UNLOCKING_PLURAL": "Розблокування [count] коментарів",
     "COMMENT_LIST_ACTION_LOCKED_PLURAL": "Заблоковано [count] коментарів",
-    "KB_SHORTCUTS_VIEW_BUTTON": "Переглянути комбінації клавіш"
+    "KB_SHORTCUTS_VIEW_BUTTON": "Переглянути комбінації клавіш",
+    "MOD_EXPORT_BUTTON": "Завантажити",
+    "MOD_EXPORT_CONFIRM_TITLE": "Експортувати коментарі?",
+    "MOD_EXPORT_CONFIRM_BODY": "Це експортує [count] коментарів, що відповідають вашим поточним фільтрам, до файлу CSV. Ми підготуємо його у фоновому режимі, і ви зможете завантажити його тут або з [manageDataLink], коли він буде готовий.",
+    "MOD_EXPORT_CONFIRM_BUTTON": "Розпочати експорт",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "Керування даними -> Експорт",
+    "MOD_EXPORT_DIALOG_TITLE": "Експорт коментарів",
+    "MOD_EXPORT_STATUS_RUNNING": "Експорт ваших коментарів...",
+    "MOD_EXPORT_STATUS_QUEUED": "Ваш експорт поставлено в чергу та розпочнеться незабаром. Ви можете закрити це вікно та повернутися до нього з [manageDataLink].",
+    "MOD_EXPORT_STATUS_FAILED": "На жаль, експорт не вдався. Спробуйте ще раз.",
+    "MOD_EXPORT_STATUS_SUCCESS": "Ваш експорт готовий.",
+    "MOD_EXPORT_PROGRESS_LABEL": "Експортовано [count] з [total] коментарів",
+    "MOD_EXPORT_CLOSE": "Закрити",
+    "MOD_EXPORT_START_FAILED": "Не вдалося розпочати експорт. Спробуйте ще раз.",
+    "MOD_EXPORT_MANAGE_LINK": "Керуйте своїми експортами",
+    "MOD_EXPORT_DOWNLOAD_LINK": "Завантажити CSV-файл",
+    "MOD_EXPORT_JOB_NAME": "Експорт модерації"
 }

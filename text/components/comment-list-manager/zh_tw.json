@@ -201,5 +201,21 @@
     "MOD_ACTION_UNLOCK_SELECTED": "解鎖所選內容",
     "COMMENT_LIST_ACTION_LOCKED_PLURAL": "已鎖定[count]評論",
     "COMMENT_LIST_ACTION_UNLOCKED_PLURAL": "解鎖[count]評論",
-    "KB_SHORTCUTS_VIEW_BUTTON": "查看快捷鍵綁定"
+    "KB_SHORTCUTS_VIEW_BUTTON": "查看快捷鍵綁定",
+    "MOD_EXPORT_BUTTON": "下載",
+    "MOD_EXPORT_DIALOG_TITLE": "匯出評論",
+    "MOD_EXPORT_CONFIRM_BUTTON": "開始匯出",
+    "MOD_EXPORT_CONFIRM_TITLE": "匯出評論？",
+    "MOD_EXPORT_CONFIRM_BODY": "這將會將符合您目前篩選條件的[count]條評論匯出到CSV檔案。我們會在後台準備文件，完成後您可以從這裡或[manageDataLink]下載。",
+    "MOD_EXPORT_STATUS_QUEUED": "您的匯出操作已加入佇列，即將開始。您可以關閉此窗口，稍後從[manageDataLink]返回。",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "管理資料 -> 匯出",
+    "MOD_EXPORT_STATUS_RUNNING": "正在匯出您的評論…",
+    "MOD_EXPORT_PROGRESS_LABEL": "已匯出 [count] 共 [total] 則評論",
+    "MOD_EXPORT_CLOSE": "關閉",
+    "MOD_EXPORT_DOWNLOAD_LINK": "下載 CSV 文件",
+    "MOD_EXPORT_START_FAILED": "匯出失敗，請重試。",
+    "MOD_EXPORT_STATUS_FAILED": "抱歉，匯出失敗，請重試。",
+    "MOD_EXPORT_STATUS_SUCCESS": "您的匯出文件已準備就緒。",
+    "MOD_EXPORT_MANAGE_LINK": "管理您的匯出",
+    "MOD_EXPORT_JOB_NAME": "審核導出"
 }

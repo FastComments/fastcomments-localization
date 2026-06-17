@@ -212,5 +212,10 @@
     "MOD_EXPORT_DOWNLOAD_LINK": "Scarica CSV",
     "MOD_EXPORT_JOB_NAME": "Esportazione moderazione",
     "MOD_EXPORT_STATUS_FAILED": "Spiacenti, l'esportazione non è riuscita. Riprova.",
-    "MOD_EXPORT_STATUS_SUCCESS": "La tua esportazione è pronta."
+    "MOD_EXPORT_STATUS_SUCCESS": "La tua esportazione è pronta.",
+    "MOD_EXPORT_CONFIRM_BUTTON": "Avvia l'esportazione",
+    "MOD_EXPORT_CONFIRM_TITLE": "Esportare i commenti?",
+    "MOD_EXPORT_CONFIRM_BODY": "Questo esporterà [count] commenti corrispondenti ai filtri attualmente impostati in un file CSV. Lo prepareremo in background e potrai scaricarlo qui o da [manageDataLink] quando sarà pronto.",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "Gestisci dati -> Esporta",
+    "MOD_EXPORT_PROGRESS_LABEL": "[count] di [total] commenti esportati"
 }

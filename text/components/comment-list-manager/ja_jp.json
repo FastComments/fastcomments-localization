@@ -201,5 +201,21 @@
     "COMMENT_LIST_ACTION_LOCKED_PLURAL": "ロックされた [count] コメント",
     "COMMENT_LIST_ACTION_UNLOCKED_PLURAL": "ロック解除された [count] コメント",
     "COMMENT_LIST_ACTION_UNLOCKING_PLURAL": "[count]コメントのロックを解除",
-    "KB_SHORTCUTS_VIEW_BUTTON": "キーバインドを表示"
+    "KB_SHORTCUTS_VIEW_BUTTON": "キーバインドを表示",
+    "MOD_EXPORT_BUTTON": "ダウンロード",
+    "MOD_EXPORT_CONFIRM_BODY": "これにより、現在のフィルターに一致するコメントが [count] 件CSVファイルにエクスポートされます。ファイルはバックグラウンドで準備され、準備が整い次第、こちらまたは [manageDataLink] からダウンロードできます。",
+    "MOD_EXPORT_CONFIRM_TITLE": "コメントをエクスポートしますか？",
+    "MOD_EXPORT_CONFIRM_BUTTON": "エクスポートを開始",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "データ管理 -> エクスポート",
+    "MOD_EXPORT_DIALOG_TITLE": "コメントのエクスポート",
+    "MOD_EXPORT_PROGRESS_LABEL": "[count] の [total] コメントがエクスポートされました",
+    "MOD_EXPORT_STATUS_RUNNING": "コメントをエクスポートしています...",
+    "MOD_EXPORT_STATUS_SUCCESS": "エクスポートの準備ができました。",
+    "MOD_EXPORT_STATUS_QUEUED": "エクスポート処理がキューに追加されました。まもなく開始されます。このウィンドウを閉じて、[manageDataLink]から再度開いてください。",
+    "MOD_EXPORT_DOWNLOAD_LINK": "CSVをダウンロード",
+    "MOD_EXPORT_START_FAILED": "エクスポートを開始できませんでした。もう一度お試しください。",
+    "MOD_EXPORT_STATUS_FAILED": "申し訳ありませんが、エクスポートに失敗しました。もう一度お試しください。",
+    "MOD_EXPORT_CLOSE": "近い",
+    "MOD_EXPORT_MANAGE_LINK": "輸出を管理する",
+    "MOD_EXPORT_JOB_NAME": "モデレーションエクスポート"
 }

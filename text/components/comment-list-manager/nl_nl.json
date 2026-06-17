@@ -201,5 +201,21 @@
     "COMMENT_LIST_ACTION_LOCKING_PLURAL": "Vergrendelen van [count] reacties",
     "COMMENT_LIST_ACTION_UNLOCKING_PLURAL": "Het ontgrendelen van [count] reacties",
     "COMMENT_LIST_ACTION_UNLOCKED_PLURAL": "Ontgrendelde [count] reacties",
-    "KB_SHORTCUTS_VIEW_BUTTON": "Toetsencombinaties bekijken"
+    "KB_SHORTCUTS_VIEW_BUTTON": "Toetsencombinaties bekijken",
+    "MOD_EXPORT_BUTTON": "Download",
+    "MOD_EXPORT_CONFIRM_TITLE": "Exporteer opmerkingen?",
+    "MOD_EXPORT_CONFIRM_BUTTON": "Export starten",
+    "MOD_EXPORT_PROGRESS_LABEL": "[count] van [total] reacties geëxporteerd",
+    "MOD_EXPORT_STATUS_SUCCESS": "Je export is klaar.",
+    "MOD_EXPORT_DIALOG_TITLE": "Reacties exporteren",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "Gegevens beheren -> Exporteren",
+    "MOD_EXPORT_STATUS_FAILED": "Sorry, het exporteren is mislukt. Probeer het opnieuw.",
+    "MOD_EXPORT_CONFIRM_BODY": "Hiermee worden [count] reacties die overeenkomen met uw huidige filters geëxporteerd naar een CSV-bestand. We bereiden het op de achtergrond voor en u kunt het hier of via [manageDataLink] downloaden zodra het klaar is.",
+    "MOD_EXPORT_STATUS_QUEUED": "Uw export staat in de wachtrij en zal binnenkort starten. U kunt dit venster sluiten en er later weer naar terugkeren via [manageDataLink].",
+    "MOD_EXPORT_STATUS_RUNNING": "Je reacties exporteren...",
+    "MOD_EXPORT_DOWNLOAD_LINK": "CSV downloaden",
+    "MOD_EXPORT_CLOSE": "Dichtbij",
+    "MOD_EXPORT_MANAGE_LINK": "Beheer uw export",
+    "MOD_EXPORT_START_FAILED": "De export kon niet worden gestart. Probeer het opnieuw.",
+    "MOD_EXPORT_JOB_NAME": "Moderatie-export"
 }

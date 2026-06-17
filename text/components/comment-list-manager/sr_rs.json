@@ -201,5 +201,21 @@
     "COMMENT_LIST_ACTION_UNLOCKING_PLURAL": "Откључавање [count] коментара",
     "COMMENT_LIST_ACTION_LOCKED_PLURAL": "Закључани [count] коментари",
     "COMMENT_LIST_ACTION_UNLOCKED_PLURAL": "Откључано [count] коментара",
-    "KB_SHORTCUTS_VIEW_BUTTON": "Прикажи пречице тастера"
+    "KB_SHORTCUTS_VIEW_BUTTON": "Прикажи пречице тастера",
+    "MOD_EXPORT_BUTTON": "Преузми",
+    "MOD_EXPORT_CONFIRM_TITLE": "Извоз коментара?",
+    "MOD_EXPORT_CONFIRM_BUTTON": "Покрени извоз",
+    "MOD_EXPORT_CONFIRM_BODY": "Овим ће се извести [count] коментара који одговарају вашим тренутним филтерима у CSV датотеку. Припремићемо је у позадини, а можете је преузети овде или са [manageDataLink] када буде спремна.",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "Управљање подацима -> Извоз",
+    "MOD_EXPORT_DIALOG_TITLE": "Извоз коментара",
+    "MOD_EXPORT_STATUS_FAILED": "Жао нам је, извоз није успео. Молимо покушајте поново.",
+    "MOD_EXPORT_PROGRESS_LABEL": "[count] од [total] коментара извезено",
+    "MOD_EXPORT_STATUS_RUNNING": "Извоз ваших коментара...",
+    "MOD_EXPORT_STATUS_SUCCESS": "Ваш извоз је спреман.",
+    "MOD_EXPORT_CLOSE": "Затвори",
+    "MOD_EXPORT_STATUS_QUEUED": "Ваш извоз је у реду чекања и ускоро ће почети. Можете затворити овај прозор и вратити се на њега из [manageDataLink].",
+    "MOD_EXPORT_MANAGE_LINK": "Управљајте својим извозом",
+    "MOD_EXPORT_DOWNLOAD_LINK": "Преузми CSV датотеку",
+    "MOD_EXPORT_START_FAILED": "Није могуће покренути извоз. Молимо покушајте поново.",
+    "MOD_EXPORT_JOB_NAME": "Извоз модерације"
 }

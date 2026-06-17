@@ -201,5 +201,21 @@
     "COMMENT_LIST_ACTION_UNLOCKED_PLURAL": "Kilidi açılmış [count] yorumlar",
     "COMMENT_LIST_ACTION_LOCKED_PLURAL": "Kilitli [count] yorumlar",
     "COMMENT_LIST_ACTION_LOCKING_PLURAL": "Yorumları kilitleme [count]",
-    "KB_SHORTCUTS_VIEW_BUTTON": "Tuş atamalarını görüntüle"
+    "KB_SHORTCUTS_VIEW_BUTTON": "Tuş atamalarını görüntüle",
+    "MOD_EXPORT_BUTTON": "İndirmek",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "Verileri Yönet -> Dışa Aktar",
+    "MOD_EXPORT_CONFIRM_BUTTON": "Dışa Aktarmayı Başlat",
+    "MOD_EXPORT_CONFIRM_TITLE": "Yorumları dışa aktar?",
+    "MOD_EXPORT_CONFIRM_BODY": "Bu işlem, mevcut filtrelerinize uyan [count] yorumu bir CSV dosyasına aktaracaktır. Dosyayı arka planda hazırlayacağız ve hazır olduğunda buradan veya [manageDataLink] adresinden indirebilirsiniz.",
+    "MOD_EXPORT_DIALOG_TITLE": "Yorumları dışa aktarma",
+    "MOD_EXPORT_STATUS_QUEUED": "Dışa aktarma işleminiz sıraya alındı ve kısa süre içinde başlayacak. Bu pencereyi kapatabilir ve [manageDataLink] adresinden geri dönebilirsiniz.",
+    "MOD_EXPORT_STATUS_SUCCESS": "Dışa aktarma işleminiz hazır.",
+    "MOD_EXPORT_STATUS_FAILED": "Üzgünüz, dışa aktarma başarısız oldu. Lütfen tekrar deneyin.",
+    "MOD_EXPORT_STATUS_RUNNING": "Yorumlarınız dışa aktarılıyor...",
+    "MOD_EXPORT_PROGRESS_LABEL": "[count] yorumdan [total] tanesi dışa aktarıldı",
+    "MOD_EXPORT_DOWNLOAD_LINK": "CSV dosyasını indir",
+    "MOD_EXPORT_START_FAILED": "Dışa aktarma işlemi başlatılamadı. Lütfen tekrar deneyin.",
+    "MOD_EXPORT_MANAGE_LINK": "İhracatınızı yönetin",
+    "MOD_EXPORT_CLOSE": "Kapalı",
+    "MOD_EXPORT_JOB_NAME": "Moderasyon ihracatı"
 }

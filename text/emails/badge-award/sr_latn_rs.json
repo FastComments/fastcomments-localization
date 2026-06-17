@@ -1,11 +1,11 @@
 {
-  "INTRO": "Hej <%= username %>, zaradili ste novu značku na <strong><%= siteDomain %></strong>!",
-  "CONGRATULATIONS": "Čestitam!",
-  "BANNER_TEXT": "Nova značka zarađena",
-  "FROM_NAME": "FastComments Robot",
-  "SUBJECT": "Zaradili ste značku \"<%= badge.displayLabel %>\"!",
-  "BADGE_EARNED_MESSAGE": "Uspešno ste zaradili <strong>značku <%= badge.displayLabel %></strong>.",
-  "KEEP_UP_GOOD_WORK": "Nastavite sa sjajnim radom!",
-  "UNSUBSCRIBE_HERE": "Odjavite se od obaveštenja o značkama",
-  "VIEW_YOUR_PROFILE": "Pogledaj svoj profil"
+    "INTRO": "Hej <%= username %>, zaradili ste novu značku na <strong><%= siteDomain %></strong>!",
+    "CONGRATULATIONS": "Čestitam!",
+    "BANNER_TEXT": "Nova značka zarađena",
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "Zaradili ste značku \"<%= badge.displayLabel %>\"!",
+    "BADGE_EARNED_MESSAGE": "Uspešno ste zaradili <strong>značku <%= badge.displayLabel %></strong>.",
+    "KEEP_UP_GOOD_WORK": "Nastavite sa sjajnim radom!",
+    "UNSUBSCRIBE_HERE": "Odjavite se od obaveštenja o značkama",
+    "VIEW_YOUR_PROFILE": "Pogledaj svoj profil"
 }

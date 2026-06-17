@@ -201,5 +201,21 @@
     "COMMENT_LIST_ACTION_LOCKED_PLURAL": "잠긴 [count] 댓글",
     "COMMENT_LIST_ACTION_LOCKING_PLURAL": "잠금 [count] 댓글",
     "COMMENT_LIST_ACTION_UNLOCKED_PLURAL": "잠금 해제됨 [count] 댓글",
-    "KB_SHORTCUTS_VIEW_BUTTON": "키 바인딩 보기"
+    "KB_SHORTCUTS_VIEW_BUTTON": "키 바인딩 보기",
+    "MOD_EXPORT_BUTTON": "다운로드",
+    "MOD_EXPORT_CONFIRM_TITLE": "내보내기 관련 의견이 있으신가요?",
+    "MOD_EXPORT_CONFIRM_BUTTON": "내보내기 시작",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "데이터 관리 -> 내보내기",
+    "MOD_EXPORT_STATUS_QUEUED": "내보내기 작업이 대기열에 추가되었으며 곧 시작됩니다. 이 창을 닫고 [manageDataLink]에서 다시 열 수 있습니다.",
+    "MOD_EXPORT_CONFIRM_BODY": "이 기능을 사용하면 현재 필터와 일치하는 댓글이 [count]개만 CSV 파일로 내보내집니다. 파일은 백그라운드에서 준비되며, 완료되면 여기 또는 [manageDataLink]에서 다운로드할 수 있습니다.",
+    "MOD_EXPORT_DIALOG_TITLE": "댓글 내보내기",
+    "MOD_EXPORT_PROGRESS_LABEL": "[count]개 댓글 중 [total]개 댓글이 내보내졌습니다.",
+    "MOD_EXPORT_STATUS_SUCCESS": "내보내기가 완료되었습니다.",
+    "MOD_EXPORT_DOWNLOAD_LINK": "CSV 다운로드",
+    "MOD_EXPORT_CLOSE": "닫다",
+    "MOD_EXPORT_MANAGE_LINK": "수출 관리",
+    "MOD_EXPORT_JOB_NAME": "중재 내보내기",
+    "MOD_EXPORT_START_FAILED": "내보내기를 시작할 수 없습니다. 다시 시도해 주세요.",
+    "MOD_EXPORT_STATUS_FAILED": "죄송합니다. 내보내기에 실패했습니다. 다시 시도해 주세요.",
+    "MOD_EXPORT_STATUS_RUNNING": "댓글을 내보내는 중..."
 }

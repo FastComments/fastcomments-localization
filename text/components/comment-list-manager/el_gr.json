@@ -201,5 +201,21 @@
     "COMMENT_LIST_ACTION_UNLOCKED": "Ξεκλείδωσε ένα σχόλιο",
     "MOD_ACTION_LOCK_SELECTED": "Κλείδωμα επιλεγμένων",
     "COMMENT_LIST_ACTION_LOCKED": "Κλείδωσε ένα σχόλιο",
-    "KB_SHORTCUTS_VIEW_BUTTON": "Προβολή συνδυασμών πλήκτρων"
+    "KB_SHORTCUTS_VIEW_BUTTON": "Προβολή συνδυασμών πλήκτρων",
+    "MOD_EXPORT_BUTTON": "Λήψη",
+    "MOD_EXPORT_CONFIRM_TITLE": "Εξαγωγή σχολίων;",
+    "MOD_EXPORT_CONFIRM_BUTTON": "Έναρξη εξαγωγής",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "Διαχείριση δεδομένων -> Εξαγωγή",
+    "MOD_EXPORT_CONFIRM_BODY": "Αυτό θα εξαγάγει [count] σχόλια που ταιριάζουν με τα τρέχοντα φίλτρα σας σε ένα αρχείο CSV. Θα το προετοιμάσουμε στο παρασκήνιο και μπορείτε να το κατεβάσετε εδώ ή από [manageDataLink] όταν είναι έτοιμο.",
+    "MOD_EXPORT_DIALOG_TITLE": "Εξαγωγή σχολίων",
+    "MOD_EXPORT_STATUS_RUNNING": "Εξαγωγή των σχολίων σας...",
+    "MOD_EXPORT_PROGRESS_LABEL": "[count] από [total] σχόλια που εξήχθησαν",
+    "MOD_EXPORT_STATUS_QUEUED": "Η εξαγωγή σας έχει τοποθετηθεί στην ουρά και θα ξεκινήσει σύντομα. Μπορείτε να κλείσετε αυτό το παράθυρο και να επιστρέψετε σε αυτό από [manageDataLink].",
+    "MOD_EXPORT_STATUS_SUCCESS": "Η εξαγωγή σας είναι έτοιμη.",
+    "MOD_EXPORT_DOWNLOAD_LINK": "Λήψη CSV",
+    "MOD_EXPORT_CLOSE": "Κοντά",
+    "MOD_EXPORT_MANAGE_LINK": "Διαχειριστείτε τις εξαγωγές σας",
+    "MOD_EXPORT_START_FAILED": "Δεν ήταν δυνατή η έναρξη της εξαγωγής. Δοκιμάστε ξανά.",
+    "MOD_EXPORT_STATUS_FAILED": "Λυπούμαστε, η εξαγωγή απέτυχε. Δοκιμάστε ξανά.",
+    "MOD_EXPORT_JOB_NAME": "Εξαγωγή εποπτείας"
 }

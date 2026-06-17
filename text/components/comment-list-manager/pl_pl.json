@@ -201,5 +201,21 @@
     "COMMENT_LIST_ACTION_LOCKED_PLURAL": "Zablokowano [count] komentarzy",
     "COMMENT_LIST_ACTION_UNLOCKED_PLURAL": "Odblokowano [count] komentarzy",
     "COMMENT_LIST_ACTION_UNLOCKING_PLURAL": "Odblokowywanie [count] komentarzy",
-    "KB_SHORTCUTS_VIEW_BUTTON": "Wyświetl skróty klawiszowe"
+    "KB_SHORTCUTS_VIEW_BUTTON": "Wyświetl skróty klawiszowe",
+    "MOD_EXPORT_BUTTON": "Pobierać",
+    "MOD_EXPORT_CONFIRM_TITLE": "Eksportować komentarze?",
+    "MOD_EXPORT_CONFIRM_BUTTON": "Rozpocznij eksport",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "Zarządzaj danymi -> Eksportuj",
+    "MOD_EXPORT_CONFIRM_BODY": "Spowoduje to wyeksportowanie [count] komentarzy zgodnych z Twoimi aktualnymi filtrami do pliku CSV. Przygotujemy go w tle i możesz go pobrać tutaj lub z [manageDataLink], gdy będzie gotowy.",
+    "MOD_EXPORT_STATUS_FAILED": "Przepraszamy, eksport nie powiódł się. Spróbuj ponownie.",
+    "MOD_EXPORT_STATUS_RUNNING": "Eksportowanie komentarzy...",
+    "MOD_EXPORT_PROGRESS_LABEL": "[count] z [total] komentarzy wyeksportowano",
+    "MOD_EXPORT_DIALOG_TITLE": "Eksportowanie komentarzy",
+    "MOD_EXPORT_STATUS_SUCCESS": "Twój eksport jest gotowy.",
+    "MOD_EXPORT_STATUS_QUEUED": "Twój eksport jest w kolejce i wkrótce się rozpocznie. Możesz zamknąć to okno i wrócić do niego z [manageDataLink].",
+    "MOD_EXPORT_START_FAILED": "Nie można rozpocząć eksportu. Spróbuj ponownie.",
+    "MOD_EXPORT_DOWNLOAD_LINK": "Pobierz plik CSV",
+    "MOD_EXPORT_CLOSE": "Zamknąć",
+    "MOD_EXPORT_MANAGE_LINK": "Zarządzaj swoimi eksportami",
+    "MOD_EXPORT_JOB_NAME": "Eksport moderacji"
 }

@@ -201,5 +201,21 @@
     "COMMENT_LIST_ACTION_UNLOCKED_PLURAL": "Låste [count] kommentarer op",
     "COMMENT_LIST_ACTION_LOCKED_PLURAL": "Låste [count] kommentarer",
     "COMMENT_LIST_ACTION_UNLOCKING_PLURAL": "Låser op for [count] kommentarer",
-    "KB_SHORTCUTS_VIEW_BUTTON": "Vis tastaturgenveje"
+    "KB_SHORTCUTS_VIEW_BUTTON": "Vis tastaturgenveje",
+    "MOD_EXPORT_BUTTON": "Download",
+    "MOD_EXPORT_CONFIRM_BODY": "Dette vil eksportere [count] kommentarer, der matcher dine nuværende filtre, til en CSV-fil. Vi forbereder den i baggrunden, og du kan downloade den her eller fra [manageDataLink], når den er klar.",
+    "MOD_EXPORT_CONFIRM_BUTTON": "Start eksport",
+    "MOD_EXPORT_CONFIRM_TITLE": "Eksportér kommentarer?",
+    "MOD_EXPORT_STATUS_QUEUED": "Din eksport er sat i kø og vil snart begynde. Du kan lukke dette vindue og vende tilbage til det fra [manageDataLink].",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "Administrer data -> Eksporter",
+    "MOD_EXPORT_DIALOG_TITLE": "Eksport af kommentarer",
+    "MOD_EXPORT_PROGRESS_LABEL": "[count] af [total] kommentarer eksporteret",
+    "MOD_EXPORT_STATUS_RUNNING": "Eksporterer dine kommentarer...",
+    "MOD_EXPORT_STATUS_SUCCESS": "Din eksport er klar.",
+    "MOD_EXPORT_STATUS_FAILED": "Beklager, eksporten mislykkedes. Prøv igen.",
+    "MOD_EXPORT_CLOSE": "Tæt",
+    "MOD_EXPORT_JOB_NAME": "Moderationseksport",
+    "MOD_EXPORT_MANAGE_LINK": "Administrer dine eksportvarer",
+    "MOD_EXPORT_START_FAILED": "Eksporten kunne ikke startes. Prøv igen.",
+    "MOD_EXPORT_DOWNLOAD_LINK": "Download CSV-fil"
 }

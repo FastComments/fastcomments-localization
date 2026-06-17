@@ -201,5 +201,21 @@
     "COMMENT_LIST_ACTION_LOCKING_PLURAL": "Zaključavanje [count] komentara",
     "COMMENT_LIST_ACTION_LOCKED_PLURAL": "Zaključani [count] komentari",
     "COMMENT_LIST_ACTION_UNLOCKED_PLURAL": "Otključano [count] komentara",
-    "KB_SHORTCUTS_VIEW_BUTTON": "Prikaži kombinacije tipki"
+    "KB_SHORTCUTS_VIEW_BUTTON": "Prikaži kombinacije tipki",
+    "MOD_EXPORT_BUTTON": "Preuzmi",
+    "MOD_EXPORT_CONFIRM_TITLE": "Izvoz komentara?",
+    "MOD_EXPORT_CONFIRM_BODY": "Ovim će se izvesti [count] komentara koji odgovaraju vašim trenutnim filterima u CSV datoteku. Pripremit ćemo je u pozadini, a možete je preuzeti ovdje ili s [manageDataLink] kada bude spremna.",
+    "MOD_EXPORT_DIALOG_TITLE": "Izvoz komentara",
+    "MOD_EXPORT_PROGRESS_LABEL": "[count] od [total] komentara izvezeno",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "Upravljanje podacima -> Izvoz",
+    "MOD_EXPORT_STATUS_RUNNING": "Izvoz vaših komentara...",
+    "MOD_EXPORT_CONFIRM_BUTTON": "Započni izvoz",
+    "MOD_EXPORT_START_FAILED": "Nije moguće pokrenuti izvoz. Pokušajte ponovno.",
+    "MOD_EXPORT_STATUS_SUCCESS": "Vaš izvoz je spreman.",
+    "MOD_EXPORT_STATUS_FAILED": "Žao nam je, izvoz nije uspio. Pokušajte ponovno.",
+    "MOD_EXPORT_DOWNLOAD_LINK": "Preuzmi CSV",
+    "MOD_EXPORT_STATUS_QUEUED": "Vaš je izvoz u redu čekanja i uskoro će započeti. Možete zatvoriti ovaj prozor i vratiti se na njega iz [manageDataLink].",
+    "MOD_EXPORT_CLOSE": "Zatvoriti",
+    "MOD_EXPORT_JOB_NAME": "Izvoz moderiranja",
+    "MOD_EXPORT_MANAGE_LINK": "Upravljajte svojim izvozima"
 }

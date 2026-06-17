@@ -201,5 +201,21 @@
     "COMMENT_LIST_ACTION_UNLOCKING_PLURAL": "Déverrouillage des commentaires [count]",
     "COMMENT_LIST_ACTION_LOCKING_PLURAL": "Verrouillage des commentaires [count]",
     "COMMENT_LIST_ACTION_LOCKED_PLURAL": "Commentaires verrouillés [count]",
-    "KB_SHORTCUTS_VIEW_BUTTON": "Afficher les raccourcis clavier"
+    "KB_SHORTCUTS_VIEW_BUTTON": "Afficher les raccourcis clavier",
+    "MOD_EXPORT_BUTTON": "Télécharger",
+    "MOD_EXPORT_CONFIRM_BODY": "Cette action exportera [count] commentaires correspondant à vos filtres actuels dans un fichier CSV. Nous le préparerons en arrière-plan et vous pourrez le télécharger ici ou depuis [manageDataLink] une fois prêt.",
+    "MOD_EXPORT_CONFIRM_BUTTON": "Lancer l'exportation",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "Gérer les données -> Exporter",
+    "MOD_EXPORT_CONFIRM_TITLE": "Exporter les commentaires ?",
+    "MOD_EXPORT_DIALOG_TITLE": "Exporter les commentaires",
+    "MOD_EXPORT_PROGRESS_LABEL": "[count] des [total] commentaires exportés",
+    "MOD_EXPORT_STATUS_RUNNING": "Exportation de vos commentaires...",
+    "MOD_EXPORT_STATUS_QUEUED": "Votre exportation est en attente et commencera sous peu. Vous pouvez fermer cette fenêtre et y revenir depuis [manageDataLink].",
+    "MOD_EXPORT_STATUS_FAILED": "Désolé, l'exportation a échoué. Veuillez réessayer.",
+    "MOD_EXPORT_CLOSE": "Fermer",
+    "MOD_EXPORT_STATUS_SUCCESS": "Votre exportation est prête.",
+    "MOD_EXPORT_DOWNLOAD_LINK": "Télécharger le fichier CSV",
+    "MOD_EXPORT_MANAGE_LINK": "Gérez vos exportations",
+    "MOD_EXPORT_JOB_NAME": "Exportation de la modération",
+    "MOD_EXPORT_START_FAILED": "L'exportation n'a pas pu démarrer. Veuillez réessayer."
 }

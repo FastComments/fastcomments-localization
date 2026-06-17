@@ -201,5 +201,21 @@
     "COMMENT_LIST_ACTION_UNLOCKING_PLURAL": "Odklepanje [count] komentarjev",
     "COMMENT_LIST_ACTION_UNLOCKED_PLURAL": "Odklenjenih [count] komentarjev",
     "MOD_ACTION_LOCK_SELECTED": "Zakleni izbrano",
-    "KB_SHORTCUTS_VIEW_BUTTON": "Ogled tipkovnih povezav"
+    "KB_SHORTCUTS_VIEW_BUTTON": "Ogled tipkovnih povezav",
+    "MOD_EXPORT_BUTTON": "Prenesi",
+    "MOD_EXPORT_CONFIRM_BODY": "S tem boste izvozili [count] komentarjev, ki ustrezajo vašim trenutnim filtrom, v datoteko CSV. Pripravili jo bomo v ozadju in jo lahko prenesete tukaj ali z [manageDataLink], ko bo pripravljena.",
+    "MOD_EXPORT_CONFIRM_BUTTON": "Začni izvoz",
+    "MOD_EXPORT_CONFIRM_TITLE": "Izvozi komentarje?",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "Upravljanje podatkov -> Izvoz",
+    "MOD_EXPORT_DIALOG_TITLE": "Izvoz komentarjev",
+    "MOD_EXPORT_STATUS_QUEUED": "Vaš izvoz je v čakalni vrsti in se bo kmalu začel. To okno lahko zaprete in se vanj vrnete iz [manageDataLink].",
+    "MOD_EXPORT_STATUS_FAILED": "Izvoz ni uspel. Poskusite znova.",
+    "MOD_EXPORT_START_FAILED": "Izvoza ni bilo mogoče začeti. Poskusite znova.",
+    "MOD_EXPORT_STATUS_RUNNING": "Izvoz vaših komentarjev ...",
+    "MOD_EXPORT_STATUS_SUCCESS": "Vaš izvoz je pripravljen.",
+    "MOD_EXPORT_DOWNLOAD_LINK": "Prenesi CSV",
+    "MOD_EXPORT_PROGRESS_LABEL": "Izvoženih [count] od [total] komentarjev",
+    "MOD_EXPORT_CLOSE": "Zapri",
+    "MOD_EXPORT_MANAGE_LINK": "Upravljajte svoje izvoze",
+    "MOD_EXPORT_JOB_NAME": "Izvoz moderiranja"
 }

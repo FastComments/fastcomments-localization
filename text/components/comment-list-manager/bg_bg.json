@@ -212,5 +212,10 @@
     "KB_SHORTCUT_PREV_PAGE": "Предишна страница",
     "KB_SHORTCUT_NEXT_PAGE": "Следваща страница",
     "MOD_NEW_COMMENTS_AVAILABLE": "нови коментари отговарят на вашите филтри",
-    "MOD_NEW_COMMENTS_LOAD": "Кликнете, за да покажете"
+    "MOD_NEW_COMMENTS_LOAD": "Кликнете, за да покажете",
+    "MOD_EXPORT_CONFIRM_BUTTON": "Стартиране на експортиране",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "Управление на данни -> Експортиране",
+    "MOD_EXPORT_PROGRESS_LABEL": "[count] от [total] коментари, експортирани",
+    "MOD_EXPORT_CONFIRM_TITLE": "Експортиране на коментари?",
+    "MOD_EXPORT_CONFIRM_BODY": "Това ще експортира [count] коментари, съответстващи на текущите ви филтри, в CSV файл. Ще го подготвим във фонов режим и можете да го изтеглите тук или от [manageDataLink], когато е готов."
 }

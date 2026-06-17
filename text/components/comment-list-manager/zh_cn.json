@@ -201,5 +201,21 @@
     "COMMENT_LIST_ACTION_LOCKED_PLURAL": "已锁定[count]评论",
     "COMMENT_LIST_ACTION_UNLOCKING_PLURAL": "解锁[count]评论",
     "COMMENT_LIST_ACTION_UNLOCKED_PLURAL": "已解锁[count]评论",
-    "KB_SHORTCUTS_VIEW_BUTTON": "查看快捷键绑定"
+    "KB_SHORTCUTS_VIEW_BUTTON": "查看快捷键绑定",
+    "MOD_EXPORT_BUTTON": "下载",
+    "MOD_EXPORT_CONFIRM_TITLE": "导出评论？",
+    "MOD_EXPORT_CONFIRM_BUTTON": "开始导出",
+    "MOD_EXPORT_MANAGE_DATA_LINK_TEXT": "管理数据 -> 导出",
+    "MOD_EXPORT_CONFIRM_BODY": "这将把符合您当前筛选条件的[count]条评论导出到CSV文件。我们会在后台准备该文件，完成后您可以从这里或[manageDataLink]下载。",
+    "MOD_EXPORT_DOWNLOAD_LINK": "下载 CSV 文件",
+    "MOD_EXPORT_STATUS_FAILED": "抱歉，导出失败，请重试。",
+    "MOD_EXPORT_DIALOG_TITLE": "导出评论",
+    "MOD_EXPORT_CLOSE": "关闭",
+    "MOD_EXPORT_STATUS_SUCCESS": "您的导出文件已准备就绪。",
+    "MOD_EXPORT_MANAGE_LINK": "管理您的导出",
+    "MOD_EXPORT_STATUS_RUNNING": "正在导出您的评论……",
+    "MOD_EXPORT_START_FAILED": "导出失败，请重试。",
+    "MOD_EXPORT_STATUS_QUEUED": "您的导出操作已加入队列，即将开始。您可以关闭此窗口，稍后从[manageDataLink]返回。",
+    "MOD_EXPORT_PROGRESS_LABEL": "已导出 [count] 共 [total] 条评论",
+    "MOD_EXPORT_JOB_NAME": "审核导出"
 }
