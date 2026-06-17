@@ -6,7 +6,7 @@
     "ATTEMPTS_REMAINING": "Остават <%= 5 - session.attempts %> опити",
     "LABEL_METHOD_SELECT": "Изберете метод за проверка:",
     "METHOD_AUTHENTICATOR": "Приложение за удостоверяване",
-    "METHOD_SMS": "СМС",
+    "METHOD_SMS": "SMS",
     "AUTHENTICATOR_INSTRUCTION": "Въведете 6-цифрения код от приложението си за удостоверяване",
     "SMS_INSTRUCTION": "Изпратихме код до <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>",
     "LABEL_VERIFICATION_CODE": "Код за потвърждение",

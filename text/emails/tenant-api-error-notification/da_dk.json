@@ -7,8 +7,8 @@
     "SUBJECT": "FastComments API-fejl opdaget",
     "TENANT_NOTE": "Dette vedrører lejer med id'et \"<%= tenantId %>\".",
     "SIGN_OFF": "Med venlig hilsen,",
-    "DETECTION": "Vi registrerede <%= errorCountFormatted %> API <%= errorWord %> for din konto på dagen den <%= errorDate %>.",
+    "DETECTION": "Vi registrerede <%= errorCountFormatted %> API-<%= errorWord %> for din konto den <%= errorDate %>.",
     "EXPLANATION": "Disse fejl opstod under kald af vores platform. Vi foreslår, at du tjekker logfiler for eventuelle brugerdefinerede API-integrationer med FastComments for fejl.",
     "TEAM_NAME": "FastComments' ingeniørteam",
-    "OPT_OUT": "Du kan fravælge disse notifikationer <a href=\"<%= notificationSettingsUrl %>\">her</a> ."
+    "OPT_OUT": "Du kan fravælge disse notifikationer <a href=\"<%= notificationSettingsUrl %>\">her</a>."
 }

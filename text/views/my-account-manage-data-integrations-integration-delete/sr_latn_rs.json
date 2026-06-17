@@ -1,8 +1,8 @@
 {
-    "PAGE_TITLE": "Izbriši integraciju token - FastComments",
+    "PAGE_TITLE": "Izbriši token za integraciju - FastComments",
     "HEADING": "Izbriši token za integraciju",
-    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "Da li ste sigurni da želite da izbrišete ovaj <%= integration.readableType %> integracije token?",
-    "CONFIRM_DELETE_MESSAGE_DOMAIN": "Da li ste sigurni da želite da izbrišete ovaj <%= integration.readableType %> integracije token for <%= integration.domain %>?",
-    "DELETE_BUTTON": "Izbrisati",
-    "CANCEL_LINK": "Pretraživanje"
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "Da li ste sigurni da želite da izbrišete ovaj <%= integration.readableType %> token za integraciju?",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "Da li ste sigurni da želite da izbrišete ovaj <%= integration.readableType %> token za integraciju za <%= integration.domain %>?",
+    "DELETE_BUTTON": "Izbriši",
+    "CANCEL_LINK": "Otkaži"
 }

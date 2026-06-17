@@ -3,6 +3,6 @@
     "HEADING_COMMENTS_SPAM_TRAINING_SET": "Σετ εκπαίδευσης για ανεπιθύμητα σχόλια",
     "TEXT_CURRENT_CLASSIFICATION": "Τρέχουσα ταξινόμηση: <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
     "BUTTON_UNCLASSIFY": "Αποταξινόμηση",
-    "BUTTON_SPAM": "Ανεπιθύμητα μηνύματα",
+    "BUTTON_SPAM": "Ανεπιθύμητο",
     "BUTTON_NOT_SPAM": "Δεν είναι ανεπιθύμητο"
 }

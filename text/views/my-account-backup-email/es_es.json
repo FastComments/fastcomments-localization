@@ -8,7 +8,7 @@
     "BACKUP_EMAIL_PENDING_VERIFICATION": "Este correo electrónico de respaldo está pendiente de verificación.",
     "RESEND_VERIFICATION": "Reenviar correo electrónico de verificación.",
     "REMOVE_BACKUP_EMAIL": "Eliminar el correo electrónico de respaldo",
-    "BACKUP_EMAIL_VERIFIED_SUCCESS": "¡Éxito! Tu correo electrónico de respaldo ha sido verificado.",
+    "BACKUP_EMAIL_VERIFIED_SUCCESS": "¡Listo! Su correo electrónico de respaldo se ha verificado.",
     "BACKUP_EMAIL_REMOVED_SUCCESS": "Se ha eliminado el correo electrónico de respaldo.",
     "VERIFICATION_EMAIL_SENT": "¡Correo de verificación enviado! Revisa tu bandeja de entrada en <%- user.pendingBackupEmail %> para obtener un enlace para completar el proceso.",
     "ERROR_BACKUP_EMAIL_SAME_AS_PRIMARY": "El correo electrónico de respaldo no puede ser el mismo que su correo electrónico principal.",

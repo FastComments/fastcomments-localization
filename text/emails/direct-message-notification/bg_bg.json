@@ -2,6 +2,6 @@
     "SUBJECT": "Ново съобщение от <%= comment.commenterName %>",
     "INTRO": "Хей <%= targetUser.username %>,",
     "YOU_HAVE_A_NEW_MESSAGE": "Получихте ново съобщение, показано по-долу. Можете да отговорите, като отговорите на този имейл или щракнете върху бутона по-долу.",
-    "GO_TO_CONVERSATION": "Отидете на Разговор",
+    "GO_TO_CONVERSATION": "Към разговора",
     "UNSUBSCRIBE_HERE": "Отпишете се от известията тук."
 }

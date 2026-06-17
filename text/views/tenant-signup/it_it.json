@@ -1,7 +1,7 @@
 {
     "PAGE_TITLE": "Configurazione nuovo inquilino",
-    "HERO_TITLE_LIGHT": "Quasi  ",
-    "HERO_TITLE_BOLD": "Là",
+    "HERO_TITLE_LIGHT": "Ci siamo ",
+    "HERO_TITLE_BOLD": "quasi",
     "HERO_DESCRIPTION": "FastComments fornisce il sistema di commenti più veloce da configurare e utilizzare sia per le aziende che per gli utenti, e sei sulla buona strada per una <u>prova gratuita di 30 giorni</u> .",
     "NOT_WEBSITE_LINK_TEXT": "Se non vuoi aggiungere FastComments a un sito web, dovresti registrarti <a href=\"/auth/commenter-signup?email=<%= email %>\">qui.</a>",
     "FORM_DESCRIPTION": "Ora abbiamo solo bisogno di alcune informazioni di base, dopodiché potrai iniziare a installare FastComments.",
@@ -15,6 +15,6 @@
     "LABEL_WEBSITES": "*Sito web:",
     "DOMAINS_DESCRIPTION": "Non è necessario inserire sottodomini o localhost. Per più siti, separarli con virgole.",
     "TOS_TEXT": "Facendo clic su Crea account, accetti i <a href=\"/terms-of-service\" target=\"_blank\">Termini di servizio</a> .",
-    "BUTTON_CREATE_ACCOUNT": "Creare un account",
+    "BUTTON_CREATE_ACCOUNT": "Crea account",
     "ERROR_SIGNUP_ALREADY_STARTED": "La procedura di registrazione è già stata avviata e non è possibile inviarla nuovamente. Forse hai aggiornato la pagina?"
 }

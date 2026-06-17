@@ -14,13 +14,13 @@
     "PLACEHOLDER_DISPLAY_NAME": "Inserisci un nome personalizzato da utilizzare per identificare questo modello.",
     "TEXT_DISPLAY_NAME_NOTE": "Il nome con cui gli amministratori possono fare riferimento a questo modello.",
     "LABEL_DOMAIN": "Dominio",
-    "OPTION_ALL_DOMAINS": "Tutto",
+    "OPTION_ALL_DOMAINS": "Tutti",
     "TEXT_DOMAIN_NOTE_CAN_BE_SPECIFIC": "Il modello verrà utilizzato solo nel contesto di questo dominio. In caso contrario, verrà scelto un altro modello, oppure quello predefinito.",
     "TEXT_DOMAIN_NOTE_CANNOT_BE_SPECIFIC": "Questo modello potrebbe essere visualizzato nel contesto di più domini contemporaneamente (ad esempio, più commenti nella stessa notifica email) oppure potrebbe non essere visualizzato affatto nel contesto di un dominio. <span class=\"red\">Per questo motivo, questo modello non può essere specifico di un dominio.</span>",
     "TEXT_LOCALIZATIONS_INFO": "Le traduzioni sono personalizzate in base alla lingua locale, poiché gli utenti possono commentare e parlare in lingue diverse. Seleziona la lingua per cui desideri personalizzare le traduzioni.",
-    "TEXT_CUSTOMIZE_FROM_NAME_EMAIL": "Vuoi personalizzare il <b>nome e l&#39;email del mittente</b> ? Fallo <a href=\"/auth/my-account/configure-domains\">qui</a> .",
+    "TEXT_CUSTOMIZE_FROM_NAME_EMAIL": "Vuoi personalizzare il <b>nome e l&#39;email del mittente</b>? Fallo <a href=\"/auth/my-account/configure-domains\">qui</a>.",
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Personalizza per locale",
     "TEXT_TEST_DATA_INFO": "Qui puoi definire i dati di test personalizzati da utilizzare nell'anteprima. Questi dati vengono salvati insieme al modello.",
-    "BUTTON_RESET_TEST_DATA": "Reset",
+    "BUTTON_RESET_TEST_DATA": "Reimposta",
     "BUTTON_SAVE": "Salva"
 }

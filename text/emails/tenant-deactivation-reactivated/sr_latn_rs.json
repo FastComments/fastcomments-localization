@@ -1,7 +1,7 @@
 {
-    "INTRO": "Hej<%= username %>",
-    "FROM_NAME": "Robot za brze snommente",
-    "SUBJECT": "Vaš zakupac fastComments-a je ponovo aktiviran!",
+    "INTRO": "Zdravo <%= username %>,",
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "Vaš FastComments nalog je ponovo aktiviran!",
     "DETAILS_LINE_ONE": "Ovo je automatizovana e-pošta. Vidimo da ste ažurirali informacije o naplati.",
-    "DETAILS_LINE_TWO": "Tvoj stanar je ponovo aktiviran. Hvala vam na poslu!"
+    "DETAILS_LINE_TWO": "Vaš nalog je ponovo aktiviran. Hvala vam na saradnji!"
 }

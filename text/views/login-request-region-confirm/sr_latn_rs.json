@@ -4,8 +4,8 @@
     "HERO_TITLE_BOLD": "<%= otherRegionName %>",
     "HERO_DESCRIPTION": "Imate nalog na <a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a> - da li želite da se prijavite tamo umesto toga?",
     "INFO_MESSAGE_BOLD": "Imate nalog u našem drugom centru za podatke.",
-    "INFO_MESSAGE_QUESTION": "Preusmeravanje na tamo?",
+    "INFO_MESSAGE_QUESTION": "Da preusmerimo tamo?",
     "INFO_MESSAGE_WARNING": "Ako ne preusmerite, mi ćemo ovde kreirati nalog za vas ako ne postoji, a <b>onda ćete imati dva naloga.</b>",
-    "BUTTON_REDIRECT": "Preusmeravanje na <%= otherRegionName %>",
+    "BUTTON_REDIRECT": "Preusmeri na <%= otherRegionName %>",
     "BUTTON_CONTINUE_HERE": "Nastavite ovde"
 }

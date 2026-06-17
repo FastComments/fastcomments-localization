@@ -1,8 +1,8 @@
 {
-    "INTRO": "Hej<%= username %>",
-    "FROM_NAME": "Robot za brze snommente",
-    "SUBJECT": "Pozvani ste da se pridružite <%= tenantName %>!",
-    "BANNER_TEXT": "Poziv za brzu dolaženje",
-    "INVITE_DETAILS": "Pozvani ste da se pridružite zakupcima FastComments -a <%= tenantName %>. Prihvatanje ovog poziva će kreirati nalog za vas sa sledećim dozvolama:",
+    "INTRO": "Zdravo <%= username %>,",
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "Pozvani ste da se pridružite nalogu <%= tenantName %>!",
+    "BANNER_TEXT": "FastComments poziv",
+    "INVITE_DETAILS": "Pozvani ste da se pridružite FastComments nalogu <%= tenantName %>. Prihvatanjem ovog poziva biće kreiran nalog za vas sa sledećim dozvolama:",
     "ACCEPT_INVITE": "Prihvati poziv"
 }

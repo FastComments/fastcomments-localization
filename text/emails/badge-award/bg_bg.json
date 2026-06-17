@@ -2,7 +2,7 @@
     "INTRO": "Здравей <%= username %>, спечелил си нова значка на <strong><%= siteDomain %></strong> !",
     "CONGRATULATIONS": "Поздравления!",
     "BANNER_TEXT": "Спечелена нова значка",
-    "FROM_NAME": "Робот за бързи коментари",
+    "FROM_NAME": "Робот на FastComments",
     "SUBJECT": "Спечелихте значката „<%= badge.displayLabel %>“!",
     "BADGE_EARNED_MESSAGE": "Успешно спечелихте <strong><%= badge.displayLabel %></strong> значката.",
     "KEEP_UP_GOOD_WORK": "Продължавай с отличната работа!",

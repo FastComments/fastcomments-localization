@@ -7,6 +7,6 @@
     "CHECKBOX_UPLOAD_COMMENTS": "Automatski otpremite moje komentare.",
     "CHECKBOX_UPLOAD_COMMENTS_HELP": "Kasnije možete da otpremite svoje komentare sa stranice administratora dodatka.",
     "CHECKBOX_SYNC_DATABASE": "Automatski držite moju bazu podataka <%= integrationName %> sinhronizovanu.",
-    "CHECKBOX_SYNC_DATABASE_HELP": "Ovo održava vašu bazu podataka <%= integrationName %> ažurnom. Korisno ako bilo koji dodaci zahtevaju najnovije komentare u vašoj bazi podataka. Obično onemogućen sa veoma velikim obimnim sajtovima, gde održavanje <%= integrationName %> do danas stvara neželjeno opterećenje.",
+    "CHECKBOX_SYNC_DATABASE_HELP": "Ovo održava vašu <%= integrationName %> bazu podataka ažurnom. Korisno ako neki dodaci zahtevaju najnovije komentare u vašoj bazi podataka. Često se onemogućava na sajtovima sa veoma velikim obimom, gde održavanje baze <%= integrationName %> ažurnom stvara neželjeno opterećenje.",
     "BUTTON_START_SYNC": "Pokreni sinhronizaciju"
 }

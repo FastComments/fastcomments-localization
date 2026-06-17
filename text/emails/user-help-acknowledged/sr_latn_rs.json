@@ -1,8 +1,8 @@
 {
-    "FROM_NAME": "FastComments pomoć botu",
-    "SUBJECT": "Zahtev za pomoć potvrđen od strane pomoći osoblja",
-    "HEY": "Hej<%= commenterUsername %>",
-    "ACKNOWLEDGED_BY_ADMIN": "Izgleda da je agent za podršku sa korisničkim imenom \"<%= adminUsername %>\" potvrdio vaš zahtev. Trebalo bi uskoro da dopru do tebe.",
+    "FROM_NAME": "FastComments Help Bot",
+    "SUBJECT": "Zahtev za pomoć je potvrđen od strane osoblja podrške",
+    "HEY": "Zdravo <%= commenterUsername %>,",
+    "ACKNOWLEDGED_BY_ADMIN": "Izgleda da je agent podrške sa korisničkim imenom \"<%= adminUsername %>\" potvrdio vaš zahtev. Trebalo bi uskoro da vas kontaktiraju.",
     "THANKS_FOR_USING_FC": "Hvala što koristite FastComments!",
-    "DONT_REPLY_TO_THIS": "Ova e-pošta potiče iz polja za e-poštu samo za izlaz - ne odgovaraj na njega. Doprećemo do vas odvojeno."
+    "DONT_REPLY_TO_THIS": "Ova e-pošta dolazi sa adrese koja služi samo za slanje - ne odgovarajte na nju. Kontaktiraćemo vas posebno."
 }

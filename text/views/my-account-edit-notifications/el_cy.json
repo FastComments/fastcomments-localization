@@ -15,7 +15,7 @@
     "DIGEST_SPAM": "Ανεπιθύμητα μηνύματα",
     "DIGEST_NEW_USERS": "Νέοι χρήστες",
     "DIGEST_SCHEDULE_LABEL": "Πρόγραμμα Σύνοψης",
-    "DIGEST_DISABLED": "Ανάπηρος",
+    "DIGEST_DISABLED": "Απενεργοποιημένο",
     "DIGEST_DAILY": "Καθημερινά (Δευτ.-Παρ. 8 π.μ. PST)",
     "DIGEST_WEEKLY": "Εβδομαδιαία (Δευτέρα, 8 π.μ. PST)",
     "DIGEST_MONTHLY": "Μηνιαία (1η του μήνα, 8 π.μ. PST)",
@@ -44,7 +44,7 @@
     "AGENT_APPROVAL_FREQUENCY_HELP": "Πόσο συχνά λαμβάνετε ειδοποιήσεις μέσω email όταν ένας εκπρόσωπος Τεχνητής Νοημοσύνης (AI) θέτει σε αναμονή μια ενέργεια για την αξιολόγησή σας.",
     "AGENT_APPROVAL_FREQUENCY_HOURLY": "Ωριαία σύνοψη",
     "AGENT_APPROVAL_FREQUENCY_DAILY": "Ημερήσια σύνοψη",
-    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Ποτέ μην μου στέλνετε email μέσω email για να μην στέλνετε ποτέ.",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Να μην μου στέλνετε ποτέ email",
     "AGENT_APPROVAL_HEADING": "Εγκρίσεις πρακτόρων τεχνητής νοημοσύνης",
     "AGENT_APPROVAL_FREQUENCY_LABEL": "Συχνότητα ειδοποίησης έγκρισης"
 }

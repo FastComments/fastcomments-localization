@@ -1,6 +1,6 @@
 {
     "BAN_DIALOG_TITLE_BAN": "Забрана на потребител",
-    "BAN_DIALOG_TITLE_UPDATE": "Забрана за актуализиране",
+    "BAN_DIALOG_TITLE_UPDATE": "Актуализиране на забраната",
     "BAN_DIALOG_SUBTITLE_BAN": "Забрана на [username]",
     "BAN_DIALOG_SUBTITLE_UPDATE": "Актуализиране на забраната на [username]",
     "BAN_DIALOG_BTN_BAN": "Забрана",
@@ -28,7 +28,7 @@
     "BAN_DIALOG_REASON_LABEL": "Причина за забрана (по избор)",
     "BAN_DIALOG_REASON_PLACEHOLDER": "Въведете причината за забраната...",
     "BAN_DIALOG_DELETE_ALL_COMMENTS": "Изтриване на [count] свързани коментари[summary].",
-    "BAN_DIALOG_BY_USER": "От потребител",
+    "BAN_DIALOG_BY_USER": "По потребител",
     "BAN_DIALOG_BY_EMAIL": "По имейл",
     "BAN_DIALOG_BY_IP": "По IP адрес",
     "BAN_DIALOG_BY_EMAIL_DOMAIN": "С имейли, завършващи на: [domain]",

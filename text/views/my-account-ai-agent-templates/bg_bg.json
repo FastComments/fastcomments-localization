@@ -11,11 +11,11 @@
     "PREVIEW_ACTIONS_LABEL": "Разрешени действия",
     "SUBHEADING": "Изберете предварително настроен стартер или го изградете от нулата. Шаблоните създават агента в режим на пробно изпълнение, така че можете да го прегледате и настроите, преди да го пуснете на живо.",
     "PREVIEW_DELAY_LABEL": "Закъснение на задействането",
-    "PREVIEW_DELAY_VALUE": "{минути} минути",
-    "TEMPLATE_WELCOME_GREETER_CARD_NAME": "Добре дошъл/посрещачка",
+    "PREVIEW_DELAY_VALUE": "{minutes} минути",
+    "TEMPLATE_WELCOME_GREETER_CARD_NAME": "Посрещач",
     "START_FRESH_NAME": "Започнете на чисто",
     "START_FRESH_DESCRIPTION": "Отворете празен формуляр и конфигурирайте всяко поле сами.",
-    "TEMPLATE_TOP_COMMENT_PINNER_CARD_NAME": "Най-коментиран Pinner",
+    "TEMPLATE_TOP_COMMENT_PINNER_CARD_NAME": "Закачвач на топ коментари",
     "USE_TEMPLATE_BUTTON": "Използвайте този шаблон",
     "TEMPLATE_TOS_ENFORCER_CARD_NAME": "Модератор",
     "TEMPLATE_TOS_ENFORCER_CARD_DESCRIPTION": "Преглежда нови и маркирани коментари, които нарушават вашите правила. Предупреждава за първи нарушители, маркира спам, ескалира повторни нарушения.",
@@ -23,6 +23,6 @@
     "TEMPLATE_WELCOME_GREETER_CARD_DESCRIPTION": "Отговаря на коментиращите за първи път с кратко, конкретно приветствие. Помага на новите потребители да се чувстват забелязани, без да спами стари акаунти.",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "Обобщаващ инструмент за теми",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Публикува неутрално резюме на дълги теми след кратко забавяне. Дава на закъснелите бърз поглед върху позициите и отворените въпроси.",
-    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Детектор за газова светлина",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Детектор за манипулация",
     "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Следи редакциите на коментарите за пренаписвания по средата на темата, които изкривяват отговорите. Възстановява оригиналния текст и изпраща лично съобщение на автора."
 }

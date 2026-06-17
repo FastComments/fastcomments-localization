@@ -2,7 +2,7 @@
     "WHAT_IS_MCP_HEADING": "Šta je MCP?",
     "PAGE_TITLE": "Podešavanje MCP servera - FastComments",
     "HEADING": "Podešavanje MCP servera",
-    "INTRO": "FastComments izlaže bezdržavni Model Context Protocol (MCP) server koji omogućava AI pomoćnicima za kodiranje i agentskim klijentima da direktno pozovu FastComments API. Svaki alat se mapira na postojeću javnu API krajnju tačku i generiše se iz OpenAPI specifikacije, tako da sve što REST API može da uradi, MCP klijent može da uradi.",
+    "INTRO": "FastComments nudi Model Context Protocol (MCP) server bez stanja koji omogućava AI pomoćnicima za kodiranje i agentskim klijentima da direktno pozivaju FastComments API. Svaki alat se mapira na postojeću javnu API krajnju tačku i generiše se iz OpenAPI specifikacije, tako da sve što REST API može da uradi, MCP klijent može da uradi.",
     "CHOOSE_KEY_HEADING": "Izaberite API ključ",
     "CHOOSE_KEY_LABEL": "API ključ",
     "CHOOSE_KEY_HELP_PREFIX": "Izabrani ključ je ugrađen u generisani URL i isečke. Upravljajte ključevima na",
@@ -14,10 +14,10 @@
     "DOCS_LINK_PREFIX": "Pogledajte",
     "DOCS_LINK_SUFFIX": "za potpuni pregled integracije MCP-a.",
     "SNIPPET_WARNING": "Sadrži vaš API ključ. Ne delite javno.",
-    "CLAUDE_CODE_HEADING": "Klod kod",
+    "CLAUDE_CODE_HEADING": "Claude Code",
     "CHOOSE_KEY_HELP_LINK": "API ključevi",
     "NO_KEYS_BODY": "Kreirajte API ključ pre konfigurisanja MCP klijenta.",
-    "CLAUDE_DESKTOP_HELP": "Dodajte ovaj blok u konfiguraciju MCP servera vašeg klijenta (claude_desktop_config.json ili kursor mcp.json).",
+    "CLAUDE_DESKTOP_HELP": "Dodajte ovaj blok u konfiguraciju MCP servera vašeg klijenta (claude_desktop_config.json ili Cursor mcp.json).",
     "ENDPOINT_HELP": "Koristite ovaj URL bilo gde MCP klijent prihvata HTTP krajnju tačku koja se može streamovati.",
     "CHOOSE_KEY_HELP_SUFFIX": "strana.",
     "CLAUDE_CODE_HELP": "Pokrenite ovo sa terminala na kojem je instaliran CLI Claude Code.",
@@ -25,6 +25,6 @@
     "COPIED_LABEL": "Kopirano",
     "DOCS_LINK_HEADING": "Više informacija",
     "NO_KEYS_BUTTON": "Idi na API ključeve",
-    "DEFAULT_KEY_NAME": "Pretraživanje",
-    "CLAUDE_DESKTOP_HEADING": "Claude Desktop / kursor"
+    "DEFAULT_KEY_NAME": "Podrazumevano",
+    "CLAUDE_DESKTOP_HEADING": "Claude Desktop / Cursor"
 }

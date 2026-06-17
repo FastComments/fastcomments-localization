@@ -1,14 +1,14 @@
 {
-    "INTRO": "Hej <%= tenantName %>",
+    "INTRO": "Zdravo <%= tenantName %>",
     "BANNER_TEXT": "Pomoć za podešavanje FastComments",
     "FROM_NAME": "Devon",
     "SUBJECT": "Potrebna vam je pomoć pri postavljanju FastComments-a?",
-    "SUBJECT_FOLLOWUP": "Praćenje - Pomoć pri podešavanju FastComments",
+    "SUBJECT_FOLLOWUP": "Podsetnik - Pomoć pri podešavanju FastComments-a",
     "NOTICED_NOT_SETUP": "Primetio sam da ste se prijavili za FastComments, ali još uvek niste imali priliku da podesite vidžet za komentare.",
-    "HELP_OFFER": "Voleo bih da vam pomognem da započnete! Bez obzira da li imate pitanja o integraciji, prilagođavanju ili samo želite brzu šetnju, rado ću vam pomoći.",
+    "HELP_OFFER": "Voleo bih da vam pomognem da započnete! Bez obzira da li imate pitanja o integraciji, prilagođavanju ili samo želite kratak vodič, rado ću vam pomoći.",
     "SCHEDULE_CALL": "Zakažite brzi poziv",
     "EMAIL_SUPPORT": "Ili slobodno odgovorite na ovaj e-mail sa bilo kakvim pitanjima. Čitam i odgovaram na svaku poruku.",
-    "THANKS": "Hvala na vašem <br>vremenu,Devon<br>FastComments",
-    "UNSUBSCRIBE_NOTICE_FIRST": "Ova automatska e-pošta će poslati još jednom. Možete <a href=\"<%= unsubscribeLink.url %>\"> isključiti sve komunikacije ovde</a>.",
-    "UNSUBSCRIBE_NOTICE_LAST": "Ova e-pošta neće biti poslata ponovo, ali možete <a href=\"<%= unsubscribeLink.url %>\"> isključiti sve komunikacije ovde</a>."
+    "THANKS": "Hvala na vašem vremenu,<br>Devon<br>FastComments",
+    "UNSUBSCRIBE_NOTICE_FIRST": "Ova automatska e-pošta će biti poslata još jednom. Možete se <a href=\"<%= unsubscribeLink.url %>\">odjaviti od svih komunikacija ovde</a>.",
+    "UNSUBSCRIBE_NOTICE_LAST": "Ova e-pošta neće biti poslata ponovo, ali možete se <a href=\"<%= unsubscribeLink.url %>\">odjaviti od svih komunikacija ovde</a>."
 }

@@ -2,7 +2,7 @@
   "BULK_BAN_TITLE": "Bulk Ban korisnici",
   "BULK_BAN_SUBTITLE": "Budite oprezni!",
   "BULK_BAN_BTN_BAN": "Zabrana",
-  "BULK_BAN_BTN_CANCEL": "Pretraživanje",
+  "BULK_BAN_BTN_CANCEL": "Otkaži",
   "BULK_BAN_PLURAL_EMAILS": "E-mailovi",
   "BULK_BAN_SINGULAR_EMAIL": "E-pošta",
   "BULK_BAN_PLURAL_USERS": "Korisnici",
@@ -33,5 +33,5 @@
   "BULK_BAN_BY_EMAIL": "Putem e-maila",
   "BULK_BAN_BY_IP": "Po IP adresi",
   "BULK_BAN_BY_EMAIL_DOMAIN": "Sa e-poštom se završava sa: [domains]",
-  "BULK_BAN_DELETE_RELATED_COMMENTS": "Izbriši [count] srodne comments[summary]."
+  "BULK_BAN_DELETE_RELATED_COMMENTS": "Izbriši [count] srodnih komentara[summary]."
 }

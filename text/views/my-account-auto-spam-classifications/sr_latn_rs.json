@@ -1,8 +1,8 @@
 {
-    "PAGE_TITLE": "Komentari Spam Training Set - FastComments",
-    "HEADING_COMMENTS_SPAM_TRAINING_SET": "Komentari Spam Training Set",
+    "PAGE_TITLE": "Skup za obuku za spam komentare - FastComments",
+    "HEADING_COMMENTS_SPAM_TRAINING_SET": "Skup za obuku za spam komentare",
     "TEXT_CURRENT_CLASSIFICATION": "Trenutna klasifikacija: <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
-    "BUTTON_UNCLASSIFY": "Un-Klasifikovati",
-    "BUTTON_SPAM": "Bilten",
+    "BUTTON_UNCLASSIFY": "Ukloni klasifikaciju",
+    "BUTTON_SPAM": "Spam",
     "BUTTON_NOT_SPAM": "Nije spam"
 }

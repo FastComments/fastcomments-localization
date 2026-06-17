@@ -4,8 +4,8 @@
     "BANNER_TEXT": "Neues Abzeichen erhalten",
     "FROM_NAME": "FastComments-Roboter",
     "SUBJECT": "Du hast dir das \"<%= badge.displayLabel %>\"-Abzeichen verdient!",
-    "BADGE_EARNED_MESSAGE": "Sie haben das <strong><%= badge.displayLabel %></strong> Abzeichen erfolgreich erworben.",
+    "BADGE_EARNED_MESSAGE": "Du hast dir das Abzeichen <strong><%= badge.displayLabel %></strong> erfolgreich verdient.",
     "KEEP_UP_GOOD_WORK": "Weiter so!",
-    "UNSUBSCRIBE_HERE": "Abmeldung von Badge-Benachrichtigungen",
-    "VIEW_YOUR_PROFILE": "Ihr Profil ansehen"
+    "UNSUBSCRIBE_HERE": "Abzeichen-Benachrichtigungen abbestellen",
+    "VIEW_YOUR_PROFILE": "Dein Profil ansehen"
 }

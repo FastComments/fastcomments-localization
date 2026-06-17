@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "LTI конфигурация - Бързи коментари",
+    "PAGE_TITLE": "LTI конфигурация - FastComments",
     "HEADING": "LTI конфигурация",
     "ACCESS_DENIED_HEADING": "Изисква се достъп до LTI",
     "ACCESS_DENIED_MESSAGE": "Вашият текущ пакет не включва LTI интеграция.",
@@ -25,7 +25,7 @@
     "HEADING_ROLE_MAPPING": "Картографиране на ролите",
     "ROLE_MAPPING_DESCRIPTION": "LTI ролите се съпоставят автоматично с разрешенията на FastComments:",
     "ROLE_ADMIN": "Картографира към FastComments Admin",
-    "ROLE_INSTRUCTOR": "Карти към FastComments Moderator",
+    "ROLE_INSTRUCTOR": "Картографира към FastComments Moderator",
     "ROLE_LEARNER": "Редовен коментатор (без специални разрешения)",
     "HEADING_DOCUMENTATION": "Документация",
     "DOCUMENTATION_TEXT": "Нуждаете се от помощ при настройването на LTI? Вижте нашето <a href=\"https://docs.fastcomments.com/guide-installation-canvas-lms.html\" target=\"_blank\">Ръководство за настройка на Canvas LMS</a> или посетете нашата <a href=\"https://fastcomments.com/lti\" target=\"_blank\">начална страница за LTI</a> за други LMS платформи или <a href=\"/auth/my-account/help\">се свържете с екипа за поддръжка</a> за съдействие.",

@@ -7,7 +7,7 @@
     "HERO_DESCRIPTION": "Componenti Blade drop-in per commenti in thread, chat live in tempo reale e conteggio dei commenti. SSO sicuro tramite Laravel Auth, accesso API completo tramite Facade e zero passaggi di build frontend.",
     "HERO_CTA_FREE_TRIAL": "Inizia la prova gratuita",
     "HERO_CTA_GITHUB": "Visualizza su GitHub",
-    "BLADE_SECTION_TITLE": "Tre componenti della lama, complessità zero",
+    "BLADE_SECTION_TITLE": "Tre componenti Blade, complessità zero",
     "BLADE_SECTION_SUBTITLE": "Ogni componente è un singolo tag. Pubblica la configurazione, imposta la tua chiave API e sei online.",
     "BLADE_1_TITLE": "Commenti con thread",
     "BLADE_1_DESCRIPTION": "Aggiungi un widget completo per i commenti in thread a qualsiasi pagina. Supporta risposte, @menzioni, votazioni, testo formattato e aggiornamenti in tempo reale.",
@@ -58,8 +58,8 @@
     "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Esegui composer require fastcomments/laravel per aggiungere il pacchetto al tuo progetto.",
     "HOW_IT_WORKS_STEP_2_TITLE": "Pubblica la configurazione e imposta la chiave API",
     "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Pubblica il file di configurazione con Artisan, quindi aggiungi la chiave API FastComments e l'ID tenant al tuo file .env.",
-    "HOW_IT_WORKS_STEP_3_TITLE": "Componenti della lama Drop In",
-    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Utilizzo<x-fastcomments> ,<x-fastcomments-live-chat> , O<x-fastcomments-comment-count> ovunque nei tuoi modelli Blade.",
+    "HOW_IT_WORKS_STEP_3_TITLE": "Inserisci i componenti Blade",
+    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Usa <x-fastcomments>, <x-fastcomments-live-chat> o <x-fastcomments-comment-count> ovunque nei tuoi modelli Blade.",
     "FAQ_LARAVEL_FREE_TRIAL": "C'è una prova gratuita?",
     "FAQ_LARAVEL_FREE_TRIAL_ANSWER": "Sì. FastComments offre una prova gratuita di 30 giorni con accesso completo a tutte le funzionalità, inclusi SSO, live chat e rich text editor. Non è richiesta alcuna carta di credito per iniziare.",
     "FAQ_LARAVEL_SSO": "Come funziona SSO con Laravel Auth?",
@@ -71,7 +71,7 @@
     "FAQ_LARAVEL_BLADE": "Posso personalizzare i componenti Blade?",
     "FAQ_LARAVEL_BLADE_ANSWER": "Sì. È possibile pubblicare le viste Blade con Artisan e modificarle direttamente. I componenti accettano anche tutte le opzioni di configurazione standard di FastComments come prop, offrendo il pieno controllo su aspetto e comportamento senza dover modificare i file del fornitore.",
     "FAQ_LARAVEL_API": "Posso accedere all'API FastComments da Laravel?",
-    "FAQ_LARAVEL_API_ANSWER": "Sì. Il pacchetto fornisce una facciata FastComments e supporta l'iniezione di dipendenze. Puoi utilizzarlo per creare, aggiornare o eliminare commenti a livello di codice, gestire utenti, recuperare analisi e altro ancora dai tuoi controller o job.",
+    "FAQ_LARAVEL_API_ANSWER": "Sì. Il pacchetto fornisce una Facade FastComments e supporta l'iniezione di dipendenze. Puoi utilizzarlo per creare, aggiornare o eliminare commenti a livello di codice, gestire utenti, recuperare analisi e altro ancora dai tuoi controller o job.",
     "FINAL_CTA_TITLE": "Pronto ad aggiungere commenti alla tua app Laravel?",
     "FINAL_CTA_DESCRIPTION": "Installa il pacchetto Composer, aggiungi un componente Blade e rendilo operativo in pochi minuti."
 }

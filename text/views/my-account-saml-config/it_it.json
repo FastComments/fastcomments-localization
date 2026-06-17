@@ -15,11 +15,11 @@
     "PLACEHOLDER_IDP_ENTITY_ID": "https://your-idp.com",
     "HELP_IDP_ENTITY_ID": "L'ID entità che identifica il tuo Identity Provider. Se lasciato vuoto, il valore predefinito è l'URL di FastComments.",
     "LABEL_IDP_CERTIFICATE": "Certificato IdP X.509 *",
-    "PLACEHOLDER_IDP_CERTIFICATE": "-----INIZIO CERTIFICATO-----\n...contenuto del certificato...\n-----FINE CERTIFICATO-----",
+    "PLACEHOLDER_IDP_CERTIFICATE": "-----BEGIN CERTIFICATE-----\n...contenuto del certificato...\n-----END CERTIFICATE-----",
     "HELP_IDP_CERTIFICATE": "Il certificato X.509 del tuo Identity Provider utilizzato per verificare le risposte SAML.",
     "HEADING_ADVANCED_SETTINGS": "Impostazioni avanzate (facoltativo)",
     "LABEL_DECRYPTION_KEY": "Chiave privata per la decrittazione",
-    "PLACEHOLDER_DECRYPTION_KEY": "-----INIZIO CHIAVE PRIVATA-----\n...contenuto della chiave privata...\n-----FINE CHIAVE PRIVATA-----",
+    "PLACEHOLDER_DECRYPTION_KEY": "-----BEGIN PRIVATE KEY-----\n...contenuto della chiave privata...\n-----END PRIVATE KEY-----",
     "HELP_DECRYPTION_KEY": "Chiave privata per decrittografare le asserzioni SAML crittografate (necessaria solo se il tuo IdP crittografa le asserzioni).",
     "LABEL_SIGNATURE_ALGORITHM": "Algoritmo di firma",
     "OPTION_DEFAULT_SHA256": "Predefinito (SHA-256)",
@@ -60,6 +60,6 @@
     "ROLE_MODERATOR": "Moderazione dei commenti",
     "ROLE_API_ADMIN": "Gestione API",
     "HEADING_DOCUMENTATION": "Documentazione",
-    "DOCUMENTATION_TEXT": "Hai bisogno di aiuto per configurare SAML? Consulta la nostra <a href=\"https://docs.fastcomments.com/guide-saml.html\" target=\"_blank\">Guida all&#39;integrazione SAML</a> o <a href=\"/auth/my-account/help\">contatta l&#39;assistenza</a> per ricevere assistenza.",
+    "DOCUMENTATION_TEXT": "Hai bisogno di aiuto per configurare SAML? Consulta la nostra <a href=\"https://docs.fastcomments.com/guide-saml.html\" target=\"_blank\">Guida all'integrazione SAML</a> o <a href=\"/auth/my-account/help\">contatta l'assistenza</a> per ricevere assistenza.",
     "TOOLTIP_CLICK_TO_COPY": "Clicca per copiare"
 }

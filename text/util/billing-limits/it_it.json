@@ -7,7 +7,7 @@
     "LIMIT_MONTHLY_SMALL_WIDGETS_CREDITS_HELP": "Quante richieste fai per piccoli widget (conteggio dei commenti, commenti recenti, ecc.).",
     "LIMIT_MONTHLY_COMMENTS_STORED": "Commenti mensili archiviati",
     "LIMIT_MONTHLY_COMMENTS_STORED_HELP": "Quanti commenti sono stati lasciati questo mese.",
-    "LIMIT_TENANT_USERS": "Utenti inquilini",
+    "LIMIT_TENANT_USERS": "Utenti tenant",
     "LIMIT_TENANT_USERS_HELP": "Quanti amministratori hai.",
     "LIMIT_SSO_USERS": "Utenti SSO",
     "LIMIT_SSO_USERS_HELP": "Quanti utenti SSO hai.",
@@ -15,6 +15,6 @@
     "LIMIT_MODERATORS_HELP": "Quanti moderatori hai.",
     "LIMIT_DOMAINS": "Domini",
     "LIMIT_DOMAINS_HELP": "Quanti siti o domini hai nel tuo account.",
-    "LIMIT_MANAGED_TENANTS": "Inquilini gestiti",
-    "LIMIT_MANAGED_TENANTS_HELP": "Quanti subinquilini gestisce il tuo inquilino."
+    "LIMIT_MANAGED_TENANTS": "Tenant gestiti",
+    "LIMIT_MANAGED_TENANTS_HELP": "Quanti sub-tenant gestisce il tuo tenant."
 }

@@ -4,6 +4,6 @@
     "CONFIRM_MESSAGE": "Sei sicuro di voler eliminare la domanda \"<%= question.question %>\", creata il <%= question.createdAt.toLocaleString() %>?",
     "REPLY_COUNT_MESSAGE": "Questa domanda ha <%= Number(question.usedCount).toLocaleString() %> risposte.",
     "DATA_LOSS_WARNING": "I dati di queste risposte non saranno più disponibili nei report.",
-    "DELETE_BUTTON": "Eliminare",
-    "CANCEL_LINK": "Cancellare"
+    "DELETE_BUTTON": "Elimina",
+    "CANCEL_LINK": "Annulla"
 }

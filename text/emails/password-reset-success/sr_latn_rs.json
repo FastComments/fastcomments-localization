@@ -1,6 +1,6 @@
 {
-    "FROM_NAME": "Robot za brze snommente",
+    "FROM_NAME": "FastComments Robot",
     "SUBJECT": "Lozinka je ažurirana",
-    "INTRO": "Zdravo<%= username %>",
+    "INTRO": "Zdravo <%= username %>,",
     "INFO": "Lozinka je ažurirana."
 }

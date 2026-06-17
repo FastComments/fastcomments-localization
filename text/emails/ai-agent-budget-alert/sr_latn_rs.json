@@ -7,10 +7,10 @@
     "META_AGENT": "Agent:",
     "INTRO": "Jedan od vaših AI agenata dostigao je prag potrošnje koji ste konfigurisali.",
     "FROM_NAME": "Agenti FastComments",
-    "SCOPE_AGENT_DAILY": "Dnevni budžet agenta",
-    "SUBJECT": "<%= agentName %> dostigao <%= thresholdPct %>% svojih <%= scopeLabel %>",
+    "SCOPE_AGENT_DAILY": "dnevnog budžeta agenta",
+    "SUBJECT": "<%= agentName %> je dostigao <%= thresholdPct %>% svog <%= scopeLabel %>",
     "FALLBACK_LINK": "Ako dugme ne radi, kopirajte i nalepite ovaj URL u pregledač: <%= manageUrl %>",
-    "SCOPE_AGENT_MONTHLY": "Agent mesečni budžet",
-    "SCOPE_TENANT_MONTHLY": "Račun mesečni budžet",
-    "SCOPE_TENANT_DAILY": "Dnevni budžet računa"
+    "SCOPE_AGENT_MONTHLY": "mesečnog budžeta agenta",
+    "SCOPE_TENANT_MONTHLY": "mesečnog budžeta naloga",
+    "SCOPE_TENANT_DAILY": "dnevnog budžeta naloga"
 }

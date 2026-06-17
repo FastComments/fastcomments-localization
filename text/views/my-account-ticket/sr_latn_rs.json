@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "Ulaznica \"<%- ticketViewModel.subject %>\"",
-    "MESSAGE_ASSIGNED": "Vaša karta je dodeljena predstavniku podrške. Ako ste oboje na mreži, možete imati živu diskusiju sa njima, ali uvek možete ostaviti neke detalje i vratiti se kasnije.",
-    "MESSAGE_FIND_AGAIN": "Zatvaranje ove stranice neće izgubiti ćaskanje. Možete ga ponovo pronaći preko <a href=\"/auth/my-account/tickets\">Support Page</a>.",
+    "PAGE_TITLE": "Tiket \"<%- ticketViewModel.subject %>\"",
+    "MESSAGE_ASSIGNED": "Vaš tiket je dodeljen predstavniku podrške. Ako ste oboje na mreži, možete voditi razgovor uživo sa njim, ali uvek možete ostaviti neke detalje i vratiti se kasnije.",
+    "MESSAGE_FIND_AGAIN": "Zatvaranje ove stranice neće izgubiti ćaskanje. Možete ga ponovo pronaći preko <a href=\"/auth/my-account/tickets\">stranice podrške</a>.",
     "HEADING_NOT_FOUND": "Nije pronađeno",
-    "MESSAGE_NOT_FOUND": "Nismo mogli da nađemo tu kartu."
+    "MESSAGE_NOT_FOUND": "Nismo mogli da pronađemo taj tiket."
 }

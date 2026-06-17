@@ -1,10 +1,10 @@
 {
-    "PAGE_TITLE": "Dva faktora autentifikacije - FastComments",
+    "PAGE_TITLE": "Dvofaktorska autentifikacija - FastComments",
     "HEADING": "Dvofaktorska autentifikacija",
     "DESCRIPTION": "Dvofaktorska autentifikacija dodaje dodatni sloj sigurnosti vašem nalogu zahtevajući drugi oblik verifikacije prilikom prijavljivanja.",
     "HEADING_ADD_METHODS": "Dodaj novi 2FA metod",
-    "HEADING_AUTHENTICATOR": "Autentifikator aplikacija",
-    "DESCRIPTION_AUTHENTICATOR": "Koristite aplikacije kao što su Google Authenticator, Authi ili 1Passvord za generisanje kodova zasnovanih na vremenu.",
+    "HEADING_AUTHENTICATOR": "Aplikacija za autentifikaciju",
+    "DESCRIPTION_AUTHENTICATOR": "Koristite aplikacije kao što su Google Authenticator, Authy ili 1Password za generisanje vremenski zasnovanih kodova.",
     "BUTTON_ADD_AUTHENTICATOR": "Dodaj autentifikator",
     "HEADING_SMS": "SMS tekstualna poruka",
     "DESCRIPTION_SMS": "Primite verifikacione kodove putem tekstualne poruke na svoj telefon.",

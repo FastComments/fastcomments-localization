@@ -9,8 +9,8 @@
     "INTRO": "Einer Ihrer KI-Agenten hat einen von Ihnen festgelegten Ausgabenschwellenwert erreicht.",
     "MANAGE_BUTTON": "Agenten verwalten",
     "FALLBACK_LINK": "Falls der Button nicht funktioniert, kopieren Sie diese URL und fügen Sie sie in Ihren Browser ein: <%= manageUrl %>",
-    "SCOPE_TENANT_DAILY": "Tagesbudget",
-    "SCOPE_TENANT_MONTHLY": "monatliches Budget",
+    "SCOPE_TENANT_DAILY": "Konto-Tagesbudget",
+    "SCOPE_TENANT_MONTHLY": "monatliches Konto-Budget",
     "SCOPE_AGENT_MONTHLY": "monatliches Budget des Agenten",
     "SCOPE_AGENT_DAILY": "Agenten-Tagesbudget"
 }

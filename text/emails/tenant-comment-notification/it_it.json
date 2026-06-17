@@ -1,14 +1,14 @@
 {
-    "INTRO": "Hey <%= username %>,",
+    "INTRO": "Ciao <%= username %>,",
     "FROM_NAME": "FastComments Robot",
     "YOU_HAVE_NEW_COMMENTS": "Hai dei nuovi commenti!",
     "BANNER_TEXT": "Nuovi commenti",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Nuovo commento<% } else { %>Nuovi commenti<% } %>",
     "UNSUBSCRIBE_HERE": "Annulla l'iscrizione",
-    "APPROVE_COMMENT": "Approvare",
+    "APPROVE_COMMENT": "Approva",
     "VIEW_COMMENT": "Visualizza commento per rispondere",
     "HERE_ARE_LINKS_TO_PAGES": "Di seguito sono riportati i collegamenti alle pagine in cui si trovano i commenti, con il conteggio dei commenti per ciascuno.",
     "PAGE": "Pagina",
     "NEW_COMMENTS": "Nuovi commenti",
-    "MODERATE_COMMENTS": "Commenti moderati"
+    "MODERATE_COMMENTS": "Modera commenti"
 }

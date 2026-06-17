@@ -1,7 +1,7 @@
 {
     "GREETING": "Pozdrav,",
-    "ERROR_PLURAL": "Greške",
-    "ERROR_SINGULAR": "Pretraga",
+    "ERROR_PLURAL": "grešaka",
+    "ERROR_SINGULAR": "greška",
     "SUBJECT": "Otkrivene greške API-ja FastComments",
     "BANNER_TEXT": "Otkrivene greške API-ja FastComments",
     "DETECTION": "Otkrili smo <%= errorCountFormatted %> API <%= errorWord %> za Vaš nalog na dan <%= errorDate %>.",

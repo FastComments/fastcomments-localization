@@ -1,8 +1,8 @@
 {
-    "INTRO": "Hej<%= username %>",
-    "FROM_NAME": "Robot za brze snommente",
-    "SUBJECT": "Pozvani ste da se pridružite <%= tenantName %>!",
-    "BANNER_TEXT": "Poziv stanaru",
-    "INVITE_DETAILS": "Pozvani ste da se pridružite stanaru <%= tenantName %>. Prihvatanje ovog poziva će podići vaš nalog komentatora u administratorski nalog. <%= tenantName %> će imati <b>POTPUNO vlasništvo</b> nad vašim nalogom, uključujući mogućnost da ga izbrišete. Imaćete sledeće dozvole:",
+    "INTRO": "Zdravo <%= username %>,",
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "Pozvani ste da se pridružite nalogu <%= tenantName %>!",
+    "BANNER_TEXT": "Poziv na nalog",
+    "INVITE_DETAILS": "Pozvani ste da se pridružite nalogu <%= tenantName %>. Prihvatanjem ovog poziva vaš nalog komentatora biće unapređen u administratorski nalog. <%= tenantName %> će imati <b>POTPUNO VLASNIŠTVO</b> nad vašim nalogom, uključujući mogućnost da ga izbriše. Imaćete sledeće dozvole:",
     "ACCEPT_INVITE": "Prihvati poziv"
 }

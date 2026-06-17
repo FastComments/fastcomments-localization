@@ -1,12 +1,12 @@
 {
-    "INTRO": "Hej<%= user.username %>",
-    "BANNER_TEXT": "Brza naplata",
-    "FROM_NAME": "Probni robot fastcommentsa",
-    "SUBJECT": "Problem sa naplatom brzih dolaženja",
-    "FRIENDLY_REMINDER": "Ovo je prijateljski podsetnik da je vaša besplatna probna kartica za FastComments <i>istekla</i> ili imate problem sa naplatom sa nalogom.",
-    "THANKS_FOR_CHOOSING_FC": "Hvala što ste <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>.",
-    "UNSUBSCRIBE_FROM_THESE_ALERTS": "Otkaži pretplatu na ova upozorenja.",
+    "INTRO": "Zdravo <%= user.username %>",
+    "BANNER_TEXT": "FastComments naplata",
+    "FROM_NAME": "FastComments Probni Robot",
+    "SUBJECT": "Problem sa naplatom za FastComments",
+    "FRIENDLY_REMINDER": "Ovo je prijateljski podsetnik da je vaš besplatni probni period za FastComments <i>ISTEKAO</i> ili imate problem sa naplatom na nalogu.",
+    "THANKS_FOR_CHOOSING_FC": "Hvala što ste izabrali <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>.",
+    "UNSUBSCRIBE_FROM_THESE_ALERTS": "Odjavite se sa ovih upozorenja.",
     "SOME_STATS_SO_FAR": "Neke statistike do sada",
-    "SIGN_IN_ENTER_BILLING_INFO": "Prijavljivanje i unos informacija o plaćanju",
-    "UNSUBSCRIBE_HERE": "Otkaži pretplatu na ova obaveštenja"
+    "SIGN_IN_ENTER_BILLING_INFO": "Prijavite se i unesite podatke o plaćanju",
+    "UNSUBSCRIBE_HERE": "Odjavite se sa ovih obaveštenja"
 }

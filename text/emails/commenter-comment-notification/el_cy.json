@@ -7,5 +7,5 @@
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Απενεργοποιήστε τις ειδοποιήσεις για αυτό το σχόλιο",
     "UNSUBSCRIBE_HERE": "Απεγγραφή",
     "REPLY_BY_EMAIL_TIP": "Μπορείτε να απαντήσετε απευθείας σε αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου για να δημοσιεύσετε την απάντησή σας.",
-    "RECENT_COMMENT_COUNT": "Λάβατε <% if(replyCount > 1) { %>μερικές απαντήσεις<% } else { %>μια απάντηση<% } %> στα<% if(commentsSummary.length > 1) {%> σχόλιά σας<% } else { %>_ σχόλιο<% } %>_."
+    "RECENT_COMMENT_COUNT": "Λάβατε <% if(replyCount > 1) { %>μερικές απαντήσεις<% } else { %>μια απάντηση<% } %> <% if(commentsSummary.length > 1) {%>στα σχόλιά σας<% } else { %>στο σχόλιό σας<% } %>."
 }

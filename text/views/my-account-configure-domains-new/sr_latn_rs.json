@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "Dodajte domen - FastComments",
-    "HEADING_USER_ACCOUNT": "<%= user.username %> račun",
+    "HEADING_USER_ACCOUNT": "Nalog korisnika <%= user.username %>",
     "HEADING_ADD_DOMAINS": "Dodajte domene",
     "TEXT_ADD_DOMAIN_INFO": "Dodavanje domena vam omogućava da prilagodite svoje vidžete i korisničke interakcije po sajtu. Takođe nam omogućava da potvrdimo zahteve i povežemo ih sa vašim nalogom",
     "LABEL_DOMAIN_NAME": "Ime domena",

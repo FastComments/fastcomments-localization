@@ -15,11 +15,11 @@
     "PLACEHOLDER_IDP_ENTITY_ID": "https://your-idp.com",
     "HELP_IDP_ENTITY_ID": "Το αναγνωριστικό οντότητας που προσδιορίζει τον Πάροχο Ταυτότητας σας. Εάν αφεθεί κενό, η προεπιλεγμένη διεύθυνση URL του FastComments είναι η διεύθυνση URL.",
     "LABEL_IDP_CERTIFICATE": "Πιστοποιητικό IdP X.509 *",
-    "PLACEHOLDER_IDP_CERTIFICATE": "-----ΕΝΑΡΞΗ ΠΙΣΤΟΠΟΙΗΤΙΚΟΥ-----\n...περιεχόμενο πιστοποιητικού...\n-----ΤΕΛΟΣ ΠΙΣΤΟΠΟΙΗΤΙΚΟΥ-----",
+    "PLACEHOLDER_IDP_CERTIFICATE": "-----BEGIN CERTIFICATE-----\n...περιεχόμενο πιστοποιητικού...\n-----END CERTIFICATE-----",
     "HELP_IDP_CERTIFICATE": "Το πιστοποιητικό X.509 από τον πάροχο ταυτότητας που χρησιμοποιήθηκε για την επαλήθευση απαντήσεων SAML.",
     "HEADING_ADVANCED_SETTINGS": "Ρυθμίσεις για προχωρημένους (Προαιρετικά)",
     "LABEL_DECRYPTION_KEY": "Ιδιωτικό κλειδί για αποκρυπτογράφηση",
-    "PLACEHOLDER_DECRYPTION_KEY": "-----ΕΝΑΡΞΗ ΙΔΙΩΤΙΚΟΥ ΚΛΕΙΔΙΟΥ-----\n...περιεχόμενο ιδιωτικού κλειδιού...\n-----ΤΕΛΟΣ ΙΔΙΩΤΙΚΟΥ ΚΛΕΙΔΙΟΥ-----",
+    "PLACEHOLDER_DECRYPTION_KEY": "-----BEGIN PRIVATE KEY-----\n...περιεχόμενο ιδιωτικού κλειδιού...\n-----END PRIVATE KEY-----",
     "HELP_DECRYPTION_KEY": "Ιδιωτικό κλειδί για την αποκρυπτογράφηση κρυπτογραφημένων δηλώσεων SAML (απαιτείται μόνο εάν το IdP σας κρυπτογραφεί δηλώσεις).",
     "LABEL_SIGNATURE_ALGORITHM": "Αλγόριθμος Υπογραφής",
     "OPTION_DEFAULT_SHA256": "Προεπιλογή (SHA-256)",
@@ -59,7 +59,7 @@
     "ROLE_ANALYTICS_ADMIN": "Πρόσβαση στο Analytics",
     "ROLE_MODERATOR": "Εποπτεία σχολίων",
     "ROLE_API_ADMIN": "Διαχείριση API",
-    "HEADING_DOCUMENTATION": "Απόδειξη με έγγραφα",
+    "HEADING_DOCUMENTATION": "Τεκμηρίωση",
     "DOCUMENTATION_TEXT": "Χρειάζεστε βοήθεια με τη ρύθμιση του SAML; Δείτε τον <a href=\"https://docs.fastcomments.com/guide-saml.html\" target=\"_blank\">Οδηγό Ενσωμάτωσης SAML</a> ή <a href=\"/auth/my-account/help\">επικοινωνήστε με την υποστήριξη</a> για βοήθεια.",
     "TOOLTIP_CLICK_TO_COPY": "Κάντε κλικ για αντιγραφή"
 }

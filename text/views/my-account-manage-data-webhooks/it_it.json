@@ -20,7 +20,7 @@
     "STATUS_NOT_VERIFIED_EXPECTED_200": "❌ Non verificato. Codice di stato previsto: 200.",
     "STATUS_NOT_VERIFIED_EXPECTED_401": "❌ Non verificato. Codice di stato previsto 401 quando la chiave API non è valida.",
     "STATUS_YOU_PROVIDED": "Hai fornito [statusCode].",
-    "BUTTON_SET_READY": "Pronto",
+    "BUTTON_SET_READY": "Imposta Pronto",
     "BUTTON_SET_NOT_READY": "Imposta Non Pronto",
     "CONFIRM_SET_READY": "In questo modo lo stato del webhook verrà impostato manualmente su Pronto, ignorando la convalida della chiave API. Continuare?",
     "EVENTS_IN_QUEUE": "[count] eventi in coda.",

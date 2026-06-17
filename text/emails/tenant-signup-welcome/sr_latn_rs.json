@@ -1,5 +1,5 @@
 {
-    "INTRO": "Hej<%= username %>",
+    "INTRO": "Zdravo <%= username %>,",
     "FROM_NAME": "FastComments Robot",
     "SUBJECT": "Dobrodošli u FastComments <%= username %>! Potvrdite i prijavite se na svoj nalog ovde",
     "BANNER_TEXT": "Dobrodošli u FastComments",

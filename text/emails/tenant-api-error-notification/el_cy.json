@@ -4,11 +4,11 @@
     "FROM_NAME": "Ρομπότ API FastComments",
     "GREETING": "Γειά σου,",
     "ERROR_SINGULAR": "σφάλμα",
-    "ERROR_PLURAL": "λάθη",
-    "TENANT_NOTE": "Αυτό ισχύει για τον ενοικιαστή με αναγνωριστικό \"<%= tenantId %>\".",
+    "ERROR_PLURAL": "σφάλματα",
+    "TENANT_NOTE": "Αυτό ισχύει για τον λογαριασμό με αναγνωριστικό \"<%= tenantId %>\".",
     "SIGN_OFF": "Ειλικρινά,",
     "DETECTION": "Εντοπίσαμε <%= errorCountFormatted %> API <%= errorWord %> για τον λογαριασμό σας την ημέρα της <%= errorDate %>.",
     "EXPLANATION": "Αυτά τα σφάλματα παρουσιάστηκαν κατά την κλήση της πλατφόρμας μας. Σας προτείνουμε να ελέγξετε τα αρχεία καταγραφής για τυχόν προσαρμοσμένες ενσωματώσεις API με το FastComments για σφάλματα.",
     "TEAM_NAME": "Η Ομάδα Μηχανικών FastComments",
-    "OPT_OUT": "Μπορείτε να εξαιρεθείτε από αυτές τις ειδοποιήσεις <a href=\"<%= notificationSettingsUrl %>\">εδώ</a> ."
+    "OPT_OUT": "Μπορείτε να εξαιρεθείτε από αυτές τις ειδοποιήσεις <a href=\"<%= notificationSettingsUrl %>\">εδώ</a>."
 }

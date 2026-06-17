@@ -1,5 +1,5 @@
 {
-    "BAN_SELECT_TITLE": "Изберете „Забрана за редактиране“",
+    "BAN_SELECT_TITLE": "Изберете забрана за редактиране",
     "BAN_SELECT_SUBTITLE_MULTIPLE": "Има множество забрани, които засягат [username].",
     "BAN_SELECT_SUBTITLE_ONE": "[username] е засегнат от една забрана за този коментар.",
     "BAN_SELECT_BTN_SELECT": "Изберете",
@@ -15,7 +15,7 @@
     "BAN_SELECT_USER_ID": "Потребителски идентификатор",
     "BAN_SELECT_EMAIL": "Имейл",
     "BAN_SELECT_EMAIL_PATTERN": "Шаблон за имейл",
-    "BAN_SELECT_IP": "ИП",
+    "BAN_SELECT_IP": "IP",
     "BAN_SELECT_MATCHED_ON": "Съвпадение на: [matches]",
-    "BAN_SELECT_ID": "(ИД: [id])"
+    "BAN_SELECT_ID": "(ID: [id])"
 }

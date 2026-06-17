@@ -1,14 +1,14 @@
 {
-    "INTRO": "Hej<%= tenantName %>",
-    "BANNER_TEXT": "Probna ispravka za fastComments",
-    "FROM_NAME": "Probni robot fastcommentsa",
-    "SUBJECT": "FastComments Free Trial - ostalo je još 15 dana",
-    "FRIENDLY_REMINDER": "Ovo je prijateljski podsetnik da ste na polovini besplatne probne linije fastComments-a.",
-    "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> komentari su ostavljeni na vašim sajtima.",
-    "VOTES_GIVEN": "Bilo je <%= Number(voteCount).toLocaleString() %> glasova za te komentare.",
-    "USERS_SIGNED_UP": "Na kraju, ali ne <b>i najmanje najmanje moguće, <%= Number(userCount).toLocaleString() %> korisnici su se prijavili da koriste FastComments putem <%= tenantName %></b>.",
-    "THANKS_FOR_CHOOSING_FC": "Hvala što ste <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>.",
-    "UNSUBSCRIBE_FROM_THESE_ALERTS": "Otkaži pretplatu na ova upozorenja.",
+    "INTRO": "Zdravo <%= tenantName %>",
+    "BANNER_TEXT": "FastComments probni period - novosti",
+    "FROM_NAME": "FastComments Probni Robot",
+    "SUBJECT": "FastComments besplatni probni period - ostalo je još 15 dana",
+    "FRIENDLY_REMINDER": "Ovo je prijateljski podsetnik da ste prešli polovinu besplatnog probnog perioda za FastComments.",
+    "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> komentara je ostavljeno na vašim sajtovima.",
+    "VOTES_GIVEN": "Bilo je <%= Number(voteCount).toLocaleString() %> glasova na te komentare.",
+    "USERS_SIGNED_UP": "Na kraju, ali ne i najmanje važno, <b><%= Number(userCount).toLocaleString() %> korisnika se prijavilo da koristi FastComments putem <%= tenantName %></b>.",
+    "THANKS_FOR_CHOOSING_FC": "Hvala što ste izabrali <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>.",
+    "UNSUBSCRIBE_FROM_THESE_ALERTS": "Odjavite se sa ovih upozorenja.",
     "SOME_STATS_SO_FAR": "Neke statistike do sada",
-    "SIGN_IN_ENTER_BILLING_INFO": "Prijavljivanje i unos informacija o plaćanju"
+    "SIGN_IN_ENTER_BILLING_INFO": "Prijavite se i unesite podatke o plaćanju"
 }
