@@ -1,7 +1,7 @@
 {
     "PAGE_TITLE": "Удаление домена - FastComments",
     "HEADING_REMOVING_DOMAIN": "Удаление <%= domainName %>",
-    "HEADING_REMOVE_DOMAIN": "Удалять <%= domainName %>",
+    "HEADING_REMOVE_DOMAIN": "Удалить <%= domainName %>",
     "TEXT_REMOVE_CONFIRM": "Вы собираетесь удалить <b><%= domainName %></b> . Хотя это не приведет к удалению данных и их можно восстановить, существующие виджеты на этом домене больше не будут загружаться. Продолжить?",
     "BUTTON_CANCEL": "Отмена",
     "BUTTON_REMOVE_DOMAIN": "Удалить домен"

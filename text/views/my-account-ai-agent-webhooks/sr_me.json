@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Вебхукови агента - Брзи коментари",
+    "PAGE_TITLE": "Вебхукови агента - FastComments",
     "HEADING": "Вебхукови агента",
     "TAB_AGENTS": "Агенти",
     "TAB_ANALYTICS": "Аналитика",
@@ -39,8 +39,8 @@
     "FIELD_EVENTS_HELP": "Изаберите барем један догађај на који ћете се претплатити.",
     "FIELD_AGENTS_HELP": "Оставите празно да бисте примали догађаје од сваког агента. Изаберите одређене агенте за филтрирање.",
     "FIELD_METHOD_LABEL": "HTTP метод",
-    "FIELD_METHOD_PUT": "ПУТ",
-    "FIELD_METHOD_POST": "ОБЈАВИ (препоручено)",
+    "FIELD_METHOD_PUT": "PUT",
+    "FIELD_METHOD_POST": "POST (препоручено)",
     "FIELD_NO_RETRY_STATUS_CODES_LABEL": "Кодови статуса забране поновног покушаја",
     "FIELD_NO_RETRY_STATUS_CODES_HELP": "HTTP статусни кодови одвојени зарезима које НЕ треба поново покушати (нпр. 410, 422).",
     "EVENT_TRIGGER_SUCCEEDED": "Покретање агента је успело",
@@ -58,6 +58,6 @@
     "TEST_SEND_EVENT_LABEL": "Догађај за слање",
     "TEST_SEND_NO_SECRET": "Није конфигурисан API тајни код за домен овог вебхука.",
     "TEST_SEND_SUCCESS": "Испоручен тестни терет.",
-    "NOSCRIPT_MESSAGE": "Јаваскрипт је потребан за дугме за тестирање слања.",
+    "NOSCRIPT_MESSAGE": "JavaScript је потребан за дугме за тестирање слања.",
     "TEST_SEND_FAILED": "Тестирање корисног оптерећења није успело."
 }

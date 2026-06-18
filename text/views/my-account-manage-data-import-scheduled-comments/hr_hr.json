@@ -1,6 +1,6 @@
 {
     "TEXT_NA": "N/A",
-    "TITLE": "Raspored komentara - Brzi komentari",
+    "TITLE": "Raspored komentara - FastComments",
     "HEADING": "Raspored komentara",
     "DESCRIPTION_PART1": "Ovdje možete zakazati automatsko objavljivanje komentara, uživo, tijekom vremena. To vam može omogućiti dodavanje bilješki na stranice, poput webinara, ili čak automatizirano pokretanje rasprave na stranici za događaj uživo.",
     "DESCRIPTION_PART2": "To se postiže uvozom komentara pomoću podržanog <a href=\"https://docs.fastcomments.com/guide-scheduled-comments.html#import-format\">CSV formata</a> ( <a href=\"https://docs.fastcomments.com/csv/fastcomments-scheduled-comments-example.csv\">primjer ovdje</a> ).",
@@ -27,13 +27,13 @@
     "PLAYED_BACK_COUNT": "[playedBack] Reproducirani komentari",
     "TEXT_USED_TIMES": "Korišteno [usedCount] puta",
     "TEXT_COMMENTS_PLAYED_BACK": "[playedBack] Reproducirani komentari",
-    "DELETE_BUTTON": "Izbrisati",
+    "DELETE_BUTTON": "Izbriši",
     "STOP_BUTTON": "Stop",
     "START_BUTTON": "Start",
     "DELETE_AND_RUN_AGAIN": "Izbriši komentare i pokreni ponovno",
     "DELETE_COMMENTS_BUTTON": "Izbriši komentare",
     "DELETE_JOB_BUTTON": "Izbriši posao",
-    "BUTTON_DELETE": "Izbrisati",
+    "BUTTON_DELETE": "Izbriši",
     "BUTTON_STOP": "Stop",
     "BUTTON_START": "Start",
     "BUTTON_DELETE_AND_RUN_AGAIN": "Izbriši komentare i pokreni ponovno",
@@ -50,6 +50,6 @@
     "ERROR_DELETE_FAILED": "Brisanje nije uspjelo :(",
     "STATUS_FAILED": "Neuspješno",
     "STATUS_SUCCESS": "Uspjeh",
-    "STATUS_RUNNING": "Trčanje",
+    "STATUS_RUNNING": "U tijeku",
     "STATUS_REQUESTED": "Zatraženo"
 }

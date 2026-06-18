@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Прилагоди - Брзи коментари",
+    "PAGE_TITLE": "Прилагоди - FastComments",
     "HEADING_CUSTOMIZE_WIDGETS": "Прилагодите своје виџете",
     "HEADING_CUSTOMIZE_DOMAIN": "Прилагоди <span class=\"domain\"><%= config.domain %></span>",
     "HEADING_CREATE_CUSTOMIZATION_RULE": "Креирајте правило прилагођавања",
@@ -13,7 +13,7 @@
     "OPTION_ALL_DOMAINS": "Сви домени",
     "TEXT_DOMAIN_NOTE": "Ово је опционо. Изаберите <b>Сви домени</b> и правила ће се примењивати на све сајтове. Не видите свој сајт на листи? <a href=\"/auth/my-account/configure-domains\">Додајте га овде.</a>",
     "LABEL_URL_ID": "ИД URL-а",
-    "PLACEHOLDER_URL_ID": "хттпс://блог.фастцомментс.цом/(30.1.2019.)-фастцомментс-демо.хтмл",
+    "PLACEHOLDER_URL_ID": "https://blog.fastcomments.com/(1-30-2019)-fastcomments-demo.html",
     "TEXT_URL_ID_NOTE_1": "Ово је опционо. Оставите поље празно или унесите <b>*</b> и правила ће се применити на све странице.",
     "TEXT_URL_ID_NOTE_2": "Шаблони су такође подржани! На пример, можете имати */blog/* у једној конфигурацији и */store/* у другој.",
     "HEADING_BASIC_SETTINGS": "Основна подешавања",

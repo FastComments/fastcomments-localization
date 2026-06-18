@@ -4,7 +4,7 @@
     "HEADING": "Απεστάλη email στις <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
     "LABEL_DATE": "Ημερομηνία:",
     "LABEL_FROM": "Από:",
-    "LABEL_TO": "Να:",
+    "LABEL_TO": "Προς:",
     "LABEL_BCC": "Ιδιωτική κοινοποίηση:",
     "LABEL_SUBJECT": "Θέμα:",
     "LABEL_HEADERS": "Επικεφαλίδες:",

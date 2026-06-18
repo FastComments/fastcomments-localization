@@ -1,7 +1,7 @@
 {
     "PAGE_TITLE": "评论审核 - FastComments",
     "HEADING": "评论审核",
-    "MODERATING_FOR": "目前正在主持<%= moderatingTenantName %>",
+    "MODERATING_FOR": "当前正在审核 <%= moderatingTenantName %> 的评论",
     "SWITCH_SITE_LINK": "切换站点",
     "EDIT_MODERATION_SETTINGS_LINK": "编辑审核设置",
     "EDIT_MODERATORS_LINK": "编辑版主",

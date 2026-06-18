@@ -1,7 +1,7 @@
 {
     "SUBJECT": "FastComments <%= comment.commenterName %>へようこそ！",
     "BANNER_TEXT": "FastCommentsへようこそ",
-    "INTRO": "おい <%= comment.commenterName %>、",
+    "INTRO": "<%= comment.commenterName %> さん、",
     "LOOKS_LIKE_YOU_COMMENTED_HERE": "<a href=\"<%= comment.url %>\">ここに</a>投稿にコメントしたようです。",
     "VERIFY_YOUR_ACCOUNT": "アカウントを確認する",
     "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "<a href=\"<%= FC_DOMAIN %>/auth/login/\">ここで</a>アカウントにログインするための新しいリンクを作成できます。",
@@ -11,13 +11,13 @@
     "USING_NAME_YOU_SAID": "あなたが言った名前「<%= comment.commenterName %>」を使用して：",
     "JUST_NOW": "ちょうど今",
     "ONE_MINUTE_AGO": "1分前",
-    "MINUTES_AGO": "  数分前",
+    "MINUTES_AGO": "分前",
     "ONE_HOUR_AGO": "1時間前",
-    "HOURS_AGO": "  時間前",
+    "HOURS_AGO": "時間前",
     "YESTERDAY": "昨日",
-    "DAYS_AGO": "  数日前",
-    "WEEKS_AGO": "  何週間前",
-    "MONTHS_AGO": "  数か月前",
-    "YEARS_AGO": "  数年前",
+    "DAYS_AGO": "日前",
+    "WEEKS_AGO": "週間前",
+    "MONTHS_AGO": "か月前",
+    "YEARS_AGO": "年前",
     "UNSUBSCRIBE_HERE": "購読を解除する"
 }

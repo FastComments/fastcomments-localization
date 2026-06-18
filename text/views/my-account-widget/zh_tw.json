@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "<%= TEXT[widget.titleKey] %> 小工具 - 快速評論",
+    "PAGE_TITLE": "<%= TEXT[widget.titleKey] %> 小工具 - FastComments",
     "HEADING": "小工具程式碼",
     "HEADING_MULTIPLE_INSTANCES": "注意 - 多個實例",
     "MESSAGE_MULTIPLE_INSTANCES": "要在同一頁面上使用此小部件的多個實例，例如用於部落格文章列表，只需產生目標元素的 ID，並將相同的 ID 傳遞給小部件即可。例如，「widget-id-0」、「widget-id-1」等等。",

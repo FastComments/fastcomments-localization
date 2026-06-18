@@ -1,14 +1,14 @@
 {
     "INTRO": "היי <%= username %>,",
-    "FROM_NAME": "FastComments רובוט",
-    "YOU_HAVE_NEW_COMMENTS": "יש לך כמה הערות חדשות!",
+    "FROM_NAME": "רובוט FastComments",
+    "YOU_HAVE_NEW_COMMENTS": "יש לך כמה תגובות חדשות!",
     "BANNER_TEXT": "תגובות חדשות",
-    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%> תגובה חדשה<% } else { %>הערות חדשות<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%> תגובה חדשה<% } else { %>תגובות חדשות<% } %>",
     "UNSUBSCRIBE_HERE": "בטל את המנוי",
-    "APPROVE_COMMENT": "לְאַשֵׁר",
+    "APPROVE_COMMENT": "אישור",
     "VIEW_COMMENT": "הצג תגובה כדי להשיב",
-    "HERE_ARE_LINKS_TO_PAGES": "להלן הקישורים לדפים שבהם מופיעות ההערות, עם ספירת ההערות לכל אחת מהן.",
+    "HERE_ARE_LINKS_TO_PAGES": "להלן הקישורים לדפים שבהם מופיעות התגובות, עם ספירת התגובות לכל אחד מהם.",
     "PAGE": "עמוד",
-    "NEW_COMMENTS": "הערות חדשות",
-    "MODERATE_COMMENTS": "תגובות מתונות"
+    "NEW_COMMENTS": "תגובות חדשות",
+    "MODERATE_COMMENTS": "ניהול תגובות"
 }

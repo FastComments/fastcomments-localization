@@ -1,11 +1,11 @@
 {
-    "INTRO": "Salut <%= username %>, tu as gagné un nouveau badge sur <strong><%= siteDomain %></strong> !",
-    "CONGRATULATIONS": "Félicitations!",
+    "INTRO": "Bonjour <%= username %>, vous avez gagné un nouveau badge sur <strong><%= siteDomain %></strong> !",
+    "CONGRATULATIONS": "Félicitations !",
     "BANNER_TEXT": "Nouveau badge obtenu",
     "FROM_NAME": "Robot FastComments",
     "SUBJECT": "Vous avez gagné le badge « <%= badge.displayLabel %> » !",
-    "BADGE_EARNED_MESSAGE": "Vous avez obtenu avec succès le badge <strong><%= badge.displayLabel %></strong> .",
+    "BADGE_EARNED_MESSAGE": "Vous avez obtenu le badge <strong><%= badge.displayLabel %></strong>.",
     "KEEP_UP_GOOD_WORK": "Continuez votre excellent travail !",
-    "UNSUBSCRIBE_HERE": "Se désabonner des notifications par badge",
-    "VIEW_YOUR_PROFILE": "Consultez votre profil"
+    "UNSUBSCRIBE_HERE": "Se désabonner des notifications de badges",
+    "VIEW_YOUR_PROFILE": "Voir votre profil"
 }

@@ -1,7 +1,7 @@
 {
-    "INTRO": "おい <%= tenantName %>",
+    "INTRO": "<%= tenantName %> さん、",
     "BANNER_TEXT": "FastCommentsトライアルアップデート",
-    "FROM_NAME": "FastCommentsトライアルロボット",
+    "FROM_NAME": "FastComments トライアルロボット",
     "SUBJECT": "FastComments無料トライアル-残り15日",
     "FRIENDLY_REMINDER": "これは、FastCommentsの無料トライアルの途中であることを思い出させるものです。",
     "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %>コメントがあなたのサイトに残されています。",

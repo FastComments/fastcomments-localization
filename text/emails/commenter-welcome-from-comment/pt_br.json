@@ -1,12 +1,12 @@
 {
-    "SUBJECT": "Bem-vindo a FastComments <%= comment.commenterName %>!",
-    "BANNER_TEXT": "Bem-vindo a FastComments.",
+    "SUBJECT": "Bem-vindo ao FastComments <%= comment.commenterName %>!",
+    "BANNER_TEXT": "Bem-vindo ao FastComments",
     "INTRO": "Ei <%= comment.commenterName %>,",
-    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Parece que você comentou sobre um post <a href=\"<%= comment.url %>\"> aqui </a>.",
+    "LOOKS_LIKE_YOU_COMMENTED_HERE": "Parece que você comentou em um post <a href=\"<%= comment.url %>\">aqui</a>.",
     "VERIFY_YOUR_ACCOUNT": "Verifique sua conta",
-    "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "Você pode criar novos links para efetuar login na sua conta <a href=\"<%= FC_DOMAIN %>/auth/login/\"> aqui </a>.",
-    "WASNT_YOU_OR_REGRET": "Se isso não fosse você ou você se arrepende do que você disse ignore este e-mail e o comentário será removido em <%= removedInDays %> dias.",
-    "REMOVE_COMMENT": "Se você gostaria de remover este comentário agora, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> Clique aqui </a>",
+    "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "Você pode criar novos links para entrar na sua conta <a href=\"<%= FC_DOMAIN %>/auth/login/\">aqui</a>.",
+    "WASNT_YOU_OR_REGRET": "Se isso não foi você ou você se arrepende do que disse, ignore este e-mail e o comentário será removido em <%= removedInDays %> dias.",
+    "REMOVE_COMMENT": "Se você quiser remover este comentário agora, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">clique aqui</a>",
     "THANKS_SO_MUCH": "Muito obrigado!",
     "USING_NAME_YOU_SAID": "Usando o nome \"<%= comment.commenterName %>\", você disse:",
     "JUST_NOW": "agora mesmo",
@@ -17,7 +17,7 @@
     "YESTERDAY": "Ontem",
     "DAYS_AGO": " dias atrás",
     "WEEKS_AGO": " semanas atrás",
-    "MONTHS_AGO": " meses antes",
+    "MONTHS_AGO": " meses atrás",
     "YEARS_AGO": " anos atrás",
-    "UNSUBSCRIBE_HERE": "Cancelar subscrição"
+    "UNSUBSCRIBE_HERE": "Cancelar inscrição"
 }

@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "<%= TEXT[widget.titleKey] %> Widget - Hızlı Yorumlar",
+    "PAGE_TITLE": "<%= TEXT[widget.titleKey] %> Widget - FastComments",
     "HEADING": "Widget Kodu",
     "HEADING_MULTIPLE_INSTANCES": "Not - Birden Fazla Örnek",
     "MESSAGE_MULTIPLE_INSTANCES": "Aynı sayfada, örneğin blog gönderileri listesi gibi, bu widget'ın birden fazla örneğini kullanmak için, hedef öğenin kimliklerini oluşturmanız ve bu kimliği widget'a iletmeniz yeterlidir. Örneğin, 'widget-id-0', 'widget-id-1' vb.",

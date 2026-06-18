@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "Özelleştir - Hızlı Yorumlar",
+    "PAGE_TITLE": "Özelleştir - FastComments",
     "HEADING_ADD": "Moderatör ekle",
-    "HEADING_EDIT": "Özelleştirmek <%= moderator.name %>",
+    "HEADING_EDIT": "Özelleştir: <%= moderator.name %>",
     "SUB_HEADING_ADD": "Moderatör ekle",
     "SUB_HEADING_EDIT": "Düzenleme <%= moderator.name %>",
     "INTRO_PARAGRAPH_1": "Yorumlarınızı denetleyecek birine erişim izni vermek istiyorsanız doğru yerdesiniz.",
@@ -16,5 +16,5 @@
     "MODERATION_GROUPS_LABEL": "Moderasyon Grupları",
     "CLEAR_ALL_LINK": "Tümünü Temizle",
     "GROUPS_DESCRIPTION": "Yalnızca bu grupların yorumlarını \"Yorumları Denetle\" sayfasında görebilecekler.",
-    "SAVE_BUTTON": "Kaydetmek"
+    "SAVE_BUTTON": "Kaydet"
 }

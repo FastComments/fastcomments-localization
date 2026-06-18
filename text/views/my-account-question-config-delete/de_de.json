@@ -1,9 +1,9 @@
 {
-    "PAGE_TITLE": "Frage löschen – Schnellkommentare",
-    "HEADING": "Löschen \"<%= question.name %>\"?",
-    "CONFIRM_MESSAGE": "Möchten Sie die am <%= question.question %> erstellte Frage \"<%= question.createdAt.toLocaleString() %>\" wirklich löschen?",
+    "PAGE_TITLE": "Frage löschen – FastComments",
+    "HEADING": "\"<%= question.name %>\" löschen?",
+    "CONFIRM_MESSAGE": "Möchten Sie die am <%= question.createdAt.toLocaleString() %> erstellte Frage \"<%= question.question %>\" wirklich löschen?",
     "REPLY_COUNT_MESSAGE": "Diese Frage hat <%= Number(question.usedCount).toLocaleString() %> Antworten.",
     "DATA_LOSS_WARNING": "Die Daten aus diesen Antworten werden in der Berichterstattung nicht mehr berücksichtigt.",
     "DELETE_BUTTON": "Löschen",
-    "CANCEL_LINK": "Stornieren"
+    "CANCEL_LINK": "Abbrechen"
 }

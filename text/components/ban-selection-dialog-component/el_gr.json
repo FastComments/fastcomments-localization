@@ -2,9 +2,9 @@
     "BAN_SELECT_TITLE": "Επιλέξτε Αποκλεισμός για Επεξεργασία",
     "BAN_SELECT_SUBTITLE_MULTIPLE": "Υπάρχουν πολλαπλές απαγορεύσεις που επηρεάζουν [username].",
     "BAN_SELECT_SUBTITLE_ONE": "[username] επηρεάζεται από έναν αποκλεισμό για αυτό το σχόλιο.",
-    "BAN_SELECT_BTN_SELECT": "Επιλέγω",
+    "BAN_SELECT_BTN_SELECT": "Επιλογή",
     "BAN_SELECT_BTN_CREATE_NEW": "Δημιουργία νέου",
-    "BAN_SELECT_BTN_CANCEL": "Ματαίωση",
+    "BAN_SELECT_BTN_CANCEL": "Ακύρωση",
     "BAN_SELECT_DROPDOWN_LABEL": "Επιλέξτε μια απαγόρευση",
     "BAN_SELECT_SECTION_LABEL": "Σχετικές απαγορεύσεις",
     "BAN_SELECT_REMINDER": "Θυμηθείτε να ελέγξετε πώς η απαγόρευση ταιριάζει με τον χρήστη πριν από την επεξεργασία!",
@@ -15,7 +15,7 @@
     "BAN_SELECT_USER_ID": "Αναγνωριστικό χρήστη",
     "BAN_SELECT_EMAIL": "E-mail",
     "BAN_SELECT_EMAIL_PATTERN": "Μοτίβο ηλεκτρονικού ταχυδρομείου",
-    "BAN_SELECT_IP": "Πνευματική Ιδιοκτησία",
+    "BAN_SELECT_IP": "IP",
     "BAN_SELECT_MATCHED_ON": "Ταιριάστηκε στις: [matches]",
     "BAN_SELECT_ID": "(Αναγνωριστικό: [id])"
 }

@@ -1,8 +1,8 @@
 {
     "INTRO": "Ei <%= username %>,",
-    "FROM_NAME": "FastComments Robot.",
-    "SUBJECT": "Você foi convidado a participar <%= tenantName %>!",
-    "BANNER_TEXT": "FastComments convidam",
-    "INVITE_DETAILS": "Você foi convidado a participar do inquilino de FastComments <%= tenantName %>. Aceitar este convite criará uma conta para você com as seguintes permissões:",
+    "FROM_NAME": "Robô FastComments",
+    "SUBJECT": "Você foi convidado para participar de <%= tenantName %>!",
+    "BANNER_TEXT": "Convite do FastComments",
+    "INVITE_DETAILS": "Você foi convidado para participar do locatário <%= tenantName %> no FastComments. Aceitar este convite criará uma conta para você com as seguintes permissões:",
     "ACCEPT_INVITE": "Aceitar convite"
 }

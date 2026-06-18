@@ -5,7 +5,7 @@
     "SUBJECT": "Otkrivene greške API-ja FastComments",
     "BANNER_TEXT": "Otkrivene greške API-ja FastComments",
     "DETECTION": "Otkrili smo <%= errorCountFormatted %> API <%= errorWord %> za Vaš nalog na dan <%= errorDate %>.",
-    "FROM_NAME": "FastComments API-robot",
+    "FROM_NAME": "FastComments API robot",
     "EXPLANATION": "Ove greške su se dogodile prilikom pozivanja naše platforme. Predlažemo da proverite dnevnike za bilo kakve prilagođene API integracije sa FastComments za greške.",
     "TENANT_NOTE": "Ovo se odnosi na stanara sa id-om \"<%= tenantId %>\".",
     "OPT_OUT": "Možete da isključite ova obaveštenja <a href=\"<%= notificationSettingsUrl %>\">ovde</a>.",

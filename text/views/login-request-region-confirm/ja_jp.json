@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "<%= otherRegionName %> に切り替えますか? - FastComments",
-    "HERO_TITLE_LIGHT": "切り替える ",
+    "HERO_TITLE_LIGHT": "切り替え先: ",
     "HERO_TITLE_BOLD": "<%= otherRegionName %>",
     "HERO_DESCRIPTION": "あなたは<a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a>にアカウントを持っています - 代わりにそこにログインしますか?",
     "INFO_MESSAGE_BOLD": "他のデータセンターにアカウントをお持ちです。",

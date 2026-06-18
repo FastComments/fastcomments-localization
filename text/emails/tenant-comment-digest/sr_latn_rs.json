@@ -14,7 +14,7 @@
     "NO_COMMENTS": "Ovde nema šta da se pokaže!",
     "VIEW_MORE_COMMENTS": "Moderiraj još <%= abbreviateNumber(commentCount - comments.length, 0, locale) %> komentara",
     "MODERATE_COMMENTS": "Moderiraj komentare",
-    "FROM_NAME": "FastComments Robot",
+    "FROM_NAME": "FastComments robot",
     "APPROVE": "Odobri",
     "APPROVE_AND_RESPOND": "Odobri i odgovori",
     "AUDIENCE_METRICS": "Metrika publike",

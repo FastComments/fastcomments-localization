@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Abzeichen - Schnellkommentare",
+    "PAGE_TITLE": "Abzeichen - FastComments",
     "TEXT_EDIT_WARNING": "<b>Achtung!</b> Durch das Bearbeiten von Abzeichen werden bereits zugewiesene Abzeichen geändert. Gehen Sie mit Bedacht vor, um Ihre Community nicht zu verärgern.",
     "HEADING_CREATE_BADGE": "Erstelle ein Abzeichen",
     "TEXT_CREATE_BADGE_INTRO": "Um ein Badge zu erstellen, müssen wir zuerst den Badge-Typ und dessen Aussehen auswählen. Badges können entweder als formatierter Text oder als benutzerdefiniertes Bild angezeigt werden.",
@@ -17,7 +17,7 @@
     "LABEL_DESCRIPTION": "Optional: Beschreibung",
     "PLACEHOLDER_DESCRIPTION": "Geben Sie eine Beschreibung ein...",
     "TEXT_DESCRIPTION_NOTE": "Eine optionale Beschreibung zur Erläuterung des Abzeichens. Wird beim Überfahren des Abzeichens mit der Maus angezeigt.",
-    "LABEL_ENABLED": "Ermöglicht",
+    "LABEL_ENABLED": "Aktiviert",
     "TEXT_ENABLED_NOTE": "Wenn ein Abzeichen deaktiviert ist, wird es nicht mehr an neue Benutzer vergeben. Manuelle Abzeichen können von Moderatoren nicht mehr vergeben werden.",
     "TEXT_HOW_BADGE_DISPLAY": "Wie soll dieses Abzeichen angezeigt werden?",
     "LABEL_IMAGE_BADGE": "Bildabzeichen",
@@ -41,6 +41,6 @@
     "OPTION_NONE": "- Keine -",
     "OPTION_NO_OTHER_BADGES": "Keine anderen Abzeichen",
     "TEXT_REPLACES_BADGE_NOTE": "Beispielsweise könnte ein „Top-Kommentator“-Abzeichen ein „Neuer Kommentator“-Abzeichen automatisch ersetzen. Der Nutzer behält beide Abzeichen, es wird jedoch das neue angezeigt.",
-    "BUTTON_UPDATE_BADGE": "Update-Badge",
+    "BUTTON_UPDATE_BADGE": "Abzeichen aktualisieren",
     "BUTTON_CREATE_BADGE": "Abzeichen erstellen"
 }

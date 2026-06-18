@@ -1,7 +1,7 @@
 {
     "INTRO": "היי <%= username %>, זכית בתג חדש ב <strong>-<%= siteDomain %></strong> !",
     "CONGRATULATIONS": "מזל טוב!",
-    "BANNER_TEXT": "תג חדש הושגה",
+    "BANNER_TEXT": "תג חדש הושג",
     "FROM_NAME": "רובוט FastComments",
     "SUBJECT": "זכית בתג \"<%= badge.displayLabel %>\"!",
     "BADGE_EARNED_MESSAGE": "זכית בהצלחה בתג <strong><%= badge.displayLabel %></strong> .",

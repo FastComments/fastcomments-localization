@@ -5,9 +5,9 @@
     "ERROR_PLURAL": "エラー",
     "GREETING": "こんにちは、",
     "SUBJECT": "FastComments APIでエラーが検出されました",
-    "DETECTION": "<%= errorCountFormatted %>日に、お客様のアカウントで<%= errorWord %> API <%= errorDate %>を検出しました。",
+    "DETECTION": "<%= errorDate %>に、お客様のアカウントで<%= errorCountFormatted %>件のAPI<%= errorWord %>を検出しました。",
     "EXPLANATION": "これらのエラーは、弊社プラットフォームへの呼び出し時に発生しました。FastCommentsとのカスタムAPI連携に関するエラーがないか、ログを確認することをお勧めします。",
-    "SIGN_OFF": "心から、",
+    "SIGN_OFF": "敬具",
     "TENANT_NOTE": "これは、IDが「<%= tenantId %>」のテナントに関するものです。",
     "TEAM_NAME": "FastCommentsエンジニアリングチーム",
     "OPT_OUT": "<a href=\"<%= notificationSettingsUrl %>\">こちらから</a>これらの通知の受信を停止できます。"

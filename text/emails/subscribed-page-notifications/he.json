@@ -1,12 +1,12 @@
 {
     "INTRO": "היי <%= username %>,",
-    "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "יש הערות חדשות בדפים שנרשמתם אליהם.",
-    "HERE_ARE_LINKS_TO_PAGES": "הנה רשימה של דפים עם ההערות החדשות. יש גם קישורים למטה לביטול הרשמה מדף אם תרצה.",
-    "CAN_VIEW_ALL_IN_ACCOUNT": "אתה יכול לראות את כל ההתראות האישיות שלך שלא נקראו <a href=\"<%= FC_SITE %>/auth/my-account\">בבית החשבון שלך</a> .",
+    "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "יש תגובות חדשות בדפים שנרשמתם אליהם.",
+    "HERE_ARE_LINKS_TO_PAGES": "הנה רשימה של דפים עם התגובות החדשות. יש גם קישורים למטה לביטול הרשמה מדף אם תרצה.",
+    "CAN_VIEW_ALL_IN_ACCOUNT": "אתה יכול לראות את כל ההתראות האישיות שלך שלא נקראו <a href=\"<%= FC_SITE %>/auth/my-account\">בעמוד הבית של החשבון שלך</a> .",
     "PAGE": "עמוד",
-    "NEW_COMMENTS": "הערות",
+    "NEW_COMMENTS": "תגובות",
     "UNSUBSCRIBE": "בטל את המנוי",
-    "SUBJECT": "הערות חדשות",
-    "VIEW": "נוף",
+    "SUBJECT": "תגובות חדשות",
+    "VIEW": "הצגה",
     "FROM_NAME": "מנויי FastComments"
 }

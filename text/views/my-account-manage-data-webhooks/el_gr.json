@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "Webhooks - FastComments",
-    "HEADING": "Ιστοσελίδες",
+    "HEADING": "Webhooks",
     "WEBHOOK_LOGS_LINK": "Αρχεία καταγραφής webhook",
     "DOCUMENTATION_LINK_TEXT": "Για την τεκμηρίωση και τη δομή του αιτήματος, δείτε <a href=\"https://docs.fastcomments.com/guide-webhooks.html\" target=\"_blank\">εδώ</a> .",
     "NOSCRIPT_MESSAGE": "Απαιτείται JavaScript για να λειτουργήσει σωστά αυτό το περιβάλλον χρήστη.",
@@ -12,7 +12,7 @@
     "ON_COMMENT_UPDATED_LABEL": "Ενημερώθηκε το σχόλιο",
     "ON_COMMENT_DELETED_LABEL": "Το σχόλιο διαγράφηκε",
     "IDEMPOTENT_OPERATION_TITLE": "Αυτή είναι μια αυτοδύναμη λειτουργία.",
-    "SAVE_BUTTON": "Εκτός",
+    "SAVE_BUTTON": "Αποθήκευση",
     "URL_PLACEHOLDER": "https://your-site.com/your-endpoint",
     "SEND_TEST_PAYLOAD_BUTTON": "Αποστολή δοκιμαστικού φορτίου",
     "STATUS_VERIFIED": "✔️ Επαληθευμένο",

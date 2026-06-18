@@ -1,5 +1,5 @@
 {
-    "FROM_NAME": "FastComments Help Bot",
+    "FROM_NAME": "FastComments Hilfe-Bot",
     "SUBJECT": "Hilfeanforderung vom Support bestätigt",
     "HEY": "Hallo <%= commenterUsername %>,",
     "ACKNOWLEDGED_BY_ADMIN": "Anscheinend hat der Support-Mitarbeiter mit dem Benutzernamen \"<%= adminUsername %>\" Ihre Anfrage bestätigt. Sie sollten sich in Kürze bei Ihnen melden.",

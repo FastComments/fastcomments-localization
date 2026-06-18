@@ -1,7 +1,7 @@
 {
     "INTRO": "嘿 <%= username %>，",
-    "BANNER_TEXT": "快速評論通知",
-    "FROM_NAME": "快評機器人",
-    "SUBJECT": "你已經從 <%= tenantName %> 中刪除",
-    "REMOVED_AS_ADMIN": "您似乎已從 <%= tenantName %> 中刪除了用戶身份。您將保留您的 FastComments 帳戶作為評論者，但您將無法再訪問<%= tenantName %>。"
+    "BANNER_TEXT": "FastComments 通知",
+    "FROM_NAME": "FastComments 機器人",
+    "SUBJECT": "您已從 <%= tenantName %> 中移除",
+    "REMOVED_AS_ADMIN": "您似乎已從 <%= tenantName %> 移除了使用者身分。您將保留您的 FastComments 帳戶作為評論者，但您將無法再存取 <%= tenantName %>。"
 }

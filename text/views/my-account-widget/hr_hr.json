@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "<%= TEXT[widget.titleKey] %> Widget - Brzi komentari",
+    "PAGE_TITLE": "<%= TEXT[widget.titleKey] %> Widget - FastComments",
     "HEADING": "Kod widgeta",
     "HEADING_MULTIPLE_INSTANCES": "Napomena - Višestruke instance",
     "MESSAGE_MULTIPLE_INSTANCES": "Za korištenje više instanci ovog widgeta na istoj stranici, kao što je popis objava na blogu, jednostavno generirajte ID-ove ciljnog elementa i proslijedite taj isti ID widgetu. Na primjer, 'widget-id-0', 'widget-id-1' i tako dalje.",

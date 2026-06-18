@@ -1,9 +1,9 @@
 {
     "PAGE_TITLE": "Rediger domæne - FastComments",
-    "BUTTON_CANCEL": "Ophæve",
-    "BUTTON_SAVE": "Spare",
+    "BUTTON_CANCEL": "Annuller",
+    "BUTTON_SAVE": "Gem",
     "LABEL_DOMAIN_NAME": "Domænenavn",
-    "HEADING_EDITING_DOMAIN": "Redigering <%= domainName %>",
+    "HEADING_EDITING_DOMAIN": "Redigerer <%= domainName %>",
     "HEADING_EDIT_DOMAIN": "Rediger domæne",
     "PLACEHOLDER_DOMAIN_NAME": "Indtast et topdomæne, f.eks. fastcomments.com",
     "TEXT_MIGRATION_HELP": "Hvis du omdøber dette domæne, kan følgende data migreres til det nye domænenavn. Fjern markeringen i de elementer, du ikke vil migrere.",

@@ -6,13 +6,13 @@
     "FILTER_BY_TYPE_LABEL": "סנן לפי סוג",
     "FILTER_BY_STATUS_LABEL": "סנן לפי סטטוס",
     "FILTER_BY_COMMENT_ID_LABEL": "סנן לפי מזהה תגובה",
-    "ALL_OPTION": "כֹּל",
+    "ALL_OPTION": "הכל",
     "CREATE_EVENTS_OPTION": "צור אירועים",
     "DELETE_EVENTS_OPTION": "מחיקת אירועים",
     "UPDATE_EVENTS_OPTION": "עדכון אירועים",
     "SUCCESSFUL_EVENTS_OPTION": "אירועים מוצלחים",
     "FAILED_EVENTS_OPTION": "אירועים שנכשלו",
-    "SEARCH_BUTTON": "לְחַפֵּשׂ",
+    "SEARCH_BUTTON": "חיפוש",
     "STATS_WAITING": "<b><%= Number(countPending).toLocaleString() %></b> מחכה",
     "STATS_PENDING_RETRY": "<b><%= Number(countPendingRetried).toLocaleString() %></b> ממתין לניסיון חוזר",
     "TABLE_HEADER_WHEN": "כַּאֲשֵׁר",
@@ -28,7 +28,7 @@
     "TYPE_N_A": "לא רלוונטי",
     "VIEW_DETAILS_ALT": "זְכוּכִית מַגדֶלֶת",
     "VIEW_DETAILS_TITLE": "הצג פרטים",
-    "CANCEL_WEBHOOK_ALT": "לְבַטֵל",
+    "CANCEL_WEBHOOK_ALT": "ביטול",
     "CANCEL_WEBHOOK_TITLE": "ביטול Webhook",
     "CANCELLED_TEXT": "בּוּטלָה",
     "CANCELLED_TITLE": "Webhook כבר בוטל",
@@ -38,5 +38,5 @@
     "RETENTION_INFO": "יומני Webhook נשמרים למשך שנה אחת.",
     "N_A_VALUES_NOTE": "ייתכן שחלק מהערכים יציגו את הערך \"N/A\" עבור ערכים שלא תמיד אספנו.",
     "LOG_DETAILS_HEADING": "פרטי יומן",
-    "CLOSE_BUTTON": "לִסְגוֹר"
+    "CLOSE_BUTTON": "סגירה"
 }

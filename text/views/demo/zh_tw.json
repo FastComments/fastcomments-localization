@@ -15,7 +15,7 @@
     "DEMO_OPTION_RATINGS_ABOUT": "這裡有兩個小部件：摘要小部件和評論小部件。我們在控制面板的“自訂”->“問題”中添加了一些問題，並在“自訂”->“自訂”中添加了一個使用這些問題的小部件配置。我們也設定了該小工具配置僅套用於此頁面，但您也可以設定問題顯示在所有頁面上或特定子網域上。",
     "DEMO_OPTION_SSO_TITLE": "單一登入",
     "DEMO_OPTION_SSO_DESC": "自動登入用戶。",
-    "DEMO_OPTION_SSO_ABOUT": "這裡我們使用的是 FastComment 的安全性單一登入 (SSO) 解決方案。當您點擊按鈕時，該方案會呼叫 API 以取得使用者信息，並使用 SHA-256 哈希演算法對資訊進行哈希處理以驗證其真實性。 <a href=\"https://github.com/FastComments/fastcomments-code-examples/blob/master/sso/node-express/routes/index.js#L8\">代碼與此非常相似。</a><br><br> FastComments 也支援我們稱為「簡單 SSO」的功能，該功能不需要伺服器。<br><br>兩種方案都可以設定使用者是版主還是管理員，新增自訂標籤、徽章、通知偏好設定等。",
+    "DEMO_OPTION_SSO_ABOUT": "這裡我們使用的是 FastComment 的安全性單一登入 (SSO) 解決方案。當您點選按鈕時，該方案會呼叫 API 以取得使用者資訊，並使用 SHA-256 雜湊演算法對資訊進行雜湊處理以驗證其真實性。 <a href=\"https://github.com/FastComments/fastcomments-code-examples/blob/master/sso/node-express/routes/index.js#L8\">程式碼與此非常相似。</a><br><br> FastComments 也支援我們稱為「簡單 SSO」的功能，該功能不需要伺服器。<br><br>兩種方案都可以設定使用者是版主還是管理員，新增自訂標籤、徽章、通知偏好設定等。",
     "DEMO_OPTION_ANON_TITLE": "匿名的",
     "DEMO_OPTION_ANON_DESC": "不要要求提供電子郵件地址才能發表評論。",
     "DEMO_OPTION_ANON_ABOUT": "在這個例子中，我們啟用了一些設定。我們啟用了匿名評論，但即使啟用了匿名評論，郵箱輸入框仍然會顯示，只是變成了可選的。我們還隱藏了郵箱輸入框，並允許匿名投票和舉報。所有這些設定都是透過管理背景完成的，無需編寫任何程式碼。",
@@ -39,7 +39,7 @@
     "DEMO_OPTION_TOS_ABOUT": "此示範展示了「服務條款」複選框，該複選框可設定為首次評論者必須勾選。啟用後，匿名使用者在每次評論時都會看到此複選框，而已認證使用者僅在首次評論時或您更新服務條款時才會看到此複選框。<br><br>您可以根據語言環境自訂複選框文本，並設定“上次更新”日期，以便在條款更改時強制使用者重新接受。",
     "DEMO_OPTION_AI_AGENTS_TITLE": "主題摘要器",
     "DEMO_OPTION_AI_AGENTS_ABOUT": "這是我們人工智慧代理功能的示範。我們配置了一個代理，用於定期匯總評論、發表評論並將其置頂。此外，我們還配置了另一個代理，用於在您首次在此處發表評論時向您發送歡迎郵件（如果您之前沒有在我們的任何其他演示中發表過評論）。我們也配置了一個人工智慧代理來執行常規審核工作。",
-    "DEMO_OPTION_AI_AGENTS_DESC": "使用<a href=\"https://docs.fastcomments.com/guide-ai-agents.html\" target=\"_blank\">AI 代理</a>進行線程摘要，以及其他一些 AI 代理功能，例如歡迎電子郵件。",
+    "DEMO_OPTION_AI_AGENTS_DESC": "使用<a href=\"https://docs.fastcomments.com/guide-ai-agents.html\" target=\"_blank\">AI 代理</a>進行討論串摘要，以及其他一些 AI 代理功能，例如歡迎電子郵件。",
     "DEMO_OPTION_USER_LIST_TITLE": "使用者列表",
     "DEMO_OPTION_USER_LIST_ABOUT": "在評論元件旁邊顯示此頁面上的使用者清單。 「線上參與者」部分即時顯示所有目前正在瀏覽的使用者；「離線參與者」部分在啟用「usersListIncludeOffline」時列出過去的評論者。可配置為顯示在頂部面板、左側邊欄或右側邊欄。",
     "DEMO_OPTION_USER_LIST_DESC": "在小工具旁邊顯示線上瀏覽者和過往評論者的側邊欄。"

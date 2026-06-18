@@ -1,7 +1,7 @@
 {
     "PAGE_TITLE": "<%= template.displayName %> を削除 - FastComments",
-    "HEADING_DELETE_TEMPLATE": "消去 \"<%= template.displayName %>\"？",
-    "TEXT_CONFIRM_DELETE": "<%= template.displayName %> に作成されたテンプレート <%= template.createdAt.toLocaleString() %> を削除してもよろしいですか?",
-    "BUTTON_DELETE": "消去",
+    "HEADING_DELETE_TEMPLATE": "「<%= template.displayName %>」を削除しますか？",
+    "TEXT_CONFIRM_DELETE": "<%= template.createdAt.toLocaleString() %> に作成されたテンプレート <%= template.displayName %> を削除してもよろしいですか?",
+    "BUTTON_DELETE": "削除",
     "BUTTON_CANCEL": "キャンセル"
 }

@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "מחיקת <%= targetTenant.name %> - תגובות מהירות",
+    "PAGE_TITLE": "מחיקת <%= targetTenant.name %> - FastComments",
     "HEADING": "מחיקת דייר",
     "CONFIRM_HEADING": "האם אתה בטוח שאתה רוצה למחוק <%= targetTenant.name %>?",
     "MESSAGE_WILL_DELETE": "פעולה זו תמחק:",
@@ -28,12 +28,12 @@
     "DELETE_LABEL_IMAGE_CONVERSATIONS": "שיחות תמונה",
     "DELETE_LABEL_TEXT_CONVERSATIONS": "שיחות טקסט",
     "DELETE_LABEL_BANNED_USERS": "משתמשים חסומים",
-    "DELETE_LABEL_HASH_TAGS": "תגיות האש",
+    "DELETE_LABEL_HASH_TAGS": "תגיות hashtag",
     "DELETE_LABEL_USER_SUBSCRIPTIONS": "מנויי משתמשים",
     "DELETE_LABEL_BADGES": "תגים",
     "DELETE_LABEL_ADMIN_INVITES": "הזמנות מנהל",
     "DELETE_LABEL_CUSTOM_EMAIL_TEMPLATES": "תבניות דוא\"ל מותאמות אישית",
     "DELETE_LABEL_QUESTIONS": "שאלות",
     "DELETE_LABEL_QUESTION_RESULTS": "תוצאות השאלה",
-    "DELETE_LABEL_STRIPE_SUBSCRIPTION": "מנוי לסטרייפ."
+    "DELETE_LABEL_STRIPE_SUBSCRIPTION": "מנוי Stripe."
 }

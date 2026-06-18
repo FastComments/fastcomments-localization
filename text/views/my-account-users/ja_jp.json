@@ -12,9 +12,9 @@
     "HEADING_PENDING_INVITES": "保留中の招待",
     "STATUS_INVITE_PENDING": "招待保留中",
     "BUTTON_IMPERSONATE": "なりすまし",
-    "TOOLTIP_IMPERSONATE": "あなたもこのユーザーになります。",
+    "TOOLTIP_IMPERSONATE": "このユーザーになりかわります。",
     "BUTTON_RESEND_INVITE": "招待を再送信",
-    "BUTTON_DELETE": "消去",
+    "BUTTON_DELETE": "削除",
     "LINK_ADD_USER": "ユーザーを追加",
     "ALT_PLUS": "プラス",
     "ALT_CHECKBOX_CHECKED": "チェックボックスがオン",
@@ -25,8 +25,8 @@
     "USERS_SEND_LOGIN_LINK": "ログインリンクを送信",
     "USERS_RESEND_INVITE": "招待を再送信",
     "USERS_IMPERSONATE": "なりすまし",
-    "USERS_IMPERSONATE_TITLE": "あなたもこのユーザーになります。",
-    "USERS_DELETE": "消去",
+    "USERS_IMPERSONATE_TITLE": "このユーザーになりかわります。",
+    "USERS_DELETE": "削除",
     "USERS_NOT_YET_VERIFIED": "まだ確認されていません",
     "USERS_CHECK_BOX_CHECKED_ALT": "チェックボックスがオン",
     "USERS_HAS_PERMISSION_TITLE": "許可あり",
@@ -40,5 +40,5 @@
     "USERS_ENABLED": "有効",
     "USERS_DISABLED": "無効",
     "USERS_COMMENTS": "コメント:",
-    "USERS_EMAIL_SUPPRESSED": "メールの抑制"
+    "USERS_EMAIL_SUPPRESSED": "メール抑制済み"
 }

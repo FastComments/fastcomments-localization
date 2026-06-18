@@ -12,9 +12,9 @@
     "PREVIEW_VOTE_THRESHOLD_LABEL": "Όριο ψήφου",
     "PREVIEW_TRIGGERS_LABEL": "Εκτελείται όταν",
     "START_FRESH_NAME": "Ξεκινήστε από την αρχή",
-    "TEMPLATE_TOS_ENFORCER_CARD_NAME": "Μεσολαβητής",
+    "TEMPLATE_TOS_ENFORCER_CARD_NAME": "Συντονιστής",
     "USE_TEMPLATE_BUTTON": "Χρησιμοποιήστε αυτό το πρότυπο",
-    "PREVIEW_DELAY_VALUE": "{λεπτά} λεπτά",
+    "PREVIEW_DELAY_VALUE": "{minutes} λεπτά",
     "START_FRESH_DESCRIPTION": "Ανοίξτε μια κενή φόρμα και ρυθμίστε μόνοι σας κάθε πεδίο.",
     "TEMPLATE_WELCOME_GREETER_CARD_NAME": "Υποδοχή καλωσορίσματος",
     "TEMPLATE_WELCOME_GREETER_CARD_DESCRIPTION": "Απαντήσεις σε όσους σχολιάζουν για πρώτη φορά με ένα σύντομο, συγκεκριμένο καλωσόρισμα. Βοηθά τους νέους χρήστες να αισθάνονται ότι είναι ορατοί χωρίς να κάνουν spam σε παλιούς λογαριασμούς.",
@@ -24,5 +24,5 @@
     "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "Σύνοψη νημάτων",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Δημοσιεύει μια ουδέτερη περίληψη σε μεγάλα νήματα μετά από μια σύντομη καθυστέρηση. Δίνει σε όσους αργούν να απαντήσουν μια γρήγορη ανάγνωση των θέσεων και των ανοιχτών ερωτήσεων.",
     "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Παρακολουθεί τις επεξεργασίες σχολίων για επανεγγραφές στη μέση του νήματος που παραμορφώνουν τις απαντήσεις. Επαναφέρει το αρχικό κείμενο και στέλνει μήνυμα στον συγγραφέα.",
-    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Ανιχνευτής αερίου"
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Ανιχνευτής Χειραγώγησης"
 }

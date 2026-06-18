@@ -12,8 +12,8 @@
     "LABEL_EMAIL": "*E-mail:",
     "PLACEHOLDER_EMAIL": "Indtast en e-mail",
     "EMAIL_DESCRIPTION": "Vi sender dig et link via e-mail, så du kan fuldføre din konto og logge ind.",
-    "SIGNUP_EMAIL_TEXT": "Du tilmelder dig ved hjælp af <b><%= email %></b> .",
-    "TERMS_AGREEMENT": "Ved at klikke på Tilmeld accepterer du <a href=\"/terms-of-service\" target=\"_blank\">Servicevilkårene</a> .",
+    "SIGNUP_EMAIL_TEXT": "Du tilmelder dig ved hjælp af <b><%= email %></b>.",
+    "TERMS_AGREEMENT": "Ved at klikke på Tilmeld accepterer du <a href=\"/terms-of-service\" target=\"_blank\">Servicevilkårene</a>.",
     "BUTTON_SIGN_UP": "Tilmeld dig",
     "LABEL_CAPTCHA": "Hvad er <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Hjælper med at afgøre, at du ikke er en bot."

@@ -4,11 +4,11 @@
     "BANNER_TEXT": "זוהו שגיאות ב-API של FastComments",
     "SUBJECT": "זוהו שגיאות ב-API של FastComments",
     "FROM_NAME": "רובוט ה-API של FastComments",
-    "ERROR_SINGULAR": "שְׁגִיאָה",
+    "ERROR_SINGULAR": "שגיאה",
     "TENANT_NOTE": "זה בנוגע לדייר עם המזהה \"<%= tenantId %>\".",
     "EXPLANATION": "שגיאות אלו התרחשו בעת קריאה לפלטפורמה שלנו. אנו ממליצים לבדוק יומני רישום של אינטגרציות API מותאמות אישית עם FastComments לאיתור שגיאות.",
     "DETECTION": "זיהינו <%= errorCountFormatted %> ממשק API <%= errorWord %> עבור חשבונך ביום <%= errorDate %>.",
-    "SIGN_OFF": "בְּכֵנוּת,",
+    "SIGN_OFF": "בכנות,",
     "OPT_OUT": "באפשרותך לבטל את התראות אלה <a href=\"<%= notificationSettingsUrl %>\">כאן</a> .",
     "TEAM_NAME": "צוות ההנדסה של FastComments"
 }

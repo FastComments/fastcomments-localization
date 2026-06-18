@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - HızlıYorumlar",
-    "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> Kullanıcı rozetle birlikte <%- tenantBadge.displayLabel %>",
-    "HEADING_USERS_WITH_BADGE_PLURAL": "<%- Number(userBadges.length).toLocaleString() %> Kullanıcılar rozetle birlikte <%- tenantBadge.displayLabel %>",
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - FastComments",
+    "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- tenantBadge.displayLabel %> Rozetine Sahip <%- Number(userBadges.length).toLocaleString() %> Kullanıcı",
+    "HEADING_USERS_WITH_BADGE_PLURAL": "<%- tenantBadge.displayLabel %> Rozetine Sahip <%- Number(userBadges.length).toLocaleString() %> Kullanıcı",
     "TEXT_NO_USERS_WITH_BADGE": "Bu rozete sahip kullanıcı yok! Rozetlerin çoğu otomatik olarak verilir. Eğer manuel bir rozetse, onu manuel olarak vermeniz gerekecek.",
     "TABLE_HEADER_USER_ID": "Kullanıcı kimliği",
     "TABLE_HEADER_EMAIL": "E-posta",

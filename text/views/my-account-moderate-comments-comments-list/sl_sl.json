@@ -15,7 +15,7 @@
     "BAN_EMAIL_DOMAIN_LABEL": "Izključi vse <%= comment.commenterEmail.substring(comment.commenterEmail.indexOf('@'), comment.commenterEmail.length) %> uporabnike",
     "BAN_TYPE_LABEL": "Vrsta prepovedi",
     "BAN_TYPE_BAN": "Prepoved",
-    "BAN_TYPE_SHADOW_BAN": "Prepoved sence",
+    "BAN_TYPE_SHADOW_BAN": "Senčna prepoved",
     "BAN_DURATION_LABEL": "Trajanje prepovedi",
     "DURATION_FOREVER": "Za vedno",
     "DURATION_ONE_HOUR": "Ena ura",

@@ -1,13 +1,13 @@
 {
-    "SUBJECT": "站點已添加到您的 FastComments 帳戶",
+    "SUBJECT": "網站已新增至您的 FastComments 帳戶",
     "INTRO": "你好 <%= user.username %>",
-    "DOMAIN_ADDED_PARAGRAPH": "您的 FastComments.com 帳戶使用了一個新域。由於您處於試用期，為方便起見，我們自動添加了此站點。這是一封自動發送的電子郵件。",
-    "SITE_ADDED_WAS": "我們檢測到的新站點是： <b><%= domainAdded %></b>",
-    "TECHNICAL_DETAILS": "FastComments 按域驗證對您帳戶的請求。有時，自動化系統、機器人或翻譯工具會導致這種情況發生，將此域添加到您的帳戶可能並不理想。",
-    "FLEX_BILLING_NOTE": "<b>注意：</b>由於您的帳戶使用彈性定價，因此添加域會產生費用，第一個是免費的。在<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">此處</a>檢查任何未來發票的金額。",
-    "BILLING_NOTE": "<b>注意：</b>由於您的帳戶未使用彈性定價，因此您的帳戶中只能有這麼多域。在<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">此處</a>檢查您的計劃的使用情況。",
-    "YOU_CAN_REMOVE_THIS_DOMAIN": "如果需要，您可以刪除此域，並禁用此功能。",
-    "BUTTON_TEXT_REMOVE_DOMAIN": "刪除此域。",
-    "BUTTON_TEXT_DISABLE_FEATURE": "禁用此功能。",
-    "OUTRO": "如果該站點屬於您的帳戶，則無需採取進一步的措施。感謝您使用 FastComments！"
+    "DOMAIN_ADDED_PARAGRAPH": "您的 FastComments.com 帳戶使用了一個新網域。由於您處於試用期，為方便起見，我們已自動為您新增此網站。這是一封自動發送的電子郵件。",
+    "SITE_ADDED_WAS": "我們偵測到的新網站是： <b><%= domainAdded %></b>",
+    "TECHNICAL_DETAILS": "FastComments 依網域驗證對您帳戶的請求。有時，自動化系統、機器人或翻譯工具會導致這種情況發生，而將此網域新增至您的帳戶可能並非您所希望的。",
+    "FLEX_BILLING_NOTE": "<b>注意：</b>由於您的帳戶使用彈性定價，因此新增網域會產生費用，第一個是免費的。請在<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">此處</a>查看未來任何帳單的金額。",
+    "BILLING_NOTE": "<b>注意：</b>由於您的帳戶未使用彈性定價，因此您的帳戶中只能有一定數量的網域。請在<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">此處</a>查看您方案的使用情況。",
+    "YOU_CAN_REMOVE_THIS_DOMAIN": "如有需要，您可以移除此網域，並停用此功能。",
+    "BUTTON_TEXT_REMOVE_DOMAIN": "移除此網域。",
+    "BUTTON_TEXT_DISABLE_FEATURE": "停用此功能。",
+    "OUTRO": "如果該網站確實屬於您的帳戶，則無需採取進一步的措施。感謝您使用 FastComments！"
 }

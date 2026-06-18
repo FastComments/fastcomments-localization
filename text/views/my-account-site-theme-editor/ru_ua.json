@@ -4,7 +4,7 @@
     "BREADCRUMB_EDITOR": "Редактор",
     "TAB_TEMPLATE": "Шаблон",
     "TAB_CSS": "CSS",
-    "BTN_SAVE": "Сохранять",
+    "BTN_SAVE": "Сохранить",
     "PREVIEW_PAGE_LABEL": "Предварительный просмотр страницы",
     "BTN_NEW_FILE": "Новый файл",
     "PROMPT_FILE_NAME": "Введите имя файла шаблона (например, partials/header.njk):",
@@ -14,5 +14,5 @@
     "ERROR_CANNOT_DELETE_REQUIRED": "Этот файл необходим и не может быть удален.",
     "TAB_LOCALIZATIONS": "Локализации",
     "TEXT_LOCALIZATIONS_INFO": "Настройте текстовые строки по умолчанию, используемые в теме вашего сайта. Изменения применяются только к выбранной языковой версии.",
-    "LABEL_CUSTOMIZE_FOR_LOCALE": "Настройка в соответствии с языковыми требованиями:"
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Настроить для локали:"
 }

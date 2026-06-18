@@ -1,5 +1,5 @@
 {
-    "INTRO": "Hey <%= username %>,",
+    "INTRO": "Hallo <%= username %>,",
     "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "Es gibt neue Kommentare zu den Seiten, die Sie abonniert haben.",
     "HERE_ARE_LINKS_TO_PAGES": "Hier ist eine Liste der Seiten mit den neuen Kommentaren. Unten finden Sie auch Links, mit denen Sie sich bei Bedarf von einer Seite abmelden können.",
     "CAN_VIEW_ALL_IN_ACCOUNT": "Sie können alle Ihre individuellen ungelesenen Benachrichtigungen <a href=\"<%= FC_SITE %>/auth/my-account\">auf der Startseite Ihres Kontos</a> sehen.",
@@ -7,6 +7,6 @@
     "NEW_COMMENTS": "Kommentare",
     "UNSUBSCRIBE": "Abbestellen",
     "SUBJECT": "Neue Kommentare",
-    "VIEW": "Sicht",
+    "VIEW": "Anzeigen",
     "FROM_NAME": "FastComments-Abonnements"
 }

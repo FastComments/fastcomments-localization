@@ -1,10 +1,10 @@
 {
     "SUBJECT": "コメントでタグ付けされました。",
     "BANNER_TEXT": "あなたはタグ付けされました。",
-    "INTRO": "おい <%= username %>、",
+    "INTRO": "<%= username %> さん、",
     "VIEW_COMMENT": "コメントを見る",
     "SOMEONE_TAGGED_YOU": "誰かがあなたにタグを付けました。",
-    "FROM_NAME": "FastCommentsロボット",
+    "FROM_NAME": "FastComments ロボット",
     "UNSUBSCRIBE_HERE": "購読を解除する",
     "REPLY_BY_EMAIL_TIP": "このメールに直接返信して、ご返答を投稿することができます。"
 }

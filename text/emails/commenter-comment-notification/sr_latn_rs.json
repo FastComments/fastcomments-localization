@@ -1,7 +1,7 @@
 {
     "INTRO": "Zdravo <%= username %>,",
     "BANNER_TEXT": "Novi odgovori na komentare",
-    "FROM_NAME": "FastComments Robot",
+    "FROM_NAME": "FastComments robot",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>novi odgovor<% } else { %>nova odgovora<% } %> na <% if(replyCount > 1) { %>vaše komentare<% } else {%>vaš komentar<% } %>",
     "VIEW_REPLIES": "Pogledaj i odgovori",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Onemogući obaveštenja za ovaj komentar",

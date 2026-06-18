@@ -7,7 +7,7 @@
     "COMMENT_BANNED": "Interdit",
     "COMMENT_NOT_REPLY": "Ce commentaire n'est pas une réponse.",
     "COMMENT_NO_REPLIES": "Aucune réponse",
-    "COMMENT_BTN_SAVE": "Sauvegarder",
+    "COMMENT_BTN_SAVE": "Enregistrer",
     "COMMENT_BTN_CANCEL": "Annuler",
     "COMMENT_BTN_BAN": "Interdire",
     "COMMENT_BTN_MANAGE_BAN": "Gérer les interdictions",
@@ -18,7 +18,7 @@
     "COMMENT_BTN_APPROVE": "Approuver",
     "COMMENT_BTN_UNAPPROVE": "Désapprouver",
     "COMMENT_BTN_MARK_REVIEWED": "Marquer comme examiné",
-    "COMMENT_BTN_MARK_NOT_REVIEWED": "Marque comme non évalué",
+    "COMMENT_BTN_MARK_NOT_REVIEWED": "Marquer comme non examiné",
     "COMMENT_BTN_MARK_SPAM": "Marquer comme spam",
     "COMMENT_BTN_MARK_NOT_SPAM": "Marquer comme non-spam",
     "COMMENT_BTN_NOT_SPAM_PERM": "Non-spam (permanent)",
@@ -37,6 +37,6 @@
     "COMMENT_BTN_SET_TRUST_FACTOR": "Définir le niveau de confiance",
     "COMMENT_MENU_VIEW_INTERNAL_PROFILE": "Voir le profil interne",
     "COMMENT_BTN_VIEW_INTERNAL_PROFILE": "Voir le profil interne",
-    "COMMENT_MENU_LOCK": "Verrouillage",
-    "COMMENT_MENU_UNLOCK": "Ouvrir"
+    "COMMENT_MENU_LOCK": "Verrouiller",
+    "COMMENT_MENU_UNLOCK": "Déverrouiller"
 }

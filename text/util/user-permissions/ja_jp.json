@@ -1,6 +1,6 @@
 {
     "PERM_isAccountOwner_NAME": "アカウント所有者",
-    "PERM_isAccountOwner_DESC": "アカウントの所有者はテナントです。テナントがアカウントを削除すると、テナントも削除されます。",
+    "PERM_isAccountOwner_DESC": "このユーザーがアカウントを所有しています。このユーザーがアカウントを削除すると、テナントも一緒に削除されます。",
     "PERM_isAccountOwner_DESC_FIRST_PERSON": "アカウントの所有者はあなたです。アカウントを削除すると、テナントも一緒に削除されます。",
     "PERM_isAdminAdmin_NAME": "スーパー管理者",
     "PERM_isAdminAdmin_DESC": "他の管理者を管理できます。",

@@ -1,7 +1,7 @@
 {
     "ALL_STATES": "Vse",
-    "FILTER_BY_ASSIGNEE": "Filtriraj po dodeljevalcu",
-    "TITLE": "Upravljanje vstopnic",
+    "FILTER_BY_ASSIGNEE": "Filtriraj po prejemniku",
+    "TITLE": "Upravljanje zahtevkov",
     "FILTER_BY_STATE": "Filtriraj po stanju",
     "ASSIGN_TO": "Dodeli",
     "ALL_ASSIGNEES": "Vse",
@@ -9,7 +9,7 @@
     "UNASSIGNED": "Nedodeljeno",
     "ASSIGNED_TO": "Dodeljeno",
     "RESPONSE_TIME": "Povprečni odzivni čas",
-    "NO_TICKETS": "Ni najdenih vstopnic.",
-    "ERROR_LOAD_FAILED": "Nalaganje vstopnic ni uspelo.",
-    "ERROR_ASSIGN_FAILED": "Dodelitev vozovnice ni uspela."
+    "NO_TICKETS": "Ni najdenih zahtevkov.",
+    "ERROR_LOAD_FAILED": "Nalaganje zahtevkov ni uspelo.",
+    "ERROR_ASSIGN_FAILED": "Dodelitev zahtevka ni uspela."
 }

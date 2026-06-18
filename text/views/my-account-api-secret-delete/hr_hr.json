@@ -1,8 +1,8 @@
 {
-    "PAGE_TITLE": "Izbriši API tajnu - Brzi komentari",
-    "HEADING_DELETE_API_SECRET": "Izbriši tajni API",
-    "QUESTION_CONFIRM_DELETE": "Jeste li sigurni da želite ukloniti <%= apiSecret.name ? 'the api key \"' + apiSecret.name + '\"' : 'this api key' %>?",
+    "PAGE_TITLE": "Izbriši API tajnu - FastComments",
+    "HEADING_DELETE_API_SECRET": "Izbriši API tajnu",
+    "QUESTION_CONFIRM_DELETE": "Jeste li sigurni da želite ukloniti <%= apiSecret.name ? 'API ključ \"' + apiSecret.name + '\"' : 'ovaj API ključ' %>?",
     "WARNING_USED_BY_WEBHOOKS": "Ovaj API ključ trenutno koristi webhook. Brisanje API ključa prije ažuriranja webhooka prekinut će integraciju.",
-    "BUTTON_DELETE_API_SECRET": "Izbriši tajni API",
-    "BUTTON_CANCEL": "Otkazati"
+    "BUTTON_DELETE_API_SECRET": "Izbriši API tajnu",
+    "BUTTON_CANCEL": "Odustani"
 }

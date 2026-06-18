@@ -1,5 +1,5 @@
 {
-    "FROM_NAME": "Hızlı Yorumlar Güvenliği",
+    "FROM_NAME": "FastComments Güvenliği",
     "SUBJECT": "Yeni IP adresinden giriş algılandı",
     "BANNER_TEXT": "Güvenlik Uyarısı",
     "INTRO": "Merhaba <%= displayName %>,",
@@ -7,7 +7,7 @@
     "TIME_LABEL": "Zaman:",
     "LOCATION_LABEL": "Yaklaşık Konum:",
     "IP_LABEL": "IP Adresi:",
-    "INFO_2": "Bu durum sizin başınıza gelmediyse, şifrenizi hemen değiştirmenizi öneririz.",
+    "INFO_2": "Bu işlemi siz yapmadıysanız, şifrenizi hemen değiştirmenizi öneririz.",
     "CHANGE_PASSWORD_LINK_TEXT": "Şifre değiştir",
     "IP_PRIVACY_NOTE": "IP adresinizi saklamıyoruz. Sadece güvenlik amacıyla gizlenmiş bir biçimini saklıyoruz."
 }

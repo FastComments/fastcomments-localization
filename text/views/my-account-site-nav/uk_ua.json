@@ -5,7 +5,7 @@
     "TABLE_HEADER_NAME": "Ім'я",
     "TABLE_HEADER_SOURCE_TYPE": "Тип посилання",
     "TABLE_HEADER_URL": "Ціль",
-    "TABLE_HEADER_ORDER": "Замовлення",
+    "TABLE_HEADER_ORDER": "Порядок",
     "HEADING_ADD_NAV_ENTRY": "Додати запис навігації",
     "LABEL_DISPLAY_NAME": "Відображуване ім'я",
     "LABEL_GOES_TO_TYPE": "Тип посилання",
@@ -13,11 +13,11 @@
     "PLACEHOLDER_URL": "https://example.com",
     "LABEL_TARGET_ID": "Ідентифікатор цілі",
     "PLACEHOLDER_TARGET_ID": "Ідентифікатор блоку контенту",
-    "LABEL_CHILDREN_SOURCE_TYPE": "Тип джерела дітей",
-    "LABEL_CHILDREN_SOURCE_ID": "Ідентифікатор джерела дітей",
+    "LABEL_CHILDREN_SOURCE_TYPE": "Тип джерела дочірніх елементів",
+    "LABEL_CHILDREN_SOURCE_ID": "Ідентифікатор джерела дочірніх елементів",
     "LABEL_MEMBERSHIP_GATE": "Ворота членства",
     "OPTION_SELECT": "-- Виберіть --",
-    "OPTION_NONE": "Жоден",
+    "OPTION_NONE": "Немає",
     "BUTTON_ADD": "Додати",
     "BUTTON_DELETE": "Видалити"
 }

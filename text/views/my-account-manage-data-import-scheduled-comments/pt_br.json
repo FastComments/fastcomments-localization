@@ -1,7 +1,7 @@
 {
     "TEXT_NA": "N/D",
-    "TITLE": "Comentários sobre o cronograma - FastComments",
-    "HEADING": "Comentários sobre o cronograma",
+    "TITLE": "Agendar comentários - FastComments",
+    "HEADING": "Agendar comentários",
     "DESCRIPTION_PART1": "Aqui você pode agendar comentários para serem publicados automaticamente, ao vivo, ao longo do tempo. Isso permite que você faça anotações em páginas, como webinars, ou até mesmo inicie discussões em uma página para um evento ao vivo de forma automatizada.",
     "DESCRIPTION_PART2": "Isso é feito importando comentários usando o <a href=\"https://docs.fastcomments.com/guide-scheduled-comments.html#import-format\">formato CSV</a> compatível ( <a href=\"https://docs.fastcomments.com/csv/fastcomments-scheduled-comments-example.csv\">exemplo aqui</a> ).",
     "DESCRIPTION_SCHEDULING_TYPES": "<b>Existem dois tipos de agendamento.</b> O primeiro é que os comentários comecem a ser reproduzidos a cada carregamento de página, o que ocorre quando a opção &quot;A cada carregamento de página&quot; está selecionada. O segundo tipo é o agendamento manual dos comentários, que é feito acessando esta página e clicando em &quot;Iniciar&quot;.",
@@ -9,7 +9,7 @@
     "REPLAY_NAME_LABEL": "Nome da repetição",
     "REPLAY_NAME_DEFAULT": "Importar [importNumber]",
     "REPLAY_NAME_HELP": "Você pode nomear suas importações para encontrá-las facilmente mais tarde.",
-    "WHEN_TO_REPLAY_LABEL": "Quando repetir a partida?",
+    "WHEN_TO_REPLAY_LABEL": "Quando reproduzir?",
     "EVERY_PAGE_LOAD": "Cada carregamento de página",
     "MANUAL_SAME_TIME": "Manualmente, ao mesmo tempo para todos os usuários",
     "INPUT_FILE_LABEL": "Insira o arquivo (arraste e solte ou clique para enviar)",
@@ -39,7 +39,7 @@
     "BUTTON_DELETE_AND_RUN_AGAIN": "Apagar comentários e executar novamente",
     "BUTTON_DELETE_COMMENTS": "Excluir comentários",
     "BUTTON_DELETE_JOB": "Excluir tarefa",
-    "NO_IMPORTS": "Você não tem nenhuma importação de comentários pendente ou agendada para o passado.",
+    "NO_IMPORTS": "Você não tem nenhuma importação de comentários agendados pendente ou anterior.",
     "CONFIRM_STOP_PLAYBACK": "Tem certeza de que deseja parar a reprodução de comentários desta importação?",
     "CONFIRM_START_PLAYBACK": "Tem certeza de que deseja iniciar a reprodução de comentários desta importação?",
     "CONFIRM_DELETE_COMMENTS": "Tem certeza de que deseja excluir todos os comentários reproduzidos desta importação?",
@@ -48,8 +48,8 @@
     "ERROR_DELETE_COMMENTS_FAILED": "Falha ao excluir comentários :(",
     "ERROR_START_FAILED": "Falha ao iniciar a reprodução :(",
     "ERROR_DELETE_FAILED": "Falha ao excluir :(",
-    "STATUS_RUNNING": "Correndo",
-    "STATUS_FAILED": "Fracassado",
+    "STATUS_RUNNING": "Em execução",
+    "STATUS_FAILED": "Falhou",
     "STATUS_REQUESTED": "Solicitado",
     "STATUS_SUCCESS": "Sucesso"
 }

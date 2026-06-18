@@ -1,5 +1,5 @@
 {
-    "HEADING": "あなたの[packageName]プランの利用限度額に達しました",
+    "HEADING": "[packageName]プランの上限に達しました",
     "BODY_USERS_ONE": "お客様の[packageName]プランには最大[max]ユーザーが含まれています。ユーザー数を増やすには、Flexプランまたは他のパッケージに切り替えてください。",
     "BODY_USERS_OTHER": "お客様の[packageName]プランには最大[max]ユーザーが含まれています。ユーザー数を増やすには、Flexプランまたは他のプランに切り替えてください。",
     "BODY_MODERATORS_ONE": "お客様の[packageName]プランには最大[max]人のモデレーターが含まれています。モデレーターを追加するには、Flexプランまたは他のパッケージに切り替えてください。",

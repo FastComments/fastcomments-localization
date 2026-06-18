@@ -1,7 +1,7 @@
 {
     "PAGE_TITLE": "Upravljanje datotekama - <%- ticket.subject %>",
     "HEADING": "Datoteke za \"<%- ticket.subject %>\"",
-    "LINK_BACK_TO_TICKET": "Natrag na kartu",
+    "LINK_BACK_TO_TICKET": "Natrag na tiket",
     "LABEL_UPLOAD_FILE": "Prenesi datoteku",
     "BUTTON_UPLOAD": "Prenesi",
     "TABLE_HEADER_NAME": "Ime",
@@ -9,7 +9,7 @@
     "TABLE_HEADER_UPLOADED_BY": "Prenio/la",
     "TABLE_HEADER_DATE": "Datum",
     "TABLE_HEADER_ACTIONS": "Radnje",
-    "BUTTON_DELETE": "Izbrisati",
+    "BUTTON_DELETE": "Izbriši",
     "MESSAGE_NO_FILES": "Još nijedna datoteka nije prenesena.",
     "ERROR_FILE_TOO_LARGE": "Datoteka je prevelika. Maksimalna veličina je 2 GB.",
     "ERROR_TOTAL_SIZE_EXCEEDED": "Ukupno ograničenje veličine datoteke od 5 GB po tiketu bilo bi prekoračeno.",

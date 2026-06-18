@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "מחיקת <%= template.displayName %> - תגובות מהירות",
+    "PAGE_TITLE": "מחיקת <%= template.displayName %> - FastComments",
     "HEADING_DELETE_TEMPLATE": "למחוק את \"<%= template.displayName %>\"?",
     "TEXT_CONFIRM_DELETE": "האם אתה בטוח שברצונך למחוק את התבנית <%= template.displayName %>, שנוצרה ב-<%= template.createdAt.toLocaleString() %>?",
-    "BUTTON_DELETE": "לִמְחוֹק",
-    "BUTTON_CANCEL": "לְבַטֵל"
+    "BUTTON_DELETE": "מחיקה",
+    "BUTTON_CANCEL": "ביטול"
 }

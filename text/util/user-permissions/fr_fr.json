@@ -5,7 +5,7 @@
     "PERM_isAdminAdmin_NAME": "Super Administrateur",
     "PERM_isAdminAdmin_DESC": "Peut gérer d'autres administrateurs.",
     "PERM_isAdminAdmin_DESC_FIRST_PERSON": "Vous pouvez gérer d'autres administrateurs.",
-    "PERM_isHelpRequestAdmin_NAME": "Gère les billets",
+    "PERM_isHelpRequestAdmin_NAME": "Gère les tickets",
     "PERM_isHelpRequestAdmin_DESC": "Gère les demandes d'assistance des membres du site.",
     "PERM_isHelpRequestAdmin_DESC_FIRST_PERSON": "Vous pourrez recevoir et résoudre les tickets des membres du site.",
     "PERM_isBillingAdmin_NAME": "Administration de la facturation",
@@ -18,12 +18,12 @@
     "PERM_isCustomizationAdmin_DESC": "Il est possible d'ajouter et de modifier les personnalisations du widget de commentaires.",
     "PERM_isCustomizationAdmin_DESC_FIRST_PERSON": "Vous pouvez ajouter et modifier les personnalisations du widget de commentaires.",
     "PERM_isManageDataAdmin_NAME": "Administration de la gestion des données",
-    "PERM_isManageDataAdmin_DESC": "Vous pouvez accéder à l'onglet Gestion des données pour importer/exporter des commentaires, configurer des webhooks et effectuer des migrations.",
+    "PERM_isManageDataAdmin_DESC": "Peut accéder à l'onglet Gestion des données pour importer/exporter des commentaires, configurer des webhooks et effectuer des migrations.",
     "PERM_isManageDataAdmin_DESC_FIRST_PERSON": "Vous pouvez accéder à l'onglet Gestion des données pour importer/exporter des commentaires, configurer des webhooks et effectuer des migrations.",
     "PERM_isCommentModeratorAdmin_NAME": "Administration de la modération des commentaires",
     "PERM_isCommentModeratorAdmin_DESC": "Accès à la modération des commentaires.",
     "PERM_isCommentModeratorAdmin_DESC_FIRST_PERSON": "Vous pouvez modérer les commentaires.",
     "PERM_isAPIAdmin_NAME": "Administration API/SSO",
-    "PERM_isAPIAdmin_DESC": "Vous pouvez consulter le secret de l'API et les statistiques d'utilisation de l'API.",
+    "PERM_isAPIAdmin_DESC": "Peut consulter le secret de l'API et les statistiques d'utilisation de l'API.",
     "PERM_isAPIAdmin_DESC_FIRST_PERSON": "Vous pouvez consulter le secret de l'API et les statistiques d'utilisation de l'API."
 }

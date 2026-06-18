@@ -23,7 +23,7 @@
     "ACTION_UNPINNED": "Αποκαρφιτσώθηκε",
     "ACTION_IS_ADMIN": "Είναι Διαχειριστής",
     "ACTION_IS_ADMIN_OR_MOD": "Είναι Διαχειριστής ή Συντονιστής",
-    "ACTION_IS_MOD": "Είναι Mod",
+    "ACTION_IS_MOD": "Είναι Συντονιστής",
     "ACTION_SYNCED_WEBHOOKS": "Συγχρονισμένο μέσω webhooks",
     "ACTION_EXPIRATION_SET": "Σύνολο λήξης",
     "ACTION_EXPIRATION_CLEARED": "Η λήξη διαγράφηκε",
@@ -91,9 +91,9 @@
     "MSG_REPEAT_INTERNAL": "Ήταν για έναν εσωτερικό μισθωτή του FastComments.com (προφίλ, μηνύματα κ.λπ.).",
     "MSG_REPEAT_HAS_IMAGES": "Περιέχει εικόνες.",
     "MSG_SPAM_CHECK_SKIPPED": "Ο έλεγχος ανεπιθύμητης αλληλογραφίας παραλείφθηκε.",
-    "MSG_ENGINE": "Κινητήρας: [engine]",
+    "MSG_ENGINE": "Μηχανή: [engine]",
     "MSG_ENGINE_RESPONSE": "Απάντηση: \"[response]\"",
-    "MSG_ENGINE_TOKENS": "Χρησιμοποιημένα κουπόνια: [tokens]",
+    "MSG_ENGINE_TOKENS": "Χρησιμοποιημένα διακριτικά: [tokens]",
     "MSG_TRUST_FACTOR": "Παράγοντας εμπιστοσύνης: [trustFactor]",
     "MSG_INVALID_LOCALE": "Έγινε μη έγκυρη τοπική ρύθμιση \"[invalidLocale]\". Εντοπίστηκε η γλώσσα \"[detectedLanguage]\" και ορίστηκε η τοπική ρύθμιση σε \"[detectedLocale]\"."
 }

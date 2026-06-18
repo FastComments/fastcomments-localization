@@ -1,6 +1,6 @@
 {
-    "BUTTON_CLICK_TO_UPDATE_LOGO": "點選更新<%= domain.domain %>的Logo",
-    "BUTTON_CLICK_TO_SET_LOGO": "點選設定徽標<%= domain.domain %>",
+    "BUTTON_CLICK_TO_UPDATE_LOGO": "點選更新 <%= domain.domain %> 的 Logo",
+    "BUTTON_CLICK_TO_SET_LOGO": "點選為 <%= domain.domain %> 設定 Logo",
     "TEXT_DOMAIN_VALID": "✔️ <%= domain.domain %>",
     "TEXT_DOMAIN_INVALID": "❌ \"<%= domain.input %>\": <%= domain.reason %>"
 }

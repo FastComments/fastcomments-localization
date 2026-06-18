@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "Inscrever-se",
-    "HERO_TITLE_LIGHT": "Junte-se ao ",
+    "HERO_TITLE_LIGHT": "Junte-se à ",
     "HERO_TITLE_BOLD": "Discussão",
     "HERO_DESCRIPTION": "Quer comentar em um site que usa o FastComments? Você veio ao lugar certo.",
     "HERO_ADDITIONAL_TEXT": "Se você deseja adicionar o FastComments a um site, inscreva-se <a href=\"/auth/tenant-signup?email=<%= email %>\">aqui.</a>",
@@ -12,8 +12,8 @@
     "LABEL_EMAIL": "*E-mail:",
     "PLACEHOLDER_EMAIL": "Insira um e-mail",
     "EMAIL_DESCRIPTION": "Enviaremos um link por e-mail para que você complete o cadastro e faça login.",
-    "SIGNUP_EMAIL_TEXT": "Você está se cadastrando usando <b><%= email %></b> .",
-    "TERMS_AGREEMENT": "Ao clicar em Inscrever-se, você concorda com os <a href=\"/terms-of-service\" target=\"_blank\">Termos de Serviço</a> .",
+    "SIGNUP_EMAIL_TEXT": "Você está se cadastrando usando <b><%= email %></b>.",
+    "TERMS_AGREEMENT": "Ao clicar em Inscrever-se, você concorda com os <a href=\"/terms-of-service\" target=\"_blank\">Termos de Serviço</a>.",
     "BUTTON_SIGN_UP": "Inscrever-se",
     "LABEL_CAPTCHA": "Qual é o resultado de <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Ajuda a determinar que você não é um robô."

@@ -1,15 +1,15 @@
 {
-    "TITLE": "票務管理",
+    "TITLE": "工單管理",
     "ALL_STATES": "全部",
-    "FILTER_BY_ASSIGNEE": "按受讓人篩選",
+    "FILTER_BY_ASSIGNEE": "依指派對象篩選",
     "FILTER_BY_STATE": "按狀態篩選",
-    "UNASSIGNED": "未分配",
+    "UNASSIGNED": "未指派",
     "ALL_ASSIGNEES": "全部",
     "CUSTOMER": "顧客",
-    "ASSIGN_TO": "分配給",
-    "ASSIGNED_TO": "分配給",
+    "ASSIGN_TO": "指派給",
+    "ASSIGNED_TO": "已指派給",
     "RESPONSE_TIME": "平均回應時間",
-    "NO_TICKETS": "未找到票。",
-    "ERROR_ASSIGN_FAILED": "分配工單失敗。",
-    "ERROR_LOAD_FAILED": "門票加載失敗。"
+    "NO_TICKETS": "找不到工單。",
+    "ERROR_ASSIGN_FAILED": "指派工單失敗。",
+    "ERROR_LOAD_FAILED": "工單載入失敗。"
 }

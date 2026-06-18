@@ -1,6 +1,6 @@
 {
     "INTRO": "嘿 <%= username %>，",
-    "FROM_NAME": "快评机器人",
+    "FROM_NAME": "FastComments 机器人",
     "YOU_HAVE_NEW_COMMENTS": "你有一些新的评论！",
     "BANNER_TEXT": "新评论",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>新评论<% } else { %>新评论<% } %>",
@@ -10,5 +10,5 @@
     "HERE_ARE_LINKS_TO_PAGES": "以下是这些评论所在页面的链接，以及每个页面的评论数。",
     "PAGE": "页",
     "NEW_COMMENTS": "新评论",
-    "MODERATE_COMMENTS": "适度评论"
+    "MODERATE_COMMENTS": "审核评论"
 }

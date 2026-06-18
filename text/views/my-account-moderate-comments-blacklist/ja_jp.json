@@ -16,5 +16,5 @@
     "MASKED_PHRASES_DESCRIPTION": "このリスト内のフレーズ (コンマ区切り) は ******** のようにマスクされます。",
     "MASKED_PHRASES_PLACEHOLDER": "「some bad phrase, some other bad phrase」のように、コンマで区切られた不適切なフレーズのリストを入力します。",
     "PHRASES_LENGTH_ERROR": "ロケールごとに最大5,000個のフレーズを入力できます。<span id=\"length-error-count-phrases-[locale]\"></span> 。",
-    "SAVE_BUTTON": "変更を保存 [localeName]"
+    "SAVE_BUTTON": "[localeName] への変更を保存"
 }

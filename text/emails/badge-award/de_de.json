@@ -1,11 +1,11 @@
 {
-    "INTRO": "Hey <%= username %>, du hast dir ein neues Abzeichen auf <strong><%= siteDomain %></strong> verdient!",
+    "INTRO": "Hallo <%= username %>, Sie haben sich ein neues Abzeichen auf <strong><%= siteDomain %></strong> verdient!",
     "CONGRATULATIONS": "Glückwunsch!",
     "BANNER_TEXT": "Neues Abzeichen erhalten",
     "FROM_NAME": "FastComments-Roboter",
-    "SUBJECT": "Du hast dir das \"<%= badge.displayLabel %>\"-Abzeichen verdient!",
-    "BADGE_EARNED_MESSAGE": "Du hast dir das Abzeichen <strong><%= badge.displayLabel %></strong> erfolgreich verdient.",
+    "SUBJECT": "Sie haben sich das \"<%= badge.displayLabel %>\"-Abzeichen verdient!",
+    "BADGE_EARNED_MESSAGE": "Sie haben sich das Abzeichen <strong><%= badge.displayLabel %></strong> erfolgreich verdient.",
     "KEEP_UP_GOOD_WORK": "Weiter so!",
     "UNSUBSCRIBE_HERE": "Abzeichen-Benachrichtigungen abbestellen",
-    "VIEW_YOUR_PROFILE": "Dein Profil ansehen"
+    "VIEW_YOUR_PROFILE": "Ihr Profil ansehen"
 }

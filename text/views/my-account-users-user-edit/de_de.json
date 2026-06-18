@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE_ADD": "Benutzer hinzufügen – FastComments",
-    "PAGE_TITLE_EDIT": "Bearbeiten <%= editingUser.username %> - Schnellkommentare",
+    "PAGE_TITLE_EDIT": "Bearbeiten <%= editingUser.username %> - FastComments",
     "HEADING_ADD": "Benutzer hinzufügen",
     "HEADING_EDIT": "Bearbeiten <%= editingUser.username %>",
     "SUBHEADING_ADD": "Hinzufügen eines Benutzers",
@@ -13,7 +13,7 @@
     "PLACEHOLDER_USERNAME": "awesome-person-2",
     "LABEL_EMAIL": "E-Mail",
     "PLACEHOLDER_EMAIL": "email@example.com",
-    "LABEL_LOCALE": "Ort",
+    "LABEL_LOCALE": "Gebietsschema",
     "LABEL_PERMISSIONS": "Berechtigungen",
     "BUTTON_SUBMIT": "Einreichen",
     "USERNAME_EXISTS_SAME_TENANT": "❗ Für diesen Mandanten existiert bereits ein Benutzer mit diesem Benutzernamen.",

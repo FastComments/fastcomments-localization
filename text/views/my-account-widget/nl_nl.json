@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "<%= TEXT[widget.titleKey] %> Widget - Snelle reacties",
+    "PAGE_TITLE": "<%= TEXT[widget.titleKey] %> Widget - FastComments",
     "HEADING": "Widgetcode",
     "HEADING_MULTIPLE_INSTANCES": "Opmerking - Meerdere instanties",
     "MESSAGE_MULTIPLE_INSTANCES": "Om meerdere exemplaren van deze widget op dezelfde pagina te gebruiken, bijvoorbeeld met een lijst blogberichten, genereer je eenvoudigweg de ID's van het betreffende element en geef je diezelfde ID door aan de widget. Bijvoorbeeld: 'widget-id-0', 'widget-id-1', enzovoort.",

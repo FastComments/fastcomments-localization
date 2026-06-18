@@ -1,11 +1,11 @@
 {
     "PAGE_TITLE_ADD": "Moderasyon Grubu Ekle",
     "PAGE_TITLE_EDIT": "Moderasyon Grubu",
-    "PAGE_TITLE_SUFFIX": " - Hızlı Yorumlar",
+    "PAGE_TITLE_SUFFIX": " - FastComments",
     "HEADING_ADD": "Moderasyon Grubu Ekle",
-    "HEADING_EDIT": "Düzenleme <%= moderationGroup.name %>",
+    "HEADING_EDIT": "<%= moderationGroup.name %> düzenleniyor",
     "INTRO_NEW": "Bir moderasyon grubu oluşturmak istiyorsanız doğru yerdesiniz.",
     "GROUP_NAME_LABEL": "Grup Adı",
     "GROUP_NAME_PLACEHOLDER": "B Grubu",
-    "SAVE_BUTTON": "Kaydetmek"
+    "SAVE_BUTTON": "Kaydet"
 }

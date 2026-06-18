@@ -7,7 +7,7 @@
     "SUBJECT": "Fouten gedetecteerd in de FastComments API",
     "DETECTION": "We hebben op de dag van <%= errorDate %> <%= errorCountFormatted %> API <%= errorWord %> voor uw account gedetecteerd.",
     "TENANT_NOTE": "Dit betreft huurder met ID \"<%= tenantId %>\".",
-    "SIGN_OFF": "Eerlijk,",
+    "SIGN_OFF": "Met vriendelijke groet,",
     "EXPLANATION": "Deze fouten zijn opgetreden tijdens het aanroepen van ons platform. We raden u aan de logbestanden van eventuele aangepaste API-integraties met FastComments te controleren op fouten.",
     "TEAM_NAME": "Het FastComments-engineeringteam",
     "OPT_OUT": "Je kunt je <a href=\"<%= notificationSettingsUrl %>\">hier</a> afmelden voor deze meldingen."

@@ -7,8 +7,8 @@
     "ERROR_PLURAL": "erreurs",
     "SIGN_OFF": "Sincèrement,",
     "EXPLANATION": "Ces erreurs se sont produites lors de l'appel à notre plateforme. Nous vous suggérons de consulter les journaux de toute intégration API personnalisée avec FastComments afin d'y rechercher d'éventuelles erreurs.",
-    "DETECTION": "Nous avons détecté <%= errorCountFormatted %> API <%= errorWord %> pour votre compte le jour du <%= errorDate %>.",
-    "TENANT_NOTE": "Ceci concerne le locataire dont l'identifiant est « <%= tenantId %> ».",
+    "DETECTION": "Nous avons détecté <%= errorCountFormatted %> <%= errorWord %> d'API pour votre compte le <%= errorDate %>.",
+    "TENANT_NOTE": "Ceci concerne le compte dont l'identifiant est « <%= tenantId %> ».",
     "TEAM_NAME": "L'équipe d'ingénierie de FastComments",
-    "OPT_OUT": "Vous pouvez vous désinscrire de ces notifications <a href=\"<%= notificationSettingsUrl %>\">ici</a> ."
+    "OPT_OUT": "Vous pouvez vous désinscrire de ces notifications <a href=\"<%= notificationSettingsUrl %>\">ici</a>."
 }

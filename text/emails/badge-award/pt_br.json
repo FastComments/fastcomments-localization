@@ -1,10 +1,10 @@
 {
-    "INTRO": "Olá <%= username %>, você ganhou um novo distintivo em <strong><%= siteDomain %></strong> !",
+    "INTRO": "Olá <%= username %>, você ganhou um novo distintivo em <strong><%= siteDomain %></strong>!",
     "CONGRATULATIONS": "Parabéns!",
     "BANNER_TEXT": "Novo distintivo conquistado",
-    "FROM_NAME": "Robô de comentários rápidos",
+    "FROM_NAME": "Robô FastComments",
     "SUBJECT": "Você ganhou o distintivo \"<%= badge.displayLabel %>\"!",
-    "BADGE_EARNED_MESSAGE": "Você conquistou com sucesso o distintivo <strong>de <%= badge.displayLabel %></strong> .",
+    "BADGE_EARNED_MESSAGE": "Você conquistou com sucesso o distintivo <strong><%= badge.displayLabel %></strong>.",
     "KEEP_UP_GOOD_WORK": "Continue com o ótimo trabalho!",
     "UNSUBSCRIBE_HERE": "Cancelar inscrição para receber notificações de distintivos",
     "VIEW_YOUR_PROFILE": "Veja seu perfil"

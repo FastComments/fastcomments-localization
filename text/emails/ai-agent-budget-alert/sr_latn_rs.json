@@ -6,7 +6,7 @@
     "BANNER_TEXT": "Upozorenje o budžetu AI agenta",
     "META_AGENT": "Agent:",
     "INTRO": "Jedan od vaših AI agenata dostigao je prag potrošnje koji ste konfigurisali.",
-    "FROM_NAME": "Agenti FastComments",
+    "FROM_NAME": "FastComments agenti",
     "SCOPE_AGENT_DAILY": "dnevnog budžeta agenta",
     "SUBJECT": "<%= agentName %> je dostigao <%= thresholdPct %>% svog <%= scopeLabel %>",
     "FALLBACK_LINK": "Ako dugme ne radi, kopirajte i nalepite ovaj URL u pregledač: <%= manageUrl %>",

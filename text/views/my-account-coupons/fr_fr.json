@@ -6,11 +6,11 @@
     "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> Coupons utilisés.",
     "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Total des coupons.",
     "HEADING_DOWNLOAD": "Télécharger",
-    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Téléchargez les coupons disponibles",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Télécharger les coupons disponibles",
     "HEADING_GENERATE_TIER_4_COUPONS": "Générer des coupons de niveau 4",
     "LABEL_GENERATE_COUPON_COUNT": "Générer le nombre de coupons",
     "BUTTON_SUBMIT": "Soumettre",
     "HEADING_COUPON_LIST": "Liste de coupons",
     "TABLE_HEADER_CODE": "Code",
-    "TABLE_HEADER_REDEEMED_DATE": "Date d'échange"
+    "TABLE_HEADER_REDEEMED_DATE": "Date d'utilisation"
 }

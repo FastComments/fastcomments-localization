@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "Yeni Kiracı Kurulumu",
-    "HERO_TITLE_LIGHT": "Neredeyse  ",
+    "HERO_TITLE_LIGHT": "Neredeyse ",
     "HERO_TITLE_BOLD": "Orada",
     "HERO_DESCRIPTION": "FastComments, hem işletmeler hem de kullanıcılar için kurulumu ve kullanımı en hızlı yorum sistemini sunar ve <u>30 günlük ücretsiz deneme sürümüne</u> hemen başlayabilirsiniz.",
     "NOT_WEBSITE_LINK_TEXT": "Eğer FastComments&#39;ı bir web sitesine eklemeyi düşünmüyorsanız <a href=\"/auth/commenter-signup?email=<%= email %>\">, buradan kayıt olmalısınız.</a>",
@@ -15,6 +15,6 @@
     "LABEL_WEBSITES": "*Web sitesi(leri):",
     "DOMAINS_DESCRIPTION": "Alt alan adlarını veya localhost adresini girmenize gerek yok. Birden fazla site için, bunları virgülle ayırın.",
     "TOS_TEXT": "&quot;Hesap Oluştur&quot; butonuna tıklayarak <a href=\"/terms-of-service\" target=\"_blank\">Hizmet Şartlarını</a> kabul etmiş olursunuz.",
-    "BUTTON_CREATE_ACCOUNT": "Hesap oluşturmak",
+    "BUTTON_CREATE_ACCOUNT": "Hesap Oluştur",
     "ERROR_SIGNUP_ALREADY_STARTED": "Kayıt işlemi zaten başlatıldı ve tekrar gönderilemez. Belki sayfayı yenilediniz?"
 }

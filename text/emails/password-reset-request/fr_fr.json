@@ -1,5 +1,5 @@
 {
-    "FROM_NAME": "Robot de commentaires rapides",
+    "FROM_NAME": "Robot FastComments",
     "SUBJECT": "Demande de réinitialisation du mot de passe",
     "INTRO": "Bonjour <%= username %>,",
     "CAN_RESET_HERE": "Vous pouvez réinitialiser votre mot de passe ici.",

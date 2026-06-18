@@ -5,7 +5,7 @@
     "LABEL_TENANT_NAME": "Račun",
     "DESCRIPTION": "Instalirate aplikaciju FastComments Shopify na trgovinu koja je već povezana s FastComments računom. Da biste koristili Shopify naplatu, ovaj račun se mora prebaciti.",
     "LABEL_TENANT_EMAIL": "E-pošta",
-    "BUTTON_CANCEL": "Otkazati",
+    "BUTTON_CANCEL": "Odustani",
     "WARNING_ALREADY_SHOPIFY": "Ovaj je račun već konfiguriran za naplatu putem Shopifyja. Potvrđivanjem će se ponovno povezati s ovom trgovinom i osvježiti tokeni za pristup.",
     "WARNING_PACKAGE_REPLACEMENT": "Potvrđivanjem ćete ZAMIJENITI svoje trenutne FastComments planove s četiri plana koja se naplaćuju putem Shopifyja (Starter, Growth, Pro, Business). Vaša postojeća Stripe pretplata bit će otkazana na kraju trenutnog plaćenog razdoblja. Stari planovi arhiviraju se 90 dana i podrška ih može vratiti. Komentari, korisnici, moderatori i konfiguracija ostaju sačuvani.",
     "BUTTON_CONFIRM": "Da, prebaci se na Shopify naplatu",

@@ -11,10 +11,10 @@
     "MASKED_WORDS_LABEL": "Maskierte Wörter für [localeName].",
     "MASKED_WORDS_DESCRIPTION": "Wörter in dieser Liste (durch Komma getrennt) werden mit *** maskiert.",
     "MASKED_WORDS_PLACEHOLDER": "Geben Sie eine durch Kommas getrennte Liste von Schimpfwörtern ein, z. B. 'einige, böse, Wörter'.",
-    "WORDS_LENGTH_ERROR": "Sie können pro Sprache bis zu 5.000 Wörter eingeben. Sie haben eingegeben<span id=\"length-error-count-words-[locale]\"></span> Die",
+    "WORDS_LENGTH_ERROR": "Sie können pro Sprache bis zu 5.000 Wörter eingeben. Sie haben <span id=\"length-error-count-words-[locale]\"></span> eingegeben.",
     "MASKED_PHRASES_LABEL": "Maskierte Phrasen für [localeName].",
     "MASKED_PHRASES_DESCRIPTION": "Die in dieser Liste enthaltenen Phrasen (durch Komma getrennt) werden wie folgt maskiert: ********.",
     "MASKED_PHRASES_PLACEHOLDER": "Geben Sie eine durch Kommas getrennte Liste von unangebrachten Ausdrücken ein, z. B. 'ein unangebrachter Ausdruck, noch ein unangebrachter Ausdruck'.",
-    "PHRASES_LENGTH_ERROR": "Sie können bis zu 5.000 Phrasen pro Gebietsschema eingeben. Sie haben eingegeben<span id=\"length-error-count-phrases-[locale]\"></span> Die",
+    "PHRASES_LENGTH_ERROR": "Sie können bis zu 5.000 Phrasen pro Gebietsschema eingeben. Sie haben <span id=\"length-error-count-phrases-[locale]\"></span> eingegeben.",
     "SAVE_BUTTON": "Änderungen speichern für [localeName]"
 }

@@ -1,5 +1,5 @@
 {
-    "FROM_NAME": "ФастЦомментс Робот",
+    "FROM_NAME": "FastComments робот",
     "SUBJECT": "<%= comment.commenterName %> - Потврдите свој коментар.",
     "BANNER_TEXT": "Потврдите свој коментар",
     "INTRO": "Хеј <%= comment.commenterName %>,",
@@ -13,7 +13,7 @@
     "MINUTES_AGO": "  пре неколико минута",
     "ONE_HOUR_AGO": "пре 1 сат",
     "HOURS_AGO": "  сати раније",
-    "YESTERDAY": "Јучер",
+    "YESTERDAY": "Јуче",
     "DAYS_AGO": "  пре дана",
     "WEEKS_AGO": "  пре неколико недеља",
     "MONTHS_AGO": "  неколико месеци раније",

@@ -1,6 +1,6 @@
 {
-    "INTRO": "おい <%= username %>、",
-    "FROM_NAME": "FastCommentsロボット",
+    "INTRO": "<%= username %> さん、",
+    "FROM_NAME": "FastComments ロボット",
     "YOU_HAVE_NEW_COMMENTS": "新しいコメントがあります！",
     "BANNER_TEXT": "新しいコメント",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %><% if(commentCount === 1) {%>新しいコメント<% } else { %>新しいコメント<% } %>",
@@ -10,5 +10,5 @@
     "HERE_ARE_LINKS_TO_PAGES": "これらのコメントが掲載されているページへのリンクと、それぞれのコメントの数を次に示します。",
     "PAGE": "ページ",
     "NEW_COMMENTS": "新しいコメント",
-    "MODERATE_COMMENTS": "中程度のコメント"
+    "MODERATE_COMMENTS": "コメントをモデレートする"
 }

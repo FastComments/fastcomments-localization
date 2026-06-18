@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "Opdatering mislykkedes",
-    "HEADING": "KONTOOPPDATERING FEJL",
+    "HEADING": "KONTOOPDATERING MISLYKKEDES",
     "LINK_TRY_AGAIN": "Prøv igen",
     "MESSAGE_GENERIC": "Noget gik frygteligt galt.",
     "MESSAGE_GENERIC_DETAIL": "Vi er ikke sikre på, hvad der er sket, men vi vil kigge på det.",
@@ -9,6 +9,6 @@
     "ERROR_USERNAME_TAKEN": "Det brugernavn er taget af en anden!",
     "ERROR_EMAIL_TAKEN": "Beklager, men den e-mailadresse bruges allerede af en anden! Måske har du allerede en konto?",
     "ERROR_EMAIL_NOW_TAKEN": "Beklager, men den ønskede e-mailadresse bruges nu af en anden! Har du oprettet en anden konto?",
-    "ERROR_RATE_LIMITED_MINUTE": "Du har overskredet vores takstgrænser. Prøv igen om et par minutter, eller kontakt support.",
-    "ERROR_RATE_LIMITED_DAY": "Du har overskredet vores daglige prisgrænser. Prøv igen om 24 timer, eller kontakt support."
+    "ERROR_RATE_LIMITED_MINUTE": "Du har overskredet vores anmodningsgrænser. Prøv igen om et par minutter, eller kontakt support.",
+    "ERROR_RATE_LIMITED_DAY": "Du har overskredet vores daglige anmodningsgrænser. Prøv igen om 24 timer, eller kontakt support."
 }

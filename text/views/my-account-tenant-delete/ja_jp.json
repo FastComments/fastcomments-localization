@@ -9,7 +9,7 @@
     "WARNING_DELETE_CURRENT_USER": "これにより、このユーザー (<%= user.username %>) が削除され、ログアウトされます。",
     "MESSAGE_TENANT_DELETED": "このテナントは削除されました。ログアウトしました。FastCommentsをご利用いただきありがとうございます。",
     "MESSAGE_TENANT_DELETED_OTHER": "<%= targetTenant.name %> は削除されました。FastComments をご利用いただきありがとうございます。",
-    "CHECKBOX_CONFIRM": "IDが「 <b><%= targetTenant.name %></b> 」である「 <b><%= targetTenant._id %></b> 」というテナントを削除したいのですが。",
+    "CHECKBOX_CONFIRM": "ID「 <b><%= targetTenant._id %></b> 」を持つ「 <b><%= targetTenant.name %></b> 」というテナントを削除することを承知しました。",
     "HELP_CANNOT_UNDO": "これを元に戻すことはできません。",
     "BUTTON_NO": "いいえ、このテナントを削除しません",
     "BUTTON_YES": "はい、このテナントを削除します。",

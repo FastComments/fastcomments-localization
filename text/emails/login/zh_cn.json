@@ -1,9 +1,9 @@
 {
     "INTRO": "嘿 <%= username %>，",
-    "NEW_USER_BANNER_TEXT": "欢迎来到快评",
+    "NEW_USER_BANNER_TEXT": "欢迎使用 FastComments",
     "BANNER_TEXT": "FastComments 登录链接",
-    "FROM_NAME": "快评机器人",
-    "NEW_USER_SUBJECT": "欢迎使用快速评论 <%= username %>！在此处验证并登录您的帐户",
+    "FROM_NAME": "FastComments 机器人",
+    "NEW_USER_SUBJECT": "欢迎使用 FastComments <%= username %>！在此处验证并登录您的帐户",
     "SUBJECT": "这是您的登录链接 <%= username %>",
     "NEW_USER_THANKS_FOR_SIGNING_UP": "感谢您注册 FastComments。",
     "VERIFY_YOUR_ACCOUNT_THIS_LINK": "请点击<a href=\"<%= userVerifyUrl %>\">此链接</a><b>验证您的帐户</b>。这也会让您登录。",

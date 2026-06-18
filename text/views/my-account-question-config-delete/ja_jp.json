@@ -1,9 +1,9 @@
 {
     "PAGE_TITLE": "質問を削除 - FastComments",
-    "HEADING": "消去 \"<%= question.name %>\"？",
-    "CONFIRM_MESSAGE": "<%= question.question %> に作成された質問「<%= question.createdAt.toLocaleString() %>」を削除してもよろしいですか?",
+    "HEADING": "「<%= question.name %>」を削除しますか？",
+    "CONFIRM_MESSAGE": "<%= question.createdAt.toLocaleString() %> に作成された質問「<%= question.question %>」を削除してもよろしいですか?",
     "REPLY_COUNT_MESSAGE": "この質問には <%= Number(question.usedCount).toLocaleString() %> 件の返信があります。",
     "DATA_LOSS_WARNING": "これらの返信のデータはレポートでは利用できなくなります。",
-    "DELETE_BUTTON": "消去",
+    "DELETE_BUTTON": "削除",
     "CANCEL_LINK": "キャンセル"
 }

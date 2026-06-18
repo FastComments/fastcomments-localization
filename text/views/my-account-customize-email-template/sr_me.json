@@ -1,8 +1,8 @@
 {
-    "PAGE_TITLE": "<%= viewTemplate.displayName %> - Шаблони имејлова - Брзи коментари",
+    "PAGE_TITLE": "<%= viewTemplate.displayName %> - Шаблони имејлова - FastComments",
     "HEADING_EDITING_EMAIL_TEMPLATE": "Уређивање шаблона имејла",
     "HEADING_TEMPLATE": "Шаблон: <span id=\"display-name-header\"><%= viewTemplate.displayName %></span>",
-    "TEXT_JAVASCRIPT_REQUIRED": "За коришћење ове функције потребан је Јаваскрипт.",
+    "TEXT_JAVASCRIPT_REQUIRED": "За коришћење ове функције потребан је JavaScript.",
     "TEXT_DOCUMENTATION_LINK": "Документација за шаблоне имејлова може се наћи <a href=\"https://docs.fastcomments.com/guide-email-templates.html\" target=\"_blank\">овде.</a>",
     "TEXT_RENDER_ERROR_MESSAGE": "Овај шаблон има недавно грешку и није га послао.",
     "BUTTON_CLEAR_ERROR": "Обриши грешку",

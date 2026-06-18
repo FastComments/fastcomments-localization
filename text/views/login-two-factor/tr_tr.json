@@ -10,7 +10,7 @@
     "AUTHENTICATOR_INSTRUCTION": "Kimlik doğrulama uygulamanızdan aldığınız 6 haneli kodu girin.",
     "SMS_INSTRUCTION": "<%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %> adresine bir kod gönderdik.",
     "LABEL_VERIFICATION_CODE": "Doğrulama Kodu",
-    "BUTTON_VERIFY": "Doğrulamak",
+    "BUTTON_VERIFY": "Doğrula",
     "LABEL_BACKUP_CODE": "Yedekleme kodunu girin:",
     "BUTTON_USE_BACKUP_CODE": "Yedek Kodu Kullanın",
     "BUTTON_BACK": "Geri",

@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - Commentaires rapides",
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - FastComments",
     "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> Utilisateur avec badge <%- tenantBadge.displayLabel %>",
     "HEADING_USERS_WITH_BADGE_PLURAL": "<%- Number(userBadges.length).toLocaleString() %> Utilisateurs avec badge <%- tenantBadge.displayLabel %>",
     "TEXT_NO_USERS_WITH_BADGE": "Aucun utilisateur ne possède ce badge ! La plupart des badges sont attribués automatiquement. S'il s'agit d'un badge manuel, vous devrez l'attribuer manuellement.",

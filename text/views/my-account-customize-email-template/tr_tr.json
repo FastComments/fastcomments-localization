@@ -13,7 +13,7 @@
     "LABEL_DISPLAY_NAME": "Ekran adı",
     "PLACEHOLDER_DISPLAY_NAME": "Bu şablonu tanımlamak için kullanılacak özel bir ad girin.",
     "TEXT_DISPLAY_NAME_NOTE": "Yöneticilerin bu şablona atıfta bulunabileceği isim.",
-    "LABEL_DOMAIN": "İhtisas",
+    "LABEL_DOMAIN": "Alan Adı",
     "OPTION_ALL_DOMAINS": "Tüm",
     "TEXT_DOMAIN_NOTE_CAN_BE_SPECIFIC": "Bu şablon yalnızca bu etki alanı bağlamında kullanılacaktır. Aksi takdirde, başka bir şablon veya varsayılan şablon seçilecektir.",
     "TEXT_DOMAIN_NOTE_CANNOT_BE_SPECIFIC": "Bu şablon, aynı anda birden fazla etki alanında (örneğin, aynı e-posta bildiriminde birden fazla yorum) gösterilebilir veya hiçbir etki alanı bağlamında olmayabilir. <span class=\"red\">Bu nedenle, bu şablon etki alanına özgü olamaz.</span>",
@@ -22,5 +22,5 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Bölgeye Göre Özelleştir",
     "TEXT_TEST_DATA_INFO": "Burada önizlemede kullanılacak özel test verilerini tanımlayabilirsiniz. Bu veriler şablonla birlikte kaydedilir.",
     "BUTTON_RESET_TEST_DATA": "Sıfırla",
-    "BUTTON_SAVE": "Kaydetmek"
+    "BUTTON_SAVE": "Kaydet"
 }

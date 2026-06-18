@@ -4,7 +4,7 @@
     "BREADCRUMB_EDITOR": "Editor",
     "TAB_TEMPLATE": "Sjabloon",
     "TAB_CSS": "CSS",
-    "BTN_SAVE": "Redden",
+    "BTN_SAVE": "Opslaan",
     "PREVIEW_PAGE_LABEL": "Voorbeeldpagina",
     "BTN_NEW_FILE": "Nieuw bestand",
     "PROMPT_FILE_NAME": "Voer de bestandsnaam van de sjabloon in (bijv. partials/header.njk):",
@@ -14,5 +14,5 @@
     "ERROR_CANNOT_DELETE_REQUIRED": "Dit bestand is verplicht en kan niet worden verwijderd.",
     "TAB_LOCALIZATIONS": "Lokalisaties",
     "TEXT_LOCALIZATIONS_INFO": "Pas de standaardteksten aan die in uw sitethema worden gebruikt. Wijzigingen worden alleen toegepast op de geselecteerde taal.",
-    "LABEL_CUSTOMIZE_FOR_LOCALE": "Aanpassen voor de lokale instellingen:"
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Aanpassen voor taal:"
 }

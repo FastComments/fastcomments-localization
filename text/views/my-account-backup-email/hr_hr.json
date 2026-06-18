@@ -1,10 +1,10 @@
 {
-    "TITLE": "Sigurnosna kopija e-pošte - Brzi komentari",
+    "TITLE": "Sigurnosna kopija e-pošte - FastComments",
     "HEADING": "Sigurnosna kopija e-pošte",
     "DESCRIPTION": "Ako izgubite pristup svojoj primarnoj e-pošti, rezervna e-pošta može se koristiti za oporavak računa.",
     "BACKUP_EMAIL_LABEL": "Rezervna e-pošta:",
     "CURRENT_BACKUP_EMAIL": "Trenutna rezervna e-pošta:",
-    "SAVE": "Uštedjeti",
+    "SAVE": "Spremi",
     "BACKUP_EMAIL_PENDING_VERIFICATION": "Ova rezervna e-pošta čeka potvrdu.",
     "RESEND_VERIFICATION": "Ponovno pošalji e-poruku za potvrdu.",
     "REMOVE_BACKUP_EMAIL": "Uklonite rezervnu e-poštu",
@@ -15,6 +15,6 @@
     "ERROR_BACKUP_EMAIL_TAKEN": "Ta e-mail adresa je već u upotrebi.",
     "ERROR_BACKUP_EMAIL_INVALID": "Adresa e-pošte [email] nije valjana.",
     "ERROR_RATE_LIMITED_MINUTE": "Premašili ste naša ograničenja brzine. Pokušajte ponovno za nekoliko minuta ili se obratite podršci.",
-    "ERROR_RATE_LIMITED_DAY": "Premašili ste naša dnevna ograničenja cijene. Pokušajte ponovno za 24 sata ili se obratite podršci.",
+    "ERROR_RATE_LIMITED_DAY": "Premašili ste naša dnevna ograničenja brzine. Pokušajte ponovno za 24 sata ili se obratite podršci.",
     "BACK_TO_DETAILS": "Natrag na detalje računa"
 }

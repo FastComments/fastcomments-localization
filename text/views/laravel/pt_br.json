@@ -7,7 +7,7 @@
     "HERO_DESCRIPTION": "Componentes Blade prontos para uso, para comentários em tópicos, chat ao vivo em tempo real e contagem de comentários. SSO seguro via Laravel Auth, acesso completo à API por meio de uma Facade e sem etapas de configuração no frontend.",
     "HERO_CTA_FREE_TRIAL": "Comece seu teste gratuito",
     "HERO_CTA_GITHUB": "Ver no GitHub",
-    "BLADE_SECTION_TITLE": "Três componentes de lâmina, complexidade zero.",
+    "BLADE_SECTION_TITLE": "Três componentes Blade, complexidade zero",
     "BLADE_SECTION_SUBTITLE": "Cada componente é uma única tag. Publique a configuração, defina sua chave de API e pronto, está online.",
     "BLADE_1_TITLE": "Comentários em sequência",
     "BLADE_1_DESCRIPTION": "Adicione um widget de comentários em formato de tópicos completo a qualquer página. Suporta respostas, @menções, votação, texto formatado e atualizações em tempo real, tudo pronto para uso.",
@@ -58,8 +58,8 @@
     "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Execute o comando `composer require fastcomments/laravel` para adicionar o pacote ao seu projeto.",
     "HOW_IT_WORKS_STEP_2_TITLE": "Publicar configuração e definir chave de API",
     "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Publique o arquivo de configuração com o Artisan e, em seguida, adicione sua chave de API do FastComments e o ID do locatário ao seu arquivo .env.",
-    "HOW_IT_WORKS_STEP_3_TITLE": "Componentes de lâmina de encaixe",
-    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Usar<x-fastcomments> ,<x-fastcomments-live-chat> , ou<x-fastcomments-comment-count> em qualquer lugar nos seus modelos Blade.",
+    "HOW_IT_WORKS_STEP_3_TITLE": "Adicione os componentes Blade",
+    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Use <x-fastcomments>, <x-fastcomments-live-chat> ou <x-fastcomments-comment-count> em qualquer lugar nos seus modelos Blade.",
     "FAQ_LARAVEL_FREE_TRIAL": "Existe algum período de teste gratuito?",
     "FAQ_LARAVEL_FREE_TRIAL_ANSWER": "Sim. O FastComments oferece um período de teste gratuito de 30 dias com acesso completo a todos os recursos, incluindo SSO, chat ao vivo e editor de texto avançado. Não é necessário cartão de crédito para começar.",
     "FAQ_LARAVEL_SSO": "Como funciona o SSO com o Laravel Auth?",
@@ -71,7 +71,7 @@
     "FAQ_LARAVEL_BLADE": "Posso personalizar os componentes do Blade?",
     "FAQ_LARAVEL_BLADE_ANSWER": "Sim. Você pode publicar as views Blade com o Artisan e modificá-las diretamente. Os componentes também aceitam todas as opções de configuração padrão do FastComments como props, oferecendo controle total sobre a aparência e o comportamento sem precisar mexer nos arquivos de terceiros.",
     "FAQ_LARAVEL_API": "Posso acessar a API FastComments a partir do Laravel?",
-    "FAQ_LARAVEL_API_ANSWER": "Sim. O pacote fornece uma interface FastComments e suporta injeção de dependência. Você pode usá-lo para criar, atualizar ou excluir comentários programaticamente, gerenciar usuários, obter análises e muito mais a partir de seus controladores ou tarefas.",
+    "FAQ_LARAVEL_API_ANSWER": "Sim. O pacote fornece uma Facade do FastComments e suporta injeção de dependência. Você pode usá-lo para criar, atualizar ou excluir comentários programaticamente, gerenciar usuários, obter análises e muito mais a partir de seus controladores ou tarefas.",
     "FINAL_CTA_TITLE": "Pronto para adicionar comentários ao seu aplicativo Laravel?",
     "FINAL_CTA_DESCRIPTION": "Instale o pacote Composer, adicione um componente Blade e entre em funcionamento em minutos."
 }

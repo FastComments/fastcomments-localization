@@ -9,15 +9,15 @@
     "REMOVE_COMMENT": "Bu yorumu şimdi kaldırmak istiyorsanız, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">burayı tıklayın</a>",
     "THANKS_SO_MUCH": "Çok teşekkürler!",
     "USING_NAME_YOU_SAID": "\"<%= comment.commenterName %>\" adını kullanarak şunları söylediniz:",
-    "JUST_NOW": "Şu anda",
+    "JUST_NOW": "şimdi",
     "ONE_MINUTE_AGO": "1 dakika önce",
-    "MINUTES_AGO": "  dakika önce",
+    "MINUTES_AGO": " dakika önce",
     "ONE_HOUR_AGO": "1 saat önce",
-    "HOURS_AGO": "  saatler önce",
+    "HOURS_AGO": " saat önce",
     "YESTERDAY": "Dün",
-    "DAYS_AGO": "  günler önce",
-    "WEEKS_AGO": "  haftalar önce",
-    "MONTHS_AGO": "  aylar önce",
-    "YEARS_AGO": "  Yıllar önce",
-    "UNSUBSCRIBE_HERE": "abonelikten çık"
+    "DAYS_AGO": " gün önce",
+    "WEEKS_AGO": " hafta önce",
+    "MONTHS_AGO": " ay önce",
+    "YEARS_AGO": " yıl önce",
+    "UNSUBSCRIBE_HERE": "Abonelikten Çık"
 }

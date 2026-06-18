@@ -1,8 +1,8 @@
 {
-    "FROM_NAME": "FastComments ajudam bot",
-    "SUBJECT": "Solicitar a solicitação reconhecida pela equipe de suporte",
+    "FROM_NAME": "Bot de Ajuda do FastComments",
+    "SUBJECT": "Solicitação de ajuda reconhecida pela equipe de suporte",
     "HEY": "Ei <%= commenterUsername %>,",
-    "ACKNOWLEDGED_BY_ADMIN": "Parece que o agente de suporte com o nome de usuário \"<%= adminUsername %>\" reconheceu sua solicitação. Eles devem chegar a você em breve.",
-    "THANKS_FOR_USING_FC": "Obrigado por usar FastComments!",
-    "DONT_REPLY_TO_THIS": "Este email vem de uma caixa de e-mail única de saída - não responda a ela. Nós vamos alcançar você separadamente."
+    "ACKNOWLEDGED_BY_ADMIN": "Parece que o agente de suporte com o nome de usuário \"<%= adminUsername %>\" reconheceu sua solicitação. Ele deve entrar em contato com você em breve.",
+    "THANKS_FOR_USING_FC": "Obrigado por usar o FastComments!",
+    "DONT_REPLY_TO_THIS": "Este e-mail vem de uma caixa de e-mail exclusiva para envio - não responda a ele. Entraremos em contato com você separadamente."
 }

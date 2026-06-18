@@ -15,7 +15,7 @@
     "DIGEST_SPAM": "Спам",
     "DIGEST_NEW_USERS": "Новые пользователи",
     "DIGEST_SCHEDULE_LABEL": "Расписание дайджеста",
-    "DIGEST_DISABLED": "Неполноценный",
+    "DIGEST_DISABLED": "Отключено",
     "DIGEST_DAILY": "Ежедневно (пн-пт 8:00 по тихоокеанскому времени)",
     "DIGEST_WEEKLY": "Еженедельно (понедельник, 8:00 утра по тихоокеанскому времени)",
     "DIGEST_MONTHLY": "Ежемесячно (1-го числа каждого месяца, в 8:00 утра по тихоокеанскому времени)",
@@ -40,11 +40,11 @@
     "REPLY_NOTIFICATION_FREQUENCY_HELP": "Как часто вы получаете уведомления по электронной почте об ответах на ваши комментарии? Уведомления с упоминанием (@mention) отправляются всегда сразу же.",
     "TENANT_NOTIFICATION_FREQUENCY_LABEL": "Частота уведомлений администратора",
     "TENANT_NOTIFICATION_FREQUENCY_HELP": "Как часто вы получаете уведомления по электронной почте о новых комментариях на вашем сайте?",
-    "AGENT_APPROVAL_HEADING": "Одобрение агентов ИИ",
+    "AGENT_APPROVAL_HEADING": "Одобрение действий ИИ-агентов",
     "AGENT_APPROVAL_FREQUENCY_LABEL": "Частота уведомлений об одобрении",
     "AGENT_APPROVAL_FREQUENCY_HELP": "Как часто вы получаете уведомления по электронной почте, когда ИИ-агент ставит действие в очередь на ваше рассмотрение?",
     "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "Немедленно",
-    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Никогда не пишите мне электронные письма",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "Не отправлять мне письма",
     "AGENT_APPROVAL_FREQUENCY_HOURLY": "Ежечасный дайджест",
     "AGENT_APPROVAL_FREQUENCY_DAILY": "Ежедневный дайджест"
 }

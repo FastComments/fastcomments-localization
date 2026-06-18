@@ -1,11 +1,11 @@
 {
-    "PAGE_TITLE": "Site Gezinme - Hızlı Yorumlar",
+    "PAGE_TITLE": "Site Gezinme - FastComments",
     "HEADING_NAV": "Navigasyon",
     "TEXT_NO_NAV_ENTRIES": "Henüz navigasyon girişi yok. İlk girişinizi aşağıya ekleyin.",
     "TABLE_HEADER_NAME": "İsim",
     "TABLE_HEADER_SOURCE_TYPE": "Bağlantı Türü",
     "TABLE_HEADER_URL": "Hedef",
-    "TABLE_HEADER_ORDER": "Emir",
+    "TABLE_HEADER_ORDER": "Sıra",
     "HEADING_ADD_NAV_ENTRY": "Gezinti Girişi Ekle",
     "LABEL_DISPLAY_NAME": "Ekran adı",
     "LABEL_GOES_TO_TYPE": "Bağlantı Türü",
@@ -13,11 +13,11 @@
     "PLACEHOLDER_URL": "https://example.com",
     "LABEL_TARGET_ID": "Hedef Kimliği",
     "PLACEHOLDER_TARGET_ID": "İçerik bloğu kimliği",
-    "LABEL_CHILDREN_SOURCE_TYPE": "Çocuklar Kaynak Türü",
-    "LABEL_CHILDREN_SOURCE_ID": "Çocuklar Kaynak Kimliği",
+    "LABEL_CHILDREN_SOURCE_TYPE": "Alt Öğeler Kaynak Türü",
+    "LABEL_CHILDREN_SOURCE_ID": "Alt Öğeler Kaynak Kimliği",
     "LABEL_MEMBERSHIP_GATE": "Üyelik Kapısı",
-    "OPTION_SELECT": "-- Seçme --",
+    "OPTION_SELECT": "-- Seç --",
     "OPTION_NONE": "Hiçbiri",
-    "BUTTON_ADD": "Eklemek",
-    "BUTTON_DELETE": "Silmek"
+    "BUTTON_ADD": "Ekle",
+    "BUTTON_DELETE": "Sil"
 }

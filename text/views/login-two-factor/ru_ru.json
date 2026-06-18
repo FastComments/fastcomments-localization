@@ -10,7 +10,7 @@
     "AUTHENTICATOR_INSTRUCTION": "Введите 6-значный код из вашего приложения-аутентификатора.",
     "SMS_INSTRUCTION": "Мы отправили код на <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>",
     "LABEL_VERIFICATION_CODE": "Проверочный код",
-    "BUTTON_VERIFY": "Проверять",
+    "BUTTON_VERIFY": "Подтвердить",
     "LABEL_BACKUP_CODE": "Введите резервный код:",
     "BUTTON_USE_BACKUP_CODE": "Используйте резервный код",
     "BUTTON_BACK": "Назад",

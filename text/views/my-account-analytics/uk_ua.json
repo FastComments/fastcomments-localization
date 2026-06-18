@@ -41,7 +41,7 @@
     "TEXT_NO_PAGE_LIKES": "Тут нічого немає. Можливо, ви хочете налаштувати віджет <a href=\"https://docs.fastcomments.com/guide-page-reacts.html\" target=\"_blank\">Page Reacts</a> ?",
     "TEXT_NO_USERS_ONLINE": "Наразі онлайн немає користувачів, або коментарів для сторінок, де користувачі онлайн, немає.",
     "TEXT_NOTHING_TO_SEE": "Тут нічого немає.",
-    "HEADING_METRICS_BY_MONTH": "Метрики від <%= timePeriod === '12months' ? 'Month - Last 12 Months' : 'Day - Last 30 Days' %>",
+    "HEADING_METRICS_BY_MONTH": "Метрики за <%= timePeriod === '12months' ? 'Month - Last 12 Months' : 'Day - Last 30 Days' %>",
     "TABLE_HEADER_MONTH": "Місяць",
     "TABLE_HEADER_DAY": "День",
     "TABLE_HEADER_PAGE_LOADS": "Завантаження сторінок",

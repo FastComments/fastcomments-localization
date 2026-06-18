@@ -15,13 +15,13 @@
     "EXISTING_HEADING": "Mevcut Konfigürasyonlar",
     "TABLE_HEADER_PLATFORM": "Platform",
     "GENERATE_BUTTON": "URL oluştur",
-    "TABLE_HEADER_ISSUER": "İhraççı",
-    "TABLE_HEADER_CLIENT_ID": "Müşteri Kimliği",
+    "TABLE_HEADER_ISSUER": "Veren",
+    "TABLE_HEADER_CLIENT_ID": "İstemci Kimliği",
     "TABLE_HEADER_NAME": "İsim",
     "GENERATED_URL_INSTRUCTION": "Bu URL'yi kopyalayın ve LMS'nizin Dinamik Kayıt alanına yapıştırın. URL 30 dakika sonra geçerliliğini yitirecek ve yalnızca bir kez kullanılabilir.",
     "TABLE_HEADER_STATUS": "Durum",
     "NO_CONFIGS": "Henüz LTI yapılandırması yok. Bir tane eklemek için yukarıdan bir kayıt URL'si oluşturun.",
     "STATUS_ENABLED": "Etkinleştirilmiş",
-    "STATUS_DISABLED": "Engelli",
-    "DELETE_BUTTON": "Silmek"
+    "STATUS_DISABLED": "Devre Dışı",
+    "DELETE_BUTTON": "Sil"
 }

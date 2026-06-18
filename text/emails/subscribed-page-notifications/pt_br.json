@@ -2,10 +2,10 @@
     "INTRO": "Ei <%= username %>,",
     "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "Há novos comentários nas páginas que você assinou.",
     "HERE_ARE_LINKS_TO_PAGES": "Aqui está uma lista de páginas com os novos comentários. Também há links abaixo para cancelar a assinatura de uma página, se desejar.",
-    "CAN_VIEW_ALL_IN_ACCOUNT": "Você pode ver todas as suas notificações individuais não lidas <a href=\"<%= FC_SITE %>/auth/my-account\">na página inicial da sua conta</a> .",
+    "CAN_VIEW_ALL_IN_ACCOUNT": "Você pode ver todas as suas notificações individuais não lidas <a href=\"<%= FC_SITE %>/auth/my-account\">na página inicial da sua conta</a>.",
     "PAGE": "Página",
     "NEW_COMMENTS": "Comentários",
-    "UNSUBSCRIBE": "Cancelar subscrição",
+    "UNSUBSCRIBE": "Cancelar inscrição",
     "SUBJECT": "Novos comentários",
     "VIEW": "Visualizar",
     "FROM_NAME": "Assinaturas de FastComments"

@@ -1,6 +1,6 @@
 {
-    "PAGE_TITLE_ADD": "Додај корисника - БрзиКоментари",
-    "PAGE_TITLE_EDIT": "Измени <%= editingUser.username %> - БрзиКоментари",
+    "PAGE_TITLE_ADD": "Додај корисника - FastComments",
+    "PAGE_TITLE_EDIT": "Измени <%= editingUser.username %> - FastComments",
     "HEADING_ADD": "Додај корисника",
     "HEADING_EDIT": "Измени <%= editingUser.username %>",
     "SUBHEADING_ADD": "Додавање корисника",
@@ -13,7 +13,7 @@
     "PLACEHOLDER_USERNAME": "сјајна-особа-2",
     "LABEL_EMAIL": "Е-пошта",
     "PLACEHOLDER_EMAIL": "email@example.com",
-    "LABEL_LOCALE": "Локалитет",
+    "LABEL_LOCALE": "Језик",
     "LABEL_PERMISSIONS": "Дозволе",
     "BUTTON_SUBMIT": "Пошаљи",
     "USERNAME_EXISTS_SAME_TENANT": "❗ Корисник са тим корисничким именом већ постоји за овог закупца.",

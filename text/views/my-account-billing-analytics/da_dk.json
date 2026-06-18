@@ -8,8 +8,8 @@
     "TEXT_INVOICE_SEND_DATE": "Faktura skal sendes den <%= invoiceSendDate %>.",
     "HEADING_SERVICE_LIMITS": "Servicegrænser",
     "TEXT_TRIAL_LIMITS_NOTE": "<b>Bemærk!</b> Da du er i en prøveperiode, er der lavere grænser for din konto. <a href=\"/auth/my-account/billing-info\">Opgrader til en betalt konto</a> , eller <a href=\"/auth/my-account/help\">kontakt support for at hæve disse grænser</a> .",
-    "LABEL_CURRENT": "Strøm:",
+    "LABEL_CURRENT": "Nuværende:",
     "LABEL_MAX": "Maks:",
     "TEXT_MAX_NONE": "Ingen",
-    "TABLE_HEADER_COST": "Koste"
+    "TABLE_HEADER_COST": "Omkostning"
 }

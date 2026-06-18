@@ -6,7 +6,7 @@
     "ATTEMPTS_REMAINING": "Preostalih <%= 5 - session.attempts %> poskusov",
     "LABEL_METHOD_SELECT": "Izberite način preverjanja:",
     "METHOD_AUTHENTICATOR": "Aplikacija za preverjanje pristnosti",
-    "METHOD_SMS": "SMS-i",
+    "METHOD_SMS": "SMS",
     "AUTHENTICATOR_INSTRUCTION": "Vnesite 6-mestno kodo iz aplikacije za preverjanje pristnosti",
     "SMS_INSTRUCTION": "Poslali smo kodo na <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>",
     "LABEL_VERIFICATION_CODE": "Potrditvena koda",

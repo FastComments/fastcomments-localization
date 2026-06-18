@@ -7,7 +7,7 @@
     "LIMIT_MONTHLY_SMALL_WIDGETS_CREDITS_HELP": "Hoeveel verzoeken je doet voor kleine widgets (aantal reacties, recente reacties, enz.).",
     "LIMIT_MONTHLY_COMMENTS_STORED": "Maandelijks opgeslagen reacties",
     "LIMIT_MONTHLY_COMMENTS_STORED_HELP": "Hoeveel reacties zijn er deze maand achtergelaten?",
-    "LIMIT_TENANT_USERS": "Huurders",
+    "LIMIT_TENANT_USERS": "Tenantgebruikers",
     "LIMIT_TENANT_USERS_HELP": "Hoeveel beheerders je hebt.",
     "LIMIT_SSO_USERS": "SSO-gebruikers",
     "LIMIT_SSO_USERS_HELP": "Hoeveel SSO-gebruikers u heeft.",
@@ -15,6 +15,6 @@
     "LIMIT_MODERATORS_HELP": "Hoeveel moderators je hebt.",
     "LIMIT_DOMAINS": "Domeinen",
     "LIMIT_DOMAINS_HELP": "Het aantal websites of domeinen dat u in uw account hebt.",
-    "LIMIT_MANAGED_TENANTS": "Beheerde huurders",
-    "LIMIT_MANAGED_TENANTS_HELP": "Hoeveel onderhuurders uw huurder beheert."
+    "LIMIT_MANAGED_TENANTS": "Beheerde tenants",
+    "LIMIT_MANAGED_TENANTS_HELP": "Hoeveel subtenants uw tenant beheert."
 }

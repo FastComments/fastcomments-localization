@@ -1,7 +1,7 @@
 {
     "PAGE_TITLE": "הרשמה",
-    "HERO_TITLE_LIGHT": "הצטרף ל ",
-    "HERO_TITLE_BOLD": "דִיוּן",
+    "HERO_TITLE_LIGHT": "הצטרפו ",
+    "HERO_TITLE_BOLD": "לדיון",
     "HERO_DESCRIPTION": "רוצים להגיב באתר שמשתמש ב-FastComments? הגעתם למקום הנכון.",
     "HERO_ADDITIONAL_TEXT": "אם אתם רוצים להוסיף את FastComments לאתר אינטרנט, עליכם להירשם <a href=\"/auth/tenant-signup?email=<%= email %>\">כאן.</a>",
     "FORM_DESCRIPTION": "כל מה שצריך זה שם משתמש וכתובת דוא\"ל כדי להירשם.",
@@ -9,7 +9,7 @@
     "PLACEHOLDER_USERNAME": "הזן שם משתמש",
     "USERNAME_PATTERN_TITLE": "נא לא להוסיף תווים מיוחדים - רק מספרים ואותיות.",
     "USERNAME_DESCRIPTION": "שם משתמש זה יהיה גלוי לציבור.",
-    "LABEL_EMAIL": "*אֶלֶקטרוֹנִי:",
+    "LABEL_EMAIL": "*דוא\"ל:",
     "PLACEHOLDER_EMAIL": "הזן כתובת דוא\"ל",
     "EMAIL_DESCRIPTION": "נשלח לך קישור בדוא\"ל כדי להשלים את תהליך הרישום של החשבון ולהתחבר.",
     "SIGNUP_EMAIL_TEXT": "אתה נרשם באמצעות <b><%= email %></b> .",

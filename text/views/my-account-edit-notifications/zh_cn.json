@@ -12,7 +12,7 @@
     "DIGEST_DESCRIPTION": "我们可以定期向您发送提醒，告知您可能需要审核或批准的评论，以及以下各项的计数：",
     "DIGEST_RECENT_COMMENTS": "最新评论",
     "DIGEST_APPROVED_COMMENTS": "已批准的评论",
-    "DIGEST_SPAM": "垃圾邮件",
+    "DIGEST_SPAM": "垃圾评论",
     "DIGEST_NEW_USERS": "新用户",
     "DIGEST_SCHEDULE_LABEL": "摘要日程",
     "DIGEST_DISABLED": "已禁用",
@@ -25,7 +25,7 @@
     "SUBSCRIPTIONS_HEADING": "订阅",
     "SUBSCRIPTIONS_DESCRIPTION": "您可以在这里管理您的页面订阅。要接收页面新评论通知，请点击评论小部件上的铃铛图标，然后点击“订阅”。",
     "PAGE_COLUMN": "页",
-    "STATUS_COLUMN": "地位",
+    "STATUS_COLUMN": "状态",
     "SUBSCRIBED": "已订阅",
     "NO_SUBSCRIPTIONS": "您目前还没有任何订阅。",
     "SAVE_CHANGES": "保存更改",
@@ -43,8 +43,8 @@
     "AGENT_APPROVAL_FREQUENCY_LABEL": "审批通知频率",
     "AGENT_APPROVAL_HEADING": "AI代理审批",
     "AGENT_APPROVAL_FREQUENCY_DAILY": "每日摘要",
-    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "立即地",
+    "AGENT_APPROVAL_FREQUENCY_IMMEDIATE": "立即",
     "AGENT_APPROVAL_FREQUENCY_HELP": "AI代理将操作加入队列供您审核时，您多久会收到一次电子邮件通知？",
-    "AGENT_APPROVAL_FREQUENCY_DISABLED": "永远不要给我发邮件",
+    "AGENT_APPROVAL_FREQUENCY_DISABLED": "不发邮件给我",
     "AGENT_APPROVAL_FREQUENCY_HOURLY": "每小时摘要"
 }

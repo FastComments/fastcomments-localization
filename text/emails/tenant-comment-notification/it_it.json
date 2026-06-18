@@ -1,6 +1,6 @@
 {
     "INTRO": "Ciao <%= username %>,",
-    "FROM_NAME": "FastComments Robot",
+    "FROM_NAME": "Robot FastComments",
     "YOU_HAVE_NEW_COMMENTS": "Hai dei nuovi commenti!",
     "BANNER_TEXT": "Nuovi commenti",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Nuovo commento<% } else { %>Nuovi commenti<% } %>",

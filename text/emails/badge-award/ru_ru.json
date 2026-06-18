@@ -1,11 +1,11 @@
 {
-    "INTRO": "Привет, <%= username %>, ты получил новый значок <strong><%= siteDomain %></strong> !",
-    "CONGRATULATIONS": "Поздравляю!",
+    "INTRO": "Привет, <%= username %>, вы получили новый значок на сайте <strong><%= siteDomain %></strong>!",
+    "CONGRATULATIONS": "Поздравляем!",
     "BANNER_TEXT": "Получен новый значок",
     "FROM_NAME": "Робот FastComments",
     "SUBJECT": "Вы заслужили значок \"<%= badge.displayLabel %>\"!",
-    "BADGE_EARNED_MESSAGE": "Вы успешно получили значок <strong><%= badge.displayLabel %></strong> .",
+    "BADGE_EARNED_MESSAGE": "Вы успешно получили значок <strong><%= badge.displayLabel %></strong>.",
     "KEEP_UP_GOOD_WORK": "Продолжайте в том же духе!",
     "UNSUBSCRIBE_HERE": "Отписаться от уведомлений о значках",
-    "VIEW_YOUR_PROFILE": "Просмотреть ваш профиль"
+    "VIEW_YOUR_PROFILE": "Посмотреть ваш профиль"
 }

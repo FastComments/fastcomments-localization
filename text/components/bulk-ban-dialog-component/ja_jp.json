@@ -23,7 +23,7 @@
     "BULK_BAN_DURATION_LABEL": "禁止期間",
     "BULK_BAN_DURATION_FOREVER": "永遠に",
     "BULK_BAN_DURATION_ONE_HOUR": "1時間",
-    "BULK_BAN_DURATION_ONE_DAY": "ある日",
+    "BULK_BAN_DURATION_ONE_DAY": "1日",
     "BULK_BAN_DURATION_ONE_WEEK": "1週間",
     "BULK_BAN_DURATION_ONE_MONTH": "1ヶ月",
     "BULK_BAN_DURATION_SIX_MONTHS": "6ヶ月",
@@ -33,5 +33,5 @@
     "BULK_BAN_BY_EMAIL": "メールで",
     "BULK_BAN_BY_IP": "IPによる",
     "BULK_BAN_BY_EMAIL_DOMAIN": "メールの末尾が次の場合: [domains]",
-    "BULK_BAN_DELETE_RELATED_COMMENTS": "[count] 関連のコメントを削除します[summary]。"
+    "BULK_BAN_DELETE_RELATED_COMMENTS": "関連する[count]件のコメントを削除します[summary]。"
 }

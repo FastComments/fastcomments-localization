@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Sil <%= targetTenant.name %> - HızlıYorumlar",
+    "PAGE_TITLE": "<%= targetTenant.name %> Sil - FastComments",
     "HEADING": "Kiracıyı Sil",
     "CONFIRM_HEADING": "<%= targetTenant.name %> öğesini silmek istediğinizden emin misiniz?",
     "MESSAGE_WILL_DELETE": "Bu işlem şunları silecektir:",

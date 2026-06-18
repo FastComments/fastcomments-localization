@@ -15,13 +15,13 @@
     "METRIC_TOTAL_ACTIVE_CONVERSIONS": "总活跃转化率",
     "METRIC_PENDING_PAYOUTS": "待支付款项",
     "METRIC_ESTIMATED_MRR": "预计MRR",
-    "LOGS_TITLE": "转诊记录",
+    "LOGS_TITLE": "推荐记录",
     "LOGS_SUBTITLE": "在这里，您可以查看人们何时点击您的链接、何时注册以及您何时收到付款。",
     "NO_EVENTS_TITLE": "未找到任何事件",
     "NO_EVENTS_SUBTITLE": "暂无点击或推荐显示！",
     "TABLE_COLUMN_EVENT": "事件",
-    "TABLE_COLUMN_TENANT_NAME": "租户姓名",
-    "TABLE_COLUMN_COMMISSION": "委员会",
+    "TABLE_COLUMN_TENANT_NAME": "租户名称",
+    "TABLE_COLUMN_COMMISSION": "佣金",
     "TABLE_COLUMN_DATE": "日期",
     "ERROR_RENDER_FAILED": "联盟营销界面渲染失败。错误代码为：[code]。请联系客服。"
 }

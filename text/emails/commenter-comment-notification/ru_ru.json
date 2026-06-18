@@ -2,10 +2,10 @@
     "INTRO": "Привет <%= username %>,",
     "BANNER_TEXT": "Новые ответы на комментарии",
     "FROM_NAME": "Робот FastComments",
-    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>new Ответить <% } else { %>new Ответы<% } %> к <% if(replyCount > 1) { %>Ваши комментарии<% } else {%>Ваш комментарий<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>новый ответ<% } else { %>новых ответов<% } %> на <% if(replyCount > 1) { %>ваши комментарии<% } else {%>ваш комментарий<% } %>",
     "VIEW_REPLIES": "Посмотреть и ответить",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Отключить уведомления для этого комментария",
     "UNSUBSCRIBE_HERE": "Отписаться",
     "REPLY_BY_EMAIL_TIP": "Вы можете ответить на это письмо напрямую, чтобы опубликовать свой ответ.",
-    "RECENT_COMMENT_COUNT": "You've had <% if(replyCount > 1) { %>some replies<% } else { %>a reply<% } %> to your<% if(commentsSummary.length > 1) {%> comments<% } else { %> comment<% } %>."
+    "RECENT_COMMENT_COUNT": "У вас <% if(replyCount > 1) { %>несколько ответов<% } else { %>ответ<% } %> на ваш<% if(commentsSummary.length > 1) {%>и комментарии<% } else { %> комментарий<% } %>."
 }

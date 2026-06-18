@@ -2,7 +2,7 @@
     "PAGE_TITLE": "Ενσωματώσεις - FastComments",
     "HEADING": "Ενσωματώσεις",
     "TABLE_HEADER_TYPE": "Τύπος",
-    "TABLE_HEADER_DOMAIN": "Πεδίο ορισμού",
+    "TABLE_HEADER_DOMAIN": "Τομέας",
     "TABLE_HEADER_LAST_USED": "Τελευταία χρήση",
     "TABLE_HEADER_STATUS": "Κατάσταση",
     "NO_INTEGRATIONS_MESSAGE": "Δεν έχετε ενσωματώσεις! Οι ενσωματώσεις χρησιμοποιούνται για να διατηρούνται υπηρεσίες τρίτων μερών, όπως το WordPress ή το LMS σας, συγχρονισμένες με τον λογαριασμό σας FastComments.",
@@ -13,13 +13,13 @@
     "STATUS_AWAITING_VERIFICATION": "Αναμονή επαλήθευσης",
     "VIEW_LOGS_LINK": "Προβολή αρχείων καταγραφής",
     "SETTINGS_LINK": "Ρυθμίσεις",
-    "DELETE_LINK": "Διαγράφω",
+    "DELETE_LINK": "Διαγραφή",
     "INTEGRATION_LOGO_ALT": "Λογότυπο ενσωμάτωσης",
     "STATUS_ACTIVE": "Ενεργός",
     "STATUS_INCOMPLETE": "Ατελής",
     "LAST_USED_NOT_TRACKED": "Δεν παρακολουθείται",
-    "STATUS_DISABLED": "Ανάπηρος",
+    "STATUS_DISABLED": "Απενεργοποιημένο",
     "STATUS_ENABLED": "Ενεργοποιημένο",
-    "MANAGE_LINK": "Διαχειρίζομαι",
-    "TYPE_CANVAS_LTI": "LTI στον καμβά"
+    "MANAGE_LINK": "Διαχείριση",
+    "TYPE_CANVAS_LTI": "Canvas LTI"
 }

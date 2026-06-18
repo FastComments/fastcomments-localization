@@ -1,6 +1,6 @@
 {
     "TITLE": "マイアカウント - FastComments",
-    "WELCOME_BACK": "おかえり、 <%- user.displayName || user.username %>。",
+    "WELCOME_BACK": "おかえりなさい、<%- user.displayName || user.username %> さん。",
     "SNAPSHOT_MESSAGE": "あなたのアカウントの簡単なスナップショットを以下に示します。",
     "JAVASCRIPT_REQUIRED": "FastComments が正しく機能するには JavaScript が必要です。",
     "JAVASCRIPT_NOTE": "注：メモリ使用量を抑えるため、重いフレームワークは使用せず、最小限のJavaScriptを使用しています。ぜひご活用ください。"

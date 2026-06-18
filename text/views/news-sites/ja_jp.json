@@ -37,7 +37,7 @@
     "NEWSPACK_TITLE": "FastCommentsはNewspackとすぐに連携します",
     "NEWSPACK_COL_WP": "ニュースパックのデフォルトコメント",
     "NEWSPACK_COMPARE_CAPTION": "NewspackのデフォルトコメントとFastCommentsの比較",
-    "NEWSPACK_COL_FC": "ファストコメント",
+    "NEWSPACK_COL_FC": "FastComments",
     "NEWSPACK_ROW_REALTIME": "リアルタイムのライブアップデート",
     "NEWSPACK_ROW_FOOTPRINT": "フットプリントは約30KB、Core Web Vitalsの高速化",
     "NEWSPACK_ROW_SPAM": "機械学習によるスパムフィルタリング",
@@ -45,7 +45,7 @@
     "NEWSPACK_P2": "NewspackにはWordPressのネイティブコメント機能が付属していますが、これらのコメントにはWordPressが抱えるあらゆる制約が伴います。リアルタイム更新がないため、読者は新しい返信を見るためにページを更新する必要があります。マークアップによってページが重くなり、広告やメディアで既に重い記事ページではCore Web Vitalsのスコアが低下します。スパム対策は不十分で、コメントのモデレーションはwp-adminキューからコメントを1つずつ処理していく必要があります。一度に何千人もの読者が集まる速報記事では、この方式は通用しません。FastCommentsは、会話の進行に合わせて瞬時に表示されるライブコメント機能を提供し、ファイルサイズは約30キロバイトと非常にコンパクトです。",
     "NEWSPACK_P1": "NewspackはWordPressをベースに構築されており、FastCommentsプラグインも同様です。Newspackで公開する場合、プラットフォームを切り替えたり、何かを再構築したりする必要はありません。FastComments WordPressプラグインをNewspackサイトにインストールし、数回クリックするだけで接続でき、数分後にはライブコメント機能が稼働します。投稿、テーマ、編集ワークフローはそのまま維持されます。",
     "NEWSPACK_ROW_MODERATION": "モデレーショングループと一括操作",
-    "NEWSPACK_ROW_SCALE": "交通量の急増時にも速さを維持",
+    "NEWSPACK_ROW_SCALE": "トラフィックの急増時にも速さを維持",
     "NEWSPACK_YES": "含まれる",
     "NEWSPACK_NO": "利用不可",
     "NEWSPACK_ROW_PRIVACY": "GDPR準拠、読者追跡なし"

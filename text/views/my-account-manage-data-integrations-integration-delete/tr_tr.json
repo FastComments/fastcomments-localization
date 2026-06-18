@@ -3,6 +3,6 @@
     "HEADING": "Entegrasyon Tokenini Sil",
     "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "Bu <%= integration.readableType %> entegrasyon belirtecini silmek istediğinizden emin misiniz?",
     "CONFIRM_DELETE_MESSAGE_DOMAIN": "<%= integration.domain %> için bu <%= integration.readableType %> entegrasyon belirtecini silmek istediğinizden emin misiniz?",
-    "DELETE_BUTTON": "Silmek",
-    "CANCEL_LINK": "İptal etmek"
+    "DELETE_BUTTON": "Sil",
+    "CANCEL_LINK": "İptal"
 }

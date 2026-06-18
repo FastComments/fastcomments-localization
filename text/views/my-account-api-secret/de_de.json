@@ -1,7 +1,7 @@
 {
     "PAGE_TITLE": "API-Geheimnis – FastComments",
     "HEADING_API_CREDENTIALS": "API-Zugangsdaten",
-    "LABEL_TENANT_ID": "Mieter-ID",
+    "LABEL_TENANT_ID": "Mandanten-ID",
     "TEXT_NO_API_KEYS": "Hier gibt es nichts zu sehen! Fügen Sie einen API-Schlüssel hinzu, um mit der API oder den Webhooks zu beginnen.",
     "LABEL_KEY_NAME": "Schlüsselname:",
     "TEXT_DEFAULT_KEY_NAME": "Standard",
@@ -9,9 +9,9 @@
     "TEXT_ALL_DOMAINS": "Alle",
     "TITLE_EDIT_NAME": "Name bearbeiten",
     "TITLE_DELETE": "Löschen",
-    "TITLE_EDIT_DOMAIN": "Domäne bearbeiten",
+    "TITLE_EDIT_DOMAIN": "Domain bearbeiten",
     "TEXT_CLICK_TO_REVEAL": "Klicken Sie hier, um den geheimen Schlüssel anzuzeigen",
-    "TEXT_SECURITY_WARNING": "Geben Sie Ihre geheimen Schlüssel nicht weiter und verschlüsseln Sie nicht im Browser! In unseren <a href=\"https://github.com/fastcomments/fastcomments-code-examples\" target=\"_blank\">Backend-Codebeispielen finden Sie Informationen</a> zur sicheren Verschlüsselung Ihrer Daten.",
+    "TEXT_SECURITY_WARNING": "Geben Sie Ihre geheimen Schlüssel nicht weiter und verschlüsseln Sie nicht im Browser! In unseren <a href=\"https://github.com/fastcomments/fastcomments-code-examples\" target=\"_blank\">Backend-Codebeispielen</a> erfahren Sie, wie Sie verschlüsseln und Ihren Schlüssel dabei sicher aufbewahren.",
     "TITLE_ADD_API_SECRET": "API-Geheimnis hinzufügen",
     "TEXT_ADD_API_KEY": "API-Schlüssel hinzufügen"
 }

@@ -2,7 +2,7 @@
     "INTRO": "こんにちは <%= username %> さん、 <strong><%= siteDomain %></strong>で新しいバッジを獲得しました!",
     "CONGRATULATIONS": "おめでとう！",
     "BANNER_TEXT": "新しいバッジを獲得しました",
-    "FROM_NAME": "ファストコメントロボット",
+    "FROM_NAME": "FastComments ロボット",
     "SUBJECT": "「<%= badge.displayLabel %>」バッジを獲得しました。",
     "BADGE_EARNED_MESSAGE": "<strong><%= badge.displayLabel %></strong>バッジを獲得しました。",
     "KEEP_UP_GOOD_WORK": "これからも素晴らしい仕事を続けてください!",

@@ -12,7 +12,7 @@
     "UPDATE_EVENTS_OPTION": "Evenementen bijwerken",
     "SUCCESSFUL_EVENTS_OPTION": "Succesvolle evenementen",
     "FAILED_EVENTS_OPTION": "Mislukte evenementen",
-    "SEARCH_BUTTON": "Zoekopdracht",
+    "SEARCH_BUTTON": "Zoeken",
     "STATS_WAITING": "<b><%= Number(countPending).toLocaleString() %></b> Wachten",
     "STATS_PENDING_RETRY": "<b><%= Number(countPendingRetried).toLocaleString() %></b> Opnieuw proberen in behandeling",
     "TABLE_HEADER_WHEN": "Wanneer",
@@ -38,5 +38,5 @@
     "RETENTION_INFO": "Webhook-logbestanden worden een jaar bewaard.",
     "N_A_VALUES_NOTE": "Bij sommige vermeldingen kan 'N/A' staan voor waarden die we niet altijd hebben verzameld.",
     "LOG_DETAILS_HEADING": "Logboekdetails",
-    "CLOSE_BUTTON": "Dichtbij"
+    "CLOSE_BUTTON": "Sluiten"
 }

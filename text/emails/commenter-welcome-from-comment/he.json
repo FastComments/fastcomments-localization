@@ -9,7 +9,7 @@
     "REMOVE_COMMENT": "אם תרצה להסיר תגובה זו כעת, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">לחץ כאן</a>",
     "THANKS_SO_MUCH": "תודה רבה!",
     "USING_NAME_YOU_SAID": "באמצעות השם \"<%= comment.commenterName %>\" אמרת:",
-    "JUST_NOW": "זֶה עַתָה",
+    "JUST_NOW": "זה עתה",
     "ONE_MINUTE_AGO": "לפני 1 דקה",
     "MINUTES_AGO": "  לפני דקות",
     "ONE_HOUR_AGO": "לפני שעה",

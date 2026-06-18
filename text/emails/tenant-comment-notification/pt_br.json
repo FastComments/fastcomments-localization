@@ -1,14 +1,14 @@
 {
     "INTRO": "Ei <%= username %>,",
-    "FROM_NAME": "FastComments Robot.",
+    "FROM_NAME": "Robô FastComments",
     "YOU_HAVE_NEW_COMMENTS": "Você tem alguns novos comentários!",
     "BANNER_TEXT": "Novos comentários",
-    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>NEW comentário<% } else { %>NEW Comments<% } %>",
-    "UNSUBSCRIBE_HERE": "Cancelar subscrição",
+    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Novo comentário<% } else { %>Novos comentários<% } %>",
+    "UNSUBSCRIBE_HERE": "Cancelar inscrição",
     "APPROVE_COMMENT": "Aprovar",
     "VIEW_COMMENT": "Ver comentário para responder",
-    "HERE_ARE_LINKS_TO_PAGES": "Aqui estão os links para as páginas que os comentários estão ligados, com a contagem de comentários para cada um.",
+    "HERE_ARE_LINKS_TO_PAGES": "Aqui estão os links para as páginas onde os comentários foram feitos, com a contagem de comentários para cada uma.",
     "PAGE": "Página",
-    "NEW_COMMENTS": "Novos Comentários.",
-    "MODERATE_COMMENTS": "Comentários moderados"
+    "NEW_COMMENTS": "Novos Comentários",
+    "MODERATE_COMMENTS": "Moderar Comentários"
 }

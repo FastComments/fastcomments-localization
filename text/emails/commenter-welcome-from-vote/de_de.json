@@ -2,10 +2,10 @@
     "SUBJECT": "Willkommen bei FastComments <%= commenterName %>!",
     "BANNER_TEXT": "Willkommen bei FastComments",
     "INTRO": "Hallo <%= commenterName %>,",
-    "LOOKS_LIKE_YOU_VOTED_HERE": "Es sieht so aus, als hätten Sie über einen Beitrag <a href=\"<%= url %>\"> hier </a> abgestimmt.",
-    "VERIFY_YOUR_ACCOUNT": "Überprüfen Sie Ihr Konto",
-    "CREATE_NEW_LOGIN_LINKS_HERE": "Sie können hier neue Links erstellen, um sich in Ihrem Konto <a href=\"<%= FC_DOMAIN %>/auth/login/\"> anzumelden </a>.",
-    "WASNT_YOU_IGNORE_EMAIL": "Wenn dies nicht der Fall war, ignorieren Sie diese E-Mail.",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Es sieht so aus, als hätten Sie <a href=\"<%= url %>\">hier</a> über einen Beitrag abgestimmt.",
+    "VERIFY_YOUR_ACCOUNT": "Konto bestätigen",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "Sie können <a href=\"<%= FC_DOMAIN %>/auth/login/\">hier</a> neue Links erstellen, um sich in Ihrem Konto anzumelden.",
+    "WASNT_YOU_IGNORE_EMAIL": "Wenn Sie das nicht waren, ignorieren Sie diese E-Mail.",
     "THANKS_SO_MUCH": "Vielen Dank!",
     "UNSUBSCRIBE_HERE": "Abbestellen"
 }

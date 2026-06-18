@@ -1,13 +1,13 @@
 {
-    "BAN_SELECT_TITLE": "Selecione Banir para editar",
-    "BAN_SELECT_SUBTITLE_MULTIPLE": "Existem várias proibições que afetam [username].",
-    "BAN_SELECT_SUBTITLE_ONE": "[username] foi afetado por uma proibição devido a este comentário.",
-    "BAN_SELECT_BTN_SELECT": "Selecione",
+    "BAN_SELECT_TITLE": "Selecione o banimento para editar",
+    "BAN_SELECT_SUBTITLE_MULTIPLE": "Existem vários banimentos que afetam [username].",
+    "BAN_SELECT_SUBTITLE_ONE": "[username] foi afetado por um banimento devido a este comentário.",
+    "BAN_SELECT_BTN_SELECT": "Selecionar",
     "BAN_SELECT_BTN_CREATE_NEW": "Criar novo",
     "BAN_SELECT_BTN_CANCEL": "Cancelar",
-    "BAN_SELECT_DROPDOWN_LABEL": "Selecione uma opção de banimento.",
-    "BAN_SELECT_SECTION_LABEL": "Proibições relacionadas",
-    "BAN_SELECT_REMINDER": "Lembre-se de verificar se a proibição corresponde ao usuário antes de editar!",
+    "BAN_SELECT_DROPDOWN_LABEL": "Selecione um banimento",
+    "BAN_SELECT_SECTION_LABEL": "Banimentos relacionados",
+    "BAN_SELECT_REMINDER": "Lembre-se de verificar se o banimento corresponde ao usuário antes de editar!",
     "BAN_SELECT_EXPIRES": "Expira em [date]",
     "BAN_SELECT_NEVER_EXPIRES": "Nunca expira",
     "BAN_SELECT_SHADOW": "Sombra",
@@ -16,6 +16,6 @@
     "BAN_SELECT_EMAIL": "E-mail",
     "BAN_SELECT_EMAIL_PATTERN": "Padrão de e-mail",
     "BAN_SELECT_IP": "IP",
-    "BAN_SELECT_MATCHED_ON": "Combinado em: [matches]",
-    "BAN_SELECT_ID": "(EU IA: [id])"
+    "BAN_SELECT_MATCHED_ON": "Correspondeu a: [matches]",
+    "BAN_SELECT_ID": "(ID: [id])"
 }

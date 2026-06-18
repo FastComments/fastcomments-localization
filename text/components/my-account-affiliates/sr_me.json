@@ -14,14 +14,14 @@
     "METRIC_TOTAL_REFERRALS": "Укупан број препорука",
     "METRIC_TOTAL_ACTIVE_CONVERSIONS": "Укупан број активних конверзија",
     "METRIC_PENDING_PAYOUTS": "Исплате на чекању",
-    "METRIC_ESTIMATED_MRR": "Процењени максимални годишњи приход (MRR)",
+    "METRIC_ESTIMATED_MRR": "Процењени месечни понављајући приход (MRR)",
     "LOGS_TITLE": "Евиденције препорука",
     "LOGS_SUBTITLE": "Овде можете видети када људи кликну на ваше линкове, када се региструју и када сте плаћени.",
     "NO_EVENTS_TITLE": "Није пронађен ниједан догађај",
     "NO_EVENTS_SUBTITLE": "Још увек нема кликова или препорука за приказивање!",
     "TABLE_COLUMN_EVENT": "Догађај",
     "TABLE_COLUMN_TENANT_NAME": "Име закупца",
-    "TABLE_COLUMN_COMMISSION": "Комисија",
+    "TABLE_COLUMN_COMMISSION": "Провизија",
     "TABLE_COLUMN_DATE": "Датум",
     "ERROR_RENDER_FAILED": "Није успело приказивање корисничког интерфејса партнерског програма. Код грешке је био: [code]. Обратите се подршци."
 }

@@ -1,6 +1,6 @@
 {
     "BANNER_TEXT": "Ειδοποίηση Προϋπολογισμού Πράκτορα Τεχνητής Νοημοσύνης",
-    "META_AGENT": "Μέσο:",
+    "META_AGENT": "Πράκτορας:",
     "META_SCOPE": "Προϋπολογισμός:",
     "FROM_NAME": "Πράκτορες FastComments",
     "SUBJECT": "<%= agentName %> έφτασε <%= thresholdPct %>% του <%= scopeLabel %> του",

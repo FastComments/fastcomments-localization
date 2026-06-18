@@ -1,5 +1,5 @@
 {
-    "TITLE": "Gestão de bilhetes",
+    "TITLE": "Gerenciamento de tickets",
     "FILTER_BY_STATE": "Filtrar por status",
     "FILTER_BY_ASSIGNEE": "Filtrar por responsável",
     "ALL_STATES": "Todos",
@@ -9,7 +9,7 @@
     "CUSTOMER": "Cliente",
     "ASSIGNED_TO": "Designado para",
     "RESPONSE_TIME": "Tempo médio de resposta",
-    "ERROR_LOAD_FAILED": "Falha ao carregar os ingressos.",
+    "ERROR_LOAD_FAILED": "Falha ao carregar os tickets.",
     "ERROR_ASSIGN_FAILED": "Falha ao atribuir o ticket.",
-    "NO_TICKETS": "Nenhum ingresso encontrado."
+    "NO_TICKETS": "Nenhum ticket encontrado."
 }

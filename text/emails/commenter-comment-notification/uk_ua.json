@@ -7,5 +7,5 @@
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Вимкнути сповіщення для цього коментаря",
     "UNSUBSCRIBE_HERE": "Відписатися",
     "REPLY_BY_EMAIL_TIP": "Ви можете відповісти безпосередньо на цей електронний лист, щоб опублікувати свою відповідь.",
-    "RECENT_COMMENT_COUNT": "Ви отримали <% if(replyCount > 1) { %>деякі відповіді<% } else { %>відповідь<% } %>на ваші <% if(commentsSummary.length > 1) {%> коментарі<% } else { %> коментар <% } %>."
+    "RECENT_COMMENT_COUNT": "Ви отримали <% if(replyCount > 1) { %>деякі відповіді<% } else { %>відповідь<% } %> на ваші <% if(commentsSummary.length > 1) {%> коментарі<% } else { %> коментар <% } %>."
 }

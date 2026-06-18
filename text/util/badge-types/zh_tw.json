@@ -21,7 +21,7 @@
     "BADGE_LIMIT_CommentsPinned": "用戶被置頂評論的數量，即可獲得徽章。",
     "BADGE_LIMIT_Veteran": "從首次發表評論到獲得徽章所需的年數。",
     "BADGE_LIMIT_NightOwl": "夜間（當地時間晚上 10 點至凌晨 5 點）發表的評論數量達到多少即可獲得徽章。",
-    "BADGE_LIMIT_FastReplyTime": "在父親評論發布後 40 秒內發表的回應數量，是獲得徽章的必要條件。",
+    "BADGE_LIMIT_FastReplyTime": "在上層評論發佈後 40 秒內發表的回覆數量，是獲得徽章的必要條件。",
     "BADGE_LIMIT_RepliedToSpecificPage": "在指定頁面或文章上留下的評論數量，即可獲得徽章。",
     "BADGE_LIMIT_ModeratorCommentsDeleted": "版主必須刪除的評論數量才能獲得徽章。",
     "BADGE_LIMIT_ModeratorCommentsApproved": "版主必須批准的評論數量才能獲得徽章。",
@@ -39,9 +39,9 @@
     "BADGE_DEFAULT_NAME_FastReplyTime": "反應迅速",
     "BADGE_DEFAULT_NAME_RepliedToSpecificPage": "回覆特定頁面",
     "BADGE_DEFAULT_NAME_ModeratorCommentsDeleted": "大槌",
-    "BADGE_DEFAULT_NAME_ModeratorCommentsApproved": "大郵票",
+    "BADGE_DEFAULT_NAME_ModeratorCommentsApproved": "大印章",
     "BADGE_DEFAULT_NAME_ModeratorCommentsUnapproved": "紅印章",
-    "BADGE_DEFAULT_NAME_ModeratorCommentsReviewed": "快速模式",
-    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedSpam": "垃圾郵件偵測器",
-    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedNotSpam": "非垃圾郵件"
+    "BADGE_DEFAULT_NAME_ModeratorCommentsReviewed": "快速版主",
+    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedSpam": "垃圾偵測器",
+    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedNotSpam": "非垃圾"
 }

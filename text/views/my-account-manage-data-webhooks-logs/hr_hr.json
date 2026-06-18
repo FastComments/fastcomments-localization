@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Zapisnici webhooka - Brzi komentari",
+    "PAGE_TITLE": "Zapisnici webhooka - FastComments",
     "HEADING": "Zapisnici webhooka",
     "INTRO_DESCRIPTION": "Ovdje možete vidjeti informacije o zahtjevu i odgovoru za svaki pokušaj sinkronizacije. To je korisno za otklanjanje grešaka zašto sinkronizacija možda ne uspijeva. Na primjer, pogledajte zapisnik neuspjeha da biste vidjeli odgovor koji vidimo s vaših poslužitelja.",
     "FILTER_BY_DOMAIN_LABEL": "Filtriraj po domeni",
@@ -28,7 +28,7 @@
     "TYPE_N_A": "N/A",
     "VIEW_DETAILS_ALT": "Povećalo",
     "VIEW_DETAILS_TITLE": "Prikaži detalje",
-    "CANCEL_WEBHOOK_ALT": "Otkazati",
+    "CANCEL_WEBHOOK_ALT": "Odustani",
     "CANCEL_WEBHOOK_TITLE": "Otkaži webhook",
     "CANCELLED_TEXT": "Otkazano",
     "CANCELLED_TITLE": "Webhook je već otkazan",
@@ -38,5 +38,5 @@
     "RETENTION_INFO": "Zapisnici webhooka čuvaju se godinu dana.",
     "N_A_VALUES_NOTE": "Neki unosi mogu prikazivati N/A za vrijednosti koje nismo uvijek prikupljali.",
     "LOG_DETAILS_HEADING": "Detalji zapisnika",
-    "CLOSE_BUTTON": "Zatvoriti"
+    "CLOSE_BUTTON": "Zatvori"
 }

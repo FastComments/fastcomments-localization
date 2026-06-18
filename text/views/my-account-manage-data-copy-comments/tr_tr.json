@@ -1,13 +1,13 @@
 {
-    "TITLE": "Yorumları Kopyala - HızlıYorumlar",
+    "TITLE": "Yorumları Kopyala - FastComments",
     "HEADING": "Yorumları Kopyala",
     "DESCRIPTION_PART1": "Bu araç, FastComments platformuna önceden yüklenmiş yorumlarınızı bir sayfadan diğerine toplu olarak kopyalamanıza olanak tanır. Sitenizden yorumlarınızı kopyalamak istiyorsanız, <a href=\"/auth/my-account/manage-data/import\">içe aktarma aracını</a> kullanmanız gerekir.",
     "DESCRIPTION_PART2": "Bu araç, tam URL&#39;lerle veya <a href=\"https://docs.fastcomments.com/guide-customizations-and-configuration.html#url-id\" target=\"_blank\">URL kimliğiyle</a> çalışır.",
-    "FROM_HEADING": "İtibaren",
+    "FROM_HEADING": "Kaynak",
     "URL_ID_FROM_LABEL": "Kopyalanacak <b>URL Kimliği</b>",
     "URL_ID_FROM_PLACEHOLDER": "Bir URL veya Makale/Gönderi Kimliği",
     "SEE_DOCUMENTATION": "Belgelere bakın.",
-    "TO_HEADING": "İle",
+    "TO_HEADING": "Hedef",
     "URL_ID_TO_LABEL": "Kopyalanacak <b>URL Kimliği</b>",
     "URL_ID_TO_PLACEHOLDER": "Bir URL veya Makale/Gönderi Kimliği",
     "URL_TO_LABEL": "Kopyalanacak <b>URL</b>",
@@ -25,8 +25,8 @@
     "TABLE_COMMENTS_FOUND": "Yorumlar Bulundu",
     "TABLE_COMMENTS_COPIED": "Yorumlar Kopyalandı",
     "NO_JOBS": "Şu anda devam eden veya geçmişte tamamlanmış herhangi bir işiniz yok.",
-    "STATUS_RUNNING": "Koşma",
-    "STATUS_SUCCESS": "Başarı",
+    "STATUS_RUNNING": "Çalışıyor",
+    "STATUS_SUCCESS": "Başarılı",
     "STATUS_REQUESTED": "Talep edildi",
-    "STATUS_FAILED": "Arızalı"
+    "STATUS_FAILED": "Başarısız"
 }

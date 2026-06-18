@@ -1,8 +1,8 @@
 {
-    "PAGE_TITLE": "Desbloquear um usuário - FastComments",
-    "HEADING": "Remover banimento de um usuário",
+    "PAGE_TITLE": "Desbanir um usuário - FastComments",
+    "HEADING": "Desbanir um usuário",
     "SUB_HEADING": "Desbanir <%= bannedUser.username %>?",
-    "CONFIRM_MESSAGE": "Tem certeza de que deseja desbloquear este usuário?",
+    "CONFIRM_MESSAGE": "Tem certeza de que deseja desbanir este usuário?",
     "BANNED_FOR_SAYING_TEXT": "Eles foram banidos por dizerem &quot; <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> &quot;",
-    "UN_BAN_BUTTON": "Desbloquear usuário"
+    "UN_BAN_BUTTON": "Desbanir usuário"
 }

@@ -1,14 +1,14 @@
 {
     "INTRO": "Hallo <%= username %>,",
-    "FROM_NAME": "FastComments Roboter",
+    "FROM_NAME": "FastComments-Roboter",
     "YOU_HAVE_NEW_COMMENTS": "Sie haben einige neue Kommentare!",
     "BANNER_TEXT": "Neue Kommentare",
-    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>new Kommentar<% } else { %>new Kommentare<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Neuer Kommentar<% } else { %>Neue Kommentare<% } %>",
     "UNSUBSCRIBE_HERE": "Abbestellen",
     "APPROVE_COMMENT": "Genehmigen",
     "VIEW_COMMENT": "Kommentar anzeigen und antworten",
     "HERE_ARE_LINKS_TO_PAGES": "Hier sind die Links zu den Seiten, auf denen sich diese Kommentare befinden, mit der Anzahl der Kommentare für jeden.",
     "PAGE": "Seite",
     "NEW_COMMENTS": "Neue Kommentare",
-    "MODERATE_COMMENTS": "Moderate Kommentare"
+    "MODERATE_COMMENTS": "Kommentare moderieren"
 }

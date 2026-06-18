@@ -1,8 +1,8 @@
 {
     "INTRO": "Ei <%= username %>,",
-    "FROM_NAME": "FastComments Robot.",
-    "SUBJECT": "Você foi convidado a participar <%= tenantName %>!",
-    "BANNER_TEXT": "Inquilino convite",
+    "FROM_NAME": "Robô FastComments",
+    "SUBJECT": "Você foi convidado para participar de <%= tenantName %>!",
+    "BANNER_TEXT": "Convite de Locatário",
     "INVITE_DETAILS": "Você foi convidado para se juntar ao locatário <%= tenantName %>. Aceitar este convite elevará sua conta de comentarista a uma conta de administrador. <%= tenantName %> terá <b>TOTAL PROPRIEDADE</b> de sua conta, incluindo a capacidade de excluí-la. Você terá as seguintes permissões:",
     "ACCEPT_INVITE": "Aceitar convite"
 }

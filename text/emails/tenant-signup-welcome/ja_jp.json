@@ -1,6 +1,6 @@
 {
-    "INTRO": "おい <%= username %>、",
-    "FROM_NAME": "ファストコメントロボット",
+    "INTRO": "<%= username %> さん、",
+    "FROM_NAME": "FastComments ロボット",
     "SUBJECT": "FastCommentsへようこそ <%= username %>！アカウントの確認とログインはこちら",
     "BANNER_TEXT": "FastCommentsへようこそ",
     "THANKS_MESSAGE": "FastComments にご登録いただきありがとうございます。",

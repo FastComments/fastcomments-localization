@@ -1,7 +1,7 @@
 {
-    "SUBJECT": "來自 <%= comment.commenterName %> 的新消息",
+    "SUBJECT": "來自 <%= comment.commenterName %> 的新訊息",
     "INTRO": "嘿 <%= targetUser.username %>，",
-    "YOU_HAVE_A_NEW_MESSAGE": "您收到了一條新消息，如下所示。您可以通過回复此電子郵件或單擊下面的按鈕來回复。",
+    "YOU_HAVE_A_NEW_MESSAGE": "您收到了一則新訊息，如下所示。您可以透過回覆此電子郵件或點選下方按鈕來回覆。",
     "GO_TO_CONVERSATION": "進入對話",
     "UNSUBSCRIBE_HERE": "在此處取消訂閱通知。"
 }

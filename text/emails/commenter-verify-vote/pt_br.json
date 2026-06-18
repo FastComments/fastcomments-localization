@@ -1,11 +1,11 @@
 {
-    "FROM_NAME": "FastComments Robot.",
-    "INTRO": "Ei <%= commenterName %>,",
-    "BANNER_TEXT": "Verifique sua votação",
-    "SUBJECT": "<%= commenterName %> - Verifique sua votação.",
-    "LOOKS_LIKE_YOU_VOTED_HERE": "Parece que você votou em um post <a href=\"<%= url %>\"> aqui </a>. Se você clicar no link de verificação abaixo, isso nos ajudará a saber que era você que deixou esse voto.",
-    "VERIFY_YOUR_VOTE_LINK": "Verifique sua votação",
-    "WAS_YOU_IGNORE_THIS_EMAIL": "Se isso não fosse você, ignore este e-mail.",
+    "FROM_NAME": "Robô FastComments",
+    "INTRO": "Olá <%= commenterName %>,",
+    "BANNER_TEXT": "Verifique seu voto",
+    "SUBJECT": "<%= commenterName %> - Verifique seu voto.",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Parece que você votou em uma publicação <a href=\"<%= url %>\">aqui</a>. Se você clicar no link de verificação abaixo, isso nos ajudará a saber que foi você quem deixou este voto.",
+    "VERIFY_YOUR_VOTE_LINK": "Verifique seu voto",
+    "WAS_YOU_IGNORE_THIS_EMAIL": "Se não foi você, ignore este e-mail.",
     "THANKS_SO_MUCH": "Muito obrigado!",
-    "UNSUBSCRIBE_HERE": "Cancelar subscrição"
+    "UNSUBSCRIBE_HERE": "Cancelar inscrição"
 }

@@ -16,8 +16,8 @@
     "TEXT_LOGO_MAX_SIZE": "Maximale Größe: 1 MB. Nicht skaliert.",
     "BUTTON_SAVE": "Speichern",
     "TEXT_NO_DOMAINS_WARNING": "Moment mal! Sie haben keine Domains. Ihre Widgets können erst geladen werden, wenn Sie Ihrem Konto eine oder mehrere Domains zuordnen.",
-    "TITLE_ADD_DOMAIN": "Domäne hinzufügen",
-    "TEXT_ADD_A_DOMAIN": "Domäne hinzufügen",
+    "TITLE_ADD_DOMAIN": "Domain hinzufügen",
+    "TEXT_ADD_A_DOMAIN": "Domain hinzufügen",
     "LINK_MANAGE_SITE": "Website verwalten",
     "LINK_CREATE_SITE": "Website erstellen",
     "LABEL_SHOW_ADVANCED_OPTIONS": "Erweiterte Optionen anzeigen",
@@ -33,7 +33,7 @@
     "LABEL_RECORD_VALUE": "Wert",
     "LABEL_DMARC_DNS_RECORD": "DMARC-DNS-Eintrag",
     "TEXT_DMARC_EXPLANATION": "DMARC legt fest, wie empfangende Mailserver mit E-Mails umgehen sollen, die die Authentifizierung nicht bestehen. Die unten empfohlene Richtlinie ist ein guter Ausgangspunkt.",
-    "BUTTON_COPY": "Kopie",
+    "BUTTON_COPY": "Kopieren",
     "TEXT_COPIED": "Kopiert!",
     "BUTTON_VERIFY_DNS": "DNS-Einträge überprüfen",
     "TEXT_VERIFYING": "Überprüfung läuft...",
@@ -70,6 +70,6 @@
     "LINK_EDIT": "Bearbeiten",
     "TEXT_DOMAIN_EDITED_SUCCESS": "Domain erfolgreich aktualisiert!",
     "HELP_OBFUSCATE_EMAIL_LINKS": "Aktivieren Sie diese Option, wenn die Domain-Reputation Ihrer Website dazu führt, dass Benachrichtigungs-E-Mails im Spam-Ordner landen. Schaltflächen zum Anzeigen von Kommentaren in E-Mails werden über fastcomments.com weitergeleitet, bevor sie auf Ihre Seite gelangen.",
-    "LABEL_OBFUSCATE_EMAIL_LINKS": "Leiten Sie E-Mail-Links über fastcomments.com weiter.",
+    "LABEL_OBFUSCATE_EMAIL_LINKS": "E-Mail-Links über fastcomments.com weiterleiten",
     "HEADING_EMAIL_LINK_OBFUSCATION": "E-Mail-Link-Verschleierung"
 }

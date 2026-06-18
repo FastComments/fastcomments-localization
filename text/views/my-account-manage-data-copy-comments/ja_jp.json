@@ -15,7 +15,7 @@
     "URL_TO_HELP": "URL ID は URL ではなく ID である可能性があるため、同じ値であってもここにリンク先 URL を入力します。",
     "COPY_COMMENTS_BUTTON": "コメントをコピー",
     "EMAIL_NOTIFICATION": "完了すると、ダウンロードリンクが記載されたメールが届きます。ジョブのステータスは以下で確認できます。",
-    "JOBS_HEADING": "求人",
+    "JOBS_HEADING": "ジョブ",
     "REFRESH_FOR_STATUS": "最新のステータスを取得するには、ページを更新してください。",
     "TABLE_START_DATE": "開始日",
     "TABLE_FROM_URL_ID": "URL IDから",
@@ -24,9 +24,9 @@
     "TABLE_STATUS": "状態",
     "TABLE_COMMENTS_FOUND": "コメントが見つかりました",
     "TABLE_COMMENTS_COPIED": "コメントをコピーしました",
-    "NO_JOBS": "保留中の仕事や過去の仕事はありません。",
+    "NO_JOBS": "保留中または過去のジョブはありません。",
     "STATUS_REQUESTED": "リクエスト",
     "STATUS_FAILED": "失敗した",
     "STATUS_SUCCESS": "成功",
-    "STATUS_RUNNING": "ランニング"
+    "STATUS_RUNNING": "実行中"
 }

@@ -10,7 +10,7 @@
     "AUTHENTICATOR_INSTRUCTION": "Indtast den 6-cifrede kode fra din autentificeringsapp",
     "SMS_INSTRUCTION": "Vi har sendt en kode til <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>",
     "LABEL_VERIFICATION_CODE": "Bekræftelseskode",
-    "BUTTON_VERIFY": "Verificere",
+    "BUTTON_VERIFY": "Bekræft",
     "LABEL_BACKUP_CODE": "Indtast backupkode:",
     "BUTTON_USE_BACKUP_CODE": "Brug backupkode",
     "BUTTON_BACK": "Tilbage",

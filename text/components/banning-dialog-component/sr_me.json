@@ -1,6 +1,6 @@
 {
     "BAN_DIALOG_TITLE_BAN": "Забрана приступа кориснику",
-    "BAN_DIALOG_TITLE_UPDATE": "Забрана ажурирања",
+    "BAN_DIALOG_TITLE_UPDATE": "Ажурирај забрану",
     "BAN_DIALOG_SUBTITLE_BAN": "Забрана [username]",
     "BAN_DIALOG_SUBTITLE_UPDATE": "Ажурирај забрану корисника [username]",
     "BAN_DIALOG_BTN_BAN": "Забрана",
@@ -9,7 +9,7 @@
     "BAN_DIALOG_BTN_CANCEL": "Откажи",
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Забрана путем имејла / налога",
     "BAN_DIALOG_ANON_NO_EMAIL": "Ово је анонимни коментар. Није доступна имејл адреса или налог за забрану.",
-    "BAN_DIALOG_BAN_VIA_IP": "Забрана преко ИП адресе",
+    "BAN_DIALOG_BAN_VIA_IP": "Забрана преко IP адресе",
     "BAN_DIALOG_BAN_ALL_DOMAIN": "Забрани свим [domain] корисницима",
     "BAN_DIALOG_TYPE_LABEL": "Тип забране",
     "BAN_DIALOG_TYPE_BAN": "Забрана",
@@ -33,5 +33,5 @@
     "BAN_DIALOG_BY_IP": "По IP адреси",
     "BAN_DIALOG_BY_EMAIL_DOMAIN": "Са имејловима који се завршавају са: [domain]",
     "BAN_DIALOG_AFFECTS_USERS": "Утиче на кориснике: [usernames]",
-    "BAN_DIALOG_CANNOT_BAN": "Овом кориснику не може бити забрањен приступ јер нема кориснички ИД, анонимну сесију, имејл или ИП адресу."
+    "BAN_DIALOG_CANNOT_BAN": "Овом кориснику не може бити забрањен приступ јер нема кориснички ID, анонимну сесију, имејл или IP адресу."
 }

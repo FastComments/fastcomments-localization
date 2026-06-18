@@ -6,7 +6,7 @@
     "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> Cupons resgatados.",
     "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Total de cupons.",
     "HEADING_DOWNLOAD": "Download",
-    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Baixe os cupons disponíveis",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Baixar cupons disponíveis",
     "HEADING_GENERATE_TIER_4_COUPONS": "Gerar cupons de nível 4",
     "LABEL_GENERATE_COUPON_COUNT": "Gerar contagem de cupons",
     "BUTTON_SUBMIT": "Enviar",

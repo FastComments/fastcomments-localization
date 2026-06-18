@@ -1,5 +1,5 @@
 {
-    "FROM_NAME": "FastComments Help Bot",
+    "FROM_NAME": "FastComments bot za pomoć",
     "SUBJECT": "Zahtev za pomoć je potvrđen od strane osoblja podrške",
     "HEY": "Zdravo <%= commenterUsername %>,",
     "ACKNOWLEDGED_BY_ADMIN": "Izgleda da je agent podrške sa korisničkim imenom \"<%= adminUsername %>\" potvrdio vaš zahtev. Trebalo bi uskoro da vas kontaktiraju.",

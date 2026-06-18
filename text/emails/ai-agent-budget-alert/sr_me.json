@@ -1,6 +1,6 @@
 {
     "SUBJECT": "<%= agentName %> је достигао <%= thresholdPct %>% својих <%= scopeLabel %>",
-    "FROM_NAME": "Агенти за брзе коментаре",
+    "FROM_NAME": "FastComments agenti",
     "BANNER_TEXT": "Упозорење о буџету AI агента",
     "INTRO": "Један од ваших AI агената је достигао праг потрошње који сте конфигурисали.",
     "META_USAGE": "Употреба:",

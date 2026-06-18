@@ -6,13 +6,13 @@
     "TEXT_DOCUMENTATION_LINK": "Μπορείτε να βρείτε την τεκμηρίωση για τα πρότυπα email <a href=\"https://docs.fastcomments.com/guide-email-templates.html\" target=\"_blank\">εδώ.</a>",
     "TEXT_RENDER_ERROR_MESSAGE": "Αυτό το πρότυπο παρουσίασε ένα πρόσφατο σφάλμα και η αποστολή του απέτυχε.",
     "BUTTON_CLEAR_ERROR": "Διαγραφή σφάλματος",
-    "TAB_TEMPLATE": "Περίγραμμα",
+    "TAB_TEMPLATE": "Πρότυπο",
     "TAB_SETTINGS": "Ρυθμίσεις",
     "TAB_LOCALIZATIONS": "Μεταφράσεις",
     "TAB_TEST_DATA": "Δεδομένα δοκιμής",
     "LABEL_DISPLAY_NAME": "Εμφανιζόμενο όνομα",
     "PLACEHOLDER_DISPLAY_NAME": "Εισαγάγετε ένα προσαρμοσμένο όνομα που θα χρησιμοποιείται για την αναγνώριση αυτού του προτύπου.",
-    "TEXT_DISPLAY_NAME_NOTE": "Οι διαχειριστές ονομάτων μπορούν να ανατρέξουν σε αυτό το πρότυπο με.",
+    "TEXT_DISPLAY_NAME_NOTE": "Το όνομα με το οποίο οι διαχειριστές μπορούν να αναφέρονται σε αυτό το πρότυπο.",
     "LABEL_DOMAIN": "Πεδίο ορισμού",
     "OPTION_ALL_DOMAINS": "Ολοι",
     "TEXT_DOMAIN_NOTE_CAN_BE_SPECIFIC": "Το πρότυπο θα χρησιμοποιηθεί μόνο στο πλαίσιο αυτού του τομέα. Διαφορετικά, θα επιλεγεί ένα άλλο ή το προεπιλεγμένο πρότυπο.",
@@ -22,5 +22,5 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Προσαρμογή για τοπικές ρυθμίσεις",
     "TEXT_TEST_DATA_INFO": "Εδώ μπορείτε να ορίσετε προσαρμοσμένα δεδομένα δοκιμών που χρησιμοποιούνται στην προεπισκόπηση. Αποθηκεύονται μαζί με το πρότυπο.",
     "BUTTON_RESET_TEST_DATA": "Επαναφορά",
-    "BUTTON_SAVE": "Εκτός"
+    "BUTTON_SAVE": "Αποθήκευση"
 }

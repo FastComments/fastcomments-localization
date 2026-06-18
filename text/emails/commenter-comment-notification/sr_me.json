@@ -1,7 +1,7 @@
 {
     "INTRO": "Хеј <%= username %>,",
     "BANNER_TEXT": "Нови одговори на коментаре",
-    "FROM_NAME": "ФастЦомментс Робот",
+    "FROM_NAME": "FastComments robot",
     "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Нови одговор<% } else { %>Нови одговори<% } %> на <% if(replyCount > 1) { %>Ваши коментари<% } else {%>Ваш коментар<% } %>",
     "VIEW_REPLIES": "Погледај и одговори",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Онемогући обавештења за овај коментар",

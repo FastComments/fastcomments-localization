@@ -1,10 +1,10 @@
 {
-    "SUBJECT": "Bienvenue sur FastComments <%= commenterName %>!",
-    "INTRO": "Salut <%= commenterName %>,",
-    "LOOKS_LIKE_YOU_VOTED_HERE": "Il semble que vous ayez voté sur un message <a href=\"<%= url %>\"> ici </a>.",
-    "CREATE_NEW_LOGIN_LINKS_HERE": "Vous pouvez créer de nouveaux liens pour vous connecter à votre compte <a href=\"<%= FC_DOMAIN %>/auth/login/\"> ici </a>.",
+    "SUBJECT": "Bienvenue sur FastComments <%= commenterName %> !",
+    "INTRO": "Bonjour <%= commenterName %>,",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "Il semble que vous ayez voté sur une publication <a href=\"<%= url %>\">ici</a>.",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "Vous pouvez créer de nouveaux liens pour vous connecter à votre compte <a href=\"<%= FC_DOMAIN %>/auth/login/\">ici</a>.",
     "WASNT_YOU_IGNORE_EMAIL": "Si ce n'est pas vous, ignorez cet e-mail.",
-    "THANKS_SO_MUCH": "Merci beaucoup!",
+    "THANKS_SO_MUCH": "Merci beaucoup !",
     "BANNER_TEXT": "Bienvenue sur FastComments",
     "VERIFY_YOUR_ACCOUNT": "Vérifiez votre compte",
     "UNSUBSCRIBE_HERE": "Se désabonner"

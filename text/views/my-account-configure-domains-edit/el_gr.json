@@ -1,6 +1,6 @@
 {
-    "BUTTON_SAVE": "Εκτός",
-    "BUTTON_CANCEL": "Ματαίωση",
+    "BUTTON_SAVE": "Αποθήκευση",
+    "BUTTON_CANCEL": "Ακύρωση",
     "PAGE_TITLE": "Επεξεργασία τομέα - FastComments",
     "HEADING_EDITING_DOMAIN": "Επεξεργασία <%= domainName %>",
     "HEADING_EDIT_DOMAIN": "Επεξεργασία τομέα",
@@ -13,7 +13,7 @@
     "LABEL_MIGRATE_SITES": "Ιστότοποι (<%= migrationCounts.sites %>)",
     "LABEL_MIGRATE_EMAIL_TEMPLATES": "Πρότυπα ηλεκτρονικού ταχυδρομείου (<%= migrationCounts.emailTemplates %>)",
     "LABEL_MIGRATE_INTEGRATIONS": "Ενσωματώσεις (<%= migrationCounts.integrations %>)",
-    "LABEL_MIGRATE_WEBHOOKS": "Ιστοσελίδες (<%= migrationCounts.webhooks %>)",
+    "LABEL_MIGRATE_WEBHOOKS": "Webhooks (<%= migrationCounts.webhooks %>)",
     "LABEL_MIGRATE_API_KEYS": "Κλειδιά API (<%= migrationCounts.apiKeys %>)",
     "HELP_MIGRATE_COMMENTS": "Τα σχόλια μεταφέρονται στο παρασκήνιο και ενδέχεται να χρειαστούν μερικά λεπτά."
 }

@@ -1,5 +1,5 @@
 {
-    "BAN_SELECT_TITLE": "Sélectionnez « Bannir » pour modifier",
+    "BAN_SELECT_TITLE": "Sélectionner l'interdiction à modifier",
     "BAN_SELECT_SUBTITLE_MULTIPLE": "Il existe plusieurs interdictions qui affectent [username].",
     "BAN_SELECT_SUBTITLE_ONE": "[username] fait l'objet d'une interdiction pour ce commentaire.",
     "BAN_SELECT_BTN_SELECT": "Sélectionner",
@@ -17,5 +17,5 @@
     "BAN_SELECT_EMAIL_PATTERN": "Modèle d'email",
     "BAN_SELECT_IP": "IP",
     "BAN_SELECT_MATCHED_ON": "Correspondance établie le : [matches]",
-    "BAN_SELECT_ID": "(IDENTIFIANT: [id])"
+    "BAN_SELECT_ID": "(ID : [id])"
 }

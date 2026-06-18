@@ -18,9 +18,9 @@
     "TEXT_DOMAIN_NOTE_CAN_BE_SPECIFIC": "Ce modèle ne sera utilisé que dans le contexte de ce domaine. Sinon, un autre modèle, ou le modèle par défaut, sera choisi.",
     "TEXT_DOMAIN_NOTE_CANNOT_BE_SPECIFIC": "Ce modèle peut s&#39;afficher simultanément dans le contexte de plusieurs domaines (par exemple, plusieurs commentaires dans une même notification par courriel), ou ne pas s&#39;afficher du tout dans le contexte d&#39;un domaine. <span class=\"red\">C&#39;est pourquoi ce modèle ne peut pas être spécifique à un domaine.</span>",
     "TEXT_LOCALIZATIONS_INFO": "Les traductions sont personnalisées en fonction de la langue, car les utilisateurs peuvent commenter et s'exprimer dans différentes langues. Sélectionnez la langue pour laquelle vous souhaitez personnaliser les traductions.",
-    "TEXT_CUSTOMIZE_FROM_NAME_EMAIL": "Vous souhaitez personnaliser le <b>nom et l&#39;adresse e-mail de l&#39;expéditeur</b> ? Faites-le <a href=\"/auth/my-account/configure-domains\">ici</a> .",
+    "TEXT_CUSTOMIZE_FROM_NAME_EMAIL": "Vous souhaitez personnaliser le <b>nom et l&#39;adresse e-mail de l&#39;expéditeur</b> ? Faites-le <a href=\"/auth/my-account/configure-domains\">ici</a>.",
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Personnaliser pour la langue",
     "TEXT_TEST_DATA_INFO": "Vous pouvez définir ici des données de test personnalisées utilisées dans l'aperçu. Elles sont enregistrées avec le modèle.",
     "BUTTON_RESET_TEST_DATA": "Réinitialiser",
-    "BUTTON_SAVE": "Sauvegarder"
+    "BUTTON_SAVE": "Enregistrer"
 }

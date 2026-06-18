@@ -1,5 +1,5 @@
 {
-    "FROM_NAME": "FastComments Security",
+    "FROM_NAME": "Безопасность FastComments",
     "SUBJECT": "Обнаружен вход с нового IP-адреса",
     "BANNER_TEXT": "Предупреждение о безопасности",
     "INTRO": "Привет <%= displayName %>,",

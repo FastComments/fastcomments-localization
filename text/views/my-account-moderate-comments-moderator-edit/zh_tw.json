@@ -1,11 +1,11 @@
 {
-    "PAGE_TITLE": "自訂 - 快速評論",
+    "PAGE_TITLE": "自訂 - FastComments",
     "HEADING_ADD": "新增版主",
-    "HEADING_EDIT": "定制 <%= moderator.name %>",
+    "HEADING_EDIT": "自訂 <%= moderator.name %>",
     "SUB_HEADING_ADD": "新增版主",
     "SUB_HEADING_EDIT": "編輯<%= moderator.name %>",
     "INTRO_PARAGRAPH_1": "如果您想授權他人審核您的評論，那麼您來對地方了。",
-    "INTRO_PARAGRAPH_2": "請注意，管理員用戶無需新增版主。管理員使用者本身就具有審核權限。",
+    "INTRO_PARAGRAPH_2": "請注意，管理員使用者無需新增版主。管理員使用者本身就具有審核權限。",
     "NAME_SECTION_HEADING": "給他們取個名字",
     "NAME_LABEL": "姓名",
     "NAME_PLACEHOLDER": "主持人蓋伊先生",
@@ -16,5 +16,5 @@
     "MODERATION_GROUPS_LABEL": "審核小組",
     "CLEAR_ALL_LINK": "全部清除",
     "GROUPS_DESCRIPTION": "他們只能在「審核評論」頁面看到這些群組的評論。",
-    "SAVE_BUTTON": "節省"
+    "SAVE_BUTTON": "儲存"
 }

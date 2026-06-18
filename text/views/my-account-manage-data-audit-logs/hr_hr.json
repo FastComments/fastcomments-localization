@@ -1,5 +1,5 @@
 {
-    "TITLE": "Zapisnici revizije - Brzi komentari",
+    "TITLE": "Zapisnici revizije - FastComments",
     "HEADING": "Zapisnici revizije",
     "AUDITING_DISABLED": "Revizija je onemogućena. Ako želite kupiti plan koji uključuje reviziju, <a href=\"/auth/my-account/help\">javite nam</a> .",
     "FILTER_BY_USERNAME": "Filtriraj po korisničkom imenu",
@@ -10,8 +10,8 @@
     "FILTER_BY_RESOURCE_ID": "Filtriraj po ID-u resursa",
     "SEARCH_BUTTON": "Pretraživanje",
     "PRIVATE_INFO_WARNING": "Napomena! Pregledavanje detalja u nastavku može otkriti privatne podatke.",
-    "TABLE_WHO": "WHO",
-    "TABLE_ACTION": "Akcijski",
+    "TABLE_WHO": "Tko",
+    "TABLE_ACTION": "Radnja",
     "TABLE_RESOURCE": "Resurs",
     "TABLE_WHERE": "Gdje",
     "TABLE_URL": "URL",
@@ -23,7 +23,7 @@
     "NEXT_BUTTON": "Sljedeći",
     "NO_AUDIT_LOGS": "Nemate nikakve zapisnike revizije.",
     "LOG_DETAILS_HEADING": "Detalji zapisnika",
-    "CLOSE_BUTTON": "Zatvoriti",
+    "CLOSE_BUTTON": "Zatvori",
     "MAGNIFYING_GLASS_ALT": "Povećalo",
     "VIEW_DETAILS_TITLE": "Prikaži detalje"
 }

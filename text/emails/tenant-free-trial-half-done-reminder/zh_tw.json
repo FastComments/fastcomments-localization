@@ -1,14 +1,14 @@
 {
     "INTRO": "嘿 <%= tenantName %>",
     "BANNER_TEXT": "FastComments 試用更新",
-    "FROM_NAME": "FastComments試用機器人",
+    "FROM_NAME": "FastComments 試用機器人",
     "SUBJECT": "FastComments 免費試用 - 還剩 15 天",
     "FRIENDLY_REMINDER": "這是一個友好的提醒，提醒您 FastComments 免費試用已經過半。",
     "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> 條評論已留在您的網站上。",
     "VOTES_GIVEN": "這些評論已獲得 <%= Number(voteCount).toLocaleString() %> 票。",
-    "USERS_SIGNED_UP": "最後但同樣重要的是， <b><%= Number(userCount).toLocaleString() %> 用戶已通過 <%= tenantName %> 註冊使用 FastComments</b> 。",
+    "USERS_SIGNED_UP": "最後但同樣重要的是， <b><%= Number(userCount).toLocaleString() %> 位用戶已透過 <%= tenantName %> 註冊使用 FastComments</b> 。",
     "THANKS_FOR_CHOOSING_FC": "感謝您選擇<a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a> 。",
     "UNSUBSCRIBE_FROM_THESE_ALERTS": "取消訂閱這些警報。",
-    "SOME_STATS_SO_FAR": "到目前為止的一些統計數據",
-    "SIGN_IN_ENTER_BILLING_INFO": "登錄並輸入付款信息"
+    "SOME_STATS_SO_FAR": "到目前為止的一些統計資料",
+    "SIGN_IN_ENTER_BILLING_INFO": "登入並輸入付款資訊"
 }

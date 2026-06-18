@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "自定义 - 快速评论",
+    "PAGE_TITLE": "自定义 - FastComments",
     "HEADING_ADD": "添加版主",
-    "HEADING_EDIT": "定制 <%= moderator.name %>",
+    "HEADING_EDIT": "自定义 <%= moderator.name %>",
     "SUB_HEADING_ADD": "添加版主",
     "SUB_HEADING_EDIT": "编辑<%= moderator.name %>",
     "INTRO_PARAGRAPH_1": "如果您想授权他人审核您的评论，那么您来对地方了。",
@@ -13,8 +13,8 @@
     "EMAIL_LABEL": "电子邮件",
     "EMAIL_PLACEHOLDER": "guy@moderators.com",
     "GROUPS_SECTION_HEADING": "他们属于哪些团体？",
-    "MODERATION_GROUPS_LABEL": "审核小组",
+    "MODERATION_GROUPS_LABEL": "审核组",
     "CLEAR_ALL_LINK": "全部清除",
     "GROUPS_DESCRIPTION": "他们只能在“审核评论”页面看到来自这些群组的评论。",
-    "SAVE_BUTTON": "节省"
+    "SAVE_BUTTON": "保存"
 }

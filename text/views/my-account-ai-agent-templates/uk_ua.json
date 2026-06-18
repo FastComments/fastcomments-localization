@@ -12,7 +12,7 @@
     "PREVIEW_ACTIONS_LABEL": "Дозволені дії",
     "PREVIEW_FLAG_THRESHOLD_LABEL": "Поріг прапорця",
     "TEMPLATE_TOS_ENFORCER_CARD_NAME": "Модератор",
-    "PREVIEW_DELAY_VALUE": "хвилин",
+    "PREVIEW_DELAY_VALUE": "{minutes} хвилин",
     "USE_TEMPLATE_BUTTON": "Використати цей шаблон",
     "TEMPLATE_TOS_ENFORCER_CARD_DESCRIPTION": "Переглядає нові та позначені коментарі, що суперечать вашим правилам. Попереджає перших порушників, позначає спам, посилює повторні порушення.",
     "START_FRESH_DESCRIPTION": "Відкрийте порожню форму та налаштуйте кожне поле самостійно.",
@@ -23,6 +23,6 @@
     "TEMPLATE_WELCOME_GREETER_CARD_NAME": "Привітальний зустрічач",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "Підсумовувач тем",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Публікує нейтральний виклад довгих тем після невеликої затримки. Дає тим, хто запізнився, швидке уявлення про позиції та відкриті питання.",
-    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Детектор газового світла",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Детектор газлайтингу",
     "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Відстежує редагування коментарів на наявність переробок у середині теми, які спотворюють відповіді. Відновлює оригінальний текст і надсилає особисте повідомлення автору."
 }

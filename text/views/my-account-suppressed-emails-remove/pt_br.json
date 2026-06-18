@@ -5,11 +5,11 @@
     "LABEL_EMAIL": "E-mail",
     "LABEL_PROVIDER": "Fornecedor",
     "LABEL_TYPE": "Tipo",
-    "LABEL_REASON": "Razão",
-    "LABEL_NO_REASON": "Nenhuma justificativa foi fornecida.",
+    "LABEL_REASON": "Motivo",
+    "LABEL_NO_REASON": "Nenhum motivo fornecido",
     "BUTTON_CONFIRM": "Remover Supressão",
     "BUTTON_CANCEL": "Cancelar",
     "ERROR_NOT_FOUND": "Supressão não encontrada.",
-    "ERROR_RATE_LIMIT_EMAIL": "Este e-mail já foi exibido novamente nos últimos 30 dias. Aguarde antes de tentar novamente.",
+    "ERROR_RATE_LIMIT_EMAIL": "A supressão deste e-mail já foi removida nos últimos 30 dias. Aguarde antes de tentar novamente.",
     "ERROR_RATE_LIMIT_TENANT": "Sua conta atingiu o limite mensal de remoções (5 por mês). Tente novamente no próximo mês."
 }

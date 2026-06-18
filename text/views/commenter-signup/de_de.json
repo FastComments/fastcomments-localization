@@ -1,6 +1,6 @@
 {
-    "PAGE_TITLE": "Melden Sie sich an",
-    "HERO_TITLE_LIGHT": "Schließ dich an ",
+    "PAGE_TITLE": "Registrieren",
+    "HERO_TITLE_LIGHT": "Beteiligen Sie sich an der ",
     "HERO_TITLE_BOLD": "Diskussion",
     "HERO_DESCRIPTION": "Möchten Sie einen Kommentar auf einer Website abgeben, die FastComments verwendet? Dann sind Sie hier genau richtig.",
     "HERO_ADDITIONAL_TEXT": "Wenn Sie FastComments in eine Webseite einbinden möchten, sollten Sie sich <a href=\"/auth/tenant-signup?email=<%= email %>\">hier anmelden.</a>",
@@ -12,9 +12,9 @@
     "LABEL_EMAIL": "*E-Mail:",
     "PLACEHOLDER_EMAIL": "E-Mail-Adresse eingeben",
     "EMAIL_DESCRIPTION": "Wir senden Ihnen per E-Mail einen Link, über den Sie Ihr Konto vervollständigen und sich anmelden können.",
-    "SIGNUP_EMAIL_TEXT": "Sie registrieren sich mit <b><%= email %></b> .",
+    "SIGNUP_EMAIL_TEXT": "Sie registrieren sich mit <b><%= email %></b>.",
     "TERMS_AGREEMENT": "Mit einem Klick auf „Anmelden“ stimmen Sie den <a href=\"/terms-of-service\" target=\"_blank\">Nutzungsbedingungen</a> zu.",
-    "BUTTON_SIGN_UP": "Melden Sie sich an",
+    "BUTTON_SIGN_UP": "Registrieren",
     "LABEL_CAPTCHA": "Was ist <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Hilft dabei festzustellen, dass Sie kein Bot sind."
 }

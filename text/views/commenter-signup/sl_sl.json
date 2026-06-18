@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Prijavi se",
+    "PAGE_TITLE": "Registracija",
     "HERO_TITLE_LIGHT": "Pridružite se ",
     "HERO_TITLE_BOLD": "Razprava",
     "HERO_DESCRIPTION": "Želite komentirati na spletnem mestu, ki uporablja FastComments? Prišli ste na pravo mesto.",
@@ -12,9 +12,9 @@
     "LABEL_EMAIL": "*E-pošta:",
     "PLACEHOLDER_EMAIL": "Vnesite e-poštni naslov",
     "EMAIL_DESCRIPTION": "Po e-pošti vam bomo poslali povezavo za dokončanje registracije in prijavo.",
-    "SIGNUP_EMAIL_TEXT": "Prijavljate se z uporabo <b><%= email %></b> .",
-    "TERMS_AGREEMENT": "S klikom na Registracija se strinjate s <a href=\"/terms-of-service\" target=\"_blank\">pogoji storitve</a> .",
-    "BUTTON_SIGN_UP": "Prijavi se",
+    "SIGNUP_EMAIL_TEXT": "Prijavljate se z uporabo <b><%= email %></b>.",
+    "TERMS_AGREEMENT": "S klikom na Registracija se strinjate s <a href=\"/terms-of-service\" target=\"_blank\">pogoji storitve</a>.",
+    "BUTTON_SIGN_UP": "Registracija",
     "LABEL_CAPTCHA": "Kaj je <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Pomaga ugotoviti, da niste bot."
 }

@@ -3,13 +3,13 @@
     "HEADING": "Mes courriels",
     "INFO_NOTE": "<strong>Remarque :</strong> Nous conservons l’historique des e-mails pendant deux mois seulement. Les e-mails les plus anciens sont automatiquement supprimés. Cette liste concerne uniquement les e-mails envoyés à votre utilisateur.",
     "LABEL_FILTER_SUBJECT": "Filtrer par sujet",
-    "PLACEHOLDER_SUBJECT": "Sujet de recherche...",
+    "PLACEHOLDER_SUBJECT": "Rechercher le sujet...",
     "LABEL_FILTER_CONTENT": "Filtrer par contenu",
     "PLACEHOLDER_CONTENT": "Rechercher le contenu des e-mails...",
-    "BUTTON_SEARCH": "Recherche",
-    "BUTTON_CLEAR": "Clair",
+    "BUTTON_SEARCH": "Rechercher",
+    "BUTTON_CLEAR": "Effacer",
     "TABLE_HEADER_DATE": "Date",
-    "TABLE_HEADER_FROM": "Depuis",
+    "TABLE_HEADER_FROM": "De",
     "TABLE_HEADER_SUBJECT": "Sujet",
     "MESSAGE_NO_EMAILS_FILTERS": "Aucun courriel trouvé pour les filtres spécifiés.",
     "BUTTON_VIEW": "Voir",
@@ -19,5 +19,5 @@
     "MESSAGE_NO_EMAILS": "Vous n'avez envoyé aucun courriel.",
     "VALUE_UNKNOWN": "Inconnu",
     "VALUE_NO_SUBJECT": "(Sans sujet)",
-    "VALUE_NA": "N / A"
+    "VALUE_NA": "N/A"
 }

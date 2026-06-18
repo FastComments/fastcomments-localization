@@ -1,7 +1,7 @@
 {
     "HEADING": "Подешавање MCP сервера",
-    "WHAT_IS_MCP_HEADING": "Шта је МЦП?",
-    "PAGE_TITLE": "Подешавање MCP сервера - Брзи коментари",
+    "WHAT_IS_MCP_HEADING": "Шта је MCP?",
+    "PAGE_TITLE": "Подешавање MCP сервера - FastComments",
     "INTRO": "FastComments открива сервер без стања који омогућава асистентима за вештачку интелигенцију у кодирању и агентским клијентима да директно позивају FastComments API. Сваки алат се мапира на постојећу крајњу тачку јавног API-ја и генерише се из OpenAPI спецификације, тако да све што REST API може да уради, може да уради и MCP клијент.",
     "WHAT_IS_MCP_BODY": "Протокол контекста модела (Model Context Protocol) је отворени стандард који омогућава LLM клијентима (Claude Code, Claude Desktop, Cursor и другима) да позивају алате на страни сервера. Сервер FastComments ради преко HTTP-а, не захтева стање сесије и аутентификује сваки захтев помоћу вашег постојећег API кључа.",
     "CHOOSE_KEY_HELP_LINK": "API кључеви",
@@ -14,7 +14,7 @@
     "DEFAULT_KEY_NAME": "Подразумевано",
     "NO_KEYS_BUTTON": "Идите на API кључеве",
     "ENDPOINT_HEADING": "URL крајње тачке",
-    "COPY_BUTTON": "Копија",
+    "COPY_BUTTON": "Копирај",
     "REVEAL_OVERLAY": "Кликните да бисте открили",
     "COPIED_LABEL": "Копирано",
     "SNIPPET_WARNING": "Садржи ваш API кључ. Не делите јавно.",
@@ -22,9 +22,9 @@
     "ENDPOINT_HELP": "Користите ову URL адресу свуда где MCP клијент прихвата HTTP крајњу тачку која се може стримовати.",
     "DOCS_LINK_HEADING": "Више информација",
     "CLAUDE_DESKTOP_HELP": "Додајте овај блок у конфигурацију MCP сервера вашег клијента (claude_desktop_config.json или Cursor-ов mcp.json).",
-    "CLAUDE_DESKTOP_HEADING": "Клод Десктоп / Курсор",
+    "CLAUDE_DESKTOP_HEADING": "Claude Desktop / Cursor",
     "DOCS_LINK_PREFIX": "Види",
     "DOCS_LINK_SUFFIX": "за потпуни преглед MCP интеграције.",
-    "CLAUDE_CODE_HEADING": "Клод Код",
+    "CLAUDE_CODE_HEADING": "Claude Code",
     "DOCS_LINK_TEXT": "Водич за LLM комплет"
 }

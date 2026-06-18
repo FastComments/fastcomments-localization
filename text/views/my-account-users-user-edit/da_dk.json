@@ -17,11 +17,11 @@
     "LABEL_PERMISSIONS": "Tilladelser",
     "BUTTON_SUBMIT": "Indsend",
     "USERNAME_EXISTS_SAME_TENANT": "❗ Der findes allerede en bruger med det brugernavn for denne lejer.",
-    "USERNAME_EXISTS_INVITE": "❗ En FastComments-bruger med det brugernavn findes allerede, men ikke for denne lejer. Vil du <a href=\"{{INVITE_URL}}\">invitere vedkommende</a> ?",
+    "USERNAME_EXISTS_INVITE": "❗ En FastComments-bruger med det brugernavn findes allerede, men ikke for denne lejer. Vil du <a href=\"{{INVITE_URL}}\">invitere vedkommende</a>?",
     "USERNAME_EXISTS_OTHER_TENANT": "❌ En FastComments-bruger med det brugernavn findes allerede for en anden lejer.",
     "USERNAME_AVAILABLE": "✔️ Brugernavnet er tilgængeligt.",
     "EMAIL_EXISTS_SAME_TENANT": "❗ Der findes allerede en bruger med den e-mailadresse for denne lejer.",
-    "EMAIL_EXISTS_INVITE": "❗ En FastComments-bruger med den e-mailadresse findes allerede, men ikke for denne lejer. Vil du <a href=\"{{INVITE_URL}}\">invitere vedkommende</a> ?",
+    "EMAIL_EXISTS_INVITE": "❗ En FastComments-bruger med den e-mailadresse findes allerede, men ikke for denne lejer. Vil du <a href=\"{{INVITE_URL}}\">invitere vedkommende</a>?",
     "EMAIL_EXISTS_OTHER_TENANT": "❌ En FastComments-bruger med den e-mailadresse findes allerede for en anden lejer.",
     "EMAIL_AVAILABLE": "✔️ Den e-mailadresse er tilgængelig."
 }

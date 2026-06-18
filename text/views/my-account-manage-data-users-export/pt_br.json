@@ -1,7 +1,7 @@
 {
     "PAGE_TITLE": "Exportar usuários - FastComments",
-    "HEADING": "Usuários de exportação",
-    "REQUEST_EXPORT_BUTTON": "Solicitar exportação aos usuários",
+    "HEADING": "Exportar Usuários",
+    "REQUEST_EXPORT_BUTTON": "Solicitar Exportação de Usuários",
     "EMAIL_NOTIFICATION_INFO": "Você receberá um e-mail com um link para download assim que o processo for concluído. Você pode verificar o status das exportações abaixo.",
     "EXPORTS_HEADING": "Exportações",
     "NOSCRIPT_REFRESH_MESSAGE": "Atualize a página para obter o status mais recente.",
@@ -12,7 +12,7 @@
     "EXPIRATION_NOTE": "Observação: os arquivos exportados expiram automaticamente após dez dias. Os dados são excluídos e o link para download será removido após esse período.",
     "NO_EXPORTS_MESSAGE": "Você não tem nenhuma exportação pendente ou passada.",
     "STATUS_REQUESTED": "Solicitado",
-    "STATUS_RUNNING": "Correndo",
+    "STATUS_RUNNING": "Em execução",
     "STATUS_SUCCESS": "Sucesso",
-    "STATUS_FAILED": "Fracassado"
+    "STATUS_FAILED": "Com falha"
 }

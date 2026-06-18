@@ -4,5 +4,5 @@
     "TEXT_CURRENT_CLASSIFICATION": "Classificação atual: <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
     "BUTTON_UNCLASSIFY": "Desclassificar",
     "BUTTON_SPAM": "Spam",
-    "BUTTON_NOT_SPAM": "Não é spam."
+    "BUTTON_NOT_SPAM": "Não é spam"
 }

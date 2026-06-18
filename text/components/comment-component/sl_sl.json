@@ -17,10 +17,10 @@
     "COMMENT_BTN_MANAGE_BADGES": "Upravljanje značk",
     "COMMENT_BTN_APPROVE": "Odobritev",
     "COMMENT_BTN_UNAPPROVE": "Prekliči odobritev",
-    "COMMENT_BTN_MARK_REVIEWED": "Mark Reviewed",
-    "COMMENT_BTN_MARK_NOT_REVIEWED": "Označi kot ni pregledano",
+    "COMMENT_BTN_MARK_REVIEWED": "Označi kot pregledano",
+    "COMMENT_BTN_MARK_NOT_REVIEWED": "Označi kot nepregledano",
     "COMMENT_BTN_MARK_SPAM": "Označi kot neželeno pošto",
-    "COMMENT_BTN_MARK_NOT_SPAM": "Označi kot neželeno pošto",
+    "COMMENT_BTN_MARK_NOT_SPAM": "Označi kot ne neželena pošta",
     "COMMENT_BTN_NOT_SPAM_PERM": "Ni neželena pošta (trajno)",
     "COMMENT_BTN_UNFLAG": "Odznači",
     "COMMENT_BTN_VIEW_ALL_FROM_IP": "Ogled vseh iz IP-ja",
@@ -37,6 +37,6 @@
     "COMMENT_BTN_SET_TRUST_FACTOR": "Nastavite faktor zaupanja",
     "COMMENT_MENU_VIEW_INTERNAL_PROFILE": "Ogled internega profila",
     "COMMENT_BTN_VIEW_INTERNAL_PROFILE": "Ogled internega profila",
-    "COMMENT_MENU_LOCK": "Zaklepanje",
+    "COMMENT_MENU_LOCK": "Zakleni",
     "COMMENT_MENU_UNLOCK": "Odkleni"
 }

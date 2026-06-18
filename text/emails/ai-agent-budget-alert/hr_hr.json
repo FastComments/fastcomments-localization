@@ -1,6 +1,6 @@
 {
     "BANNER_TEXT": "Upozorenje o proračunu AI agenta",
-    "FROM_NAME": "Agenti za brze komentare",
+    "FROM_NAME": "FastComments Agenti",
     "META_AGENT": "Agent:",
     "META_SCOPE": "Proračun:",
     "SUBJECT": "<%= agentName %> je dosegao <%= thresholdPct %>% svog <%= scopeLabel %>",

@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "<%= viewTemplate.displayName %> - Predlošci e-pošte - Brzi komentari",
+    "PAGE_TITLE": "<%= viewTemplate.displayName %> - Predlošci e-pošte - FastComments",
     "HEADING_EDITING_EMAIL_TEMPLATE": "Uređivanje predloška e-pošte",
     "HEADING_TEMPLATE": "Predložak: <span id=\"display-name-header\"><%= viewTemplate.displayName %></span>",
     "TEXT_JAVASCRIPT_REQUIRED": "Za korištenje ove značajke potreban je JavaScript.",
@@ -22,5 +22,5 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Prilagodi za lokalnu oznaku",
     "TEXT_TEST_DATA_INFO": "Ovdje možete definirati prilagođene testne podatke koji se koriste u pregledu. Spremaju se zajedno s predloškom.",
     "BUTTON_RESET_TEST_DATA": "Resetiraj",
-    "BUTTON_SAVE": "Uštedjeti"
+    "BUTTON_SAVE": "Spremi"
 }

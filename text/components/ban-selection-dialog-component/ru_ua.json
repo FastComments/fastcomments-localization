@@ -1,8 +1,8 @@
 {
-    "BAN_SELECT_TITLE": "Выберите «Запретить», чтобы изменить",
+    "BAN_SELECT_TITLE": "Выберите блокировку для редактирования",
     "BAN_SELECT_SUBTITLE_MULTIPLE": "Существует множество запретов, затрагивающих [username].",
     "BAN_SELECT_SUBTITLE_ONE": "[username] заблокирован за этот комментарий.",
-    "BAN_SELECT_BTN_SELECT": "Выбирать",
+    "BAN_SELECT_BTN_SELECT": "Выбрать",
     "BAN_SELECT_BTN_CREATE_NEW": "Создать новый",
     "BAN_SELECT_BTN_CANCEL": "Отмена",
     "BAN_SELECT_DROPDOWN_LABEL": "Выберите блокировку",
@@ -17,5 +17,5 @@
     "BAN_SELECT_EMAIL_PATTERN": "Шаблон электронной почты",
     "BAN_SELECT_IP": "IP",
     "BAN_SELECT_MATCHED_ON": "Совпадение по: [matches]",
-    "BAN_SELECT_ID": "(ИДЕНТИФИКАТОР: [id])"
+    "BAN_SELECT_ID": "(ID: [id])"
 }

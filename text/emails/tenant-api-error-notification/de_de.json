@@ -5,7 +5,7 @@
     "GREETING": "Hallo,",
     "ERROR_SINGULAR": "Fehler",
     "ERROR_PLURAL": "Fehler",
-    "SIGN_OFF": "Aufrichtig,",
+    "SIGN_OFF": "Mit freundlichen Grüßen,",
     "EXPLANATION": "Diese Fehler traten beim Aufruf unserer Plattform auf. Wir empfehlen Ihnen, die Protokolle aller benutzerdefinierten API-Integrationen mit FastComments auf Fehler zu überprüfen.",
     "DETECTION": "Wir haben am <%= errorDate %> <%= errorCountFormatted %> API-<%= errorWord %> für Ihr Konto festgestellt.",
     "OPT_OUT": "<a href=\"<%= notificationSettingsUrl %>\">Hier</a> können Sie diese Benachrichtigungen abbestellen.",

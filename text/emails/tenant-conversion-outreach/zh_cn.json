@@ -1,14 +1,14 @@
 {
     "INTRO": "嘿 <%= tenantName %>",
     "BANNER_TEXT": "FastComments 设置帮助",
-    "FROM_NAME": "德文郡",
+    "FROM_NAME": "Devon",
     "SUBJECT": "需要帮助设置 FastComments 吗？",
     "SUBJECT_FOLLOWUP": "后续 - FastComments 设置协助",
     "NOTICED_NOT_SETUP": "我注意到您注册了 FastComments，但还没有机会设置评论小部件。",
     "HELP_OFFER": "我很乐意帮助您入门！无论您是想了解集成、定制方面的问题，还是只想快速了解一下操作流程，我都乐意提供帮助。",
     "SCHEDULE_CALL": "安排一次快速通话",
     "EMAIL_SUPPORT": "或者您也可以直接回复这封邮件提出任何问题。我会阅读并回复每一条信息。",
-    "THANKS": "感谢您抽出时间。<br>德文郡<br>快速评论",
+    "THANKS": "感谢您抽出时间。<br>Devon<br>FastComments",
     "UNSUBSCRIBE_NOTICE_FIRST": "这封自动发送的邮件将再次发送。您可以<a href=\"<%= unsubscribeLink.url %>\">点击此处取消订阅所有邮件</a>。",
     "UNSUBSCRIBE_NOTICE_LAST": "此邮件将不再发送，但您可以<a href=\"<%= unsubscribeLink.url %>\">点击此处选择退出所有通讯</a>。"
 }

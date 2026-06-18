@@ -3,9 +3,9 @@
     "FROM_NAME": "סוכני FastComments",
     "SUBJECT": "<%= approvalCount %> פעולות סוכן ממתינות לאישור",
     "INTRO": "פעולות סוכן הבינה המלאכותית הבאות ממתינות לאישור או לדחייה שלך.",
-    "COLUMN_ACTION": "פְּעוּלָה",
-    "COLUMN_AGENT": "סוֹכֵן",
+    "COLUMN_ACTION": "פעולה",
+    "COLUMN_AGENT": "סוכן",
     "FALLBACK_LINK": "אם הכפתור לא עובד, העתיקו והדביקו את כתובת האתר הזו בדפדפן שלכם: <%= inboxUrl %>",
     "INBOX_BUTTON": "פתח את תיבת הדואר הנכנס של האישורים",
-    "COLUMN_CREATED": "בתור ב"
+    "COLUMN_CREATED": "נכנס לתור ב"
 }

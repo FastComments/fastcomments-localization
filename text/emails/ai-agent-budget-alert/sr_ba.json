@@ -1,5 +1,5 @@
 {
-    "FROM_NAME": "Агенти за брзе коментаре",
+    "FROM_NAME": "FastComments агенти",
     "SUBJECT": "<%= agentName %> је достигао <%= thresholdPct %>% својих <%= scopeLabel %>",
     "META_AGENT": "Агент:",
     "BANNER_TEXT": "Упозорење о буџету AI агента",

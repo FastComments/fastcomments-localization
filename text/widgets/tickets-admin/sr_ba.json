@@ -1,15 +1,15 @@
 {
     "FILTER_BY_STATE": "Филтрирај по статусу",
-    "TITLE": "Управљање картицама",
-    "CUSTOMER": "Муштерија",
+    "TITLE": "Управљање тикетима",
+    "CUSTOMER": "Купац",
     "UNASSIGNED": "Недодељено",
     "ASSIGNED_TO": "Додељено",
     "ALL_ASSIGNEES": "Сви",
     "ALL_STATES": "Сви",
     "ASSIGN_TO": "Додели",
     "FILTER_BY_ASSIGNEE": "Филтрирај по додељеном лицу",
-    "NO_TICKETS": "Нису пронађене карте.",
+    "NO_TICKETS": "Нису пронађени тикети.",
     "RESPONSE_TIME": "Просечно време одзива",
-    "ERROR_ASSIGN_FAILED": "Додељивање карте није успело.",
-    "ERROR_LOAD_FAILED": "Учитавање карата није успело."
+    "ERROR_ASSIGN_FAILED": "Додељивање тикета није успело.",
+    "ERROR_LOAD_FAILED": "Учитавање тикета није успело."
 }

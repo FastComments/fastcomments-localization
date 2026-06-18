@@ -11,7 +11,7 @@
     "SHOWING_BANNED_USERS": "禁止されたユーザー <%= Number((page - 1) * count).toLocaleString() %> 人中 <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> - <%= totalCount %> 人を表示",
     "PAGE_LABEL": "ページ",
     "COUNT_PER_PAGE_LABEL": "ページあたりのカウント",
-    "GO_BUTTON": "行く",
+    "GO_BUTTON": "実行",
     "NO_BANNED_USERS_MESSAGE": "禁止されたユーザーはいません！素晴らしいコミュニティを運営していることを祝福します。",
     "TABLE_HEADER_BAN_ID": "禁止ID",
     "TABLE_HEADER_NAME": "名前",
@@ -21,7 +21,7 @@
     "TABLE_HEADER_IP_BAN": "IP 禁止?",
     "TABLE_HEADER_SHADOW_BAN": "シャドウバン？",
     "TABLE_HEADER_BANNED_BY": "禁止者",
-    "TABLE_HEADER_BANNED_FOR_SAYING": "発言禁止",
+    "TABLE_HEADER_BANNED_FOR_SAYING": "禁止対象の発言",
     "TABLE_HEADER_BAN_REASON": "禁止理由",
     "NOT_SET": "未設定",
     "FOREVER": "永遠に",
@@ -32,9 +32,9 @@
     "NO_REASON_PROVIDED": "理由は不明",
     "UN_BAN_LINK": "禁止解除",
     "PREV_BUTTON": "前へ",
-    "NEXT_BUTTON": "次",
+    "NEXT_BUTTON": "次へ",
     "BAN_USER_BY_EMAIL_LINK_TEXT": "メールでユーザーを禁止する",
     "BAN_USER_BY_EMAIL_LINK_TITLE": "メールでユーザーを禁止する",
     "PLUS_ALT": "プラス",
-    "PLUS_TITLE": "メールで"
+    "PLUS_TITLE": "メールで禁止"
 }

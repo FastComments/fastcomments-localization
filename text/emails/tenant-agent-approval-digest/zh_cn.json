@@ -1,9 +1,9 @@
 {
     "BANNER_TEXT": "待代理审批",
     "SUBJECT": "<%= approvalCount %> 项代理操作待批准",
-    "FROM_NAME": "快速评论代理",
-    "COLUMN_AGENT": "代理人",
-    "COLUMN_ACTION": "行动",
+    "FROM_NAME": "FastComments 智能体",
+    "COLUMN_AGENT": "代理",
+    "COLUMN_ACTION": "操作",
     "COLUMN_CREATED": "已排队",
     "INTRO": "以下AI代理操作等待您批准或拒绝。",
     "FALLBACK_LINK": "如果按钮不起作用，请复制此网址并粘贴到浏览器中：<%= inboxUrl %>",

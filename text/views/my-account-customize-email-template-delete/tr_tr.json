@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "Sil <%= template.displayName %> - HızlıYorumlar",
-    "HEADING_DELETE_TEMPLATE": "Silmek \"<%= template.displayName %>\"?",
-    "TEXT_CONFIRM_DELETE": "Oluşturulma tarihi <%= template.displayName %> olan <%= template.createdAt.toLocaleString() %> numaralı şablonu silmek istediğinizden emin misiniz?",
-    "BUTTON_DELETE": "Silmek",
-    "BUTTON_CANCEL": "İptal etmek"
+    "PAGE_TITLE": "<%= template.displayName %> Sil - FastComments",
+    "HEADING_DELETE_TEMPLATE": "\"<%= template.displayName %>\" silinsin mi?",
+    "TEXT_CONFIRM_DELETE": "<%= template.createdAt.toLocaleString() %> tarihinde oluşturulan <%= template.displayName %> şablonunu silmek istediğinizden emin misiniz?",
+    "BUTTON_DELETE": "Sil",
+    "BUTTON_CANCEL": "İptal"
 }

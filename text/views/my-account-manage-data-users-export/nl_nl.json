@@ -1,7 +1,7 @@
 {
     "PAGE_TITLE": "Gebruikers exporteren - FastComments",
     "HEADING": "Gebruikers exporteren",
-    "REQUEST_EXPORT_BUTTON": "Gebruikersverzoek exporteren",
+    "REQUEST_EXPORT_BUTTON": "Gebruikersexport aanvragen",
     "EMAIL_NOTIFICATION_INFO": "Je ontvangt een e-mail met een downloadlink zodra het exporteren is voltooid. Je kunt de status van de export hieronder bekijken.",
     "EXPORTS_HEADING": "Exporten",
     "NOSCRIPT_REFRESH_MESSAGE": "Vernieuw de pagina om de meest recente status te bekijken.",
@@ -12,7 +12,7 @@
     "EXPIRATION_NOTE": "Let op: Exportbestanden verlopen automatisch na tien dagen. De gegevens worden verwijderd en de downloadlink wordt na deze periode verwijderd.",
     "NO_EXPORTS_MESSAGE": "Je hebt geen lopende of reeds voltooide exportopdrachten.",
     "STATUS_REQUESTED": "Verzoek ingediend",
-    "STATUS_RUNNING": "Rennen",
+    "STATUS_RUNNING": "Wordt uitgevoerd",
     "STATUS_SUCCESS": "Succes",
     "STATUS_FAILED": "Mislukt"
 }

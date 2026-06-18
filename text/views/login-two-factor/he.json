@@ -10,11 +10,11 @@
     "AUTHENTICATOR_INSTRUCTION": "הזינו את הקוד בן 6 הספרות מאפליקציית האימות שלכם",
     "SMS_INSTRUCTION": "שלחנו קוד אל <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>",
     "LABEL_VERIFICATION_CODE": "קוד אימות",
-    "BUTTON_VERIFY": "לְאַמֵת",
+    "BUTTON_VERIFY": "אימות",
     "LABEL_BACKUP_CODE": "הזן קוד גיבוי:",
-    "BUTTON_USE_BACKUP_CODE": "השתמש בקוד גיבוי",
-    "BUTTON_BACK": "בְּחֲזָרָה",
-    "BUTTON_RESEND_SMS": "שלח שוב את קוד ה-SMS",
+    "BUTTON_USE_BACKUP_CODE": "שימוש בקוד גיבוי",
+    "BUTTON_BACK": "חזרה",
+    "BUTTON_RESEND_SMS": "שליחת קוד SMS מחדש",
     "LINK_USE_BACKUP_CODE": "השתמש בקוד גיבוי במקום זאת",
     "LINK_BACK_TO_LOGIN": "← חזרה להתחברות"
 }

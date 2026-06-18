@@ -3,6 +3,6 @@
     "HEADING": "Разблокировать пользователя",
     "SUB_HEADING": "Разблокировать <%= bannedUser.username %>?",
     "CONFIRM_MESSAGE": "Вы уверены, что хотите разблокировать этого пользователя?",
-    "BANNED_FOR_SAYING_TEXT": "Их запретили за то, что они сказали &quot; <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> &quot;.",
+    "BANNED_FOR_SAYING_TEXT": "Пользователь был заблокирован за слова \"<span class=\"quote\"><%= bannedUser.bannedCommentText %></span>\"",
     "UN_BAN_BUTTON": "Разблокировать пользователя"
 }

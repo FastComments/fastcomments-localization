@@ -5,5 +5,5 @@
     "SUB_HEADING_DOMAIN": "<%= integration.domain %> için bir <%= integration.readableType %> entegrasyon tokenini düzenleme.",
     "ENABLE_EVENT_FETCH_LABEL": "Bu entegrasyonu kullanan istemciler, periyodik olarak yeni yorumları alabilmelidir.",
     "ENABLE_EVENT_FETCH_DESCRIPTION": "Bu, bu entegrasyon tokenini kullanan istemcilerin senkronize kalmak için olay günlüğünü almasına izin verecektir. Kendi veritabanınızda yorum verileri gerektiren WordPress eklentileriniz varsa kullanışlıdır.",
-    "SAVE_BUTTON": "Kaydetmek"
+    "SAVE_BUTTON": "Kaydet"
 }

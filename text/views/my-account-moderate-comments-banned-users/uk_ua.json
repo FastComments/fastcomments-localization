@@ -11,7 +11,7 @@
     "SHOWING_BANNED_USERS": "Показано <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> з <%= totalCount %> заблокованих користувачів",
     "PAGE_LABEL": "Сторінка",
     "COUNT_PER_PAGE_LABEL": "Кількість на сторінці",
-    "GO_BUTTON": "Іти",
+    "GO_BUTTON": "Перейти",
     "NO_BANNED_USERS_MESSAGE": "У вас немає заблокованих користувачів! Вітаємо з чудовою спільнотою.",
     "TABLE_HEADER_BAN_ID": "Ідентифікатор заборони",
     "TABLE_HEADER_NAME": "Ім'я",

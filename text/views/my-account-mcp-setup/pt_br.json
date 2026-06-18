@@ -12,11 +12,11 @@
     "CHOOSE_KEY_HELP_PREFIX": "A chave selecionada é incorporada no URL e nos trechos de código gerados. Gerencie as chaves em",
     "DEFAULT_KEY_NAME": "Padrão",
     "NO_KEYS_BODY": "Crie uma chave de API antes de configurar um cliente MCP.",
-    "ENDPOINT_HEADING": "URL do ponto de extremidade",
-    "CLAUDE_CODE_HEADING": "Código Claude",
+    "ENDPOINT_HEADING": "URL do Endpoint",
+    "CLAUDE_CODE_HEADING": "Claude Code",
     "NO_KEYS_BUTTON": "Acesse as chaves de API.",
-    "COPY_BUTTON": "Cópia",
-    "CLAUDE_DESKTOP_HEADING": "Área de trabalho/Cursor Claude",
+    "COPY_BUTTON": "Copiar",
+    "CLAUDE_DESKTOP_HEADING": "Claude Desktop / Cursor",
     "COPIED_LABEL": "Copiado",
     "DOCS_LINK_HEADING": "Mais informações",
     "DOCS_LINK_PREFIX": "Veja o",
@@ -26,5 +26,5 @@
     "ENDPOINT_HELP": "Utilize este URL em qualquer lugar onde um cliente MCP aceite um endpoint HTTP que possa ser transmitido via streaming.",
     "SNIPPET_WARNING": "Contém sua chave de API. Não compartilhe publicamente.",
     "DOCS_LINK_TEXT": "Guia do Kit LLM",
-    "DOCS_LINK_SUFFIX": "Para obter uma visão geral completa da integração do MCP."
+    "DOCS_LINK_SUFFIX": "para obter uma visão geral completa da integração do MCP."
 }

@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "<%= viewTemplate.displayName %> - תבניות דוא\"ל - תגובות מהירות",
+    "PAGE_TITLE": "<%= viewTemplate.displayName %> - תבניות דוא\"ל - FastComments",
     "HEADING_EDITING_EMAIL_TEMPLATE": "עריכת תבנית דוא\"ל",
     "HEADING_TEMPLATE": "תבנית: <span id=\"display-name-header\"><%= viewTemplate.displayName %></span>",
     "TEXT_JAVASCRIPT_REQUIRED": "נדרש JavaScript כדי להשתמש בתכונה זו.",
@@ -13,7 +13,7 @@
     "LABEL_DISPLAY_NAME": "שם תצוגה",
     "PLACEHOLDER_DISPLAY_NAME": "הזן שם מותאם אישית שישמש לזיהוי תבנית זו.",
     "TEXT_DISPLAY_NAME_NOTE": "מנהלי מערכת יכולים להתייחס לתבנית זו באמצעות השם.",
-    "LABEL_DOMAIN": "תְחוּם",
+    "LABEL_DOMAIN": "דומיין",
     "OPTION_ALL_DOMAINS": "כֹּל",
     "TEXT_DOMAIN_NOTE_CAN_BE_SPECIFIC": "התבנית תשמש רק בהקשר של דומיין זה. אחרת, תיבחר תבנית אחרת, או תבנית ברירת המחדל.",
     "TEXT_DOMAIN_NOTE_CANNOT_BE_SPECIFIC": "תבנית זו עשויה להופיע בהקשר של מספר דומיינים בו זמנית (לדוגמה, מספר תגובות באותה הודעת דוא&quot;ל), או שלא להיות בהקשר של דומיין כלל. <span class=\"red\">מסיבה זו, תבנית זו אינה יכולה להיות ספציפית לדומיין.</span>",
@@ -22,5 +22,5 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "התאמה אישית עבור אזור",
     "TEXT_TEST_DATA_INFO": "כאן ניתן להגדיר נתוני בדיקה מותאמים אישית שישמשו בתצוגה המקדימה. הם נשמרים יחד עם התבנית.",
     "BUTTON_RESET_TEST_DATA": "אִתחוּל",
-    "BUTTON_SAVE": "לְהַצִיל"
+    "BUTTON_SAVE": "שמירה"
 }

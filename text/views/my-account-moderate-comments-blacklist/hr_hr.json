@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Crna lista riječi - Brzi komentari",
+    "PAGE_TITLE": "Crna lista riječi - FastComments",
     "HEADING": "Crna lista riječi u komentarima",
     "SUB_HEADING": "Prilagodi crnu listu",
     "SUCCESS_MESSAGE": "Crna lista uspješno spremljena.",
@@ -11,10 +11,10 @@
     "MASKED_WORDS_LABEL": "Maskirane riječi za [localeName].",
     "MASKED_WORDS_DESCRIPTION": "Riječi na ovom popisu (odvojene zarezom) bit će maskirane poput ***.",
     "MASKED_WORDS_PLACEHOLDER": "Unesite popis ružnih riječi odvojenih zarezima, poput 'neke, ružne, riječi'.",
-    "WORDS_LENGTH_ERROR": "Možete unijeti do 5000 riječi po lokaciji. Unijeli ste<span id=\"length-error-count-words-[locale]\"></span> .",
+    "WORDS_LENGTH_ERROR": "Možete unijeti do 5000 riječi po lokaciji. Unijeli ste <span id=\"length-error-count-words-[locale]\"></span>.",
     "MASKED_PHRASES_LABEL": "Maskirane fraze za [localeName].",
     "MASKED_PHRASES_DESCRIPTION": "Fraze na ovom popisu (odvojene zarezom) bit će maskirane poput ********.",
     "MASKED_PHRASES_PLACEHOLDER": "Unesite popis loših fraza odvojenih zarezima, poput 'neka loša fraza, neka druga loša fraza'.",
-    "PHRASES_LENGTH_ERROR": "Možete unijeti do 5000 fraza po lokaciji. Unijeli ste<span id=\"length-error-count-phrases-[locale]\"></span> .",
+    "PHRASES_LENGTH_ERROR": "Možete unijeti do 5000 fraza po lokaciji. Unijeli ste <span id=\"length-error-count-phrases-[locale]\"></span>.",
     "SAVE_BUTTON": "Spremi promjene u [localeName]"
 }

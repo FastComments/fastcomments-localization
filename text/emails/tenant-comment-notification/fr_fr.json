@@ -1,8 +1,8 @@
 {
-    "INTRO": "Hey <%= username %>,",
+    "INTRO": "Hé <%= username %>,",
     "YOU_HAVE_NEW_COMMENTS": "Vous avez de nouveaux commentaires!",
     "BANNER_TEXT": "Nouveaux commentaires",
-    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>new commentaire<% } else { %>new commentaires<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>nouveau commentaire<% } else { %>nouveaux commentaires<% } %>",
     "UNSUBSCRIBE_HERE": "Se désabonner",
     "APPROVE_COMMENT": "Approuver",
     "VIEW_COMMENT": "Voir le commentaire pour répondre",

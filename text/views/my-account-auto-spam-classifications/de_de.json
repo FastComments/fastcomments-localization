@@ -2,7 +2,7 @@
     "PAGE_TITLE": "Kommentarspam-Trainingsset – FastComments",
     "HEADING_COMMENTS_SPAM_TRAINING_SET": "Kommentarspam-Trainingsset",
     "TEXT_CURRENT_CLASSIFICATION": "Aktuelle Klassifizierung: <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>",
-    "BUTTON_UNCLASSIFY": "Aufheben der Klassifizierung",
+    "BUTTON_UNCLASSIFY": "Klassifizierung aufheben",
     "BUTTON_SPAM": "Spam",
     "BUTTON_NOT_SPAM": "Kein Spam"
 }

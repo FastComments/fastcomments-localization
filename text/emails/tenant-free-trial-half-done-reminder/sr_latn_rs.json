@@ -1,7 +1,7 @@
 {
     "INTRO": "Zdravo <%= tenantName %>",
     "BANNER_TEXT": "FastComments probni period - novosti",
-    "FROM_NAME": "FastComments Probni Robot",
+    "FROM_NAME": "FastComments probni robot",
     "SUBJECT": "FastComments besplatni probni period - ostalo je još 15 dana",
     "FRIENDLY_REMINDER": "Ovo je prijateljski podsetnik da ste prešli polovinu besplatnog probnog perioda za FastComments.",
     "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> komentara je ostavljeno na vašim sajtovima.",

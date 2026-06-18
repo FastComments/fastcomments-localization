@@ -3,7 +3,7 @@
     "HEADING": "統合",
     "TABLE_HEADER_TYPE": "タイプ",
     "TABLE_HEADER_DOMAIN": "ドメイン",
-    "TABLE_HEADER_LAST_USED": "最後に使用したもの",
+    "TABLE_HEADER_LAST_USED": "最終使用",
     "TABLE_HEADER_STATUS": "状態",
     "NO_INTEGRATIONS_MESSAGE": "連携機能が全くありません！連携機能は、WordPressやLMSなどのサードパーティサービスをFastCommentsアカウントと同期させるために使用されます。",
     "WORDPRESS_PLUGIN_LINK_TEXT": "WordPress プラグインのインストールについては、こちらをご覧ください。",
@@ -13,7 +13,7 @@
     "STATUS_AWAITING_VERIFICATION": "検証待ち",
     "VIEW_LOGS_LINK": "ログを表示",
     "SETTINGS_LINK": "設定",
-    "DELETE_LINK": "消去",
+    "DELETE_LINK": "削除",
     "INTEGRATION_LOGO_ALT": "統合ロゴ",
     "LAST_USED_NOT_TRACKED": "追跡されていません",
     "STATUS_ACTIVE": "アクティブ",
@@ -21,5 +21,5 @@
     "STATUS_DISABLED": "無効",
     "MANAGE_LINK": "管理",
     "STATUS_ENABLED": "有効",
-    "TYPE_CANVAS_LTI": "キャンバスLTI"
+    "TYPE_CANVAS_LTI": "Canvas LTI"
 }

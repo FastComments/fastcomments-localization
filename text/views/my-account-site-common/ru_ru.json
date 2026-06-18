@@ -1,6 +1,6 @@
 {
     "BREADCRUMB_SITES": "Сайты",
-    "NAV_BUILDER": "Строитель",
+    "NAV_BUILDER": "Конструктор",
     "NAV_COLLECTIONS": "Коллекции",
     "NAV_THEME": "Тема",
     "NAV_SETTINGS": "Настройки",
@@ -10,7 +10,7 @@
     "BLOCK_TYPE_PAGE": "Страница",
     "BLOCK_TYPE_RICH_TEXT": "Форматированный текст",
     "BLOCK_TYPE_IMAGE": "Изображение",
-    "BLOCK_TYPE_HERO": "Герой",
+    "BLOCK_TYPE_HERO": "Hero",
     "BLOCK_TYPE_COLUMNS": "Колонки",
     "BLOCK_TYPE_LIST": "Список",
     "BLOCK_TYPE_ARTICLE": "Статья",
@@ -18,10 +18,10 @@
     "BLOCK_TYPE_COMMENTS": "Комментарии",
     "BLOCK_TYPE_CTA": "Призыв к действию",
     "BLOCK_TYPE_GALLERY": "Галерея",
-    "BLOCK_TYPE_SEPARATOR": "Сепаратор",
+    "BLOCK_TYPE_SEPARATOR": "Разделитель",
     "BLOCK_TYPE_HEADER": "Заголовок",
     "BLOCK_TYPE_FOOTER": "Нижний колонтитул",
-    "BLOCK_TYPE_LOGIN": "Авторизоваться",
+    "BLOCK_TYPE_LOGIN": "Вход",
     "BLOCK_TYPE_SIGNUP": "Зарегистрироваться",
     "BLOCK_TYPE_PRICING": "Цены",
     "BLOCK_TYPE_MEMBER_PORTAL": "Портал для участников",
@@ -36,5 +36,5 @@
     "NAV_VIEW_PAGE_PUBLIC": "Просмотреть страницу (общедоступная)",
     "BLOCK_TYPE_COMPLETE_PROFILE": "Полный профиль",
     "NAV_PREVIEW_ARTICLE": "Предварительный просмотр статьи",
-    "NAV_MEDIA": "СМИ"
+    "NAV_MEDIA": "Медиа"
 }

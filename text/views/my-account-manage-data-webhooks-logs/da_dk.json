@@ -12,10 +12,10 @@
     "UPDATE_EVENTS_OPTION": "Opdater begivenheder",
     "SUCCESSFUL_EVENTS_OPTION": "Succesfulde begivenheder",
     "FAILED_EVENTS_OPTION": "Mislykkede begivenheder",
-    "SEARCH_BUTTON": "Søge",
+    "SEARCH_BUTTON": "Søg",
     "STATS_WAITING": "<b><%= Number(countPending).toLocaleString() %></b> Venter",
     "STATS_PENDING_RETRY": "<b><%= Number(countPendingRetried).toLocaleString() %></b> Afventer nyt forsøg",
-    "TABLE_HEADER_WHEN": "Når",
+    "TABLE_HEADER_WHEN": "Hvornår",
     "TABLE_HEADER_DOMAIN": "Domæne",
     "TABLE_HEADER_STATUS": "Status",
     "TABLE_HEADER_TYPE": "Type",
@@ -28,7 +28,7 @@
     "TYPE_N_A": "Ikke tilgængelig",
     "VIEW_DETAILS_ALT": "Forstørrelsesglas",
     "VIEW_DETAILS_TITLE": "Se detaljer",
-    "CANCEL_WEBHOOK_ALT": "Ophæve",
+    "CANCEL_WEBHOOK_ALT": "Annuller",
     "CANCEL_WEBHOOK_TITLE": "Annuller Webhook",
     "CANCELLED_TEXT": "Annulleret",
     "CANCELLED_TITLE": "Webhook er allerede annulleret",
@@ -38,5 +38,5 @@
     "RETENTION_INFO": "Webhook-logfiler opbevares i et år.",
     "N_A_VALUES_NOTE": "Nogle poster viser muligvis N/A for værdier, vi ikke altid indsamlede.",
     "LOG_DETAILS_HEADING": "Logoplysninger",
-    "CLOSE_BUTTON": "Tæt"
+    "CLOSE_BUTTON": "Luk"
 }

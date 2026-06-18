@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "<%= viewTemplate.displayName %> - Шаблони имејлова - Брзи коментари",
+    "PAGE_TITLE": "<%= viewTemplate.displayName %> - Шаблони имејлова - FastComments",
     "HEADING_EDITING_EMAIL_TEMPLATE": "Уређивање шаблона имејла",
     "HEADING_TEMPLATE": "Шаблон: <span id=\"display-name-header\"><%= viewTemplate.displayName %></span>",
     "TEXT_JAVASCRIPT_REQUIRED": "За коришћење ове функције потребан је JavaScript.",

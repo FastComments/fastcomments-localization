@@ -2,7 +2,7 @@
     "INTRO": "Živjo <%= username %>, prislužil/a si si novo značko na <strong><%= siteDomain %></strong> !",
     "CONGRATULATIONS": "Čestitke!",
     "BANNER_TEXT": "Prislužena nova značka",
-    "FROM_NAME": "Robot za hitre komentarje",
+    "FROM_NAME": "Robot FastComments",
     "SUBJECT": "Prislužili ste si značko »<%= badge.displayLabel %>«!",
     "BADGE_EARNED_MESSAGE": "Uspešno ste si prislužili <strong><%= badge.displayLabel %></strong> značko.",
     "KEEP_UP_GOOD_WORK": "Nadaljujte z odličnim delom!",

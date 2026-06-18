@@ -1,7 +1,7 @@
 {
-    "BUTTON_DOWNLOAD": "İndirmek",
+    "BUTTON_DOWNLOAD": "İndir",
     "TEXT_NA": "Yok",
-    "BUTTON_DELETE": "Silmek",
+    "BUTTON_DELETE": "Sil",
     "TIME_RANGE_ALL_TIME": "Tüm Zamanlar",
     "TIME_RANGE_30_DAYS": "Son 30 Gün",
     "TIME_RANGE_1_YEAR": "Geçen sene",
@@ -10,10 +10,10 @@
     "SOURCE_TENANT_COMMENTS": "Kiracı Yorumları",
     "SOURCE_DELETED_COMMENTS_TABLE": "Silinen Yorumlar",
     "STATUS_REQUESTED": "Talep edildi",
-    "STATUS_RUNNING": "Koşma",
-    "STATUS_SUCCESS": "Başarı",
-    "STATUS_FAILED": "Arızalı",
-    "STATUS_EXPIRED": "Günü geçmiş",
-    "STATUS_DELETING": "Silme",
+    "STATUS_RUNNING": "Çalışıyor",
+    "STATUS_SUCCESS": "Başarılı",
+    "STATUS_FAILED": "Başarısız",
+    "STATUS_EXPIRED": "Süresi doldu",
+    "STATUS_DELETING": "Siliniyor",
     "STATUS_CANCELLED": "İptal edildi"
 }

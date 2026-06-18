@@ -1,5 +1,5 @@
 {
-    "FROM_NAME": "FastComments Help-bot",
+    "FROM_NAME": "FastComments-hulpbot",
     "SUBJECT": "Hulpverzoek erkend door ondersteunend personeel",
     "HEY": "Hoi <%= commenterUsername %>,",
     "ACKNOWLEDGED_BY_ADMIN": "Het lijkt erop dat de ondersteuningsagent met de gebruikersnaam '<%= adminUsername %>' uw verzoek heeft bevestigd. Zij zouden binnenkort contact met u moeten opnemen.",

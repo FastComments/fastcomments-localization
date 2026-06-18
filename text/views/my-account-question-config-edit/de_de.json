@@ -1,9 +1,9 @@
 {
-    "PAGE_TITLE": "Frage bearbeiten – Schnellkommentare",
+    "PAGE_TITLE": "Frage bearbeiten – FastComments",
     "HEADING_EDITING": "Bearbeitung [questionName]",
     "HEADING_CREATE": "Eine Frage erstellen",
     "NOTE_UPDATE_LIMITATION": "Nur bestimmte Aspekte einer Frage können nach ihrer Erstellung aktualisiert werden. Um den Fragetyp zu ändern, löschen oder blenden Sie die Frage aus und erstellen Sie eine neue.",
-    "NOTE_LABEL": "Notiz!",
+    "NOTE_LABEL": "Hinweis!",
     "INTRO_TEXT": "Um eine Frage zu erstellen, müssen wir zuerst den Fragetyp auswählen, der bestimmt, wie sie präsentiert wird.",
     "INTRO_NAME_TEXT": "Wählen Sie außerdem einen Namen, der intern zur Bezugnahme auf die Frage verwendet werden kann.",
     "NOSCRIPT_WARNING": "Diese Seite benötigt JavaScript, um ordnungsgemäß zu funktionieren.",
@@ -53,5 +53,5 @@
     "QUESTION_TYPE_THUMBS": "Daumen hoch/runter",
     "OPTION_STYLE_CENTERED": "Zentriert",
     "LABEL_DISPLAY_STYLE": "Anzeigestil",
-    "OPTION_STYLE_INLINE": "Im Einklang"
+    "OPTION_STYLE_INLINE": "Inline"
 }

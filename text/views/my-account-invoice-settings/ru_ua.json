@@ -16,11 +16,11 @@
     "PLACEHOLDER_ADDRESS": "Ваш адрес",
     "LABEL_CITY": "Город",
     "PLACEHOLDER_CITY": "Ваш город",
-    "LABEL_STATE": "Государство / Провинция / Регион",
-    "PLACEHOLDER_STATE": "Государство / Провинция / Регион",
+    "LABEL_STATE": "Штат / Провинция / Регион",
+    "PLACEHOLDER_STATE": "Штат / Провинция / Регион",
     "LABEL_POSTAL_CODE": "Почтовый индекс",
     "PLACEHOLDER_POSTAL_CODE": "Почтовый индекс",
     "LABEL_COUNTRY": "Страна",
-    "OPTION_SELECT_COUNTRY": "Выбирать",
+    "OPTION_SELECT_COUNTRY": "Выбрать",
     "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Не удалось обновить платежный адрес в Stripe. Пожалуйста, попробуйте еще раз или обратитесь в службу поддержки."
 }

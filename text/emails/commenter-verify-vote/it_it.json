@@ -1,5 +1,5 @@
 {
-    "FROM_NAME": "FastComments Robot",
+    "FROM_NAME": "Robot FastComments",
     "INTRO": "Hey <%= commenterName %>,",
     "BANNER_TEXT": "Verifica il tuo voto",
     "SUBJECT": "<%= commenterName %> - Verifica il tuo voto.",

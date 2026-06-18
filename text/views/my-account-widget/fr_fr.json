@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Widget <%= TEXT[widget.titleKey] %> - Commentaires rapides",
+    "PAGE_TITLE": "Widget <%= TEXT[widget.titleKey] %> - FastComments",
     "HEADING": "Code du widget",
     "HEADING_MULTIPLE_INSTANCES": "Remarque - Plusieurs instances",
     "MESSAGE_MULTIPLE_INSTANCES": "Pour utiliser plusieurs instances de ce widget sur la même page, par exemple pour afficher une liste d'articles de blog, il suffit de générer les identifiants de l'élément cible et de les transmettre au widget. Par exemple : « widget-id-0 », « widget-id-1 », etc.",

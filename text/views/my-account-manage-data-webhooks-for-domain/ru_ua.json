@@ -1,7 +1,7 @@
 {
-    "ON_COMMENT_CREATED_LABEL": "При <b>создании</b> комментария позвоните...",
-    "ON_COMMENT_UPDATED_LABEL": "Комментарий <b>обновлен</b> , звоните...",
-    "ON_COMMENT_DELETED_LABEL": "Комментарий <b>удалён</b> , позвоните...",
+    "ON_COMMENT_CREATED_LABEL": "При <b>создании</b> комментария вызвать...",
+    "ON_COMMENT_UPDATED_LABEL": "При <b>обновлении</b> комментария вызвать...",
+    "ON_COMMENT_DELETED_LABEL": "При <b>удалении</b> комментария вызвать...",
     "IDEMPOTENT_OPERATION_TITLE": "Это должна быть идемпотентная операция, поскольку она содержит идентификатор, поэтому это операция PUT.",
-    "SAVE_BUTTON": "Сохранять"
+    "SAVE_BUTTON": "Сохранить"
 }

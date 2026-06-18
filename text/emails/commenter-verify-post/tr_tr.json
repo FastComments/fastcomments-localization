@@ -1,5 +1,5 @@
 {
-    "FROM_NAME": "HızlıYorumlar Robotu",
+    "FROM_NAME": "FastComments Robotu",
     "SUBJECT": "<%= comment.commenterName %> - Yorumunuzu doğrulayın.",
     "BANNER_TEXT": "Yorumunuzu Doğrulayın",
     "INTRO": "Merhaba <%= comment.commenterName %>,",
@@ -10,13 +10,13 @@
     "THANKS_SO_MUCH": "Çok teşekkürler!",
     "JUST_NOW": "Şu anda",
     "ONE_MINUTE_AGO": "1 dakika önce",
-    "MINUTES_AGO": "  dakika önce",
+    "MINUTES_AGO": " dakika önce",
     "ONE_HOUR_AGO": "1 saat önce",
-    "HOURS_AGO": "  saatler önce",
+    "HOURS_AGO": " saat önce",
     "YESTERDAY": "Dün",
-    "DAYS_AGO": "  günler önce",
-    "WEEKS_AGO": "  haftalar önce",
-    "MONTHS_AGO": "  aylar önce",
-    "YEARS_AGO": "  Yıllar önce",
+    "DAYS_AGO": " gün önce",
+    "WEEKS_AGO": " hafta önce",
+    "MONTHS_AGO": " ay önce",
+    "YEARS_AGO": " yıl önce",
     "UNSUBSCRIBE_HERE": "abonelikten çık"
 }

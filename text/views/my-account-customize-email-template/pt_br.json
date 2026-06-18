@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "<%= viewTemplate.displayName %> - Modelos de e-mail - FastComments",
-    "HEADING_EDITING_EMAIL_TEMPLATE": "Editando um modelo de e-mail",
+    "HEADING_EDITING_EMAIL_TEMPLATE": "Editando modelo de e-mail",
     "HEADING_TEMPLATE": "Modelo: <span id=\"display-name-header\"><%= viewTemplate.displayName %></span>",
     "TEXT_JAVASCRIPT_REQUIRED": "É necessário JavaScript para usar este recurso.",
     "TEXT_DOCUMENTATION_LINK": "A documentação dos modelos de e-mail pode ser encontrada <a href=\"https://docs.fastcomments.com/guide-email-templates.html\" target=\"_blank\">aqui.</a>",
@@ -19,8 +19,8 @@
     "TEXT_DOMAIN_NOTE_CANNOT_BE_SPECIFIC": "Este modelo pode ser exibido no contexto de vários domínios simultaneamente (por exemplo, vários comentários na mesma notificação por e-mail) ou pode não estar no contexto de nenhum domínio. <span class=\"red\">Por esse motivo, este modelo não pode ser específico de um domínio.</span>",
     "TEXT_LOCALIZATIONS_INFO": "As traduções são personalizadas para cada localidade, já que os usuários podem comentar e falar em idiomas diferentes. Selecione a localidade para a qual deseja personalizar as traduções.",
     "TEXT_CUSTOMIZE_FROM_NAME_EMAIL": "Deseja personalizar o <b>nome e o e-mail do remetente</b> ? Faça isso <a href=\"/auth/my-account/configure-domains\">aqui</a> .",
-    "LABEL_CUSTOMIZE_FOR_LOCALE": "Personalizar para o seu idioma",
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Personalizar para a localidade",
     "TEXT_TEST_DATA_INFO": "Aqui você pode definir dados de teste personalizados usados na pré-visualização. Eles são salvos junto com o modelo.",
-    "BUTTON_RESET_TEST_DATA": "Reiniciar",
+    "BUTTON_RESET_TEST_DATA": "Redefinir",
     "BUTTON_SAVE": "Salvar"
 }

@@ -1,9 +1,9 @@
 {
-    "FROM_NAME": "快評機器人",
+    "FROM_NAME": "FastComments 機器人",
     "INTRO": "嘿 <%= commenterName %>，",
     "BANNER_TEXT": "驗證您的投票",
     "SUBJECT": "<%= commenterName %> - 驗證您的投票。",
-    "LOOKS_LIKE_YOU_VOTED_HERE": "看起來您對<a href=\"<%= url %>\">此處</a>的帖子進行了投票。如果您點擊下面的驗證鏈接，它會幫助我們知道是您投了這個票。",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "看起來您對<a href=\"<%= url %>\">此處</a>的貼文進行了投票。如果您點選下方的驗證連結，將有助於我們確認這個投票是您本人所為。",
     "VERIFY_YOUR_VOTE_LINK": "驗證您的投票",
     "WAS_YOU_IGNORE_THIS_EMAIL": "如果這不是您本人所為，請忽略此電子郵件。",
     "THANKS_SO_MUCH": "非常感謝！",

@@ -1,6 +1,6 @@
 {
-    "BUTTON_CLICK_TO_UPDATE_LOGO": "<%= domain.domain %> için Logoyu Güncellemek için tıklayın",
-    "BUTTON_CLICK_TO_SET_LOGO": "<%= domain.domain %> için Logo Ayarla'ya tıklayın",
+    "BUTTON_CLICK_TO_UPDATE_LOGO": "<%= domain.domain %> için Logoyu Güncellemek üzere tıklayın",
+    "BUTTON_CLICK_TO_SET_LOGO": "<%= domain.domain %> için Logo Ayarlamak üzere tıklayın",
     "TEXT_DOMAIN_VALID": "✔️ <%= domain.domain %>",
     "TEXT_DOMAIN_INVALID": "❌ \"<%= domain.input %>\": <%= domain.reason %>"
 }

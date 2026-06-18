@@ -1,14 +1,14 @@
 {
     "INTRO": "嘿 <%= username %>，",
-    "NEW_USER_BANNER_TEXT": "歡迎來到快評",
-    "BANNER_TEXT": "FastComments 登錄鏈接",
-    "FROM_NAME": "快評機器人",
-    "NEW_USER_SUBJECT": "歡迎使用 FastComments <%= username %>！在此處驗證並登錄您的帳戶",
-    "SUBJECT": "這是您的登錄鏈接 <%= username %>",
+    "NEW_USER_BANNER_TEXT": "歡迎使用 FastComments",
+    "BANNER_TEXT": "FastComments 登入連結",
+    "FROM_NAME": "FastComments 機器人",
+    "NEW_USER_SUBJECT": "歡迎使用 FastComments <%= username %>！請在此處驗證並登入您的帳戶",
+    "SUBJECT": "這是您的登入連結 <%= username %>",
     "NEW_USER_THANKS_FOR_SIGNING_UP": "感謝您註冊 FastComments。",
-    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "請單擊<a href=\"<%= userVerifyUrl %>\">此鏈接</a><b>驗證您的帳戶</b>。這也將使您登錄。",
-    "CAN_CREATE_NEW_LINKS_HERE": "您可以<a href=\"<%= HOST %>/auth/login/\">在此處</a>創建新鏈接以登錄您的帳戶。",
-    "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">單擊此處</a>登錄 FastComments。",
-    "THAT_FULL_LINK_IS": "完整鏈接是：<%= userVerifyUrl %>",
+    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "請點選<a href=\"<%= userVerifyUrl %>\">此連結</a>來<b>驗證您的帳戶</b>。這也會讓您登入。",
+    "CAN_CREATE_NEW_LINKS_HERE": "您可以<a href=\"<%= HOST %>/auth/login/\">在此處</a>建立新連結以登入您的帳戶。",
+    "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">點選此處</a>登入 FastComments。",
+    "THAT_FULL_LINK_IS": "完整連結是：<%= userVerifyUrl %>",
     "UNSUBSCRIBE_HERE": "退訂"
 }

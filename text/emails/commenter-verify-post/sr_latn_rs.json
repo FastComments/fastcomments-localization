@@ -1,5 +1,5 @@
 {
-    "FROM_NAME": "FastComments Robot",
+    "FROM_NAME": "FastComments robot",
     "SUBJECT": "<%= comment.commenterName %> - Proverite svoj komentar.",
     "BANNER_TEXT": "Verifikujte svoj komentar",
     "INTRO": "Zdravo <%= comment.commenterName %>,",

@@ -6,7 +6,7 @@
     "FRIENDLY_REMINDER": "Ovo je prijateljski podsjetnik da ste na pola puta do svoje besplatne probe FastCommentsa.",
     "COMMENTS_HAVE_BEEN_LEFT": "<%= Number(commentCount).toLocaleString() %> komentara ostavljeno je na vašim stranicama.",
     "VOTES_GIVEN": "Bilo je <%= Number(voteCount).toLocaleString() %> glasova za te komentare.",
-    "USERS_SIGNED_UP": "Posljednje, ali ne i najmanje važno, <b><%= Number(userCount).toLocaleString() %> korisnika prijavilo se za korištenje FastComments do <%= tenantName %></b> .",
+    "USERS_SIGNED_UP": "Posljednje, ali ne i najmanje važno, <b><%= Number(userCount).toLocaleString() %> korisnika prijavilo se za korištenje FastComments putem <%= tenantName %></b> .",
     "THANKS_FOR_CHOOSING_FC": "Hvala što ste odabrali <a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a> .",
     "UNSUBSCRIBE_FROM_THESE_ALERTS": "Otkažite pretplatu na ova upozorenja.",
     "SOME_STATS_SO_FAR": "Neka statistika do sada",

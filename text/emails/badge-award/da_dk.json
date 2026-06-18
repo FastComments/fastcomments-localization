@@ -1,10 +1,10 @@
 {
-    "INTRO": "Hej <%= username %>, du har fortjent et nyt badge på <strong><%= siteDomain %></strong> !",
+    "INTRO": "Hej <%= username %>, du har optjent et nyt badge på <strong><%= siteDomain %></strong>!",
     "CONGRATULATIONS": "Tillykke!",
     "BANNER_TEXT": "Nyt badge optjent",
     "FROM_NAME": "FastComments Robot",
-    "SUBJECT": "Du har fortjent \"<%= badge.displayLabel %>\"-mærket!",
-    "BADGE_EARNED_MESSAGE": "Du har fortjent <strong><%= badge.displayLabel %>-</strong> mærket.",
+    "SUBJECT": "Du har optjent badget \"<%= badge.displayLabel %>\"!",
+    "BADGE_EARNED_MESSAGE": "Du har optjent badget <strong><%= badge.displayLabel %></strong>.",
     "KEEP_UP_GOOD_WORK": "Fortsæt det gode arbejde!",
     "UNSUBSCRIBE_HERE": "Afmeld abonnement på badge-notifikationer",
     "VIEW_YOUR_PROFILE": "Se din profil"

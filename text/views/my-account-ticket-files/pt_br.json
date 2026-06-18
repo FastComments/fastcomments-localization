@@ -1,7 +1,7 @@
 {
     "PAGE_TITLE": "Gerenciar arquivos - <%- ticket.subject %>",
     "HEADING": "Arquivos para \"<%- ticket.subject %>\"",
-    "LINK_BACK_TO_TICKET": "Voltar ao bilhete",
+    "LINK_BACK_TO_TICKET": "Voltar ao ticket",
     "LABEL_UPLOAD_FILE": "Carregar um arquivo",
     "BUTTON_UPLOAD": "Carregar",
     "TABLE_HEADER_NAME": "Nome",
@@ -12,7 +12,7 @@
     "BUTTON_DELETE": "Excluir",
     "MESSAGE_NO_FILES": "Nenhum arquivo foi carregado ainda.",
     "ERROR_FILE_TOO_LARGE": "O arquivo é muito grande. O tamanho máximo permitido é de 2 GB.",
-    "ERROR_TOTAL_SIZE_EXCEEDED": "O limite de tamanho total de arquivo de 5 GB por ingresso seria excedido.",
+    "ERROR_TOTAL_SIZE_EXCEEDED": "O limite de tamanho total de arquivo de 5 GB por ticket seria excedido.",
     "ERROR_NO_FILE": "Selecione um arquivo para enviar.",
     "ERROR_UPLOAD_FAILED": "O envio do arquivo falhou. Tente novamente.",
     "FILE_EXPIRED": "Expirado",

@@ -1,7 +1,7 @@
 {
     "SUBHEADING": "Odaberite unaprijed podešeni početni model ili ga izradite od nule. Predlošci stvaraju agenta u probnom načinu rada kako biste ga mogli pregledati i podesiti prije objavljivanja.",
     "HEADING": "Započnite s predloškom",
-    "PAGE_TITLE": "Odaberite predložak agenta - Brzi komentari",
+    "PAGE_TITLE": "Odaberite predložak agenta - FastComments",
     "BACK_TO_AGENTS": "Natrag na agente",
     "PREVIEW_PROMPT_LABEL": "Početni upit",
     "PREVIEW_EMPTY_TITLE": "Odaberite predložak za pregled",
@@ -9,7 +9,7 @@
     "PREVIEW_TRIGGERS_LABEL": "Pokreće se kada",
     "PREVIEW_ACTIONS_LABEL": "Dopuštene radnje",
     "PREVIEW_VOTE_THRESHOLD_LABEL": "Prag glasanja",
-    "PREVIEW_FLAG_THRESHOLD_LABEL": "Prag zastavice",
+    "PREVIEW_FLAG_THRESHOLD_LABEL": "Prag prijava",
     "PREVIEW_DELAY_VALUE": "{minutes} minuta",
     "PREVIEW_DELAY_LABEL": "Odgoda okidanja",
     "USE_TEMPLATE_BUTTON": "Koristite ovaj predložak",
@@ -23,6 +23,6 @@
     "TEMPLATE_TOS_ENFORCER_CARD_DESCRIPTION": "Pregledava nove i označene komentare koji krše vaša pravila. Upozorava prve prekršitelje, označava neželjenu poštu, eskalira ponovljene prekršaje.",
     "TEMPLATE_WELCOME_GREETER_CARD_DESCRIPTION": "Odgovara komentatorima koji prvi put komentiraju kratkom, specifičnom dobrodošlicom. Pomaže novim korisnicima da se osjećaju viđeno bez neželjene pošte na starim računima.",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "Objavljuje neutralan sažetak dugih tema nakon kratkog kašnjenja. Zakašnjelima omogućuje brz uvid u stavove i otvorena pitanja.",
-    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Detektor plinskog svjetla",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "Detektor manipulacije",
     "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "Prati uređivanja komentara za prepravljanja usred teme koja iskrivljuju odgovore. Vraća izvorni tekst i šalje izravnu poruku autoru."
 }

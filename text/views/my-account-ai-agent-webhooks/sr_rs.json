@@ -1,6 +1,6 @@
 {
     "TAB_AGENTS": "Агенти",
-    "PAGE_TITLE": "Вебхукови агента - Брзи коментари",
+    "PAGE_TITLE": "Вебхукови агента - FastComments",
     "TAB_ANALYTICS": "Аналитика",
     "CREATE_NEW_BUTTON": "Нови вебхук",
     "HEADING": "Вебхукови агента",
@@ -39,8 +39,8 @@
     "FIELD_EVENTS_HELP": "Изаберите барем један догађај на који ћете се претплатити.",
     "FIELD_AGENTS_LABEL": "Агенти (опционо)",
     "FIELD_METHOD_LABEL": "HTTP метод",
-    "FIELD_METHOD_POST": "ОБЈАВИ (препоручено)",
-    "FIELD_METHOD_PUT": "ПУТ",
+    "FIELD_METHOD_POST": "POST (препоручено)",
+    "FIELD_METHOD_PUT": "PUT",
     "FIELD_NO_RETRY_STATUS_CODES_LABEL": "Кодови статуса забране поновног покушаја",
     "SAVE_BUTTON": "Сачувај",
     "EVENT_TRIGGER_FAILED": "Покретање агента није успело",
@@ -57,7 +57,7 @@
     "TEST_SEND_EVENT_LABEL": "Догађај за слање",
     "ERROR_SERVER": "Грешка сервера. Молимо покушајте поново.",
     "TEST_SEND_SUCCESS": "Испоручен тестни терет.",
-    "NOSCRIPT_MESSAGE": "Јаваскрипт је потребан за дугме за тестирање слања.",
+    "NOSCRIPT_MESSAGE": "JavaScript је потребан за дугме за тестирање слања.",
     "TEST_SEND_FAILED": "Тестирање корисног оптерећења није успело.",
     "TEST_SEND_NO_SECRET": "Није конфигурисан API тајни код за домен овог вебхука."
 }

@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "删除<%= template.displayName %> - 快速评论",
+    "PAGE_TITLE": "删除<%= template.displayName %> - FastComments",
     "HEADING_DELETE_TEMPLATE": "删除 ”<%= template.displayName %>”？",
     "TEXT_CONFIRM_DELETE": "您确定要删除于<%= template.displayName %>创建的模板<%= template.createdAt.toLocaleString() %>吗？",
     "BUTTON_DELETE": "删除",

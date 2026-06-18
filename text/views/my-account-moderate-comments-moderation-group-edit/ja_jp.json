@@ -1,9 +1,9 @@
 {
     "PAGE_TITLE_ADD": "モデレーショングループを追加する",
     "PAGE_TITLE_EDIT": "モデレーショングループ",
-    "PAGE_TITLE_SUFFIX": " - ファストコメント",
+    "PAGE_TITLE_SUFFIX": " - FastComments",
     "HEADING_ADD": "モデレーショングループを追加する",
-    "HEADING_EDIT": "編集 <%= moderationGroup.name %>",
+    "HEADING_EDIT": "<%= moderationGroup.name %> を編集中",
     "INTRO_NEW": "モデレーション グループを作成したい場合は、ここが最適な場所です。",
     "GROUP_NAME_LABEL": "グループ名",
     "GROUP_NAME_PLACEHOLDER": "グループB",

@@ -11,7 +11,7 @@
     "PREVIEW_EMPTY_BODY": "カードをクリックすると、そのカードのプロンプト、トリガー、および許可されるアクションが表示されます。確認するまでエージェントは作成されません。",
     "USE_TEMPLATE_BUTTON": "このテンプレートを使用してください",
     "PREVIEW_DELAY_LABEL": "トリガー遅延",
-    "PREVIEW_DELAY_VALUE": "{分}分",
+    "PREVIEW_DELAY_VALUE": "{minutes}分",
     "PREVIEW_FLAG_THRESHOLD_LABEL": "フラグのしきい値",
     "TEMPLATE_TOS_ENFORCER_CARD_NAME": "モデレータ",
     "START_FRESH_NAME": "新たなスタートを切る",
@@ -21,8 +21,8 @@
     "TEMPLATE_WELCOME_GREETER_CARD_DESCRIPTION": "初めてコメントするユーザーには、簡潔で具体的な歓迎メッセージで返信します。これにより、既存アカウントにスパムメッセージを送ることなく、新規ユーザーが認識されていると感じられるように配慮しています。",
     "TEMPLATE_TOS_ENFORCER_CARD_DESCRIPTION": "新規コメントおよびルール違反が報告されたコメントを審査します。初回違反者には警告を発し、スパムとしてマークし、違反を繰り返す場合は上位機関に報告します。",
     "TEMPLATE_THREAD_SUMMARIZER_CARD_NAME": "スレッド要約ツール",
-    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "長文のスレッドには、少し遅れて中立的な要約を投稿する。これにより、後から参加する人にも、それぞれの立場や未解決の疑問点を素早く把握できる。",
+    "TEMPLATE_THREAD_SUMMARIZER_CARD_DESCRIPTION": "長文のスレッドには、少し遅れて中立的な要約を投稿します。これにより、後から参加する人も、それぞれの立場や未解決の疑問点を素早く把握できます。",
     "TEMPLATE_TOP_COMMENT_PINNER_CARD_DESCRIPTION": "投票数が一定の基準を超えた、内容の濃いトップレベルのコメントを固定表示します。固定表示はローテーションされるため、常に最も優れた意見が一番上に表示されます。",
-    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "ガス灯検知器",
+    "TEMPLATE_GASLIGHT_DETECTOR_CARD_NAME": "ガスライティング検知ツール",
     "TEMPLATE_GASLIGHT_DETECTOR_CARD_DESCRIPTION": "スレッドの途中で返信内容を歪めるようなコメント編集を監視します。元のテキストを復元し、投稿者にダイレクトメッセージを送ります。"
 }

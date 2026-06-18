@@ -1,6 +1,6 @@
 {
-    "PAGE_TITLE_ADD": "Додај корисника - БрзиКоментари",
-    "PAGE_TITLE_EDIT": "Измени <%= editingUser.username %> - БрзиКоментари",
+    "PAGE_TITLE_ADD": "Додај корисника - FastComments",
+    "PAGE_TITLE_EDIT": "Измени <%= editingUser.username %> - FastComments",
     "HEADING_ADD": "Додај корисника",
     "HEADING_EDIT": "Измени <%= editingUser.username %>",
     "SUBHEADING_ADD": "Додавање корисника",
@@ -10,7 +10,7 @@
     "BUTTON_UPDATE_AVATAR": "Кликните да бисте ажурирали њихов аватар",
     "HELP_AVATAR_SIZE": "Максимална величина: 20 МБ",
     "LABEL_USERNAME": "Корисничко име",
-    "PLACEHOLDER_USERNAME": "сјајна-особа-2",
+    "PLACEHOLDER_USERNAME": "awesome-person-2",
     "LABEL_EMAIL": "Е-пошта",
     "PLACEHOLDER_EMAIL": "email@example.com",
     "LABEL_LOCALE": "Локалитет",

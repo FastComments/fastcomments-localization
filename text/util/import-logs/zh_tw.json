@@ -1,5 +1,5 @@
 {
-    "STARTING_DUPLICATE_DETECTION": "開始偵測重複評論<%= commentCount %>",
-    "SKIPPED_DUPLICATE": "已跳過重複項（距離：<%= distance %>）。導入者“<%= importedName %>”：“<%= importedHtml %>” | 現有者“<%= existingName %>”：“<%= existingHtml %>”",
-    "DUPLICATE_CHECK_PROGRESS": "重複檢查進度：已檢查<%= checked %>/<%= total %>條評論，目前已發現<%= duplicatesFound %>條重複項"
+    "STARTING_DUPLICATE_DETECTION": "開始對 <%= commentCount %> 則評論進行重複偵測",
+    "SKIPPED_DUPLICATE": "已略過重複項（距離：<%= distance %>）。由「<%= importedName %>」匯入：「<%= importedHtml %>」｜由「<%= existingName %>」既有：「<%= existingHtml %>」",
+    "DUPLICATE_CHECK_PROGRESS": "重複檢查進度：已檢查 <%= checked %>/<%= total %> 則評論，目前已發現 <%= duplicatesFound %> 則重複項"
 }

@@ -1,5 +1,5 @@
 {
-    "TITLE": "票务管理",
+    "TITLE": "工单管理",
     "FILTER_BY_STATE": "按状态筛选",
     "FILTER_BY_ASSIGNEE": "按受让人筛选",
     "ALL_STATES": "全部",
@@ -8,8 +8,8 @@
     "CUSTOMER": "顾客",
     "ASSIGNED_TO": "分配给",
     "ASSIGN_TO": "分配给",
-    "NO_TICKETS": "未找到票。",
+    "NO_TICKETS": "未找到工单。",
     "RESPONSE_TIME": "平均响应时间",
-    "ERROR_LOAD_FAILED": "门票加载失败。",
+    "ERROR_LOAD_FAILED": "工单加载失败，请重试。",
     "ERROR_ASSIGN_FAILED": "分配工单失败。"
 }

@@ -8,7 +8,7 @@
     "TEXT_INVOICE_SEND_DATE": "Fatura <%= invoiceSendDate %> tarihinde gönderilecektir.",
     "HEADING_SERVICE_LIMITS": "Hizmet Sınırları",
     "TEXT_TRIAL_LIMITS_NOTE": "<b>Dikkat!</b> Deneme sürümünde olduğunuz için hesabınıza daha düşük limitler uygulanmıştır. Bu limitleri yükseltmek için <a href=\"/auth/my-account/billing-info\">ücretli hesaba geçin</a> veya <a href=\"/auth/my-account/help\">destek ekibiyle iletişime geçin</a> .",
-    "LABEL_CURRENT": "Akım:",
+    "LABEL_CURRENT": "Mevcut:",
     "LABEL_MAX": "Max:",
     "TEXT_MAX_NONE": "Hiçbiri",
     "TABLE_HEADER_COST": "Maliyet"

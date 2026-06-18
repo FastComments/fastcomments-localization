@@ -1,7 +1,7 @@
 {
     "BANNER_TEXT": "Обнаружены ошибки API FastComments.",
     "GREETING": "Привет,",
-    "FROM_NAME": "FastComments API Robot",
+    "FROM_NAME": "Робот API FastComments",
     "SUBJECT": "Обнаружены ошибки API FastComments.",
     "ERROR_SINGULAR": "ошибка",
     "ERROR_PLURAL": "ошибки",
@@ -9,6 +9,6 @@
     "TENANT_NOTE": "Речь идёт об арендаторе с идентификатором \"<%= tenantId %>\".",
     "DETECTION": "Мы обнаружили API <%= errorCountFormatted %> <%= errorWord %> для вашей учетной записи в день <%= errorDate %>.",
     "SIGN_OFF": "Искренне,",
-    "OPT_OUT": "Вы можете отказаться от получения этих уведомлений <a href=\"<%= notificationSettingsUrl %>\">здесь</a> .",
+    "OPT_OUT": "Вы можете отказаться от получения этих уведомлений <a href=\"<%= notificationSettingsUrl %>\">здесь</a>.",
     "TEAM_NAME": "Команда разработчиков FastComments"
 }

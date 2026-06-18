@@ -1,7 +1,7 @@
 {
     "PAGE_TITLE": "ドメインの削除 - FastComments",
     "HEADING_REMOVING_DOMAIN": "<%= domainName %>の削除",
-    "HEADING_REMOVE_DOMAIN": "取り除く <%= domainName %>",
+    "HEADING_REMOVE_DOMAIN": "<%= domainName %>を削除",
     "TEXT_REMOVE_CONFIRM": "<b><%= domainName %></b>を削除しようとしています。この操作によってデータは削除されず、復元可能ですが、このドメイン上の既存のウィジェットは読み込まれなくなります。続行しますか？",
     "BUTTON_CANCEL": "キャンセル",
     "BUTTON_REMOVE_DOMAIN": "ドメインを削除"

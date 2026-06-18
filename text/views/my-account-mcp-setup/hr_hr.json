@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Postavljanje MCP poslužitelja - Brzi komentari",
+    "PAGE_TITLE": "Postavljanje MCP poslužitelja - FastComments",
     "WHAT_IS_MCP_HEADING": "Što je MCP?",
     "HEADING": "Postavljanje MCP poslužitelja",
     "CHOOSE_KEY_LABEL": "API ključ",
@@ -17,9 +17,9 @@
     "ENDPOINT_HEADING": "URL krajnje točke",
     "ENDPOINT_HELP": "Koristite ovaj URL bilo gdje gdje MCP klijent prihvaća HTTP krajnju točku za strujanje.",
     "CLAUDE_CODE_HELP": "Pokrenite ovo iz terminala na kojem je instaliran Claude Code CLI.",
-    "CLAUDE_DESKTOP_HEADING": "Claude Desktop / Kursor",
+    "CLAUDE_DESKTOP_HEADING": "Claude Desktop / Cursor",
     "COPIED_LABEL": "Kopirano",
-    "COPY_BUTTON": "Kopirati",
+    "COPY_BUTTON": "Kopiraj",
     "REVEAL_OVERLAY": "Kliknite za otkrivanje",
     "CLAUDE_DESKTOP_HELP": "Dodajte ovaj blok u konfiguraciju MCP servera vašeg klijenta (claude_desktop_config.json ili Cursorov mcp.json).",
     "DOCS_LINK_SUFFIX": "za potpuni pregled MCP integracije.",

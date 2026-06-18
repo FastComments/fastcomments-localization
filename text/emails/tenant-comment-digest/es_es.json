@@ -13,7 +13,7 @@
     "RECENT_COMMENTS": "Comentarios Recientes",
     "NO_COMMENTS": "¡Nada que mostrar aquí!",
     "VIEW_MORE_COMMENTS": "Moderar <%= abbreviateNumber(commentCount - comments.length, 0, locale) %> comentarios más",
-    "FROM_NAME": "FastComments Robot",
+    "FROM_NAME": "Robot FastComments",
     "APPROVE": "Aprobar",
     "APPROVE_AND_RESPOND": "Aprobar y responder",
     "AUDIENCE_METRICS": "Métricas de audiencia",

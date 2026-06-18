@@ -1,9 +1,9 @@
 {
     "LABEL_DOMAIN_NAME": "Alan Adı",
-    "BUTTON_CANCEL": "İptal etmek",
-    "BUTTON_SAVE": "Kaydetmek",
-    "PAGE_TITLE": "Alan Adını Düzenle - Hızlı Yorumlar",
-    "HEADING_EDITING_DOMAIN": "Düzenleme <%= domainName %>",
+    "BUTTON_CANCEL": "İptal",
+    "BUTTON_SAVE": "Kaydet",
+    "PAGE_TITLE": "Alan Adını Düzenle - FastComments",
+    "HEADING_EDITING_DOMAIN": "<%= domainName %> düzenleniyor",
     "HEADING_EDIT_DOMAIN": "Alan adını düzenle",
     "PLACEHOLDER_DOMAIN_NAME": "fastcomments.com gibi üst düzey bir alan adı girin.",
     "LABEL_MIGRATE_COMMENTS": "Yorumlar (<%= migrationCounts.comments %>)",

@@ -4,5 +4,5 @@
     "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "Sind Sie sicher, dass Sie dieses <%= integration.readableType %> Integrationstoken löschen möchten?",
     "CONFIRM_DELETE_MESSAGE_DOMAIN": "Sind Sie sicher, dass Sie dieses <%= integration.readableType %> Integrationstoken für <%= integration.domain %> löschen möchten?",
     "DELETE_BUTTON": "Löschen",
-    "CANCEL_LINK": "Stornieren"
+    "CANCEL_LINK": "Abbrechen"
 }

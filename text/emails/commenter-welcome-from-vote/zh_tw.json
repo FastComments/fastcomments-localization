@@ -1,10 +1,10 @@
 {
     "SUBJECT": "歡迎使用 FastComments <%= commenterName %>！",
-    "BANNER_TEXT": "歡迎來到快評",
+    "BANNER_TEXT": "歡迎使用 FastComments",
     "INTRO": "嘿 <%= commenterName %>，",
-    "LOOKS_LIKE_YOU_VOTED_HERE": "看起來您對<a href=\"<%= url %>\">此處</a>的帖子進行了投票。",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "看起來您對<a href=\"<%= url %>\">此處</a>的貼文進行了投票。",
     "VERIFY_YOUR_ACCOUNT": "驗證您的帳戶",
-    "CREATE_NEW_LOGIN_LINKS_HERE": "您可以<a href=\"<%= FC_DOMAIN %>/auth/login/\">在此處</a>創建新鏈接以登錄您的帳戶。",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "您可以<a href=\"<%= FC_DOMAIN %>/auth/login/\">在此處</a>建立新連結以登入您的帳戶。",
     "WASNT_YOU_IGNORE_EMAIL": "如果這不是您本人所為，請忽略此電子郵件。",
     "THANKS_SO_MUCH": "非常感謝！",
     "UNSUBSCRIBE_HERE": "退訂"

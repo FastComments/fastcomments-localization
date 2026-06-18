@@ -1,7 +1,7 @@
 {
     "PAGE_TITLE": "Зарегистрироваться",
-    "HERO_TITLE_LIGHT": "Присоединяйтесь ",
-    "HERO_TITLE_BOLD": "Обсуждение",
+    "HERO_TITLE_LIGHT": "Присоединяйтесь к ",
+    "HERO_TITLE_BOLD": "обсуждению",
     "HERO_DESCRIPTION": "Хотите оставить комментарий на сайте, использующем FastComments? Вы попали по адресу.",
     "HERO_ADDITIONAL_TEXT": "Если вы хотите добавить FastComments на свой сайт, вам следует зарегистрироваться <a href=\"/auth/tenant-signup?email=<%= email %>\">здесь.</a>",
     "FORM_DESCRIPTION": "Для регистрации вам потребуется только имя пользователя и адрес электронной почты.",

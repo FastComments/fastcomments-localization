@@ -13,7 +13,7 @@
     "LABEL_DISPLAY_NAME": "显示名称",
     "PLACEHOLDER_DISPLAY_NAME": "输入用于标识此模板的自定义名称。",
     "TEXT_DISPLAY_NAME_NOTE": "管理员可以通过以下名称引用此模板。",
-    "LABEL_DOMAIN": "领域",
+    "LABEL_DOMAIN": "域名",
     "OPTION_ALL_DOMAINS": "全部",
     "TEXT_DOMAIN_NOTE_CAN_BE_SPECIFIC": "该模板仅在此域的上下文中使用。否则，将选择其他模板或默认模板。",
     "TEXT_DOMAIN_NOTE_CANNOT_BE_SPECIFIC": "此模板可以同时用于多个域（例如，同一封电子邮件通知中的多条评论），也可以完全不涉及任何域。<span class=\"red\">因此，此模板不能是特定于某个域的。</span>",
@@ -22,5 +22,5 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "根据地区进行自定义",
     "TEXT_TEST_DATA_INFO": "您可以在此处定义预览中使用的自定义测试数据。它将与模板一起保存。",
     "BUTTON_RESET_TEST_DATA": "重置",
-    "BUTTON_SAVE": "节省"
+    "BUTTON_SAVE": "保存"
 }

@@ -1,7 +1,7 @@
 {
-    "INTRO": "おい <%= user.username %>",
+    "INTRO": "<%= user.username %> さん、",
     "BANNER_TEXT": "FastComments請求",
-    "FROM_NAME": "FastCommentsトライアルロボット",
+    "FROM_NAME": "FastComments トライアルロボット",
     "SUBJECT": "FastComments請求の問題",
     "FRIENDLY_REMINDER": "これは、FastComments の無料トライアルが<i>期限切れ</i>になったか、アカウントに請求の問題があることをお知らせするものです。",
     "THANKS_FOR_CHOOSING_FC": "<a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a>をお選びいただきありがとうございます。",

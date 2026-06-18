@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Izbriši <%= template.displayName %> - HitriKomentarji",
+    "PAGE_TITLE": "Izbriši <%= template.displayName %> - FastComments",
     "HEADING_DELETE_TEMPLATE": "Izbrisati \"<%= template.displayName %>\"?",
     "TEXT_CONFIRM_DELETE": "Ali ste prepričani, da želite izbrisati predlogo <%= template.displayName %>, ustvarjeno dne <%= template.createdAt.toLocaleString() %>?",
     "BUTTON_DELETE": "Izbriši",

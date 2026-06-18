@@ -1,6 +1,6 @@
 {
     "INTRO": "Zdravo <%= username %>,",
-    "FROM_NAME": "FastComments Robot",
+    "FROM_NAME": "FastComments robot",
     "SUBJECT": "Vaš FastComments nalog će uskoro biti deaktiviran!",
     "DETAILS_LINE_ONE": "Ovo je automatizovana e-pošta. Vidimo da već neko vreme imate neizmirene fakture i nismo uspeli da stupimo u kontakt sa vama.",
     "DETAILS_LINE_TWO": "Vaš nalog će biti deaktiviran dana <%= readableDeactivationDate %>. <a href=\"<%= billingPageURL %>\">Ovde možete ažurirati podatke o naplati.</a>"

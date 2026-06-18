@@ -1,6 +1,6 @@
 {
-    "TITLE": "Günlükleri İçe Aktar - FastComments",
-    "HEADING": "İş Kayıtları <%= job._id %>",
+    "TITLE": "İçe Aktarma Günlükleri - FastComments",
+    "HEADING": "<%= job._id %> İşinin Günlükleri",
     "JOB_LOGS_HEADING": "İş Günlükleri",
     "TABLE_LOG": "Kayıt",
     "TABLE_DATE": "Tarih",

@@ -1,11 +1,11 @@
 {
     "PAGE_TITLE": "Настройки сайта - FastComments",
     "HEADING_EDIT_SITE": "Редактировать сайт",
-    "NAV_BUILDER": "Строитель",
+    "NAV_BUILDER": "Конструктор",
     "NAV_COLLECTIONS": "Коллекции",
     "NAV_SETTINGS": "Настройки",
     "NAV_MEMBERSHIPS": "Членство",
-    "NAV_MEMBERS": "Члены",
+    "NAV_MEMBERS": "Участники",
     "LABEL_NAME": "Внутреннее имя",
     "LABEL_PUBLIC_TITLE": "Публичное название",
     "LABEL_DESCRIPTION": "Описание",
@@ -19,9 +19,9 @@
     "LABEL_FONT_FAMILY": "Семейство шрифтов",
     "LABEL_HEADER_FONT_FAMILY": "Семейство шрифтов заголовка",
     "LABEL_CUSTOM_CSS": "Пользовательский CSS",
-    "HEADING_DEFAULT_MEMBERSHIP_GATE": "Стандартные ворота членства",
-    "LABEL_DEFAULT_MEMBERSHIPS": "Для доступа к этому сайту требуется регистрация.",
-    "BUTTON_SAVE": "Сохранять",
+    "HEADING_DEFAULT_MEMBERSHIP_GATE": "Доступ по членству по умолчанию",
+    "LABEL_DEFAULT_MEMBERSHIPS": "Требовать членство для доступа к этому сайту",
+    "BUTTON_SAVE": "Сохранить",
     "HEADING_SETTINGS": "Настройки",
     "LABEL_THEME": "Стиль темы",
     "LINK_MANAGE_THEME": "Управление темами",
@@ -33,7 +33,7 @@
     "LABEL_ROBOTS_TXT_HELP": "Этот параметр определяет, как поисковые системы индексируют ваш сайт. Оставьте поле пустым для значения по умолчанию (разрешить индексацию всем).",
     "HEADING_THEME_SETTINGS": "Настройки темы",
     "LABEL_SHOW_HEADER_AUTH_LINKS": "Отобразить ссылки для входа и регистрации в заголовке",
-    "TAB_GENERAL": "Общий",
+    "TAB_GENERAL": "Общие",
     "TAB_THEME": "Тема",
-    "TAB_ADVANCED": "Передовой"
+    "TAB_ADVANCED": "Дополнительно"
 }

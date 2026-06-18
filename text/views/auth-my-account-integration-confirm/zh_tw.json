@@ -3,7 +3,7 @@
     "PAGE_HEADING": "連接您的整合。",
     "PAGE_SUBHEADING": "確認",
     "NOSCRIPT_MESSAGE": "請啟用 JavaScript 以設定整合。",
-    "UPLOAD_DESCRIPTION": "如果需要，我們可以在同步過程中自動從您的<%= integrationName %>安裝上傳您的評論。否則，請取消選取下面的複選框，您可以稍後自行操作。",
+    "UPLOAD_DESCRIPTION": "如果需要，我們可以在同步過程中自動從您的<%= integrationName %>安裝上傳您的評論。否則，請取消勾選下方的核取方塊，您可以稍後自行操作。",
     "CHECKBOX_UPLOAD_COMMENTS": "自動上傳我的評論。",
     "CHECKBOX_UPLOAD_COMMENTS_HELP": "您稍後可以從外掛程式管理頁面上傳您的評論。",
     "CHECKBOX_SYNC_DATABASE": "自動保持我的<%= integrationName %>資料庫同步。",

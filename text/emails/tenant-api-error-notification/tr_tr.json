@@ -1,11 +1,11 @@
 {
-    "FROM_NAME": "FastComments API Robot",
+    "FROM_NAME": "FastComments API Robotu",
     "BANNER_TEXT": "FastComments API Hataları Tespit Edildi",
     "GREETING": "Merhaba,",
     "ERROR_PLURAL": "hatalar",
     "ERROR_SINGULAR": "hata",
     "SUBJECT": "FastComments API Hataları Tespit Edildi",
-    "DETECTION": "Hesabınız için <%= errorCountFormatted %> tarihinde <%= errorWord %> API <%= errorDate %> tespit ettik.",
+    "DETECTION": "<%= errorDate %> günü hesabınız için <%= errorCountFormatted %> API <%= errorWord %> tespit ettik.",
     "SIGN_OFF": "Samimi olarak,",
     "TENANT_NOTE": "Bu, \"<%= tenantId %>\" kimlik numaralı kiracı ile ilgilidir.",
     "TEAM_NAME": "FastComments Mühendislik Ekibi",

@@ -4,11 +4,11 @@
     "INTRO": "השתמשו ברישום דינמי כדי להוסיף FastComments למערכת הלמידה שלכם בשלב אחד. צרו כתובת URL למטה, ולאחר מכן הדבקו אותה במסך הרישום ל-LTI 1.3 של מערכת הלמידה שלכם.",
     "PLATFORM_OPTION_AUTO": "זיהוי אוטומטי",
     "GENERATE_HEADING": "צור כתובת URL דינמית לרישום",
-    "PLATFORM_OPTION_MOODLE": "מוודל",
-    "PLATFORM_OPTION_D2L": "D2L ברייטספייס",
+    "PLATFORM_OPTION_MOODLE": "Moodle",
+    "PLATFORM_OPTION_D2L": "D2L Brightspace",
     "PLATFORM_TYPE_LABEL": "פלטפורמה (אופציונלי)",
-    "PLATFORM_OPTION_SCHOOLOGY": "סקולולוגיה",
-    "PLATFORM_OPTION_SAKAI": "סאקאי",
+    "PLATFORM_OPTION_SCHOOLOGY": "Schoology",
+    "PLATFORM_OPTION_SAKAI": "Sakai",
     "PLATFORM_OPTION_BLACKBOARD": "Blackboard Learn",
     "GENERATED_URL_HEADING": "כתובת האתר שלך לרישום",
     "PLATFORM_OPTION_GENERIC": "פלטפורמת LTI 1.3 אחרת",
@@ -22,6 +22,6 @@
     "NO_CONFIGS": "אין עדיין הגדרות LTI. צור כתובת URL לרישום למעלה כדי להוסיף אחת.",
     "TABLE_HEADER_STATUS": "סטָטוּס",
     "STATUS_ENABLED": "מופעל",
-    "STATUS_DISABLED": "נָכֶה",
-    "DELETE_BUTTON": "לִמְחוֹק"
+    "STATUS_DISABLED": "מושבת",
+    "DELETE_BUTTON": "מחיקה"
 }

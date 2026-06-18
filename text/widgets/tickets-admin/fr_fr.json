@@ -1,5 +1,5 @@
 {
-    "TITLE": "Gestion des billets",
+    "TITLE": "Gestion des tickets",
     "FILTER_BY_STATE": "Filtrer par statut",
     "ASSIGN_TO": "Attribuer à",
     "ALL_STATES": "Tous",
@@ -8,8 +8,8 @@
     "FILTER_BY_ASSIGNEE": "Filtrer par responsable",
     "CUSTOMER": "Client",
     "ASSIGNED_TO": "Affecté à",
-    "NO_TICKETS": "Aucun billet trouvé.",
-    "ERROR_ASSIGN_FAILED": "Impossible d'attribuer le billet.",
+    "NO_TICKETS": "Aucun ticket trouvé.",
+    "ERROR_ASSIGN_FAILED": "Impossible d'attribuer le ticket.",
     "RESPONSE_TIME": "Temps de réponse moyen",
-    "ERROR_LOAD_FAILED": "Impossible de charger les billets."
+    "ERROR_LOAD_FAILED": "Impossible de charger les tickets."
 }
