@@ -21,7 +21,7 @@
     "ADV_FEATURE_3": "移行サポート",
     "ADV_FEATURE_4": "APIアクセスとサポート",
     "ADV_FEATURE_5": "SSOアクセスとサポート",
-    "ADV_FEATURE_6": "ブランド表示の削除",
+    "ADV_FEATURE_6": "ホワイトラベリング",
     "PROPERTY_MAX_DOMAINS": "サイト",
     "PROPERTY_MAX_MONTHLY_PAGE_LOADS": "月間ページ読み込み制限",
     "PROPERTY_MAX_MONTHLY_COMMENTS": "月間コメント保存数",
@@ -42,5 +42,6 @@
     "FLEX_PROPERTY_DOMAINS": "ドメイン",
     "FLEX_PROPERTY_CHATGPT": "AIトークン",
     "FLEX_PROPERTY_SSO_ADMINS": "SSO管理者",
-    "FLEX_PROPERTY_SSO_MODERATORS": "SSO モデレーター"
+    "FLEX_PROPERTY_SSO_MODERATORS": "SSO モデレーター",
+    "ADV_FEATURE_7": "ブランド表示の削除"
 }

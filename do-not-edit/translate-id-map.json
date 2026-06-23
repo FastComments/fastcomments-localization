@@ -87,7 +87,7 @@
         "tenant-traffic-tile": 6,
         "tenant-users-online-tile": 7,
         "undo-toast": 4,
-        "packages": 74,
+        "packages": 75,
         "amptest": 2,
         "auth-login-link-failure": 5,
         "auth-my-account-integration-confirm": 10,
@@ -267,7 +267,7 @@
         "notification-opt-out-comment-success": 5,
         "pending-tenant-signup-success": 6,
         "pricing-calculator-tier": 7,
-        "pricing-v2": 38,
+        "pricing-v2": 40,
         "privacy-policy": 113,
         "product-demo-collab-chat": 27,
         "product-demo-image-chat": 7,
@@ -2024,7 +2024,8 @@
         "t71": "SHOPIFY_BUSINESS_FEATURE_4",
         "t72": "SHOPIFY_BUSINESS_FEATURE_5",
         "t73": "SHOPIFY_BUSINESS_FEATURE_6",
-        "t74": "SHOPIFY_BUSINESS_FEATURE_7"
+        "t74": "SHOPIFY_BUSINESS_FEATURE_7",
+        "t75": "ADV_FEATURE_7"
     },
     "amptest": {
         "t1": "PAGE_TITLE",
@@ -5933,7 +5934,9 @@
         "t35": "LETS_TALK_DESCRIPTION_4",
         "t36": "LETS_TALK_BUTTON",
         "t37": "LETS_TALK_ARIA",
-        "t38": "LETS_TALK_FOOTER"
+        "t38": "LETS_TALK_FOOTER",
+        "t39": "LETS_TALK_STATUS_ONLINE",
+        "t40": "LETS_TALK_STATUS_OFFLINE"
     },
     "privacy-policy": {
         "t1": "PAGE_TITLE",
