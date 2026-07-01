@@ -79,7 +79,6 @@
     "STATUS_OPTION_ENABLED_HINT": "Agent poduzima stvarne radnje na temelju komentara i korisnika.",
     "STATUS_OPTION_DRY_RUN_HINT": "Agent se pokreće i bilježi što bi učinio, ali ne poduzima nikakvu stvarnu akciju. Koristite ovo za podešavanje upita prije objavljivanja.",
     "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Brži",
-    "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Pametniji, malo sporiji",
     "MODEL_HINT": "Odaberite model koji ovaj agent treba koristiti.",
     "MODEL_LABEL": "LLM model",
     "BUDGET_HEADING": "Proračun",

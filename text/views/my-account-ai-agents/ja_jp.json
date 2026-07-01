@@ -81,7 +81,6 @@
     "DAILY_BUDGET_LABEL": "日々の予算",
     "MODEL_HINT": "このエージェントが使用すべきモデルを選択してください。",
     "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - より高速",
-    "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - より賢く、少し低速",
     "STATUS_OPTION_ENABLED_HINT": "エージェントはコメントやユーザーに対して実際に行動を起こします。",
     "MODEL_LABEL": "LLMモデル",
     "BUDGET_HINT": "このエージェントが派遣を停止するまでに使用できる上限額です。アカウントの通貨で表示されます。",

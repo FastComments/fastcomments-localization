@@ -51,8 +51,6 @@
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "이 옵션을 선택하면 설정이 모든 하위 테넌트에 복사됩니다.",
     "SAVE_BUTTON": "저장",
     "LLM_MODEL_LABEL": "LLM 모델",
-    "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
-    "LLM_MODEL_DEEPINFRA": "딥인프라 gpt-oss-120b-터보",
     "LLM_CONTEXT_LABEL": "추가 LLM 관련 정보 (선택 사항)",
     "LLM_CONTEXT_DESCRIPTION": "LLM이 사이트의 스팸 감지 여부를 더 정확하게 판단할 수 있도록 추가적인 맥락 정보를 제공해 주세요.",
     "LLM_CONTEXT_PLACEHOLDER": "예: '저희는 게임 포럼이며, 폭력에 대한 언급은 주로 게임 내 토론에서 이루어집니다.'",

@@ -79,7 +79,6 @@
     "BUDGET_HEADING": "Begroting",
     "STATUS_OPTION_ENABLED_HINT": "De agent onderneemt daadwerkelijk actie naar aanleiding van opmerkingen en gebruikers.",
     "STATUS_OPTION_DRY_RUN_HINT": "De agent wordt uitgevoerd en registreert wat hij zou doen, maar onderneemt geen daadwerkelijke actie. Gebruik dit om de prompt aan te passen voordat u live gaat.",
-    "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Slimmer, maar iets trager",
     "MODEL_LABEL": "LLM-model",
     "MODEL_HINT": "Kies het model dat deze agent moet gebruiken.",
     "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Sneller",

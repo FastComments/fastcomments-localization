@@ -50,8 +50,6 @@
     "COPY_TO_SUB_TENANTS_LABEL": "Копія для суборендарів",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Якщо поставити цей прапорець, налаштування буде скопійовано для всіх суборендарів.",
     "SAVE_BUTTON": "Зберегти",
-    "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
-    "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo",
     "LLM_MODEL_LABEL": "Модель LLM",
     "LLM_CONTEXT_LABEL": "Додатковий контекст LLM (необов'язково)",
     "LLM_CONTEXT_DESCRIPTION": "Надайте додатковий контекст, щоб допомогти LLM приймати кращі рішення щодо виявлення спаму на вашому сайті.",

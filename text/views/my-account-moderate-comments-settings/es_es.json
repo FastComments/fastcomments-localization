@@ -51,8 +51,6 @@
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Al marcar esta opción se copiará la configuración a todos los sub-tenants.",
     "SAVE_BUTTON": "Guardar",
     "LLM_MODEL_LABEL": "Modelo LLM",
-    "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo",
-    "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
     "LLM_CONTEXT_LABEL": "Contexto adicional para el LLM (opcional)",
     "LLM_CONTEXT_CHAR_COUNT": "/1000 caracteres",
     "LLM_CONTEXT_PLACEHOLDER": "Por ejemplo: «Somos un foro de videojuegos; las referencias a la violencia suelen ser parte de la conversación dentro del juego».",

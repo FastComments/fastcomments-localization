@@ -93,7 +93,6 @@
     "MODEL_HEADING": "Model",
     "MODEL_LABEL": "LLM modeli",
     "MODEL_HINT": "Bu ajanın kullanması gereken modeli seçin.",
-    "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Daha akıllı, biraz daha yavaş",
     "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Daha Hızlı",
     "MAX_TOKENS_LABEL": "Tetikleyici başına maksimum jeton sayısı",
     "MAX_TOKENS_HINT": "Bir ajan çalıştırması için toplam jeton bütçesi, tüm araç döngüsü boyunca toplanır. Daha yüksek değerler, ajanın kesilmeden önce daha fazla araç çağırma sırası almasına olanak tanır; bireysel LLM yanıtları yine de ayrı ayrı sınırlandırılır. Varsayılan değer için boş bırakın ([default]).",

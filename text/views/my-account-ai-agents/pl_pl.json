@@ -82,7 +82,6 @@
     "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) – szybszy",
     "MODEL_LABEL": "Model LLM",
     "MODEL_HINT": "Wybierz model, którego powinien używać ten agent.",
-    "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) – inteligentniejszy, nieco wolniejszy",
     "MONTHLY_BUDGET_LABEL": "Miesięczny budżet",
     "BUDGET_HINT": "Ogranicza, ile ten agent może wydać, zanim przestanie działać. Wyświetlany w walucie Twojego konta.",
     "DAILY_BUDGET_HINT": "Pozostaw puste pole, aby nie było limitu dziennego. Agent wstrzyma działanie do północy UTC po jej osiągnięciu.",

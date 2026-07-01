@@ -51,8 +51,6 @@
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Označavanjem ovoga kopirat će se postavke na sve podstanare.",
     "SAVE_BUTTON": "Spremi",
     "LLM_MODEL_LABEL": "LLM model",
-    "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
-    "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo",
     "LLM_CONTEXT_LABEL": "Dodatni LLM kontekst (nije obavezno)",
     "LLM_CONTEXT_DESCRIPTION": "Navedite dodatni kontekst kako biste pomogli LLM-u da donosi bolje odluke o otkrivanju neželjene pošte na vašoj web-lokaciji.",
     "LLM_CONTEXT_PLACEHOLDER": "Npr., 'Mi smo forum za igre, reference na nasilje obično su rasprave unutar igre'",

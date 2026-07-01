@@ -54,8 +54,6 @@
     "LLM_CONTEXT_LABEL": "Yderligere LLM-kontekst (valgfrit)",
     "LLM_CONTEXT_DESCRIPTION": "Giv yderligere kontekst for at hjælpe LLM'en med at træffe bedre beslutninger om spamdetektion for dit websted.",
     "LLM_CONTEXT_PLACEHOLDER": "F.eks. \"Vi er et spilforum, referencer til vold er normalt diskussioner i spillet\"",
-    "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
-    "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo",
     "LLM_CONTEXT_CHAR_COUNT": "/1000 tegn",
     "TRY_AI_AGENTS_MESSAGE": "Prøv at bruge <a href=\"/auth/my-account/ai-agents\">AI-agenter</a> til moderering, hvilket kan give en bedre oplevelse.",
     "LLM_MODEL_GLM": "GLM 5.2 (DeepInfra)",

@@ -82,7 +82,6 @@
     "MODEL_LABEL": "LLM模型",
     "BUDGET_HEADING": "预算",
     "DAILY_BUDGET_LABEL": "每日预算",
-    "MODEL_OPTION_GLM_5_1": "GLM 5.1（DeepInfra）——更智能，但速度稍慢",
     "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo（DeepInfra）- 更快",
     "DAILY_BUDGET_HINT": "留空表示无每日上限。代理会在达到世界协调时 (UTC) 午夜后暂停运行。",
     "BUDGET_HINT": "设置此代理的消费上限，超过上限后代理将停止派单。显示金额以您的账户货币为准。",

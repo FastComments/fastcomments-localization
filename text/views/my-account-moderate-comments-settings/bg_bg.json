@@ -19,8 +19,6 @@
     "SPAM_FILTER_NAIVE_BAYES_ISOLATED": "Наивен Байес (изолиран)",
     "SPAM_FILTER_LLM": "LLM",
     "LLM_MODEL_LABEL": "LLM модел",
-    "LLM_MODEL_OPENAI": "OpenAI GPT-5.2",
-    "LLM_MODEL_DEEPINFRA": "DeepInfra gpt-oss-120b-Turbo",
     "SPAM_FILTER_DESCRIPTION_BAYES": "С Naïve Bayes можете да използвате спам филтъра, който всички останали използват, или да изолирате обучението си за спам филтър само за вашия клиент. И двете непрекъснато се учат.",
     "SPAM_FILTER_DESCRIPTION_LLM_AVAILABLE": "Изберете LLM опция за откриване на спам, задвижвано от изкуствен интелект (таксува се $<%= (tenantPackage.flexLLMCostCents * 10000 / tenantPackage.flexLLMUnit).toFixed(2) %> за 1 милион токени). Към LLM се изпраща само неочевиден спам, за да се намалят разходите.",
     "TRY_AI_AGENTS_MESSAGE": "Опитайте да използвате <a href=\"/auth/my-account/ai-agents\">AI агенти</a> за модериране, което може да осигури по-добро изживяване.",
