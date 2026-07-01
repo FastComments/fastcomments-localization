@@ -57,5 +57,7 @@
     "SPAM_PROFANITY_BLOG_LINK": "Прочетете повече за филтрирането на спам и нецензурни думи от FastComments <a href=\"https://blog.fastcomments.com/(1-28-2020)-how-to-prevent-spam-in-your-comments.html\" target=\"_blank\">тук</a> .",
     "COPY_TO_SUB_TENANTS_LABEL": "Копие до поднаемателите",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Отметването на това ще копира настройките към всички поднаематели.",
-    "SAVE_BUTTON": "Запазване"
+    "SAVE_BUTTON": "Запазване",
+    "LLM_MODEL_GPT_OSS": "gpt-oss-120b (DeepInfra)",
+    "LLM_MODEL_GLM": "GLM 5.2 (Дълбока инфраструктура)"
 }

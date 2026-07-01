@@ -57,5 +57,7 @@
     "SPAM_PROFANITY_BLOG_LINK": "Pročitajte više o filtriranju neželjene pošte i psovki FastComments <a href=\"https://blog.fastcomments.com/(1-28-2020)-how-to-prevent-spam-in-your-comments.html\" target=\"_blank\">ovde</a>.",
     "COPY_TO_SUB_TENANTS_LABEL": "Kopiraj u podzakupce",
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Provera ovoga će kopirati podešavanja svim podstanarima.",
-    "SAVE_BUTTON": "Sačuvaj"
+    "SAVE_BUTTON": "Sačuvaj",
+    "LLM_MODEL_GPT_OSS": "GPT-OSS-120b (DeepInfra)",
+    "LLM_MODEL_GLM": "GLM 5.2 (DeepInfra)"
 }

@@ -57,5 +57,7 @@
     "LLM_CONTEXT_DESCRIPTION": "LLM이 사이트의 스팸 감지 여부를 더 정확하게 판단할 수 있도록 추가적인 맥락 정보를 제공해 주세요.",
     "LLM_CONTEXT_PLACEHOLDER": "예: '저희는 게임 포럼이며, 폭력에 대한 언급은 주로 게임 내 토론에서 이루어집니다.'",
     "LLM_CONTEXT_CHAR_COUNT": "/1000자",
-    "TRY_AI_AGENTS_MESSAGE": "더 나은 사용자 경험을 제공하기 위해 <a href=\"/auth/my-account/ai-agents\">AI 에이전트를</a> 활용한 중재를 시도해 보세요."
+    "TRY_AI_AGENTS_MESSAGE": "더 나은 사용자 경험을 제공하기 위해 <a href=\"/auth/my-account/ai-agents\">AI 에이전트를</a> 활용한 중재를 시도해 보세요.",
+    "LLM_MODEL_GLM": "GLM 5.2 (DeepInfra)",
+    "LLM_MODEL_GPT_OSS": "gpt-oss-120b (딥인프라)"
 }

@@ -433,5 +433,6 @@
     "REPLAY_ERROR_BILLING_INVALID": "Fatura bilgileri geçersiz. Tekrar oynatmaları çalıştırmak için ödeme bilgilerini güncelleyin.",
     "REPLAY_ERROR_PACKAGE_NO_AGENTS": "Mevcut planınız yapay zeka ajanlarını içermez. Tekrar oynatmaları etkinleştirmek için yükseltin.",
     "REPLAY_ERROR_TENANT_NOT_FOUND": "Bu tekrar oynatmayı destekleyen site bulunamadı.",
-    "REPLAY_ERROR_UNKNOWN": "Tekrar oynatma beklenmedik şekilde başarısız oldu. Ayrıntılar aşağıda."
+    "REPLAY_ERROR_UNKNOWN": "Tekrar oynatma beklenmedik şekilde başarısız oldu. Ayrıntılar aşağıda.",
+    "MODEL_OPTION_GLM_5_2": "GLM 5.2 (DeepInfra) - Daha akıllı, biraz daha yavaş"
 }

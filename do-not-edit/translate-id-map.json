@@ -228,7 +228,7 @@
         "my-account-moderate-comments-moderator-edit": 18,
         "my-account-moderate-comments-moderator-select-tenant": 7,
         "my-account-moderate-comments-moderators": 29,
-        "my-account-moderate-comments-settings": 60,
+        "my-account-moderate-comments-settings": 62,
         "my-account-moderate-comments-settings-update-failure": 5,
         "my-account-moderate-comments-settings-update-success": 4,
         "my-account-moderate-comments-thread": 4,
@@ -382,7 +382,7 @@
         "my-account-ai-agent-templates": 26,
         "my-account-ai-agent-webhooks": 61,
         "my-account-ai-agent-webhooks-logs": 19,
-        "my-account-ai-agents": 435,
+        "my-account-ai-agents": 436,
         "block-confirm": 4,
         "feed-ui": 32,
         "agent-notification": 2,
@@ -5239,7 +5239,9 @@
         "t57": "LLM_CONTEXT_PLACEHOLDER",
         "t58": "LLM_CONTEXT_DESCRIPTION",
         "t59": "LLM_CONTEXT_CHAR_COUNT",
-        "t60": "TRY_AI_AGENTS_MESSAGE"
+        "t60": "TRY_AI_AGENTS_MESSAGE",
+        "t61": "LLM_MODEL_GPT_OSS",
+        "t62": "LLM_MODEL_GLM"
     },
     "my-account-moderate-comments-settings-update-failure": {
         "t1": "PAGE_TITLE",
@@ -9434,7 +9436,8 @@
         "t432": "ACTION_SHOW_RELATED_COMMENT",
         "t433": "ACTION_HIDE_RELATED_COMMENT",
         "t434": "TOOL_GET_PINNED_COMMENTS",
-        "t435": "TOOL_GET_LOCKED_COMMENTS"
+        "t435": "TOOL_GET_LOCKED_COMMENTS",
+        "t436": "MODEL_OPTION_GLM_5_2"
     },
     "block-confirm": {
         "t1": "BLOCK_CONFIRM_MESSAGE",
