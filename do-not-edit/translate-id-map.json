@@ -127,7 +127,7 @@
         "login-success": 9,
         "login-two-factor": 18,
         "maintenance-page": 4,
-        "marketing_common": 138,
+        "marketing_common": 139,
         "moderator-join-failure": 9,
         "moderator-join-success": 6,
         "my-account": 5,
@@ -270,7 +270,7 @@
         "pricing-v2": 40,
         "privacy-policy": 113,
         "product-demo-collab-chat": 33,
-        "product-demo-image-chat": 7,
+        "product-demo-image-chat": 13,
         "product-demo-live-chat": 18,
         "profile-comment-approve-success": 5,
         "profile-comment-reject-success": 5,
@@ -3005,7 +3005,8 @@
         "t135": "PUBLIC_FOOTER_V2_WEBFLOW",
         "t136": "SNIPPET_VIEW_LIBRARY_REACT_NATIVE",
         "t137": "SNIPPET_VIEW_LIBRARY_ANDROID",
-        "t138": "SNIPPET_VIEW_LIBRARY_IOS"
+        "t138": "SNIPPET_VIEW_LIBRARY_IOS",
+        "t139": "SNIPPET_VIEW_INSTALL_GUIDE"
     },
     "moderator-join-failure": {
         "t1": "PAGE_TITLE",
@@ -6107,7 +6108,13 @@
         "t4": "HERO_TITLE_BOLD",
         "t5": "HERO_DESCRIPTION",
         "t6": "INTRO_TEXT",
-        "t7": "IMAGE_TITLE"
+        "t7": "IMAGE_TITLE",
+        "t8": "TRY_IT_NOW_TITLE",
+        "t9": "TRY_IT_NOW_DESCRIPTION",
+        "t10": "TRY_IT_NOW_SUBHEADING",
+        "t11": "SNIPPET_SELECT_PLATFORM",
+        "t12": "SNIPPET_COPY_TITLE",
+        "t13": "SNIPPET_COPIED"
     },
     "product-demo-live-chat": {
         "t1": "PAGE_TITLE",
