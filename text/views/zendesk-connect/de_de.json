@@ -14,7 +14,6 @@
     "LABEL_HELP_CENTER_HOST": "Benutzerdefinierte Hilfecenter-Domäne (optional)",
     "PLACEHOLDER_HELP_CENTER_HOST": "help.mycompany.com",
     "SSO_MODE_OFF": "Aus (anonyme Kommentare)",
-    "SSO_MODE_OAUTH": "Zendesk OAuth (empfohlen, verifizierte Identität)",
     "SSO_MODE_CLIENT_TRUSTED": "Vom Kunden als vertrauenswürdig eingestuft (funktioniert mit jedem Tarif, ist aber angreifbar)",
     "STATUS_CONNECTED": "Verbunden",
     "SSO_CLIENT_TRUSTED_WARNING": "Der clientseitig vertrauenswürdige Modus übernimmt die Identität des Kommentators direkt vom Browser, ohne sie zu überprüfen. Daher kann sie gefälscht werden. Verwenden Sie ihn nur, wenn Sie dieses Risiko akzeptieren. Er funktioniert mit jedem Zendesk-Tarif.",

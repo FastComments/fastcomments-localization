@@ -13,7 +13,6 @@
     "PLACEHOLDER_HELP_CENTER_HOST": "help.mycompany.com",
     "HELP_SUBDOMAIN": "Часть URL-адреса Zendesk, относящаяся к поддомену. Для mycompany.zendesk.com введите \"mycompany\".",
     "HELP_HELP_CENTER_HOST": "Это необходимо только в том случае, если ваш Центр поддержки обслуживается с собственного домена, а не с адреса zendesk.com по умолчанию.",
-    "SSO_MODE_OAUTH": "Zendesk OAuth (рекомендуется использовать подтвержденную личность)",
     "SSO_MODE_OFF": "Отключено (анонимные комментарии)",
     "STATUS_CONNECTED": "Подключено",
     "BUTTON_CONNECT": "Подключить Zendesk",

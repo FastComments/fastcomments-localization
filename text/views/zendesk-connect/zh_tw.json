@@ -16,7 +16,6 @@
     "HELP_HELP_CENTER_HOST": "只有當您的幫助中心是從自訂網域名稱而不是預設的 zendesk.com 位址提供服務時才需要這樣做。",
     "BUTTON_CONNECT": "連接 Zendesk",
     "SSO_MODE_OFF": "關閉（匿名評論）",
-    "SSO_MODE_OAUTH": "Zendesk OAuth（推薦，已驗證身分）",
     "SSO_MODE_CLIENT_TRUSTED": "客戶信任（適用於任何套餐，但可偽造）",
     "STATUS_CONNECTED": "已連接",
     "SSO_CLIENT_TRUSTED_WARNING": "客戶端信任模式直接從瀏覽器獲取評論者的身份信息，而不進行驗證，因此容易被偽造。僅在您接受此風險的情況下才使用此模式。它適用於所有 Zendesk 套餐。",

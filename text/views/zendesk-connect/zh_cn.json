@@ -19,7 +19,6 @@
     "SSO_MODE_CLIENT_TRUSTED": "客户信任（适用于任何套餐，但可被伪造）",
     "STATUS_NOT_CONNECTED": "尚未连接",
     "SSO_CLIENT_TRUSTED_WARNING": "客户端信任模式直接从浏览器获取评论者的身份信息，而不进行验证，因此容易被伪造。仅在您接受此风险的情况下才使用此模式。它适用于所有 Zendesk 套餐。",
-    "SSO_MODE_OAUTH": "Zendesk OAuth（推荐，已验证身份）",
     "SSO_MODE_OFF": "关闭（匿名评论）",
     "SNIPPET_INSTRUCTIONS": "在 Zendesk Guide 中，打开“自定义设计”，然后编辑代码，并将此代码块粘贴到 templates/article_page.hbs 中，以便显示评论。",
     "SNIPPET_HEADING": "安装该小部件",
