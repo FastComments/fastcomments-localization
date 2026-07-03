@@ -12,14 +12,14 @@
     "LABEL_HELP_CENTER_HOST": "Prilagođeni domen Centra za pomoć (opcionalno)",
     "SSO_MODE_OAUTH": "Zendesk OAuth (preporučeno, verifikovani identitet)",
     "SSO_MODE_OFF": "Isključeno (anonimni komentari)",
-    "SSO_CLIENT_TRUSTED_WARNING": "Režim poverenja klijenta uzima identitet komentatora direktno iz pretraživača bez verifikacije, tako da se može lažirati. Koristite ga samo ako prihvatite taj rizik. Zendesk OAuth verifikuje korisnika sa Zendesk-om pre nego što komentariše.",
+    "SSO_CLIENT_TRUSTED_WARNING": "Režim poverenja klijenta uzima identitet komentatora direktno iz pretraživača bez verifikacije, tako da se može lažirati. Koristite ga samo ako prihvatite taj rizik. Radi na bilo kom Zendesk planu.",
     "STATUS_NOT_CONNECTED": "Još nije povezan",
     "TENANT_ID_LABEL": "Vaš FastComments ID stanara:",
     "SNIPPET_INSTRUCTIONS": "U Zendesk Guide-u otvorite Prilagodite dizajn, zatim Uredi kod i nalepite ovaj blok u templates / article_page.hbs gde želite da se komentari pojave.",
     "BUTTON_COPY_SNIPPET": "Kopiraj isečak",
     "COPY_FAILED": "Kopiranje nije uspelo, izaberite i kopirajte ručno",
     "DOCS_LINK": "Pročitajte kompletan vodič za instalaciju Zendesk-a",
-    "SSO_MODE_CLIENT_TRUSTED": "Pouzdano od klijenta (bez dodatnog prijavljivanja, lažno)",
+    "SSO_MODE_CLIENT_TRUSTED": "Klijent pouzdan (radi na bilo kom planu, ali lažan)",
     "LABEL_SSO_MODE": "Jedinstveno prijavljivanje",
     "STATUS_CONNECTED": "Povezan",
     "SNIPPET_HEADING": "Instalirajte vidžet",
@@ -27,5 +27,7 @@
     "COPY_SUCCESS": "Kopirano!",
     "HELP_HELP_CENTER_HOST": "Potrebno je samo ako se vaš centar za pomoć služi iz prilagođenog domena umesto podrazumevane zendesk.com adrese.",
     "BUTTON_UPDATE": "Ažurirajte vezu",
-    "BUTTON_CONNECT": "Povežite Zendesk"
+    "BUTTON_CONNECT": "Povežite Zendesk",
+    "SSO_MODE_HC_JWT": "Centar za pomoć JWT (preporučeno, verifikovan identitet)",
+    "SSO_HC_JWT_NOTE": "Centar za pomoć JVT verifikuje svakog komentatora sa Zendeskovim potpisanim tokenom, tako da se identiteti ne mogu lažirati. To zahteva Guide Enterprise ili Suite Enterprise plan; Na nižim planovima, komentatori se vraćaju na anoniman."
 }

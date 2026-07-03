@@ -17,9 +17,9 @@
     "BUTTON_CONNECT": "連接 Zendesk",
     "SSO_MODE_OFF": "關閉（匿名評論）",
     "SSO_MODE_OAUTH": "Zendesk OAuth（推薦，已驗證身分）",
-    "SSO_MODE_CLIENT_TRUSTED": "客戶信任（無需額外登錄，可偽造）",
+    "SSO_MODE_CLIENT_TRUSTED": "客戶信任（適用於任何套餐，但可偽造）",
     "STATUS_CONNECTED": "已連接",
-    "SSO_CLIENT_TRUSTED_WARNING": "客戶端信任模式直接從瀏覽器獲取評論者的身份信息，而不進行驗證，因此容易被偽造。僅在您接受此風險的情況下才使用此模式。 Zendesk OAuth 會在用戶發表評論前透過 Zendesk 驗證其身分。",
+    "SSO_CLIENT_TRUSTED_WARNING": "客戶端信任模式直接從瀏覽器獲取評論者的身份信息，而不進行驗證，因此容易被偽造。僅在您接受此風險的情況下才使用此模式。它適用於所有 Zendesk 套餐。",
     "STATUS_NOT_CONNECTED": "尚未連接",
     "BUTTON_COPY_SNIPPET": "複製程式碼片段",
     "SNIPPET_HEADING": "安裝該小部件",
@@ -27,5 +27,7 @@
     "DOCS_LINK": "閱讀完整的 Zendesk 安裝指南",
     "COPY_SUCCESS": "已複製！",
     "SNIPPET_INSTRUCTIONS": "在 Zendesk Guide 中，開啟“自訂設計”，然後編輯程式碼，並將此程式碼區塊貼到 templates/article_page.hbs 中，以便顯示評論。",
-    "COPY_FAILED": "複製失敗，請手動選擇並複製。"
+    "COPY_FAILED": "複製失敗，請手動選擇並複製。",
+    "SSO_MODE_HC_JWT": "幫助中心 JWT（推薦，已驗證身分）",
+    "SSO_HC_JWT_NOTE": "幫助中心 JWT 使用 Zendesk 自有的簽名令牌來驗證每位評論者的身份，因此身份無法被偽造。此功能需要 Guide Enterprise 或 Suite Enterprise 套餐；在較低層級的套餐中，評論者將以匿名身分進行評論。"
 }

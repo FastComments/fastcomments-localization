@@ -13,12 +13,12 @@
     "PLACEHOLDER_HELP_CENTER_HOST": "help.mycompany.com",
     "LABEL_HELP_CENTER_HOST": "カスタムヘルプセンタードメイン（オプション）",
     "HELP_HELP_CENTER_HOST": "ヘルプセンターがデフォルトのzendesk.comアドレスではなく、カスタムドメインから提供されている場合にのみ必要です。",
-    "SSO_MODE_CLIENT_TRUSTED": "クライアント信頼済み（追加のサインイン不要、なりすまし可能）",
+    "SSO_MODE_CLIENT_TRUSTED": "クライアント信頼済み（どのプランでも動作しますが、なりすまし可能です）",
     "SSO_MODE_OFF": "オフ（匿名コメント）",
     "SSO_MODE_OAUTH": "Zendesk OAuth（推奨、本人確認済み）",
     "BUTTON_CONNECT": "Zendeskに接続する",
     "BUTTON_UPDATE": "接続を更新",
-    "SSO_CLIENT_TRUSTED_WARNING": "クライアント信頼モードでは、コメント投稿者のIDを検証せずにブラウザから直接取得するため、なりすましの可能性があります。このリスクを許容できる場合にのみ使用してください。Zendesk OAuthは、コメント投稿前にZendeskでユーザーを認証します。",
+    "SSO_CLIENT_TRUSTED_WARNING": "クライアント信頼モードでは、コメント投稿者のIDを検証せずにブラウザから直接取得するため、なりすましが発生する可能性があります。このリスクを許容できる場合のみ使用してください。この機能は、すべてのZendeskプランで利用可能です。",
     "STATUS_CONNECTED": "接続済み",
     "STATUS_NOT_CONNECTED": "まだ接続されていません",
     "SNIPPET_HEADING": "ウィジェットをインストール",
@@ -27,5 +27,7 @@
     "TENANT_ID_LABEL": "FastCommentsテナントID：",
     "BUTTON_COPY_SNIPPET": "抜粋をコピー",
     "COPY_FAILED": "コピーに失敗しました。手動で選択してコピーしてください。",
-    "SNIPPET_INSTRUCTIONS": "Zendesk Guideで、「デザインのカスタマイズ」を開き、「コードの編集」を選択して、コメントを表示させたいtemplates/article_page.hbsにこのコードを貼り付けます。"
+    "SNIPPET_INSTRUCTIONS": "Zendesk Guideで、「デザインのカスタマイズ」を開き、「コードの編集」を選択して、コメントを表示させたいtemplates/article_page.hbsにこのコードを貼り付けます。",
+    "SSO_MODE_HC_JWT": "ヘルプセンター JWT（推奨、本人確認済み）",
+    "SSO_HC_JWT_NOTE": "ヘルプセンターのJWTは、Zendesk独自の署名付きトークンを使用して各コメント投稿者を認証するため、なりすましはできません。この機能を利用するには、Guide EnterpriseまたはSuite Enterpriseプランが必要です。それ以下のプランでは、コメント投稿者は匿名で投稿することになります。"
 }

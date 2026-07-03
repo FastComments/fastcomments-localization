@@ -17,15 +17,17 @@
     "SSO_MODE_OAUTH": "Autenticación OAuth de Zendesk (recomendada, identidad verificada)",
     "SNIPPET_HEADING": "Instala el widget",
     "STATUS_CONNECTED": "Conectado",
-    "SSO_MODE_CLIENT_TRUSTED": "Confianza del cliente (sin inicio de sesión adicional, susceptible de suplantación)",
+    "SSO_MODE_CLIENT_TRUSTED": "Confiable para el cliente (funciona en cualquier plan, pero es susceptible de ser falsificado).",
     "BUTTON_UPDATE": "Actualizar conexión",
     "STATUS_NOT_CONNECTED": "Aún no está conectado",
     "BUTTON_CONNECT": "Conectar Zendesk",
-    "SSO_CLIENT_TRUSTED_WARNING": "El modo de confianza del cliente obtiene la identidad del comentarista directamente del navegador sin verificarla, por lo que puede ser suplantada. Úselo solo si acepta ese riesgo. Zendesk OAuth verifica al usuario con Zendesk antes de comentar.",
+    "SSO_CLIENT_TRUSTED_WARNING": "El modo de confianza del cliente obtiene la identidad del comentarista directamente del navegador sin verificarla, por lo que puede ser falsificada. Úselo solo si acepta ese riesgo. Funciona con cualquier plan de Zendesk.",
     "BUTTON_COPY_SNIPPET": "Copiar fragmento",
     "COPY_SUCCESS": "¡Copiado!",
     "DOCS_LINK": "Lea la guía de instalación completa de Zendesk.",
     "COPY_FAILED": "Error al copiar, seleccione y copie manualmente.",
     "TENANT_ID_LABEL": "Su ID de inquilino de FastComments:",
-    "SNIPPET_INSTRUCTIONS": "En Zendesk Guide, abre Personalizar diseño, luego Editar código y pega este bloque en templates/article_page.hbs donde quieras que aparezcan los comentarios."
+    "SNIPPET_INSTRUCTIONS": "En Zendesk Guide, abre Personalizar diseño, luego Editar código y pega este bloque en templates/article_page.hbs donde quieras que aparezcan los comentarios.",
+    "SSO_MODE_HC_JWT": "Centro de ayuda JWT (recomendado, identidad verificada)",
+    "SSO_HC_JWT_NOTE": "El Centro de ayuda JWT verifica a cada comentarista con el token firmado de Zendesk, por lo que no se pueden suplantar identidades. Requiere un plan Guide Enterprise o Suite Enterprise; en planes inferiores, los comentaristas permanecen anónimos."
 }

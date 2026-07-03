@@ -12,10 +12,10 @@
     "HELP_HELP_CENTER_HOST": "Kun nødvendigt, hvis dit hjælpecenter betjenes fra et brugerdefineret domæne i stedet for standardadressen zendesk.com.",
     "LABEL_SSO_MODE": "Enkelt login",
     "SSO_MODE_OAUTH": "Zendesk OAuth (anbefalet, verificeret identitet)",
-    "SSO_MODE_CLIENT_TRUSTED": "Klientbetroet (ingen ekstra login, kan forfalskes)",
+    "SSO_MODE_CLIENT_TRUSTED": "Klientbetroet (fungerer på alle planer, men kan forfalskes)",
     "PLACEHOLDER_HELP_CENTER_HOST": "hjælp.mitfirma.com",
     "LABEL_HELP_CENTER_HOST": "Brugerdefineret Hjælpecenter-domæne (valgfrit)",
-    "SSO_CLIENT_TRUSTED_WARNING": "Klientbetroet tilstand henter kommentatorens identitet direkte fra browseren uden at verificere den, så den kan forfalskes. Brug den kun, hvis du accepterer denne risiko. Zendesk OAuth verificerer brugeren med Zendesk, før der kommenteres.",
+    "SSO_CLIENT_TRUSTED_WARNING": "Klientbetroet tilstand henter kommentatorens identitet direkte fra browseren uden at verificere den, så den kan forfalskes. Brug den kun, hvis du accepterer denne risiko. Den fungerer på alle Zendesk-abonnementer.",
     "SSO_MODE_OFF": "Fra (anonyme kommentarer)",
     "BUTTON_CONNECT": "Forbind Zendesk",
     "STATUS_CONNECTED": "Forbundet",
@@ -27,5 +27,7 @@
     "COPY_SUCCESS": "Kopieret!",
     "SNIPPET_INSTRUCTIONS": "I Zendesk Guide skal du åbne Tilpas design, derefter Rediger kode og indsætte denne blok i templates/article_page.hbs, hvor du vil have kommentarer vist.",
     "COPY_FAILED": "Kopiering mislykkedes, vælg og kopier manuelt",
-    "DOCS_LINK": "Læs den fulde Zendesk installationsvejledning"
+    "DOCS_LINK": "Læs den fulde Zendesk installationsvejledning",
+    "SSO_MODE_HC_JWT": "Hjælpecenter JWT (anbefalet, bekræftet identitet)",
+    "SSO_HC_JWT_NOTE": "Hjælpecenter JWT verificerer hver kommentator med Zendesks eget signerede token, så identiteter ikke kan forfalskes. Det kræver en Guide Enterprise- eller Suite Enterprise-plan; på lavere planer falder kommentatorer tilbage til anonymitet."
 }

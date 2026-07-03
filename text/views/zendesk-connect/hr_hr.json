@@ -16,16 +16,18 @@
     "SSO_MODE_OFF": "Isključeno (anonimni komentari)",
     "BUTTON_UPDATE": "Ažuriraj vezu",
     "BUTTON_CONNECT": "Poveži se sa Zendeskom",
-    "SSO_MODE_CLIENT_TRUSTED": "Pouzdano od strane klijenta (bez dodatne prijave, lažno)",
+    "SSO_MODE_CLIENT_TRUSTED": "Pouzdano od strane klijenta (radi na bilo kojem planu, ali se može lažirati)",
     "HELP_SUBDOMAIN": "Poddomena vašeg Zendesk URL-a. Za mycompany.zendesk.com unesite \"mycompany\".",
     "ERROR_SAVE_FAILED": "Nismo mogli spremiti vašu Zendesk vezu. Pokušajte ponovno.",
     "STATUS_NOT_CONNECTED": "Još nije povezano",
     "SNIPPET_HEADING": "Instalirajte widget",
     "SNIPPET_INSTRUCTIONS": "U Zendesk vodiču otvorite Prilagodi dizajn, zatim Uredi kod i zalijepite ovaj blok u templates/article_page.hbs gdje želite da se pojavljuju komentari.",
-    "SSO_CLIENT_TRUSTED_WARNING": "Način rada s povjerenjem klijenta preuzima identitet komentatora izravno iz preglednika bez provjere, tako da se može lažirati. Koristite ga samo ako prihvaćate taj rizik. Zendesk OAuth provjerava korisnika sa Zendeskom prije komentiranja.",
+    "SSO_CLIENT_TRUSTED_WARNING": "Način rada kojemu klijent vjeruje preuzima identitet komentatora izravno iz preglednika bez provjere, tako da se može lažirati. Koristite ga samo ako prihvaćate taj rizik. Radi na svim Zendesk planovima.",
     "COPY_SUCCESS": "Kopirano!",
     "DOCS_LINK": "Pročitajte cijeli vodič za instalaciju Zendeska",
     "TENANT_ID_LABEL": "Vaš ID stanara FastCommentsa:",
     "BUTTON_COPY_SNIPPET": "Kopiraj isječak",
-    "COPY_FAILED": "Kopiranje nije uspjelo, odaberite i kopirajte ručno"
+    "COPY_FAILED": "Kopiranje nije uspjelo, odaberite i kopirajte ručno",
+    "SSO_MODE_HC_JWT": "Centar za pomoć JWT (preporučeno, potvrđeni identitet)",
+    "SSO_HC_JWT_NOTE": "Centar za pomoć JWT provjerava svakog komentatora Zendesk-ovim vlastitim potpisanim tokenom, tako da se identiteti ne mogu lažirati. Zahtijeva plan Guide Enterprise ili Suite Enterprise; na nižim planovima, komentatori se vraćaju anonimnosti."
 }

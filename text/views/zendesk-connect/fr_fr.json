@@ -16,16 +16,18 @@
     "STATUS_NOT_CONNECTED": "Pas encore connecté",
     "STATUS_CONNECTED": "Connecté",
     "SNIPPET_HEADING": "Installez le widget",
-    "SSO_CLIENT_TRUSTED_WARNING": "Le mode « Client de confiance » récupère l'identité du commentateur directement depuis le navigateur sans la vérifier, ce qui la rend vulnérable à l'usurpation d'identité. Utilisez-le uniquement si vous acceptez ce risque. Zendesk OAuth vérifie l'utilisateur auprès de Zendesk avant la publication du commentaire.",
+    "SSO_CLIENT_TRUSTED_WARNING": "Le mode « Client de confiance » récupère l'identité du commentateur directement depuis le navigateur sans la vérifier, ce qui la rend vulnérable à l'usurpation d'identité. Utilisez-le uniquement si vous acceptez ce risque. Il est compatible avec tous les abonnements Zendesk.",
     "SSO_MODE_OFF": "Désactivé (commentaires anonymes)",
     "BUTTON_CONNECT": "Connectez-vous à Zendesk",
     "BUTTON_UPDATE": "Mise à jour de la connexion",
-    "SSO_MODE_CLIENT_TRUSTED": "Approuvé par le client (pas de connexion supplémentaire, usurpable)",
+    "SSO_MODE_CLIENT_TRUSTED": "Approuvé par le client (fonctionne avec tous les forfaits, mais peut être falsifié)",
     "SSO_MODE_OAUTH": "Zendesk OAuth (recommandé, identité vérifiée)",
     "SNIPPET_INSTRUCTIONS": "Dans Zendesk Guide, ouvrez Personnaliser le design, puis Modifier le code, et collez ce bloc dans templates/article_page.hbs à l'endroit où vous souhaitez que les commentaires apparaissent.",
     "BUTTON_COPY_SNIPPET": "Copier l'extrait",
     "DOCS_LINK": "Consultez le guide d'installation complet de Zendesk",
     "COPY_SUCCESS": "Copié !",
     "TENANT_ID_LABEL": "Votre identifiant de locataire FastComments :",
-    "COPY_FAILED": "La copie a échoué, sélectionnez et copiez manuellement."
+    "COPY_FAILED": "La copie a échoué, sélectionnez et copiez manuellement.",
+    "SSO_MODE_HC_JWT": "Centre d'aide JWT (recommandé, identité vérifiée)",
+    "SSO_HC_JWT_NOTE": "Le Centre d'aide JWT authentifie chaque commentateur grâce au jeton signé de Zendesk, empêchant ainsi toute usurpation d'identité. Ce service est réservé aux abonnements Guide Enterprise et Suite Enterprise ; avec les abonnements inférieurs, les commentateurs restent anonymes."
 }

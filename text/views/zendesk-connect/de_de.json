@@ -15,9 +15,9 @@
     "PLACEHOLDER_HELP_CENTER_HOST": "help.mycompany.com",
     "SSO_MODE_OFF": "Aus (anonyme Kommentare)",
     "SSO_MODE_OAUTH": "Zendesk OAuth (empfohlen, verifizierte Identität)",
-    "SSO_MODE_CLIENT_TRUSTED": "Client-vertrauenswürdig (keine zusätzliche Anmeldung, fälschbar)",
+    "SSO_MODE_CLIENT_TRUSTED": "Vom Kunden als vertrauenswürdig eingestuft (funktioniert mit jedem Tarif, ist aber angreifbar)",
     "STATUS_CONNECTED": "Verbunden",
-    "SSO_CLIENT_TRUSTED_WARNING": "Im Client-Trusted-Modus wird die Identität des Kommentators direkt vom Browser übernommen, ohne sie zu überprüfen. Daher kann sie gefälscht werden. Verwenden Sie diese Option nur, wenn Sie dieses Risiko akzeptieren. Zendesk OAuth verifiziert den Benutzer bei Zendesk, bevor ein Kommentar abgegeben werden kann.",
+    "SSO_CLIENT_TRUSTED_WARNING": "Der clientseitig vertrauenswürdige Modus übernimmt die Identität des Kommentators direkt vom Browser, ohne sie zu überprüfen. Daher kann sie gefälscht werden. Verwenden Sie ihn nur, wenn Sie dieses Risiko akzeptieren. Er funktioniert mit jedem Zendesk-Tarif.",
     "STATUS_NOT_CONNECTED": "Noch nicht verbunden",
     "SNIPPET_HEADING": "Installieren Sie das Widget.",
     "BUTTON_UPDATE": "Verbindung aktualisieren",
@@ -27,5 +27,7 @@
     "SNIPPET_INSTRUCTIONS": "Öffnen Sie in Zendesk Guide „Design anpassen“, dann „Code bearbeiten“ und fügen Sie diesen Block in templates/article_page.hbs ein, wo die Kommentare erscheinen sollen.",
     "COPY_SUCCESS": "Kopiert!",
     "DOCS_LINK": "Lesen Sie die vollständige Zendesk-Installationsanleitung.",
-    "COPY_FAILED": "Kopiervorgang fehlgeschlagen, auswählen und manuell kopieren"
+    "COPY_FAILED": "Kopiervorgang fehlgeschlagen, auswählen und manuell kopieren",
+    "SSO_MODE_HC_JWT": "Hilfezentrum JWT (empfohlen, verifizierte Identität)",
+    "SSO_HC_JWT_NOTE": "Das Help Center JWT verifiziert jeden Kommentator mit einem signierten Token von Zendesk, sodass Identitäten nicht gefälscht werden können. Es erfordert einen Guide Enterprise- oder Suite Enterprise-Plan; bei günstigeren Plänen bleiben Kommentatoren anonym."
 }

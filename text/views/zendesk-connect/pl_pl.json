@@ -14,18 +14,20 @@
     "HELP_SUBDOMAIN": "Subdomena Twojego adresu URL Zendesk. W przypadku mycompany.zendesk.com wpisz „mycompany”.",
     "LABEL_SSO_MODE": "Pojedyncze logowanie",
     "SSO_MODE_OAUTH": "Zendesk OAuth (zalecane, zweryfikowana tożsamość)",
-    "SSO_MODE_CLIENT_TRUSTED": "Zaufany klientowi (bez dodatkowego logowania, podrabialny)",
+    "SSO_MODE_CLIENT_TRUSTED": "Zaufany klientowi (działa w ramach każdego planu, ale można go podrobić)",
     "SSO_MODE_OFF": "Wyłączone (anonimowe komentarze)",
     "STATUS_CONNECTED": "Połączony",
     "BUTTON_CONNECT": "Połącz Zendesk",
     "SNIPPET_HEADING": "Zainstaluj widget",
     "BUTTON_UPDATE": "Aktualizuj połączenie",
     "STATUS_NOT_CONNECTED": "Jeszcze nie połączony",
-    "SSO_CLIENT_TRUSTED_WARNING": "Tryb zaufany klienta pobiera tożsamość komentującego bezpośrednio z przeglądarki bez weryfikacji, co umożliwia podszywanie się pod niego. Używaj go tylko wtedy, gdy akceptujesz to ryzyko. Zendesk OAuth weryfikuje użytkownika w Zendesk przed dodaniem komentarza.",
+    "SSO_CLIENT_TRUSTED_WARNING": "Tryb zaufany klienta pobiera tożsamość komentującego bezpośrednio z przeglądarki bez weryfikacji, co umożliwia podszywanie się pod niego. Korzystaj z niego tylko wtedy, gdy akceptujesz to ryzyko. Działa w każdym planie Zendesk.",
     "TENANT_ID_LABEL": "Twój identyfikator dzierżawcy FastComments:",
     "BUTTON_COPY_SNIPPET": "Kopiuj fragment kodu",
     "DOCS_LINK": "Przeczytaj pełny przewodnik instalacji Zendesk",
     "COPY_SUCCESS": "Skopiowano!",
     "SNIPPET_INSTRUCTIONS": "W Zendesk Guide otwórz Dostosuj projekt, następnie Edytuj kod i wklej ten blok do pliku templates/article_page.hbs w miejscu, w którym mają się pojawiać komentarze.",
-    "COPY_FAILED": "Kopiowanie nie powiodło się, wybierz i skopiuj ręcznie"
+    "COPY_FAILED": "Kopiowanie nie powiodło się, wybierz i skopiuj ręcznie",
+    "SSO_MODE_HC_JWT": "Centrum pomocy JWT (zalecane, zweryfikowana tożsamość)",
+    "SSO_HC_JWT_NOTE": "Centrum pomocy JWT weryfikuje każdego komentującego za pomocą własnego, podpisanego tokena Zendesk, dzięki czemu nie można podrobić tożsamości. Wymaga planu Guide Enterprise lub Suite Enterprise; w niższych planach komentujący wracają do anonimowości."
 }

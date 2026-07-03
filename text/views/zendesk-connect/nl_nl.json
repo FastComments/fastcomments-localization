@@ -16,10 +16,10 @@
     "SSO_MODE_OAUTH": "Zendesk OAuth (aanbevolen, geverifieerde identiteit)",
     "BUTTON_CONNECT": "Verbinden met Zendesk",
     "SSO_MODE_OFF": "Uitgeschakeld (anonieme reacties)",
-    "SSO_MODE_CLIENT_TRUSTED": "Door de klant vertrouwd (geen extra aanmelding nodig, kan niet worden vervalst)",
+    "SSO_MODE_CLIENT_TRUSTED": "Door de klant vertrouwd (werkt met elk abonnement, maar kan worden gemanipuleerd)",
     "LABEL_SSO_MODE": "Single sign-on",
     "BUTTON_UPDATE": "Verbinding bijwerken",
-    "SSO_CLIENT_TRUSTED_WARNING": "De clientvertrouwde modus haalt de identiteit van de reageerder rechtstreeks uit de browser zonder deze te verifiëren, waardoor deze kan worden vervalst. Gebruik deze modus alleen als u dat risico accepteert. Zendesk OAuth verifieert de gebruiker bij Zendesk voordat er een reactie kan worden geplaatst.",
+    "SSO_CLIENT_TRUSTED_WARNING": "De clientvertrouwde modus neemt de identiteit van de reageerder rechtstreeks over uit de browser zonder deze te verifiëren, waardoor deze kan worden vervalst. Gebruik deze modus alleen als u dit risico accepteert. Het werkt met elk Zendesk-abonnement.",
     "STATUS_NOT_CONNECTED": "Nog niet verbonden",
     "SNIPPET_HEADING": "Installeer de widget",
     "COPY_SUCCESS": "Gekopieerd!",
@@ -27,5 +27,7 @@
     "BUTTON_COPY_SNIPPET": "Kopieer fragment",
     "COPY_FAILED": "Kopiëren mislukt, selecteer en kopieer handmatig.",
     "TENANT_ID_LABEL": "Uw FastComments-tenant-ID:",
-    "DOCS_LINK": "Lees de volledige installatiehandleiding voor Zendesk."
+    "DOCS_LINK": "Lees de volledige installatiehandleiding voor Zendesk.",
+    "SSO_MODE_HC_JWT": "Helpcentrum JWT (aanbevolen, geverifieerde identiteit)",
+    "SSO_HC_JWT_NOTE": "Help Center JWT verifieert elke reageerder met een eigen, ondertekend token van Zendesk, waardoor identiteiten niet kunnen worden vervalst. Dit vereist een Guide Enterprise- of Suite Enterprise-abonnement; bij lagere abonnementen kunnen reageerders anoniem reageren."
 }

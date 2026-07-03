@@ -13,13 +13,13 @@
     "HELP_HELP_CENTER_HOST": "Potrebno le, če vaš center za pomoč deluje iz domene po meri namesto iz privzetega naslova zendesk.com.",
     "SSO_MODE_OAUTH": "Zendesk OAuth (priporočeno, preverjena identiteta)",
     "LABEL_SSO_MODE": "Enotna prijava",
-    "SSO_MODE_CLIENT_TRUSTED": "Zaupanja vredno za stranke (brez dodatne prijave, ponarejanje)",
+    "SSO_MODE_CLIENT_TRUSTED": "Zaupanja vredno za stranke (deluje na katerem koli načrtu, vendar je ponarejeno)",
     "SSO_MODE_OFF": "Izklopljeno (anonimni komentarji)",
     "PAGE_TITLE": "Hitri komentarji - Povežite se z Zendeskom",
     "STATUS_CONNECTED": "Povezan",
     "BUTTON_UPDATE": "Posodobi povezavo",
     "BUTTON_CONNECT": "Poveži se z Zendeskom",
-    "SSO_CLIENT_TRUSTED_WARNING": "Način, ki mu zaupa odjemalec, vzame identiteto komentatorja neposredno iz brskalnika, ne da bi jo preveril, zato jo je mogoče ponarediti. Uporabite ga le, če sprejmete to tveganje. Zendesk OAuth pred komentiranjem preveri uporabnika pri Zendesku.",
+    "SSO_CLIENT_TRUSTED_WARNING": "Način zaupanja odjemalca prevzame identiteto komentatorja neposredno iz brskalnika, ne da bi jo preveril, zato jo je mogoče ponarediti. Uporabite ga le, če sprejmete to tveganje. Deluje v katerem koli paketu Zendesk.",
     "STATUS_NOT_CONNECTED": "Še ni povezano",
     "COPY_SUCCESS": "Kopirano!",
     "BUTTON_COPY_SNIPPET": "Kopiraj delček kode",
@@ -27,5 +27,7 @@
     "SNIPPET_HEADING": "Namestitev pripomočka",
     "DOCS_LINK": "Preberite celoten priročnik za namestitev Zendeska",
     "COPY_FAILED": "Kopiranje ni uspelo, izberite in kopirajte ročno",
-    "SNIPPET_INSTRUCTIONS": "V Zendesk Guide odprite Customize design (Prilagodi oblikovanje), nato Edit code (Uredi kodo) in prilepite ta blok v templates/article_page.hbs, kjer želite, da se prikažejo komentarji."
+    "SNIPPET_INSTRUCTIONS": "V Zendesk Guide odprite Customize design (Prilagodi oblikovanje), nato Edit code (Uredi kodo) in prilepite ta blok v templates/article_page.hbs, kjer želite, da se prikažejo komentarji.",
+    "SSO_MODE_HC_JWT": "Center za pomoč JWT (priporočeno, preverjena identiteta)",
+    "SSO_HC_JWT_NOTE": "Center za pomoč JWT preveri vsakega komentatorja z Zendesk-ovim podpisanim žetonom, zato identitet ni mogoče ponarediti. Zahteva paket Guide Enterprise ali Suite Enterprise; pri nižjih paketih komentatorji ostanejo anonimni."
 }

@@ -18,8 +18,8 @@
     "SSO_MODE_OAUTH": "Zendesk OAuth (önerilir, kimlik doğrulaması gereklidir)",
     "BUTTON_CONNECT": "Zendesk'e bağlanın",
     "SSO_MODE_OFF": "Kapalı (anonim yorumlar)",
-    "SSO_MODE_CLIENT_TRUSTED": "Müşteri tarafından güvenilen (ekstra oturum açma gerektirmez, sahtekarlıkla oluşturulamaz)",
-    "SSO_CLIENT_TRUSTED_WARNING": "İstemci tarafından güvenilen mod, yorumcunun kimliğini doğrulamadan doğrudan tarayıcıdan alır, bu nedenle sahte kimlik oluşturulabilir. Bu riski kabul ediyorsanız kullanın. Zendesk OAuth, yorum yapmadan önce kullanıcıyı Zendesk ile doğrular.",
+    "SSO_MODE_CLIENT_TRUSTED": "Müşteri tarafından güvenilen (herhangi bir planda çalışır, ancak sahtekarlığa açıktır)",
+    "SSO_CLIENT_TRUSTED_WARNING": "Müşteri tarafından güvenilen mod, yorumcunun kimliğini doğrulamadan doğrudan tarayıcıdan alır, bu nedenle sahte kimlik oluşturulabilir. Bu riski kabul ediyorsanız kullanın. Herhangi bir Zendesk planında çalışır.",
     "STATUS_NOT_CONNECTED": "Henüz bağlantı kurulmadı.",
     "SNIPPET_HEADING": "Widget'ı yükleyin",
     "SNIPPET_INSTRUCTIONS": "Zendesk Guide'da, Tasarımı özelleştir'i açın, ardından Kodu düzenle'yi seçin ve bu kod bloğunu yorumların görünmesini istediğiniz templates/article_page.hbs dosyasına yapıştırın.",
@@ -27,5 +27,7 @@
     "COPY_SUCCESS": "Kopyalandı!",
     "TENANT_ID_LABEL": "FastComments Kiracı Kimliğiniz:",
     "COPY_FAILED": "Kopyalama başarısız oldu, lütfen manuel olarak seçip kopyalayın.",
-    "DOCS_LINK": "Zendesk kurulum kılavuzunun tamamını okuyun."
+    "DOCS_LINK": "Zendesk kurulum kılavuzunun tamamını okuyun.",
+    "SSO_MODE_HC_JWT": "Yardım Merkezi JWT (önerilen, doğrulanmış kimlik)",
+    "SSO_HC_JWT_NOTE": "Yardım Merkezi JWT, her yorumcunun kimliğini Zendesk'in kendi imzalı token'ı ile doğrular, böylece kimlikler taklit edilemez. Bu özellik için Guide Enterprise veya Suite Enterprise planına sahip olmak gerekir; daha düşük planlarda yorumcular anonim olarak yorum yapmaya devam eder."
 }

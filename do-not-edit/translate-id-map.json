@@ -410,7 +410,7 @@
         "my-account-mcp-setup": 28,
         "common-plan-limit-banner": 18,
         "comment-ui-react-native": 2,
-        "zendesk-connect": 29,
+        "zendesk-connect": 31,
         "athenahealth-admin": 19,
         "webflow": 60
     },
@@ -10039,7 +10039,9 @@
         "t26": "BUTTON_COPY_SNIPPET",
         "t27": "DOCS_LINK",
         "t28": "COPY_SUCCESS",
-        "t29": "COPY_FAILED"
+        "t29": "COPY_FAILED",
+        "t30": "SSO_MODE_HC_JWT",
+        "t31": "SSO_HC_JWT_NOTE"
     },
     "athenahealth-admin": {
         "t1": "PAGE_TITLE",

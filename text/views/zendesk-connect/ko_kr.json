@@ -13,10 +13,10 @@
     "HELP_SUBDOMAIN": "Zendesk URL의 서브도메인 부분입니다. mycompany.zendesk.com의 경우 \"mycompany\"를 입력하세요.",
     "ERROR_SAVE_FAILED": "Zendesk 연결을 저장할 수 없습니다. 다시 시도해 주세요.",
     "HELP_HELP_CENTER_HOST": "헬프센터가 기본 zendesk.com 주소 대신 사용자 지정 도메인에서 제공되는 경우에만 필요합니다.",
-    "SSO_CLIENT_TRUSTED_WARNING": "클라이언트 신뢰 모드는 댓글 작성자의 신원을 브라우저에서 직접 가져오므로 신원 위조의 위험이 있습니다. 이러한 위험을 감수할 수 있는 경우에만 사용하십시오. Zendesk OAuth는 댓글을 작성하기 전에 Zendesk에서 사용자를 인증합니다.",
+    "SSO_CLIENT_TRUSTED_WARNING": "클라이언트 신뢰 모드는 댓글 작성자의 신원을 검증 없이 브라우저에서 직접 가져오기 때문에 신원 위조가 가능합니다. 이러한 위험을 감수할 수 있는 경우에만 사용하십시오. 이 기능은 모든 Zendesk 요금제에서 작동합니다.",
     "SSO_MODE_OFF": "끄기 (익명 댓글)",
     "STATUS_CONNECTED": "연결됨",
-    "SSO_MODE_CLIENT_TRUSTED": "클라이언트가 신뢰하는 계정(별도 로그인 필요 없음, 스푸핑 가능)",
+    "SSO_MODE_CLIENT_TRUSTED": "클라이언트 신뢰(모든 요금제에서 작동하지만, 위조 가능)",
     "SSO_MODE_OAUTH": "Zendesk OAuth(권장, 신원 확인 완료)",
     "BUTTON_CONNECT": "Zendesk에 연결하세요",
     "BUTTON_UPDATE": "업데이트 연결",
@@ -27,5 +27,7 @@
     "SNIPPET_INSTRUCTIONS": "Zendesk Guide에서 '디자인 사용자 지정'을 열고 '코드 편집'을 클릭한 다음, 댓글이 표시될 템플릿/article_page.hbs 파일에 이 코드 블록을 붙여넣으세요.",
     "TENANT_ID_LABEL": "FastComments 테넌트 ID:",
     "COPY_FAILED": "복사 실패, 수동으로 선택하여 복사하세요.",
-    "DOCS_LINK": "Zendesk 설치 가이드 전체를 읽어보세요."
+    "DOCS_LINK": "Zendesk 설치 가이드 전체를 읽어보세요.",
+    "SSO_HC_JWT_NOTE": "헬프센터 JWT는 Zendesk 자체 서명 토큰으로 각 댓글 작성자를 인증하므로 신원 도용을 방지합니다. 이 기능은 Guide Enterprise 또는 Suite Enterprise 플랜에서 사용할 수 있으며, 하위 플랜에서는 익명으로 댓글을 작성해야 합니다.",
+    "SSO_MODE_HC_JWT": "헬프센터 JWT (권장, 신원 확인 완료)"
 }
