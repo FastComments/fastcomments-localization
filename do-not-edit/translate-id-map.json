@@ -127,7 +127,7 @@
         "login-success": 9,
         "login-two-factor": 18,
         "maintenance-page": 4,
-        "marketing_common": 135,
+        "marketing_common": 138,
         "moderator-join-failure": 9,
         "moderator-join-success": 6,
         "my-account": 5,
@@ -3002,7 +3002,10 @@
         "t132": "PUBLIC_NAV_DISCORD",
         "t133": "PUBLIC_NAV_ITEM_WEBFLOW",
         "t134": "PUBLIC_NAV_ITEM_WEBFLOW_DESC",
-        "t135": "PUBLIC_FOOTER_V2_WEBFLOW"
+        "t135": "PUBLIC_FOOTER_V2_WEBFLOW",
+        "t136": "SNIPPET_VIEW_LIBRARY_REACT_NATIVE",
+        "t137": "SNIPPET_VIEW_LIBRARY_ANDROID",
+        "t138": "SNIPPET_VIEW_LIBRARY_IOS"
     },
     "moderator-join-failure": {
         "t1": "PAGE_TITLE",
