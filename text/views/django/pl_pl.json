@@ -55,7 +55,7 @@
     "HOW_IT_WORKS_STEP_1_FILE": "grzmotnąć",
     "HOW_IT_WORKS_STEP_1_TITLE": "Zainstaluj za pomocą pip",
     "HOW_IT_WORKS_SUBTITLE": "Trzy kroki do dodania komentarzy na żywo do aplikacji Django.",
-    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Zainstaluj pakiet z GitHub za pomocą pip. Dodaj [api], jeśli chcesz uzyskać dostęp REST po stronie serwera.",
+    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Zainstaluj pakiet z GitHub za pomocą pip. Dodaj API Extra, jeśli chcesz uzyskać dostęp REST po stronie serwera.",
     "SSO_NONE_DESCRIPTION": "Pozwól użytkownikom na niezależne tworzenie własnych kont FastComments.",
     "HOW_IT_WORKS_STEP_2_TITLE": "Dodaj aplikację i klucz API",
     "HOW_IT_WORKS_STEP_2_FILE": "ustawienia.py",
@@ -78,6 +78,6 @@
     "FAQ_DJANGO_CUSTOMIZE_ANSWER": "Tak. Zastąp szablon fastcomments/widget.html, umieszczając własną kopię wcześniej na ścieżce wyszukiwania szablonu. Każdy tag akceptuje również standardowe opcje konfiguracji FastComments jako argumenty słów kluczowych, co daje pełną kontrolę nad wyglądem i zachowaniem bez konieczności edycji pakietu.",
     "FAQ_DJANGO_API": "Czy mogę uzyskać dostęp do API FastComments z poziomu Django?",
     "FINAL_CTA_TITLE": "Chcesz dodać komentarze do swojej aplikacji Django?",
-    "FAQ_DJANGO_API_ANSWER": "Tak. Zainstaluj dodatek [api], a pakiet udostępni zestaw SDK Python FastComments: admin() do uwierzytelnianych połączeń, public_api() do połączeń publicznych i get_manager() do podpisywania tokenów SSO. Używaj ich do tworzenia, aktualizowania lub usuwania komentarzy, zarządzania użytkownikami, pobierania analiz i innych funkcji z widoków lub zadań w tle.",
+    "FAQ_DJANGO_API_ANSWER": "Tak. Zainstaluj API Extra, a pakiet udostępni zestaw SDK Python FastComments: admin() dla wywołań uwierzytelnianych, public_api() dla wywołań publicznych i get_manager() do podpisywania tokenów SSO. Używaj ich do tworzenia, aktualizowania lub usuwania komentarzy, zarządzania użytkownikami, pobierania analiz i innych funkcji z widoków lub zadań w tle.",
     "FINAL_CTA_DESCRIPTION": "Zainstaluj pakiet, załaduj bibliotekę tagów, dodaj szablon tagu i uruchom aplikację w ciągu kilku minut."
 }

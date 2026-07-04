@@ -54,7 +54,7 @@
     "SSO_NONE_FEATURE_2": "メールベースのアカウント",
     "HOW_IT_WORKS_TITLE": "数分で起動可能",
     "HOW_IT_WORKS_STEP_1_FILE": "バッシュ",
-    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "pipを使ってGitHubからパッケージをインストールしてください。サーバー側のRESTアクセスが必要な場合は、[api]を追加してください。",
+    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "GitHubからpipを使ってパッケージをインストールしてください。サーバー側のRESTアクセスが必要な場合は、api extraを追加してください。",
     "HOW_IT_WORKS_STEP_2_TITLE": "アプリとAPIキーを追加",
     "HOW_IT_WORKS_SUBTITLE": "Djangoアプリでライブコメントを導入するための3つのステップ。",
     "HOW_IT_WORKS_STEP_1_TITLE": "pipでインストール",
@@ -76,7 +76,7 @@
     "FINAL_CTA_TITLE": "Djangoアプリにコメント機能を追加する準備はできましたか？",
     "FAQ_DJANGO_API": "DjangoからFastComments APIにアクセスできますか？",
     "FAQ_DJANGO_CUSTOMIZE": "ウィジェットのマークアップをカスタマイズできますか？",
-    "FAQ_DJANGO_API_ANSWER": "はい。[api] extraをインストールすると、パッケージからFastComments Python SDKが利用可能になります。認証済み呼び出し用のadmin()、公開呼び出し用のpublic_api()、SSOトークン署名用のget_manager()などが利用できます。これらを使用して、ビューやバックグラウンドジョブからコメントの作成、更新、削除、ユーザー管理、分析データの取得などを行うことができます。",
+    "FAQ_DJANGO_API_ANSWER": "はい。APIエクストラをインストールすると、パッケージからFastComments Python SDKが利用可能になります。認証済み呼び出し用のadmin()、公開呼び出し用のpublic_api()、SSOトークン署名用のget_manager()が利用できます。これらを使用して、ビューやバックグラウンドジョブからコメントの作成、更新、削除、ユーザー管理、分析データの取得などを行うことができます。",
     "FAQ_DJANGO_GDPR_ANSWER": "はい。FastCommentsはGDPRに完全準拠しており、オプションでEUベースのCDNを利用すれば、すべてのデータをヨーロッパ域内に保持できます。FASTCOMMENTSの設定でREGIONを「eu」に設定すると、パッケージはウィジェットとAPI呼び出しをEU地域にルーティングします。データのエクスポート要求、削除権に対応しており、ご要望に応じてデータ処理契約（DPA）も提供いたします。",
     "FINAL_CTA_DESCRIPTION": "パッケージをインストールし、タグライブラリを読み込み、テンプレートタグを挿入すれば、数分で運用開始できます。",
     "FAQ_DJANGO_CUSTOMIZE_ANSWER": "はい。テンプレートの検索パスのより早い位置に独自のコピーを配置することで、fastcomments/widget.html テンプレートを上書きできます。また、すべてのタグは標準の FastComments 設定オプションをキーワード引数として受け入れるため、パッケージを編集することなく、外観と動作を完全に制御できます。"

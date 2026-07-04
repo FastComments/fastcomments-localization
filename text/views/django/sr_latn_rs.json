@@ -31,7 +31,7 @@
     "SSO_NONE_FEATURE_3": "Opciono anonimno komentarisanje",
     "HOW_IT_WORKS_TITLE": "Gore i radi za nekoliko minuta",
     "HOW_IT_WORKS_SUBTITLE": "Tri koraka za komentare uživo u vašoj aplikaciji Django.",
-    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Instalirajte paket sa GitHub-a sa pip-om. Dodajte [api] ekstra kada želite REST pristup na serveru.",
+    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Instalirajte paket sa GitHub-a sa pip-om. Dodajte api ekstra kada želite REST pristup na serveru.",
     "HOW_IT_WORKS_STEP_2_FILE": "settings.py",
     "HOW_IT_WORKS_STEP_2_TITLE": "Dodajte App & API ključ",
     "HOW_IT_WORKS_STEP_3_TITLE": "Drop In Template Tags",
@@ -79,5 +79,5 @@
     "FAQ_DJANGO_FREE_TRIAL_ANSWER": "Da. FastComments nudi besplatnu probnu verziju KSNUMKS-a sa punim pristupom svim funkcijama, uključujući DZS, live chat i editor bogatog teksta. Nije potrebna kreditna kartica za početak.",
     "FAQ_DJANGO_GDPR_ANSWER": "Da. FastComments je u potpunosti usklađen sa GDPR-om sa opcionim CDN-om sa sedištem u EU koji čuva sve podatke u Evropi. Podesite REGION na \"eu\" u podešavanjima FASTCOMMENTS i paketa rute vidžeta i API poziva u EU regionu. Podržavamo zahteve za izvoz podataka, pravo na brisanje i pružamo Ugovor o obradi podataka (DPA) na zahtev.",
     "FAQ_DJANGO_VERSIONS_ANSWER": "FastComments Django paket podržava Django 4.2, 5.0, 5.1 i 5.2, i zahteva Pithon 3.10 ili noviji. Instalira se kao standardna Django aplikacija sa jednim unosom u INSTALLED_APPS.",
-    "FAQ_DJANGO_API_ANSWER": "Da. Instalirajte [api] ekstra i paket izlaže FastComments Pithon SDK: admin () za autentifikovane pozive, public_api () za javne pozive i get_manager () za potpisivanje SSO tokena. Koristite ih za kreiranje, ažuriranje ili brisanje komentara, upravljanje korisnicima, preuzimanje analitike i još mnogo toga iz vaših pogleda ili pozadinskih poslova."
+    "FAQ_DJANGO_API_ANSWER": "Da. Instalirajte API ekstra i paket izlaže FastComments Pithon SDK: admin () za autentifikovane pozive, public_api () za javne pozive i get_manager () za potpisivanje SSO tokena. Koristite ih za kreiranje, ažuriranje ili brisanje komentara, upravljanje korisnicima, preuzimanje analitike i još mnogo toga iz vaših pogleda ili pozadinskih poslova."
 }

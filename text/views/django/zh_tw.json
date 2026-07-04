@@ -56,7 +56,7 @@
     "SSO_NONE_FEATURE_3": "可選擇匿名評論",
     "HOW_IT_WORKS_STEP_1_TITLE": "使用 pip 安裝",
     "HOW_IT_WORKS_SUBTITLE": "三步驟即可在 Django 應用程式中實現即時評論。",
-    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "使用 pip 從 GitHub 安裝該軟體包。如果需要伺服器端 REST 訪問，請新增[api]額外參數。",
+    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "使用 pip 從 GitHub 安裝該軟體包。如果需要伺服器端 REST 訪問，請新增 api 附加元件。",
     "HOW_IT_WORKS_STEP_2_FILE": "settings.py",
     "HOW_IT_WORKS_STEP_3_TITLE": "插入式模板標籤",
     "HOW_IT_WORKS_STEP_2_TITLE": "新增應用程式和 API 金鑰",
@@ -78,6 +78,6 @@
     "FAQ_DJANGO_SSO_ANSWER": "啟用安全單一登入 (Secure SSO) 後，該軟體套件會從請求中讀取已驗證用戶，並在伺服器上對 HMAC-SHA256 令牌進行簽署。這將使用使用者的姓名、電子郵件地址和個人資料建立或更新其 FastComments 帳戶，實現使用者無需額外註冊即可登入。您可以使用 USER_MAP、使用者模型中的 to_fastcomments_user_data() 方法或全域 USER_MAPPER 來對應欄位。請謹慎選擇 SSO ID：它是使用者評論歷史記錄的永久句柄，因此請將其對應到穩定且不透明的值（例如 UUID），而不是順序主鍵。",
     "FAQ_DJANGO_VERSIONS_ANSWER": "FastComments Django 套件支援 Django 4.2、5.0、5.1 和 5.2 版本，需要 Python 3.10 或更高版本。它以標準 Django 應用的形式安裝，在 INSTALLED_APPS 中新增一個條目。",
     "FINAL_CTA_TITLE": "準備好為您的 Django 應用程式添加評論功能了嗎？",
-    "FAQ_DJANGO_API_ANSWER": "是的。安裝[api]擴充包後，該軟體包將公開 FastComments Python SDK：admin() 用於已認證的調用，public_api() 用於公共調用，get_manager() 用於簽署 SSO 令牌。您可以使用它們在視圖或背景作業中建立、更新或刪除評論、管理使用者、取得分析資料等等。",
+    "FAQ_DJANGO_API_ANSWER": "是的。安裝 API 擴充包後，該軟體包將公開 FastComments Python SDK：`admin()` 用於已認證的調用，`public_api()` 用於公共調用，`get_manager()` 用於簽署 SSO 令牌。您可以使用它們在視圖或背景作業中建立、更新或刪除評論、管理使用者、取得分析資料等等。",
     "FINAL_CTA_DESCRIPTION": "安裝軟體包，載入標籤庫，放入模板標籤，幾分鐘內即可上線。"
 }

@@ -56,7 +56,7 @@
     "HOW_IT_WORKS_STEP_1_FILE": "frapper",
     "HOW_IT_WORKS_SUBTITLE": "Trois étapes pour activer les commentaires dans votre application Django.",
     "HOW_IT_WORKS_STEP_1_TITLE": "Installer avec pip",
-    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Installez le paquet depuis GitHub avec pip. Ajoutez [api] en plus si vous souhaitez un accès REST côté serveur.",
+    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Installez le paquet depuis GitHub avec pip. Ajoutez l'option `--api` si vous souhaitez un accès REST côté serveur.",
     "HOW_IT_WORKS_STEP_1_CODE": "pip install \"git+https://github.com/fastcomments/fastcomments-django.git@v0.1.0\"",
     "HOW_IT_WORKS_STEP_2_FILE": "paramètres.py",
     "HOW_IT_WORKS_STEP_2_TITLE": "Ajouter l'application et la clé API",
@@ -79,5 +79,5 @@
     "FAQ_DJANGO_GDPR_ANSWER": "Oui. FastComments est entièrement conforme au RGPD et propose un CDN optionnel basé dans l'UE qui conserve toutes les données en Europe. Définissez la RÉGION sur « eu » dans les paramètres de FASTCOMMENTS et le package acheminera les widgets et les appels API vers la région UE. Nous prenons en charge les demandes d'exportation de données, le droit à l'effacement et fournissons un accord de traitement des données (ATD) sur demande.",
     "FINAL_CTA_DESCRIPTION": "Installez le package, chargez la bibliothèque de balises, ajoutez une balise modèle et mettez votre site en ligne en quelques minutes.",
     "FINAL_CTA_TITLE": "Prêt à ajouter des commentaires à votre application Django ?",
-    "FAQ_DJANGO_API_ANSWER": "Oui. Installez l'extension [api] et le package exposera le SDK Python de FastComments : admin() pour les appels authentifiés, public_api() pour les appels publics et get_manager() pour la signature des jetons SSO. Utilisez-les pour créer, modifier ou supprimer des commentaires, gérer les utilisateurs, récupérer des données analytiques et bien plus encore depuis vos vues ou tâches en arrière-plan."
+    "FAQ_DJANGO_API_ANSWER": "Oui. Installez l'extension API ; le package expose alors le SDK Python de FastComments : `admin()` pour les appels authentifiés, `public_api()` pour les appels publics et `get_manager()` pour la signature des jetons SSO. Utilisez-les pour créer, modifier ou supprimer des commentaires, gérer les utilisateurs, récupérer des données analytiques, etc., depuis vos vues ou vos tâches en arrière-plan."
 }

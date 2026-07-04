@@ -58,7 +58,7 @@
     "HOW_IT_WORKS_SUBTITLE": "Trije koraki za objavo komentarjev v aplikaciji Django.",
     "HOW_IT_WORKS_STEP_2_TITLE": "Dodajte ključ aplikacije in API-ja",
     "HOW_IT_WORKS_STEP_1_CODE": "pip namesti \"git+https://github.com/fastcomments/fastcomments-django.git@v0.1.0\"",
-    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Namestite paket iz GitHuba s pip-om. Dodajte dodatek [api], če želite dostop do REST-a na strani strežnika.",
+    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Namestite paket iz GitHuba s pip-om. Če želite dostop do REST-a na strani strežnika, dodajte dodaten API.",
     "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Dodajte »fastcomments_django« v INSTALLED_APPS, nato pa nastavite FASTCOMMENTS dict z vašima TENANT_ID in API_KEY.",
     "HOW_IT_WORKS_STEP_2_FILE": "nastavitve.py",
     "HOW_IT_WORKS_STEP_2_CODE": "NAMEŠČENE_APLIKACIJE = [\n    # ...\n    \"fastcomments_django\",\n]\n\nHITRI KOMENTARJI = {\n\"ID_NAJEMNIKA\": \"vaš-ID-najemnika\",\n\"KLJUČ_API\": \"vaš-ključ-api\",\n}",
@@ -78,6 +78,6 @@
     "FAQ_DJANGO_VERSIONS_ANSWER": "Paket FastComments Django podpira Django 4.2, 5.0, 5.1 in 5.2 ter zahteva Python 3.10 ali novejši. Namesti se kot standardna aplikacija Django z enim samim vnosom v INSTALLED_APPS.",
     "FAQ_DJANGO_GDPR_ANSWER": "Da. FastComments je v celoti skladen z GDPR z izbirnim CDN-jem s sedežem v EU, ki hrani vse podatke znotraj Evrope. V nastavitvah FASTCOMMENTS nastavite REGION na »eu« in paket bo usmeril gradnike in klice API-ja v regijo EU. Podpiramo zahteve za izvoz podatkov, pravico do izbrisa in na zahtevo zagotovimo sporazum o obdelavi podatkov (DPA).",
     "FAQ_DJANGO_CUSTOMIZE_ANSWER": "Da. Preglasite predlogo fastcomments/widget.html tako, da svojo kopijo postavite prej na iskalno pot predloge. Vsaka oznaka sprejema tudi standardne konfiguracijske možnosti FastComments kot ključne argumente, kar vam daje popoln nadzor nad videzom in delovanjem brez urejanja paketa.",
-    "FAQ_DJANGO_API_ANSWER": "Da. Namestite dodatek [api] in paket bo razkril komplet za razvoj programske opreme FastComments Python: admin() za overjene klice, public_api() za javne klice in get_manager() za podpisovanje žetonov za enotno prijavo (SSO). Uporabite jih za ustvarjanje, posodabljanje ali brisanje komentarjev, upravljanje uporabnikov, pridobivanje analitike in drugo iz vaših pogledov ali opravil v ozadju.",
+    "FAQ_DJANGO_API_ANSWER": "Da. Namestite dodatek API in paket bo razkril komplet za razvoj programske opreme FastComments Python: admin() za overjene klice, public_api() za javne klice in get_manager() za podpisovanje žetonov za enotno prijavo (SSO). Uporabite jih za ustvarjanje, posodabljanje ali brisanje komentarjev, upravljanje uporabnikov, pridobivanje analitike in drugo iz vaših pogledov ali opravil v ozadju.",
     "FINAL_CTA_DESCRIPTION": "Namestite paket, naložite knjižnico oznak, dodajte predlogo oznake in začnite delovati v nekaj minutah."
 }

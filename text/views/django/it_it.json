@@ -56,7 +56,7 @@
     "SSO_NONE_FEATURE_3": "Commenti anonimi facoltativi",
     "HOW_IT_WORKS_STEP_1_FILE": "bash",
     "HOW_IT_WORKS_STEP_1_TITLE": "Installare con pip",
-    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Installa il pacchetto da GitHub con pip. Aggiungi l'opzione extra [api] quando desideri l'accesso REST lato server.",
+    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Installa il pacchetto da GitHub con pip. Aggiungi l'opzione `api` quando desideri l'accesso REST lato server.",
     "HOW_IT_WORKS_STEP_1_CODE": "pip install \"git+https://github.com/fastcomments/fastcomments-django.git@v0.1.0\"",
     "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Aggiungi \"fastcomments_django\" a INSTALLED_APPS, quindi imposta il dizionario FASTCOMMENTS con il tuo TENANT_ID e API_KEY.",
     "HOW_IT_WORKS_STEP_3_TITLE": "Inserisci i tag del modello",
@@ -78,6 +78,6 @@
     "FAQ_DJANGO_SSO_ANSWER": "Quando l'SSO sicuro è abilitato, il pacchetto legge l'utente autenticato dalla richiesta e firma un token HMAC-SHA256 sul server. Questo crea o aggiorna l'account FastComments dell'utente con il suo nome, email e avatar, in modo che gli utenti possano accedere senza ulteriori registrazioni. Mappa i campi con USER_MAP, un metodo to_fastcomments_user_data() sul tuo modello utente o un USER_MAPPER globale. Scegli l'ID SSO con attenzione: è l'identificativo permanente per la cronologia dei commenti di un utente, quindi mappalo a un valore stabile e opaco come un UUID piuttosto che a una chiave primaria sequenziale.",
     "FAQ_DJANGO_GDPR_ANSWER": "Sì. FastComments è pienamente conforme al GDPR e offre una CDN opzionale basata sull'UE che mantiene tutti i dati all'interno dell'Europa. Impostando REGION su \"eu\" nelle impostazioni di FASTCOMMENTS, il pacchetto instrada i widget e le chiamate API verso la regione UE. Supportiamo le richieste di esportazione dei dati, il diritto alla cancellazione e forniamo un accordo sul trattamento dei dati (DPA) su richiesta.",
     "FINAL_CTA_TITLE": "Pronti ad aggiungere i commenti alla vostra app Django?",
-    "FAQ_DJANGO_API_ANSWER": "Sì. Installa l'extra [api] e il pacchetto esporrà l'SDK Python di FastComments: admin() per le chiamate autenticate, public_api() per le chiamate pubbliche e get_manager() per la firma dei token SSO. Usali per creare, aggiornare o eliminare commenti, gestire utenti, recuperare dati analitici e altro ancora dalle tue viste o dai tuoi processi in background.",
+    "FAQ_DJANGO_API_ANSWER": "Sì. Installa l'estensione api e il pacchetto esporrà l'SDK Python di FastComments: admin() per le chiamate autenticate, public_api() per le chiamate pubbliche e get_manager() per la firma dei token SSO. Usali per creare, aggiornare o eliminare commenti, gestire utenti, recuperare dati analitici e altro ancora dalle tue viste o dai processi in background.",
     "FINAL_CTA_DESCRIPTION": "Installa il pacchetto, carica la libreria di tag, inserisci un tag modello e vai online in pochi minuti."
 }

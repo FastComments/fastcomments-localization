@@ -59,7 +59,7 @@
     "HOW_IT_WORKS_STEP_2_FILE": "configurações.py",
     "HOW_IT_WORKS_STEP_2_TITLE": "Adicione o aplicativo e a chave da API.",
     "HOW_IT_WORKS_STEP_3_TITLE": "Etiquetas de modelo de encaixe",
-    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Instale o pacote do GitHub com o pip. Adicione o parâmetro extra [api] quando desejar acesso REST do lado do servidor.",
+    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Instale o pacote do GitHub com o pip. Adicione o parâmetro `api` extra quando desejar acesso REST no servidor.",
     "HOW_IT_WORKS_STEP_1_CODE": "pip install \"git+https://github.com/fastcomments/fastcomments-django.git@v0.1.0\"",
     "HOW_IT_WORKS_STEP_2_CODE": "APLICATIVOS_INSTALADOS = [\n    # ...\n    \"fastcomments_django\",\n]\n\nCOMENTÁRIOS_RÁPIDOS = {\n\n\"ID_DO_TENANT\": \"seu-id-de-tenant\",\n\n\"CHAVE_DA_API\": \"sua-chave-de-api\",\n}",
     "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Adicione \"fastcomments_django\" a INSTALLED_APPS e, em seguida, defina o dicionário FASTCOMMENTS com seu TENANT_ID e API_KEY.",
@@ -79,5 +79,5 @@
     "FAQ_DJANGO_CUSTOMIZE_ANSWER": "Sim. Substitua o modelo fastcomments/widget.html colocando sua própria cópia antes no caminho de busca de modelos. Cada tag também aceita opções de configuração padrão do FastComments como argumentos de palavra-chave, dando a você controle total sobre a aparência e o comportamento sem editar o pacote.",
     "FINAL_CTA_TITLE": "Pronto para adicionar comentários ao seu aplicativo Django?",
     "FINAL_CTA_DESCRIPTION": "Instale o pacote, carregue a biblioteca de tags, insira uma tag de modelo e publique em minutos.",
-    "FAQ_DJANGO_API_ANSWER": "Sim. Instale o pacote extra [api] e ele disponibilizará o SDK Python do FastComments: admin() para chamadas autenticadas, public_api() para chamadas públicas e get_manager() para assinatura de tokens SSO. Use-os para criar, atualizar ou excluir comentários, gerenciar usuários, obter análises e muito mais a partir de suas visualizações ou tarefas em segundo plano."
+    "FAQ_DJANGO_API_ANSWER": "Sim. Instale o pacote extra da API e ele disponibilizará o SDK Python do FastComments: `admin()` para chamadas autenticadas, `public_api()` para chamadas públicas e `get_manager()` para assinatura de tokens SSO. Use-os para criar, atualizar ou excluir comentários, gerenciar usuários, obter análises e muito mais a partir de suas visualizações ou tarefas em segundo plano."
 }

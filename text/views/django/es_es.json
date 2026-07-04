@@ -57,7 +57,7 @@
     "SSO_NONE_FEATURE_3": "Comentarios anónimos opcionales",
     "HOW_IT_WORKS_SUBTITLE": "Tres pasos para activar los comentarios en tiempo real en tu aplicación Django.",
     "HOW_IT_WORKS_STEP_1_CODE": "pip install \"git+https://github.com/fastcomments/fastcomments-django.git@v0.1.0\"",
-    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Instala el paquete desde GitHub con pip. Agrega el extra [api] cuando quieras acceso REST del lado del servidor.",
+    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Instala el paquete desde GitHub con pip. Agrega el extra api cuando quieras acceso REST del lado del servidor.",
     "HOW_IT_WORKS_STEP_2_TITLE": "Agregue la clave de la aplicación y la API.",
     "HOW_IT_WORKS_STEP_2_FILE": "configuración.py",
     "HOW_IT_WORKS_STEP_3_FILE": "plantillas/detalle_de_la_publicación.html",
@@ -78,6 +78,6 @@
     "FAQ_DJANGO_API": "¿Puedo acceder a la API de FastComments desde Django?",
     "FINAL_CTA_TITLE": "¿Listo para agregar comentarios a tu aplicación Django?",
     "FINAL_CTA_DESCRIPTION": "Instala el paquete, carga la biblioteca de etiquetas, inserta una etiqueta de plantilla y estará listo en cuestión de minutos.",
-    "FAQ_DJANGO_API_ANSWER": "Sí. Instala el paquete adicional y este expondrá el SDK de FastComments para Python: admin() para llamadas autenticadas, public_api() para llamadas públicas y get_manager() para firmar tokens SSO. Úsalo para crear, actualizar o eliminar comentarios, administrar usuarios, obtener análisis y mucho más desde tus vistas o procesos en segundo plano.",
+    "FAQ_DJANGO_API_ANSWER": "Sí. Instala el complemento api y el paquete expondrá el SDK de FastComments para Python: admin() para llamadas autenticadas, public_api() para llamadas públicas y get_manager() para firmar tokens SSO. Úsalas para crear, actualizar o eliminar comentarios, administrar usuarios, obtener análisis y mucho más desde tus vistas o procesos en segundo plano.",
     "FAQ_DJANGO_CUSTOMIZE_ANSWER": "Sí. Sobrescribe la plantilla fastcomments/widget.html colocando tu propia copia en una posición anterior de la ruta de búsqueda de plantillas. Cada etiqueta también acepta opciones de configuración estándar de FastComments como argumentos de palabra clave, lo que te brinda control total sobre la apariencia y el comportamiento sin necesidad de editar el paquete."
 }

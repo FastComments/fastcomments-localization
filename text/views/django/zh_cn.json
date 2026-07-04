@@ -57,7 +57,7 @@
     "HOW_IT_WORKS_STEP_1_TITLE": "使用 pip 安装",
     "HOW_IT_WORKS_STEP_1_FILE": "狂欢",
     "HOW_IT_WORKS_STEP_2_TITLE": "添加应用和 API 密钥",
-    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "使用 pip 从 GitHub 安装该软件包。如果需要服务器端 REST 访问，请添加[api]额外参数。",
+    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "使用 pip 从 GitHub 安装该软件包。如果需要服务器端 REST 访问，请添加 api 附加组件。",
     "HOW_IT_WORKS_STEP_3_TITLE": "插入式模板标签",
     "HOW_IT_WORKS_STEP_2_FILE": "settings.py",
     "HOW_IT_WORKS_STEP_2_CODE": "已安装应用 = [\n    # ...\n    \"fastcomments_django\",\n]\n\n快速注释 = {\n\n“租户 ID”: “您的租户 ID”,\n\n“API 密钥”: “您的 API 密钥”,\n\n}",
@@ -78,6 +78,6 @@
     "FAQ_DJANGO_GDPR": "FastComments是否符合GDPR要求？",
     "FAQ_DJANGO_SSO": "SSO 如何与 Django 身份验证协同工作？",
     "FINAL_CTA_TITLE": "准备好为您的 Django 应用添加评论功能了吗？",
-    "FAQ_DJANGO_API_ANSWER": "是的。安装[api]扩展包后，该软件包将公开 FastComments Python SDK：admin() 用于已认证的调用，public_api() 用于公共调用，get_manager() 用于签署 SSO 令牌。您可以使用它们在视图或后台作业中创建、更新或删除评论、管理用户、获取分析数据等等。",
+    "FAQ_DJANGO_API_ANSWER": "是的。安装 API 扩展包后，该软件包将公开 FastComments Python SDK：`admin()` 用于已认证的调用，`public_api()` 用于公共调用，`get_manager()` 用于签署 SSO 令牌。您可以使用它们在视图或后台作业中创建、更新或删除评论、管理用户、获取分析数据等等。",
     "FINAL_CTA_DESCRIPTION": "安装软件包，加载标签库，放入模板标签，几分钟内即可上线。"
 }

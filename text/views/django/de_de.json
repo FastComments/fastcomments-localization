@@ -54,7 +54,7 @@
     "SSO_NONE_FEATURE_2": "E-Mail-basierte Konten",
     "HOW_IT_WORKS_STEP_1_TITLE": "Installation mit pip",
     "HOW_IT_WORKS_TITLE": "In wenigen Minuten einsatzbereit",
-    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Installieren Sie das Paket von GitHub mit pip. Fügen Sie die Option [api] hinzu, wenn Sie serverseitigen REST-Zugriff benötigen.",
+    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Installieren Sie das Paket von GitHub mit pip. Fügen Sie das API-Extra hinzu, wenn Sie serverseitigen REST-Zugriff benötigen.",
     "HOW_IT_WORKS_STEP_1_FILE": "bash",
     "SSO_NONE_DESCRIPTION": "Ermöglichen Sie es den Nutzern, ihre eigenen FastComments-Konten selbstständig zu erstellen.",
     "HOW_IT_WORKS_STEP_1_CODE": "pip install \"git+https://github.com/fastcomments/fastcomments-django.git@v0.1.0\"",
@@ -79,5 +79,5 @@
     "FAQ_DJANGO_CUSTOMIZE_ANSWER": "Ja. Sie können die Vorlage fastcomments/widget.html überschreiben, indem Sie Ihre eigene Kopie weiter oben im Suchpfad der Vorlage platzieren. Jedes Tag akzeptiert außerdem Standard-Konfigurationsoptionen von FastComments als Schlüsselwortargumente, sodass Sie Aussehen und Verhalten vollständig steuern können, ohne das Paket bearbeiten zu müssen.",
     "FAQ_DJANGO_GDPR_ANSWER": "Ja. FastComments ist vollständig DSGVO-konform und nutzt optional ein EU-basiertes CDN, das alle Daten innerhalb Europas speichert. Stellen Sie in den FastComments-Einstellungen die Region auf „eu“ ein, damit Widgets und API-Aufrufe an die EU-Region weitergeleitet werden. Wir unterstützen Datenexportanfragen, das Recht auf Löschung und stellen auf Anfrage eine Vereinbarung zur Auftragsverarbeitung (AVV) bereit.",
     "FINAL_CTA_DESCRIPTION": "Installieren Sie das Paket, laden Sie die Tag-Bibliothek, fügen Sie einen Template-Tag ein und gehen Sie in wenigen Minuten live.",
-    "FAQ_DJANGO_API_ANSWER": "Ja. Installieren Sie das zusätzliche Paket, um das FastComments Python SDK bereitzustellen: `admin()` für authentifizierte Aufrufe, `public_api()` für öffentliche Aufrufe und `get_manager()` zum Signieren von SSO-Tokens. Nutzen Sie diese Funktionen, um Kommentare zu erstellen, zu aktualisieren oder zu löschen, Benutzer zu verwalten, Analysedaten abzurufen und vieles mehr – direkt aus Ihren Ansichten oder Hintergrundprozessen."
+    "FAQ_DJANGO_API_ANSWER": "Ja. Installieren Sie das API-Extra, und das Paket stellt das FastComments Python SDK bereit: `admin()` für authentifizierte Aufrufe, `public_api()` für öffentliche Aufrufe und `get_manager()` zum Signieren von SSO-Tokens. Verwenden Sie diese Funktionen, um Kommentare zu erstellen, zu aktualisieren oder zu löschen, Benutzer zu verwalten, Analysedaten abzurufen und vieles mehr – direkt aus Ihren Ansichten oder Hintergrundprozessen."
 }

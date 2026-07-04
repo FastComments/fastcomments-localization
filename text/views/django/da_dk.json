@@ -55,7 +55,7 @@
     "SSO_NONE_FEATURE_2": "E-mailbaserede konti",
     "HOW_IT_WORKS_STEP_1_FILE": "bash",
     "HOW_IT_WORKS_SUBTITLE": "Tre trin til livekommentarer i din Django-app.",
-    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Installer pakken fra GitHub med pip. Tilføj [api] ekstra, når du ønsker REST-adgang på serversiden.",
+    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Installer pakken fra GitHub med pip. Tilføj den ekstra API, når du ønsker REST-adgang på serversiden.",
     "HOW_IT_WORKS_STEP_2_TITLE": "Tilføj appen og API-nøglen",
     "HOW_IT_WORKS_STEP_2_FILE": "indstillinger.py",
     "HOW_IT_WORKS_STEP_3_TITLE": "Drop-in skabelon-tags",
@@ -79,5 +79,5 @@
     "FAQ_DJANGO_CUSTOMIZE": "Kan jeg tilpasse widget-markeringen?",
     "FAQ_DJANGO_API": "Kan jeg få adgang til FastComments API'en fra Django?",
     "FAQ_DJANGO_CUSTOMIZE_ANSWER": "Ja. Tilsidesæt skabelonen fastcomments/widget.html ved at placere din egen kopi tidligere på skabelonens søgesti. Hvert tag accepterer også standard FastComments-konfigurationsindstillinger som nøgleordsargumenter, hvilket giver dig fuld kontrol over udseende og adfærd uden at redigere pakken.",
-    "FAQ_DJANGO_API_ANSWER": "Ja. Installer [api] ekstramaterialet, og pakken eksponerer FastComments Python SDK: admin() til godkendte kald, public_api() til offentlige kald og get_manager() til signering af SSO-tokens. Brug dem til at oprette, opdatere eller slette kommentarer, administrere brugere, hente analyser og mere fra dine visninger eller baggrundsjob."
+    "FAQ_DJANGO_API_ANSWER": "Ja. Installer API-ekstraen, og pakken eksponerer FastComments Python SDK: admin() til godkendte kald, public_api() til offentlige kald og get_manager() til signering af SSO-tokens. Brug dem til at oprette, opdatere eller slette kommentarer, administrere brugere, hente analyser og mere fra dine visninger eller baggrundsjob."
 }

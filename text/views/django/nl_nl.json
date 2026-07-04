@@ -54,7 +54,7 @@
     "SSO_NONE_TITLE": "Geen eenmalige aanmelding",
     "HOW_IT_WORKS_TITLE": "Binnen enkele minuten operationeel",
     "HOW_IT_WORKS_SUBTITLE": "Drie stappen om live reacties in je Django-app te implementeren.",
-    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Installeer het pakket vanaf GitHub met pip. Voeg de extra optie [api] toe als je server-side REST-toegang wilt.",
+    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Installeer het pakket vanuit GitHub met pip. Voeg de `api` extra toe als je server-side REST-toegang wilt.",
     "HOW_IT_WORKS_STEP_2_FILE": "instellingen.py",
     "HOW_IT_WORKS_STEP_2_TITLE": "Voeg de app- en API-sleutel toe",
     "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Voeg \"fastcomments_django\" toe aan INSTALLED_APPS en stel vervolgens de FASTCOMMENTS-dictionary in met uw TENANT_ID en API_KEY.",
@@ -79,5 +79,5 @@
     "FAQ_DJANGO_API": "Kan ik de FastComments API vanuit Django benaderen?",
     "FINAL_CTA_DESCRIPTION": "Installeer het pakket, laad de tagbibliotheek, voeg een sjabloontag toe en ga binnen enkele minuten live.",
     "FAQ_DJANGO_CUSTOMIZE_ANSWER": "Ja. Je kunt de fastcomments/widget.html-template overschrijven door je eigen kopie eerder in het template-zoekpad te plaatsen. Elke tag accepteert ook standaard FastComments-configuratieopties als trefwoordargumenten, waardoor je volledige controle hebt over het uiterlijk en gedrag zonder het pakket te hoeven bewerken.",
-    "FAQ_DJANGO_API_ANSWER": "Ja. Installeer de extra module en het pakket stelt de FastComments Python SDK beschikbaar: admin() voor geauthenticeerde aanroepen, public_api() voor openbare aanroepen en get_manager() voor het ondertekenen van SSO-tokens. Gebruik deze functies om reacties te maken, bij te werken of te verwijderen, gebruikers te beheren, analyses op te halen en meer vanuit uw weergaven of achtergrondtaken."
+    "FAQ_DJANGO_API_ANSWER": "Ja. Installeer de api extra en het pakket stelt de FastComments Python SDK beschikbaar: admin() voor geauthenticeerde aanroepen, public_api() voor openbare aanroepen en get_manager() voor het ondertekenen van SSO-tokens. Gebruik deze functies om reacties te maken, bij te werken of te verwijderen, gebruikers te beheren, analyses op te halen en meer vanuit uw weergaven of achtergrondtaken."
 }

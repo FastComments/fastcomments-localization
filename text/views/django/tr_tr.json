@@ -57,7 +57,7 @@
     "HOW_IT_WORKS_TITLE": "Dakikalar içinde kullanıma hazır",
     "HOW_IT_WORKS_STEP_1_TITLE": "pip ile yükleyin",
     "HOW_IT_WORKS_STEP_1_CODE": "pip install \"git+https://github.com/fastcomments/fastcomments-django.git@v0.1.0\"",
-    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "GitHub'dan paketi pip ile yükleyin. Sunucu tarafı REST erişimi istediğinizde [api] ekini ekleyin.",
+    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "GitHub'dan paketi pip ile yükleyin. Sunucu tarafı REST erişimi istediğinizde `api` ek paketini ekleyin.",
     "HOW_IT_WORKS_STEP_2_FILE": "ayarlar.py",
     "HOW_IT_WORKS_STEP_2_TITLE": "Uygulamayı ve API Anahtarını Ekleyin",
     "FAQ_DJANGO_FREE_TRIAL": "Ücretsiz deneme sürümü var mı?",
@@ -76,7 +76,7 @@
     "FAQ_DJANGO_GDPR": "FastComments GDPR uyumlu mu?",
     "FAQ_DJANGO_VERSIONS_ANSWER": "FastComments Django paketi, Django 4.2, 5.0, 5.1 ve 5.2 sürümlerini destekler ve Python 3.10 veya üzeri bir sürüm gerektirir. INSTALLED_APPS'te tek bir girişle standart bir Django uygulaması olarak kurulur.",
     "FAQ_DJANGO_GDPR_ANSWER": "Evet. FastComments, tüm verileri Avrupa içinde tutan isteğe bağlı AB merkezli bir CDN ile tamamen GDPR uyumludur. FASTCOMMENTS ayarlarında BÖLGE'yi \"eu\" olarak ayarlarsanız, paket widget'ları ve API çağrılarını AB bölgesine yönlendirir. Veri dışa aktarma isteklerini, silme hakkını destekliyoruz ve talep üzerine Veri İşleme Sözleşmesi (DPA) sağlıyoruz.",
-    "FAQ_DJANGO_API_ANSWER": "Evet. [api] ek paketini yükleyin ve bu paket FastComments Python SDK'sını kullanıma sunar: kimlik doğrulamalı çağrılar için admin(), genel çağrılar için public_api() ve SSO belirteçlerini imzalamak için get_manager(). Bunları kullanarak görünümlerinizden veya arka plan işlerinizden yorum oluşturabilir, güncelleyebilir veya silebilir, kullanıcıları yönetebilir, analiz verilerini alabilir ve daha fazlasını yapabilirsiniz.",
+    "FAQ_DJANGO_API_ANSWER": "Evet. api extra paketini yükleyin ve paket, FastComments Python SDK'sını kullanıma sunar: kimlik doğrulamalı çağrılar için admin(), genel çağrılar için public_api() ve SSO token'larını imzalamak için get_manager(). Bunları kullanarak görünümlerinizden veya arka plan işlerinizden yorum oluşturabilir, güncelleyebilir veya silebilir, kullanıcıları yönetebilir, analiz verilerini alabilir ve daha fazlasını yapabilirsiniz.",
     "FAQ_DJANGO_CUSTOMIZE_ANSWER": "Evet. Kendi kopyanızı şablon arama yolunda daha önce yerleştirerek fastcomments/widget.html şablonunu geçersiz kılın. Her etiket ayrıca standart FastComments yapılandırma seçeneklerini anahtar kelime bağımsız değişkenleri olarak kabul eder ve bu da paketi düzenlemeden görünüm ve davranış üzerinde tam kontrol sağlar.",
     "FINAL_CTA_TITLE": "Django uygulamanıza yorum eklemeye hazır mısınız?",
     "FINAL_CTA_DESCRIPTION": "Paketi kurun, etiket kütüphanesini yükleyin, bir şablon etiketi ekleyin ve dakikalar içinde yayına geçin."

@@ -57,7 +57,7 @@
     "HOW_IT_WORKS_TITLE": "몇 분 만에 설치 및 작동 가능",
     "HOW_IT_WORKS_STEP_1_FILE": "세게 때리다",
     "HOW_IT_WORKS_STEP_2_FILE": "설정.py",
-    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "pip를 사용하여 GitHub에서 패키지를 설치하세요. 서버 측 REST 접근이 필요한 경우 [api]를 추가하세요.",
+    "HOW_IT_WORKS_STEP_1_DESCRIPTION": "pip를 사용하여 GitHub에서 패키지를 설치하세요. 서버 측 REST 접근이 필요한 경우 api extra를 추가하세요.",
     "HOW_IT_WORKS_STEP_2_DESCRIPTION": "INSTALLED_APPS에 \"fastcomments_django\"를 추가한 다음, FASTCOMMENTS 딕셔너리에 TENANT_ID와 API_KEY를 설정하세요.",
     "HOW_IT_WORKS_STEP_1_CODE": "pip install \"git+https://github.com/fastcomments/fastcomments-django.git@v0.1.0\"",
     "HOW_IT_WORKS_STEP_2_TITLE": "앱 및 API 키를 추가하세요",
@@ -77,7 +77,7 @@
     "FAQ_DJANGO_VERSIONS_ANSWER": "FastComments Django 패키지는 Django 4.2, 5.0, 5.1 및 5.2 버전을 지원하며 Python 3.10 이상이 필요합니다. 이 패키지는 INSTALLED_APPS에 단일 항목으로 추가되는 표준 Django 앱으로 설치됩니다.",
     "FAQ_DJANGO_GDPR_ANSWER": "네. FastComments는 GDPR을 완벽하게 준수하며, 모든 데이터를 유럽 내에 보관하는 EU 기반 CDN을 선택적으로 제공합니다. FASTCOMMENTS 설정에서 REGION을 \"eu\"로 설정하면 패키지가 위젯과 API 호출을 EU 지역으로 라우팅합니다. 데이터 내보내기 요청, 삭제 요청 권리를 지원하며, 요청 시 데이터 처리 계약(DPA)을 제공합니다.",
     "FAQ_DJANGO_CUSTOMIZE_ANSWER": "예. fastcomments/widget.html 템플릿을 재정의하려면 템플릿 검색 경로에서 사용자 정의 코드를 더 앞쪽에 배치하면 됩니다. 모든 태그는 표준 FastComments 구성 옵션을 키워드 인수로 허용하므로 패키지를 수정하지 않고도 모양과 동작을 완벽하게 제어할 수 있습니다.",
-    "FAQ_DJANGO_API_ANSWER": "네. [api] 추가 패키지를 설치하면 FastComments Python SDK를 사용할 수 있습니다. 인증된 사용자 호출을 위한 admin(), 공개 호출을 위한 public_api(), 그리고 SSO 토큰 서명을 위한 get_manager() 함수를 사용할 수 있습니다. 이러한 함수를 사용하여 뷰 또는 백그라운드 작업에서 댓글 생성, 수정, 삭제, 사용자 관리, 분석 데이터 가져오기 등을 수행할 수 있습니다.",
+    "FAQ_DJANGO_API_ANSWER": "네. API 추가 기능을 설치하면 FastComments Python SDK를 사용할 수 있습니다. 인증된 사용자 호출을 위한 `admin()`, 공개 호출을 위한 `public_api()`, 그리고 SSO 토큰 서명을 위한 `get_manager()` 함수를 사용할 수 있습니다. 이러한 함수를 사용하여 뷰 또는 백그라운드 작업에서 댓글 생성, 수정, 삭제, 사용자 관리, 분석 데이터 가져오기 등을 수행할 수 있습니다.",
     "FINAL_CTA_TITLE": "Django 앱에 댓글 기능을 추가할 준비가 되셨나요?",
     "FINAL_CTA_DESCRIPTION": "패키지를 설치하고, 태그 라이브러리를 로드하고, 템플릿 태그를 추가하면 몇 분 안에 서비스를 시작할 수 있습니다."
 }
