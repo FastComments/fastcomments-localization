@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "Svar: \"[response]\"",
     "MSG_ENGINE_TOKENS": "Brugte tokens: [tokens]",
     "MSG_TRUST_FACTOR": "Tillidsfaktor: [trustFactor]",
-    "MSG_INVALID_LOCALE": "Den ugyldige sprogindstilling \"[invalidLocale]\" blev angivet. Sproget \"[detectedLanguage]\" blev fundet, og sprogindstillingen blev indstillet til \"[detectedLocale]\"."
+    "MSG_INVALID_LOCALE": "Den ugyldige sprogindstilling \"[invalidLocale]\" blev angivet. Sproget \"[detectedLanguage]\" blev fundet, og sprogindstillingen blev indstillet til \"[detectedLocale]\".",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Kommentaren er kun et link til webstedets eget domæne."
 }

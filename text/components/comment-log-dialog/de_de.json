@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "Antwort: \"[response]\"",
     "MSG_ENGINE_TOKENS": "Verwendete Token: [tokens]",
     "MSG_TRUST_FACTOR": "Vertrauensfaktor: [trustFactor]",
-    "MSG_INVALID_LOCALE": "Ungültiges Gebietsschema \"[invalidLocale]\" übergeben. Sprache \"[detectedLanguage]\" erkannt und Gebietsschema auf \"[detectedLocale]\" gesetzt."
+    "MSG_INVALID_LOCALE": "Ungültiges Gebietsschema \"[invalidLocale]\" übergeben. Sprache \"[detectedLanguage]\" erkannt und Gebietsschema auf \"[detectedLocale]\" gesetzt.",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Der Kommentar ist lediglich ein Link zur Domain der Website."
 }

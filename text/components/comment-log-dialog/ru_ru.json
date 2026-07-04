@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "Ответ: \"[response]\"",
     "MSG_ENGINE_TOKENS": "Использовано токенов: [tokens]",
     "MSG_TRUST_FACTOR": "Фактор доверия: [trustFactor]",
-    "MSG_INVALID_LOCALE": "Передана недопустимая локаль \"[invalidLocale]\". Обнаружен язык \"[detectedLanguage]\" и установлена локаль \"[detectedLocale]\"."
+    "MSG_INVALID_LOCALE": "Передана недопустимая локаль \"[invalidLocale]\". Обнаружен язык \"[detectedLanguage]\" и установлена локаль \"[detectedLocale]\".",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Комментарий представляет собой лишь ссылку на собственный домен сайта."
 }

@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "Απάντηση: \"[response]\"",
     "MSG_ENGINE_TOKENS": "Διακριτικά που χρησιμοποιήθηκαν: [tokens]",
     "MSG_TRUST_FACTOR": "Παράγοντας εμπιστοσύνης: [trustFactor]",
-    "MSG_INVALID_LOCALE": "Έγινε μη έγκυρη τοπική ρύθμιση \"[invalidLocale]\". Εντοπίστηκε η γλώσσα \"[detectedLanguage]\" και ορίστηκε η τοπική ρύθμιση σε \"[detectedLocale]\"."
+    "MSG_INVALID_LOCALE": "Έγινε μη έγκυρη τοπική ρύθμιση \"[invalidLocale]\". Εντοπίστηκε η γλώσσα \"[detectedLanguage]\" και ορίστηκε η τοπική ρύθμιση σε \"[detectedLocale]\".",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Το σχόλιο είναι απλώς ένας σύνδεσμος προς τον τομέα του ιστότοπου."
 }

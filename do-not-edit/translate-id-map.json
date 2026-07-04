@@ -314,7 +314,7 @@
         "flex-billing": 19,
         "render-error-item": 3,
         "user-permissions": 27,
-        "comment-log-dialog": 97,
+        "comment-log-dialog": 98,
         "my-account-invoice-settings": 24,
         "my-account-rss": 10,
         "import-logs": 3,
@@ -6704,7 +6704,8 @@
         "t94": "MSG_ENGINE_RESPONSE",
         "t95": "MSG_ENGINE_TOKENS",
         "t96": "MSG_TRUST_FACTOR",
-        "t97": "MSG_INVALID_LOCALE"
+        "t97": "MSG_INVALID_LOCALE",
+        "t98": "MSG_ONLY_TRUSTED_DOMAIN_LINK"
     },
     "my-account-invoice-settings": {
         "t1": "TITLE",

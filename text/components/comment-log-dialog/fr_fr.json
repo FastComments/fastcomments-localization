@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "Réponse: \"[response]\"",
     "MSG_ENGINE_TOKENS": "Jetons utilisés : [tokens]",
     "MSG_TRUST_FACTOR": "Facteur de confiance : [trustFactor]",
-    "MSG_INVALID_LOCALE": "Paramètres régionaux invalides « [invalidLocale] » transmis. Langue détectée : « [detectedLanguage] », paramètres régionaux définis sur « [detectedLocale] »."
+    "MSG_INVALID_LOCALE": "Paramètres régionaux invalides « [invalidLocale] » transmis. Langue détectée : « [detectedLanguage] », paramètres régionaux définis sur « [detectedLocale] ».",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Le commentaire n'est qu'un lien vers le domaine du site."
 }

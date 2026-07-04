@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "תגובה: \"[response]\"",
     "MSG_ENGINE_TOKENS": "אסימונים בהם נעשה שימוש: [tokens]",
     "MSG_TRUST_FACTOR": "גורם אמון: [trustFactor]",
-    "MSG_INVALID_LOCALE": "הועברה שפה לא חוקית בשם \"[invalidLocale]\". זוהתה השפה \"[detectedLanguage]\" והמיקום הוגדר ל-\"[detectedLocale]\"."
+    "MSG_INVALID_LOCALE": "הועברה שפה לא חוקית בשם \"[invalidLocale]\". זוהתה השפה \"[detectedLanguage]\" והמיקום הוגדר ל-\"[detectedLocale]\".",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "התגובה היא רק קישור לדומיין של האתר עצמו."
 }

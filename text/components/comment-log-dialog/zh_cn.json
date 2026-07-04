@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "回复： ”[response]”",
     "MSG_ENGINE_TOKENS": "使用的令牌：[tokens]",
     "MSG_TRUST_FACTOR": "信任度：[trustFactor]",
-    "MSG_INVALID_LOCALE": "传递的区域设置“[invalidLocale]”无效。检测到语言“[detectedLanguage]”，并将区域设置设置为“[detectedLocale]”。"
+    "MSG_INVALID_LOCALE": "传递的区域设置“[invalidLocale]”无效。检测到语言“[detectedLanguage]”，并将区域设置设置为“[detectedLocale]”。",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "评论只是指向本网站自身域名的链接。"
 }

@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "Одговор: „[response]“",
     "MSG_ENGINE_TOKENS": "Коришћени токени: [tokens]",
     "MSG_TRUST_FACTOR": "Фактор поверења: [trustFactor]",
-    "MSG_INVALID_LOCALE": "Прослеђен је неважећи локалитет „[invalidLocale]“. Детектован је језик „[detectedLanguage]“ и локалитет је подешен на „[detectedLocale]“."
+    "MSG_INVALID_LOCALE": "Прослеђен је неважећи локалитет „[invalidLocale]“. Детектован је језик „[detectedLanguage]“ и локалитет је подешен на „[detectedLocale]“.",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Коментар је само линк ка сопственом домену сајта."
 }

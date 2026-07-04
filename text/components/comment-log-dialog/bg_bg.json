@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "Отговор: \"[response]\"",
     "MSG_ENGINE_TOKENS": "Използвани токени: [tokens]",
     "MSG_TRUST_FACTOR": "Фактор на доверие: [trustFactor]",
-    "MSG_INVALID_LOCALE": "Предадена е невалидна локализация „[invalidLocale]“. Открит е език „[detectedLanguage]“ и локализацията е зададена на „[detectedLocale]“."
+    "MSG_INVALID_LOCALE": "Предадена е невалидна локализация „[invalidLocale]“. Открит е език „[detectedLanguage]“ и локализацията е зададена на „[detectedLocale]“.",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Коментарът е само линк към собствения домейн на сайта."
 }

@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "Odgovor: \"[response]\"",
     "MSG_ENGINE_TOKENS": "Uporabljeni žetoni: [tokens]",
     "MSG_TRUST_FACTOR": "Faktor zaupanja: [trustFactor]",
-    "MSG_INVALID_LOCALE": "Podana je bila neveljavna lokalna nastavitev »[invalidLocale]«. Zaznan je bil jezik »[detectedLanguage]« in lokalna nastavitev je nastavljena na »[detectedLocale]«."
+    "MSG_INVALID_LOCALE": "Podana je bila neveljavna lokalna nastavitev »[invalidLocale]«. Zaznan je bil jezik »[detectedLanguage]« in lokalna nastavitev je nastavljena na »[detectedLocale]«.",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Komentar je le povezava do lastne domene spletnega mesta."
 }

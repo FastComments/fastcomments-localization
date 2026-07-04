@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "応答： \"[response]\"",
     "MSG_ENGINE_TOKENS": "使用されたトークン: [tokens]",
     "MSG_TRUST_FACTOR": "信頼度: [trustFactor]",
-    "MSG_INVALID_LOCALE": "無効なロケール「[invalidLocale]」が渡されました。言語「[detectedLanguage]」を検出し、ロケールを「[detectedLocale]」に設定しました。"
+    "MSG_INVALID_LOCALE": "無効なロケール「[invalidLocale]」が渡されました。言語「[detectedLanguage]」を検出し、ロケールを「[detectedLocale]」に設定しました。",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "コメントは、サイト自身のドメインへのリンクに過ぎません。"
 }

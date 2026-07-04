@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "Odgovor: \"[response]\"",
     "MSG_ENGINE_TOKENS": "Korišteni tokeni: [tokens]",
     "MSG_TRUST_FACTOR": "Faktor povjerenja: [trustFactor]",
-    "MSG_INVALID_LOCALE": "Proslijeđena je nevažeća lokalizacija \"[invalidLocale]\". Otkriven je jezik \"[detectedLanguage]\" i lokalizacija je postavljena na \"[detectedLocale]\"."
+    "MSG_INVALID_LOCALE": "Proslijeđena je nevažeća lokalizacija \"[invalidLocale]\". Otkriven je jezik \"[detectedLanguage]\" i lokalizacija je postavljena na \"[detectedLocale]\".",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Komentar je samo poveznica na vlastitu domenu web-mjesta."
 }

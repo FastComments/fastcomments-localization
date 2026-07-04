@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "Resposta: \"[response]\"",
     "MSG_ENGINE_TOKENS": "Tokens utilizados: [tokens]",
     "MSG_TRUST_FACTOR": "Fator de confiança: [trustFactor]",
-    "MSG_INVALID_LOCALE": "Foi passada uma localidade inválida \"[invalidLocale]\". O idioma detectado foi \"[detectedLanguage]\" e a localidade foi definida como \"[detectedLocale]\"."
+    "MSG_INVALID_LOCALE": "Foi passada uma localidade inválida \"[invalidLocale]\". O idioma detectado foi \"[detectedLanguage]\" e a localidade foi definida como \"[detectedLocale]\".",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "O comentário é apenas um link para o domínio do próprio site."
 }

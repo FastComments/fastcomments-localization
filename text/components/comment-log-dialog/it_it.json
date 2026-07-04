@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "Risposta: \"[response]\"",
     "MSG_ENGINE_TOKENS": "Token utilizzati: [tokens]",
     "MSG_TRUST_FACTOR": "Fattore di fiducia: [trustFactor]",
-    "MSG_INVALID_LOCALE": "È stata passata la lingua non valida \"[invalidLocale]\". È stata rilevata la lingua \"[detectedLanguage]\" ed è stata impostata la lingua locale su \"[detectedLocale]\"."
+    "MSG_INVALID_LOCALE": "È stata passata la lingua non valida \"[invalidLocale]\". È stata rilevata la lingua \"[detectedLanguage]\" ed è stata impostata la lingua locale su \"[detectedLocale]\".",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Il commento è semplicemente un link al dominio del sito stesso."
 }

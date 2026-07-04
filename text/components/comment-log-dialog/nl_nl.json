@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "Antwoord: \"[response]\"",
     "MSG_ENGINE_TOKENS": "Gebruikte tokens: [tokens]",
     "MSG_TRUST_FACTOR": "Vertrouwensfactor: [trustFactor]",
-    "MSG_INVALID_LOCALE": "Er is een ongeldige landinstelling \"[invalidLocale]\" doorgegeven. De gedetecteerde taal is \"[detectedLanguage]\" en de landinstelling is ingesteld op \"[detectedLocale]\"."
+    "MSG_INVALID_LOCALE": "Er is een ongeldige landinstelling \"[invalidLocale]\" doorgegeven. De gedetecteerde taal is \"[detectedLanguage]\" en de landinstelling is ingesteld op \"[detectedLocale]\".",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Een reactie is slechts een link naar het eigen domein van de website."
 }

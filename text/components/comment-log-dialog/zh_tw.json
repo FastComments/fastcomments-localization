@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "回覆: \"[response]\"",
     "MSG_ENGINE_TOKENS": "使用的 token：[tokens]",
     "MSG_TRUST_FACTOR": "信任度：[trustFactor]",
-    "MSG_INVALID_LOCALE": "傳遞的區域設定「[invalidLocale]」無效。偵測到語言「[detectedLanguage]」，並將區域設定設為「[detectedLocale]」。"
+    "MSG_INVALID_LOCALE": "傳遞的區域設定「[invalidLocale]」無效。偵測到語言「[detectedLanguage]」，並將區域設定設為「[detectedLocale]」。",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "評論只是指向本網站自身網域的連結。"
 }

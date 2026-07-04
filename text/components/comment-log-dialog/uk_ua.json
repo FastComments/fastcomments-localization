@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "Відповідь: \"[response]\"",
     "MSG_ENGINE_TOKENS": "Використано токенів: [tokens]",
     "MSG_TRUST_FACTOR": "Фактор довіри: [trustFactor]",
-    "MSG_INVALID_LOCALE": "Передано недійсний мовний код \"[invalidLocale]\". Виявлено мову \"[detectedLanguage]\" та встановлено мовний код на \"[detectedLocale]\"."
+    "MSG_INVALID_LOCALE": "Передано недійсний мовний код \"[invalidLocale]\". Виявлено мову \"[detectedLanguage]\" та встановлено мовний код на \"[detectedLocale]\".",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Коментар — це лише посилання на власний домен сайту."
 }

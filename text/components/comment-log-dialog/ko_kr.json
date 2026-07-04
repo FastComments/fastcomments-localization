@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "응답: \"[response]\"",
     "MSG_ENGINE_TOKENS": "사용된 토큰: [tokens]",
     "MSG_TRUST_FACTOR": "신뢰도: [trustFactor]",
-    "MSG_INVALID_LOCALE": "잘못된 로케일 \"[invalidLocale]\"이 전달되었습니다. 감지된 언어는 \"[detectedLanguage]\"이며, 로케일을 \"[detectedLocale]\"으로 설정했습니다."
+    "MSG_INVALID_LOCALE": "잘못된 로케일 \"[invalidLocale]\"이 전달되었습니다. 감지된 언어는 \"[detectedLanguage]\"이며, 로케일을 \"[detectedLocale]\"으로 설정했습니다.",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "댓글은 해당 사이트 도메인으로 연결되는 링크일 뿐입니다."
 }

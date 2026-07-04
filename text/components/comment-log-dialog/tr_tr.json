@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "Cevap: \"[response]\"",
     "MSG_ENGINE_TOKENS": "Kullanılan jetonlar: [tokens]",
     "MSG_TRUST_FACTOR": "Güven faktörü: [trustFactor]",
-    "MSG_INVALID_LOCALE": "Geçersiz yerel ayar \"[invalidLocale]\" belirtildi. \"[detectedLanguage]\" dili algılandı ve yerel ayar \"[detectedLocale]\" olarak ayarlandı."
+    "MSG_INVALID_LOCALE": "Geçersiz yerel ayar \"[invalidLocale]\" belirtildi. \"[detectedLanguage]\" dili algılandı ve yerel ayar \"[detectedLocale]\" olarak ayarlandı.",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Yorum yalnızca sitenin kendi alan adına bir bağlantıdır."
 }

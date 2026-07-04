@@ -95,5 +95,6 @@
     "MSG_ENGINE_RESPONSE": "Odpowiedź: \"[response]\"",
     "MSG_ENGINE_TOKENS": "Użyte tokeny: [tokens]",
     "MSG_TRUST_FACTOR": "Współczynnik zaufania: [trustFactor]",
-    "MSG_INVALID_LOCALE": "Przekazano nieprawidłowe ustawienia regionalne „[invalidLocale]”. Wykryto język „[detectedLanguage]” i ustawiono ustawienia regionalne na „[detectedLocale]”."
+    "MSG_INVALID_LOCALE": "Przekazano nieprawidłowe ustawienia regionalne „[invalidLocale]”. Wykryto język „[detectedLanguage]” i ustawiono ustawienia regionalne na „[detectedLocale]”.",
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Komentarz jest jedynie odnośnikiem do domeny danej witryny."
 }
