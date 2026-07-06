@@ -201,7 +201,7 @@
         "my-account-manage-data-import-scheduled-comments": 53,
         "my-account-manage-data-import-scheduled-comments-table": 9,
         "my-account-manage-data-import-table": 20,
-        "my-account-manage-data-integrations": 24,
+        "my-account-manage-data-integrations": 33,
         "my-account-manage-data-integrations-integration-delete": 7,
         "my-account-manage-data-integrations-integration-logs": 7,
         "my-account-manage-data-integrations-integration-settings": 8,
@@ -4713,7 +4713,16 @@
         "t21": "STATUS_DISABLED",
         "t22": "MANAGE_LINK",
         "t23": "TYPE_CANVAS_LTI",
-        "t24": "ZENDESK_CONNECT_LINK_TEXT"
+        "t24": "ZENDESK_CONNECT_LINK_TEXT",
+        "t25": "ADD_HEADING",
+        "t26": "CONNECT_ZENDESK",
+        "t27": "CONNECT_ZENDESK_DESC",
+        "t28": "CONNECT_LTI",
+        "t29": "CONNECT_LTI_DESC",
+        "t30": "CONNECT_CANVAS",
+        "t31": "CONNECT_CANVAS_DESC",
+        "t32": "CONNECT_WORDPRESS",
+        "t33": "CONNECT_WORDPRESS_DESC"
     },
     "my-account-manage-data-integrations-integration-delete": {
         "t1": "PAGE_TITLE",
