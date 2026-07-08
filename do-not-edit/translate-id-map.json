@@ -267,11 +267,11 @@
         "notification-opt-out-comment-success": 5,
         "pending-tenant-signup-success": 6,
         "pricing-calculator-tier": 7,
-        "pricing-v2": 40,
+        "pricing-v2": 43,
         "privacy-policy": 113,
         "product-demo-collab-chat": 33,
         "product-demo-image-chat": 13,
-        "product-demo-live-chat": 18,
+        "product-demo-live-chat": 19,
         "profile-comment-approve-success": 5,
         "profile-comment-reject-success": 5,
         "public-installation-wizard": 5,
@@ -5964,7 +5964,10 @@
         "t37": "LETS_TALK_ARIA",
         "t38": "LETS_TALK_FOOTER",
         "t39": "LETS_TALK_STATUS_ONLINE",
-        "t40": "LETS_TALK_STATUS_OFFLINE"
+        "t40": "LETS_TALK_STATUS_OFFLINE",
+        "t41": "DESCRIPTION_MOST_SITES",
+        "t42": "RATES_TITLE",
+        "t43": "INCLUDED_TITLE"
     },
     "privacy-policy": {
         "t1": "PAGE_TITLE",
@@ -6149,7 +6152,8 @@
         "t15": "TRY_IT_NOW_SUBHEADING",
         "t16": "SNIPPET_SELECT_PLATFORM",
         "t17": "SNIPPET_COPY_TITLE",
-        "t18": "SNIPPET_COPIED"
+        "t18": "SNIPPET_COPIED",
+        "t19": "INTRO_TEXT"
     },
     "profile-comment-approve-success": {
         "t1": "PAGE_TITLE",
