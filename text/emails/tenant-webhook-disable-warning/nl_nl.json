@@ -1,0 +1,8 @@
+{
+    "INTRO": "Hoi <%= username %>,",
+    "FROM_NAME": "FastComments-robot",
+    "DETAILS_LINE_ONE": "Dit is een geautomatiseerde e-mail. De volgende webhook-integraties zijn al ongeveer een week niet succesvol afgeleverd - elke poging mislukt:",
+    "SUBJECT": "Actie vereist: Uw FastComments-webhook wordt binnenkort uitgeschakeld.",
+    "IN_APP_MESSAGE": "Een of meer van uw webhooks werken niet meer en worden binnenkort uitgeschakeld. Klik hier om te controleren.",
+    "DETAILS_LINE_TWO": "Ze worden automatisch uitgeschakeld op <%= readableDisableDate %> tenzij een levering vóór die tijd succesvol is. Gebeurtenissen in de wachtrij worden bewaard, maar niet afgeleverd totdat u het eindpunt hebt gecorrigeerd en de webhook opnieuw hebt ingeschakeld. <a href=\"<%= webhooksPageURL %>\">U kunt uw webhooks hier bekijken.</a>"
+}

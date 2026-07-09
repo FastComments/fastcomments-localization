@@ -29,5 +29,13 @@
     "TEST_STATUS_NO_URL": "Inserisci prima un URL.",
     "TEST_STATUS_SUCCESS": "✔️ Payload di prova inviato! Stato: [statusCode]",
     "TEST_STATUS_FAILED": "❌ Test del payload fallito. Stato: [statusCode]",
-    "TEST_STATUS_ERROR": "❌ Impossibile inviare il payload di prova."
+    "TEST_STATUS_ERROR": "❌ Impossibile inviare il payload di prova.",
+    "WEBHOOK_STATUS_DISABLED": "Disabile",
+    "WEBHOOK_ENABLE_BUTTON": "Abilitare",
+    "WEBHOOK_DISABLE_BUTTON": "Disabilita",
+    "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Questo webhook è stato disabilitato il [date]. Gli eventi in coda vengono conservati e saranno recapitati non appena verrà riattivato.",
+    "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Questo webhook è stato disabilitato automaticamente il [date] dopo circa una settimana di mancate consegne. Gli eventi in coda vengono conservati e saranno recapitati non appena si corregge l'endpoint e lo si riattiva.",
+    "WEBHOOK_DISABLE_CONFIRM": "Disabilitare questo webhook? Gli eventi verranno conservati, ma non recapitati finché non verrà riattivato.",
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ In caso di errore, il sistema verrà disabilitato [date]",
+    "WEBHOOK_TOGGLE_ERROR": "❌ Impossibile aggiornare il webhook. Riprova."
 }

@@ -1,0 +1,8 @@
+{
+    "INTRO": "Hey <%= username %>,",
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "Your FastComments Webhook Has Been Disabled",
+    "DETAILS_LINE_ONE": "This is an automated email. The following webhook integrations were automatically disabled after about a week of failed deliveries:",
+    "DETAILS_LINE_TWO": "Queued events are kept and will be delivered once you fix the endpoint and re-enable the webhook. <a href=\"<%= webhooksPageURL %>\">You can re-enable your webhooks here.</a>",
+    "IN_APP_MESSAGE": "One or more of your webhooks were disabled after repeated failures. Click to review and re-enable."
+}

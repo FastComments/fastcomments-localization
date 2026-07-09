@@ -29,5 +29,13 @@
     "BUTTON_SET_READY": "Set Ready",
     "BUTTON_SET_NOT_READY": "Set Not Ready",
     "CONFIRM_SET_READY": "This will manually set the webhook status as Ready, bypassing the API Key validation. Continue?",
-    "EVENTS_IN_QUEUE": "[count] events in queue."
+    "EVENTS_IN_QUEUE": "[count] events in queue.",
+    "WEBHOOK_STATUS_DISABLED": "Disabled",
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Failing - will be disabled [date]",
+    "WEBHOOK_AUTO_DISABLED_EXPLANATION": "This webhook was automatically disabled on [date] after about a week of failed deliveries. Queued events are kept and will be delivered once you fix the endpoint and re-enable it.",
+    "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "This webhook was disabled on [date]. Queued events are kept and will be delivered once it is re-enabled.",
+    "WEBHOOK_ENABLE_BUTTON": "Enable",
+    "WEBHOOK_DISABLE_BUTTON": "Disable",
+    "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
+    "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again."
 }

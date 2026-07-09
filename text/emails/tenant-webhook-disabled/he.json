@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "רובוט FastComments",
+    "SUBJECT": "ה-Webhook של FastComments שלך הושבת",
+    "INTRO": "היי <%= username %>,",
+    "DETAILS_LINE_ONE": "זהו אימייל אוטומטי. האינטגרציות הבאות של webhook הושבתו אוטומטית לאחר כשבוע של מסירות כושלות:",
+    "DETAILS_LINE_TWO": "אירועים בתור נשמרים ויסופקו לאחר שתתקן את נקודת הקצה ותפעיל מחדש את ה-webhook. <a href=\"<%= webhooksPageURL %>\">ניתן להפעיל מחדש את ה-webhooks כאן.</a>",
+    "IN_APP_MESSAGE": "אחד או יותר מה-webhooks שלך הושבתו לאחר כשלים חוזרים. לחץ כדי לבדוק ולהפעיל מחדש."
+}

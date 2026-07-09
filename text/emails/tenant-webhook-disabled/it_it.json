@@ -1,0 +1,8 @@
+{
+    "INTRO": "EHI <%= username %>,",
+    "DETAILS_LINE_ONE": "Questa è un'email automatica. Le seguenti integrazioni webhook sono state disattivate automaticamente dopo circa una settimana di mancate consegne:",
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "Il tuo webhook di FastComments è stato disabilitato.",
+    "DETAILS_LINE_TWO": "Gli eventi in coda vengono conservati e saranno recapitati non appena avrai corretto l&#39;endpoint e riattivato il webhook. <a href=\"<%= webhooksPageURL %>\">Puoi riattivare i tuoi webhook qui.</a>",
+    "IN_APP_MESSAGE": "Uno o più webhook sono stati disabilitati a seguito di ripetuti errori. Fai clic per visualizzarli e riattivarli."
+}

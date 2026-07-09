@@ -29,5 +29,13 @@
     "TEST_STATUS_NO_URL": "まずURLを入力してください。",
     "TEST_STATUS_SUCCESS": "✔️ テストペイロードを送信しました！ステータス: [statusCode]",
     "TEST_STATUS_FAILED": "❌ テストペイロードに失敗しました。ステータス: [statusCode]",
-    "TEST_STATUS_ERROR": "❌ テストペイロードの送信に失敗しました。"
+    "TEST_STATUS_ERROR": "❌ テストペイロードの送信に失敗しました。",
+    "WEBHOOK_STATUS_DISABLED": "無効",
+    "WEBHOOK_DISABLE_BUTTON": "無効にする",
+    "WEBHOOK_ENABLE_BUTTON": "有効にする",
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ 失敗した場合、無効化されます [date]",
+    "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "このウェブフックは[date]に無効化されました。キューに登録されたイベントは保持され、再度有効化された際に配信されます。",
+    "WEBHOOK_AUTO_DISABLED_EXPLANATION": "このウェブフックは、配信失敗が約1週間続いたため、[date]に自動的に無効化されました。キューに登録されたイベントは保持されており、エンドポイントを修正して再度有効化すれば配信されます。",
+    "WEBHOOK_DISABLE_CONFIRM": "このWebhookを無効にした場合、イベントは保持されますが、再度有効にするまで配信されません。",
+    "WEBHOOK_TOGGLE_ERROR": "❌ Webhookの更新に失敗しました。もう一度お試しください。"
 }

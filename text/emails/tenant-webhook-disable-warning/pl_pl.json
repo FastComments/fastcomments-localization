@@ -1,0 +1,8 @@
+{
+    "INTRO": "Hej <%= username %>,",
+    "FROM_NAME": "Robot FastComments",
+    "IN_APP_MESSAGE": "Jeden lub więcej webhooków ciągle nie działa i wkrótce zostanie wyłączony. Kliknij, aby sprawdzić.",
+    "SUBJECT": "Wymagane działanie: Twój webhook FastComments zostanie wkrótce wyłączony",
+    "DETAILS_LINE_ONE": "To jest automatyczna wiadomość e-mail. Poniższe integracje webhooków nie zostały pomyślnie dostarczone od około tygodnia – każda próba kończy się niepowodzeniem:",
+    "DETAILS_LINE_TWO": "Zostaną one automatycznie wyłączone w dniu <%= readableDisableDate %>, chyba że dostarczenie zakończy się pomyślnie wcześniej. Zdarzenia w kolejce zostaną zachowane, ale nie zostaną dostarczone, dopóki nie naprawisz punktu końcowego i ponownie nie włączysz webhooka. <a href=\"<%= webhooksPageURL %>\">Możesz przejrzeć swoje webhooki tutaj.</a>"
+}

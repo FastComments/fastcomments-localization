@@ -1,0 +1,8 @@
+{
+    "INTRO": "Hej <%= username %>,",
+    "SUBJECT": "Vaš FastComments webhook je onemogućen",
+    "FROM_NAME": "Robot za brze komentare",
+    "DETAILS_LINE_ONE": "Ovo je automatska e-pošta. Sljedeće integracije webhooka automatski su onemogućene nakon otprilike tjedan dana neuspješnih isporuka:",
+    "IN_APP_MESSAGE": "Jedan ili više vaših webhookova onemogućeno je nakon ponovljenih neuspjeha. Kliknite za pregled i ponovno omogućavanje.",
+    "DETAILS_LINE_TWO": "Događaji u redu čekanja se čuvaju i bit će isporučeni nakon što popravite krajnju točku i ponovno omogućite webhook. <a href=\"<%= webhooksPageURL %>\">Ovdje možete ponovno omogućiti svoje webhookove.</a>"
+}

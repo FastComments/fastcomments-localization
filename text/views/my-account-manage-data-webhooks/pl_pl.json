@@ -29,5 +29,13 @@
     "TEST_STATUS_NO_URL": "Proszę najpierw wpisać adres URL.",
     "TEST_STATUS_SUCCESS": "✔️ Wysłano ładunek testowy! Status: [statusCode]",
     "TEST_STATUS_FAILED": "❌ Ładunek testowy nie powiódł się. Status: [statusCode]",
-    "TEST_STATUS_ERROR": "❌ Nie udało się wysłać danych testowych."
+    "TEST_STATUS_ERROR": "❌ Nie udało się wysłać danych testowych.",
+    "WEBHOOK_STATUS_DISABLED": "Wyłączony",
+    "WEBHOOK_ENABLE_BUTTON": "Włączać",
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Niepowodzenie - zostanie wyłączony [date]",
+    "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Ten webhook został wyłączony dnia [date]. Zdarzenia w kolejce są zachowywane i zostaną dostarczone po ponownym włączeniu.",
+    "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Ten webhook został automatycznie wyłączony [date] po około tygodniu nieudanych dostaw. Zdarzenia w kolejce są zachowywane i zostaną dostarczone po naprawieniu punktu końcowego i jego ponownym włączeniu.",
+    "WEBHOOK_DISABLE_BUTTON": "Wyłączyć",
+    "WEBHOOK_TOGGLE_ERROR": "❌ Nie udało się zaktualizować webhooka. Spróbuj ponownie.",
+    "WEBHOOK_DISABLE_CONFIRM": "Wyłączyć ten webhook? Zdarzenia zostaną zachowane, ale nie będą dostarczane, dopóki nie zostanie ponownie włączony."
 }

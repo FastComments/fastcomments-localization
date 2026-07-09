@@ -29,5 +29,13 @@
     "TEST_STATUS_NO_URL": "Prvo unesite URL.",
     "TEST_STATUS_SUCCESS": "✔️ Testni teret poslan! Status: [statusCode]",
     "TEST_STATUS_FAILED": "❌ Testni teret nije uspio. Status: [statusCode]",
-    "TEST_STATUS_ERROR": "❌ Slanje testnog sadržaja nije uspjelo."
+    "TEST_STATUS_ERROR": "❌ Slanje testnog sadržaja nije uspjelo.",
+    "WEBHOOK_STATUS_DISABLED": "Onemogućeno",
+    "WEBHOOK_ENABLE_BUTTON": "Omogućiti",
+    "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Ovaj webhook je onemogućen [date]. Događaji u redu čekanja se čuvaju i bit će isporučeni nakon što se ponovno omogući.",
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Ako ne uspije - bit će onemogućeno [date]",
+    "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Ovaj webhook je automatski onemogućen [date] nakon otprilike tjedan dana neuspješnih isporuka. Događaji u redu čekanja se čuvaju i bit će isporučeni nakon što popravite krajnju točku i ponovno je omogućite.",
+    "WEBHOOK_DISABLE_BUTTON": "Onemogući",
+    "WEBHOOK_DISABLE_CONFIRM": "Onemogućiti ovaj webhook? Događaji će se čuvati, ali se neće isporučivati dok se ponovno ne omogući.",
+    "WEBHOOK_TOGGLE_ERROR": "❌ Ažuriranje webhooka nije uspjelo. Pokušajte ponovno."
 }

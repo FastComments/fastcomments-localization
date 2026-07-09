@@ -29,5 +29,13 @@
     "TEST_STATUS_NO_URL": "Lütfen önce bir URL girin.",
     "TEST_STATUS_SUCCESS": "✔️ Test yükü gönderildi! Durum: [statusCode]",
     "TEST_STATUS_FAILED": "❌ Test yükü başarısız oldu. Durum: [statusCode]",
-    "TEST_STATUS_ERROR": "❌ Test yükü gönderilemedi."
+    "TEST_STATUS_ERROR": "❌ Test yükü gönderilemedi.",
+    "WEBHOOK_STATUS_DISABLED": "Engelli",
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Başarısız olursa devre dışı bırakılacaktır [date]",
+    "WEBHOOK_DISABLE_BUTTON": "Devre dışı bırakmak",
+    "WEBHOOK_ENABLE_BUTTON": "Olanak vermek",
+    "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Bu webhook, yaklaşık bir haftalık başarısız teslimatların ardından [date] tarihinde otomatik olarak devre dışı bırakıldı. Sıraya alınmış olaylar saklanmaktadır ve uç noktayı düzeltip yeniden etkinleştirdiğinizde teslim edilecektir.",
+    "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Bu webhook [date] tarihinde devre dışı bırakıldı. Sıraya alınmış olaylar saklanmaktadır ve yeniden etkinleştirildiğinde iletilecektir.",
+    "WEBHOOK_DISABLE_CONFIRM": "Bu webhook'u devre dışı bırakmak mı istiyorsunuz? Olaylar saklanacak, ancak yeniden etkinleştirilene kadar iletilmeyecektir.",
+    "WEBHOOK_TOGGLE_ERROR": "❌ Webhook güncellemesi başarısız oldu. Lütfen tekrar deneyin."
 }

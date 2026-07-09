@@ -1,0 +1,8 @@
+{
+    "INTRO": "おい <%= username %>、",
+    "FROM_NAME": "ファストコメントロボット",
+    "SUBJECT": "FastCommentsのWebhookが無効になっています",
+    "DETAILS_LINE_ONE": "これは自動送信メールです。以下のWebhook連携は、配信失敗が約1週間続いたため、自動的に無効化されました。",
+    "DETAILS_LINE_TWO": "キューに登録されたイベントは保持され、エンドポイントを修正してWebhookを再度有効にすると配信されます。Webhook<a href=\"<%= webhooksPageURL %>\">の有効化はこちらから行えます。</a>",
+    "IN_APP_MESSAGE": "度重なるエラーのため、1つ以上のWebhookが無効化されました。クリックして確認し、再度有効化してください。"
+}

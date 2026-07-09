@@ -1,0 +1,8 @@
+{
+    "INTRO": "嘿 <%= username %>，",
+    "FROM_NAME": "快速评论机器人",
+    "SUBJECT": "需要您采取行动：您的 FastComments Webhook 即将被禁用。",
+    "DETAILS_LINE_ONE": "这是一封自动发送的电子邮件。以下 Webhook 集成在过去一周左右的时间里一直未能成功发送邮件——每次尝试都失败了：",
+    "DETAILS_LINE_TWO": "除非在此之前成功发送数据，否则这些功能将于<%= readableDisableDate %>自动禁用。已排队的事件将被保留，但不会发送，直到您修复端点并重新启用 webhook。<a href=\"<%= webhooksPageURL %>\">您可以在此处查看您的 webhook。</a>",
+    "IN_APP_MESSAGE": "您的一个或多个 Webhook 持续出现故障，即将被禁用。点击此处查看。"
+}

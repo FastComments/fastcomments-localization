@@ -29,5 +29,13 @@
     "TEST_STATUS_NO_URL": "Molimo Vas da prvo unesete URL.",
     "TEST_STATUS_SUCCESS": "✔️ Probni podaci poslati! Status: [statusCode]",
     "TEST_STATUS_FAILED": "❌ Slanje probnih podataka nije uspelo. Status: [statusCode]",
-    "TEST_STATUS_ERROR": "❌ Slanje probnih podataka nije uspelo."
+    "TEST_STATUS_ERROR": "❌ Slanje probnih podataka nije uspelo.",
+    "WEBHOOK_STATUS_DISABLED": "Onemogućen",
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Failing - biće onemogućen [date]",
+    "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Ovaj vebhook je onemogućen na [date]. Događaji u redu čekanja se čuvaju i biće isporučeni kada se ponovo omogući.",
+    "WEBHOOK_ENABLE_BUTTON": "Omogući",
+    "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Ovaj vebhook je automatski onemogućen na [date] nakon oko nedelju dana neuspelih isporuka. Događaji u redu čekanja se čuvaju i biće isporučeni kada popravite krajnju tačku i ponovo je omogućite.",
+    "WEBHOOK_DISABLE_BUTTON": "Onemogući",
+    "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the vebhook. Pokušajte ponovo.",
+    "WEBHOOK_DISABLE_CONFIRM": "Onemogućite ovaj vebhook? Događaji će se čuvati, ali neće biti isporučeni dok se ponovo ne omogući."
 }

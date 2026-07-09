@@ -1,0 +1,8 @@
+{
+    "INTRO": "嘿 <%= username %>，",
+    "FROM_NAME": "快速評論機器人",
+    "SUBJECT": "需要您採取行動：您的 FastComments Webhook 即將停用。",
+    "IN_APP_MESSAGE": "您的一個或多個 Webhook 持續故障，即將被停用。點擊此處查看。",
+    "DETAILS_LINE_ONE": "這是一封自動發送的電子郵件。以下 Webhook 整合在過去一周左右的時間裡一直未能成功發送郵件——每次嘗試都失敗了：",
+    "DETAILS_LINE_TWO": "除非在此之前成功發送數據，否則這些功能將於<%= readableDisableDate %>自動停用。已排隊的事件將被保留，但不會發送，直到您修復端點並重新啟用 webhook。<a href=\"<%= webhooksPageURL %>\">您可以在此處查看您的 webhook。</a>"
+}

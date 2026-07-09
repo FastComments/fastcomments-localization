@@ -1,0 +1,8 @@
+{
+    "INTRO": "Živjo <%= username %>,",
+    "FROM_NAME": "Robot za hitre komentarje",
+    "SUBJECT": "Vaš spletni kavelj FastComments je bil onemogočen",
+    "DETAILS_LINE_ONE": "To je samodejno e-poštno sporočilo. Naslednje integracije spletnih kavljarjev so bile samodejno onemogočene po približno tednu neuspešnih dostav:",
+    "DETAILS_LINE_TWO": "Dogodki v čakalni vrsti se ohranijo in bodo dostavljeni, ko popravite končno točko in ponovno omogočite spletni kavelj. <a href=\"<%= webhooksPageURL %>\">Spletne kavljarje lahko ponovno omogočite tukaj.</a>",
+    "IN_APP_MESSAGE": "Eden ali več vaših spletnih kavljarjev je bilo onemogočenih po večkratnih napakah. Kliknite za pregled in ponovno omogočanje."
+}

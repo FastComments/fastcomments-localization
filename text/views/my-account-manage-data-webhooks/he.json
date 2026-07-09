@@ -29,5 +29,13 @@
     "TEST_STATUS_NO_URL": "אנא הזן תחילה כתובת URL.",
     "TEST_STATUS_SUCCESS": "✔️ מטען בדיקה נשלח! סטטוס: [statusCode]",
     "TEST_STATUS_FAILED": "❌ בדיקת מטען נכשלה. סטטוס: [statusCode]",
-    "TEST_STATUS_ERROR": "❌ שליחת מטען הבדיקה נכשלה."
+    "TEST_STATUS_ERROR": "❌ שליחת מטען הבדיקה נכשלה.",
+    "WEBHOOK_STATUS_DISABLED": "נָכֶה",
+    "WEBHOOK_ENABLE_BUTTON": "לְאַפשֵׁר",
+    "WEBHOOK_AUTO_DISABLED_EXPLANATION": "וובהוק זה הושבת אוטומטית בתאריך [date] לאחר כשבוע של מסירות כושלות. אירועים בתור נשמרים ויסופקו לאחר שתתקן את נקודת הקצה ותפעיל אותה מחדש.",
+    "WEBHOOK_DISABLE_BUTTON": "השבת",
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ כישלון - יושבת [date]",
+    "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "וובהוק זה הושבת בתאריך [date]. אירועים בתור נשמרים ויוצגו לאחר שיופעל מחדש.",
+    "WEBHOOK_DISABLE_CONFIRM": "להשבית את ה-webhook הזה? אירועים יישמרו, אך לא יועברו עד שיופעל מחדש.",
+    "WEBHOOK_TOGGLE_ERROR": "❌ עדכון ה-webhook נכשל. אנא נסה שוב."
 }

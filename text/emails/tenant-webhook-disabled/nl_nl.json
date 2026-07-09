@@ -1,0 +1,8 @@
+{
+    "INTRO": "Hoi <%= username %>,",
+    "FROM_NAME": "FastComments-robot",
+    "SUBJECT": "Je FastComments-webhook is uitgeschakeld.",
+    "DETAILS_LINE_ONE": "Dit is een geautomatiseerd e-mailbericht. De volgende webhook-integraties zijn automatisch uitgeschakeld na ongeveer een week van mislukte leveringen:",
+    "DETAILS_LINE_TWO": "In de wachtrij geplaatste gebeurtenissen worden bewaard en afgeleverd zodra u het eindpunt hebt gecorrigeerd en de webhook opnieuw hebt ingeschakeld. <a href=\"<%= webhooksPageURL %>\">U kunt uw webhooks hier opnieuw inschakelen.</a>",
+    "IN_APP_MESSAGE": "Een of meer van uw webhooks zijn uitgeschakeld na herhaalde fouten. Klik hier om ze te controleren en opnieuw in te schakelen."
+}

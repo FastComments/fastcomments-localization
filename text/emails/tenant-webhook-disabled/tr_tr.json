@@ -1,0 +1,8 @@
+{
+    "INTRO": "Hey <%= username %>,",
+    "SUBJECT": "FastComments Webhook'unuz Devre Dışı Bırakıldı",
+    "FROM_NAME": "Hızlı Yorumlar Robotu",
+    "DETAILS_LINE_ONE": "Bu otomatik bir e-postadır. Yaklaşık bir hafta süren başarısız teslimatların ardından aşağıdaki webhook entegrasyonları otomatik olarak devre dışı bırakılmıştır:",
+    "IN_APP_MESSAGE": "Tekrarlanan arızalar nedeniyle bir veya daha fazla web kancanız devre dışı bırakıldı. İncelemek ve yeniden etkinleştirmek için tıklayın.",
+    "DETAILS_LINE_TWO": "Sıraya alınmış olaylar saklanır ve uç noktayı düzelttikten ve web kancasını yeniden etkinleştirdikten sonra iletilir. <a href=\"<%= webhooksPageURL %>\">Web kancalarınızı buradan yeniden etkinleştirebilirsiniz.</a>"
+}

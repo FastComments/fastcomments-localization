@@ -1,0 +1,8 @@
+{
+    "INTRO": "Ey <%= username %>,",
+    "FROM_NAME": "Robot de comentarios rápidos",
+    "SUBJECT": "Acción requerida: Su webhook de FastComments se desactivará pronto.",
+    "IN_APP_MESSAGE": "Uno o más de tus webhooks siguen fallando y se desactivarán pronto. Haz clic para revisarlos.",
+    "DETAILS_LINE_ONE": "Este es un correo electrónico automatizado. Las siguientes integraciones de webhook no se han entregado correctamente en aproximadamente una semana; todos los intentos están fallando:",
+    "DETAILS_LINE_TWO": "Se desactivarán automáticamente el <%= readableDisableDate %> a menos que se complete una entrega antes. Los eventos en cola se conservarán, pero no se entregarán hasta que corrija el punto final y vuelva a activar el webhook. <a href=\"<%= webhooksPageURL %>\">Puede revisar sus webhooks aquí.</a>"
+}

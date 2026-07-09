@@ -29,5 +29,13 @@
     "TEST_STATUS_NO_URL": "Bitte geben Sie zuerst eine URL ein.",
     "TEST_STATUS_SUCCESS": "✔️ Testnutzdaten gesendet! Status: [statusCode]",
     "TEST_STATUS_FAILED": "❌ Test der Nutzdaten fehlgeschlagen. Status: [statusCode]",
-    "TEST_STATUS_ERROR": "❌ Fehler beim Senden der Testnutzlast."
+    "TEST_STATUS_ERROR": "❌ Fehler beim Senden der Testnutzlast.",
+    "WEBHOOK_STATUS_DISABLED": "Deaktiviert",
+    "WEBHOOK_DISABLE_BUTTON": "Deaktivieren",
+    "WEBHOOK_ENABLE_BUTTON": "Aktivieren",
+    "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Dieser Webhook wurde am [date] nach etwa einer Woche fehlgeschlagener Zustellungen automatisch deaktiviert. Die in der Warteschlange befindlichen Ereignisse bleiben erhalten und werden zugestellt, sobald Sie den Endpunkt reparieren und ihn wieder aktivieren.",
+    "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Dieser Webhook wurde am [date] deaktiviert. Die in der Warteschlange befindlichen Ereignisse bleiben erhalten und werden zugestellt, sobald er wieder aktiviert ist.",
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Bei Fehlschlag wird das System deaktiviert.",
+    "WEBHOOK_DISABLE_CONFIRM": "Diesen Webhook deaktivieren? Ereignisse werden zwar gespeichert, aber erst nach der Reaktivierung zugestellt.",
+    "WEBHOOK_TOGGLE_ERROR": "❌ Der Webhook konnte nicht aktualisiert werden. Bitte versuchen Sie es erneut."
 }

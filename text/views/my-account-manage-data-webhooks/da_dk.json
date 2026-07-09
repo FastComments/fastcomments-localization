@@ -29,5 +29,13 @@
     "TEST_STATUS_NO_URL": "Indtast venligst en URL først.",
     "TEST_STATUS_SUCCESS": "✔️ Testpayload sendt! Status: [statusCode]",
     "TEST_STATUS_FAILED": "❌ Testpayload mislykkedes. Status: [statusCode]",
-    "TEST_STATUS_ERROR": "❌ Kunne ikke sende testpayload."
+    "TEST_STATUS_ERROR": "❌ Kunne ikke sende testpayload.",
+    "WEBHOOK_STATUS_DISABLED": "Handicappet",
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Fejler - vil blive deaktiveret [date]",
+    "WEBHOOK_DISABLE_BUTTON": "Deaktiver",
+    "WEBHOOK_ENABLE_BUTTON": "Aktivér",
+    "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Denne webhook blev automatisk deaktiveret den [date] efter cirka en uge med mislykkede leverancer. Hændelser i køen gemmes og leveres, når du har rettet slutpunktet og genaktiveret det.",
+    "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Denne webhook blev deaktiveret den [date]. Hændelser i køen gemmes og leveres, når den genaktiveres.",
+    "WEBHOOK_TOGGLE_ERROR": "❌ Webhooken kunne ikke opdateres. Prøv igen.",
+    "WEBHOOK_DISABLE_CONFIRM": "Vil du deaktivere denne webhook? Hændelser gemmes, men leveres ikke, før den genaktiveres."
 }

@@ -29,5 +29,13 @@
     "BUTTON_SET_READY": "设为就绪",
     "BUTTON_SET_NOT_READY": "设为未就绪",
     "CONFIRM_SET_READY": "这将手动将 Webhook 状态设置为“就绪”，绕过 API 密钥验证。是否继续？",
-    "EVENTS_IN_QUEUE": "队列中有 [count] 个事件。"
+    "EVENTS_IN_QUEUE": "队列中有 [count] 个事件。",
+    "WEBHOOK_STATUS_DISABLED": "已禁用",
+    "WEBHOOK_ENABLE_BUTTON": "使能够",
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ 失败 - 将被禁用[date]",
+    "WEBHOOK_DISABLE_BUTTON": "禁用",
+    "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "此 webhook 已于[date]禁用。已排队的事件将被保留，并在重新启用后发送。",
+    "WEBHOOK_AUTO_DISABLED_EXPLANATION": "此 Webhook 在大约一周的发送失败后已于[date]自动禁用。已排队的事件将被保留，并在您修复端点并重新启用后发送。",
+    "WEBHOOK_TOGGLE_ERROR": "❌ 更新 webhook 失败。请重试。",
+    "WEBHOOK_DISABLE_CONFIRM": "禁用此 webhook 后，事件将被保留，但直到重新启用后才会发送。"
 }

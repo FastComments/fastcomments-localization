@@ -1,0 +1,8 @@
+{
+    "INTRO": "Hé <%= username %>,",
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "Action requise : votre webhook FastComments sera bientôt désactivé.",
+    "DETAILS_LINE_ONE": "Ceci est un courriel automatique. Les intégrations webhook suivantes n'ont pas pu être distribuées depuis environ une semaine ; toutes les tentatives ont échoué :",
+    "DETAILS_LINE_TWO": "Ils seront automatiquement désactivés le <%= readableDisableDate %> sauf si une livraison réussit d&#39;ici là. Les événements en file d&#39;attente seront conservés, mais ne seront pas livrés tant que vous n&#39;aurez pas corrigé le point de terminaison et réactivé le webhook. <a href=\"<%= webhooksPageURL %>\">Vous pouvez consulter vos webhooks ici.</a>",
+    "IN_APP_MESSAGE": "Un ou plusieurs de vos webhooks échouent et seront bientôt désactivés. Cliquez ici pour vérifier."
+}

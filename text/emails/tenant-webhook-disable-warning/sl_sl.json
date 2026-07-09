@@ -1,0 +1,8 @@
+{
+    "INTRO": "Živjo <%= username %>,",
+    "FROM_NAME": "Robot za hitre komentarje",
+    "DETAILS_LINE_ONE": "To je samodejno e-poštno sporočilo. Naslednje integracije spletnih kavlja niso bile uspešno dostavljene že približno teden dni - vsi poskusi so neuspešni:",
+    "SUBJECT": "Potrebno dejanje: Vaš spletni kavelj FastComments bo kmalu onemogočen",
+    "IN_APP_MESSAGE": "Eden ali več vaših spletnih kavljarjev nenehno odpove in bo kmalu onemogočen. Kliknite za pregled.",
+    "DETAILS_LINE_TWO": "Samodejno bodo onemogočeni <%= readableDisableDate %>, razen če dostava pred tem uspe. Dogodki v čakalni vrsti bodo ohranjeni, vendar ne bodo dostavljeni, dokler ne odpravite končne točke in ponovno omogočite spletnega kavlja. <a href=\"<%= webhooksPageURL %>\">Svoje spletne kavlja si lahko ogledate tukaj.</a>"
+}

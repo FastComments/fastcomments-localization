@@ -29,5 +29,13 @@
     "TEST_STATUS_NO_URL": "請先輸入網址。",
     "TEST_STATUS_SUCCESS": "✔️ 測試負載已傳送！狀態：[statusCode]",
     "TEST_STATUS_FAILED": "❌ 測試負載失敗。狀態：[statusCode]",
-    "TEST_STATUS_ERROR": "❌ 測試負載傳送失敗。"
+    "TEST_STATUS_ERROR": "❌ 測試負載傳送失敗。",
+    "WEBHOOK_STATUS_DISABLED": "已停用",
+    "WEBHOOK_ENABLE_BUTTON": "使能夠",
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ 失敗 - 將會停用[date]",
+    "WEBHOOK_AUTO_DISABLED_EXPLANATION": "此 Webhook 在大約一週的發送失敗後已於[date]自動停用。已排隊的事件將保留，並在您修復端點並重新啟用後發送。",
+    "WEBHOOK_DISABLE_BUTTON": "停用",
+    "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "此 webhook 已於[date]停用。已排隊的事件將保留，並在重新啟用後發送。",
+    "WEBHOOK_TOGGLE_ERROR": "❌ 更新 webhook 失敗。請重試。",
+    "WEBHOOK_DISABLE_CONFIRM": "停用此 webhook 後，事件將被保留，但直到重新啟用後才會發送。"
 }

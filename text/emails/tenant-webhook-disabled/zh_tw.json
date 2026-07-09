@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "快速評論機器人",
+    "INTRO": "嘿 <%= username %>，",
+    "SUBJECT": "您的 FastComments Webhook 已停用",
+    "IN_APP_MESSAGE": "由於多次失敗，您的一個或多個 Webhook 已被停用。點擊此處查看並重新啟用。",
+    "DETAILS_LINE_ONE": "這是一封自動發送的電子郵件。以下 Webhook 整合在大約一週的投遞失敗後已自動停用：",
+    "DETAILS_LINE_TWO": "已排隊的事件將保留，並在您修復端點並重新啟用 Webhook 後發送。<a href=\"<%= webhooksPageURL %>\">您可以在此處重新啟用 Webhook。</a>"
+}

@@ -1,0 +1,8 @@
+{
+    "SUBJECT": "Potrebna radnja: Vaš FastComments webhook uskoro će biti onemogućen",
+    "FROM_NAME": "Robot za brze komentare",
+    "INTRO": "Hej <%= username %>,",
+    "IN_APP_MESSAGE": "Jedan ili više vaših webhookova stalno ne uspijevaju i uskoro će biti onemogućeni. Kliknite za pregled.",
+    "DETAILS_LINE_ONE": "Ovo je automatska e-pošta. Sljedeće integracije webhooka nisu uspješno isporučene već otprilike tjedan dana - svaki pokušaj je neuspješan:",
+    "DETAILS_LINE_TWO": "Bit će automatski onemogućeni <%= readableDisableDate %> osim ako isporuka ne uspije prije toga. Događaji u redu čekanja bit će zadržani, ali neće biti isporučeni dok ne popravite krajnju točku i ponovno omogućite webhook. <a href=\"<%= webhooksPageURL %>\">Svoje webhookove možete pregledati ovdje.</a>"
+}

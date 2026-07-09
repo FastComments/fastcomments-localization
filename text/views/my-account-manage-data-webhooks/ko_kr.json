@@ -29,5 +29,13 @@
     "TEST_STATUS_NO_URL": "먼저 URL을 입력하세요.",
     "TEST_STATUS_SUCCESS": "✔️ 테스트 페이로드 전송 완료! 상태: [statusCode]",
     "TEST_STATUS_FAILED": "❌ 테스트 페이로드 실패. 상태: [statusCode]",
-    "TEST_STATUS_ERROR": "❌ 테스트 페이로드 전송에 실패했습니다."
+    "TEST_STATUS_ERROR": "❌ 테스트 페이로드 전송에 실패했습니다.",
+    "WEBHOOK_ENABLE_BUTTON": "할 수 있게 하다",
+    "WEBHOOK_STATUS_DISABLED": "장애가 있는",
+    "WEBHOOK_DISABLE_BUTTON": "장애를 입히다",
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ 실패 시 사용이 중단됩니다 [date]",
+    "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "이 웹훅은 [date]일에 비활성화되었습니다. 대기 중인 이벤트는 보관되며 웹훅이 다시 활성화되면 전달됩니다.",
+    "WEBHOOK_AUTO_DISABLED_EXPLANATION": "이 웹훅은 약 일주일간의 전송 실패 후 [date]일에 자동으로 비활성화되었습니다. 대기 중인 이벤트는 보존되며 엔드포인트를 수정하고 다시 활성화하면 전송됩니다.",
+    "WEBHOOK_TOGGLE_ERROR": "❌ 웹훅 업데이트에 실패했습니다. 다시 시도해 주세요.",
+    "WEBHOOK_DISABLE_CONFIRM": "이 웹훅을 비활성화하시겠습니까? 이벤트는 저장되지만, 다시 활성화될 때까지 전달되지 않습니다."
 }

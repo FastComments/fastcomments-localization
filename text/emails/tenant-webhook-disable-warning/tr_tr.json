@@ -1,0 +1,8 @@
+{
+    "INTRO": "Hey <%= username %>,",
+    "FROM_NAME": "Hızlı Yorumlar Robotu",
+    "DETAILS_LINE_ONE": "Bu otomatik bir e-postadır. Aşağıdaki webhook entegrasyonlarında yaklaşık bir haftadır başarılı bir teslimat gerçekleşmedi - her deneme başarısız oldu:",
+    "SUBJECT": "Gerekli İşlem: FastComments Webhook'unuz Yakında Devre Dışı Bırakılacak",
+    "IN_APP_MESSAGE": "Web kancalarınızdan bir veya daha fazlası sürekli başarısız oluyor ve yakında devre dışı bırakılacak. İncelemek için tıklayın.",
+    "DETAILS_LINE_TWO": "Teslimat başarılı olmadığı sürece, <%= readableDisableDate %> tarihinde otomatik olarak devre dışı bırakılacaklardır. Sıraya alınmış olaylar saklanacak, ancak uç noktayı düzeltip web kancasını yeniden etkinleştirene kadar teslim edilmeyecektir. <a href=\"<%= webhooksPageURL %>\">Web kancalarınızı burada inceleyebilirsiniz.</a>"
+}

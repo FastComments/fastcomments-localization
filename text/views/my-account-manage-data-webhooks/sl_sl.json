@@ -29,5 +29,13 @@
     "TEST_STATUS_NO_URL": "Najprej vnesite URL.",
     "TEST_STATUS_SUCCESS": "✔️ Testni tovor poslan! Stanje: [statusCode]",
     "TEST_STATUS_FAILED": "❌ Testni tovor ni uspel. Stanje: [statusCode]",
-    "TEST_STATUS_ERROR": "❌ Pošiljanje testnega koristnega tovora ni uspelo."
+    "TEST_STATUS_ERROR": "❌ Pošiljanje testnega koristnega tovora ni uspelo.",
+    "WEBHOOK_DISABLE_BUTTON": "Onemogoči",
+    "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Ta spletni kavelj je bil samodejno onemogočen dne [date] po približno enem tednu neuspelih dostav. Dogodki v čakalni vrsti se ohranijo in bodo dostavljeni, ko boste popravili končno točko in jo ponovno omogočili.",
+    "WEBHOOK_STATUS_DISABLED": "Onemogočeno",
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Če ne bo uspešno - bo onemogočeno [date]",
+    "WEBHOOK_DISABLE_CONFIRM": "Želite onemogočiti ta spletni kavelj? Dogodki bodo shranjeni, vendar ne bodo dostavljeni, dokler ga ponovno ne omogočite.",
+    "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Ta spletni kavelj je bil onemogočen dne [date]. Dogodki v čakalni vrsti se ohranijo in bodo dostavljeni, ko bo ponovno omogočen.",
+    "WEBHOOK_ENABLE_BUTTON": "Omogoči",
+    "WEBHOOK_TOGGLE_ERROR": "❌ Posodobitev spletnega kavlja ni uspela. Poskusite znova."
 }

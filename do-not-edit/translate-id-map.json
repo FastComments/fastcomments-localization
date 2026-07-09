@@ -210,7 +210,7 @@
         "my-account-manage-data-users-export": 16,
         "my-account-manage-data-users-export-table": 2,
         "my-account-manage-data-webhook": 2,
-        "my-account-manage-data-webhooks": 38,
+        "my-account-manage-data-webhooks": 46,
         "my-account-manage-data-webhooks-for-domain": 5,
         "my-account-manage-data-webhooks-logs": 40,
         "my-account-managed-tenants-create": 24,
@@ -415,7 +415,9 @@
         "webflow": 60,
         "django": 81,
         "wordpress": 85,
-        "disqus-alternative": 294
+        "disqus-alternative": 294,
+        "tenant-webhook-disable-warning": 6,
+        "tenant-webhook-disabled": 6
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -4847,7 +4849,15 @@
         "t35": "TEST_STATUS_NO_URL",
         "t36": "TEST_STATUS_SUCCESS",
         "t37": "TEST_STATUS_FAILED",
-        "t38": "TEST_STATUS_ERROR"
+        "t38": "TEST_STATUS_ERROR",
+        "t39": "WEBHOOK_STATUS_DISABLED",
+        "t40": "WEBHOOK_STATUS_DISABLE_SCHEDULED",
+        "t41": "WEBHOOK_AUTO_DISABLED_EXPLANATION",
+        "t42": "WEBHOOK_MANUALLY_DISABLED_EXPLANATION",
+        "t43": "WEBHOOK_ENABLE_BUTTON",
+        "t44": "WEBHOOK_DISABLE_BUTTON",
+        "t45": "WEBHOOK_DISABLE_CONFIRM",
+        "t46": "WEBHOOK_TOGGLE_ERROR"
     },
     "my-account-manage-data-webhooks-for-domain": {
         "t1": "ON_COMMENT_CREATED_LABEL",
@@ -10618,5 +10628,21 @@
         "t292": "FINAL_CTA_HEADING_LIGHT",
         "t293": "FINAL_CTA_HEADING_BOLD",
         "t294": "FINAL_CTA_SUB"
+    },
+    "tenant-webhook-disable-warning": {
+        "t1": "INTRO",
+        "t2": "FROM_NAME",
+        "t3": "SUBJECT",
+        "t4": "DETAILS_LINE_ONE",
+        "t5": "DETAILS_LINE_TWO",
+        "t6": "IN_APP_MESSAGE"
+    },
+    "tenant-webhook-disabled": {
+        "t1": "INTRO",
+        "t2": "FROM_NAME",
+        "t3": "SUBJECT",
+        "t4": "DETAILS_LINE_ONE",
+        "t5": "DETAILS_LINE_TWO",
+        "t6": "IN_APP_MESSAGE"
     }
 }

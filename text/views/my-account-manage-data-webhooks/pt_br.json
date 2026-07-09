@@ -29,5 +29,13 @@
     "TEST_STATUS_NO_URL": "Por favor, insira um URL primeiro.",
     "TEST_STATUS_SUCCESS": "✔️ Carga útil de teste enviada! Status: [statusCode]",
     "TEST_STATUS_FAILED": "❌ Falha no teste de carga útil. Status: [statusCode]",
-    "TEST_STATUS_ERROR": "❌ Falha ao enviar a carga útil de teste."
+    "TEST_STATUS_ERROR": "❌ Falha ao enviar a carga útil de teste.",
+    "WEBHOOK_STATUS_DISABLED": "Desabilitado",
+    "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Este webhook foi desativado automaticamente em [date] após cerca de uma semana de falhas nas entregas. Os eventos em fila são mantidos e serão entregues assim que você corrigir o endpoint e reativá-lo.",
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Falha - será desativado [date]",
+    "WEBHOOK_ENABLE_BUTTON": "Habilitar",
+    "WEBHOOK_DISABLE_BUTTON": "Desativar",
+    "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Este webhook foi desativado em [date]. Os eventos em fila são mantidos e serão entregues assim que ele for reativado.",
+    "WEBHOOK_TOGGLE_ERROR": "❌ Falha ao atualizar o webhook. Tente novamente.",
+    "WEBHOOK_DISABLE_CONFIRM": "Desativar este webhook? Os eventos serão mantidos, mas não serão entregues até que ele seja reativado."
 }
