@@ -117,7 +117,7 @@
         "error": 8,
         "global-distribution": 44,
         "homepage-email-opt-out": 5,
-        "index": 109,
+        "index": 118,
         "layout-v2": 1,
         "login-failure": 6,
         "login-forgot-username": 12,
@@ -2767,7 +2767,16 @@
         "t106": "FEATURE_AI_AGENTS",
         "t107": "FEATURE_AI_AGENTS_DESC",
         "t108": "HERO_REALTIME_MODERATION",
-        "t109": "SNIPPET_VIEW_LIBRARY_REACT_NATIVE"
+        "t109": "SNIPPET_VIEW_LIBRARY_REACT_NATIVE",
+        "t110": "SECTION_INSTALL_TITLE_LIGHT",
+        "t111": "SECTION_INSTALL_TITLE_BOLD",
+        "t112": "SECTION_INSTALL_SUBTITLE",
+        "t113": "INSTALL_STEP_COPY_TITLE",
+        "t114": "INSTALL_STEP_COPY_DESC",
+        "t115": "INSTALL_STEP_PASTE_TITLE",
+        "t116": "INSTALL_STEP_PASTE_DESC",
+        "t117": "INSTALL_STEP_DONE_TITLE",
+        "t118": "INSTALL_STEP_DONE_DESC"
     },
     "layout-v2": {
         "t1": "PAGE_TITLE_DEFAULT"
