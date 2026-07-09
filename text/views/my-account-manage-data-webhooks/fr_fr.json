@@ -31,7 +31,7 @@
     "TEST_STATUS_FAILED": "❌ Échec du test de la charge utile. Statut : [statusCode]",
     "TEST_STATUS_ERROR": "❌ Échec de l'envoi de la charge utile de test.",
     "WEBHOOK_STATUS_DISABLED": "Désactivé",
-    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ En cas d'échec, le compte sera désactivé.",
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ En échec - sera désactivé le [date]",
     "WEBHOOK_ENABLE_BUTTON": "Activer",
     "WEBHOOK_DISABLE_BUTTON": "Désactiver",
     "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Ce webhook a été désactivé le [date]. Les événements en attente sont conservés et seront transmis dès sa réactivation.",
