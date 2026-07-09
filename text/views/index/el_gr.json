@@ -5,7 +5,6 @@
     "HERO_DESCRIPTION": "Επιλέξτε ένα σύστημα σχολίων που θα ενθουσιάσει τους χρήστες και τους προγραμματιστές σας. Θα σας παρέχουμε τις λειτουργίες που σας ενδιαφέρουν χωρίς να σας κατασκοπεύουμε.",
     "HERO_REALTIME_MODERATION": "Ενσωματωμένη εποπτεία σε πραγματικό χρόνο.",
     "BUTTON_GET_STARTED": "Ξεκινήστε",
-    "TRY_NO_SIGNUP": "Δοκιμάστε το FastComments, δεν απαιτείται εγγραφή",
     "SNIPPET_HEADING": "Λήψη κώδικα σχολιασμού για τον ιστότοπό σας",
     "SELECT_PLATFORM": "Επιλέξτε πλατφόρμα",
     "USERS_COUNT": "<%- Number(usageStats.commentersCount).toLocaleString() %>+ Χρήστες",

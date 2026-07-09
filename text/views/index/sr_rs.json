@@ -5,7 +5,6 @@
     "HERO_DESCRIPTION": "Изаберите систем за коментарисање који ће одушевити ваше кориснике и програмере. Обезбедићемо вам функције које су вам важне, а да вас нисмо шпијунирали.",
     "HERO_REALTIME_MODERATION": "Уграђена модерација у реалном времену.",
     "BUTTON_GET_STARTED": "Започните",
-    "TRY_NO_SIGNUP": "Испробајте FastComments, није потребна регистрација",
     "SNIPPET_HEADING": "Преузмите код за коментарисање за свој сајт",
     "SELECT_PLATFORM": "Изаберите платформу",
     "USERS_COUNT": "<%- Number(usageStats.commentersCount).toLocaleString() %>+ корисника",

@@ -5,7 +5,6 @@
     "HERO_DESCRIPTION": "Kullanıcılarınızı ve geliştiricilerinizi memnun edecek bir yorum sistemi seçin. Sizi gözetlemeden, önemsediğiniz özellikleri sağlayacağız.",
     "HERO_REALTIME_MODERATION": "Gerçek zamanlı moderasyon yerleşik.",
     "BUTTON_GET_STARTED": "Başlayın",
-    "TRY_NO_SIGNUP": "FastComments'ı deneyin, kayıt olmanıza gerek yok.",
     "SNIPPET_HEADING": "Siteniz İçin Yorum Ekleme Kodunu Edinin",
     "SELECT_PLATFORM": "Platform Seçin",
     "USERS_COUNT": "<%- Number(usageStats.commentersCount).toLocaleString() %>+ Kullanıcılar",
