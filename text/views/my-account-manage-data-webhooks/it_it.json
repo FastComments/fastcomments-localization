@@ -37,5 +37,7 @@
     "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Questo webhook è stato disabilitato automaticamente il [date] dopo circa una settimana di mancate consegne. Gli eventi in coda vengono conservati e saranno recapitati non appena si corregge l'endpoint e lo si riattiva.",
     "WEBHOOK_DISABLE_CONFIRM": "Disabilitare questo webhook? Gli eventi verranno conservati, ma non recapitati finché non verrà riattivato.",
     "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ In caso di errore, il sistema verrà disabilitato [date]",
-    "WEBHOOK_TOGGLE_ERROR": "❌ Impossibile aggiornare il webhook. Riprova."
+    "WEBHOOK_TOGGLE_ERROR": "❌ Impossibile aggiornare il webhook. Riprova.",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Errore riscontrato dal [date]. Nessuna consegna andata a buon fine finora.",
+    "WEBHOOK_STATUS_FAILING": "⚠️ Errore riscontrato dal [date]. Ultimo successo: [lastSuccessDate]"
 }

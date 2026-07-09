@@ -37,5 +37,7 @@
     "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Dieser Webhook wurde am [date] deaktiviert. Die in der Warteschlange befindlichen Ereignisse bleiben erhalten und werden zugestellt, sobald er wieder aktiviert ist.",
     "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Fehlerhaft - wird [date] deaktiviert",
     "WEBHOOK_DISABLE_CONFIRM": "Diesen Webhook deaktivieren? Ereignisse werden zwar gespeichert, aber erst nach der Reaktivierung zugestellt.",
-    "WEBHOOK_TOGGLE_ERROR": "❌ Der Webhook konnte nicht aktualisiert werden. Bitte versuchen Sie es erneut."
+    "WEBHOOK_TOGGLE_ERROR": "❌ Der Webhook konnte nicht aktualisiert werden. Bitte versuchen Sie es erneut.",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Fehler seit [date]. Bisher keine erfolgreichen Lieferungen.",
+    "WEBHOOK_STATUS_FAILING": "⚠️ Seit [date] erfolglos. Letzter Erfolg: [lastSuccessDate]"
 }

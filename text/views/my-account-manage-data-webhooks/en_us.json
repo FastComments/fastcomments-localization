@@ -32,6 +32,8 @@
     "EVENTS_IN_QUEUE": "[count] events in queue.",
     "WEBHOOK_STATUS_DISABLED": "Disabled",
     "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Failing - will be disabled [date]",
+    "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
     "WEBHOOK_AUTO_DISABLED_EXPLANATION": "This webhook was automatically disabled on [date] after about a week of failed deliveries. Queued events are kept and will be delivered once you fix the endpoint and re-enable it.",
     "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "This webhook was disabled on [date]. Queued events are kept and will be delivered once it is re-enabled.",
     "WEBHOOK_ENABLE_BUTTON": "Enable",

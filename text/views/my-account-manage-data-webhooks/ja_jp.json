@@ -37,5 +37,7 @@
     "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "このウェブフックは[date]に無効化されました。キューに登録されたイベントは保持され、再度有効化された際に配信されます。",
     "WEBHOOK_AUTO_DISABLED_EXPLANATION": "このウェブフックは、配信失敗が約1週間続いたため、[date]に自動的に無効化されました。キューに登録されたイベントは保持されており、エンドポイントを修正して再度有効化すれば配信されます。",
     "WEBHOOK_DISABLE_CONFIRM": "このWebhookを無効にした場合、イベントは保持されますが、再度有効にするまで配信されません。",
-    "WEBHOOK_TOGGLE_ERROR": "❌ Webhookの更新に失敗しました。もう一度お試しください。"
+    "WEBHOOK_TOGGLE_ERROR": "❌ Webhookの更新に失敗しました。もう一度お試しください。",
+    "WEBHOOK_STATUS_FAILING": "⚠️ [date]以降失敗しています。最後の成功: [lastSuccessDate]",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ [date] 以降、失敗しています。まだ配達成功はありません。"
 }

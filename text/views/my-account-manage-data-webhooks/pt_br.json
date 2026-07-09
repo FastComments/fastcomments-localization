@@ -37,5 +37,7 @@
     "WEBHOOK_DISABLE_BUTTON": "Desativar",
     "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Este webhook foi desativado em [date]. Os eventos em fila são mantidos e serão entregues assim que ele for reativado.",
     "WEBHOOK_TOGGLE_ERROR": "❌ Falha ao atualizar o webhook. Tente novamente.",
-    "WEBHOOK_DISABLE_CONFIRM": "Desativar este webhook? Os eventos serão mantidos, mas não serão entregues até que ele seja reativado."
+    "WEBHOOK_DISABLE_CONFIRM": "Desativar este webhook? Os eventos serão mantidos, mas não serão entregues até que ele seja reativado.",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Falhando desde [date]. Nenhuma entrega concluída com sucesso até o momento.",
+    "WEBHOOK_STATUS_FAILING": "⚠️ Sem sucesso desde [date]. Último sucesso: [lastSuccessDate]"
 }

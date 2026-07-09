@@ -37,5 +37,7 @@
     "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Ovaj webhook je automatski onemogućen [date] nakon otprilike tjedan dana neuspješnih isporuka. Događaji u redu čekanja se čuvaju i bit će isporučeni nakon što popravite krajnju točku i ponovno je omogućite.",
     "WEBHOOK_DISABLE_BUTTON": "Onemogući",
     "WEBHOOK_DISABLE_CONFIRM": "Onemogućiti ovaj webhook? Događaji će se čuvati, ali se neće isporučivati dok se ponovno ne omogući.",
-    "WEBHOOK_TOGGLE_ERROR": "❌ Ažuriranje webhooka nije uspjelo. Pokušajte ponovno."
+    "WEBHOOK_TOGGLE_ERROR": "❌ Ažuriranje webhooka nije uspjelo. Pokušajte ponovno.",
+    "WEBHOOK_STATUS_FAILING": "⚠️ Neuspješno od [date]. Posljednji uspjeh: [lastSuccessDate]",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Neuspješno od [date]. Još nema uspješnih isporuka."
 }

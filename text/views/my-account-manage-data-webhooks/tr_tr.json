@@ -37,5 +37,7 @@
     "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Bu webhook, yaklaşık bir haftalık başarısız teslimatların ardından [date] tarihinde otomatik olarak devre dışı bırakıldı. Sıraya alınmış olaylar saklanmaktadır ve uç noktayı düzeltip yeniden etkinleştirdiğinizde teslim edilecektir.",
     "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Bu webhook [date] tarihinde devre dışı bırakıldı. Sıraya alınmış olaylar saklanmaktadır ve yeniden etkinleştirildiğinde iletilecektir.",
     "WEBHOOK_DISABLE_CONFIRM": "Bu webhook'u devre dışı bırakmak mı istiyorsunuz? Olaylar saklanacak, ancak yeniden etkinleştirilene kadar iletilmeyecektir.",
-    "WEBHOOK_TOGGLE_ERROR": "❌ Webhook güncellemesi başarısız oldu. Lütfen tekrar deneyin."
+    "WEBHOOK_TOGGLE_ERROR": "❌ Webhook güncellemesi başarısız oldu. Lütfen tekrar deneyin.",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ [date] tarihinden beri başarısız. Henüz başarılı teslimat yok.",
+    "WEBHOOK_STATUS_FAILING": "⚠️ [date] tarihinden beri başarısız. Son başarı: [lastSuccessDate]"
 }

@@ -37,5 +37,7 @@
     "WEBHOOK_DISABLE_CONFIRM": "Želite onemogočiti ta spletni kavelj? Dogodki bodo shranjeni, vendar ne bodo dostavljeni, dokler ga ponovno ne omogočite.",
     "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Ta spletni kavelj je bil onemogočen dne [date]. Dogodki v čakalni vrsti se ohranijo in bodo dostavljeni, ko bo ponovno omogočen.",
     "WEBHOOK_ENABLE_BUTTON": "Omogoči",
-    "WEBHOOK_TOGGLE_ERROR": "❌ Posodobitev spletnega kavlja ni uspela. Poskusite znova."
+    "WEBHOOK_TOGGLE_ERROR": "❌ Posodobitev spletnega kavlja ni uspela. Poskusite znova.",
+    "WEBHOOK_STATUS_FAILING": "⚠️ Neuspešno od [date]. Zadnji uspeh: [lastSuccessDate]",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Neuspešno od [date]. Zaenkrat še ni bilo uspešnih dostav."
 }

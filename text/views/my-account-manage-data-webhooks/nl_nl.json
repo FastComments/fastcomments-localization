@@ -37,5 +37,7 @@
     "WEBHOOK_DISABLE_CONFIRM": "Deze webhook uitschakelen? Gebeurtenissen worden bewaard, maar pas verzonden als de webhook weer is ingeschakeld.",
     "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Deze webhook is uitgeschakeld op [date]. In de wachtrij staande gebeurtenissen worden bewaard en zullen worden afgeleverd zodra de webhook weer is ingeschakeld.",
     "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Deze webhook is automatisch uitgeschakeld op [date] na ongeveer een week van mislukte leveringen. In de wachtrij staande gebeurtenissen worden bewaard en zullen worden afgeleverd zodra u het eindpunt hebt hersteld en de webhook opnieuw hebt ingeschakeld.",
-    "WEBHOOK_TOGGLE_ERROR": "❌ Het bijwerken van de webhook is mislukt. Probeer het opnieuw."
+    "WEBHOOK_TOGGLE_ERROR": "❌ Het bijwerken van de webhook is mislukt. Probeer het opnieuw.",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Mislukt sinds [date]. Nog geen succesvolle leveringen.",
+    "WEBHOOK_STATUS_FAILING": "⚠️ Mislukt sinds [date]. Laatste succes: [lastSuccessDate]"
 }

@@ -37,5 +37,7 @@
     "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "此 webhook 已于[date]禁用。已排队的事件将被保留，并在重新启用后发送。",
     "WEBHOOK_AUTO_DISABLED_EXPLANATION": "此 Webhook 在大约一周的发送失败后已于[date]自动禁用。已排队的事件将被保留，并在您修复端点并重新启用后发送。",
     "WEBHOOK_TOGGLE_ERROR": "❌ 更新 webhook 失败。请重试。",
-    "WEBHOOK_DISABLE_CONFIRM": "禁用此 webhook 后，事件将被保留，但直到重新启用后才会发送。"
+    "WEBHOOK_DISABLE_CONFIRM": "禁用此 webhook 后，事件将被保留，但直到重新启用后才会发送。",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ 自[date]起失败。尚未有成功交付记录。",
+    "WEBHOOK_STATUS_FAILING": "⚠️ 自[date]起失败。上次成功：[lastSuccessDate]"
 }

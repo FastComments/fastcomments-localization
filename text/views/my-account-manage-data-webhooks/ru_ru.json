@@ -37,5 +37,7 @@
     "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Этот веб-хук был отключен [date]. События, находящиеся в очереди, сохраняются и будут доставлены после его повторного включения.",
     "WEBHOOK_TOGGLE_ERROR": "❌ Не удалось обновить веб-хук. Пожалуйста, попробуйте еще раз.",
     "WEBHOOK_DISABLE_CONFIRM": "Отключить этот веб-хук? События будут сохраняться, но не будут доставляться до тех пор, пока он не будет снова включен.",
-    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ В случае сбоя функция будет отключена [date]"
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ В случае сбоя функция будет отключена [date]",
+    "WEBHOOK_STATUS_FAILING": "⚠️ Неудачные попытки с [date]. Последний успех: [lastSuccessDate]",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Неудачи с [date]. Пока ни одной успешной доставки."
 }

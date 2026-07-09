@@ -37,5 +37,7 @@
     "WEBHOOK_DISABLE_CONFIRM": "Απενεργοποίηση αυτού του webhook; Τα συμβάντα θα διατηρηθούν, αλλά δεν θα παραδοθούν μέχρι να ενεργοποιηθεί ξανά.",
     "WEBHOOK_TOGGLE_ERROR": "❌ Η ενημέρωση του webhook απέτυχε. Δοκιμάστε ξανά.",
     "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Αυτό το webhook απενεργοποιήθηκε αυτόματα στις [date] μετά από περίπου μια εβδομάδα αποτυχημένων παραδόσεων. Τα συμβάντα σε ουρά διατηρούνται και θα παραδοθούν μόλις διορθώσετε το τελικό σημείο και το ενεργοποιήσετε ξανά.",
-    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Αποτυχία - θα απενεργοποιηθεί [date]"
+    "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Αποτυχία - θα απενεργοποιηθεί [date]",
+    "WEBHOOK_STATUS_FAILING": "⚠️ Αποτυχία από [date]. Τελευταία επιτυχία: [lastSuccessDate]",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Αποτυχία από [date]. Δεν υπάρχουν ακόμη επιτυχημένες παραδόσεις."
 }

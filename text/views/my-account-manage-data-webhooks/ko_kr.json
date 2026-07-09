@@ -37,5 +37,7 @@
     "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "이 웹훅은 [date]일에 비활성화되었습니다. 대기 중인 이벤트는 보관되며 웹훅이 다시 활성화되면 전달됩니다.",
     "WEBHOOK_AUTO_DISABLED_EXPLANATION": "이 웹훅은 약 일주일간의 전송 실패 후 [date]일에 자동으로 비활성화되었습니다. 대기 중인 이벤트는 보존되며 엔드포인트를 수정하고 다시 활성화하면 전송됩니다.",
     "WEBHOOK_TOGGLE_ERROR": "❌ 웹훅 업데이트에 실패했습니다. 다시 시도해 주세요.",
-    "WEBHOOK_DISABLE_CONFIRM": "이 웹훅을 비활성화하시겠습니까? 이벤트는 저장되지만, 다시 활성화될 때까지 전달되지 않습니다."
+    "WEBHOOK_DISABLE_CONFIRM": "이 웹훅을 비활성화하시겠습니까? 이벤트는 저장되지만, 다시 활성화될 때까지 전달되지 않습니다.",
+    "WEBHOOK_STATUS_FAILING": "⚠️ ____일부터 실패 중입니다. 마지막 성공일: [date]",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ [date]일부터 실패 중입니다. 아직 성공적인 배송이 없습니다."
 }

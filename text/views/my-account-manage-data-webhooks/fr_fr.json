@@ -37,5 +37,7 @@
     "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Ce webhook a été désactivé le [date]. Les événements en attente sont conservés et seront transmis dès sa réactivation.",
     "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Ce webhook a été automatiquement désactivé le [date] après environ une semaine d'échecs de livraison. Les événements en attente sont conservés et seront livrés une fois le point de terminaison réparé et réactivé.",
     "WEBHOOK_TOGGLE_ERROR": "❌ Échec de la mise à jour du webhook. Veuillez réessayer.",
-    "WEBHOOK_DISABLE_CONFIRM": "Désactiver ce webhook ? Les événements seront conservés, mais ne seront pas transmis tant qu’il ne sera pas réactivé."
+    "WEBHOOK_DISABLE_CONFIRM": "Désactiver ce webhook ? Les événements seront conservés, mais ne seront pas transmis tant qu’il ne sera pas réactivé.",
+    "WEBHOOK_STATUS_FAILING": "⚠️ Échec depuis [date]. Dernière réussite : [lastSuccessDate]",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Échec depuis [date]. Aucune livraison réussie pour le moment."
 }

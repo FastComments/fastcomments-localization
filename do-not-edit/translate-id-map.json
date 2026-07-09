@@ -210,7 +210,7 @@
         "my-account-manage-data-users-export": 16,
         "my-account-manage-data-users-export-table": 2,
         "my-account-manage-data-webhook": 2,
-        "my-account-manage-data-webhooks": 46,
+        "my-account-manage-data-webhooks": 48,
         "my-account-manage-data-webhooks-for-domain": 5,
         "my-account-manage-data-webhooks-logs": 40,
         "my-account-managed-tenants-create": 24,
@@ -4857,7 +4857,9 @@
         "t43": "WEBHOOK_ENABLE_BUTTON",
         "t44": "WEBHOOK_DISABLE_BUTTON",
         "t45": "WEBHOOK_DISABLE_CONFIRM",
-        "t46": "WEBHOOK_TOGGLE_ERROR"
+        "t46": "WEBHOOK_TOGGLE_ERROR",
+        "t47": "WEBHOOK_STATUS_FAILING",
+        "t48": "WEBHOOK_STATUS_FAILING_NO_SUCCESS"
     },
     "my-account-manage-data-webhooks-for-domain": {
         "t1": "ON_COMMENT_CREATED_LABEL",

@@ -37,5 +37,7 @@
     "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ כישלון - יושבת [date]",
     "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "וובהוק זה הושבת בתאריך [date]. אירועים בתור נשמרים ויוצגו לאחר שיופעל מחדש.",
     "WEBHOOK_DISABLE_CONFIRM": "להשבית את ה-webhook הזה? אירועים יישמרו, אך לא יועברו עד שיופעל מחדש.",
-    "WEBHOOK_TOGGLE_ERROR": "❌ עדכון ה-webhook נכשל. אנא נסה שוב."
+    "WEBHOOK_TOGGLE_ERROR": "❌ עדכון ה-webhook נכשל. אנא נסה שוב.",
+    "WEBHOOK_STATUS_FAILING": "⚠️ נכשל מאז [date]. הצלחה אחרונה: [lastSuccessDate]",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ נכשל מאז [date]. עדיין אין משלוחים מוצלחים."
 }
