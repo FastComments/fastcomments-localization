@@ -6,5 +6,8 @@
     "HERO_DESCRIPTION": "You've stumbled on our error page. Don't worry, we were also notified and will investigate this. If this persists please file a support ticket.",
     "BUTTON_RETURN_HOME": "Return to Homepage",
     "CSRF_ERROR": "Security (CSRF) validation failed. Please go back, reload the page, and try again.",
-    "COOKIE_ERROR": "There was an issue processing the CSRF token for your request. Please go back, reload the page, and try again."
+    "COOKIE_ERROR": "There was an issue processing the CSRF token for your request. Please go back, reload the page, and try again.",
+    "OAUTH_STATE_ERROR": "Your sign-in session expired or was invalid. Please go back and try again.",
+    "OAUTH_FAILED_ERROR": "We couldn't complete the sign-in with your provider. Please try again.",
+    "OAUTH_NO_VERIFIED_EMAIL_ERROR": "Your account with that provider has no verified email address, which we need to sign you in. Please verify your email with the provider, or sign up with your email address instead."
 }

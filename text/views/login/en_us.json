@@ -18,5 +18,8 @@
     "EMAIL_HELP_TEXT": "We'll send you a link via email to sign in. If you don't have an account we will create one for you.",
     "LABEL_CAPTCHA": "What is <%= captchaA %> + <%= captchaB %>?",
     "CAPTCHA_HELP": "Helps determine you're not a bot.",
-    "BUTTON_LOGIN": "Login"
+    "BUTTON_LOGIN": "Login",
+    "BUTTON_CONTINUE_WITH_GOOGLE": "Continue with Google",
+    "BUTTON_CONTINUE_WITH_GITHUB": "Continue with GitHub",
+    "OR_DIVIDER_TEXT": "or"
 }
