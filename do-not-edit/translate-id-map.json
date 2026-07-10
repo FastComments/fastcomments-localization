@@ -127,7 +127,7 @@
         "login-success": 9,
         "login-two-factor": 18,
         "maintenance-page": 4,
-        "marketing_common": 142,
+        "marketing_common": 151,
         "moderator-join-failure": 9,
         "moderator-join-success": 6,
         "my-account": 5,
@@ -3172,7 +3172,16 @@
         "t139": "SNIPPET_VIEW_INSTALL_GUIDE",
         "t140": "PUBLIC_FOOTER_V2_DJANGO",
         "t141": "PUBLIC_FOOTER_V2_WORDPRESS",
-        "t142": "PUBLIC_FOOTER_V2_DISQUS_ALTERNATIVE"
+        "t142": "PUBLIC_FOOTER_V2_DISQUS_ALTERNATIVE",
+        "t143": "SNIPPET_VIEW_LIBRARY_REACT",
+        "t144": "SNIPPET_VIEW_LIBRARY_VUE",
+        "t145": "SNIPPET_VIEW_LIBRARY_ANGULAR",
+        "t146": "SNIPPET_VIEW_LIBRARY_SOLIDJS",
+        "t147": "SNIPPET_SELECT_PLATFORM",
+        "t148": "SNIPPET_COPY_TITLE",
+        "t149": "SNIPPET_COPIED",
+        "t150": "SNIPPET_LOADING",
+        "t151": "SNIPPET_ERROR"
     },
     "moderator-join-failure": {
         "t1": "PAGE_TITLE",
