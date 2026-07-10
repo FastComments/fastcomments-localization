@@ -6,5 +6,8 @@
     "HERO_DESCRIPTION": "Vous êtes arrivé sur notre page d'erreur. Ne vous inquiétez pas, nous en avons été informés et nous allons enquêter. Si le problème persiste, veuillez ouvrir un ticket d'assistance.",
     "BUTTON_RETURN_HOME": "Retour à la page d'accueil",
     "CSRF_ERROR": "La validation de sécurité (CSRF) a échoué. Veuillez revenir en arrière, recharger la page et réessayer.",
-    "COOKIE_ERROR": "Un problème est survenu lors du traitement du jeton CSRF pour votre requête. Veuillez revenir en arrière, recharger la page et réessayer."
+    "COOKIE_ERROR": "Un problème est survenu lors du traitement du jeton CSRF pour votre requête. Veuillez revenir en arrière, recharger la page et réessayer.",
+    "OAUTH_STATE_ERROR": "Votre session de connexion a expiré ou n'était pas valide. Veuillez revenir en arrière et réessayer.",
+    "OAUTH_FAILED_ERROR": "Nous n'avons pas pu finaliser la connexion avec votre fournisseur. Veuillez réessayer.",
+    "OAUTH_NO_VERIFIED_EMAIL_ERROR": "Votre compte chez ce fournisseur n'a pas d'adresse e-mail vérifiée, dont nous avons besoin pour vous connecter. Veuillez vérifier votre adresse e-mail auprès du fournisseur, ou inscrivez-vous plutôt avec votre adresse e-mail."
 }

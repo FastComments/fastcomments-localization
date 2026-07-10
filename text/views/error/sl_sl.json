@@ -6,5 +6,8 @@
     "HERO_DESCRIPTION": "Naleteli ste na našo stran z napakami. Brez skrbi, tudi mi smo bili o tem obveščeni in bomo to preiskali. Če se težava ponovi, prosimo, da pošljete zahtevo za podporo.",
     "BUTTON_RETURN_HOME": "Nazaj na domačo stran",
     "CSRF_ERROR": "Varnostno preverjanje (CSRF) ni uspelo. Vrnite se, ponovno naložite stran in poskusite znova.",
-    "COOKIE_ERROR": "Pri obdelavi žetona CSRF za vašo zahtevo je prišlo do težave. Prosimo, vrnite se, ponovno naložite stran in poskusite znova."
+    "COOKIE_ERROR": "Pri obdelavi žetona CSRF za vašo zahtevo je prišlo do težave. Prosimo, vrnite se, ponovno naložite stran in poskusite znova.",
+    "OAUTH_STATE_ERROR": "Vaša seja prijave je potekla ali je bila neveljavna. Vrnite se in poskusite znova.",
+    "OAUTH_FAILED_ERROR": "Prijave prek vašega ponudnika ni bilo mogoče dokončati. Poskusite znova.",
+    "OAUTH_NO_VERIFIED_EMAIL_ERROR": "Vaš račun pri tem ponudniku nima potrjenega e-poštnega naslova, ki ga potrebujemo za prijavo. Potrdite svoj e-poštni naslov pri ponudniku ali se namesto tega registrirajte s svojim e-poštnim naslovom."
 }

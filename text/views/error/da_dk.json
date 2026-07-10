@@ -6,5 +6,8 @@
     "HERO_DESCRIPTION": "Du er stødt på vores fejlside. Bare rolig, vi er også blevet underrettet og vil undersøge sagen. Hvis dette fortsætter, bedes du indsende en supportsag.",
     "BUTTON_RETURN_HOME": "Tilbage til forsiden",
     "CSRF_ERROR": "Sikkerhedsvalidering (CSRF) mislykkedes. Gå tilbage, genindlæs siden, og prøv igen.",
-    "COOKIE_ERROR": "Der opstod et problem under behandling af CSRF-tokenet for din anmodning. Gå tilbage, genindlæs siden, og prøv igen."
+    "COOKIE_ERROR": "Der opstod et problem under behandling af CSRF-tokenet for din anmodning. Gå tilbage, genindlæs siden, og prøv igen.",
+    "OAUTH_STATE_ERROR": "Din login-session er udløbet eller var ugyldig. Gå tilbage, og prøv igen.",
+    "OAUTH_FAILED_ERROR": "Vi kunne ikke gennemføre login med din udbyder. Prøv igen.",
+    "OAUTH_NO_VERIFIED_EMAIL_ERROR": "Din konto hos den udbyder har ingen bekræftet e-mailadresse, som vi skal bruge for at logge dig ind. Bekræft din e-mail hos udbyderen, eller tilmeld dig i stedet med din e-mailadresse."
 }

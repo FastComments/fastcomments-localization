@@ -6,5 +6,8 @@
     "HERO_DESCRIPTION": "Sie sind auf unserer Fehlerseite gelandet. Keine Sorge, wir wurden ebenfalls benachrichtigt und werden der Sache nachgehen. Sollte das Problem weiterhin bestehen, erstellen Sie bitte ein Support-Ticket.",
     "BUTTON_RETURN_HOME": "Zurück zur Startseite",
     "CSRF_ERROR": "Die Sicherheitsprüfung (CSRF) ist fehlgeschlagen. Bitte gehen Sie zurück, laden Sie die Seite neu und versuchen Sie es erneut.",
-    "COOKIE_ERROR": "Es gab ein Problem bei der Verarbeitung des CSRF-Tokens für Ihre Anfrage. Bitte gehen Sie zurück, laden Sie die Seite neu und versuchen Sie es erneut."
+    "COOKIE_ERROR": "Es gab ein Problem bei der Verarbeitung des CSRF-Tokens für Ihre Anfrage. Bitte gehen Sie zurück, laden Sie die Seite neu und versuchen Sie es erneut.",
+    "OAUTH_STATE_ERROR": "Ihre Anmeldesitzung ist abgelaufen oder war ungültig. Bitte gehen Sie zurück und versuchen Sie es erneut.",
+    "OAUTH_FAILED_ERROR": "Die Anmeldung über Ihren Anbieter konnte nicht abgeschlossen werden. Bitte versuchen Sie es erneut.",
+    "OAUTH_NO_VERIFIED_EMAIL_ERROR": "Ihr Konto bei diesem Anbieter hat keine bestätigte E-Mail-Adresse, die wir für die Anmeldung benötigen. Bitte bestätigen Sie Ihre E-Mail-Adresse bei dem Anbieter oder registrieren Sie sich stattdessen mit Ihrer E-Mail-Adresse."
 }

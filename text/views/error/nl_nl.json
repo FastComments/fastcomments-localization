@@ -6,5 +6,8 @@
     "HERO_DESCRIPTION": "Je bent op onze foutpagina terechtgekomen. Geen zorgen, wij zijn hiervan op de hoogte gesteld en zullen dit onderzoeken. Als het probleem aanhoudt, kunt u een supportticket aanmaken.",
     "BUTTON_RETURN_HOME": "Terug naar de homepage",
     "CSRF_ERROR": "De beveiligingsvalidatie (CSRF) is mislukt. Ga terug, vernieuw de pagina en probeer het opnieuw.",
-    "COOKIE_ERROR": "Er is een probleem opgetreden bij het verwerken van het CSRF-token voor uw verzoek. Ga terug, vernieuw de pagina en probeer het opnieuw."
+    "COOKIE_ERROR": "Er is een probleem opgetreden bij het verwerken van het CSRF-token voor uw verzoek. Ga terug, vernieuw de pagina en probeer het opnieuw.",
+    "OAUTH_STATE_ERROR": "Uw aanmeldsessie is verlopen of was ongeldig. Ga terug en probeer het opnieuw.",
+    "OAUTH_FAILED_ERROR": "We konden het aanmelden via uw provider niet voltooien. Probeer het opnieuw.",
+    "OAUTH_NO_VERIFIED_EMAIL_ERROR": "Uw account bij die provider heeft geen geverifieerd e-mailadres, en dat hebben we nodig om u aan te melden. Verifieer uw e-mailadres bij de provider, of meld u in plaats daarvan aan met uw e-mailadres."
 }

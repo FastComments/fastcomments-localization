@@ -6,5 +6,8 @@
     "HERO_DESCRIPTION": "Trafiłeś na naszą stronę z błędem. Nie martw się, również zostaliśmy o tym powiadomieni i zajmiemy się sprawą. Jeśli problem będzie się powtarzał, zgłoś problem do pomocy technicznej.",
     "BUTTON_RETURN_HOME": "Powrót do strony głównej",
     "CSRF_ERROR": "Weryfikacja bezpieczeństwa (CSRF) nie powiodła się. Wróć, odśwież stronę i spróbuj jeszcze raz.",
-    "COOKIE_ERROR": "Wystąpił problem z przetwarzaniem tokenu CSRF dla Twojego żądania. Wróć, odśwież stronę i spróbuj jeszcze raz."
+    "COOKIE_ERROR": "Wystąpił problem z przetwarzaniem tokenu CSRF dla Twojego żądania. Wróć, odśwież stronę i spróbuj jeszcze raz.",
+    "OAUTH_STATE_ERROR": "Twoja sesja logowania wygasła lub była nieprawidłowa. Wróć i spróbuj jeszcze raz.",
+    "OAUTH_FAILED_ERROR": "Nie udało się dokończyć logowania u Twojego dostawcy. Spróbuj jeszcze raz.",
+    "OAUTH_NO_VERIFIED_EMAIL_ERROR": "Twoje konto u tego dostawcy nie ma zweryfikowanego adresu e-mail, a jest on nam potrzebny do zalogowania Cię. Zweryfikuj swój adres e-mail u dostawcy albo zarejestruj się za pomocą adresu e-mail."
 }

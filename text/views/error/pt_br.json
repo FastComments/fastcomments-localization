@@ -6,5 +6,8 @@
     "HERO_DESCRIPTION": "Você se deparou com nossa página de erro. Não se preocupe, também fomos notificados e investigaremos o problema. Se o erro persistir, abra um chamado de suporte.",
     "BUTTON_RETURN_HOME": "Voltar à página inicial",
     "CSRF_ERROR": "A validação de segurança (CSRF) falhou. Por favor, volte, recarregue a página e tente novamente.",
-    "COOKIE_ERROR": "Houve um problema ao processar o token CSRF da sua solicitação. Por favor, volte, recarregue a página e tente novamente."
+    "COOKIE_ERROR": "Houve um problema ao processar o token CSRF da sua solicitação. Por favor, volte, recarregue a página e tente novamente.",
+    "OAUTH_STATE_ERROR": "Sua sessão de login expirou ou era inválida. Por favor, volte e tente novamente.",
+    "OAUTH_FAILED_ERROR": "Não foi possível concluir o login com o seu provedor. Por favor, tente novamente.",
+    "OAUTH_NO_VERIFIED_EMAIL_ERROR": "Sua conta nesse provedor não possui um endereço de e-mail verificado, que é necessário para fazer seu login. Verifique seu e-mail com o provedor ou cadastre-se com seu endereço de e-mail."
 }

@@ -6,5 +6,8 @@
     "HERO_DESCRIPTION": "Naišli ste na našu stranicu s pogreškom. Ne brinite, i mi smo obaviješteni i istražit ćemo to. Ako se ovo nastavi, molimo vas da pošaljete tiket za podršku.",
     "BUTTON_RETURN_HOME": "Povratak na početnu stranicu",
     "CSRF_ERROR": "Sigurnosna (CSRF) validacija nije uspjela. Vratite se, ponovno učitajte stranicu i pokušajte ponovno.",
-    "COOKIE_ERROR": "Došlo je do problema s obradom CSRF tokena za vaš zahtjev. Vratite se, ponovno učitajte stranicu i pokušajte ponovno."
+    "COOKIE_ERROR": "Došlo je do problema s obradom CSRF tokena za vaš zahtjev. Vratite se, ponovno učitajte stranicu i pokušajte ponovno.",
+    "OAUTH_STATE_ERROR": "Vaša sesija prijave je istekla ili je nevažeća. Vratite se i pokušajte ponovno.",
+    "OAUTH_FAILED_ERROR": "Nismo mogli dovršiti prijavu putem vašeg pružatelja usluge. Pokušajte ponovno.",
+    "OAUTH_NO_VERIFIED_EMAIL_ERROR": "Vaš račun kod tog pružatelja usluge nema potvrđenu e-mail adresu, koja nam je potrebna za prijavu. Potvrdite svoju e-poštu kod pružatelja usluge ili se umjesto toga registrirajte svojom e-mail adresom."
 }

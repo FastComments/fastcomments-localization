@@ -6,5 +6,8 @@
     "HERO_DESCRIPTION": "Ti sei imbattuto nella nostra pagina di errore. Non preoccuparti, siamo stati avvisati anche noi e investigheremo. Se il problema persiste, invia un ticket di supporto.",
     "BUTTON_RETURN_HOME": "Torna alla homepage",
     "CSRF_ERROR": "Convalida di sicurezza (CSRF) non riuscita. Torna indietro, ricarica la pagina e riprova.",
-    "COOKIE_ERROR": "Si è verificato un problema durante l'elaborazione del token CSRF per la tua richiesta. Torna indietro, ricarica la pagina e riprova."
+    "COOKIE_ERROR": "Si è verificato un problema durante l'elaborazione del token CSRF per la tua richiesta. Torna indietro, ricarica la pagina e riprova.",
+    "OAUTH_STATE_ERROR": "La tua sessione di accesso è scaduta o non era valida. Torna indietro e riprova.",
+    "OAUTH_FAILED_ERROR": "Non siamo riusciti a completare l'accesso con il tuo provider. Riprova.",
+    "OAUTH_NO_VERIFIED_EMAIL_ERROR": "Il tuo account presso quel provider non ha un indirizzo e-mail verificato, che ci serve per farti accedere. Verifica la tua e-mail con il provider oppure registrati con il tuo indirizzo e-mail."
 }
