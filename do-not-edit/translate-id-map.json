@@ -144,7 +144,7 @@
         "my-account-badge-users": 11,
         "my-account-billing-analytics": 14,
         "my-account-billing-history": 24,
-        "my-account-billing-info": 57,
+        "my-account-billing-info": 59,
         "my-account-cancel": 8,
         "my-account-cancel-failure": 4,
         "my-account-cancel-success": 5,
@@ -3502,7 +3502,9 @@
         "t54": "SECTION_PAYMENT_METHOD",
         "t55": "ERROR_SELECT_PACKAGE",
         "t56": "ERROR_CARD_DECLINED",
-        "t57": "ERROR_GENERIC"
+        "t57": "ERROR_GENERIC",
+        "t58": "BUTTON_PAY_NOW_START_SUBSCRIPTION",
+        "t59": "BUTTON_START_SUBSCRIPTION"
     },
     "my-account-cancel": {
         "t1": "PAGE_TITLE",
