@@ -30,7 +30,7 @@
     "TEST_STATUS_SUCCESS": "✔️ Тестове корисне навантаження надіслано! Статус: [statusCode]",
     "TEST_STATUS_FAILED": "❌ Тестове корисне навантаження не вдалося. Статус: [statusCode]",
     "TEST_STATUS_ERROR": "❌ Не вдалося надіслати тестове корисне навантаження.",
-    "WEBHOOK_STATUS_DISABLED": "Інвалід",
+    "WEBHOOK_STATUS_DISABLED": "Вимкнено",
     "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Не пройде – буде вимкнено [date]",
     "WEBHOOK_ENABLE_BUTTON": "Увімкнути",
     "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Цей вебхук було вимкнено [date]. Події в черзі зберігаються та будуть доставлені після повторного ввімкнення.",
