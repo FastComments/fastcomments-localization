@@ -88,7 +88,7 @@
     "FAQ_TRIAL_ENDS": "¿Qué pasa cuando termina el periodo de prueba?",
     "FAQ_TRIAL_ENDS_ANSWER": "El widget de comentarios seguirá funcionando brevemente y luego se ocultará. Tú y tus usuarios seguirán teniendo acceso completo al área de administración. Recibirás recordatorios, que podrás desactivar fácilmente, al finalizar el periodo de prueba.",
     "FAQ_EXCEED_LIMITS": "¿Qué pasa si excedo los límites de mi cuenta?",
-    "FAQ_EXCEED_LIMITS_ANSWER": "Todos los detalles del paquete, excepto el número de comentarios al mes, tienen límites estrictos. Si excede el número de comentarios al mes, nos pondremos en contacto con usted para negociar su paquete.",
+    "FAQ_EXCEED_LIMITS_ANSWER": "Todos los detalles del paquete, excepto el número de comentarios al mes, son límites estrictos. Si superas el límite de comentarios mensuales, nos pondremos en contacto contigo para negociar tu paquete. En el plan Flex, puedes establecer tus propios límites desde la página de Facturación para controlar tu gasto mensual.",
     "FAQ_FREE_TIER": "Estoy ejecutando un proyecto de código abierto con poco tráfico, ¿existe un nivel gratuito?",
     "FAQ_FREE_TIER_ANSWER": "Actualmente no existe una versión gratuita oficial; sin embargo, por ejemplo, al añadir comentarios a las páginas de documentación de código abierto, hacemos excepciones. Simplemente cree un ticket de soporte después de registrarse.",
     "FAQ_ADD_USERS": "¿Puedo agregar a mis desarrolladores, moderadores y otros administradores?",
@@ -147,5 +147,7 @@
     "PUBLIC_FOOTER_V2_DJANGO": "Django",
     "PUBLIC_FOOTER_V2_WORDPRESS": "WordPress",
     "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "API REST y SDK para debates en directo.",
-    "PUBLIC_NAV_ITEM_COMMENTING_API": "API de comentarios"
+    "PUBLIC_NAV_ITEM_COMMENTING_API": "API de comentarios",
+    "FAQ_FLEX_SPEND_LIMIT": "¿Puedo establecer un límite de gasto en Flex?",
+    "FAQ_FLEX_SPEND_LIMIT_ANSWER": "Sí. En la página de Facturación de tu panel de control, introduce un límite máximo mensual y nosotros configuraremos los límites de uso correspondientes, o puedes ajustar cada límite tú mismo. El uso que supere un límite se bloqueará, lo que limitará tu facturación."
 }

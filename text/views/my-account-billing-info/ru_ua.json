@@ -57,5 +57,12 @@
     "SECTION_BILLING_ADDRESS": "Адрес для выставления счета",
     "SECTION_PAYMENT_METHOD": "Способ оплаты",
     "BUTTON_START_SUBSCRIPTION": "Начать подписку",
-    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Оплатите сейчас и оформите подписку"
+    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Оплатите сейчас и оформите подписку",
+    "FLEX_LIMIT_TITLE": "Ежемесячный лимит расходов",
+    "ERROR_NO_FLEX_PACKAGE": "В вашем аккаунте нет тарифного плана Flex, поэтому нет возможности настроить ограничения по использованию.",
+    "ERROR_INVALID_LIMITS": "Одно или несколько введенных значений не являются допустимыми.",
+    "FLEX_LIMIT_EDIT": "Редактировать",
+    "FLEX_LIMIT_NOT_CONFIGURED": "Ограничение не задано",
+    "FLEX_LIMIT_MAX_VALUE": "До [amount]/мес.",
+    "FLEX_NEXT_INVOICE": "Сумма следующего счета:"
 }

@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "Без ограничений",
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "Введите сумму",
+    "FLEX_LIMITS_TITLE": "Ежемесячный лимит расходов",
+    "FLEX_LIMITS_TARGET_LABEL": "Целевой месячный максимум ([currency])",
+    "FLEX_LIMITS_SUBTITLE": "Введите целевой ежемесячный лимит, и мы установим соответствующие ограничения на использование, или настройте каждое ограничение самостоятельно.",
+    "FLEX_LIMITS_COMMENTS": "Сохраненные комментарии",
+    "FLEX_LIMITS_PAGE_LOADS": "Количество загрузок страниц в месяц",
+    "FLEX_LIMITS_SSO_USERS": "Пользователи SSO",
+    "FLEX_LIMITS_API_CREDITS": "API-кредиты в месяц",
+    "FLEX_LIMITS_BTN_SAVE": "Сохранить лимиты",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "Кредиты малого виджета в месяц",
+    "FLEX_LIMITS_COMPUTED_MAX": "Предполагаемый максимальный месячный лимит: [amount]",
+    "FLEX_LIMITS_BTN_CANCEL": "Отмена",
+    "FLEX_LIMITS_NOT_CONFIGURED": "Оставьте поле пустым, чтобы обеспечить неограниченное использование.",
+    "FLEX_LIMITS_MINIMUM_NOTE": "Минимальная плата по тарифу Flex в размере [amount]/мес. по-прежнему действует.",
+    "FLEX_LIMITS_SAVE_FAILED": "Возникла ошибка при сохранении ваших лимитов. Попробуйте еще раз через минуту.",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "Расчетная сумма: [amount]",
+    "FLEX_LIMITS_TARGET_NOTE": "Это не жесткое ограничение, ручные действия, такие как добавление сайтов или административных мест, могут превысить этот лимит. Вы можете в любое время проверить предстоящие счета в <a href=\"/auth/my-account/analytics/billing\">разделе «Аналитика выставления счетов»</a> ."
+}

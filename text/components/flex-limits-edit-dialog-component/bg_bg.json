@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_SUBTITLE": "Въведете целеви месечен максимум и ние ще зададем съответстващи ограничения за потребление или ще настроите всеки лимит сами.",
+    "FLEX_LIMITS_TITLE": "Месечен лимит на разходите",
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "Въведете сума",
+    "FLEX_LIMITS_SSO_USERS": "Потребители на SSO",
+    "FLEX_LIMITS_API_CREDITS": "API кредити на месец",
+    "FLEX_LIMITS_PAGE_LOADS": "Зареждания на страници на месец",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "Кредити за малкия уиджет на месец",
+    "FLEX_LIMITS_TARGET_LABEL": "Целеви месечен максимум ([currency])",
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "Без ограничение",
+    "FLEX_LIMITS_COMMENTS": "Запазени коментари",
+    "FLEX_LIMITS_COMPUTED_MAX": "Очакван месечен максимум: [amount]",
+    "FLEX_LIMITS_BTN_CANCEL": "Отказ",
+    "FLEX_LIMITS_NOT_CONFIGURED": "Оставете полето празно, за да запазите използването неограничено.",
+    "FLEX_LIMITS_SAVE_FAILED": "Срещнахме проблем при запазването на лимитите ви. Опитайте отново след малко.",
+    "FLEX_LIMITS_MINIMUM_NOTE": "Минималната такса за Flex от [amount]/месец все още се прилага.",
+    "FLEX_LIMITS_BTN_SAVE": "Запазване на лимити",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "Изчислена сума: [amount]",
+    "FLEX_LIMITS_TARGET_NOTE": "Това не е твърдо ограничение, ръчните действия, като добавяне на сайтове или администраторски места, могат да надхвърлят този лимит. Проверявайте предстоящите фактури в <a href=\"/auth/my-account/analytics/billing\">„Анализ на фактурирането“</a> по всяко време."
+}

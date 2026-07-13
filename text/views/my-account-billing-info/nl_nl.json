@@ -57,5 +57,12 @@
     "SECTION_PAYMENT_METHOD": "Betaalmethode",
     "PLAN_SUMMARY_MINIMUM_LABEL": "/maand minimum",
     "BUTTON_START_SUBSCRIPTION": "Abonnement starten",
-    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Nu betalen en abonnement starten"
+    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Nu betalen en abonnement starten",
+    "ERROR_INVALID_LIMITS": "Een of meer van de ingevoerde limieten zijn geen geldige getallen.",
+    "ERROR_NO_FLEX_PACKAGE": "Uw account heeft geen Flex-abonnement, dus er zijn geen gebruikslimieten die u kunt instellen.",
+    "FLEX_LIMIT_EDIT": "Bewerken",
+    "FLEX_LIMIT_MAX_VALUE": "Tot [amount]/maand",
+    "FLEX_NEXT_INVOICE": "Bedrag volgende factuur:",
+    "FLEX_LIMIT_NOT_CONFIGURED": "Geen limiet geconfigureerd",
+    "FLEX_LIMIT_TITLE": "Maandelijks bestedingslimiet"
 }

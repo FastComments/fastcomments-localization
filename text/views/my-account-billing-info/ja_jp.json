@@ -57,5 +57,12 @@
     "SECTION_PAYMENT_METHOD": "支払方法",
     "SECTION_BILLING_ADDRESS": "請求先住所",
     "BUTTON_START_SUBSCRIPTION": "購読を開始する",
-    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "今すぐ支払って定期購読を開始"
+    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "今すぐ支払って定期購読を開始",
+    "FLEX_LIMIT_EDIT": "編集",
+    "FLEX_LIMIT_MAX_VALUE": "最大[amount]/月",
+    "FLEX_LIMIT_NOT_CONFIGURED": "制限は設定されていません",
+    "FLEX_LIMIT_TITLE": "月間支出限度額",
+    "FLEX_NEXT_INVOICE": "次回の請求金額：",
+    "ERROR_NO_FLEX_PACKAGE": "お客様のアカウントにはFlexプランが適用されていないため、設定できる利用制限はありません。",
+    "ERROR_INVALID_LIMITS": "入力された制限値のうち、1つ以上が無効な数値です。"
 }

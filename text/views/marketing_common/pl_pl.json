@@ -88,7 +88,7 @@
     "FAQ_TRIAL_ENDS": "Co się dzieje po zakończeniu okresu próbnego?",
     "FAQ_TRIAL_ENDS_ANSWER": "Widżet komentarzy będzie działał jeszcze przez chwilę, a następnie zniknie. Ty i Twoi użytkownicy nadal będziecie mieli pełny dostęp do panelu administracyjnego. Po zakończeniu okresu próbnego otrzymasz przypomnienia, z których możesz łatwo zrezygnować.",
     "FAQ_EXCEED_LIMITS": "Co się stanie, jeśli przekroczę limity swojego konta?",
-    "FAQ_EXCEED_LIMITS_ANSWER": "Wszystkie szczegóły pakietu, z wyjątkiem liczby komentarzy w miesiącu, są sztywne. Jeśli przekroczysz liczbę komentarzy w miesiącu, skontaktujemy się z Tobą w celu negocjacji pakietu.",
+    "FAQ_EXCEED_LIMITS_ANSWER": "Wszystkie szczegóły pakietu, z wyjątkiem liczby komentarzy w miesiącu, stanowią sztywne limity. Jeśli przekroczysz tę liczbę, skontaktujemy się z Tobą w celu negocjacji pakietu. W planie Flex ustalasz własne limity na stronie Rozliczeń, aby ograniczyć swoje miesięczne wydatki.",
     "FAQ_FREE_TIER": "Prowadzę projekt open source o małym ruchu. Czy jest dostępna wersja bezpłatna?",
     "FAQ_FREE_TIER_ANSWER": "Obecnie nie ma oficjalnej, darmowej wersji, jednak na przykład w przypadku dodawania komentarzy do stron dokumentacji OSS robimy wyjątki. Wystarczy utworzyć zgłoszenie do pomocy technicznej po rejestracji.",
     "FAQ_ADD_USERS": "Czy mogę dodać swoich programistów, moderatorów i innych administratorów?",
@@ -147,5 +147,7 @@
     "PUBLIC_FOOTER_V2_DJANGO": "Django",
     "PUBLIC_FOOTER_V2_WORDPRESS": "WordPress",
     "PUBLIC_NAV_ITEM_COMMENTING_API": "API komentowania",
-    "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "Interfejs API REST i zestawy SDK do dyskusji na żywo."
+    "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "Interfejs API REST i zestawy SDK do dyskusji na żywo.",
+    "FAQ_FLEX_SPEND_LIMIT": "Czy mogę ustalić limit wydatków w ramach usługi Flex?",
+    "FAQ_FLEX_SPEND_LIMIT_ANSWER": "Tak. Na stronie „Rozliczenia” w panelu wprowadź docelowy miesięczny limit, a my ustawimy dla Ciebie odpowiednie limity użytkowania lub samodzielnie dostosujesz każdy limit. Użycie przekraczające limit jest blokowane, co ogranicza kwotę naliczaną za usługę."
 }

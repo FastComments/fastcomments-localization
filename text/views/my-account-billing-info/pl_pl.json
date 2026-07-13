@@ -57,5 +57,12 @@
     "SECTION_BILLING_ADDRESS": "Adres rozliczeniowy",
     "SECTION_PAYMENT_METHOD": "Metoda płatności",
     "BUTTON_START_SUBSCRIPTION": "Rozpocznij subskrypcję",
-    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Zapłać teraz i rozpocznij subskrypcję"
+    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Zapłać teraz i rozpocznij subskrypcję",
+    "FLEX_LIMIT_TITLE": "Miesięczny limit wydatków",
+    "FLEX_LIMIT_EDIT": "Edytuj",
+    "ERROR_NO_FLEX_PACKAGE": "Twoje konto nie ma planu Flex, więc nie ma limitów wykorzystania do skonfigurowania.",
+    "ERROR_INVALID_LIMITS": "Jeden lub więcej z wprowadzonych limitów nie jest prawidłową liczbą.",
+    "FLEX_LIMIT_NOT_CONFIGURED": "Brak skonfigurowanego limitu",
+    "FLEX_LIMIT_MAX_VALUE": "Do [amount]/mies.",
+    "FLEX_NEXT_INVOICE": "Kwota następnej faktury:"
 }

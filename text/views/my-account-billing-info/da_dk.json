@@ -57,5 +57,12 @@
     "SECTION_PAYMENT_METHOD": "Betalingsmetode",
     "PLAN_SUMMARY_MINIMUM_LABEL": "/måned minimum",
     "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Betal nu og start abonnementet",
-    "BUTTON_START_SUBSCRIPTION": "Start abonnement"
+    "BUTTON_START_SUBSCRIPTION": "Start abonnement",
+    "FLEX_LIMIT_TITLE": "Månedlig forbrugsgrænse",
+    "ERROR_NO_FLEX_PACKAGE": "Din konto har ikke en Flex-plan, så der er ingen forbrugsgrænser at konfigurere.",
+    "ERROR_INVALID_LIMITS": "En eller flere af de indtastede grænser er ikke et gyldigt tal.",
+    "FLEX_LIMIT_NOT_CONFIGURED": "Ingen grænse konfigureret",
+    "FLEX_LIMIT_EDIT": "Rediger",
+    "FLEX_NEXT_INVOICE": "Næste fakturabeløb:",
+    "FLEX_LIMIT_MAX_VALUE": "Op til [amount]/md."
 }

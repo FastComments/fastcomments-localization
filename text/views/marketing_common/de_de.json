@@ -88,7 +88,7 @@
     "FAQ_TRIAL_ENDS": "Was geschieht nach Ablauf der Testphase?",
     "FAQ_TRIAL_ENDS_ANSWER": "Das Kommentar-Widget wird noch kurze Zeit funktionieren und sich dann automatisch ausblenden. Sie und Ihre Nutzer haben weiterhin vollen Zugriff auf den Administrationsbereich. Sie erhalten nach Ablauf der Testphase Erinnerungen, die Sie jederzeit abbestellen können.",
     "FAQ_EXCEED_LIMITS": "Was passiert, wenn ich das Limit meines Kontos überschreite?",
-    "FAQ_EXCEED_LIMITS_ANSWER": "Alle Paketdetails, außer der Anzahl der Kommentare pro Monat, sind feste Vorgaben. Sollten Sie die maximale Anzahl an Kommentaren pro Monat überschreiten, kontaktieren wir Sie, um Ihr Paket neu zu verhandeln.",
+    "FAQ_EXCEED_LIMITS_ANSWER": "Alle Paketdetails, außer der Anzahl der Kommentare pro Monat, sind feste Obergrenzen. Sollten Sie die zulässige Anzahl an Kommentaren pro Monat überschreiten, kontaktieren wir Sie, um Ihr Paket neu zu verhandeln. Beim Flex-Tarif können Sie Ihre monatlichen Ausgaben auf der Abrechnungsseite selbst begrenzen.",
     "FAQ_FREE_TIER": "Ich betreibe ein Open-Source-Projekt mit geringem Traffic. Gibt es eine kostenlose Version?",
     "FAQ_FREE_TIER_ANSWER": "Es gibt derzeit kein offizielles kostenloses Angebot, wir machen jedoch Ausnahmen, beispielsweise beim Hinzufügen von Kommentaren zu Open-Source-Dokumentationsseiten. Erstellen Sie dazu einfach nach der Anmeldung ein Support-Ticket.",
     "FAQ_ADD_USERS": "Kann ich meine Entwickler, Moderatoren und andere Administratoren hinzufügen?",
@@ -147,5 +147,7 @@
     "PUBLIC_FOOTER_V2_DJANGO": "Django",
     "PUBLIC_FOOTER_V2_WORDPRESS": "WordPress",
     "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "REST-API und SDKs für Live-Diskussionen.",
-    "PUBLIC_NAV_ITEM_COMMENTING_API": "Kommentar-API"
+    "PUBLIC_NAV_ITEM_COMMENTING_API": "Kommentar-API",
+    "FAQ_FLEX_SPEND_LIMIT_ANSWER": "Ja. Auf der Abrechnungsseite in Ihrem Dashboard können Sie einen monatlichen Höchstbetrag festlegen. Wir richten dann die entsprechenden Nutzungslimits für Sie ein. Alternativ können Sie die Limits auch selbst anpassen. Nutzungen, die ein Limit überschreiten würden, werden gesperrt, wodurch Ihre Kosten begrenzt werden.",
+    "FAQ_FLEX_SPEND_LIMIT": "Kann ich ein Ausgabenlimit für Flex festlegen?"
 }

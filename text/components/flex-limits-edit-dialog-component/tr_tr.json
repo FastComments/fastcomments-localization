@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_TITLE": "Aylık Harcama Limiti",
+    "FLEX_LIMITS_TARGET_LABEL": "Aylık maksimum hedef ([currency])",
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "Sınır yok",
+    "FLEX_LIMITS_SUBTITLE": "Aylık maksimum hedef tutarınızı girin, biz de buna uygun kullanım limitleri belirleyelim veya her bir limiti kendiniz ince ayar yapın.",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "Aylık küçük widget kredileri",
+    "FLEX_LIMITS_COMMENTS": "Saklanan yorumlar",
+    "FLEX_LIMITS_SSO_USERS": "SSO kullanıcıları",
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "Bir miktar girin",
+    "FLEX_LIMITS_PAGE_LOADS": "Aylık sayfa yükleme sayısı",
+    "FLEX_LIMITS_API_CREDITS": "Aylık API kredileri",
+    "FLEX_LIMITS_COMPUTED_MAX": "Tahmini aylık maksimum: [amount]",
+    "FLEX_LIMITS_NOT_CONFIGURED": "Bir alanı boş bırakarak o alanın sınırsız kullanımını sağlayabilirsiniz.",
+    "FLEX_LIMITS_MINIMUM_NOTE": "Flex için aylık minimum ücret olan [amount]/ay hala geçerlidir.",
+    "FLEX_LIMITS_BTN_SAVE": "Limitleri Kaydet",
+    "FLEX_LIMITS_BTN_CANCEL": "İptal",
+    "FLEX_LIMITS_SAVE_FAILED": "Limitlerinizi kaydederken bir sorunla karşılaştık. Lütfen birazdan tekrar deneyin.",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "Hesaplanan Tutar: [amount]",
+    "FLEX_LIMITS_TARGET_NOTE": "Bu kesin bir sınır değildir; site ekleme veya yönetici koltuğu ekleme gibi manuel işlemler bu limiti aşabilir. Yaklaşan faturaları istediğiniz zaman <a href=\"/auth/my-account/analytics/billing\">Faturalama Analitiği&#39;nden</a> kontrol edebilirsiniz."
+}

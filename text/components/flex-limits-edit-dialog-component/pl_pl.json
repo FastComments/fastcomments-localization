@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "Wprowadź kwotę",
+    "FLEX_LIMITS_TARGET_LABEL": "Maksymalny miesięczny cel ([currency])",
+    "FLEX_LIMITS_TITLE": "Miesięczny limit wydatków",
+    "FLEX_LIMITS_SUBTITLE": "Wprowadź maksymalną kwotę miesięczną, a my ustalimy odpowiednie limity wykorzystania lub dostosuj każdy limit samodzielnie.",
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "Bez limitu",
+    "FLEX_LIMITS_SSO_USERS": "Użytkownicy SSO",
+    "FLEX_LIMITS_COMMENTS": "Zapisane komentarze",
+    "FLEX_LIMITS_API_CREDITS": "Kredyty API miesięcznie",
+    "FLEX_LIMITS_PAGE_LOADS": "Liczba załadowanych stron miesięcznie",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "Kredyty na małe widżety miesięcznie",
+    "FLEX_LIMITS_COMPUTED_MAX": "Szacunkowa miesięczna kwota maksymalna: [amount]",
+    "FLEX_LIMITS_BTN_SAVE": "Zapisz limity",
+    "FLEX_LIMITS_BTN_CANCEL": "Anuluj",
+    "FLEX_LIMITS_MINIMUM_NOTE": "Minimalna opłata za usługę Flex wynosząca [amount]/mies. nadal obowiązuje.",
+    "FLEX_LIMITS_NOT_CONFIGURED": "Aby zachować nieograniczone wykorzystanie, pozostaw pole puste.",
+    "FLEX_LIMITS_SAVE_FAILED": "Napotkaliśmy przeszkodę w zapisaniu limitów. Spróbuj ponownie za chwilę.",
+    "FLEX_LIMITS_TARGET_NOTE": "To nie jest sztywny limit. Ręczne działania, takie jak dodawanie witryn lub stanowisk administratora, mogą go przekroczyć. Sprawdź nadchodzące faktury w <a href=\"/auth/my-account/analytics/billing\">Analityce Rozliczeń</a> w dowolnym momencie.",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "Obliczona kwota: [amount]"
+}

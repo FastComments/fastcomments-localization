@@ -88,7 +88,7 @@
     "FAQ_TRIAL_ENDS": "Cosa succede quando il processo finisce?",
     "FAQ_TRIAL_ENDS_ANSWER": "Il widget dei commenti continuerà a funzionare per un breve periodo, per poi nascondersi. Tu e i tuoi utenti avrete comunque pieno accesso all'area di amministrazione. Riceverete promemoria, che potrete facilmente disattivare, al termine del periodo di prova.",
     "FAQ_EXCEED_LIMITS": "Cosa succede se supero i limiti del mio account?",
-    "FAQ_EXCEED_LIMITS_ANSWER": "Tutti i dettagli del pacchetto, ad eccezione del numero di commenti al mese, sono limiti rigidi. Se superi il numero di commenti al mese, ti contatteremo per negoziare il tuo pacchetto.",
+    "FAQ_EXCEED_LIMITS_ANSWER": "Tutti i dettagli del pacchetto, ad eccezione del numero di commenti al mese, sono fissi. Se superi il numero di commenti mensili, ti contatteremo per rinegoziare il tuo pacchetto. Con il piano Flex, puoi impostare i tuoi limiti dalla pagina di fatturazione per limitare la spesa mensile.",
     "FAQ_FREE_TIER": "Gestisco un progetto open source con poco traffico, esiste un livello gratuito?",
     "FAQ_FREE_TIER_ANSWER": "Al momento non esiste un livello gratuito ufficiale, tuttavia, ad esempio per l'aggiunta di commenti alle pagine della documentazione OSS, facciamo delle eccezioni. È sufficiente creare un ticket di supporto dopo la registrazione.",
     "FAQ_ADD_USERS": "Posso aggiungere i miei sviluppatori, moderatori e altri amministratori?",
@@ -147,5 +147,7 @@
     "PUBLIC_FOOTER_V2_DJANGO": "Django",
     "PUBLIC_FOOTER_V2_WORDPRESS": "WordPress",
     "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "API REST e SDK per discussioni in tempo reale.",
-    "PUBLIC_NAV_ITEM_COMMENTING_API": "API per i commenti"
+    "PUBLIC_NAV_ITEM_COMMENTING_API": "API per i commenti",
+    "FAQ_FLEX_SPEND_LIMIT": "Posso impostare un limite di spesa su Flex?",
+    "FAQ_FLEX_SPEND_LIMIT_ANSWER": "Sì. Nella pagina Fatturazione della tua dashboard, inserisci un importo massimo mensile desiderato e imposteremo automaticamente i limiti di utilizzo corrispondenti, oppure puoi personalizzare ciascun limite autonomamente. L'utilizzo che supererebbe un limite verrà bloccato, limitando così l'importo fatturato."
 }

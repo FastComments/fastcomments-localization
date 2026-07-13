@@ -88,7 +88,7 @@
     "FAQ_TRIAL_ENDS": "Wat gebeurt er als het proces is afgelopen?",
     "FAQ_TRIAL_ENDS_ANSWER": "De commentaarwidget blijft nog even functioneren en verdwijnt daarna vanzelf. Jij en je gebruikers behouden volledige toegang tot het beheerdersgedeelte. Je ontvangt herinneringen, waar je je eenvoudig voor kunt afmelden, wanneer de proefperiode afloopt.",
     "FAQ_EXCEED_LIMITS": "Wat gebeurt er als ik de limieten van mijn account overschrijd?",
-    "FAQ_EXCEED_LIMITS_ANSWER": "Alle pakketdetails, met uitzondering van het aantal reacties per maand, zijn strikte limieten. Als u het aantal reacties per maand overschrijdt, nemen we contact met u op om uw pakket aan te passen.",
+    "FAQ_EXCEED_LIMITS_ANSWER": "Alle pakketdetails, met uitzondering van het aantal reacties per maand, zijn strikte limieten. Als u het aantal reacties per maand overschrijdt, nemen we contact met u op om uw pakket aan te passen. Bij het Flex-abonnement kunt u uw eigen limieten instellen via de pagina Facturering om uw maandelijkse uitgaven te beperken.",
     "FAQ_FREE_TIER": "Ik beheer een open source-project met weinig verkeer. Is er een gratis versie beschikbaar?",
     "FAQ_FREE_TIER_ANSWER": "Er is momenteel geen officiële gratis versie, maar voor het toevoegen van opmerkingen aan OSS-documentatiepagina's maken we uitzonderingen. Maak hiervoor na registratie een supportticket aan.",
     "FAQ_ADD_USERS": "Kan ik mijn ontwikkelaars, moderators en andere beheerders toevoegen?",
@@ -147,5 +147,7 @@
     "PUBLIC_FOOTER_V2_DJANGO": "Django",
     "PUBLIC_FOOTER_V2_WORDPRESS": "WordPress",
     "PUBLIC_NAV_ITEM_COMMENTING_API": "API voor reacties",
-    "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "REST API en SDK's voor live discussies."
+    "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "REST API en SDK's voor live discussies.",
+    "FAQ_FLEX_SPEND_LIMIT": "Kan ik een bestedingslimiet instellen voor Flex?",
+    "FAQ_FLEX_SPEND_LIMIT_ANSWER": "Ja. Voer op de pagina 'Facturering' in uw dashboard een maandelijks maximumbedrag in en wij stellen de bijbehorende gebruikslimieten voor u in, of u kunt elke limiet zelf aanpassen. Gebruik dat een limiet zou overschrijden, wordt geblokkeerd, waardoor het bedrag dat u betaalt, wordt beperkt."
 }

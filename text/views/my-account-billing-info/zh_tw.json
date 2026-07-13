@@ -57,5 +57,12 @@
     "SECTION_BILLING_ADDRESS": "帳單地址",
     "PLAN_SUMMARY_MINIMUM_LABEL": "/月最低",
     "BUTTON_PAY_NOW_START_SUBSCRIPTION": "立即付款並開始訂閱",
-    "BUTTON_START_SUBSCRIPTION": "開始訂閱"
+    "BUTTON_START_SUBSCRIPTION": "開始訂閱",
+    "FLEX_LIMIT_TITLE": "每月消費限額",
+    "FLEX_LIMIT_EDIT": "編輯",
+    "FLEX_LIMIT_MAX_VALUE": "每月最高可達[amount]",
+    "ERROR_NO_FLEX_PACKAGE": "您的帳戶沒有 Flex 套餐，因此無需配置使用限制。",
+    "FLEX_LIMIT_NOT_CONFIGURED": "未配置限制",
+    "ERROR_INVALID_LIMITS": "輸入的限額中有一個或多個不是有效數字。",
+    "FLEX_NEXT_INVOICE": "下一張發票金額："
 }

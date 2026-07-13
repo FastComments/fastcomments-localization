@@ -88,7 +88,7 @@
     "FAQ_TRIAL_ENDS": "Deneme süresi sona erdiğinde ne olacak?",
     "FAQ_TRIAL_ENDS_ANSWER": "Yorum widget'ı kısa bir süre daha çalışmaya devam edecek ve ardından kendini gizleyecektir. Siz ve kullanıcılarınız yönetici alanına tam erişime sahip olmaya devam edeceksiniz. Deneme süresi sona erdiğinde, kolayca devre dışı bırakabileceğiniz hatırlatıcılar alacaksınız.",
     "FAQ_EXCEED_LIMITS": "Hesabımın limitlerini aşarsam ne olur?",
-    "FAQ_EXCEED_LIMITS_ANSWER": "Aylık yorum sayısı hariç, tüm paket detayları kesin sınırlardır. Aylık yorum sayısını aşarsanız, paketiniz konusunda yeniden görüşmek üzere sizinle iletişime geçeceğiz.",
+    "FAQ_EXCEED_LIMITS_ANSWER": "Aylık yorum sayısı hariç tüm paket detayları kesin sınırlardır. Aylık yorum sayısını aşarsanız, paketiniz konusunda görüşmek üzere sizinle iletişime geçeceğiz. Flex planında, aylık harcamanızı sınırlamak için kendi limitlerinizi Faturalama sayfasından belirleyebilirsiniz.",
     "FAQ_FREE_TIER": "Düşük trafiğe sahip bir açık kaynak projesi yürütüyorum, ücretsiz bir sürümü var mı?",
     "FAQ_FREE_TIER_ANSWER": "Şu anda resmi bir ücretsiz sürüm bulunmamaktadır; ancak örneğin açık kaynak yazılım dokümantasyon sayfalarına yorum ekleme gibi durumlarda istisnalar yapıyoruz. Kaydolduktan sonra bir destek talebi oluşturmanız yeterlidir.",
     "FAQ_ADD_USERS": "Geliştiricilerimi, moderatörlerimi ve diğer yöneticilerimi ekleyebilir miyim?",
@@ -147,5 +147,7 @@
     "PUBLIC_FOOTER_V2_DJANGO": "Django",
     "PUBLIC_FOOTER_V2_WORDPRESS": "WordPress",
     "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "Canlı tartışmalar için REST API ve SDK'lar.",
-    "PUBLIC_NAV_ITEM_COMMENTING_API": "Yorumlama API'si"
+    "PUBLIC_NAV_ITEM_COMMENTING_API": "Yorumlama API'si",
+    "FAQ_FLEX_SPEND_LIMIT_ANSWER": "Evet. Kontrol panelinizdeki Faturalama sayfasında, hedef aylık maksimum tutarı girin ve biz de sizin için buna uygun kullanım limitlerini belirleyelim veya her limiti kendiniz ince ayar yapın. Limiti aşacak kullanım engellenir ve bu da faturalandırılacak tutarı sınırlar.",
+    "FAQ_FLEX_SPEND_LIMIT": "Flex hesabıma harcama limiti koyabilir miyim?"
 }

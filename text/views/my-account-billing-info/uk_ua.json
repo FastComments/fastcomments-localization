@@ -57,5 +57,12 @@
     "SECTION_PAYMENT_METHOD": "Спосіб оплати",
     "PLAN_SUMMARY_MINIMUM_LABEL": "/місяць мінімум",
     "BUTTON_START_SUBSCRIPTION": "Почати підписку",
-    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Оплатіть зараз та розпочніть підписку"
+    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Оплатіть зараз та розпочніть підписку",
+    "FLEX_LIMIT_EDIT": "Редагувати",
+    "ERROR_NO_FLEX_PACKAGE": "Ваш обліковий запис не має плану Flex, тому немає обмежень на використання для налаштування.",
+    "ERROR_INVALID_LIMITS": "Одне або декілька введених лімітів не є дійсним числом.",
+    "FLEX_LIMIT_NOT_CONFIGURED": "Обмеження не налаштовано",
+    "FLEX_LIMIT_MAX_VALUE": "До [amount]/міс.",
+    "FLEX_LIMIT_TITLE": "Щомісячний ліміт витрат",
+    "FLEX_NEXT_INVOICE": "Сума наступного рахунку-фактури:"
 }

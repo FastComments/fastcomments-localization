@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "制限なし",
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "金額を入力してください",
+    "FLEX_LIMITS_TITLE": "月間支出限度額",
+    "FLEX_LIMITS_TARGET_LABEL": "目標月間最大額（[currency]）",
+    "FLEX_LIMITS_SUBTITLE": "月間最大使用量の目標値を入力すると、それに合わせて使用量制限が自動的に設定されます。または、各制限値を自分で細かく調整することも可能です。",
+    "FLEX_LIMITS_PAGE_LOADS": "月間ページ読み込み数",
+    "FLEX_LIMITS_COMMENTS": "保存済みコメント数",
+    "FLEX_LIMITS_API_CREDITS": "1ヶ月あたりのAPIクレジット",
+    "FLEX_LIMITS_NOT_CONFIGURED": "使用回数を無制限にするには、この欄を空欄のままにしてください。",
+    "FLEX_LIMITS_BTN_CANCEL": "キャンセル",
+    "FLEX_LIMITS_SSO_USERS": "SSOユーザー",
+    "FLEX_LIMITS_COMPUTED_MAX": "推定月間最大額：[amount]",
+    "FLEX_LIMITS_BTN_SAVE": "制限を保存",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "小さなウィジェットの月間クレジット",
+    "FLEX_LIMITS_MINIMUM_NOTE": "Flexプランの最低料金（月額[amount]）は引き続き適用されます。",
+    "FLEX_LIMITS_SAVE_FAILED": "制限値の保存中に問題が発生しました。しばらくしてからもう一度お試しください。",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "計算金額：[amount]",
+    "FLEX_LIMITS_TARGET_NOTE": "これは厳密な上限ではなく、サイトの追加や管理者シートの追加といった手動操作によってこの制限を超える場合があります。<a href=\"/auth/my-account/analytics/billing\">請求分析</a>でいつでも今後の請求書を確認できます。"
+}

@@ -57,5 +57,12 @@
     "SECTION_PAYMENT_METHOD": "결제 방법",
     "SECTION_BILLING_ADDRESS": "청구지 주소",
     "BUTTON_PAY_NOW_START_SUBSCRIPTION": "지금 결제하고 구독을 시작하세요",
-    "BUTTON_START_SUBSCRIPTION": "구독 시작하기"
+    "BUTTON_START_SUBSCRIPTION": "구독 시작하기",
+    "FLEX_LIMIT_TITLE": "월 지출 한도",
+    "ERROR_NO_FLEX_PACKAGE": "고객님의 계정에는 Flex 플랜이 없으므로 설정할 사용량 제한이 없습니다.",
+    "ERROR_INVALID_LIMITS": "입력된 제한값 중 하나 이상이 유효하지 않습니다.",
+    "FLEX_LIMIT_EDIT": "편집",
+    "FLEX_LIMIT_MAX_VALUE": "최대 [amount]/월",
+    "FLEX_LIMIT_NOT_CONFIGURED": "설정된 제한 없음",
+    "FLEX_NEXT_INVOICE": "다음 청구 금액:"
 }

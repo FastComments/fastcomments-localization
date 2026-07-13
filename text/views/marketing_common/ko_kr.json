@@ -88,7 +88,7 @@
     "FAQ_TRIAL_ENDS": "재판이 끝나면 무슨 일이 벌어지나요?",
     "FAQ_TRIAL_ENDS_ANSWER": "댓글 위젯은 잠시 동안 계속 작동하다가 자동으로 숨겨집니다. 관리자 영역에는 계속해서 모든 기능이 정상적으로 작동합니다. 체험 기간이 종료되면 알림이 발송되며, 원치 않으시면 언제든지 수신 거부를 하실 수 있습니다.",
     "FAQ_EXCEED_LIMITS": "내 계정 한도를 초과하면 어떻게 되나요?",
-    "FAQ_EXCEED_LIMITS_ANSWER": "월별 댓글 개수 제한을 제외한 모든 패키지 세부 정보는 엄격한 제한 사항입니다. 월별 댓글 개수 제한을 초과할 경우, 패키지 조정을 위해 연락드리겠습니다.",
+    "FAQ_EXCEED_LIMITS_ANSWER": "월별 댓글 개수 제한을 제외한 모든 패키지 세부 정보는 엄격한 제한이 적용됩니다. 월별 댓글 개수 제한을 초과할 경우, 패키지 조정을 위해 연락드리겠습니다. Flex 플랜의 경우, 청구 페이지에서 직접 월별 지출 한도를 설정할 수 있습니다.",
     "FAQ_FREE_TIER": "저는 트래픽이 적은 오픈 소스 프로젝트를 운영하고 있는데, 무료 요금제가 있나요?",
     "FAQ_FREE_TIER_ANSWER": "현재 공식적인 무료 이용권은 없지만, 오픈소스 문서 페이지에 댓글을 추가하는 등의 경우에는 예외를 적용하고 있습니다. 가입 후 지원 티켓을 생성해 주세요.",
     "FAQ_ADD_USERS": "개발자, 운영자 및 기타 관리자를 추가할 수 있나요?",
@@ -147,5 +147,7 @@
     "PUBLIC_FOOTER_V2_DJANGO": "장고",
     "PUBLIC_FOOTER_V2_WORDPRESS": "워드프레스",
     "PUBLIC_NAV_ITEM_COMMENTING_API": "댓글 API",
-    "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "실시간 토론을 위한 REST API 및 SDK."
+    "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "실시간 토론을 위한 REST API 및 SDK.",
+    "FAQ_FLEX_SPEND_LIMIT": "Flex에서 지출 한도를 설정할 수 있나요?",
+    "FAQ_FLEX_SPEND_LIMIT_ANSWER": "네. 대시보드의 청구 페이지에서 월 최대 목표 사용량을 입력하시면, 저희가 그에 맞는 사용량 제한을 자동으로 설정해 드리거나, 각 제한을 직접 세부적으로 조정하실 수도 있습니다. 설정된 제한을 초과하는 사용량은 차단되어 청구 금액이 제한됩니다."
 }

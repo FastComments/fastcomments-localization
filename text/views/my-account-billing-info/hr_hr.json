@@ -57,5 +57,12 @@
     "SECTION_BILLING_ADDRESS": "Adresa za naplatu",
     "SECTION_PAYMENT_METHOD": "Način plaćanja",
     "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Plati sada i započni pretplatu",
-    "BUTTON_START_SUBSCRIPTION": "Započni pretplatu"
+    "BUTTON_START_SUBSCRIPTION": "Započni pretplatu",
+    "FLEX_LIMIT_EDIT": "Uredi",
+    "ERROR_NO_FLEX_PACKAGE": "Vaš račun nema Flex plan, tako da nema ograničenja korištenja za konfiguriranje.",
+    "ERROR_INVALID_LIMITS": "Jedan ili više unesenih limita nije valjan broj.",
+    "FLEX_LIMIT_NOT_CONFIGURED": "Nije konfigurirano ograničenje",
+    "FLEX_LIMIT_MAX_VALUE": "Do [amount]/mjesečno",
+    "FLEX_LIMIT_TITLE": "Mjesečno ograničenje potrošnje",
+    "FLEX_NEXT_INVOICE": "Sljedeći iznos računa:"
 }

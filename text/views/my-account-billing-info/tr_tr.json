@@ -57,5 +57,12 @@
     "SECTION_BILLING_ADDRESS": "Fatura Adresi",
     "SECTION_PAYMENT_METHOD": "Ödeme yöntemi",
     "BUTTON_START_SUBSCRIPTION": "Aboneliği Başlat",
-    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Şimdi Öde ve Aboneliğe Başla"
+    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Şimdi Öde ve Aboneliğe Başla",
+    "ERROR_INVALID_LIMITS": "Girilen limitlerden bir veya daha fazlası geçerli bir sayı değil.",
+    "ERROR_NO_FLEX_PACKAGE": "Hesabınızda Flex planı bulunmadığından, yapılandırılacak kullanım limitleri yoktur.",
+    "FLEX_LIMIT_TITLE": "Aylık harcama limiti",
+    "FLEX_LIMIT_EDIT": "Düzenle",
+    "FLEX_LIMIT_NOT_CONFIGURED": "Herhangi bir sınır yapılandırılmadı.",
+    "FLEX_LIMIT_MAX_VALUE": "Ayda en fazla [amount]",
+    "FLEX_NEXT_INVOICE": "Sonraki Fatura Tutarı:"
 }

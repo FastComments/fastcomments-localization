@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_TARGET_LABEL": "每月最高目标金额（[currency]）",
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "请输入金额",
+    "FLEX_LIMITS_TITLE": "每月消费限额",
+    "FLEX_LIMITS_SUBTITLE": "输入每月最高目标使用量，我们将设置相应的使用限制；或者您可以自行微调每个限制。",
+    "FLEX_LIMITS_PAGE_LOADS": "每月页面加载次数",
+    "FLEX_LIMITS_COMMENTS": "已存储的评论数",
+    "FLEX_LIMITS_SSO_USERS": "单点登录用户",
+    "FLEX_LIMITS_API_CREDITS": "每月 API 积分",
+    "FLEX_LIMITS_COMPUTED_MAX": "预计每月最高值：[amount]",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "每月小组件积分",
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "无限制",
+    "FLEX_LIMITS_BTN_SAVE": "保存限额",
+    "FLEX_LIMITS_NOT_CONFIGURED": "将此字段留空，即可保持使用无限制。",
+    "FLEX_LIMITS_MINIMUM_NOTE": "Flex 每月最低收费 [amount] 仍然适用。",
+    "FLEX_LIMITS_BTN_CANCEL": "取消",
+    "FLEX_LIMITS_SAVE_FAILED": "保存您的限额时遇到问题。请稍后再试。",
+    "FLEX_LIMITS_TARGET_NOTE": "这并非硬性限制，手动操作（例如添加站点或管理员席位）可能会超出此限制。您可以随时在<a href=\"/auth/my-account/analytics/billing\">“账单分析”</a>中查看即将到期的发票。",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "计算金额：[amount]"
+}

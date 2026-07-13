@@ -21,7 +21,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 424,
+        "comment-ui": 425,
         "recent-comments": 15,
         "top-pages": 3,
         "recent-discussions": 3,
@@ -127,7 +127,7 @@
         "login-success": 9,
         "login-two-factor": 18,
         "maintenance-page": 4,
-        "marketing_common": 153,
+        "marketing_common": 155,
         "moderator-join-failure": 9,
         "moderator-join-success": 6,
         "my-account": 5,
@@ -144,7 +144,7 @@
         "my-account-badge-users": 11,
         "my-account-billing-analytics": 14,
         "my-account-billing-history": 24,
-        "my-account-billing-info": 59,
+        "my-account-billing-info": 66,
         "my-account-cancel": 8,
         "my-account-cancel-failure": 4,
         "my-account-cancel-success": 5,
@@ -419,7 +419,8 @@
         "tenant-webhook-disable-warning": 6,
         "tenant-webhook-disabled": 6,
         "signup": 11,
-        "commenting-api": 99
+        "commenting-api": 99,
+        "flex-limits-edit-dialog-component": 18
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -1322,7 +1323,8 @@
         "t377": "UNAUTHORIZED_USER_ACCESS",
         "t378": "USER_ACTIVITY_PRIVATE",
         "t379": "BLOCKED_BY_USER",
-        "t380": "TOS_REQUIRED"
+        "t380": "TOS_REQUIRED",
+        "t425": "SSO_USER_LIMIT_REACHED"
     },
     "tenant-signup-welcome": {
         "t1": "INTRO",
@@ -3184,7 +3186,9 @@
         "t150": "SNIPPET_LOADING",
         "t151": "SNIPPET_ERROR",
         "t152": "PUBLIC_NAV_ITEM_COMMENTING_API",
-        "t153": "PUBLIC_NAV_ITEM_COMMENTING_API_DESC"
+        "t153": "PUBLIC_NAV_ITEM_COMMENTING_API_DESC",
+        "t154": "FAQ_FLEX_SPEND_LIMIT",
+        "t155": "FAQ_FLEX_SPEND_LIMIT_ANSWER"
     },
     "moderator-join-failure": {
         "t1": "PAGE_TITLE",
@@ -3504,7 +3508,14 @@
         "t56": "ERROR_CARD_DECLINED",
         "t57": "ERROR_GENERIC",
         "t58": "BUTTON_PAY_NOW_START_SUBSCRIPTION",
-        "t59": "BUTTON_START_SUBSCRIPTION"
+        "t59": "BUTTON_START_SUBSCRIPTION",
+        "t60": "ERROR_NO_FLEX_PACKAGE",
+        "t61": "ERROR_INVALID_LIMITS",
+        "t62": "FLEX_LIMIT_TITLE",
+        "t63": "FLEX_LIMIT_NOT_CONFIGURED",
+        "t64": "FLEX_LIMIT_MAX_VALUE",
+        "t65": "FLEX_LIMIT_EDIT",
+        "t66": "FLEX_NEXT_INVOICE"
     },
     "my-account-cancel": {
         "t1": "PAGE_TITLE",
@@ -10956,5 +10967,25 @@
         "t97": "CTA_PRIMARY",
         "t98": "CTA_SECONDARY",
         "t99": "SCALE_LABEL"
+    },
+    "flex-limits-edit-dialog-component": {
+        "t1": "FLEX_LIMITS_TITLE",
+        "t2": "FLEX_LIMITS_SUBTITLE",
+        "t3": "FLEX_LIMITS_TARGET_LABEL",
+        "t4": "FLEX_LIMITS_TARGET_PLACEHOLDER",
+        "t5": "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER",
+        "t6": "FLEX_LIMITS_PAGE_LOADS",
+        "t7": "FLEX_LIMITS_COMMENTS",
+        "t8": "FLEX_LIMITS_SSO_USERS",
+        "t9": "FLEX_LIMITS_API_CREDITS",
+        "t10": "FLEX_LIMITS_SMALL_WIDGET_CREDITS",
+        "t11": "FLEX_LIMITS_COMPUTED_MAX",
+        "t12": "FLEX_LIMITS_NOT_CONFIGURED",
+        "t13": "FLEX_LIMITS_MINIMUM_NOTE",
+        "t14": "FLEX_LIMITS_BTN_SAVE",
+        "t15": "FLEX_LIMITS_BTN_CANCEL",
+        "t16": "FLEX_LIMITS_SAVE_FAILED",
+        "t17": "FLEX_LIMITS_TARGET_NOTE",
+        "t18": "FLEX_LIMITS_CALCULATED_AMOUNT"
     }
 }

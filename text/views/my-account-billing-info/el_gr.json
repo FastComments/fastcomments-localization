@@ -57,5 +57,12 @@
     "SECTION_PAYMENT_METHOD": "Μέθοδος πληρωμής",
     "SECTION_BILLING_ADDRESS": "Διεύθυνση χρέωσης",
     "BUTTON_START_SUBSCRIPTION": "Έναρξη συνδρομής",
-    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Πληρώστε τώρα και ξεκινήστε τη συνδρομή"
+    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Πληρώστε τώρα και ξεκινήστε τη συνδρομή",
+    "ERROR_INVALID_LIMITS": "Ένα ή περισσότερα από τα όρια που έχουν εισαχθεί δεν είναι έγκυρος αριθμός.",
+    "ERROR_NO_FLEX_PACKAGE": "Ο λογαριασμός σας δεν διαθέτει πρόγραμμα Flex, επομένως δεν υπάρχουν όρια χρήσης για διαμόρφωση.",
+    "FLEX_LIMIT_NOT_CONFIGURED": "Δεν έχει ρυθμιστεί όριο",
+    "FLEX_LIMIT_TITLE": "Μηνιαίο όριο δαπανών",
+    "FLEX_LIMIT_EDIT": "Επεξεργασία",
+    "FLEX_NEXT_INVOICE": "Ποσό επόμενου τιμολογίου:",
+    "FLEX_LIMIT_MAX_VALUE": "Έως [amount]/μήνα"
 }

@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_TITLE": "Μηνιαίο όριο δαπανών",
+    "FLEX_LIMITS_SUBTITLE": "Εισαγάγετε ένα μέγιστο μηνιαίο στόχο και θα ορίσουμε αντίστοιχα όρια χρήσης ή προσαρμόστε μόνοι σας κάθε όριο.",
+    "FLEX_LIMITS_TARGET_LABEL": "Μέγιστος μηνιαίος στόχος ([currency])",
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "Εισαγάγετε ένα ποσό",
+    "FLEX_LIMITS_COMMENTS": "Αποθηκευμένα σχόλια",
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "Χωρίς όριο",
+    "FLEX_LIMITS_PAGE_LOADS": "Φορτώσεις σελίδας ανά μήνα",
+    "FLEX_LIMITS_COMPUTED_MAX": "Εκτιμώμενο μηνιαίο μέγιστο: [amount]",
+    "FLEX_LIMITS_SSO_USERS": "Χρήστες SSO",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "Πιστώσεις μικρού widget ανά μήνα",
+    "FLEX_LIMITS_API_CREDITS": "Πιστώσεις API ανά μήνα",
+    "FLEX_LIMITS_NOT_CONFIGURED": "Αφήστε ένα πεδίο κενό για να διατηρήσετε αυτήν τη χρήση απεριόριστη.",
+    "FLEX_LIMITS_BTN_CANCEL": "Ακύρωση",
+    "FLEX_LIMITS_MINIMUM_NOTE": "Η ελάχιστη χρέωση Flex των [amount]/μήνα εξακολουθεί να ισχύει.",
+    "FLEX_LIMITS_SAVE_FAILED": "Αντιμετωπίσαμε ένα πρόβλημα με την αποθήκευση των ορίων σας. Δοκιμάστε ξανά σε λίγο.",
+    "FLEX_LIMITS_BTN_SAVE": "Αποθήκευση ορίων",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "Υπολογισμένο ποσό: [amount]",
+    "FLEX_LIMITS_TARGET_NOTE": "Αυτό δεν είναι ένα αυστηρό όριο, οι μη αυτόματες ενέργειες, όπως η προσθήκη ιστότοπων ή θέσεων διαχειριστή, μπορούν να υπερβούν αυτό το όριο. Ελέγξτε τα επερχόμενα τιμολόγια στο <a href=\"/auth/my-account/analytics/billing\">Billing Analytics</a> ανά πάσα στιγμή."
+}

@@ -88,7 +88,7 @@
     "FAQ_TRIAL_ENDS": "Kaj se zgodi, ko se preizkusno obdobje konča?",
     "FAQ_TRIAL_ENDS_ANSWER": "Pripomoček za komentarje bo še nekaj časa deloval, nato pa se bo skril. Vi in vaši uporabniki boste še vedno imeli poln dostop do skrbniškega območja. Po koncu preizkusnega obdobja boste prejemali opomnike, ki jih lahko preprosto odjavite.",
     "FAQ_EXCEED_LIMITS": "Kaj pa, če presežem omejitve svojega računa?",
-    "FAQ_EXCEED_LIMITS_ANSWER": "Vse podrobnosti paketa, razen števila komentarjev na mesec, so fiksne omejitve. Če presežete število komentarjev na mesec, vas bomo kontaktirali, da se dogovorimo o vašem paketu.",
+    "FAQ_EXCEED_LIMITS_ANSWER": "Vse podrobnosti paketa, razen števila komentarjev na mesec, so fiksne omejitve. Če presežete število komentarjev na mesec, vas bomo kontaktirali, da se dogovorimo za vaš paket. Pri paketu Flex si na strani za obračunavanje sami določite omejitve, s katerimi omejite svojo mesečno porabo.",
     "FAQ_FREE_TIER": "Vodim odprtokodni projekt z malo prometa, ali obstaja brezplačna raven?",
     "FAQ_FREE_TIER_ANSWER": "Trenutno ni uradne brezplačne stopnje, vendar na primer pri dodajanju komentarjev na strani z dokumentacijo odprtokodnega programskega okolja delamo izjeme. Po prijavi preprosto ustvarite zahtevek za podporo.",
     "FAQ_ADD_USERS": "Ali lahko dodam svoje razvijalce, moderatorje in druge skrbnike?",
@@ -147,5 +147,7 @@
     "PUBLIC_FOOTER_V2_DJANGO": "Django",
     "PUBLIC_FOOTER_V2_WORDPRESS": "WordPress",
     "PUBLIC_NAV_ITEM_COMMENTING_API": "API za komentiranje",
-    "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "REST API in SDK-ji za razprave v živo."
+    "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "REST API in SDK-ji za razprave v živo.",
+    "FAQ_FLEX_SPEND_LIMIT": "Ali lahko nastavim omejitev porabe za Flex?",
+    "FAQ_FLEX_SPEND_LIMIT_ANSWER": "Da. Na strani Obračunavanje na nadzorni plošči vnesite ciljni mesečni maksimum in mi bomo namesto vas nastavili ustrezne omejitve porabe ali pa sami natančno prilagodite vsako omejitev. Poraba, ki bi presegla omejitev, je blokirana, kar omejuje znesek, ki vam ga zaračunamo."
 }

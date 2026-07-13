@@ -57,5 +57,12 @@
     "SECTION_PAYMENT_METHOD": "Zahlungsmethode",
     "SECTION_BILLING_ADDRESS": "Rechnungsadresse",
     "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Jetzt bezahlen & Abonnement starten",
-    "BUTTON_START_SUBSCRIPTION": "Jetzt abonnieren"
+    "BUTTON_START_SUBSCRIPTION": "Jetzt abonnieren",
+    "ERROR_NO_FLEX_PACKAGE": "Ihr Konto verfügt nicht über einen Flex-Tarif, daher können keine Nutzungslimits konfiguriert werden.",
+    "FLEX_LIMIT_NOT_CONFIGURED": "Kein Limit konfiguriert",
+    "FLEX_LIMIT_TITLE": "Monatliches Ausgabenlimit",
+    "ERROR_INVALID_LIMITS": "Mindestens einer der eingegebenen Grenzwerte ist ungültig.",
+    "FLEX_LIMIT_EDIT": "Bearbeiten",
+    "FLEX_LIMIT_MAX_VALUE": "Bis zu [amount]/Monat",
+    "FLEX_NEXT_INVOICE": "Nächster Rechnungsbetrag:"
 }

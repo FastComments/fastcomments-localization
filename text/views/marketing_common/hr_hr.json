@@ -88,7 +88,7 @@
     "FAQ_TRIAL_ENDS": "Što se događa kada probno razdoblje završi?",
     "FAQ_TRIAL_ENDS_ANSWER": "Widget za komentare će i dalje funkcionirati kratko vrijeme, a zatim će se sakriti. Vi i vaši korisnici i dalje ćete imati puni pristup administratorskom području. Primit ćete podsjetnike, koje možete jednostavno isključiti, kada probno razdoblje završi.",
     "FAQ_EXCEED_LIMITS": "Što ako prekoračim ograničenja svog računa?",
-    "FAQ_EXCEED_LIMITS_ANSWER": "Svi detalji paketa, osim broja komentara mjesečno, su fiksna ograničenja. Ako prekoračite broj komentara mjesečno, kontaktirat ćemo vas kako bismo pregovarali o vašem paketu.",
+    "FAQ_EXCEED_LIMITS_ANSWER": "Svi detalji paketa, osim broja komentara mjesečno, podliježu fiksnim ograničenjima. Ako prekoračite broj komentara mjesečno, kontaktirat ćemo vas kako bismo pregovarali o vašem paketu. U Flex planu sami postavljate ograničenja na stranici Naplata kako biste ograničili svoju mjesečnu potrošnju.",
     "FAQ_FREE_TIER": "Vodim projekt otvorenog koda s malim prometom, postoji li besplatna razina?",
     "FAQ_FREE_TIER_ANSWER": "Trenutno ne postoji službena besplatna razina, no na primjer kod dodavanja komentara na stranice dokumentacije OSS-a pravimo iznimke. Jednostavno kreirajte zahtjev za podršku nakon registracije.",
     "FAQ_ADD_USERS": "Mogu li dodati svoje razvojne programere, moderatore i ostale administratore?",
@@ -147,5 +147,7 @@
     "PUBLIC_FOOTER_V2_DJANGO": "Django",
     "PUBLIC_FOOTER_V2_WORDPRESS": "WordPress",
     "PUBLIC_NAV_ITEM_COMMENTING_API": "API za komentiranje",
-    "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "REST API i SDK-ovi za rasprave uživo."
+    "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "REST API i SDK-ovi za rasprave uživo.",
+    "FAQ_FLEX_SPEND_LIMIT": "Mogu li postaviti ograničenje potrošnje na Flexu?",
+    "FAQ_FLEX_SPEND_LIMIT_ANSWER": "Da. Na stranici Naplata na vašoj nadzornoj ploči unesite ciljani mjesečni maksimum i mi ćemo postaviti odgovarajuća ograničenja korištenja za vas ili sami prilagoditi svako ograničenje. Korištenje koje bi premašilo ograničenje blokira se, što ograničava ono što vam se naplaćuje."
 }

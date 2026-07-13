@@ -57,5 +57,12 @@
     "SECTION_PAYMENT_METHOD": "Método de pago",
     "PLAN_SUMMARY_MINIMUM_LABEL": "/mes mínimo",
     "BUTTON_START_SUBSCRIPTION": "Iniciar suscripción",
-    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Pagar ahora e iniciar suscripción"
+    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Pagar ahora e iniciar suscripción",
+    "ERROR_NO_FLEX_PACKAGE": "Tu cuenta no tiene un plan Flex, por lo que no hay límites de uso que configurar.",
+    "ERROR_INVALID_LIMITS": "Uno o más de los límites introducidos no son números válidos.",
+    "FLEX_LIMIT_EDIT": "Editar",
+    "FLEX_LIMIT_TITLE": "Límite de gasto mensual",
+    "FLEX_LIMIT_NOT_CONFIGURED": "No se ha configurado ningún límite.",
+    "FLEX_LIMIT_MAX_VALUE": "Hasta [amount]/mes",
+    "FLEX_NEXT_INVOICE": "Importe de la próxima factura:"
 }

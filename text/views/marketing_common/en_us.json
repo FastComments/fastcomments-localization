@@ -121,7 +121,7 @@
     "FAQ_TRIAL_ENDS": "What happens when the trial ends?",
     "FAQ_TRIAL_ENDS_ANSWER": "The comment widget will still function for a short time, and then hide itself. You and your users will still have full access to the admin area. You will receive reminders, which you can easily opt out of, when the trial ends.",
     "FAQ_EXCEED_LIMITS": "What if I exceed the limits of my account?",
-    "FAQ_EXCEED_LIMITS_ANSWER": "All package details, except for number of comments per month, are hard limits. If you exceed the number of comments per month, we'll reach out to you to negotiate your package.",
+    "FAQ_EXCEED_LIMITS_ANSWER": "All package details, except for number of comments per month, are hard limits. If you exceed the number of comments per month, we'll reach out to you to negotiate your package. On the Flex plan, you set your own limits from the Billing page to cap your monthly spend.",
     "FAQ_FREE_TIER": "I run an open source project with low traffic, is there a free tier?",
     "FAQ_FREE_TIER_ANSWER": "There is currently no official free tier, however for example adding comments to OSS documentation pages we make exceptions. Simply create a support ticket after signing up.",
     "FAQ_ADD_USERS": "Can I add my developers, moderators, and other admins?",
@@ -146,6 +146,8 @@
     "FAQ_TWO_SITES_ANSWER": "Some packages like the Creators plan include up to 3 sites. The Flex plan gives you the first one free, so with two sites you'd pay a total of $10/mo, but it also includes de-branding which Creators does not.",
     "FAQ_SUBDOMAIN": "What if I have mysite.com and subdomain.mysite.com?",
     "FAQ_SUBDOMAIN_ANSWER": "This depends on the setup. If you add mysite.com to your account, it would be billed as one, and the data/comments are still stored separately. However, let's say you want specific configuration for subdomain.mysite.com - then you'd have to add it separately in your account and it'd be billed as such.",
+    "FAQ_FLEX_SPEND_LIMIT": "Can I set a spending limit on Flex?",
+    "FAQ_FLEX_SPEND_LIMIT_ANSWER": "Yes. On the Billing page in your dashboard, enter a target monthly maximum and we'll set the matching usage limits for you, or fine-tune each limit yourself. Usage that would exceed a limit is blocked, which caps what you're billed.",
     "FAQ_MISSED_PAYMENT": "What if miss a payment?",
     "FAQ_MISSED_PAYMENT_ANSWER": "The system gives you a grace period of a week to pay unpaid invoices, and then your account will be paused. Unpaid accounts are deleted after a year."
 }

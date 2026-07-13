@@ -57,5 +57,12 @@
     "SECTION_BILLING_ADDRESS": "Endereço de Cobrança",
     "SECTION_PAYMENT_METHOD": "Método de pagamento",
     "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Pagar agora e iniciar assinatura",
-    "BUTTON_START_SUBSCRIPTION": "Iniciar assinatura"
+    "BUTTON_START_SUBSCRIPTION": "Iniciar assinatura",
+    "ERROR_NO_FLEX_PACKAGE": "Sua conta não possui um plano Flex, portanto não há limites de uso para configurar.",
+    "ERROR_INVALID_LIMITS": "Um ou mais dos limites inseridos não são números válidos.",
+    "FLEX_LIMIT_MAX_VALUE": "Até [amount]/mês",
+    "FLEX_LIMIT_TITLE": "Limite de gastos mensais",
+    "FLEX_LIMIT_NOT_CONFIGURED": "Nenhum limite configurado",
+    "FLEX_LIMIT_EDIT": "Editar",
+    "FLEX_NEXT_INVOICE": "Valor da próxima fatura:"
 }

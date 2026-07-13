@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_TITLE": "Mesečna omejitev porabe",
+    "FLEX_LIMITS_TARGET_LABEL": "Ciljni mesečni maksimum ([currency])",
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "Vnesite znesek",
+    "FLEX_LIMITS_SUBTITLE": "Vnesite ciljni mesečni maksimum in mi bomo nastavili omejitve porabe, ki se ujemajo z njim, ali pa sami natančno prilagodite vsako omejitev.",
+    "FLEX_LIMITS_PAGE_LOADS": "Nalaganja strani na mesec",
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "Brez omejitve",
+    "FLEX_LIMITS_BTN_CANCEL": "Prekliči",
+    "FLEX_LIMITS_API_CREDITS": "API krediti na mesec",
+    "FLEX_LIMITS_COMMENTS": "Shranjeni komentarji",
+    "FLEX_LIMITS_BTN_SAVE": "Shrani omejitve",
+    "FLEX_LIMITS_MINIMUM_NOTE": "Minimalna cena Flex v višini [amount]/mesec še vedno velja.",
+    "FLEX_LIMITS_SSO_USERS": "Uporabniki SSO",
+    "FLEX_LIMITS_COMPUTED_MAX": "Ocenjeni mesečni maksimum: [amount]",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "Krediti za majhne pripomočke na mesec",
+    "FLEX_LIMITS_NOT_CONFIGURED": "Za neomejeno uporabo pustite polje prazno.",
+    "FLEX_LIMITS_SAVE_FAILED": "Pri shranjevanju vaših omejitev je prišlo do težave. Poskusite znova čez trenutek.",
+    "FLEX_LIMITS_TARGET_NOTE": "To ni fiksna omejitev, ročna dejanja, kot je dodajanje spletnih mest ali skrbniških sedežev, lahko presežejo to omejitev. Prihajajoče račune lahko kadar koli preverite v <a href=\"/auth/my-account/analytics/billing\">analitiki obračunavanja</a> .",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "Izračunani znesek: [amount]"
+}

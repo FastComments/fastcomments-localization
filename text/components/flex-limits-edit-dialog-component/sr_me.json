@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_TITLE": "Месечни лимит потрошње",
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "Унесите износ",
+    "FLEX_LIMITS_TARGET_LABEL": "Циљани месечни максимум ([currency])",
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "Без ограничења",
+    "FLEX_LIMITS_COMMENTS": "Сачувани коментари",
+    "FLEX_LIMITS_SSO_USERS": "Корисници SSO-а",
+    "FLEX_LIMITS_API_CREDITS": "API кредити месечно",
+    "FLEX_LIMITS_SUBTITLE": "Унесите циљни месечни максимум и ми ћемо подесити ограничења коришћења или сами прецизно подесити свако ограничење.",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "Кредити за мале виџете месечно",
+    "FLEX_LIMITS_PAGE_LOADS": "Учитавања страница месечно",
+    "FLEX_LIMITS_COMPUTED_MAX": "Процењени месечни максимум: [amount]",
+    "FLEX_LIMITS_BTN_CANCEL": "Откажи",
+    "FLEX_LIMITS_NOT_CONFIGURED": "Оставите поље празно да би употреба била неограничена.",
+    "FLEX_LIMITS_BTN_SAVE": "Сачувај ограничења",
+    "FLEX_LIMITS_SAVE_FAILED": "Наишли смо на проблем приликом чувања ваших ограничења. Пробајте поново за тренутак.",
+    "FLEX_LIMITS_MINIMUM_NOTE": "Минимална Flex накнада од [amount]/месечно и даље важи.",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "Израчунати износ: [amount]",
+    "FLEX_LIMITS_TARGET_NOTE": "Ово није фиксно ограничење, ручне радње попут додавања сајтова или администраторских места могу прекорачити ово ограничење. Проверите предстојеће фактуре у <a href=\"/auth/my-account/analytics/billing\">Аналитици наплате</a> у било ком тренутку."
+}

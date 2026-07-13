@@ -88,7 +88,7 @@
     "FAQ_TRIAL_ENDS": "Que se passe-t-il à la fin du procès ?",
     "FAQ_TRIAL_ENDS_ANSWER": "Le module de commentaires restera fonctionnel pendant un court laps de temps, puis se masquera automatiquement. Vous et vos utilisateurs conserverez un accès complet à l'espace d'administration. Vous recevrez des rappels à la fin de la période d'essai, auxquels vous pourrez facilement vous désabonner.",
     "FAQ_EXCEED_LIMITS": "Que se passe-t-il si je dépasse les limites de mon compte ?",
-    "FAQ_EXCEED_LIMITS_ANSWER": "Tous les détails de votre forfait, à l'exception du nombre de commentaires par mois, sont des limites strictes. Si vous dépassez ce nombre, nous vous contacterons pour revoir votre forfait.",
+    "FAQ_EXCEED_LIMITS_ANSWER": "Tous les détails de votre forfait, à l'exception du nombre de commentaires par mois, sont des limites strictes. Si vous dépassez ce nombre, nous vous contacterons pour revoir votre forfait. Avec le forfait Flex, vous définissez vos propres limites depuis la page Facturation afin de plafonner vos dépenses mensuelles.",
     "FAQ_FREE_TIER": "Je gère un projet open source avec un faible trafic, existe-t-il une offre gratuite ?",
     "FAQ_FREE_TIER_ANSWER": "Il n'existe actuellement aucune offre gratuite officielle. Cependant, nous faisons des exceptions, par exemple pour l'ajout de commentaires aux pages de documentation des logiciels libres. Il vous suffit de créer un ticket d'assistance après votre inscription.",
     "FAQ_ADD_USERS": "Puis-je ajouter mes développeurs, modérateurs et autres administrateurs ?",
@@ -147,5 +147,7 @@
     "PUBLIC_FOOTER_V2_DJANGO": "Django",
     "PUBLIC_FOOTER_V2_WORDPRESS": "WordPress",
     "PUBLIC_NAV_ITEM_COMMENTING_API": "API de commentaires",
-    "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "API REST et SDK pour les discussions en direct."
+    "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "API REST et SDK pour les discussions en direct.",
+    "FAQ_FLEX_SPEND_LIMIT": "Puis-je définir une limite de dépenses sur Flex ?",
+    "FAQ_FLEX_SPEND_LIMIT_ANSWER": "Oui. Sur la page Facturation de votre tableau de bord, indiquez un plafond mensuel cible et nous définirons automatiquement les limites d'utilisation correspondantes. Vous pouvez également ajuster chaque limite vous-même. Toute utilisation dépassant une limite est bloquée, ce qui plafonne votre facturation."
 }

@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_TITLE": "Monthly Spend Limit",
+    "FLEX_LIMITS_SUBTITLE": "Enter a target monthly maximum and we'll set usage limits to match, or fine-tune each limit yourself.",
+    "FLEX_LIMITS_TARGET_LABEL": "Target monthly max ([currency])",
+    "FLEX_LIMITS_TARGET_NOTE": "This is not a hard cap, manual actions like adding sites or admin seats can exceed this limit. Check upcoming invoices in <a href=\"/auth/my-account/analytics/billing\">Billing Analytics</a> at any time.",
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "Enter an amount",
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "No limit",
+    "FLEX_LIMITS_PAGE_LOADS": "Page loads per month",
+    "FLEX_LIMITS_COMMENTS": "Comments stored",
+    "FLEX_LIMITS_SSO_USERS": "SSO users",
+    "FLEX_LIMITS_API_CREDITS": "API credits per month",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "Small widget credits per month",
+    "FLEX_LIMITS_COMPUTED_MAX": "Estimated monthly max: [amount]",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "Calculated Amount: [amount]",
+    "FLEX_LIMITS_NOT_CONFIGURED": "Leave a field empty to keep that usage unlimited.",
+    "FLEX_LIMITS_MINIMUM_NOTE": "The Flex minimum charge of [amount]/mo still applies.",
+    "FLEX_LIMITS_BTN_SAVE": "Save Limits",
+    "FLEX_LIMITS_BTN_CANCEL": "Cancel",
+    "FLEX_LIMITS_SAVE_FAILED": "We hit a snag saving your limits. Try again in a moment."
+}

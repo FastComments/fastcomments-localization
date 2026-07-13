@@ -57,5 +57,12 @@
     "PLAN_SUMMARY_TITLE": "您的套餐",
     "PLAN_SUMMARY_MINIMUM_LABEL": "/月最低",
     "BUTTON_START_SUBSCRIPTION": "开始订阅",
-    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "立即付款并开始订阅"
+    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "立即付款并开始订阅",
+    "FLEX_LIMIT_TITLE": "每月消费限额",
+    "FLEX_LIMIT_EDIT": "编辑",
+    "ERROR_INVALID_LIMITS": "输入的一个或多个限制值无效。",
+    "FLEX_LIMIT_NOT_CONFIGURED": "未配置限制",
+    "FLEX_LIMIT_MAX_VALUE": "每月最高可达[amount]",
+    "ERROR_NO_FLEX_PACKAGE": "您的账户没有 Flex 套餐，因此无需配置使用限制。",
+    "FLEX_NEXT_INVOICE": "下一张发票金额："
 }

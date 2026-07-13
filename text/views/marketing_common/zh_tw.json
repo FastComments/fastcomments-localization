@@ -88,7 +88,7 @@
     "FAQ_TRIAL_ENDS": "試用期結束後會發生什麼事？",
     "FAQ_TRIAL_ENDS_ANSWER": "評論小工具在試用期結束後仍會短暫啟用，然後自動隱藏。您和您的使用者仍可完全存取管理後台。試用期結束後，您會收到提醒，您可以隨時選擇取消接收提醒。",
     "FAQ_EXCEED_LIMITS": "如果我的帳戶超出限額怎麼辦？",
-    "FAQ_EXCEED_LIMITS_ANSWER": "除每月評論數量限制外，所有套餐詳情均為硬性規定。如果您超出每月評論數量限制，我們將與您聯繫協商套餐方案。",
+    "FAQ_EXCEED_LIMITS_ANSWER": "除了每月評論數量限制外，所有套餐詳情均為硬性限制。如果您超出每月評論數量限制，我們將與您聯繫協商套餐方案。在 Flex 套餐中，您可以在「帳單」頁面自行設定每月消費上限。",
     "FAQ_FREE_TIER": "我經營一個流量較低的開源專案，請問是否有免費套餐？",
     "FAQ_FREE_TIER_ANSWER": "目前沒有官方的免費套餐，但例如在開源軟體文件頁面新增評論時，我們會酌情處理。註冊後只需建立支援工單即可。",
     "FAQ_ADD_USERS": "我可以新增我的開發人員、版主和其他管理員嗎？",
@@ -147,5 +147,7 @@
     "PUBLIC_FOOTER_V2_DJANGO": "Django",
     "PUBLIC_FOOTER_V2_WORDPRESS": "WordPress",
     "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "用於即時討論的 REST API 和 SDK。",
-    "PUBLIC_NAV_ITEM_COMMENTING_API": "評論 API"
+    "PUBLIC_NAV_ITEM_COMMENTING_API": "評論 API",
+    "FAQ_FLEX_SPEND_LIMIT": "我可以在 Flex 上設定消費限額嗎？",
+    "FAQ_FLEX_SPEND_LIMIT_ANSWER": "是的。您可以在控制面板的「帳單」頁面輸入每月最高消費目標，我們會為您設定對應的消費限額；您也可以自行微調各項限額。超出限額的消費將被阻止，從而限制您的帳單金額。"
 }

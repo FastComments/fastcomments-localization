@@ -57,5 +57,12 @@
     "PLAN_SUMMARY_TITLE": "Ваш план",
     "PLAN_SUMMARY_MINIMUM_LABEL": "/месечно минимум",
     "BUTTON_START_SUBSCRIPTION": "Покрени претплату",
-    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Плати сада и започни претплату"
+    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Плати сада и започни претплату",
+    "ERROR_NO_FLEX_PACKAGE": "Ваш налог нема Flex план, тако да нема ограничења коришћења за конфигурисање.",
+    "FLEX_LIMIT_NOT_CONFIGURED": "Није конфигурисано ограничење",
+    "FLEX_LIMIT_EDIT": "Измени",
+    "ERROR_INVALID_LIMITS": "Једно или више унетих ограничења није важећи број.",
+    "FLEX_LIMIT_TITLE": "Месечно ограничење потрошње",
+    "FLEX_LIMIT_MAX_VALUE": "До [amount]/месечно",
+    "FLEX_NEXT_INVOICE": "Следећи износ фактуре:"
 }

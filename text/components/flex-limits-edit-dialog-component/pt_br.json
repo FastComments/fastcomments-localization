@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "Insira um valor",
+    "FLEX_LIMITS_SUBTITLE": "Insira um limite máximo mensal desejado e nós definiremos os limites de uso para atendê-lo, ou ajuste cada limite você mesmo.",
+    "FLEX_LIMITS_SSO_USERS": "Usuários de SSO",
+    "FLEX_LIMITS_PAGE_LOADS": "Carregamentos de página por mês",
+    "FLEX_LIMITS_TITLE": "Limite de gastos mensais",
+    "FLEX_LIMITS_COMMENTS": "Comentários armazenados",
+    "FLEX_LIMITS_TARGET_LABEL": "Meta mensal máxima ([currency])",
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "Sem limite",
+    "FLEX_LIMITS_API_CREDITS": "Créditos de API por mês",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "Créditos de widgets pequenos por mês",
+    "FLEX_LIMITS_COMPUTED_MAX": "Máximo mensal estimado: [amount]",
+    "FLEX_LIMITS_BTN_CANCEL": "Cancelar",
+    "FLEX_LIMITS_NOT_CONFIGURED": "Deixe o campo vazio para que o uso seja ilimitado.",
+    "FLEX_LIMITS_MINIMUM_NOTE": "A taxa mínima Flex de [amount]/mês ainda se aplica.",
+    "FLEX_LIMITS_BTN_SAVE": "Salvar limites",
+    "FLEX_LIMITS_SAVE_FAILED": "Ocorreu um problema ao salvar seus limites. Tente novamente em instantes.",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "Valor calculado: [amount]",
+    "FLEX_LIMITS_TARGET_NOTE": "Este não é um limite rígido; ações manuais, como adicionar sites ou licenças de administrador, podem exceder esse limite. Consulte as próximas faturas no <a href=\"/auth/my-account/analytics/billing\">Billing Analytics</a> a qualquer momento."
+}

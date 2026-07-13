@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_SUBTITLE": "Indtast et månedligt maksimum, så sætter vi matchende forbrugsgrænser, eller du kan finjustere hver grænse selv.",
+    "FLEX_LIMITS_TITLE": "Månedlig forbrugsgrænse",
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "Ingen grænse",
+    "FLEX_LIMITS_PAGE_LOADS": "Sideindlæsninger pr. måned",
+    "FLEX_LIMITS_TARGET_LABEL": "Månedligt målmaksimum ([currency])",
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "Indtast et beløb",
+    "FLEX_LIMITS_COMMENTS": "Gemte kommentarer",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "Små widget-kreditter pr. måned",
+    "FLEX_LIMITS_API_CREDITS": "API-kreditter pr. måned",
+    "FLEX_LIMITS_SSO_USERS": "SSO-brugere",
+    "FLEX_LIMITS_NOT_CONFIGURED": "Lad et felt være tomt for at holde brugen ubegrænset.",
+    "FLEX_LIMITS_COMPUTED_MAX": "Anslået månedligt maksimum: [amount]",
+    "FLEX_LIMITS_BTN_CANCEL": "Annuller",
+    "FLEX_LIMITS_SAVE_FAILED": "Vi stødte på et problem med at gemme dine grænser. Prøv igen om et øjeblik.",
+    "FLEX_LIMITS_MINIMUM_NOTE": "Flex-minimumsgebyret på [amount]/md. gælder stadig.",
+    "FLEX_LIMITS_BTN_SAVE": "Gem grænser",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "Beregnet beløb: [amount]",
+    "FLEX_LIMITS_TARGET_NOTE": "Dette er ikke en fast grænse. Manuelle handlinger som tilføjelse af websteder eller administratorpladser kan overskride denne grænse. Tjek kommende fakturaer i <a href=\"/auth/my-account/analytics/billing\">Faktureringsanalyse</a> når som helst."
+}

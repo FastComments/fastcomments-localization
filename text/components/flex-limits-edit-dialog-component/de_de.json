@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_TITLE": "Monatliches Ausgabenlimit",
+    "FLEX_LIMITS_TARGET_LABEL": "Monatliches Zielmaximum ([currency])",
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "Geben Sie einen Betrag ein",
+    "FLEX_LIMITS_SUBTITLE": "Geben Sie ein monatliches Ziellimit ein, und wir legen entsprechende Nutzungslimits fest. Alternativ können Sie jedes Limit auch selbst feinabstimmen.",
+    "FLEX_LIMITS_COMMENTS": "Gespeicherte Kommentare",
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "Kein Limit",
+    "FLEX_LIMITS_PAGE_LOADS": "Seitenaufrufe pro Monat",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "Guthaben für kleine Widgets pro Monat",
+    "FLEX_LIMITS_API_CREDITS": "API-Guthaben pro Monat",
+    "FLEX_LIMITS_SSO_USERS": "SSO-Benutzer",
+    "FLEX_LIMITS_MINIMUM_NOTE": "Die Flex-Mindestgebühr von [amount]/Monat bleibt weiterhin gültig.",
+    "FLEX_LIMITS_NOT_CONFIGURED": "Lassen Sie das Feld leer, um die Nutzung unbegrenzt zu halten.",
+    "FLEX_LIMITS_COMPUTED_MAX": "Geschätztes monatliches Maximum: [amount]",
+    "FLEX_LIMITS_BTN_SAVE": "Limits speichern",
+    "FLEX_LIMITS_BTN_CANCEL": "Abbrechen",
+    "FLEX_LIMITS_SAVE_FAILED": "Beim Speichern Ihrer Limits ist ein Fehler aufgetreten. Bitte versuchen Sie es in Kürze erneut.",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "Berechneter Betrag: [amount]",
+    "FLEX_LIMITS_TARGET_NOTE": "Dies ist keine feste Obergrenze; manuelle Aktionen wie das Hinzufügen von Websites oder Administratorlizenzen können dieses Limit überschreiten. Sie können anstehende Rechnungen jederzeit in <a href=\"/auth/my-account/analytics/billing\">der Abrechnungsanalyse</a> einsehen."
+}

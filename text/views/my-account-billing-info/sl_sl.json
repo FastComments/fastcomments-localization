@@ -57,5 +57,12 @@
     "SECTION_BILLING_ADDRESS": "Naslov za izstavitev računa",
     "PLAN_SUMMARY_TITLE": "Vaš paket",
     "BUTTON_START_SUBSCRIPTION": "Začni naročnino",
-    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Plačaj zdaj in začni naročnino"
+    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Plačaj zdaj in začni naročnino",
+    "FLEX_LIMIT_EDIT": "Uredi",
+    "FLEX_LIMIT_NOT_CONFIGURED": "Ni konfigurirane omejitve",
+    "FLEX_LIMIT_TITLE": "Mesečna omejitev porabe",
+    "FLEX_LIMIT_MAX_VALUE": "Do [amount]/mesec",
+    "ERROR_INVALID_LIMITS": "Ena ali več vnesenih omejitev ni veljavna številka.",
+    "ERROR_NO_FLEX_PACKAGE": "Vaš račun nima paketa Flex, zato ni omejitev uporabe za konfiguriranje.",
+    "FLEX_NEXT_INVOICE": "Znesek naslednjega računa:"
 }

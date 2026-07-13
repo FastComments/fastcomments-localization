@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_TITLE": "Límite de gasto mensual",
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "Sin límite",
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "Introduce una cantidad",
+    "FLEX_LIMITS_SSO_USERS": "usuarios SSO",
+    "FLEX_LIMITS_PAGE_LOADS": "Cargas de página por mes",
+    "FLEX_LIMITS_COMMENTS": "Comentarios almacenados",
+    "FLEX_LIMITS_SUBTITLE": "Introduce un límite máximo mensual objetivo y ajustaremos los límites de uso en consecuencia, o bien, puedes ajustar cada límite tú mismo.",
+    "FLEX_LIMITS_API_CREDITS": "Créditos API por mes",
+    "FLEX_LIMITS_TARGET_LABEL": "Objetivo máximo mensual ([currency])",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "Créditos de widgets pequeños al mes",
+    "FLEX_LIMITS_BTN_CANCEL": "Cancelar",
+    "FLEX_LIMITS_COMPUTED_MAX": "Máximo mensual estimado: [amount]",
+    "FLEX_LIMITS_MINIMUM_NOTE": "El cargo mínimo de Flex de [amount]/mes sigue vigente.",
+    "FLEX_LIMITS_BTN_SAVE": "Guardar límites",
+    "FLEX_LIMITS_NOT_CONFIGURED": "Deja un campo vacío para mantener ese uso ilimitado.",
+    "FLEX_LIMITS_SAVE_FAILED": "Hemos tenido un problema al guardar tus límites. Inténtalo de nuevo en un momento.",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "Importe calculado: [amount]",
+    "FLEX_LIMITS_TARGET_NOTE": "Este no es un límite estricto; las acciones manuales, como agregar sitios o licencias de administrador, pueden superarlo. Consulta las próximas facturas en <a href=\"/auth/my-account/analytics/billing\">Análisis de facturación</a> en cualquier momento."
+}

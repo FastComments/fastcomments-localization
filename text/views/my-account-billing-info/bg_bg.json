@@ -57,5 +57,12 @@
     "PLAN_SUMMARY_MINIMUM_LABEL": "/месец минимум",
     "PLAN_SUMMARY_TITLE": "Вашият план",
     "BUTTON_START_SUBSCRIPTION": "Стартиране на абонамент",
-    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Платете сега и започнете абонамент"
+    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Платете сега и започнете абонамент",
+    "ERROR_NO_FLEX_PACKAGE": "Вашият акаунт няма план Flex, така че няма ограничения за използване, които да конфигурирате.",
+    "ERROR_INVALID_LIMITS": "Едно или повече от въведените ограничения не са валидно число.",
+    "FLEX_LIMIT_TITLE": "Месечен лимит на разходите",
+    "FLEX_LIMIT_EDIT": "Редактиране",
+    "FLEX_LIMIT_NOT_CONFIGURED": "Няма конфигурирано ограничение",
+    "FLEX_LIMIT_MAX_VALUE": "До [amount]/месец",
+    "FLEX_NEXT_INVOICE": "Сума на следващата фактура:"
 }

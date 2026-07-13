@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "Без обмежень",
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "Введіть суму",
+    "FLEX_LIMITS_PAGE_LOADS": "Завантаження сторінок на місяць",
+    "FLEX_LIMITS_COMMENTS": "Збережені коментарі",
+    "FLEX_LIMITS_TARGET_LABEL": "Цільовий щомісячний максимум ([currency])",
+    "FLEX_LIMITS_SSO_USERS": "Користувачі SSO",
+    "FLEX_LIMITS_API_CREDITS": "Кредити API на місяць",
+    "FLEX_LIMITS_TITLE": "Щомісячний ліміт витрат",
+    "FLEX_LIMITS_COMPUTED_MAX": "Орієнтовний щомісячний максимум: [amount]",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "Кредити малого віджета на місяць",
+    "FLEX_LIMITS_SUBTITLE": "Введіть цільовий щомісячний максимум, і ми встановимо ліміти використання відповідно, або ж налаштуйте кожен ліміт самостійно.",
+    "FLEX_LIMITS_BTN_CANCEL": "Скасувати",
+    "FLEX_LIMITS_MINIMUM_NOTE": "Мінімальна плата за Flex у розмірі [amount]/міс. все ще застосовується.",
+    "FLEX_LIMITS_NOT_CONFIGURED": "Залиште поле порожнім, щоб використання було необмеженим.",
+    "FLEX_LIMITS_BTN_SAVE": "Зберегти ліміти",
+    "FLEX_LIMITS_SAVE_FAILED": "Ми зіткнулися з проблемою під час збереження ваших лімітів. Спробуйте ще раз за мить.",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "Розрахована сума: [amount]",
+    "FLEX_LIMITS_TARGET_NOTE": "Це не жорстке обмеження, ручні дії, такі як додавання сайтів або місць адміністратора, можуть перевищувати це обмеження. Перевіряйте майбутні рахунки-фактури в <a href=\"/auth/my-account/analytics/billing\">аналітиці виставлення рахунків</a> у будь-який час."
+}

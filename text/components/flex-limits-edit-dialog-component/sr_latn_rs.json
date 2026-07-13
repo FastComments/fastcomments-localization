@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "Krediti za male vidžete mesečno",
+    "FLEX_LIMITS_TITLE": "Mesečni limit potrošnje",
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "Unesite iznos",
+    "FLEX_LIMITS_TARGET_LABEL": "Ciljni mesečni maksimum ([currency])",
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "Nema ograničenja",
+    "FLEX_LIMITS_PAGE_LOADS": "Učitavanje stranica mesečno",
+    "FLEX_LIMITS_COMMENTS": "Komentari sačuvani",
+    "FLEX_LIMITS_SSO_USERS": "SSO korisnici",
+    "FLEX_LIMITS_SUBTITLE": "Unesite ciljni mesečni maksimum i mi ćemo postaviti ograničenja korišćenja da odgovaraju, ili fino podesiti svako ograničenje sami.",
+    "FLEX_LIMITS_API_CREDITS": "API krediti mesečno",
+    "FLEX_LIMITS_BTN_CANCEL": "Otkaži",
+    "FLEX_LIMITS_SAVE_FAILED": "Naišli smo na problem prilikom čuvanja vaših ograničenja. Pokušajte ponovo za trenutak.",
+    "FLEX_LIMITS_BTN_SAVE": "Sačuvaj ograničenja",
+    "FLEX_LIMITS_NOT_CONFIGURED": "Ostavite polje prazno da bi ta upotreba bila neograničena.",
+    "FLEX_LIMITS_COMPUTED_MAX": "Procenjeni mesečni maksimum: [amount]",
+    "FLEX_LIMITS_MINIMUM_NOTE": "Minimalna Flex naknada od [amount]/mes i dalje važi.",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "Izračunati iznos: [amount]",
+    "FLEX_LIMITS_TARGET_NOTE": "Ovo nije čvrsta kapa, ručne radnje kao što su dodavanje sajtova ili administratorskih sedišta mogu premašiti ovu granicu. Proverite predstojeće fakture u <a href =\"/auth/mi-account/analitics/billing\">Billing Analitics</a> u bilo kom trenutku."
+}

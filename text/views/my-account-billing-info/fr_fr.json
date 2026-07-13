@@ -57,5 +57,12 @@
     "SECTION_BILLING_ADDRESS": "Adresse de facturation",
     "SECTION_PAYMENT_METHOD": "Mode de paiement",
     "BUTTON_START_SUBSCRIPTION": "Démarrer l'abonnement",
-    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Payer maintenant et démarrer l'abonnement"
+    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "Payer maintenant et démarrer l'abonnement",
+    "ERROR_NO_FLEX_PACKAGE": "Votre compte ne dispose pas d'un forfait Flex, il n'y a donc aucune limite d'utilisation à configurer.",
+    "ERROR_INVALID_LIMITS": "Une ou plusieurs des limites saisies ne constituent pas un nombre valide.",
+    "FLEX_LIMIT_TITLE": "Limite de dépenses mensuelles",
+    "FLEX_LIMIT_EDIT": "Modifier",
+    "FLEX_LIMIT_NOT_CONFIGURED": "Aucune limite configurée",
+    "FLEX_NEXT_INVOICE": "Montant de la prochaine facture :",
+    "FLEX_LIMIT_MAX_VALUE": "Jusqu'à [amount]/mois"
 }

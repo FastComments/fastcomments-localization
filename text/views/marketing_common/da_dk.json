@@ -88,7 +88,7 @@
     "FAQ_TRIAL_ENDS": "Hvad sker der, når prøveperioden slutter?",
     "FAQ_TRIAL_ENDS_ANSWER": "Kommentar-widgetten vil stadig fungere i kort tid og derefter skjule sig selv. Du og dine brugere vil stadig have fuld adgang til administrationsområdet. I vil modtage påmindelser, som I nemt kan fravælge, når prøveperioden slutter.",
     "FAQ_EXCEED_LIMITS": "Hvad hvis jeg overskrider grænserne for min konto?",
-    "FAQ_EXCEED_LIMITS_ANSWER": "Alle pakkedetaljer, bortset fra antallet af kommentarer pr. måned, er faste grænser. Hvis du overskrider antallet af kommentarer pr. måned, kontakter vi dig for at forhandle din pakke.",
+    "FAQ_EXCEED_LIMITS_ANSWER": "Alle pakkeoplysninger, bortset fra antallet af kommentarer pr. måned, er faste grænser. Hvis du overskrider antallet af kommentarer pr. måned, kontakter vi dig for at forhandle din pakke. På Flex-abonnementet sætter du dine egne grænser på faktureringssiden for at begrænse dit månedlige forbrug.",
     "FAQ_FREE_TIER": "Jeg kører et open source-projekt med lav trafik, er der et gratis niveau?",
     "FAQ_FREE_TIER_ANSWER": "Der er i øjeblikket ingen officiel gratis version, men for eksempel gør vi undtagelser, når man tilføjer kommentarer til OSS-dokumentationssider. Du skal blot oprette en supportsag efter tilmelding.",
     "FAQ_ADD_USERS": "Kan jeg tilføje mine udviklere, moderatorer og andre administratorer?",
@@ -147,5 +147,7 @@
     "PUBLIC_FOOTER_V2_DJANGO": "Django",
     "PUBLIC_FOOTER_V2_WORDPRESS": "WordPress",
     "PUBLIC_NAV_ITEM_COMMENTING_API": "Kommentar-API",
-    "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "REST API og SDK'er til live-diskussioner."
+    "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "REST API og SDK'er til live-diskussioner.",
+    "FAQ_FLEX_SPEND_LIMIT": "Kan jeg sætte en forbrugsgrænse på Flex?",
+    "FAQ_FLEX_SPEND_LIMIT_ANSWER": "Ja. På siden Fakturering i dit dashboard skal du indtaste et månedligt maksimum, så sætter vi de matchende forbrugsgrænser for dig, eller du kan finjustere hver grænse selv. Forbrug, der overstiger en grænse, blokeres, hvilket begrænser det beløb, du faktureres."
 }

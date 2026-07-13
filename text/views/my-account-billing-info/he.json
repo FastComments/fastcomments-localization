@@ -57,5 +57,12 @@
     "SECTION_BILLING_ADDRESS": "כתובת לחיוב",
     "PLAN_SUMMARY_MINIMUM_LABEL": "/לחודש מינימום",
     "BUTTON_START_SUBSCRIPTION": "התחל מנוי",
-    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "שלם עכשיו והתחל מנוי"
+    "BUTTON_PAY_NOW_START_SUBSCRIPTION": "שלם עכשיו והתחל מנוי",
+    "FLEX_LIMIT_EDIT": "עריכה",
+    "ERROR_NO_FLEX_PACKAGE": "לחשבונך אין תוכנית Flex, כך שאין מגבלות שימוש להגדרה.",
+    "ERROR_INVALID_LIMITS": "אחת או יותר מהמגבלות שהוזנו אינה מספר חוקי.",
+    "FLEX_LIMIT_TITLE": "מגבלת הוצאה חודשית",
+    "FLEX_LIMIT_MAX_VALUE": "עד [amount]/חודש",
+    "FLEX_LIMIT_NOT_CONFIGURED": "לא הוגדרה מגבלה",
+    "FLEX_NEXT_INVOICE": "סכום החשבונית הבאה:"
 }

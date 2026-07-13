@@ -88,7 +88,7 @@
     "FAQ_TRIAL_ENDS": "Šta se dešava kada se probni period završi?",
     "FAQ_TRIAL_ENDS_ANSWER": "Komentar vidžet će i dalje funkcionisati za kratko vreme, a zatim se sakriti. Vi i vaši korisnici ćete i dalje imati pun pristup administratorskom području. Dobićete podsetnike, koje možete lako isključiti, kada se probni period završi.",
     "FAQ_EXCEED_LIMITS": "Šta ako prekoračim limite svog računa?",
-    "FAQ_EXCEED_LIMITS_ANSWER": "Svi detalji paketa, osim broja komentara mesečno, su teška ograničenja. Ako prekoračite broj komentara mesečno, mi ćemo vam se obratiti da pregovaramo o vašem paketu.",
+    "FAQ_EXCEED_LIMITS_ANSWER": "Svi detalji paketa, osim broja komentara mesečno, su fiksna ograničenja. Ako prekoračite broj komentara mesečno, mi ćemo vam se obratiti da pregovaramo o vašem paketu. Na Flex planu, postavite sopstvene limite sa stranice za naplatu kako biste ograničili mesečnu potrošnju.",
     "FAQ_FREE_TIER": "Ja vodim projekat otvorenog koda sa malim prometom, da li postoji slobodan nivo?",
     "FAQ_FREE_TIER_ANSWER": "Trenutno ne postoji zvanični slobodni nivo, međutim, na primer, dodavanjem komentara na stranice sa dokumentacijom OSS-a pravimo izuzetke. Jednostavno kreirajte kartu za podršku nakon prijavljivanja.",
     "FAQ_ADD_USERS": "Mogu li da dodam svoje programere, moderatore i druge administratore?",
@@ -147,5 +147,7 @@
     "PUBLIC_FOOTER_V2_DJANGO": "Đango",
     "PUBLIC_FOOTER_V2_WORDPRESS": "Fejsbuk",
     "PUBLIC_NAV_ITEM_COMMENTING_API": "Komentarisanje API-ja",
-    "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "REST API i SDK-ovi za diskusije uživo."
+    "PUBLIC_NAV_ITEM_COMMENTING_API_DESC": "REST API i SDK-ovi za diskusije uživo.",
+    "FAQ_FLEX_SPEND_LIMIT": "Mogu li da postavim ograničenje potrošnje na Flex-u?",
+    "FAQ_FLEX_SPEND_LIMIT_ANSWER": "Da. Na stranici Naplata na kontrolnoj tabli unesite ciljni mesečni maksimum i mi ćemo vam postaviti odgovarajuća ograničenja korišćenja ili sami podesiti svako ograničenje. Upotreba koja bi premašila ograničenje je blokirana, što ograničava ono što vam se naplaćuje."
 }
