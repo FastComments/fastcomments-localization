@@ -57,5 +57,7 @@
     "LLM_CONTEXT_DESCRIPTION": "ספקו הקשר נוסף שיעזור ל-LLM לקבל החלטות טובות יותר לזיהוי ספאם עבור האתר שלכם.",
     "TRY_AI_AGENTS_MESSAGE": "נסו להשתמש <a href=\"/auth/my-account/ai-agents\">בסוכני בינה מלאכותית</a> לצורך ניהול תוכן, דבר שיכול לספק חוויה טובה יותר.",
     "LLM_MODEL_GLM": "GLM 5.2 (DeepInfra)",
-    "LLM_MODEL_GPT_OSS": "gpt-oss-120b (DeepInfra)"
+    "LLM_MODEL_GPT_OSS": "gpt-oss-120b (DeepInfra)",
+    "REPEAT_COMMENT_MIN_LENGTH_LABEL": "אורך מינימלי לבדיקה חוזרת",
+    "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION": "תגובות קצרות ממספר תווים זה אינן נבדקות לחזרות. יש להשאיר את הערך 0 כדי לבדוק כל תגובה (מומלץ, תופס ספאם כמו תווים בודדים שחוזרים על עצמם). יש להגדיל את הערך (לדוגמה, ל-10) אם אתם עורכים וובינרים או שאלות ותשובות שבהם צפויות תגובות קצרות וחוזרות כמו \"כן\" או \"לא\"."
 }

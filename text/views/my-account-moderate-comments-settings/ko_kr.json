@@ -57,5 +57,7 @@
     "LLM_CONTEXT_CHAR_COUNT": "/1000자",
     "TRY_AI_AGENTS_MESSAGE": "더 나은 사용자 경험을 제공하기 위해 <a href=\"/auth/my-account/ai-agents\">AI 에이전트를</a> 활용한 중재를 시도해 보세요.",
     "LLM_MODEL_GLM": "GLM 5.2 (DeepInfra)",
-    "LLM_MODEL_GPT_OSS": "gpt-oss-120b (딥인프라)"
+    "LLM_MODEL_GPT_OSS": "gpt-oss-120b (딥인프라)",
+    "REPEAT_COMMENT_MIN_LENGTH_LABEL": "재검사를 위한 최소 길이",
+    "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION": "이 글자 수보다 짧은 댓글은 반복 여부를 확인하지 않습니다. 모든 댓글을 확인하려면 값을 0으로 설정하세요(반복되는 단일 문자와 같은 스팸을 잡아낼 수 있으므로 권장). 웨비나나 Q&A처럼 \"예\" 또는 \"아니오\"와 같이 짧은 댓글이 반복될 것으로 예상되는 경우에는 이 값을 늘리세요(예: 10)."
 }

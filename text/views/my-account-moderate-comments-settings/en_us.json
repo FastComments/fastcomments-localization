@@ -48,6 +48,8 @@
     "REPEAT_COMMENT_ACTION_BLOCK": "Block",
     "REPEAT_COMMENT_ACTION_CAPTURE": "Mark Spam & Capture For Moderation",
     "REPEAT_COMMENT_ACTION_DESCRIPTION": "Optionally prevent spammers and abusive users from posting repeat comments.",
+    "REPEAT_COMMENT_MIN_LENGTH_LABEL": "Minimum Length for Repeat Check",
+    "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION": "Comments shorter than this many characters are not checked for repeats. Leave at 0 to check every comment (recommended, catches spam like repeated single characters). Increase this (e.g. to 10) if you run webinars or Q&A where short repeated comments like \"yes\" or \"no\" are expected.",
     "FLAGGING_HEADING": "Flagging",
     "AUTO_UNAPPROVE_FLAGGED_LABEL": "Automatically Un-Approve Flagged Comments",
     "AUTO_UNAPPROVE_FLAGGED_DESCRIPTION": "Comments can be hidden if enough users flag them.",

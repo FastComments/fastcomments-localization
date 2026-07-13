@@ -57,5 +57,7 @@
     "COPY_TO_SUB_TENANTS_DESCRIPTION": "Provera ovoga će kopirati podešavanja svim podstanarima.",
     "SAVE_BUTTON": "Sačuvaj",
     "LLM_MODEL_GPT_OSS": "GPT-OSS-120b (DeepInfra)",
-    "LLM_MODEL_GLM": "GLM 5.2 (DeepInfra)"
+    "LLM_MODEL_GLM": "GLM 5.2 (DeepInfra)",
+    "REPEAT_COMMENT_MIN_LENGTH_LABEL": "Minimalna dužina za ponovljenu proveru",
+    "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION": "Komentari kraći od ovog broja znakova se ne proveravaju za ponavljanje. Ostavite na 0 da proverite svaki komentar (preporučeno, hvata spam kao što se ponavljaju pojedinačnih znakova). Povećajte ovo (npr. na KSNUMKS) ako pokrećete vebinare ili pitanja i odgovore gde se očekuju kratki ponovljeni komentari poput \"da\" ili \"ne\"."
 }

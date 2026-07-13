@@ -228,7 +228,7 @@
         "my-account-moderate-comments-moderator-edit": 18,
         "my-account-moderate-comments-moderator-select-tenant": 7,
         "my-account-moderate-comments-moderators": 29,
-        "my-account-moderate-comments-settings": 62,
+        "my-account-moderate-comments-settings": 64,
         "my-account-moderate-comments-settings-update-failure": 5,
         "my-account-moderate-comments-settings-update-success": 4,
         "my-account-moderate-comments-thread": 4,
@@ -5465,7 +5465,9 @@
         "t59": "LLM_CONTEXT_CHAR_COUNT",
         "t60": "TRY_AI_AGENTS_MESSAGE",
         "t61": "LLM_MODEL_GPT_OSS",
-        "t62": "LLM_MODEL_GLM"
+        "t62": "LLM_MODEL_GLM",
+        "t63": "REPEAT_COMMENT_MIN_LENGTH_LABEL",
+        "t64": "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION"
     },
     "my-account-moderate-comments-settings-update-failure": {
         "t1": "PAGE_TITLE",

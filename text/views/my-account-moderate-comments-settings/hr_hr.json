@@ -57,5 +57,7 @@
     "LLM_CONTEXT_CHAR_COUNT": "/1000 znakova",
     "TRY_AI_AGENTS_MESSAGE": "Pokušajte koristiti <a href=\"/auth/my-account/ai-agents\">AI agente</a> za moderiranje, što može pružiti bolje iskustvo.",
     "LLM_MODEL_GPT_OSS": "gpt-oss-120b (DeepInfra)",
-    "LLM_MODEL_GLM": "GLM 5.2 (Duboka infrastruktura)"
+    "LLM_MODEL_GLM": "GLM 5.2 (Duboka infrastruktura)",
+    "REPEAT_COMMENT_MIN_LENGTH_LABEL": "Minimalna duljina za ponovljenu provjeru",
+    "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION": "Komentari kraći od ovog broja znakova ne provjeravaju se na ponavljanja. Ostavite na 0 da biste provjerili svaki komentar (preporučeno, hvata neželjenu poštu poput ponovljenih pojedinačnih znakova). Povećajte ovo (npr. na 10) ako održavate webinare ili pitanja i odgovore gdje se očekuju kratki ponovljeni komentari poput \"da\" ili \"ne\"."
 }

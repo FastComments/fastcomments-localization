@@ -57,5 +57,7 @@
     "LLM_CONTEXT_PLACEHOLDER": "Bijvoorbeeld: 'Wij zijn een gamingforum, verwijzingen naar geweld vinden meestal plaats binnen de game zelf.'",
     "TRY_AI_AGENTS_MESSAGE": "Probeer <a href=\"/auth/my-account/ai-agents\">AI-agenten</a> in te zetten voor moderatie; dat kan een betere gebruikerservaring opleveren.",
     "LLM_MODEL_GPT_OSS": "gpt-oss-120b (DeepInfra)",
-    "LLM_MODEL_GLM": "GLM 5.2 (DeepInfra)"
+    "LLM_MODEL_GLM": "GLM 5.2 (DeepInfra)",
+    "REPEAT_COMMENT_MIN_LENGTH_LABEL": "Minimale lengte voor herhaalde controle",
+    "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION": "Reacties korter dan dit aantal tekens worden niet gecontroleerd op herhalingen. Laat de waarde op 0 staan om elke reactie te controleren (aanbevolen, dit voorkomt spam zoals herhaalde enkele tekens). Verhoog deze waarde (bijvoorbeeld naar 10) als u webinars of vraag- en antwoordsessies organiseert waar korte, herhaalde reacties zoals \"ja\" of \"nee\" worden verwacht."
 }

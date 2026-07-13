@@ -57,5 +57,7 @@
     "LLM_CONTEXT_DESCRIPTION": "Proporciona contexto adicional para ayudar al LLM a tomar mejores decisiones en la detección de spam para tu sitio.",
     "TRY_AI_AGENTS_MESSAGE": "Prueba a utilizar <a href=\"/auth/my-account/ai-agents\">agentes de IA</a> para la moderación, lo que puede proporcionar una mejor experiencia.",
     "LLM_MODEL_GLM": "GLM 5.2 (DeepInfra)",
-    "LLM_MODEL_GPT_OSS": "gpt-oss-120b (DeepInfra)"
+    "LLM_MODEL_GPT_OSS": "gpt-oss-120b (DeepInfra)",
+    "REPEAT_COMMENT_MIN_LENGTH_LABEL": "Longitud mínima para la comprobación repetida",
+    "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION": "Los comentarios de menos de esta cantidad de caracteres no se revisan para detectar repeticiones. Déjelo en 0 para revisar todos los comentarios (recomendado, detecta spam como caracteres repetidos). Aumente este valor (por ejemplo, a 10) si realiza seminarios web o sesiones de preguntas y respuestas donde se esperan comentarios cortos y repetidos como \"sí\" o \"no\"."
 }
