@@ -64,5 +64,6 @@
     "FLEX_NEXT_INVOICE": "Sledeći iznos fakture:",
     "FLEX_LIMIT_EDIT": "Uredi",
     "FLEX_LIMIT_TITLE": "Mesečni limit potrošnje",
-    "ERROR_INVALID_LIMITS": "Jedno ili više unetih ograničenja nije važeći broj."
+    "ERROR_INVALID_LIMITS": "Jedno ili više unetih ograničenja nije važeći broj.",
+    "ERROR_NOT_BILLING_ADMIN": "Samo vlasnik naloga ili administrator za naplatu može da promeni ograničenja potrošnje."
 }

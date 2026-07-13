@@ -64,5 +64,6 @@
     "FLEX_LIMIT_EDIT": "Modifier",
     "FLEX_LIMIT_NOT_CONFIGURED": "Aucune limite configurée",
     "FLEX_NEXT_INVOICE": "Montant de la prochaine facture :",
-    "FLEX_LIMIT_MAX_VALUE": "Jusqu'à [amount]/mois"
+    "FLEX_LIMIT_MAX_VALUE": "Jusqu'à [amount]/mois",
+    "ERROR_NOT_BILLING_ADMIN": "Seul le titulaire du compte ou un administrateur de facturation peut modifier les limites de dépenses."
 }

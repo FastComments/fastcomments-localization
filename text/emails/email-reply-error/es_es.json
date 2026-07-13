@@ -10,5 +10,6 @@
     "ERROR_DM_CONVERSATION_NOT_FOUND": "No se encontró la conversación a la que intentaste responder.",
     "ERROR_DM_SENDER_NOT_AUTHORIZED": "No estás autorizado para responder a esta conversación.",
     "ERROR_UNKNOWN": "Se produjo un error inesperado al procesar su respuesta.",
-    "HELP": "Intente responder directamente en el sitio web."
+    "HELP": "Intente responder directamente en el sitio web.",
+    "ERROR_COMMENT_LIMIT_REACHED": "Este sitio ha alcanzado su límite mensual de comentarios, por lo que su respuesta no pudo ser publicada."
 }

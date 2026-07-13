@@ -64,5 +64,6 @@
     "FLEX_NEXT_INVOICE": "Следећи износ фактуре:",
     "FLEX_LIMIT_NOT_CONFIGURED": "Није конфигурисано ограничење",
     "FLEX_LIMIT_TITLE": "Месечно ограничење потрошње",
-    "FLEX_LIMIT_MAX_VALUE": "До [amount]/месечно"
+    "FLEX_LIMIT_MAX_VALUE": "До [amount]/месечно",
+    "ERROR_NOT_BILLING_ADMIN": "Само власник налога или администратор за обрачун може да промени ограничења потрошње."
 }

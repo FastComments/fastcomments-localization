@@ -64,5 +64,6 @@
     "FLEX_LIMIT_TITLE": "מגבלת הוצאה חודשית",
     "FLEX_LIMIT_MAX_VALUE": "עד [amount]/חודש",
     "FLEX_LIMIT_NOT_CONFIGURED": "לא הוגדרה מגבלה",
-    "FLEX_NEXT_INVOICE": "סכום החשבונית הבאה:"
+    "FLEX_NEXT_INVOICE": "סכום החשבונית הבאה:",
+    "ERROR_NOT_BILLING_ADMIN": "רק בעל החשבון או מנהל חיוב יכולים לשנות את מגבלות ההוצאה."
 }

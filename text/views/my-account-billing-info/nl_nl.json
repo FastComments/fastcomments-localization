@@ -64,5 +64,6 @@
     "FLEX_LIMIT_MAX_VALUE": "Tot [amount]/maand",
     "FLEX_NEXT_INVOICE": "Bedrag volgende factuur:",
     "FLEX_LIMIT_NOT_CONFIGURED": "Geen limiet geconfigureerd",
-    "FLEX_LIMIT_TITLE": "Maandelijks bestedingslimiet"
+    "FLEX_LIMIT_TITLE": "Maandelijks bestedingslimiet",
+    "ERROR_NOT_BILLING_ADMIN": "Alleen de accounteigenaar of een factureringsbeheerder kan bestedingslimieten wijzigen."
 }

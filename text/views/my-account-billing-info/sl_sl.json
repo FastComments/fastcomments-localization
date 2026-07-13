@@ -64,5 +64,6 @@
     "FLEX_LIMIT_MAX_VALUE": "Do [amount]/mesec",
     "ERROR_INVALID_LIMITS": "Ena ali več vnesenih omejitev ni veljavna številka.",
     "ERROR_NO_FLEX_PACKAGE": "Vaš račun nima paketa Flex, zato ni omejitev uporabe za konfiguriranje.",
-    "FLEX_NEXT_INVOICE": "Znesek naslednjega računa:"
+    "FLEX_NEXT_INVOICE": "Znesek naslednjega računa:",
+    "ERROR_NOT_BILLING_ADMIN": "Omejitve porabe lahko spremeni samo lastnik računa ali skrbnik obračunavanja."
 }

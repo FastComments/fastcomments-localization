@@ -10,5 +10,6 @@
     "ERROR_DM_CONVERSATION_NOT_FOUND": "Razgovor na koji ste pokušali odgovoriti nije pronađen.",
     "ERROR_DM_SENDER_NOT_AUTHORIZED": "Niste ovlašteni odgovoriti na ovaj razgovor.",
     "ERROR_UNKNOWN": "Došlo je do neočekivane pogreške prilikom obrade vašeg odgovora.",
-    "HELP": "Pokušajte odgovoriti izravno na web stranici."
+    "HELP": "Pokušajte odgovoriti izravno na web stranici.",
+    "ERROR_COMMENT_LIMIT_REACHED": "Ova stranica je dosegla mjesečni limit komentara, stoga vaš odgovor nije mogao biti objavljen."
 }

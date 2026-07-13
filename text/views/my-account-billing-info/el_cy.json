@@ -64,5 +64,6 @@
     "FLEX_LIMIT_TITLE": "Μηνιαίο όριο δαπανών",
     "FLEX_NEXT_INVOICE": "Ποσό επόμενου τιμολογίου:",
     "FLEX_LIMIT_MAX_VALUE": "Έως [amount]/μήνα",
-    "FLEX_LIMIT_NOT_CONFIGURED": "Δεν έχει ρυθμιστεί όριο"
+    "FLEX_LIMIT_NOT_CONFIGURED": "Δεν έχει ρυθμιστεί όριο",
+    "ERROR_NOT_BILLING_ADMIN": "Μόνο ο κάτοχος του λογαριασμού ή ένας διαχειριστής χρέωσης μπορεί να αλλάξει τα όρια δαπανών."
 }

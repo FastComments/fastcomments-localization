@@ -10,5 +10,6 @@
     "ERROR_DM_CONVERSATION_NOT_FOUND": "您尝试回复的对话未找到。",
     "ERROR_DM_SENDER_NOT_AUTHORIZED": "您无权回复此对话。",
     "ERROR_UNKNOWN": "处理您的回复时发生意外错误。",
-    "HELP": "请尝试直接在网站上回复。"
+    "HELP": "请尝试直接在网站上回复。",
+    "ERROR_COMMENT_LIMIT_REACHED": "本网站已达到每月评论上限，因此您的回复无法发布。"
 }

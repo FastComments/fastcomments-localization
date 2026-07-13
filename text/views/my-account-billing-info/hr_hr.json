@@ -64,5 +64,6 @@
     "FLEX_LIMIT_NOT_CONFIGURED": "Nije konfigurirano ograničenje",
     "FLEX_LIMIT_MAX_VALUE": "Do [amount]/mjesečno",
     "FLEX_LIMIT_TITLE": "Mjesečno ograničenje potrošnje",
-    "FLEX_NEXT_INVOICE": "Sljedeći iznos računa:"
+    "FLEX_NEXT_INVOICE": "Sljedeći iznos računa:",
+    "ERROR_NOT_BILLING_ADMIN": "Samo vlasnik računa ili administrator naplate može promijeniti ograničenja potrošnje."
 }

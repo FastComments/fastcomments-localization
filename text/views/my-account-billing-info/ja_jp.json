@@ -64,5 +64,6 @@
     "FLEX_LIMIT_TITLE": "月間支出限度額",
     "FLEX_NEXT_INVOICE": "次回の請求金額：",
     "ERROR_NO_FLEX_PACKAGE": "お客様のアカウントにはFlexプランが適用されていないため、設定できる利用制限はありません。",
-    "ERROR_INVALID_LIMITS": "入力された制限値のうち、1つ以上が無効な数値です。"
+    "ERROR_INVALID_LIMITS": "入力された制限値のうち、1つ以上が無効な数値です。",
+    "ERROR_NOT_BILLING_ADMIN": "支出限度額を変更できるのは、アカウント所有者または請求管理者のみです。"
 }

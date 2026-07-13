@@ -64,5 +64,6 @@
     "FLEX_LIMIT_EDIT": "Düzenle",
     "FLEX_LIMIT_NOT_CONFIGURED": "Herhangi bir sınır yapılandırılmadı.",
     "FLEX_LIMIT_MAX_VALUE": "Ayda en fazla [amount]",
-    "FLEX_NEXT_INVOICE": "Sonraki Fatura Tutarı:"
+    "FLEX_NEXT_INVOICE": "Sonraki Fatura Tutarı:",
+    "ERROR_NOT_BILLING_ADMIN": "Harcama limitlerini yalnızca hesap sahibi veya faturalama yöneticisi değiştirebilir."
 }

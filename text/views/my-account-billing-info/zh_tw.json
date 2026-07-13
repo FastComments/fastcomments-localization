@@ -64,5 +64,6 @@
     "ERROR_NO_FLEX_PACKAGE": "您的帳戶沒有 Flex 套餐，因此無需配置使用限制。",
     "FLEX_LIMIT_NOT_CONFIGURED": "未配置限制",
     "ERROR_INVALID_LIMITS": "輸入的限額中有一個或多個不是有效數字。",
-    "FLEX_NEXT_INVOICE": "下一張發票金額："
+    "FLEX_NEXT_INVOICE": "下一張發票金額：",
+    "ERROR_NOT_BILLING_ADMIN": "只有帳戶所有者或帳單管理員才能更改消費限額。"
 }

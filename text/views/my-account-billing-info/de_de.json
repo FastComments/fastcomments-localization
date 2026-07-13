@@ -64,5 +64,6 @@
     "ERROR_INVALID_LIMITS": "Mindestens einer der eingegebenen Grenzwerte ist ungültig.",
     "FLEX_LIMIT_EDIT": "Bearbeiten",
     "FLEX_LIMIT_MAX_VALUE": "Bis zu [amount]/Monat",
-    "FLEX_NEXT_INVOICE": "Nächster Rechnungsbetrag:"
+    "FLEX_NEXT_INVOICE": "Nächster Rechnungsbetrag:",
+    "ERROR_NOT_BILLING_ADMIN": "Nur der Kontoinhaber oder ein Abrechnungsadministrator kann Ausgabenlimits ändern."
 }

@@ -64,5 +64,6 @@
     "FLEX_LIMIT_NOT_CONFIGURED": "Ingen grænse konfigureret",
     "FLEX_LIMIT_EDIT": "Rediger",
     "FLEX_NEXT_INVOICE": "Næste fakturabeløb:",
-    "FLEX_LIMIT_MAX_VALUE": "Op til [amount]/md."
+    "FLEX_LIMIT_MAX_VALUE": "Op til [amount]/md.",
+    "ERROR_NOT_BILLING_ADMIN": "Kun kontoejeren eller en faktureringsadministrator kan ændre forbrugsgrænser."
 }

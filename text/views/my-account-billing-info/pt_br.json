@@ -64,5 +64,6 @@
     "FLEX_LIMIT_TITLE": "Limite de gastos mensais",
     "FLEX_LIMIT_NOT_CONFIGURED": "Nenhum limite configurado",
     "FLEX_LIMIT_EDIT": "Editar",
-    "FLEX_NEXT_INVOICE": "Valor da próxima fatura:"
+    "FLEX_NEXT_INVOICE": "Valor da próxima fatura:",
+    "ERROR_NOT_BILLING_ADMIN": "Somente o proprietário da conta ou um administrador de faturamento pode alterar os limites de gastos."
 }

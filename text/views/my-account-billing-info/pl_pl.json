@@ -64,5 +64,6 @@
     "ERROR_INVALID_LIMITS": "Jeden lub więcej z wprowadzonych limitów nie jest prawidłową liczbą.",
     "FLEX_LIMIT_NOT_CONFIGURED": "Brak skonfigurowanego limitu",
     "FLEX_LIMIT_MAX_VALUE": "Do [amount]/mies.",
-    "FLEX_NEXT_INVOICE": "Kwota następnej faktury:"
+    "FLEX_NEXT_INVOICE": "Kwota następnej faktury:",
+    "ERROR_NOT_BILLING_ADMIN": "Limity wydatków może zmieniać tylko właściciel konta lub administrator ds. rozliczeń."
 }
