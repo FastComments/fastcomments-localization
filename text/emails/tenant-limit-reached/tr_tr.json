@@ -1,0 +1,14 @@
+{
+    "BANNER_TEXT": "Kullanım Sınırına Ulaşıldı",
+    "FROM_NAME": "FastComments",
+    "META_USAGE": "Kullanım:",
+    "INTRO": "Hesabınız mevcut planınızın kullanım limitlerinden birine ulaştı. Limit değişene veya ay yenilenene kadar bu limiti aşan istekler reddedilir.",
+    "BODY_FIXED": "İşlemlerin sorunsuz devam etmesi için daha yüksek limitli bir plan seçin. Aşağıdaki düğme sizi doğrudan faturalama sayfanıza yönlendirecektir.",
+    "CTA_FIXED": "Daha büyük bir plan seçin",
+    "SUBJECT": "Hesabınız <%= limitName %> limitine ulaştı.",
+    "CHILD_TENANT_LINE": "Bu uyarı, hesabınız tarafından yönetilen bir kiracı olan <strong><%= childTenantName %></strong> içindir.",
+    "META_LIMIT": "Sınır:",
+    "SECONDARY_FIXED": "Özel bir şeye mi ihtiyacınız var? Destek talebi oluşturun, sizin için bir paket hazırlayalım.",
+    "BODY_FLEX": "Bu limit Flex paketinizde belirlenmiştir. Limitleri fatura sayfanız üzerinden yapılandırabilirsiniz. Limitleri ayarlamak için aşağıdaki düğmeyi kullanın.",
+    "CTA_FLEX": "Sınırlarınızı ayarlayın"
+}

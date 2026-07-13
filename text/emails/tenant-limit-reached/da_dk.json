@@ -1,0 +1,14 @@
+{
+    "INTRO": "Din konto har nået en af forbrugsgrænserne i den nuværende plan. Anmodninger over denne grænse afvises, indtil grænsen ændres, eller en ny måned begynder.",
+    "META_LIMIT": "Grænse:",
+    "META_USAGE": "Anvendelse:",
+    "SUBJECT": "Din konto har nået sin <%= limitName %> grænse",
+    "BANNER_TEXT": "Forbrugsgrænse nået",
+    "FROM_NAME": "FastComments",
+    "CHILD_TENANT_LINE": "Denne alarm er til <strong><%= childTenantName %></strong>, en lejer der administreres af din konto.",
+    "BODY_FIXED": "For at holde tingene kørende skal du vælge et abonnement med en højere grænse. Knappen nedenfor logger dig direkte ind på din faktureringsside.",
+    "CTA_FIXED": "Vælg en større plan",
+    "BODY_FLEX": "Denne grænse er indstillet på din Flex-pakke. Konfigurer grænser via din faktureringsside. Brug knappen nedenfor til at indstille dem.",
+    "SECONDARY_FIXED": "Har du brug for noget skræddersyet? Opret en supportanmodning, så sammensætter vi en pakke til dig.",
+    "CTA_FLEX": "Juster dine grænser"
+}

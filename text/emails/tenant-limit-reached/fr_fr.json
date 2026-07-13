@@ -1,0 +1,14 @@
+{
+    "BANNER_TEXT": "Limite d'utilisation atteinte",
+    "FROM_NAME": "FastComments",
+    "SUBJECT": "Votre compte a atteint sa limite <%= limitName %>",
+    "META_USAGE": "Usage:",
+    "META_LIMIT": "Limite:",
+    "CHILD_TENANT_LINE": "Cette alerte concerne <strong><%= childTenantName %></strong>, un locataire géré par votre compte.",
+    "INTRO": "Votre compte a atteint l'une des limites d'utilisation de votre forfait actuel. Les requêtes dépassant cette limite sont refusées jusqu'à ce que celle-ci soit modifiée ou que le mois suivant arrive à échéance.",
+    "CTA_FIXED": "Choisissez un forfait plus important",
+    "BODY_FLEX": "Cette limite est définie dans votre forfait Flex. Configurez les limites via votre page de facturation. Utilisez le bouton ci-dessous pour les définir.",
+    "CTA_FLEX": "Ajustez vos limites",
+    "SECONDARY_FIXED": "Besoin d'une solution personnalisée ? Ouvrez un ticket d'assistance et nous créerons un package pour vous.",
+    "BODY_FIXED": "Pour assurer la continuité du service, choisissez un forfait avec une limite plus élevée. Le bouton ci-dessous vous connecte directement à votre page de facturation."
+}

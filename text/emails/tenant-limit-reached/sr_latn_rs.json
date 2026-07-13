@@ -1,0 +1,14 @@
+{
+    "BANNER_TEXT": "Dostignuto je ograničenje korišćenja",
+    "FROM_NAME": "FastComments",
+    "META_LIMIT": "Ograničenje:",
+    "CHILD_TENANT_LINE": "Ovo upozorenje je za <strong><%= childTenantName %></strong>, stanara kojim upravlja vaš nalog.",
+    "BODY_FIXED": "Da bi stvari radile, izaberite plan sa višim limitom. Dugme ispod vas direktno prijavljuje na stranicu za naplatu.",
+    "SECONDARY_FIXED": "Treba vam nešto prilagođeno? Otvorite zahtev za podršku i mi ćemo napraviti paket za vas.",
+    "SUBJECT": "Vaš nalog je dostigao <%= limitName %> limit",
+    "META_USAGE": "Upotreba:",
+    "CTA_FIXED": "Izaberite veći plan",
+    "BODY_FLEX": "Ovo ograničenje je postavljeno na vašem Flex paketu. Konfigurišite ograničenja preko stranice za naplatu. Koristite dugme ispod da biste ih podesili.",
+    "INTRO": "Vaš nalog je dostigao jedno od ograničenja korišćenja svog trenutnog plana. Zahtevi preko ovog limita se odbijaju dok se limit ne promeni ili dok ne počne novi mesec.",
+    "CTA_FLEX": "Prilagodite ograničenja"
+}

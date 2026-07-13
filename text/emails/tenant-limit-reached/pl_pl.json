@@ -1,0 +1,14 @@
+{
+    "FROM_NAME": "FastComments",
+    "BANNER_TEXT": "Osiągnięto limit wykorzystania",
+    "SUBJECT": "Twoje konto osiągnęło limit <%= limitName %>",
+    "INTRO": "Twoje konto osiągnęło jeden z limitów wykorzystania bieżącego planu. Żądania przekraczające ten limit są odrzucane do momentu zmiany limitu lub rozpoczęcia nowego miesiąca.",
+    "META_USAGE": "Stosowanie:",
+    "META_LIMIT": "Limit:",
+    "CHILD_TENANT_LINE": "To powiadomienie dotyczy <strong><%= childTenantName %></strong>, podkonta zarządzanego przez Twoje konto.",
+    "BODY_FIXED": "Aby wszystko działało płynnie, wybierz plan z wyższym limitem. Poniższy przycisk przekieruje Cię bezpośrednio na stronę rozliczeń.",
+    "CTA_FIXED": "Wybierz większy plan",
+    "CTA_FLEX": "Dostosuj swoje limity",
+    "BODY_FLEX": "Ten limit jest ustawiony w Twoim pakiecie Flex. Skonfiguruj limity na stronie rozliczeniowej. Użyj poniższego przycisku, aby je ustawić.",
+    "SECONDARY_FIXED": "Potrzebujesz czegoś niestandardowego? Wyślij zgłoszenie do pomocy technicznej, a stworzymy dla Ciebie pakiet."
+}

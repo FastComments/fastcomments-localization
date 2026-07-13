@@ -1,0 +1,14 @@
+{
+    "FROM_NAME": "FastComments",
+    "BANNER_TEXT": "Límite de uso alcanzado",
+    "SUBJECT": "Tu cuenta alcanzó su límite de <%= limitName %>",
+    "META_LIMIT": "Límite:",
+    "INTRO": "Tu cuenta ha alcanzado uno de los límites de uso de tu plan actual. Las solicitudes que superen este límite son rechazadas hasta que el límite cambie o finalice el mes.",
+    "META_USAGE": "Uso:",
+    "CHILD_TENANT_LINE": "Esta alerta es para <strong><%= childTenantName %></strong>, un tenant gestionado por tu cuenta.",
+    "BODY_FIXED": "Para que todo siga funcionando, selecciona un plan con un límite superior. El botón de abajo te da acceso directo a tu página de facturación.",
+    "SECONDARY_FIXED": "¿Necesitas algo personalizado? Abre un ticket de soporte y te crearemos un paquete a medida.",
+    "CTA_FIXED": "Elige un plan más grande",
+    "BODY_FLEX": "Este límite está configurado en tu paquete Flex. Configura los límites a través de tu página de facturación. Usa el botón de abajo para configurarlos.",
+    "CTA_FLEX": "Ajusta tus límites"
+}

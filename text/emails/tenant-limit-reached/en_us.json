@@ -1,0 +1,14 @@
+{
+    "BANNER_TEXT": "Usage Limit Reached",
+    "FROM_NAME": "FastComments",
+    "SUBJECT": "Your account reached its <%= limitName %> limit",
+    "CHILD_TENANT_LINE": "This alert is for <strong><%= childTenantName %></strong>, a tenant managed by your account.",
+    "INTRO": "Your account reached one of the usage limits of its current plan. Requests over this limit are declined until the limit changes or the month rolls over.",
+    "META_LIMIT": "Limit:",
+    "META_USAGE": "Usage:",
+    "BODY_FIXED": "To keep things running, select a plan with a higher limit. The button below signs you into your billing page directly.",
+    "CTA_FIXED": "Choose a bigger plan",
+    "SECONDARY_FIXED": "Need something custom? Open a support ticket and we'll build a package for you.",
+    "BODY_FLEX": "This limit is set on your Flex package. Configure limits via your billing page. Use the button below to set them.",
+    "CTA_FLEX": "Adjust your limits"
+}

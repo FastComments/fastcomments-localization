@@ -1,0 +1,14 @@
+{
+    "SUBJECT": "Ihr Konto hat sein <%= limitName %> Limit erreicht.",
+    "BANNER_TEXT": "Nutzungslimit erreicht",
+    "FROM_NAME": "FastComments",
+    "CHILD_TENANT_LINE": "Diese Benachrichtigung betrifft <strong><%= childTenantName %></strong>, einen Mandanten, der von Ihrem Konto verwaltet wird.",
+    "META_LIMIT": "Limit:",
+    "META_USAGE": "Verwendung:",
+    "INTRO": "Ihr Konto hat eines der Nutzungslimits Ihres aktuellen Tarifs erreicht. Anfragen, die dieses Limit überschreiten, werden abgelehnt, bis sich das Limit ändert oder der neue Monat beginnt.",
+    "CTA_FIXED": "Wählen Sie einen größeren Tarif",
+    "BODY_FIXED": "Um den Betrieb aufrechtzuerhalten, wählen Sie einen Tarif mit höherem Limit. Über die Schaltfläche unten gelangen Sie direkt zu Ihrer Abrechnungsseite.",
+    "BODY_FLEX": "Dieses Limit ist in Ihrem Flex-Paket festgelegt. Sie können die Limits auf Ihrer Abrechnungsseite konfigurieren. Verwenden Sie die Schaltfläche unten, um sie festzulegen.",
+    "SECONDARY_FIXED": "Sie benötigen etwas Individuelles? Eröffnen Sie ein Support-Ticket und wir stellen Ihnen ein individuelles Paket zusammen.",
+    "CTA_FLEX": "Passen Sie Ihre Limits an"
+}

@@ -1,0 +1,14 @@
+{
+    "FROM_NAME": "FastComments",
+    "META_USAGE": "用量：",
+    "SUBJECT": "您的账户已达到<%= limitName %>限额",
+    "INTRO": "您的账户已达到当前套餐的使用限额之一。超出此限额的请求将被拒绝，直到限额变更或下个月到来。",
+    "BANNER_TEXT": "已达到使用限额",
+    "CHILD_TENANT_LINE": "此警报针对的是由您的帐户管理的租户<strong><%= childTenantName %></strong> 。",
+    "BODY_FIXED": "为了确保服务正常运行，请选择限额更高的套餐。点击下方按钮即可直接登录您的账单页面。",
+    "CTA_FIXED": "选择更大的套餐",
+    "SECONDARY_FIXED": "需要定制服务？请提交支持工单，我们将为您量身打造专属方案。",
+    "BODY_FLEX": "此限额已设置在您的 Flex 套餐中。您可以通过账单页面配置限额。使用下方按钮进行设置。",
+    "CTA_FLEX": "调整限额",
+    "META_LIMIT": "限额："
+}

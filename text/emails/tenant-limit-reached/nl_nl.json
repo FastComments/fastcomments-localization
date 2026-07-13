@@ -1,0 +1,14 @@
+{
+    "BANNER_TEXT": "Gebruikslimiet bereikt",
+    "SUBJECT": "Uw account heeft de limiet van <%= limitName %> bereikt.",
+    "META_LIMIT": "Limiet:",
+    "META_USAGE": "Gebruik:",
+    "FROM_NAME": "FastComments",
+    "INTRO": "Uw account heeft een van de gebruikslimieten van uw huidige abonnement bereikt. Verzoeken boven deze limiet worden geweigerd totdat de limiet wordt gewijzigd of de nieuwe maand begint.",
+    "CTA_FIXED": "Kies een groter abonnement",
+    "BODY_FIXED": "Om alles soepel te laten verlopen, kiest u een abonnement met een hogere limiet. Via de knop hieronder gaat u direct naar uw factuurpagina.",
+    "BODY_FLEX": "Deze limiet is ingesteld voor uw Flex-pakket. U kunt limieten configureren via uw factuurpagina. Gebruik de onderstaande knop om ze in te stellen.",
+    "CHILD_TENANT_LINE": "Deze melding is voor <strong><%= childTenantName %></strong>, een tenant die wordt beheerd door uw account.",
+    "CTA_FLEX": "Pas uw limieten aan",
+    "SECONDARY_FIXED": "Heeft u iets op maat nodig? Open een supportticket en wij stellen een pakket voor u samen."
+}

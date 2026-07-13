@@ -420,7 +420,8 @@
         "tenant-webhook-disabled": 6,
         "signup": 11,
         "commenting-api": 99,
-        "flex-limits-edit-dialog-component": 18
+        "flex-limits-edit-dialog-component": 18,
+        "tenant-limit-reached": 12
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -10989,5 +10990,19 @@
         "t16": "FLEX_LIMITS_SAVE_FAILED",
         "t17": "FLEX_LIMITS_TARGET_NOTE",
         "t18": "FLEX_LIMITS_CALCULATED_AMOUNT"
+    },
+    "tenant-limit-reached": {
+        "t1": "BANNER_TEXT",
+        "t2": "FROM_NAME",
+        "t3": "SUBJECT",
+        "t4": "CHILD_TENANT_LINE",
+        "t5": "INTRO",
+        "t6": "META_LIMIT",
+        "t7": "META_USAGE",
+        "t8": "BODY_FIXED",
+        "t9": "CTA_FIXED",
+        "t10": "SECONDARY_FIXED",
+        "t11": "BODY_FLEX",
+        "t12": "CTA_FLEX"
     }
 }
