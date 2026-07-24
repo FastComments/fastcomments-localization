@@ -80,5 +80,8 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Just-Comments"
+    "IMPORT_TYPE_JUST_COMMENTS": "Just-Comments",
+    "ERROR_INVALID_FILE_CUSDIS": "Izgleda da je taj fajl nevažeći. Za uvoz Cusdis-a, jednostavno otpremite datoteku \".json\" koju ste izvezli iz Cusdis-a.",
+    "IMPORT_TYPE_CUSDIS": "Bilten",
+    "CUSDIS": "Cusdis (.json)"
 }

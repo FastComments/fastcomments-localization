@@ -80,5 +80,8 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Just-Comments"
+    "IMPORT_TYPE_JUST_COMMENTS": "Just-Comments",
+    "IMPORT_TYPE_CUSDIS": "קוסדיס",
+    "CUSDIS": "קוסדיס (.json)",
+    "ERROR_INVALID_FILE_CUSDIS": "נראה שהקובץ הזה לא חוקי. עבור ייבוא Cusdis, פשוט העלה את קובץ ה-\".json\" שייצאת מ-Cusdis."
 }

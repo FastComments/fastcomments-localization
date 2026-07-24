@@ -80,5 +80,8 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Just-Comments"
+    "IMPORT_TYPE_JUST_COMMENTS": "Just-Comments",
+    "CUSDIS": "Cusdis (.json)",
+    "IMPORT_TYPE_CUSDIS": "Cusdis",
+    "ERROR_INVALID_FILE_CUSDIS": "Wygląda na to, że ten plik jest nieprawidłowy. W przypadku importu z Cusdis wystarczy przesłać plik „.json” wyeksportowany z Cusdis."
 }

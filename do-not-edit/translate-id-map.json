@@ -196,7 +196,7 @@
         "my-account-manage-data-copy-comments-table": 0,
         "my-account-manage-data-export": 27,
         "my-account-manage-data-export-table": 17,
-        "my-account-manage-data-import": 96,
+        "my-account-manage-data-import": 99,
         "my-account-manage-data-import-logs": 10,
         "my-account-manage-data-import-scheduled-comments": 53,
         "my-account-manage-data-import-scheduled-comments-table": 9,
@@ -4788,7 +4788,10 @@
         "t93": "ERROR_INVALID_FILE_ANYCOMMENT",
         "t94": "ERROR_ANYCOMMENT_URL_ID_FORMAT_REQUIRED",
         "t95": "ERROR_ANYCOMMENT_BASE_URL_REQUIRED",
-        "t96": "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED"
+        "t96": "ERROR_ANYCOMMENT_PROTOCOL_REQUIRED",
+        "t97": "IMPORT_TYPE_CUSDIS",
+        "t98": "CUSDIS",
+        "t99": "ERROR_INVALID_FILE_CUSDIS"
     },
     "my-account-manage-data-import-logs": {
         "t1": "TITLE",

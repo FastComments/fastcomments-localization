@@ -80,5 +80,8 @@
     "IMPORT_TYPE_WORDPRESS": "워드프레스",
     "IMPORT_TYPE_WORDPRESS_CSV": "워드프레스(CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "워드프레스(XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "댓글만"
+    "IMPORT_TYPE_JUST_COMMENTS": "댓글만",
+    "IMPORT_TYPE_CUSDIS": "쿠스디스",
+    "CUSDIS": "Cusdis(.json)",
+    "ERROR_INVALID_FILE_CUSDIS": "해당 파일이 유효하지 않은 것 같습니다. Cusdis에서 가져온 파일의 경우, Cusdis에서 내보낸 \".json\" 파일을 업로드하세요."
 }

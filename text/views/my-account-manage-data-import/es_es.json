@@ -80,5 +80,8 @@
     "ERROR_UPLOAD_FAILED": "No se pudo cargar el archivo. Inténtalo de nuevo más tarde.",
     "ERROR_CREATE_IMPORT_FAILED": "No pudimos crear la importación. Inténtalo de nuevo más tarde.",
     "ADVANCED_COMMENTO_DEDUPE_LABEL": "¿Omitir comentarios duplicados según el contenido?",
-    "ADVANCED_COMMENTO_DEDUPE_HINT": "Habilite esta opción para omitir la importación de comentarios con contenido muy similar a los comentarios existentes en la misma página. Resulta útil si ya ha importado algunos comentarios y desea evitar duplicados."
+    "ADVANCED_COMMENTO_DEDUPE_HINT": "Habilite esta opción para omitir la importación de comentarios con contenido muy similar a los comentarios existentes en la misma página. Resulta útil si ya ha importado algunos comentarios y desea evitar duplicados.",
+    "IMPORT_TYPE_CUSDIS": "Cusdis",
+    "CUSDIS": "Cusdis (.json)",
+    "ERROR_INVALID_FILE_CUSDIS": "Parece que ese archivo no es válido. Para importar desde Cusdis, simplemente suba el archivo \".json\" que exportó desde Cusdis."
 }

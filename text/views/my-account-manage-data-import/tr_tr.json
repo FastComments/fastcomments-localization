@@ -80,5 +80,8 @@
     "IMPORT_TYPE_WORDPRESS": "WordPress",
     "IMPORT_TYPE_WORDPRESS_CSV": "WordPress (CSV)",
     "IMPORT_TYPE_WORDPRESS_XML": "WordPress (XML)",
-    "IMPORT_TYPE_JUST_COMMENTS": "Just-Comments"
+    "IMPORT_TYPE_JUST_COMMENTS": "Just-Comments",
+    "CUSDIS": "Cusdis (.json)",
+    "IMPORT_TYPE_CUSDIS": "Cusdis",
+    "ERROR_INVALID_FILE_CUSDIS": "Dosya geçersiz görünüyor. Cusdis içe aktarımları için, Cusdis'ten dışa aktardığınız \".json\" dosyasını yüklemeniz yeterlidir."
 }
