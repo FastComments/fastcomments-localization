@@ -1,0 +1,19 @@
+{
+    "DPA_PRINT_DOCUMENT_TITLE": "FastComments データ処理契約",
+    "DPA_PRINT_HINT": "本契約をPDFとして保存するには、ブラウザの印刷ダイアログ（WindowsおよびLinuxではCtrl+P、macOSではCmd+P）を開き、出力先として「PDFに保存」を選択してください。",
+    "DPA_FORM_HEADING": "副署用の写しを作成する",
+    "DPA_FORM_INTRO": "お客様の組織の情報を入力すると、附属書Iが記入され署名できる状態になった本契約の写しを作成できます。入力された情報は文書の生成にのみ使用され、保存されません。",
+    "DPA_LABEL_ENTITY_NAME": "法人名",
+    "DPA_LABEL_ENTITY_ADDRESS": "登記上の住所",
+    "DPA_LABEL_ENTITY_COUNTRY": "国",
+    "DPA_LABEL_SIGNATORY_NAME": "署名者の氏名",
+    "DPA_LABEL_SIGNATORY_TITLE": "署名者の役職",
+    "DPA_LABEL_EMAIL": "データ保護に関する連絡先メールアドレス",
+    "DPA_BUTTON_OPEN_PRINTABLE": "印刷用の契約書を開く",
+    "DPA_LINK_READ_UNSIGNED": "情報を入力せずに契約書を読む",
+    "DPA_ERROR_REQUIRED": "この項目は必須です。",
+    "DPA_ERROR_TOO_LONG": "この値は長すぎます。",
+    "DPA_ERROR_INVALID_EMAIL": "有効なメールアドレスを入力してください。",
+    "DPA_ERROR_RATE_LIMITED": "リクエストが多すぎます。1分ほど待ってからもう一度お試しください。",
+    "DPA_ANNEX_PLACEHOLDER": "管理者が記入"
+}

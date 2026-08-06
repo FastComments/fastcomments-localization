@@ -1,0 +1,19 @@
+{
+    "DPA_PRINT_DOCUMENT_TITLE": "FastComments Veri İşleme Sözleşmesi",
+    "DPA_PRINT_HINT": "Bu sözleşmeyi PDF olarak kaydetmek için tarayıcınızın yazdırma penceresini açın (Windows ve Linux'ta Ctrl+P, macOS'ta Cmd+P) ve hedef olarak \"PDF olarak kaydet\" seçeneğini seçin.",
+    "DPA_FORM_HEADING": "Karşı imzaya hazır nüshanızı oluşturun",
+    "DPA_FORM_INTRO": "Bu sözleşmenin Ek I bölümü doldurulmuş ve imzanıza hazır bir nüshasını oluşturmak için kuruluşunuzun bilgilerini girin. Bilgileriniz yalnızca belgeyi oluşturmak için kullanılır ve saklanmaz.",
+    "DPA_LABEL_ENTITY_NAME": "Tüzel kişi unvanı",
+    "DPA_LABEL_ENTITY_ADDRESS": "Kayıtlı adres",
+    "DPA_LABEL_ENTITY_COUNTRY": "Ülke",
+    "DPA_LABEL_SIGNATORY_NAME": "İmza yetkilisinin adı",
+    "DPA_LABEL_SIGNATORY_TITLE": "İmza yetkilisinin unvanı",
+    "DPA_LABEL_EMAIL": "Veri koruma konuları için iletişim e-postası",
+    "DPA_BUTTON_OPEN_PRINTABLE": "Yazdırılabilir sözleşmeyi aç",
+    "DPA_LINK_READ_UNSIGNED": "Sözleşmeyi bilgilerinizi doldurmadan okuyun",
+    "DPA_ERROR_REQUIRED": "Bu alan zorunludur.",
+    "DPA_ERROR_TOO_LONG": "Bu değer çok uzun.",
+    "DPA_ERROR_INVALID_EMAIL": "Geçerli bir e-posta adresi girin.",
+    "DPA_ERROR_RATE_LIMITED": "Çok fazla istek gönderildi. Bir dakika bekleyip tekrar deneyin.",
+    "DPA_ANNEX_PLACEHOLDER": "Veri Sorumlusu tarafından doldurulacaktır"
+}
