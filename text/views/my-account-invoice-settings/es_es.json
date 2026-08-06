@@ -25,5 +25,12 @@
     "PLACEHOLDER_POSTAL_CODE": "Código Postal",
     "LABEL_COUNTRY": "País",
     "OPTION_SELECT_COUNTRY": "Seleccionar",
-    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "No se pudo actualizar la dirección de facturación en Stripe. Inténtalo de nuevo o contacta con el servicio de asistencia."
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "No se pudo actualizar la dirección de facturación en Stripe. Inténtalo de nuevo o contacta con el servicio de asistencia.",
+    "PLACEHOLDER_VAT_ID": "DE123456789",
+    "LABEL_VAT_ID": "NIF/Número de Identificación Fiscal",
+    "VAT_ID_HELP": "Opcional. Se imprime en sus facturas. Seleccione primero su país de facturación, ya que esto determina el tipo de identificación.",
+    "ERROR_VAT_ID_INVALID": "Ese número de IVA/identificación fiscal no es válido para el país de facturación seleccionado, por lo que no se guardó. El resto de la configuración sí se guardó.",
+    "ERROR_VAT_ID_COUNTRY_REQUIRED": "Seleccione su país de facturación antes de añadir un número de identificación fiscal (IVA/NIF). Sus demás ajustes se han guardado.",
+    "ERROR_VAT_ID_UPDATE_FAILED": "No pudimos guardar tu número de IVA con nuestro proveedor de pagos. Vuelve a intentarlo. Tus demás ajustes se guardaron correctamente.",
+    "ERROR_VAT_ID_COUNTRY_UNSUPPORTED": "No podemos registrar un número de IVA/identificación fiscal para el país de facturación seleccionado. Sus demás ajustes se guardaron."
 }

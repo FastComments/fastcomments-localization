@@ -25,5 +25,12 @@
     "PLACEHOLDER_POSTAL_CODE": "Posta Kodu",
     "LABEL_COUNTRY": "Ülke",
     "OPTION_SELECT_COUNTRY": "Seçin",
-    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Stripe'ta fatura adresini güncelleme işlemi başarısız oldu. Lütfen tekrar deneyin veya destek ekibiyle iletişime geçin."
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Stripe'ta fatura adresini güncelleme işlemi başarısız oldu. Lütfen tekrar deneyin veya destek ekibiyle iletişime geçin.",
+    "PLACEHOLDER_VAT_ID": "DE123456789",
+    "LABEL_VAT_ID": "KDV / Vergi Kimlik Numarası",
+    "ERROR_VAT_ID_COUNTRY_REQUIRED": "KDV/Vergi Kimlik Numarası eklemeden önce fatura ülkenizi seçin. Diğer ayarlarınız kaydedildi.",
+    "VAT_ID_HELP": "İsteğe bağlı. Faturalarınızda basılır. Kimlik türünü belirlediği için öncelikle faturalama ülkenizi seçin.",
+    "ERROR_VAT_ID_INVALID": "Bu KDV/Vergi Kimlik numarası seçilen fatura ülkesi için geçerli değil, bu nedenle kaydedilmedi. Diğer ayarlarınız kaydedildi.",
+    "ERROR_VAT_ID_COUNTRY_UNSUPPORTED": "Seçilen fatura ülkesi için KDV/Vergi Kimlik Numarası kaydedilemiyor. Diğer ayarlarınız kaydedildi.",
+    "ERROR_VAT_ID_UPDATE_FAILED": "Ödeme sağlayıcımız aracılığıyla KDV/Vergi Kimlik numaranızı kaydedemedik. Lütfen tekrar deneyin. Diğer ayarlarınız kaydedildi."
 }

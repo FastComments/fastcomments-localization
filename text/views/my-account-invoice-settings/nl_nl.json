@@ -25,5 +25,12 @@
     "PLACEHOLDER_POSTAL_CODE": "Postcode",
     "LABEL_COUNTRY": "Land",
     "OPTION_SELECT_COUNTRY": "Selecteren",
-    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Het bijwerken van het factuuradres in Stripe is mislukt. Probeer het opnieuw of neem contact op met de klantenservice."
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Het bijwerken van het factuuradres in Stripe is mislukt. Probeer het opnieuw of neem contact op met de klantenservice.",
+    "LABEL_VAT_ID": "BTW-nummer / Belastingnummer",
+    "PLACEHOLDER_VAT_ID": "DE123456789",
+    "VAT_ID_HELP": "Optioneel. Wordt afgedrukt op uw facturen. Selecteer eerst uw factureringsland, aangezien dit het ID-type bepaalt.",
+    "ERROR_VAT_ID_COUNTRY_REQUIRED": "Selecteer uw factureringsland voordat u een btw-nummer toevoegt. Uw overige instellingen zijn opgeslagen.",
+    "ERROR_VAT_ID_INVALID": "Dat btw-nummer is niet geldig voor het geselecteerde factureringsland en is daarom niet opgeslagen. Uw overige instellingen zijn wel opgeslagen.",
+    "ERROR_VAT_ID_UPDATE_FAILED": "We konden uw btw-nummer niet opslaan bij onze betalingsprovider. Probeer het later opnieuw. Uw overige instellingen zijn wel opgeslagen.",
+    "ERROR_VAT_ID_COUNTRY_UNSUPPORTED": "We kunnen geen btw-nummer/belastingnummer registreren voor het geselecteerde factureringsland. Uw overige instellingen zijn wel opgeslagen."
 }

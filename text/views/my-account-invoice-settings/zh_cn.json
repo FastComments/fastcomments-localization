@@ -25,5 +25,12 @@
     "LABEL_COUNTRY": "国家",
     "OPTION_SELECT_COUNTRY": "选择",
     "ERROR_STRIPE_UPDATE_FAILED": "Stripe 中的账单邮箱更新失败。请重试或联系客服。",
-    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Stripe 中的账单地址更新失败。请重试或联系客服。"
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Stripe 中的账单地址更新失败。请重试或联系客服。",
+    "LABEL_VAT_ID": "增值税/税务识别号",
+    "VAT_ID_HELP": "可选。将打印在您的发票上。请先选择您的账单国家/地区，因为这将决定 ID 类型。",
+    "PLACEHOLDER_VAT_ID": "DE123456789",
+    "ERROR_VAT_ID_COUNTRY_REQUIRED": "请先选择您的账单国家/地区，然后再添加增值税/税务识别号。您的其他设置已保存。",
+    "ERROR_VAT_ID_INVALID": "该增值税/税号在所选账单国家/地区无效，因此未保存。您的其他设置已保存。",
+    "ERROR_VAT_ID_UPDATE_FAILED": "我们无法将您的增值税/税务识别号保存到我们的支付服务商处。请稍后再试。您的其他设置已保存。",
+    "ERROR_VAT_ID_COUNTRY_UNSUPPORTED": "我们无法为所选账单国家/地区录入增值税/税务识别号。您的其他设置已保存。"
 }

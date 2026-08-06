@@ -25,5 +25,12 @@
     "PLACEHOLDER_POSTAL_CODE": "Poštanski broj",
     "LABEL_COUNTRY": "Država",
     "OPTION_SELECT_COUNTRY": "Izaberite",
-    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Ažuriranje adrese za naplatu u Stripe-u nije uspelo. Pokušajte ponovo ili kontaktirajte podršku."
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Ažuriranje adrese za naplatu u Stripe-u nije uspelo. Pokušajte ponovo ili kontaktirajte podršku.",
+    "VAT_ID_HELP": "Opciono. Odštampano na vašim fakturama. Prvo izaberite zemlju za naplatu, jer ona određuje tip ID-a.",
+    "ERROR_VAT_ID_INVALID": "Taj PDV / poreski broj ne važi za izabranu zemlju naplate, tako da nije sačuvan. Vaša druga podešavanja su sačuvana.",
+    "ERROR_VAT_ID_COUNTRY_REQUIRED": "Izaberite zemlju naplate pre dodavanja PDV-a / poreskog broja. Vaša druga podešavanja su sačuvana.",
+    "LABEL_VAT_ID": "PDV / Poreski broj",
+    "PLACEHOLDER_VAT_ID": "DE123456789",
+    "ERROR_VAT_ID_COUNTRY_UNSUPPORTED": "Ne možemo da zabeležimo PDV / poreski broj za izabranu zemlju naplate. Vaša druga podešavanja su sačuvana.",
+    "ERROR_VAT_ID_UPDATE_FAILED": "Nismo mogli da sačuvamo vaš PDV / poreski broj kod našeg provajdera plaćanja. Pokušajte ponovo. Vaša druga podešavanja su sačuvana."
 }

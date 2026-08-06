@@ -25,5 +25,12 @@
     "PLACEHOLDER_POSTAL_CODE": "Kod pocztowy",
     "LABEL_COUNTRY": "Kraj",
     "OPTION_SELECT_COUNTRY": "Wybierz",
-    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Nie udało się zaktualizować adresu rozliczeniowego w Stripe. Spróbuj ponownie lub skontaktuj się z pomocą techniczną."
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Nie udało się zaktualizować adresu rozliczeniowego w Stripe. Spróbuj ponownie lub skontaktuj się z pomocą techniczną.",
+    "LABEL_VAT_ID": "NIP / Identyfikator podatkowy",
+    "PLACEHOLDER_VAT_ID": "DE123456789",
+    "ERROR_VAT_ID_UPDATE_FAILED": "Nie udało nam się zapisać Twojego numeru VAT/NIP u naszego dostawcy usług płatniczych. Spróbuj ponownie. Twoje pozostałe ustawienia zostały zapisane.",
+    "VAT_ID_HELP": "Opcjonalnie. Drukowane na fakturach. Najpierw wybierz kraj rozliczenia, ponieważ określa on typ identyfikatora.",
+    "ERROR_VAT_ID_INVALID": "Ten numer VAT/NIP nie jest prawidłowy dla wybranego kraju rozliczenia, dlatego nie został zapisany. Pozostałe ustawienia zostały zapisane.",
+    "ERROR_VAT_ID_COUNTRY_UNSUPPORTED": "Nie możemy zarejestrować numeru VAT/NIP dla wybranego kraju rozliczenia. Pozostałe ustawienia zostały zapisane.",
+    "ERROR_VAT_ID_COUNTRY_REQUIRED": "Wybierz kraj rozliczenia przed dodaniem numeru VAT/NIP. Pozostałe ustawienia zostały zapisane."
 }

@@ -25,5 +25,12 @@
     "PLACEHOLDER_POSTAL_CODE": "우편번호",
     "LABEL_COUNTRY": "국가",
     "OPTION_SELECT_COUNTRY": "선택",
-    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Stripe에서 결제 주소 업데이트에 실패했습니다. 다시 시도하거나 고객 지원팀에 문의하세요."
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Stripe에서 결제 주소 업데이트에 실패했습니다. 다시 시도하거나 고객 지원팀에 문의하세요.",
+    "LABEL_VAT_ID": "부가가치세/세금 ID",
+    "PLACEHOLDER_VAT_ID": "DE123456789",
+    "VAT_ID_HELP": "선택 사항입니다. 청구서에 인쇄됩니다. ID 유형을 결정하므로 먼저 청구 국가를 선택하십시오.",
+    "ERROR_VAT_ID_INVALID": "해당 부가가치세/세금 식별 번호는 선택한 청구 국가에서 유효하지 않으므로 저장되지 않았습니다. 다른 설정은 저장되었습니다.",
+    "ERROR_VAT_ID_COUNTRY_REQUIRED": "부가가치세/세금 ID를 추가하기 전에 청구 국가를 선택하세요. 다른 설정은 저장되었습니다.",
+    "ERROR_VAT_ID_UPDATE_FAILED": "결제 시스템에 고객님의 부가가치세/세금 식별 번호를 저장할 수 없습니다. 다시 시도해 주세요. 다른 설정은 저장되었습니다.",
+    "ERROR_VAT_ID_COUNTRY_UNSUPPORTED": "선택하신 청구 국가에 대한 부가가치세/세금 ID를 등록할 수 없습니다. 다른 설정은 저장되었습니다."
 }

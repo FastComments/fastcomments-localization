@@ -25,5 +25,12 @@
     "PLACEHOLDER_POSTAL_CODE": "郵遞區號",
     "LABEL_COUNTRY": "國家",
     "OPTION_SELECT_COUNTRY": "選擇",
-    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Stripe 中的帳單地址更新失敗。請重試或聯絡客服。"
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Stripe 中的帳單地址更新失敗。請重試或聯絡客服。",
+    "LABEL_VAT_ID": "增值稅/稅務識別號",
+    "PLACEHOLDER_VAT_ID": "DE123456789",
+    "ERROR_VAT_ID_COUNTRY_REQUIRED": "請先選擇您的帳單國家/地區，然後再新增增值稅/稅務識別號碼。您的其他設定已儲存。",
+    "VAT_ID_HELP": "可選。將列印在您的發票上。請先選擇您的帳單國家/地區，因為這將決定 ID 類型。",
+    "ERROR_VAT_ID_INVALID": "此增值稅/稅號在所選帳單國家/地區無效，因此未保存。您的其他設定已儲存。",
+    "ERROR_VAT_ID_UPDATE_FAILED": "我們無法將您的增值稅/稅務識別號碼儲存到我們的支付服務商。請稍後再試。您的其他設定已儲存。",
+    "ERROR_VAT_ID_COUNTRY_UNSUPPORTED": "我們無法為所選帳單國家/地區輸入增值稅/稅務識別號碼。您的其他設定已儲存。"
 }

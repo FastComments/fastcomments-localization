@@ -25,5 +25,12 @@
     "PLACEHOLDER_POSTAL_CODE": "郵便番号",
     "LABEL_COUNTRY": "国",
     "OPTION_SELECT_COUNTRY": "選択",
-    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Stripeで請求先住所を更新できませんでした。もう一度お試しいただくか、サポートにお問い合わせください。"
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Stripeで請求先住所を更新できませんでした。もう一度お試しいただくか、サポートにお問い合わせください。",
+    "VAT_ID_HELP": "オプション。請求書に印刷されます。IDの種類が決まるため、まず請求先の国を選択してください。",
+    "LABEL_VAT_ID": "VAT番号／納税者番号",
+    "PLACEHOLDER_VAT_ID": "DE123456789",
+    "ERROR_VAT_ID_COUNTRY_REQUIRED": "VAT番号／納税者番号を追加する前に、請求先の国を選択してください。その他の設定は保存されました。",
+    "ERROR_VAT_ID_INVALID": "そのVAT番号／納税者番号は、選択された請求国では有効ではないため、保存されませんでした。その他の設定は保存されています。",
+    "ERROR_VAT_ID_COUNTRY_UNSUPPORTED": "選択された請求国に対応するVAT番号／納税者番号を登録できません。その他の設定は保存されました。",
+    "ERROR_VAT_ID_UPDATE_FAILED": "お客様のVAT番号／納税者番号を決済プロバイダーに保存できませんでした。もう一度お試しください。その他の設定は保存されています。"
 }

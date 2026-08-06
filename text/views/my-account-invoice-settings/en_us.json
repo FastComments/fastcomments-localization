@@ -24,6 +24,13 @@
     "PLACEHOLDER_POSTAL_CODE": "Postal Code",
     "LABEL_COUNTRY": "Country",
     "OPTION_SELECT_COUNTRY": "Select",
+    "LABEL_VAT_ID": "VAT / Tax ID",
+    "PLACEHOLDER_VAT_ID": "DE123456789",
+    "VAT_ID_HELP": "Optional. Printed on your invoices. Select your billing country first, since it determines the ID type.",
+    "ERROR_VAT_ID_INVALID": "That VAT / Tax ID isn't valid for the selected billing country, so it wasn't saved. Your other settings were saved.",
+    "ERROR_VAT_ID_COUNTRY_REQUIRED": "Select your billing country before adding a VAT / Tax ID. Your other settings were saved.",
+    "ERROR_VAT_ID_COUNTRY_UNSUPPORTED": "We can't record a VAT / Tax ID for the selected billing country. Your other settings were saved.",
+    "ERROR_VAT_ID_UPDATE_FAILED": "We couldn't save your VAT / Tax ID with our payment provider. Please try again. Your other settings were saved.",
     "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
     "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Failed to update billing address in Stripe. Please try again or contact support."
 }

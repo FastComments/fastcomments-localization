@@ -127,7 +127,7 @@
         "login-success": 9,
         "login-two-factor": 18,
         "maintenance-page": 4,
-        "marketing_common": 155,
+        "marketing_common": 156,
         "moderator-join-failure": 9,
         "moderator-join-success": 6,
         "my-account": 5,
@@ -315,7 +315,7 @@
         "render-error-item": 3,
         "user-permissions": 27,
         "comment-log-dialog": 98,
-        "my-account-invoice-settings": 27,
+        "my-account-invoice-settings": 34,
         "my-account-rss": 10,
         "import-logs": 3,
         "tenant-conversion-outreach": 12,
@@ -344,7 +344,7 @@
         "my-account-site-media": 18,
         "large-sites": 43,
         "my-account-site-collection-item-delete": 8,
-        "how-to-add-comments-to-a-website": 84,
+        "how-to-add-comments-to-a-website": 86,
         "trust-factor-dialog-component": 9,
         "new-ip-login": 11,
         "my-account-backup-email": 18,
@@ -362,7 +362,7 @@
         "my-account-canvas-lti-config-delete": 5,
         "my-account-canvas-lti-config-enable": 1,
         "my-account-canvas-lti-config-setup": 1,
-        "tickets": 79,
+        "tickets": 80,
         "tickets-admin": 13,
         "demo-ticketing": 11,
         "my-account-configure-domains-edit": 17,
@@ -421,7 +421,10 @@
         "signup": 11,
         "commenting-api": 99,
         "flex-limits-edit-dialog-component": 18,
-        "tenant-limit-reached": 12
+        "tenant-limit-reached": 12,
+        "live-demo": 4,
+        "image-upload": 1,
+        "dpa": 17
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -3214,7 +3217,8 @@
         "t152": "PUBLIC_NAV_ITEM_COMMENTING_API",
         "t153": "PUBLIC_NAV_ITEM_COMMENTING_API_DESC",
         "t154": "FAQ_FLEX_SPEND_LIMIT",
-        "t155": "FAQ_FLEX_SPEND_LIMIT_ANSWER"
+        "t155": "FAQ_FLEX_SPEND_LIMIT_ANSWER",
+        "t156": "PUBLIC_NAV_ITEM_DPA"
     },
     "moderator-join-failure": {
         "t1": "PAGE_TITLE",
@@ -6992,7 +6996,14 @@
         "t24": "ERROR_STRIPE_ADDRESS_UPDATE_FAILED",
         "t25": "LABEL_COMPANY_NAME",
         "t26": "COMPANY_NAME_HELP",
-        "t27": "ERROR_COMPANY_NAME_REQUIRED"
+        "t27": "ERROR_COMPANY_NAME_REQUIRED",
+        "t28": "LABEL_VAT_ID",
+        "t29": "PLACEHOLDER_VAT_ID",
+        "t30": "VAT_ID_HELP",
+        "t31": "ERROR_VAT_ID_INVALID",
+        "t32": "ERROR_VAT_ID_COUNTRY_REQUIRED",
+        "t33": "ERROR_VAT_ID_COUNTRY_UNSUPPORTED",
+        "t34": "ERROR_VAT_ID_UPDATE_FAILED"
     },
     "my-account-rss": {
         "t1": "PAGE_TITLE",
@@ -7965,7 +7976,9 @@
         "t81": "SNIPPET_HEADING",
         "t82": "SNIPPET_SELECT_PLATFORM",
         "t83": "SNIPPET_COPY_TITLE",
-        "t84": "SNIPPET_COPIED"
+        "t84": "SNIPPET_COPIED",
+        "t85": "STEP_1_DOCS_LINK",
+        "t86": "STEP_3_CTA"
     },
     "trust-factor-dialog-component": {
         "t1": "TRUST_FACTOR_DIALOG_TITLE",
@@ -8590,7 +8603,8 @@
         "t76": "DURATION_A_WEEK",
         "t77": "DURATION_WEEKS",
         "t78": "DURATION_MONTHS",
-        "t79": "DURATION_YEARS"
+        "t79": "DURATION_YEARS",
+        "t80": "SERVICE_REP_GENERIC"
     },
     "tickets-admin": {
         "t1": "TITLE",
@@ -11033,5 +11047,33 @@
         "t10": "SECONDARY_FIXED",
         "t11": "BODY_FLEX",
         "t12": "CTA_FLEX"
+    },
+    "live-demo": {
+        "t1": "SECTION_LIVE_DEMO_TITLE_LIGHT",
+        "t2": "SECTION_LIVE_DEMO_TITLE_BOLD",
+        "t3": "SECTION_LIVE_DEMO_SUBTITLE",
+        "t4": "SECTION_LIVE_DEMO_HINT"
+    },
+    "image-upload": {
+        "t1": "ERROR_IMAGE_TOO_LARGE"
+    },
+    "dpa": {
+        "t1": "DPA_PRINT_DOCUMENT_TITLE",
+        "t2": "DPA_PRINT_HINT",
+        "t3": "DPA_FORM_HEADING",
+        "t4": "DPA_FORM_INTRO",
+        "t5": "DPA_LABEL_ENTITY_NAME",
+        "t6": "DPA_LABEL_ENTITY_ADDRESS",
+        "t7": "DPA_LABEL_ENTITY_COUNTRY",
+        "t8": "DPA_LABEL_SIGNATORY_NAME",
+        "t9": "DPA_LABEL_SIGNATORY_TITLE",
+        "t10": "DPA_LABEL_EMAIL",
+        "t11": "DPA_BUTTON_OPEN_PRINTABLE",
+        "t12": "DPA_LINK_READ_UNSIGNED",
+        "t13": "DPA_ERROR_REQUIRED",
+        "t14": "DPA_ERROR_TOO_LONG",
+        "t15": "DPA_ERROR_INVALID_EMAIL",
+        "t16": "DPA_ERROR_RATE_LIMITED",
+        "t17": "DPA_ANNEX_PLACEHOLDER"
     }
 }

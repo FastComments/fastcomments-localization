@@ -25,5 +25,12 @@
     "PLACEHOLDER_POSTAL_CODE": "Code postal",
     "LABEL_COUNTRY": "Pays",
     "OPTION_SELECT_COUNTRY": "Sélectionner",
-    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Impossible de mettre à jour l'adresse de facturation dans Stripe. Veuillez réessayer ou contacter l'assistance."
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Impossible de mettre à jour l'adresse de facturation dans Stripe. Veuillez réessayer ou contacter l'assistance.",
+    "PLACEHOLDER_VAT_ID": "DE123456789",
+    "LABEL_VAT_ID": "Numéro de TVA / d'identification fiscale",
+    "VAT_ID_HELP": "Facultatif. Imprimé sur vos factures. Veuillez d'abord sélectionner votre pays de facturation, car il détermine le type d'identifiant.",
+    "ERROR_VAT_ID_INVALID": "Ce numéro de TVA intracommunautaire n'est pas valide pour le pays de facturation sélectionné ; il n'a donc pas été enregistré. Vos autres paramètres ont été enregistrés.",
+    "ERROR_VAT_ID_UPDATE_FAILED": "Nous n'avons pas pu enregistrer votre numéro de TVA intracommunautaire auprès de notre prestataire de paiement. Veuillez réessayer. Vos autres paramètres ont été enregistrés.",
+    "ERROR_VAT_ID_COUNTRY_UNSUPPORTED": "Impossible d'enregistrer un numéro de TVA intracommunautaire pour le pays de facturation sélectionné. Vos autres paramètres ont été enregistrés.",
+    "ERROR_VAT_ID_COUNTRY_REQUIRED": "Veuillez sélectionner votre pays de facturation avant d'ajouter un numéro de TVA intracommunautaire. Vos autres paramètres ont été enregistrés."
 }

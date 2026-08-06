@@ -25,5 +25,12 @@
     "PLACEHOLDER_POSTAL_CODE": "Postnummer",
     "LABEL_COUNTRY": "Land",
     "OPTION_SELECT_COUNTRY": "Vælg",
-    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Faktureringsadressen i Stripe kunne ikke opdateres. Prøv igen, eller kontakt support."
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Faktureringsadressen i Stripe kunne ikke opdateres. Prøv igen, eller kontakt support.",
+    "LABEL_VAT_ID": "Moms-/skattenummer",
+    "PLACEHOLDER_VAT_ID": "DE123456789",
+    "VAT_ID_HELP": "Valgfrit. Trykt på dine fakturaer. Vælg dit faktureringsland først, da det bestemmer ID-typen.",
+    "ERROR_VAT_ID_COUNTRY_REQUIRED": "Vælg dit faktureringsland, før du tilføjer et moms-/skatte-ID. Dine andre indstillinger blev gemt.",
+    "ERROR_VAT_ID_INVALID": "Det moms-/skatte-ID er ikke gyldigt for det valgte faktureringsland, så det blev ikke gemt. Dine andre indstillinger blev gemt.",
+    "ERROR_VAT_ID_COUNTRY_UNSUPPORTED": "Vi kan ikke registrere et moms-/skatte-ID for det valgte faktureringsland. Dine andre indstillinger blev gemt.",
+    "ERROR_VAT_ID_UPDATE_FAILED": "Vi kunne ikke gemme dit moms-/skatte-ID hos vores betalingsudbyder. Prøv igen. Dine andre indstillinger blev gemt."
 }

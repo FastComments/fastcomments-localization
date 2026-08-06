@@ -25,5 +25,12 @@
     "PLACEHOLDER_POSTAL_CODE": "Postleitzahl",
     "LABEL_COUNTRY": "Land",
     "OPTION_SELECT_COUNTRY": "Wählen",
-    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Die Aktualisierung der Rechnungsadresse in Stripe ist fehlgeschlagen. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support."
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Die Aktualisierung der Rechnungsadresse in Stripe ist fehlgeschlagen. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support.",
+    "LABEL_VAT_ID": "Umsatzsteuer-Identifikationsnummer",
+    "ERROR_VAT_ID_INVALID": "Diese Umsatzsteuer-Identifikationsnummer ist für das ausgewählte Rechnungsland ungültig und wurde daher nicht gespeichert. Ihre übrigen Einstellungen wurden gespeichert.",
+    "ERROR_VAT_ID_COUNTRY_UNSUPPORTED": "Für das ausgewählte Rechnungsland konnte keine Umsatzsteuer-Identifikationsnummer erfasst werden. Ihre übrigen Einstellungen wurden gespeichert.",
+    "VAT_ID_HELP": "Optional. Wird auf Ihren Rechnungen abgedruckt. Wählen Sie zuerst Ihr Rechnungsland aus, da dieses den ID-Typ bestimmt.",
+    "ERROR_VAT_ID_COUNTRY_REQUIRED": "Wählen Sie Ihr Rechnungsland aus, bevor Sie eine Umsatzsteuer-Identifikationsnummer hinzufügen. Ihre übrigen Einstellungen wurden gespeichert.",
+    "PLACEHOLDER_VAT_ID": "DE123456789",
+    "ERROR_VAT_ID_UPDATE_FAILED": "Ihre Umsatzsteuer-Identifikationsnummer konnte bei unserem Zahlungsanbieter nicht gespeichert werden. Bitte versuchen Sie es erneut. Ihre übrigen Einstellungen wurden gespeichert."
 }

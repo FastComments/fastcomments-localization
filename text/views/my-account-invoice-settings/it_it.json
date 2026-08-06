@@ -25,5 +25,12 @@
     "PLACEHOLDER_POSTAL_CODE": "Codice Postale",
     "LABEL_COUNTRY": "Paese",
     "OPTION_SELECT_COUNTRY": "Seleziona",
-    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Impossibile aggiornare l'indirizzo di fatturazione su Stripe. Riprova o contatta l'assistenza."
+    "ERROR_STRIPE_ADDRESS_UPDATE_FAILED": "Impossibile aggiornare l'indirizzo di fatturazione su Stripe. Riprova o contatta l'assistenza.",
+    "LABEL_VAT_ID": "Partita IVA / Codice Fiscale",
+    "PLACEHOLDER_VAT_ID": "DE123456789",
+    "ERROR_VAT_ID_INVALID": "La partita IVA/codice fiscale non è valida per il paese di fatturazione selezionato, pertanto non è stata salvata. Le altre impostazioni sono state salvate.",
+    "ERROR_VAT_ID_COUNTRY_REQUIRED": "Seleziona il tuo Paese di fatturazione prima di aggiungere la partita IVA/il codice fiscale. Le altre impostazioni sono state salvate.",
+    "ERROR_VAT_ID_UPDATE_FAILED": "Non è stato possibile salvare la tua partita IVA/codice fiscale con il nostro fornitore di servizi di pagamento. Riprova. Le altre impostazioni sono state salvate correttamente.",
+    "ERROR_VAT_ID_COUNTRY_UNSUPPORTED": "Non è possibile registrare un codice IVA/partita IVA per il paese di fatturazione selezionato. Le altre impostazioni sono state salvate.",
+    "VAT_ID_HELP": "Facoltativo. Verrà stampato sulle fatture. Seleziona prima il tuo paese di fatturazione, poiché determina il tipo di ID."
 }
