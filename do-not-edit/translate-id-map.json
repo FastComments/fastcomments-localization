@@ -49,7 +49,7 @@
         "comment-ui-error-unauthorized-link-domain": 1,
         "comment-ui-error-language-not-allowed": 1,
         "tenant-new-referral": 8,
-        "reviews-summary": 4,
+        "reviews-summary": 10,
         "tenant-signup-welcome": 7,
         "badge-award": 11,
         "profile-comment-awaiting-approval": 6,
@@ -1286,7 +1286,13 @@
         "t1": "AI_SUMMARY",
         "t2": "REVIEWS_COUNT",
         "t3": "REVIEWS_COUNT_SINGULAR",
-        "t4": "REVIEWS_COUNT_PLURAL"
+        "t4": "REVIEWS_COUNT_PLURAL",
+        "t5": "BREAKDOWN_NPS_SCORE",
+        "t6": "BREAKDOWN_PROMOTERS",
+        "t7": "BREAKDOWN_PASSIVES",
+        "t8": "BREAKDOWN_DETRACTORS",
+        "t9": "BREAKDOWN_THUMBS_UP",
+        "t10": "BREAKDOWN_THUMBS_DOWN"
     },
     "comment-ui-questions": {
         "t303": "ALREADY_LEFT_REVIEW",
