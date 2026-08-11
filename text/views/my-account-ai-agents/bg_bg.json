@@ -433,5 +433,16 @@
     "ACTION_HIDE_RELATED_COMMENT": "Скриване на свързан коментар",
     "TOOL_GET_PINNED_COMMENTS": "Списък с закачени коментари на текущата страница",
     "TOOL_GET_LOCKED_COMMENTS": "Списък с заключени коментари на текущата страница",
-    "MODEL_OPTION_GLM_5_2": "GLM 5.2 (DeepInfra) - По-интелигентен, малко по-бавен"
+    "MODEL_OPTION_GLM_5_2": "GLM 5.2 (DeepInfra) - По-интелигентен, малко по-бавен",
+    "RUN_TABLE_UNKNOWN_TRIGGER": "Неизвестен тригер",
+    "RUN_TABLE_COMMENT": "Коментар",
+    "RUN_TABLE_NO_COMMENT": "Няма коментар",
+    "RUN_TABLE_USER": "Потребител",
+    "TRIGGER_REPLAY": "Тестово изпълнение повтаря предишен коментар",
+    "RUN_TABLE_NO_ACTIONS": "Няма действия",
+    "RUN_TABLE_UNKNOWN_USER": "Неизвестен потребител",
+    "RUN_TABLE_TRIGGER": "Тригер",
+    "RUN_TABLE_COMMENT_DELETED": "Коментарът е изтрит",
+    "RUN_TABLE_MORE_ACTIONS": "още [count]",
+    "RUN_TABLE_AVATAR_ALT": "Аватар на коментатора"
 }

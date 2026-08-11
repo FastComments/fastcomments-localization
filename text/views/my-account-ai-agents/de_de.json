@@ -433,5 +433,16 @@
     "ACTION_HIDE_RELATED_COMMENT": "Verwandten Kommentar ausblenden",
     "TOOL_GET_PINNED_COMMENTS": "Liste der angehefteten Kommentare auf der aktuellen Seite",
     "TOOL_GET_LOCKED_COMMENTS": "Liste der gesperrten Kommentare auf der aktuellen Seite",
-    "MODEL_OPTION_GLM_5_2": "GLM 5.2 (DeepInfra) – Intelligenter, etwas langsamer"
+    "MODEL_OPTION_GLM_5_2": "GLM 5.2 (DeepInfra) – Intelligenter, etwas langsamer",
+    "TRIGGER_REPLAY": "Ein Testlauf spielt einen früheren Kommentar wieder ab",
+    "RUN_TABLE_USER": "Benutzer",
+    "RUN_TABLE_TRIGGER": "Auslöser",
+    "RUN_TABLE_COMMENT": "Kommentar",
+    "RUN_TABLE_UNKNOWN_TRIGGER": "Unbekannt",
+    "RUN_TABLE_MORE_ACTIONS": "+[count] weitere",
+    "RUN_TABLE_NO_ACTIONS": "Keine Aktionen",
+    "RUN_TABLE_NO_COMMENT": "Kein Kommentar",
+    "RUN_TABLE_UNKNOWN_USER": "Unbekannter Benutzer",
+    "RUN_TABLE_COMMENT_DELETED": "Kommentar gelöscht",
+    "RUN_TABLE_AVATAR_ALT": "Avatar des Kommentators"
 }

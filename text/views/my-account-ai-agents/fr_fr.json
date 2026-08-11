@@ -433,5 +433,16 @@
     "ACTION_HIDE_RELATED_COMMENT": "Masquer le commentaire associé",
     "TOOL_GET_PINNED_COMMENTS": "Liste des commentaires épinglés sur la page actuelle",
     "TOOL_GET_LOCKED_COMMENTS": "Liste des commentaires verrouillés sur la page actuelle",
-    "MODEL_OPTION_GLM_5_2": "GLM 5.2 (DeepInfra) - Plus intelligent, un peu plus lent"
+    "MODEL_OPTION_GLM_5_2": "GLM 5.2 (DeepInfra) - Plus intelligent, un peu plus lent",
+    "RUN_TABLE_TRIGGER": "Déclencheur",
+    "TRIGGER_REPLAY": "Un test rejoue un commentaire précédent",
+    "RUN_TABLE_COMMENT": "Commentaire",
+    "RUN_TABLE_USER": "Utilisateur",
+    "RUN_TABLE_MORE_ACTIONS": "+[count] autres",
+    "RUN_TABLE_NO_ACTIONS": "Aucune action",
+    "RUN_TABLE_UNKNOWN_TRIGGER": "Inconnu",
+    "RUN_TABLE_NO_COMMENT": "Aucun commentaire",
+    "RUN_TABLE_COMMENT_DELETED": "Commentaire supprimé",
+    "RUN_TABLE_UNKNOWN_USER": "Utilisateur inconnu",
+    "RUN_TABLE_AVATAR_ALT": "Avatar du commentateur"
 }

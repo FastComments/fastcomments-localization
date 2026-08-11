@@ -382,7 +382,7 @@
         "my-account-ai-agent-templates": 26,
         "my-account-ai-agent-webhooks": 61,
         "my-account-ai-agent-webhooks-logs": 19,
-        "my-account-ai-agents": 436,
+        "my-account-ai-agents": 447,
         "block-confirm": 4,
         "feed-ui": 32,
         "agent-notification": 2,
@@ -9757,7 +9757,18 @@
         "t433": "ACTION_HIDE_RELATED_COMMENT",
         "t434": "TOOL_GET_PINNED_COMMENTS",
         "t435": "TOOL_GET_LOCKED_COMMENTS",
-        "t436": "MODEL_OPTION_GLM_5_2"
+        "t436": "MODEL_OPTION_GLM_5_2",
+        "t437": "TRIGGER_REPLAY",
+        "t438": "RUN_TABLE_TRIGGER",
+        "t439": "RUN_TABLE_USER",
+        "t440": "RUN_TABLE_COMMENT",
+        "t441": "RUN_TABLE_MORE_ACTIONS",
+        "t442": "RUN_TABLE_NO_ACTIONS",
+        "t443": "RUN_TABLE_UNKNOWN_TRIGGER",
+        "t444": "RUN_TABLE_COMMENT_DELETED",
+        "t445": "RUN_TABLE_NO_COMMENT",
+        "t446": "RUN_TABLE_UNKNOWN_USER",
+        "t447": "RUN_TABLE_AVATAR_ALT"
     },
     "block-confirm": {
         "t1": "BLOCK_CONFIRM_MESSAGE",

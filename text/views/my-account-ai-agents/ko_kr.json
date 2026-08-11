@@ -433,5 +433,16 @@
     "ACTION_SHOW_RELATED_COMMENT": "관련 댓글 보기",
     "TOOL_GET_LOCKED_COMMENTS": "현재 페이지의 잠긴 댓글 목록",
     "TOOL_GET_PINNED_COMMENTS": "현재 페이지에 고정된 댓글 목록",
-    "MODEL_OPTION_GLM_5_2": "GLM 5.2 (DeepInfra) - 더 똑똑해졌지만 속도는 약간 느려졌습니다."
+    "MODEL_OPTION_GLM_5_2": "GLM 5.2 (DeepInfra) - 더 똑똑해졌지만 속도는 약간 느려졌습니다.",
+    "TRIGGER_REPLAY": "테스트 실행 시 이전 댓글이 재생됩니다",
+    "RUN_TABLE_USER": "사용자",
+    "RUN_TABLE_TRIGGER": "트리거",
+    "RUN_TABLE_COMMENT": "댓글",
+    "RUN_TABLE_UNKNOWN_TRIGGER": "알 수 없음",
+    "RUN_TABLE_NO_ACTIONS": "조치 없음",
+    "RUN_TABLE_COMMENT_DELETED": "삭제된 댓글",
+    "RUN_TABLE_NO_COMMENT": "댓글 없음",
+    "RUN_TABLE_MORE_ACTIONS": "외 [count]개",
+    "RUN_TABLE_UNKNOWN_USER": "알 수 없는 사용자",
+    "RUN_TABLE_AVATAR_ALT": "댓글 작성자 아바타"
 }

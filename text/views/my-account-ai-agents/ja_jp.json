@@ -433,5 +433,16 @@
     "ACTION_SHOW_RELATED_COMMENT": "関連コメントを表示",
     "TOOL_GET_PINNED_COMMENTS": "現在のページに固定されているコメントを一覧表示する",
     "TOOL_GET_LOCKED_COMMENTS": "現在のページにあるロックされたコメントの一覧を表示する",
-    "MODEL_OPTION_GLM_5_2": "GLM 5.2 (DeepInfra) - よりスマートに、しかし少し遅く"
+    "MODEL_OPTION_GLM_5_2": "GLM 5.2 (DeepInfra) - よりスマートに、しかし少し遅く",
+    "RUN_TABLE_USER": "ユーザー",
+    "RUN_TABLE_TRIGGER": "トリガー",
+    "TRIGGER_REPLAY": "テスト実行で過去のコメントが再生されます",
+    "RUN_TABLE_COMMENT": "コメント",
+    "RUN_TABLE_UNKNOWN_TRIGGER": "不明",
+    "RUN_TABLE_NO_ACTIONS": "アクションなし",
+    "RUN_TABLE_MORE_ACTIONS": "他[count]件",
+    "RUN_TABLE_NO_COMMENT": "コメントなし",
+    "RUN_TABLE_COMMENT_DELETED": "コメント削除済み",
+    "RUN_TABLE_UNKNOWN_USER": "不明なユーザー",
+    "RUN_TABLE_AVATAR_ALT": "コメント投稿者のアバター"
 }

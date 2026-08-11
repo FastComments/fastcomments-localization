@@ -433,5 +433,16 @@
     "REPLAY_ERROR_PACKAGE_NO_AGENTS": "Mevcut planınız yapay zeka ajanlarını içermez. Tekrar oynatmaları etkinleştirmek için yükseltin.",
     "REPLAY_ERROR_TENANT_NOT_FOUND": "Bu tekrar oynatmayı destekleyen site bulunamadı.",
     "REPLAY_ERROR_UNKNOWN": "Tekrar oynatma beklenmedik şekilde başarısız oldu. Ayrıntılar aşağıda.",
-    "MODEL_OPTION_GLM_5_2": "GLM 5.2 (DeepInfra) - Daha akıllı, biraz daha yavaş"
+    "MODEL_OPTION_GLM_5_2": "GLM 5.2 (DeepInfra) - Daha akıllı, biraz daha yavaş",
+    "RUN_TABLE_TRIGGER": "Tetikleyici",
+    "TRIGGER_REPLAY": "Bir test çalıştırması geçmişteki bir yorumu tekrar oynatıyor",
+    "RUN_TABLE_USER": "Kullanıcı",
+    "RUN_TABLE_COMMENT": "Yorum",
+    "RUN_TABLE_COMMENT_DELETED": "Yorum silindi",
+    "RUN_TABLE_UNKNOWN_TRIGGER": "Bilinmiyor",
+    "RUN_TABLE_UNKNOWN_USER": "Bilinmeyen kullanıcı",
+    "RUN_TABLE_NO_COMMENT": "Yorum yok",
+    "RUN_TABLE_MORE_ACTIONS": "+[count] daha",
+    "RUN_TABLE_NO_ACTIONS": "Eylem yok",
+    "RUN_TABLE_AVATAR_ALT": "Yorumcu avatarı"
 }
