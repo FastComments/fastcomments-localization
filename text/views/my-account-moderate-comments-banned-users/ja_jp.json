@@ -36,5 +36,19 @@
     "BAN_USER_BY_EMAIL_LINK_TEXT": "メールでユーザーを禁止する",
     "BAN_USER_BY_EMAIL_LINK_TITLE": "メールでユーザーを禁止する",
     "PLUS_ALT": "プラス",
-    "PLUS_TITLE": "メールで禁止"
+    "PLUS_TITLE": "メールで禁止",
+    "LABEL_SEARCH_BY": "検索条件",
+    "LABEL_SEARCH_OPERATOR": "一致条件",
+    "LABEL_SEARCH_VALUE": "値",
+    "OPTION_SEARCH_EMAIL": "メール",
+    "OPTION_SEARCH_ANY_FIELD": "任意のフィールド",
+    "PLACEHOLDER_SEARCH_VALUE": "検索する文字列",
+    "OPTION_SEARCH_NAME": "名前",
+    "OPTION_EQUALS": "等しい",
+    "OPTION_CONTAINS": "含む",
+    "BUTTON_SEARCH": "検索",
+    "BUTTON_CLEAR": "クリア",
+    "OPTION_SEARCH_BANNED_BY": "禁止者",
+    "OPTION_SEARCH_BANNED_FOR_SAYING": "禁止対象の発言",
+    "NO_SEARCH_RESULTS_MESSAGE": "検索条件に一致する禁止ユーザーは見つかりませんでした。"
 }

@@ -36,5 +36,19 @@
     "BAN_USER_BY_EMAIL_LINK_TEXT": "通过电子邮件封禁用户",
     "BAN_USER_BY_EMAIL_LINK_TITLE": "通过电子邮件封禁用户",
     "PLUS_ALT": "加号",
-    "PLUS_TITLE": "通过电子邮件"
+    "PLUS_TITLE": "通过电子邮件",
+    "LABEL_SEARCH_BY": "搜索字段",
+    "LABEL_SEARCH_VALUE": "值",
+    "LABEL_SEARCH_OPERATOR": "匹配方式",
+    "OPTION_SEARCH_EMAIL": "电子邮件",
+    "PLACEHOLDER_SEARCH_VALUE": "要搜索的内容",
+    "OPTION_SEARCH_ANY_FIELD": "任意字段",
+    "OPTION_SEARCH_NAME": "姓名",
+    "BUTTON_SEARCH": "搜索",
+    "OPTION_EQUALS": "等于",
+    "OPTION_CONTAINS": "包含",
+    "OPTION_SEARCH_BANNED_BY": "封禁人",
+    "OPTION_SEARCH_BANNED_FOR_SAYING": "因发言而被封禁",
+    "NO_SEARCH_RESULTS_MESSAGE": "没有找到符合您搜索条件的被封禁用户。",
+    "BUTTON_CLEAR": "清除"
 }

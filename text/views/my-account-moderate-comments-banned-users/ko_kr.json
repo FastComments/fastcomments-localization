@@ -36,5 +36,19 @@
     "BAN_USER_BY_EMAIL_LINK_TEXT": "이메일을 통해 사용자 차단",
     "BAN_USER_BY_EMAIL_LINK_TITLE": "이메일을 통해 사용자 차단",
     "PLUS_ALT": "을 더한",
-    "PLUS_TITLE": "이메일로"
+    "PLUS_TITLE": "이메일로",
+    "LABEL_SEARCH_OPERATOR": "일치 조건",
+    "LABEL_SEARCH_BY": "검색 기준",
+    "LABEL_SEARCH_VALUE": "값",
+    "OPTION_SEARCH_EMAIL": "이메일",
+    "OPTION_SEARCH_NAME": "이름",
+    "OPTION_SEARCH_BANNED_FOR_SAYING": "발언 때문에 금지당함",
+    "PLACEHOLDER_SEARCH_VALUE": "검색할 내용",
+    "OPTION_SEARCH_ANY_FIELD": "모든 필드",
+    "OPTION_SEARCH_BANNED_BY": "차단한 사람",
+    "OPTION_CONTAINS": "포함",
+    "OPTION_EQUALS": "같음",
+    "BUTTON_SEARCH": "검색",
+    "BUTTON_CLEAR": "지우기",
+    "NO_SEARCH_RESULTS_MESSAGE": "검색 조건에 맞는 차단된 사용자가 없습니다."
 }
