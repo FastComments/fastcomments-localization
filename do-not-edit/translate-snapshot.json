@@ -1516,7 +1516,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -11471,7 +11472,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -21412,7 +21414,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -31351,7 +31354,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -41279,7 +41283,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -51218,7 +51223,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -65212,7 +65218,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "my-account-invoice-settings": {
                 "TITLE": "Invoice Settings - FastComments",
@@ -70407,7 +70414,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -80339,7 +80347,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -90270,7 +90279,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -100200,7 +100210,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -110129,7 +110140,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -120058,7 +120070,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -129987,7 +130000,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -139916,7 +139930,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -149845,7 +149860,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -159774,7 +159790,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -169692,7 +169709,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -179621,7 +179639,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -189550,7 +189569,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -199479,7 +199499,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -209408,7 +209429,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -219337,7 +219359,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -229266,7 +229289,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -239177,7 +239201,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",
@@ -249105,7 +249130,8 @@
                 "MSG_ENGINE_TOKENS": "Tokens used: [tokens]",
                 "MSG_TRUST_FACTOR": "Trust factor: [trustFactor]",
                 "MSG_INVALID_LOCALE": "Invalid locale \"[invalidLocale]\" was passed. Detected language \"[detectedLanguage]\" and set locale to \"[detectedLocale]\".",
-                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain."
+                "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Comment is only a link to the site's own domain.",
+                "MSG_SPAM_CHECK_SKIPPED_REASON": "The background spam check ended without a verdict: [reason]"
             },
             "confirm-dialog-component": {
                 "CONFIRM_DIALOG_CONTINUE": "Continue",

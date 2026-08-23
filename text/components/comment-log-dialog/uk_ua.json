@@ -96,5 +96,6 @@
     "MSG_ENGINE_TOKENS": "Використано токенів: [tokens]",
     "MSG_TRUST_FACTOR": "Фактор довіри: [trustFactor]",
     "MSG_INVALID_LOCALE": "Передано недійсний мовний код \"[invalidLocale]\". Виявлено мову \"[detectedLanguage]\" та встановлено мовний код на \"[detectedLocale]\".",
-    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Коментар — це лише посилання на власний домен сайту."
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Коментар — це лише посилання на власний домен сайту.",
+    "MSG_SPAM_CHECK_SKIPPED_REASON": "Перевірка на спам у фоновому режимі завершилася без висновку: [reason]"
 }

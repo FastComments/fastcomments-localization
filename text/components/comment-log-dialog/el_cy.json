@@ -96,5 +96,6 @@
     "MSG_ENGINE_TOKENS": "Διακριτικά που χρησιμοποιήθηκαν: [tokens]",
     "MSG_TRUST_FACTOR": "Παράγοντας εμπιστοσύνης: [trustFactor]",
     "MSG_INVALID_LOCALE": "Έγινε μη έγκυρη τοπική ρύθμιση \"[invalidLocale]\". Εντοπίστηκε η γλώσσα \"[detectedLanguage]\" και ορίστηκε η τοπική ρύθμιση σε \"[detectedLocale]\".",
-    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Το σχόλιο είναι απλώς ένας σύνδεσμος προς τον τομέα του ιστότοπου."
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Το σχόλιο είναι απλώς ένας σύνδεσμος προς τον τομέα του ιστότοπου.",
+    "MSG_SPAM_CHECK_SKIPPED_REASON": "Ο έλεγχος ανεπιθύμητης αλληλογραφίας στο παρασκήνιο ολοκληρώθηκε χωρίς αποτέλεσμα: [reason]"
 }

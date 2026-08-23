@@ -96,5 +96,6 @@
     "MSG_ENGINE_TOKENS": "Tokeni koji se koriste: [tokens]",
     "MSG_TRUST_FACTOR": "Faktor poverenja: [trustFactor]",
     "MSG_INVALID_LOCALE": "Prosleđen je nevažeći lokal \"[invalidLocale]\". Otkriven je jezik \"[detectedLanguage]\" i lokal je postavljen na \"[detectedLocale]\".",
-    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Komentar je samo veza ka sopstvenom domenu sajta."
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "Komentar je samo veza ka sopstvenom domenu sajta.",
+    "MSG_SPAM_CHECK_SKIPPED_REASON": "Provera spama u pozadini završena je bez rezultata: [reason]"
 }

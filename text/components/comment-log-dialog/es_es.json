@@ -96,5 +96,6 @@
     "MSG_ENGINE_TOKENS": "Tokens utilizados: [tokens]",
     "MSG_TRUST_FACTOR": "Factor de confianza: [trustFactor]",
     "MSG_INVALID_LOCALE": "Se pasó la configuración regional \"[invalidLocale]\" no válida. Se detectó el idioma \"[detectedLanguage]\" y se estableció la configuración regional en \"[detectedLocale]\".",
-    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "El comentario es simplemente un enlace al dominio del sitio web."
+    "MSG_ONLY_TRUSTED_DOMAIN_LINK": "El comentario es simplemente un enlace al dominio del sitio web.",
+    "MSG_SPAM_CHECK_SKIPPED_REASON": "La comprobación de spam en segundo plano finalizó sin resultado: [reason]"
 }
