@@ -2840,7 +2840,12 @@
                 "INSTALL_STEP_DONE_TITLE": "That's it",
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
                 "INSTALL_STEP_PASTE_TITLE": "Paste it into your site",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -12875,7 +12880,12 @@
                 "INSTALL_STEP_COPY_DESC": "Pick your platform - plain HTML, React, Vue, Angular, and more - then copy the snippet.",
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -22896,7 +22906,12 @@
                 "INSTALL_STEP_PASTE_TITLE": "Paste it into your site",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -32915,7 +32930,12 @@
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
                 "INSTALL_STEP_COPY_DESC": "Pick your platform - plain HTML, React, Vue, Angular, and more - then copy the snippet.",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -42923,7 +42943,12 @@
                 "INSTALL_STEP_COPY_DESC": "Pick your platform - plain HTML, React, Vue, Angular, and more - then copy the snippet.",
                 "INSTALL_STEP_PASTE_TITLE": "Paste it into your site",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -52942,7 +52967,12 @@
                 "INSTALL_STEP_PASTE_TITLE": "Paste it into your site",
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -62419,7 +62449,12 @@
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
                 "INSTALL_STEP_COPY_DESC": "Pick your platform - plain HTML, React, Vue, Angular, and more - then copy the snippet.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -72291,7 +72326,12 @@
                 "INSTALL_STEP_COPY_DESC": "Pick your platform - plain HTML, React, Vue, Angular, and more - then copy the snippet.",
                 "INSTALL_STEP_COPY_TITLE": "Copy the code",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -82303,7 +82343,12 @@
                 "INSTALL_STEP_COPY_DESC": "Pick your platform - plain HTML, React, Vue, Angular, and more - then copy the snippet.",
                 "INSTALL_STEP_DONE_TITLE": "That's it",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -92314,7 +92359,12 @@
                 "INSTALL_STEP_COPY_DESC": "Pick your platform - plain HTML, React, Vue, Angular, and more - then copy the snippet.",
                 "SECTION_INSTALL_TITLE_BOLD": "Three Steps",
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -102324,7 +102374,12 @@
                 "INSTALL_STEP_COPY_DESC": "Pick your platform - plain HTML, React, Vue, Angular, and more - then copy the snippet.",
                 "INSTALL_STEP_PASTE_TITLE": "Paste it into your site",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -112333,7 +112388,12 @@
                 "INSTALL_STEP_COPY_DESC": "Pick your platform - plain HTML, React, Vue, Angular, and more - then copy the snippet.",
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -122342,7 +122402,12 @@
                 "SECTION_INSTALL_SUBTITLE": "No account needed to try it. If you can edit your site, you can add FastComments.",
                 "INSTALL_STEP_DONE_TITLE": "That's it",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -132351,7 +132416,12 @@
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
                 "INSTALL_STEP_DONE_TITLE": "That's it",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -142360,7 +142430,12 @@
                 "INSTALL_STEP_COPY_DESC": "Pick your platform - plain HTML, React, Vue, Angular, and more - then copy the snippet.",
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -152369,7 +152444,12 @@
                 "INSTALL_STEP_DONE_TITLE": "That's it",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -162378,7 +162458,12 @@
                 "INSTALL_STEP_COPY_DESC": "Pick your platform - plain HTML, React, Vue, Angular, and more - then copy the snippet.",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -172376,7 +172461,12 @@
                 "SECTION_INSTALL_TITLE_BOLD": "Three Steps",
                 "INSTALL_STEP_PASTE_TITLE": "Paste it into your site",
                 "INSTALL_STEP_DONE_TITLE": "That's it",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -182385,7 +182475,12 @@
                 "INSTALL_STEP_PASTE_TITLE": "Paste it into your site",
                 "SECTION_INSTALL_SUBTITLE": "No account needed to try it. If you can edit your site, you can add FastComments.",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -192394,7 +192489,12 @@
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
                 "INSTALL_STEP_COPY_DESC": "Pick your platform - plain HTML, React, Vue, Angular, and more - then copy the snippet.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -202403,7 +202503,12 @@
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
                 "INSTALL_STEP_PASTE_TITLE": "Paste it into your site",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -212412,7 +212517,12 @@
                 "SECTION_INSTALL_SUBTITLE": "No account needed to try it. If you can edit your site, you can add FastComments.",
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -222421,7 +222531,12 @@
                 "SECTION_INSTALL_SUBTITLE": "No account needed to try it. If you can edit your site, you can add FastComments.",
                 "INSTALL_STEP_PASTE_TITLE": "Paste it into your site",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -232430,7 +232545,12 @@
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
                 "INSTALL_STEP_COPY_DESC": "Pick your platform - plain HTML, React, Vue, Angular, and more - then copy the snippet.",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -242421,7 +242541,12 @@
                 "SECTION_INSTALL_TITLE_LIGHT": "Add Comments In ",
                 "SECTION_INSTALL_SUBTITLE": "No account needed to try it. If you can edit your site, you can add FastComments.",
                 "INSTALL_STEP_DONE_DESC": "Comments are live, with realtime updates and moderation built in. Ready to make it yours? A free trial takes about a minute.",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"
@@ -252429,7 +252554,12 @@
                 "INSTALL_STEP_COPY_TITLE": "Copy the code",
                 "INSTALL_STEP_PASTE_DESC": "Drop it wherever you want comments to appear. No build step, no backend changes.",
                 "SECTION_INSTALL_TITLE_BOLD": "Three Steps",
-                "HERO_TITLE": "Fast, Live, Flexible & Private."
+                "HERO_TITLE": "Fast, Live, Flexible & Private.",
+                "FEATURE_MCP_SERVER": "MCP Server",
+                "FEATURE_MCP_SERVER_MODAL_INTRO": "We host a Model Context Protocol server, so Claude, Cursor, and any other agentic client can work with your account directly.",
+                "FEATURE_MCP_SERVER_DESC": "Connect AI agents to your FastComments account for analysis, moderation, and more.",
+                "FEATURE_MCP_SERVER_MODAL_B1": "Every tool is generated from our public OpenAPI spec, so anything the REST API can do, your agent can do.",
+                "FEATURE_MCP_SERVER_MODAL_B2": "Your dashboard generates a pre-filled URL and ready-to-paste config for Claude Code, Claude Desktop, and Cursor."
             },
             "layout-v2": {
                 "PAGE_TITLE_DEFAULT": "FastComments.com"

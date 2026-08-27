@@ -254,5 +254,10 @@
     "FLOATING_TOOLTIP_MODERATION": "高效率的審核工具",
     "FLOATING_TOOLTIP_PRICING": "固定和靈活定價選項",
     "FLOATING_TOOLTIP_GLOBAL": "全球分散式",
-    "HERO_TITLE": "快速、即時、靈活、私密。"
+    "HERO_TITLE": "快速、即時、靈活、私密。",
+    "FEATURE_MCP_SERVER": "MCP 伺服器",
+    "FEATURE_MCP_SERVER_DESC": "將 AI 代理程式連接到您的 FastComments 帳戶，以進行分析、審核等操作。",
+    "FEATURE_MCP_SERVER_MODAL_INTRO": "我們託管了一個模型上下文協定伺服器，因此 Claude、Cursor 和任何其他代理用戶端都可以直接與您的帳戶互動。",
+    "FEATURE_MCP_SERVER_MODAL_B2": "您的儀表板會為 Claude Code、Claude Desktop 和 Cursor 產生預先填入的 URL 和可貼上的設定。",
+    "FEATURE_MCP_SERVER_MODAL_B1": "每個工具都是根據我們的公開 OpenAPI 規範產生的，因此 REST API 可以做的任何事情，您的代理程式都可以做。"
 }

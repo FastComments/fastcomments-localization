@@ -254,5 +254,10 @@
     "FLOATING_TOOLTIP_MODERATION": "Učinkovita orodja za moderiranje",
     "FLOATING_TOOLTIP_PRICING": "Možnosti fiksnih in fleksibilnih cen",
     "FLOATING_TOOLTIP_GLOBAL": "Globalno porazdeljeno",
-    "HERO_TITLE": "Hitro, v živo, prilagodljivo in zasebno."
+    "HERO_TITLE": "Hitro, v živo, prilagodljivo in zasebno.",
+    "FEATURE_MCP_SERVER": "Strežnik MCP",
+    "FEATURE_MCP_SERVER_MODAL_INTRO": "Gostimo strežnik Model Context Protocol, tako da lahko Claude, Cursor in kateri koli drug agentski odjemalec neposredno delajo z vašim računom.",
+    "FEATURE_MCP_SERVER_MODAL_B1": "Vsako orodje je ustvarjeno iz naše javne specifikacije OpenAPI, zato lahko vaš agent naredi vse, kar zmore REST API.",
+    "FEATURE_MCP_SERVER_DESC": "Povežite agente umetne inteligence s svojim računom FastComments za analizo, moderiranje in še več.",
+    "FEATURE_MCP_SERVER_MODAL_B2": "Vaša nadzorna plošča ustvari vnaprej izpolnjen URL in konfiguracijo, pripravljeno za lepljenje, za Claude Code, Claude Desktop in Cursor."
 }

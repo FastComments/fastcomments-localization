@@ -254,5 +254,10 @@
     "FLOATING_TOOLTIP_MODERATION": "Etkin Moderasyon Araçları",
     "FLOATING_TOOLTIP_PRICING": "Sabit ve Esnek Fiyatlandırma Seçenekleri",
     "FLOATING_TOOLTIP_GLOBAL": "Küresel Olarak Dağıtılmış",
-    "HERO_TITLE": "Hızlı, Canlı, Esnek ve Gizli."
+    "HERO_TITLE": "Hızlı, Canlı, Esnek ve Gizli.",
+    "FEATURE_MCP_SERVER": "MCP Sunucusu",
+    "FEATURE_MCP_SERVER_DESC": "Yapay zekâ ajanlarını analiz, denetleme ve daha fazlası için FastComments hesabınıza bağlayın.",
+    "FEATURE_MCP_SERVER_MODAL_INTRO": "Model Bağlam Protokolü sunucusunu barındırıyoruz, böylece Claude, Cursor ve diğer tüm aracı istemciler hesabınızla doğrudan çalışabilir.",
+    "FEATURE_MCP_SERVER_MODAL_B1": "Her araç, herkese açık OpenAPI spesifikasyonumuzdan oluşturulmuştur; bu nedenle REST API'nin yapabildiği her şeyi, aracınız da yapabilir.",
+    "FEATURE_MCP_SERVER_MODAL_B2": "Kontrol paneliniz, Claude Code, Claude Desktop ve Cursor için önceden doldurulmuş bir URL ve yapıştırmaya hazır yapılandırma dosyası oluşturur."
 }

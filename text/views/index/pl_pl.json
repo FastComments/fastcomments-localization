@@ -254,5 +254,10 @@
     "FLOATING_TOOLTIP_MODERATION": "Skuteczne narzędzia moderacji",
     "FLOATING_TOOLTIP_PRICING": "Stałe i elastyczne opcje cenowe",
     "FLOATING_TOOLTIP_GLOBAL": "Globalnie dystrybuowane",
-    "HERO_TITLE": "Szybko, na żywo, elastycznie i prywatnie."
+    "HERO_TITLE": "Szybko, na żywo, elastycznie i prywatnie.",
+    "FEATURE_MCP_SERVER": "Serwer MCP",
+    "FEATURE_MCP_SERVER_MODAL_B2": "Twój panel generuje wstępnie wypełniony adres URL i gotową do wklejenia konfigurację dla Claude Code, Claude Desktop i Cursor.",
+    "FEATURE_MCP_SERVER_MODAL_B1": "Każde narzędzie jest generowane na podstawie naszej publicznej specyfikacji OpenAPI, więc wszystko, co potrafi interfejs REST API, może też zrobić Twój agent.",
+    "FEATURE_MCP_SERVER_MODAL_INTRO": "Udostępniamy serwer Model Context Protocol, dzięki czemu Claude, Cursor i każdy inny klient agentowy może bezpośrednio korzystać z Twojego konta.",
+    "FEATURE_MCP_SERVER_DESC": "Połącz agentów AI ze swoim kontem FastComments, aby przeprowadzać analizy, moderować je i nie tylko."
 }

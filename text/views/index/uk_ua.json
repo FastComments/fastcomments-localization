@@ -254,5 +254,10 @@
     "FLOATING_TOOLTIP_MODERATION": "Ефективні інструменти модерації",
     "FLOATING_TOOLTIP_PRICING": "Фіксовані та гнучкі варіанти ціноутворення",
     "FLOATING_TOOLTIP_GLOBAL": "Глобально розподілений",
-    "HERO_TITLE": "Швидко, живо, гнучко та конфіденційно."
+    "HERO_TITLE": "Швидко, живо, гнучко та конфіденційно.",
+    "FEATURE_MCP_SERVER": "Сервер MCP",
+    "FEATURE_MCP_SERVER_DESC": "Підключіть агентів штучного інтелекту до свого облікового запису FastComments для аналізу, модерації тощо.",
+    "FEATURE_MCP_SERVER_MODAL_INTRO": "Ми розміщуємо сервер Model Context Protocol, тому Claude, Cursor та будь-який інший агентський клієнт можуть працювати з вашим обліковим записом безпосередньо.",
+    "FEATURE_MCP_SERVER_MODAL_B1": "Кожен інструмент генерується на основі нашої публічної специфікації OpenAPI, тому все, що може робити REST API, може робити і ваш агент.",
+    "FEATURE_MCP_SERVER_MODAL_B2": "Ваша інформаційна панель генерує попередньо заповнену URL-адресу та готову до вставки конфігурацію для Claude Code, Claude Desktop та Cursor."
 }

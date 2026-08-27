@@ -117,7 +117,7 @@
         "error": 11,
         "global-distribution": 44,
         "homepage-email-opt-out": 5,
-        "index": 263,
+        "index": 268,
         "layout-v2": 1,
         "login-failure": 6,
         "login-forgot-username": 12,
@@ -2964,7 +2964,12 @@
         "t260": "FEATURE_AI_AGENTS_MODAL_B1",
         "t261": "FEATURE_AI_AGENTS_MODAL_B2",
         "t262": "FEATURE_AI_AGENTS_MODAL_B3",
-        "t263": "FEATURE_AI_AGENTS_MODAL_B4"
+        "t263": "FEATURE_AI_AGENTS_MODAL_B4",
+        "t264": "FEATURE_MCP_SERVER",
+        "t265": "FEATURE_MCP_SERVER_DESC",
+        "t266": "FEATURE_MCP_SERVER_MODAL_INTRO",
+        "t267": "FEATURE_MCP_SERVER_MODAL_B1",
+        "t268": "FEATURE_MCP_SERVER_MODAL_B2"
     },
     "layout-v2": {
         "t1": "PAGE_TITLE_DEFAULT"

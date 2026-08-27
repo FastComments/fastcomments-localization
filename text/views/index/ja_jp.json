@@ -254,5 +254,10 @@
     "FLOATING_TOOLTIP_MODERATION": "効率的なモデレーションツール",
     "FLOATING_TOOLTIP_PRICING": "固定および柔軟な価格設定オプション",
     "FLOATING_TOOLTIP_GLOBAL": "世界中に分散",
-    "HERO_TITLE": "高速、リアルタイム、柔軟性、そしてプライベート。"
+    "HERO_TITLE": "高速、リアルタイム、柔軟性、そしてプライベート。",
+    "FEATURE_MCP_SERVER": "MCPサーバー",
+    "FEATURE_MCP_SERVER_DESC": "AIエージェントをFastCommentsアカウントに接続して、分析、モデレーションなどを行いましょう。",
+    "FEATURE_MCP_SERVER_MODAL_B2": "ダッシュボードは、Claude Code、Claude Desktop、およびCursor用の、あらかじめ入力済みのURLと、すぐに貼り付けられる設定ファイルを生成します。",
+    "FEATURE_MCP_SERVER_MODAL_B1": "すべてのツールは当社の公開OpenAPI仕様に基づいて生成されているため、REST APIでできることはすべて、お客様のエージェントでも実行できます。",
+    "FEATURE_MCP_SERVER_MODAL_INTRO": "弊社ではモデルコンテキストプロトコルサーバーをホストしているため、Claude、Cursor、およびその他のエージェントクライアントは、お客様のアカウントと直接連携できます。"
 }
