@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "Een maand",
     "DURATION_SIX_MONTHS": "Zes maanden",
     "DURATION_ONE_YEAR": "Een jaar",
-    "BAN_USER_BUTTON": "Gebruiker blokkeren"
+    "BAN_USER_BUTTON": "Gebruiker blokkeren",
+    "TIP_WILDCARD": "Tip: om iedereen van een e-mailprovider te blokkeren, voert u *@example.com in.",
+    "TIP_WILDCARD_UNSUPPORTED": "Andere jokertekenpatronen zoals *@*.example.com of name*@example.com worden niet ondersteund.",
+    "TIP_WILDCARD_SUBDOMAINS": "Een domeinblokkering geldt ook voor de subdomeinen ervan, dus *@example.com blokkeert ook someone@mail.example.com.",
+    "ERROR_INVALID_WILDCARD": "Dat jokertekenpatroon wordt niet ondersteund. Voer een volledig e-mailadres in, of *@example.com om een volledig domein en de bijbehorende subdomeinen te blokkeren."
 }

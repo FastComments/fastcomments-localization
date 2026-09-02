@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "Um mês",
     "DURATION_SIX_MONTHS": "Seis meses",
     "DURATION_ONE_YEAR": "Um ano",
-    "BAN_USER_BUTTON": "Banir usuário"
+    "BAN_USER_BUTTON": "Banir usuário",
+    "TIP_WILDCARD": "Dica: para banir todos os usuários de um provedor de e-mail, digite *@example.com.",
+    "TIP_WILDCARD_SUBDOMAINS": "O banimento de um domínio também abrange seus subdomínios, portanto *@example.com também bane someone@mail.example.com.",
+    "TIP_WILDCARD_UNSUPPORTED": "Outros formatos com caracteres curinga, como *@*.example.com ou name*@example.com, não são suportados.",
+    "ERROR_INVALID_WILDCARD": "Esse padrão curinga não é suportado. Digite um endereço de e-mail completo ou *@example.com para banir um domínio inteiro e seus subdomínios."
 }

@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
     "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
     "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
     "BAN_DIALOG_TYPE_LABEL": "Ban Type",
     "BAN_DIALOG_TYPE_BAN": "Ban",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "By User",
     "BAN_DIALOG_BY_EMAIL": "By Email",
     "BAN_DIALOG_BY_IP": "By IP",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
     "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
 }

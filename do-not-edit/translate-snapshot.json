@@ -1067,7 +1067,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -1088,7 +1088,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -5105,7 +5105,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -11107,7 +11111,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -11128,7 +11132,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -15145,7 +15149,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -21133,7 +21141,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -21154,7 +21162,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -25171,7 +25179,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -31157,7 +31169,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -31178,7 +31190,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -35195,7 +35207,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -41181,7 +41197,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -41202,7 +41218,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -45208,7 +45224,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -51194,7 +51214,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -51215,7 +51235,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -55232,7 +55252,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -61208,7 +61232,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -61229,7 +61253,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -64428,7 +64452,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -70553,7 +70581,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -70574,7 +70602,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -74591,7 +74619,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains.",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -80570,7 +80602,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -80591,7 +80623,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -84608,7 +84640,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -90586,7 +90622,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -90607,7 +90643,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -94624,7 +94660,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -100601,7 +100641,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -100622,7 +100662,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -104639,7 +104679,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -110615,7 +110659,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -110636,7 +110680,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -114653,7 +114697,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -120629,7 +120677,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -120650,7 +120698,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -124667,7 +124715,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains.",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -130643,7 +130695,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -130664,7 +130716,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -134681,7 +134733,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -140657,7 +140713,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -140678,7 +140734,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -144695,7 +144751,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -150671,7 +150731,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -150692,7 +150752,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -154709,7 +154769,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains.",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -160685,7 +160749,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -160706,7 +160770,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -164723,7 +164787,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -170699,7 +170767,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -170720,7 +170788,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -174726,7 +174794,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -180702,7 +180774,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -180723,7 +180795,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -184740,7 +184812,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains.",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -190716,7 +190792,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -190737,7 +190813,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -194754,7 +194830,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -200730,7 +200810,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -200751,7 +200831,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -204768,7 +204848,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -210744,7 +210828,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -210765,7 +210849,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -214782,7 +214866,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -220758,7 +220846,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -220779,7 +220867,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -224796,7 +224884,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -230772,7 +230864,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -230793,7 +230885,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -234810,7 +234902,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -240784,7 +240880,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -240805,7 +240901,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -244806,7 +244902,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",
@@ -250781,7 +250881,7 @@
                 "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
                 "BAN_DIALOG_ANON_NO_EMAIL": "This is an anonymous comment. No email or account is available to ban.",
                 "BAN_DIALOG_BAN_VIA_IP": "Ban Via IP",
-                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users",
+                "BAN_DIALOG_BAN_ALL_DOMAIN": "Ban All [domain] Users (includes subdomains)",
                 "BAN_DIALOG_TYPE_LABEL": "Ban Type",
                 "BAN_DIALOG_TYPE_BAN": "Ban",
                 "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -250802,7 +250902,7 @@
                 "BAN_DIALOG_BY_USER": "By User",
                 "BAN_DIALOG_BY_EMAIL": "By Email",
                 "BAN_DIALOG_BY_IP": "By IP",
-                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails end with: [domain]",
+                "BAN_DIALOG_BY_EMAIL_DOMAIN": "With emails ending in [domain], including subdomains",
                 "BAN_DIALOG_AFFECTS_USERS": "Affects users: [usernames]",
                 "BAN_DIALOG_CANNOT_BAN": "This user cannot be banned because there is no user id, anon session, email, or IP."
             },
@@ -254819,7 +254919,11 @@
                 "DURATION_ONE_MONTH": "One Month",
                 "DURATION_SIX_MONTHS": "Six Months",
                 "DURATION_ONE_YEAR": "One Year",
-                "BAN_USER_BUTTON": "Ban User"
+                "BAN_USER_BUTTON": "Ban User",
+                "TIP_WILDCARD": "Tip: to ban everyone from an email provider, enter *@example.com.",
+                "TIP_WILDCARD_UNSUPPORTED": "Other wildcard forms like *@*.example.com or name*@example.com are not supported.",
+                "TIP_WILDCARD_SUBDOMAINS": "A domain ban also covers its subdomains, so *@example.com bans someone@mail.example.com too.",
+                "ERROR_INVALID_WILDCARD": "That wildcard pattern is not supported. Enter a full email address, or *@example.com to ban a whole domain and its subdomains."
             },
             "my-account-moderate-comments-banned-users-un-ban": {
                 "PAGE_TITLE": "Un-Ban a User - FastComments",

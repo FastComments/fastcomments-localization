@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "Mesec dana",
     "DURATION_SIX_MONTHS": "Šest meseci",
     "DURATION_ONE_YEAR": "Godinu dana",
-    "BAN_USER_BUTTON": "Zabrana korisnika"
+    "BAN_USER_BUTTON": "Zabrana korisnika",
+    "TIP_WILDCARD": "Savet: da biste zabranili sve korisnike određenog provajdera e-pošte, unesite *@example.com.",
+    "TIP_WILDCARD_SUBDOMAINS": "Zabrana domena obuhvata i njegove poddomene, tako da *@example.com zabranjuje i someone@mail.example.com.",
+    "TIP_WILDCARD_UNSUPPORTED": "Drugi oblici džokera kao što su *@*.example.com ili name*@example.com nisu podržani.",
+    "ERROR_INVALID_WILDCARD": "Taj džoker šablon nije podržan. Unesite punu imejl adresu ili *@example.com da biste zabranili ceo domen i njegove poddomene."
 }

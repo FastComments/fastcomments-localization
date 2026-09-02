@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Забрана чрез имейл / акаунт",
     "BAN_DIALOG_ANON_NO_EMAIL": "Това е анонимен коментар. Няма имейл адрес или акаунт, който да бъде забранен.",
     "BAN_DIALOG_BAN_VIA_IP": "Забрана чрез IP адрес",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "Забраняване на всички [domain] потребители",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "Забраняване на всички потребители на [domain] (включително поддомейни)",
     "BAN_DIALOG_TYPE_LABEL": "Вид забрана",
     "BAN_DIALOG_TYPE_BAN": "Забрана",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "Забрана в сянка",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "По потребител",
     "BAN_DIALOG_BY_EMAIL": "По имейл",
     "BAN_DIALOG_BY_IP": "По IP адрес",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "С имейли, завършващи на: [domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "С имейли, завършващи на [domain], включително поддомейни",
     "BAN_DIALOG_AFFECTS_USERS": "Засяга потребители: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "Този потребител не може да бъде забранен, защото няма потребителско име, анонимна сесия, имейл или IP адрес."
 }

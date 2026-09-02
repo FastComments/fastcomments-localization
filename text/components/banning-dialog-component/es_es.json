@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Vetar por correo electrónico/cuenta",
     "BAN_DIALOG_ANON_NO_EMAIL": "Este es un comentario anónimo. No hay correo electrónico ni cuenta disponible para vetar.",
     "BAN_DIALOG_BAN_VIA_IP": "Vetar por IP",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "Vetar a todos los usuarios de [domain]",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "Vetar a todos los usuarios de [domain] (incluidos los subdominios)",
     "BAN_DIALOG_TYPE_LABEL": "Tipo de veto",
     "BAN_DIALOG_TYPE_BAN": "Veto",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "Veto silencioso",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "Por usuario",
     "BAN_DIALOG_BY_EMAIL": "Por correo electrónico",
     "BAN_DIALOG_BY_IP": "Por IP",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Con correos electrónicos que terminan en: [domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Con correos electrónicos que terminan en [domain], incluidos los subdominios",
     "BAN_DIALOG_AFFECTS_USERS": "Afecta a los usuarios: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "No se puede vetar a este usuario porque no tiene ID de usuario, sesión anónima, correo electrónico ni IP."
 }

@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "Ein Monat",
     "DURATION_SIX_MONTHS": "Sechs Monate",
     "DURATION_ONE_YEAR": "Ein Jahr",
-    "BAN_USER_BUTTON": "Benutzer sperren"
+    "BAN_USER_BUTTON": "Benutzer sperren",
+    "TIP_WILDCARD": "Tipp: Um alle Benutzer eines E-Mail-Anbieters zu sperren, geben Sie *@example.com ein.",
+    "TIP_WILDCARD_SUBDOMAINS": "Eine Domainsperre umfasst auch alle Subdomains, sodass *@example.com auch someone@mail.example.com sperrt.",
+    "TIP_WILDCARD_UNSUPPORTED": "Andere Platzhalterformen wie *@*.example.com oder name*@example.com werden nicht unterstützt.",
+    "ERROR_INVALID_WILDCARD": "Dieses Platzhaltermuster wird nicht unterstützt. Geben Sie eine vollständige E-Mail-Adresse ein oder *@example.com, um eine gesamte Domain und ihre Subdomains zu sperren."
 }

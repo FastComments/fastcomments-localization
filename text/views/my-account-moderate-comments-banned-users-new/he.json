@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "חודש אחד",
     "DURATION_SIX_MONTHS": "שישה חודשים",
     "DURATION_ONE_YEAR": "שנה אחת",
-    "BAN_USER_BUTTON": "חסום משתמש"
+    "BAN_USER_BUTTON": "חסום משתמש",
+    "TIP_WILDCARD_UNSUPPORTED": "צורות אחרות של תווים כלליים, כמו *@*.example.com או name*@example.com, אינן נתמכות.",
+    "TIP_WILDCARD_SUBDOMAINS": "חסימת דומיין מכסה גם את תת-הדומיינים שלו, כך ש-*@example.com חוסם גם את someone@mail.example.com.",
+    "ERROR_INVALID_WILDCARD": "תבנית תווים כלליים זו אינה נתמכת. הזן כתובת דוא\"ל מלאה, או *@example.com כדי לחסום דומיין שלם ותת-הדומיינים שלו.",
+    "TIP_WILDCARD": "טיפ: כדי לחסום את כל המשתמשים של ספק דוא\"ל מסוים, הזן *@example.com."
 }

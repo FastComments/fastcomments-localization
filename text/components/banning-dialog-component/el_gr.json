@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Αποκλεισμός μέσω email / λογαριασμού",
     "BAN_DIALOG_ANON_NO_EMAIL": "Αυτό είναι ένα ανώνυμο σχόλιο. Δεν υπάρχει διαθέσιμο email ή λογαριασμός για αποκλεισμό.",
     "BAN_DIALOG_BAN_VIA_IP": "Αποκλεισμός μέσω IP",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "Αποκλεισμός όλων των [domain] χρηστών",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "Αποκλεισμός όλων των χρηστών [domain] (περιλαμβάνει υποτομείς)",
     "BAN_DIALOG_TYPE_LABEL": "Τύπος απαγόρευσης",
     "BAN_DIALOG_TYPE_BAN": "Απαγόρευση",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "Απαγόρευση Σκιάς",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "Από τον χρήστη",
     "BAN_DIALOG_BY_EMAIL": "Μέσω ηλεκτρονικού ταχυδρομείου",
     "BAN_DIALOG_BY_IP": "Με IP",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Με τα email που τελειώνουν με: [domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Με email που τελειώνουν σε [domain], συμπεριλαμβανομένων των υποτομέων",
     "BAN_DIALOG_AFFECTS_USERS": "Επηρεάζει τους χρήστες: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "Αυτός ο χρήστης δεν μπορεί να αποκλειστεί επειδή δεν υπάρχει αναγνωριστικό χρήστη, ανώνυμη συνεδρία, email ή IP."
 }

@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "Ένας μήνας",
     "DURATION_SIX_MONTHS": "Έξι μήνες",
     "DURATION_ONE_YEAR": "Ένα έτος",
-    "BAN_USER_BUTTON": "Αποκλεισμός χρήστη"
+    "BAN_USER_BUTTON": "Αποκλεισμός χρήστη",
+    "TIP_WILDCARD_SUBDOMAINS": "Ένας αποκλεισμός τομέα καλύπτει και τους υποτομείς του, επομένως το *@example.com αποκλείει και το someone@mail.example.com.",
+    "TIP_WILDCARD": "Συμβουλή: για να αποκλείσετε όλους από έναν πάροχο email, εισαγάγετε *@example.com.",
+    "ERROR_INVALID_WILDCARD": "Αυτό το μοτίβο μπαλαντέρ δεν υποστηρίζεται. Εισαγάγετε μια πλήρη διεύθυνση email ή *@example.com για να αποκλείσετε έναν ολόκληρο τομέα και τους υποτομείς του.",
+    "TIP_WILDCARD_UNSUPPORTED": "Δεν υποστηρίζονται άλλες μορφές μπαλαντέρ όπως *@*.example.com ή name*@example.com."
 }

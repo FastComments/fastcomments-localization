@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "Un mois",
     "DURATION_SIX_MONTHS": "Six mois",
     "DURATION_ONE_YEAR": "Un an",
-    "BAN_USER_BUTTON": "Bannir l'utilisateur"
+    "BAN_USER_BUTTON": "Bannir l'utilisateur",
+    "TIP_WILDCARD": "Astuce : pour bannir tous les utilisateurs d'un fournisseur de messagerie, saisissez *@example.com.",
+    "TIP_WILDCARD_SUBDOMAINS": "Le bannissement d'un domaine s'applique également à ses sous-domaines ; ainsi, *@example.com bannit également someone@mail.example.com.",
+    "TIP_WILDCARD_UNSUPPORTED": "Les autres formats avec caractère générique, comme *@*.example.com ou name*@example.com, ne sont pas pris en charge.",
+    "ERROR_INVALID_WILDCARD": "Ce format avec caractère générique n'est pas pris en charge. Veuillez saisir une adresse e-mail complète ou *@example.com pour bannir un domaine entier et ses sous-domaines."
 }

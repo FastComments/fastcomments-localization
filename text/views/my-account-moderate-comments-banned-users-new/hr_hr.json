@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "Jedan mjesec",
     "DURATION_SIX_MONTHS": "Šest mjeseci",
     "DURATION_ONE_YEAR": "Jedna godina",
-    "BAN_USER_BUTTON": "Zabrani korisnika"
+    "BAN_USER_BUTTON": "Zabrani korisnika",
+    "ERROR_INVALID_WILDCARD": "Taj uzorak zamjenskog znaka nije podržan. Unesite punu adresu e-pošte ili *@example.com da biste zabranili cijelu domenu i njezine poddomene.",
+    "TIP_WILDCARD_UNSUPPORTED": "Drugi oblici zamjenskih znakova poput *@*.example.com ili name*@example.com nisu podržani.",
+    "TIP_WILDCARD": "Savjet: da biste zabranili sve korisnike određenog davatelja e-pošte, unesite *@example.com.",
+    "TIP_WILDCARD_SUBDOMAINS": "Zabrana domene obuhvaća i njezine poddomene, pa tako *@example.com zabranjuje i someone@mail.example.com."
 }

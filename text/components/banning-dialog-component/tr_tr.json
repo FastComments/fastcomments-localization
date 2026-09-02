@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "E-posta/Hesap Üzerinden Yasaklama",
     "BAN_DIALOG_ANON_NO_EMAIL": "Bu anonim bir yorumdur. Engellenecek herhangi bir e-posta veya hesap bulunmamaktadır.",
     "BAN_DIALOG_BAN_VIA_IP": "IP üzerinden yasaklama",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "Tüm [domain] Kullanıcılarını Yasakla",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "Tüm [domain] Kullanıcılarını Yasakla (alt alan adları dahil)",
     "BAN_DIALOG_TYPE_LABEL": "Yasak Türü",
     "BAN_DIALOG_TYPE_BAN": "Yasak",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "Gölge Yasak",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "Kullanıcı Tarafından",
     "BAN_DIALOG_BY_EMAIL": "E-posta ile",
     "BAN_DIALOG_BY_IP": "IP tarafından",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "E-postalar şu şekilde biter: [domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "E-postası [domain] ile bitenler, alt alan adları dahil",
     "BAN_DIALOG_AFFECTS_USERS": "Etkilediği kullanıcılar: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "Bu kullanıcıya kullanıcı kimliği, anonim oturum, e-posta veya IP adresi olmadığı için yasaklama uygulanamaz."
 }

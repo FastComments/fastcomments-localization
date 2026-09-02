@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "Jeden miesiąc",
     "DURATION_SIX_MONTHS": "Sześć miesięcy",
     "DURATION_ONE_YEAR": "Jeden rok",
-    "BAN_USER_BUTTON": "Zablokuj użytkownika"
+    "BAN_USER_BUTTON": "Zablokuj użytkownika",
+    "TIP_WILDCARD_UNSUPPORTED": "Inne formy symboli wieloznacznych, takie jak *@*.example.com lub name*@example.com, nie są obsługiwane.",
+    "TIP_WILDCARD": "Wskazówka: aby zablokować wszystkich użytkowników danego dostawcy poczty e-mail, wprowadź *@example.com.",
+    "TIP_WILDCARD_SUBDOMAINS": "Blokada domeny obejmuje także jej subdomeny, więc *@example.com blokuje również someone@mail.example.com.",
+    "ERROR_INVALID_WILDCARD": "Ten wzorzec z symbolem wieloznacznym nie jest obsługiwany. Wprowadź pełny adres e-mail lub *@example.com, aby zablokować całą domenę i jej subdomeny."
 }

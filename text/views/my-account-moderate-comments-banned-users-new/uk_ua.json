@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "Один місяць",
     "DURATION_SIX_MONTHS": "Шість місяців",
     "DURATION_ONE_YEAR": "Один рік",
-    "BAN_USER_BUTTON": "Забанити користувача"
+    "BAN_USER_BUTTON": "Забанити користувача",
+    "TIP_WILDCARD": "Порада: щоб забанити всіх користувачів поштового сервісу, введіть *@example.com.",
+    "TIP_WILDCARD_SUBDOMAINS": "Бан домену поширюється і на його піддомени, тому *@example.com забанить і someone@mail.example.com.",
+    "TIP_WILDCARD_UNSUPPORTED": "Інші шаблони підстановки, як-от *@*.example.com або name*@example.com, не підтримуються.",
+    "ERROR_INVALID_WILDCARD": "Цей шаблон підстановки не підтримується. Введіть повну адресу електронної пошти або *@example.com, щоб забанити весь домен та його піддомени."
 }

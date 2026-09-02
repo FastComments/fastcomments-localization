@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Блокировка по электронной почте / учетной записи",
     "BAN_DIALOG_ANON_NO_EMAIL": "Это анонимный комментарий. Нет ни адреса электронной почты, ни учетной записи, которые можно было бы заблокировать.",
     "BAN_DIALOG_BAN_VIA_IP": "Запрет через IP",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "Забанить всех [domain] пользователей",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "Заблокировать всех пользователей [domain] (включая поддомены)",
     "BAN_DIALOG_TYPE_LABEL": "Тип запрета",
     "BAN_DIALOG_TYPE_BAN": "Запрет",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "Теневой бан",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "Пользователь",
     "BAN_DIALOG_BY_EMAIL": "По электронной почте",
     "BAN_DIALOG_BY_IP": "По IP",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Электронные письма заканчиваются на: [domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "С адресами, заканчивающимися на [domain], включая поддомены",
     "BAN_DIALOG_AFFECTS_USERS": "Затрагивает пользователей: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "Этого пользователя нельзя заблокировать, поскольку отсутствуют идентификатор пользователя, анонимная сессия, адрес электронной почты или IP-адрес."
 }

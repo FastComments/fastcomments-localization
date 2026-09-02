@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Блокування через електронну пошту / обліковий запис",
     "BAN_DIALOG_ANON_NO_EMAIL": "Це анонімний коментар. Немає електронної пошти чи облікового запису, які можна забанити.",
     "BAN_DIALOG_BAN_VIA_IP": "Блокування через IP-адресу",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "Забанити всіх [domain] користувачів",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "Забанити всіх користувачів [domain] (включаючи піддомени)",
     "BAN_DIALOG_TYPE_LABEL": "Тип заборони",
     "BAN_DIALOG_TYPE_BAN": "Заборона",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "Тіньова заборона",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "Користувачем",
     "BAN_DIALOG_BY_EMAIL": "Електронною поштою",
     "BAN_DIALOG_BY_IP": "За IP-адресою",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "З електронними листами, що закінчуються на: [domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "З адресами, що закінчуються на [domain], включаючи піддомени",
     "BAN_DIALOG_AFFECTS_USERS": "Впливає на користувачів: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "Цього користувача неможливо забанити, оскільки в нього немає ідентифікатора користувача, анонімного сеансу, електронної пошти чи IP-адреси."
 }

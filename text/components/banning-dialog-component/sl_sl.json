@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Prepoved prek e-pošte / računa",
     "BAN_DIALOG_ANON_NO_EMAIL": "To je anonimni komentar. Ni e-poštnega naslova ali računa, ki bi ga lahko prepovedali.",
     "BAN_DIALOG_BAN_VIA_IP": "Prepoved prek IP-ja",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "Izključi vse [domain] uporabnike",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "Prepovej vse uporabnike [domain] (vključno s poddomenami)",
     "BAN_DIALOG_TYPE_LABEL": "Vrsta prepovedi",
     "BAN_DIALOG_TYPE_BAN": "Prepoved",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "Senčna prepoved",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "Uporabnik",
     "BAN_DIALOG_BY_EMAIL": "Po e-pošti",
     "BAN_DIALOG_BY_IP": "Po IP-ju",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Z e-poštnimi naslovi, ki se končajo z: [domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Z e-poštnimi naslovi, ki se končajo na [domain], vključno s poddomenami",
     "BAN_DIALOG_AFFECTS_USERS": "Vpliva na uporabnike: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "Tega uporabnika ni mogoče prepovedati, ker nima uporabniškega ID-ja, anonimne seje, e-pošte ali IP-naslova."
 }

@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "通过电子邮件/帐户封禁",
     "BAN_DIALOG_ANON_NO_EMAIL": "这是一条匿名评论。我们无法通过邮箱或账号信息进行封禁。",
     "BAN_DIALOG_BAN_VIA_IP": "通过 IP 地址封禁",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "禁止所有[domain]用户",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "封禁所有[domain]用户（包括子域名）",
     "BAN_DIALOG_TYPE_LABEL": "封禁类型",
     "BAN_DIALOG_TYPE_BAN": "禁止",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "影子禁令",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "用户",
     "BAN_DIALOG_BY_EMAIL": "通过电子邮件",
     "BAN_DIALOG_BY_IP": "通过 IP",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "电子邮件地址以以下形式结尾：[domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "以[domain]结尾的电子邮件地址（包括子域名）",
     "BAN_DIALOG_AFFECTS_USERS": "影响用户：[usernames]",
     "BAN_DIALOG_CANNOT_BAN": "由于没有用户 ID、匿名会话、电子邮件或 IP 地址，因此无法封禁该用户。"
 }

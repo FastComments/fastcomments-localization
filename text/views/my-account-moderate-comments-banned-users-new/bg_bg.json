@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "Един месец",
     "DURATION_SIX_MONTHS": "Шест месеца",
     "DURATION_ONE_YEAR": "Една година",
-    "BAN_USER_BUTTON": "Забраняване на потребител"
+    "BAN_USER_BUTTON": "Забраняване на потребител",
+    "TIP_WILDCARD": "Съвет: за да забраните всички потребители на даден имейл доставчик, въведете *@example.com.",
+    "TIP_WILDCARD_SUBDOMAINS": "Забраната на домейн обхваща и неговите поддомейни, така че *@example.com забранява и someone@mail.example.com.",
+    "ERROR_INVALID_WILDCARD": "Този шаблон за заместващи символи не се поддържа. Въведете пълен имейл адрес или *@example.com, за да забраните целия домейн и неговите поддомейни.",
+    "TIP_WILDCARD_UNSUPPORTED": "Други шаблони за заместващи символи, като *@*.example.com или name*@example.com, не се поддържат."
 }

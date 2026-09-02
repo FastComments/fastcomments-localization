@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Über E-Mail / Konto sperren",
     "BAN_DIALOG_ANON_NO_EMAIL": "Dies ist ein anonymer Kommentar. Es liegen keine E-Mail-Adresse oder Kontoinformationen vor, die gesperrt werden könnten.",
     "BAN_DIALOG_BAN_VIA_IP": "Über IP-Adresse sperren",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "Alle Benutzer von [domain] sperren",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "Alle Benutzer von [domain] sperren (einschließlich Subdomains)",
     "BAN_DIALOG_TYPE_LABEL": "Art der Sperre",
     "BAN_DIALOG_TYPE_BAN": "Sperre",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow-Ban",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "Nach Benutzer",
     "BAN_DIALOG_BY_EMAIL": "Nach E-Mail",
     "BAN_DIALOG_BY_IP": "Nach IP",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Mit E-Mails, die enden auf: [domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Mit E-Mails, die auf [domain] enden, einschließlich Subdomains",
     "BAN_DIALOG_AFFECTS_USERS": "Betrifft folgende Nutzer: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "Dieser Benutzer kann nicht gesperrt werden, da keine Benutzer-ID, anonyme Sitzung, E-Mail-Adresse oder IP-Adresse vorhanden ist."
 }

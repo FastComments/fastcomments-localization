@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "一个月",
     "DURATION_SIX_MONTHS": "六个月",
     "DURATION_ONE_YEAR": "一年",
-    "BAN_USER_BUTTON": "封禁用户"
+    "BAN_USER_BUTTON": "封禁用户",
+    "TIP_WILDCARD_SUBDOMAINS": "域名封禁也会覆盖其子域名，因此 *@example.com 也会封禁 someone@mail.example.com。",
+    "TIP_WILDCARD": "提示：要封禁某个电子邮件提供商的所有用户，请输入 *@example.com。",
+    "TIP_WILDCARD_UNSUPPORTED": "不支持其他通配符形式，例如 *@*.example.com 或 name*@example.com。",
+    "ERROR_INVALID_WILDCARD": "不支持该通配符模式。请输入完整的电子邮件地址，或输入 *@example.com 以封禁整个域名及其子域名。"
 }

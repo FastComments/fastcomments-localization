@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Blokkeren via e-mail/account",
     "BAN_DIALOG_ANON_NO_EMAIL": "Dit is een anonieme reactie. Er is geen e-mailadres of account beschikbaar om te blokkeren.",
     "BAN_DIALOG_BAN_VIA_IP": "Blokkeren via IP-adres",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "Blokkeer alle [domain] gebruikers",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "Alle gebruikers van [domain] blokkeren (inclusief subdomeinen)",
     "BAN_DIALOG_TYPE_LABEL": "Bantype",
     "BAN_DIALOG_TYPE_BAN": "Blokkeren",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "Schaduwblokkering",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "Door gebruiker",
     "BAN_DIALOG_BY_EMAIL": "Via e-mail",
     "BAN_DIALOG_BY_IP": "Via IP",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "E-mailadressen eindigen met: [domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Met e-mailadressen die eindigen op [domain], inclusief subdomeinen",
     "BAN_DIALOG_AFFECTS_USERS": "Betreft gebruikers: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "Deze gebruiker kan niet worden geblokkeerd omdat er geen gebruikers-ID, anonieme sessie, e-mailadres of IP-adres is."
 }

@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "Un mes",
     "DURATION_SIX_MONTHS": "Seis meses",
     "DURATION_ONE_YEAR": "Un año",
-    "BAN_USER_BUTTON": "Vetar usuario"
+    "BAN_USER_BUTTON": "Vetar usuario",
+    "TIP_WILDCARD": "Consejo: para vetar a todos los usuarios de un proveedor de correo electrónico, introduzca *@example.com.",
+    "TIP_WILDCARD_SUBDOMAINS": "El veto de un dominio también cubre sus subdominios, por lo que *@example.com veta también a someone@mail.example.com.",
+    "TIP_WILDCARD_UNSUPPORTED": "No se admiten otros patrones de comodín como *@*.example.com o name*@example.com.",
+    "ERROR_INVALID_WILDCARD": "No se admite ese patrón de comodín. Introduzca una dirección de correo electrónico completa o *@example.com para vetar un dominio completo y sus subdominios."
 }

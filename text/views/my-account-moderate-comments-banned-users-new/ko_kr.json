@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "한 달",
     "DURATION_SIX_MONTHS": "6개월",
     "DURATION_ONE_YEAR": "1년",
-    "BAN_USER_BUTTON": "차단 사용자"
+    "BAN_USER_BUTTON": "차단 사용자",
+    "TIP_WILDCARD_SUBDOMAINS": "도메인 차단은 하위 도메인에도 적용되므로 *@example.com을 차단하면 someone@mail.example.com도 차단됩니다.",
+    "TIP_WILDCARD": "팁: 이메일 제공업체에서 모든 사람을 차단하려면 *@example.com을 입력하세요.",
+    "TIP_WILDCARD_UNSUPPORTED": "*@*.example.com 또는 name*@example.com과 같은 다른 와일드카드 형식은 지원되지 않습니다.",
+    "ERROR_INVALID_WILDCARD": "해당 와일드카드 패턴은 지원되지 않습니다. 전체 이메일 주소를 입력하거나, *@example.com을 입력하여 도메인 전체와 하위 도메인을 차단할 수 있습니다."
 }

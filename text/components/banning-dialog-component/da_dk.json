@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Udeluk via e-mail / konto",
     "BAN_DIALOG_ANON_NO_EMAIL": "Dette er en anonym kommentar. Der er ingen e-mailadresse eller konto tilgængelig til udelukkelse.",
     "BAN_DIALOG_BAN_VIA_IP": "Udeluk via IP",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "Udeluk alle [domain]-brugere",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "Udeluk alle brugere fra [domain] (inklusive underdomæner)",
     "BAN_DIALOG_TYPE_LABEL": "Udelukkelsestype",
     "BAN_DIALOG_TYPE_BAN": "Udeluk",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "Skyggeudelukkelse",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "Af bruger",
     "BAN_DIALOG_BY_EMAIL": "Via e-mail",
     "BAN_DIALOG_BY_IP": "Via IP",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Med e-mails der slutter med: [domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Med e-mails der ender på [domain], inklusive underdomæner",
     "BAN_DIALOG_AFFECTS_USERS": "Påvirker brugere: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "Denne bruger kan ikke udelukkes, da der ikke er noget bruger-id, anonym session, e-mail eller IP-adresse."
 }

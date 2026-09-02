@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "1ヶ月",
     "DURATION_SIX_MONTHS": "6ヶ月",
     "DURATION_ONE_YEAR": "1年",
-    "BAN_USER_BUTTON": "ユーザーを禁止"
+    "BAN_USER_BUTTON": "ユーザーを禁止",
+    "TIP_WILDCARD_SUBDOMAINS": "ドメインの禁止はサブドメインにも適用されるため、*@example.com は someone@mail.example.com も禁止します。",
+    "ERROR_INVALID_WILDCARD": "そのワイルドカードパターンはサポートされていません。完全なメールアドレスを入力するか、ドメイン全体とそのサブドメインを禁止するには *@example.com を入力してください。",
+    "TIP_WILDCARD": "ヒント：メールプロバイダーのユーザー全員を禁止するには、*@example.com と入力してください。",
+    "TIP_WILDCARD_UNSUPPORTED": "*@*.example.com や name*@example.com のようなその他のワイルドカード形式はサポートされていません。"
 }

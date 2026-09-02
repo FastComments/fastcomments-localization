@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "Bir Ay",
     "DURATION_SIX_MONTHS": "Altı Ay",
     "DURATION_ONE_YEAR": "Bir Yıl",
-    "BAN_USER_BUTTON": "Kullanıcıyı Yasakla"
+    "BAN_USER_BUTTON": "Kullanıcıyı Yasakla",
+    "TIP_WILDCARD": "İpucu: Bir e-posta sağlayıcısının tüm kullanıcılarını yasaklamak için *@example.com girin.",
+    "TIP_WILDCARD_SUBDOMAINS": "Bir alan adı yasağı, alt alan adlarını da kapsar; bu nedenle *@example.com, someone@mail.example.com adresini de yasaklar.",
+    "ERROR_INVALID_WILDCARD": "Bu joker karakter deseni desteklenmiyor. Tam bir e-posta adresi girin veya *@example.com kullanarak tüm bir alan adını ve alt alan adlarını yasaklayın.",
+    "TIP_WILDCARD_UNSUPPORTED": "*@*.example.com veya name*@example.com gibi diğer joker karakter biçimleri desteklenmemektedir."
 }

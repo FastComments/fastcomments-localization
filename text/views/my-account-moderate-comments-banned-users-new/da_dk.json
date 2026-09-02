@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "En måned",
     "DURATION_SIX_MONTHS": "Seks måneder",
     "DURATION_ONE_YEAR": "Et år",
-    "BAN_USER_BUTTON": "Udeluk bruger"
+    "BAN_USER_BUTTON": "Udeluk bruger",
+    "TIP_WILDCARD_SUBDOMAINS": "En domæneudelukkelse dækker også domænets underdomæner, så *@example.com udelukker også someone@mail.example.com.",
+    "TIP_WILDCARD_UNSUPPORTED": "Andre jokertegnformer som *@*.example.com eller name*@example.com understøttes ikke.",
+    "TIP_WILDCARD": "Tip: For at udelukke alle fra en e-mailudbyder skal du indtaste *@example.com.",
+    "ERROR_INVALID_WILDCARD": "Det jokertegnmønster understøttes ikke. Indtast en fuld e-mailadresse eller *@example.com for at udelukke et helt domæne og dets underdomæner."
 }

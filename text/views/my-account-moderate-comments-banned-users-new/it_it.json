@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "Un mese",
     "DURATION_SIX_MONTHS": "Sei mesi",
     "DURATION_ONE_YEAR": "Un anno",
-    "BAN_USER_BUTTON": "Banna utente"
+    "BAN_USER_BUTTON": "Banna utente",
+    "TIP_WILDCARD": "Suggerimento: per bannare tutti gli utenti di un provider di posta elettronica, inserisci *@example.com.",
+    "TIP_WILDCARD_SUBDOMAINS": "Il ban di un dominio si estende anche ai suoi sottodomini, quindi *@example.com banna anche someone@mail.example.com.",
+    "ERROR_INVALID_WILDCARD": "Questo schema con caratteri jolly non è supportato. Inserisci un indirizzo email completo oppure *@example.com per bannare un intero dominio e i suoi sottodomini.",
+    "TIP_WILDCARD_UNSUPPORTED": "Altri formati con caratteri jolly come *@*.example.com o name*@example.com non sono supportati."
 }

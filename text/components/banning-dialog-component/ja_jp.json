@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "メール/アカウントによる禁止",
     "BAN_DIALOG_ANON_NO_EMAIL": "これは匿名のコメントです。禁止できるメールアドレスやアカウントはありません。",
     "BAN_DIALOG_BAN_VIA_IP": "IP経由の禁止",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "すべての[domain]ユーザーを禁止する",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "[domain]のユーザーをすべて禁止（サブドメインを含む）",
     "BAN_DIALOG_TYPE_LABEL": "禁止タイプ",
     "BAN_DIALOG_TYPE_BAN": "禁止",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "シャドウバン",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "ユーザー別",
     "BAN_DIALOG_BY_EMAIL": "メールで",
     "BAN_DIALOG_BY_IP": "IPによる",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "メールの末尾が次の場合: [domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "末尾が[domain]のメールアドレス（サブドメインを含む）",
     "BAN_DIALOG_AFFECTS_USERS": "影響を受けるユーザー: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "ユーザー ID、匿名セッション、電子メール、IP がないため、このユーザーを禁止することはできません。"
 }

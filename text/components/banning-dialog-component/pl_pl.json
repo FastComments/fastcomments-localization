@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Zablokuj przez e-mail/konto",
     "BAN_DIALOG_ANON_NO_EMAIL": "To anonimowy komentarz. Nie ma adresu e-mail ani konta, które można zablokować.",
     "BAN_DIALOG_BAN_VIA_IP": "Zablokuj przez IP",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "Zablokuj wszystkich [domain] użytkowników",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "Zablokuj wszystkich użytkowników [domain] (w tym subdomeny)",
     "BAN_DIALOG_TYPE_LABEL": "Typ bana",
     "BAN_DIALOG_TYPE_BAN": "Zakaz",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "Cichy ban",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "Przez użytkownika",
     "BAN_DIALOG_BY_EMAIL": "Przez e-mail",
     "BAN_DIALOG_BY_IP": "Według IP",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "W przypadku wiadomości e-mail kończących się na: [domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Z adresami e-mail kończącymi się na [domain], w tym subdomeny",
     "BAN_DIALOG_AFFECTS_USERS": "Dotyczy użytkowników: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "Tego użytkownika nie można zablokować, ponieważ nie posiada identyfikatora użytkownika, anonimowej sesji, adresu e-mail ani adresu IP."
 }

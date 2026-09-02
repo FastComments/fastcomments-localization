@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "一個月",
     "DURATION_SIX_MONTHS": "六個月",
     "DURATION_ONE_YEAR": "一年",
-    "BAN_USER_BUTTON": "封鎖用戶"
+    "BAN_USER_BUTTON": "封鎖用戶",
+    "TIP_WILDCARD_SUBDOMAINS": "網域封鎖也會涵蓋其子網域，因此 *@example.com 也會封鎖 someone@mail.example.com。",
+    "ERROR_INVALID_WILDCARD": "不支援該萬用字元模式。請輸入完整的電子郵件地址，或輸入 *@example.com 以封鎖整個網域及其子網域。",
+    "TIP_WILDCARD_UNSUPPORTED": "不支援其他萬用字元形式，例如 *@*.example.com 或 name*@example.com。",
+    "TIP_WILDCARD": "提示：若要封鎖某電子郵件提供者的所有使用者，請輸入 *@example.com。"
 }

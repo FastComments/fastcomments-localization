@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Zabrana putem e-pošte / računa",
     "BAN_DIALOG_ANON_NO_EMAIL": "Ovo je anonimni komentar. Nije dostupna e-mail adresa ili račun za zabranu.",
     "BAN_DIALOG_BAN_VIA_IP": "Zabrana putem IP adrese",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "Zabrani sve [domain] korisnike",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "Zabrani sve korisnike [domain] (uključuje poddomene)",
     "BAN_DIALOG_TYPE_LABEL": "Vrsta zabrane",
     "BAN_DIALOG_TYPE_BAN": "Zabrana",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "Zabrana sjene",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "Po korisniku",
     "BAN_DIALOG_BY_EMAIL": "E-poštom",
     "BAN_DIALOG_BY_IP": "Po IP-u",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "S e-porukama koje završavaju s: [domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "S adresama e-pošte koje završavaju na [domain], uključujući poddomene",
     "BAN_DIALOG_AFFECTS_USERS": "Utječe na korisnike: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "Ovog korisnika nije moguće zabraniti jer nema korisnički ID, anonimnu sesiju, e-poštu ili IP adresu."
 }

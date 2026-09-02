@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "透過電子郵件/帳號封鎖",
     "BAN_DIALOG_ANON_NO_EMAIL": "這是一則匿名評論。我們無法透過郵件信箱或帳號資訊進行封禁。",
     "BAN_DIALOG_BAN_VIA_IP": "透過 IP 封鎖",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "封鎖所有[domain]用戶",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "封鎖所有[domain]使用者（包括子網域）",
     "BAN_DIALOG_TYPE_LABEL": "封鎖類型",
     "BAN_DIALOG_TYPE_BAN": "禁止",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "影子禁令",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "使用者",
     "BAN_DIALOG_BY_EMAIL": "透過電子郵件",
     "BAN_DIALOG_BY_IP": "透過 IP",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "電子郵件地址以以下形式結尾：[domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "以[domain]結尾的電子郵件地址（包括子網域）",
     "BAN_DIALOG_AFFECTS_USERS": "影響使用者：[usernames]",
     "BAN_DIALOG_CANNOT_BAN": "由於沒有使用者 ID、匿名會話、電子郵件或 IP 位址，因此無法封鎖該使用者。"
 }

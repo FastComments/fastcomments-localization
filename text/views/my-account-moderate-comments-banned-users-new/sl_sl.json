@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "En mesec",
     "DURATION_SIX_MONTHS": "Šest mesecev",
     "DURATION_ONE_YEAR": "Eno leto",
-    "BAN_USER_BUTTON": "Izključi uporabnika"
+    "BAN_USER_BUTTON": "Izključi uporabnika",
+    "TIP_WILDCARD": "Nasvet: če želite prepovedati vse uporabnike določenega ponudnika e-pošte, vnesite *@example.com.",
+    "TIP_WILDCARD_SUBDOMAINS": "Prepoved domene velja tudi za njene poddomene, zato *@example.com prepove tudi someone@mail.example.com.",
+    "TIP_WILDCARD_UNSUPPORTED": "Druge oblike nadomestnih znakov, kot sta *@*.example.com ali name*@example.com, niso podprte.",
+    "ERROR_INVALID_WILDCARD": "Ta vzorec nadomestnega znaka ni podprt. Vnesite celoten e-poštni naslov ali *@example.com, da prepoveste celotno domeno in njene poddomene."
 }

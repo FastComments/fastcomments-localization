@@ -16,5 +16,9 @@
     "DURATION_ONE_MONTH": "Један месец",
     "DURATION_SIX_MONTHS": "Шест месеци",
     "DURATION_ONE_YEAR": "Једна година",
-    "BAN_USER_BUTTON": "Забрани кориснику"
+    "BAN_USER_BUTTON": "Забрани кориснику",
+    "TIP_WILDCARD": "Савет: да бисте забранили све кориснике одређеног провајдера е-поште, унесите *@example.com.",
+    "TIP_WILDCARD_SUBDOMAINS": "Забрана домена обухвата и његове поддомене, тако да *@example.com забрањује и someone@mail.example.com.",
+    "ERROR_INVALID_WILDCARD": "Тај џокер шаблон није подржан. Унесите пуну имејл адресу или *@example.com да бисте забранили цео домен и његове поддомене.",
+    "TIP_WILDCARD_UNSUPPORTED": "Други облици џокера као што су *@*.example.com или name*@example.com нису подржани."
 }

@@ -10,7 +10,7 @@
     "BAN_DIALOG_BAN_VIA_EMAIL_ACCOUNT": "Bannissement par e-mail / compte",
     "BAN_DIALOG_ANON_NO_EMAIL": "Il s'agit d'un commentaire anonyme. Aucune adresse e-mail ni compte n'est disponible pour le bannissement.",
     "BAN_DIALOG_BAN_VIA_IP": "Bannissement via IP",
-    "BAN_DIALOG_BAN_ALL_DOMAIN": "Bannir tous les utilisateurs [domain]",
+    "BAN_DIALOG_BAN_ALL_DOMAIN": "Bannir tous les utilisateurs de [domain] (y compris les sous-domaines)",
     "BAN_DIALOG_TYPE_LABEL": "Type d'interdiction",
     "BAN_DIALOG_TYPE_BAN": "Interdire",
     "BAN_DIALOG_TYPE_SHADOW_BAN": "Shadow Ban",
@@ -31,7 +31,7 @@
     "BAN_DIALOG_BY_USER": "Par l'utilisateur",
     "BAN_DIALOG_BY_EMAIL": "Par e-mail",
     "BAN_DIALOG_BY_IP": "Par IP",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Les e-mails se terminent par : [domain]",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Avec les adresses e-mail se terminant par [domain], y compris les sous-domaines",
     "BAN_DIALOG_AFFECTS_USERS": "Affecte les utilisateurs : [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "Cet utilisateur ne peut pas être banni car il n'y a ni identifiant utilisateur, ni session anonyme, ni adresse e-mail, ni adresse IP."
 }

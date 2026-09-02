@@ -117,7 +117,7 @@
         "error": 11,
         "global-distribution": 44,
         "homepage-email-opt-out": 5,
-        "index": 268,
+        "index": 269,
         "layout-v2": 1,
         "login-failure": 6,
         "login-forgot-username": 12,
@@ -217,7 +217,7 @@
         "my-account-managed-tenants-create-success": 9,
         "my-account-moderate-comments": 37,
         "my-account-moderate-comments-banned-users": 52,
-        "my-account-moderate-comments-banned-users-new": 18,
+        "my-account-moderate-comments-banned-users-new": 22,
         "my-account-moderate-comments-banned-users-un-ban": 6,
         "my-account-moderate-comments-blacklist": 18,
         "my-account-moderate-comments-comments-list": 37,
@@ -2969,7 +2969,8 @@
         "t265": "FEATURE_MCP_SERVER_DESC",
         "t266": "FEATURE_MCP_SERVER_MODAL_INTRO",
         "t267": "FEATURE_MCP_SERVER_MODAL_B1",
-        "t268": "FEATURE_MCP_SERVER_MODAL_B2"
+        "t268": "FEATURE_MCP_SERVER_MODAL_B2",
+        "t269": "BUTTON_ADMIN_PANEL_DEMO"
     },
     "layout-v2": {
         "t1": "PAGE_TITLE_DEFAULT"
@@ -5301,7 +5302,11 @@
         "t15": "DURATION_ONE_MONTH",
         "t16": "DURATION_SIX_MONTHS",
         "t17": "DURATION_ONE_YEAR",
-        "t18": "BAN_USER_BUTTON"
+        "t18": "BAN_USER_BUTTON",
+        "t19": "TIP_WILDCARD",
+        "t20": "TIP_WILDCARD_SUBDOMAINS",
+        "t21": "TIP_WILDCARD_UNSUPPORTED",
+        "t22": "ERROR_INVALID_WILDCARD"
     },
     "my-account-moderate-comments-banned-users-un-ban": {
         "t1": "PAGE_TITLE",
