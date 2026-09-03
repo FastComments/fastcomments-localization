@@ -25,5 +25,22 @@
     "LOG_DETAILS_HEADING": "Détails du journal",
     "CLOSE_BUTTON": "Fermer",
     "MAGNIFYING_GLASS_ALT": "Loupe",
-    "VIEW_DETAILS_TITLE": "Voir les détails"
+    "VIEW_DETAILS_TITLE": "Voir les détails",
+    "FILTER_DATE_FROM": "À partir de la date",
+    "FILTER_DATE_TO": "Jusqu'à la date",
+    "FILTER_BY_TARGET_ID": "Filtrer par ID concerné",
+    "FILTER_BY_TARGET": "Filtrer par personne ou élément concerné",
+    "INCLUDE_SUB_TENANTS_LABEL": "Inclure les sous-locataires",
+    "CLEAR_FILTERS": "Effacer les filtres",
+    "CRUD_TYPE_r": "Lecture",
+    "SEARCH_ALL_TIME": "Rechercher dans tout l'historique",
+    "DATE_DEFAULTED_NOTICE": "Affichage des [days] derniers jours.",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "Rechercher également dans les journaux d'audit des locataires gérés par ce compte.",
+    "CRUD_TYPE_u": "Mise à jour",
+    "CRUD_TYPE_d": "Suppression",
+    "CRUD_TYPE_c": "Création",
+    "CRUD_TYPE_login": "Connexion",
+    "TABLE_TARGET": "Concerné",
+    "SEARCH_TIMED_OUT": "Cette recherche a pris trop de temps. Veuillez la réduire en limitant la période ou en diminuant le nombre de filtres.",
+    "TABLE_TENANT": "Locataire"
 }

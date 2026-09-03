@@ -25,5 +25,22 @@
     "LOG_DETAILS_HEADING": "Protokolldetails",
     "CLOSE_BUTTON": "Schließen",
     "MAGNIFYING_GLASS_ALT": "Lupe",
-    "VIEW_DETAILS_TITLE": "Details anzeigen"
+    "VIEW_DETAILS_TITLE": "Details anzeigen",
+    "FILTER_DATE_FROM": "Ab Datum",
+    "FILTER_DATE_TO": "Bis Datum",
+    "FILTER_BY_TARGET": "Nach Betroffenen filtern",
+    "CLEAR_FILTERS": "Filter löschen",
+    "INCLUDE_SUB_TENANTS_LABEL": "Untermandanten einbeziehen",
+    "DATE_DEFAULTED_NOTICE": "Die letzten [days] Tage werden angezeigt.",
+    "FILTER_BY_TARGET_ID": "Nach betroffener ID filtern",
+    "SEARCH_ALL_TIME": "Gesamten Zeitraum durchsuchen",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "Durchsucht auch die Audit-Protokolle der Mandanten, die von diesem Konto verwaltet werden.",
+    "CRUD_TYPE_r": "Lesen",
+    "CRUD_TYPE_c": "Erstellen",
+    "CRUD_TYPE_u": "Aktualisieren",
+    "CRUD_TYPE_d": "Löschen",
+    "TABLE_TARGET": "Betroffen",
+    "CRUD_TYPE_login": "Login",
+    "TABLE_TENANT": "Mandant",
+    "SEARCH_TIMED_OUT": "Die Suche hat zu lange gedauert. Schränken Sie sie mit einem kleineren Datumsbereich oder weniger Filtern ein."
 }

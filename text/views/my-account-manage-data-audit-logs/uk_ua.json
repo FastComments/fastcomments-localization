@@ -25,5 +25,22 @@
     "LOG_DETAILS_HEADING": "Деталі журналу",
     "CLOSE_BUTTON": "Закрити",
     "MAGNIFYING_GLASS_ALT": "Збільшувальне скло",
-    "VIEW_DETAILS_TITLE": "Переглянути деталі"
+    "VIEW_DETAILS_TITLE": "Переглянути деталі",
+    "FILTER_DATE_FROM": "Від дати",
+    "FILTER_BY_TARGET": "Фільтрувати за тим, кого або чого стосується дія",
+    "FILTER_DATE_TO": "До дати",
+    "CLEAR_FILTERS": "Очистити фільтри",
+    "SEARCH_ALL_TIME": "Пошук за весь час",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "Також шукати в журналах аудиту орендарів, якими керує цей обліковий запис.",
+    "DATE_DEFAULTED_NOTICE": "Показано останні [days] днів.",
+    "CRUD_TYPE_c": "Створення",
+    "CRUD_TYPE_u": "Оновлення",
+    "SEARCH_TIMED_OUT": "Цей пошук зайняв забагато часу. Звузьте його, використовуючи менший діапазон дат або менше фільтрів.",
+    "CRUD_TYPE_r": "Читання",
+    "INCLUDE_SUB_TENANTS_LABEL": "Включити суборендарів",
+    "CRUD_TYPE_d": "Видалення",
+    "CRUD_TYPE_login": "Вхід",
+    "FILTER_BY_TARGET_ID": "Фільтрувати за ідентифікатором об'єкта дії",
+    "TABLE_TENANT": "Орендар",
+    "TABLE_TARGET": "Об'єкт дії"
 }

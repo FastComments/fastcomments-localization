@@ -25,5 +25,22 @@
     "LOG_DETAILS_HEADING": "פרטי יומן",
     "CLOSE_BUTTON": "סגירה",
     "MAGNIFYING_GLASS_ALT": "זְכוּכִית מַגדֶלֶת",
-    "VIEW_DETAILS_TITLE": "הצג פרטים"
+    "VIEW_DETAILS_TITLE": "הצג פרטים",
+    "FILTER_BY_TARGET": "סנן לפי מי או מה הושפע",
+    "INCLUDE_SUB_TENANTS_LABEL": "כלול דיירי משנה",
+    "FILTER_BY_TARGET_ID": "סנן לפי מזהה מושפע",
+    "FILTER_DATE_TO": "עד תאריך",
+    "FILTER_DATE_FROM": "מתאריך",
+    "CLEAR_FILTERS": "נקה מסננים",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "חפש גם ביומני הביקורת של הדיירים שחשבון זה מנהל.",
+    "SEARCH_ALL_TIME": "חיפוש ללא הגבלת תאריכים",
+    "SEARCH_TIMED_OUT": "החיפוש הזה לקח יותר מדי זמן להסתיים. צמצם אותו עם טווח תאריכים קטן יותר או פחות מסננים.",
+    "DATE_DEFAULTED_NOTICE": "מוצגים [days] הימים האחרונים.",
+    "CRUD_TYPE_c": "יצירה",
+    "CRUD_TYPE_u": "עדכון",
+    "CRUD_TYPE_d": "מחיקה",
+    "CRUD_TYPE_r": "קריאה",
+    "TABLE_TARGET": "מושפע",
+    "CRUD_TYPE_login": "התחברות",
+    "TABLE_TENANT": "דייר"
 }

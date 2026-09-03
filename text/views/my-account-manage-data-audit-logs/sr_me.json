@@ -25,5 +25,22 @@
     "LOG_DETAILS_HEADING": "Детаљи дневника",
     "CLOSE_BUTTON": "Затвори",
     "MAGNIFYING_GLASS_ALT": "Лупа",
-    "VIEW_DETAILS_TITLE": "Прикажи детаље"
+    "VIEW_DETAILS_TITLE": "Прикажи детаље",
+    "FILTER_BY_TARGET": "Филтрирај по томе ко или шта је погођено",
+    "FILTER_BY_TARGET_ID": "Филтрирај по погођеном ИД-у",
+    "FILTER_DATE_FROM": "Од датума",
+    "FILTER_DATE_TO": "До датума",
+    "INCLUDE_SUB_TENANTS_LABEL": "Укључи подзакупце",
+    "CLEAR_FILTERS": "Обриши филтере",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "Такође претражите евиденције ревизије закупаца којима управља овај налог.",
+    "DATE_DEFAULTED_NOTICE": "Приказује се последњих [days] дана.",
+    "SEARCH_TIMED_OUT": "Та претрага је трајала предуго. Сузите је мањим распоном датума или мањим бројем филтера.",
+    "CRUD_TYPE_c": "Креирање",
+    "SEARCH_ALL_TIME": "Претражи цео период",
+    "CRUD_TYPE_r": "Читање",
+    "CRUD_TYPE_d": "Брисање",
+    "CRUD_TYPE_u": "Ажурирање",
+    "CRUD_TYPE_login": "Пријава",
+    "TABLE_TARGET": "Погођено",
+    "TABLE_TENANT": "Закупац"
 }

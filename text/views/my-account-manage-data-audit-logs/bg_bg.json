@@ -25,5 +25,22 @@
     "LOG_DETAILS_HEADING": "Детайли за дневника",
     "CLOSE_BUTTON": "Затвори",
     "MAGNIFYING_GLASS_ALT": "Лупа",
-    "VIEW_DETAILS_TITLE": "Преглед на подробности"
+    "VIEW_DETAILS_TITLE": "Преглед на подробности",
+    "SEARCH_ALL_TIME": "Търсене за целия период",
+    "FILTER_DATE_FROM": "От дата",
+    "FILTER_BY_TARGET_ID": "Филтриране по ИД на засегнат обект",
+    "DATE_DEFAULTED_NOTICE": "Показване на последните [days] дни.",
+    "FILTER_BY_TARGET": "Филтриране по това кой или какво е засегнато",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "Търсене и в журналите за одит на наемателите, управлявани от този акаунт.",
+    "CLEAR_FILTERS": "Изчистване на филтрите",
+    "SEARCH_TIMED_OUT": "Това търсене отне твърде много време. Стеснете го с по-малък период от време или по-малко филтри.",
+    "FILTER_DATE_TO": "До дата",
+    "INCLUDE_SUB_TENANTS_LABEL": "Включване на поднаематели",
+    "CRUD_TYPE_d": "Изтриване",
+    "CRUD_TYPE_login": "Вход",
+    "CRUD_TYPE_c": "Създаване",
+    "TABLE_TENANT": "Наемател",
+    "CRUD_TYPE_r": "Четене",
+    "CRUD_TYPE_u": "Актуализация",
+    "TABLE_TARGET": "Засегнат обект"
 }

@@ -25,5 +25,22 @@
     "LOG_DETAILS_HEADING": "日志详情",
     "CLOSE_BUTTON": "关闭",
     "MAGNIFYING_GLASS_ALT": "放大镜",
-    "VIEW_DETAILS_TITLE": "查看详情"
+    "VIEW_DETAILS_TITLE": "查看详情",
+    "FILTER_DATE_FROM": "开始日期",
+    "FILTER_BY_TARGET_ID": "按受影响的 ID 筛选",
+    "FILTER_BY_TARGET": "按受影响的对象筛选",
+    "FILTER_DATE_TO": "结束日期",
+    "CLEAR_FILTERS": "清除筛选条件",
+    "CRUD_TYPE_c": "创建",
+    "INCLUDE_SUB_TENANTS_LABEL": "包含子租户",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "同时搜索此账户管理的租户的审计日志。",
+    "CRUD_TYPE_r": "读取",
+    "CRUD_TYPE_d": "删除",
+    "SEARCH_ALL_TIME": "搜索全部时间范围",
+    "CRUD_TYPE_u": "更新",
+    "DATE_DEFAULTED_NOTICE": "显示最近[days]天的数据。",
+    "SEARCH_TIMED_OUT": "搜索耗时过长。请缩小日期范围或减少筛选条件，以缩短搜索时间。",
+    "CRUD_TYPE_login": "登录",
+    "TABLE_TENANT": "租户",
+    "TABLE_TARGET": "受影响对象"
 }

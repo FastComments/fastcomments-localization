@@ -25,5 +25,22 @@
     "LOG_DETAILS_HEADING": "Kayıt Detayları",
     "CLOSE_BUTTON": "Kapat",
     "MAGNIFYING_GLASS_ALT": "Büyüteç",
-    "VIEW_DETAILS_TITLE": "Ayrıntıları Görüntüle"
+    "VIEW_DETAILS_TITLE": "Ayrıntıları Görüntüle",
+    "FILTER_DATE_FROM": "Başlangıç tarihi",
+    "FILTER_DATE_TO": "Bitiş tarihi",
+    "FILTER_BY_TARGET_ID": "Etkilenen kimliğe göre filtrele",
+    "INCLUDE_SUB_TENANTS_LABEL": "Alt kiracıları dahil et",
+    "FILTER_BY_TARGET": "Etkilenen kişi veya şeye göre filtrele",
+    "CLEAR_FILTERS": "Filtreleri temizle",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "Bu hesabın yönettiği kiracıların denetim kayıtlarında da arama yapar.",
+    "DATE_DEFAULTED_NOTICE": "Son [days] gün gösteriliyor.",
+    "CRUD_TYPE_c": "Oluşturma",
+    "CRUD_TYPE_r": "Okuma",
+    "CRUD_TYPE_d": "Silme",
+    "CRUD_TYPE_u": "Güncelleme",
+    "CRUD_TYPE_login": "Giriş",
+    "SEARCH_ALL_TIME": "Tüm geçmişte ara",
+    "TABLE_TARGET": "Etkilenen",
+    "SEARCH_TIMED_OUT": "Arama işlemi çok uzun sürdü. Daha kısa bir tarih aralığı veya daha az filtre kullanarak aramayı daraltın.",
+    "TABLE_TENANT": "Kiracı"
 }

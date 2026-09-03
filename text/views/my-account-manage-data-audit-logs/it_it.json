@@ -25,5 +25,22 @@
     "LOG_DETAILS_HEADING": "Dettagli del registro",
     "CLOSE_BUTTON": "Chiudi",
     "MAGNIFYING_GLASS_ALT": "Lente d'ingrandimento",
-    "VIEW_DETAILS_TITLE": "Visualizza dettagli"
+    "VIEW_DETAILS_TITLE": "Visualizza dettagli",
+    "FILTER_DATE_FROM": "A partire dalla data",
+    "FILTER_BY_TARGET": "Filtra per chi o cosa è stato interessato",
+    "FILTER_DATE_TO": "Fino alla data",
+    "FILTER_BY_TARGET_ID": "Filtra per ID interessato",
+    "CLEAR_FILTERS": "Cancella filtri",
+    "DATE_DEFAULTED_NOTICE": "Visualizzazione degli ultimi [days] giorni.",
+    "SEARCH_ALL_TIME": "Cerca in tutto lo storico",
+    "INCLUDE_SUB_TENANTS_LABEL": "Includi i sub-tenant",
+    "CRUD_TYPE_r": "Lettura",
+    "CRUD_TYPE_c": "Creazione",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "Cerca anche nei registri di controllo dei tenant gestiti da questo account.",
+    "SEARCH_TIMED_OUT": "La ricerca ha richiesto troppo tempo. Restringi i campi con un intervallo di date più breve o applica meno filtri.",
+    "CRUD_TYPE_u": "Aggiornamento",
+    "CRUD_TYPE_login": "Login",
+    "CRUD_TYPE_d": "Eliminazione",
+    "TABLE_TARGET": "Interessato",
+    "TABLE_TENANT": "Tenant"
 }

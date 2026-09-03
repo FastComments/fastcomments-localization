@@ -25,5 +25,22 @@
     "LOG_DETAILS_HEADING": "Detalji dnevnika",
     "CLOSE_BUTTON": "Zatvori",
     "MAGNIFYING_GLASS_ALT": "Lupa",
-    "VIEW_DETAILS_TITLE": "Pogledaj detalje"
+    "VIEW_DETAILS_TITLE": "Pogledaj detalje",
+    "FILTER_BY_TARGET_ID": "Filtriraj po pogođenom ID-u",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "Takođe pretražite dnevnike revizije zakupaca kojima upravlja ovaj nalog.",
+    "FILTER_BY_TARGET": "Filtriraj po tome ko ili šta je pogođeno",
+    "FILTER_DATE_TO": "Do datuma",
+    "INCLUDE_SUB_TENANTS_LABEL": "Uključi podzakupce",
+    "FILTER_DATE_FROM": "Od datuma",
+    "CLEAR_FILTERS": "Obriši filtere",
+    "DATE_DEFAULTED_NOTICE": "Prikazuje se poslednjih [days] dana.",
+    "SEARCH_TIMED_OUT": "Ta pretraga je trajala predugo. Suzite je manjim rasponom datuma ili manjim brojem filtera.",
+    "SEARCH_ALL_TIME": "Pretraži ceo period",
+    "CRUD_TYPE_d": "Brisanje",
+    "TABLE_TARGET": "Pogođeno",
+    "CRUD_TYPE_r": "Čitanje",
+    "CRUD_TYPE_login": "Prijava",
+    "TABLE_TENANT": "Zakupac",
+    "CRUD_TYPE_u": "Ažuriranje",
+    "CRUD_TYPE_c": "Kreiranje"
 }

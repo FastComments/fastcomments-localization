@@ -25,5 +25,22 @@
     "LOG_DETAILS_HEADING": "로그 세부 정보",
     "CLOSE_BUTTON": "닫기",
     "MAGNIFYING_GLASS_ALT": "확대경",
-    "VIEW_DETAILS_TITLE": "상세 정보 보기"
+    "VIEW_DETAILS_TITLE": "상세 정보 보기",
+    "FILTER_DATE_FROM": "시작일",
+    "FILTER_DATE_TO": "종료일",
+    "FILTER_BY_TARGET_ID": "영향을 받은 ID로 필터링",
+    "INCLUDE_SUB_TENANTS_LABEL": "하위 테넌트 포함",
+    "FILTER_BY_TARGET": "영향을 받은 대상으로 필터링",
+    "CLEAR_FILTERS": "필터 지우기",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "이 계정이 관리하는 테넌트의 감사 로그도 함께 검색합니다.",
+    "DATE_DEFAULTED_NOTICE": "최근 [days]일을 표시합니다.",
+    "CRUD_TYPE_r": "조회",
+    "SEARCH_ALL_TIME": "전체 기간 검색",
+    "CRUD_TYPE_c": "생성",
+    "CRUD_TYPE_u": "업데이트",
+    "CRUD_TYPE_login": "로그인",
+    "SEARCH_TIMED_OUT": "검색하는 데 시간이 너무 오래 걸렸습니다. 날짜 범위를 좁히거나 필터 수를 줄여서 검색 범위를 좁혀 보세요.",
+    "CRUD_TYPE_d": "삭제",
+    "TABLE_TARGET": "대상",
+    "TABLE_TENANT": "테넌트"
 }

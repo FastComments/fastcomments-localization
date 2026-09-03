@@ -25,5 +25,22 @@
     "LOG_DETAILS_HEADING": "ログの詳細",
     "CLOSE_BUTTON": "閉じる",
     "MAGNIFYING_GLASS_ALT": "虫眼鏡",
-    "VIEW_DETAILS_TITLE": "詳細を表示"
+    "VIEW_DETAILS_TITLE": "詳細を表示",
+    "FILTER_DATE_FROM": "開始日",
+    "FILTER_BY_TARGET": "影響を受けた対象でフィルタリング",
+    "FILTER_DATE_TO": "終了日",
+    "FILTER_BY_TARGET_ID": "影響を受けたIDでフィルタリング",
+    "CLEAR_FILTERS": "フィルターをクリア",
+    "INCLUDE_SUB_TENANTS_LABEL": "サブテナントを含める",
+    "DATE_DEFAULTED_NOTICE": "過去[days]日間を表示しています。",
+    "CRUD_TYPE_c": "作成",
+    "CRUD_TYPE_r": "読み取り",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "このアカウントが管理するテナントの監査ログも検索します。",
+    "SEARCH_ALL_TIME": "全期間を検索",
+    "SEARCH_TIMED_OUT": "検索に時間がかかりすぎました。日付範囲を狭めるか、フィルターの数を減らして絞り込んでください。",
+    "CRUD_TYPE_u": "更新",
+    "CRUD_TYPE_d": "削除",
+    "CRUD_TYPE_login": "ログイン",
+    "TABLE_TENANT": "テナント",
+    "TABLE_TARGET": "対象"
 }

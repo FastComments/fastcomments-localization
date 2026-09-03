@@ -25,5 +25,22 @@
     "LOG_DETAILS_HEADING": "Logboekdetails",
     "CLOSE_BUTTON": "Sluiten",
     "MAGNIFYING_GLASS_ALT": "Vergrootglas",
-    "VIEW_DETAILS_TITLE": "Bekijk details"
+    "VIEW_DETAILS_TITLE": "Bekijk details",
+    "FILTER_DATE_FROM": "Vanaf datum",
+    "FILTER_BY_TARGET": "Filteren op wie of wat getroffen is",
+    "FILTER_BY_TARGET_ID": "Filteren op getroffen ID",
+    "CLEAR_FILTERS": "Filters wissen",
+    "FILTER_DATE_TO": "Tot datum",
+    "DATE_DEFAULTED_NOTICE": "De laatste [days] dagen worden weergegeven.",
+    "INCLUDE_SUB_TENANTS_LABEL": "Inclusief subtenants",
+    "CRUD_TYPE_c": "Creëren",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "Doorzoek ook de auditlogboeken van de tenants die door dit account worden beheerd.",
+    "CRUD_TYPE_r": "Lezen",
+    "CRUD_TYPE_u": "Update",
+    "SEARCH_ALL_TIME": "Volledige periode doorzoeken",
+    "CRUD_TYPE_d": "Verwijderen",
+    "CRUD_TYPE_login": "Login",
+    "TABLE_TARGET": "Getroffen",
+    "SEARCH_TIMED_OUT": "Die zoekopdracht duurde te lang. Verfijn de zoekresultaten door een korter datumbereik te gebruiken of minder filters toe te passen.",
+    "TABLE_TENANT": "Tenant"
 }

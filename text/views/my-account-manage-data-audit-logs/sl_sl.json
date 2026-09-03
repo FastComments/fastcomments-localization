@@ -25,5 +25,22 @@
     "LOG_DETAILS_HEADING": "Podrobnosti dnevnika",
     "CLOSE_BUTTON": "Zapri",
     "MAGNIFYING_GLASS_ALT": "Povečevalno steklo",
-    "VIEW_DETAILS_TITLE": "Ogled podrobnosti"
+    "VIEW_DETAILS_TITLE": "Ogled podrobnosti",
+    "CLEAR_FILTERS": "Počisti filtre",
+    "FILTER_DATE_FROM": "Od datuma",
+    "FILTER_BY_TARGET_ID": "Filtriraj po prizadetem ID-ju",
+    "FILTER_DATE_TO": "Do datuma",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "Preiščite tudi dnevnike nadzora najemnikov, ki jih upravlja ta račun.",
+    "DATE_DEFAULTED_NOTICE": "Prikaz zadnjih [days] dni.",
+    "FILTER_BY_TARGET": "Filtriraj po tem, kdo ali kaj je bilo prizadeto",
+    "CRUD_TYPE_d": "Brisanje",
+    "CRUD_TYPE_u": "Posodobitev",
+    "CRUD_TYPE_r": "Branje",
+    "SEARCH_ALL_TIME": "Išči po celotnem obdobju",
+    "INCLUDE_SUB_TENANTS_LABEL": "Vključi podnajemnike",
+    "CRUD_TYPE_login": "Prijava",
+    "SEARCH_TIMED_OUT": "Iskanje je trajalo predolgo. Zožite ga z manjšim časovnim obdobjem ali manj filtri.",
+    "CRUD_TYPE_c": "Ustvarjanje",
+    "TABLE_TENANT": "Najemnik",
+    "TABLE_TARGET": "Prizadeto"
 }

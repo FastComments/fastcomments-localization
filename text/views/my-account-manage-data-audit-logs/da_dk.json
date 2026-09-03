@@ -25,5 +25,22 @@
     "LOG_DETAILS_HEADING": "Logoplysninger",
     "CLOSE_BUTTON": "Luk",
     "MAGNIFYING_GLASS_ALT": "Forstørrelsesglas",
-    "VIEW_DETAILS_TITLE": "Se detaljer"
+    "VIEW_DETAILS_TITLE": "Se detaljer",
+    "FILTER_BY_TARGET": "Filtrer efter hvem eller hvad der blev berørt",
+    "FILTER_DATE_FROM": "Fra dato",
+    "FILTER_BY_TARGET_ID": "Filtrer efter berørt ID",
+    "CLEAR_FILTERS": "Ryd filtre",
+    "FILTER_DATE_TO": "Til dato",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "Søg også i revisionsloggene for de lejere, som denne konto administrerer.",
+    "SEARCH_ALL_TIME": "Søg i hele perioden",
+    "DATE_DEFAULTED_NOTICE": "Viser de sidste [days] dage.",
+    "INCLUDE_SUB_TENANTS_LABEL": "Inkluder underlejere",
+    "CRUD_TYPE_c": "Opret",
+    "CRUD_TYPE_u": "Opdater",
+    "CRUD_TYPE_r": "Læs",
+    "CRUD_TYPE_login": "Log ind",
+    "CRUD_TYPE_d": "Slet",
+    "SEARCH_TIMED_OUT": "Den søgning tog for lang tid at afslutte. Indskrænk den med et mindre datointerval eller færre filtre.",
+    "TABLE_TARGET": "Berørt",
+    "TABLE_TENANT": "Lejer"
 }

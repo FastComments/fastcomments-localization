@@ -25,5 +25,22 @@
     "LOG_DETAILS_HEADING": "Detalhes do registro",
     "CLOSE_BUTTON": "Fechar",
     "MAGNIFYING_GLASS_ALT": "Lupa",
-    "VIEW_DETAILS_TITLE": "Ver detalhes"
+    "VIEW_DETAILS_TITLE": "Ver detalhes",
+    "FILTER_DATE_FROM": "Data inicial",
+    "FILTER_BY_TARGET_ID": "Filtrar por ID afetado",
+    "FILTER_BY_TARGET": "Filtrar por quem ou o que foi afetado",
+    "FILTER_DATE_TO": "Data final",
+    "CLEAR_FILTERS": "Limpar filtros",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "Pesquisar também os registros de auditoria dos tenants gerenciados por esta conta.",
+    "SEARCH_TIMED_OUT": "Essa busca demorou muito para ser concluída. Refine os resultados com um intervalo de datas menor ou menos filtros.",
+    "CRUD_TYPE_c": "Criar",
+    "CRUD_TYPE_u": "Atualizar",
+    "CRUD_TYPE_r": "Ler",
+    "INCLUDE_SUB_TENANTS_LABEL": "Incluir subtenants",
+    "SEARCH_ALL_TIME": "Pesquisar em todo o histórico",
+    "DATE_DEFAULTED_NOTICE": "Exibindo os últimos [days] dias.",
+    "CRUD_TYPE_login": "Login",
+    "CRUD_TYPE_d": "Excluir",
+    "TABLE_TARGET": "Afetado",
+    "TABLE_TENANT": "Tenant"
 }
