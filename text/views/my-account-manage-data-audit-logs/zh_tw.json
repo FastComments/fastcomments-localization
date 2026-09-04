@@ -29,8 +29,6 @@
     "FILTER_DATE_FROM": "開始日期",
     "FILTER_DATE_TO": "結束日期",
     "CLEAR_FILTERS": "清除篩選條件",
-    "FILTER_BY_TARGET": "按受影響的對象篩選",
-    "FILTER_BY_TARGET_ID": "按受影響的 ID 篩選",
     "CRUD_TYPE_c": "建立",
     "CRUD_TYPE_r": "讀取",
     "INCLUDE_SUB_TENANTS_LABEL": "包含子租戶",
@@ -40,7 +38,9 @@
     "SEARCH_ALL_TIME": "搜尋全部時間範圍",
     "CRUD_TYPE_login": "登入",
     "TABLE_TARGET": "受影響對象",
-    "SEARCH_TIMED_OUT": "搜尋耗時過長。請縮小日期範圍或減少篩選條件，以縮短搜尋時間。",
     "TABLE_TENANT": "租戶",
-    "INCLUDE_SUB_TENANTS_DESCRIPTION": "同時搜尋此帳戶管理的租戶的審計日誌。"
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "同時搜尋此帳戶管理的租戶的審計日誌。",
+    "DATE_PRESET_CUSTOM": "自訂範圍",
+    "FILTER_BY_AFFECTED": "受影響的對象",
+    "FILTER_BY_AFFECTED_PLACEHOLDER": "姓名、電子郵件或 ID"
 }

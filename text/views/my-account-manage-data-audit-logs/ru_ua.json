@@ -1,7 +1,7 @@
 {
     "TITLE": "Журналы аудита - FastComments",
     "HEADING": "Журналы аудита",
-    "AUDITING_DISABLED": "Функция аудита отключена. Если вы хотите приобрести тарифный план, включающий аудит, <a href=\"/auth/my-account/help\">сообщите нам об этом</a> .",
+    "AUDITING_DISABLED": "Функция аудита отключена. Если вы хотите приобрести тарифный план, включающий аудит, <a href=\"/auth/my-account/help\">сообщите нам об этом</a>.",
     "FILTER_BY_USERNAME": "Фильтрация по имени пользователя",
     "FILTER_BY_IP": "Фильтрация по IP-адресу",
     "FILTER_BY_ACTION": "Фильтр по действию",
@@ -26,14 +26,11 @@
     "CLOSE_BUTTON": "Закрыть",
     "MAGNIFYING_GLASS_ALT": "Увеличительное стекло",
     "VIEW_DETAILS_TITLE": "Просмотреть подробности",
-    "FILTER_DATE_FROM": "С даты",
-    "FILTER_DATE_TO": "По дату",
+    "FILTER_DATE_FROM": "От",
+    "FILTER_DATE_TO": "До",
     "CLEAR_FILTERS": "Очистить фильтры",
-    "FILTER_BY_TARGET_ID": "Фильтрация по идентификатору затронутого объекта",
-    "FILTER_BY_TARGET": "Фильтр по тому, кого или что затронуло действие",
     "SEARCH_ALL_TIME": "Поиск за все время",
     "DATE_DEFAULTED_NOTICE": "Показаны последние [days] дней.",
-    "SEARCH_TIMED_OUT": "Поиск занял слишком много времени. Сузьте область поиска, используя меньший диапазон дат или меньшее количество фильтров.",
     "INCLUDE_SUB_TENANTS_DESCRIPTION": "Также искать в журналах аудита арендаторов, которыми управляет эта учетная запись.",
     "CRUD_TYPE_c": "Создание",
     "INCLUDE_SUB_TENANTS_LABEL": "Включить субарендаторов",
@@ -42,5 +39,8 @@
     "CRUD_TYPE_d": "Удаление",
     "CRUD_TYPE_login": "Вход",
     "TABLE_TARGET": "Затронутый объект",
-    "TABLE_TENANT": "Арендатор"
+    "TABLE_TENANT": "Арендатор",
+    "FILTER_BY_AFFECTED": "Кто или что было изменено",
+    "FILTER_BY_AFFECTED_PLACEHOLDER": "Имя, email или ID",
+    "DATE_PRESET_CUSTOM": "Произвольный период"
 }

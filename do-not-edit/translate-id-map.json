@@ -191,7 +191,7 @@
         "my-account-installation-wizard": 125,
         "my-account-licenses": 15,
         "my-account-manage-data": 12,
-        "my-account-manage-data-audit-logs": 44,
+        "my-account-manage-data-audit-logs": 47,
         "my-account-manage-data-copy-comments": 30,
         "my-account-manage-data-copy-comments-table": 0,
         "my-account-manage-data-export": 27,
@@ -4668,7 +4668,10 @@
         "t41": "CRUD_TYPE_d",
         "t42": "CRUD_TYPE_login",
         "t43": "TABLE_TARGET",
-        "t44": "TABLE_TENANT"
+        "t44": "TABLE_TENANT",
+        "t45": "FILTER_BY_AFFECTED",
+        "t46": "FILTER_BY_AFFECTED_PLACEHOLDER",
+        "t47": "DATE_PRESET_CUSTOM"
     },
     "my-account-manage-data-copy-comments": {
         "t1": "TITLE",

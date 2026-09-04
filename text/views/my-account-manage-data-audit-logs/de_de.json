@@ -1,7 +1,7 @@
 {
     "TITLE": "Audit-Protokolle - FastComments",
     "HEADING": "Audit-Protokolle",
-    "AUDITING_DISABLED": "Die Protokollierungsfunktion ist deaktiviert. Wenn Sie einen Tarif mit Protokollierungsfunktion erwerben möchten, <a href=\"/auth/my-account/help\">teilen Sie uns dies bitte mit</a> .",
+    "AUDITING_DISABLED": "Die Protokollierungsfunktion ist deaktiviert. Wenn Sie einen Tarif mit Protokollierungsfunktion erwerben möchten, <a href=\"/auth/my-account/help\">teilen Sie uns dies bitte mit</a>.",
     "FILTER_BY_USERNAME": "Nach Benutzernamen filtern",
     "FILTER_BY_IP": "Filtern nach IP-Adresse",
     "FILTER_BY_ACTION": "Nach Aktion filtern",
@@ -26,13 +26,11 @@
     "CLOSE_BUTTON": "Schließen",
     "MAGNIFYING_GLASS_ALT": "Lupe",
     "VIEW_DETAILS_TITLE": "Details anzeigen",
-    "FILTER_DATE_FROM": "Ab Datum",
-    "FILTER_DATE_TO": "Bis Datum",
-    "FILTER_BY_TARGET": "Nach Betroffenen filtern",
+    "FILTER_DATE_FROM": "Von",
+    "FILTER_DATE_TO": "Bis",
     "CLEAR_FILTERS": "Filter löschen",
     "INCLUDE_SUB_TENANTS_LABEL": "Untermandanten einbeziehen",
     "DATE_DEFAULTED_NOTICE": "Die letzten [days] Tage werden angezeigt.",
-    "FILTER_BY_TARGET_ID": "Nach betroffener ID filtern",
     "SEARCH_ALL_TIME": "Gesamten Zeitraum durchsuchen",
     "INCLUDE_SUB_TENANTS_DESCRIPTION": "Durchsucht auch die Audit-Protokolle der Mandanten, die von diesem Konto verwaltet werden.",
     "CRUD_TYPE_r": "Lesen",
@@ -42,5 +40,7 @@
     "TABLE_TARGET": "Betroffen",
     "CRUD_TYPE_login": "Login",
     "TABLE_TENANT": "Mandant",
-    "SEARCH_TIMED_OUT": "Die Suche hat zu lange gedauert. Schränken Sie sie mit einem kleineren Datumsbereich oder weniger Filtern ein."
+    "DATE_PRESET_CUSTOM": "Benutzerdefinierter Zeitraum",
+    "FILTER_BY_AFFECTED": "Wer oder was wurde geändert",
+    "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, E-Mail-Adresse oder ID"
 }

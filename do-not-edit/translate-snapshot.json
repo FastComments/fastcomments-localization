@@ -4460,8 +4460,8 @@
                 "CLOSE_BUTTON": "Close",
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
-                "FILTER_DATE_FROM": "From date",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_FROM": "From",
+                "FILTER_DATE_TO": "To",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
@@ -4476,7 +4476,10 @@
                 "CRUD_TYPE_login": "Login",
                 "TABLE_TARGET": "Affected",
                 "SEARCH_TIMED_OUT": "That search took too long to finish. Narrow it down with a smaller date range or fewer filters.",
-                "TABLE_TENANT": "Tenant"
+                "TABLE_TENANT": "Tenant",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID",
+                "FILTER_BY_AFFECTED": "Who or what was changed"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -14521,8 +14524,8 @@
                 "CLOSE_BUTTON": "Close",
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
-                "FILTER_DATE_FROM": "From date",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_FROM": "From",
+                "FILTER_DATE_TO": "To",
                 "CLEAR_FILTERS": "Clear filters",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
@@ -14537,7 +14540,10 @@
                 "CRUD_TYPE_d": "Delete",
                 "SEARCH_ALL_TIME": "Search all time",
                 "SEARCH_TIMED_OUT": "That search took too long to finish. Narrow it down with a smaller date range or fewer filters.",
-                "TABLE_TENANT": "Tenant"
+                "TABLE_TENANT": "Tenant",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -24569,11 +24575,11 @@
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
                 "CLEAR_FILTERS": "Clear filters",
-                "FILTER_DATE_FROM": "From date",
+                "FILTER_DATE_FROM": "From",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_TO": "To",
                 "INCLUDE_SUB_TENANTS_DESCRIPTION": "Also search the audit logs of the tenants this account manages.",
                 "SEARCH_ALL_TIME": "Search all time",
                 "DATE_DEFAULTED_NOTICE": "Showing the last [days] days.",
@@ -24584,7 +24590,10 @@
                 "TABLE_TARGET": "Affected",
                 "CRUD_TYPE_d": "Delete",
                 "CRUD_TYPE_u": "Update",
-                "TABLE_TENANT": "Tenant"
+                "TABLE_TENANT": "Tenant",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -34613,8 +34622,8 @@
                 "CLOSE_BUTTON": "Close",
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
-                "FILTER_DATE_FROM": "From date",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_FROM": "From",
+                "FILTER_DATE_TO": "To",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
                 "CLEAR_FILTERS": "Clear filters",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
@@ -34629,7 +34638,10 @@
                 "TABLE_TARGET": "Affected",
                 "CRUD_TYPE_login": "Login",
                 "TABLE_TENANT": "Tenant",
-                "SEARCH_TIMED_OUT": "That search took too long to finish. Narrow it down with a smaller date range or fewer filters."
+                "SEARCH_TIMED_OUT": "That search took too long to finish. Narrow it down with a smaller date range or fewer filters.",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -44647,9 +44659,9 @@
                 "CLOSE_BUTTON": "Close",
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
-                "FILTER_DATE_FROM": "From date",
+                "FILTER_DATE_FROM": "From",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_TO": "To",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
                 "CLEAR_FILTERS": "Clear filters",
                 "DATE_DEFAULTED_NOTICE": "Showing the last [days] days.",
@@ -44663,7 +44675,10 @@
                 "CRUD_TYPE_login": "Login",
                 "CRUD_TYPE_d": "Delete",
                 "TABLE_TARGET": "Affected",
-                "TABLE_TENANT": "Tenant"
+                "TABLE_TENANT": "Tenant",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -54692,8 +54707,8 @@
                 "CLOSE_BUTTON": "Close",
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
-                "FILTER_DATE_FROM": "From date",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_FROM": "From",
+                "FILTER_DATE_TO": "To",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
@@ -54708,7 +54723,10 @@
                 "CRUD_TYPE_u": "Update",
                 "CRUD_TYPE_d": "Delete",
                 "TABLE_TARGET": "Affected",
-                "TABLE_TENANT": "Tenant"
+                "TABLE_TENANT": "Tenant",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -64020,10 +64038,10 @@
                 "CLOSE_BUTTON": "Close",
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
-                "FILTER_DATE_FROM": "From date",
+                "FILTER_DATE_FROM": "From",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_TO": "To",
                 "CLEAR_FILTERS": "Clear filters",
                 "INCLUDE_SUB_TENANTS_DESCRIPTION": "Also search the audit logs of the tenants this account manages.",
                 "SEARCH_TIMED_OUT": "That search took too long to finish. Narrow it down with a smaller date range or fewer filters.",
@@ -64036,7 +64054,10 @@
                 "CRUD_TYPE_login": "Login",
                 "CRUD_TYPE_d": "Delete",
                 "TABLE_TARGET": "Affected",
-                "TABLE_TENANT": "Tenant"
+                "TABLE_TENANT": "Tenant",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -74093,9 +74114,9 @@
                 "CLOSE_BUTTON": "Close",
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
-                "FILTER_DATE_FROM": "From date",
+                "FILTER_DATE_FROM": "From",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_TO": "To",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
                 "CLEAR_FILTERS": "Clear filters",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
@@ -74109,7 +74130,10 @@
                 "CRUD_TYPE_d": "Delete",
                 "CRUD_TYPE_login": "Login",
                 "TABLE_TENANT": "Tenant",
-                "TABLE_TARGET": "Affected"
+                "TABLE_TARGET": "Affected",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "DATE_PRESET_CUSTOM": "Custom range"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -84131,8 +84155,8 @@
                 "CLOSE_BUTTON": "Close",
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
-                "FILTER_DATE_FROM": "From date",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_FROM": "From",
+                "FILTER_DATE_TO": "To",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
@@ -84147,7 +84171,10 @@
                 "SEARCH_ALL_TIME": "Search all time",
                 "TABLE_TARGET": "Affected",
                 "SEARCH_TIMED_OUT": "That search took too long to finish. Narrow it down with a smaller date range or fewer filters.",
-                "TABLE_TENANT": "Tenant"
+                "TABLE_TENANT": "Tenant",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID",
+                "DATE_PRESET_CUSTOM": "Custom range"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -94168,10 +94195,10 @@
                 "CLOSE_BUTTON": "Close",
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
-                "FILTER_DATE_FROM": "From date",
+                "FILTER_DATE_FROM": "From",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_TO": "To",
                 "CLEAR_FILTERS": "Clear filters",
                 "CRUD_TYPE_c": "Create",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
@@ -94184,7 +94211,10 @@
                 "SEARCH_TIMED_OUT": "That search took too long to finish. Narrow it down with a smaller date range or fewer filters.",
                 "CRUD_TYPE_login": "Login",
                 "TABLE_TENANT": "Tenant",
-                "TABLE_TARGET": "Affected"
+                "TABLE_TARGET": "Affected",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID",
+                "FILTER_BY_AFFECTED": "Who or what was changed"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -104204,8 +104234,8 @@
                 "CLOSE_BUTTON": "Close",
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
-                "FILTER_DATE_FROM": "From date",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_FROM": "From",
+                "FILTER_DATE_TO": "To",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
@@ -104220,7 +104250,10 @@
                 "SEARCH_TIMED_OUT": "That search took too long to finish. Narrow it down with a smaller date range or fewer filters.",
                 "CRUD_TYPE_d": "Delete",
                 "TABLE_TARGET": "Affected",
-                "TABLE_TENANT": "Tenant"
+                "TABLE_TENANT": "Tenant",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -114239,8 +114272,8 @@
                 "CLOSE_BUTTON": "Close",
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
-                "FILTER_DATE_FROM": "From date",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_FROM": "From",
+                "FILTER_DATE_TO": "To",
                 "CLEAR_FILTERS": "Clear filters",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
@@ -114255,7 +114288,10 @@
                 "TABLE_TARGET": "Affected",
                 "SEARCH_TIMED_OUT": "That search took too long to finish. Narrow it down with a smaller date range or fewer filters.",
                 "TABLE_TENANT": "Tenant",
-                "INCLUDE_SUB_TENANTS_DESCRIPTION": "Also search the audit logs of the tenants this account manages."
+                "INCLUDE_SUB_TENANTS_DESCRIPTION": "Also search the audit logs of the tenants this account manages.",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -124277,8 +124313,8 @@
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
-                "FILTER_DATE_TO": "To date",
-                "FILTER_DATE_FROM": "From date",
+                "FILTER_DATE_TO": "To",
+                "FILTER_DATE_FROM": "From",
                 "CLEAR_FILTERS": "Clear filters",
                 "INCLUDE_SUB_TENANTS_DESCRIPTION": "Also search the audit logs of the tenants this account manages.",
                 "SEARCH_ALL_TIME": "Search all time",
@@ -124290,7 +124326,10 @@
                 "CRUD_TYPE_r": "Read",
                 "TABLE_TARGET": "Affected",
                 "CRUD_TYPE_login": "Login",
-                "TABLE_TENANT": "Tenant"
+                "TABLE_TENANT": "Tenant",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "DATE_PRESET_CUSTOM": "Custom range"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -134311,9 +134350,9 @@
                 "VIEW_DETAILS_TITLE": "View Details",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_TO": "To",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
-                "FILTER_DATE_FROM": "From date",
+                "FILTER_DATE_FROM": "From",
                 "CLEAR_FILTERS": "Clear filters",
                 "DATE_DEFAULTED_NOTICE": "Showing the last [days] days.",
                 "INCLUDE_SUB_TENANTS_DESCRIPTION": "Also search the audit logs of the tenants this account manages.",
@@ -134325,7 +134364,10 @@
                 "CRUD_TYPE_d": "Delete",
                 "CRUD_TYPE_login": "Login",
                 "TABLE_TENANT": "Tenant",
-                "TABLE_TARGET": "Affected"
+                "TABLE_TARGET": "Affected",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID",
+                "FILTER_BY_AFFECTED": "Who or what was changed"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -144345,10 +144387,10 @@
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
-                "FILTER_DATE_FROM": "From date",
+                "FILTER_DATE_FROM": "From",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
                 "CLEAR_FILTERS": "Clear filters",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_TO": "To",
                 "INCLUDE_SUB_TENANTS_DESCRIPTION": "Also search the audit logs of the tenants this account manages.",
                 "SEARCH_ALL_TIME": "Search all time",
                 "DATE_DEFAULTED_NOTICE": "Showing the last [days] days.",
@@ -144360,7 +144402,10 @@
                 "CRUD_TYPE_d": "Delete",
                 "SEARCH_TIMED_OUT": "That search took too long to finish. Narrow it down with a smaller date range or fewer filters.",
                 "TABLE_TARGET": "Affected",
-                "TABLE_TENANT": "Tenant"
+                "TABLE_TENANT": "Tenant",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -154379,8 +154424,8 @@
                 "CLOSE_BUTTON": "Close",
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
-                "FILTER_DATE_FROM": "From date",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_FROM": "From",
+                "FILTER_DATE_TO": "To",
                 "CLEAR_FILTERS": "Clear filters",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
@@ -154395,7 +154440,10 @@
                 "CRUD_TYPE_d": "Delete",
                 "CRUD_TYPE_login": "Login",
                 "TABLE_TARGET": "Affected",
-                "TABLE_TENANT": "Tenant"
+                "TABLE_TENANT": "Tenant",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID",
+                "DATE_PRESET_CUSTOM": "Custom range"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -164414,9 +164462,9 @@
                 "CLOSE_BUTTON": "Close",
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
-                "FILTER_DATE_FROM": "From date",
+                "FILTER_DATE_FROM": "From",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_TO": "To",
                 "CLEAR_FILTERS": "Clear filters",
                 "SEARCH_ALL_TIME": "Search all time",
                 "INCLUDE_SUB_TENANTS_DESCRIPTION": "Also search the audit logs of the tenants this account manages.",
@@ -164430,7 +164478,10 @@
                 "CRUD_TYPE_login": "Login",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
                 "TABLE_TENANT": "Tenant",
-                "TABLE_TARGET": "Affected"
+                "TABLE_TARGET": "Affected",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID",
+                "FILTER_BY_AFFECTED": "Who or what was changed"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -174439,14 +174490,14 @@
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
                 "SEARCH_ALL_TIME": "Search all time",
-                "FILTER_DATE_FROM": "From date",
+                "FILTER_DATE_FROM": "From",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
                 "DATE_DEFAULTED_NOTICE": "Showing the last [days] days.",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
                 "INCLUDE_SUB_TENANTS_DESCRIPTION": "Also search the audit logs of the tenants this account manages.",
                 "CLEAR_FILTERS": "Clear filters",
                 "SEARCH_TIMED_OUT": "That search took too long to finish. Narrow it down with a smaller date range or fewer filters.",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_TO": "To",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
                 "CRUD_TYPE_d": "Delete",
                 "CRUD_TYPE_login": "Login",
@@ -174454,7 +174505,10 @@
                 "TABLE_TENANT": "Tenant",
                 "CRUD_TYPE_r": "Read",
                 "CRUD_TYPE_u": "Update",
-                "TABLE_TARGET": "Affected"
+                "TABLE_TARGET": "Affected",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID",
+                "DATE_PRESET_CUSTOM": "Custom range"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -184476,8 +184530,8 @@
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
-                "FILTER_DATE_FROM": "From date",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_FROM": "From",
+                "FILTER_DATE_TO": "To",
                 "CLEAR_FILTERS": "Clear filters",
                 "INCLUDE_SUB_TENANTS_DESCRIPTION": "Also search the audit logs of the tenants this account manages.",
                 "CRUD_TYPE_c": "Create",
@@ -184489,7 +184543,10 @@
                 "TABLE_TARGET": "Affected",
                 "DATE_DEFAULTED_NOTICE": "Showing the last [days] days.",
                 "SEARCH_ALL_TIME": "Search all time",
-                "TABLE_TENANT": "Tenant"
+                "TABLE_TENANT": "Tenant",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID",
+                "DATE_PRESET_CUSTOM": "Custom range"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -194512,8 +194569,8 @@
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
                 "CLEAR_FILTERS": "Clear filters",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
-                "FILTER_DATE_FROM": "From date",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_FROM": "From",
+                "FILTER_DATE_TO": "To",
                 "CRUD_TYPE_c": "Create",
                 "SEARCH_TIMED_OUT": "That search took too long to finish. Narrow it down with a smaller date range or fewer filters.",
                 "INCLUDE_SUB_TENANTS_DESCRIPTION": "Also search the audit logs of the tenants this account manages.",
@@ -194524,7 +194581,10 @@
                 "CRUD_TYPE_login": "Login",
                 "CRUD_TYPE_d": "Delete",
                 "TABLE_TARGET": "Affected",
-                "TABLE_TENANT": "Tenant"
+                "TABLE_TENANT": "Tenant",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -204543,10 +204603,10 @@
                 "CLOSE_BUTTON": "Close",
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_TO": "To",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
-                "FILTER_DATE_FROM": "From date",
+                "FILTER_DATE_FROM": "From",
                 "CLEAR_FILTERS": "Clear filters",
                 "INCLUDE_SUB_TENANTS_DESCRIPTION": "Also search the audit logs of the tenants this account manages.",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
@@ -204559,7 +204619,10 @@
                 "CRUD_TYPE_d": "Delete",
                 "CRUD_TYPE_u": "Update",
                 "TABLE_TENANT": "Tenant",
-                "TABLE_TARGET": "Affected"
+                "TABLE_TARGET": "Affected",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID",
+                "DATE_PRESET_CUSTOM": "Custom range"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -214580,8 +214643,8 @@
                 "VIEW_DETAILS_TITLE": "View Details",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
-                "FILTER_DATE_FROM": "From date",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_FROM": "From",
+                "FILTER_DATE_TO": "To",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
                 "CLEAR_FILTERS": "Clear filters",
                 "INCLUDE_SUB_TENANTS_DESCRIPTION": "Also search the audit logs of the tenants this account manages.",
@@ -214594,7 +214657,10 @@
                 "CRUD_TYPE_u": "Update",
                 "CRUD_TYPE_login": "Login",
                 "TABLE_TARGET": "Affected",
-                "TABLE_TENANT": "Tenant"
+                "TABLE_TENANT": "Tenant",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -224616,8 +224682,8 @@
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
-                "FILTER_DATE_TO": "To date",
-                "FILTER_DATE_FROM": "From date",
+                "FILTER_DATE_TO": "To",
+                "FILTER_DATE_FROM": "From",
                 "CLEAR_FILTERS": "Clear filters",
                 "INCLUDE_SUB_TENANTS_DESCRIPTION": "Also search the audit logs of the tenants this account manages.",
                 "CRUD_TYPE_c": "Create",
@@ -224629,7 +224695,10 @@
                 "CRUD_TYPE_u": "Update",
                 "CRUD_TYPE_d": "Delete",
                 "TABLE_TENANT": "Tenant",
-                "TABLE_TARGET": "Affected"
+                "TABLE_TARGET": "Affected",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -234649,9 +234718,9 @@
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
                 "CLEAR_FILTERS": "Clear filters",
-                "FILTER_DATE_FROM": "From date",
+                "FILTER_DATE_FROM": "From",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_TO": "To",
                 "INCLUDE_SUB_TENANTS_DESCRIPTION": "Also search the audit logs of the tenants this account manages.",
                 "DATE_DEFAULTED_NOTICE": "Showing the last [days] days.",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
@@ -234664,7 +234733,10 @@
                 "SEARCH_TIMED_OUT": "That search took too long to finish. Narrow it down with a smaller date range or fewer filters.",
                 "CRUD_TYPE_c": "Create",
                 "TABLE_TENANT": "Tenant",
-                "TABLE_TARGET": "Affected"
+                "TABLE_TARGET": "Affected",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -244668,9 +244740,9 @@
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
                 "INCLUDE_SUB_TENANTS_DESCRIPTION": "Also search the audit logs of the tenants this account manages.",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_TO": "To",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
-                "FILTER_DATE_FROM": "From date",
+                "FILTER_DATE_FROM": "From",
                 "CLEAR_FILTERS": "Clear filters",
                 "DATE_DEFAULTED_NOTICE": "Showing the last [days] days.",
                 "SEARCH_TIMED_OUT": "That search took too long to finish. Narrow it down with a smaller date range or fewer filters.",
@@ -244681,7 +244753,10 @@
                 "CRUD_TYPE_login": "Login",
                 "TABLE_TENANT": "Tenant",
                 "CRUD_TYPE_u": "Update",
-                "CRUD_TYPE_c": "Create"
+                "CRUD_TYPE_c": "Create",
+                "FILTER_BY_AFFECTED": "Who or what was changed",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",
@@ -254699,11 +254774,11 @@
                 "CLOSE_BUTTON": "Close",
                 "MAGNIFYING_GLASS_ALT": "Magnifying Glass",
                 "VIEW_DETAILS_TITLE": "View Details",
-                "FILTER_DATE_FROM": "From date",
+                "FILTER_DATE_FROM": "From",
                 "FILTER_BY_TARGET": "Filter by who or what was affected",
                 "FILTER_BY_TARGET_ID": "Filter by affected ID",
                 "CLEAR_FILTERS": "Clear filters",
-                "FILTER_DATE_TO": "To date",
+                "FILTER_DATE_TO": "To",
                 "DATE_DEFAULTED_NOTICE": "Showing the last [days] days.",
                 "INCLUDE_SUB_TENANTS_LABEL": "Include sub-tenants",
                 "CRUD_TYPE_c": "Create",
@@ -254715,7 +254790,10 @@
                 "CRUD_TYPE_login": "Login",
                 "TABLE_TARGET": "Affected",
                 "SEARCH_TIMED_OUT": "That search took too long to finish. Narrow it down with a smaller date range or fewer filters.",
-                "TABLE_TENANT": "Tenant"
+                "TABLE_TENANT": "Tenant",
+                "DATE_PRESET_CUSTOM": "Custom range",
+                "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, email, or ID",
+                "FILTER_BY_AFFECTED": "Who or what was changed"
             },
             "my-account-manage-data-copy-comments": {
                 "TITLE": "Copy Comments - FastComments",

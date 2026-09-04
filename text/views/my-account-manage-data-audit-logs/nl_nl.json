@@ -1,7 +1,7 @@
 {
     "TITLE": "Auditlogboeken - FastComments",
     "HEADING": "Auditlogboeken",
-    "AUDITING_DISABLED": "Auditing is uitgeschakeld. Als u een abonnement wilt aanschaffen inclusief auditing, <a href=\"/auth/my-account/help\">laat het ons dan weten</a> .",
+    "AUDITING_DISABLED": "Auditing is uitgeschakeld. Als u een abonnement wilt aanschaffen inclusief auditing, <a href=\"/auth/my-account/help\">laat het ons dan weten</a>.",
     "FILTER_BY_USERNAME": "Filteren op gebruikersnaam",
     "FILTER_BY_IP": "Filteren op IP-adres",
     "FILTER_BY_ACTION": "Filteren op actie",
@@ -10,7 +10,7 @@
     "FILTER_BY_RESOURCE_ID": "Filteren op resource-ID",
     "SEARCH_BUTTON": "Zoekopdracht",
     "PRIVATE_INFO_WARNING": "Let op! Het bekijken van onderstaande gegevens kan privé-informatie onthullen.",
-    "TABLE_WHO": "WHO",
+    "TABLE_WHO": "Wie",
     "TABLE_ACTION": "Actie",
     "TABLE_RESOURCE": "Bron",
     "TABLE_WHERE": "Waar",
@@ -26,11 +26,9 @@
     "CLOSE_BUTTON": "Sluiten",
     "MAGNIFYING_GLASS_ALT": "Vergrootglas",
     "VIEW_DETAILS_TITLE": "Bekijk details",
-    "FILTER_DATE_FROM": "Vanaf datum",
-    "FILTER_BY_TARGET": "Filteren op wie of wat getroffen is",
-    "FILTER_BY_TARGET_ID": "Filteren op getroffen ID",
+    "FILTER_DATE_FROM": "Van",
     "CLEAR_FILTERS": "Filters wissen",
-    "FILTER_DATE_TO": "Tot datum",
+    "FILTER_DATE_TO": "Tot",
     "DATE_DEFAULTED_NOTICE": "De laatste [days] dagen worden weergegeven.",
     "INCLUDE_SUB_TENANTS_LABEL": "Inclusief subtenants",
     "CRUD_TYPE_c": "Creëren",
@@ -41,6 +39,8 @@
     "CRUD_TYPE_d": "Verwijderen",
     "CRUD_TYPE_login": "Login",
     "TABLE_TARGET": "Getroffen",
-    "SEARCH_TIMED_OUT": "Die zoekopdracht duurde te lang. Verfijn de zoekresultaten door een korter datumbereik te gebruiken of minder filters toe te passen.",
-    "TABLE_TENANT": "Tenant"
+    "TABLE_TENANT": "Tenant",
+    "DATE_PRESET_CUSTOM": "Aangepaste periode",
+    "FILTER_BY_AFFECTED_PLACEHOLDER": "Naam, e-mailadres of ID",
+    "FILTER_BY_AFFECTED": "Wie of wat is gewijzigd"
 }

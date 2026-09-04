@@ -26,13 +26,10 @@
     "CLOSE_BUTTON": "Fechar",
     "MAGNIFYING_GLASS_ALT": "Lupa",
     "VIEW_DETAILS_TITLE": "Ver detalhes",
-    "FILTER_DATE_FROM": "Data inicial",
-    "FILTER_BY_TARGET_ID": "Filtrar por ID afetado",
-    "FILTER_BY_TARGET": "Filtrar por quem ou o que foi afetado",
-    "FILTER_DATE_TO": "Data final",
+    "FILTER_DATE_FROM": "De",
+    "FILTER_DATE_TO": "Até",
     "CLEAR_FILTERS": "Limpar filtros",
     "INCLUDE_SUB_TENANTS_DESCRIPTION": "Pesquisar também os registros de auditoria dos tenants gerenciados por esta conta.",
-    "SEARCH_TIMED_OUT": "Essa busca demorou muito para ser concluída. Refine os resultados com um intervalo de datas menor ou menos filtros.",
     "CRUD_TYPE_c": "Criar",
     "CRUD_TYPE_u": "Atualizar",
     "CRUD_TYPE_r": "Ler",
@@ -42,5 +39,8 @@
     "CRUD_TYPE_login": "Login",
     "CRUD_TYPE_d": "Excluir",
     "TABLE_TARGET": "Afetado",
-    "TABLE_TENANT": "Tenant"
+    "TABLE_TENANT": "Tenant",
+    "DATE_PRESET_CUSTOM": "Período personalizado",
+    "FILTER_BY_AFFECTED": "Quem ou o que foi alterado",
+    "FILTER_BY_AFFECTED_PLACEHOLDER": "Nome, e-mail ou ID"
 }

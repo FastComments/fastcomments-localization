@@ -1,7 +1,7 @@
 {
     "TITLE": "Registros de auditoría - FastComments",
     "HEADING": "Registros de auditoría",
-    "AUDITING_DISABLED": "La auditoría está deshabilitada. Si desea adquirir un plan que la incluya, <a href=\"/auth/my-account/help\">infórmenos</a> .",
+    "AUDITING_DISABLED": "La auditoría está deshabilitada. Si desea adquirir un plan que la incluya, <a href=\"/auth/my-account/help\">infórmenos</a>.",
     "FILTER_BY_USERNAME": "Filtrar por nombre de usuario",
     "FILTER_BY_IP": "Filtrar por IP",
     "FILTER_BY_ACTION": "Filtrar por acción",
@@ -26,11 +26,9 @@
     "CLOSE_BUTTON": "Cerrar",
     "MAGNIFYING_GLASS_ALT": "Lupa",
     "VIEW_DETAILS_TITLE": "Ver detalles",
-    "FILTER_DATE_FROM": "Desde fecha",
-    "FILTER_DATE_TO": "Hasta fecha",
+    "FILTER_DATE_FROM": "Desde",
+    "FILTER_DATE_TO": "Hasta",
     "CLEAR_FILTERS": "Borrar filtros",
-    "FILTER_BY_TARGET": "Filtrar por quién o qué se vio afectado",
-    "FILTER_BY_TARGET_ID": "Filtrar por ID afectado",
     "INCLUDE_SUB_TENANTS_LABEL": "Incluir subtenants",
     "DATE_DEFAULTED_NOTICE": "Mostrando los últimos [days] días.",
     "INCLUDE_SUB_TENANTS_DESCRIPTION": "Buscar también en los registros de auditoría de los tenants que administra esta cuenta.",
@@ -41,6 +39,8 @@
     "TABLE_TARGET": "Afectado",
     "CRUD_TYPE_d": "Eliminar",
     "SEARCH_ALL_TIME": "Buscar en todo el historial",
-    "SEARCH_TIMED_OUT": "La búsqueda tardó demasiado en completarse. Intenta reducir el rango de fechas o usar menos filtros.",
-    "TABLE_TENANT": "Tenant"
+    "TABLE_TENANT": "Tenant",
+    "FILTER_BY_AFFECTED": "Quién o qué fue modificado",
+    "DATE_PRESET_CUSTOM": "Rango personalizado",
+    "FILTER_BY_AFFECTED_PLACEHOLDER": "Nombre, correo o ID"
 }

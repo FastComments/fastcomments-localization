@@ -1,7 +1,7 @@
 {
     "TITLE": "Журнали за одит - FastComments",
     "HEADING": "Журнали за одит",
-    "AUDITING_DISABLED": "Одитът е деактивиран. Ако искате да закупите план, който включва одит, <a href=\"/auth/my-account/help\">уведомете ни</a> .",
+    "AUDITING_DISABLED": "Одитът е деактивиран. Ако искате да закупите план, който включва одит, <a href=\"/auth/my-account/help\">уведомете ни</a>.",
     "FILTER_BY_USERNAME": "Филтриране по потребителско име",
     "FILTER_BY_IP": "Филтриране по IP адрес",
     "FILTER_BY_ACTION": "Филтриране по действие",
@@ -27,14 +27,11 @@
     "MAGNIFYING_GLASS_ALT": "Лупа",
     "VIEW_DETAILS_TITLE": "Преглед на подробности",
     "SEARCH_ALL_TIME": "Търсене за целия период",
-    "FILTER_DATE_FROM": "От дата",
-    "FILTER_BY_TARGET_ID": "Филтриране по ИД на засегнат обект",
+    "FILTER_DATE_FROM": "От",
     "DATE_DEFAULTED_NOTICE": "Показване на последните [days] дни.",
-    "FILTER_BY_TARGET": "Филтриране по това кой или какво е засегнато",
     "INCLUDE_SUB_TENANTS_DESCRIPTION": "Търсене и в журналите за одит на наемателите, управлявани от този акаунт.",
     "CLEAR_FILTERS": "Изчистване на филтрите",
-    "SEARCH_TIMED_OUT": "Това търсене отне твърде много време. Стеснете го с по-малък период от време или по-малко филтри.",
-    "FILTER_DATE_TO": "До дата",
+    "FILTER_DATE_TO": "До",
     "INCLUDE_SUB_TENANTS_LABEL": "Включване на поднаематели",
     "CRUD_TYPE_d": "Изтриване",
     "CRUD_TYPE_login": "Вход",
@@ -42,5 +39,8 @@
     "TABLE_TENANT": "Наемател",
     "CRUD_TYPE_r": "Четене",
     "CRUD_TYPE_u": "Актуализация",
-    "TABLE_TARGET": "Засегнат обект"
+    "TABLE_TARGET": "Засегнат обект",
+    "FILTER_BY_AFFECTED": "Кой или какво е променено",
+    "FILTER_BY_AFFECTED_PLACEHOLDER": "Име, имейл или ИД",
+    "DATE_PRESET_CUSTOM": "Персонализиран период"
 }

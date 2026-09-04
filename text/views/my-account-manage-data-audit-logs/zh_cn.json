@@ -27,8 +27,6 @@
     "MAGNIFYING_GLASS_ALT": "放大镜",
     "VIEW_DETAILS_TITLE": "查看详情",
     "FILTER_DATE_FROM": "开始日期",
-    "FILTER_BY_TARGET_ID": "按受影响的 ID 筛选",
-    "FILTER_BY_TARGET": "按受影响的对象筛选",
     "FILTER_DATE_TO": "结束日期",
     "CLEAR_FILTERS": "清除筛选条件",
     "CRUD_TYPE_c": "创建",
@@ -39,8 +37,10 @@
     "SEARCH_ALL_TIME": "搜索全部时间范围",
     "CRUD_TYPE_u": "更新",
     "DATE_DEFAULTED_NOTICE": "显示最近[days]天的数据。",
-    "SEARCH_TIMED_OUT": "搜索耗时过长。请缩小日期范围或减少筛选条件，以缩短搜索时间。",
     "CRUD_TYPE_login": "登录",
     "TABLE_TENANT": "租户",
-    "TABLE_TARGET": "受影响对象"
+    "TABLE_TARGET": "受影响对象",
+    "DATE_PRESET_CUSTOM": "自定义范围",
+    "FILTER_BY_AFFECTED_PLACEHOLDER": "姓名、电子邮件或 ID",
+    "FILTER_BY_AFFECTED": "受影响的对象"
 }

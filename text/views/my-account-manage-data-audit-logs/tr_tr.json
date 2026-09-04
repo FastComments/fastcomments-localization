@@ -1,7 +1,7 @@
 {
     "TITLE": "Denetim Kayıtları - FastComments",
     "HEADING": "Denetim Kayıtları",
-    "AUDITING_DISABLED": "Denetim özelliği devre dışı bırakılmıştır. Denetim özelliğini içeren bir plan satın almak isterseniz <a href=\"/auth/my-account/help\">lütfen bize bildirin</a> .",
+    "AUDITING_DISABLED": "Denetim özelliği devre dışı bırakılmıştır. Denetim özelliğini içeren bir plan satın almak isterseniz <a href=\"/auth/my-account/help\">lütfen bize bildirin</a>.",
     "FILTER_BY_USERNAME": "Kullanıcı adına göre filtrele",
     "FILTER_BY_IP": "IP adresine göre filtrele",
     "FILTER_BY_ACTION": "Eyleme göre filtrele",
@@ -26,11 +26,9 @@
     "CLOSE_BUTTON": "Kapat",
     "MAGNIFYING_GLASS_ALT": "Büyüteç",
     "VIEW_DETAILS_TITLE": "Ayrıntıları Görüntüle",
-    "FILTER_DATE_FROM": "Başlangıç tarihi",
-    "FILTER_DATE_TO": "Bitiş tarihi",
-    "FILTER_BY_TARGET_ID": "Etkilenen kimliğe göre filtrele",
+    "FILTER_DATE_FROM": "Başlangıç",
+    "FILTER_DATE_TO": "Bitiş",
     "INCLUDE_SUB_TENANTS_LABEL": "Alt kiracıları dahil et",
-    "FILTER_BY_TARGET": "Etkilenen kişi veya şeye göre filtrele",
     "CLEAR_FILTERS": "Filtreleri temizle",
     "INCLUDE_SUB_TENANTS_DESCRIPTION": "Bu hesabın yönettiği kiracıların denetim kayıtlarında da arama yapar.",
     "DATE_DEFAULTED_NOTICE": "Son [days] gün gösteriliyor.",
@@ -41,6 +39,8 @@
     "CRUD_TYPE_login": "Giriş",
     "SEARCH_ALL_TIME": "Tüm geçmişte ara",
     "TABLE_TARGET": "Etkilenen",
-    "SEARCH_TIMED_OUT": "Arama işlemi çok uzun sürdü. Daha kısa bir tarih aralığı veya daha az filtre kullanarak aramayı daraltın.",
-    "TABLE_TENANT": "Kiracı"
+    "TABLE_TENANT": "Kiracı",
+    "FILTER_BY_AFFECTED": "Değiştirilen kişi veya kayıt",
+    "FILTER_BY_AFFECTED_PLACEHOLDER": "Ad, e-posta veya ID",
+    "DATE_PRESET_CUSTOM": "Özel aralık"
 }

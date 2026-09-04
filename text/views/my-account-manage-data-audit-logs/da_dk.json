@@ -1,7 +1,7 @@
 {
     "TITLE": "Revisionslogge - FastComments",
     "HEADING": "Revisionslogge",
-    "AUDITING_DISABLED": "Revision er deaktiveret. Hvis du ønsker at købe en plan, der inkluderer revision, <a href=\"/auth/my-account/help\">så giv os besked</a> .",
+    "AUDITING_DISABLED": "Revision er deaktiveret. Hvis du ønsker at købe en plan, der inkluderer revision, <a href=\"/auth/my-account/help\">så giv os besked</a>.",
     "FILTER_BY_USERNAME": "Filtrer efter brugernavn",
     "FILTER_BY_IP": "Filtrer efter IP-adresse",
     "FILTER_BY_ACTION": "Filtrer efter handling",
@@ -26,11 +26,9 @@
     "CLOSE_BUTTON": "Luk",
     "MAGNIFYING_GLASS_ALT": "Forstørrelsesglas",
     "VIEW_DETAILS_TITLE": "Se detaljer",
-    "FILTER_BY_TARGET": "Filtrer efter hvem eller hvad der blev berørt",
-    "FILTER_DATE_FROM": "Fra dato",
-    "FILTER_BY_TARGET_ID": "Filtrer efter berørt ID",
+    "FILTER_DATE_FROM": "Fra",
     "CLEAR_FILTERS": "Ryd filtre",
-    "FILTER_DATE_TO": "Til dato",
+    "FILTER_DATE_TO": "Til",
     "INCLUDE_SUB_TENANTS_DESCRIPTION": "Søg også i revisionsloggene for de lejere, som denne konto administrerer.",
     "SEARCH_ALL_TIME": "Søg i hele perioden",
     "DATE_DEFAULTED_NOTICE": "Viser de sidste [days] dage.",
@@ -40,7 +38,9 @@
     "CRUD_TYPE_r": "Læs",
     "CRUD_TYPE_login": "Log ind",
     "CRUD_TYPE_d": "Slet",
-    "SEARCH_TIMED_OUT": "Den søgning tog for lang tid at afslutte. Indskrænk den med et mindre datointerval eller færre filtre.",
     "TABLE_TARGET": "Berørt",
-    "TABLE_TENANT": "Lejer"
+    "TABLE_TENANT": "Lejer",
+    "FILTER_BY_AFFECTED": "Hvem eller hvad blev ændret",
+    "DATE_PRESET_CUSTOM": "Brugerdefineret periode",
+    "FILTER_BY_AFFECTED_PLACEHOLDER": "Navn, e-mail eller ID"
 }
