@@ -1,6 +1,6 @@
 {
-    "HERO_TITLE_LIGHT": "애플리케이션",
     "PAGE_TITLE": "애플리케이션 승인 - FastComments",
+    "HERO_TITLE_LIGHT": "애플리케이션",
     "HERO_TITLE_BOLD": "승인",
     "HERO_DESCRIPTION": "이 애플리케이션은 API를 통해 사용자의 FastComments 계정에 대한 접근 권한을 요청하고 있습니다.",
     "WEBSITE_LABEL": "웹사이트",
@@ -26,5 +26,6 @@
     "BACK_TO_DASHBOARD": "대시보드로 이동",
     "BLOCKED_HEADING": "접근 불가",
     "EXPIRED_BODY": "승인 요청이 더 이상 유효하지 않습니다. 애플리케이션으로 돌아가서 연결을 다시 시작하세요.",
-    "BLOCKED_BODY": "애플리케이션을 연결하려면 이 계정에 대한 API 관리자 권한이 필요합니다. 관리자에게 해당 권한을 요청하거나, 해당 권한이 있는 계정으로 전환하세요."
+    "BLOCKED_BODY": "애플리케이션을 연결하려면 이 계정에 대한 API 관리자 권한이 필요합니다. 관리자에게 해당 권한을 요청하거나, 해당 권한이 있는 계정으로 전환하세요.",
+    "HERO_TITLE_LIGHT_AFTER": ""
 }

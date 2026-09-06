@@ -1,8 +1,8 @@
 {
-    "HERO_TITLE_LIGHT": "Autoriseer",
     "APP_LABEL": "Applicatie",
     "WEBSITE_LABEL": "Website",
-    "HERO_TITLE_BOLD": "een applicatie",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Autoriseer",
     "PAGE_TITLE": "Applicatie autoriseren - FastComments",
     "SIGNED_IN_AS": "Ingelogd als",
     "APP_UNVERIFIED_NOTE": "FastComments beoordeelt geen applicaties die op deze manier verbinding maken. Ga alleen verder als u deze verbinding zelf hebt gestart en de hierboven genoemde applicatie vertrouwt.",
@@ -26,5 +26,6 @@
     "BLOCKED_HEADING": "Toegang niet beschikbaar",
     "EXPIRED_HEADING": "Dit verzoek is verlopen",
     "BLOCKED_BODY": "Uw gebruiker heeft de machtiging 'API-beheerder' nodig voor dit account om applicaties te kunnen koppelen. Vraag een beheerder om deze machtiging of schakel over naar een account waar u deze wel heeft.",
-    "EXPIRED_BODY": "Het autorisatieverzoek is niet langer geldig. Ga terug naar de applicatie en start de verbinding opnieuw."
+    "EXPIRED_BODY": "Het autorisatieverzoek is niet langer geldig. Ga terug naar de applicatie en start de verbinding opnieuw.",
+    "HERO_TITLE_LIGHT_AFTER": "een applicatie"
 }

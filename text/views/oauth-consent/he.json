@@ -1,7 +1,7 @@
 {
-    "HERO_TITLE_LIGHT": "אישור",
     "APP_LABEL": "אפליקציה",
-    "HERO_TITLE_BOLD": "אפליקציה",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "אשר",
     "PAGE_TITLE": "אישור אפליקציה - FastComments",
     "HERO_DESCRIPTION": "אפליקציה זו מבקשת גישה לחשבון FastComments שלך דרך ממשק ה-API.",
     "WEBSITE_LABEL": "אתר אינטרנט",
@@ -26,5 +26,6 @@
     "BLOCKED_BODY": "המשתמש שלך זקוק להרשאת מנהל API בחשבון זה כדי לחבר אפליקציות. בקש הרשאה זו ממנהל, או עבור לחשבון שבו היא זמינה לך.",
     "BACK_TO_DASHBOARD": "עבור ללוח המחוונים",
     "EXPIRED_HEADING": "תוקף בקשה זו פג",
-    "EXPIRED_BODY": "בקשת ההרשאה אינה תקפה עוד. חזור לאפליקציה והתחל את החיבור מחדש."
+    "EXPIRED_BODY": "בקשת ההרשאה אינה תקפה עוד. חזור לאפליקציה והתחל את החיבור מחדש.",
+    "HERO_TITLE_LIGHT_AFTER": "אפליקציה"
 }

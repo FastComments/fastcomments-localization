@@ -4,7 +4,7 @@
     "COLUMN_APP": "Uygulama",
     "EMPTY_LINK": "MCP sunucusunu kurun.",
     "COLUMN_WEBSITE": "Web sitesi",
-    "INTRO": "Bu hesap adına FastComments API'sini kullanma yetkisi verdiğiniz uygulamalar, örneğin MCP sunucusu üzerinden bağlanan yapay zeka asistanları. Bir uygulamanın yetkisini iptal etmek, sahip olduğu tüm belirteçleri geçersiz kılar.",
+    "INTRO": "Bu hesap adına FastComments API'sini kullanma yetkisi verdiğiniz uygulamalar, örneğin MCP sunucusu üzerinden bağlanan yapay zeka asistanları.",
     "COLUMN_PERMISSIONS": "İzinler",
     "EMPTY_HEADING": "Bağlı uygulama yok",
     "EMPTY_BODY": "Claude veya Cursor gibi bir uygulamayı MCP sunucusu üzerinden yetkilendirdiğinizde, uygulama burada görünür.",
@@ -17,8 +17,13 @@
     "REVOKE_BUTTON": "İptal et",
     "MCP_SETUP_LINK": "MCP Sunucusu",
     "MCP_SETUP_SUFFIX": "sayfasına bakın.",
-    "UNVERIFIED_APP_NOTE": "Uygulamalar bağlandıklarında kendilerini kaydederler. FastComments bunları incelemez, bu nedenle tanımadığınız her şeyi iptal edin.",
+    "UNVERIFIED_APP_NOTE": "Uygulamalar bağlantı kurduklarında kendilerini kaydederler.",
     "REVOKED_FLASH": "Erişim iptal edildi. Bu uygulamanın sahip olduğu belirteçler bir dakika içinde çalışmayı durdurur.",
     "REVOKE_CONFIRM": "Bu uygulamanın erişimi iptal edilsin mi? Yeniden bağlanabilmesi için tekrar yetkilendirilmesi gerekecek.",
-    "MCP_SETUP_PREFIX": "Yeni bir yapay zeka asistanı bağlamak için"
+    "MCP_SETUP_PREFIX": "Yeni bir yapay zeka asistanı bağlamak için",
+    "OTHER_USERS_HEADING": "Diğer kullanıcıların bağlı uygulamaları",
+    "COLUMN_USER": "Kullanıcı",
+    "USER_NO_LONGER_ON_ACCOUNT": "(kullanıcı artık mevcut değil)",
+    "OTHER_USERS_EMPTY": "Başka hiçbir kullanıcı uygulama bağlamadı.",
+    "OTHER_USERS_INTRO": "Bu hesabın herhangi bir kullanıcısı tarafından yetkilendirilen her uygulama. Bir kullanıcı hesaptan çıkarıldığında veya API Yönetici iznini kaybettiğinde erişim otomatik olarak sona erer ve bunlardan herhangi birinin erişimini buradan iptal edebilirsiniz."
 }

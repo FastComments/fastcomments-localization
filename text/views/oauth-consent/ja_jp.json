@@ -1,6 +1,6 @@
 {
-    "HERO_TITLE_LIGHT": "アプリケーションの",
     "PAGE_TITLE": "アプリケーションの承認 - FastComments",
+    "HERO_TITLE_LIGHT": "アプリケーションを",
     "HERO_TITLE_BOLD": "承認",
     "HERO_DESCRIPTION": "このアプリケーションは、API を介して FastComments アカウントへのアクセスを要求しています。",
     "APP_LABEL": "アプリケーション",
@@ -26,5 +26,6 @@
     "BACK_TO_DASHBOARD": "ダッシュボードへ移動",
     "EXPIRED_HEADING": "このリクエストは期限切れです",
     "BLOCKED_BODY": "アプリケーションを接続するには、このアカウントでAPI管理者権限が必要です。管理者に権限の付与を依頼するか、権限が付与されている別のアカウントに切り替えてください。",
-    "EXPIRED_BODY": "この承認リクエストは無効になりました。アプリケーションに戻って、もう一度接続を開始してください。"
+    "EXPIRED_BODY": "この承認リクエストは無効になりました。アプリケーションに戻って、もう一度接続を開始してください。",
+    "HERO_TITLE_LIGHT_AFTER": ""
 }

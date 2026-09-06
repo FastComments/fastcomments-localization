@@ -3,7 +3,7 @@
     "HEADING": "App connesse",
     "EMPTY_HEADING": "Nessuna app connessa",
     "EMPTY_BODY": "Quando autorizzi un'applicazione, come Claude o Cursor, tramite il server MCP, questa viene visualizzata qui.",
-    "INTRO": "Applicazioni che hai autorizzato a utilizzare l'API FastComments per conto di questo account, come ad esempio gli assistenti IA connessi tramite il server MCP. La revoca di un'app invalida tutti i token in suo possesso.",
+    "INTRO": "Applicazioni che hai autorizzato a utilizzare l'API FastComments per conto di questo account, come ad esempio gli assistenti IA connessi tramite il server MCP.",
     "COLUMN_APP": "Applicazione",
     "COLUMN_PERMISSIONS": "Autorizzazioni",
     "EMPTY_LINK": "Configura il server MCP.",
@@ -15,10 +15,15 @@
     "SCOPE_READ": "Lettura",
     "REVOKE_BUTTON": "Revoca",
     "COLUMN_LAST_USED": "Ultimo utilizzo",
-    "UNVERIFIED_APP_NOTE": "Le applicazioni si registrano automaticamente al momento della connessione. FastComments non le esamina, quindi revoca qualsiasi applicazione che non riconosci.",
+    "UNVERIFIED_APP_NOTE": "Le applicazioni si registrano automaticamente al momento della connessione.",
     "REVOKE_CONFIRM": "Revocare l'accesso a questa applicazione? Sarà necessario autorizzarla nuovamente per riconnettersi.",
     "REVOKED_FLASH": "Accesso revocato. I token utilizzati da questa applicazione smetteranno di funzionare entro un minuto.",
     "MCP_SETUP_LINK": "Server MCP",
     "MCP_SETUP_SUFFIX": "della tua dashboard.",
-    "MCP_SETUP_PREFIX": "Per connettere un nuovo assistente IA, consulta la pagina"
+    "MCP_SETUP_PREFIX": "Per connettere un nuovo assistente IA, consulta la pagina",
+    "OTHER_USERS_HEADING": "App connesse di altri utenti",
+    "COLUMN_USER": "Utente",
+    "OTHER_USERS_EMPTY": "Nessun altro utente ha collegato un'applicazione.",
+    "OTHER_USERS_INTRO": "Ogni applicazione autorizzata da qualsiasi utente di questo account. L'accesso termina automaticamente quando un utente viene rimosso o perde l'autorizzazione di amministratore API, e qui puoi revocarne una qualsiasi.",
+    "USER_NO_LONGER_ON_ACCOUNT": "(utente non più esistente)"
 }

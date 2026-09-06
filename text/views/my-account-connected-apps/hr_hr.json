@@ -2,7 +2,7 @@
     "HEADING": "Povezane aplikacije",
     "EMPTY_HEADING": "Nema povezanih aplikacija",
     "PAGE_TITLE": "Povezane aplikacije - FastComments",
-    "INTRO": "Aplikacije koje ste ovlastili za korištenje FastComments API-ja u ime ovog računa, kao što su AI asistenti povezani putem MCP poslužitelja. Opoziv aplikacije poništava svaki token koji ona posjeduje.",
+    "INTRO": "Aplikacije koje ste ovlastili za korištenje FastComments API-ja u ime ovog računa, kao što su AI asistenti povezani putem MCP poslužitelja.",
     "COLUMN_APP": "Aplikacija",
     "EMPTY_LINK": "Postavite MCP poslužitelj.",
     "COLUMN_WEBSITE": "Web stranica",
@@ -18,7 +18,12 @@
     "MCP_SETUP_SUFFIX": "na svojoj nadzornoj ploči.",
     "REVOKED_FLASH": "Pristup opozvan. Tokeni koje posjeduje ta aplikacija prestaju raditi unutar minute.",
     "REVOKE_CONFIRM": "Želite li opozvati pristup ovoj aplikaciji? Morat ćete je ponovno autorizirati da bi se mogla ponovno povezati.",
-    "UNVERIFIED_APP_NOTE": "Aplikacije se same registriraju prilikom povezivanja. FastComments ih ne pregledava, stoga opozovite sve što ne prepoznajete.",
+    "UNVERIFIED_APP_NOTE": "Aplikacije se registriraju kada se povežu.",
     "MCP_SETUP_PREFIX": "Za povezivanje novog AI asistenta pogledajte stranicu",
-    "MCP_SETUP_LINK": "MCP poslužitelj"
+    "MCP_SETUP_LINK": "MCP poslužitelj",
+    "OTHER_USERS_INTRO": "Svaka aplikacija koju je odobrio bilo koji korisnik ovog računa. Pristup automatski prestaje kada se korisnik ukloni ili izgubi administratorsko dopuštenje API-ja, a bilo koju od njih možete opozvati ovdje.",
+    "OTHER_USERS_HEADING": "Povezane aplikacije drugih korisnika",
+    "OTHER_USERS_EMPTY": "Nijedan drugi korisnik nije povezao aplikaciju.",
+    "COLUMN_USER": "Korisnik",
+    "USER_NO_LONGER_ON_ACCOUNT": "(korisnik više ne postoji)"
 }

@@ -8,7 +8,7 @@
     "COLUMN_APP": "应用",
     "COLUMN_PERMISSIONS": "权限",
     "COLUMN_CONNECTED": "连接时间",
-    "INTRO": "您已授权代表此帐户使用 FastComments API 的应用程序，例如通过 MCP 服务器连接的 AI 助手。撤销应用程序的授权将使其持有的所有令牌失效。",
+    "INTRO": "您已授权代表此帐户使用 FastComments API 的应用程序，例如通过 MCP 服务器连接的 AI 助手。",
     "COLUMN_LAST_USED": "上次使用",
     "COLUMN_ACTIONS": "操作",
     "SCOPE_READ": "读取",
@@ -17,8 +17,13 @@
     "NEVER_USED": "从未",
     "REVOKE_CONFIRM": "要撤销此应用程序的访问权限吗？它需要重新授权才能重新连接。",
     "REVOKED_FLASH": "访问权限已被撤销。该应用程序持有的令牌将在1分钟内失效。",
-    "UNVERIFIED_APP_NOTE": "应用程序在连接时会自行注册。FastComments 不会审核这些应用程序，因此请撤销任何您不认识的应用程序。",
+    "UNVERIFIED_APP_NOTE": "应用程序在连接时会自动注册。",
     "MCP_SETUP_LINK": "MCP 服务器",
     "MCP_SETUP_SUFFIX": "页面。",
-    "MCP_SETUP_PREFIX": "要连接新的 AI 助手，请参阅"
+    "MCP_SETUP_PREFIX": "要连接新的 AI 助手，请参阅",
+    "OTHER_USERS_HEADING": "其他用户的已连接应用",
+    "OTHER_USERS_EMPTY": "没有其他用户连接应用程序。",
+    "COLUMN_USER": "用户",
+    "OTHER_USERS_INTRO": "此处列出此帐户下任何用户授权的所有应用程序。当用户被移除或失去 API 管理员权限时，访问权限将自动终止，您也可以在此处撤销其中任何一项。",
+    "USER_NO_LONGER_ON_ACCOUNT": "（用户已不存在）"
 }

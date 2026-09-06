@@ -9,7 +9,7 @@
     "COLUMN_CONNECTED": "Connectée",
     "COLUMN_LAST_USED": "Dernière utilisation",
     "COLUMN_PERMISSIONS": "Autorisations",
-    "INTRO": "Les applications que vous avez autorisées à utiliser l'API FastComments pour ce compte, telles que les assistants IA connectés via le serveur MCP, peuvent être révoquées. La révocation d'une application invalide tous les jetons qu'elle détient.",
+    "INTRO": "Applications que vous avez autorisées à utiliser l'API FastComments au nom de ce compte, telles que les assistants IA connectés via le serveur MCP.",
     "COLUMN_ACTIONS": "Actions",
     "SCOPE_WRITE": "Écrire",
     "SCOPE_READ": "Lire",
@@ -17,8 +17,13 @@
     "NEVER_USED": "Jamais",
     "MCP_SETUP_LINK": "Serveur MCP",
     "REVOKE_CONFIRM": "Révoquer l'accès de cette application ? Elle devra être autorisée à nouveau pour se reconnecter.",
-    "UNVERIFIED_APP_NOTE": "Les applications s'enregistrent automatiquement lors de leur connexion. FastComments ne les vérifie pas ; par conséquent, révoquez toute application que vous ne reconnaissez pas.",
+    "UNVERIFIED_APP_NOTE": "Les applications s'enregistrent automatiquement lors de leur connexion.",
     "REVOKED_FLASH": "Accès révoqué. Les jetons détenus par cette application cessent de fonctionner dans une minute.",
     "MCP_SETUP_SUFFIX": "de votre tableau de bord.",
-    "MCP_SETUP_PREFIX": "Pour connecter un nouvel assistant IA, consultez la page"
+    "MCP_SETUP_PREFIX": "Pour connecter un nouvel assistant IA, consultez la page",
+    "OTHER_USERS_INTRO": "Toutes les applications autorisées par n'importe quel utilisateur de ce compte. L'accès prend fin automatiquement lorsqu'un utilisateur est supprimé ou perd les droits d'administrateur API, et vous pouvez en révoquer n'importe laquelle ici.",
+    "OTHER_USERS_HEADING": "Applications connectées d'autres utilisateurs",
+    "OTHER_USERS_EMPTY": "Aucun autre utilisateur n'a connecté d'application.",
+    "COLUMN_USER": "Utilisateur",
+    "USER_NO_LONGER_ON_ACCOUNT": "(l'utilisateur n'existe plus)"
 }

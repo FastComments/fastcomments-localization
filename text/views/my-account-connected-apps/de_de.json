@@ -6,7 +6,7 @@
     "COLUMN_LAST_USED": "Zuletzt verwendet",
     "COLUMN_ACTIONS": "Aktionen",
     "COLUMN_PERMISSIONS": "Berechtigungen",
-    "INTRO": "Anwendungen, die Sie zur Nutzung der FastComments-API im Namen dieses Kontos autorisiert haben, wie z. B. KI-Assistenten, die über den MCP-Server verbunden sind. Durch das Widerrufen einer App werden alle zugehörigen Token ungültig.",
+    "INTRO": "Anwendungen, die Sie zur Nutzung der FastComments-API im Namen dieses Kontos autorisiert haben, wie z. B. KI-Assistenten, die über den MCP-Server verbunden sind.",
     "EMPTY_LINK": "Richten Sie den MCP-Server ein.",
     "EMPTY_HEADING": "Keine verbundenen Apps",
     "COLUMN_CONNECTED": "Verbunden",
@@ -18,7 +18,12 @@
     "MCP_SETUP_SUFFIX": "in Ihrem Dashboard.",
     "REVOKED_FLASH": "Zugriff widerrufen. Die von dieser Anwendung verwendeten Token verlieren innerhalb einer Minute ihre Gültigkeit.",
     "REVOKE_CONFIRM": "Soll der Zugriff dieser Anwendung widerrufen werden? Dann muss sie erneut autorisiert werden, um die Verbindung wiederherzustellen.",
-    "UNVERIFIED_APP_NOTE": "Anwendungen registrieren sich automatisch bei der Verbindungsherstellung. FastComments überprüft diese nicht; widerrufen Sie daher den Zugriff aller Anwendungen, die Sie nicht kennen.",
+    "UNVERIFIED_APP_NOTE": "Anwendungen registrieren sich automatisch bei der Verbindungsherstellung.",
     "MCP_SETUP_PREFIX": "Um einen neuen KI-Assistenten zu verbinden, öffnen Sie die Seite",
-    "MCP_SETUP_LINK": "MCP-Server"
+    "MCP_SETUP_LINK": "MCP-Server",
+    "OTHER_USERS_HEADING": "Verbundene Apps anderer Benutzer",
+    "OTHER_USERS_EMPTY": "Kein anderer Benutzer hat eine Anwendung verbunden.",
+    "OTHER_USERS_INTRO": "Jede Anwendung, die von einem Benutzer dieses Kontos autorisiert wurde. Der Zugriff endet automatisch, wenn ein Benutzer entfernt wird oder die API-Administratorberechtigung verliert, und Sie können jeden dieser Zugriffe hier widerrufen.",
+    "COLUMN_USER": "Benutzer",
+    "USER_NO_LONGER_ON_ACCOUNT": "(Benutzer existiert nicht mehr)"
 }

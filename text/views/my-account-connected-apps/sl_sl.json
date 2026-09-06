@@ -16,9 +16,14 @@
     "REVOKE_BUTTON": "Prekliči",
     "REVOKE_CONFIRM": "Želite tej aplikaciji preklicati dostop? Za ponovno povezavo jo bo treba ponovno avtorizirati.",
     "REVOKED_FLASH": "Dostop preklican. Žetoni, ki jih ima ta aplikacija, prenehajo delovati v eni minuti.",
-    "UNVERIFIED_APP_NOTE": "Aplikacije se registrirajo same, ko se povežejo. FastComments jih ne pregleduje, zato prekličite vse, česar ne prepoznate.",
-    "INTRO": "Aplikacije, ki ste jih pooblastili za uporabo FastComments API-ja v imenu tega računa, kot so pomočniki umetne inteligence, povezani prek strežnika MCP. Preklic aplikacije razveljavi vse žetone, ki jih ima.",
+    "UNVERIFIED_APP_NOTE": "Aplikacije se registrirajo, ko se povežejo.",
+    "INTRO": "Aplikacije, ki ste jih pooblastili za uporabo FastComments API-ja v imenu tega računa, kot so pomočniki umetne inteligence, povezani prek strežnika MCP.",
     "MCP_SETUP_SUFFIX": "na svoji nadzorni plošči.",
     "MCP_SETUP_PREFIX": "Če želite povezati novega pomočnika z umetno inteligenco, glejte stran",
-    "MCP_SETUP_LINK": "Strežnik MCP"
+    "MCP_SETUP_LINK": "Strežnik MCP",
+    "OTHER_USERS_HEADING": "Povezane aplikacije drugih uporabnikov",
+    "COLUMN_USER": "Uporabnik",
+    "OTHER_USERS_EMPTY": "Noben drug uporabnik ni povezal aplikacije.",
+    "USER_NO_LONGER_ON_ACCOUNT": "(uporabnik ne obstaja več)",
+    "OTHER_USERS_INTRO": "Vsaka aplikacija, ki jo je odobril kateri koli uporabnik tega računa. Dostop samodejno preneha, ko je uporabnik odstranjen ali izgubi dovoljenje skrbnika API-ja, katero koli od njih pa lahko prekličete tukaj."
 }

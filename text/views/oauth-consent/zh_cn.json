@@ -1,7 +1,7 @@
 {
-    "HERO_TITLE_BOLD": "应用程序",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "授权",
     "APP_LABEL": "应用",
-    "HERO_TITLE_LIGHT": "授权",
     "PAGE_TITLE": "授权应用程序 - FastComments",
     "HERO_DESCRIPTION": "此应用程序正在通过 API 请求访问您的 FastComments 帐户。",
     "WEBSITE_LABEL": "网站",
@@ -26,5 +26,6 @@
     "BLOCKED_BODY": "您的用户需要拥有此帐户的 API 管理员权限才能连接应用程序。请向管理员申请该权限，或切换到您拥有该权限的帐户。",
     "BACK_TO_DASHBOARD": "前往控制面板",
     "EXPIRED_BODY": "授权请求已失效。请返回应用程序并重新建立连接。",
-    "EXPIRED_HEADING": "此请求已过期"
+    "EXPIRED_HEADING": "此请求已过期",
+    "HERO_TITLE_LIGHT_AFTER": "一个应用程序"
 }

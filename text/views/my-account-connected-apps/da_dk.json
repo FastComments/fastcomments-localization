@@ -6,7 +6,7 @@
     "COLUMN_WEBSITE": "Websted",
     "COLUMN_LAST_USED": "Sidst brugt",
     "EMPTY_BODY": "Når du autoriserer en applikation, f.eks. Claude eller Cursor, via MCP-serveren, vises den her.",
-    "INTRO": "Applikationer, du har autoriseret til at bruge FastComments API på vegne af denne konto, f.eks. AI-assistenter, der er forbundet via MCP-serveren. Tilbagekaldelse af en app ugyldiggør alle de tokens, den indeholder.",
+    "INTRO": "Applikationer, du har autoriseret til at bruge FastComments API på vegne af denne konto, f.eks. AI-assistenter, der er forbundet via MCP-serveren.",
     "COLUMN_ACTIONS": "Handlinger",
     "SCOPE_READ": "Læse",
     "NEVER_USED": "Aldrig",
@@ -18,7 +18,12 @@
     "MCP_SETUP_PREFIX": "Gå til siden",
     "MCP_SETUP_SUFFIX": "for at forbinde en ny AI-assistent.",
     "REVOKED_FLASH": "Adgang tilbagekaldt. Tokens, der opbevares af den pågældende applikation, holder op med at virke inden for et minut.",
-    "UNVERIFIED_APP_NOTE": "Applikationer registrerer sig selv, når de opretter forbindelse. FastComments gennemgår dem ikke, så tilbagekald alt, hvad du ikke genkender.",
+    "UNVERIFIED_APP_NOTE": "Applikationer registrerer sig selv, når de opretter forbindelse.",
     "COLUMN_PERMISSIONS": "Tilladelser",
-    "MCP_SETUP_LINK": "MCP-server"
+    "MCP_SETUP_LINK": "MCP-server",
+    "OTHER_USERS_EMPTY": "Ingen anden bruger har tilsluttet en applikation.",
+    "OTHER_USERS_HEADING": "Andre brugeres forbundne apps",
+    "COLUMN_USER": "Bruger",
+    "OTHER_USERS_INTRO": "Alle applikationer, der er autoriseret af en bruger på denne konto. Adgangen ophører automatisk, når en bruger fjernes eller mister API-administratortilladelsen, og du kan tilbagekalde hvilken som helst af dem her.",
+    "USER_NO_LONGER_ON_ACCOUNT": "(brugeren findes ikke længere)"
 }

@@ -7,7 +7,7 @@
     "EMPTY_LINK": "Configure el servidor MCP.",
     "COLUMN_PERMISSIONS": "Permisos",
     "EMPTY_BODY": "Cuando autorice una aplicación, como Claude o Cursor, a través del servidor MCP, aparecerá aquí.",
-    "INTRO": "Aplicaciones que haya autorizado a usar la API de FastComments en nombre de esta cuenta, como asistentes de IA conectados a través del servidor MCP. Revocar una aplicación invalida todos los tokens que posee.",
+    "INTRO": "Aplicaciones que ha autorizado a usar la API de FastComments en nombre de esta cuenta, como los asistentes de IA conectados a través del servidor MCP.",
     "COLUMN_CONNECTED": "Conectada",
     "COLUMN_LAST_USED": "Último uso",
     "COLUMN_ACTIONS": "Acciones",
@@ -17,8 +17,13 @@
     "NEVER_USED": "Nunca",
     "REVOKED_FLASH": "Acceso revocado. Los tokens que posee esa aplicación dejan de funcionar en un minuto.",
     "REVOKE_CONFIRM": "¿Revocar el acceso a esta aplicación? Deberá autorizarse de nuevo para volver a conectarse.",
-    "UNVERIFIED_APP_NOTE": "Las aplicaciones se registran automáticamente al conectarse. FastComments no las revisa, así que revoque cualquier cosa que no reconozca.",
+    "UNVERIFIED_APP_NOTE": "Las aplicaciones se registran automáticamente al conectarse.",
     "MCP_SETUP_PREFIX": "Para conectar un nuevo asistente de IA, consulte la página",
     "MCP_SETUP_LINK": "Servidor MCP",
-    "MCP_SETUP_SUFFIX": "de su panel de control."
+    "MCP_SETUP_SUFFIX": "de su panel de control.",
+    "COLUMN_USER": "Usuario",
+    "OTHER_USERS_HEADING": "Aplicaciones conectadas de otros usuarios",
+    "OTHER_USERS_EMPTY": "Ningún otro usuario ha conectado una aplicación.",
+    "USER_NO_LONGER_ON_ACCOUNT": "(el usuario ya no existe)",
+    "OTHER_USERS_INTRO": "Todas las aplicaciones autorizadas por cualquier usuario de esta cuenta. El acceso finaliza automáticamente cuando se elimina un usuario o este pierde el permiso de administrador de API, y aquí puede revocar cualquiera de ellas."
 }

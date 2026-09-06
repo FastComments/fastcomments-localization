@@ -426,8 +426,9 @@
         "image-upload": 1,
         "dpa": 17,
         "my-account-outreach": 77,
-        "my-account-connected-apps": 22,
-        "oauth-consent": 28
+        "my-account-connected-apps": 27,
+        "oauth-consent": 29,
+        "agent-tenant-claim": 37
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -11257,7 +11258,12 @@
         "t19": "UNVERIFIED_APP_NOTE",
         "t20": "MCP_SETUP_PREFIX",
         "t21": "MCP_SETUP_LINK",
-        "t22": "MCP_SETUP_SUFFIX"
+        "t22": "MCP_SETUP_SUFFIX",
+        "t23": "OTHER_USERS_HEADING",
+        "t24": "OTHER_USERS_INTRO",
+        "t25": "OTHER_USERS_EMPTY",
+        "t26": "COLUMN_USER",
+        "t27": "USER_NO_LONGER_ON_ACCOUNT"
     },
     "oauth-consent": {
         "t1": "PAGE_TITLE",
@@ -11287,6 +11293,46 @@
         "t25": "BLOCKED_BODY",
         "t26": "EXPIRED_HEADING",
         "t27": "EXPIRED_BODY",
-        "t28": "BACK_TO_DASHBOARD"
+        "t28": "BACK_TO_DASHBOARD",
+        "t29": "HERO_TITLE_LIGHT_AFTER"
+    },
+    "agent-tenant-claim": {
+        "t1": "PAGE_TITLE",
+        "t2": "HERO_TITLE_LIGHT",
+        "t3": "HERO_TITLE_BOLD",
+        "t4": "HERO_DESCRIPTION",
+        "t5": "NOT_FOUND_HEADING",
+        "t6": "NOT_FOUND_BODY",
+        "t7": "CONFIRM_HEADING",
+        "t8": "CONFIRM_BODY",
+        "t9": "BUTTON_CLAIM",
+        "t10": "CLAIMED_HEADING",
+        "t11": "CLAIMED_BODY",
+        "t12": "BUTTON_GO_TO_DASHBOARD",
+        "t13": "CLAIMED_MANAGED_HEADING",
+        "t14": "CLAIMED_MANAGED_BODY",
+        "t15": "BUTTON_SWITCH_TENANT",
+        "t16": "CHOOSE_HEADING",
+        "t17": "CHOOSE_BODY",
+        "t18": "LABEL_TENANT_NAME",
+        "t19": "LABEL_DOMAINS",
+        "t20": "NO_DOMAINS",
+        "t21": "KEYS_HEADING",
+        "t22": "KEY_UNNAMED",
+        "t23": "KEYS_BODY_BEFORE_CLAIM",
+        "t24": "KEYS_BODY_AFTER_CLAIM",
+        "t25": "KEYS_BODY_MANAGED",
+        "t26": "KEYS_REVOKED_BODY",
+        "t27": "KEYS_REVOKED_MANAGED_BODY",
+        "t28": "KEEP_KEYS_LABEL",
+        "t29": "KEEP_KEYS_HELP",
+        "t30": "BUTTON_REVOKE_KEY",
+        "t31": "LINK_MANAGE_KEYS",
+        "t32": "BUTTON_ATTACH",
+        "t33": "ATTACH_HELP",
+        "t34": "NO_WHITE_LABEL",
+        "t35": "NO_PERMISSION",
+        "t36": "BUTTON_LOGOUT",
+        "t37": "LOGOUT_HELP"
     }
 }

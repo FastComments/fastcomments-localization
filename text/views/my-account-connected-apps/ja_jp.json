@@ -2,7 +2,7 @@
     "EMPTY_HEADING": "接続されているアプリはありません",
     "COLUMN_APP": "アプリケーション",
     "HEADING": "接続されたアプリ",
-    "INTRO": "このアカウントに代わってFastComments APIを使用することを許可したアプリケーション（MCPサーバー経由で接続されたAIアシスタントなど）の一覧です。アプリの許可を取り消すと、そのアプリが保持するすべてのトークンが無効になります。",
+    "INTRO": "MCPサーバー経由で接続されたAIアシスタントなど、このアカウントに代わってFastComments APIを使用することを許可したアプリケーション。",
     "PAGE_TITLE": "接続されたアプリ - FastComments",
     "COLUMN_WEBSITE": "Webサイト",
     "COLUMN_PERMISSIONS": "権限",
@@ -16,9 +16,14 @@
     "NEVER_USED": "未使用",
     "REVOKE_BUTTON": "取り消す",
     "REVOKED_FLASH": "アクセス権が取り消されました。当該アプリケーションが保持するトークンは、1分以内に無効になります。",
-    "UNVERIFIED_APP_NOTE": "アプリケーションは接続時に自動的に登録されます。FastCommentsは登録内容を審査しないため、身に覚えのないアプリケーションは登録を取り消してください。",
+    "UNVERIFIED_APP_NOTE": "アプリケーションは接続時に自身を登録します。",
     "REVOKE_CONFIRM": "このアプリケーションのアクセス権を取り消しますか？再接続するには、再度承認が必要になります。",
     "MCP_SETUP_PREFIX": "新しいAIアシスタントを接続するには、",
     "MCP_SETUP_SUFFIX": "ページをご覧ください。",
-    "MCP_SETUP_LINK": "MCPサーバー"
+    "MCP_SETUP_LINK": "MCPサーバー",
+    "OTHER_USERS_HEADING": "他のユーザーの接続済みアプリ",
+    "COLUMN_USER": "ユーザー",
+    "OTHER_USERS_EMPTY": "他のユーザーはアプリケーションを接続していません。",
+    "USER_NO_LONGER_ON_ACCOUNT": "（ユーザーは既に存在しません）",
+    "OTHER_USERS_INTRO": "このアカウントのいずれかのユーザーが承認したすべてのアプリケーションです。ユーザーが削除されたり、API管理者権限を失ったりすると、アクセスは自動的に終了します。また、ここでいずれのアクセスも取り消すことができます。"
 }

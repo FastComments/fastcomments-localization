@@ -2,7 +2,7 @@
     "HEADING": "Aplicativos Conectados",
     "PAGE_TITLE": "Aplicativos Conectados - FastComments",
     "EMPTY_HEADING": "Nenhum aplicativo conectado",
-    "INTRO": "Aplicativos que você autorizou a usar a API FastComments em nome desta conta, como assistentes de IA conectados por meio do servidor MCP. Revogar a autorização de um aplicativo invalida todos os tokens que ele possui.",
+    "INTRO": "Aplicativos que você autorizou a usar a API FastComments em nome desta conta, como assistentes de IA conectados por meio do servidor MCP.",
     "COLUMN_APP": "Aplicativo",
     "COLUMN_WEBSITE": "Site",
     "COLUMN_LAST_USED": "Último uso",
@@ -19,6 +19,11 @@
     "MCP_SETUP_LINK": "Servidor MCP",
     "REVOKE_CONFIRM": "Revogar o acesso deste aplicativo? Ele precisará ser autorizado novamente para que a conexão seja restabelecida.",
     "REVOKED_FLASH": "Acesso revogado. Os tokens mantidos por esse aplicativo param de funcionar em um minuto.",
-    "UNVERIFIED_APP_NOTE": "Os aplicativos se registram automaticamente ao se conectarem. O FastComments não os revisa, portanto, revogue qualquer aplicativo que você não reconheça.",
-    "MCP_SETUP_PREFIX": "Para conectar um novo assistente de IA, consulte a página"
+    "UNVERIFIED_APP_NOTE": "Os aplicativos se registram automaticamente ao se conectarem.",
+    "MCP_SETUP_PREFIX": "Para conectar um novo assistente de IA, consulte a página",
+    "OTHER_USERS_EMPTY": "Nenhum outro usuário conectou um aplicativo.",
+    "OTHER_USERS_HEADING": "Aplicativos conectados de outros usuários",
+    "OTHER_USERS_INTRO": "Todos os aplicativos autorizados por qualquer usuário desta conta. O acesso termina automaticamente quando um usuário é removido ou perde a permissão de Administrador da API, e você pode revogar qualquer um deles aqui.",
+    "COLUMN_USER": "Usuário",
+    "USER_NO_LONGER_ON_ACCOUNT": "(o usuário não existe mais)"
 }

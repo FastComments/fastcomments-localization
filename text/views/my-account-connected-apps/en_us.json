@@ -1,7 +1,7 @@
 {
     "PAGE_TITLE": "Connected Apps - FastComments",
     "HEADING": "Connected Apps",
-    "INTRO": "Applications you have authorized to use the FastComments API on behalf of this account, such as AI assistants connected through the MCP server. Revoking an app invalidates every token it holds.",
+    "INTRO": "Applications you have authorized to use the FastComments API on behalf of this account, such as AI assistants connected through the MCP server.",
     "EMPTY_HEADING": "No connected apps",
     "EMPTY_BODY": "When you authorize an application, such as Claude or Cursor through the MCP server, it appears here.",
     "EMPTY_LINK": "Set up the MCP server.",
@@ -17,7 +17,12 @@
     "REVOKE_BUTTON": "Revoke",
     "REVOKE_CONFIRM": "Revoke this application's access? It will have to be authorized again to reconnect.",
     "REVOKED_FLASH": "Access revoked. Tokens held by that application stop working within a minute.",
-    "UNVERIFIED_APP_NOTE": "Applications register themselves when they connect. FastComments does not review them, so revoke anything you do not recognize.",
+    "UNVERIFIED_APP_NOTE": "Applications register themselves when they connect.",
+    "OTHER_USERS_HEADING": "Connected apps of other users",
+    "OTHER_USERS_INTRO": "Every application authorized by any user of this account. Access ends automatically when a user is removed or loses the API Admin permission, and you can revoke any of these here.",
+    "OTHER_USERS_EMPTY": "No other user has connected an application.",
+    "COLUMN_USER": "User",
+    "USER_NO_LONGER_ON_ACCOUNT": "(user no longer exists)",
     "MCP_SETUP_PREFIX": "To connect a new AI assistant, see the",
     "MCP_SETUP_LINK": "MCP Server",
     "MCP_SETUP_SUFFIX": "page."

@@ -3,7 +3,7 @@
     "PAGE_TITLE": "Verbonden apps - FastComments",
     "COLUMN_APP": "Applicatie",
     "COLUMN_WEBSITE": "Website",
-    "INTRO": "Applicaties die u gemachtigd hebt om namens dit account de FastComments API te gebruiken, zoals AI-assistenten die via de MCP-server zijn verbonden. Het intrekken van een app maakt alle tokens die deze app bezit ongeldig.",
+    "INTRO": "Applicaties die u gemachtigd hebt om namens dit account de FastComments API te gebruiken, zoals AI-assistenten die via de MCP-server zijn verbonden.",
     "EMPTY_BODY": "Wanneer u een applicatie, zoals Claude of Cursor, via de MCP-server autoriseert, verschijnt deze hier.",
     "EMPTY_HEADING": "Geen verbonden apps",
     "EMPTY_LINK": "Stel de MCP-server in.",
@@ -20,5 +20,10 @@
     "REVOKE_CONFIRM": "Wilt u de toegang van deze applicatie intrekken? Dan moet deze opnieuw worden geautoriseerd om weer verbinding te kunnen maken.",
     "REVOKED_FLASH": "Toegang ingetrokken. Tokens die door die applicatie worden beheerd, werken binnen een minuut niet meer.",
     "MCP_SETUP_LINK": "MCP-server",
-    "UNVERIFIED_APP_NOTE": "Applicaties registreren zichzelf wanneer ze verbinding maken. FastComments controleert ze niet, dus trek de toegang in van alles wat u niet herkent."
+    "UNVERIFIED_APP_NOTE": "Applicaties registreren zichzelf wanneer ze verbinding maken.",
+    "OTHER_USERS_HEADING": "Verbonden apps van andere gebruikers",
+    "COLUMN_USER": "Gebruiker",
+    "USER_NO_LONGER_ON_ACCOUNT": "(gebruiker bestaat niet meer)",
+    "OTHER_USERS_INTRO": "Elke applicatie die is geautoriseerd door een gebruiker van dit account. De toegang wordt automatisch beëindigd wanneer een gebruiker wordt verwijderd of de machtiging 'API-beheerder' verliest, en u kunt hier elk van deze toegangen intrekken.",
+    "OTHER_USERS_EMPTY": "Geen andere gebruiker heeft een applicatie gekoppeld."
 }

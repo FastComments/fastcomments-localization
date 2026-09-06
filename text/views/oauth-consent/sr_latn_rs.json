@@ -1,6 +1,6 @@
 {
-    "HERO_TITLE_LIGHT": "Ovlašćivanje",
-    "HERO_TITLE_BOLD": "aplikacije",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Ovlastite",
     "APP_LABEL": "Aplikacija",
     "WEBSITE_LABEL": "Veb-sajt",
     "APP_UNVERIFIED_NOTE": "FastComments ne pregleda aplikacije koje se povezuju na ovaj način. Nastavite samo ako ste sami pokrenuli ovu vezu i verujete gore navedenoj aplikaciji.",
@@ -26,5 +26,6 @@
     "BACK_TO_DASHBOARD": "Idi na kontrolnu tablu",
     "EXPIRED_BODY": "Zahtev za autorizaciju više nije važeći. Vratite se u aplikaciju i ponovo pokrenite povezivanje.",
     "EXPIRED_HEADING": "Ovaj zahtev je istekao",
-    "BLOCKED_BODY": "Vašem korisniku je potrebna administratorska dozvola za API na ovom nalogu da bi povezao aplikacije. Zatražite tu dozvolu od administratora ili pređite na nalog gde je imate."
+    "BLOCKED_BODY": "Vašem korisniku je potrebna administratorska dozvola za API na ovom nalogu da bi povezao aplikacije. Zatražite tu dozvolu od administratora ili pređite na nalog gde je imate.",
+    "HERO_TITLE_LIGHT_AFTER": "aplikaciju"
 }

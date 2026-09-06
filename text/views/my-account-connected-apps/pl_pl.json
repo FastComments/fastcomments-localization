@@ -6,7 +6,7 @@
     "EMPTY_BODY": "Po autoryzowaniu aplikacji, np. Claude lub Cursor poprzez serwer MCP, pojawia się ona tutaj.",
     "EMPTY_HEADING": "Brak połączonych aplikacji",
     "EMPTY_LINK": "Skonfiguruj serwer MCP.",
-    "INTRO": "Aplikacje, którym udzieliłeś autoryzacji do korzystania z interfejsu API FastComments w imieniu tego konta, takie jak asystenci AI połączeni przez serwer MCP. Cofnięcie autoryzacji aplikacji powoduje unieważnienie wszystkich posiadanych przez nią tokenów.",
+    "INTRO": "Aplikacje, którym udzieliłeś upoważnienia do korzystania z interfejsu API FastComments w imieniu tego konta, np. asystenci AI połączeni za pośrednictwem serwera MCP.",
     "COLUMN_PERMISSIONS": "Uprawnienia",
     "COLUMN_CONNECTED": "Połączono",
     "COLUMN_LAST_USED": "Ostatnie użycie",
@@ -19,6 +19,11 @@
     "MCP_SETUP_SUFFIX": "po instrukcje.",
     "REVOKED_FLASH": "Dostęp został cofnięty. Tokeny przechowywane przez tę aplikację przestaną działać w ciągu minuty.",
     "REVOKE_CONFIRM": "Cofnąć dostęp tej aplikacji? Aby ponownie się połączyć, konieczna będzie ponowna autoryzacja.",
-    "UNVERIFIED_APP_NOTE": "Aplikacje rejestrują się same po nawiązaniu połączenia. FastComments ich nie sprawdza, więc cofnij dostęp wszystkim, których nie rozpoznajesz.",
-    "MCP_SETUP_PREFIX": "Aby podłączyć nowego asystenta AI, zajrzyj na stronę"
+    "UNVERIFIED_APP_NOTE": "Aplikacje rejestrują się same po nawiązaniu połączenia.",
+    "MCP_SETUP_PREFIX": "Aby podłączyć nowego asystenta AI, zajrzyj na stronę",
+    "COLUMN_USER": "Użytkownik",
+    "OTHER_USERS_INTRO": "Każda aplikacja autoryzowana przez dowolnego użytkownika tego konta. Dostęp kończy się automatycznie po usunięciu użytkownika z konta lub utracie przez niego uprawnienia administratora API, a dostęp każdej z tych aplikacji możesz cofnąć tutaj.",
+    "OTHER_USERS_HEADING": "Połączone aplikacje innych użytkowników",
+    "USER_NO_LONGER_ON_ACCOUNT": "(użytkownik już nie istnieje)",
+    "OTHER_USERS_EMPTY": "Żaden inny użytkownik nie połączył aplikacji."
 }

@@ -5,7 +5,7 @@
     "EMPTY_HEADING": "沒有已連線的應用程式",
     "COLUMN_CONNECTED": "連線時間",
     "COLUMN_PERMISSIONS": "權限",
-    "INTRO": "您已授權代表此帳戶使用 FastComments API 的應用程式，例如透過 MCP 伺服器連線的 AI 助理。撤銷應用程式的授權將使其持有的所有令牌失效。",
+    "INTRO": "您已授權代表此帳戶使用 FastComments API 的應用程式，例如透過 MCP 伺服器連線的 AI 助理。",
     "PAGE_TITLE": "已連線的應用程式 - FastComments",
     "COLUMN_LAST_USED": "上次使用",
     "COLUMN_ACTIONS": "操作",
@@ -20,5 +20,10 @@
     "REVOKED_FLASH": "存取權限已被撤銷。該應用程式持有的令牌將在1分鐘內失效。",
     "REVOKE_CONFIRM": "要撤銷此應用程式的存取權限嗎？它需要重新授權才能重新連線。",
     "MCP_SETUP_PREFIX": "若要連接新的 AI 助手，請參閱",
-    "UNVERIFIED_APP_NOTE": "應用程式在連線時會自行註冊。FastComments 不會審核這些應用程式，因此請撤銷任何您不認識的應用程式。"
+    "UNVERIFIED_APP_NOTE": "應用程式在連線時會自動註冊。",
+    "COLUMN_USER": "使用者",
+    "OTHER_USERS_INTRO": "此處列出此帳戶下任何使用者授權的所有應用程式。當使用者被移除或失去 API 管理員權限時，存取權限將自動終止，您也可以在此處撤銷其中任何一項。",
+    "OTHER_USERS_EMPTY": "沒有其他使用者連線應用程式。",
+    "OTHER_USERS_HEADING": "其他使用者的已連線應用程式",
+    "USER_NO_LONGER_ON_ACCOUNT": "（使用者已不存在）"
 }

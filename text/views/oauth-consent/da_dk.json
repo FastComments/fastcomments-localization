@@ -1,8 +1,8 @@
 {
-    "HERO_TITLE_LIGHT": "Godkend",
     "APP_LABEL": "Applikation",
     "PAGE_TITLE": "Godkend applikation - FastComments",
-    "HERO_TITLE_BOLD": "en applikation",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Godkend",
     "WEBSITE_LABEL": "Websted",
     "HERO_DESCRIPTION": "Denne applikation beder om adgang til din FastComments-konto via API'en.",
     "APP_UNVERIFIED_NOTE": "FastComments gennemgår ikke applikationer, der opretter forbindelse på denne måde. Fortsæt kun, hvis du selv har startet denne forbindelse og har tillid til ovennævnte applikation.",
@@ -26,5 +26,6 @@
     "BLOCKED_BODY": "Din bruger skal have API-administratortilladelse på denne konto for at kunne oprette forbindelse til applikationer. Bed en administrator om denne tilladelse, eller skift til en konto, hvor du har den.",
     "MANAGE_SUFFIX": "i dit dashboard.",
     "BACK_TO_DASHBOARD": "Gå til dashboard",
-    "EXPIRED_BODY": "Autorisationsanmodningen er ikke længere gyldig. Gå tilbage til applikationen, og start forbindelsen igen."
+    "EXPIRED_BODY": "Autorisationsanmodningen er ikke længere gyldig. Gå tilbage til applikationen, og start forbindelsen igen.",
+    "HERO_TITLE_LIGHT_AFTER": "en applikation"
 }

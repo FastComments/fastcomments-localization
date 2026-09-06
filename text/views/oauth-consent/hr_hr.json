@@ -1,10 +1,10 @@
 {
-    "HERO_TITLE_LIGHT": "Autorizacija",
     "APP_LABEL": "Aplikacija",
     "HERO_DESCRIPTION": "Ova aplikacija traži pristup vašem FastComments računu putem API-ja.",
     "WEBSITE_LABEL": "Web stranica",
     "ACCOUNT_LABEL": "Račun",
-    "HERO_TITLE_BOLD": "aplikacije",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Autorizirajte",
     "PAGE_TITLE": "Autorizacija aplikacije - FastComments",
     "APP_UNVERIFIED_NOTE": "FastComments ne pregledava aplikacije koje se povezuju na ovaj način. Nastavite samo ako ste sami pokrenuli ovu vezu i vjerujete gore navedenoj aplikaciji.",
     "REDIRECT_LABEL": "Vraća vas na",
@@ -26,5 +26,6 @@
     "EXPIRED_HEADING": "Ovaj zahtjev je istekao",
     "BACK_TO_DASHBOARD": "Idi na nadzornu ploču",
     "BLOCKED_BODY": "Vašem korisniku je potrebno administratorsko dopuštenje API-ja na ovom računu za povezivanje aplikacija. Zatražite to dopuštenje od administratora ili se prebacite na račun na kojem ga imate.",
-    "EXPIRED_BODY": "Zahtjev za autorizaciju više nije valjan. Vratite se u aplikaciju i ponovno pokrenite povezivanje."
+    "EXPIRED_BODY": "Zahtjev za autorizaciju više nije valjan. Vratite se u aplikaciju i ponovno pokrenite povezivanje.",
+    "HERO_TITLE_LIGHT_AFTER": "aplikaciju"
 }

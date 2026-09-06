@@ -1,9 +1,9 @@
 {
-    "HERO_TITLE_LIGHT": "Autoryzuj",
     "PAGE_TITLE": "Autoryzuj aplikację - FastComments",
     "APP_LABEL": "Aplikacja",
     "WEBSITE_LABEL": "Strona internetowa",
-    "HERO_TITLE_BOLD": "aplikację",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Autoryzuj",
     "REDIRECT_LABEL": "Powrót do",
     "HERO_DESCRIPTION": "Ta aplikacja prosi o dostęp do Twojego konta FastComments poprzez API.",
     "APP_UNVERIFIED_NOTE": "FastComments nie sprawdza aplikacji łączących się w ten sposób. Kontynuuj tylko wtedy, gdy samodzielnie nawiązałeś to połączenie i ufasz aplikacji wymienionej powyżej.",
@@ -26,5 +26,6 @@
     "BLOCKED_BODY": "Twój użytkownik potrzebuje uprawnień administratora API na tym koncie, aby łączyć aplikacje. Poproś administratora o te uprawnienia lub przełącz się na konto, na którym je masz.",
     "BACK_TO_DASHBOARD": "Przejdź do panelu",
     "EXPIRED_HEADING": "To żądanie wygasło",
-    "EXPIRED_BODY": "Żądanie autoryzacji jest już nieważne. Wróć do aplikacji i ponownie nawiąż połączenie."
+    "EXPIRED_BODY": "Żądanie autoryzacji jest już nieważne. Wróć do aplikacji i ponownie nawiąż połączenie.",
+    "HERO_TITLE_LIGHT_AFTER": "aplikację"
 }

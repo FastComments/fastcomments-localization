@@ -2,7 +2,7 @@
     "PAGE_TITLE": "Povezane aplikacije - FastComments",
     "HEADING": "Povezane aplikacije",
     "EMPTY_HEADING": "Nema povezanih aplikacija",
-    "INTRO": "Aplikacije koje ste ovlastili da koriste FastComments API u ime ovog naloga, kao što su AI asistenti povezani preko MCP servera. Opozivanje aplikacije poništava svaki token koji ona poseduje.",
+    "INTRO": "Aplikacije koje ste ovlastili da koriste FastComments API u ime ovog naloga, kao što su AI asistenti povezani preko MCP servera.",
     "COLUMN_APP": "Aplikacija",
     "COLUMN_WEBSITE": "Veb-sajt",
     "EMPTY_BODY": "Kada autorizujete aplikaciju, kao što su Claude ili Cursor preko MCP servera, ona se pojavljuje ovde.",
@@ -18,7 +18,12 @@
     "MCP_SETUP_LINK": "MCP server",
     "REVOKE_CONFIRM": "Da li želite da opozovete pristup ovoj aplikaciji? Moraćete ponovo da je ovlastite da biste se ponovo povezali.",
     "MCP_SETUP_PREFIX": "Da biste povezali novog AI asistenta, pogledajte stranicu",
-    "UNVERIFIED_APP_NOTE": "Aplikacije se same registruju kada se povežu. FastComments ih ne pregleda, zato opozovite sve što ne prepoznajete.",
+    "UNVERIFIED_APP_NOTE": "Aplikacije se registruju kada se povežu.",
     "MCP_SETUP_SUFFIX": "na svojoj kontrolnoj tabli.",
-    "COLUMN_PERMISSIONS": "Dozvole"
+    "COLUMN_PERMISSIONS": "Dozvole",
+    "OTHER_USERS_HEADING": "Povezane aplikacije drugih korisnika",
+    "OTHER_USERS_EMPTY": "Nijedan drugi korisnik nije povezao aplikaciju.",
+    "OTHER_USERS_INTRO": "Svaka aplikacija koju je odobrio bilo koji korisnik ovog naloga. Pristup se automatski završava kada se korisnik ukloni ili izgubi dozvolu API administratora, a vi možete opozvati bilo koju od njih ovde.",
+    "USER_NO_LONGER_ON_ACCOUNT": "(korisnik više ne postoji)",
+    "COLUMN_USER": "Korisnik"
 }

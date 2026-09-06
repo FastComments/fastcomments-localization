@@ -1,7 +1,7 @@
 {
-    "HERO_TITLE_LIGHT": "Autorisieren Sie",
     "PAGE_TITLE": "Anwendung autorisieren – FastComments",
-    "HERO_TITLE_BOLD": "eine Anwendung",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "Autorisieren",
     "APP_LABEL": "Anwendung",
     "WEBSITE_LABEL": "Website",
     "HERO_DESCRIPTION": "Diese Anwendung bittet um Zugriff auf Ihr FastComments-Konto über die API.",
@@ -26,5 +26,6 @@
     "EXPIRED_HEADING": "Diese Anfrage ist abgelaufen",
     "BLOCKED_BODY": "Ihr Benutzer benötigt für dieses Konto die API-Administratorberechtigung, um Anwendungen zu verbinden. Bitten Sie einen Administrator um diese Berechtigung oder wechseln Sie zu einem Konto, für das Sie diese Berechtigung bereits besitzen.",
     "BACK_TO_DASHBOARD": "Zum Dashboard wechseln",
-    "EXPIRED_BODY": "Die Autorisierungsanfrage ist nicht mehr gültig. Gehen Sie zurück zur Anwendung und stellen Sie die Verbindung erneut her."
+    "EXPIRED_BODY": "Die Autorisierungsanfrage ist nicht mehr gültig. Gehen Sie zurück zur Anwendung und stellen Sie die Verbindung erneut her.",
+    "HERO_TITLE_LIGHT_AFTER": "Sie eine Anwendung"
 }
