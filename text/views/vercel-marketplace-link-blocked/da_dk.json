@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Vercel-websted ikke linket - FastComments",
+    "HERO_TITLE_BOLD": "websted",
+    "HERO_TITLE_LIGHT": "Dit Vercel-",
+    "BLOCKED_HEADING": "Dette login ejer allerede en anden konto.",
+    "HERO_DESCRIPTION": "Dette websted faktureres via Vercel og kræver sit eget FastComments-login.",
+    "BLOCKED_BODY": "Hvert FastComments-login ejer én konto, og din er allerede knyttet til en anden. Vi flyttede den ikke, da det ville fratage dig dit eksisterende websted.",
+    "UNVERIFIED_EMAIL_HEADING": "Vercel har ikke bekræftet din e-mailadresse.",
+    "NOT_ADMIN_HEADING": "Du skal have administratoradgang på dette Vercel-team.",
+    "LABEL_EMAIL": "Logget ind fra Vercel som",
+    "LABEL_TENANT_ID": "Websteds-id",
+    "NOT_ADMIN_BODY": "Når du åbner dette websted, logges du ind som kontoejer, hvilket inkluderer fakturering, API-nøgler og moderering. Vercels roller \"Viewer\" og \"Billing\" er skrivebeskyttede, så bed en ejer af Vercel-teamet om at åbne det i stedet.",
+    "UNVERIFIED_EMAIL_BODY": "Vi matcher din FastComments-konto efter e-mailadresse, så vi accepterer kun en e-mailadresse, som Vercel har bekræftet tilhører dig. Bekræft din e-mailadresse hos Vercel, og åbn derefter dette websted igen.",
+    "BLOCKED_NEXT_STEPS": "Åbn webstedet fra Vercel ved hjælp af et teammedlem, hvis e-mailadresse ikke allerede er en FastComments-kontoejer, eller kontakt support, så linker vi dette websted til dit eksisterende login."
+}

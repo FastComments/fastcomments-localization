@@ -1,0 +1,15 @@
+{
+    "HERO_TITLE_BOLD": "Vercel",
+    "PAGE_TITLE": "Site da Vercel não está vinculado - FastComments",
+    "HERO_TITLE_LIGHT": "Seu site da ",
+    "HERO_DESCRIPTION": "Este site é faturado através da Vercel e requer um login próprio no FastComments.",
+    "NOT_ADMIN_HEADING": "Você precisa de acesso de administrador nesta equipe da Vercel.",
+    "BLOCKED_HEADING": "Este login já possui outra conta.",
+    "UNVERIFIED_EMAIL_HEADING": "A Vercel não verificou seu endereço de e-mail.",
+    "BLOCKED_BODY": "Cada login do FastComments pertence a uma conta, e a sua já está vinculada a outra. Não a migramos, pois isso faria com que você perdesse o controle do seu site atual.",
+    "NOT_ADMIN_BODY": "Ao abrir este site, você entra como proprietário da conta dele, o que inclui faturamento, chaves de API e moderação. As funções de Visualizador e Faturamento da Vercel são somente leitura; portanto, peça a um proprietário da equipe da Vercel para abri-lo no seu lugar.",
+    "LABEL_EMAIL": "Conectado pela Vercel como",
+    "LABEL_TENANT_ID": "ID do site",
+    "BLOCKED_NEXT_STEPS": "Abra o site pela Vercel usando um membro da equipe cujo e-mail ainda não seja o de um proprietário de conta do FastComments, ou entre em contato com o suporte e vincularemos este site ao seu login existente.",
+    "UNVERIFIED_EMAIL_BODY": "Associamos sua conta FastComments ao endereço de e-mail, portanto, só aceitamos aquele que a Vercel confirmou ser seu. Verifique seu e-mail com a Vercel e, em seguida, acesse este site novamente."
+}

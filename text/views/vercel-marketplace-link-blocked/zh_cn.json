@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Vercel 网站未链接 - FastComments",
+    "HERO_TITLE_BOLD": "网站",
+    "HERO_TITLE_LIGHT": "您的 Vercel ",
+    "BLOCKED_HEADING": "此登录名已关联其他账户。",
+    "NOT_ADMIN_HEADING": "您需要拥有此 Vercel 团队的管理员权限。",
+    "HERO_DESCRIPTION": "本网站使用 Vercel 进行计费，需要单独的 FastComments 登录账号。",
+    "BLOCKED_BODY": "每个 FastComments 登录账号都对应一个账户，而您的账号已经绑定到另一个账户。我们没有迁移您的账号，因为那样会让您失去对现有网站的控制权。",
+    "NOT_ADMIN_BODY": "打开此网站即表示您已登录为该网站的账户所有者，该账户包含账单、API密钥和审核权限。Vercel 的“查看者”和“账单”角色为只读，因此请联系 Vercel 团队的所有者来打开该网站。",
+    "UNVERIFIED_EMAIL_HEADING": "Vercel 尚未验证您的电子邮件地址。",
+    "LABEL_EMAIL": "从 Vercel 登录的账号",
+    "LABEL_TENANT_ID": "网站 ID",
+    "UNVERIFIED_EMAIL_BODY": "我们通过电子邮件地址匹配您的 FastComments 账户，因此我们只接受 Vercel 确认属于您的电子邮件地址。请先在 Vercel 上验证您的电子邮件地址，然后再次打开此网站。",
+    "BLOCKED_NEXT_STEPS": "使用团队成员的电子邮件地址（该成员的电子邮件地址尚未拥有 FastComments 账户）从 Vercel 打开此网站，或者联系支持人员，我们将把此网站链接到您现有的登录信息。"
+}

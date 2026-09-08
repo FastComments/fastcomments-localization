@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Witryna Vercel nie jest połączona - FastComments",
+    "HERO_TITLE_BOLD": "witryna Vercel",
+    "BLOCKED_HEADING": "Ten login jest już właścicielem innego konta.",
+    "HERO_TITLE_LIGHT": "Twoja ",
+    "BLOCKED_BODY": "Każdy login FastComments jest właścicielem jednego konta, a Twój jest już powiązany z innym. Nie przenosiliśmy go, ponieważ pozbawiłoby Cię to dostępu do istniejącej witryny.",
+    "HERO_DESCRIPTION": "Ta witryna jest rozliczana za pośrednictwem Vercel i wymaga własnego logowania FastComments.",
+    "NOT_ADMIN_HEADING": "W zespole Vercel wymagane są uprawnienia administratora.",
+    "NOT_ADMIN_BODY": "Otwarcie tej witryny powoduje zalogowanie się jako właściciel konta, co obejmuje rozliczenia, klucze API i moderację. Role „Widz” i „Rozliczenia” w Vercel są tylko do odczytu, więc poproś właściciela zespołu Vercel, aby otworzył ją zamiast Ciebie.",
+    "UNVERIFIED_EMAIL_HEADING": "Vercel nie zweryfikował Twojego adresu e-mail.",
+    "LABEL_EMAIL": "Zalogowano z Vercel jako",
+    "LABEL_TENANT_ID": "Identyfikator witryny",
+    "UNVERIFIED_EMAIL_BODY": "Dopasowujemy Twój adres e-mail do Twojego konta FastComments, dlatego akceptujemy tylko ten, którego własność Vercel potwierdził. Zweryfikuj swój adres e-mail w Vercel, a następnie ponownie otwórz tę stronę.",
+    "BLOCKED_NEXT_STEPS": "Otwórz witrynę Vercel za pomocą konta członka zespołu, którego adres e-mail nie jest jeszcze adresem właściciela konta FastComments, lub skontaktuj się z pomocą techniczną, a my połączymy tę witrynę z Twoim obecnym loginem."
+}

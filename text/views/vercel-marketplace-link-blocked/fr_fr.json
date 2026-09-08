@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Site Vercel non lié - FastComments",
+    "HERO_TITLE_BOLD": "Vercel",
+    "BLOCKED_HEADING": "Cette connexion est déjà propriétaire d'un autre compte.",
+    "NOT_ADMIN_HEADING": "Vous avez besoin d'un accès administrateur à cette équipe Vercel.",
+    "HERO_TITLE_LIGHT": "Votre site ",
+    "LABEL_EMAIL": "Connecté depuis Vercel en tant que",
+    "BLOCKED_BODY": "Chaque connexion FastComments est propriétaire d'un seul compte, et la vôtre est déjà liée à un autre. Nous ne l'avons pas déplacée, car cela vous priverait de votre site actuel.",
+    "HERO_DESCRIPTION": "Ce site est facturé via Vercel et nécessite sa propre connexion FastComments.",
+    "UNVERIFIED_EMAIL_HEADING": "Vercel n'a pas vérifié votre adresse e-mail.",
+    "UNVERIFIED_EMAIL_BODY": "Nous associons votre compte FastComments à votre adresse e-mail ; par conséquent, nous n'acceptons que celle dont Vercel a confirmé qu'elle vous appartient. Veuillez vérifier votre adresse e-mail auprès de Vercel, puis accédez à nouveau à ce site.",
+    "NOT_ADMIN_BODY": "En ouvrant ce site, vous vous connectez en tant que propriétaire de son compte, ce qui inclut la facturation, les clés API et la modération. Les rôles « Visionneur » et « Facturation » de Vercel sont en lecture seule ; demandez donc plutôt à un propriétaire de l'équipe Vercel de l'ouvrir.",
+    "LABEL_TENANT_ID": "Identifiant du site",
+    "BLOCKED_NEXT_STEPS": "Ouvrez le site depuis Vercel en utilisant l'adresse e-mail d'un membre de l'équipe qui n'est pas déjà propriétaire d'un compte FastComments, ou contactez le support et nous lierons ce site à votre connexion existante."
+}

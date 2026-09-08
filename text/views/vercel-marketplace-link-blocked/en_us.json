@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Vercel Site Not Linked - FastComments",
+    "HERO_TITLE_LIGHT": "Your Vercel ",
+    "HERO_TITLE_BOLD": "Site",
+    "HERO_DESCRIPTION": "This site is billed through Vercel and needs its own FastComments login.",
+    "BLOCKED_HEADING": "This login already owns another account.",
+    "BLOCKED_BODY": "Each FastComments login owns one account, and yours is already tied to a different one. We did not move it, because that would take your existing site away from you.",
+    "NOT_ADMIN_HEADING": "You need admin access on this Vercel team.",
+    "NOT_ADMIN_BODY": "Opening this site signs you in as its account owner, which includes billing, API keys and moderation. Vercel's Viewer and Billing roles are read-only, so ask an owner of the Vercel team to open it instead.",
+    "UNVERIFIED_EMAIL_HEADING": "Vercel has not verified your email address.",
+    "UNVERIFIED_EMAIL_BODY": "We match your FastComments account by email address, so we only accept one Vercel has confirmed belongs to you. Verify your email with Vercel, then open this site again.",
+    "LABEL_EMAIL": "Signed in from Vercel as",
+    "LABEL_TENANT_ID": "Site id",
+    "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+}

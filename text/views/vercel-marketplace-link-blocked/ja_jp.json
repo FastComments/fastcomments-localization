@@ -1,0 +1,15 @@
+{
+    "HERO_TITLE_BOLD": "サイト",
+    "PAGE_TITLE": "Vercelサイトへのリンクがありません - FastComments",
+    "HERO_TITLE_LIGHT": "あなたのVercel ",
+    "HERO_DESCRIPTION": "このサイトはVercelを通じて課金されるため、FastComments専用のログインが必要です。",
+    "BLOCKED_HEADING": "このログインユーザーは既に別のアカウントを所有しています。",
+    "BLOCKED_BODY": "FastCommentsのログインごとに1つのアカウントが割り当てられており、お客様のログインは既に別のアカウントに紐付けられています。移動すると既存のサイトが使えなくなるため、移動は行いませんでした。",
+    "NOT_ADMIN_HEADING": "このVercelチームへの管理者権限が必要です。",
+    "LABEL_EMAIL": "Vercelからのログインアカウント",
+    "UNVERIFIED_EMAIL_HEADING": "Vercelはあなたのメールアドレスを確認していません。",
+    "NOT_ADMIN_BODY": "このサイトを開くと、アカウント所有者としてログインすることになり、請求、APIキー、モデレーションなどの権限が付与されます。Vercelの閲覧者および請求担当者の役割は読み取り専用ですので、代わりにVercelチームの所有者にサイトを開くよう依頼してください。",
+    "BLOCKED_NEXT_STEPS": "FastCommentsアカウントを所有していないチームメンバーのメールアドレスを使用してVercelからサイトを開くか、サポートに連絡してください。サポートがこのサイトを既存のログイン情報にリンクします。",
+    "UNVERIFIED_EMAIL_BODY": "FastCommentsアカウントはメールアドレスで照合されるため、Vercelがお客様のものであると確認したメールアドレスのみを受け付けます。Vercelでメールアドレスを確認してから、再度このサイトを開いてください。",
+    "LABEL_TENANT_ID": "サイトID"
+}

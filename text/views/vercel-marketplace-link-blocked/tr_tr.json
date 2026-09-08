@@ -1,0 +1,15 @@
+{
+    "HERO_TITLE_BOLD": "siteniz",
+    "PAGE_TITLE": "Vercel Sitesi Bağlı Değil - FastComments",
+    "HERO_TITLE_LIGHT": "Vercel ",
+    "HERO_DESCRIPTION": "Bu site Vercel üzerinden faturalandırılmaktadır ve kendine ait bir FastComments girişine ihtiyaç duymaktadır.",
+    "BLOCKED_BODY": "Her FastComments oturum açma işlemi yalnızca bir hesaba aittir ve sizin hesabınız zaten farklı bir hesaba bağlıdır. Hesabınızı taşımadık çünkü bu, mevcut sitenizi sizden alırdı.",
+    "NOT_ADMIN_HEADING": "Bu Vercel ekibinde yönetici erişimine ihtiyacınız var.",
+    "BLOCKED_HEADING": "Bu oturum açma işlemi zaten başka bir hesaba sahip.",
+    "LABEL_TENANT_ID": "Site kimliği",
+    "UNVERIFIED_EMAIL_HEADING": "Vercel e-posta adresinizi doğrulamadı.",
+    "NOT_ADMIN_BODY": "Bu siteyi açtığınızda, faturalandırma, API anahtarları ve moderasyon dahil olmak üzere hesabın sahibi olarak oturum açmış olursunuz. Vercel'in Görüntüleyici ve Faturalandırma rolleri yalnızca okuma yetkisine sahiptir, bu nedenle siteyi bunun yerine Vercel ekibinin bir sahibinin açmasını isteyin.",
+    "LABEL_EMAIL": "Vercel'den giriş yapan e-posta",
+    "BLOCKED_NEXT_STEPS": "Siteyi Vercel üzerinden, e-posta adresi zaten FastComments hesap sahibi olmayan bir ekip üyesi kullanarak açın veya destek ekibiyle iletişime geçin, biz de bu siteyi mevcut oturum açma bilgilerinizle ilişkilendirelim.",
+    "UNVERIFIED_EMAIL_BODY": "FastComments hesabınızı e-posta adresiniz üzerinden eşleştiriyoruz, bu nedenle yalnızca Vercel'in size ait olduğunu doğruladığı e-postaları kabul ediyoruz. E-postanızı Vercel ile doğruladıktan sonra bu siteyi tekrar açın."
+}

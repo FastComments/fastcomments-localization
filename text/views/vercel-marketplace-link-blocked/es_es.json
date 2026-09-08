@@ -1,0 +1,15 @@
+{
+    "HERO_TITLE_BOLD": "Vercel",
+    "PAGE_TITLE": "El sitio de Vercel no está vinculado - FastComments",
+    "HERO_TITLE_LIGHT": "Tu sitio de ",
+    "HERO_DESCRIPTION": "Este sitio se factura a través de Vercel y necesita su propio inicio de sesión de FastComments.",
+    "BLOCKED_HEADING": "Este inicio de sesión ya es propietario de otra cuenta.",
+    "BLOCKED_BODY": "Cada inicio de sesión de FastComments es propietario de una sola cuenta, y el tuyo ya está vinculado a otra. No lo migramos porque eso te quitaría tu sitio actual.",
+    "NOT_ADMIN_HEADING": "Necesitas acceso de administrador en este equipo de Vercel.",
+    "LABEL_TENANT_ID": "ID del sitio",
+    "UNVERIFIED_EMAIL_HEADING": "Vercel no ha verificado tu dirección de correo electrónico.",
+    "NOT_ADMIN_BODY": "Al abrir este sitio, inicias sesión como propietario de su cuenta, lo que incluye la facturación, las claves API y la moderación. Los roles de Visor y Facturación de Vercel son de solo lectura, así que pídele a un propietario del equipo de Vercel que lo abra en tu lugar.",
+    "LABEL_EMAIL": "Sesión iniciada desde Vercel como",
+    "UNVERIFIED_EMAIL_BODY": "Asociamos tu cuenta de FastComments con tu dirección de correo electrónico, por lo que solo aceptamos la que Vercel haya confirmado que te pertenece. Verifica tu correo electrónico con Vercel y luego vuelve a abrir este sitio.",
+    "BLOCKED_NEXT_STEPS": "Abre el sitio desde Vercel con un miembro del equipo cuyo correo electrónico no sea ya propietario de una cuenta de FastComments, o ponte en contacto con el servicio de asistencia y vincularemos este sitio a tu inicio de sesión existente."
+}

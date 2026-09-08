@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "Vercel-Website nicht verlinkt - FastComments",
+    "HERO_TITLE_BOLD": "Website",
+    "HERO_TITLE_LIGHT": "Ihre Vercel-",
+    "BLOCKED_HEADING": "Dieser Login ist bereits einem anderen Konto zugeordnet.",
+    "HERO_DESCRIPTION": "Diese Website wird über Vercel abgerechnet und benötigt einen eigenen FastComments-Login.",
+    "BLOCKED_BODY": "Jeder FastComments-Login ist mit einem Konto verknüpft, und Ihres ist bereits mit einem anderen verbunden. Wir haben es nicht verschoben, da Ihnen dadurch Ihre bestehende Website entzogen würde.",
+    "NOT_ADMIN_HEADING": "Sie benötigen Administratorzugriff auf dieses Vercel-Team.",
+    "LABEL_EMAIL": "Eingeloggt von Vercel als",
+    "UNVERIFIED_EMAIL_HEADING": "Vercel hat Ihre E-Mail-Adresse nicht verifiziert.",
+    "NOT_ADMIN_BODY": "Beim Öffnen dieser Website werden Sie als Kontoinhaber angemeldet. Dies umfasst Abrechnung, API-Schlüssel und Moderation. Die Vercel-Rollen „Viewer“ und „Billing“ sind schreibgeschützt. Bitten Sie daher einen Inhaber des Vercel-Teams, die Website stattdessen zu öffnen.",
+    "LABEL_TENANT_ID": "Website-ID",
+    "UNVERIFIED_EMAIL_BODY": "Wir ordnen Ihr FastComments-Konto Ihrer E-Mail-Adresse zu. Daher akzeptieren wir nur eine E-Mail-Adresse, die Vercel als Ihre Adresse bestätigt hat. Bitte bestätigen Sie Ihre E-Mail-Adresse bei Vercel und öffnen Sie diese Website anschließend erneut.",
+    "BLOCKED_NEXT_STEPS": "Öffnen Sie die Website über Vercel mit einem Teammitglied, dessen E-Mail-Adresse noch nicht mit einem FastComments-Konto verknüpft ist, oder kontaktieren Sie den Support, und wir verknüpfen diese Website mit Ihrem bestehenden Login."
+}
