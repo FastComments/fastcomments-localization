@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments robot za verifikaciju",
+    "BANNER_TEXT": "Verifikujte svoju e-poštu",
+    "SUBJECT": "Verifikujte svoju e-poštu <%= username %>",
+    "INTRO": "Zdravo <%= username %>,",
+    "VERIFY_THIS_LINK": "Molimo verifikujte svoju novu adresu e-pošte klikom na <a href=\"<%= userVerifyUrl %>\">ovaj link</a>. E-pošta vašeg naloga će nakon toga biti ažurirana.",
+    "THAT_FULL_LINK_IS": "Pun link je: <%= userVerifyUrl %>"
+}

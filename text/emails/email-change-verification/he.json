@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "רובוט האימות של FastComments",
+    "BANNER_TEXT": "אמת את האימייל שלך",
+    "SUBJECT": "אמת את האימייל שלך <%= username %>",
+    "INTRO": "היי <%= username %>,",
+    "VERIFY_THIS_LINK": "אנא אמת את כתובת האימייל החדשה שלך על ידי לחיצה על <a href=\"<%= userVerifyUrl %>\">קישור זה</a>. לאחר מכן כתובת האימייל של חשבונך תעודכן.",
+    "THAT_FULL_LINK_IS": "הקישור המלא הזה הוא: <%= userVerifyUrl %>"
+}

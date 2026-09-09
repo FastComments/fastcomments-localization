@@ -1,0 +1,10 @@
+{
+    "FROM_NAME": "Robot FastComments",
+    "BANNER_TEXT": "Avis de sécurité",
+    "SUBJECT": "Changement d'adresse e-mail demandé pour <%= username %>",
+    "INTRO": "Bonjour <%= username %>,",
+    "INFO": "Pour des raisons de sécurité, nous vous informons que quelqu'un a demandé la modification de l'adresse e-mail associée à votre compte FastComments.",
+    "IF_THIS_WAS_YOU": "Si c'est vous, ignorez cet e-mail.",
+    "IF_NOT_YOU": "<b>Si ce n'est pas vous</b>, merci de nous le faire savoir.",
+    "SIGN_OFF": "Cordialement, L'équipe FastComments.com"
+}

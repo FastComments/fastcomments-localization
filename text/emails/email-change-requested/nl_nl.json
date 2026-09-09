@@ -1,0 +1,10 @@
+{
+    "FROM_NAME": "FastComments-robot",
+    "BANNER_TEXT": "Beveiligingsmelding",
+    "SUBJECT": "Wijziging van e-mailadres aangevraagd voor <%= username %>",
+    "INTRO": "Hoi <%= username %>,",
+    "INFO": "Om veiligheidsredenen laten we u weten dat iemand heeft gevraagd om het e-mailadres van uw FastComments-account te wijzigen.",
+    "IF_THIS_WAS_YOU": "Als u dit zelf was, kunt u deze e-mail negeren.",
+    "IF_NOT_YOU": "<b>Als u dit niet was</b>, laat het ons dan weten.",
+    "SIGN_OFF": "Met vriendelijke groet, Het FastComments.com-team"
+}

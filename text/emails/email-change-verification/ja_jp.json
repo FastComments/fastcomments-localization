@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments 確認ロボット",
+    "BANNER_TEXT": "メールアドレスを確認する",
+    "SUBJECT": "<%= username %> さん、メールアドレスを確認してください",
+    "INTRO": "<%= username %> さん、",
+    "VERIFY_THIS_LINK": "<a href=\"<%= userVerifyUrl %>\">このリンク</a>をクリックして、新しいメールアドレスを確認してください。確認が完了すると、アカウントのメールアドレスが更新されます。",
+    "THAT_FULL_LINK_IS": "その完全なリンクは次のとおりです：<%= userVerifyUrl %>"
+}

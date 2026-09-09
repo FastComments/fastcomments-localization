@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments-Bestätigungsroboter",
+    "BANNER_TEXT": "E-Mail-Adresse bestätigen",
+    "SUBJECT": "Bestätigen Sie Ihre E-Mail-Adresse <%= username %>",
+    "INTRO": "Hallo <%= username %>,",
+    "VERIFY_THIS_LINK": "Bitte bestätigen Sie Ihre neue E-Mail-Adresse, indem Sie auf <a href=\"<%= userVerifyUrl %>\">diesen Link</a> klicken. Die E-Mail-Adresse Ihres Kontos wird anschließend aktualisiert.",
+    "THAT_FULL_LINK_IS": "Dieser vollständige Link lautet: <%= userVerifyUrl %>"
+}

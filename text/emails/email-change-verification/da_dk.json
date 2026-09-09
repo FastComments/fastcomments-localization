@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments Bekræftelsesrobot",
+    "BANNER_TEXT": "Bekræft din e-mail",
+    "SUBJECT": "Bekræft din e-mail <%= username %>",
+    "INTRO": "Hej <%= username %>,",
+    "VERIFY_THIS_LINK": "Bekræft venligst din nye e-mailadresse ved at klikke på <a href=\"<%= userVerifyUrl %>\">dette link</a>. Din kontos e-mailadresse bliver opdateret, når du har gjort det.",
+    "THAT_FULL_LINK_IS": "Det fulde link er: <%= userVerifyUrl %>"
+}

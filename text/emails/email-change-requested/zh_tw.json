@@ -1,0 +1,10 @@
+{
+    "FROM_NAME": "FastComments 機器人",
+    "BANNER_TEXT": "安全提醒",
+    "SUBJECT": "已收到 <%= username %> 的電子郵件變更要求",
+    "INTRO": "嘿 <%= username %>，",
+    "INFO": "基於安全考量，我們在此通知您：有人要求變更與您的 FastComments 帳戶關聯的電子郵件。",
+    "IF_THIS_WAS_YOU": "如果這是您本人的操作，請忽略這封電子郵件。",
+    "IF_NOT_YOU": "<b>如果這不是您本人所為</b>，請告知我們。",
+    "SIGN_OFF": "FastComments.com 團隊 敬上"
+}

@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments робот за верификацију",
+    "BANNER_TEXT": "Верификујте свој имејл",
+    "SUBJECT": "Верификујте свој имејл <%= username %>",
+    "INTRO": "Хеј <%= username %>,",
+    "VERIFY_THIS_LINK": "Молимо верификујте своју нову имејл адресу кликом на <a href=\"<%= userVerifyUrl %>\">ову везу</a>. Имејл вашег налога ће након тога бити ажуриран.",
+    "THAT_FULL_LINK_IS": "Та пуна веза је: <%= userVerifyUrl %>"
+}

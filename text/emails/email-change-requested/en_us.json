@@ -1,0 +1,10 @@
+{
+    "FROM_NAME": "FastComments Robot",
+    "BANNER_TEXT": "Security Notice",
+    "SUBJECT": "Email change requested for <%= username %>",
+    "INTRO": "Hey <%= username %>,",
+    "INFO": "For security reasons we're letting you know someone requested that the email associated with your FastComments account be changed.",
+    "IF_THIS_WAS_YOU": "If this was you, ignore this email.",
+    "IF_NOT_YOU": "<b>If this wasn't you</b> then please let us know.",
+    "SIGN_OFF": "Sincerely, The FastComments.com Team"
+}

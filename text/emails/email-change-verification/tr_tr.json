@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments Doğrulama Robotu",
+    "BANNER_TEXT": "E-postanızı Doğrulayın",
+    "SUBJECT": "E-postanızı doğrulayın <%= username %>",
+    "INTRO": "Merhaba <%= username %>,",
+    "VERIFY_THIS_LINK": "Lütfen <a href=\"<%= userVerifyUrl %>\">bu bağlantıya</a> tıklayarak yeni e-posta adresinizi doğrulayın. Bunu yaptığınızda hesabınızın e-posta adresi güncellenecektir.",
+    "THAT_FULL_LINK_IS": "Bu tam bağlantı: <%= userVerifyUrl %>"
+}

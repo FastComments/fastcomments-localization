@@ -1,0 +1,10 @@
+{
+    "FROM_NAME": "FastComments ロボット",
+    "BANNER_TEXT": "セキュリティに関するお知らせ",
+    "SUBJECT": "<%= username %> さんのメールアドレスの変更がリクエストされました",
+    "INTRO": "<%= username %> さん、",
+    "INFO": "セキュリティ上の理由から、お客様の FastComments アカウントに関連付けられたメールアドレスの変更が誰かによってリクエストされたことをお知らせします。",
+    "IF_THIS_WAS_YOU": "ご本人によるものであれば、このメールは無視してください。",
+    "IF_NOT_YOU": "<b>心当たりがない場合は</b>、お手数ですがご連絡ください。",
+    "SIGN_OFF": "FastComments.com チームより"
+}

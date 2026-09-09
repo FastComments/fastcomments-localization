@@ -1,0 +1,10 @@
+{
+    "FROM_NAME": "FastComments Robotu",
+    "BANNER_TEXT": "Güvenlik Bildirimi",
+    "SUBJECT": "<%= username %> için e-posta değişikliği talep edildi",
+    "INTRO": "Merhaba <%= username %>,",
+    "INFO": "Güvenlik nedeniyle, birinin FastComments hesabınızla ilişkili e-posta adresinin değiştirilmesini talep ettiğini size bildirmek istiyoruz.",
+    "IF_THIS_WAS_YOU": "Bu talebi siz yaptıysanız, bu e-postayı yoksayın.",
+    "IF_NOT_YOU": "<b>Bu talebi siz yapmadıysanız</b>, lütfen bize bildirin.",
+    "SIGN_OFF": "Saygılarımızla, FastComments.com Ekibi"
+}

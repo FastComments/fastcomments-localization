@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "Robot za potrditev FastComments",
+    "BANNER_TEXT": "Potrdite svoj e-poštni naslov",
+    "SUBJECT": "Potrdite svoj e-poštni naslov <%= username %>",
+    "INTRO": "Zdravo <%= username %>,",
+    "VERIFY_THIS_LINK": "Potrdite svoj novi e-poštni naslov s klikom na <a href=\"<%= userVerifyUrl %>\">to povezavo</a>. E-poštni naslov vašega računa bo nato posodobljen.",
+    "THAT_FULL_LINK_IS": "Celotna povezava je: <%= userVerifyUrl %>"
+}

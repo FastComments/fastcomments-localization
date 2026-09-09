@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "Robot di verifica FastComments",
+    "BANNER_TEXT": "Verifica la tua email",
+    "SUBJECT": "Verifica la tua email <%= username %>",
+    "INTRO": "Ciao <%= username %>,",
+    "VERIFY_THIS_LINK": "Verifica il tuo nuovo indirizzo email facendo clic su <a href=\"<%= userVerifyUrl %>\">questo link</a>. L'email del tuo account verrà aggiornata non appena lo farai.",
+    "THAT_FULL_LINK_IS": "Il link completo è: <%= userVerifyUrl %>"
+}

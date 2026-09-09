@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments-verificatierobot",
+    "BANNER_TEXT": "Verifieer uw e-mailadres",
+    "SUBJECT": "Verifieer uw e-mailadres <%= username %>",
+    "INTRO": "Hoi <%= username %>,",
+    "VERIFY_THIS_LINK": "Verifieer uw nieuwe e-mailadres door op <a href=\"<%= userVerifyUrl %>\">deze link</a> te klikken. Het e-mailadres van uw account wordt daarna bijgewerkt.",
+    "THAT_FULL_LINK_IS": "Die volledige link is: <%= userVerifyUrl %>"
+}

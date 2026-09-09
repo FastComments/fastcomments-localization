@@ -1,0 +1,10 @@
+{
+    "FROM_NAME": "FastComments robot",
+    "BANNER_TEXT": "Bezbednosno obaveštenje",
+    "SUBJECT": "Zatražena promena e-pošte za <%= username %>",
+    "INTRO": "Zdravo <%= username %>,",
+    "INFO": "Iz bezbednosnih razloga obaveštavamo vas da je neko zatražio promenu e-pošte povezane sa vašim FastComments nalogom.",
+    "IF_THIS_WAS_YOU": "Ako ste to bili vi, zanemarite ovu e-poštu.",
+    "IF_NOT_YOU": "<b>Ako to niste bili vi</b>, molimo vas da nam javite.",
+    "SIGN_OFF": "S poštovanjem, FastComments.com tim"
+}

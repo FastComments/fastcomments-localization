@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments 验证机器人",
+    "BANNER_TEXT": "验证您的邮箱",
+    "SUBJECT": "验证您的邮箱 <%= username %>",
+    "INTRO": "嘿 <%= username %>，",
+    "VERIFY_THIS_LINK": "请点击<a href=\"<%= userVerifyUrl %>\">此链接</a>验证您的新邮箱地址。验证后，您的帐户邮箱将随即更新。",
+    "THAT_FULL_LINK_IS": "完整链接是：<%= userVerifyUrl %>"
+}
