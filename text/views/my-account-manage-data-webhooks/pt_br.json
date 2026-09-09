@@ -39,5 +39,19 @@
     "WEBHOOK_TOGGLE_ERROR": "❌ Falha ao atualizar o webhook. Tente novamente.",
     "WEBHOOK_DISABLE_CONFIRM": "Desativar este webhook? Os eventos serão mantidos, mas não serão entregues até que ele seja reativado.",
     "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Falhando desde [date]. Nenhuma entrega concluída com sucesso até o momento.",
-    "WEBHOOK_STATUS_FAILING": "⚠️ Sem sucesso desde [date]. Último sucesso: [lastSuccessDate]"
+    "WEBHOOK_STATUS_FAILING": "⚠️ Falhando desde [date]. Último sucesso: [lastSuccessDate]",
+    "API_SUBSCRIPTIONS_HEADING": "Assinaturas de API",
+    "API_SUBSCRIPTION_URL": "URL",
+    "API_SUBSCRIPTIONS_INTRO": "Esses webhooks foram criados por meio da API, por exemplo, pelo Zapier. Eles recebem eventos juntamente com os webhooks configurados acima e são removidos automaticamente quando o endpoint responde com 410 Gone.",
+    "API_SUBSCRIPTION_METHOD": "Método",
+    "API_SUBSCRIPTION_EVENT": "Evento",
+    "API_SUBSCRIPTION_STATUS": "Status",
+    "API_SUBSCRIPTION_CREATED": "Criado",
+    "API_SUBSCRIPTION_QUEUE": "Eventos na fila",
+    "WEBHOOK_STATUS_ACTIVE": "Ativo",
+    "EVENT_COMMENT_CREATED": "Comentário criado",
+    "EVENT_COMMENT_DELETED": "Comentário excluído",
+    "EVENT_COMMENT_UPDATED": "Comentário atualizado",
+    "WEBHOOK_DELETE_BUTTON": "Excluir",
+    "WEBHOOK_DELETE_CONFIRM": "Excluir esta assinatura? Os eventos em fila serão descartados. O assinante precisará assinar novamente para receber eventos."
 }

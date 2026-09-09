@@ -39,5 +39,19 @@
     "WEBHOOK_DISABLE_CONFIRM": "להשבית את ה-webhook הזה? אירועים יישמרו, אך לא יועברו עד שיופעל מחדש.",
     "WEBHOOK_TOGGLE_ERROR": "❌ עדכון ה-webhook נכשל. אנא נסה שוב.",
     "WEBHOOK_STATUS_FAILING": "⚠️ נכשל מאז [date]. הצלחה אחרונה: [lastSuccessDate]",
-    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ נכשל מאז [date]. עדיין אין משלוחים מוצלחים."
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ נכשל מאז [date]. עדיין אין משלוחים מוצלחים.",
+    "API_SUBSCRIPTIONS_INTRO": "Webhooks אלה נוצרו דרך ה-API, למשל על ידי Zapier. הם מקבלים אירועים לצד ה-webhooks שהוגדרו לעיל ומוסרים אוטומטית כאשר נקודת הקצה מגיבה עם 410 Gone.",
+    "API_SUBSCRIPTION_EVENT": "אירוע",
+    "API_SUBSCRIPTIONS_HEADING": "מנויי API",
+    "API_SUBSCRIPTION_STATUS": "סטטוס",
+    "API_SUBSCRIPTION_METHOD": "שיטה",
+    "API_SUBSCRIPTION_QUEUE": "אירועים בתור",
+    "API_SUBSCRIPTION_URL": "URL",
+    "API_SUBSCRIPTION_CREATED": "נוצר",
+    "WEBHOOK_STATUS_ACTIVE": "פעיל",
+    "WEBHOOK_DELETE_BUTTON": "מחק",
+    "EVENT_COMMENT_CREATED": "תגובה נוצרה",
+    "EVENT_COMMENT_UPDATED": "תגובה עודכנה",
+    "WEBHOOK_DELETE_CONFIRM": "למחוק את המנוי הזה? האירועים בתור שלו יימחקו. המנוי יצטרך להירשם שוב כדי לקבל אירועים.",
+    "EVENT_COMMENT_DELETED": "תגובה נמחקה"
 }

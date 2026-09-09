@@ -39,5 +39,19 @@
     "WEBHOOK_TOGGLE_ERROR": "❌ Échec de la mise à jour du webhook. Veuillez réessayer.",
     "WEBHOOK_DISABLE_CONFIRM": "Désactiver ce webhook ? Les événements seront conservés, mais ne seront pas transmis tant qu’il ne sera pas réactivé.",
     "WEBHOOK_STATUS_FAILING": "⚠️ Échec depuis [date]. Dernière réussite : [lastSuccessDate]",
-    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Échec depuis [date]. Aucune livraison réussie pour le moment."
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Échec depuis [date]. Aucune livraison réussie pour le moment.",
+    "API_SUBSCRIPTIONS_HEADING": "Abonnements API",
+    "API_SUBSCRIPTION_EVENT": "Événement",
+    "API_SUBSCRIPTION_URL": "URL",
+    "API_SUBSCRIPTIONS_INTRO": "Ces webhooks ont été créés via l'API, par exemple par Zapier. Ils reçoivent des événements en plus des webhooks configurés ci-dessus et sont automatiquement supprimés lorsque le point de terminaison répond par un code 410 (Gone).",
+    "API_SUBSCRIPTION_METHOD": "Méthode",
+    "API_SUBSCRIPTION_STATUS": "Statut",
+    "API_SUBSCRIPTION_CREATED": "Créé",
+    "API_SUBSCRIPTION_QUEUE": "Événements en attente",
+    "EVENT_COMMENT_CREATED": "Commentaire créé",
+    "WEBHOOK_STATUS_ACTIVE": "Actif",
+    "EVENT_COMMENT_DELETED": "Commentaire supprimé",
+    "WEBHOOK_DELETE_BUTTON": "Supprimer",
+    "EVENT_COMMENT_UPDATED": "Commentaire mis à jour",
+    "WEBHOOK_DELETE_CONFIRM": "Supprimer cet abonnement ? Les événements en attente seront supprimés. L’abonné devra se réabonner pour recevoir les événements."
 }

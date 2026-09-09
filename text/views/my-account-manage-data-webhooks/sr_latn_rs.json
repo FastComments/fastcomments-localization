@@ -39,5 +39,19 @@
     "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the vebhook. Pokušajte ponovo.",
     "WEBHOOK_DISABLE_CONFIRM": "Onemogućite ovaj vebhook? Događaji će se čuvati, ali neće biti isporučeni dok se ponovo ne omogući.",
     "WEBHOOK_STATUS_FAILING": "⚠️ Neuspeh od [date]. godine. Poslednji uspeh: [lastSuccessDate]",
-    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Neuspeh od [date]. godine. Još uvek nema uspešnih isporuka."
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Neuspeh od [date]. godine. Još uvek nema uspešnih isporuka.",
+    "API_SUBSCRIPTION_EVENT": "Događaj",
+    "API_SUBSCRIPTION_URL": "URL",
+    "API_SUBSCRIPTIONS_HEADING": "API pretplate",
+    "API_SUBSCRIPTION_METHOD": "Metod",
+    "API_SUBSCRIPTION_QUEUE": "Događaji u redu čekanja",
+    "API_SUBSCRIPTION_STATUS": "Status",
+    "API_SUBSCRIPTIONS_INTRO": "Ovi vebhukovi su kreirani putem API-ja, na primer od strane Zapier-a. Oni primaju događaje zajedno sa vebhukovima konfigurisanim gore i automatski se uklanjaju kada krajnja tačka odgovori sa 410 Gone.",
+    "EVENT_COMMENT_CREATED": "Komentar kreiran",
+    "API_SUBSCRIPTION_CREATED": "Kreirano",
+    "EVENT_COMMENT_UPDATED": "Komentar ažuriran",
+    "WEBHOOK_STATUS_ACTIVE": "Aktivno",
+    "EVENT_COMMENT_DELETED": "Komentar obrisan",
+    "WEBHOOK_DELETE_CONFIRM": "Da li želite da obrišete ovu pretplatu? Njeni događaji u redu čekanja biće odbačeni. Pretplatnik će morati ponovo da se pretplati da bi primao događaje.",
+    "WEBHOOK_DELETE_BUTTON": "Obriši"
 }

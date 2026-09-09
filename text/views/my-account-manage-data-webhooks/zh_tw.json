@@ -39,5 +39,19 @@
     "WEBHOOK_TOGGLE_ERROR": "❌ 更新 webhook 失敗。請重試。",
     "WEBHOOK_DISABLE_CONFIRM": "停用此 webhook 後，事件將被保留，但直到重新啟用後才會發送。",
     "WEBHOOK_STATUS_FAILING": "⚠️ 自[date]起失敗。上次成功：[lastSuccessDate]",
-    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ 自[date]起失敗。尚未成功交付記錄。"
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ 自[date]起失敗。尚未成功交付記錄。",
+    "API_SUBSCRIPTION_URL": "URL",
+    "API_SUBSCRIPTIONS_HEADING": "API 訂閱",
+    "API_SUBSCRIPTION_EVENT": "事件",
+    "API_SUBSCRIPTIONS_INTRO": "這些 Webhook 是透過 API 建立的，例如透過 Zapier。它們會與上述設定的 Webhook 一起接收事件，並在端點回應 410 Gone 時自動移除。",
+    "API_SUBSCRIPTION_METHOD": "方法",
+    "API_SUBSCRIPTION_STATUS": "狀態",
+    "API_SUBSCRIPTION_CREATED": "建立時間",
+    "WEBHOOK_STATUS_ACTIVE": "活躍",
+    "WEBHOOK_DELETE_BUTTON": "刪除",
+    "API_SUBSCRIPTION_QUEUE": "佇列中的事件",
+    "EVENT_COMMENT_UPDATED": "評論已更新",
+    "EVENT_COMMENT_CREATED": "評論已建立",
+    "EVENT_COMMENT_DELETED": "評論已刪除",
+    "WEBHOOK_DELETE_CONFIRM": "刪除此訂閱？其佇列中的事件將被丟棄。訂閱者需要重新訂閱才能接收事件。"
 }

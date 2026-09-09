@@ -39,5 +39,19 @@
     "WEBHOOK_TOGGLE_ERROR": "❌ Η ενημέρωση του webhook απέτυχε. Δοκιμάστε ξανά.",
     "WEBHOOK_DISABLE_CONFIRM": "Απενεργοποίηση αυτού του webhook; Τα συμβάντα θα διατηρηθούν, αλλά δεν θα παραδοθούν μέχρι να ενεργοποιηθεί ξανά.",
     "WEBHOOK_STATUS_FAILING": "⚠️ Αποτυχία από [date]. Τελευταία επιτυχία: [lastSuccessDate]",
-    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Αποτυχία από [date]. Δεν υπάρχουν ακόμη επιτυχημένες παραδόσεις."
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Αποτυχία από [date]. Δεν υπάρχουν ακόμη επιτυχημένες παραδόσεις.",
+    "API_SUBSCRIPTION_URL": "URL",
+    "API_SUBSCRIPTIONS_HEADING": "Συνδρομές API",
+    "API_SUBSCRIPTIONS_INTRO": "Αυτά τα webhooks δημιουργήθηκαν μέσω του API, για παράδειγμα από το Zapier. Λαμβάνουν συμβάντα παράλληλα με τα webhooks που έχουν διαμορφωθεί παραπάνω και αφαιρούνται αυτόματα όταν το τελικό σημείο απαντήσει με 410 Gone.",
+    "API_SUBSCRIPTION_EVENT": "Συμβάν",
+    "API_SUBSCRIPTION_METHOD": "Μέθοδος",
+    "API_SUBSCRIPTION_STATUS": "Κατάσταση",
+    "API_SUBSCRIPTION_CREATED": "Δημιουργήθηκε",
+    "EVENT_COMMENT_CREATED": "Δημιουργία σχολίου",
+    "API_SUBSCRIPTION_QUEUE": "Συμβάντα στην ουρά",
+    "WEBHOOK_STATUS_ACTIVE": "Ενεργό",
+    "EVENT_COMMENT_DELETED": "Διαγραφή σχολίου",
+    "WEBHOOK_DELETE_BUTTON": "Διαγραφή",
+    "EVENT_COMMENT_UPDATED": "Ενημέρωση σχολίου",
+    "WEBHOOK_DELETE_CONFIRM": "Διαγραφή αυτής της συνδρομής; Τα συμβάντα που βρίσκονται στην ουρά θα απορριφθούν. Ο συνδρομητής θα πρέπει να εγγραφεί ξανά για να λαμβάνει συμβάντα."
 }

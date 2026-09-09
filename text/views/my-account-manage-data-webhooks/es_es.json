@@ -39,5 +39,19 @@
     "WEBHOOK_TOGGLE_ERROR": "❌ No se pudo actualizar el webhook. Inténtelo de nuevo.",
     "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "Este webhook se deshabilitó el [date]. Los eventos en cola se conservan y se entregarán una vez que se vuelva a habilitar.",
     "WEBHOOK_STATUS_FAILING": "⚠️ Fallando desde [date]. Último éxito: [lastSuccessDate]",
-    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Fallando desde [date]. Aún no se han realizado entregas exitosas."
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Fallando desde [date]. Aún no se han realizado entregas exitosas.",
+    "API_SUBSCRIPTIONS_HEADING": "Suscripciones a la API",
+    "API_SUBSCRIPTION_URL": "URL",
+    "API_SUBSCRIPTION_METHOD": "Método",
+    "API_SUBSCRIPTION_EVENT": "Evento",
+    "API_SUBSCRIPTION_STATUS": "Estado",
+    "API_SUBSCRIPTIONS_INTRO": "Estos webhooks se crearon a través de la API, por ejemplo, con Zapier. Reciben eventos junto con los webhooks configurados anteriormente y se eliminan automáticamente cuando el endpoint responde con el código 410 Gone.",
+    "API_SUBSCRIPTION_CREATED": "Creado",
+    "EVENT_COMMENT_CREATED": "Comentario creado",
+    "EVENT_COMMENT_DELETED": "Comentario eliminado",
+    "WEBHOOK_STATUS_ACTIVE": "Activo",
+    "WEBHOOK_DELETE_BUTTON": "Eliminar",
+    "WEBHOOK_DELETE_CONFIRM": "¿Desea eliminar esta suscripción? Los eventos en cola se descartarán. El suscriptor deberá volver a suscribirse para recibir eventos.",
+    "API_SUBSCRIPTION_QUEUE": "Eventos en cola",
+    "EVENT_COMMENT_UPDATED": "Comentario actualizado"
 }

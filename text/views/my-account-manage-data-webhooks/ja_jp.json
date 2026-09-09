@@ -38,6 +38,20 @@
     "WEBHOOK_AUTO_DISABLED_EXPLANATION": "このウェブフックは、配信失敗が約1週間続いたため、[date]に自動的に無効化されました。キューに登録されたイベントは保持されており、エンドポイントを修正して再度有効化すれば配信されます。",
     "WEBHOOK_DISABLE_CONFIRM": "このWebhookを無効にした場合、イベントは保持されますが、再度有効にするまで配信されません。",
     "WEBHOOK_TOGGLE_ERROR": "❌ Webhookの更新に失敗しました。もう一度お試しください。",
-    "WEBHOOK_STATUS_FAILING": "⚠️ [date]以降失敗しています。最後の成功: [lastSuccessDate]",
-    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ [date] 以降、失敗しています。まだ配達成功はありません。"
+    "WEBHOOK_STATUS_FAILING": "⚠️ [date] 以降、失敗しています。最後の成功: [lastSuccessDate]",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ [date] 以降、失敗しています。まだ配達成功はありません。",
+    "API_SUBSCRIPTION_URL": "URL",
+    "API_SUBSCRIPTIONS_HEADING": "APIサブスクリプション",
+    "API_SUBSCRIPTION_EVENT": "イベント",
+    "API_SUBSCRIPTION_METHOD": "メソッド",
+    "API_SUBSCRIPTIONS_INTRO": "これらのWebhookは、Zapierなどによって API 経由で作成されたものです。上記で設定したWebhookと並行してイベントを受信し、エンドポイントが 410 Gone を返すと自動的に削除されます。",
+    "API_SUBSCRIPTION_CREATED": "作成日",
+    "API_SUBSCRIPTION_STATUS": "ステータス",
+    "API_SUBSCRIPTION_QUEUE": "キュー内のイベント",
+    "WEBHOOK_DELETE_BUTTON": "削除",
+    "WEBHOOK_STATUS_ACTIVE": "アクティブ",
+    "EVENT_COMMENT_UPDATED": "コメント更新",
+    "EVENT_COMMENT_DELETED": "コメント削除",
+    "EVENT_COMMENT_CREATED": "コメント作成",
+    "WEBHOOK_DELETE_CONFIRM": "このサブスクリプションを削除しますか？キューに登録されているイベントはすべて破棄されます。イベントを受信するには、再度サブスクリプションに登録する必要があります。"
 }

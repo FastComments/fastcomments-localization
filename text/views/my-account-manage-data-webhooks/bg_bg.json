@@ -39,5 +39,19 @@
     "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Този уеб кукик беше автоматично деактивиран на [date] след около седмица неуспешни доставки. Събитията в опашката се запазват и ще бъдат доставени, след като поправите крайната точка и я активирате отново.",
     "WEBHOOK_TOGGLE_ERROR": "❌ Актуализирането на уебкукичката не бе успешно. Моля, опитайте отново.",
     "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Неуспешно от [date]. Все още няма успешни доставки.",
-    "WEBHOOK_STATUS_FAILING": "⚠️ Неуспешно от [date]. Последен успех: [lastSuccessDate]"
+    "WEBHOOK_STATUS_FAILING": "⚠️ Неуспешно от [date]. Последен успех: [lastSuccessDate]",
+    "API_SUBSCRIPTION_EVENT": "Събитие",
+    "API_SUBSCRIPTION_STATUS": "Статус",
+    "API_SUBSCRIPTION_CREATED": "Създадено",
+    "API_SUBSCRIPTION_METHOD": "Метод",
+    "API_SUBSCRIPTIONS_INTRO": "Тези уеб кукички са създадени чрез API, например от Zapier. Те получават събития заедно с уеб куките, конфигурирани по-горе, и се премахват автоматично, когато крайната точка отговори с код 410 Gone.",
+    "EVENT_COMMENT_CREATED": "Коментарът е създаден",
+    "API_SUBSCRIPTION_QUEUE": "Събития в опашката",
+    "EVENT_COMMENT_UPDATED": "Коментарът е актуализиран",
+    "API_SUBSCRIPTIONS_HEADING": "Абонаменти чрез API",
+    "API_SUBSCRIPTION_URL": "URL адрес",
+    "WEBHOOK_DELETE_BUTTON": "Изтриване",
+    "WEBHOOK_STATUS_ACTIVE": "Активен",
+    "EVENT_COMMENT_DELETED": "Коментарът е изтрит",
+    "WEBHOOK_DELETE_CONFIRM": "Да се изтрие ли този абонамент? Събитията в опашката му ще бъдат изтрити. Абонатът ще трябва да се абонира отново, за да получава събития."
 }

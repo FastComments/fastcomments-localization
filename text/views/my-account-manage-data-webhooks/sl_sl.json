@@ -39,5 +39,19 @@
     "WEBHOOK_ENABLE_BUTTON": "Omogoči",
     "WEBHOOK_TOGGLE_ERROR": "❌ Posodobitev spletnega kavlja ni uspela. Poskusite znova.",
     "WEBHOOK_STATUS_FAILING": "⚠️ Neuspešno od [date]. Zadnji uspeh: [lastSuccessDate]",
-    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Neuspešno od [date]. Zaenkrat še ni bilo uspešnih dostav."
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Neuspešno od [date]. Zaenkrat še ni bilo uspešnih dostav.",
+    "API_SUBSCRIPTION_URL": "URL",
+    "API_SUBSCRIPTIONS_HEADING": "Naročnine na API",
+    "API_SUBSCRIPTION_EVENT": "Dogodek",
+    "API_SUBSCRIPTION_STATUS": "Stanje",
+    "API_SUBSCRIPTIONS_INTRO": "Ti spletni kavlji so bili ustvarjeni prek API-ja, na primer z Zapierjem. Prejemajo dogodke skupaj z zgoraj konfiguriranimi spletnimi kavlji in se samodejno odstranijo, ko se končna točka odzove s kodo 410 Gone.",
+    "API_SUBSCRIPTION_QUEUE": "Dogodki v čakalni vrsti",
+    "API_SUBSCRIPTION_METHOD": "Metoda",
+    "API_SUBSCRIPTION_CREATED": "Ustvarjeno",
+    "EVENT_COMMENT_CREATED": "Komentar ustvarjen",
+    "EVENT_COMMENT_UPDATED": "Komentar posodobljen",
+    "WEBHOOK_DELETE_BUTTON": "Izbriši",
+    "WEBHOOK_STATUS_ACTIVE": "Aktivno",
+    "EVENT_COMMENT_DELETED": "Komentar izbrisan",
+    "WEBHOOK_DELETE_CONFIRM": "Želite izbrisati to naročnino? Njeni dogodki v čakalni vrsti bodo zavrženi. Naročnik se bo moral za prejemanje dogodkov znova naročiti."
 }

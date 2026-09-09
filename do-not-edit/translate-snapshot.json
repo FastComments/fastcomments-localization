@@ -4928,7 +4928,21 @@
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -10229,6 +10243,9 @@
                 "NOT_ADMIN_BODY": "Opening this site signs you in as its account owner, which includes billing, API keys and moderation. Vercel's Viewer and Billing roles are read-only, so ask an owner of the Vercel team to open it instead.",
                 "LABEL_TENANT_ID": "Site id",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "es_es": {
@@ -15159,7 +15176,21 @@
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_MANUALLY_DISABLED_EXPLANATION": "This webhook was disabled on [date]. Queued events are kept and will be delivered once it is re-enabled.",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events.",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "EVENT_COMMENT_UPDATED": "Comment Updated"
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -20460,6 +20491,9 @@
                 "LABEL_EMAIL": "Signed in from Vercel as",
                 "UNVERIFIED_EMAIL_BODY": "We match your FastComments account by email address, so we only accept one Vercel has confirmed belongs to you. Verify your email with Vercel, then open this site again.",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "pl_pl": {
@@ -25376,7 +25410,21 @@
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events.",
+                "EVENT_COMMENT_DELETED": "Comment Deleted"
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -30677,6 +30725,9 @@
                 "LABEL_TENANT_ID": "Site id",
                 "UNVERIFIED_EMAIL_BODY": "We match your FastComments account by email address, so we only accept one Vercel has confirmed belongs to you. Verify your email with Vercel, then open this site again.",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "de_de": {
@@ -35591,7 +35642,21 @@
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
-                "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]"
+                "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -40892,6 +40957,9 @@
                 "LABEL_TENANT_ID": "Site id",
                 "UNVERIFIED_EMAIL_BODY": "We match your FastComments account by email address, so we only accept one Vercel has confirmed belongs to you. Verify your email with Vercel, then open this site again.",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "it_it": {
@@ -45795,7 +45863,21 @@
                 "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Failing - will be disabled [date]",
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
-                "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]"
+                "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -51096,6 +51178,9 @@
                 "NOT_ADMIN_BODY": "Opening this site signs you in as its account owner, which includes billing, API keys and moderation. Vercel's Viewer and Billing roles are read-only, so ask an owner of the Vercel team to open it instead.",
                 "LABEL_TENANT_ID": "Site id",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "ru_ru": {
@@ -56010,7 +56095,21 @@
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Failing - will be disabled [date]",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -61311,6 +61410,9 @@
                 "LABEL_TENANT_ID": "Site id",
                 "LABEL_EMAIL": "Signed in from Vercel as",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "pt_br": {
@@ -65407,7 +65509,21 @@
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
-                "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]"
+                "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -70844,6 +70960,9 @@
                 "LABEL_TENANT_ID": "Site id",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login.",
                 "UNVERIFIED_EMAIL_BODY": "We match your FastComments account by email address, so we only accept one Vercel has confirmed belongs to you. Verify your email with Vercel, then open this site again."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "ja_jp": {
@@ -75751,7 +75870,21 @@
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -81052,6 +81185,9 @@
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login.",
                 "UNVERIFIED_EMAIL_BODY": "We match your FastComments account by email address, so we only accept one Vercel has confirmed belongs to you. Verify your email with Vercel, then open this site again.",
                 "LABEL_TENANT_ID": "Site id"
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "tr_tr": {
@@ -85959,7 +86095,21 @@
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
-                "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]"
+                "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -91260,6 +91410,9 @@
                 "LABEL_EMAIL": "Signed in from Vercel as",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login.",
                 "UNVERIFIED_EMAIL_BODY": "We match your FastComments account by email address, so we only accept one Vercel has confirmed belongs to you. Verify your email with Vercel, then open this site again."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "zh_cn": {
@@ -96166,7 +96319,21 @@
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
-                "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]"
+                "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -101467,6 +101634,9 @@
                 "LABEL_TENANT_ID": "Site id",
                 "UNVERIFIED_EMAIL_BODY": "We match your FastComments account by email address, so we only accept one Vercel has confirmed belongs to you. Verify your email with Vercel, then open this site again.",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "ko_kr": {
@@ -106372,7 +106542,21 @@
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -111673,6 +111857,9 @@
                 "LABEL_EMAIL": "Signed in from Vercel as",
                 "UNVERIFIED_EMAIL_BODY": "We match your FastComments account by email address, so we only accept one Vercel has confirmed belongs to you. Verify your email with Vercel, then open this site again.",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "zh_tw": {
@@ -116577,7 +116764,21 @@
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -121878,6 +122079,9 @@
                 "NOT_ADMIN_BODY": "Opening this site signs you in as its account owner, which includes billing, API keys and moderation. Vercel's Viewer and Billing roles are read-only, so ask an owner of the Vercel team to open it instead.",
                 "UNVERIFIED_EMAIL_BODY": "We match your FastComments account by email address, so we only accept one Vercel has confirmed belongs to you. Verify your email with Vercel, then open this site again.",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "he": {
@@ -126782,7 +126986,21 @@
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events.",
+                "EVENT_COMMENT_DELETED": "Comment Deleted"
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -132083,6 +132301,9 @@
                 "NOT_ADMIN_BODY": "Opening this site signs you in as its account owner, which includes billing, API keys and moderation. Vercel's Viewer and Billing roles are read-only, so ask an owner of the Vercel team to open it instead.",
                 "LABEL_TENANT_ID": "Site id",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "hr_hr": {
@@ -136987,7 +137208,21 @@
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -142288,6 +142523,9 @@
                 "NOT_ADMIN_BODY": "Opening this site signs you in as its account owner, which includes billing, API keys and moderation. Vercel's Viewer and Billing roles are read-only, so ask an owner of the Vercel team to open it instead.",
                 "UNVERIFIED_EMAIL_BODY": "We match your FastComments account by email address, so we only accept one Vercel has confirmed belongs to you. Verify your email with Vercel, then open this site again.",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "da_dk": {
@@ -147192,7 +147430,21 @@
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -152493,6 +152745,9 @@
                 "NOT_ADMIN_BODY": "Opening this site signs you in as its account owner, which includes billing, API keys and moderation. Vercel's Viewer and Billing roles are read-only, so ask an owner of the Vercel team to open it instead.",
                 "UNVERIFIED_EMAIL_BODY": "We match your FastComments account by email address, so we only accept one Vercel has confirmed belongs to you. Verify your email with Vercel, then open this site again.",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "ru_ua": {
@@ -157397,7 +157652,21 @@
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -162698,6 +162967,9 @@
                 "LABEL_TENANT_ID": "Site id",
                 "LABEL_EMAIL": "Signed in from Vercel as",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "uk_ua": {
@@ -167602,7 +167874,21 @@
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -172903,6 +173189,9 @@
                 "LABEL_EMAIL": "Signed in from Vercel as",
                 "UNVERIFIED_EMAIL_HEADING": "Vercel has not verified your email address.",
                 "NOT_ADMIN_BODY": "Opening this site signs you in as its account owner, which includes billing, API keys and moderation. Vercel's Viewer and Billing roles are read-only, so ask an owner of the Vercel team to open it instead."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "bg_bg": {
@@ -177796,7 +178085,21 @@
                 "WEBHOOK_AUTO_DISABLED_EXPLANATION": "This webhook was automatically disabled on [date] after about a week of failed deliveries. Queued events are kept and will be delivered once you fix the endpoint and re-enable it.",
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
-                "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]"
+                "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_URL": "URL",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -183097,6 +183400,9 @@
                 "NOT_ADMIN_BODY": "Opening this site signs you in as its account owner, which includes billing, API keys and moderation. Vercel's Viewer and Billing roles are read-only, so ask an owner of the Vercel team to open it instead.",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login.",
                 "UNVERIFIED_EMAIL_BODY": "We match your FastComments account by email address, so we only accept one Vercel has confirmed belongs to you. Verify your email with Vercel, then open this site again."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "el_cy": {
@@ -188001,7 +188307,21 @@
                 "WEBHOOK_AUTO_DISABLED_EXPLANATION": "This webhook was automatically disabled on [date] after about a week of failed deliveries. Queued events are kept and will be delivered once you fix the endpoint and re-enable it.",
                 "WEBHOOK_STATUS_DISABLE_SCHEDULED": "⚠️ Failing - will be disabled [date]",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -193302,6 +193622,9 @@
                 "LABEL_EMAIL": "Signed in from Vercel as",
                 "LABEL_TENANT_ID": "Site id",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "el_gr": {
@@ -198206,7 +198529,21 @@
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -203507,6 +203844,9 @@
                 "LABEL_TENANT_ID": "Site id",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login.",
                 "UNVERIFIED_EMAIL_BODY": "We match your FastComments account by email address, so we only accept one Vercel has confirmed belongs to you. Verify your email with Vercel, then open this site again."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "sr_ba": {
@@ -208411,7 +208751,21 @@
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events.",
+                "EVENT_COMMENT_DELETED": "Comment Deleted"
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -213712,6 +214066,9 @@
                 "UNVERIFIED_EMAIL_HEADING": "Vercel has not verified your email address.",
                 "LABEL_TENANT_ID": "Site id",
                 "NOT_ADMIN_HEADING": "You need admin access on this Vercel team."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "sr_me": {
@@ -218616,7 +218973,21 @@
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -223917,6 +224288,9 @@
                 "LABEL_EMAIL": "Signed in from Vercel as",
                 "LABEL_TENANT_ID": "Site id",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "sr_rs": {
@@ -228821,7 +229195,21 @@
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
-                "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]"
+                "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -234122,6 +234510,9 @@
                 "LABEL_TENANT_ID": "Site id",
                 "UNVERIFIED_EMAIL_BODY": "We match your FastComments account by email address, so we only accept one Vercel has confirmed belongs to you. Verify your email with Vercel, then open this site again.",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "sl_sl": {
@@ -239026,7 +239417,21 @@
                 "WEBHOOK_ENABLE_BUTTON": "Enable",
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -244327,6 +244732,9 @@
                 "HERO_DESCRIPTION": "This site is billed through Vercel and needs its own FastComments login.",
                 "LABEL_TENANT_ID": "Site id",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "sr_latn_rs": {
@@ -249213,7 +249621,21 @@
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
                 "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
-                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet."
+                "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events.",
+                "WEBHOOK_DELETE_BUTTON": "Delete"
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -254514,6 +254936,9 @@
                 "UNVERIFIED_EMAIL_BODY": "We match your FastComments account by email address, so we only accept one Vercel has confirmed belongs to you. Verify your email with Vercel, then open this site again.",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login.",
                 "PAGE_TITLE": "Vercel Site Not Linked - FastComments"
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         },
         "nl_nl": {
@@ -259417,7 +259842,21 @@
                 "WEBHOOK_AUTO_DISABLED_EXPLANATION": "This webhook was automatically disabled on [date] after about a week of failed deliveries. Queued events are kept and will be delivered once you fix the endpoint and re-enable it.",
                 "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
                 "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Failing since [date]. No successful deliveries yet.",
-                "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]"
+                "WEBHOOK_STATUS_FAILING": "⚠️ Failing since [date]. Last success: [lastSuccessDate]",
+                "API_SUBSCRIPTION_URL": "URL",
+                "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+                "API_SUBSCRIPTION_EVENT": "Event",
+                "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+                "API_SUBSCRIPTION_STATUS": "Status",
+                "API_SUBSCRIPTION_CREATED": "Created",
+                "API_SUBSCRIPTION_METHOD": "Method",
+                "EVENT_COMMENT_CREATED": "Comment Created",
+                "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+                "WEBHOOK_STATUS_ACTIVE": "Active",
+                "WEBHOOK_DELETE_BUTTON": "Delete",
+                "EVENT_COMMENT_DELETED": "Comment Deleted",
+                "EVENT_COMMENT_UPDATED": "Comment Updated",
+                "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
             },
             "my-account-manage-data-webhooks-for-domain": {
                 "ON_COMMENT_CREATED_LABEL": "On Comment <b>Created</b>, call...",
@@ -264718,6 +265157,9 @@
                 "HERO_DESCRIPTION": "This site is billed through Vercel and needs its own FastComments login.",
                 "BLOCKED_NEXT_STEPS": "Open the site from Vercel using a team member whose email is not already a FastComments account owner, or contact support and we will link this site to your existing login.",
                 "NOT_ADMIN_BODY": "Opening this site signs you in as its account owner, which includes billing, API keys and moderation. Vercel's Viewer and Billing roles are read-only, so ask an owner of the Vercel team to open it instead."
+            },
+            "comment-ui-unsaved-comment-warning": {
+                "UNSAVED_COMMENT_WARNING": "You have an unsent comment. Leave and discard it?"
             }
         }
     }

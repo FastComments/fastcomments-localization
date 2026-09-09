@@ -39,5 +39,19 @@
     "WEBHOOK_DISABLE_CONFIRM": "Diesen Webhook deaktivieren? Ereignisse werden zwar gespeichert, aber erst nach der Reaktivierung zugestellt.",
     "WEBHOOK_TOGGLE_ERROR": "❌ Der Webhook konnte nicht aktualisiert werden. Bitte versuchen Sie es erneut.",
     "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Fehler seit [date]. Bisher keine erfolgreichen Lieferungen.",
-    "WEBHOOK_STATUS_FAILING": "⚠️ Seit [date] erfolglos. Letzter Erfolg: [lastSuccessDate]"
+    "WEBHOOK_STATUS_FAILING": "⚠️ Fehler seit [date]. Letzter Erfolg: [lastSuccessDate]",
+    "API_SUBSCRIPTIONS_HEADING": "API-Abonnements",
+    "API_SUBSCRIPTION_URL": "URL",
+    "API_SUBSCRIPTIONS_INTRO": "Diese Webhooks wurden über die API erstellt, beispielsweise mit Zapier. Sie empfangen Ereignisse zusammen mit den oben konfigurierten Webhooks und werden automatisch entfernt, wenn der Endpunkt mit dem Statuscode 410 Gone antwortet.",
+    "API_SUBSCRIPTION_METHOD": "Methode",
+    "API_SUBSCRIPTION_EVENT": "Ereignis",
+    "API_SUBSCRIPTION_STATUS": "Status",
+    "API_SUBSCRIPTION_CREATED": "Erstellt",
+    "EVENT_COMMENT_CREATED": "Kommentar erstellt",
+    "API_SUBSCRIPTION_QUEUE": "Ereignisse in der Warteschlange",
+    "WEBHOOK_STATUS_ACTIVE": "Aktiv",
+    "WEBHOOK_DELETE_BUTTON": "Löschen",
+    "EVENT_COMMENT_UPDATED": "Kommentar aktualisiert",
+    "EVENT_COMMENT_DELETED": "Kommentar gelöscht",
+    "WEBHOOK_DELETE_CONFIRM": "Dieses Abonnement löschen? Die in der Warteschlange befindlichen Ereignisse werden verworfen. Der Abonnent muss erneut abonnieren, um wieder Ereignisse zu erhalten."
 }

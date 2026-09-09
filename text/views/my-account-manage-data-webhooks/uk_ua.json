@@ -38,6 +38,20 @@
     "WEBHOOK_AUTO_DISABLED_EXPLANATION": "Цей вебхук було автоматично вимкнено [date] приблизно через тиждень невдалих доставок. Події в черзі зберігаються та будуть доставлені, щойно ви виправите кінцеву точку та повторно її ввімкнете.",
     "WEBHOOK_TOGGLE_ERROR": "❌ Не вдалося оновити вебхук. Спробуйте ще раз.",
     "WEBHOOK_DISABLE_CONFIRM": "Вимкнути цей вебхук? Події зберігатимуться, але не доставлятимуться, доки його не буде знову ввімкнено.",
-    "WEBHOOK_STATUS_FAILING": "⚠️ Невдача з [date]. Останній успіх: [lastSuccessDate]",
-    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Не вдалося з [date]. Успішних доставок поки що немає."
+    "WEBHOOK_STATUS_FAILING": "⚠️ Не вдалося з [date]. Останній успіх: [lastSuccessDate]",
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ Не вдалося з [date]. Успішних доставок поки що немає.",
+    "API_SUBSCRIPTION_URL": "URL-адреса",
+    "API_SUBSCRIPTION_EVENT": "Подія",
+    "API_SUBSCRIPTION_METHOD": "Метод",
+    "API_SUBSCRIPTIONS_HEADING": "Підписки через API",
+    "API_SUBSCRIPTION_CREATED": "Створено",
+    "API_SUBSCRIPTIONS_INTRO": "Ці вебхуки були створені через API, наприклад, за допомогою Zapier. Вони отримують події разом із вебхуками, налаштованими вище, і автоматично видаляються, коли кінцева точка відповідає кодом 410 Gone.",
+    "API_SUBSCRIPTION_STATUS": "Статус",
+    "API_SUBSCRIPTION_QUEUE": "Події в черзі",
+    "EVENT_COMMENT_CREATED": "Коментар створено",
+    "WEBHOOK_STATUS_ACTIVE": "Активний",
+    "EVENT_COMMENT_DELETED": "Коментар видалено",
+    "EVENT_COMMENT_UPDATED": "Коментар оновлено",
+    "WEBHOOK_DELETE_BUTTON": "Видалити",
+    "WEBHOOK_DELETE_CONFIRM": "Видалити цю підписку? Події в черзі буде видалено. Підписнику потрібно буде підписатися знову, щоб отримувати події."
 }

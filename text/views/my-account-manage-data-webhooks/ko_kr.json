@@ -39,5 +39,19 @@
     "WEBHOOK_TOGGLE_ERROR": "❌ 웹훅 업데이트에 실패했습니다. 다시 시도해 주세요.",
     "WEBHOOK_DISABLE_CONFIRM": "이 웹훅을 비활성화하시겠습니까? 이벤트는 저장되지만, 다시 활성화될 때까지 전달되지 않습니다.",
     "WEBHOOK_STATUS_FAILING": "⚠️ [date]일부터 실패 중입니다. 마지막 성공일: [lastSuccessDate]",
-    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ [date]일부터 실패 중입니다. 아직 성공적인 배송이 없습니다."
+    "WEBHOOK_STATUS_FAILING_NO_SUCCESS": "⚠️ [date]일부터 실패 중입니다. 아직 성공적인 배송이 없습니다.",
+    "API_SUBSCRIPTION_URL": "URL",
+    "API_SUBSCRIPTIONS_HEADING": "API 구독",
+    "API_SUBSCRIPTIONS_INTRO": "이러한 웹훅은 Zapier 등에서 API를 통해 생성한 것입니다. 위에서 설정한 웹훅과 함께 이벤트를 수신하며, 엔드포인트가 410 Gone으로 응답하면 자동으로 삭제됩니다.",
+    "API_SUBSCRIPTION_METHOD": "메서드",
+    "API_SUBSCRIPTION_STATUS": "상태",
+    "API_SUBSCRIPTION_EVENT": "이벤트",
+    "API_SUBSCRIPTION_CREATED": "생성일",
+    "EVENT_COMMENT_CREATED": "댓글 작성됨",
+    "WEBHOOK_STATUS_ACTIVE": "활성",
+    "API_SUBSCRIPTION_QUEUE": "대기 중인 이벤트",
+    "WEBHOOK_DELETE_BUTTON": "삭제",
+    "EVENT_COMMENT_DELETED": "댓글 삭제됨",
+    "EVENT_COMMENT_UPDATED": "댓글 업데이트됨",
+    "WEBHOOK_DELETE_CONFIRM": "이 구독을 삭제하시겠습니까? 대기 중인 이벤트는 모두 삭제됩니다. 이벤트를 수신하려면 구독자가 다시 구독해야 합니다."
 }
