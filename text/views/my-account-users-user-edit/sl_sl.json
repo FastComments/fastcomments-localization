@@ -23,5 +23,21 @@
     "EMAIL_EXISTS_SAME_TENANT": "❗ Uporabnik s tem e-poštnim naslovom že obstaja za tega najemnika.",
     "EMAIL_EXISTS_INVITE": "❗ Uporabnik FastComments s tem e-poštnim naslovom že obstaja, vendar ne za tega najemnika. Ali <a href=\"{{INVITE_URL}}\">ga želite povabiti</a> ?",
     "EMAIL_EXISTS_OTHER_TENANT": "❌ Uporabnik FastComments s tem e-poštnim naslovom že obstaja za drugega najemnika.",
-    "EMAIL_AVAILABLE": "✔️ Ta e-pošta je na voljo."
+    "EMAIL_AVAILABLE": "✔️ Ta e-pošta je na voljo.",
+    "EMAIL_IS_CURRENT": "To je njihova trenutna e-pošta.",
+    "EMAIL_PENDING_VERIFICATION": "Ta e-pošta čaka na potrditev. Njihova trenutna e-pošta <%- editingUser.email %> ostane v uporabi, dokler ne kliknejo povezave, ki smo jo poslali.",
+    "BUTTON_RESEND_VERIFICATION": "Ponovno pošlji potrditveno e-pošto",
+    "MESSAGE_EMAIL_CHANGE_REQUESTED": "Potrditvena e-pošta je bila poslana na <%- editingUser.pendingEmail %>. Njihova e-pošta se bo spremenila, ko kliknejo povezavo.",
+    "MESSAGE_EMAIL_CHANGE_CANCELLED": "Čakajoča sprememba e-pošte je bila preklicana.",
+    "MESSAGE_EMAIL_VERIFICATION_RESENT": "Potrditvena e-pošta je bila ponovno poslana na <%- editingUser.pendingEmail %>.",
+    "ERROR_USERNAME_REQUIRED": "Vnesite uporabniško ime.",
+    "ERROR_EMAIL_REQUIRED": "Vnesite e-pošto.",
+    "ERROR_EMAIL_INVALID": "Ta e-poštni naslov ni veljaven.",
+    "ERROR_EMAIL_TAKEN": "To e-pošto že uporablja drug uporabnik FastComments.",
+    "ERROR_USERNAME_TAKEN": "To uporabniško ime že uporablja drug uporabnik FastComments.",
+    "ERROR_USER_NOT_FOUND": "Tega uporabnika ni bilo mogoče najti.",
+    "ERROR_INTERNAL": "Prišlo je do notranje napake. Poskusite znova pozneje.",
+    "ERROR_NO_PENDING_EMAIL": "Za tega uporabnika ni čakajoče spremembe e-pošte.",
+    "ERROR_RATE_LIMITED_MINUTE": "Presegli ste naše omejitve hitrosti. Poskusite znova čez nekaj minut ali se obrnite na podporo.",
+    "ERROR_RATE_LIMITED_DAY": "Presegli ste naše dnevne omejitve hitrosti. Poskusite znova čez 24 ur ali se obrnite na podporo."
 }

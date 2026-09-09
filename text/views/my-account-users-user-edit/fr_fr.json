@@ -23,5 +23,21 @@
     "EMAIL_EXISTS_SAME_TENANT": "❗ Un utilisateur possédant cette adresse e-mail existe déjà pour ce locataire.",
     "EMAIL_EXISTS_INVITE": "❗ Un utilisateur FastComments avec cette adresse e-mail existe déjà, mais pas pour ce locataire. Voulez-vous <a href=\"{{INVITE_URL}}\">l&#39;inviter</a> ?",
     "EMAIL_EXISTS_OTHER_TENANT": "❌ Un utilisateur FastComments avec cette adresse e-mail existe déjà pour un autre locataire.",
-    "EMAIL_AVAILABLE": "✔️ Cette adresse e-mail est disponible."
+    "EMAIL_AVAILABLE": "✔️ Cette adresse e-mail est disponible.",
+    "EMAIL_IS_CURRENT": "C'est son adresse e-mail actuelle.",
+    "EMAIL_PENDING_VERIFICATION": "Cette adresse e-mail est en attente de vérification. L'adresse e-mail actuelle de l'utilisateur, <%- editingUser.email %>, reste utilisée jusqu'à ce qu'il clique sur le lien que nous lui avons envoyé.",
+    "BUTTON_RESEND_VERIFICATION": "Renvoyer l'e-mail de vérification",
+    "MESSAGE_EMAIL_CHANGE_REQUESTED": "E-mail de vérification envoyé à <%- editingUser.pendingEmail %>. L'adresse e-mail de l'utilisateur changera dès qu'il aura cliqué sur le lien.",
+    "MESSAGE_EMAIL_CHANGE_CANCELLED": "Le changement d'adresse e-mail en attente a été annulé.",
+    "MESSAGE_EMAIL_VERIFICATION_RESENT": "E-mail de vérification renvoyé à <%- editingUser.pendingEmail %>.",
+    "ERROR_USERNAME_REQUIRED": "Veuillez saisir un nom d'utilisateur.",
+    "ERROR_EMAIL_REQUIRED": "Veuillez saisir une adresse e-mail.",
+    "ERROR_EMAIL_INVALID": "Cette adresse e-mail n'est pas valide.",
+    "ERROR_EMAIL_TAKEN": "Cette adresse e-mail est déjà utilisée par un autre utilisateur FastComments.",
+    "ERROR_USERNAME_TAKEN": "Ce nom d'utilisateur est déjà utilisé par un autre utilisateur FastComments.",
+    "ERROR_USER_NOT_FOUND": "Cet utilisateur est introuvable.",
+    "ERROR_INTERNAL": "Une erreur interne s'est produite. Veuillez réessayer plus tard.",
+    "ERROR_NO_PENDING_EMAIL": "Aucun changement d'adresse e-mail n'est en attente pour cet utilisateur.",
+    "ERROR_RATE_LIMITED_MINUTE": "Vous avez dépassé notre limite de requêtes. Veuillez réessayer dans quelques minutes ou contacter l'assistance.",
+    "ERROR_RATE_LIMITED_DAY": "Vous avez dépassé notre limite de requêtes quotidiennes. Veuillez réessayer dans 24 heures ou contacter l'assistance."
 }

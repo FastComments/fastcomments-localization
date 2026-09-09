@@ -23,5 +23,21 @@
     "EMAIL_EXISTS_SAME_TENANT": "❗ Bu kiracı için bu e-posta adresine sahip bir kullanıcı zaten mevcut.",
     "EMAIL_EXISTS_INVITE": "❗ Bu e-posta adresine sahip bir FastComments kullanıcısı zaten mevcut, ancak bu kiracı için değil. <a href=\"{{INVITE_URL}}\">Onları davet etmek</a> ister misiniz?",
     "EMAIL_EXISTS_OTHER_TENANT": "❌ Bu e-posta adresine sahip bir FastComments kullanıcısı başka bir kiracı için zaten mevcut.",
-    "EMAIL_AVAILABLE": "✔️ Bu e-posta adresi kullanılabilir."
+    "EMAIL_AVAILABLE": "✔️ Bu e-posta adresi kullanılabilir.",
+    "EMAIL_IS_CURRENT": "Bu, kullanıcının mevcut e-posta adresi.",
+    "EMAIL_PENDING_VERIFICATION": "Bu e-posta adresi doğrulama bekliyor. Kullanıcı gönderdiğimiz bağlantıya tıklayana kadar mevcut e-posta adresi olan <%- editingUser.email %> kullanımda kalmaya devam eder.",
+    "BUTTON_RESEND_VERIFICATION": "Doğrulama E-postasını Yeniden Gönder",
+    "MESSAGE_EMAIL_CHANGE_REQUESTED": "Doğrulama e-postası <%- editingUser.pendingEmail %> adresine gönderildi. Kullanıcı bağlantıya tıkladığında e-posta adresi değişecektir.",
+    "MESSAGE_EMAIL_CHANGE_CANCELLED": "Bekleyen e-posta değişikliği iptal edildi.",
+    "MESSAGE_EMAIL_VERIFICATION_RESENT": "Doğrulama e-postası <%- editingUser.pendingEmail %> adresine yeniden gönderildi.",
+    "ERROR_USERNAME_REQUIRED": "Lütfen bir kullanıcı adı girin.",
+    "ERROR_EMAIL_REQUIRED": "Lütfen bir e-posta adresi girin.",
+    "ERROR_EMAIL_INVALID": "Bu e-posta adresi geçerli değil.",
+    "ERROR_EMAIL_TAKEN": "Bu e-posta adresi başka bir FastComments kullanıcısı tarafından kullanılıyor.",
+    "ERROR_USERNAME_TAKEN": "Bu kullanıcı adı başka bir FastComments kullanıcısı tarafından kullanılıyor.",
+    "ERROR_USER_NOT_FOUND": "Bu kullanıcı bulunamadı.",
+    "ERROR_INTERNAL": "Dahili bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+    "ERROR_NO_PENDING_EMAIL": "Bu kullanıcı için bekleyen bir e-posta değişikliği yok.",
+    "ERROR_RATE_LIMITED_MINUTE": "Kullanım limitlerimizi aştınız. Lütfen birkaç dakika sonra tekrar deneyin veya destek ekibimizle iletişime geçin.",
+    "ERROR_RATE_LIMITED_DAY": "Günlük kullanım limitlerimizi aştınız. Lütfen 24 saat sonra tekrar deneyin veya destek ekibimizle iletişime geçin."
 }

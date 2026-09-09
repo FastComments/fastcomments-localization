@@ -23,5 +23,21 @@
     "EMAIL_EXISTS_SAME_TENANT": "❗ Korisnik sa tom e-poštom već postoji za ovog stanara.",
     "EMAIL_EXISTS_INVITE": "❗ Korisnik FastComments sa tom e-poštom već postoji, ali ne i za ovog stanara. Da li želite da ih <a href=\"{{INVITE_URL}}\">pozovete</a>?",
     "EMAIL_EXISTS_OTHER_TENANT": "❌ Korisnik FastComments sa tom e-poštom već postoji za drugog stanara.",
-    "EMAIL_AVAILABLE": "✔️ Ta e-pošta je dostupna."
+    "EMAIL_AVAILABLE": "✔️ Ta e-pošta je dostupna.",
+    "EMAIL_IS_CURRENT": "Ovo je njihova trenutna e-pošta.",
+    "EMAIL_PENDING_VERIFICATION": "Ova e-pošta čeka verifikaciju. Njihova trenutna e-pošta <%- editingUser.email %> ostaje u upotrebi dok ne kliknu na link koji smo poslali.",
+    "BUTTON_RESEND_VERIFICATION": "Ponovo pošalji e-poštu za verifikaciju",
+    "MESSAGE_EMAIL_CHANGE_REQUESTED": "E-pošta za verifikaciju je poslata na <%- editingUser.pendingEmail %>. Njihova e-pošta će se promeniti kada kliknu na link.",
+    "MESSAGE_EMAIL_CHANGE_CANCELLED": "Promena e-pošte na čekanju je otkazana.",
+    "MESSAGE_EMAIL_VERIFICATION_RESENT": "E-pošta za verifikaciju je ponovo poslata na <%- editingUser.pendingEmail %>.",
+    "ERROR_USERNAME_REQUIRED": "Unesite korisničko ime.",
+    "ERROR_EMAIL_REQUIRED": "Unesite e-poštu.",
+    "ERROR_EMAIL_INVALID": "Ta adresa e-pošte nije važeća.",
+    "ERROR_EMAIL_TAKEN": "Tu e-poštu već koristi drugi korisnik FastComments.",
+    "ERROR_USERNAME_TAKEN": "To korisničko ime već koristi drugi korisnik FastComments.",
+    "ERROR_USER_NOT_FOUND": "Taj korisnik nije pronađen.",
+    "ERROR_INTERNAL": "Došlo je do interne greške. Molimo vas da pokušate ponovo kasnije.",
+    "ERROR_NO_PENDING_EMAIL": "Za ovog korisnika nema promene e-pošte na čekanju.",
+    "ERROR_RATE_LIMITED_MINUTE": "Prekoračili ste naša ograničenja brzine. Molimo vas da pokušate ponovo za nekoliko minuta ili kontaktirate podršku.",
+    "ERROR_RATE_LIMITED_DAY": "Prekoračili ste naša dnevna ograničenja brzine. Molimo vas da pokušate ponovo za 24 sata ili kontaktirate podršku."
 }

@@ -23,5 +23,21 @@
     "EMAIL_EXISTS_SAME_TENANT": "❗ Użytkownik o takim adresie e-mail już istnieje dla tego najemcy.",
     "EMAIL_EXISTS_INVITE": "❗ Użytkownik FastComments o tym adresie e-mail już istnieje, ale nie dla tego tenanta. Czy chcesz <a href=\"{{INVITE_URL}}\">go zaprosić</a>?",
     "EMAIL_EXISTS_OTHER_TENANT": "❌ Użytkownik FastComments o takim adresie e-mail już istnieje dla innego najemcy.",
-    "EMAIL_AVAILABLE": "✔️ Ten adres e-mail jest dostępny."
+    "EMAIL_AVAILABLE": "✔️ Ten adres e-mail jest dostępny.",
+    "EMAIL_IS_CURRENT": "To obecny adres e-mail tego użytkownika.",
+    "EMAIL_PENDING_VERIFICATION": "Ten adres e-mail oczekuje na weryfikację. Obecny adres e-mail <%- editingUser.email %> pozostaje w użyciu, dopóki użytkownik nie kliknie wysłanego przez nas linku.",
+    "BUTTON_RESEND_VERIFICATION": "Wyślij ponownie e-mail weryfikacyjny",
+    "MESSAGE_EMAIL_CHANGE_REQUESTED": "Wysłano e-mail weryfikacyjny na adres <%- editingUser.pendingEmail %>. Adres e-mail użytkownika zmieni się, gdy kliknie link.",
+    "MESSAGE_EMAIL_CHANGE_CANCELLED": "Oczekująca zmiana adresu e-mail została anulowana.",
+    "MESSAGE_EMAIL_VERIFICATION_RESENT": "Ponownie wysłano e-mail weryfikacyjny na adres <%- editingUser.pendingEmail %>.",
+    "ERROR_USERNAME_REQUIRED": "Wpisz nazwę użytkownika.",
+    "ERROR_EMAIL_REQUIRED": "Wpisz adres e-mail.",
+    "ERROR_EMAIL_INVALID": "Ten adres e-mail jest nieprawidłowy.",
+    "ERROR_EMAIL_TAKEN": "Ten adres e-mail jest już zajęty przez innego użytkownika FastComments.",
+    "ERROR_USERNAME_TAKEN": "Ta nazwa użytkownika jest już zajęta przez innego użytkownika FastComments.",
+    "ERROR_USER_NOT_FOUND": "Nie znaleziono tego użytkownika.",
+    "ERROR_INTERNAL": "Wystąpił błąd wewnętrzny. Spróbuj ponownie później.",
+    "ERROR_NO_PENDING_EMAIL": "Dla tego użytkownika nie ma oczekującej zmiany adresu e-mail.",
+    "ERROR_RATE_LIMITED_MINUTE": "Przekroczyłeś nasze limity zapytań. Spróbuj ponownie za kilka minut lub skontaktuj się z pomocą techniczną.",
+    "ERROR_RATE_LIMITED_DAY": "Przekroczyłeś nasze dzienne limity zapytań. Spróbuj ponownie za 24 godziny lub skontaktuj się z pomocą techniczną."
 }

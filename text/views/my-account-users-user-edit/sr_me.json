@@ -23,5 +23,21 @@
     "EMAIL_EXISTS_SAME_TENANT": "❗ Корисник са том имејл адресом већ постоји за овог закупца.",
     "EMAIL_EXISTS_INVITE": "❗ Корисник FastComments-а са том имејл адресом већ постоји, али не за овог закупца. Да ли желите да <a href=\"{{INVITE_URL}}\">га позовете</a> ?",
     "EMAIL_EXISTS_OTHER_TENANT": "❌ Корисник FastComments-а са том имејл адресом већ постоји за другог закупца.",
-    "EMAIL_AVAILABLE": "✔️ Тај имејл је доступан."
+    "EMAIL_AVAILABLE": "✔️ Тај имејл је доступан.",
+    "EMAIL_IS_CURRENT": "Ово је њихов тренутни имејл.",
+    "EMAIL_PENDING_VERIFICATION": "Овај имејл чека верификацију. Њихов тренутни имејл <%- editingUser.email %> остаје у употреби док не кликну на линк који смо послали.",
+    "BUTTON_RESEND_VERIFICATION": "Поново пошаљи имејл за верификацију",
+    "MESSAGE_EMAIL_CHANGE_REQUESTED": "Имејл за верификацију је послат на <%- editingUser.pendingEmail %>. Њихов имејл ће се променити када кликну на линк.",
+    "MESSAGE_EMAIL_CHANGE_CANCELLED": "Промена имејла на чекању је отказана.",
+    "MESSAGE_EMAIL_VERIFICATION_RESENT": "Имејл за верификацију је поново послат на <%- editingUser.pendingEmail %>.",
+    "ERROR_USERNAME_REQUIRED": "Унесите корисничко име.",
+    "ERROR_EMAIL_REQUIRED": "Унесите имејл.",
+    "ERROR_EMAIL_INVALID": "Та имејл адреса није важећа.",
+    "ERROR_EMAIL_TAKEN": "Тај имејл већ користи други корисник FastComments-а.",
+    "ERROR_USERNAME_TAKEN": "То корисничко име већ користи други корисник FastComments-а.",
+    "ERROR_USER_NOT_FOUND": "Тај корисник није пронађен.",
+    "ERROR_INTERNAL": "Дошло је до интерне грешке. Молимо вас да покушате поново касније.",
+    "ERROR_NO_PENDING_EMAIL": "За овог корисника нема промене имејла на чекању.",
+    "ERROR_RATE_LIMITED_MINUTE": "Прекорачили сте наша ограничења брзине. Молимо вас да покушате поново за неколико минута или контактирате подршку.",
+    "ERROR_RATE_LIMITED_DAY": "Прекорачили сте наша дневна ограничења брзине. Молимо вас да покушате поново за 24 сата или контактирате подршку."
 }

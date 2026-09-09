@@ -23,5 +23,21 @@
     "EMAIL_EXISTS_SAME_TENANT": "❗ Υπάρχει ήδη ένας χρήστης με αυτήν τη διεύθυνση email για αυτόν τον λογαριασμό.",
     "EMAIL_EXISTS_INVITE": "❗ Υπάρχει ήδη ένας χρήστης του FastComments με αυτήν τη διεύθυνση email, αλλά όχι για αυτόν τον λογαριασμό. Θέλετε να <a href=\"{{INVITE_URL}}\">τον προσκαλέσετε</a>;",
     "EMAIL_EXISTS_OTHER_TENANT": "❌ Υπάρχει ήδη ένας χρήστης FastComments με αυτήν τη διεύθυνση email για έναν άλλο λογαριασμό.",
-    "EMAIL_AVAILABLE": "✔️ Αυτό το email είναι διαθέσιμο."
+    "EMAIL_AVAILABLE": "✔️ Αυτό το email είναι διαθέσιμο.",
+    "EMAIL_IS_CURRENT": "Αυτό είναι το τρέχον email του χρήστη.",
+    "EMAIL_PENDING_VERIFICATION": "Αυτό το email εκκρεμεί προς επαλήθευση. Το τρέχον email του χρήστη <%- editingUser.email %> παραμένει σε χρήση μέχρι να κάνει κλικ στον σύνδεσμο που στείλαμε.",
+    "BUTTON_RESEND_VERIFICATION": "Επαναποστολή email επαλήθευσης",
+    "MESSAGE_EMAIL_CHANGE_REQUESTED": "Το email επαλήθευσης στάλθηκε στο <%- editingUser.pendingEmail %>. Το email του χρήστη θα αλλάξει μόλις κάνει κλικ στον σύνδεσμο.",
+    "MESSAGE_EMAIL_CHANGE_CANCELLED": "Η εκκρεμής αλλαγή email ακυρώθηκε.",
+    "MESSAGE_EMAIL_VERIFICATION_RESENT": "Το email επαλήθευσης στάλθηκε ξανά στο <%- editingUser.pendingEmail %>.",
+    "ERROR_USERNAME_REQUIRED": "Εισαγάγετε ένα όνομα χρήστη.",
+    "ERROR_EMAIL_REQUIRED": "Εισαγάγετε ένα email.",
+    "ERROR_EMAIL_INVALID": "Αυτή η διεύθυνση email δεν είναι έγκυρη.",
+    "ERROR_EMAIL_TAKEN": "Αυτό το email χρησιμοποιείται ήδη από άλλον χρήστη FastComments.",
+    "ERROR_USERNAME_TAKEN": "Αυτό το όνομα χρήστη χρησιμοποιείται ήδη από άλλον χρήστη FastComments.",
+    "ERROR_USER_NOT_FOUND": "Αυτός ο χρήστης δεν βρέθηκε.",
+    "ERROR_INTERNAL": "Παρουσιάστηκε εσωτερικό σφάλμα. Δοκιμάστε ξανά αργότερα.",
+    "ERROR_NO_PENDING_EMAIL": "Δεν υπάρχει εκκρεμής αλλαγή email για αυτόν τον χρήστη.",
+    "ERROR_RATE_LIMITED_MINUTE": "Έχετε υπερβεί τα όρια χρήσης μας. Δοκιμάστε ξανά σε λίγα λεπτά ή επικοινωνήστε με την υποστήριξη.",
+    "ERROR_RATE_LIMITED_DAY": "Έχετε υπερβεί τα ημερήσια όρια χρήσης μας. Δοκιμάστε ξανά σε 24 ώρες ή επικοινωνήστε με την υποστήριξη."
 }

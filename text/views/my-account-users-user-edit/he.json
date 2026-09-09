@@ -23,5 +23,21 @@
     "EMAIL_EXISTS_SAME_TENANT": "❗ כבר קיים משתמש עם כתובת דוא\"ל זו עבור דייר זה.",
     "EMAIL_EXISTS_INVITE": "❗ כבר קיים משתמש FastComments עם כתובת דוא&quot;ל זו, אך לא עבור דייר זה. האם ברצונך <a href=\"{{INVITE_URL}}\">להזמין אותו</a> ?",
     "EMAIL_EXISTS_OTHER_TENANT": "❌ משתמש FastComments עם כתובת דוא\"ל זו כבר קיים עבור דייר אחר.",
-    "EMAIL_AVAILABLE": "✔️ כתובת הדוא\"ל זמינה."
+    "EMAIL_AVAILABLE": "✔️ כתובת הדוא\"ל זמינה.",
+    "EMAIL_IS_CURRENT": "זוהי כתובת הדוא\"ל הנוכחית שלו.",
+    "EMAIL_PENDING_VERIFICATION": "כתובת דוא\"ל זו ממתינה לאימות. כתובת הדוא\"ל הנוכחית שלו <%- editingUser.email %> תישאר בשימוש עד שילחץ על הקישור ששלחנו.",
+    "BUTTON_RESEND_VERIFICATION": "שלח שוב דוא\"ל אימות",
+    "MESSAGE_EMAIL_CHANGE_REQUESTED": "דוא\"ל אימות נשלח אל <%- editingUser.pendingEmail %>. כתובת הדוא\"ל שלו תשתנה לאחר שילחץ על הקישור.",
+    "MESSAGE_EMAIL_CHANGE_CANCELLED": "שינוי כתובת הדוא\"ל הממתין בוטל.",
+    "MESSAGE_EMAIL_VERIFICATION_RESENT": "דוא\"ל אימות נשלח שוב אל <%- editingUser.pendingEmail %>.",
+    "ERROR_USERNAME_REQUIRED": "אנא הזן שם משתמש.",
+    "ERROR_EMAIL_REQUIRED": "אנא הזן כתובת דוא\"ל.",
+    "ERROR_EMAIL_INVALID": "כתובת דוא\"ל זו אינה תקינה.",
+    "ERROR_EMAIL_TAKEN": "כתובת דוא\"ל זו תפוסה על ידי משתמש FastComments אחר.",
+    "ERROR_USERNAME_TAKEN": "שם משתמש זה תפוס על ידי משתמש FastComments אחר.",
+    "ERROR_USER_NOT_FOUND": "משתמש זה לא נמצא.",
+    "ERROR_INTERNAL": "אירעה שגיאה פנימית. אנא נסה שוב מאוחר יותר.",
+    "ERROR_NO_PENDING_EMAIL": "אין שינוי כתובת דוא\"ל ממתין עבור משתמש זה.",
+    "ERROR_RATE_LIMITED_MINUTE": "חרגת ממגבלות השימוש שלנו. אנא נסה שוב בעוד מספר דקות או צור קשר עם התמיכה.",
+    "ERROR_RATE_LIMITED_DAY": "חרגת ממגבלות השימוש היומיות שלנו. אנא נסה שוב בעוד 24 שעות או צור קשר עם התמיכה."
 }

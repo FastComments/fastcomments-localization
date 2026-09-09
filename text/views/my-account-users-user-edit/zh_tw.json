@@ -23,5 +23,21 @@
     "EMAIL_EXISTS_SAME_TENANT": "❗該租用戶中已存在使用該電子郵件地址的使用者。",
     "EMAIL_EXISTS_INVITE": "❗ FastComments 系統中已存在一個使用該郵件地址的用戶，但該用戶不屬於此租戶。您是否要<a href=\"{{INVITE_URL}}\">邀請該使用者</a>？",
     "EMAIL_EXISTS_OTHER_TENANT": "❌ 另一個租戶已經存在一個使用該電子郵件地址的 FastComments 使用者。",
-    "EMAIL_AVAILABLE": "✔️此信箱地址可用。"
+    "EMAIL_AVAILABLE": "✔️此信箱地址可用。",
+    "EMAIL_IS_CURRENT": "這是該使用者目前的電子郵件地址。",
+    "EMAIL_PENDING_VERIFICATION": "此電子郵件地址正在等待驗證。在該使用者點選我們寄出的連結之前，目前的電子郵件地址 <%- editingUser.email %> 將繼續使用。",
+    "BUTTON_RESEND_VERIFICATION": "重新寄送驗證郵件",
+    "MESSAGE_EMAIL_CHANGE_REQUESTED": "驗證郵件已寄至 <%- editingUser.pendingEmail %>。該使用者點選連結後，其電子郵件地址即會變更。",
+    "MESSAGE_EMAIL_CHANGE_CANCELLED": "待處理的電子郵件地址變更已取消。",
+    "MESSAGE_EMAIL_VERIFICATION_RESENT": "驗證郵件已重新寄至 <%- editingUser.pendingEmail %>。",
+    "ERROR_USERNAME_REQUIRED": "請輸入使用者名稱。",
+    "ERROR_EMAIL_REQUIRED": "請輸入電子郵件地址。",
+    "ERROR_EMAIL_INVALID": "該電子郵件地址無效。",
+    "ERROR_EMAIL_TAKEN": "該電子郵件地址已被另一位 FastComments 使用者使用。",
+    "ERROR_USERNAME_TAKEN": "該使用者名稱已被另一位 FastComments 使用者使用。",
+    "ERROR_USER_NOT_FOUND": "找不到該使用者。",
+    "ERROR_INTERNAL": "發生內部錯誤。請稍後再試。",
+    "ERROR_NO_PENDING_EMAIL": "該使用者沒有待處理的電子郵件地址變更。",
+    "ERROR_RATE_LIMITED_MINUTE": "您已超出我們的速率限制。請稍後再試，或聯絡客服。",
+    "ERROR_RATE_LIMITED_DAY": "您已超出每日速率限制。請於 24 小時後再試，或聯絡客服。"
 }

@@ -23,5 +23,21 @@
     "EMAIL_EXISTS_SAME_TENANT": "❗ Für diesen Mandanten existiert bereits ein Benutzer mit dieser E-Mail-Adresse.",
     "EMAIL_EXISTS_INVITE": "❗ Ein FastComments-Benutzer mit dieser E-Mail-Adresse existiert bereits, jedoch nicht für diesen Mandanten. Möchten Sie <a href=\"{{INVITE_URL}}\">ihn einladen</a> ?",
     "EMAIL_EXISTS_OTHER_TENANT": "❌ Für einen anderen Mandanten existiert bereits ein FastComments-Benutzer mit dieser E-Mail-Adresse.",
-    "EMAIL_AVAILABLE": "✔️ Diese E-Mail-Adresse ist verfügbar."
+    "EMAIL_AVAILABLE": "✔️ Diese E-Mail-Adresse ist verfügbar.",
+    "EMAIL_IS_CURRENT": "Das ist die aktuelle E-Mail-Adresse des Benutzers.",
+    "EMAIL_PENDING_VERIFICATION": "Diese E-Mail-Adresse wartet noch auf Bestätigung. Die aktuelle E-Mail-Adresse <%- editingUser.email %> bleibt in Verwendung, bis der Benutzer auf den zugesandten Link klickt.",
+    "BUTTON_RESEND_VERIFICATION": "Bestätigungs-E-Mail erneut senden",
+    "MESSAGE_EMAIL_CHANGE_REQUESTED": "Bestätigungs-E-Mail an <%- editingUser.pendingEmail %> gesendet. Die E-Mail-Adresse des Benutzers wird geändert, sobald er auf den Link klickt.",
+    "MESSAGE_EMAIL_CHANGE_CANCELLED": "Die ausstehende Änderung der E-Mail-Adresse wurde abgebrochen.",
+    "MESSAGE_EMAIL_VERIFICATION_RESENT": "Bestätigungs-E-Mail erneut an <%- editingUser.pendingEmail %> gesendet.",
+    "ERROR_USERNAME_REQUIRED": "Bitte geben Sie einen Benutzernamen ein.",
+    "ERROR_EMAIL_REQUIRED": "Bitte geben Sie eine E-Mail-Adresse ein.",
+    "ERROR_EMAIL_INVALID": "Diese E-Mail-Adresse ist ungültig.",
+    "ERROR_EMAIL_TAKEN": "Diese E-Mail-Adresse wird bereits von einem anderen FastComments-Benutzer verwendet.",
+    "ERROR_USERNAME_TAKEN": "Dieser Benutzername wird bereits von einem anderen FastComments-Benutzer verwendet.",
+    "ERROR_USER_NOT_FOUND": "Dieser Benutzer wurde nicht gefunden.",
+    "ERROR_INTERNAL": "Ein interner Fehler ist aufgetreten. Bitte versuchen Sie es später erneut.",
+    "ERROR_NO_PENDING_EMAIL": "Für diesen Benutzer gibt es keine ausstehende Änderung der E-Mail-Adresse.",
+    "ERROR_RATE_LIMITED_MINUTE": "Sie haben unsere Anfragelimits überschritten. Bitte versuchen Sie es in wenigen Minuten erneut oder wenden Sie sich an den Support.",
+    "ERROR_RATE_LIMITED_DAY": "Sie haben unsere täglichen Anfragelimits überschritten. Bitte versuchen Sie es in 24 Stunden erneut oder wenden Sie sich an den Support."
 }

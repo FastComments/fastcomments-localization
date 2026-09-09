@@ -23,5 +23,21 @@
     "EMAIL_EXISTS_SAME_TENANT": "❗ Der findes allerede en bruger med den e-mailadresse for denne lejer.",
     "EMAIL_EXISTS_INVITE": "❗ En FastComments-bruger med den e-mailadresse findes allerede, men ikke for denne lejer. Vil du <a href=\"{{INVITE_URL}}\">invitere vedkommende</a>?",
     "EMAIL_EXISTS_OTHER_TENANT": "❌ En FastComments-bruger med den e-mailadresse findes allerede for en anden lejer.",
-    "EMAIL_AVAILABLE": "✔️ Den e-mailadresse er tilgængelig."
+    "EMAIL_AVAILABLE": "✔️ Den e-mailadresse er tilgængelig.",
+    "EMAIL_IS_CURRENT": "Dette er brugerens nuværende e-mailadresse.",
+    "EMAIL_PENDING_VERIFICATION": "Denne e-mailadresse afventer bekræftelse. Brugerens nuværende e-mailadresse <%- editingUser.email %> bruges stadig, indtil vedkommende klikker på det link, vi har sendt.",
+    "BUTTON_RESEND_VERIFICATION": "Send bekræftelsesmail igen",
+    "MESSAGE_EMAIL_CHANGE_REQUESTED": "Bekræftelsesmail sendt til <%- editingUser.pendingEmail %>. Brugerens e-mailadresse ændres, når vedkommende klikker på linket.",
+    "MESSAGE_EMAIL_CHANGE_CANCELLED": "Den afventende ændring af e-mailadressen blev annulleret.",
+    "MESSAGE_EMAIL_VERIFICATION_RESENT": "Bekræftelsesmail sendt igen til <%- editingUser.pendingEmail %>.",
+    "ERROR_USERNAME_REQUIRED": "Indtast et brugernavn.",
+    "ERROR_EMAIL_REQUIRED": "Indtast en e-mailadresse.",
+    "ERROR_EMAIL_INVALID": "Den e-mailadresse er ikke gyldig.",
+    "ERROR_EMAIL_TAKEN": "Den e-mailadresse bruges allerede af en anden FastComments-bruger.",
+    "ERROR_USERNAME_TAKEN": "Det brugernavn bruges allerede af en anden FastComments-bruger.",
+    "ERROR_USER_NOT_FOUND": "Den bruger blev ikke fundet.",
+    "ERROR_INTERNAL": "Der opstod en intern fejl. Prøv igen senere.",
+    "ERROR_NO_PENDING_EMAIL": "Der er ingen afventende ændring af e-mailadressen for denne bruger.",
+    "ERROR_RATE_LIMITED_MINUTE": "Du har overskredet vores hastighedsgrænser. Prøv igen om et par minutter, eller kontakt support.",
+    "ERROR_RATE_LIMITED_DAY": "Du har overskredet vores daglige hastighedsgrænser. Prøv igen om 24 timer, eller kontakt support."
 }

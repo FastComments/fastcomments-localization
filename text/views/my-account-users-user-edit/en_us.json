@@ -23,5 +23,21 @@
     "EMAIL_EXISTS_SAME_TENANT": "❗ A user with that email already exists for this tenant.",
     "EMAIL_EXISTS_INVITE": "❗ A FastComments user with that email already exists, but not for this tenant. Do you want to <a href=\"{{INVITE_URL}}\">invite them</a>?",
     "EMAIL_EXISTS_OTHER_TENANT": "❌ A FastComments user with that email already exists for another tenant.",
-    "EMAIL_AVAILABLE": "✔️ That email is available."
+    "EMAIL_AVAILABLE": "✔️ That email is available.",
+    "EMAIL_IS_CURRENT": "This is their current email.",
+    "EMAIL_PENDING_VERIFICATION": "This email is pending verification. Their current email <%- editingUser.email %> stays in use until they click the link we sent.",
+    "BUTTON_RESEND_VERIFICATION": "Re-send Verification Email",
+    "MESSAGE_EMAIL_CHANGE_REQUESTED": "Verification email sent to <%- editingUser.pendingEmail %>. Their email will change once they click the link.",
+    "MESSAGE_EMAIL_CHANGE_CANCELLED": "The pending email change was cancelled.",
+    "MESSAGE_EMAIL_VERIFICATION_RESENT": "Verification email re-sent to <%- editingUser.pendingEmail %>.",
+    "ERROR_USERNAME_REQUIRED": "Please enter a username.",
+    "ERROR_EMAIL_REQUIRED": "Please enter an email.",
+    "ERROR_EMAIL_INVALID": "That email address is not valid.",
+    "ERROR_EMAIL_TAKEN": "That email is taken by another FastComments user.",
+    "ERROR_USERNAME_TAKEN": "That username is taken by another FastComments user.",
+    "ERROR_USER_NOT_FOUND": "That user was not found.",
+    "ERROR_INTERNAL": "An internal error occurred. Please try again later.",
+    "ERROR_NO_PENDING_EMAIL": "There is no pending email change for this user.",
+    "ERROR_RATE_LIMITED_MINUTE": "You have exceeded our rate limits. Please try again in a few minutes or reach out to support.",
+    "ERROR_RATE_LIMITED_DAY": "You have exceeded our daily rate limits. Please try again in 24 hours or reach out to support."
 }

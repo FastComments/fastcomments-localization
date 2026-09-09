@@ -23,5 +23,21 @@
     "EMAIL_EXISTS_SAME_TENANT": "❗Ya existe un usuario con ese correo electrónico para este tenant.",
     "EMAIL_EXISTS_INVITE": "Ya existe un usuario de FastComments con ese correo electrónico, pero no para este tenant. ¿Quieres <a href=\"{{INVITE_URL}}\">invitarlo</a> ?",
     "EMAIL_EXISTS_OTHER_TENANT": "❌ Ya existe un usuario de FastComments con ese correo electrónico para otro tenant.",
-    "EMAIL_AVAILABLE": "✔️Ese correo electrónico está disponible."
+    "EMAIL_AVAILABLE": "✔️Ese correo electrónico está disponible.",
+    "EMAIL_IS_CURRENT": "Este es su correo electrónico actual.",
+    "EMAIL_PENDING_VERIFICATION": "Este correo electrónico está pendiente de verificación. Su correo electrónico actual, <%- editingUser.email %>, seguirá en uso hasta que haga clic en el enlace que le enviamos.",
+    "BUTTON_RESEND_VERIFICATION": "Reenviar correo electrónico de verificación",
+    "MESSAGE_EMAIL_CHANGE_REQUESTED": "Correo electrónico de verificación enviado a <%- editingUser.pendingEmail %>. Su correo electrónico cambiará cuando haga clic en el enlace.",
+    "MESSAGE_EMAIL_CHANGE_CANCELLED": "Se canceló el cambio de correo electrónico pendiente.",
+    "MESSAGE_EMAIL_VERIFICATION_RESENT": "Correo electrónico de verificación reenviado a <%- editingUser.pendingEmail %>.",
+    "ERROR_USERNAME_REQUIRED": "Introduce un nombre de usuario.",
+    "ERROR_EMAIL_REQUIRED": "Introduce un correo electrónico.",
+    "ERROR_EMAIL_INVALID": "Esa dirección de correo electrónico no es válida.",
+    "ERROR_EMAIL_TAKEN": "Ese correo electrónico ya lo usa otro usuario de FastComments.",
+    "ERROR_USERNAME_TAKEN": "Ese nombre de usuario ya lo usa otro usuario de FastComments.",
+    "ERROR_USER_NOT_FOUND": "No se encontró ese usuario.",
+    "ERROR_INTERNAL": "Se produjo un error interno. Vuelve a intentarlo más tarde.",
+    "ERROR_NO_PENDING_EMAIL": "No hay ningún cambio de correo electrónico pendiente para este usuario.",
+    "ERROR_RATE_LIMITED_MINUTE": "Has superado nuestros límites de velocidad. Vuelve a intentarlo en unos minutos o contacta con el servicio de asistencia.",
+    "ERROR_RATE_LIMITED_DAY": "Has superado nuestros límites de velocidad diarios. Vuelve a intentarlo en 24 horas o contacta con el servicio de asistencia."
 }

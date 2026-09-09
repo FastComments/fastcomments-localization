@@ -23,5 +23,21 @@
     "EMAIL_EXISTS_SAME_TENANT": "❗ Za ovog najmoprimca već postoji korisnik s tom e-mail adresom.",
     "EMAIL_EXISTS_INVITE": "❗ Korisnik FastCommentsa s tom e-mail adresom već postoji, ali ne za ovog stanara. Želite li <a href=\"{{INVITE_URL}}\">ga pozvati</a> ?",
     "EMAIL_EXISTS_OTHER_TENANT": "❌ Korisnik FastCommentsa s tom e-mail adresom već postoji za drugog stanara.",
-    "EMAIL_AVAILABLE": "✔️ Ta e-pošta je dostupna."
+    "EMAIL_AVAILABLE": "✔️ Ta e-pošta je dostupna.",
+    "EMAIL_IS_CURRENT": "Ovo je njihova trenutna e-pošta.",
+    "EMAIL_PENDING_VERIFICATION": "Ova e-pošta čeka potvrdu. Njihova trenutna e-pošta <%- editingUser.email %> ostaje u upotrebi dok ne kliknu na poveznicu koju smo poslali.",
+    "BUTTON_RESEND_VERIFICATION": "Ponovno pošalji e-poruku za potvrdu",
+    "MESSAGE_EMAIL_CHANGE_REQUESTED": "E-poruka za potvrdu poslana je na <%- editingUser.pendingEmail %>. Njihova e-pošta promijenit će se kad kliknu na poveznicu.",
+    "MESSAGE_EMAIL_CHANGE_CANCELLED": "Promjena e-pošte na čekanju je otkazana.",
+    "MESSAGE_EMAIL_VERIFICATION_RESENT": "E-poruka za potvrdu ponovno je poslana na <%- editingUser.pendingEmail %>.",
+    "ERROR_USERNAME_REQUIRED": "Unesite korisničko ime.",
+    "ERROR_EMAIL_REQUIRED": "Unesite e-poštu.",
+    "ERROR_EMAIL_INVALID": "Ta adresa e-pošte nije valjana.",
+    "ERROR_EMAIL_TAKEN": "Tu e-poštu već koristi drugi korisnik FastCommentsa.",
+    "ERROR_USERNAME_TAKEN": "To korisničko ime već koristi drugi korisnik FastCommentsa.",
+    "ERROR_USER_NOT_FOUND": "Taj korisnik nije pronađen.",
+    "ERROR_INTERNAL": "Došlo je do interne pogreške. Pokušajte ponovno kasnije.",
+    "ERROR_NO_PENDING_EMAIL": "Za ovog korisnika nema promjene e-pošte na čekanju.",
+    "ERROR_RATE_LIMITED_MINUTE": "Premašili ste naša ograničenja brzine. Pokušajte ponovno za nekoliko minuta ili se obratite podršci.",
+    "ERROR_RATE_LIMITED_DAY": "Premašili ste naša dnevna ograničenja brzine. Pokušajte ponovno za 24 sata ili se obratite podršci."
 }

@@ -23,5 +23,21 @@
     "EMAIL_EXISTS_SAME_TENANT": "❗ Já existe um usuário com esse e-mail neste locatário.",
     "EMAIL_EXISTS_INVITE": "❗ Um usuário do FastComments com esse e-mail já existe, mas não neste locatário. Deseja <a href=\"{{INVITE_URL}}\">convidá-lo</a>?",
     "EMAIL_EXISTS_OTHER_TENANT": "❌ Um usuário do FastComments com esse e-mail já existe para outro locatário.",
-    "EMAIL_AVAILABLE": "✔️ Esse e-mail está disponível."
+    "EMAIL_AVAILABLE": "✔️ Esse e-mail está disponível.",
+    "EMAIL_IS_CURRENT": "Este é o e-mail atual do usuário.",
+    "EMAIL_PENDING_VERIFICATION": "Este e-mail está aguardando verificação. O e-mail atual do usuário, <%- editingUser.email %>, continua em uso até que ele clique no link que enviamos.",
+    "BUTTON_RESEND_VERIFICATION": "Reenviar e-mail de verificação",
+    "MESSAGE_EMAIL_CHANGE_REQUESTED": "E-mail de verificação enviado para <%- editingUser.pendingEmail %>. O e-mail do usuário será alterado assim que ele clicar no link.",
+    "MESSAGE_EMAIL_CHANGE_CANCELLED": "A alteração de e-mail pendente foi cancelada.",
+    "MESSAGE_EMAIL_VERIFICATION_RESENT": "E-mail de verificação reenviado para <%- editingUser.pendingEmail %>.",
+    "ERROR_USERNAME_REQUIRED": "Insira um nome de usuário.",
+    "ERROR_EMAIL_REQUIRED": "Insira um e-mail.",
+    "ERROR_EMAIL_INVALID": "Esse endereço de e-mail não é válido.",
+    "ERROR_EMAIL_TAKEN": "Esse e-mail já está sendo usado por outro usuário do FastComments.",
+    "ERROR_USERNAME_TAKEN": "Esse nome de usuário já está sendo usado por outro usuário do FastComments.",
+    "ERROR_USER_NOT_FOUND": "Esse usuário não foi encontrado.",
+    "ERROR_INTERNAL": "Ocorreu um erro interno. Por favor, tente novamente mais tarde.",
+    "ERROR_NO_PENDING_EMAIL": "Não há nenhuma alteração de e-mail pendente para este usuário.",
+    "ERROR_RATE_LIMITED_MINUTE": "Você excedeu nossos limites de taxa. Por favor, tente novamente em alguns minutos ou entre em contato com o suporte.",
+    "ERROR_RATE_LIMITED_DAY": "Você excedeu nossos limites diários de taxa. Por favor, tente novamente em 24 horas ou entre em contato com o suporte."
 }
