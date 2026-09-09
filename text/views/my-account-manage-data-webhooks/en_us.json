@@ -39,5 +39,19 @@
     "WEBHOOK_ENABLE_BUTTON": "Enable",
     "WEBHOOK_DISABLE_BUTTON": "Disable",
     "WEBHOOK_DISABLE_CONFIRM": "Disable this webhook? Events will be kept, but not delivered until it is re-enabled.",
-    "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again."
+    "WEBHOOK_TOGGLE_ERROR": "❌ Failed to update the webhook. Please try again.",
+    "API_SUBSCRIPTIONS_HEADING": "API Subscriptions",
+    "API_SUBSCRIPTIONS_INTRO": "These webhooks were created through the API, for example by Zapier. They receive events alongside the webhooks configured above and are removed automatically when the endpoint responds with 410 Gone.",
+    "API_SUBSCRIPTION_URL": "URL",
+    "API_SUBSCRIPTION_EVENT": "Event",
+    "API_SUBSCRIPTION_METHOD": "Method",
+    "API_SUBSCRIPTION_STATUS": "Status",
+    "API_SUBSCRIPTION_QUEUE": "Events in Queue",
+    "API_SUBSCRIPTION_CREATED": "Created",
+    "EVENT_COMMENT_CREATED": "Comment Created",
+    "EVENT_COMMENT_UPDATED": "Comment Updated",
+    "EVENT_COMMENT_DELETED": "Comment Deleted",
+    "WEBHOOK_STATUS_ACTIVE": "Active",
+    "WEBHOOK_DELETE_BUTTON": "Delete",
+    "WEBHOOK_DELETE_CONFIRM": "Delete this subscription? Its queued events will be discarded. The subscriber will need to subscribe again to receive events."
 }
