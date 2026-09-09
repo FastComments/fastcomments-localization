@@ -210,7 +210,7 @@
         "my-account-manage-data-users-export": 16,
         "my-account-manage-data-users-export-table": 2,
         "my-account-manage-data-webhook": 2,
-        "my-account-manage-data-webhooks": 62,
+        "my-account-manage-data-webhooks": 99,
         "my-account-manage-data-webhooks-for-domain": 5,
         "my-account-manage-data-webhooks-logs": 40,
         "my-account-managed-tenants-create": 24,
@@ -430,7 +430,9 @@
         "oauth-consent": 29,
         "agent-tenant-claim": 37,
         "packages-vercel": 36,
-        "vercel-marketplace-link-blocked": 13
+        "vercel-marketplace-link-blocked": 13,
+        "email-change-requested": 8,
+        "email-change-verification": 6
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -5146,7 +5148,44 @@
         "t59": "EVENT_COMMENT_DELETED",
         "t60": "WEBHOOK_STATUS_ACTIVE",
         "t61": "WEBHOOK_DELETE_BUTTON",
-        "t62": "WEBHOOK_DELETE_CONFIRM"
+        "t62": "WEBHOOK_DELETE_CONFIRM",
+        "t63": "NEW_WEBHOOK_BUTTON",
+        "t64": "EMPTY_MESSAGE",
+        "t65": "COLUMN_URL",
+        "t66": "COLUMN_EVENT",
+        "t67": "COLUMN_DOMAIN",
+        "t68": "COLUMN_METHOD",
+        "t69": "COLUMN_STATUS",
+        "t70": "COLUMN_QUEUE",
+        "t71": "COLUMN_SOURCE",
+        "t72": "COLUMN_ACTIONS",
+        "t73": "SOURCE_DASHBOARD",
+        "t74": "SOURCE_API",
+        "t75": "EDIT_BUTTON",
+        "t76": "SUCCESS_CREATED",
+        "t77": "SUCCESS_UPDATED",
+        "t78": "SUCCESS_DELETED",
+        "t79": "SUCCESS_ENABLED",
+        "t80": "SUCCESS_DISABLED",
+        "t81": "ERROR_NOT_FOUND",
+        "t82": "ERROR_GENERIC",
+        "t83": "ERROR_DUPLICATE",
+        "t84": "ERROR_URL_REQUIRED",
+        "t85": "ERROR_URL_INVALID",
+        "t86": "ERROR_EVENT_INVALID",
+        "t87": "ERROR_DOMAIN_INVALID",
+        "t88": "FORM_HEADING_NEW",
+        "t89": "FORM_HEADING_EDIT",
+        "t90": "BACK_LINK",
+        "t91": "API_SOURCE_NOTE",
+        "t92": "FIELD_URL_LABEL",
+        "t93": "FIELD_URL_HELP",
+        "t94": "FIELD_EVENT_LABEL",
+        "t95": "FIELD_DOMAIN_LABEL",
+        "t96": "FIELD_DOMAIN_HELP",
+        "t97": "FIELD_METHOD_LABEL",
+        "t98": "FIELD_METHOD_HELP",
+        "t99": "CANCEL_BUTTON"
     },
     "my-account-manage-data-webhooks-for-domain": {
         "t1": "ON_COMMENT_CREATED_LABEL",
@@ -11424,5 +11463,23 @@
     },
     "comment-ui-unsaved-comment-warning": {
         "t426": "UNSAVED_COMMENT_WARNING"
+    },
+    "email-change-requested": {
+        "t1": "FROM_NAME",
+        "t2": "BANNER_TEXT",
+        "t3": "SUBJECT",
+        "t4": "INTRO",
+        "t5": "INFO",
+        "t6": "IF_THIS_WAS_YOU",
+        "t7": "IF_NOT_YOU",
+        "t8": "SIGN_OFF"
+    },
+    "email-change-verification": {
+        "t1": "FROM_NAME",
+        "t2": "BANNER_TEXT",
+        "t3": "SUBJECT",
+        "t4": "INTRO",
+        "t5": "VERIFY_THIS_LINK",
+        "t6": "THAT_FULL_LINK_IS"
     }
 }
