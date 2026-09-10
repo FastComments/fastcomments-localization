@@ -27,5 +27,7 @@
     "EXPIRED_BODY": "Zahtev za autorizaciju više nije važeći. Vratite se u aplikaciju i ponovo pokrenite povezivanje.",
     "EXPIRED_HEADING": "Ovaj zahtev je istekao",
     "BLOCKED_BODY": "Vašem korisniku je potrebna administratorska dozvola za API na ovom nalogu da bi povezao aplikacije. Zatražite tu dozvolu od administratora ili pređite na nalog gde je imate.",
-    "HERO_TITLE_LIGHT_AFTER": "aplikaciju"
+    "HERO_TITLE_LIGHT_AFTER": "aplikaciju",
+    "APP_VERIFIED_BADGE": "Zvanična integracija",
+    "APP_VERIFIED_NOTE": "Ovo je zvanična integracija FastComments-a. Nastavite samo ako ste sami započeli ovu vezu."
 }

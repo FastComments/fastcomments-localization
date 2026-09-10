@@ -30,5 +30,7 @@
     "CONNECT_CANVAS": "キャンバスLTI",
     "CONNECT_CANVAS_DESC": "Canvasの課題にFastCommentsを追加する。",
     "CONNECT_LTI_DESC": "LMS（学習管理システム）に接続してください。D2L、Moodle、Blackboard、Sakai、またはSchoologyなどに対応しています。",
-    "CONNECT_WORDPRESS_DESC": "コメントを同期するには、WordPressプラグインをインストールしてください。"
+    "CONNECT_WORDPRESS_DESC": "コメントを同期するには、WordPressプラグインをインストールしてください。",
+    "CONNECT_ZAPIER": "Zapier",
+    "CONNECT_ZAPIER_DESC": "コメントからZapをトリガーし、他のアプリからコメント、ページ、ユーザーを作成します。"
 }

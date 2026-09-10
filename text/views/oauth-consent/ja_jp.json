@@ -27,5 +27,7 @@
     "EXPIRED_HEADING": "このリクエストは期限切れです",
     "BLOCKED_BODY": "アプリケーションを接続するには、このアカウントでAPI管理者権限が必要です。管理者に権限の付与を依頼するか、権限が付与されている別のアカウントに切り替えてください。",
     "EXPIRED_BODY": "この承認リクエストは無効になりました。アプリケーションに戻って、もう一度接続を開始してください。",
-    "HERO_TITLE_LIGHT_AFTER": ""
+    "HERO_TITLE_LIGHT_AFTER": "",
+    "APP_VERIFIED_NOTE": "これはFastCommentsの公式連携機能です。ご自身でこの接続を開始された場合のみ、続行してください。",
+    "APP_VERIFIED_BADGE": "公式連携"
 }
