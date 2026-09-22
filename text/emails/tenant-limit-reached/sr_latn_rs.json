@@ -3,12 +3,16 @@
     "FROM_NAME": "FastComments",
     "META_LIMIT": "Ograničenje:",
     "CHILD_TENANT_LINE": "Ovo upozorenje se odnosi na <strong><%= childTenantName %></strong>, podnalog kojim upravlja vaš nalog.",
-    "BODY_FIXED": "Da bi stvari radile, izaberite plan sa višim limitom. Dugme ispod vas direktno prijavljuje na stranicu za naplatu.",
-    "SECONDARY_FIXED": "Treba vam nešto prilagođeno? Otvorite zahtev za podršku i mi ćemo napraviti paket za vas.",
-    "SUBJECT": "Vaš nalog je dostigao <%= limitName %> limit",
+    "BODY_FIXED": "Da bi sve funkcionisalo, izaberite plan sa višim ograničenjem. Dugme ispod vas direktno prijavljuje na stranicu za naplatu.",
+    "SECONDARY_FIXED": "Potrebno vam je nešto prilagođeno? Pošaljite zahtev za podršku i mi ćemo napraviti paket za vas.",
+    "SUBJECT": "Vaš nalog je dostigao ograničenje: <%= limitName %>",
+    "SUBJECT_TRIAL": "Vaš probni period je dostigao ograničenje: <%= limitName %>",
     "META_USAGE": "Upotreba:",
     "CTA_FIXED": "Izaberite veći plan",
-    "BODY_FLEX": "Ovo ograničenje je postavljeno na vašem Flex paketu. Konfigurišite ograničenja preko stranice za naplatu. Koristite dugme ispod da biste ih podesili.",
-    "INTRO": "Vaš nalog je dostigao jedno od ograničenja korišćenja svog trenutnog plana. Zahtevi preko ovog limita se odbijaju dok se limit ne promeni ili dok ne počne novi mesec.",
-    "CTA_FLEX": "Prilagodite ograničenja"
+    "BODY_FLEX": "Ovo ograničenje je podešeno na vašem Flex paketu. Konfigurišite ograničenja preko stranice za naplatu. Koristite dugme ispod da biste ih podesili.",
+    "INTRO": "Vaš nalog je dostigao jedno od ograničenja korišćenja trenutnog plana. Zahtevi koji prelaze ovo ograničenje biće odbijeni dok se ograničenje ne promeni ili dok ne počne novi mesec.",
+    "INTRO_TRIAL": "Vaš nalog je dostigao jedno od ograničenja probnog perioda. Nalozi bez pretplate imaju niža ograničenja od naših plaćenih planova, a zahtevi koji prelaze ovo ograničenje biće odbijeni dok se ne pretplatite ili dok ne počne novi mesec.",
+    "CTA_FLEX": "Prilagodite ograničenja",
+    "BODY_TRIAL": "Pokretanje pretplate uklanja ograničenja probnog perioda. Ako vam treba više vremena za testiranje, <a href=\"<%= ticketsUrl %>\">pošaljite zahtev za podršku</a>.",
+    "CTA_TRIAL": "Pokrenite pretplatu"
 }

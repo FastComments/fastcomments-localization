@@ -1,14 +1,18 @@
 {
-    "BANNER_TEXT": "Kullanım Sınırına Ulaşıldı",
+    "BANNER_TEXT": "Kullanım Limitine Ulaşıldı",
     "FROM_NAME": "FastComments",
     "META_USAGE": "Kullanım:",
     "INTRO": "Hesabınız mevcut planınızın kullanım limitlerinden birine ulaştı. Limit değişene veya ay yenilenene kadar bu limiti aşan istekler reddedilir.",
-    "BODY_FIXED": "İşlemlerin sorunsuz devam etmesi için daha yüksek limitli bir plan seçin. Aşağıdaki düğme sizi doğrudan faturalama sayfanıza yönlendirecektir.",
+    "INTRO_TRIAL": "Hesabınız deneme limitlerinden birine ulaştı. Aboneliği olmayan hesaplar ücretli planlarımıza göre daha düşük limitlere sahiptir ve bu limiti aşan istekler siz abone olana veya ay yenilenene kadar reddedilir.",
+    "BODY_FIXED": "İşlemlerin sorunsuz devam etmesi için daha yüksek limitli bir plan seçin. Aşağıdaki düğme, oturumunuzu açarak sizi doğrudan faturalama sayfanıza götürür.",
     "CTA_FIXED": "Daha büyük bir plan seçin",
-    "SUBJECT": "Hesabınız <%= limitName %> limitine ulaştı.",
+    "SUBJECT": "Hesabınız <%= limitName %> limitine ulaştı",
+    "SUBJECT_TRIAL": "Deneme süreniz <%= limitName %> limitine ulaştı",
     "CHILD_TENANT_LINE": "Bu uyarı, hesabınız tarafından yönetilen bir alt hesap olan <strong><%= childTenantName %></strong> içindir.",
-    "META_LIMIT": "Sınır:",
+    "META_LIMIT": "Limit:",
     "SECONDARY_FIXED": "Özel bir şeye mi ihtiyacınız var? Destek talebi oluşturun, sizin için bir paket hazırlayalım.",
-    "BODY_FLEX": "Bu limit Flex paketinizde belirlenmiştir. Limitleri fatura sayfanız üzerinden yapılandırabilirsiniz. Limitleri ayarlamak için aşağıdaki düğmeyi kullanın.",
-    "CTA_FLEX": "Sınırlarınızı ayarlayın"
+    "BODY_FLEX": "Bu limit Flex paketinizde belirlenmiştir. Limitleri faturalama sayfanız üzerinden yapılandırabilirsiniz. Limitleri ayarlamak için aşağıdaki düğmeyi kullanın.",
+    "CTA_FLEX": "Limitlerinizi ayarlayın",
+    "BODY_TRIAL": "Aboneliğinizi başlatmanız deneme limitlerini kaldırır. Test etmek için daha fazla zamana ihtiyacınız varsa <a href=\"<%= ticketsUrl %>\">destek talebi oluşturun</a>.",
+    "CTA_TRIAL": "Aboneliğinizi başlatın"
 }

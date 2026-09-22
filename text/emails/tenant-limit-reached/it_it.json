@@ -2,6 +2,7 @@
     "FROM_NAME": "FastComments",
     "BANNER_TEXT": "Limite di utilizzo raggiunto",
     "SUBJECT": "Il tuo account ha raggiunto il limite di <%= limitName %>",
+    "SUBJECT_TRIAL": "La tua prova ha raggiunto il limite di <%= limitName %>",
     "META_LIMIT": "Limite:",
     "META_USAGE": "Utilizzo:",
     "CHILD_TENANT_LINE": "Questo avviso riguarda <strong><%= childTenantName %></strong>, un tenant gestito dal tuo account.",
@@ -10,5 +11,8 @@
     "SECONDARY_FIXED": "Hai bisogno di qualcosa di personalizzato? Apri un ticket di supporto e creeremo un pacchetto su misura per te.",
     "BODY_FLEX": "Questo limite è impostato sul tuo pacchetto Flex. Configura i limiti tramite la pagina di fatturazione. Utilizza il pulsante qui sotto per impostarli.",
     "BODY_FIXED": "Per garantire la continuità del servizio, seleziona un piano con un limite più elevato. Il pulsante qui sotto ti permette di accedere direttamente alla pagina di fatturazione.",
-    "INTRO": "Il tuo account ha raggiunto uno dei limiti di utilizzo del piano attuale. Le richieste che superano tale limite vengono rifiutate fino a quando il limite non cambia o il mese non inizia."
+    "INTRO": "Il tuo account ha raggiunto uno dei limiti di utilizzo del piano attuale. Le richieste che superano tale limite vengono rifiutate fino a quando il limite non cambia o il mese non inizia.",
+    "INTRO_TRIAL": "Il tuo account ha raggiunto uno dei limiti della prova. Gli account senza abbonamento hanno limiti più bassi rispetto ai nostri piani a pagamento e le richieste che superano tale limite vengono rifiutate fino a quando non attivi un abbonamento o il mese non inizia.",
+    "BODY_TRIAL": "Attivare l'abbonamento rimuove i limiti della prova. Se ti serve più tempo per provare, <a href=\"<%= ticketsUrl %>\">apri un ticket</a>.",
+    "CTA_TRIAL": "Attiva il tuo abbonamento"
 }

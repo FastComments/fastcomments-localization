@@ -1,8 +1,10 @@
 {
     "BANNER_TEXT": "Dosegnuto je ograničenje korištenja",
-    "SUBJECT": "Vaš je račun dosegao <%= limitName %> ograničenje",
+    "SUBJECT": "Vaš je račun dosegao ograničenje: <%= limitName %>",
+    "SUBJECT_TRIAL": "Vaše je probno razdoblje doseglo ograničenje: <%= limitName %>",
     "FROM_NAME": "FastComments",
     "INTRO": "Vaš je račun dosegao jedno od ograničenja korištenja trenutnog plana. Zahtjevi koji prelaze ovo ograničenje odbijaju se dok se ograničenje ne promijeni ili dok ne započne novi mjesec.",
+    "INTRO_TRIAL": "Vaš je račun dosegao jedno od ograničenja probnog razdoblja. Računi bez pretplate imaju niža ograničenja od naših plaćenih planova, a zahtjevi koji prelaze ovo ograničenje odbijaju se dok se ne pretplatite ili dok ne započne novi mjesec.",
     "CHILD_TENANT_LINE": "Ovo upozorenje je za <strong><%= childTenantName %></strong>, podračun kojim upravlja vaš račun.",
     "META_LIMIT": "Ograničenje:",
     "META_USAGE": "Upotreba:",
@@ -10,5 +12,7 @@
     "CTA_FIXED": "Odaberite veći plan",
     "BODY_FLEX": "Ovo ograničenje je postavljeno na vašem Flex paketu. Konfigurirajte ograničenja putem stranice za naplatu. Za njihovo postavljanje koristite donji gumb.",
     "SECONDARY_FIXED": "Trebate nešto prilagođeno? Otvorite zahtjev za podršku i mi ćemo izraditi paket za vas.",
-    "BODY_FIXED": "Da bi sve ostalo u funkciji, odaberite plan s višim ograničenjem. Gumb ispod vas izravno prijavljuje na stranicu za naplatu."
+    "BODY_FIXED": "Da bi sve ostalo u funkciji, odaberite plan s višim ograničenjem. Gumb ispod vas izravno prijavljuje na stranicu za naplatu.",
+    "BODY_TRIAL": "Pokretanje pretplate ukida ograničenja probnog razdoblja. Ako vam treba više vremena za testiranje, <a href=\"<%= ticketsUrl %>\">otvorite zahtjev za podršku</a>.",
+    "CTA_TRIAL": "Pokrenite pretplatu"
 }

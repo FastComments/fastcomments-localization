@@ -1,14 +1,18 @@
 {
     "META_USAGE": "Uporaba:",
-    "SUBJECT": "Vaš račun je dosegel omejitev <%= limitName %>",
+    "SUBJECT": "Vaš račun je dosegel omejitev: <%= limitName %>",
+    "SUBJECT_TRIAL": "Vaše preskusno obdobje je doseglo omejitev: <%= limitName %>",
     "META_LIMIT": "Omejitev:",
     "FROM_NAME": "FastComments",
     "BANNER_TEXT": "Dosežena je omejitev uporabe",
     "BODY_FIXED": "Za nemoteno delovanje izberite paket z višjo omejitvijo. Spodnji gumb vas neposredno prijavi na stran za obračunavanje.",
-    "INTRO": "Vaš račun je dosegel eno od omejitev porabe trenutnega paketa. Zahteve, ki presegajo to omejitev, so zavrnjene, dokler se omejitev ne spremeni ali dokler se mesec ne preklopi.",
+    "INTRO": "Vaš račun je dosegel eno od omejitev uporabe trenutnega paketa. Zahteve, ki presegajo to omejitev, so zavrnjene, dokler se omejitev ne spremeni ali dokler se ne začne nov mesec.",
+    "INTRO_TRIAL": "Vaš račun je dosegel eno od omejitev preskusnega obdobja. Računi brez naročnine imajo nižje omejitve kot naši plačljivi paketi, zahteve, ki presegajo to omejitev, pa so zavrnjene, dokler se ne naročite ali dokler se ne začne nov mesec.",
     "CTA_FIXED": "Izberite večji paket",
     "CHILD_TENANT_LINE": "To opozorilo je za <strong><%= childTenantName %></strong>, podračun, ki ga upravlja vaš račun.",
     "SECONDARY_FIXED": "Potrebujete nekaj po meri? Odprite zahtevek za podporo in za vas bomo pripravili paket.",
     "BODY_FLEX": "Ta omejitev je nastavljena v vašem paketu Flex. Omejitve konfigurirajte na strani za obračunavanje. Za njihovo nastavitev uporabite spodnji gumb.",
-    "CTA_FLEX": "Prilagodite svoje omejitve"
+    "CTA_FLEX": "Prilagodite svoje omejitve",
+    "BODY_TRIAL": "Z začetkom naročnine se omejitve preskusnega obdobja odpravijo. Če potrebujete več časa za preskušanje, <a href=\"<%= ticketsUrl %>\">odprite zahtevek za podporo</a>.",
+    "CTA_TRIAL": "Začnite naročnino"
 }

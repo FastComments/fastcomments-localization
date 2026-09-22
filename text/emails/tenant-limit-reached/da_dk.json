@@ -1,14 +1,18 @@
 {
     "INTRO": "Din konto har nået en af forbrugsgrænserne i den nuværende plan. Anmodninger over denne grænse afvises, indtil grænsen ændres, eller en ny måned begynder.",
+    "INTRO_TRIAL": "Din konto har nået en af prøveperiodens grænser. Konti uden abonnement har lavere grænser end vores betalte planer, og anmodninger over denne grænse afvises, indtil du tegner et abonnement, eller en ny måned begynder.",
     "META_LIMIT": "Grænse:",
-    "META_USAGE": "Anvendelse:",
-    "SUBJECT": "Din konto har nået sin <%= limitName %> grænse",
+    "META_USAGE": "Forbrug:",
+    "SUBJECT": "Din konto har nået sin grænse for <%= limitName %>",
+    "SUBJECT_TRIAL": "Din prøveperiode har nået sin grænse for <%= limitName %>",
     "BANNER_TEXT": "Forbrugsgrænse nået",
     "FROM_NAME": "FastComments",
     "CHILD_TENANT_LINE": "Denne advarsel gælder <strong><%= childTenantName %></strong>, en underkonto, der administreres af din konto.",
-    "BODY_FIXED": "For at holde tingene kørende skal du vælge et abonnement med en højere grænse. Knappen nedenfor logger dig direkte ind på din faktureringsside.",
+    "BODY_FIXED": "For at holde tingene kørende skal du vælge en plan med en højere grænse. Knappen nedenfor logger dig direkte ind på din faktureringsside.",
     "CTA_FIXED": "Vælg en større plan",
     "BODY_FLEX": "Denne grænse er indstillet på din Flex-pakke. Konfigurer grænser via din faktureringsside. Brug knappen nedenfor til at indstille dem.",
     "SECONDARY_FIXED": "Har du brug for noget skræddersyet? Opret en supportanmodning, så sammensætter vi en pakke til dig.",
-    "CTA_FLEX": "Juster dine grænser"
+    "CTA_FLEX": "Juster dine grænser",
+    "BODY_TRIAL": "Når du tegner et abonnement, ophæves prøveperiodens grænser. Har du brug for mere tid til at teste, kan du <a href=\"<%= ticketsUrl %>\">oprette en supportanmodning</a>.",
+    "CTA_TRIAL": "Tegn et abonnement"
 }

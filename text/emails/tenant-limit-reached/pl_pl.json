@@ -1,14 +1,18 @@
 {
     "FROM_NAME": "FastComments",
     "BANNER_TEXT": "Osiągnięto limit wykorzystania",
-    "SUBJECT": "Twoje konto osiągnęło limit <%= limitName %>",
+    "SUBJECT": "Twoje konto osiągnęło limit: <%= limitName %>",
+    "SUBJECT_TRIAL": "Twój okres próbny osiągnął limit: <%= limitName %>",
     "INTRO": "Twoje konto osiągnęło jeden z limitów wykorzystania bieżącego planu. Żądania przekraczające ten limit są odrzucane do momentu zmiany limitu lub rozpoczęcia nowego miesiąca.",
-    "META_USAGE": "Stosowanie:",
+    "INTRO_TRIAL": "Twoje konto osiągnęło jeden z limitów okresu próbnego. Konta bez subskrypcji mają niższe limity niż nasze płatne plany, a żądania przekraczające ten limit są odrzucane do momentu wykupienia subskrypcji lub rozpoczęcia nowego miesiąca.",
+    "META_USAGE": "Wykorzystanie:",
     "META_LIMIT": "Limit:",
-    "CHILD_TENANT_LINE": "To powiadomienie dotyczy <strong><%= childTenantName %></strong>, podkonta zarządzanego przez Twoje konto.",
-    "BODY_FIXED": "Aby wszystko działało płynnie, wybierz plan z wyższym limitem. Poniższy przycisk przekieruje Cię bezpośrednio na stronę rozliczeń.",
+    "CHILD_TENANT_LINE": "To powiadomienie dotyczy podkonta <strong><%= childTenantName %></strong> zarządzanego przez Twoje konto.",
+    "BODY_FIXED": "Aby wszystko działało płynnie, wybierz plan z wyższym limitem. Poniższy przycisk zaloguje Cię i przeniesie bezpośrednio na stronę rozliczeń.",
     "CTA_FIXED": "Wybierz większy plan",
     "CTA_FLEX": "Dostosuj swoje limity",
-    "BODY_FLEX": "Ten limit jest ustawiony w Twoim pakiecie Flex. Skonfiguruj limity na stronie rozliczeniowej. Użyj poniższego przycisku, aby je ustawić.",
+    "BODY_TRIAL": "Rozpoczęcie subskrypcji znosi limity okresu próbnego. Jeśli potrzebujesz więcej czasu na testy, <a href=\"<%= ticketsUrl %>\">wyślij zgłoszenie do pomocy technicznej</a>.",
+    "CTA_TRIAL": "Rozpocznij subskrypcję",
+    "BODY_FLEX": "Ten limit jest ustawiony w Twoim pakiecie Flex. Skonfiguruj limity na stronie rozliczeń. Użyj poniższego przycisku, aby je ustawić.",
     "SECONDARY_FIXED": "Potrzebujesz czegoś niestandardowego? Wyślij zgłoszenie do pomocy technicznej, a stworzymy dla Ciebie pakiet."
 }

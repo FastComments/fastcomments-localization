@@ -1,14 +1,18 @@
 {
-    "SUBJECT": "Ihr Konto hat sein <%= limitName %> Limit erreicht.",
+    "SUBJECT": "Ihr Konto hat sein Limit für <%= limitName %> erreicht.",
+    "SUBJECT_TRIAL": "Ihre Testphase hat ihr Limit für <%= limitName %> erreicht.",
     "BANNER_TEXT": "Nutzungslimit erreicht",
     "FROM_NAME": "FastComments",
     "CHILD_TENANT_LINE": "Diese Benachrichtigung betrifft <strong><%= childTenantName %></strong>, einen Mandanten, der von Ihrem Konto verwaltet wird.",
     "META_LIMIT": "Limit:",
-    "META_USAGE": "Verwendung:",
+    "META_USAGE": "Nutzung:",
     "INTRO": "Ihr Konto hat eines der Nutzungslimits Ihres aktuellen Tarifs erreicht. Anfragen, die dieses Limit überschreiten, werden abgelehnt, bis sich das Limit ändert oder der neue Monat beginnt.",
-    "CTA_FIXED": "Wählen Sie einen größeren Tarif",
+    "INTRO_TRIAL": "Ihr Konto hat eines der Limits seiner Testphase erreicht. Konten ohne Abonnement haben niedrigere Limits als unsere kostenpflichtigen Tarife, und Anfragen, die dieses Limit überschreiten, werden abgelehnt, bis Sie ein Abonnement abschließen oder der neue Monat beginnt.",
+    "CTA_FIXED": "Größeren Tarif wählen",
     "BODY_FIXED": "Um den Betrieb aufrechtzuerhalten, wählen Sie einen Tarif mit höherem Limit. Über die Schaltfläche unten gelangen Sie direkt zu Ihrer Abrechnungsseite.",
     "BODY_FLEX": "Dieses Limit ist in Ihrem Flex-Paket festgelegt. Sie können die Limits auf Ihrer Abrechnungsseite konfigurieren. Verwenden Sie die Schaltfläche unten, um sie festzulegen.",
     "SECONDARY_FIXED": "Sie benötigen etwas Individuelles? Eröffnen Sie ein Support-Ticket und wir stellen Ihnen ein individuelles Paket zusammen.",
-    "CTA_FLEX": "Passen Sie Ihre Limits an"
+    "CTA_FLEX": "Limits anpassen",
+    "BODY_TRIAL": "Mit dem Abschluss eines Abonnements werden die Limits der Testphase aufgehoben. Wenn Sie mehr Zeit zum Testen benötigen, <a href=\"<%= ticketsUrl %>\">eröffnen Sie ein Support-Ticket</a>.",
+    "CTA_TRIAL": "Abonnement abschließen"
 }
