@@ -35,7 +35,8 @@
     "POLL_VOTERS_SEARCH_PLACEHOLDER": "Search names...",
     "POLL_VOTERS_PREV": "Previous",
     "POLL_VOTERS_NEXT": "Next",
-    "POLL_VOTERS_COUNT": "[count] voters",
+    "POLL_VOTERS_COUNT_SINGULAR": "[count] voter",
+    "POLL_VOTERS_COUNT_PLURAL": "[count] voters",
     "POLL_VOTERS_LOADING": "Loading...",
     "POLL_VOTERS_NONE": "No named voters.",
     "POLL_VOTERS_FAILED": "We could not load who voted. Please try again."
