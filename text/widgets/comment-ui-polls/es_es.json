@@ -19,5 +19,20 @@
     "POLL_CLOSES_AT": "La encuesta cierra el [date]",
     "POLL_CLOSED": "Encuesta cerrada",
     "POLL_LOGIN_TO_VOTE": "Inicia sesión para votar",
-    "POLL_VOTE_FAILED": "No se pudo guardar tu voto. Vuelve a intentarlo."
+    "POLL_VOTE_FAILED": "No se pudo guardar tu voto. Vuelve a intentarlo.",
+    "POLL_PRIVACY_LABEL": "Privacidad",
+    "POLL_PRIVACY_ANONYMOUS": "Anónima",
+    "POLL_PRIVACY_ADMINS": "Los administradores ven quién votó",
+    "POLL_PRIVACY_PUBLIC": "Pública",
+    "POLL_PRIVACY_HELP": "En las encuestas públicas, cualquier usuario puede ver qué votó cada persona.",
+    "POLL_VOTES_ANONYMOUS": "Los votos son anónimos",
+    "POLL_VOTES_ADMINS_VISIBLE": "Los administradores pueden ver quién votó",
+    "POLL_VOTES_PUBLIC_VISIBLE": "Cualquiera puede ver quién votó",
+    "POLL_VOTERS_SHOW": "Ver quién votó",
+    "POLL_VOTERS_HIDE": "Ocultar quién votó",
+    "POLL_VOTERS_LOADING": "Cargando...",
+    "POLL_VOTERS_NONE": "Sin votantes identificados.",
+    "POLL_VOTERS_SEPARATOR": ", ",
+    "POLL_VOTERS_MORE": " y más",
+    "POLL_VOTERS_FAILED": "No se pudo cargar quién votó. Vuelve a intentarlo."
 }

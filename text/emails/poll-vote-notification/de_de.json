@@ -1,0 +1,15 @@
+{
+    "INTRO": "Hallo <%= username %>,",
+    "BANNER_TEXT": "Neue Umfragestimmen",
+    "FROM_NAME": "FastComments-Roboter",
+    "SUBJECT": "<%= abbreviateNumber(newResponseCount, 0, locale) %> <% if(newResponseCount === 1) { %>neue Stimme<% } else { %>neue Stimmen<% } %> für <% if(polls.length > 1) { %>Ihre Umfragen<% } else { %>Ihre Umfrage<% } %>",
+    "NEW_RESPONSES_SUMMARY": "<% if(polls.length > 1) { %>Ihre Umfragen haben<% } else { %>Ihre Umfrage hat<% } %> neue Stimmen erhalten. Hier <% if(polls.length > 1) { %>sind die aktuellen Ergebnisse<% } else { %>ist das aktuelle Ergebnis<% } %>.",
+    "NEW_RESPONSES_LABEL": "Neue Stimmen:",
+    "TOTAL_RESPONSES_LABEL": "Stimmen gesamt:",
+    "OPTION": "Option",
+    "RESPONSES": "Stimmen",
+    "SHARE": "Anteil",
+    "VIEW_POLL": "Umfrage anzeigen",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "Benachrichtigungen für diese Umfrage deaktivieren",
+    "UNSUBSCRIBE_HERE": "Abbestellen"
+}

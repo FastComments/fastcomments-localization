@@ -1,0 +1,15 @@
+{
+    "INTRO": "Hej <%= username %>,",
+    "BANNER_TEXT": "Nowe głosy w ankietach",
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "<% if(newResponseCount === 1) { %>Nowy głos<% } else { %>Nowe głosy<% } %> <% if(polls.length > 1) { %>w Twoich ankietach<% } else { %>w Twojej ankiecie<% } %>: <%= abbreviateNumber(newResponseCount, 0, locale) %>",
+    "NEW_RESPONSES_SUMMARY": "<% if(polls.length > 1) { %>Twoje ankiety otrzymały nowe głosy<% } else { %>Twoja ankieta otrzymała nowe głosy<% } %>. Oto <% if(polls.length > 1) { %>ich<% } else { %>jej<% } %> aktualne wyniki.",
+    "NEW_RESPONSES_LABEL": "Nowe głosy:",
+    "TOTAL_RESPONSES_LABEL": "Łącznie głosów:",
+    "OPTION": "Opcja",
+    "RESPONSES": "Głosy",
+    "SHARE": "Udział",
+    "VIEW_POLL": "Wyświetl ankietę",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "Wyłącz powiadomienia dla tej ankiety",
+    "UNSUBSCRIBE_HERE": "Anuluj subskrypcję"
+}

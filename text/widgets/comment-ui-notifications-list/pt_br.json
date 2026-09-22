@@ -11,6 +11,7 @@
     "NO_NOTIFICATIONS": "Você não tem notificações.",
     "NOTIFICATION_PROFILE_COMMENT": "<b>[fromUserName]</b> comentou em seu perfil.",
     "NOTIFICATION_DM": "<b>[fromUserName]</b> enviou uma mensagem para você.",
+    "NOTIFICATION_POLL_VOTED": "Sua enquete recebeu uma nova resposta.",
     "NOTIFICATION_MENTION": "<b>[fromUserName]</b> mencionou você.",
     "NOTIFICATION_VOTED_MY_COMMENT_CONTEXT": "<b>[fromUserName]</b> lhe deu carma: [context]",
     "NOTIFICATION_REPLIED_TO_ME_CONTEXT": "<b>[fromUserName]</b> respondeu ao seu comentário: [context]",
@@ -18,6 +19,7 @@
     "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> respondeu a uma página que você assinou: [context]",
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> comentou em seu perfil: [context]",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> enviou uma mensagem para você: [context]",
+    "NOTIFICATION_POLL_VOTED_CONTEXT": "Sua enquete recebeu uma nova resposta: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> mencionou você: [context]",
     "SHARED_AN_IMAGE": "Compartilhou uma imagem.",
     "NOTIFICATION_TRIAL_LIMITS": "Seu teste começou! Observe que limites diferentes são colocados em sua conta no período de teste. Verifique suas <a href=\"[url]\" class=\"redirect\">análises de faturamento</a> para saber mais.",
@@ -29,6 +31,7 @@
     "BULK_VOTES_ONE_USER": "<b>[user1]</b> te deu carma",
     "BULK_VOTES_TWO_USERS": "<b>[user1]</b> e <b>[user2]</b> te deram carma",
     "BULK_VOTES_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> e <b>[otherCount] outros</b> lhe deram carma",
+    "BULK_POLL_VOTES_NO_USERS": "Sua enquete recebeu [count] novas respostas",
     "BULK_MENTIONS_NO_USERS": "Você foi mencionado [count] vezes",
     "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> mencionou você",
     "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> e <b>[user2]</b> mencionaram você",
@@ -40,5 +43,10 @@
     "BULK_REPLIES_SUBSCRIPTION_NO_USERS": "[count] novos comentários em uma página na qual você se inscreveu",
     "BULK_REPLIES_SUBSCRIPTION_ONE_USER": "<b>[user1]</b> respondeu a uma página na qual você se inscreveu",
     "BULK_REPLIES_SUBSCRIPTION_TWO_USERS": "<b>[user1]</b> e <b>[user2]</b> comentaram em uma página na qual você se inscreveu",
-    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> e <b>[otherCount] outros</b> comentaram em um tópico que você assinou"
+    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> e <b>[otherCount] outros</b> comentaram em um tópico que você assinou",
+    "BULK_POLL_VOTES_ONE_USER": "<b>[user1]</b> respondeu à sua enquete",
+    "BULK_POLL_VOTES_TWO_USERS": "<b>[user1]</b> e <b>[user2]</b> responderam à sua enquete",
+    "BULK_POLL_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> e <b>[otherCount] outros</b> responderam à sua enquete",
+    "NOTIFICATION_POLL_VOTED_BY": "<b>[fromUserName]</b> respondeu à sua enquete.",
+    "NOTIFICATION_POLL_VOTED_BY_CONTEXT": "<b>[fromUserName]</b> respondeu à sua enquete: [context]"
 }

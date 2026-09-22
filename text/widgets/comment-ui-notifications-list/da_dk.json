@@ -7,6 +7,7 @@
     "NOTIFICATION_PROFILE_COMMENT": "<b>[fromUserName]</b> kommenterede din profil.",
     "NOTIFICATION_DM": "<b>[fromUserName]</b> sendte dig en besked.",
     "NOTIFICATION_MENTION": "<b>[fromUserName]</b> nævnte dig.",
+    "NOTIFICATION_POLL_VOTED": "Din afstemning har fået en ny stemme.",
     "NOTIFICATION_MARK_UNREAD": "Marker som ulæst",
     "NOTIFICATION_MARK_READ": "Marker læst",
     "NOTIFICATION_OPT_IN_FOR_COMMENT": "Tilmeld dig meddelelser for denne kommentar",
@@ -19,6 +20,7 @@
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> kommenterede din profil: [context]",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> sendte dig en besked: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> nævnte dig: [context]",
+    "NOTIFICATION_POLL_VOTED_CONTEXT": "Din afstemning har fået en ny stemme: [context]",
     "SHARED_AN_IMAGE": "Delte et billede.",
     "NOTIFICATION_TRIAL_LIMITS": "Din prøveperiode er startet! Bemærk, at der er forskellige grænser på din konto i prøveperioden. Tjek dine <a href=\"[url]\" class=\"redirect\">faktureringsanalyser</a> for at få flere oplysninger.",
     "BULK_REPLIES_NO_USERS": "Du har modtaget [count] nye svar",
@@ -29,6 +31,7 @@
     "BULK_VOTES_ONE_USER": "<b>[user1]</b> gav dig karma",
     "BULK_VOTES_TWO_USERS": "<b>[user1]</b> og <b>[user2]</b> gav dig karma",
     "BULK_VOTES_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> og <b>[otherCount] andre</b> gav dig karma",
+    "BULK_POLL_VOTES_NO_USERS": "Din afstemning har fået [count] nye stemmer",
     "BULK_MENTIONS_NO_USERS": "Du blev nævnt [count] gange",
     "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> nævnte dig",
     "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> og <b>[user2]</b> nævnte dig",
@@ -40,5 +43,10 @@
     "BULK_REPLIES_SUBSCRIPTION_NO_USERS": "[count] nye kommentarer på en side, du abonnerer på",
     "BULK_REPLIES_SUBSCRIPTION_ONE_USER": "<b>[user1]</b> svarede på en side, du abonnerer på",
     "BULK_REPLIES_SUBSCRIPTION_TWO_USERS": "<b>[user1]</b> og <b>[user2]</b> kommenterede på en side, du abonnerer på",
-    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> og <b>[otherCount] andre</b> kommenterede på en tråd, du abonnerer på"
+    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> og <b>[otherCount] andre</b> kommenterede på en tråd, du abonnerer på",
+    "BULK_POLL_VOTES_ONE_USER": "<b>[user1]</b> stemte i din afstemning",
+    "BULK_POLL_VOTES_TWO_USERS": "<b>[user1]</b> og <b>[user2]</b> stemte i din afstemning",
+    "BULK_POLL_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> og <b>[otherCount] andre</b> stemte i din afstemning",
+    "NOTIFICATION_POLL_VOTED_BY": "<b>[fromUserName]</b> stemte i din afstemning.",
+    "NOTIFICATION_POLL_VOTED_BY_CONTEXT": "<b>[fromUserName]</b> stemte i din afstemning: [context]"
 }

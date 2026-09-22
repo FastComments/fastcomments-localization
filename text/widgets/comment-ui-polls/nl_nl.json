@@ -19,5 +19,20 @@
     "POLL_CLOSES_AT": "Poll sluit op [date]",
     "POLL_CLOSED": "Poll gesloten",
     "POLL_LOGIN_TO_VOTE": "Log in om te stemmen",
-    "POLL_VOTE_FAILED": "We konden uw stem niet opslaan. Probeer het opnieuw."
+    "POLL_VOTE_FAILED": "We konden uw stem niet opslaan. Probeer het opnieuw.",
+    "POLL_PRIVACY_LABEL": "Privacy",
+    "POLL_PRIVACY_ANONYMOUS": "Anoniem",
+    "POLL_PRIVACY_ADMINS": "Beheerders zien wie er heeft gestemd",
+    "POLL_PRIVACY_PUBLIC": "Openbaar",
+    "POLL_PRIVACY_HELP": "Bij openbare polls kan elke gebruiker zien wie wat heeft gestemd.",
+    "POLL_VOTES_ANONYMOUS": "Stemmen zijn anoniem",
+    "POLL_VOTES_ADMINS_VISIBLE": "Beheerders zien wie er heeft gestemd",
+    "POLL_VOTES_PUBLIC_VISIBLE": "Iedereen ziet wie er heeft gestemd",
+    "POLL_VOTERS_SHOW": "Toon wie er heeft gestemd",
+    "POLL_VOTERS_HIDE": "Verberg wie er heeft gestemd",
+    "POLL_VOTERS_LOADING": "Laden...",
+    "POLL_VOTERS_NONE": "Niemand heeft met naam gestemd.",
+    "POLL_VOTERS_SEPARATOR": ", ",
+    "POLL_VOTERS_MORE": " en meer",
+    "POLL_VOTERS_FAILED": "We konden niet laden wie er heeft gestemd. Probeer het opnieuw."
 }

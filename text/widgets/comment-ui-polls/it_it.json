@@ -19,5 +19,20 @@
     "POLL_CLOSES_AT": "Il sondaggio si chiude il [date]",
     "POLL_CLOSED": "Sondaggio chiuso",
     "POLL_LOGIN_TO_VOTE": "Accedi per votare",
-    "POLL_VOTE_FAILED": "Non è stato possibile salvare il tuo voto. Per favore riprova."
+    "POLL_VOTE_FAILED": "Non è stato possibile salvare il tuo voto. Per favore riprova.",
+    "POLL_PRIVACY_LABEL": "Privacy",
+    "POLL_PRIVACY_ANONYMOUS": "Anonimo",
+    "POLL_PRIVACY_ADMINS": "Gli amministratori vedono chi ha votato",
+    "POLL_PRIVACY_PUBLIC": "Pubblico",
+    "POLL_PRIVACY_HELP": "Nei sondaggi pubblici, qualsiasi utente può vedere chi ha votato quale opzione.",
+    "POLL_VOTES_ANONYMOUS": "I voti sono anonimi",
+    "POLL_VOTES_ADMINS_VISIBLE": "Gli amministratori possono vedere chi ha votato",
+    "POLL_VOTES_PUBLIC_VISIBLE": "Chiunque può vedere chi ha votato",
+    "POLL_VOTERS_SHOW": "Vedi chi ha votato",
+    "POLL_VOTERS_HIDE": "Nascondi chi ha votato",
+    "POLL_VOTERS_LOADING": "Caricamento...",
+    "POLL_VOTERS_NONE": "Nessun votante identificato.",
+    "POLL_VOTERS_SEPARATOR": ", ",
+    "POLL_VOTERS_MORE": " e altri",
+    "POLL_VOTERS_FAILED": "Non è stato possibile caricare chi ha votato. Per favore riprova."
 }

@@ -1,0 +1,15 @@
+{
+    "INTRO": "Zdravo <%= username %>,",
+    "BANNER_TEXT": "Novi odgovori na ankete",
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "<%= abbreviateNumber(newResponseCount, 0, locale) %> <% if(newResponseCount === 1) { %>nov odgovor<% } else { %>novih odgovorov<% } %> na <% if(polls.length > 1) { %>vaše ankete<% } else { %>vašo anketo<% } %>",
+    "NEW_RESPONSES_SUMMARY": "<% if(polls.length > 1) { %>Vaše ankete so prejele<% } else { %>Vaša anketa je prejela<% } %> nove odgovore. Tukaj je <% if(polls.length > 1) { %>njihovo<% } else { %>njeno<% } %> trenutno stanje.",
+    "NEW_RESPONSES_LABEL": "Novih odgovorov:",
+    "TOTAL_RESPONSES_LABEL": "Skupaj odgovorov:",
+    "OPTION": "Možnost",
+    "RESPONSES": "Odgovori",
+    "SHARE": "Delež",
+    "VIEW_POLL": "Poglej anketo",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "Onemogoči obvestila za to anketo",
+    "UNSUBSCRIBE_HERE": "Odjavi se"
+}

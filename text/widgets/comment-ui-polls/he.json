@@ -19,5 +19,20 @@
     "POLL_CLOSES_AT": "הסקר נסגר ב-[date]",
     "POLL_CLOSED": "הסקר סגור",
     "POLL_LOGIN_TO_VOTE": "היכנס להצבעה",
-    "POLL_VOTE_FAILED": "לא הצלחנו לשמור את ההצבעה שלך. יש לנסות שוב."
+    "POLL_VOTE_FAILED": "לא הצלחנו לשמור את ההצבעה שלך. יש לנסות שוב.",
+    "POLL_PRIVACY_LABEL": "פרטיות",
+    "POLL_PRIVACY_ANONYMOUS": "אנונימי",
+    "POLL_PRIVACY_ADMINS": "מנהלים יכולים לראות מי הצביע",
+    "POLL_PRIVACY_PUBLIC": "ציבורי",
+    "POLL_PRIVACY_HELP": "בסקרים ציבוריים, כל משתמש יכול לראות מי הצביע למה.",
+    "POLL_VOTES_ANONYMOUS": "ההצבעות אנונימיות",
+    "POLL_VOTES_ADMINS_VISIBLE": "מנהלים יכולים לראות מי הצביע",
+    "POLL_VOTES_PUBLIC_VISIBLE": "כל אחד יכול לראות מי הצביע",
+    "POLL_VOTERS_SHOW": "הצג מי הצביע",
+    "POLL_VOTERS_HIDE": "הסתר מי הצביע",
+    "POLL_VOTERS_LOADING": "טוען...",
+    "POLL_VOTERS_NONE": "אין מצביעים מזוהים.",
+    "POLL_VOTERS_SEPARATOR": ", ",
+    "POLL_VOTERS_MORE": " ועוד",
+    "POLL_VOTERS_FAILED": "לא הצלחנו לטעון מי הצביע. יש לנסות שוב."
 }

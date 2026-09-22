@@ -1,0 +1,15 @@
+{
+    "INTRO": "Hoi <%= username %>,",
+    "BANNER_TEXT": "Nieuwe pollstemmen",
+    "FROM_NAME": "FastComments-robot",
+    "SUBJECT": "<%= abbreviateNumber(newResponseCount, 0, locale) %> <% if(newResponseCount === 1) { %>Nieuwe stem<% } else { %>Nieuwe stemmen<% } %> op <% if(polls.length > 1) { %>Uw polls<% } else { %>Uw poll<% } %>",
+    "NEW_RESPONSES_SUMMARY": "<% if(polls.length > 1) { %>Uw polls hebben<% } else { %>Uw poll heeft<% } %> nieuwe stemmen gekregen. Hier <% if(polls.length > 1) { %>ziet u de huidige resultaten<% } else { %>ziet u het huidige resultaat<% } %>.",
+    "NEW_RESPONSES_LABEL": "Nieuwe stemmen:",
+    "TOTAL_RESPONSES_LABEL": "Totaal aantal stemmen:",
+    "OPTION": "Optie",
+    "RESPONSES": "Stemmen",
+    "SHARE": "Aandeel",
+    "VIEW_POLL": "Poll bekijken",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "Schakel meldingen voor deze poll uit",
+    "UNSUBSCRIBE_HERE": "Uitschrijven"
+}

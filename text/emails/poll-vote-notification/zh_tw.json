@@ -1,0 +1,15 @@
+{
+    "INTRO": "嘿 <%= username %>，",
+    "BANNER_TEXT": "新的投票回應",
+    "FROM_NAME": "FastComments 機器人",
+    "SUBJECT": "您的<% if(polls.length > 1) { %>投票<% } else { %>投票<% } %>收到了 <%= abbreviateNumber(newResponseCount, 0, locale) %> 個<% if(newResponseCount === 1) { %>新回應<% } else { %>新回應<% } %>",
+    "NEW_RESPONSES_SUMMARY": "您的<% if(polls.length > 1) { %>投票<% } else { %>投票<% } %>收到了新的回應。以下是<% if(polls.length > 1) { %>目前的結果<% } else { %>目前的結果<% } %>。",
+    "NEW_RESPONSES_LABEL": "新回應數：",
+    "TOTAL_RESPONSES_LABEL": "總回應數：",
+    "OPTION": "選項",
+    "RESPONSES": "回應數",
+    "SHARE": "佔比",
+    "VIEW_POLL": "查看投票",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "停用此投票的通知",
+    "UNSUBSCRIBE_HERE": "退訂"
+}

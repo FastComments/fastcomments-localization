@@ -1,0 +1,15 @@
+{
+    "INTRO": "Merhaba <%= username %>,",
+    "BANNER_TEXT": "Yeni Anket Oyları",
+    "FROM_NAME": "FastComments Robotu",
+    "SUBJECT": "<% if(polls.length > 1) { %>Anketlerinize<% } else { %>Anketinize<% } %> <%= abbreviateNumber(newResponseCount, 0, locale) %> <% if(newResponseCount === 1) { %>Yeni Oy<% } else { %>Yeni Oy<% } %>",
+    "NEW_RESPONSES_SUMMARY": "<% if(polls.length > 1) { %>Anketleriniz<% } else { %>Anketiniz<% } %> yeni oylar aldı. İşte <% if(polls.length > 1) { %>şu anki durumları<% } else { %>şu anki durumu<% } %>.",
+    "NEW_RESPONSES_LABEL": "Yeni oylar:",
+    "TOTAL_RESPONSES_LABEL": "Toplam oy:",
+    "OPTION": "Seçenek",
+    "RESPONSES": "Oy",
+    "SHARE": "Oran",
+    "VIEW_POLL": "Anketi Görüntüle",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "Bu Anket İçin Bildirimleri Devre Dışı Bırak",
+    "UNSUBSCRIBE_HERE": "abonelikten çık"
+}

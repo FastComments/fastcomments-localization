@@ -11,6 +11,7 @@
     "NO_NOTIFICATIONS": "Vous n’avez aucune notification.",
     "NOTIFICATION_PROFILE_COMMENT": "<b>[fromUserName]</b> a commenté votre profil.",
     "NOTIFICATION_DM": "<b>[fromUserName]</b> vous a envoyé un message.",
+    "NOTIFICATION_POLL_VOTED": "Votre sondage a reçu une nouvelle réponse.",
     "NOTIFICATION_MENTION": "<b>[fromUserName]</b> vous a mentionné·e.",
     "NOTIFICATION_VOTED_MY_COMMENT_CONTEXT": "<b>[fromUserName]</b> vous a donné du karma : [context]",
     "NOTIFICATION_REPLIED_TO_ME_CONTEXT": "<b>[fromUserName]</b> a répondu à votre commentaire : [context]",
@@ -18,6 +19,7 @@
     "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> a répondu sur une page à laquelle vous êtes abonné·e : [context]",
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> a commenté votre profil : [context]",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> vous a envoyé un message : [context]",
+    "NOTIFICATION_POLL_VOTED_CONTEXT": "Votre sondage a reçu une nouvelle réponse : [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> vous a mentionné·e : [context]",
     "SHARED_AN_IMAGE": "A partagé une image.",
     "NOTIFICATION_TRIAL_LIMITS": "Votre période d'essai a commencé ! Notez que des limites différentes s'appliquent à votre compte pendant la période d'essai. Consultez vos <a href=\"[url]\" class=\"redirect\">informations de facturation</a> pour en savoir plus.",
@@ -29,6 +31,7 @@
     "BULK_VOTES_ONE_USER": "<b>[user1]</b> vous a donné du karma",
     "BULK_VOTES_TWO_USERS": "<b>[user1]</b> et <b>[user2]</b> vous ont donné du karma",
     "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> et <b>[otherCount] autres</b> vous ont donné du karma",
+    "BULK_POLL_VOTES_NO_USERS": "Votre sondage a reçu [count] nouvelles réponses",
     "BULK_MENTIONS_NO_USERS": "Vous avez été mentionné·e [count] fois",
     "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> vous a mentionné·e",
     "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> et <b>[user2]</b> vous ont mentionné·e",
@@ -40,5 +43,10 @@
     "BULK_REPLIES_SUBSCRIPTION_NO_USERS": "[count] nouveaux commentaires sur une page à laquelle vous êtes abonné·e",
     "BULK_REPLIES_SUBSCRIPTION_ONE_USER": "<b>[user1]</b> a répondu sur une page à laquelle vous êtes abonné·e",
     "BULK_REPLIES_SUBSCRIPTION_TWO_USERS": "<b>[user1]</b> et <b>[user2]</b> ont répondu sur une page à laquelle vous êtes abonné·e",
-    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> et <b>[otherCount] autres</b> ont répondu sur une page à laquelle vous êtes abonné·e"
+    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> et <b>[otherCount] autres</b> ont répondu sur une page à laquelle vous êtes abonné·e",
+    "BULK_POLL_VOTES_ONE_USER": "<b>[user1]</b> a répondu à votre sondage",
+    "BULK_POLL_VOTES_TWO_USERS": "<b>[user1]</b> et <b>[user2]</b> ont répondu à votre sondage",
+    "BULK_POLL_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> et <b>[otherCount] autres</b> ont répondu à votre sondage",
+    "NOTIFICATION_POLL_VOTED_BY": "<b>[fromUserName]</b> a répondu à votre sondage.",
+    "NOTIFICATION_POLL_VOTED_BY_CONTEXT": "<b>[fromUserName]</b> a répondu à votre sondage : [context]"
 }

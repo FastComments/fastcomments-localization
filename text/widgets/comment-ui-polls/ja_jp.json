@@ -19,5 +19,20 @@
     "POLL_CLOSES_AT": "アンケートは[date]に終了します",
     "POLL_CLOSED": "アンケートは終了しました",
     "POLL_LOGIN_TO_VOTE": "ログインして投票",
-    "POLL_VOTE_FAILED": "投票を保存できませんでした。もう一度お試しください。"
+    "POLL_VOTE_FAILED": "投票を保存できませんでした。もう一度お試しください。",
+    "POLL_PRIVACY_LABEL": "プライバシー",
+    "POLL_PRIVACY_ANONYMOUS": "匿名",
+    "POLL_PRIVACY_ADMINS": "管理者が投票者を確認できる",
+    "POLL_PRIVACY_PUBLIC": "公開",
+    "POLL_PRIVACY_HELP": "公開アンケートでは、誰がどの選択肢を選んだかをすべてのユーザーが確認できます。",
+    "POLL_VOTES_ANONYMOUS": "投票は匿名です",
+    "POLL_VOTES_ADMINS_VISIBLE": "管理者は投票者を確認できます",
+    "POLL_VOTES_PUBLIC_VISIBLE": "誰でも投票者を確認できます",
+    "POLL_VOTERS_SHOW": "投票者を表示",
+    "POLL_VOTERS_HIDE": "投票者を隠す",
+    "POLL_VOTERS_LOADING": "読み込んでいます...",
+    "POLL_VOTERS_NONE": "名前のある投票者はいません。",
+    "POLL_VOTERS_SEPARATOR": "、",
+    "POLL_VOTERS_MORE": "、ほか",
+    "POLL_VOTERS_FAILED": "投票者を読み込めませんでした。もう一度お試しください。"
 }

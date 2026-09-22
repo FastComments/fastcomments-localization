@@ -19,5 +19,20 @@
     "POLL_CLOSES_AT": "A enquete encerra em [date]",
     "POLL_CLOSED": "Enquete encerrada",
     "POLL_LOGIN_TO_VOTE": "Entre para votar",
-    "POLL_VOTE_FAILED": "Não foi possível salvar seu voto. Por favor, tente novamente."
+    "POLL_VOTE_FAILED": "Não foi possível salvar seu voto. Por favor, tente novamente.",
+    "POLL_PRIVACY_LABEL": "Privacidade",
+    "POLL_PRIVACY_ANONYMOUS": "Anônima",
+    "POLL_PRIVACY_ADMINS": "Os administradores veem quem votou",
+    "POLL_PRIVACY_PUBLIC": "Pública",
+    "POLL_PRIVACY_HELP": "Em enquetes públicas, qualquer usuário pode ver quem votou em qual opção.",
+    "POLL_VOTES_ANONYMOUS": "Os votos são anônimos",
+    "POLL_VOTES_ADMINS_VISIBLE": "Os administradores podem ver quem votou",
+    "POLL_VOTES_PUBLIC_VISIBLE": "Qualquer pessoa pode ver quem votou",
+    "POLL_VOTERS_SHOW": "Ver quem votou",
+    "POLL_VOTERS_HIDE": "Ocultar quem votou",
+    "POLL_VOTERS_LOADING": "Carregando...",
+    "POLL_VOTERS_NONE": "Nenhum votante identificado.",
+    "POLL_VOTERS_SEPARATOR": ", ",
+    "POLL_VOTERS_MORE": " e mais",
+    "POLL_VOTERS_FAILED": "Não foi possível carregar quem votou. Por favor, tente novamente."
 }

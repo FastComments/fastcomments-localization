@@ -19,5 +19,20 @@
     "POLL_CLOSES_AT": "投票于 [date] 结束",
     "POLL_CLOSED": "投票已结束",
     "POLL_LOGIN_TO_VOTE": "登录后投票",
-    "POLL_VOTE_FAILED": "无法保存您的投票，请重试。"
+    "POLL_VOTE_FAILED": "无法保存您的投票，请重试。",
+    "POLL_PRIVACY_LABEL": "隐私",
+    "POLL_PRIVACY_ANONYMOUS": "匿名",
+    "POLL_PRIVACY_ADMINS": "管理员可查看投票者",
+    "POLL_PRIVACY_PUBLIC": "公开",
+    "POLL_PRIVACY_HELP": "在公开投票中，任何用户都可以看到谁投了哪个选项。",
+    "POLL_VOTES_ANONYMOUS": "投票是匿名的",
+    "POLL_VOTES_ADMINS_VISIBLE": "管理员可以看到投票者",
+    "POLL_VOTES_PUBLIC_VISIBLE": "任何人都可以看到投票者",
+    "POLL_VOTERS_SHOW": "查看投票者",
+    "POLL_VOTERS_HIDE": "隐藏投票者",
+    "POLL_VOTERS_LOADING": "正在加载...",
+    "POLL_VOTERS_NONE": "没有具名的投票者。",
+    "POLL_VOTERS_SEPARATOR": "、",
+    "POLL_VOTERS_MORE": "等人",
+    "POLL_VOTERS_FAILED": "无法加载投票者，请重试。"
 }

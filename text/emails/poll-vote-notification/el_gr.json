@@ -1,0 +1,15 @@
+{
+    "INTRO": "Γεια <%= username %>,",
+    "BANNER_TEXT": "Νέες ψήφοι δημοσκοπήσεων",
+    "FROM_NAME": "Ρομπότ FastComments",
+    "SUBJECT": "<%= abbreviateNumber(newResponseCount, 0, locale) %> <% if(newResponseCount === 1) { %>Νέα ψήφος<% } else { %>Νέες ψήφοι<% } %> <% if(polls.length > 1) { %>στις δημοσκοπήσεις σας<% } else { %>στη δημοσκόπησή σας<% } %>",
+    "NEW_RESPONSES_SUMMARY": "<% if(polls.length > 1) { %>Οι δημοσκοπήσεις σας έλαβαν νέες ψήφους<% } else { %>Η δημοσκόπησή σας έλαβε νέες ψήφους<% } %>. Δείτε πώς <% if(polls.length > 1) { %>διαμορφώνονται<% } else { %>διαμορφώνεται<% } %> αυτή τη στιγμή.",
+    "NEW_RESPONSES_LABEL": "Νέες ψήφοι:",
+    "TOTAL_RESPONSES_LABEL": "Σύνολο ψήφων:",
+    "OPTION": "Επιλογή",
+    "RESPONSES": "Ψήφοι",
+    "SHARE": "Ποσοστό",
+    "VIEW_POLL": "Προβολή δημοσκόπησης",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "Απενεργοποιήστε τις ειδοποιήσεις για αυτή τη δημοσκόπηση",
+    "UNSUBSCRIBE_HERE": "Απεγγραφή"
+}

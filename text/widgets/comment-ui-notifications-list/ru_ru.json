@@ -12,6 +12,7 @@
     "NOTIFICATION_PROFILE_COMMENT": "<b>[fromUserName]</b> прокомментировал ваш профиль.",
     "NOTIFICATION_DM": "<b>[fromUserName]</b> отправил вам сообщение.",
     "NOTIFICATION_MENTION": "<b>[fromUserName]</b> упомянул вас.",
+    "NOTIFICATION_POLL_VOTED": "Ваш опрос получил новый ответ.",
     "NOTIFICATION_VOTED_MY_COMMENT_CONTEXT": "<b>[fromUserName]</b> дал вам карму: [context]",
     "NOTIFICATION_REPLIED_TO_ME_CONTEXT": "<b>[fromUserName]</b> ответил на ваш комментарий: [context]",
     "NOTIFICATION_REPLIED_TRANSIENT_CHILD_CONTEXT": "<b>[fromUserName]</b> ответил в теме: [context]",
@@ -19,6 +20,7 @@
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> прокомментировал ваш профиль: [context]",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> отправил вам сообщение: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> упомянул вас: [context]",
+    "NOTIFICATION_POLL_VOTED_CONTEXT": "Ваш опрос получил новый ответ: [context]",
     "SHARED_AN_IMAGE": "Поделился изображением.",
     "NOTIFICATION_TRIAL_LIMITS": "Ваш пробный период начался! Обратите внимание, что в пробный период на вашу учётную запись накладываются различные ограничения. Проверьте <a href=\"[url]\" class=\"redirect\">аналитику по биллингу</a>, чтобы узнать больше.",
     "BULK_REPLIES_NO_USERS": "Новых ответов вам: [count]",
@@ -29,6 +31,7 @@
     "BULK_VOTES_ONE_USER": "<b>[user1]</b> дал вам карму",
     "BULK_VOTES_TWO_USERS": "<b>[user1]</b> и <b>[user2]</b> дали вам карму",
     "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> и <b>[otherCount] других</b> дали вам карму",
+    "BULK_POLL_VOTES_NO_USERS": "Новых ответов на ваш опрос: [count]",
     "BULK_MENTIONS_NO_USERS": "Упоминаний о вас: [count]",
     "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> упомянул вас",
     "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> и <b>[user2]</b> упомянули вас",
@@ -40,5 +43,10 @@
     "BULK_REPLIES_SUBSCRIPTION_NO_USERS": "Новых комментариев на странице, на которую вы подписаны: [count]",
     "BULK_REPLIES_SUBSCRIPTION_ONE_USER": "<b>[user1]</b> ответил на страницу, на которую вы подписаны",
     "BULK_REPLIES_SUBSCRIPTION_TWO_USERS": "<b>[user1]</b> и <b>[user2]</b> прокомментировали страницу, на которую вы подписаны",
-    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> и <b>[otherCount] других</b> прокомментировали тему, на которую вы подписаны"
+    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> и <b>[otherCount] других</b> прокомментировали тему, на которую вы подписаны",
+    "BULK_POLL_VOTES_ONE_USER": "<b>[user1]</b> ответил на ваш опрос",
+    "BULK_POLL_VOTES_TWO_USERS": "<b>[user1]</b> и <b>[user2]</b> ответили на ваш опрос",
+    "BULK_POLL_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> и <b>[otherCount] других</b> ответили на ваш опрос",
+    "NOTIFICATION_POLL_VOTED_BY": "<b>[fromUserName]</b> ответил на ваш опрос.",
+    "NOTIFICATION_POLL_VOTED_BY_CONTEXT": "<b>[fromUserName]</b> ответил на ваш опрос: [context]"
 }

@@ -19,5 +19,20 @@
     "POLL_CLOSES_AT": "Le sondage se termine le [date]",
     "POLL_CLOSED": "Sondage clos",
     "POLL_LOGIN_TO_VOTE": "Se connecter pour voter",
-    "POLL_VOTE_FAILED": "Nous n’avons pas pu enregistrer votre vote. Veuillez réessayer."
+    "POLL_VOTE_FAILED": "Nous n’avons pas pu enregistrer votre vote. Veuillez réessayer.",
+    "POLL_PRIVACY_LABEL": "Confidentialité",
+    "POLL_PRIVACY_ANONYMOUS": "Anonyme",
+    "POLL_PRIVACY_ADMINS": "Les administrateurs voient qui a voté",
+    "POLL_PRIVACY_PUBLIC": "Public",
+    "POLL_PRIVACY_HELP": "Pour les sondages publics, tout utilisateur peut voir qui a voté pour quelle option.",
+    "POLL_VOTES_ANONYMOUS": "Les votes sont anonymes",
+    "POLL_VOTES_ADMINS_VISIBLE": "Les administrateurs peuvent voir qui a voté",
+    "POLL_VOTES_PUBLIC_VISIBLE": "Tout le monde peut voir qui a voté",
+    "POLL_VOTERS_SHOW": "Voir qui a voté",
+    "POLL_VOTERS_HIDE": "Masquer qui a voté",
+    "POLL_VOTERS_LOADING": "Chargement…",
+    "POLL_VOTERS_NONE": "Aucun votant identifié.",
+    "POLL_VOTERS_SEPARATOR": ", ",
+    "POLL_VOTERS_MORE": " et d’autres",
+    "POLL_VOTERS_FAILED": "Nous n’avons pas pu charger qui a voté. Veuillez réessayer."
 }

@@ -12,6 +12,7 @@
     "NOTIFICATION_PROFILE_COMMENT": "<b>[fromUserName]</b> hat Ihr Profil kommentiert.",
     "NOTIFICATION_DM": "<b>[fromUserName]</b> hat Ihnen eine Nachricht gesendet.",
     "NOTIFICATION_MENTION": "<b>[fromUserName]</b> hat Sie erwähnt.",
+    "NOTIFICATION_POLL_VOTED": "Ihre Umfrage hat eine neue Stimme erhalten.",
     "NOTIFICATION_VOTED_MY_COMMENT_CONTEXT": "<b>[fromUserName]</b> hat Ihnen Karma gegeben: [context]",
     "NOTIFICATION_REPLIED_TO_ME_CONTEXT": "<b>[fromUserName]</b> hat auf Ihren Kommentar geantwortet: [context]",
     "NOTIFICATION_REPLIED_TRANSIENT_CHILD_CONTEXT": "<b>[fromUserName]</b> hat in einem Thread geantwortet: [context]",
@@ -19,6 +20,7 @@
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> hat Ihr Profil kommentiert: [context]",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> hat Ihnen eine Nachricht geschickt: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> hat Sie erwähnt: [context]",
+    "NOTIFICATION_POLL_VOTED_CONTEXT": "Ihre Umfrage hat eine neue Stimme erhalten: [context]",
     "SHARED_AN_IMAGE": "Ein Bild geteilt.",
     "NOTIFICATION_TRIAL_LIMITS": "Ihre Testversion hat begonnen! Beachten Sie, dass Ihrem Konto während der Testphase unterschiedliche Limits auferlegt werden. Weitere Informationen finden Sie in Ihrer <a href=\"[url]\" class=\"redirect\">Abrechnungsanalyse</a>.",
     "BULK_REPLIES_NO_USERS": "Sie haben [count] neue Antworten erhalten",
@@ -29,6 +31,7 @@
     "BULK_VOTES_ONE_USER": "<b>[user1]</b> hat Ihnen Karma gegeben",
     "BULK_VOTES_TWO_USERS": "<b>[user1]</b> und <b>[user2]</b> haben Ihnen Karma gegeben",
     "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> und <b>[otherCount] andere</b> haben Ihnen Karma gegeben",
+    "BULK_POLL_VOTES_NO_USERS": "Ihre Umfrage hat [count] neue Stimmen erhalten",
     "BULK_MENTIONS_NO_USERS": "Sie wurden [count] Mal erwähnt",
     "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> hat Sie erwähnt",
     "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> und <b>[user2]</b> haben Sie erwähnt",
@@ -40,5 +43,10 @@
     "BULK_REPLIES_SUBSCRIPTION_NO_USERS": "[count] neue Kommentare auf einer Seite, die Sie abonniert haben",
     "BULK_REPLIES_SUBSCRIPTION_ONE_USER": "<b>[user1]</b> hat auf eine Seite geantwortet, die Sie abonniert haben",
     "BULK_REPLIES_SUBSCRIPTION_TWO_USERS": "<b>[user1]</b> und <b>[user2]</b> haben eine von Ihnen abonnierte Seite kommentiert",
-    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> und <b>[otherCount] andere</b> haben einen Thread kommentiert, den Sie abonniert haben"
+    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> und <b>[otherCount] andere</b> haben einen Thread kommentiert, den Sie abonniert haben",
+    "BULK_POLL_VOTES_ONE_USER": "<b>[user1]</b> hat bei Ihrer Umfrage abgestimmt",
+    "BULK_POLL_VOTES_TWO_USERS": "<b>[user1]</b> und <b>[user2]</b> haben bei Ihrer Umfrage abgestimmt",
+    "BULK_POLL_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> und <b>[otherCount] andere</b> haben bei Ihrer Umfrage abgestimmt",
+    "NOTIFICATION_POLL_VOTED_BY": "<b>[fromUserName]</b> hat bei Ihrer Umfrage abgestimmt.",
+    "NOTIFICATION_POLL_VOTED_BY_CONTEXT": "<b>[fromUserName]</b> hat bei Ihrer Umfrage abgestimmt: [context]"
 }

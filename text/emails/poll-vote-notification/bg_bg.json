@@ -1,0 +1,15 @@
+{
+    "INTRO": "Хей <%= username %>,",
+    "BANNER_TEXT": "Нови отговори на анкети",
+    "FROM_NAME": "Робот FastComments",
+    "SUBJECT": "<%= abbreviateNumber(newResponseCount, 0, locale) %> <% if(newResponseCount === 1) { %>нов отговор<% } else { %>нови отговора<% } %> на <% if(polls.length > 1) { %>вашите анкети<% } else { %>вашата анкета<% } %>",
+    "NEW_RESPONSES_SUMMARY": "<% if(polls.length > 1) { %>Вашите анкети получиха нови отговори<% } else { %>Вашата анкета получи нови отговори<% } %>. Ето <% if(polls.length > 1) { %>текущите им резултати<% } else { %>текущите ѝ резултати<% } %>.",
+    "NEW_RESPONSES_LABEL": "Нови отговори:",
+    "TOTAL_RESPONSES_LABEL": "Общо отговори:",
+    "OPTION": "Опция",
+    "RESPONSES": "Отговори",
+    "SHARE": "Дял",
+    "VIEW_POLL": "Преглед на анкетата",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "Деактивиране на известията за тази анкета",
+    "UNSUBSCRIBE_HERE": "Отписване"
+}

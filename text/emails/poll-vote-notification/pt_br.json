@@ -1,0 +1,15 @@
+{
+    "INTRO": "Olá <%= username %>,",
+    "BANNER_TEXT": "Novas respostas às enquetes",
+    "FROM_NAME": "Robô FastComments",
+    "SUBJECT": "<%= abbreviateNumber(newResponseCount, 0, locale) %> <% if(newResponseCount === 1) { %>nova resposta<% } else { %>novas respostas<% } %> <% if(polls.length > 1) { %>às suas enquetes<% } else { %>à sua enquete<% } %>",
+    "NEW_RESPONSES_SUMMARY": "<% if(polls.length > 1) { %>Suas enquetes receberam novas respostas.<% } else { %>Sua enquete recebeu novas respostas.<% } %> Veja como <% if(polls.length > 1) { %>elas estão<% } else { %>ela está<% } %> agora.",
+    "NEW_RESPONSES_LABEL": "Novas respostas:",
+    "TOTAL_RESPONSES_LABEL": "Total de respostas:",
+    "OPTION": "Opção",
+    "RESPONSES": "Respostas",
+    "SHARE": "Percentual",
+    "VIEW_POLL": "Ver enquete",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "Desativar notificações para esta enquete",
+    "UNSUBSCRIBE_HERE": "Cancelar inscrição"
+}

@@ -19,5 +19,20 @@
     "POLL_CLOSES_AT": "Ankieta kończy się: [date]",
     "POLL_CLOSED": "Ankieta zakończona",
     "POLL_LOGIN_TO_VOTE": "Zaloguj się, aby oddać głos",
-    "POLL_VOTE_FAILED": "Nie udało się zapisać Twojego głosu. Spróbuj ponownie."
+    "POLL_VOTE_FAILED": "Nie udało się zapisać Twojego głosu. Spróbuj ponownie.",
+    "POLL_PRIVACY_LABEL": "Prywatność",
+    "POLL_PRIVACY_ANONYMOUS": "Anonimowa",
+    "POLL_PRIVACY_ADMINS": "Administratorzy widzą, kto głosował",
+    "POLL_PRIVACY_PUBLIC": "Publiczna",
+    "POLL_PRIVACY_HELP": "W ankietach publicznych każdy użytkownik widzi, kto na co zagłosował.",
+    "POLL_VOTES_ANONYMOUS": "Głosy są anonimowe",
+    "POLL_VOTES_ADMINS_VISIBLE": "Administratorzy widzą, kto głosował",
+    "POLL_VOTES_PUBLIC_VISIBLE": "Każdy widzi, kto głosował",
+    "POLL_VOTERS_SHOW": "Zobacz, kto głosował",
+    "POLL_VOTERS_HIDE": "Ukryj, kto głosował",
+    "POLL_VOTERS_LOADING": "Ładowanie...",
+    "POLL_VOTERS_NONE": "Brak imiennych głosujących.",
+    "POLL_VOTERS_SEPARATOR": ", ",
+    "POLL_VOTERS_MORE": " i inni",
+    "POLL_VOTERS_FAILED": "Nie udało się wczytać informacji o głosujących. Spróbuj ponownie."
 }

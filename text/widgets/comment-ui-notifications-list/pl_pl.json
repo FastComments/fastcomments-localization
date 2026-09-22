@@ -11,6 +11,7 @@
     "NO_NOTIFICATIONS": "Nie masz powiadomień.",
     "NOTIFICATION_PROFILE_COMMENT": "<b>[fromUserName]</b> skomentował Twój profil.",
     "NOTIFICATION_DM": "<b>[fromUserName]</b> wysłał ci wiadomość.",
+    "NOTIFICATION_POLL_VOTED": "Twoja ankieta otrzymała nowy głos.",
     "NOTIFICATION_MENTION": "<b>[fromUserName]</b> wspomniał o Tobie.",
     "NOTIFICATION_VOTED_MY_COMMENT_CONTEXT": "<b>[fromUserName]</b> dał ci karmę: [context]",
     "NOTIFICATION_REPLIED_TO_ME_CONTEXT": "<b>[fromUserName]</b> odpowiedział na Twój komentarz: [context]",
@@ -18,6 +19,7 @@
     "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> odpowiedział na stronę, którą subskrybujesz: [context]",
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> skomentował Twój profil: [context]",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> wysłał Ci wiadomość: [context]",
+    "NOTIFICATION_POLL_VOTED_CONTEXT": "Twoja ankieta otrzymała nowy głos: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> wspomniał o Tobie: [context]",
     "SHARED_AN_IMAGE": "Udostępnił obraz.",
     "NOTIFICATION_TRIAL_LIMITS": "Rozpoczął się okres próbny! Należy pamiętać, że na koncie w okresie próbnym obowiązują różne limity. Sprawdź <a href=\"[url]\" class=\"redirect\">analizę rozliczeń</a>, aby dowiedzieć się więcej.",
@@ -29,6 +31,7 @@
     "BULK_VOTES_ONE_USER": "<b>[user1]</b> dał ci karmę",
     "BULK_VOTES_TWO_USERS": "<b>[user1]</b> i <b>[user2]</b> dali ci karmę",
     "BULK_VOTES_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> i <b>[otherCount] innych</b> dało ci karmę",
+    "BULK_POLL_VOTES_NO_USERS": "Nowe głosy w Twojej ankiecie: [count]",
     "BULK_MENTIONS_NO_USERS": "Wspomniano o Tobie [count] razy",
     "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> wspomniał o Tobie",
     "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> i <b>[user2]</b> wspomnieli o Tobie",
@@ -40,5 +43,10 @@
     "BULK_REPLIES_SUBSCRIPTION_NO_USERS": "Nowe komentarze na stronie, którą subskrybujesz: [count]",
     "BULK_REPLIES_SUBSCRIPTION_ONE_USER": "<b>[user1]</b> odpowiedział na stronę, którą subskrybowałeś",
     "BULK_REPLIES_SUBSCRIPTION_TWO_USERS": "<b>[user1]</b> i <b>[user2]</b> skomentowali stronę, którą subskrybujesz",
-    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> i <b>[otherCount] innych</b> skomentowało wątek, który subskrybujesz"
+    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> i <b>[otherCount] innych</b> skomentowało wątek, który subskrybujesz",
+    "BULK_POLL_VOTES_ONE_USER": "<b>[user1]</b> oddał głos w Twojej ankiecie",
+    "BULK_POLL_VOTES_TWO_USERS": "<b>[user1]</b> i <b>[user2]</b> oddali głos w Twojej ankiecie",
+    "BULK_POLL_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> i <b>[otherCount] innych</b> oddało głos w Twojej ankiecie",
+    "NOTIFICATION_POLL_VOTED_BY": "<b>[fromUserName]</b> oddał głos w Twojej ankiecie.",
+    "NOTIFICATION_POLL_VOTED_BY_CONTEXT": "<b>[fromUserName]</b> oddał głos w Twojej ankiecie: [context]"
 }

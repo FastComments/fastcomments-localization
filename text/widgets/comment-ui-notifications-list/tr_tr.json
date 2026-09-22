@@ -11,6 +11,7 @@
     "NO_NOTIFICATIONS": "Hiç bildiriminiz yok.",
     "NOTIFICATION_PROFILE_COMMENT": "<b>[fromUserName]</b> profilinize yorum yaptı.",
     "NOTIFICATION_DM": "<b>[fromUserName]</b> size mesaj attı.",
+    "NOTIFICATION_POLL_VOTED": "Anketiniz yeni bir oy aldı.",
     "NOTIFICATION_MENTION": "<b>[fromUserName]</b> sizden bahsetti.",
     "NOTIFICATION_VOTED_MY_COMMENT_CONTEXT": "<b>[fromUserName]</b> size karma verdi: [context]",
     "NOTIFICATION_REPLIED_TO_ME_CONTEXT": "<b>[fromUserName]</b> yorumunuza yanıt verdi: [context]",
@@ -18,6 +19,7 @@
     "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> abone olduğunuz bir sayfaya yanıt verdi: [context]",
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> profilinize yorum yaptı: [context]",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> size mesaj gönderdi: [context]",
+    "NOTIFICATION_POLL_VOTED_CONTEXT": "Anketiniz yeni bir oy aldı: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> sizden bahsetti: [context]",
     "SHARED_AN_IMAGE": "Bir görsel paylaştı",
     "NOTIFICATION_TRIAL_LIMITS": "Denemeniz başladı! Deneme süresi boyunca hesabınıza farklı limitler konulduğunu unutmayın. Daha fazla bilgi edinmek için <a href=\"[url]\" class=\"redirect\">faturalandırma analizlerinizi</a> kontrol edin.",
@@ -29,6 +31,7 @@
     "BULK_VOTES_ONE_USER": "<b>[user1]</b> size karma verdi",
     "BULK_VOTES_TWO_USERS": "<b>[user1]</b> ve <b>[user2]</b> size karma verdi",
     "BULK_VOTES_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> ve <b>[otherCount] diğerleri</b> size karma verdi",
+    "BULK_POLL_VOTES_NO_USERS": "Anketiniz [count] yeni oy aldı",
     "BULK_MENTIONS_NO_USERS": "[count] kez bahsedildiniz",
     "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> sizden bahsetti",
     "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> ve <b>[user2]</b> sizden bahsetti",
@@ -40,5 +43,10 @@
     "BULK_REPLIES_SUBSCRIPTION_NO_USERS": "Abone olduğunuz bir sayfadaki [count] yeni yorum",
     "BULK_REPLIES_SUBSCRIPTION_ONE_USER": "<b>[user1]</b> abone olduğunuz bir sayfaya yanıt verdi",
     "BULK_REPLIES_SUBSCRIPTION_TWO_USERS": "<b>[user1]</b> ve <b>[user2]</b> abone olduğunuz bir sayfaya yorum yaptı",
-    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> ve <b>[otherCount] kişi</b> abone olduğunuz bir konuya yorum yaptı"
+    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> ve <b>[otherCount] kişi</b> abone olduğunuz bir konuya yorum yaptı",
+    "BULK_POLL_VOTES_ONE_USER": "<b>[user1]</b> anketinize oy verdi",
+    "BULK_POLL_VOTES_TWO_USERS": "<b>[user1]</b> ve <b>[user2]</b> anketinize oy verdi",
+    "BULK_POLL_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> ve <b>[otherCount] kişi</b> anketinize oy verdi",
+    "NOTIFICATION_POLL_VOTED_BY": "<b>[fromUserName]</b> anketinize oy verdi.",
+    "NOTIFICATION_POLL_VOTED_BY_CONTEXT": "<b>[fromUserName]</b> anketinize oy verdi: [context]"
 }

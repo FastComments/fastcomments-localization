@@ -19,5 +19,20 @@
     "POLL_CLOSES_AT": "投票於 [date] 結束",
     "POLL_CLOSED": "投票已結束",
     "POLL_LOGIN_TO_VOTE": "登入後投票",
-    "POLL_VOTE_FAILED": "無法儲存您的投票，請重試。"
+    "POLL_VOTE_FAILED": "無法儲存您的投票，請重試。",
+    "POLL_PRIVACY_LABEL": "隱私",
+    "POLL_PRIVACY_ANONYMOUS": "匿名",
+    "POLL_PRIVACY_ADMINS": "管理員可查看投票者",
+    "POLL_PRIVACY_PUBLIC": "公開",
+    "POLL_PRIVACY_HELP": "在公開投票中，任何使用者都可以看到誰投了哪個選項。",
+    "POLL_VOTES_ANONYMOUS": "投票是匿名的",
+    "POLL_VOTES_ADMINS_VISIBLE": "管理員可以看到投票者",
+    "POLL_VOTES_PUBLIC_VISIBLE": "任何人都可以看到投票者",
+    "POLL_VOTERS_SHOW": "查看投票者",
+    "POLL_VOTERS_HIDE": "隱藏投票者",
+    "POLL_VOTERS_LOADING": "載入中...",
+    "POLL_VOTERS_NONE": "沒有具名的投票者。",
+    "POLL_VOTERS_SEPARATOR": "、",
+    "POLL_VOTERS_MORE": "等人",
+    "POLL_VOTERS_FAILED": "無法載入投票者，請重試。"
 }

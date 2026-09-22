@@ -1,0 +1,15 @@
+{
+    "INTRO": "Hey <%= username %>,",
+    "BANNER_TEXT": "New Poll Responses",
+    "FROM_NAME": "FastComments Robot",
+    "SUBJECT": "<%= abbreviateNumber(newResponseCount, 0, locale) %> <% if(newResponseCount === 1) { %>New Response<% } else { %>New Responses<% } %> to <% if(polls.length > 1) { %>Your Polls<% } else { %>Your Poll<% } %>",
+    "NEW_RESPONSES_SUMMARY": "<% if(polls.length > 1) { %>Your polls<% } else { %>Your poll<% } %> got new responses. Here is where <% if(polls.length > 1) { %>they stand<% } else { %>it stands<% } %> right now.",
+    "NEW_RESPONSES_LABEL": "New responses:",
+    "TOTAL_RESPONSES_LABEL": "Total responses:",
+    "OPTION": "Option",
+    "RESPONSES": "Responses",
+    "SHARE": "Share",
+    "VIEW_POLL": "View Poll",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "Disable Notifications For This Poll",
+    "UNSUBSCRIBE_HERE": "Unsubscribe"
+}

@@ -12,6 +12,8 @@
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> je komentiral vaš profil: [context]",
     "NOTIFICATION_DM": "<b>[fromUserName]</b> vam je poslal sporočilo.",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> vam je poslal sporočilo: [context]",
+    "NOTIFICATION_POLL_VOTED": "Vaša anketa je prejela nov odgovor.",
+    "NOTIFICATION_POLL_VOTED_CONTEXT": "Vaša anketa je prejela nov odgovor: [context]",
     "NOTIFICATION_MENTION": "<b>[fromUserName]</b> vas je omenil.",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> vas je omenil: [context]",
     "NOTIFICATION_MARK_UNREAD": "Označi neprebrano",
@@ -29,6 +31,7 @@
     "BULK_VOTES_ONE_USER": "<b>[user1]</b> ti je dal karmo",
     "BULK_VOTES_TWO_USERS": "<b>[user1]</b> in <b>[user2]</b> sta ti dala karmo",
     "BULK_VOTES_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> in <b>[otherCount] drugih</b> so ti dali karmo",
+    "BULK_POLL_VOTES_NO_USERS": "Vaša anketa je prejela [count] novih odgovorov",
     "BULK_MENTIONS_NO_USERS": "Omenjeni ste bili [count]-krat",
     "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> vas je omenil",
     "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> in <b>[user2]</b> sta vas omenila",
@@ -40,5 +43,10 @@
     "BULK_REPLIES_SUBSCRIPTION_NO_USERS": "[count] novih komentarjev na strani, na katero ste se naročili",
     "BULK_REPLIES_SUBSCRIPTION_ONE_USER": "<b>[user1]</b> je odgovoril na stran, na katero ste se naročili",
     "BULK_REPLIES_SUBSCRIPTION_TWO_USERS": "<b>[user1]</b> in <b>[user2]</b> sta komentirala stran, na katero ste se naročili",
-    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> in <b>[otherCount] drugih</b> so komentirali nit, na katero ste se naročili"
+    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> in <b>[otherCount] drugih</b> so komentirali nit, na katero ste se naročili",
+    "BULK_POLL_VOTES_ONE_USER": "<b>[user1]</b> je odgovoril na vašo anketo",
+    "BULK_POLL_VOTES_TWO_USERS": "<b>[user1]</b> in <b>[user2]</b> sta odgovorila na vašo anketo",
+    "BULK_POLL_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> in <b>[otherCount] drugih</b> so odgovorili na vašo anketo",
+    "NOTIFICATION_POLL_VOTED_BY": "<b>[fromUserName]</b> je odgovoril na vašo anketo.",
+    "NOTIFICATION_POLL_VOTED_BY_CONTEXT": "<b>[fromUserName]</b> je odgovoril na vašo anketo: [context]"
 }

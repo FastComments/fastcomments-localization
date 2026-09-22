@@ -19,5 +19,20 @@
     "POLL_CLOSES_AT": "Anketa se zapre [date]",
     "POLL_CLOSED": "Anketa je zaprta",
     "POLL_LOGIN_TO_VOTE": "Prijavite se za glasovanje",
-    "POLL_VOTE_FAILED": "Vašega glasa nismo mogli shraniti. Prosimo, poskusite znova."
+    "POLL_VOTE_FAILED": "Vašega glasa nismo mogli shraniti. Prosimo, poskusite znova.",
+    "POLL_PRIVACY_LABEL": "Zasebnost",
+    "POLL_PRIVACY_ANONYMOUS": "Anonimno",
+    "POLL_PRIVACY_ADMINS": "Administratorji vidijo, kdo je glasoval",
+    "POLL_PRIVACY_PUBLIC": "Javno",
+    "POLL_PRIVACY_HELP": "Pri javnih anketah lahko vsak uporabnik vidi, kdo je za kaj glasoval.",
+    "POLL_VOTES_ANONYMOUS": "Glasovi so anonimni",
+    "POLL_VOTES_ADMINS_VISIBLE": "Administratorji vidijo, kdo je glasoval",
+    "POLL_VOTES_PUBLIC_VISIBLE": "Vsakdo vidi, kdo je glasoval",
+    "POLL_VOTERS_SHOW": "Poglej, kdo je glasoval",
+    "POLL_VOTERS_HIDE": "Skrij, kdo je glasoval",
+    "POLL_VOTERS_LOADING": "Nalaganje ...",
+    "POLL_VOTERS_NONE": "Ni imenovanih glasovalcev.",
+    "POLL_VOTERS_SEPARATOR": ", ",
+    "POLL_VOTERS_MORE": " in drugi",
+    "POLL_VOTERS_FAILED": "Nismo mogli naložiti, kdo je glasoval. Prosimo, poskusite znova."
 }

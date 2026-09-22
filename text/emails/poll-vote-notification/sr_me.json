@@ -1,0 +1,15 @@
+{
+    "INTRO": "Хеј <%= username %>,",
+    "BANNER_TEXT": "Нови одговори на анкете",
+    "FROM_NAME": "FastComments робот",
+    "SUBJECT": "<%= abbreviateNumber(newResponseCount, 0, locale) %> <% if(newResponseCount === 1) { %>нови одговор<% } else { %>нових одговора<% } %> на <% if(polls.length > 1) { %>ваше анкете<% } else { %>вашу анкету<% } %>",
+    "NEW_RESPONSES_SUMMARY": "<% if(polls.length > 1) { %>Ваше анкете су добиле<% } else { %>Ваша анкета је добила<% } %> нове одговоре. Ево како <% if(polls.length > 1) { %>тренутно стоје<% } else { %>тренутно стоји<% } %>.",
+    "NEW_RESPONSES_LABEL": "Нових одговора:",
+    "TOTAL_RESPONSES_LABEL": "Укупно одговора:",
+    "OPTION": "Опција",
+    "RESPONSES": "Одговори",
+    "SHARE": "Удео",
+    "VIEW_POLL": "Погледај анкету",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "Онемогући обавештења за ову анкету",
+    "UNSUBSCRIBE_HERE": "Откажи претплату"
+}

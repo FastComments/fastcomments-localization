@@ -19,5 +19,20 @@
     "POLL_CLOSES_AT": "Анкетата се затваря на [date]",
     "POLL_CLOSED": "Анкетата е затворена",
     "POLL_LOGIN_TO_VOTE": "Влезте, за да гласувате",
-    "POLL_VOTE_FAILED": "Не можахме да запазим вашия глас. Моля, опитайте отново."
+    "POLL_VOTE_FAILED": "Не можахме да запазим вашия глас. Моля, опитайте отново.",
+    "POLL_PRIVACY_LABEL": "Поверителност",
+    "POLL_PRIVACY_ANONYMOUS": "Анонимно",
+    "POLL_PRIVACY_ADMINS": "Администраторите виждат кой е гласувал",
+    "POLL_PRIVACY_PUBLIC": "Публично",
+    "POLL_PRIVACY_HELP": "При публичните анкети всеки потребител вижда кой какво е гласувал.",
+    "POLL_VOTES_ANONYMOUS": "Гласуването е анонимно",
+    "POLL_VOTES_ADMINS_VISIBLE": "Администраторите виждат кой е гласувал",
+    "POLL_VOTES_PUBLIC_VISIBLE": "Всеки вижда кой е гласувал",
+    "POLL_VOTERS_SHOW": "Вижте кой е гласувал",
+    "POLL_VOTERS_HIDE": "Скрийте кой е гласувал",
+    "POLL_VOTERS_LOADING": "Зареждане...",
+    "POLL_VOTERS_NONE": "Имената на гласувалите не са налични.",
+    "POLL_VOTERS_SEPARATOR": ", ",
+    "POLL_VOTERS_MORE": " и други",
+    "POLL_VOTERS_FAILED": "Не можахме да заредим списъка с гласувалите. Моля, опитайте отново."
 }

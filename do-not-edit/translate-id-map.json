@@ -21,7 +21,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 12,
         "comment-count": 2,
-        "comment-ui": 454,
+        "comment-ui": 484,
         "recent-comments": 15,
         "top-pages": 3,
         "recent-discussions": 3,
@@ -1034,7 +1034,15 @@
         "t327": "BULK_REPLIES_SUBSCRIPTION_NO_USERS",
         "t328": "BULK_REPLIES_SUBSCRIPTION_ONE_USER",
         "t329": "BULK_REPLIES_SUBSCRIPTION_TWO_USERS",
-        "t330": "BULK_REPLIES_SUBSCRIPTION_MANY_USERS"
+        "t330": "BULK_REPLIES_SUBSCRIPTION_MANY_USERS",
+        "t455": "NOTIFICATION_POLL_VOTED",
+        "t456": "NOTIFICATION_POLL_VOTED_CONTEXT",
+        "t457": "BULK_POLL_VOTES_NO_USERS",
+        "t458": "BULK_POLL_VOTES_ONE_USER",
+        "t459": "BULK_POLL_VOTES_TWO_USERS",
+        "t460": "BULK_POLL_VOTES_MANY_USERS",
+        "t461": "NOTIFICATION_POLL_VOTED_BY",
+        "t462": "NOTIFICATION_POLL_VOTED_BY_CONTEXT"
     },
     "comment-count-bulk": {
         "t174": "BLK_COUNT_ZERO",
@@ -11602,6 +11610,25 @@
         "t451": "POLL_CLOSES_AT",
         "t452": "POLL_CLOSED",
         "t453": "POLL_LOGIN_TO_VOTE",
-        "t454": "POLL_VOTE_FAILED"
+        "t454": "POLL_VOTE_FAILED",
+        "t463": "POLL_PRIVACY_LABEL",
+        "t464": "POLL_PRIVACY_ANONYMOUS",
+        "t465": "POLL_PRIVACY_ADMINS",
+        "t466": "POLL_PRIVACY_PUBLIC",
+        "t467": "POLL_PRIVACY_HELP",
+        "t468": "POLL_VOTERS_SHOW",
+        "t470": "POLL_VOTERS_LOADING",
+        "t471": "POLL_VOTERS_NONE",
+        "t478": "POLL_REQUIRE_VOTE_TO_SEE_RESULTS",
+        "t479": "POLL_VOTERS_TITLE",
+        "t480": "POLL_VOTERS_CLOSE",
+        "t481": "POLL_VOTERS_SEARCH_PLACEHOLDER",
+        "t482": "POLL_VOTERS_PREV",
+        "t483": "POLL_VOTERS_NEXT",
+        "t484": "POLL_VOTERS_COUNT",
+        "t475": "POLL_VOTES_ANONYMOUS",
+        "t476": "POLL_VOTES_ADMINS_VISIBLE",
+        "t477": "POLL_VOTES_PUBLIC_VISIBLE",
+        "t473": "POLL_VOTERS_FAILED"
     }
 }

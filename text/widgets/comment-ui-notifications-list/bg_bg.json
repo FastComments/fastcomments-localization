@@ -14,6 +14,8 @@
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> ви изпрати съобщение: [context]",
     "NOTIFICATION_MENTION": "<b>[fromUserName]</b> ви спомена.",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> ви спомена: [context]",
+    "NOTIFICATION_POLL_VOTED": "Вашата анкета получи нов отговор.",
+    "NOTIFICATION_POLL_VOTED_CONTEXT": "Вашата анкета получи нов отговор: [context]",
     "NOTIFICATION_MARK_UNREAD": "Маркирай като непрочетено",
     "NOTIFICATION_MARK_READ": "Маркирайте прочетено",
     "NOTIFICATION_OPT_IN_FOR_COMMENT": "Включете се за известия за този коментар",
@@ -29,6 +31,7 @@
     "BULK_VOTES_ONE_USER": "<b>[user1]</b> ти даде карма",
     "BULK_VOTES_TWO_USERS": "<b>[user1]</b> и <b>[user2]</b> ти дадоха карма",
     "BULK_VOTES_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> и <b>[otherCount] други</b> ви дадоха карма",
+    "BULK_POLL_VOTES_NO_USERS": "Вашата анкета получи [count] нови отговора",
     "BULK_MENTIONS_NO_USERS": "Споменат/а си [count] пъти",
     "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> ви спомена",
     "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> и <b>[user2]</b> ви споменаха",
@@ -40,5 +43,10 @@
     "BULK_REPLIES_SUBSCRIPTION_NO_USERS": "[count] нови коментара на страница, за която сте се абонирали",
     "BULK_REPLIES_SUBSCRIPTION_ONE_USER": "<b>[user1]</b> отговори на страница, за която сте се абонирали",
     "BULK_REPLIES_SUBSCRIPTION_TWO_USERS": "<b>[user1]</b> и <b>[user2]</b> коментираха страница, за която сте се абонирали",
-    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> и <b>[otherCount] други</b> коментираха тема, за която сте се абонирали"
+    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> и <b>[otherCount] други</b> коментираха тема, за която сте се абонирали",
+    "BULK_POLL_VOTES_ONE_USER": "<b>[user1]</b> отговори на вашата анкета",
+    "BULK_POLL_VOTES_TWO_USERS": "<b>[user1]</b> и <b>[user2]</b> отговориха на вашата анкета",
+    "BULK_POLL_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> и <b>[otherCount] други</b> отговориха на вашата анкета",
+    "NOTIFICATION_POLL_VOTED_BY": "<b>[fromUserName]</b> отговори на вашата анкета.",
+    "NOTIFICATION_POLL_VOTED_BY_CONTEXT": "<b>[fromUserName]</b> отговори на вашата анкета: [context]"
 }

@@ -12,6 +12,8 @@
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>Ο [fromUserName]</b> σχολίασε στο προφίλ σας: [context]",
     "NOTIFICATION_DM": "<b>Ο [fromUserName]</b> σας έστειλε μήνυμα.",
     "NOTIFICATION_DM_CONTEXT": "<b>Ο [fromUserName]</b> σας έστειλε μήνυμα: [context]",
+    "NOTIFICATION_POLL_VOTED": "Η δημοσκόπησή σας έλαβε μια νέα ψήφο.",
+    "NOTIFICATION_POLL_VOTED_CONTEXT": "Η δημοσκόπησή σας έλαβε μια νέα ψήφο: [context]",
     "NOTIFICATION_MENTION": "<b>[fromUserName]</b> σας ανέφερε.",
     "NOTIFICATION_MENTION_CONTEXT": "<b>Ο [fromUserName]</b> σας ανέφερε: [context]",
     "NOTIFICATION_MARK_UNREAD": "Σημείωσε ως αδιάβαστο",
@@ -29,6 +31,7 @@
     "BULK_VOTES_ONE_USER": "<b>[user1]</b> σου έδωσε κάρμα",
     "BULK_VOTES_TWO_USERS": "<b>Οι [user1]</b> και <b>[user2]</b> σου έδωσαν κάρμα",
     "BULK_VOTES_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> και <b>[otherCount] άλλοι</b> σου έδωσαν κάρμα",
+    "BULK_POLL_VOTES_NO_USERS": "Η δημοσκόπησή σας έλαβε [count] νέες ψήφους",
     "BULK_MENTIONS_NO_USERS": "Αναφέρθηκες [count] φορές",
     "BULK_MENTIONS_ONE_USER": "<b>Ο χρήστης [user1]</b> σας ανέφερε",
     "BULK_MENTIONS_TWO_USERS": "<b>Οι [user1]</b> και <b>[user2]</b> σας ανέφεραν",
@@ -40,5 +43,10 @@
     "BULK_REPLIES_SUBSCRIPTION_NO_USERS": "[count] νέα σχόλια σε μια σελίδα στην οποία έχετε εγγραφεί",
     "BULK_REPLIES_SUBSCRIPTION_ONE_USER": "<b>Ο χρήστης [user1]</b> απάντησε σε μια σελίδα στην οποία έχετε εγγραφεί",
     "BULK_REPLIES_SUBSCRIPTION_TWO_USERS": "<b>Οι [user1]</b> και <b>[user2]</b> σχολίασαν μια σελίδα στην οποία έχετε εγγραφεί",
-    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>Οι [user1]</b> , <b>[user2]</b> και <b>[otherCount] άλλοι</b> σχολίασαν ένα νήμα στο οποίο έχετε εγγραφεί"
+    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>Οι [user1]</b> , <b>[user2]</b> και <b>[otherCount] άλλοι</b> σχολίασαν ένα νήμα στο οποίο έχετε εγγραφεί",
+    "BULK_POLL_VOTES_ONE_USER": "<b>Ο χρήστης [user1]</b> ψήφισε στη δημοσκόπησή σας",
+    "BULK_POLL_VOTES_TWO_USERS": "<b>Οι [user1]</b> και <b>[user2]</b> ψήφισαν στη δημοσκόπησή σας",
+    "BULK_POLL_VOTES_MANY_USERS": "<b>Οι [user1]</b>, <b>[user2]</b> και <b>[otherCount] άλλοι</b> ψήφισαν στη δημοσκόπησή σας",
+    "NOTIFICATION_POLL_VOTED_BY": "<b>Ο [fromUserName]</b> ψήφισε στη δημοσκόπησή σας.",
+    "NOTIFICATION_POLL_VOTED_BY_CONTEXT": "<b>Ο [fromUserName]</b> ψήφισε στη δημοσκόπησή σας: [context]"
 }

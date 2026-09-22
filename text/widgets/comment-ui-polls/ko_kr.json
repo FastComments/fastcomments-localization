@@ -19,5 +19,20 @@
     "POLL_CLOSES_AT": "[date]에 투표 종료",
     "POLL_CLOSED": "투표 종료",
     "POLL_LOGIN_TO_VOTE": "로그인하고 투표하기",
-    "POLL_VOTE_FAILED": "회원님의 투표를 저장하지 못했습니다. 다시 시도해 주세요."
+    "POLL_VOTE_FAILED": "회원님의 투표를 저장하지 못했습니다. 다시 시도해 주세요.",
+    "POLL_PRIVACY_LABEL": "공개 범위",
+    "POLL_PRIVACY_ANONYMOUS": "익명",
+    "POLL_PRIVACY_ADMINS": "관리자가 투표자를 볼 수 있음",
+    "POLL_PRIVACY_PUBLIC": "공개",
+    "POLL_PRIVACY_HELP": "공개 투표에서는 모든 사용자가 누가 어떤 항목에 투표했는지 볼 수 있습니다.",
+    "POLL_VOTES_ANONYMOUS": "투표는 익명입니다",
+    "POLL_VOTES_ADMINS_VISIBLE": "관리자가 투표자를 볼 수 있습니다",
+    "POLL_VOTES_PUBLIC_VISIBLE": "누구나 투표자를 볼 수 있습니다",
+    "POLL_VOTERS_SHOW": "투표자 보기",
+    "POLL_VOTERS_HIDE": "투표자 숨기기",
+    "POLL_VOTERS_LOADING": "로딩 중...",
+    "POLL_VOTERS_NONE": "이름이 표시된 투표자가 없습니다.",
+    "POLL_VOTERS_SEPARATOR": ", ",
+    "POLL_VOTERS_MORE": " 외 여러 명",
+    "POLL_VOTERS_FAILED": "투표자를 불러오지 못했습니다. 다시 시도해 주세요."
 }

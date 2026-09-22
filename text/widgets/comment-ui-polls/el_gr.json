@@ -19,5 +19,20 @@
     "POLL_CLOSES_AT": "Η δημοσκόπηση κλείνει [date]",
     "POLL_CLOSED": "Η δημοσκόπηση έκλεισε",
     "POLL_LOGIN_TO_VOTE": "Συνδεθείτε για να ψηφίσετε",
-    "POLL_VOTE_FAILED": "Δεν μπορέσαμε να αποθηκεύσουμε την ψήφο σας. Δοκιμάστε ξανά."
+    "POLL_VOTE_FAILED": "Δεν μπορέσαμε να αποθηκεύσουμε την ψήφο σας. Δοκιμάστε ξανά.",
+    "POLL_PRIVACY_LABEL": "Απόρρητο",
+    "POLL_PRIVACY_ANONYMOUS": "Ανώνυμη",
+    "POLL_PRIVACY_ADMINS": "Οι διαχειριστές βλέπουν ποιος ψήφισε",
+    "POLL_PRIVACY_PUBLIC": "Δημόσια",
+    "POLL_PRIVACY_HELP": "Στις δημόσιες δημοσκοπήσεις, κάθε χρήστης μπορεί να δει ποιος ψήφισε τι.",
+    "POLL_VOTES_ANONYMOUS": "Οι ψήφοι είναι ανώνυμες",
+    "POLL_VOTES_ADMINS_VISIBLE": "Οι διαχειριστές βλέπουν ποιος ψήφισε",
+    "POLL_VOTES_PUBLIC_VISIBLE": "Όλοι βλέπουν ποιος ψήφισε",
+    "POLL_VOTERS_SHOW": "Εμφάνιση ψηφοφόρων",
+    "POLL_VOTERS_HIDE": "Απόκρυψη ψηφοφόρων",
+    "POLL_VOTERS_LOADING": "Φόρτωση...",
+    "POLL_VOTERS_NONE": "Δεν υπάρχουν επώνυμοι ψηφοφόροι.",
+    "POLL_VOTERS_SEPARATOR": ", ",
+    "POLL_VOTERS_MORE": " και άλλοι",
+    "POLL_VOTERS_FAILED": "Δεν μπορέσαμε να φορτώσουμε τους ψηφοφόρους. Δοκιμάστε ξανά."
 }

@@ -12,6 +12,8 @@
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> је коментарисао ваш профил: [context]",
     "NOTIFICATION_DM": "<b>[fromUserName]</b> вам је послао поруку.",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> вам је послао поруку: [context]",
+    "NOTIFICATION_POLL_VOTED": "Ваша анкета је добила нови одговор.",
+    "NOTIFICATION_POLL_VOTED_CONTEXT": "Ваша анкета је добила нови одговор: [context]",
     "NOTIFICATION_MENTION": "<b>[fromUserName]</b> вас је споменуо.",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> вас је поменуо: [context]",
     "NOTIFICATION_MARK_UNREAD": "Означи као непрочитано",
@@ -29,6 +31,7 @@
     "BULK_VOTES_ONE_USER": "<b>[user1]</b> ти је дао карму",
     "BULK_VOTES_TWO_USERS": "<b>[user1]</b> и <b>[user2]</b> су ти дали карму",
     "BULK_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> и <b>[otherCount] други</b> су вам дали карму",
+    "BULK_POLL_VOTES_NO_USERS": "Ваша анкета је добила [count] нових одговора",
     "BULK_MENTIONS_NO_USERS": "Поменути сте [count] пута",
     "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> вас је поменуо",
     "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> и <b>[user2]</b> су вас поменули",
@@ -40,5 +43,10 @@
     "BULK_REPLIES_SUBSCRIPTION_NO_USERS": "[count] нових коментара на страници на коју сте се претплатили",
     "BULK_REPLIES_SUBSCRIPTION_ONE_USER": "<b>[user1]</b> је одговорио на страницу на коју сте се претплатили",
     "BULK_REPLIES_SUBSCRIPTION_TWO_USERS": "<b>[user1]</b> и <b>[user2]</b> су коментарисали страницу на коју сте се претплатили",
-    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> и <b>[otherCount] других</b> су коментарисали тему на коју сте се претплатили"
+    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> и <b>[otherCount] других</b> су коментарисали тему на коју сте се претплатили",
+    "BULK_POLL_VOTES_ONE_USER": "<b>[user1]</b> је одговорио на вашу анкету",
+    "BULK_POLL_VOTES_TWO_USERS": "<b>[user1]</b> и <b>[user2]</b> су одговорили на вашу анкету",
+    "BULK_POLL_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> и <b>[otherCount] других</b> су одговорили на вашу анкету",
+    "NOTIFICATION_POLL_VOTED_BY": "<b>[fromUserName]</b> је одговорио на вашу анкету.",
+    "NOTIFICATION_POLL_VOTED_BY_CONTEXT": "<b>[fromUserName]</b> је одговорио на вашу анкету: [context]"
 }

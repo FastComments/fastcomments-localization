@@ -6,6 +6,7 @@
     "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT": "<b>[fromUserName]</b> je odgovorio na stranicu na koju ste pretplaćeni.",
     "NOTIFICATION_PROFILE_COMMENT": "<b>[fromUserName]</b> komentirao je vaš profil.",
     "NOTIFICATION_DM": "<b>[fromUserName]</b> vam je poslao poruku.",
+    "NOTIFICATION_POLL_VOTED": "Vaša anketa je dobila novi odgovor.",
     "NOTIFICATION_MENTION": "<b>[fromUserName]</b> vas je spomenuo.",
     "NOTIFICATION_MARK_UNREAD": "Označi kao nepročitano",
     "NOTIFICATION_MARK_READ": "Označi kao pročitano",
@@ -18,6 +19,7 @@
     "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> je odgovorio na stranicu na koju ste pretplaćeni: [context]",
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> komentirao je vaš profil: [context]",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> vam je poslao poruku: [context]",
+    "NOTIFICATION_POLL_VOTED_CONTEXT": "Vaša anketa je dobila novi odgovor: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> vas je spomenuo: [context]",
     "SHARED_AN_IMAGE": "Podijelio je sliku.",
     "NOTIFICATION_TRIAL_LIMITS": "Vaše probno razdoblje je počelo! Imajte na umu da se na vaš račun tijekom probnog razdoblja postavljaju različita ograničenja. Provjerite svoju <a href=\"[url]\" class=\"redirect\">analitiku naplate</a> da biste saznali više.",
@@ -29,6 +31,7 @@
     "BULK_VOTES_ONE_USER": "<b>[user1]</b> ti je dao karmu",
     "BULK_VOTES_TWO_USERS": "<b>[user1]</b> i <b>[user2]</b> su ti dali karmu",
     "BULK_VOTES_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> i <b>[otherCount] drugih</b> su ti dali karmu",
+    "BULK_POLL_VOTES_NO_USERS": "Vaša anketa je dobila [count] novih odgovora",
     "BULK_MENTIONS_NO_USERS": "Spomenuti ste [count] puta",
     "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> vas je spomenuo",
     "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> i <b>[user2]</b> su vas spomenuli",
@@ -40,5 +43,10 @@
     "BULK_REPLIES_SUBSCRIPTION_NO_USERS": "[count] novih komentara na stranici na koju ste se pretplatili",
     "BULK_REPLIES_SUBSCRIPTION_ONE_USER": "<b>[user1]</b> je odgovorio/la na stranicu na koju ste se pretplatili",
     "BULK_REPLIES_SUBSCRIPTION_TWO_USERS": "<b>[user1]</b> i <b>[user2]</b> komentirali su stranicu na koju ste se pretplatili",
-    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> i <b>[otherCount] drugih</b> komentirali su temu na koju ste se pretplatili"
+    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> i <b>[otherCount] drugih</b> komentirali su temu na koju ste se pretplatili",
+    "BULK_POLL_VOTES_ONE_USER": "<b>[user1]</b> je odgovorio na vašu anketu",
+    "BULK_POLL_VOTES_TWO_USERS": "<b>[user1]</b> i <b>[user2]</b> odgovorili su na vašu anketu",
+    "BULK_POLL_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> i <b>[otherCount] drugih</b> odgovorili su na vašu anketu",
+    "NOTIFICATION_POLL_VOTED_BY": "<b>[fromUserName]</b> je odgovorio na vašu anketu.",
+    "NOTIFICATION_POLL_VOTED_BY_CONTEXT": "<b>[fromUserName]</b> je odgovorio na vašu anketu: [context]"
 }

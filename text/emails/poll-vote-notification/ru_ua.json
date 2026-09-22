@@ -1,0 +1,15 @@
+{
+    "INTRO": "Привет <%= username %>,",
+    "BANNER_TEXT": "Новые ответы на опросы",
+    "FROM_NAME": "Робот FastComments",
+    "SUBJECT": "<%= abbreviateNumber(newResponseCount, 0, locale) %> <% if(newResponseCount === 1) { %>новый ответ<% } else { %>новых ответов<% } %> на <% if(polls.length > 1) { %>ваши опросы<% } else { %>ваш опрос<% } %>",
+    "NEW_RESPONSES_SUMMARY": "<% if(polls.length > 1) { %>Ваши опросы получили новые ответы<% } else { %>Ваш опрос получил новые ответы<% } %>. Вот <% if(polls.length > 1) { %>их текущие результаты<% } else { %>его текущие результаты<% } %>.",
+    "NEW_RESPONSES_LABEL": "Новых ответов:",
+    "TOTAL_RESPONSES_LABEL": "Всего ответов:",
+    "OPTION": "Вариант",
+    "RESPONSES": "Ответы",
+    "SHARE": "Доля",
+    "VIEW_POLL": "Посмотреть опрос",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "Отключить уведомления для этого опроса",
+    "UNSUBSCRIBE_HERE": "Отписаться"
+}

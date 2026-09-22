@@ -1,0 +1,15 @@
+{
+    "INTRO": "<%= username %> さん、",
+    "BANNER_TEXT": "新しいアンケート回答",
+    "FROM_NAME": "FastComments ロボット",
+    "SUBJECT": "あなたの<% if(polls.length > 1) { %>アンケート<% } else { %>アンケート<% } %>に <%= abbreviateNumber(newResponseCount, 0, locale) %> 件の<% if(newResponseCount === 1) { %>新しい回答<% } else { %>新しい回答<% } %>",
+    "NEW_RESPONSES_SUMMARY": "あなたの<% if(polls.length > 1) { %>アンケート<% } else { %>アンケート<% } %>に新しい回答がありました。現在の<% if(polls.length > 1) { %>結果<% } else { %>結果<% } %>は次のとおりです。",
+    "NEW_RESPONSES_LABEL": "新しい回答数：",
+    "TOTAL_RESPONSES_LABEL": "合計回答数：",
+    "OPTION": "選択肢",
+    "RESPONSES": "回答数",
+    "SHARE": "割合",
+    "VIEW_POLL": "アンケートを表示",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "このアンケートの通知を無効にする",
+    "UNSUBSCRIBE_HERE": "購読を解除する"
+}

@@ -19,5 +19,20 @@
     "POLL_CLOSES_AT": "Опрос закрывается [date]",
     "POLL_CLOSED": "Опрос закрыт",
     "POLL_LOGIN_TO_VOTE": "Войдите, чтобы проголосовать",
-    "POLL_VOTE_FAILED": "Не удалось сохранить ваш голос. Пожалуйста, повторите попытку."
+    "POLL_VOTE_FAILED": "Не удалось сохранить ваш голос. Пожалуйста, повторите попытку.",
+    "POLL_PRIVACY_LABEL": "Конфиденциальность",
+    "POLL_PRIVACY_ANONYMOUS": "Анонимно",
+    "POLL_PRIVACY_ADMINS": "Администраторы видят, кто голосовал",
+    "POLL_PRIVACY_PUBLIC": "Публично",
+    "POLL_PRIVACY_HELP": "В публичных опросах любой пользователь видит, кто как проголосовал.",
+    "POLL_VOTES_ANONYMOUS": "Голосование анонимное",
+    "POLL_VOTES_ADMINS_VISIBLE": "Администраторы видят, кто голосовал",
+    "POLL_VOTES_PUBLIC_VISIBLE": "Все видят, кто голосовал",
+    "POLL_VOTERS_SHOW": "Посмотреть, кто голосовал",
+    "POLL_VOTERS_HIDE": "Скрыть, кто голосовал",
+    "POLL_VOTERS_LOADING": "Загрузка...",
+    "POLL_VOTERS_NONE": "Имена проголосовавших недоступны.",
+    "POLL_VOTERS_SEPARATOR": ", ",
+    "POLL_VOTERS_MORE": " и другие",
+    "POLL_VOTERS_FAILED": "Не удалось загрузить список проголосовавших. Пожалуйста, повторите попытку."
 }

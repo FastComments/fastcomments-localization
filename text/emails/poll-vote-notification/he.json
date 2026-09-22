@@ -1,0 +1,15 @@
+{
+    "INTRO": "היי <%= username %>,",
+    "BANNER_TEXT": "הצבעות חדשות בסקרים",
+    "FROM_NAME": "רובוט FastComments",
+    "SUBJECT": "<%= abbreviateNumber(newResponseCount, 0, locale) %> <% if(newResponseCount === 1) { %>הצבעה חדשה<% } else { %>הצבעות חדשות<% } %> <% if(polls.length > 1) { %>בסקרים שלך<% } else { %>בסקר שלך<% } %>",
+    "NEW_RESPONSES_SUMMARY": "<% if(polls.length > 1) { %>הסקרים שלך קיבלו הצבעות חדשות<% } else { %>הסקר שלך קיבל הצבעות חדשות<% } %>. הנה המצב <% if(polls.length > 1) { %>שלהם<% } else { %>שלו<% } %> כרגע.",
+    "NEW_RESPONSES_LABEL": "הצבעות חדשות:",
+    "TOTAL_RESPONSES_LABEL": "סך ההצבעות:",
+    "OPTION": "אפשרות",
+    "RESPONSES": "הצבעות",
+    "SHARE": "אחוז",
+    "VIEW_POLL": "הצג סקר",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "השבת התראות עבור סקר זה",
+    "UNSUBSCRIBE_HERE": "בטל את המנוי"
+}

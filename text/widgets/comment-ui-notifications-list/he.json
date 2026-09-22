@@ -6,6 +6,7 @@
     "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT": "<b>[fromUserName]</b> השיב לדף שאתה מנוי אליו.",
     "NOTIFICATION_PROFILE_COMMENT": "<b>[fromUserName]</b> הגיב על הפרופיל שלך.",
     "NOTIFICATION_DM": "<b>[fromUserName]</b> שלח לך הודעה.",
+    "NOTIFICATION_POLL_VOTED": "הסקר שלך קיבל הצבעה חדשה.",
     "NOTIFICATION_MENTION": "<b>[fromUserName]</b> הזכיר אותך.",
     "NOTIFICATION_MARK_UNREAD": "סמן כלא נקרא",
     "NOTIFICATION_MARK_READ": "סמן כנקרא",
@@ -18,6 +19,7 @@
     "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b> השיב לדף שאתה מנוי אליו: [context]",
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b> הגיב על הפרופיל שלך: [context]",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b> שלח לך הודעה: [context]",
+    "NOTIFICATION_POLL_VOTED_CONTEXT": "הסקר שלך קיבל הצבעה חדשה: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b> הזכיר אותך: [context]",
     "SHARED_AN_IMAGE": "שיתף תמונה.",
     "NOTIFICATION_TRIAL_LIMITS": "הניסיון שלך התחיל! שים לב כי מגבלות שונות מוטלות על חשבונך בתקופת הניסיון. בדוק <a href=\"[url]\" class=\"redirect\">את ניתוח החיובים</a> שלך למידע נוסף.",
@@ -29,6 +31,7 @@
     "BULK_VOTES_ONE_USER": "<b>[user1]</b> נתן לך קארמה",
     "BULK_VOTES_TWO_USERS": "<b>[user1]</b> ו- <b>[user2]</b> נתנו לך קארמה",
     "BULK_VOTES_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> ו- <b>[otherCount] אחרים</b> נתנו לך קארמה",
+    "BULK_POLL_VOTES_NO_USERS": "הסקר שלך קיבל [count] הצבעות חדשות",
     "BULK_MENTIONS_NO_USERS": "הוזכרת [count] פעמים",
     "BULK_MENTIONS_ONE_USER": "<b>[user1]</b> הזכיר אותך",
     "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b> ו- <b>[user2]</b> הזכירו אותך",
@@ -40,5 +43,10 @@
     "BULK_REPLIES_SUBSCRIPTION_NO_USERS": "[count] תגובות חדשות בדף שנרשמת אליו",
     "BULK_REPLIES_SUBSCRIPTION_ONE_USER": "<b>[user1]</b> הגיב לדף שנרשמת אליו",
     "BULK_REPLIES_SUBSCRIPTION_TWO_USERS": "<b>[user1]</b> ו- <b>[user2]</b> הגיבו בדף שנרשמת אליו",
-    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> ו- <b>[otherCount] אחרים</b> הגיבו על שרשור שנרשמת אליו"
+    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b> , <b>[user2]</b> ו- <b>[otherCount] אחרים</b> הגיבו על שרשור שנרשמת אליו",
+    "BULK_POLL_VOTES_ONE_USER": "<b>[user1]</b> הצביע בסקר שלך",
+    "BULK_POLL_VOTES_TWO_USERS": "<b>[user1]</b> ו-<b>[user2]</b> הצביעו בסקר שלך",
+    "BULK_POLL_VOTES_MANY_USERS": "<b>[user1]</b>, <b>[user2]</b> ו-<b>[otherCount] אחרים</b> הצביעו בסקר שלך",
+    "NOTIFICATION_POLL_VOTED_BY": "<b>[fromUserName]</b> הצביע בסקר שלך.",
+    "NOTIFICATION_POLL_VOTED_BY_CONTEXT": "<b>[fromUserName]</b> הצביע בסקר שלך: [context]"
 }

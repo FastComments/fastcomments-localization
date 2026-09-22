@@ -1,0 +1,15 @@
+{
+    "INTRO": "Ciao <%= username %>,",
+    "BANNER_TEXT": "Nuove risposte ai sondaggi",
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "<%= abbreviateNumber(newResponseCount, 0, locale) %> <% if(newResponseCount === 1) { %>nuova risposta<% } else { %>nuove risposte<% } %> <% if(polls.length > 1) { %>ai tuoi sondaggi<% } else { %>al tuo sondaggio<% } %>",
+    "NEW_RESPONSES_SUMMARY": "<% if(polls.length > 1) { %>I tuoi sondaggi hanno ricevuto nuove risposte.<% } else { %>Il tuo sondaggio ha ricevuto nuove risposte.<% } %> Ecco a che punto <% if(polls.length > 1) { %>sono<% } else { %>è<% } %> in questo momento.",
+    "NEW_RESPONSES_LABEL": "Nuove risposte:",
+    "TOTAL_RESPONSES_LABEL": "Risposte totali:",
+    "OPTION": "Opzione",
+    "RESPONSES": "Risposte",
+    "SHARE": "Percentuale",
+    "VIEW_POLL": "Visualizza sondaggio",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "Disabilita le notifiche per questo sondaggio",
+    "UNSUBSCRIBE_HERE": "Annulla l'iscrizione"
+}

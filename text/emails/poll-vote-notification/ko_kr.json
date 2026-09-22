@@ -1,0 +1,15 @@
+{
+    "INTRO": "안녕하세요 <%= username %>,",
+    "BANNER_TEXT": "새 투표 응답",
+    "FROM_NAME": "FastComments 로봇",
+    "SUBJECT": "<% if(polls.length > 1) { %>내 투표<% } else { %>내 투표<% } %>에 <% if(newResponseCount === 1) { %>새 응답<% } else { %>새 응답<% } %> <%= abbreviateNumber(newResponseCount, 0, locale) %>개",
+    "NEW_RESPONSES_SUMMARY": "<% if(polls.length > 1) { %>회원님의 투표<% } else { %>회원님의 투표<% } %>에 새 응답이 들어왔습니다. 현재 <% if(polls.length > 1) { %>결과<% } else { %>결과<% } %>는 다음과 같습니다.",
+    "NEW_RESPONSES_LABEL": "새 응답:",
+    "TOTAL_RESPONSES_LABEL": "전체 응답:",
+    "OPTION": "항목",
+    "RESPONSES": "응답 수",
+    "SHARE": "비율",
+    "VIEW_POLL": "투표 보기",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "이 투표에 대한 알림 비활성화",
+    "UNSUBSCRIBE_HERE": "구독 취소"
+}

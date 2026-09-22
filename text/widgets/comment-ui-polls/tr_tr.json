@@ -19,5 +19,20 @@
     "POLL_CLOSES_AT": "Anket kapanışı: [date]",
     "POLL_CLOSED": "Anket kapandı",
     "POLL_LOGIN_TO_VOTE": "Oy verebilmek için giriş yapın",
-    "POLL_VOTE_FAILED": "Oyunuzu kaydedemedik. Lütfen tekrar deneyin."
+    "POLL_VOTE_FAILED": "Oyunuzu kaydedemedik. Lütfen tekrar deneyin.",
+    "POLL_PRIVACY_LABEL": "Gizlilik",
+    "POLL_PRIVACY_ANONYMOUS": "Anonim",
+    "POLL_PRIVACY_ADMINS": "Yöneticiler kimin oy verdiğini görebilir",
+    "POLL_PRIVACY_PUBLIC": "Herkese açık",
+    "POLL_PRIVACY_HELP": "Herkese açık anketlerde her kullanıcı kimin neye oy verdiğini görebilir.",
+    "POLL_VOTES_ANONYMOUS": "Oylar anonimdir",
+    "POLL_VOTES_ADMINS_VISIBLE": "Yöneticiler kimin oy verdiğini görebilir",
+    "POLL_VOTES_PUBLIC_VISIBLE": "Herkes kimin oy verdiğini görebilir",
+    "POLL_VOTERS_SHOW": "Kimin oy verdiğini göster",
+    "POLL_VOTERS_HIDE": "Kimin oy verdiğini gizle",
+    "POLL_VOTERS_LOADING": "Yükleniyor...",
+    "POLL_VOTERS_NONE": "Adı görünen oy veren yok.",
+    "POLL_VOTERS_SEPARATOR": ", ",
+    "POLL_VOTERS_MORE": " ve daha fazlası",
+    "POLL_VOTERS_FAILED": "Kimin oy verdiğini yükleyemedik. Lütfen tekrar deneyin."
 }

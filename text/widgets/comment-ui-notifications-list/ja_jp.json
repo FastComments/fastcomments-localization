@@ -18,6 +18,8 @@
     "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b>さんが購読中のページに返信しました: [context]",
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b>さんがあなたのプロフィールにコメントしました: [context]",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b>さんからメッセージが届きました: [context]",
+    "NOTIFICATION_POLL_VOTED": "あなたのアンケートに新しい回答がありました。",
+    "NOTIFICATION_POLL_VOTED_CONTEXT": "あなたのアンケートに新しい回答がありました: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b>さんがあなたをメンションしました: [context]",
     "SHARED_AN_IMAGE": "画像を共有しました。",
     "NOTIFICATION_TRIAL_LIMITS": "トライアルが始まりました。トライアル期間中はアカウントにさまざまな制限が課せられることに注意してください。詳細については、<a href=\"[url]\" class=\"redirect\">課金分析</a>を確認してください。",
@@ -29,6 +31,7 @@
     "BULK_VOTES_ONE_USER": "<b>[user1]</b>さんがあなたにカルマを付けました",
     "BULK_VOTES_TWO_USERS": "<b>[user1]</b>さんと<b>[user2]</b>さんがあなたにカルマを付けました",
     "BULK_VOTES_MANY_USERS": "<b>[user1]</b>さん、<b>[user2]</b>さん、<b>他[otherCount]人</b>があなたにカルマを付けました",
+    "BULK_POLL_VOTES_NO_USERS": "あなたのアンケートに[count]件の新しい回答がありました",
     "BULK_MENTIONS_NO_USERS": "[count]回メンションされました",
     "BULK_MENTIONS_ONE_USER": "<b>[user1]</b>さんがあなたをメンションしました",
     "BULK_MENTIONS_TWO_USERS": "<b>[user1]</b>さんと<b>[user2]</b>さんがあなたをメンションしました",
@@ -40,5 +43,10 @@
     "BULK_REPLIES_SUBSCRIPTION_NO_USERS": "購読中のページに[count]件の新しいコメント",
     "BULK_REPLIES_SUBSCRIPTION_ONE_USER": "<b>[user1]</b>さんが購読中のページに返信しました",
     "BULK_REPLIES_SUBSCRIPTION_TWO_USERS": "<b>[user1]</b>さんと<b>[user2]</b>さんが購読中のページにコメントしました",
-    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b>さん、<b>[user2]</b>さん、<b>他[otherCount]人</b>が購読中のスレッドにコメントしました"
+    "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b>さん、<b>[user2]</b>さん、<b>他[otherCount]人</b>が購読中のスレッドにコメントしました",
+    "BULK_POLL_VOTES_ONE_USER": "<b>[user1]</b>さんがあなたのアンケートに回答しました",
+    "BULK_POLL_VOTES_TWO_USERS": "<b>[user1]</b>さんと<b>[user2]</b>さんがあなたのアンケートに回答しました",
+    "BULK_POLL_VOTES_MANY_USERS": "<b>[user1]</b>さん、<b>[user2]</b>さん、<b>他[otherCount]人</b>があなたのアンケートに回答しました",
+    "NOTIFICATION_POLL_VOTED_BY": "<b>[fromUserName]</b>さんがあなたのアンケートに回答しました。",
+    "NOTIFICATION_POLL_VOTED_BY_CONTEXT": "<b>[fromUserName]</b>さんがあなたのアンケートに回答しました: [context]"
 }
