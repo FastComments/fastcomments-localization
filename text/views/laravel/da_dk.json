@@ -57,7 +57,7 @@
     "HOW_IT_WORKS_STEP_1_TITLE": "Installer via Composer",
     "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Kør composer require fastcomments/laravel for at tilføje pakken til dit projekt.",
     "HOW_IT_WORKS_STEP_2_TITLE": "Udgiv konfiguration og angiv API-nøgle",
-    "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Udgiv konfigurationsfilen med Artisan, og tilføj derefter din FastComments API-nøgle og lejer-ID til din .env-fil.",
+    "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Udgiv konfigurationsfilen med Artisan, og tilføj derefter din FastComments API-nøgle og dit tenant-ID til din .env-fil.",
     "HOW_IT_WORKS_STEP_3_TITLE": "Drop-in bladkomponenter",
     "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Brug <x-fastcomments>, <x-fastcomments-live-chat> eller <x-fastcomments-comment-count> hvor som helst i dine Blade-skabeloner.",
     "FAQ_LARAVEL_FREE_TRIAL": "Er der en gratis prøveperiode?",

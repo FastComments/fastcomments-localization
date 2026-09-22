@@ -20,9 +20,9 @@
     "PERM_isManageDataAdmin_NAME": "データ管理管理者",
     "PERM_isManageDataAdmin_DESC": "データ管理タブにアクセスして、コメントのインポート/エクスポート、Webhook の設定、移行を実行できます。",
     "PERM_isManageDataAdmin_DESC_FIRST_PERSON": "データ管理タブにアクセスして、コメントのインポート/エクスポート、Webhook の設定、移行を実行できます。",
-    "PERM_isCommentModeratorAdmin_NAME": "コメント管理管理者",
-    "PERM_isCommentModeratorAdmin_DESC": "コメントの管理にアクセスできます。",
-    "PERM_isCommentModeratorAdmin_DESC_FIRST_PERSON": "コメントを管理できます。",
+    "PERM_isCommentModeratorAdmin_NAME": "コメントモデレーション管理者",
+    "PERM_isCommentModeratorAdmin_DESC": "コメントのモデレーションにアクセスできます。",
+    "PERM_isCommentModeratorAdmin_DESC_FIRST_PERSON": "コメントをモデレートできます。",
     "PERM_isAPIAdmin_NAME": "API/SSO管理者",
     "PERM_isAPIAdmin_DESC": "API シークレットと API 使用状況統計を表示できます。",
     "PERM_isAPIAdmin_DESC_FIRST_PERSON": "API シークレットと API 使用状況の統計を表示できます。"

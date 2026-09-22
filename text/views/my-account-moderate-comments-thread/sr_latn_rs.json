@@ -2,5 +2,5 @@
     "PAGE_TITLE_DEFAULT": "Pregledač niti komentara",
     "HEADING": "Pregledač niti komentara",
     "THREAD_DETAILS": "Pregledate nit komentara na <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a>",
-    "PAGE_ID_INFO": "Pregled komentara za Page ID: <%- thread.urlIdDecoded %>"
+    "PAGE_ID_INFO": "Pregled komentara za ID stranice: <%- thread.urlIdDecoded %>"
 }

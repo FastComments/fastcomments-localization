@@ -57,7 +57,7 @@
     "HOW_IT_WORKS_STEP_1_TITLE": "Инсталиране чрез Composer",
     "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Изпълнете командата composer require fastcomments/laravel, за да добавите пакета към вашия проект.",
     "HOW_IT_WORKS_STEP_2_TITLE": "Публикуване на конфигурация и задаване на API ключ",
-    "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Публикувайте конфигурационния файл с Artisan, след което добавете вашия FastComments API ключ и ID на наемателя към вашия .env файл.",
+    "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Публикувайте конфигурационния файл с Artisan, след което добавете вашия FastComments API ключ и ID на клиента към вашия .env файл.",
     "HOW_IT_WORKS_STEP_3_TITLE": "Вграждане на Blade компоненти",
     "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Използвайте<x-fastcomments> ,<x-fastcomments-live-chat> или<x-fastcomments-comment-count> навсякъде във вашите шаблони за Blade.",
     "FAQ_LARAVEL_FREE_TRIAL": "Има ли безплатен пробен период?",

@@ -4,7 +4,7 @@
     "GREETING": "Živjo,",
     "ERROR_PLURAL": "napake",
     "SIGN_OFF": "Lep pozdrav,",
-    "TENANT_NOTE": "To se nanaša na najemnika z ID-jem \"<%= tenantId %>\".",
+    "TENANT_NOTE": "To se nanaša na račun z ID-jem \"<%= tenantId %>\".",
     "SUBJECT": "Zaznane napake API-ja FastComments",
     "FROM_NAME": "Robot API-ja FastComments",
     "DETECTION": "Za vaš račun smo zaznali <%= errorCountFormatted %> API <%= errorWord %> dne <%= errorDate %>.",

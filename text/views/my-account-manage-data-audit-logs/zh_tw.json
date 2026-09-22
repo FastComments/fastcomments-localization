@@ -1,6 +1,6 @@
 {
-    "TITLE": "審計日誌 - FastComments",
-    "HEADING": "審計日誌",
+    "TITLE": "稽核日誌 - FastComments",
+    "HEADING": "稽核日誌",
     "AUDITING_DISABLED": "審計功能已停用。如果您想購買包含審計功能的套餐，<a href=\"/auth/my-account/help\">請告知我們</a>。",
     "FILTER_BY_USERNAME": "依使用者名稱篩選",
     "FILTER_BY_IP": "依 IP 篩選",
@@ -21,7 +21,7 @@
     "NO_LOGS_FOUND": "未找到符合指定篩選條件的日誌。",
     "PREV_BUTTON": "上一頁",
     "NEXT_BUTTON": "下一頁",
-    "NO_AUDIT_LOGS": "您沒有任何審計日誌。",
+    "NO_AUDIT_LOGS": "您沒有任何稽核日誌。",
     "LOG_DETAILS_HEADING": "日誌詳情",
     "CLOSE_BUTTON": "關閉",
     "MAGNIFYING_GLASS_ALT": "放大鏡",
@@ -39,7 +39,7 @@
     "CRUD_TYPE_login": "登入",
     "TABLE_TARGET": "受影響對象",
     "TABLE_TENANT": "租戶",
-    "INCLUDE_SUB_TENANTS_DESCRIPTION": "同時搜尋此帳戶管理的租戶的審計日誌。",
+    "INCLUDE_SUB_TENANTS_DESCRIPTION": "同時搜尋此帳戶管理的租戶的稽核日誌。",
     "DATE_PRESET_CUSTOM": "自訂範圍",
     "FILTER_BY_AFFECTED": "受影響的對象",
     "FILTER_BY_AFFECTED_PLACEHOLDER": "姓名、電子郵件或 ID"

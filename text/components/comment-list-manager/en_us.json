@@ -216,6 +216,10 @@
     "KB_SHORTCUT_SEARCH": "Focus search",
     "KB_SHORTCUT_PREV_PAGE": "Previous page",
     "KB_SHORTCUT_NEXT_PAGE": "Next page",
-    "MOD_NEW_COMMENTS_AVAILABLE": "new comments match your filters",
+    "MOD_NEW_COMMENTS_AVAILABLE_ONE": "[count] new comment matches your filters",
+    "MOD_NEW_COMMENTS_AVAILABLE_TWO": "[count] new comments match your filters",
+    "MOD_NEW_COMMENTS_AVAILABLE_FEW": "[count] new comments match your filters",
+    "MOD_NEW_COMMENTS_AVAILABLE_MANY": "[count] new comments match your filters",
+    "MOD_NEW_COMMENTS_AVAILABLE_OTHER": "[count] new comments match your filters",
     "MOD_NEW_COMMENTS_LOAD": "Click to Show"
 }

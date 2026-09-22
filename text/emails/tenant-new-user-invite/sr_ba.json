@@ -3,6 +3,6 @@
     "FROM_NAME": "FastComments робот",
     "SUBJECT": "Позвани сте да се придружите <%= tenantName %>!",
     "BANNER_TEXT": "FastComments позив",
-    "INVITE_DETAILS": "Позвани сте да се придружите FastComments закупцу <%= tenantName %>. Ако прихватите овај позив, отворићете налог за вас са следећим дозволама:",
+    "INVITE_DETAILS": "Позвани сте да се придружите FastComments налогу <%= tenantName %>. Прихватањем овог позива биће вам креиран кориснички налог са следећим дозволама:",
     "ACCEPT_INVITE": "Прихвати позив"
 }

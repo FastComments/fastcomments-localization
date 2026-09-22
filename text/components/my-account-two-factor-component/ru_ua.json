@@ -1,6 +1,6 @@
 {
     "MODAL_ADD_AUTHENTICATOR_TITLE": "Добавить приложение-аутентификатор",
-    "MODAL_ADD_AUTHENTICATOR_LABEL": "Назовите этот аутентификатор:",
+    "MODAL_ADD_AUTHENTICATOR_LABEL": "Дайте имя этому аутентификатору:",
     "MODAL_ADD_AUTHENTICATOR_PLACEHOLDER": "например, iPhone - Google Authenticator",
     "MODAL_ADD_AUTHENTICATOR_HINT": "Дайте ему узнаваемое имя, например, название устройства или приложения, которое вы используете.",
     "MODAL_SETUP_AUTHENTICATOR_TITLE": "Настройка приложения-аутентификатора",
@@ -21,7 +21,7 @@
     "MODAL_VERIFY_PHONE_TITLE": "Подтвердите номер телефона",
     "MODAL_VERIFY_PHONE_HEADING": "Подтвердите номер телефона",
     "MODAL_VERIFY_PHONE_DESC": "Мы отправили код подтверждения на ваш номер телефона. Введите его ниже, чтобы завершить настройку:",
-    "MODAL_VERIFY_PHONE_CODE_LABEL": "Введите 6-значный код из полученного SMS-сообщения:",
+    "MODAL_VERIFY_PHONE_CODE_LABEL": "Введите 6-значный код из вашего SMS-сообщения:",
     "MODAL_RENAME_TITLE": "Переименовать метод двухфакторной аутентификации",
     "MODAL_RENAME_LABEL": "Новое название:",
     "MODAL_BACKUP_CODES_TITLE": "Коды восстановления резервных копий",
@@ -44,7 +44,7 @@
     "BTN_REGENERATE": "Создать новые коды",
     "BTN_VERIFY_REGENERATE": "Проверить и сгенерировать заново",
     "BTN_DOWNLOAD": "Скачать как текст",
-    "BTN_PRINT": "Печать кодов",
+    "BTN_PRINT": "Распечатать коды",
     "BTN_DONE": "Готово",
     "BTN_COPY": "Копировать",
     "BTN_RENAME": "Переименовать",
@@ -65,8 +65,8 @@
     "NEVER_USED": "Никогда не использовался",
     "CONFIRM_REMOVE": "Вы уверены, что хотите удалить \"[label]\" из своего аккаунта?",
     "BACKUP_CODE_STATUS_UNUSED": "Неиспользованный",
-    "BACKUP_CODES_UNUSED": "[count] неиспользованные коды",
-    "BACKUP_CODES_USED": "[count] использованные коды",
+    "BACKUP_CODES_UNUSED": "Неиспользованных кодов: [count]",
+    "BACKUP_CODES_USED": "Использованных кодов: [count]",
     "IMPORTANT": "Важно:",
     "WARNING": "Предупреждение:"
 }

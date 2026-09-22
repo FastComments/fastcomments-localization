@@ -1,13 +1,13 @@
 {
-    "PAGE_TITLE": "Zabrani korisnika - FastComments",
-    "HEADING": "Zabrani korisnika",
-    "SUB_HEADING": "Zabranite korisniku pristup putem e-pošte",
-    "INTRO_DESCRIPTION": "Ovdje možete unijeti e-mail adresu kojom želite zabraniti korisnika. Postoji nekoliko načina za zabranu korisnika. Trajna zabrana korisnika nikada mu neće dopustiti glasanje ili komentiranje, a odmah će znati kada pokuša komentirati jer će ga sustav obavijestiti. Skrivena zabrana će prikazati da su njihovi glasovi ili komentari uspješni, ali neće trajati.",
+    "PAGE_TITLE": "Baniraj korisnika - FastComments",
+    "HEADING": "Baniraj korisnika",
+    "SUB_HEADING": "Baniraj korisnika putem e-pošte",
+    "INTRO_DESCRIPTION": "Ovdje možete unijeti e-mail adresu po kojoj želite banirati korisnika. Postoji nekoliko načina baniranja korisnika. Trajno banirani korisnik više nikada neće moći glasati ni komentirati, a to će saznati čim pokuša komentirati jer će ga sustav obavijestiti. Kod skrivenog bana korisniku će se činiti da su njegovi glasovi i komentari uspješno poslani, ali neće biti spremljeni.",
     "ENTER_EMAIL_HEADING": "Unesite e-poštu",
     "EMAIL_LABEL": "E-pošta",
     "TYPE_LABEL": "Tip",
-    "TYPE_BAN": "Zabrana",
-    "TYPE_SHADOW_BAN": "Zabrana sjene",
+    "TYPE_BAN": "Ban",
+    "TYPE_SHADOW_BAN": "Skriveni ban",
     "DURATION_LABEL": "Trajanje",
     "DURATION_FOREVER": "Zauvijek",
     "DURATION_ONE_HOUR": "Jedan sat",
@@ -16,9 +16,9 @@
     "DURATION_ONE_MONTH": "Jedan mjesec",
     "DURATION_SIX_MONTHS": "Šest mjeseci",
     "DURATION_ONE_YEAR": "Jedna godina",
-    "BAN_USER_BUTTON": "Zabrani korisnika",
-    "ERROR_INVALID_WILDCARD": "Taj uzorak zamjenskog znaka nije podržan. Unesite punu adresu e-pošte ili *@example.com da biste zabranili cijelu domenu i njezine poddomene.",
+    "BAN_USER_BUTTON": "Baniraj korisnika",
+    "ERROR_INVALID_WILDCARD": "Taj uzorak zamjenskog znaka nije podržan. Unesite punu adresu e-pošte ili *@example.com da biste banirali cijelu domenu i njezine poddomene.",
     "TIP_WILDCARD_UNSUPPORTED": "Drugi oblici zamjenskih znakova poput *@*.example.com ili name*@example.com nisu podržani.",
-    "TIP_WILDCARD": "Savjet: da biste zabranili sve korisnike određenog davatelja e-pošte, unesite *@example.com.",
-    "TIP_WILDCARD_SUBDOMAINS": "Zabrana domene obuhvaća i njezine poddomene, pa tako *@example.com zabranjuje i someone@mail.example.com."
+    "TIP_WILDCARD": "Savjet: da biste banirali sve korisnike određenog davatelja e-pošte, unesite *@example.com.",
+    "TIP_WILDCARD_SUBDOMAINS": "Ban domene obuhvaća i njezine poddomene, pa tako *@example.com banira i someone@mail.example.com."
 }

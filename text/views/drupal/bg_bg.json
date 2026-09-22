@@ -89,7 +89,7 @@
     "HOW_IT_WORKS_TITLE": "Готов за работа за минути",
     "HOW_IT_WORKS_STEP_3_TITLE": "Добавяне на поле или блок",
     "HOW_IT_WORKS_SUBTITLE": "Четири стъпки за публикуване на коментари на вашия Drupal сайт.",
-    "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Отидете до /admin/config/content/fastcomments и въведете вашия FastComments API ключ и ID на наемателя.",
+    "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Отидете до /admin/config/content/fastcomments и въведете вашия FastComments API ключ и ID на клиента.",
     "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Стартирайте composer, като използвате Drupal/fastcomments, или го инсталирайте чрез администраторския интерфейс на Drupal.",
     "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Добавете поле FastComments към вашия тип съдържание или поставете блок с уиджет във всеки регион чрез Block Layout.",
     "HOW_IT_WORKS_STEP_4_DESCRIPTION": "Изчистете кешовете с drush cr и посетителите ви ще виждат коментари в реално време веднага.",

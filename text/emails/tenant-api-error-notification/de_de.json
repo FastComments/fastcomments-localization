@@ -10,5 +10,5 @@
     "DETECTION": "Wir haben am <%= errorDate %> <%= errorCountFormatted %> API-<%= errorWord %> für Ihr Konto festgestellt.",
     "OPT_OUT": "<a href=\"<%= notificationSettingsUrl %>\">Hier</a> können Sie diese Benachrichtigungen abbestellen.",
     "TEAM_NAME": "Das FastComments-Entwicklungsteam",
-    "TENANT_NOTE": "Dies bezieht sich auf den Mieter mit der ID \"<%= tenantId %>\"."
+    "TENANT_NOTE": "Dies bezieht sich auf den Mandanten mit der ID \"<%= tenantId %>\"."
 }

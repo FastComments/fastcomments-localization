@@ -1,7 +1,7 @@
 {
     "PAGE_TITLE": "Συλλογές - FastComments",
     "HEADING_COLLECTIONS": "Συλλογές",
-    "NAV_BUILDER": "Πρόγραμμα δημιουργίας",
+    "NAV_BUILDER": "Δημιουργία",
     "NAV_COLLECTIONS": "Συλλογές",
     "NAV_SETTINGS": "Ρυθμίσεις",
     "NAV_MEMBERSHIPS": "Συνδρομές",
@@ -23,12 +23,12 @@
     "BUTTON_CREATE_COLLECTION": "Δημιουργία συλλογής",
     "BUTTON_DELETE_COLLECTION": "Διαγραφή",
     "BUTTON_NEW_ITEM": "Νέο στοιχείο",
-    "TABLE_HEADER_NAME": "Ονομα",
+    "TABLE_HEADER_NAME": "Όνομα",
     "TABLE_HEADER_TYPE": "Τύπος",
     "TABLE_HEADER_ITEMS": "Αντικείμενα",
     "TABLE_HEADER_MODE": "Τρόπος",
     "LABEL_COLLECTION_MODE": "Λειτουργία συλλογής",
-    "OPTION_MODE_MANUAL": "Χειροκίνητο",
+    "OPTION_MODE_MANUAL": "Χειροκίνητη",
     "OPTION_MODE_SCRIPTED": "Σεναριακά",
     "HEADING_SCRIPT_EDITOR": "Επεξεργαστής σεναρίων",
     "LABEL_SCRIPT_NAME": "Όνομα σεναρίου",
@@ -65,7 +65,7 @@
     "TRIGGER_TYPE_UPDATE": "Ενημέρωση",
     "TRIGGER_TYPE_DELETE": "Διαγραφή",
     "CRON_SCHEDULE_DAILY": "Καθημερινά",
-    "CRON_SCHEDULE_WEEKLY": "Εβδομαδιαίος",
-    "CRON_SCHEDULE_MONTHLY": "Μηνιαίος",
+    "CRON_SCHEDULE_WEEKLY": "Εβδομαδιαία",
+    "CRON_SCHEDULE_MONTHLY": "Μηνιαία",
     "LINK_DELETE": "Διαγραφή"
 }

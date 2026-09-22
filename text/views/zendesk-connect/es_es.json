@@ -25,7 +25,7 @@
     "COPY_SUCCESS": "¡Copiado!",
     "DOCS_LINK": "Lea la guía de instalación completa de Zendesk.",
     "COPY_FAILED": "Error al copiar, seleccione y copie manualmente.",
-    "TENANT_ID_LABEL": "Su ID de inquilino de FastComments:",
+    "TENANT_ID_LABEL": "Su ID de tenant de FastComments:",
     "SNIPPET_INSTRUCTIONS": "En Zendesk Guide, abre Personalizar diseño, luego Editar código y pega este bloque en templates/article_page.hbs donde quieras que aparezcan los comentarios.",
     "SSO_MODE_HC_JWT": "Centro de ayuda JWT (recomendado, identidad verificada)",
     "SSO_HC_JWT_NOTE": "El Centro de ayuda JWT verifica a cada comentarista con el token firmado de Zendesk, por lo que no se pueden suplantar identidades. Requiere un plan Guide Enterprise o Suite Enterprise; en planes inferiores, los comentaristas permanecen anónimos."

@@ -3,7 +3,7 @@
     "HEADING": "הגדרות אסימון אינטגרציה",
     "SUB_HEADING_NO_DOMAIN": "עריכת <%= integration.readableType %> אסימון אינטגרציה.",
     "SUB_HEADING_DOMAIN": "עריכת <%= integration.readableType %> אסימון אינטגרציה עבור <%= integration.domain %>.",
-    "ENABLE_EVENT_FETCH_LABEL": "לקוחות המשתמשים באינטגרציה זו אמורים להיות מסוגלים לאחזר הערות חדשות מעת לעת.",
+    "ENABLE_EVENT_FETCH_LABEL": "לקוחות המשתמשים באינטגרציה זו אמורים להיות מסוגלים לאחזר תגובות חדשות מעת לעת.",
     "ENABLE_EVENT_FETCH_DESCRIPTION": "זה יאפשר ללקוחות המשתמשים באסימון אינטגרציה זה לאחזר את יומן האירועים כדי שיוכלו להישאר מסונכרנים. שימושי אם יש לכם תוספי WordPress הדורשים נתוני תגובות במסד הנתונים שלכם.",
     "SAVE_BUTTON": "שמירה"
 }

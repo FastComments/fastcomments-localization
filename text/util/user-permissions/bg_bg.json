@@ -1,7 +1,7 @@
 {
     "PERM_isAccountOwner_NAME": "Собственик на акаунт",
-    "PERM_isAccountOwner_DESC": "Те притежават акаунта. Ако изтрият акаунта си, наемателят си отива с тях.",
-    "PERM_isAccountOwner_DESC_FIRST_PERSON": "Вие притежавате акаунта. Ако изтриете акаунта си, наемателят си отива с вас.",
+    "PERM_isAccountOwner_DESC": "Той притежава акаунта. Ако изтрие акаунта си, клиентът се изтрива заедно с него.",
+    "PERM_isAccountOwner_DESC_FIRST_PERSON": "Вие притежавате акаунта. Ако изтриете акаунта си, клиентът се изтрива заедно с него.",
     "PERM_isAdminAdmin_NAME": "Супер администратор",
     "PERM_isAdminAdmin_DESC": "Може да управлява други администратори.",
     "PERM_isAdminAdmin_DESC_FIRST_PERSON": "Можете да управлявате други администратори.",

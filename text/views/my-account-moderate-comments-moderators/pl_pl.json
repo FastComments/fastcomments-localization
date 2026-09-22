@@ -3,10 +3,10 @@
     "HEADING": "Moderatorzy komentarzy",
     "SUB_HEADING": "Moderatorzy",
     "SUCCESS_CREATED": "Utworzono moderatora!",
-    "SUCCESS_UPDATED": "Zaktualizowano Moderatora!",
+    "SUCCESS_UPDATED": "Zaktualizowano moderatora!",
     "SUCCESS_INVITE_SENT": "Zaproszenie wysłane!",
     "SUCCESS_REMOVED": "Moderator usunięty!",
-    "ERROR_RATE_LIMITED": "Masz limit na wysyłanie zaproszeń moderatorów. Poczekaj i spróbuj ponownie lub skontaktuj się z pomocą techniczną.",
+    "ERROR_RATE_LIMITED": "Przekroczono limit wysyłania zaproszeń dla moderatorów. Poczekaj i spróbuj ponownie lub skontaktuj się z pomocą techniczną.",
     "NO_MODERATORS_MESSAGE": "Nie masz żadnych moderatorów!",
     "TABLE_HEADER_NAME": "Nazwa",
     "TABLE_HEADER_COMMENTS_APPROVED": "Komentarze zatwierdzone",
@@ -16,9 +16,9 @@
     "TABLE_HEADER_COMMENTS_SPAM": "Komentarze oznaczone jako spam",
     "TABLE_HEADER_USERS_BANNED": "Zbanowani użytkownicy",
     "TABLE_HEADER_INVITE_STATUS": "Status zaproszenia",
-    "INVITE_STATUS_ACCEPTED": "Przyjęty",
+    "INVITE_STATUS_ACCEPTED": "Zaakceptowano",
     "INVITE_STATUS_EXPIRED": "Nie zaakceptowano - wygasło!",
-    "INVITE_STATUS_NOT_ACCEPTED": "Jeszcze nie zaakceptowane",
+    "INVITE_STATUS_NOT_ACCEPTED": "Jeszcze nie zaakceptowano",
     "IMPERSONATE_LINK": "Wciel się",
     "EDIT_LINK": "Edytuj",
     "RESEND_INVITE_LINK": "Wyślij ponownie zaproszenie",
@@ -27,5 +27,5 @@
     "ADD_MODERATOR_LINK_TITLE": "Dodaj moderatora",
     "PLUS_ALT": "Plus",
     "PLUS_TITLE": "Dodaj moderatora",
-    "EMAIL_SUPPRESSED": "E-mail zablokowany"
+    "EMAIL_SUPPRESSED": "Wysyłka e-maili wstrzymana"
 }

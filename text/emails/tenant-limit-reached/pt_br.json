@@ -2,7 +2,7 @@
     "FROM_NAME": "FastComments",
     "BANNER_TEXT": "Limite de uso atingido",
     "SUBJECT": "Sua conta atingiu o limite de <%= limitName %>",
-    "CHILD_TENANT_LINE": "Este alerta é para <strong><%= childTenantName %></strong>, um locatário gerenciado pela sua conta.",
+    "CHILD_TENANT_LINE": "Este alerta é para <strong><%= childTenantName %></strong>, um tenant gerenciado pela sua conta.",
     "META_LIMIT": "Limite:",
     "INTRO": "Sua conta atingiu um dos limites de uso do plano atual. Solicitações que excedam esse limite são recusadas até que o limite seja alterado ou o mês termine.",
     "META_USAGE": "Uso:",

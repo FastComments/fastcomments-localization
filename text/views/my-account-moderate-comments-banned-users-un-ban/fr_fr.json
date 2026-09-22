@@ -1,8 +1,8 @@
 {
-    "PAGE_TITLE": "Débloquer un utilisateur - FastComments",
-    "HEADING": "Débloquer un utilisateur",
+    "PAGE_TITLE": "Débannir un utilisateur - FastComments",
+    "HEADING": "Débannir un utilisateur",
     "SUB_HEADING": "Débannir <%= bannedUser.username %> ?",
-    "CONFIRM_MESSAGE": "Êtes-vous sûr de vouloir débloquer cet utilisateur ?",
-    "BANNED_FOR_SAYING_TEXT": "Ils ont été bannis pour avoir dit « <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> »",
+    "CONFIRM_MESSAGE": "Êtes-vous sûr de vouloir débannir cet utilisateur ?",
+    "BANNED_FOR_SAYING_TEXT": "Cet utilisateur a été banni pour avoir dit « <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> »",
     "UN_BAN_BUTTON": "Débannir l'utilisateur"
 }

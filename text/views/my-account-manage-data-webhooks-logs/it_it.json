@@ -12,7 +12,7 @@
     "UPDATE_EVENTS_OPTION": "Aggiorna eventi",
     "SUCCESSFUL_EVENTS_OPTION": "Eventi di successo",
     "FAILED_EVENTS_OPTION": "Eventi falliti",
-    "SEARCH_BUTTON": "Ricerca",
+    "SEARCH_BUTTON": "Cerca",
     "STATS_WAITING": "<b><%= Number(countPending).toLocaleString() %></b> In attesa",
     "STATS_PENDING_RETRY": "<b><%= Number(countPendingRetried).toLocaleString() %></b> In attesa di nuovo tentativo",
     "TABLE_HEADER_WHEN": "Quando",

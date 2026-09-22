@@ -1,6 +1,6 @@
 {
     "TITLE": "Reacties kopiëren - FastComments",
-    "HEADING": "Kopieer opmerkingen",
+    "HEADING": "Kopieer reacties",
     "DESCRIPTION_PART1": "Met deze tool kunt u uw reeds geüploade reacties op het FastComments-platform in batches kopiëren van de ene pagina naar de andere. Als u reacties van uw eigen website wilt kopiëren, heeft u de <a href=\"/auth/my-account/manage-data/import\">importtool</a> nodig.",
     "DESCRIPTION_PART2": "Deze tool werkt met volledige URL&#39;s of een <a href=\"https://docs.fastcomments.com/guide-customizations-and-configuration.html#url-id\" target=\"_blank\">URL-ID</a> .",
     "FROM_HEADING": "Van",
@@ -13,7 +13,7 @@
     "URL_TO_LABEL": "<b>URL</b> om te kopiëren",
     "URL_TO_PLACEHOLDER": "https://example.com",
     "URL_TO_HELP": "Omdat de URL-ID een ID kan zijn en geen URL, voer hier de bestemmings-URL in, zelfs als deze dezelfde waarde heeft.",
-    "COPY_COMMENTS_BUTTON": "Kopieer opmerkingen",
+    "COPY_COMMENTS_BUTTON": "Kopieer reacties",
     "EMAIL_NOTIFICATION": "Je ontvangt een e-mail met een downloadlink zodra het project is voltooid. Je kunt de status van je projecten hieronder bekijken.",
     "JOBS_HEADING": "Banen",
     "REFRESH_FOR_STATUS": "Vernieuw de pagina om de meest recente status te bekijken.",

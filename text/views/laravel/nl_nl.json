@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Laravel-commentaar- en livechatpakket | FastComments",
+    "PAGE_TITLE": "Laravel-pakket voor reacties en live chat | FastComments",
     "META_DESCRIPTION": "Voeg live reacties, live chat en SSO toe aan je Laravel-app met FastComments. Blade-componenten voor Laravel 10, 11 en 12. Gratis proefversie.",
     "HEAD_KEYWORDS": "Laravel-reacties, Laravel-reactiesysteem, Laravel livechat, Laravel Blade-reacties, FastComments Laravel, Laravel SSO-reacties, Laravel-reactiewidget, Laravel-discussie",
     "HERO_BADGE": "Laravel 10 / 11 / 12",
@@ -9,7 +9,7 @@
     "HERO_CTA_GITHUB": "Bekijk op GitHub",
     "BLADE_SECTION_TITLE": "Drie bladcomponenten, nul complexiteit",
     "BLADE_SECTION_SUBTITLE": "Elk component is een afzonderlijke tag. Publiceer de configuratie, stel je API-sleutel in en je bent live.",
-    "BLADE_1_TITLE": "Discussiecommentaren",
+    "BLADE_1_TITLE": "Reacties in threads",
     "BLADE_1_DESCRIPTION": "Voeg een volledig functionele widget voor reacties met discussiedraden toe aan elke pagina. Ondersteunt direct antwoorden, @vermeldingen, stemmen, opgemaakte tekst en realtime updates.",
     "BLADE_1_CODE": "<x-fastcomments\n  :url-id=\"$post->slug\"\n  :url=\"route('posts.show', $post)\"\n  :url-title=\"$post->title\"\n/>",
     "BLADE_2_TITLE": "Live chat",

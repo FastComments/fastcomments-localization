@@ -1,14 +1,14 @@
 {
     "PAGE_TITLE": "Canvas LMS 评论系统 | FastComments",
-    "META_DESCRIPTION": "通过 FastComments LTI 集成，为您的 Canvas LMS 添加实时线程式评论和协作聊天功能。自动单点登录，符合 GDPR 标准。免费试用。",
+    "META_DESCRIPTION": "通过 FastComments LTI 集成，为您的 Canvas LMS 添加实时嵌套式评论和协作聊天功能。自动单点登录，符合 GDPR 标准。免费试用。",
     "HEAD_KEYWORDS": "Canvas LMS 评论、Canvas 评论插件、Canvas LTI 工具、FastComments Canvas、Canvas 讨论工具、Canvas 课程评论、Canvas LMS SSO 评论",
     "HERO_BADGE": "Canvas LMS LTI 1.3",
     "HERO_TITLE": "Canvas LMS 的评论和协作功能",
-    "HERO_DESCRIPTION": "为每门 Canvas 课程添加主题讨论、实时协作聊天和自动单点登录功能。无需托管服务器——只需配置即可使用。",
+    "HERO_DESCRIPTION": "为每门 Canvas 课程添加主题讨论、实时协作聊天和自动单点登录功能。无需托管服务器，只需配置即可使用。",
     "HERO_CTA_FREE_TRIAL": "开始免费试用",
     "HERO_CTA_GITHUB": "设置指南",
     "STYLES_TITLE": "三种吸引学习者参与的方法",
-    "STYLES_SUBTITLE": "FastComments 为 Canvas 带来灵活的评论样式——选择适合每门课程的样式。",
+    "STYLES_SUBTITLE": "FastComments 为 Canvas 带来灵活的评论样式，选择适合每门课程的样式。",
     "STYLE_1_TITLE": "课程评论帖",
     "STYLE_1_DESCRIPTION": "在任何 Canvas 课程中添加嵌套式、主题式讨论。学生可以就上下文进行回复，教师可以轻松管理讨论，即使在大班授课的情况下，对话也能保持井然有序。",
     "STYLE_1_IMAGE_ALT": "Canvas 课程页面上的评论串",
@@ -53,5 +53,5 @@
     "FAQ_CANVAS_LMS_ROLES": "Canvas角色是如何管理的？",
     "FAQ_CANVAS_LMS_ROLES_ANSWER": "Canvas 的角色会自动映射：Canvas 管理员自动成为 FastComments 管理员，教师自动成为版主（可以管理评论），学员则成为普通评论者。此过程在 LTI 启动时自动完成。",
     "FINAL_CTA_TITLE": "准备升级 Canvas Discussions 吗？",
-    "FINAL_CTA_DESCRIPTION": "几分钟内即可为您的 Canvas LMS 添加线程式评论、协作聊天和自动 SSO 功能。"
+    "FINAL_CTA_DESCRIPTION": "几分钟内即可为您的 Canvas LMS 添加嵌套式评论、协作聊天和自动 SSO 功能。"
 }

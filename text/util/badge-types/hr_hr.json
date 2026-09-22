@@ -12,8 +12,8 @@
     "BADGE_TYPE_ModeratorCommentsApproved": "Moderator - Broj odobrenih komentara",
     "BADGE_TYPE_ModeratorCommentsUnapproved": "Moderator - Broj neodobrenih komentara",
     "BADGE_TYPE_ModeratorCommentsReviewed": "Moderator - Broj pregledanih komentara",
-    "BADGE_TYPE_ModeratorCommentsMarkedSpam": "Moderator - Broj komentara označenih kao neželjena pošta",
-    "BADGE_TYPE_ModeratorCommentsMarkedNotSpam": "Moderator - Broj komentara označenih kao nije neželjena pošta",
+    "BADGE_TYPE_ModeratorCommentsMarkedSpam": "Moderator - Broj komentara označenih kao spam",
+    "BADGE_TYPE_ModeratorCommentsMarkedNotSpam": "Moderator - Broj komentara označenih da nisu spam",
     "BADGE_LIMIT_Manual": "N/A",
     "BADGE_LIMIT_CommentCount": "Broj komentara za dobivanje značke.",
     "BADGE_LIMIT_CommentUpVotes": "Broj pozitivnih glasova za komentare korisnika za stjecanje značke.",
@@ -27,8 +27,8 @@
     "BADGE_LIMIT_ModeratorCommentsApproved": "Broj komentara koje moderator mora odobriti da bi zaradio značku.",
     "BADGE_LIMIT_ModeratorCommentsUnapproved": "Broj komentara koje moderator mora poništiti da bi zaradio značku.",
     "BADGE_LIMIT_ModeratorCommentsReviewed": "Broj komentara koje moderator mora pregledati da bi zaradio značku.",
-    "BADGE_LIMIT_ModeratorCommentsMarkedSpam": "Broj komentara koje moderator mora označiti kao neželjenu poštu kako bi zaradio značku.",
-    "BADGE_LIMIT_ModeratorCommentsMarkedNotSpam": "Broj komentara koje moderator mora označiti kao nije neželjena pošta kako bi zaradio značku.",
+    "BADGE_LIMIT_ModeratorCommentsMarkedSpam": "Broj komentara koje moderator mora označiti kao spam kako bi zaradio značku.",
+    "BADGE_LIMIT_ModeratorCommentsMarkedNotSpam": "Broj komentara za koje moderator mora označiti da nisu spam kako bi zaradio značku.",
     "BADGE_DEFAULT_NAME_Manual": "Naziv značke",
     "BADGE_DEFAULT_NAME_CommentCount": "Najbolji komentator",
     "BADGE_DEFAULT_NAME_CommentUpVotes": "Izvrsna karma",
@@ -42,6 +42,6 @@
     "BADGE_DEFAULT_NAME_ModeratorCommentsApproved": "Veliki pečat",
     "BADGE_DEFAULT_NAME_ModeratorCommentsUnapproved": "Crveni pečat",
     "BADGE_DEFAULT_NAME_ModeratorCommentsReviewed": "Brzi mod",
-    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedSpam": "Detektor neželjene pošte",
-    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedNotSpam": "Nije neželjena pošta"
+    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedSpam": "Detektor spama",
+    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedNotSpam": "Nije spam"
 }

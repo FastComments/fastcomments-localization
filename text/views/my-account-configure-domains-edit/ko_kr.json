@@ -1,8 +1,8 @@
 {
-    "PAGE_TITLE": "도메인 편집 - FastComments",
-    "HEADING_EDIT_DOMAIN": "도메인 편집",
+    "PAGE_TITLE": "도메인 수정 - FastComments",
+    "HEADING_EDIT_DOMAIN": "도메인 수정",
     "BUTTON_CANCEL": "취소",
-    "HEADING_EDITING_DOMAIN": "편집 중 <%= domainName %>",
+    "HEADING_EDITING_DOMAIN": "<%= domainName %> 수정 중",
     "LABEL_DOMAIN_NAME": "도메인 이름",
     "BUTTON_SAVE": "저장",
     "PLACEHOLDER_DOMAIN_NAME": "fastcomments.com과 같은 최상위 도메인을 입력하세요.",

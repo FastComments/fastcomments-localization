@@ -1,13 +1,13 @@
 {
-    "PAGE_TITLE": "Izključitev uporabnika - FastComments",
-    "HEADING": "Izključitev uporabnika",
-    "SUB_HEADING": "Izključitev uporabnika po e-pošti",
-    "INTRO_DESCRIPTION": "Tukaj lahko vnesete e-poštni naslov, s katerim želite uporabnika prepovedati. Uporabnika lahko prepovedate na več načinov. Trajna prepoved uporabniku ne bo nikoli omogočila glasovanja ali komentiranja in takoj bo vedel, kdaj bo poskušal komentirati, saj ga bo sistem obvestil. Senčna prepoved bo prikazala, da so bili njegovi glasovi ali komentarji uspešni, vendar ne bodo trajali.",
+    "PAGE_TITLE": "Izključi uporabnika - FastComments",
+    "HEADING": "Izključi uporabnika",
+    "SUB_HEADING": "Izključi uporabnika po e-pošti",
+    "INTRO_DESCRIPTION": "Tukaj lahko vnesete e-poštni naslov, po katerem želite izključiti uporabnika. Uporabnika lahko izključite na več načinov. Trajno izključen uporabnik ne bo mogel nikoli več glasovati ali komentirati, to pa bo izvedel takoj, ko bo poskusil komentirati, saj ga bo sistem obvestil. Pri prikriti izključitvi bo uporabnik videl, kot da so njegovi glasovi in komentarji uspešno oddani, vendar se ne bodo shranili.",
     "ENTER_EMAIL_HEADING": "Vnesite e-poštni naslov",
     "EMAIL_LABEL": "E-pošta",
     "TYPE_LABEL": "Vrsta",
-    "TYPE_BAN": "Prepoved",
-    "TYPE_SHADOW_BAN": "Senčna prepoved",
+    "TYPE_BAN": "Izključitev",
+    "TYPE_SHADOW_BAN": "Prikrita izključitev",
     "DURATION_LABEL": "Trajanje",
     "DURATION_FOREVER": "Za vedno",
     "DURATION_ONE_HOUR": "Ena ura",
@@ -17,8 +17,8 @@
     "DURATION_SIX_MONTHS": "Šest mesecev",
     "DURATION_ONE_YEAR": "Eno leto",
     "BAN_USER_BUTTON": "Izključi uporabnika",
-    "TIP_WILDCARD": "Nasvet: če želite prepovedati vse uporabnike določenega ponudnika e-pošte, vnesite *@example.com.",
-    "TIP_WILDCARD_SUBDOMAINS": "Prepoved domene velja tudi za njene poddomene, zato *@example.com prepove tudi someone@mail.example.com.",
+    "TIP_WILDCARD": "Nasvet: če želite izključiti vse uporabnike določenega ponudnika e-pošte, vnesite *@example.com.",
+    "TIP_WILDCARD_SUBDOMAINS": "Izključitev domene velja tudi za njene poddomene, zato *@example.com izključi tudi someone@mail.example.com.",
     "TIP_WILDCARD_UNSUPPORTED": "Druge oblike nadomestnih znakov, kot sta *@*.example.com ali name*@example.com, niso podprte.",
-    "ERROR_INVALID_WILDCARD": "Ta vzorec nadomestnega znaka ni podprt. Vnesite celoten e-poštni naslov ali *@example.com, da prepoveste celotno domeno in njene poddomene."
+    "ERROR_INVALID_WILDCARD": "Ta vzorec nadomestnega znaka ni podprt. Vnesite celoten e-poštni naslov ali *@example.com, da izključite celotno domeno in njene poddomene."
 }

@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "已屏蔽的電子郵件 - FastComments",
+    "PAGE_TITLE": "已封鎖的電子郵件 - FastComments",
     "HEADING": "被封鎖的電子郵件",
     "INFO_NOTE": "此處列出的電子郵件地址已被郵件服務商封鎖，原因是郵件退回、投訴或取消訂閱。在封鎖解除之前，這些位址將不會收到任何郵件。",
     "FILTER_LABEL_EMAIL": "按電子郵件篩選",
@@ -18,8 +18,8 @@
     "BUTTON_NEXT": "下一頁",
     "EMPTY_STATE": "未找到您帳戶的已封鎖電子郵件。",
     "EMPTY_STATE_FILTERED": "沒有被封鎖的電子郵件符合您的篩選條件。",
-    "SUCCESS_REMOVED": "已成功解除屏蔽。該郵箱地址現在可以再次接收郵件。",
-    "ERROR_REMOVE_FAILED": "無法從電子郵件提供者移除屏蔽設定。請稍後重試。",
+    "SUCCESS_REMOVED": "已成功解除封鎖。該電子郵件地址現在可以再次接收郵件。",
+    "ERROR_REMOVE_FAILED": "無法從電子郵件提供者移除封鎖設定。請稍後重試。",
     "RATE_LIMIT_MONTHLY": "每月刪除次數已達上限（每月 5 次）。請下個月再試。",
     "RATE_LIMIT_RECENTLY_REMOVED": "最近移除",
     "REMOVALS_USED": "本月已使用的移除次數：",

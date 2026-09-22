@@ -244,7 +244,7 @@
     "MIG_HEADING_BOLD": "Gardez chaque commentaire.",
     "MIG_BODY": "FastComments est livré avec un importateur Disqus intégré. Les commentaires, les fils de discussion, les noms d'utilisateur, les avatars, les votes et les horodatages sont transférés automatiquement, et les images migrent vers le CDN de FastComments. Relancer une importation est sans risque, vous pouvez donc la tester autant de fois que vous le souhaitez.",
     "MIG_STEP_1_TITLE": "Exporter depuis Disqus",
-    "MIG_STEP_1_BODY": "Connectez-vous à votre panneau d'administration Disqus et demandez une exportation. Disqus vous envoie par courriel un fichier XML compressé de votre communauté.",
+    "MIG_STEP_1_BODY": "Connectez-vous à votre panneau d'administration Disqus et demandez une exportation. Disqus vous envoie par e-mail un fichier XML compressé de votre communauté.",
     "MIG_STEP_2_TITLE": "Importer dans FastComments",
     "MIG_STEP_2_BODY": "Téléversez le fichier d'exportation dans le tableau de bord FastComments, sous Gérer les données, puis Importer. L'importateur lit nativement le format XML de Disqus, avec les fils de discussion et tout le reste.",
     "MIG_STEP_3_TITLE": "Remplacer le code d'intégration",

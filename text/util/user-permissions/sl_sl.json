@@ -1,7 +1,7 @@
 {
     "PERM_isAccountOwner_NAME": "Lastnik računa",
-    "PERM_isAccountOwner_DESC": "Račun je njihov. Če izbrišejo svoj račun, najemnik odide z njimi.",
-    "PERM_isAccountOwner_DESC_FIRST_PERSON": "Vi ste lastnik računa. Če izbrišete svoj račun, najemnik odide z vami.",
+    "PERM_isAccountOwner_DESC": "Je lastnik računa. Če izbriše svoj uporabniški račun, se izbriše tudi celoten račun.",
+    "PERM_isAccountOwner_DESC_FIRST_PERSON": "Vi ste lastnik računa. Če izbrišete svoj uporabniški račun, se izbriše tudi celoten račun.",
     "PERM_isAdminAdmin_NAME": "Super administrator",
     "PERM_isAdminAdmin_DESC": "Lahko upravlja druge skrbnike.",
     "PERM_isAdminAdmin_DESC_FIRST_PERSON": "Upravljate lahko druge skrbnike.",

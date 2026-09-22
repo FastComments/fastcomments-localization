@@ -2,5 +2,5 @@
     "PAGE_TITLE_DEFAULT": "評論串檢視器",
     "HEADING": "評論串檢視器",
     "THREAD_DETAILS": "您正在檢視 <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a> 的評論串。",
-    "PAGE_ID_INFO": "查看頁面 ID：<%- thread.urlIdDecoded %> 的評論"
+    "PAGE_ID_INFO": "正在查看頁面 ID 為 <%- thread.urlIdDecoded %> 的評論"
 }

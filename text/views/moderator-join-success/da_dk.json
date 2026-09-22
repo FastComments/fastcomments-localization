@@ -3,6 +3,6 @@
     "WELCOME_HEADING": "Velkommen, <%- user.displayName || user.username %>.",
     "DATE_NOTE": "Du er nu moderator!",
     "SUCCESS_MESSAGE": "Din invitation er blevet behandlet. Tak for din tilmelding som moderator hos FastComments.",
-    "PASSWORD_INFO": "En ting du vil bemærke er, at FastComments ikke bruger adgangskoder som standard. Vi bruger e-mails til at godkende dig. Du kan indstille en adgangskode senere.",
+    "PASSWORD_INFO": "En ting, du vil bemærke, er, at FastComments ikke bruger adgangskoder som standard. Vi bruger e-mail til at bekræfte din identitet. Du kan angive en adgangskode senere.",
     "BUTTON_START_MODERATING": "Start med at moderere"
 }

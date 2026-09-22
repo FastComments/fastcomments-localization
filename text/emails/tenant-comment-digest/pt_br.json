@@ -29,11 +29,11 @@
     "AGENT_ACTION_MARK_COMMENT_REVIEWED": "Marcou {count} comentários como revisados",
     "AUTOMATED_MODERATION_HEADING": "Moderação automatizada",
     "AGENT_ACTION_MARK_COMMENT_APPROVED": "Aprovou {count} comentários",
-    "AGENT_ACTION_LOCK_COMMENT": "Bloqueou {count} comentários",
+    "AGENT_ACTION_LOCK_COMMENT": "Trancou {count} comentários",
     "AUTOMATED_MODERATION_INTRO": "Ações que seus agentes de IA realizaram nesta comunidade. As linhas de Dry Run mostram o que o agente teria feito se estivesse ativo.",
     "AGENT_ACTION_MARK_COMMENT_SPAM": "Marcou {count} comentários como spam",
     "AGENT_ACTION_BAN_USER": "Baniu {count} usuários",
-    "AGENT_ACTION_UNLOCK_COMMENT": "Desbloqueou {count} comentários",
+    "AGENT_ACTION_UNLOCK_COMMENT": "Destrancou {count} comentários",
     "AGENT_ACTION_DRY_RUN_BADGE": "Dry Run",
     "AGENT_ACTION_LIVE_BADGE": "Ao vivo",
     "AGENT_ACTION_WARNED_USER": "Avisou {count} usuários via mensagem direta"

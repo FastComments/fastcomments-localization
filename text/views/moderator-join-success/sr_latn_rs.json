@@ -1,8 +1,8 @@
 {
-    "PAGE_TITLE": "Sada si moderator - FastComments",
+    "PAGE_TITLE": "Sada ste moderator - FastComments",
     "WELCOME_HEADING": "Dobro došli, <%- user.displayName || user.username %>.",
     "DATE_NOTE": "Sada ste moderator!",
-    "SUCCESS_MESSAGE": "Vaš poziv je uspešno obrađen. Hvala što ste se pridružili FastComments kao moderator.",
-    "PASSWORD_INFO": "Jedna stvar koju ćete primetiti je da FastComments podrazumevano ne koristi lozinke. Koristimo e-poštu da bismo vas autentifikovali. Lozinku možete podesiti kasnije.",
-    "BUTTON_START_MODERATING": "Počnite moderirati"
+    "SUCCESS_MESSAGE": "Vaša pozivnica je uspešno obrađena. Hvala vam što ste se pridružili FastComments-u kao moderator.",
+    "PASSWORD_INFO": "Jedna stvar koju ćete primetiti je da FastComments ne koristi lozinke podrazumevano. Koristimo imejlove da bismo vas autentifikovali. Lozinku možete postaviti kasnije.",
+    "BUTTON_START_MODERATING": "Počni sa moderiranjem"
 }

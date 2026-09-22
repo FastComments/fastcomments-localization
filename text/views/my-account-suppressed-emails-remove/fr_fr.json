@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Supprimer la suppression des emails - FastComments",
+    "PAGE_TITLE": "Supprimer la suppression des e-mails - FastComments",
     "HEADING": "Confirmer la suppression de la suppression",
     "CONFIRMATION_MESSAGE": "Êtes-vous sûr de vouloir lever ce blocage ? Le fournisseur de messagerie sera invité à débloquer cette adresse.",
     "LABEL_EMAIL": "E-mail",
@@ -10,6 +10,6 @@
     "BUTTON_CONFIRM": "Supprimer la suppression",
     "BUTTON_CANCEL": "Annuler",
     "ERROR_NOT_FOUND": "Suppression introuvable.",
-    "ERROR_RATE_LIMIT_EMAIL": "Ce courriel a déjà été débloqué au cours des 30 derniers jours. Veuillez patienter avant de réessayer.",
+    "ERROR_RATE_LIMIT_EMAIL": "Cet e-mail a déjà été débloqué au cours des 30 derniers jours. Veuillez patienter avant de réessayer.",
     "ERROR_RATE_LIMIT_TENANT": "Votre compte a atteint la limite mensuelle de suppressions (5 par mois). Veuillez réessayer le mois prochain."
 }

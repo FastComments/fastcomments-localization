@@ -2,7 +2,7 @@
     "INTRO": "Hej <%= username %>,",
     "FROM_NAME": "Robot FastComments",
     "SUBJECT": "Pozvani ste da se pridružite <%= tenantName %>!",
-    "BANNER_TEXT": "Poziv za stanara",
-    "INVITE_DETAILS": "Pozvani ste da se pridružite stanaru <%= tenantName %>. Prihvaćanje ove pozivnice podići će vaš račun komentatora u administratorski račun. <%= tenantName %> će imati <b>POTPUNO VLASNIŠTVO</b> nad vašim računom uključujući mogućnost brisanja istog. Imat ćete sljedeće dozvole:",
+    "BANNER_TEXT": "Pozivnica za račun",
+    "INVITE_DETAILS": "Pozvani ste da se pridružite računu <%= tenantName %>. Prihvaćanje ove pozivnice podići će vaš račun komentatora u administratorski račun. <%= tenantName %> će imati <b>POTPUNO VLASNIŠTVO</b> nad vašim računom uključujući mogućnost brisanja istog. Imat ćete sljedeće dozvole:",
     "ACCEPT_INVITE": "Prihvatite poziv"
 }

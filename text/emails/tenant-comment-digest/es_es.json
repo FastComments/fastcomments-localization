@@ -22,7 +22,7 @@
     "MARK_REVIEWED": "Marcar como revisado",
     "MARK_REVIEWED_AND_RESPOND": "Marcar como revisado y responder",
     "MODERATE_COMMENTS": "Moderar comentarios",
-    "MARK_AS_SPAM": "Marcar como correo no deseado",
+    "MARK_AS_SPAM": "Marcar como spam",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Nuevos Me gusta",
     "DELTA_LIKES": "❤️",
     "TOTAL_LIKES": "Total",
@@ -30,11 +30,11 @@
     "AGENT_ACTION_MARK_COMMENT_REVIEWED": "Se marcaron {count} comentarios como revisados",
     "AGENT_ACTION_MARK_COMMENT_APPROVED": "Se aprobaron {count} comentarios",
     "AUTOMATED_MODERATION_INTRO": "Acciones que tus agentes de IA realizaron en esta comunidad. Las filas de prueba muestran lo que el agente habría hecho si hubiera estado en acción.",
-    "AGENT_ACTION_LOCK_COMMENT": "Se bloquearon {count} comentarios",
+    "AGENT_ACTION_LOCK_COMMENT": "Se cerraron {count} comentarios",
     "AGENT_ACTION_MARK_COMMENT_SPAM": "Se han marcado {count} comentarios como spam.",
-    "AGENT_ACTION_UNLOCK_COMMENT": "Se han desbloqueado {count} comentarios",
+    "AGENT_ACTION_UNLOCK_COMMENT": "Se reabrieron {count} comentarios",
     "AGENT_ACTION_WARNED_USER": "Se advirtió a {count} usuarios a través de mensaje directo.",
-    "AGENT_ACTION_BAN_USER": "Vetó a {count} usuarios",
+    "AGENT_ACTION_BAN_USER": "Se baneó a {count} usuarios",
     "AGENT_ACTION_LIVE_BADGE": "En vivo",
     "AGENT_ACTION_DRY_RUN_BADGE": "Prueba"
 }

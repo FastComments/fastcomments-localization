@@ -1,0 +1,23 @@
+{
+    "POLL_QUESTION_PLACEHOLDER": "Ask a question...",
+    "POLL_OPTION_PLACEHOLDER": "Option [n]",
+    "POLL_ADD_OPTION": "Add option",
+    "POLL_REMOVE_OPTION": "Remove option",
+    "POLL_CLOSES_NEVER": "No end date",
+    "POLL_CLOSES_1_DAY": "1 day",
+    "POLL_CLOSES_3_DAYS": "3 days",
+    "POLL_CLOSES_1_WEEK": "1 week",
+    "POLL_REMOVE": "Remove poll",
+    "POLL_ERROR_QUESTION_REQUIRED": "Enter a question for your poll.",
+    "POLL_ERROR_MIN_OPTIONS": "Enter at least two options.",
+    "POLL_SHOW_RESULTS": "Show results",
+    "POLL_HIDE_RESULTS": "Hide results",
+    "POLL_CHANGE_VOTE": "Change vote",
+    "POLL_VOTE_SAVED": "Your vote is in",
+    "POLL_RESPONSES_SINGULAR": "[count] response",
+    "POLL_RESPONSES_PLURAL": "[count] responses",
+    "POLL_CLOSES_AT": "Poll closes [date]",
+    "POLL_CLOSED": "Poll closed",
+    "POLL_LOGIN_TO_VOTE": "Log in to vote",
+    "POLL_VOTE_FAILED": "We could not save your vote. Please try again."
+}

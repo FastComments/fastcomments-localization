@@ -3,6 +3,6 @@
     "FROM_NAME": "FastComments Robotu",
     "SUBJECT": "<%= tenantName %>'a katılmaya davet edildiniz!",
     "BANNER_TEXT": "FastComments Daveti",
-    "INVITE_DETAILS": "FastComments kiracısına <%= tenantName %> katılmaya davet edildiniz. Bu daveti kabul etmek, sizin için aşağıdaki izinlere sahip bir hesap oluşturacaktır:",
+    "INVITE_DETAILS": "FastComments'taki <%= tenantName %> hesabına katılmaya davet edildiniz. Bu daveti kabul ettiğinizde, sizin için aşağıdaki izinlere sahip bir kullanıcı hesabı oluşturulur:",
     "ACCEPT_INVITE": "Daveti Kabul Et"
 }

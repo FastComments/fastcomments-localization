@@ -1,8 +1,8 @@
 {
-    "COMMENT_MARK_NOT_REVIEWED": "סמן כלא נסקר",
-    "COMMENT_MARK_NOT_REVIEWED_TITLE": "סקרת את זה בטעות? ניתן לסמן את זה כלא נסקר.",
-    "COMMENT_MARK_REVIEWED": "סמן כנסקר",
-    "COMMENT_MARK_REVIEWED_TITLE": "ניתן להשתמש בזה כדי לסנן תגובות שנסקרו.",
+    "COMMENT_MARK_NOT_REVIEWED": "סמן כלא נבדק",
+    "COMMENT_MARK_NOT_REVIEWED_TITLE": "סימנת את זה כנבדק בטעות? ניתן לסמן את זה כלא נבדק.",
+    "COMMENT_MARK_REVIEWED": "סמן כנבדק",
+    "COMMENT_MARK_REVIEWED_TITLE": "ניתן להשתמש בזה כדי לסנן תגובות שנבדקו.",
     "COMMENT_MARK_NOT_APPROVED": "סמן כלא מאושר",
     "COMMENT_MARK_NOT_APPROVED_TITLE": "סמן כלא מאושר. פעולה זו תסתיר את התגובה.",
     "COMMENT_MARK_APPROVED": "סמן כמאושר",
@@ -13,9 +13,9 @@
     "COMMENT_MARK_NOT_SPAM_TITLE": "התגובה תוצג באופן פומבי אם סומנה כלא ספאם.",
     "COMMENT_EDIT": "עריכה",
     "COMMENT_DELETE": "מחיקה",
-    "COMMENT_BAN": "חסימה",
+    "COMMENT_BAN": "הרחקה",
     "COMMENT_VIEW_ALL_FROM_IP": "הצג הכל מ-IP",
-    "COMMENT_UN_FLAG": "ביטול דגל",
+    "COMMENT_UN_FLAG": "ביטול דיווח",
     "COMMENT_AWARD_BADGE": "הענקת תג",
     "COMMENT_REMOVE_BADGE": "הסר תג",
     "COMMENT_UNVERIFIED_NOTICE": "תגובה לא מאומתת",
@@ -26,7 +26,7 @@
     "COMMENT_REPLIES": "תשובות",
     "COMMENT_REPLY": "תשובה",
     "COMMENT_VIEW_COMMENT": "הצג תגובה",
-    "COMMENT_ON": "עַל",
+    "COMMENT_ON": "על",
     "COMMENT_AVATAR_ALT": "אווטאר",
     "COMMENT_AVATAR_TITLE": "אווטאר"
 }

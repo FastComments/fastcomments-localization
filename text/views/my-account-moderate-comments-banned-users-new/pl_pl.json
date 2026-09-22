@@ -1,13 +1,13 @@
 {
-    "PAGE_TITLE": "Zablokuj użytkownika - FastComments",
-    "HEADING": "Zablokuj użytkownika",
-    "SUB_HEADING": "Zablokuj użytkownika za pomocą poczty e-mail",
-    "INTRO_DESCRIPTION": "Tutaj możesz wpisać adres e-mail, na który chcesz zablokować użytkownika. Istnieje kilka sposobów zablokowania użytkownika. Trwałe zablokowanie użytkownika nigdy nie pozwoli mu głosować ani komentować, a użytkownik będzie natychmiast informowany o próbie komentowania, ponieważ system go o tym poinformuje. Ukrycie bana sprawi, że jego głosy lub komentarze będą widoczne, ale nie zostaną one utrwalone.",
+    "PAGE_TITLE": "Zbanuj użytkownika - FastComments",
+    "HEADING": "Zbanuj użytkownika",
+    "SUB_HEADING": "Zbanuj użytkownika po adresie e-mail",
+    "INTRO_DESCRIPTION": "Tutaj możesz wpisać adres e-mail, po którym chcesz zbanować użytkownika. Użytkownika można zbanować na dwa sposoby. Zwykły ban uniemożliwia głosowanie i komentowanie, a użytkownik dowie się o nim od razu przy próbie dodania komentarza. Shadowban sprawia, że głosy i komentarze użytkownika wyglądają dla niego na zapisane, ale w rzeczywistości nie są zapisywane.",
     "ENTER_EMAIL_HEADING": "Wprowadź adres e-mail",
     "EMAIL_LABEL": "E-mail",
     "TYPE_LABEL": "Typ",
-    "TYPE_BAN": "Blokada",
-    "TYPE_SHADOW_BAN": "Cicha blokada",
+    "TYPE_BAN": "Ban",
+    "TYPE_SHADOW_BAN": "Shadowban",
     "DURATION_LABEL": "Czas trwania",
     "DURATION_FOREVER": "Na zawsze",
     "DURATION_ONE_HOUR": "Jedna godzina",
@@ -16,9 +16,9 @@
     "DURATION_ONE_MONTH": "Jeden miesiąc",
     "DURATION_SIX_MONTHS": "Sześć miesięcy",
     "DURATION_ONE_YEAR": "Jeden rok",
-    "BAN_USER_BUTTON": "Zablokuj użytkownika",
+    "BAN_USER_BUTTON": "Zbanuj użytkownika",
     "TIP_WILDCARD_UNSUPPORTED": "Inne formy symboli wieloznacznych, takie jak *@*.example.com lub name*@example.com, nie są obsługiwane.",
-    "TIP_WILDCARD": "Wskazówka: aby zablokować wszystkich użytkowników danego dostawcy poczty e-mail, wprowadź *@example.com.",
-    "TIP_WILDCARD_SUBDOMAINS": "Blokada domeny obejmuje także jej subdomeny, więc *@example.com blokuje również someone@mail.example.com.",
-    "ERROR_INVALID_WILDCARD": "Ten wzorzec z symbolem wieloznacznym nie jest obsługiwany. Wprowadź pełny adres e-mail lub *@example.com, aby zablokować całą domenę i jej subdomeny."
+    "TIP_WILDCARD": "Wskazówka: aby zbanować wszystkich użytkowników danego dostawcy poczty e-mail, wprowadź *@example.com.",
+    "TIP_WILDCARD_SUBDOMAINS": "Ban domeny obejmuje także jej subdomeny, więc *@example.com banuje również someone@mail.example.com.",
+    "ERROR_INVALID_WILDCARD": "Ten wzorzec z symbolem wieloznacznym nie jest obsługiwany. Wprowadź pełny adres e-mail lub *@example.com, aby zbanować całą domenę i jej subdomeny."
 }

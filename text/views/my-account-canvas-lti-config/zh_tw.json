@@ -44,9 +44,9 @@
     "STEPPER_LABEL_1": "建立",
     "STEPPER_LABEL_2": "連接",
     "STEPPER_LABEL_4": "管理",
-    "STEPPER_MOBILE_PREFIX": "步",
+    "STEPPER_MOBILE_PREFIX": "第",
     "STEPPER_LABEL_3": "上線",
-    "STEPPER_MOBILE_OF": "4 的 —",
+    "STEPPER_MOBILE_OF": "步，共 4 步：",
     "STEP1_HEADING": "建立您的 LTI 配置",
     "STEP2_URL_HEADING": "配置 URL",
     "STEP2_LMS_INSTRUCTIONS_HEADING": "學習管理系統中的步驟",
@@ -95,7 +95,7 @@
     "STEP2_REDIRECT_URI_HEADING": "啟動 URL（重定向 URI）",
     "STEP2_REDIRECT_URI_INSTRUCTION": "建立開發者金鑰時，請在「重定向 URI」欄位中輸入此 URL：",
     "STEP2_LMS_STEP_6": "將金鑰設為“開啟”，並在出現提示時按一下“允許”。",
-    "STEP2_LMS_STEP_7": "複製「詳細資料」列中的數字—這就是您的客戶 ID。",
+    "STEP2_LMS_STEP_7": "複製「詳細資料」列中的數字，這就是您的客戶 ID。",
     "TABLE_HEADER_CLIENT_ID": "客戶ID",
     "TABLE_HEADER_DEPLOYMENT_ID": "部署 ID"
 }

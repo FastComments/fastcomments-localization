@@ -1,7 +1,7 @@
 {
     "PERM_isAccountOwner_NAME": "Власник налога",
-    "PERM_isAccountOwner_DESC": "Они су власници налога. Ако обришу свој налог, закупац иде са њима.",
-    "PERM_isAccountOwner_DESC_FIRST_PERSON": "Ви сте власник налога. Ако обришете свој налог, закупац иде са вама.",
+    "PERM_isAccountOwner_DESC": "Они су власници налога. Ако обришу свој кориснички налог, са њим се брише и цео налог организације.",
+    "PERM_isAccountOwner_DESC_FIRST_PERSON": "Ви сте власник налога. Ако обришете свој кориснички налог, са њим се брише и цео налог организације.",
     "PERM_isAdminAdmin_NAME": "Супер администратор",
     "PERM_isAdminAdmin_DESC": "Може да управља другим администраторима.",
     "PERM_isAdminAdmin_DESC_FIRST_PERSON": "Можете управљати другим администраторима.",

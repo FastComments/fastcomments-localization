@@ -1,6 +1,6 @@
 {
-    "PAGE_TITLE": "Izbriši moderatorsku grupu <%= moderationGroup.name %> - FastComments",
-    "HEADING": "Izbrisati moderatorsku grupu?",
+    "PAGE_TITLE": "Izbriši grupu za moderiranje <%= moderationGroup.name %> - FastComments",
+    "HEADING": "Izbrisati grupu za moderiranje?",
     "CONFIRM_MESSAGE": "Jeste li sigurni da želite izbrisati grupu <%= moderationGroup.name %>?",
     "CONFIRM_DELETE_BUTTON": "Potvrdi brisanje",
     "CANCEL_LINK": "Odustani"

@@ -6,7 +6,7 @@
     "HERO_DESCRIPTION": "이 사이트는 Vercel을 통해 요금이 청구되므로 별도의 FastComments 로그인이 필요합니다.",
     "BLOCKED_BODY": "FastComments 로그인 하나는 계정 하나를 소유하며, 고객님의 로그인은 이미 다른 계정에 연결되어 있습니다. 로그인을 옮기면 기존 사이트를 잃게 되므로 옮기지 않았습니다.",
     "NOT_ADMIN_HEADING": "이 Vercel 팀에 대한 관리자 권한이 필요합니다.",
-    "NOT_ADMIN_BODY": "이 사이트를 열면 계정 소유자로 로그인되며, 여기에는 결제, API 키 및 관리 권한이 포함됩니다. Vercel의 뷰어 및 결제 역할은 읽기 전용이므로 Vercel 팀의 소유자에게 대신 사이트를 열어 달라고 요청하세요.",
+    "NOT_ADMIN_BODY": "이 사이트를 열면 계정 소유자로 로그인되며, 여기에는 결제, API 키 및 모더레이션 권한이 포함됩니다. Vercel의 뷰어 및 결제 역할은 읽기 전용이므로 Vercel 팀의 소유자에게 대신 사이트를 열어 달라고 요청하세요.",
     "UNVERIFIED_EMAIL_HEADING": "Vercel에서 귀하의 이메일 주소를 확인하지 않았습니다.",
     "LABEL_TENANT_ID": "사이트 ID",
     "LABEL_EMAIL": "Vercel 로그인 계정",

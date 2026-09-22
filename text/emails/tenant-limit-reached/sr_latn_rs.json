@@ -2,7 +2,7 @@
     "BANNER_TEXT": "Dostignuto je ograničenje korišćenja",
     "FROM_NAME": "FastComments",
     "META_LIMIT": "Ograničenje:",
-    "CHILD_TENANT_LINE": "Ovo upozorenje je za <strong><%= childTenantName %></strong>, stanara kojim upravlja vaš nalog.",
+    "CHILD_TENANT_LINE": "Ovo upozorenje se odnosi na <strong><%= childTenantName %></strong>, podnalog kojim upravlja vaš nalog.",
     "BODY_FIXED": "Da bi stvari radile, izaberite plan sa višim limitom. Dugme ispod vas direktno prijavljuje na stranicu za naplatu.",
     "SECONDARY_FIXED": "Treba vam nešto prilagođeno? Otvorite zahtev za podršku i mi ćemo napraviti paket za vas.",
     "SUBJECT": "Vaš nalog je dostigao <%= limitName %> limit",

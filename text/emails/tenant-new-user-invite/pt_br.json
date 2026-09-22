@@ -3,6 +3,6 @@
     "FROM_NAME": "Robô FastComments",
     "SUBJECT": "Você foi convidado para participar de <%= tenantName %>!",
     "BANNER_TEXT": "Convite do FastComments",
-    "INVITE_DETAILS": "Você foi convidado para participar do locatário <%= tenantName %> no FastComments. Aceitar este convite criará uma conta para você com as seguintes permissões:",
+    "INVITE_DETAILS": "Você foi convidado para participar do tenant <%= tenantName %> no FastComments. Aceitar este convite criará uma conta para você com as seguintes permissões:",
     "ACCEPT_INVITE": "Aceitar convite"
 }

@@ -7,7 +7,7 @@
     "LABEL_BADGE_TYPE": "徽章",
     "TEXT_MANUAL_BADGE_NOTE": "此徽章只能由管理員或版主手動頒發。",
     "PLACEHOLDER_BADGE_THRESHOLD": "請輸入一個數字…",
-    "TEXT_THRESHOLD_NOTE": "這將用於確定用戶是否獲得徽章。",
+    "TEXT_THRESHOLD_NOTE": "這將用於確定使用者是否獲得徽章。",
     "LABEL_URL_ID": "URL ID",
     "PLACEHOLDER_URL_ID": "https://example.com/some-page",
     "TEXT_URL_ID_NOTE": "使用者必須評論的網址或頁面 ID 才能獲得徽章。",
@@ -18,7 +18,7 @@
     "PLACEHOLDER_DESCRIPTION": "請輸入描述…",
     "TEXT_DESCRIPTION_NOTE": "用於描述徽章的可選說明。滑鼠懸停在徽章上時顯示。",
     "LABEL_ENABLED": "已啟用",
-    "TEXT_ENABLED_NOTE": "如果徽章已停用，則新用戶將無法再獲得該徽章。如果是手動頒發的徽章，版主將無法頒發該徽章。",
+    "TEXT_ENABLED_NOTE": "如果徽章已停用，則新使用者將無法再獲得該徽章。如果是手動頒發的徽章，版主將無法頒發該徽章。",
     "TEXT_HOW_BADGE_DISPLAY": "此徽章應如何顯示？",
     "LABEL_IMAGE_BADGE": "圖片徽章",
     "LABEL_TEXT_BADGE": "文字徽章",
@@ -40,7 +40,7 @@
     "LABEL_REPLACES_OTHER_BADGE": "替換其他徽章",
     "OPTION_NONE": "- 無 -",
     "OPTION_NO_OTHER_BADGES": "沒有其他徽章",
-    "TEXT_REPLACES_BADGE_NOTE": "例如，您可以設定「熱門評論者」徽章，自動取代「新評論者」徽章。用戶仍然會同時擁有這兩個徽章，但會顯示新的徽章。",
+    "TEXT_REPLACES_BADGE_NOTE": "例如，您可以設定「熱門評論者」徽章，自動取代「新評論者」徽章。使用者仍然會同時擁有這兩個徽章，但會顯示新的徽章。",
     "BUTTON_UPDATE_BADGE": "更新徽章",
     "BUTTON_CREATE_BADGE": "建立徽章"
 }

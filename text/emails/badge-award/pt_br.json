@@ -1,11 +1,11 @@
 {
-    "INTRO": "Olá <%= username %>, você ganhou um novo distintivo em <strong><%= siteDomain %></strong>!",
+    "INTRO": "Olá <%= username %>, você ganhou um novo emblema em <strong><%= siteDomain %></strong>!",
     "CONGRATULATIONS": "Parabéns!",
-    "BANNER_TEXT": "Novo distintivo conquistado",
+    "BANNER_TEXT": "Novo emblema conquistado",
     "FROM_NAME": "Robô FastComments",
-    "SUBJECT": "Você ganhou o distintivo \"<%= badge.displayLabel %>\"!",
-    "BADGE_EARNED_MESSAGE": "Você conquistou com sucesso o distintivo <strong><%= badge.displayLabel %></strong>.",
+    "SUBJECT": "Você ganhou o emblema \"<%= badge.displayLabel %>\"!",
+    "BADGE_EARNED_MESSAGE": "Você conquistou com sucesso o emblema <strong><%= badge.displayLabel %></strong>.",
     "KEEP_UP_GOOD_WORK": "Continue com o ótimo trabalho!",
-    "UNSUBSCRIBE_HERE": "Cancelar inscrição para receber notificações de distintivos",
+    "UNSUBSCRIBE_HERE": "Cancelar inscrição para receber notificações de emblemas",
     "VIEW_YOUR_PROFILE": "Veja seu perfil"
 }

@@ -3,7 +3,7 @@
     "PAGE_TITLE_EDIT": "Moderationsgruppe",
     "PAGE_TITLE_SUFFIX": " - FastComments",
     "HEADING_ADD": "Eine Moderationsgruppe hinzufügen",
-    "HEADING_EDIT": "Bearbeitung <%= moderationGroup.name %>",
+    "HEADING_EDIT": "<%= moderationGroup.name %> bearbeiten",
     "INTRO_NEW": "Wenn Sie eine Moderationsgruppe erstellen möchten, sind Sie hier genau richtig.",
     "GROUP_NAME_LABEL": "Gruppenname",
     "GROUP_NAME_PLACEHOLDER": "Gruppe B",

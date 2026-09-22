@@ -1,11 +1,11 @@
 {
-    "BULK_SELECT_SINGULAR_SELECTED": "[count] изабрано",
-    "BULK_SELECT_PLURAL_SELECTED": "[count] изабрано",
-    "BULK_SELECT_SINGULAR_PAGE_SELECTED": "[count] на овој страници је изабрано",
-    "BULK_SELECT_PLURAL_PAGE_SELECTED": "[count] на овој страници је изабрано",
-    "BULK_SELECT_REDUCE_SINGULAR": "Изаберите само [count] на овој страници",
-    "BULK_SELECT_REDUCE_PLURAL": "Изаберите само [count] на овој страници",
+    "BULK_SELECT_SINGULAR_SELECTED": "Изабрано: [count]",
+    "BULK_SELECT_PLURAL_SELECTED": "Изабрано: [count]",
+    "BULK_SELECT_SINGULAR_PAGE_SELECTED": "Изабрано на овој страници: [count]",
+    "BULK_SELECT_PLURAL_PAGE_SELECTED": "Изабрано на овој страници: [count]",
+    "BULK_SELECT_REDUCE_SINGULAR": "Изабери само [count] на овој страници",
+    "BULK_SELECT_REDUCE_PLURAL": "Изабери само [count] на овој страници",
     "BULK_SELECT_ALL_SINGULAR": "Изабери све [count]",
     "BULK_SELECT_ALL_PLURAL": "Изабери све [count]",
-    "BULK_SELECT_IN_PROGRESS": "Избор [selected] од [total]..."
+    "BULK_SELECT_IN_PROGRESS": "Бирање [selected] од [total]..."
 }

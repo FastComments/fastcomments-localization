@@ -1,7 +1,7 @@
 {
     "PERM_isAccountOwner_NAME": "Kontoejer",
-    "PERM_isAccountOwner_DESC": "De ejer kontoen. Hvis de sletter deres konto, forsvinder lejeren med dem.",
-    "PERM_isAccountOwner_DESC_FIRST_PERSON": "Du ejer kontoen. Hvis du sletter din konto, forsvinder lejeren med dig.",
+    "PERM_isAccountOwner_DESC": "De ejer kontoen. Hvis de sletter deres brugerkonto, forsvinder tenanten med dem.",
+    "PERM_isAccountOwner_DESC_FIRST_PERSON": "Du ejer kontoen. Hvis du sletter din brugerkonto, forsvinder tenanten med dig.",
     "PERM_isAdminAdmin_NAME": "Superadministrator",
     "PERM_isAdminAdmin_DESC": "Kan administrere andre administratorer.",
     "PERM_isAdminAdmin_DESC_FIRST_PERSON": "Du kan administrere andre administratorer.",
@@ -20,7 +20,7 @@
     "PERM_isManageDataAdmin_NAME": "Datahåndteringsadministrator",
     "PERM_isManageDataAdmin_DESC": "Kan få adgang til fanen Datahåndtering for at importere/eksportere kommentarer, opsætte webhooks og udføre migreringer.",
     "PERM_isManageDataAdmin_DESC_FIRST_PERSON": "Du kan få adgang til fanen Datahåndtering for at importere/eksportere kommentarer, opsætte webhooks og udføre migreringer.",
-    "PERM_isCommentModeratorAdmin_NAME": "Kommentarmodereringsadministrator",
+    "PERM_isCommentModeratorAdmin_NAME": "Kommentarmoderationsadministrator",
     "PERM_isCommentModeratorAdmin_DESC": "Har adgang til kommentarmoderering.",
     "PERM_isCommentModeratorAdmin_DESC_FIRST_PERSON": "Du kan moderere kommentarer.",
     "PERM_isAPIAdmin_NAME": "API/SSO-administrator",

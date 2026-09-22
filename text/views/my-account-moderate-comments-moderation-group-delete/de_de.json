@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Moderationsgruppe löschen <%= moderationGroup.name %> - FastComments",
+    "PAGE_TITLE": "Moderationsgruppe <%= moderationGroup.name %> löschen - FastComments",
     "HEADING": "Moderationsgruppe löschen?",
     "CONFIRM_MESSAGE": "Möchten Sie die Gruppe <%= moderationGroup.name %> wirklich löschen?",
     "CONFIRM_DELETE_BUTTON": "Löschen bestätigen",

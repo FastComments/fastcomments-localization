@@ -3,7 +3,7 @@
     "SUBJECT": "Vaš je račun dosegao <%= limitName %> ograničenje",
     "FROM_NAME": "FastComments",
     "INTRO": "Vaš je račun dosegao jedno od ograničenja korištenja trenutnog plana. Zahtjevi koji prelaze ovo ograničenje odbijaju se dok se ograničenje ne promijeni ili dok ne započne novi mjesec.",
-    "CHILD_TENANT_LINE": "Ovo upozorenje je za <strong><%= childTenantName %></strong>, najmoprimca kojim upravlja vaš račun.",
+    "CHILD_TENANT_LINE": "Ovo upozorenje je za <strong><%= childTenantName %></strong>, račun kojim upravlja vaš račun.",
     "META_LIMIT": "Ograničenje:",
     "META_USAGE": "Upotreba:",
     "CTA_FLEX": "Prilagodite ograničenja",

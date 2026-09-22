@@ -1,10 +1,10 @@
 {
     "PAGE_TITLE": "Poziv nije uspeo",
-    "HERO_TITLE_LIGHT": "Poziv ",
-    "HERO_TITLE_BOLD": "nije uspeo",
-    "DEFAULT_ERROR": "Nešto je pošlo po zlu. Nismo sigurni šta se dogodilo, ali ćemo pogledati.",
-    "ERROR_LINK_EXPIRED": "<b>Žao mi je, ali izgleda da je ovaj link već korišćen ili je star više od 30 dana. Molimo Vas da pitate vlasnika sajta koji vam je poslao poziv da pošalje novi.</b>",
-    "ERROR_LINK_INVALID": "<b>O, ne! Izgleda da je ovaj link nevažeći.</b>",
-    "ERROR_ACCOUNT_NOT_FOUND": "Vaš nalog nije pronađen. Obratite se administratoru da biste dobili novu pozivnicu za rešavanje ovog problema.",
-    "ERROR_EMAIL_MISMATCH": "<b>Trenutno prijavljeni korisnik ima drugačiju e-poštu ([userEmail]) od poslate pozivnice ([inviteEmail]).</b> <br><br>Možete <a href=\"/auth/logout?redirect=[redirectUrl]\">kliknite ovde</a> da biste se odjavili i kreirali nalog posebno za moderiranje."
+    "HERO_TITLE_LIGHT": "Neuspeo ",
+    "HERO_TITLE_BOLD": "poziv",
+    "DEFAULT_ERROR": "Nešto je pošlo užasno naopako. Nismo sigurni šta se desilo, ali ćemo pogledati.",
+    "ERROR_LINK_EXPIRED": "<b>Izvinite, izgleda da je ovaj link već korišćen ili je stariji od 30 dana. Zamolite vlasnika sajta koji vam je poslao pozivnicu da vam pošalje novi.</b>",
+    "ERROR_LINK_INVALID": "<b>O ne! Izgleda da je ovaj link nevažeći.</b>",
+    "ERROR_ACCOUNT_NOT_FOUND": "Vaš nalog nije pronađen. Kontaktirajte administratora da biste dobili novi poziv kako biste rešili ovaj problem.",
+    "ERROR_EMAIL_MISMATCH": "<b>Trenutno prijavljeni korisnik ima drugačiju imejl adresu ([userEmail]) od one koja je poslata u pozivu ([inviteEmail]).</b><br><br> Možete <a href=\"/auth/logout?redirect=[redirectUrl]\">kliknuti ovde</a> da se odjavite i kreirate nalog posebno za moderiranje."
 }

@@ -4,14 +4,14 @@
     "CHANGE_PASSWORD": "更改密碼",
     "TWO_FACTOR_AUTH": "雙重身份驗證",
     "DELETE_ACCOUNT": "刪除帳戶",
-    "EMAIL_VERIFIED_SUCCESS": "成功！您的郵箱已通過驗證。",
+    "EMAIL_VERIFIED_SUCCESS": "成功！您的電子郵件已通過驗證。",
     "EMAIL_UPDATED_SUCCESS": "成功，郵件已更新！",
     "VERIFICATION_EMAIL_SENT": "已發送驗證郵件。請查看您信箱<%- user.pendingEmail %>，取得完成驗證流程的連結。",
     "USERNAME_LABEL": "使用者名稱:",
     "DISPLAY_NAME_LABEL": "顯示名稱：",
     "DISPLAY_NAME_HELP": "這會顯示在您的評論上，取代您的使用者名稱。",
     "EMAIL_LABEL": "電子郵件：",
-    "EMAIL_PENDING_VERIFICATION": "此郵箱地址正在等待驗證。郵箱地址<%- user.email %>仍在使用中。",
+    "EMAIL_PENDING_VERIFICATION": "此電子郵件地址正在等待驗證。電子郵件地址<%- user.email %>仍在使用中。",
     "RESEND_VERIFICATION": "重新發送驗證郵件。",
     "WEBSITE_URL_LABEL": "網站網址（部落格或其他類似網址）：",
     "WEBSITE_URL_HELP": "您的使用者名稱會在評論串中連結到此網址。請注意，並非所有社群都啟用了此功能。",
@@ -31,5 +31,5 @@
     "LOCALE_LABEL": "首選語言",
     "SELECT_LOCALE": "選擇一種語言",
     "LOCALE_HELP": "選擇您喜歡的介面和通知語言。",
-    "DEFINE_BACKUP_EMAIL": "設定備用郵箱"
+    "DEFINE_BACKUP_EMAIL": "設定備用電子郵件"
 }

@@ -6,7 +6,7 @@
     "SUBJECT": "Откривене грешке FastComments API-ја",
     "SIGN_OFF": "С поштовањем,",
     "DETECTION": "Детектовали смо <%= errorCountFormatted %> API <%= errorWord %> за ваш налог дана <%= errorDate %>.",
-    "TENANT_NOTE": "Ово се односи на закупца са ИД-ом „<%= tenantId %>“.",
+    "TENANT_NOTE": "Ово се односи на налог са ИД-ом „<%= tenantId %>“.",
     "ERROR_PLURAL": "грешке",
     "EXPLANATION": "Ове грешке су се појавиле приликом позивања наше платформе. Предлажемо да проверите логове за све прилагођене API интеграције са FastComments-ом.",
     "OPT_OUT": "<a href=\"<%= notificationSettingsUrl %>\">Овде</a> можете да се искључите из ових обавештења.",

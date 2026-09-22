@@ -25,7 +25,7 @@
     "BUTTON_COPY_SNIPPET": "Copier l'extrait",
     "DOCS_LINK": "Consultez le guide d'installation complet de Zendesk",
     "COPY_SUCCESS": "Copié !",
-    "TENANT_ID_LABEL": "Votre identifiant de locataire FastComments :",
+    "TENANT_ID_LABEL": "Votre ID de compte (Tenant ID) FastComments :",
     "COPY_FAILED": "La copie a échoué, sélectionnez et copiez manuellement.",
     "SSO_MODE_HC_JWT": "Centre d'aide JWT (recommandé, identité vérifiée)",
     "SSO_HC_JWT_NOTE": "Le Centre d'aide JWT authentifie chaque commentateur grâce au jeton signé de Zendesk, empêchant ainsi toute usurpation d'identité. Ce service est réservé aux abonnements Guide Enterprise et Suite Enterprise ; avec les abonnements inférieurs, les commentateurs restent anonymes."

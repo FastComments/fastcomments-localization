@@ -1,5 +1,5 @@
 {
-    "BULK_BAN_TITLE": "Групово блокиране на потребители",
+    "BULK_BAN_TITLE": "Групова забрана на потребители",
     "BULK_BAN_SUBTITLE": "Бъдете внимателни!",
     "BULK_BAN_BTN_BAN": "Забрана",
     "BULK_BAN_BTN_CANCEL": "Отказ",
@@ -14,12 +14,12 @@
     "BULK_BAN_SELECTED": "Избрано: [text]",
     "BULK_BAN_USE_CAUTION_SELECTED": "Бъдете внимателни! [text]",
     "BULK_BAN_VIA_EMAIL_ACCOUNT": "Забрана чрез имейл / акаунт",
-    "BULK_BAN_ANON_NO_EMAIL": "Това е анонимен коментар. Няма имейл адрес или акаунт, който да бъде забранен.",
+    "BULK_BAN_ANON_NO_EMAIL": "Това е анонимен коментар. Няма имейл адрес или акаунт, на който да се наложи забрана.",
     "BULK_BAN_VIA_IP": "Забрана чрез IP адрес",
-    "BULK_BAN_ALL_DOMAIN_USERS": "Забраняване на всички [domains] потребители",
+    "BULK_BAN_ALL_DOMAIN_USERS": "Забрана за всички потребители на [domains]",
     "BULK_BAN_TYPE_LABEL": "Вид забрана",
     "BULK_BAN_TYPE_BAN": "Забрана",
-    "BULK_BAN_TYPE_SHADOW_BAN": "Забрана в сянка",
+    "BULK_BAN_TYPE_SHADOW_BAN": "Скрита забрана",
     "BULK_BAN_DURATION_LABEL": "Продължителност на забраната",
     "BULK_BAN_DURATION_FOREVER": "Завинаги",
     "BULK_BAN_DURATION_ONE_HOUR": "Един час",
@@ -33,5 +33,5 @@
     "BULK_BAN_BY_EMAIL": "По имейл",
     "BULK_BAN_BY_IP": "По IP адрес",
     "BULK_BAN_BY_EMAIL_DOMAIN": "С имейли, завършващи на: [domains]",
-    "BULK_BAN_DELETE_RELATED_COMMENTS": "Изтриване на [count] свързани коментари[summary]."
+    "BULK_BAN_DELETE_RELATED_COMMENTS": "Изтриване на свързаните коментари: [count][summary]."
 }

@@ -7,7 +7,7 @@
     "LIMIT_MONTHLY_SMALL_WIDGETS_CREDITS_HELP": "Скільки запитів ви робите для невеликих віджетів (кількість коментарів, останні коментарі тощо).",
     "LIMIT_MONTHLY_COMMENTS_STORED": "Щомісячні збережені коментарі",
     "LIMIT_MONTHLY_COMMENTS_STORED_HELP": "Скільки коментарів було залишено цього місяця.",
-    "LIMIT_TENANT_USERS": "Користувачі-орендарі",
+    "LIMIT_TENANT_USERS": "Користувачі акаунта",
     "LIMIT_TENANT_USERS_HELP": "Скільки у вас адміністраторів.",
     "LIMIT_SSO_USERS": "Користувачі єдиного входу",
     "LIMIT_SSO_USERS_HELP": "Скільки у вас користувачів SSO.",
@@ -15,6 +15,6 @@
     "LIMIT_MODERATORS_HELP": "Скільки у вас модераторів.",
     "LIMIT_DOMAINS": "Домени",
     "LIMIT_DOMAINS_HELP": "Скільки сайтів або доменів у вашому обліковому записі.",
-    "LIMIT_MANAGED_TENANTS": "Керовані орендарі",
-    "LIMIT_MANAGED_TENANTS_HELP": "Скільки суборендарів керує ваш орендар."
+    "LIMIT_MANAGED_TENANTS": "Керовані акаунти",
+    "LIMIT_MANAGED_TENANTS_HELP": "Скількома дочірніми акаунтами керує ваш акаунт."
 }

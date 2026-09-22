@@ -9,8 +9,8 @@
     "STAT_LABEL_APPROVED": "Εγκρίθηκε",
     "STAT_LABEL_SPAM": "Νέο ανεπιθύμητο",
     "STAT_LABEL_NEW_USERS": "Νέοι σχολιαστές",
-    "COMMENTS_NEEDING_REVIEW": "Σχόλια που χρειάζονται επανεξέταση",
-    "RECENT_COMMENTS": "πρόσφατα σχόλια",
+    "COMMENTS_NEEDING_REVIEW": "Σχόλια που χρειάζονται αξιολόγηση",
+    "RECENT_COMMENTS": "Πρόσφατα σχόλια",
     "NO_COMMENTS": "Δεν υπάρχει τίποτα να δείξουμε εδώ!",
     "VIEW_MORE_COMMENTS": "Εποπτεία <%= abbreviateNumber(commentCount - comments.length, 0, locale) %> επιπλέον σχολίων",
     "MODERATE_COMMENTS": "Εποπτεία σχολίων",
@@ -20,8 +20,8 @@
     "AUDIENCE_METRICS": "Μετρήσεις κοινού",
     "AVATAR": "Avatar",
     "CHANGE_FREQUENCY": "Αλλάξτε τη συχνότητα αυτού του μηνύματος ηλεκτρονικού ταχυδρομείου.",
-    "MARK_REVIEWED": "Επισήμανση ως αξιολογημένο",
-    "MARK_REVIEWED_AND_RESPOND": "Επισήμανση ως αξιολογημένο και απάντηση",
+    "MARK_REVIEWED": "Σήμανση ως αξιολογημένο",
+    "MARK_REVIEWED_AND_RESPOND": "Σήμανση ως αξιολογημένο και απάντηση",
     "MARK_AS_SPAM": "Επισήμανση ως ανεπιθύμητο",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Νέα Likes",
     "DELTA_LIKES": "❤️",
@@ -32,9 +32,9 @@
     "AGENT_ACTION_MARK_COMMENT_REVIEWED": "Επισημάνθηκαν {count} σχόλια ως αξιολογημένα",
     "AGENT_ACTION_MARK_COMMENT_SPAM": "Επισημάνθηκαν {count} σχόλια ως ανεπιθύμητα",
     "AGENT_ACTION_LOCK_COMMENT": "Κλειδωμένα {count} σχόλια",
-    "AGENT_ACTION_LIVE_BADGE": "Ζωντανά",
+    "AGENT_ACTION_LIVE_BADGE": "Ενεργό",
     "AGENT_ACTION_UNLOCK_COMMENT": "Ξεκλείδωτα {count} σχόλια",
     "AGENT_ACTION_BAN_USER": "Αποκλεισμένοι {count} χρήστες",
     "AGENT_ACTION_WARNED_USER": "Προειδοποιήθηκαν {count} χρήστες μέσω DM",
-    "AGENT_ACTION_DRY_RUN_BADGE": "Δοκιμαστική λειτουργία"
+    "AGENT_ACTION_DRY_RUN_BADGE": "Δοκιμαστική εκτέλεση"
 }

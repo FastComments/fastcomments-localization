@@ -1,10 +1,10 @@
 {
-    "BULK_SELECT_SINGULAR_SELECTED": "[count] izabran",
-    "BULK_SELECT_PLURAL_SELECTED": "[count] izabran",
-    "BULK_SELECT_SINGULAR_PAGE_SELECTED": "[count] na ovoj stranici izabran",
-    "BULK_SELECT_PLURAL_PAGE_SELECTED": "[count] na ovoj stranici izabran",
-    "BULK_SELECT_REDUCE_SINGULAR": "Izaberite samo [count] na ovoj stranici",
-    "BULK_SELECT_REDUCE_PLURAL": "Izaberite samo [count] na ovoj stranici",
+    "BULK_SELECT_SINGULAR_SELECTED": "Izabrano: [count]",
+    "BULK_SELECT_PLURAL_SELECTED": "Izabrano: [count]",
+    "BULK_SELECT_SINGULAR_PAGE_SELECTED": "Izabrano na ovoj stranici: [count]",
+    "BULK_SELECT_PLURAL_PAGE_SELECTED": "Izabrano na ovoj stranici: [count]",
+    "BULK_SELECT_REDUCE_SINGULAR": "Izaberi samo [count] na ovoj stranici",
+    "BULK_SELECT_REDUCE_PLURAL": "Izaberi samo [count] na ovoj stranici",
     "BULK_SELECT_ALL_SINGULAR": "Izaberi sve [count]",
     "BULK_SELECT_ALL_PLURAL": "Izaberi sve [count]",
     "BULK_SELECT_IN_PROGRESS": "Biranje [selected] od [total]..."

@@ -57,7 +57,7 @@
     "HOW_IT_WORKS_STEP_1_TITLE": "Instalar via Composer",
     "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Execute o comando `composer require fastcomments/laravel` para adicionar o pacote ao seu projeto.",
     "HOW_IT_WORKS_STEP_2_TITLE": "Publicar configuração e definir chave de API",
-    "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Publique o arquivo de configuração com o Artisan e, em seguida, adicione sua chave de API do FastComments e o ID do locatário ao seu arquivo .env.",
+    "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Publique o arquivo de configuração com o Artisan e, em seguida, adicione sua chave de API do FastComments e o ID do tenant ao seu arquivo .env.",
     "HOW_IT_WORKS_STEP_3_TITLE": "Adicione os componentes Blade",
     "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Use <x-fastcomments>, <x-fastcomments-live-chat> ou <x-fastcomments-comment-count> em qualquer lugar nos seus modelos Blade.",
     "FAQ_LARAVEL_FREE_TRIAL": "Existe algum período de teste gratuito?",

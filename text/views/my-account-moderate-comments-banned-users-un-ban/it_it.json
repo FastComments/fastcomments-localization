@@ -1,8 +1,8 @@
 {
-    "PAGE_TITLE": "Come rimuovere un utente dal ban - FastComments",
-    "HEADING": "Sbloccare un utente",
-    "SUB_HEADING": "Togliere il divieto a <%= bannedUser.username %>?",
+    "PAGE_TITLE": "Rimuovi il ban di un utente - FastComments",
+    "HEADING": "Rimuovi il ban di un utente",
+    "SUB_HEADING": "Rimuovere il ban di <%= bannedUser.username %>?",
     "CONFIRM_MESSAGE": "Sei sicuro di voler rimuovere il ban da questo utente?",
-    "BANNED_FOR_SAYING_TEXT": "Sono stati bannati per aver detto &quot;<span class=\"quote\"><%= bannedUser.bannedCommentText %></span>&quot;",
-    "UN_BAN_BUTTON": "Sblocca utente"
+    "BANNED_FOR_SAYING_TEXT": "È stato bannato per aver detto &quot;<span class=\"quote\"><%= bannedUser.bannedCommentText %></span>&quot;",
+    "UN_BAN_BUTTON": "Rimuovi ban"
 }

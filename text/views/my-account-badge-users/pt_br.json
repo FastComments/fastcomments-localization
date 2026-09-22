@@ -1,12 +1,12 @@
 {
     "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - FastComments",
-    "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> Usuário com distintivo <%- tenantBadge.displayLabel %>",
-    "HEADING_USERS_WITH_BADGE_PLURAL": "<%- Number(userBadges.length).toLocaleString() %> Usuários com distintivo <%- tenantBadge.displayLabel %>",
-    "TEXT_NO_USERS_WITH_BADGE": "Nenhum usuário possui este distintivo! A maioria dos distintivos é concedida automaticamente. Se for um distintivo manual, você precisará concedê-lo manualmente.",
+    "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> Usuário com emblema <%- tenantBadge.displayLabel %>",
+    "HEADING_USERS_WITH_BADGE_PLURAL": "<%- Number(userBadges.length).toLocaleString() %> Usuários com emblema <%- tenantBadge.displayLabel %>",
+    "TEXT_NO_USERS_WITH_BADGE": "Nenhum usuário possui este emblema! A maioria dos emblemas é concedida automaticamente. Se for um emblema manual, você precisará concedê-lo manualmente.",
     "TABLE_HEADER_USER_ID": "ID do usuário",
     "TABLE_HEADER_EMAIL": "E-mail",
     "TABLE_HEADER_AVATAR": "Avatar",
     "TABLE_HEADER_NAME": "Nome",
-    "TABLE_HEADER_BADGE_EARNED_DATE": "Data de conquista do distintivo",
+    "TABLE_HEADER_BADGE_EARNED_DATE": "Data de conquista do emblema",
     "TEXT_NA": "N/A"
 }

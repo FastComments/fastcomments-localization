@@ -4,7 +4,7 @@
     "SUBJECT": "Votre compte a atteint sa limite <%= limitName %>",
     "META_USAGE": "Usage:",
     "META_LIMIT": "Limite:",
-    "CHILD_TENANT_LINE": "Cette alerte concerne <strong><%= childTenantName %></strong>, un locataire géré par votre compte.",
+    "CHILD_TENANT_LINE": "Cette alerte concerne <strong><%= childTenantName %></strong>, un compte géré par le vôtre.",
     "INTRO": "Votre compte a atteint l'une des limites d'utilisation de votre forfait actuel. Les requêtes dépassant cette limite sont refusées jusqu'à ce que celle-ci soit modifiée ou que le mois suivant arrive à échéance.",
     "CTA_FIXED": "Choisissez un forfait plus important",
     "BODY_FLEX": "Cette limite est définie dans votre forfait Flex. Configurez les limites via votre page de facturation. Utilisez le bouton ci-dessous pour les définir.",

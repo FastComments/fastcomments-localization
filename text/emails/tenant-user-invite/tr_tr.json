@@ -2,7 +2,7 @@
     "INTRO": "Merhaba <%= username %>,",
     "FROM_NAME": "FastComments Robotu",
     "SUBJECT": "<%= tenantName %>'a katılmaya davet edildiniz!",
-    "BANNER_TEXT": "Kiracı Daveti",
-    "INVITE_DETAILS": "Kiracı <%= tenantName %>&#39;a katılmanız için davet edildiniz. Bu daveti kabul ettiğinizde yorumcu hesabınız bir yönetici hesabına yükseltilecektir. <%= tenantName %> hesabınızın <b>TAM MÜLKİYETİNE</b> sahip olacak ve onu silme yetkisine sahip olacak. Aşağıdaki izinlere sahip olacaksınız:",
+    "BANNER_TEXT": "Hesap Daveti",
+    "INVITE_DETAILS": "<%= tenantName %> hesabına katılmaya davet edildiniz. Bu daveti kabul ettiğinizde yorumcu hesabınız bir yönetici hesabına yükseltilecektir. <%= tenantName %>, silme yetkisi de dahil olmak üzere hesabınızın <b>TAM SAHİPLİĞİNE</b> sahip olacaktır. Aşağıdaki izinlere sahip olacaksınız:",
     "ACCEPT_INVITE": "Daveti Kabul Et"
 }

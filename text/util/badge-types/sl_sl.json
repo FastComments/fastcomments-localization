@@ -12,8 +12,8 @@
     "BADGE_TYPE_ModeratorCommentsApproved": "Moderator - Število odobrenih komentarjev",
     "BADGE_TYPE_ModeratorCommentsUnapproved": "Moderator - Število neodobrenih komentarjev",
     "BADGE_TYPE_ModeratorCommentsReviewed": "Moderator - Število pregledanih komentarjev",
-    "BADGE_TYPE_ModeratorCommentsMarkedSpam": "Moderator - Število komentarjev, označenih kot neželena pošta",
-    "BADGE_TYPE_ModeratorCommentsMarkedNotSpam": "Moderator - Število komentarjev, označenih kot ne neželena pošta",
+    "BADGE_TYPE_ModeratorCommentsMarkedSpam": "Moderator - Število komentarjev, označenih kot spam",
+    "BADGE_TYPE_ModeratorCommentsMarkedNotSpam": "Moderator - Število komentarjev, označenih, da niso spam",
     "BADGE_LIMIT_Manual": "Ni na voljo",
     "BADGE_LIMIT_CommentCount": "Število komentarjev za pridobitev značke.",
     "BADGE_LIMIT_CommentUpVotes": "Število glasov za komentarje uporabnika za pridobitev značke.",
@@ -27,8 +27,8 @@
     "BADGE_LIMIT_ModeratorCommentsApproved": "Število komentarjev, ki jih mora moderator odobriti, da si prisluži značko.",
     "BADGE_LIMIT_ModeratorCommentsUnapproved": "Število komentarjev, ki jih mora moderator preklicati, da si prisluži značko.",
     "BADGE_LIMIT_ModeratorCommentsReviewed": "Število komentarjev, ki jih mora moderator pregledati, da si prisluži značko.",
-    "BADGE_LIMIT_ModeratorCommentsMarkedSpam": "Število komentarjev, ki jih mora moderator označiti kot neželeno pošto, da si prisluži značko.",
-    "BADGE_LIMIT_ModeratorCommentsMarkedNotSpam": "Število komentarjev, ki jih mora moderator označiti kot ne neželena pošta, da si prisluži značko.",
+    "BADGE_LIMIT_ModeratorCommentsMarkedSpam": "Število komentarjev, ki jih mora moderator označiti kot spam, da si prisluži značko.",
+    "BADGE_LIMIT_ModeratorCommentsMarkedNotSpam": "Število komentarjev, za katere mora moderator označiti, da niso spam, da si prisluži značko.",
     "BADGE_DEFAULT_NAME_Manual": "Ime značke",
     "BADGE_DEFAULT_NAME_CommentCount": "Najboljši komentator",
     "BADGE_DEFAULT_NAME_CommentUpVotes": "Odlična karma",
@@ -42,6 +42,6 @@
     "BADGE_DEFAULT_NAME_ModeratorCommentsApproved": "Veliki žig",
     "BADGE_DEFAULT_NAME_ModeratorCommentsUnapproved": "Rdeči žig",
     "BADGE_DEFAULT_NAME_ModeratorCommentsReviewed": "Hitri mod",
-    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedSpam": "Detektor neželene pošte",
-    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedNotSpam": "Ni neželena pošta"
+    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedSpam": "Detektor spama",
+    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedNotSpam": "Ni spam"
 }

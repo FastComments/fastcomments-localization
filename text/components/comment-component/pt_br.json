@@ -22,13 +22,13 @@
     "COMMENT_BTN_MARK_SPAM": "Marcar como spam",
     "COMMENT_BTN_MARK_NOT_SPAM": "Marcar como não spam",
     "COMMENT_BTN_NOT_SPAM_PERM": "Não é spam (permanente)",
-    "COMMENT_BTN_UNFLAG": "Remover sinalização",
+    "COMMENT_BTN_UNFLAG": "Remover denúncia",
     "COMMENT_BTN_VIEW_ALL_FROM_IP": "Ver todos do IP",
     "COMMENT_MENU_MARK_NOT_APPROVED": "Marcar como não aprovado",
-    "COMMENT_MENU_NOT_SPAM_PERM": "Não Spam Perm.",
+    "COMMENT_MENU_NOT_SPAM_PERM": "Não é spam (perm.)",
     "COMMENT_MENU_UNPIN": "Desafixar",
     "COMMENT_MENU_PIN": "Fixar",
-    "COMMENT_MENU_UNFLAG": "Remover Sinalização",
+    "COMMENT_MENU_UNFLAG": "Remover denúncia",
     "COMMENT_LOG_TITLE": "Registro do Comentário",
     "COMMENT_EDIT_TITLE": "Editar Comentário de [name]",
     "COMMENT_TOOLTIP_WILL_MARK_REVIEWED": "Também marcará como revisado.",
@@ -37,6 +37,6 @@
     "COMMENT_BTN_SET_TRUST_FACTOR": "Definir Fator de Confiança",
     "COMMENT_MENU_VIEW_INTERNAL_PROFILE": "Ver perfil interno",
     "COMMENT_BTN_VIEW_INTERNAL_PROFILE": "Ver perfil interno",
-    "COMMENT_MENU_LOCK": "Bloquear",
-    "COMMENT_MENU_UNLOCK": "Desbloquear"
+    "COMMENT_MENU_LOCK": "Trancar",
+    "COMMENT_MENU_UNLOCK": "Destrancar"
 }

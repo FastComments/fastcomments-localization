@@ -1,8 +1,8 @@
 {
     "PAGE_TITLE": "Abzeichen - FastComments",
     "TEXT_EDIT_WARNING": "<b>Achtung!</b> Durch das Bearbeiten von Abzeichen werden bereits zugewiesene Abzeichen geändert. Gehen Sie mit Bedacht vor, um Ihre Community nicht zu verärgern.",
-    "HEADING_CREATE_BADGE": "Erstelle ein Abzeichen",
-    "TEXT_CREATE_BADGE_INTRO": "Um ein Badge zu erstellen, müssen wir zuerst den Badge-Typ und dessen Aussehen auswählen. Badges können entweder als formatierter Text oder als benutzerdefiniertes Bild angezeigt werden.",
+    "HEADING_CREATE_BADGE": "Ein Abzeichen erstellen",
+    "TEXT_CREATE_BADGE_INTRO": "Um ein Abzeichen zu erstellen, müssen wir zuerst den Abzeichentyp und dessen Aussehen auswählen. Abzeichen können entweder als formatierter Text oder als benutzerdefiniertes Bild angezeigt werden.",
     "TEXT_JAVASCRIPT_REQUIRED": "Diese Seite benötigt JavaScript, um ordnungsgemäß zu funktionieren.",
     "LABEL_BADGE_TYPE": "Abzeichen",
     "TEXT_MANUAL_BADGE_NOTE": "Dieses Abzeichen kann nur manuell von Administratoren oder Moderatoren vergeben werden.",
@@ -36,11 +36,11 @@
     "TEXT_PREVIEW": "Vorschau:",
     "LABEL_ADVANCED_CSS_CLASS": "Fortgeschritten: CSS-Klasse",
     "PLACEHOLDER_CSS_CLASS": "Geben Sie eine CSS-Klasse ein...",
-    "TEXT_CSS_CLASS_NOTE": "Eine optionale CSS-Klasse, mit der das Badge mithilfe von benutzerdefiniertem CSS weiter gestaltet werden kann.",
+    "TEXT_CSS_CLASS_NOTE": "Eine optionale CSS-Klasse, mit der das Abzeichen mithilfe von benutzerdefiniertem CSS weiter gestaltet werden kann.",
     "LABEL_REPLACES_OTHER_BADGE": "Ersetzt anderes Abzeichen",
     "OPTION_NONE": "- Keine -",
     "OPTION_NO_OTHER_BADGES": "Keine anderen Abzeichen",
-    "TEXT_REPLACES_BADGE_NOTE": "Beispielsweise könnte ein „Top-Kommentator“-Abzeichen ein „Neuer Kommentator“-Abzeichen automatisch ersetzen. Der Nutzer behält beide Abzeichen, es wird jedoch das neue angezeigt.",
+    "TEXT_REPLACES_BADGE_NOTE": "Beispielsweise könnte ein „Top-Kommentator“-Abzeichen ein „Neuer Kommentator“-Abzeichen automatisch ersetzen. Der Benutzer behält beide Abzeichen, es wird jedoch das neue angezeigt.",
     "BUTTON_UPDATE_BADGE": "Abzeichen aktualisieren",
     "BUTTON_CREATE_BADGE": "Abzeichen erstellen"
 }

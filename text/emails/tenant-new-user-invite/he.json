@@ -3,6 +3,6 @@
     "FROM_NAME": "רובוט FastComments",
     "SUBJECT": "הוזמנת להצטרף ל-<%= tenantName %>!",
     "BANNER_TEXT": "הזמנה ל-FastComments",
-    "INVITE_DETAILS": "הוזמנת להצטרף לדייר FastComments <%= tenantName %>. קבלת הזמנה זו תיצור עבורך חשבון עם ההרשאות הבאות:",
+    "INVITE_DETAILS": "הוזמנת להצטרף לחשבון FastComments של <%= tenantName %>. קבלת הזמנה זו תיצור עבורך חשבון משתמש עם ההרשאות הבאות:",
     "ACCEPT_INVITE": "קבלת הזמנה"
 }

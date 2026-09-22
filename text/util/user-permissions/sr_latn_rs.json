@@ -1,7 +1,7 @@
 {
     "PERM_isAccountOwner_NAME": "Vlasnik naloga",
-    "PERM_isAccountOwner_DESC": "Oni poseduju nalog. Ako izbrišu svoj nalog, nestaje i ceo nalog organizacije sa njima.",
-    "PERM_isAccountOwner_DESC_FIRST_PERSON": "Vi ste vlasnik naloga. Ako izbrišete svoj nalog, nestaje i ceo nalog organizacije sa vama.",
+    "PERM_isAccountOwner_DESC": "Oni su vlasnici naloga. Ako obrišu svoj korisnički nalog, sa njim se briše i ceo nalog organizacije.",
+    "PERM_isAccountOwner_DESC_FIRST_PERSON": "Vi ste vlasnik naloga. Ako obrišete svoj korisnički nalog, sa njim se briše i ceo nalog organizacije.",
     "PERM_isAdminAdmin_NAME": "Super Administrator",
     "PERM_isAdminAdmin_DESC": "Može da upravlja drugim administratorima.",
     "PERM_isAdminAdmin_DESC_FIRST_PERSON": "Možete upravljati drugim administratorima.",

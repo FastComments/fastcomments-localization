@@ -1,7 +1,7 @@
 {
     "PERM_isAccountOwner_NAME": "Propriétaire du compte",
-    "PERM_isAccountOwner_DESC": "Ils sont propriétaires du compte. S'ils suppriment leur compte, le locataire est également supprimé.",
-    "PERM_isAccountOwner_DESC_FIRST_PERSON": "Vous êtes propriétaire du compte. Si vous supprimez votre compte, le locataire est également supprimé.",
+    "PERM_isAccountOwner_DESC": "Ils sont propriétaires du compte. S'ils suppriment leur compte utilisateur, le compte FastComments associé est également supprimé.",
+    "PERM_isAccountOwner_DESC_FIRST_PERSON": "Vous êtes propriétaire du compte. Si vous supprimez votre compte utilisateur, le compte FastComments associé est également supprimé.",
     "PERM_isAdminAdmin_NAME": "Super Administrateur",
     "PERM_isAdminAdmin_DESC": "Peut gérer d'autres administrateurs.",
     "PERM_isAdminAdmin_DESC_FIRST_PERSON": "Vous pouvez gérer d'autres administrateurs.",

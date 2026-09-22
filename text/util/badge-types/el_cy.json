@@ -11,7 +11,7 @@
     "BADGE_TYPE_ModeratorCommentsDeleted": "Συντονιστής - Αριθμός σχολίων που διαγράφηκαν",
     "BADGE_TYPE_ModeratorCommentsApproved": "Συντονιστής - Αριθμός εγκεκριμένων σχολίων",
     "BADGE_TYPE_ModeratorCommentsUnapproved": "Συντονιστής - Αριθμός σχολίων που δεν εγκρίθηκαν",
-    "BADGE_TYPE_ModeratorCommentsReviewed": "Συντονιστής - Αριθμός σχολίων που εξετάστηκαν",
+    "BADGE_TYPE_ModeratorCommentsReviewed": "Συντονιστής - Αριθμός σχολίων που αξιολογήθηκαν",
     "BADGE_TYPE_ModeratorCommentsMarkedSpam": "Συντονιστής - Αριθμός σχολίων που έχουν επισημανθεί ως ανεπιθύμητα",
     "BADGE_TYPE_ModeratorCommentsMarkedNotSpam": "Συντονιστής - Αριθμός σχολίων που επισημάνθηκαν ως μη ανεπιθύμητα",
     "BADGE_LIMIT_Manual": "Δ/Υ",
@@ -26,7 +26,7 @@
     "BADGE_LIMIT_ModeratorCommentsDeleted": "Αριθμός σχολίων που πρέπει να διαγράψει ο συντονιστής για να κερδίσει το σήμα.",
     "BADGE_LIMIT_ModeratorCommentsApproved": "Αριθμός σχολίων που πρέπει να εγκρίνει ο συντονιστής για να κερδίσει το σήμα.",
     "BADGE_LIMIT_ModeratorCommentsUnapproved": "Αριθμός σχολίων που πρέπει να καταργήσει ο συντονιστής για να κερδίσει το σήμα.",
-    "BADGE_LIMIT_ModeratorCommentsReviewed": "Αριθμός σχολίων που πρέπει να ελέγξει ο συντονιστής για να κερδίσει το σήμα.",
+    "BADGE_LIMIT_ModeratorCommentsReviewed": "Αριθμός σχολίων που πρέπει να αξιολογήσει ο συντονιστής για να κερδίσει το σήμα.",
     "BADGE_LIMIT_ModeratorCommentsMarkedSpam": "Αριθμός σχολίων που πρέπει να επισημάνει ο συντονιστής ως ανεπιθύμητα για να κερδίσει το σήμα.",
     "BADGE_LIMIT_ModeratorCommentsMarkedNotSpam": "Αριθμός σχολίων που ο συντονιστής πρέπει να επισημάνει ως μη ανεπιθύμητα για να κερδίσει το σήμα.",
     "BADGE_DEFAULT_NAME_Manual": "Όνομα σήματος",
@@ -42,6 +42,6 @@
     "BADGE_DEFAULT_NAME_ModeratorCommentsApproved": "Μεγάλη σφραγίδα",
     "BADGE_DEFAULT_NAME_ModeratorCommentsUnapproved": "Κόκκινη σφραγίδα",
     "BADGE_DEFAULT_NAME_ModeratorCommentsReviewed": "Γρήγορη τροποποίηση",
-    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedSpam": "Ανιχνευτής ανεπιθύμητης αλληλογραφίας",
+    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedSpam": "Ανιχνευτής ανεπιθύμητων",
     "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedNotSpam": "Δεν είναι ανεπιθύμητο"
 }

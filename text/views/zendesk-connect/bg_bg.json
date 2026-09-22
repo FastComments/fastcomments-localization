@@ -19,7 +19,7 @@
     "SSO_MODE_CLIENT_TRUSTED": "Доверен на клиента (работи с всеки план, но може да бъде подправен)",
     "BUTTON_CONNECT": "Свържете се със Zendesk",
     "STATUS_CONNECTED": "Свързан",
-    "TENANT_ID_LABEL": "Вашият идентификационен номер на наемател във FastComments:",
+    "TENANT_ID_LABEL": "Вашият идентификационен номер на клиент във FastComments:",
     "BUTTON_COPY_SNIPPET": "Копиране на фрагмент",
     "STATUS_NOT_CONNECTED": "Все още не е свързан",
     "SNIPPET_INSTRUCTIONS": "В Zendesk Guide отворете „Персонализиране на дизайна“, след това „Редактиране на кода“ и поставете този блок в templates/article_page.hbs, където искате да се показват коментарите.",

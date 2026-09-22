@@ -11,7 +11,7 @@
     "BADGE_TYPE_ModeratorCommentsDeleted": "版主 - 已删除评论数量",
     "BADGE_TYPE_ModeratorCommentsApproved": "版主 - 已批准评论数量",
     "BADGE_TYPE_ModeratorCommentsUnapproved": "版主 - 未批准评论数量",
-    "BADGE_TYPE_ModeratorCommentsReviewed": "版主 - 已审核评论数量",
+    "BADGE_TYPE_ModeratorCommentsReviewed": "版主 - 已审阅评论数量",
     "BADGE_TYPE_ModeratorCommentsMarkedSpam": "版主 - 标记为垃圾评论的数量",
     "BADGE_TYPE_ModeratorCommentsMarkedNotSpam": "版主 - 标记为非垃圾评论的数量",
     "BADGE_LIMIT_Manual": "不适用",
@@ -26,7 +26,7 @@
     "BADGE_LIMIT_ModeratorCommentsDeleted": "版主必须删除的评论数量才能获得徽章。",
     "BADGE_LIMIT_ModeratorCommentsApproved": "版主必须批准的评论数量才能获得徽章。",
     "BADGE_LIMIT_ModeratorCommentsUnapproved": "版主必须取消批准多少条评论才能获得徽章。",
-    "BADGE_LIMIT_ModeratorCommentsReviewed": "版主必须审核的评论数量才能获得徽章。",
+    "BADGE_LIMIT_ModeratorCommentsReviewed": "版主必须审阅的评论数量才能获得徽章。",
     "BADGE_LIMIT_ModeratorCommentsMarkedSpam": "版主必须将多少条评论标记为垃圾评论才能获得徽章。",
     "BADGE_LIMIT_ModeratorCommentsMarkedNotSpam": "版主必须将一定数量的评论标记为非垃圾评论才能获得徽章。",
     "BADGE_DEFAULT_NAME_Manual": "徽章名称",
@@ -41,7 +41,7 @@
     "BADGE_DEFAULT_NAME_ModeratorCommentsDeleted": "大锤",
     "BADGE_DEFAULT_NAME_ModeratorCommentsApproved": "大邮票",
     "BADGE_DEFAULT_NAME_ModeratorCommentsUnapproved": "红印章",
-    "BADGE_DEFAULT_NAME_ModeratorCommentsReviewed": "快速审核员",
-    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedSpam": "垃圾邮件检测器",
-    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedNotSpam": "非垃圾邮件"
+    "BADGE_DEFAULT_NAME_ModeratorCommentsReviewed": "快速版主",
+    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedSpam": "垃圾评论检测器",
+    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedNotSpam": "非垃圾评论"
 }

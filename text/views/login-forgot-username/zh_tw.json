@@ -8,7 +8,7 @@
     "LABEL_CAPTCHA": "<%= captchaA %> + <%= captchaB %> 等於多少？",
     "CAPTCHA_HELP": "有助於判斷您不是機器人。",
     "BUTTON_REQUEST_USERNAME": "索取使用者名稱",
-    "SUCCESS_MESSAGE": "如果您在該郵箱註冊了帳號，您應該很快就會收到一封包含使用者名稱的郵件。",
+    "SUCCESS_MESSAGE": "如果您在該電子郵件註冊了帳號，您應該很快就會收到一封包含使用者名稱的郵件。",
     "SUCCESS_CHECK_SPAM": "請記得查看您的垃圾郵件資料夾。",
     "SUCCESS_CLOSE_WINDOW": "您現在可以關閉此視窗了。"
 }

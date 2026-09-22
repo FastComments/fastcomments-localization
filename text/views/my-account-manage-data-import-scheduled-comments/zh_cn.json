@@ -5,7 +5,7 @@
     "DESCRIPTION_PART1": "您可以在这里设置评论自动发布时间。这样您就可以为页面添加注释，例如网络研讨会，甚至可以自动在页面上发起关于直播活动的讨论。",
     "DESCRIPTION_PART2": "这是通过使用支持的<a href=\"https://docs.fastcomments.com/guide-scheduled-comments.html#import-format\">CSV 格式</a>导入评论来实现的（<a href=\"https://docs.fastcomments.com/csv/fastcomments-scheduled-comments-example.csv\">示例见此处</a>）。",
     "DESCRIPTION_SCHEDULING_TYPES": "<b>有两种播放安排方式。</b>第一种是每次页面加载时自动播放评论，即选择“每次页面加载”选项；第二种是手动安排评论播放，只需点击此处并点击“开始”按钮即可。",
-    "AUTO_PLAY_WARNING": "<b class=\"red\">注意！</b>添加自动播放评论（选择下方的“每次页面加载”）后，自动播放主题帖中发布的任何新评论都会添加到自动播放脚本中。评论可在“审核评论”页面进行审核。",
+    "AUTO_PLAY_WARNING": "<b class=\"red\">注意！</b>添加自动播放评论（选择下方的“每次页面加载”）后，自动播放评论串中发布的任何新评论都会添加到自动播放脚本中。评论可在“审核评论”页面进行审核。",
     "REPLAY_NAME_LABEL": "重播名称",
     "REPLAY_NAME_DEFAULT": "导入 [importNumber]",
     "REPLAY_NAME_HELP": "您可以给导入的文件命名，以便以后轻松找到它们。",

@@ -1,7 +1,7 @@
 {
     "PERM_isAccountOwner_NAME": "Hesap Sahibi",
-    "PERM_isAccountOwner_DESC": "Hesabın sahibi onlar. Hesaplarını silerlerse, kiracı da onlarla birlikte silinir.",
-    "PERM_isAccountOwner_DESC_FIRST_PERSON": "Hesabın sahibi sizsiniz. Hesabınızı silerseniz, kiracı da sizinle birlikte silinir.",
+    "PERM_isAccountOwner_DESC": "Hesabın sahibidir. Kendi kullanıcı hesabını silerse tüm FastComments hesabı da onunla birlikte silinir.",
+    "PERM_isAccountOwner_DESC_FIRST_PERSON": "Hesabın sahibisiniz. Kendi kullanıcı hesabınızı silerseniz tüm FastComments hesabı da sizinle birlikte silinir.",
     "PERM_isAdminAdmin_NAME": "Süper Yönetici",
     "PERM_isAdminAdmin_DESC": "Diğer yöneticileri yönetebilir.",
     "PERM_isAdminAdmin_DESC_FIRST_PERSON": "Diğer yöneticileri yönetebilirsiniz.",

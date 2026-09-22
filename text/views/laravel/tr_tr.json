@@ -57,7 +57,7 @@
     "HOW_IT_WORKS_STEP_1_TITLE": "Composer aracılığıyla yükleyin",
     "HOW_IT_WORKS_STEP_1_DESCRIPTION": "Projenize fastcomments/laravel paketini eklemek için `composer require fastcomments/laravel` komutunu çalıştırın.",
     "HOW_IT_WORKS_STEP_2_TITLE": "Yapılandırmayı Yayınla ve API Anahtarını Ayarla",
-    "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Yapılandırma dosyasını Artisan ile yayınlayın, ardından FastComments API anahtarınızı ve kiracı kimliğinizi .env dosyanıza ekleyin.",
+    "HOW_IT_WORKS_STEP_2_DESCRIPTION": "Yapılandırma dosyasını Artisan ile yayınlayın, ardından FastComments API anahtarınızı ve hesap kimliğinizi .env dosyanıza ekleyin.",
     "HOW_IT_WORKS_STEP_3_TITLE": "Blade Bileşenlerini Ekleyin",
     "HOW_IT_WORKS_STEP_3_DESCRIPTION": "Blade şablonlarınızın herhangi bir yerinde <x-fastcomments>, <x-fastcomments-live-chat> veya <x-fastcomments-comment-count> kullanın.",
     "FAQ_LARAVEL_FREE_TRIAL": "Ücretsiz deneme sürümü var mı?",

@@ -1,6 +1,6 @@
 {
     "PAGE_TITLE": "Mes e-mails - FastComments",
-    "HEADING": "Mes courriels",
+    "HEADING": "Mes e-mails",
     "INFO_NOTE": "<strong>Remarque :</strong> Nous conservons l’historique des e-mails pendant deux mois seulement. Les e-mails les plus anciens sont automatiquement supprimés. Cette liste concerne uniquement les e-mails envoyés à votre utilisateur.",
     "LABEL_FILTER_SUBJECT": "Filtrer par sujet",
     "PLACEHOLDER_SUBJECT": "Rechercher le sujet...",
@@ -11,12 +11,12 @@
     "TABLE_HEADER_DATE": "Date",
     "TABLE_HEADER_FROM": "De",
     "TABLE_HEADER_SUBJECT": "Sujet",
-    "MESSAGE_NO_EMAILS_FILTERS": "Aucun courriel trouvé pour les filtres spécifiés.",
+    "MESSAGE_NO_EMAILS_FILTERS": "Aucun e-mail trouvé pour les filtres spécifiés.",
     "BUTTON_VIEW": "Voir",
     "BUTTON_PREV": "Précédent",
     "BUTTON_NEXT": "Suivant",
     "LABEL_PAGE": "Page <%= page %>",
-    "MESSAGE_NO_EMAILS": "Vous n'avez envoyé aucun courriel.",
+    "MESSAGE_NO_EMAILS": "Vous n'avez envoyé aucun e-mail.",
     "VALUE_UNKNOWN": "Inconnu",
     "VALUE_NO_SUBJECT": "(Sans sujet)",
     "VALUE_NA": "N/A"

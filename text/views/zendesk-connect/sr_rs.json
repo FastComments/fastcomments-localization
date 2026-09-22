@@ -22,7 +22,7 @@
     "BUTTON_CONNECT": "Повежи се са Зендеском",
     "SSO_CLIENT_TRUSTED_WARNING": "Режим поверења клијента преузима идентитет коментатора директно из прегледача без провере, тако да може бити лажно фалсификован. Користите га само ако прихватате тај ризик. Ради на било ком Zendesk плану.",
     "SNIPPET_INSTRUCTIONS": "У Zendesk водичу, отворите Customize design (Прилагоди дизајн), затим Edit code (Уреди код) и налепите овај блок у templates/article_page.hbs где желите да се појаве коментари.",
-    "TENANT_ID_LABEL": "Ваш ИД закупца FastComments-а:",
+    "TENANT_ID_LABEL": "Ваш FastComments ИД налога:",
     "COPY_SUCCESS": "Копирано!",
     "BUTTON_COPY_SNIPPET": "Копирај исечак",
     "COPY_FAILED": "Копирање није успело, изаберите и копирајте ручно",

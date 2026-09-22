@@ -1,7 +1,7 @@
 {
     "PERM_isAccountOwner_NAME": "Proprietário da Conta",
-    "PERM_isAccountOwner_DESC": "Eles são donos da conta. Se excluírem sua conta, o locatário será excluído também.",
-    "PERM_isAccountOwner_DESC_FIRST_PERSON": "Você é o proprietário da conta. Se excluir sua conta, o locatário será excluído junto.",
+    "PERM_isAccountOwner_DESC": "É o proprietário da conta. Se excluir a própria conta, o tenant será excluído junto.",
+    "PERM_isAccountOwner_DESC_FIRST_PERSON": "Você é o proprietário da conta. Se excluir sua conta, o tenant será excluído junto.",
     "PERM_isAdminAdmin_NAME": "Super Administrador",
     "PERM_isAdminAdmin_DESC": "Pode gerenciar outros administradores.",
     "PERM_isAdminAdmin_DESC_FIRST_PERSON": "Você pode gerenciar outros administradores.",

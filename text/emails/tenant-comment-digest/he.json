@@ -9,7 +9,7 @@
     "STAT_LABEL_APPROVED": "אושר",
     "STAT_LABEL_SPAM": "ספאם חדש",
     "STAT_LABEL_NEW_USERS": "מגיבים חדשים",
-    "COMMENTS_NEEDING_REVIEW": "תגובות הדורשות סקירה",
+    "COMMENTS_NEEDING_REVIEW": "תגובות הדורשות בדיקה",
     "RECENT_COMMENTS": "תגובות אחרונות",
     "NO_COMMENTS": "אין מה להראות כאן!",
     "VIEW_MORE_COMMENTS": "נהל <%= abbreviateNumber(commentCount - comments.length, 0, locale) %> תגובות נוספות",
@@ -36,5 +36,5 @@
     "AGENT_ACTION_WARNED_USER": "הוזהרו ל-{count} משתמשים באמצעות הודעה פרטית",
     "AGENT_ACTION_UNLOCK_COMMENT": "נעילת {count} תגובות",
     "AGENT_ACTION_DRY_RUN_BADGE": "ריצה יבשה",
-    "AGENT_ACTION_BAN_USER": "משתמשים חסומים ({count})"
+    "AGENT_ACTION_BAN_USER": "משתמשים שהורחקו ({count})"
 }

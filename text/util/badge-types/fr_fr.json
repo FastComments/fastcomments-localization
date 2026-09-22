@@ -12,8 +12,8 @@
     "BADGE_TYPE_ModeratorCommentsApproved": "Modérateur - Nombre de commentaires approuvés",
     "BADGE_TYPE_ModeratorCommentsUnapproved": "Modérateur - Nombre de commentaires non approuvés",
     "BADGE_TYPE_ModeratorCommentsReviewed": "Modérateur - Nombre de commentaires examinés",
-    "BADGE_TYPE_ModeratorCommentsMarkedSpam": "Modérateur - Nombre de commentaires signalés comme spam",
-    "BADGE_TYPE_ModeratorCommentsMarkedNotSpam": "Modérateur - Nombre de commentaires marqués comme non indésirables",
+    "BADGE_TYPE_ModeratorCommentsMarkedSpam": "Modérateur - Nombre de commentaires marqués comme spam",
+    "BADGE_TYPE_ModeratorCommentsMarkedNotSpam": "Modérateur - Nombre de commentaires marqués comme non-spam",
     "BADGE_LIMIT_Manual": "N / A",
     "BADGE_LIMIT_CommentCount": "Nombre de commentaires requis pour obtenir le badge.",
     "BADGE_LIMIT_CommentUpVotes": "Nombre de votes positifs sur les commentaires de l'utilisateur pour obtenir le badge.",
@@ -43,5 +43,5 @@
     "BADGE_DEFAULT_NAME_ModeratorCommentsUnapproved": "Tampon rouge",
     "BADGE_DEFAULT_NAME_ModeratorCommentsReviewed": "Modérateur rapide",
     "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedSpam": "Détecteur de spam",
-    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedNotSpam": "Pas de spam"
+    "BADGE_DEFAULT_NAME_ModeratorCommentsMarkedNotSpam": "Non-spam"
 }

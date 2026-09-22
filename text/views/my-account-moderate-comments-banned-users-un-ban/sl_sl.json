@@ -1,8 +1,8 @@
 {
-    "PAGE_TITLE": "Odstranitev prepovedi uporabniku - FastComments",
-    "HEADING": "Odstrani izključitev uporabnika",
-    "SUB_HEADING": "Odstrani izključitev za <%= bannedUser.username %>?",
+    "PAGE_TITLE": "Preklic izključitve uporabnika - FastComments",
+    "HEADING": "Preklic izključitve uporabnika",
+    "SUB_HEADING": "Želite preklicati izključitev uporabnika <%= bannedUser.username %>?",
     "CONFIRM_MESSAGE": "Ali ste prepričani, da želite preklicati izključitev tega uporabnika?",
-    "BANNED_FOR_SAYING_TEXT": "Izključeni so bili, ker so napisali \"<span class=\"quote\"><%= bannedUser.bannedCommentText %></span>\"",
-    "UN_BAN_BUTTON": "Odstrani izključitev uporabnika"
+    "BANNED_FOR_SAYING_TEXT": "Razlog za izključitev je bil komentar \"<span class=\"quote\"><%= bannedUser.bannedCommentText %></span>\"",
+    "UN_BAN_BUTTON": "Prekliči izključitev uporabnika"
 }

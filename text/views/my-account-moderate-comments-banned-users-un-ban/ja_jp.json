@@ -1,8 +1,8 @@
 {
-    "PAGE_TITLE": "ユーザーの禁止を解除する - FastComments",
-    "HEADING": "ユーザーの禁止を解除する",
-    "SUB_HEADING": "<%= bannedUser.username %> の禁止を解除しますか?",
-    "CONFIRM_MESSAGE": "このユーザーの禁止を解除してもよろしいですか?",
-    "BANNED_FOR_SAYING_TEXT": "彼らは「 <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> 」と言ったために禁止されました",
-    "UN_BAN_BUTTON": "ユーザーの禁止を解除"
+    "PAGE_TITLE": "ユーザーのBANを解除 - FastComments",
+    "HEADING": "ユーザーのBANを解除",
+    "SUB_HEADING": "<%= bannedUser.username %> のBANを解除しますか?",
+    "CONFIRM_MESSAGE": "このユーザーのBANを解除してもよろしいですか?",
+    "BANNED_FOR_SAYING_TEXT": "このユーザーは「<span class=\"quote\"><%= bannedUser.bannedCommentText %></span>」と発言したためBANされました",
+    "UN_BAN_BUTTON": "ユーザーのBANを解除"
 }

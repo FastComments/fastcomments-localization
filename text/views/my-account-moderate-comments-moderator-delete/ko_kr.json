@@ -1,10 +1,10 @@
 {
-    "PAGE_TITLE": "관리자 삭제 - FastComments",
-    "HEADING": "운영자 제거",
-    "SUB_HEADING": "<%= moderator.name %>을(를) 제거하려고 합니다.",
-    "CANNOT_UNDO": "이 변경 사항은 되돌릴 수 없습니다. <%= moderator.name %>님은 더 이상 귀하의 댓글을 보거나 관리할 수 없습니다.",
-    "NOTIFICATION_INFO": "운영자 자격이 박탈되면 자동 이메일을 통해 통보받게 됩니다.",
-    "METRICS_WARNING": "해당 사용자의 모든 측정 항목이 삭제됩니다 <b>(이메일 주소를 변경하려면 이전 페이지에서 수정할 수 있습니다)</b> .",
+    "PAGE_TITLE": "모더레이터 삭제 - FastComments",
+    "HEADING": "모더레이터 제거",
+    "SUB_HEADING": "<%= moderator.name %>님을 제거합니다",
+    "CANNOT_UNDO": "이 작업은 되돌릴 수 없습니다. <%= moderator.name %>님은 더 이상 댓글을 보거나 모더레이션할 수 없습니다.",
+    "NOTIFICATION_INFO": "모더레이터에서 제거되었다는 사실이 자동 이메일로 당사자에게 통보됩니다.",
+    "METRICS_WARNING": "해당 모더레이터의 모든 통계가 삭제됩니다 <b>(이메일을 변경하려는 경우 이전 페이지에서 수정할 수 있습니다)</b>.",
     "CANCEL_LINK": "취소",
-    "DELETE_BUTTON": "이 관리자를 삭제하세요"
+    "DELETE_BUTTON": "이 모더레이터 삭제"
 }
