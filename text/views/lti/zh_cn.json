@@ -54,7 +54,7 @@
     "FAQ_LTI_FREE_TRIAL": "有免费试用吗？",
     "FAQ_LTI_FREE_TRIAL_ANSWER": "是的。FastComments 提供 30 天免费试用，期间可完全访问所有功能，包括 LTI 单点登录和富文本编辑器。无需信用卡即可开始使用。",
     "FAQ_LTI_SSO": "SSO 如何与 LTI 1.3 协同工作？",
-    "FAQ_LTI_SSO_ANSWER": "当学生通过您的学习管理系统 (LMS) 启动 FastComments 时，LTI 1.3 协议会将他们的身份信息（姓名、邮箱、头像和角色）安全地传递给 FastComments，并自动创建一个相应的帐户。学生无需单独注册。",
+    "FAQ_LTI_SSO_ANSWER": "当学生通过您的学习管理系统 (LMS) 启动 FastComments 时，LTI 1.3 协议会将他们的身份信息（姓名、邮箱、头像和角色）安全地传递给 FastComments，并自动创建一个相应的账户。学生无需单独注册。",
     "FAQ_LTI_HOSTING": "我需要自己架设服务器吗？",
     "FAQ_LTI_HOSTING_ANSWER": "不，FastComments托管了所有LTI端点。您只需使用提供的配置URL将您的LMS指向FastComments即可。您的服务器上无需安装或维护任何内容。",
     "FAQ_LTI_GDPR": "FastComments是否符合GDPR要求？",

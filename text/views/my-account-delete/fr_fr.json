@@ -3,7 +3,7 @@
     "HEADING_DELETE_ACCOUNT": "Supprimer le compte de <%= user.username %>",
     "TEXT_PRIVACY_POLICY_NOTE": "Si vous supprimez votre compte pour des raisons de confidentialité, veuillez consulter notre <a href=\"/privacy-policy\">Politique de confidentialité</a>. Nous ne vendons ni ne partageons vos données avec des tiers.",
     "TEXT_ALSO_DELETING_TENANT": "Suppression également du compte « <%= tenant ? tenant.name : '' %> ».",
-    "TEXT_ACCOUNT_OWNER_WARNING": "Vous êtes le propriétaire du compte. La suppression de votre compte utilisateur entraîne la suppression du compte FastComments associé.",
+    "TEXT_ACCOUNT_OWNER_WARNING": "Vous êtes le propriétaire du compte. La suppression de votre compte utilisateur entraîne la suppression de ce tenant.",
     "TEXT_SUBSCRIPTION_CANCELLED": "Votre abonnement sera également annulé.",
     "TEXT_NO_SELL_DATA": "Veuillez noter que FastComments <b>ne vend ni ne partage</b> vos informations personnelles avec des tiers. La création d&#39;un compte est gratuite et proposée uniquement pour votre commodité.",
     "HEADING_CONFIRMATION": "Confirmation",

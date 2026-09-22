@@ -1,0 +1,23 @@
+{
+    "POLL_QUESTION_PLACEHOLDER": "Κάντε μια ερώτηση...",
+    "POLL_OPTION_PLACEHOLDER": "Επιλογή [n]",
+    "POLL_ADD_OPTION": "Προσθήκη επιλογής",
+    "POLL_REMOVE_OPTION": "Αφαίρεση επιλογής",
+    "POLL_CLOSES_NEVER": "Χωρίς ημερομηνία λήξης",
+    "POLL_CLOSES_1_DAY": "1 ημέρα",
+    "POLL_CLOSES_3_DAYS": "3 ημέρες",
+    "POLL_CLOSES_1_WEEK": "1 εβδομάδα",
+    "POLL_REMOVE": "Αφαίρεση δημοσκόπησης",
+    "POLL_ERROR_QUESTION_REQUIRED": "Εισαγάγετε μια ερώτηση για τη δημοσκόπησή σας.",
+    "POLL_ERROR_MIN_OPTIONS": "Εισαγάγετε τουλάχιστον δύο επιλογές.",
+    "POLL_SHOW_RESULTS": "Εμφάνιση αποτελεσμάτων",
+    "POLL_HIDE_RESULTS": "Απόκρυψη αποτελεσμάτων",
+    "POLL_CHANGE_VOTE": "Αλλαγή ψήφου",
+    "POLL_VOTE_SAVED": "Η ψήφος σας καταγράφηκε",
+    "POLL_RESPONSES_SINGULAR": "[count] ψήφος",
+    "POLL_RESPONSES_PLURAL": "[count] ψήφοι",
+    "POLL_CLOSES_AT": "Η δημοσκόπηση κλείνει [date]",
+    "POLL_CLOSED": "Η δημοσκόπηση έκλεισε",
+    "POLL_LOGIN_TO_VOTE": "Συνδεθείτε για να ψηφίσετε",
+    "POLL_VOTE_FAILED": "Δεν μπορέσαμε να αποθηκεύσουμε την ψήφο σας. Δοκιμάστε ξανά."
+}

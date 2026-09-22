@@ -6,7 +6,7 @@
     "SUCCESS_UNBANNED_MESSAGE": "Usuario desbaneado correctamente.",
     "INTRO_PARAGRAPH_1": "A continuación, se muestra una lista de los usuarios o correos electrónicos a los que se ha baneado y no pueden comentar ni votar en tus dominios. Si un usuario tiene un baneo en la sombra, sus comentarios y votos seguirán apareciendo como publicados, pero no se guardarán.",
     "INTRO_PARAGRAPH_2": "Puedes banear usuarios mediante la opción \"banear\" en la página de Moderar comentarios, o haciendo clic en el icono más en la parte inferior de esta página si tienes un correo electrónico específico para banear.",
-    "INTRO_PARAGRAPH_3": "Cuando los usuarios baneados intenten comentar, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">aparecerá en el registro de auditoría</a> con la descripción &quot;Usuario baneado bloqueado para comentar&quot;.",
+    "INTRO_PARAGRAPH_3": "Cuando los usuarios baneados intenten comentar, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">aparecerá en el registro de auditoría</a> con la descripción &quot;Banned user blocked from commenting.&quot;",
     "IP_BAN_WARNING": "FastComments no almacena direcciones IP sin procesar para baneos basados en IP. Ten cuidado al usar baneos basados en IP, ya que las direcciones IP pueden reasignarse.",
     "SHOWING_BANNED_USERS": "Mostrando <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> de <%= totalCount %> usuarios baneados",
     "PAGE_LABEL": "Página",

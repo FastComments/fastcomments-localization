@@ -1,0 +1,23 @@
+{
+    "POLL_QUESTION_PLACEHOLDER": "Stil et spørgsmål...",
+    "POLL_OPTION_PLACEHOLDER": "Valgmulighed [n]",
+    "POLL_ADD_OPTION": "Tilføj valgmulighed",
+    "POLL_REMOVE_OPTION": "Fjern valgmulighed",
+    "POLL_CLOSES_NEVER": "Ingen slutdato",
+    "POLL_CLOSES_1_DAY": "1 dag",
+    "POLL_CLOSES_3_DAYS": "3 dage",
+    "POLL_CLOSES_1_WEEK": "1 uge",
+    "POLL_REMOVE": "Fjern afstemning",
+    "POLL_ERROR_QUESTION_REQUIRED": "Indtast et spørgsmål til din afstemning.",
+    "POLL_ERROR_MIN_OPTIONS": "Indtast mindst to valgmuligheder.",
+    "POLL_SHOW_RESULTS": "Vis resultater",
+    "POLL_HIDE_RESULTS": "Skjul resultater",
+    "POLL_CHANGE_VOTE": "Skift stemme",
+    "POLL_VOTE_SAVED": "Din stemme er registreret",
+    "POLL_RESPONSES_SINGULAR": "[count] stemme",
+    "POLL_RESPONSES_PLURAL": "[count] stemmer",
+    "POLL_CLOSES_AT": "Afstemningen slutter den [date]",
+    "POLL_CLOSED": "Afstemningen er slut",
+    "POLL_LOGIN_TO_VOTE": "Log ind for at stemme",
+    "POLL_VOTE_FAILED": "Vi kunne ikke gemme din stemme. Prøv igen."
+}

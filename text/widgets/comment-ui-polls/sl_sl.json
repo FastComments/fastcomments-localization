@@ -1,0 +1,23 @@
+{
+    "POLL_QUESTION_PLACEHOLDER": "Zastavite vprašanje ...",
+    "POLL_OPTION_PLACEHOLDER": "Možnost [n]",
+    "POLL_ADD_OPTION": "Dodaj možnost",
+    "POLL_REMOVE_OPTION": "Odstrani možnost",
+    "POLL_CLOSES_NEVER": "Brez končnega datuma",
+    "POLL_CLOSES_1_DAY": "1 dan",
+    "POLL_CLOSES_3_DAYS": "3 dnevi",
+    "POLL_CLOSES_1_WEEK": "1 teden",
+    "POLL_REMOVE": "Odstrani anketo",
+    "POLL_ERROR_QUESTION_REQUIRED": "Vnesite vprašanje za svojo anketo.",
+    "POLL_ERROR_MIN_OPTIONS": "Vnesite vsaj dve možnosti.",
+    "POLL_SHOW_RESULTS": "Prikaži rezultate",
+    "POLL_HIDE_RESULTS": "Skrij rezultate",
+    "POLL_CHANGE_VOTE": "Spremeni glas",
+    "POLL_VOTE_SAVED": "Vaš glas je oddan",
+    "POLL_RESPONSES_SINGULAR": "Odgovorov: [count]",
+    "POLL_RESPONSES_PLURAL": "Odgovorov: [count]",
+    "POLL_CLOSES_AT": "Anketa se zapre [date]",
+    "POLL_CLOSED": "Anketa je zaprta",
+    "POLL_LOGIN_TO_VOTE": "Prijavite se za glasovanje",
+    "POLL_VOTE_FAILED": "Vašega glasa nismo mogli shraniti. Prosimo, poskusite znova."
+}

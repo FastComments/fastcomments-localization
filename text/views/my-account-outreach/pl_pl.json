@@ -71,8 +71,8 @@
     "FLASH_SEND_FAILED": "Wysyłanie nie powiodło się. Wersja robocza jest nadal w toku — spróbuj ponownie.",
     "FLASH_BULK_SENT_PARTIAL": "Wysłane e-maile: {count}. Części nie udało się wysłać i nadal oczekują.",
     "FLASH_BULK_DENIED_PARTIAL": "Odrzucone szkice: {count}. Niektóre nie były już oczekujące.",
-    "FLASH_BULK_SENT": "Wysłane e-maile: {count}.",
+    "FLASH_BULK_SENT": "Wysłano e-maile: {count}.",
     "FLASH_TOO_LONG": "Ten szkic jest za długi, aby go zapisać. Skróć temat lub treść i spróbuj ponownie.",
-    "FLASH_BULK_DENIED": "Odrzucone szkice: {count}.",
+    "FLASH_BULK_DENIED": "Odrzucono szkice: {count}.",
     "FLASH_NOTHING_SELECTED": "Najpierw wybierz co najmniej jeden szkic."
 }

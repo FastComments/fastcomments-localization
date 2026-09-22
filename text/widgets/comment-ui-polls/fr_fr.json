@@ -1,0 +1,23 @@
+{
+    "POLL_QUESTION_PLACEHOLDER": "Posez une question…",
+    "POLL_OPTION_PLACEHOLDER": "Option [n]",
+    "POLL_ADD_OPTION": "Ajouter une option",
+    "POLL_REMOVE_OPTION": "Supprimer l’option",
+    "POLL_CLOSES_NEVER": "Sans date de fin",
+    "POLL_CLOSES_1_DAY": "1 jour",
+    "POLL_CLOSES_3_DAYS": "3 jours",
+    "POLL_CLOSES_1_WEEK": "1 semaine",
+    "POLL_REMOVE": "Supprimer le sondage",
+    "POLL_ERROR_QUESTION_REQUIRED": "Saisissez une question pour votre sondage.",
+    "POLL_ERROR_MIN_OPTIONS": "Saisissez au moins deux options.",
+    "POLL_SHOW_RESULTS": "Afficher les résultats",
+    "POLL_HIDE_RESULTS": "Masquer les résultats",
+    "POLL_CHANGE_VOTE": "Modifier mon vote",
+    "POLL_VOTE_SAVED": "Votre vote est enregistré",
+    "POLL_RESPONSES_SINGULAR": "[count] réponse",
+    "POLL_RESPONSES_PLURAL": "[count] réponses",
+    "POLL_CLOSES_AT": "Le sondage se termine le [date]",
+    "POLL_CLOSED": "Sondage clos",
+    "POLL_LOGIN_TO_VOTE": "Se connecter pour voter",
+    "POLL_VOTE_FAILED": "Nous n’avons pas pu enregistrer votre vote. Veuillez réessayer."
+}

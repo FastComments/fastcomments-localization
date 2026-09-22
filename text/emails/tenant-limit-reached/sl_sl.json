@@ -7,7 +7,7 @@
     "BODY_FIXED": "Za nemoteno delovanje izberite paket z višjo omejitvijo. Spodnji gumb vas neposredno prijavi na stran za obračunavanje.",
     "INTRO": "Vaš račun je dosegel eno od omejitev porabe trenutnega paketa. Zahteve, ki presegajo to omejitev, so zavrnjene, dokler se omejitev ne spremeni ali dokler se mesec ne preklopi.",
     "CTA_FIXED": "Izberite večji paket",
-    "CHILD_TENANT_LINE": "To opozorilo je za <strong><%= childTenantName %></strong>, račun, ki ga upravlja vaš račun.",
+    "CHILD_TENANT_LINE": "To opozorilo je za <strong><%= childTenantName %></strong>, podračun, ki ga upravlja vaš račun.",
     "SECONDARY_FIXED": "Potrebujete nekaj po meri? Odprite zahtevek za podporo in za vas bomo pripravili paket.",
     "BODY_FLEX": "Ta omejitev je nastavljena v vašem paketu Flex. Omejitve konfigurirajte na strani za obračunavanje. Za njihovo nastavitev uporabite spodnji gumb.",
     "CTA_FLEX": "Prilagodite svoje omejitve"

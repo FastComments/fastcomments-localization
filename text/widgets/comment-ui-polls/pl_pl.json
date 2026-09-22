@@ -1,0 +1,23 @@
+{
+    "POLL_QUESTION_PLACEHOLDER": "Zadaj pytanie...",
+    "POLL_OPTION_PLACEHOLDER": "Opcja [n]",
+    "POLL_ADD_OPTION": "Dodaj opcję",
+    "POLL_REMOVE_OPTION": "Usuń opcję",
+    "POLL_CLOSES_NEVER": "Bez daty zakończenia",
+    "POLL_CLOSES_1_DAY": "1 dzień",
+    "POLL_CLOSES_3_DAYS": "3 dni",
+    "POLL_CLOSES_1_WEEK": "1 tydzień",
+    "POLL_REMOVE": "Usuń ankietę",
+    "POLL_ERROR_QUESTION_REQUIRED": "Wpisz pytanie do swojej ankiety.",
+    "POLL_ERROR_MIN_OPTIONS": "Wpisz co najmniej dwie opcje.",
+    "POLL_SHOW_RESULTS": "Pokaż wyniki",
+    "POLL_HIDE_RESULTS": "Ukryj wyniki",
+    "POLL_CHANGE_VOTE": "Zmień głos",
+    "POLL_VOTE_SAVED": "Twój głos został zapisany",
+    "POLL_RESPONSES_SINGULAR": "Głosów: [count]",
+    "POLL_RESPONSES_PLURAL": "Głosów: [count]",
+    "POLL_CLOSES_AT": "Ankieta kończy się: [date]",
+    "POLL_CLOSED": "Ankieta zakończona",
+    "POLL_LOGIN_TO_VOTE": "Zaloguj się, aby oddać głos",
+    "POLL_VOTE_FAILED": "Nie udało się zapisać Twojego głosu. Spróbuj ponownie."
+}

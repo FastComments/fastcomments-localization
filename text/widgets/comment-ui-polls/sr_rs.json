@@ -1,0 +1,23 @@
+{
+    "POLL_QUESTION_PLACEHOLDER": "Поставите питање...",
+    "POLL_OPTION_PLACEHOLDER": "Опција [n]",
+    "POLL_ADD_OPTION": "Додај опцију",
+    "POLL_REMOVE_OPTION": "Уклони опцију",
+    "POLL_CLOSES_NEVER": "Без датума завршетка",
+    "POLL_CLOSES_1_DAY": "1 дан",
+    "POLL_CLOSES_3_DAYS": "3 дана",
+    "POLL_CLOSES_1_WEEK": "1 недеља",
+    "POLL_REMOVE": "Уклони анкету",
+    "POLL_ERROR_QUESTION_REQUIRED": "Унесите питање за своју анкету.",
+    "POLL_ERROR_MIN_OPTIONS": "Унесите најмање две опције.",
+    "POLL_SHOW_RESULTS": "Прикажи резултате",
+    "POLL_HIDE_RESULTS": "Сакриј резултате",
+    "POLL_CHANGE_VOTE": "Промени глас",
+    "POLL_VOTE_SAVED": "Ваш глас је забележен",
+    "POLL_RESPONSES_SINGULAR": "Одговора: [count]",
+    "POLL_RESPONSES_PLURAL": "Одговора: [count]",
+    "POLL_CLOSES_AT": "Анкета се затвара [date]",
+    "POLL_CLOSED": "Анкета је затворена",
+    "POLL_LOGIN_TO_VOTE": "Пријавите се да гласате",
+    "POLL_VOTE_FAILED": "Нисмо могли да сачувамо ваш глас. Покушајте поново."
+}

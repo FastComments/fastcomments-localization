@@ -9,7 +9,7 @@
     "RESET_FLAG_BUTTON": "重置举报计数",
     "CANCEL_FLAG_BUTTON": "取消",
     "BAN_USER_MESSAGE": "您想如何封禁此用户？",
-    "BAN_VIA_EMAIL_ACCOUNT_LABEL": "通过电子邮件/帐户封禁",
+    "BAN_VIA_EMAIL_ACCOUNT_LABEL": "通过电子邮件/账户封禁",
     "ANONYMOUS_COMMENT_NOTE": "这是一条匿名评论。我们无法通过邮箱或账号信息进行封禁。",
     "BAN_VIA_IP_LABEL": "通过 IP 地址封禁",
     "BAN_EMAIL_DOMAIN_LABEL": "封禁所有<%= comment.commenterEmail.substring(comment.commenterEmail.indexOf('@'), comment.commenterEmail.length) %>用户",

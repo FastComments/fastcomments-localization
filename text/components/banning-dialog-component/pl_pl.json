@@ -27,11 +27,11 @@
     "BAN_DIALOG_DURATION_ONE_YEAR": "Jeden rok",
     "BAN_DIALOG_REASON_LABEL": "Powód bana (opcjonalnie)",
     "BAN_DIALOG_REASON_PLACEHOLDER": "Podaj powód bana...",
-    "BAN_DIALOG_DELETE_ALL_COMMENTS": "Usuń powiązane komentarze: [count][summary].",
-    "BAN_DIALOG_BY_USER": "według użytkownika",
-    "BAN_DIALOG_BY_EMAIL": "według adresu e-mail",
-    "BAN_DIALOG_BY_IP": "według IP",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "z adresami e-mail kończącymi się na [domain], w tym w subdomenach",
+    "BAN_DIALOG_DELETE_ALL_COMMENTS": "Usuń powiązane komentarze[summary]: [count].",
+    "BAN_DIALOG_BY_USER": "Według użytkownika",
+    "BAN_DIALOG_BY_EMAIL": "Według adresu e-mail",
+    "BAN_DIALOG_BY_IP": "Według IP",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Z adresami e-mail kończącymi się na [domain], w tym w subdomenach",
     "BAN_DIALOG_AFFECTS_USERS": "Dotyczy użytkowników: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "Tego użytkownika nie można zbanować, ponieważ nie ma identyfikatora użytkownika, anonimowej sesji, adresu e-mail ani adresu IP."
 }

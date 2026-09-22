@@ -1,0 +1,23 @@
+{
+    "POLL_QUESTION_PLACEHOLDER": "在此输入问题...",
+    "POLL_OPTION_PLACEHOLDER": "选项 [n]",
+    "POLL_ADD_OPTION": "添加选项",
+    "POLL_REMOVE_OPTION": "删除选项",
+    "POLL_CLOSES_NEVER": "无截止日期",
+    "POLL_CLOSES_1_DAY": "一天",
+    "POLL_CLOSES_3_DAYS": "三天",
+    "POLL_CLOSES_1_WEEK": "一周",
+    "POLL_REMOVE": "删除投票",
+    "POLL_ERROR_QUESTION_REQUIRED": "请为您的投票输入一个问题。",
+    "POLL_ERROR_MIN_OPTIONS": "请至少输入两个选项。",
+    "POLL_SHOW_RESULTS": "显示结果",
+    "POLL_HIDE_RESULTS": "隐藏结果",
+    "POLL_CHANGE_VOTE": "修改投票",
+    "POLL_VOTE_SAVED": "您的投票已记录",
+    "POLL_RESPONSES_SINGULAR": "[count] 个回应",
+    "POLL_RESPONSES_PLURAL": "[count] 个回应",
+    "POLL_CLOSES_AT": "投票于 [date] 结束",
+    "POLL_CLOSED": "投票已结束",
+    "POLL_LOGIN_TO_VOTE": "登录后投票",
+    "POLL_VOTE_FAILED": "无法保存您的投票，请重试。"
+}

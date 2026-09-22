@@ -5,7 +5,7 @@
     "BULK_BAN_BTN_CANCEL": "Anuluj",
     "BULK_BAN_PLURAL_EMAILS": "e-maile",
     "BULK_BAN_SINGULAR_EMAIL": "e-mail",
-    "BULK_BAN_PLURAL_USERS": "użytkowników",
+    "BULK_BAN_PLURAL_USERS": "użytkownicy",
     "BULK_BAN_SINGULAR_USER": "użytkownik",
     "BULK_BAN_PLURAL_EMAIL_DOMAINS": "domeny e-mail",
     "BULK_BAN_SINGULAR_EMAIL_DOMAIN": "domena e-mail",
@@ -29,9 +29,9 @@
     "BULK_BAN_DURATION_SIX_MONTHS": "Sześć miesięcy",
     "BULK_BAN_DURATION_ONE_YEAR": "Jeden rok",
     "BULK_BAN_DELETE_ALL_COMMENTS": "Usuń wszystkie powiązane komentarze.",
-    "BULK_BAN_BY_USER": "według użytkownika",
-    "BULK_BAN_BY_EMAIL": "według adresu e-mail",
-    "BULK_BAN_BY_IP": "według IP",
-    "BULK_BAN_BY_EMAIL_DOMAIN": "z adresami e-mail kończącymi się na: [domains]",
-    "BULK_BAN_DELETE_RELATED_COMMENTS": "Usuń powiązane komentarze: [count][summary]."
+    "BULK_BAN_BY_USER": "Według użytkownika",
+    "BULK_BAN_BY_EMAIL": "Według adresu e-mail",
+    "BULK_BAN_BY_IP": "Według IP",
+    "BULK_BAN_BY_EMAIL_DOMAIN": "Z adresami e-mail kończącymi się na: [domains]",
+    "BULK_BAN_DELETE_RELATED_COMMENTS": "Usuń powiązane komentarze[summary]: [count]."
 }

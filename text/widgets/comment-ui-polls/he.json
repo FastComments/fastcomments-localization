@@ -1,0 +1,23 @@
+{
+    "POLL_QUESTION_PLACEHOLDER": "שאל שאלה...",
+    "POLL_OPTION_PLACEHOLDER": "אפשרות [n]",
+    "POLL_ADD_OPTION": "הוסף אפשרות",
+    "POLL_REMOVE_OPTION": "הסר אפשרות",
+    "POLL_CLOSES_NEVER": "ללא תאריך סיום",
+    "POLL_CLOSES_1_DAY": "יום אחד",
+    "POLL_CLOSES_3_DAYS": "3 ימים",
+    "POLL_CLOSES_1_WEEK": "שבוע אחד",
+    "POLL_REMOVE": "הסר סקר",
+    "POLL_ERROR_QUESTION_REQUIRED": "יש להזין שאלה לסקר שלך.",
+    "POLL_ERROR_MIN_OPTIONS": "יש להזין לפחות שתי אפשרויות.",
+    "POLL_SHOW_RESULTS": "הצג תוצאות",
+    "POLL_HIDE_RESULTS": "הסתר תוצאות",
+    "POLL_CHANGE_VOTE": "שנה הצבעה",
+    "POLL_VOTE_SAVED": "ההצבעה שלך נרשמה",
+    "POLL_RESPONSES_SINGULAR": "[count] הצבעה",
+    "POLL_RESPONSES_PLURAL": "[count] הצבעות",
+    "POLL_CLOSES_AT": "הסקר נסגר ב-[date]",
+    "POLL_CLOSED": "הסקר סגור",
+    "POLL_LOGIN_TO_VOTE": "היכנס להצבעה",
+    "POLL_VOTE_FAILED": "לא הצלחנו לשמור את ההצבעה שלך. יש לנסות שוב."
+}

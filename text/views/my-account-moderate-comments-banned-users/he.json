@@ -6,7 +6,7 @@
     "SUCCESS_UNBANNED_MESSAGE": "הרחקת המשתמש בוטלה בהצלחה.",
     "INTRO_PARAGRAPH_1": "להלן רשימה של המשתמשים, או כתובות הדוא\"ל, שהורחקו מכתיבת תגובות או מהצבעה בדומיינים שלך. אם משתמש נמצא ב\"הרחקה סמויה\", התגובות וההצבעות שלו עדיין ייראו לו כאילו פורסמו, אך הן לא יישמרו.",
     "INTRO_PARAGRAPH_2": "ניתן להרחיק משתמשים באמצעות האפשרות \"הרחקה\" בדף ניהול התגובות, או על ידי לחיצה על סמל הפלוס בתחתית דף זה אם יש לך כתובת דוא\"ל ספציפית להרחקה.",
-    "INTRO_PARAGRAPH_3": "כאשר משתמשים מורחקים ינסו להגיב, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">הדבר יופיע ביומן הביקורת</a> עם התיאור &quot;נמנעה תגובה ממשתמש מורחק&quot;.",
+    "INTRO_PARAGRAPH_3": "כאשר משתמשים מורחקים ינסו להגיב, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">הדבר יופיע ביומן הביקורת</a> עם התיאור &quot;Banned user blocked from commenting.&quot;",
     "IP_BAN_WARNING": "FastComments אינו שומר כתובות IP גולמיות עבור הרחקות מבוססות IP. יש להיזהר בעת שימוש בהרחקות מבוססות IP מכיוון שכתובות IP עשויות להיות מוקצות מחדש.",
     "SHOWING_BANNED_USERS": "מציג <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> מתוך <%= totalCount %> משתמשים מורחקים",
     "PAGE_LABEL": "עמוד",

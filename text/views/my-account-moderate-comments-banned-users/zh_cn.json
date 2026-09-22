@@ -6,7 +6,7 @@
     "SUCCESS_UNBANNED_MESSAGE": "已成功解除用户封禁。",
     "INTRO_PARAGRAPH_1": "以下列出了已被封禁、无法在您的域名上发表评论或投票的用户或电子邮件地址。如果用户被“影子封禁”，他们的评论和投票在其本人看来仍会发布成功，但不会被保存。",
     "INTRO_PARAGRAPH_2": "您可以通过“审核评论”页面上的“封禁”选项封禁用户，或者如果您有要封禁的特定电子邮件地址，则可以单击此页面底部的加号图标。",
-    "INTRO_PARAGRAPH_3": "当被封禁的用户尝试发表评论时，<a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">审计日志中会出现相应记录</a>，其描述为“已阻止被封禁用户发表评论”。",
+    "INTRO_PARAGRAPH_3": "当被封禁的用户尝试发表评论时，<a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">审计日志中会出现相应记录</a>，其描述为“Banned user blocked from commenting.”。",
     "IP_BAN_WARNING": "FastComments 不会为基于 IP 的封禁存储原始 IP 地址。使用基于 IP 的封禁时请务必谨慎，因为 IP 地址可能会被重新分配。",
     "SHOWING_BANNED_USERS": "显示第 <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> 位，共 <%= totalCount %> 位被封禁用户",
     "PAGE_LABEL": "页",

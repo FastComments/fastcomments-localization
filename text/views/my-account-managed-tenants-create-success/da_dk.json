@@ -1,11 +1,11 @@
 {
-    "PAGE_TITLE": "Opret en administreret konto - FastComments",
-    "HEADING": "Konto oprettet",
-    "SUCCESS_MESSAGE": "Din konto er blevet oprettet!",
+    "PAGE_TITLE": "Opret en administreret tenant - FastComments",
+    "HEADING": "Tenant oprettet",
+    "SUCCESS_MESSAGE": "Din tenant er blevet oprettet!",
     "NEXT_STEPS_INTRO": "Du kan overveje at følge nogle almindelige trin for at fortsætte opsætningen:",
     "NEXT_STEP_1": "Tilføj flere brugere.",
     "NEXT_STEP_2": "Send brugerne velkomst-/login-links.",
     "NEXT_STEP_3": "Hent tenant-ID'et (tilgængeligt på API/SSO-infosiden) til integrationer.",
-    "TENANTS_VIEW_LINK_TEXT": "Dette kan gøres ved at gå tilbage til <a href=\"/auth/my-account/tenants\">oversigten over konti</a> og skifte til kontoen.",
-    "TENANT_SWITCHING_INFO": "Alle handlinger for administrerede konti udføres ved at skifte til kontoen, herunder sletning af kontoen, hvis det er nødvendigt."
+    "TENANTS_VIEW_LINK_TEXT": "Dette kan gøres ved at gå tilbage til <a href=\"/auth/my-account/tenants\">oversigten over tenants</a> og skifte til tenanten.",
+    "TENANT_SWITCHING_INFO": "Alle handlinger for administrerede tenants udføres ved at skifte til tenanten, herunder sletning af tenanten, hvis det er nødvendigt."
 }

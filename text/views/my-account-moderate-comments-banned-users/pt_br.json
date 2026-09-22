@@ -6,7 +6,7 @@
     "SUCCESS_UNBANNED_MESSAGE": "Usuário desbanido com sucesso.",
     "INTRO_PARAGRAPH_1": "Abaixo está uma lista de seus usuários, ou endereços de e-mail, que foram banidos de comentar ou votar em seus domínios. Se um usuário receber um \"banimento oculto\", seus comentários e votos ainda aparecerão para ele como publicados, mas não serão salvos.",
     "INTRO_PARAGRAPH_2": "Você pode banir usuários através da opção \"banir\" na página de Moderar Comentários, ou clicando no ícone de mais (+) na parte inferior desta página se tiver um endereço de e-mail específico que deseja banir.",
-    "INTRO_PARAGRAPH_3": "Quando usuários banidos tentam comentar, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">isso aparecerá no registro de auditoria</a> com a descrição &quot;Usuário banido, impedido de comentar&quot;.",
+    "INTRO_PARAGRAPH_3": "Quando usuários banidos tentam comentar, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">isso aparecerá no registro de auditoria</a> com a descrição &quot;Banned user blocked from commenting.&quot;",
     "IP_BAN_WARNING": "O FastComments não armazena endereços IP brutos para banimentos baseados em IP. Tenha cuidado ao usar banimentos baseados em IP, pois os endereços IP podem ser reatribuídos.",
     "SHOWING_BANNED_USERS": "Exibindo <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> de <%= totalCount %> Usuários Banidos",
     "PAGE_LABEL": "Página",

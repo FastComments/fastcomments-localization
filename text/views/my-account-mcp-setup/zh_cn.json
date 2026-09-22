@@ -29,7 +29,7 @@
     "DOCS_LINK_SUFFIX": "有关完整的 MCP 集成概述。",
     "OAUTH_HEADING": "使用 OAuth 连接",
     "OAUTH_ENDPOINT_HEADING": "端点 URL",
-    "OAUTH_BODY": "向任何 MCP 客户端提供以下端点即可。客户端会自行注册，将您引导至此处登录并批准访问，然后收到绑定到此帐户的令牌。API 密钥不会被复制到任何地方，您可以随时撤销连接。",
+    "OAUTH_BODY": "向任何 MCP 客户端提供以下端点即可。客户端会自行注册，将您引导至此处登录并批准访问，然后收到绑定到此账户的令牌。API 密钥不会被复制到任何地方，您可以随时撤销连接。",
     "OAUTH_CLAUDE_CODE_HEADING": "Claude Code",
     "OAUTH_CLIENT_CONFIG_HEADING": "客户端配置文件",
     "OAUTH_ENDPOINT_HELP": "将此内容粘贴到 Claude、ChatGPT、Cursor 或任何其他支持使用 OAuth 的远程 MCP 服务器的客户端的连接器或自定义 MCP 服务器设置中。",

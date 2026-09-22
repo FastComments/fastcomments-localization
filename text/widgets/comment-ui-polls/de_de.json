@@ -1,0 +1,23 @@
+{
+    "POLL_QUESTION_PLACEHOLDER": "Frage stellen...",
+    "POLL_OPTION_PLACEHOLDER": "Option [n]",
+    "POLL_ADD_OPTION": "Option hinzufügen",
+    "POLL_REMOVE_OPTION": "Option entfernen",
+    "POLL_CLOSES_NEVER": "Kein Enddatum",
+    "POLL_CLOSES_1_DAY": "1 Tag",
+    "POLL_CLOSES_3_DAYS": "3 Tage",
+    "POLL_CLOSES_1_WEEK": "1 Woche",
+    "POLL_REMOVE": "Umfrage entfernen",
+    "POLL_ERROR_QUESTION_REQUIRED": "Gib eine Frage für deine Umfrage ein.",
+    "POLL_ERROR_MIN_OPTIONS": "Gib mindestens zwei Optionen ein.",
+    "POLL_SHOW_RESULTS": "Ergebnisse anzeigen",
+    "POLL_HIDE_RESULTS": "Ergebnisse ausblenden",
+    "POLL_CHANGE_VOTE": "Stimme ändern",
+    "POLL_VOTE_SAVED": "Deine Stimme wurde gezählt",
+    "POLL_RESPONSES_SINGULAR": "[count] Stimme",
+    "POLL_RESPONSES_PLURAL": "[count] Stimmen",
+    "POLL_CLOSES_AT": "Umfrage endet am [date]",
+    "POLL_CLOSED": "Umfrage beendet",
+    "POLL_LOGIN_TO_VOTE": "Zum Abstimmen anmelden",
+    "POLL_VOTE_FAILED": "Wir konnten deine Stimme nicht speichern. Bitte versuche es erneut."
+}

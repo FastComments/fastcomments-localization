@@ -6,7 +6,7 @@
     "SUCCESS_UNBANNED_MESSAGE": "ユーザーのBANを解除しました。",
     "INTRO_PARAGRAPH_1": "以下は、あなたのドメインでのコメントや投票をBANされているユーザーまたはメールアドレスのリストです。ユーザーが「シャドウBAN」されている場合、本人にはコメントや投票が投稿されたように見えますが、保存はされません。",
     "INTRO_PARAGRAPH_2": "ユーザーをBANするには、「コメントのモデレーション」ページの「BAN」オプションを使用します。特定のメールアドレスをBANしたい場合は、このページの下部にあるプラスアイコンをクリックしてください。",
-    "INTRO_PARAGRAPH_3": "BAN済みユーザーがコメントしようとすると、<a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">監査ログに「BAN済みユーザーのコメント投稿をブロックしました」という説明とともに記録されます</a>。",
+    "INTRO_PARAGRAPH_3": "BAN済みユーザーがコメントしようとすると、<a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">監査ログに「Banned user blocked from commenting.」という説明とともに記録されます</a>。",
     "IP_BAN_WARNING": "FastCommentsは、IPベースのBANのために生のIPアドレスを保存しません。IPアドレスは再割り当てされる可能性があるため、IPベースのBANを使用する場合はご注意ください。",
     "SHOWING_BANNED_USERS": "BAN済みユーザー <%= totalCount %> 人中 <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> 人を表示",
     "PAGE_LABEL": "ページ",

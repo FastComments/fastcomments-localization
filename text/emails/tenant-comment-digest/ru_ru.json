@@ -31,9 +31,9 @@
     "AGENT_ACTION_MARK_COMMENT_APPROVED": "Одобрено комментариев: {count}",
     "AGENT_ACTION_LOCK_COMMENT": "Закрыто веток: {count}",
     "AGENT_ACTION_UNLOCK_COMMENT": "Открыто веток: {count}",
-    "AGENT_ACTION_MARK_COMMENT_SPAM": "Помечено как спам: {count}",
-    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "Помечено как проверенные: {count}",
-    "AGENT_ACTION_LIVE_BADGE": "Рабочий режим",
+    "AGENT_ACTION_MARK_COMMENT_SPAM": "Помечено комментариев как спам: {count}",
+    "AGENT_ACTION_MARK_COMMENT_REVIEWED": "Помечено комментариев как проверенные: {count}",
+    "AGENT_ACTION_LIVE_BADGE": "Рабочий запуск",
     "AGENT_ACTION_DRY_RUN_BADGE": "Пробный запуск",
     "AGENT_ACTION_BAN_USER": "Забанено пользователей: {count}",
     "AGENT_ACTION_WARNED_USER": "Предупреждено пользователей в личных сообщениях: {count}"

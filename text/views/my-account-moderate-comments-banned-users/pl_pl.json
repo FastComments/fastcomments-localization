@@ -6,7 +6,7 @@
     "SUCCESS_UNBANNED_MESSAGE": "Użytkownik został pomyślnie odbanowany.",
     "INTRO_PARAGRAPH_1": "Poniżej znajduje się lista użytkowników i adresów e-mail zbanowanych w Twoich domenach (bez możliwości komentowania i głosowania). Jeśli użytkownik ma „shadowbana”, jego komentarze i głosy będą dla niego wyglądały na opublikowane, ale nie zostaną zapisane.",
     "INTRO_PARAGRAPH_2": "Możesz banować użytkowników, korzystając z opcji „Zbanuj” na stronie Moderuj komentarze lub klikając ikonę plusa na dole tej strony, jeśli chcesz zbanować konkretny adres e-mail.",
-    "INTRO_PARAGRAPH_3": "Gdy zbanowani użytkownicy próbują komentować, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">w dzienniku kontroli pojawia się informacja o tym fakcie</a> z opisem: „Zbanowany użytkownik ma zablokowaną możliwość komentowania”.",
+    "INTRO_PARAGRAPH_3": "Gdy zbanowani użytkownicy próbują komentować, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">w dzienniku kontroli pojawia się informacja o tym fakcie</a> z opisem: „Banned user blocked from commenting.”",
     "IP_BAN_WARNING": "FastComments nie przechowuje surowych adresów IP na potrzeby banowania na podstawie adresu IP. Należy zachować ostrożność podczas stosowania banów na podstawie adresu IP, ponieważ adresy IP mogą zostać przypisane ponownie.",
     "SHOWING_BANNED_USERS": "Wyświetlanie <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> z <%= totalCount %> zbanowanych użytkowników",
     "PAGE_LABEL": "Strona",

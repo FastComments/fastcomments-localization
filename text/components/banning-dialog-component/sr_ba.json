@@ -28,10 +28,10 @@
     "BAN_DIALOG_REASON_LABEL": "Разлог бана (опционо)",
     "BAN_DIALOG_REASON_PLACEHOLDER": "Унесите разлог бана...",
     "BAN_DIALOG_DELETE_ALL_COMMENTS": "Обриши повезане коментаре: [count][summary].",
-    "BAN_DIALOG_BY_USER": "по кориснику",
-    "BAN_DIALOG_BY_EMAIL": "по е-пошти",
-    "BAN_DIALOG_BY_IP": "по IP адреси",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "са е-поштом која се завршава на [domain], укључујући поддомене",
+    "BAN_DIALOG_BY_USER": "По кориснику",
+    "BAN_DIALOG_BY_EMAIL": "По е-пошти",
+    "BAN_DIALOG_BY_IP": "По IP адреси",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "Са е-поштом која се завршава на [domain], укључујући поддомене",
     "BAN_DIALOG_AFFECTS_USERS": "Утиче на кориснике: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "Овај корисник не може бити банован јер нема ИД корисника, анонимну сесију, е-пошту ни IP адресу."
 }

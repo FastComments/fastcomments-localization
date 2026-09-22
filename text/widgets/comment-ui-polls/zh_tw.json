@@ -1,0 +1,23 @@
+{
+    "POLL_QUESTION_PLACEHOLDER": "在這裡輸入問題...",
+    "POLL_OPTION_PLACEHOLDER": "選項 [n]",
+    "POLL_ADD_OPTION": "新增選項",
+    "POLL_REMOVE_OPTION": "移除選項",
+    "POLL_CLOSES_NEVER": "無截止日期",
+    "POLL_CLOSES_1_DAY": "一天",
+    "POLL_CLOSES_3_DAYS": "三天",
+    "POLL_CLOSES_1_WEEK": "一週",
+    "POLL_REMOVE": "移除投票",
+    "POLL_ERROR_QUESTION_REQUIRED": "請為您的投票輸入一個問題。",
+    "POLL_ERROR_MIN_OPTIONS": "請至少輸入兩個選項。",
+    "POLL_SHOW_RESULTS": "顯示結果",
+    "POLL_HIDE_RESULTS": "隱藏結果",
+    "POLL_CHANGE_VOTE": "修改投票",
+    "POLL_VOTE_SAVED": "您的投票已記錄",
+    "POLL_RESPONSES_SINGULAR": "[count] 個回應",
+    "POLL_RESPONSES_PLURAL": "[count] 個回應",
+    "POLL_CLOSES_AT": "投票於 [date] 結束",
+    "POLL_CLOSED": "投票已結束",
+    "POLL_LOGIN_TO_VOTE": "登入後投票",
+    "POLL_VOTE_FAILED": "無法儲存您的投票，請重試。"
+}

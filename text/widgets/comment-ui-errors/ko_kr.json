@@ -1,6 +1,6 @@
 {
     "RATE_LIMITED": "이 FastComments.com 계정은 한도를 초과했습니다. 사이트 관리자에게 문의하세요.",
-    "DOMAIN_NOT_AUTHORIZED": "FastComments는 귀하의 계정에 속하지 않기 때문에 이 도메인에서 로드할 수 없습니다. 귀하가 이 사이트의 관리자라면 <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">여기에서</a> 이를 수정할 수 있습니다.",
+    "DOMAIN_NOT_AUTHORIZED": "FastComments는 회원님의 계정에 속하지 않기 때문에 이 도메인에서 로드할 수 없습니다. 회원님이 이 사이트의 관리자라면 <a href=\"https://fastcomments.com/auth/my-account/configure-domains\" class=\"redirect\">여기에서</a> 이를 수정할 수 있습니다.",
     "INVALID_TENANT": "FastComments를 로드할 수 없습니다. 잘못된 구성이 지정되었습니다. 지정된 'tenantId'가 올바른지 확인하세요.",
     "MALFORMED_SSO": "잘못된 SSO 요청입니다. FastComments 설치를 확인하세요.",
     "BILLING_INFO_INV_60_DAYS": "이 FastComments 계정의 청구 정보는 60일 이상 오래되었습니다. 문제가 해결될 때까지 댓글은 숨겨집니다.",
@@ -23,7 +23,7 @@
     "USER_NOT_FOUND": "요청하신 사용자를 찾을 수 없습니다.",
     "UNAUTHORIZED_USER_ACCESS": "이 사용자를 볼 수 있는 권한이 없습니다.",
     "USER_ACTIVITY_PRIVATE": "이 사용자의 활동 내역은 비공개입니다.",
-    "BLOCKED_BY_USER": "이 사용자가 당신을 차단했습니다. 따라서 해당 사용자의 활동 내역을 볼 수 없습니다.",
+    "BLOCKED_BY_USER": "이 사용자가 회원님을 차단했습니다. 따라서 해당 사용자의 활동 내역을 볼 수 없습니다.",
     "TOS_REQUIRED": "댓글을 작성하려면 서비스 약관 및 개인정보처리방침에 동의해야 합니다.",
     "SSO_USER_LIMIT_REACHED": "이 FastComments.com 계정은 SSO 사용자 최대 허용치에 도달했습니다. 사이트 관리자에게 문의하십시오."
 }

@@ -10,11 +10,11 @@
     "EDIT_LOCALE_LABEL": "編集するロケール",
     "MASKED_WORDS_LABEL": "[localeName] のマスクされた単語。",
     "MASKED_WORDS_DESCRIPTION": "このリスト内の単語 (カンマ区切り) は *** のようにマスクされます。",
-    "MASKED_WORDS_PLACEHOLDER": "「some,bad,words」のように、コンマで区切られた不適切な単語のリストを入力します。",
+    "MASKED_WORDS_PLACEHOLDER": "「ばか, あほ, くず」のように、コンマで区切られた不適切な単語のリストを入力します。",
     "WORDS_LENGTH_ERROR": "ロケールごとに最大5,000語まで入力できます。現在の入力数: <span id=\"length-error-count-words-[locale]\"></span>。",
     "MASKED_PHRASES_LABEL": "[localeName] のマスクされたフレーズ。",
     "MASKED_PHRASES_DESCRIPTION": "このリスト内のフレーズ (コンマ区切り) は ******** のようにマスクされます。",
-    "MASKED_PHRASES_PLACEHOLDER": "「some bad phrase, some other bad phrase」のように、コンマで区切られた不適切なフレーズのリストを入力します。",
+    "MASKED_PHRASES_PLACEHOLDER": "「黙っていろ, ここから出ていけ」のように、コンマで区切られた不適切なフレーズのリストを入力します。",
     "PHRASES_LENGTH_ERROR": "ロケールごとに最大5,000個のフレーズを入力できます。現在の入力数: <span id=\"length-error-count-phrases-[locale]\"></span>。",
     "SAVE_BUTTON": "[localeName] への変更を保存"
 }

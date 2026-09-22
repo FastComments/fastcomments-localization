@@ -5,7 +5,7 @@
     "DESCRIPTION_PART1": "您可以在這裡排程評論，使其隨時間自動即時發佈。這樣您就可以為頁面（例如網路研討會）加上評論，甚至以自動化的方式在頁面上發起關於直播活動的討論。",
     "DESCRIPTION_PART2": "這是透過使用支援的<a href=\"https://docs.fastcomments.com/guide-scheduled-comments.html#import-format\">CSV 格式</a>匯入評論來實現的（<a href=\"https://docs.fastcomments.com/csv/fastcomments-scheduled-comments-example.csv\">範例請參見此處</a>）。",
     "DESCRIPTION_SCHEDULING_TYPES": "<b>有兩種排程方式。</b>第一種是每次頁面載入時開始播放評論，即選擇「每次頁面載入」選項；第二種是手動排程評論，只需來到此處並點選「開始」即可。",
-    "AUTO_PLAY_WARNING": "<b class=\"red\">注意！</b>新增自動播放評論（選擇下方的「每次頁面載入」）後，自動播放討論串中發佈的任何新評論都會新增至自動播放腳本。評論可在「審核評論」頁面進行審核。",
+    "AUTO_PLAY_WARNING": "<b class=\"red\">注意！</b>新增自動播放評論（選擇下方的「每次頁面載入」）後，自動播放評論串中發佈的任何新評論都會新增至自動播放腳本。評論可在「審核評論」頁面進行審核。",
     "REPLAY_NAME_LABEL": "重播名稱",
     "REPLAY_NAME_DEFAULT": "匯入 [importNumber]",
     "REPLAY_NAME_HELP": "您可以為匯入的檔案命名，以便以後輕鬆找到它們。",

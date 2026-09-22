@@ -6,7 +6,7 @@
     "SUCCESS_UNBANNED_MESSAGE": "Ban dell'utente rimosso con successo.",
     "INTRO_PARAGRAPH_1": "Di seguito è riportato l'elenco dei tuoi utenti, o indirizzi email, che sono stati bannati e non possono commentare o votare sui tuoi domini. Se un utente è in \"shadow ban\", i suoi commenti e voti gli sembreranno pubblicati, ma non verranno salvati.",
     "INTRO_PARAGRAPH_2": "Puoi bannare gli utenti tramite l'opzione \"banna\" nella pagina Modera commenti oppure cliccando sull'icona più in fondo a questa pagina se hai un indirizzo email specifico da bannare.",
-    "INTRO_PARAGRAPH_3": "Quando gli utenti bannati provano a commentare, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">il tentativo comparirà nel registro di controllo</a> con la descrizione &quot;Utente bannato: commento bloccato&quot;.",
+    "INTRO_PARAGRAPH_3": "Quando gli utenti bannati provano a commentare, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">il tentativo comparirà nel registro di controllo</a> con la descrizione &quot;Banned user blocked from commenting.&quot;",
     "IP_BAN_WARNING": "FastComments non memorizza indirizzi IP grezzi per i ban basati su IP. Prestare attenzione quando si utilizzano ban basati su IP, poiché gli indirizzi IP possono essere riassegnati.",
     "SHOWING_BANNED_USERS": "Visualizzazione di <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> di <%= totalCount %> utenti bannati",
     "PAGE_LABEL": "Pagina",

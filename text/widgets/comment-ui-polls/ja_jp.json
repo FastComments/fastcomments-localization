@@ -1,0 +1,23 @@
+{
+    "POLL_QUESTION_PLACEHOLDER": "質問を入力してください...",
+    "POLL_OPTION_PLACEHOLDER": "選択肢 [n]",
+    "POLL_ADD_OPTION": "選択肢を追加",
+    "POLL_REMOVE_OPTION": "選択肢を削除",
+    "POLL_CLOSES_NEVER": "終了日なし",
+    "POLL_CLOSES_1_DAY": "1日",
+    "POLL_CLOSES_3_DAYS": "3日",
+    "POLL_CLOSES_1_WEEK": "1週間",
+    "POLL_REMOVE": "アンケートを削除",
+    "POLL_ERROR_QUESTION_REQUIRED": "アンケートの質問を入力してください。",
+    "POLL_ERROR_MIN_OPTIONS": "選択肢を2つ以上入力してください。",
+    "POLL_SHOW_RESULTS": "結果を表示",
+    "POLL_HIDE_RESULTS": "結果を隠す",
+    "POLL_CHANGE_VOTE": "投票を変更",
+    "POLL_VOTE_SAVED": "投票を受け付けました",
+    "POLL_RESPONSES_SINGULAR": "[count] 件の回答",
+    "POLL_RESPONSES_PLURAL": "[count] 件の回答",
+    "POLL_CLOSES_AT": "アンケートは[date]に終了します",
+    "POLL_CLOSED": "アンケートは終了しました",
+    "POLL_LOGIN_TO_VOTE": "ログインして投票",
+    "POLL_VOTE_FAILED": "投票を保存できませんでした。もう一度お試しください。"
+}

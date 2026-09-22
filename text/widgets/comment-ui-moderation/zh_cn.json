@@ -18,7 +18,7 @@
     "MODERATION_BAN_DELETES_COMMENT_NOTE": "封禁此用户也会删除此评论。",
     "BAN_CONFIRMATION_MESSAGE": "您确定要删除此评论并封禁该用户吗？",
     "BAN_CONFIRM": "确认封禁",
-    "BAN_SAVING": "正在删除评论并封禁用户……",
+    "BAN_SAVING": "正在删除评论并封禁用户...",
     "BAN_FAILURE": "删除该评论并封禁用户时出错。",
     "VIEW_ALL_FROM_IP": "查看此 IP 的所有评论",
     "COMMENT_MENU_GIVE_BADGE": "授予徽章",
@@ -27,7 +27,7 @@
     "BADGE_SELECT_LABEL": "可用徽章",
     "LOGIN_TO_GIVE_BADGE": "您已退出登录。请登录以向该用户授予徽章。",
     "GIVE_BADGE_FAILURE": "授予此徽章失败。",
-    "GIVE_BADGE_SAVING": "正在保存……",
+    "GIVE_BADGE_SAVING": "正在保存...",
     "GIVE_BADGE_CONFIRM": "授予徽章",
     "MODERATION_CLOSE_THREAD": "关闭评论串",
     "MODERATION_REOPEN_THREAD": "重新开启评论串",
@@ -38,12 +38,12 @@
     "BADGE_SELECT_TO_REMOVE_LABEL": "该用户的徽章",
     "LOGIN_TO_REMOVE_BADGE": "您已退出登录。请登录以移除徽章。",
     "REMOVE_BADGE_FAILURE": "移除此徽章失败。",
-    "REMOVE_BADGE_SAVING": "正在保存……",
+    "REMOVE_BADGE_SAVING": "正在保存...",
     "REMOVE_BADGE_CONFIRM": "移除徽章",
     "COMMENT_MENU_PIN": "置顶",
     "COMMENT_MENU_UNPIN": "取消置顶",
     "COMMENT_MENU_LOCK": "锁定",
     "COMMENT_MENU_UNLOCK": "解锁",
     "MODERATION_BAN_REASON": "封禁原因（可选）",
-    "MODERATION_BAN_REASON_PLACEHOLDER": "请输入封禁原因……"
+    "MODERATION_BAN_REASON_PLACEHOLDER": "请输入封禁原因..."
 }

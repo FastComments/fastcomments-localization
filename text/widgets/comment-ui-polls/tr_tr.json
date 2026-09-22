@@ -1,0 +1,23 @@
+{
+    "POLL_QUESTION_PLACEHOLDER": "Bir soru sorun...",
+    "POLL_OPTION_PLACEHOLDER": "Seçenek [n]",
+    "POLL_ADD_OPTION": "Seçenek ekle",
+    "POLL_REMOVE_OPTION": "Seçeneği kaldır",
+    "POLL_CLOSES_NEVER": "Bitiş tarihi yok",
+    "POLL_CLOSES_1_DAY": "1 gün",
+    "POLL_CLOSES_3_DAYS": "3 gün",
+    "POLL_CLOSES_1_WEEK": "1 hafta",
+    "POLL_REMOVE": "Anketi kaldır",
+    "POLL_ERROR_QUESTION_REQUIRED": "Anketiniz için bir soru girin.",
+    "POLL_ERROR_MIN_OPTIONS": "En az iki seçenek girin.",
+    "POLL_SHOW_RESULTS": "Sonuçları Göster",
+    "POLL_HIDE_RESULTS": "Sonuçları Gizle",
+    "POLL_CHANGE_VOTE": "Oyu değiştir",
+    "POLL_VOTE_SAVED": "Oyunuz kaydedildi",
+    "POLL_RESPONSES_SINGULAR": "[count] oy",
+    "POLL_RESPONSES_PLURAL": "[count] oy",
+    "POLL_CLOSES_AT": "Anket kapanışı: [date]",
+    "POLL_CLOSED": "Anket kapandı",
+    "POLL_LOGIN_TO_VOTE": "Oy verebilmek için giriş yapın",
+    "POLL_VOTE_FAILED": "Oyunuzu kaydedemedik. Lütfen tekrar deneyin."
+}

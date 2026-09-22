@@ -3,7 +3,7 @@
     "NOTIFICATION_VOTED_MY_COMMENT": "<b>[fromUserName]</b>さんがあなたにカルマを付けました。",
     "NOTIFICATION_REPLIED_TO_ME": "<b>[fromUserName]</b>さんがあなたのコメントに返信しました。",
     "NOTIFICATION_REPLIED_TRANSIENT_CHILD": "<b>[fromUserName]</b>さんがスレッドに返信しました。",
-    "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT": "<b>[fromUserName]</b>さんが購読中のページにコメントしました。",
+    "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT": "<b>[fromUserName]</b>さんが購読中のページに返信しました。",
     "NOTIFICATION_MARK_UNREAD": "未読にする",
     "NOTIFICATION_MARK_READ": "既読にする",
     "NOTIFICATION_OPT_IN_FOR_COMMENT": "このコメントの通知を受け取る",
@@ -15,7 +15,7 @@
     "NOTIFICATION_VOTED_MY_COMMENT_CONTEXT": "<b>[fromUserName]</b>さんがあなたにカルマを付けました: [context]",
     "NOTIFICATION_REPLIED_TO_ME_CONTEXT": "<b>[fromUserName]</b>さんがあなたのコメントに返信しました: [context]",
     "NOTIFICATION_REPLIED_TRANSIENT_CHILD_CONTEXT": "<b>[fromUserName]</b>さんがスレッドに返信しました: [context]",
-    "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b>さんが購読中のページにコメントしました: [context]",
+    "NOTIFICATION_SUBSCRIPTION_REPLY_ROOT_CONTEXT": "<b>[fromUserName]</b>さんが購読中のページに返信しました: [context]",
     "NOTIFICATION_PROFILE_COMMENT_CONTEXT": "<b>[fromUserName]</b>さんがあなたのプロフィールにコメントしました: [context]",
     "NOTIFICATION_DM_CONTEXT": "<b>[fromUserName]</b>さんからメッセージが届きました: [context]",
     "NOTIFICATION_MENTION_CONTEXT": "<b>[fromUserName]</b>さんがあなたをメンションしました: [context]",
@@ -38,7 +38,7 @@
     "BULK_REPLIES_THREAD_TWO_USERS": "<b>[user1]</b>さんと<b>[user2]</b>さんがスレッドに返信しました",
     "BULK_REPLIES_THREAD_MANY_USERS": "<b>[user1]</b>さん、<b>[user2]</b>さん、<b>他[otherCount]人</b>がスレッドに返信しました",
     "BULK_REPLIES_SUBSCRIPTION_NO_USERS": "購読中のページに[count]件の新しいコメント",
-    "BULK_REPLIES_SUBSCRIPTION_ONE_USER": "<b>[user1]</b>さんが購読中のページにコメントしました",
+    "BULK_REPLIES_SUBSCRIPTION_ONE_USER": "<b>[user1]</b>さんが購読中のページに返信しました",
     "BULK_REPLIES_SUBSCRIPTION_TWO_USERS": "<b>[user1]</b>さんと<b>[user2]</b>さんが購読中のページにコメントしました",
     "BULK_REPLIES_SUBSCRIPTION_MANY_USERS": "<b>[user1]</b>さん、<b>[user2]</b>さん、<b>他[otherCount]人</b>が購読中のスレッドにコメントしました"
 }

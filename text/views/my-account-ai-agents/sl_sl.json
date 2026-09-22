@@ -386,7 +386,7 @@
     "BAN_CONFIG_HEADING": "Možnosti izključitve",
     "CLONE_DIALOG_TITLE": "Kloniraj agenta",
     "BAN_ALLOW_DELETE_COMMENTS_HINT": "Ko je označeno, lahko agent izbriše vse komentarje, ki jih je izključeni uporabnik objavil v tem računu. To uporabite za očiten spam ali usklajeno zlorabo, kjer obstoječa vsebina nima nobene vrednosti.",
-    "BAN_ALLOW_IP_HINT": "Ko je označeno, se lahko agent odloči, da izključi tudi IP-naslov, s katerega je bil objavljen komentar. Uporabno proti izogibanju izključitvi z nadomestnimi računi. Izogibajte se skupnim IP-naslovom (podjetja, šole, mobilni operaterji), kjer so lahko nedolžni uporabniki blokirani.",
+    "BAN_ALLOW_IP_HINT": "Ko je označeno, se lahko agent odloči, da blokira tudi IP-naslov, s katerega je bil objavljen komentar. Uporabno proti izogibanju izključitvi z nadomestnimi računi. Izogibajte se skupnim IP-naslovom (podjetja, šole, mobilni operaterji), kjer so lahko nedolžni uporabniki blokirani.",
     "TOOL_WRITE_COMMENT": "Napiši komentar",
     "BAN_ALLOW_IP_LABEL": "Dovoli izključitev po IP-ju",
     "TOOL_PIN_COMMENT": "Pripni komentar",

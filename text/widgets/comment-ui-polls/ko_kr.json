@@ -1,0 +1,23 @@
+{
+    "POLL_QUESTION_PLACEHOLDER": "질문을 입력하세요...",
+    "POLL_OPTION_PLACEHOLDER": "항목 [n]",
+    "POLL_ADD_OPTION": "항목 추가",
+    "POLL_REMOVE_OPTION": "항목 삭제",
+    "POLL_CLOSES_NEVER": "종료일 없음",
+    "POLL_CLOSES_1_DAY": "1일",
+    "POLL_CLOSES_3_DAYS": "3일",
+    "POLL_CLOSES_1_WEEK": "1주일",
+    "POLL_REMOVE": "투표 삭제",
+    "POLL_ERROR_QUESTION_REQUIRED": "투표에 사용할 질문을 입력하세요.",
+    "POLL_ERROR_MIN_OPTIONS": "항목을 두 개 이상 입력하세요.",
+    "POLL_SHOW_RESULTS": "결과 보기",
+    "POLL_HIDE_RESULTS": "결과 숨기기",
+    "POLL_CHANGE_VOTE": "투표 변경",
+    "POLL_VOTE_SAVED": "투표가 반영되었습니다",
+    "POLL_RESPONSES_SINGULAR": "응답 [count]개",
+    "POLL_RESPONSES_PLURAL": "응답 [count]개",
+    "POLL_CLOSES_AT": "[date]에 투표 종료",
+    "POLL_CLOSED": "투표 종료",
+    "POLL_LOGIN_TO_VOTE": "로그인하고 투표하기",
+    "POLL_VOTE_FAILED": "회원님의 투표를 저장하지 못했습니다. 다시 시도해 주세요."
+}

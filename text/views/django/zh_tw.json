@@ -57,7 +57,7 @@
     "HOW_IT_WORKS_STEP_2_TITLE": "新增應用程式和 API 金鑰",
     "HOW_IT_WORKS_STEP_2_DESCRIPTION": "將“fastcomments_django”新增至 INSTALLED_APPS，然後使用您的 TENANT_ID 和 API_KEY 設定 FASTCOMMENTS 字典。",
     "FAQ_DJANGO_FREE_TRIAL": "有免費試用嗎？",
-    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "在任何範本中載入標籤庫，然後將評論小工具拖曳到您希望顯示討論串的任何位置。",
+    "HOW_IT_WORKS_STEP_3_DESCRIPTION": "在任何範本中載入標籤庫，然後將評論小工具拖曳到您希望顯示評論串的任何位置。",
     "FAQ_DJANGO_VERSIONS": "支援哪些Django和Python版本？",
     "FAQ_DJANGO_GDPR": "FastComments是否符合GDPR要求？",
     "FAQ_DJANGO_SSO": "SSO 如何與 Django 身份驗證協同工作？",

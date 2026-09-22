@@ -10,11 +10,11 @@
     "EDIT_LOCALE_LABEL": "编辑的语言区域",
     "MASKED_WORDS_LABEL": "[localeName] 的屏蔽词。",
     "MASKED_WORDS_DESCRIPTION": "此列表中的单词（以逗号分隔）将被屏蔽为 *** 的形式。",
-    "MASKED_WORDS_PLACEHOLDER": "请输入以逗号分隔的不良词语列表，例如“some, bad, words”。",
+    "MASKED_WORDS_PLACEHOLDER": "请输入以逗号分隔的不良词语列表，例如“笨蛋, 白痴, 垃圾”。",
     "WORDS_LENGTH_ERROR": "每个语言区域最多可输入 5,000 个单词。您已输入<span id=\"length-error-count-words-[locale]\"></span>个。",
     "MASKED_PHRASES_LABEL": "[localeName] 的屏蔽短语。",
     "MASKED_PHRASES_DESCRIPTION": "此列表中的短语（以逗号分隔）将被屏蔽为 ******** 的形式。",
-    "MASKED_PHRASES_PLACEHOLDER": "请输入以逗号分隔的不良短语列表，例如“some bad phrase, some other bad phrase”。",
+    "MASKED_PHRASES_PLACEHOLDER": "请输入以逗号分隔的不良短语列表，例如“你给我闭嘴, 滚出去”。",
     "PHRASES_LENGTH_ERROR": "每个语言区域最多可输入 5,000 个短语。您已输入<span id=\"length-error-count-phrases-[locale]\"></span>个。",
     "SAVE_BUTTON": "保存对[localeName]的更改"
 }

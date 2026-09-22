@@ -1,0 +1,23 @@
+{
+    "POLL_QUESTION_PLACEHOLDER": "Задайте вопрос...",
+    "POLL_OPTION_PLACEHOLDER": "Вариант [n]",
+    "POLL_ADD_OPTION": "Добавить вариант",
+    "POLL_REMOVE_OPTION": "Удалить вариант",
+    "POLL_CLOSES_NEVER": "Без даты окончания",
+    "POLL_CLOSES_1_DAY": "1 день",
+    "POLL_CLOSES_3_DAYS": "3 дня",
+    "POLL_CLOSES_1_WEEK": "1 неделя",
+    "POLL_REMOVE": "Удалить опрос",
+    "POLL_ERROR_QUESTION_REQUIRED": "Введите вопрос для опроса.",
+    "POLL_ERROR_MIN_OPTIONS": "Введите хотя бы два варианта.",
+    "POLL_SHOW_RESULTS": "Показать результаты",
+    "POLL_HIDE_RESULTS": "Скрыть результаты",
+    "POLL_CHANGE_VOTE": "Изменить голос",
+    "POLL_VOTE_SAVED": "Ваш голос учтён",
+    "POLL_RESPONSES_SINGULAR": "Ответов: [count]",
+    "POLL_RESPONSES_PLURAL": "Ответов: [count]",
+    "POLL_CLOSES_AT": "Опрос закрывается [date]",
+    "POLL_CLOSED": "Опрос закрыт",
+    "POLL_LOGIN_TO_VOTE": "Войдите, чтобы проголосовать",
+    "POLL_VOTE_FAILED": "Не удалось сохранить ваш голос. Пожалуйста, повторите попытку."
+}

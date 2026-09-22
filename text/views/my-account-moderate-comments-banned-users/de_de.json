@@ -6,7 +6,7 @@
     "SUCCESS_UNBANNED_MESSAGE": "Benutzer wurde erfolgreich entsperrt.",
     "INTRO_PARAGRAPH_1": "Nachfolgend finden Sie eine Liste Ihrer Benutzer bzw. E-Mail-Adressen, die für das Kommentieren und Abstimmen auf Ihren Domains gesperrt wurden. Wenn ein Benutzer „schattengesperrt“ ist, werden seine Kommentare und Abstimmungen zwar weiterhin angezeigt, aber nicht gespeichert.",
     "INTRO_PARAGRAPH_2": "Sie können Benutzer über die Option \"Sperren\" auf der Seite \"Kommentare moderieren\" sperren oder, falls Sie eine bestimmte E-Mail-Adresse sperren möchten, auf das Plus-Symbol am Ende dieser Seite klicken.",
-    "INTRO_PARAGRAPH_3": "Wenn gesperrte Benutzer versuchen, einen Kommentar abzugeben, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">erscheint dies im Prüfprotokoll</a> mit der Beschreibung „Gesperrter Benutzer am Kommentieren gehindert“.",
+    "INTRO_PARAGRAPH_3": "Wenn gesperrte Benutzer versuchen, einen Kommentar abzugeben, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">erscheint dies im Prüfprotokoll</a> mit der Beschreibung „Banned user blocked from commenting.“",
     "IP_BAN_WARNING": "FastComments speichert für IP-basierte Sperren keine IP-Adressen im Klartext. Seien Sie vorsichtig bei IP-basierten Sperren, da IP-Adressen neu vergeben werden können.",
     "SHOWING_BANNED_USERS": "Anzeige von <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> von <%= totalCount %> gesperrten Benutzern",
     "PAGE_LABEL": "Seite",

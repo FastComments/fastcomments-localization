@@ -28,10 +28,10 @@
     "BAN_DIALOG_REASON_LABEL": "Причина бану (необов'язково)",
     "BAN_DIALOG_REASON_PLACEHOLDER": "Введіть причину бану...",
     "BAN_DIALOG_DELETE_ALL_COMMENTS": "Видалити пов’язані коментарі: [count][summary].",
-    "BAN_DIALOG_BY_USER": "за користувачем",
-    "BAN_DIALOG_BY_EMAIL": "за електронною поштою",
-    "BAN_DIALOG_BY_IP": "за IP-адресою",
-    "BAN_DIALOG_BY_EMAIL_DOMAIN": "за адресами, що закінчуються на [domain], включно з піддоменами",
+    "BAN_DIALOG_BY_USER": "За користувачем",
+    "BAN_DIALOG_BY_EMAIL": "За електронною поштою",
+    "BAN_DIALOG_BY_IP": "За IP-адресою",
+    "BAN_DIALOG_BY_EMAIL_DOMAIN": "За адресами, що закінчуються на [domain], включно з піддоменами",
     "BAN_DIALOG_AFFECTS_USERS": "Впливає на користувачів: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "Цього користувача неможливо забанити, оскільки в нього немає ідентифікатора користувача, анонімного сеансу, електронної пошти чи IP-адреси."
 }

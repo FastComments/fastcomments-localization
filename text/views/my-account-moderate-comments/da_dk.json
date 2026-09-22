@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "Kommentarmoderering - FastComments",
+    "PAGE_TITLE": "Kommentarmoderation - FastComments",
     "NEW_UI_ALERT_MESSAGE": "<img src=\"/images/external-link-light-16px.svg\"/>Prøv det <a href=\"/auth/my-account/moderate-comments-v2\" style=\"text-decoration: underline;\">nye moderationsdashboard</a>, og giv din feedback! <span class=\"subnote\">Overgangen sker den 15. oktober.</span>",
     "MODERATING_FOR": "Modererer i øjeblikket for <%= moderatingTenantName %>",
     "SWITCH_SITE_LINK": "Skift websted",
@@ -7,7 +7,7 @@
     "EDIT_MODERATION_SETTINGS_LINK": "Rediger moderationsindstillinger",
     "EDIT_MODERATORS_LINK": "Rediger moderatorer",
     "ADD_MODERATORS_LINK": "Tilføj moderatorer",
-    "HEADING": "Kommentarmoderering",
+    "HEADING": "Kommentarmoderation",
     "FILTERING_BY_IP_TEXT": "Filtrering efter IP",
     "FILTERING_BY_IP_TITLE": "Bemærk! FastComments gemmer ikke rå IP-adresser. Vi bruger noget, der kaldes 'hashing', til at samle kommentarer efter IP-adresse.",
     "NO_IP_ERROR": "Der er ingen IP-adresse knyttet til den ønskede kommentar.",

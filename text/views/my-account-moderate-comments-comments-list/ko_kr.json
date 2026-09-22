@@ -15,7 +15,7 @@
     "BAN_EMAIL_DOMAIN_LABEL": "모든 <%= comment.commenterEmail.substring(comment.commenterEmail.indexOf('@'), comment.commenterEmail.length) %> 사용자 이용 정지",
     "BAN_TYPE_LABEL": "정지 유형",
     "BAN_TYPE_BAN": "이용 정지",
-    "BAN_TYPE_SHADOW_BAN": "섀도우밴",
+    "BAN_TYPE_SHADOW_BAN": "섀도우 이용 정지",
     "BAN_DURATION_LABEL": "정지 기간",
     "DURATION_FOREVER": "영원히",
     "DURATION_ONE_HOUR": "한 시간",

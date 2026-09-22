@@ -28,9 +28,9 @@
     "BAN_DIALOG_REASON_LABEL": "Grund für die Sperre (optional)",
     "BAN_DIALOG_REASON_PLACEHOLDER": "Grund für die Sperre eingeben...",
     "BAN_DIALOG_DELETE_ALL_COMMENTS": "[count] zugehörige Kommentare löschen[summary].",
-    "BAN_DIALOG_BY_USER": "Nach Benutzer",
-    "BAN_DIALOG_BY_EMAIL": "Nach E-Mail",
-    "BAN_DIALOG_BY_IP": "Nach IP",
+    "BAN_DIALOG_BY_USER": "Über Benutzer",
+    "BAN_DIALOG_BY_EMAIL": "Über E-Mail",
+    "BAN_DIALOG_BY_IP": "Über IP",
     "BAN_DIALOG_BY_EMAIL_DOMAIN": "Mit E-Mails, die auf [domain] enden, einschließlich Subdomains",
     "BAN_DIALOG_AFFECTS_USERS": "Betrifft folgende Benutzer: [usernames]",
     "BAN_DIALOG_CANNOT_BAN": "Dieser Benutzer kann nicht gesperrt werden, da keine Benutzer-ID, anonyme Sitzung, E-Mail-Adresse oder IP-Adresse vorhanden ist."
