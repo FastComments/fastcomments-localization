@@ -4,6 +4,7 @@
     "TEXT_NO_INVOICES": "Nemate faktura na svom računu.",
     "TEXT_BILLING_EXTERNALLY_MANAGED": "Podaci o naplati postavljeni su na Vanjsko upravljanje. Fakture se ovdje možda neće prikazivati.",
     "TEXT_SHOWING_PAGE": "Prikazuje se <%= currentPage %> stranica računa. <%= invoices.length %> računa po stranici.",
+    "TEXT_SHOWING_PAGE_O": "Prikazuje se <%= currentPage %> stranica računa. <%= invoices.length %> račun po stranici.",
     "TABLE_HEADER_INVOICE_DATE": "Datum fakture",
     "TABLE_HEADER_INVOICE_NUMBER": "Broj računa",
     "TABLE_HEADER_DESCRIPTION": "Opis",

@@ -1,5 +1,7 @@
 {
-    "TEXT_RENDER_ERRORS_HEADING": "<%= Number(renderError.count).toLocaleString() %> Nedavne greške u renderovanju!",
+    "TEXT_RENDER_ERRORS_HEADING": "<%= Number(renderError.count).toLocaleString() %> nedavnih grešaka pri renderovanju!",
+    "TEXT_RENDER_ERRORS_HEADING_O": "<%= Number(renderError.count).toLocaleString() %> nedavna greška pri renderovanju!",
+    "TEXT_RENDER_ERRORS_HEADING_F": "<%= Number(renderError.count).toLocaleString() %> nedavne greške pri renderovanju!",
     "TEXT_FIRST_OCCURRENCE": "Prvo pojavljivanje: <%= renderError.createdAt.toLocaleString() %>",
     "TEXT_MOST_RECENT_OCCURRENCE": "Najnovija pojava: <%= renderError.lastOccurredAt.toLocaleString() %>"
 }

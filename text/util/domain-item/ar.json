@@ -1,0 +1,6 @@
+{
+    "BUTTON_CLICK_TO_UPDATE_LOGO": "انقر لتحديث الشعار لـ <%= domain.domain %>",
+    "BUTTON_CLICK_TO_SET_LOGO": "انقر لتعيين الشعار لـ <%= domain.domain %>",
+    "TEXT_DOMAIN_VALID": "✔️ <%= domain.domain %>",
+    "TEXT_DOMAIN_INVALID": "❌ \"<%= domain.input %>\": <%= domain.reason %>"
+}

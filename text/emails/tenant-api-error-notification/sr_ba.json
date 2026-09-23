@@ -1,10 +1,11 @@
 {
     "BANNER_TEXT": "Откривене грешке FastComments API-ја",
     "GREETING": "Здраво,",
-    "ERROR_SINGULAR": "грешка",
     "FROM_NAME": "FastComments API робот",
     "SUBJECT": "Откривене грешке FastComments API-ја",
-    "ERROR_PLURAL": "грешке",
+    "ERROR_SINGULAR": "грешку",
+    "ERROR_PLURAL": "грешака",
+    "ERROR_PLURAL_F": "грешке",
     "SIGN_OFF": "С поштовањем,",
     "TENANT_NOTE": "Ово се односи на налог са ИД-ом „<%= tenantId %>“.",
     "EXPLANATION": "Ове грешке су се појавиле приликом позивања наше платформе. Предлажемо да проверите логове за све прилагођене API интеграције са FastComments-ом.",

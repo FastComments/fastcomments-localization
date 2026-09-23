@@ -9,6 +9,8 @@
     "INTRO_PARAGRAPH_3": "Када бановани корисници покушају да коментаришу, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">то ће се појавити у дневнику ревизије</a> са описом „Banned user blocked from commenting.“",
     "IP_BAN_WARNING": "FastComments не чува сирове IP адресе за банове на основу IP адресе. Будите опрезни када користите банове на основу IP адресе јер IP адресе могу бити додељене другом кориснику.",
     "SHOWING_BANNED_USERS": "Приказано <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> од укупно <%= totalCount %> банованих корисника",
+    "SHOWING_BANNED_USERS_O": "Приказано <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> од укупно <%= totalCount %> банованог корисника",
+    "SHOWING_BANNED_USERS_F": "Приказано <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> од укупно <%= totalCount %> банована корисника",
     "PAGE_LABEL": "Страница",
     "COUNT_PER_PAGE_LABEL": "Број по страници",
     "GO_BUTTON": "Иди",

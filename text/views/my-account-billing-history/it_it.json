@@ -4,6 +4,7 @@
     "TEXT_NO_INVOICES": "Non hai fatture sul tuo account.",
     "TEXT_BILLING_EXTERNALLY_MANAGED": "Le tue informazioni di fatturazione sono impostate su Gestito esternamente. Le fatture potrebbero non essere visualizzate qui.",
     "TEXT_SHOWING_PAGE": "Visualizzazione della pagina <%= currentPage %> di fatture. <%= invoices.length %> fatture per pagina.",
+    "TEXT_SHOWING_PAGE_O": "Visualizzazione della pagina <%= currentPage %> di fatture. <%= invoices.length %> fattura per pagina.",
     "TABLE_HEADER_INVOICE_DATE": "Data della fattura",
     "TABLE_HEADER_INVOICE_NUMBER": "Numero di fattura",
     "TABLE_HEADER_DESCRIPTION": "Descrizione",

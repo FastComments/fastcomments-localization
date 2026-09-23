@@ -1,0 +1,4 @@
+{
+    "IMAGE_SELECT_UNKNOWN_PERSON_ALT": "شخص مجهول",
+    "IMAGE_SELECT_FILE_TOO_BIG": "هذا الملف (<%= (fileSize / 1000000).toFixed(1) %> ميجابايت) كبير جدًا! الحد الأقصى هو <%= (limitSize / 1e+6).toFixed(1) %> ميجابايت."
+}

@@ -1,6 +1,8 @@
 {
     "COLUMN_AGENT": "Агент",
     "SUBJECT": "<%= approvalCount %> дії агента очікують на схвалення",
+    "SUBJECT_O": "<%= approvalCount %> дія агента очікує на схвалення",
+    "SUBJECT_M": "<%= approvalCount %> дій агента очікують на схвалення",
     "FROM_NAME": "Агенти FastComments",
     "BANNER_TEXT": "Очікування схвалення агента",
     "COLUMN_ACTION": "Дія",

@@ -3,14 +3,14 @@
     "BULK_BAN_SUBTITLE": "Use Caution!",
     "BULK_BAN_BTN_BAN": "Ban",
     "BULK_BAN_BTN_CANCEL": "Cancel",
-    "BULK_BAN_PLURAL_EMAILS": "emails",
     "BULK_BAN_SINGULAR_EMAIL": "email",
-    "BULK_BAN_PLURAL_USERS": "users",
+    "BULK_BAN_PLURAL_EMAILS": "emails",
     "BULK_BAN_SINGULAR_USER": "user",
-    "BULK_BAN_PLURAL_EMAIL_DOMAINS": "email domains",
+    "BULK_BAN_PLURAL_USERS": "users",
     "BULK_BAN_SINGULAR_EMAIL_DOMAIN": "email domain",
-    "BULK_BAN_PLURAL_IP_ADDRESSES": "ip addresses",
+    "BULK_BAN_PLURAL_EMAIL_DOMAINS": "email domains",
     "BULK_BAN_SINGULAR_IP_ADDRESS": "ip address",
+    "BULK_BAN_PLURAL_IP_ADDRESSES": "ip addresses",
     "BULK_BAN_SELECTED": "Selected: [text]",
     "BULK_BAN_USE_CAUTION_SELECTED": "Use Caution! [text]",
     "BULK_BAN_VIA_EMAIL_ACCOUNT": "Ban Via Email / Account",
@@ -33,5 +33,6 @@
     "BULK_BAN_BY_EMAIL": "By Email",
     "BULK_BAN_BY_IP": "By IP",
     "BULK_BAN_BY_EMAIL_DOMAIN": "With emails end with: [domains]",
-    "BULK_BAN_DELETE_RELATED_COMMENTS": "Delete [count] related comments[summary]."
+    "BULK_BAN_DELETE_RELATED_COMMENTS": "Delete [count] related comments[summary].",
+    "BULK_BAN_DELETE_RELATED_COMMENTS_O": "Delete [count] related comment[summary]."
 }

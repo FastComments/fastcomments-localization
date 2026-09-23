@@ -3,7 +3,7 @@
     "FROM_NAME": "FastComments 机器人",
     "YOU_HAVE_NEW_COMMENTS": "你有一些新的评论！",
     "BANNER_TEXT": "新评论",
-    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>新评论<% } else { %>新评论<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> 新评论",
     "UNSUBSCRIBE_HERE": "退订",
     "APPROVE_COMMENT": "批准",
     "VIEW_COMMENT": "查看评论以回复",

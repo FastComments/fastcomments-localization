@@ -25,7 +25,7 @@
     "MODAL_RENAME_TITLE": "Preimenuj 2FA metodu",
     "MODAL_RENAME_LABEL": "Novo ime:",
     "MODAL_BACKUP_CODES_TITLE": "Kodovi za oporavak sigurnosnih kopija",
-    "MODAL_BACKUP_CODES_STATUS": "Status: [unused] neiskorištenih kodova, [used] iskorištenih kodova",
+    "MODAL_BACKUP_CODES_STATUS": "Status: [unused], [used]",
     "MODAL_BACKUP_CODES_DESC": "Pričuvni kodovi vam omogućuju pristup vašem računu ako izgubite svoj 2FA uređaj.",
     "MODAL_BACKUP_CODES_WARNING": "Ne možete pregledati postojeće kodove (sigurno su hashirani). Nove kodove možete pregledati samo prilikom regeneriranja.",
     "MODAL_VERIFY_IDENTITY_TITLE": "Potvrdite svoj identitet",
@@ -66,7 +66,11 @@
     "CONFIRM_REMOVE": "Jeste li sigurni da želite ukloniti \"[label]\" sa svog računa?",
     "BACKUP_CODE_STATUS_UNUSED": "Nekorišteno",
     "BACKUP_CODES_UNUSED": "[count] neiskorištenih kodova",
+    "BACKUP_CODES_UNUSED_O": "[count] neiskorišteni kod",
+    "BACKUP_CODES_UNUSED_F": "[count] neiskorištena koda",
     "BACKUP_CODES_USED": "[count] korištenih kodova",
+    "BACKUP_CODES_USED_O": "[count] korišteni kod",
+    "BACKUP_CODES_USED_F": "[count] korištena koda",
     "IMPORTANT": "Važno:",
     "WARNING": "Upozorenje:"
 }

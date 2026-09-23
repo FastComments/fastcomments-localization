@@ -25,6 +25,7 @@
     "PREV_BUTTON": "Anterior",
     "NEXT_BUTTON": "Próximo",
     "VOTES": "{count} votos",
+    "VOTES_O": "{count} voto",
     "PRODUCT_HUNT_LINK": "Product Hunt",
     "FIT_STRONG": "ajuste fuerte",
     "NEEDS_REVIEW": "necesita revisión",
@@ -68,11 +69,15 @@
     "FLASH_INVALID": "Se requiere una dirección de correo electrónico válida, un asunto y un cuerpo del mensaje.",
     "FLASH_INCOMPLETE": "A este borrador le falta un destinatario, un asunto o un cuerpo del texto.",
     "FLASH_BULK_DENIED": "Borradores rechazados {count}.",
+    "FLASH_BULK_DENIED_O": "Borrador rechazado {count}.",
     "FLASH_SEND_FAILED": "El envío falló. El borrador aún está pendiente; inténtelo de nuevo.",
     "FLASH_BULK_SENT": "Se enviaron {count} correos electrónicos.",
+    "FLASH_BULK_SENT_O": "Se envió {count} correo electrónico.",
     "FLASH_SUPPRESSED": "Esa dirección está en la lista de exclusión, así que no se envió nada. El borrador aún está pendiente.",
     "FLASH_BULK_SENT_PARTIAL": "Se enviaron {count} correos electrónicos. Algunos fallaron y aún están pendientes.",
+    "FLASH_BULK_SENT_PARTIAL_O": "Se envió {count} correo electrónico. Algunos fallaron y aún están pendientes.",
     "FLASH_TOO_LONG": "Ese borrador es demasiado largo para guardarlo. Acorta el tema o el cuerpo del texto e inténtalo de nuevo.",
     "FLASH_NOTHING_SELECTED": "Seleccione al menos un borrador primero.",
-    "FLASH_BULK_DENIED_PARTIAL": "Se rechazaron {count} borradores. Algunos ya no estaban pendientes."
+    "FLASH_BULK_DENIED_PARTIAL": "Se rechazaron {count} borradores. Algunos ya no estaban pendientes.",
+    "FLASH_BULK_DENIED_PARTIAL_O": "Se rechazó {count} borrador. Algunos ya no estaban pendientes."
 }

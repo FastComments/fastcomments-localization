@@ -2,10 +2,17 @@
     "INTRO": "Хеј <%= username %>,",
     "BANNER_TEXT": "Нови одговори на коментаре",
     "FROM_NAME": "FastComments робот",
-    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Нови одговор<% } else { %>Нови одговори<% } %> на <% if(replyCount > 1) { %>Ваши коментари<% } else {%>Ваш коментар<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> нових одговора на [comments]",
+    "SUBJECT_F": "<%= abbreviateNumber(replyCount, 0, locale) %> нова одговора на [comments]",
+    "SUBJECT_O": "<%= abbreviateNumber(replyCount, 0, locale) %> нови одговор на [comments]",
+    "SUBJECT_COMMENTS": "ваше коментаре",
+    "SUBJECT_COMMENTS_O": "ваш коментар",
     "VIEW_REPLIES": "Погледај и одговори",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Онемогући обавештења за овај коментар",
     "UNSUBSCRIBE_HERE": "Откажи претплату",
     "REPLY_BY_EMAIL_TIP": "Можете директно одговорити на ову е-пошту да бисте објавили свој одговор.",
-    "RECENT_COMMENT_COUNT": "Добили сте <% if(replyCount > 1) { %>неких одговора<% } else { %>одговор <% } %> на ваше <% if(commentsSummary.length > 1) {%> коментаре<% } else { %> коментар <% } %>."
+    "RECENT_COMMENT_COUNT": "Добили сте неколико одговора на [comments].",
+    "RECENT_COMMENT_COUNT_O": "Добили сте одговор на [comments].",
+    "RECENT_COMMENT_COUNT_COMMENTS": "ваше коментаре",
+    "RECENT_COMMENT_COUNT_COMMENTS_O": "ваш коментар"
 }

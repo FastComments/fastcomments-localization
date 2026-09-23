@@ -6,6 +6,7 @@
     "VERIFY_YOUR_ACCOUNT": "Потврдите свој налог",
     "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "<a href=\"<%= FC_DOMAIN %>/auth/login/\">Овде</a> можете креирати нове везе да бисте се пријавили на свој налог.",
     "WASNT_YOU_OR_REGRET": "Ако то нисте били ви или вам је жао због онога што сте рекли, занемарите ову е-поруку и коментар ће бити уклоњен за <%= removedInDays %> дана.",
+    "WASNT_YOU_OR_REGRET_O": "Ако то нисте били ви или вам је жао због онога што сте рекли, занемарите ову е-поруку и коментар ће бити уклоњен за <%= removedInDays %> дан.",
     "REMOVE_COMMENT": "Ако сада желите да уклоните овај коментар, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">кликните овде</a>",
     "THANKS_SO_MUCH": "Хвала пуно!",
     "USING_NAME_YOU_SAID": "Користећи име \"<%= comment.commenterName %>\" рекли сте:",

@@ -1,0 +1,8 @@
+{
+    "META_DESCRIPTION": "تواصل مع FastComments.com",
+    "PAGE_TITLE": "تعذّر إنشاء المحادثة - FastComments",
+    "HERO_TITLE_LIGHT": "تعذّر إنشاء ",
+    "HERO_DESCRIPTION": "لم نتمكن من إنشاء محادثتك. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
+    "HERO_TITLE_BOLD": "المحادثة",
+    "BUTTON_TRY_AGAIN": "حاول إنشاء محادثة جديدة."
+}

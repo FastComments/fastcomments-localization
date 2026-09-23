@@ -25,7 +25,7 @@
     "MODAL_RENAME_TITLE": "2FA 방식 이름 변경",
     "MODAL_RENAME_LABEL": "새 이름:",
     "MODAL_BACKUP_CODES_TITLE": "백업 복구 코드",
-    "MODAL_BACKUP_CODES_STATUS": "상태: 미사용 코드 [unused]개, 사용 코드 [used]개",
+    "MODAL_BACKUP_CODES_STATUS": "상태: [unused], [used]",
     "MODAL_BACKUP_CODES_DESC": "백업 코드를 사용하면 2단계 인증 장치를 분실했을 경우에도 계정에 접속할 수 있습니다.",
     "MODAL_BACKUP_CODES_WARNING": "기존 코드는 안전하게 해시 처리되어 있으므로 볼 수 없습니다. 새 코드는 코드를 재발급할 때만 볼 수 있습니다.",
     "MODAL_VERIFY_IDENTITY_TITLE": "본인 인증을 완료하세요",

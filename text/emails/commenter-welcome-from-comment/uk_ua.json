@@ -6,6 +6,8 @@
     "VERIFY_YOUR_ACCOUNT": "Підтвердьте свій обліковий запис",
     "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "Ви можете створити нові посилання для входу у свій обліковий запис <a href=\"<%= FC_DOMAIN %>/auth/login/\">тут</a> .",
     "WASNT_YOU_OR_REGRET": "Якщо це були не ви або ви шкодуєте про те, що сказали, проігноруйте цей електронний лист, і коментар буде видалено через <%= removedInDays %> днів.",
+    "WASNT_YOU_OR_REGRET_O": "Якщо це були не ви або ви шкодуєте про те, що сказали, проігноруйте цей електронний лист, і коментар буде видалено через <%= removedInDays %> день.",
+    "WASNT_YOU_OR_REGRET_F": "Якщо це були не ви або ви шкодуєте про те, що сказали, проігноруйте цей електронний лист, і коментар буде видалено через <%= removedInDays %> дні.",
     "REMOVE_COMMENT": "Якщо ви хочете видалити цей коментар зараз, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">натисніть тут</a>",
     "THANKS_SO_MUCH": "Дуже дякую!",
     "USING_NAME_YOU_SAID": "Використовуючи ім'я \"<%= comment.commenterName %>\" ви сказали:",

@@ -25,7 +25,7 @@
     "MODAL_RENAME_TITLE": "Перейменувати метод 2FA",
     "MODAL_RENAME_LABEL": "Нове ім'я:",
     "MODAL_BACKUP_CODES_TITLE": "Коди відновлення резервних копій",
-    "MODAL_BACKUP_CODES_STATUS": "Статус: [unused] невикористаних кодів, [used] використаних кодів",
+    "MODAL_BACKUP_CODES_STATUS": "Статус: [unused], [used]",
     "MODAL_BACKUP_CODES_DESC": "Резервні коди дозволяють отримати доступ до вашого облікового запису, якщо ви втратите пристрій 2FA.",
     "MODAL_BACKUP_CODES_WARNING": "Ви не можете переглянути існуючі коди (вони надійно хешовані). Ви можете переглянути нові коди лише під час регенерації.",
     "MODAL_VERIFY_IDENTITY_TITLE": "Підтвердьте свою особу",
@@ -65,8 +65,12 @@
     "NEVER_USED": "Ніколи не використовувався",
     "CONFIRM_REMOVE": "Ви впевнені, що хочете видалити \"[label]\" зі свого облікового запису?",
     "BACKUP_CODE_STATUS_UNUSED": "Невикористаний",
-    "BACKUP_CODES_UNUSED": "Невикористаних кодів: [count]",
-    "BACKUP_CODES_USED": "Використаних кодів: [count]",
+    "BACKUP_CODES_UNUSED": "[count] невикористаних кодів",
+    "BACKUP_CODES_UNUSED_O": "[count] невикористаний код",
+    "BACKUP_CODES_UNUSED_F": "[count] невикористані коди",
+    "BACKUP_CODES_USED": "[count] використаних кодів",
+    "BACKUP_CODES_USED_O": "[count] використаний код",
+    "BACKUP_CODES_USED_F": "[count] використані коди",
     "IMPORTANT": "Важливо:",
     "WARNING": "Увага:"
 }

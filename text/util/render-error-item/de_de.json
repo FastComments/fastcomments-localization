@@ -1,5 +1,6 @@
 {
     "TEXT_RENDER_ERRORS_HEADING": "<%= Number(renderError.count).toLocaleString() %> Aktuelle Darstellungsfehler!",
+    "TEXT_RENDER_ERRORS_HEADING_O": "<%= Number(renderError.count).toLocaleString() %> Aktueller Darstellungsfehler!",
     "TEXT_FIRST_OCCURRENCE": "Erstes Auftreten: <%= renderError.createdAt.toLocaleString() %>",
     "TEXT_MOST_RECENT_OCCURRENCE": "Letztes Vorkommen: <%= renderError.lastOccurredAt.toLocaleString() %>"
 }

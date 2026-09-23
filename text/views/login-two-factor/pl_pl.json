@@ -4,6 +4,8 @@
     "HERO_TITLE_BOLD": "Uwierzytelnianie dwuskładnikowe",
     "HERO_DESCRIPTION": "Wprowadź kod weryfikacyjny, aby dokończyć logowanie",
     "ATTEMPTS_REMAINING": "Pozostało <%= 5 - session.attempts %> prób",
+    "ATTEMPTS_REMAINING_O": "Pozostała <%= 5 - session.attempts %> próba",
+    "ATTEMPTS_REMAINING_F": "Pozostały <%= 5 - session.attempts %> próby",
     "LABEL_METHOD_SELECT": "Wybierz metodę weryfikacji:",
     "METHOD_AUTHENTICATOR": "Aplikacja uwierzytelniająca",
     "METHOD_SMS": "SMS",

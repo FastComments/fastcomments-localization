@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_TITLE": "حد الإنفاق الشهري",
+    "FLEX_LIMITS_SUBTITLE": "أدخل الحد الأقصى الشهري المستهدف وسنقوم بتعيين حدود الاستخدام لتتوافق معه، أو اضبط كل حد بنفسك.",
+    "FLEX_LIMITS_TARGET_LABEL": "الحد الأقصى الشهري المستهدف ([currency])",
+    "FLEX_LIMITS_TARGET_NOTE": "هذا ليس حدًا أقصى صارمًا، إذ يمكن للإجراءات اليدوية مثل إضافة مواقع أو مقاعد مسؤولين أن تتجاوز هذا الحد. يمكنك مراجعة الفواتير القادمة في <a href=\"/auth/my-account/analytics/billing\">تحليلات الفوترة</a> في أي وقت.",
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "أدخل مبلغًا",
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "بلا حد",
+    "FLEX_LIMITS_PAGE_LOADS": "عدد مرات تحميل الصفحة شهريًا",
+    "FLEX_LIMITS_COMMENTS": "التعليقات المخزنة",
+    "FLEX_LIMITS_SSO_USERS": "مستخدمو تسجيل الدخول الموحد (SSO)",
+    "FLEX_LIMITS_API_CREDITS": "أرصدة API شهريًا",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "أرصدة الأدوات الصغيرة شهريًا",
+    "FLEX_LIMITS_COMPUTED_MAX": "الحد الأقصى الشهري المُقدّر: [amount]",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "المبلغ المحسوب: [amount]",
+    "FLEX_LIMITS_NOT_CONFIGURED": "اترك الحقل فارغًا لإبقاء هذا الاستخدام غير محدود.",
+    "FLEX_LIMITS_MINIMUM_NOTE": "لا يزال الحد الأدنى لرسوم باقة Flex البالغ [amount]/شهر ساريًا.",
+    "FLEX_LIMITS_BTN_SAVE": "حفظ الحدود",
+    "FLEX_LIMITS_BTN_CANCEL": "إلغاء",
+    "FLEX_LIMITS_SAVE_FAILED": "واجهنا مشكلة أثناء حفظ الحدود. حاول مرة أخرى بعد قليل."
+}

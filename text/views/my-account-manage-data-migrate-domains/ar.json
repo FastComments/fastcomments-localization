@@ -1,0 +1,21 @@
+{
+    "DOMAIN_FROM_PLACEHOLDER": "example.com",
+    "INTRO_DESCRIPTION": "تتيح لك هذه الأداة نقل تعليقاتك دفعة واحدة عبر عناوين URL أو مواقع مختلفة.",
+    "DOMAIN_FROM_LABEL": "ما عنوان URL أو النطاق الذي تنقل التعليقات منه؟",
+    "PAGE_TITLE": "نقل التعليقات - FastComments",
+    "HEADING": "نقل التعليقات",
+    "URL_INFO": "يمكنك إدخال جزء من عنوان URL، مثل النطاق، أو عنوان URL كامل، أو <a href=\"https://docs.fastcomments.com/guide-customizations-and-configuration.html#url-id\" target=\"_blank\">معرّف عنوان URL</a>.",
+    "DOMAIN_TO_LABEL": "ما عنوان URL أو النطاق الذي تنقل التعليقات إليه؟",
+    "DOMAIN_TO_PLACEHOLDER": "some-other-example.com",
+    "START_MIGRATION_BUTTON": "بدء النقل",
+    "MIGRATIONS_HEADING": "عمليات النقل",
+    "EMAIL_NOTIFICATION_INFO": "ستتلقى رسالة بريد إلكتروني تُعلمك عند اكتمال العملية.",
+    "TABLE_HEADER_START_DATE": "تاريخ البدء",
+    "TABLE_HEADER_FROM": "من",
+    "TABLE_HEADER_TO": "إلى",
+    "TABLE_HEADER_STATUS": "الحالة",
+    "NOSCRIPT_REFRESH_MESSAGE": "قم بتحديث الصفحة للحصول على آخر المستجدات.",
+    "TABLE_HEADER_COMMENTS_FOUND": "التعليقات المطلوب نقلها",
+    "TABLE_HEADER_COMMENTS_MIGRATED": "التعليقات المنقولة",
+    "NO_MIGRATIONS_MESSAGE": "ليس لديك أي عمليات نقل نطاق معلقة أو سابقة."
+}

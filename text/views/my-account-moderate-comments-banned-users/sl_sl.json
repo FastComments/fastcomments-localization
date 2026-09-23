@@ -9,6 +9,7 @@
     "INTRO_PARAGRAPH_3": "Ko izključeni uporabniki poskušajo komentirati, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">se to v dnevniku nadzora prikaže</a> z opisom »Banned user blocked from commenting.«.",
     "IP_BAN_WARNING": "FastComments za izključitve na podlagi IP-naslova ne shranjuje surovih IP-naslovov. Pri uporabi izključitev na podlagi IP-naslova bodite previdni, saj se lahko IP-naslovi dodelijo drugim uporabnikom.",
     "SHOWING_BANNED_USERS": "Prikazanih je <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> od <%= totalCount %> izključenih uporabnikov",
+    "SHOWING_BANNED_USERS_O": "Prikazanih je <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> od <%= totalCount %> izključenega uporabnika",
     "PAGE_LABEL": "Stran",
     "COUNT_PER_PAGE_LABEL": "Število na stran",
     "GO_BUTTON": "Pojdi",

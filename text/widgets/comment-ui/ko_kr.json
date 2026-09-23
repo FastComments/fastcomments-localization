@@ -30,8 +30,8 @@
     "LINK_EXAMPLE_TEXT": "링크 텍스트",
     "CANCEL_REPLY": "답장 취소",
     "LOADING": "로딩 중...",
-    "COMMENTS_THIS_PAGE": " 댓글",
     "COMMENT_THIS_PAGE": " 댓글",
+    "COMMENTS_THIS_PAGE": " 댓글",
     "PREV": "이전 <span>[count]</span>",
     "NEXT": "더 보기 <span>[count]</span>",
     "LOAD_ALL": "모두 보기 <span>[count]</span>",
@@ -121,6 +121,7 @@
     "INSERT_POLL": "투표 추가",
     "COMMENT_VIEWED_BY": "이 댓글을 본 사용자 수.",
     "UPLOADING": "업로드 중 [v]%",
+    "ONE_REPLY": "[v] 답글",
     "REPLIES_COUNT": "[v] 답글",
     "COMMENT_MENU_PIN": "고정",
     "COMMENT_MENU_UNPIN": "고정 해제",
@@ -130,6 +131,5 @@
     "THIS_COMMENT_LOCKED": "이 댓글은 잠겨 있습니다.",
     "BOT_LABEL": "봇",
     "MENTION_SEARCHING": "사용자를 검색 중...",
-    "MENTION_NO_MATCHES": "일치하는 사용자가 없습니다.",
-    "ONE_REPLY": "[v] 답글"
+    "MENTION_NO_MATCHES": "일치하는 사용자가 없습니다."
 }

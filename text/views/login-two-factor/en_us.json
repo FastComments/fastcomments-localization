@@ -4,6 +4,7 @@
     "HERO_TITLE_BOLD": "Two-Factor Authentication",
     "HERO_DESCRIPTION": "Please enter your verification code to complete sign in",
     "ATTEMPTS_REMAINING": "<%= 5 - session.attempts %> attempts remaining",
+    "ATTEMPTS_REMAINING_O": "<%= 5 - session.attempts %> attempt remaining",
     "LABEL_METHOD_SELECT": "Choose verification method:",
     "METHOD_AUTHENTICATOR": "Authenticator App",
     "METHOD_SMS": "SMS",

@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "المصادقة الثنائية - FastComments",
+    "HERO_TITLE_LIGHT": "",
+    "HERO_TITLE_BOLD": "المصادقة الثنائية",
+    "LABEL_METHOD_SELECT": "اختر طريقة التحقق:",
+    "ATTEMPTS_REMAINING": "المحاولات المتبقية: <%= 5 - session.attempts %>",
+    "HERO_DESCRIPTION": "يرجى إدخال رمز التحقق الخاص بك لإكمال عملية تسجيل الدخول",
+    "METHOD_AUTHENTICATOR": "تطبيق المصادقة",
+    "METHOD_SMS": "رسالة نصية (SMS)",
+    "AUTHENTICATOR_INSTRUCTION": "أدخل الرمز المكون من 6 أرقام من تطبيق المصادقة الخاص بك",
+    "LABEL_VERIFICATION_CODE": "رمز التحقق",
+    "BUTTON_VERIFY": "تحقق",
+    "SMS_INSTRUCTION": "لقد أرسلنا رمزًا إلى <%= selectedConfig.phoneNumber ? selectedConfig.phoneNumber.replace(/(\\d{3})(\\d{3})(\\d{4})/, '(***) ***-$3') : 'your phone' %>",
+    "BUTTON_BACK": "رجوع",
+    "LABEL_BACKUP_CODE": "أدخل الرمز الاحتياطي:",
+    "BUTTON_RESEND_SMS": "إعادة إرسال الرمز عبر SMS",
+    "LINK_BACK_TO_LOGIN": "→ العودة إلى تسجيل الدخول",
+    "BUTTON_USE_BACKUP_CODE": "استخدام الرمز الاحتياطي",
+    "LINK_USE_BACKUP_CODE": "استخدم رمزًا احتياطيًا بدلًا من ذلك"
+}

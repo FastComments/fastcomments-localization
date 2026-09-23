@@ -23,14 +23,21 @@
     "FILE_UPLOAD_COMMENT_WITH_MENTIONS": "[username] ha caricato un file: [filename]. [mentionTags]",
     "DURATION_IMMEDIATELY": "immediatamente",
     "DURATION_MINUTES": "[v] minuti",
+    "DURATION_MINUTES_O": "[v] minuto",
     "DURATION_SECONDS": "[v] secondi",
+    "DURATION_SECONDS_O": "[v] secondo",
     "DURATION_COUPLE_MINUTES": "un paio di minuti",
     "DURATION_AN_HOUR": "un'ora",
     "DURATION_HOURS": "[v] ore",
+    "DURATION_HOURS_O": "[v] ora",
     "DURATION_A_WEEK": "una settimana",
     "DURATION_A_DAY": "un giorno",
     "DURATION_DAYS": "[v] giorni",
+    "DURATION_DAYS_O": "[v] giorno",
     "DURATION_YEARS": "[v] anni",
+    "DURATION_YEARS_O": "[v] anno",
     "DURATION_MONTHS": "[v] mesi",
-    "DURATION_WEEKS": "[v] settimane"
+    "DURATION_MONTHS_O": "[v] mese",
+    "DURATION_WEEKS": "[v] settimane",
+    "DURATION_WEEKS_O": "[v] settimana"
 }

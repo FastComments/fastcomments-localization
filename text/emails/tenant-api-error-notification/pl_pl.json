@@ -5,6 +5,7 @@
     "GREETING": "Cześć,",
     "ERROR_SINGULAR": "błąd",
     "ERROR_PLURAL": "błędy",
+    "ERROR_PLURAL_M": "błędów",
     "SIGN_OFF": "Z poważaniem,",
     "TENANT_NOTE": "Dotyczy to konta o identyfikatorze „<%= tenantId %>”.",
     "DETECTION": "Wykryliśmy <%= errorCountFormatted %> <%= errorWord %> API dla Twojego konta w dniu <%= errorDate %>.",

@@ -6,6 +6,7 @@
     "LOOKS_LIKE_YOU_COMMENTED_HERE": "זהו אימייל אוטומטי. נראה שהגבת על פוסט <a href=\"<%= comment.url %>\">כאן</a> . אם תלחץ על קישור האימות למטה, זה יעזור לנו לדעת שזה אתה שהשארת את התגובה הזו.",
     "VERIFY_YOUR_COMMENT_LINK": "אמת את התגובה שלך",
     "WASNT_YOU_OR_REGRET": "אם זה לא היית אתה או שאתה מתחרט על מה שאמרת, התעלם מאימייל זה והתגובה תוסר בעוד <%= removedInDays %> ימים.",
+    "WASNT_YOU_OR_REGRET_O": "אם זה לא היית אתה או שאתה מתחרט על מה שאמרת, התעלם מאימייל זה והתגובה תוסר בעוד <%= removedInDays %> יום.",
     "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">הסר תגובה זו</a>",
     "THANKS_SO_MUCH": "תודה רבה!",
     "JUST_NOW": "זה עתה",

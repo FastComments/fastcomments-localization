@@ -6,6 +6,7 @@
     "VERIFY_YOUR_ACCOUNT": "Verifieer uw account",
     "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "U kunt <a href=\"<%= FC_DOMAIN %>/auth/login/\">hier</a> nieuwe links aanmaken om in te loggen op uw account.",
     "WASNT_YOU_OR_REGRET": "Als jij dit niet was of als je spijt hebt van wat je hebt gezegd, kun je deze e-mail negeren. De reactie wordt dan binnen <%= removedInDays %> dagen verwijderd.",
+    "WASNT_YOU_OR_REGRET_O": "Als jij dit niet was of als je spijt hebt van wat je hebt gezegd, kun je deze e-mail negeren. De reactie wordt dan binnen <%= removedInDays %> dag verwijderd.",
     "REMOVE_COMMENT": "Als je deze reactie nu wilt verwijderen, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">klik dan hier</a>",
     "THANKS_SO_MUCH": "Hartelijk bedankt!",
     "USING_NAME_YOU_SAID": "Met de naam \"<%= comment.commenterName %>\" zei je:",

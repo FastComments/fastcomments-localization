@@ -1,0 +1,23 @@
+{
+    "INTRO": "مرحبًا <%= username %>،",
+    "BANNER_TEXT": "ردود جديدة على الاستطلاع",
+    "FROM_NAME": "روبوت FastComments",
+    "SUBJECT": "<%= abbreviateNumber(newResponseCount, 0, locale) %> رد جديد على [polls]",
+    "SUBJECT_T": "<%= abbreviateNumber(newResponseCount, 0, locale) %> ردان جديدان على [polls]",
+    "SUBJECT_F": "<%= abbreviateNumber(newResponseCount, 0, locale) %> ردود جديدة على [polls]",
+    "SUBJECT_M": "<%= abbreviateNumber(newResponseCount, 0, locale) %> ردًا جديدًا على [polls]",
+    "SUBJECT_POLLS": "استطلاعاتك",
+    "SUBJECT_POLLS_O": "استطلاعك",
+    "SUBJECT_POLLS_T": "استطلاعيك",
+    "NEW_RESPONSES_SUMMARY": "تلقّت استطلاعاتك ردودًا جديدة. إليك نتائجها حتى الآن.",
+    "NEW_RESPONSES_SUMMARY_O": "تلقّى استطلاعك ردودًا جديدة. إليك نتائجه حتى الآن.",
+    "NEW_RESPONSES_SUMMARY_T": "تلقّى استطلاعاك ردودًا جديدة. إليك نتائجهما حتى الآن.",
+    "NEW_RESPONSES_LABEL": "ردود جديدة:",
+    "TOTAL_RESPONSES_LABEL": "إجمالي الردود:",
+    "OPTION": "الخيار",
+    "RESPONSES": "الردود",
+    "SHARE": "النسبة",
+    "VIEW_POLL": "عرض الاستطلاع",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "تعطيل الإشعارات الخاصة بهذا الاستطلاع",
+    "UNSUBSCRIBE_HERE": "إلغاء الاشتراك"
+}

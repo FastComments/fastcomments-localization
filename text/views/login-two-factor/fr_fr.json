@@ -4,6 +4,7 @@
     "HERO_TITLE_BOLD": "Authentification à deux facteurs",
     "HERO_DESCRIPTION": "Veuillez saisir votre code de vérification pour terminer la connexion.",
     "ATTEMPTS_REMAINING": "<%= 5 - session.attempts %> tentatives restantes",
+    "ATTEMPTS_REMAINING_O": "<%= 5 - session.attempts %> tentative restante",
     "LABEL_METHOD_SELECT": "Choisissez la méthode de vérification :",
     "METHOD_AUTHENTICATOR": "Application d'authentification",
     "METHOD_SMS": "SMS",

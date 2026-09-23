@@ -1,5 +1,7 @@
 {
     "SUBJECT": "<%= approvalCount %> działania agenta oczekujące na zatwierdzenie",
+    "SUBJECT_O": "<%= approvalCount %> działanie agenta oczekujące na zatwierdzenie",
+    "SUBJECT_M": "<%= approvalCount %> działań agenta oczekujących na zatwierdzenie",
     "FROM_NAME": "Agenci FastComments",
     "BANNER_TEXT": "Oczekujące zatwierdzenia agentów",
     "COLUMN_AGENT": "Agent",

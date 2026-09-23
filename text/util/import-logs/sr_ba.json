@@ -1,5 +1,7 @@
 {
     "STARTING_DUPLICATE_DETECTION": "Покретање детекције дупликата за <%= commentCount %> коментара",
     "SKIPPED_DUPLICATE": "Прескочен дупликат (удаљеност: <%= distance %>). Увезено од стране „<%= importedName %>“: „<%= importedHtml %>“ | Постојеће од стране „<%= existingName %>“: „<%= existingHtml %>“",
-    "DUPLICATE_CHECK_PROGRESS": "Напредак провере дупликата: <%= checked %>/<%= total %> коментара проверено, до сада пронађено <%= duplicatesFound %> дупликата"
+    "DUPLICATE_CHECK_PROGRESS": "Напредак провере дупликата: <%= checked %>/<%= total %> коментара проверено, до сада пронађено <%= duplicatesFound %> дупликата",
+    "DUPLICATE_CHECK_PROGRESS_O": "Напредак провере дупликата: <%= checked %>/<%= total %> коментара проверено, до сада пронађен <%= duplicatesFound %> дупликат",
+    "DUPLICATE_CHECK_PROGRESS_F": "Напредак провере дупликата: <%= checked %>/<%= total %> коментара проверено, до сада пронађена <%= duplicatesFound %> дупликата"
 }

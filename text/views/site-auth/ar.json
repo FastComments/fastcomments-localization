@@ -1,0 +1,9 @@
+{
+    "SITE_AUTH_EMAIL_REQUIRED": "البريد الإلكتروني مطلوب.",
+    "SITE_AUTH_RATE_LIMITED": "عدد المحاولات كبير جدًا. يرجى المحاولة مرة أخرى لاحقًا.",
+    "SITE_AUTH_INVALID_CREDENTIALS": "بيانات اعتماد غير صالحة.",
+    "SITE_AUTH_ERROR": "حدث خطأ ما.",
+    "SITE_AUTH_USERNAME_TAKEN": "اسم المستخدم مستخدم بالفعل.",
+    "SITE_AUTH_ACCOUNT_EXISTS": "يوجد حساب بالفعل مرتبط بهذا البريد الإلكتروني. يرجى تسجيل الدخول.",
+    "SITE_AUTH_STRIPE_NOT_CONFIGURED": "هذا الموقع غير مُهيأ لاستقبال المدفوعات. يُرجى التواصل مع مالك الموقع."
+}

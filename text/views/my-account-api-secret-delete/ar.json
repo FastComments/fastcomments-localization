@@ -1,0 +1,8 @@
+{
+    "QUESTION_CONFIRM_DELETE": "هل أنت متأكد من رغبتك في إزالة <%= apiSecret.name ? 'the api key \"' + apiSecret.name + '\"' : 'this api key' %>؟",
+    "PAGE_TITLE": "حذف المفتاح السري لـ API - FastComments",
+    "HEADING_DELETE_API_SECRET": "حذف المفتاح السري لـ API",
+    "WARNING_USED_BY_WEBHOOKS": "يستخدم أحد الـ Webhooks مفتاح API هذا حاليًا. سيؤدي حذف مفتاح API قبل تحديث الـ Webhook إلى تعطيل التكامل.",
+    "BUTTON_DELETE_API_SECRET": "حذف المفتاح السري لـ API",
+    "BUTTON_CANCEL": "إلغاء"
+}

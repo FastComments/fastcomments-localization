@@ -1,6 +1,7 @@
 {
     "PAGE_TITLE": "Εναλλακτική λύση στο Disqus: Πιο γρήγορη, ιδιωτική, χωρίς διαφημίσεις | FastComments",
     "META_DESCRIPTION": "Το FastComments είναι η εναλλακτική λύση στο Disqus που έχει σχεδιαστεί για ταχύτητα και ιδιωτικότητα. Ένα script κάτω από 30 kilobytes, χωρίς διαφημίσεις, χωρίς παρακολούθηση και με ενσωματωμένη εισαγωγή από το Disqus. Έμπιστο από <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ οργανισμούς.",
+    "META_DESCRIPTION_O": "Το FastComments είναι η εναλλακτική λύση στο Disqus που έχει σχεδιαστεί για ταχύτητα και ιδιωτικότητα. Ένα script κάτω από 30 kilobytes, χωρίς διαφημίσεις, χωρίς παρακολούθηση και με ενσωματωμένη εισαγωγή από το Disqus. Έμπιστο από <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ οργανισμό.",
     "HEAD_KEYWORDS": "εναλλακτική λύση disqus, fastcomments vs disqus, αλλαγή από disqus, αντικατάσταση disqus, εναλλακτική λύση disqus χωρίς διαφημίσεις, εναλλακτική λύση disqus ιδιωτικότητα",
     "HERO_TITLE_BOLD": "Η Εναλλακτική Λύση στο Disqus",
     "HERO_TITLE_LIGHT": " Χωρίς τις Διαφημίσεις",
@@ -292,5 +293,6 @@
     "SOURCE_6": "Δημοσιευμένη τιμολόγηση του Disqus, προσπελάστηκε τον Ιούλιο 2026.",
     "FINAL_CTA_HEADING_LIGHT": "Έτοιμοι να αφήσετε τις διαφημίσεις ",
     "FINAL_CTA_HEADING_BOLD": "πίσω;",
-    "FINAL_CTA_SUB": "Ενωθείτε με <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ οργανισμούς που επέλεξαν πιο γρήγορες σελίδες και ιδιωτικότητα αναγνωστών. Εισάγετε τα σχόλιά σας από το Disqus μέσα σε λίγα λεπτά και δείτε τη διαφορά από την πρώτη κιόλας φόρτωση σελίδας."
+    "FINAL_CTA_SUB": "Ενωθείτε με <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ οργανισμούς που επέλεξαν πιο γρήγορες σελίδες και ιδιωτικότητα αναγνωστών. Εισάγετε τα σχόλιά σας από το Disqus μέσα σε λίγα λεπτά και δείτε τη διαφορά από την πρώτη κιόλας φόρτωση σελίδας.",
+    "FINAL_CTA_SUB_O": "Ενωθείτε με <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ οργανισμό που επέλεξε πιο γρήγορες σελίδες και ιδιωτικότητα αναγνωστών. Εισάγετε τα σχόλιά σας από το Disqus μέσα σε λίγα λεπτά και δείτε τη διαφορά από την πρώτη κιόλας φόρτωση σελίδας."
 }

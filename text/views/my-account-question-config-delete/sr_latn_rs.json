@@ -2,7 +2,9 @@
     "PAGE_TITLE": "Izbriši pitanje - FastComments",
     "HEADING": "Izbrisati \"<%= question.name %>\"?",
     "CONFIRM_MESSAGE": "Da li ste sigurni da želite da izbrišete pitanje \"<%= question.question %>\", kreirano na <%= question.createdAt.toLocaleString() %>?",
-    "REPLY_COUNT_MESSAGE": "Ovo pitanje ima <%= Number(question.usedCount).toLocaleString() %> odgovora.",
+    "REPLY_COUNT_MESSAGE": "Na ovo pitanje je dato <%= Number(question.usedCount).toLocaleString() %> odgovora.",
+    "REPLY_COUNT_MESSAGE_O": "Na ovo pitanje je dat <%= Number(question.usedCount).toLocaleString() %> odgovor.",
+    "REPLY_COUNT_MESSAGE_F": "Na ovo pitanje su data <%= Number(question.usedCount).toLocaleString() %> odgovora.",
     "DATA_LOSS_WARNING": "Podaci iz ovih odgovora više neće biti dostupni u izveštavanju.",
     "DELETE_BUTTON": "Izbriši",
     "CANCEL_LINK": "Otkaži"

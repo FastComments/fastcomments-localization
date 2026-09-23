@@ -1,0 +1,19 @@
+{
+    "LABEL_DOMAIN_NAME": "اسم النطاق",
+    "PAGE_TITLE": "تعديل النطاق - FastComments",
+    "BUTTON_CANCEL": "إلغاء",
+    "PLACEHOLDER_DOMAIN_NAME": "أدخل نطاقًا من المستوى الأعلى، مثل fastcomments.com",
+    "BUTTON_SAVE": "حفظ",
+    "LABEL_MIGRATE_COMMENTS": "التعليقات (<%= migrationCounts.comments %>)",
+    "HEADING_MIGRATION_OPTIONS": "خيارات الترحيل",
+    "TEXT_MIGRATION_HELP": "إذا غيّرت اسم هذا النطاق، يمكن ترحيل البيانات التالية إلى اسم النطاق الجديد. ألغِ تحديد أي عناصر لا تريد ترحيلها.",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "إعدادات الأدوات (<%= migrationCounts.widgetConfig %>)",
+    "HELP_MIGRATE_COMMENTS": "يتم ترحيل التعليقات في الخلفية وقد يستغرق ذلك بضع دقائق.",
+    "HEADING_EDIT_DOMAIN": "تعديل النطاق",
+    "HEADING_EDITING_DOMAIN": "تعديل <%= domainName %>",
+    "LABEL_MIGRATE_WEBHOOKS": "Webhooks (<%= migrationCounts.webhooks %>)",
+    "LABEL_MIGRATE_API_KEYS": "مفاتيح API (<%= migrationCounts.apiKeys %>)",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "قوالب البريد الإلكتروني (<%= migrationCounts.emailTemplates %>)",
+    "LABEL_MIGRATE_SITES": "المواقع (<%= migrationCounts.sites %>)",
+    "LABEL_MIGRATE_INTEGRATIONS": "التكاملات (<%= migrationCounts.integrations %>)"
+}

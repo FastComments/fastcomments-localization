@@ -2,10 +2,16 @@
     "INTRO": "היי <%= username %>,",
     "BANNER_TEXT": "תגובות חדשות",
     "FROM_NAME": "רובוט FastComments",
-    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%> תגובה חדשה<% } else { %> תגובות חדשות<% } %> ל<% if(replyCount > 1) { %> התגובות שלך<% } else {%> התגובה שלך<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> תגובות חדשות [comments]",
+    "SUBJECT_O": "<%= abbreviateNumber(replyCount, 0, locale) %> תגובה חדשה [comments]",
+    "SUBJECT_COMMENTS": "לתגובות שלך",
+    "SUBJECT_COMMENTS_O": "לתגובה שלך",
     "VIEW_REPLIES": "הצג והשב",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "השבת הודעות עבור תגובה זו",
     "UNSUBSCRIBE_HERE": "בטל את המנוי",
     "REPLY_BY_EMAIL_TIP": "באפשרותך להשיב ישירות למייל זה כדי לפרסם את תגובתך.",
-    "RECENT_COMMENT_COUNT": "קיבלת <% if(replyCount > 1) { %>כמה תגובות<% } else { %>תגובה<% } %> ל<% if(commentsSummary.length > 1) {%>תגובות<% } else { %>תגובה<% } %> שלך."
+    "RECENT_COMMENT_COUNT": "קיבלת כמה תגובות [comments] שלך.",
+    "RECENT_COMMENT_COUNT_O": "קיבלת תגובה [comments] שלך.",
+    "RECENT_COMMENT_COUNT_COMMENTS": "לתגובות",
+    "RECENT_COMMENT_COUNT_COMMENTS_O": "לתגובה"
 }

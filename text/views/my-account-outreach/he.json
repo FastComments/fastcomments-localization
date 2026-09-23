@@ -28,6 +28,7 @@
     "STATUS_PENDING": "ממתין",
     "CONTACT_GUESSED": "כתובת מנחשת",
     "VOTES": "{count} קולות",
+    "VOTES_O": "{count} קול",
     "FIT_STRONG": "התאמה חזקה",
     "PRODUCT_HUNT_LINK": "ציד מוצרים",
     "NEEDS_REVIEW": "צריך בדיקה",
@@ -68,11 +69,15 @@
     "FLASH_INCOMPLETE": "בטיוטה זו חסר נמען, נושא או גוף.",
     "FLASH_NOT_PENDING": "טיוטה זו אינה עוד בהמתנה, כך שדבר לא השתנה.",
     "FLASH_BULK_SENT": "נשלחו {count} אימיילים.",
+    "FLASH_BULK_SENT_O": "נשלח {count} אימייל.",
     "FLASH_BULK_SENT_PARTIAL": "נשלחו {count} אימיילים. חלקם נכשלו ועדיין ממתינים לאישור.",
+    "FLASH_BULK_SENT_PARTIAL_O": "נשלח {count} אימייל. חלקם נכשלו ועדיין ממתינים לאישור.",
     "FLASH_TOO_LONG": "הטיוטה ארוכה מדי לשמירה. קצר את הנושא או את הגוף ונסה שוב.",
     "FLASH_SUPPRESSED": "כתובת זו נמצאת ברשימת ההסתרה, כך ששום דבר לא נשלח. הטיוטה עדיין ממתינה.",
     "FLASH_BULK_DENIED": "טיוטות נדחו ({count}).",
+    "FLASH_BULK_DENIED_O": "טיוטה נדחתה ({count}).",
     "FLASH_BULK_DENIED_PARTIAL": "טיוטות נדחו ({count}). חלקן כבר לא היו ממתינות.",
+    "FLASH_BULK_DENIED_PARTIAL_O": "טיוטה נדחתה ({count}). חלקן כבר לא היו ממתינות.",
     "FLASH_NOTHING_SELECTED": "בחר לפחות טיוטה אחת תחילה.",
     "SEND_SAVES_HINT": "האפשרות 'שלח' שומרת את העריכות שלך תחילה, כך שמה שאתה רואה למעלה הוא מה שיוצא."
 }

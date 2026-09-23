@@ -1,7 +1,9 @@
 {
     "TEXT_NA": "Немає даних",
-    "TEXT_USED_TIMES": "Використано [usedCount] раз(ів)",
-    "TEXT_COMMENTS_PLAYED_BACK": "[playedBack] Відтворено коментарів",
+    "TEXT_USED_TIMES": "Використано [usedCount] разів",
+    "TEXT_USED_TIMES_O": "Використано [usedCount] раз",
+    "TEXT_USED_TIMES_F": "Використано [usedCount] рази",
+    "TEXT_COMMENTS_PLAYED_BACK": "Відтворено коментарів: [playedBack]",
     "BUTTON_DELETE": "Видалити",
     "BUTTON_STOP": "Зупинити",
     "BUTTON_DELETE_AND_RUN_AGAIN": "Видалити коментарі та запустити ще раз",

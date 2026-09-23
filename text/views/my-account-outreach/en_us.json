@@ -25,6 +25,7 @@
     "PREV_BUTTON": "Prev",
     "NEXT_BUTTON": "Next",
     "VOTES": "{count} votes",
+    "VOTES_O": "{count} vote",
     "FIT_STRONG": "strong fit",
     "PRODUCT_HUNT_LINK": "Product Hunt",
     "CONTACT_GUESSED": "guessed address",
@@ -71,8 +72,12 @@
     "FLASH_SUPPRESSED": "That address is on the suppression list, so nothing was sent. The draft is still pending.",
     "FLASH_TOO_LONG": "That draft is too long to save. Shorten the subject or body and try again.",
     "FLASH_BULK_SENT": "Sent {count} emails.",
+    "FLASH_BULK_SENT_O": "Sent {count} email.",
     "FLASH_BULK_SENT_PARTIAL": "Sent {count} emails. Some failed and are still pending.",
+    "FLASH_BULK_SENT_PARTIAL_O": "Sent {count} email. Some failed and are still pending.",
     "FLASH_BULK_DENIED": "Denied {count} drafts.",
+    "FLASH_BULK_DENIED_O": "Denied {count} draft.",
     "FLASH_BULK_DENIED_PARTIAL": "Denied {count} drafts. Some were no longer pending.",
+    "FLASH_BULK_DENIED_PARTIAL_O": "Denied {count} draft. Some were no longer pending.",
     "FLASH_NOTHING_SELECTED": "Select at least one draft first."
 }

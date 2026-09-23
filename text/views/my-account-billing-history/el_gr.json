@@ -4,6 +4,7 @@
     "TEXT_NO_INVOICES": "Δεν έχετε τιμολόγια στον λογαριασμό σας.",
     "TEXT_BILLING_EXTERNALLY_MANAGED": "Τα στοιχεία χρέωσής σας έχουν οριστεί σε Εξωτερικά διαχειριζόμενα. Τα τιμολόγια ενδέχεται να μην εμφανίζονται εδώ.",
     "TEXT_SHOWING_PAGE": "Εμφάνιση σελίδας <%= currentPage %> τιμολογίων. <%= invoices.length %> τιμολόγια ανά σελίδα.",
+    "TEXT_SHOWING_PAGE_O": "Εμφάνιση σελίδας <%= currentPage %> τιμολογίων. <%= invoices.length %> τιμολόγιο ανά σελίδα.",
     "TABLE_HEADER_INVOICE_DATE": "Ημερομηνία Τιμολογίου",
     "TABLE_HEADER_INVOICE_NUMBER": "Αριθμός Τιμολογίου",
     "TABLE_HEADER_DESCRIPTION": "Περιγραφή",

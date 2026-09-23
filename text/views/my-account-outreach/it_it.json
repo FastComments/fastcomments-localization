@@ -25,6 +25,7 @@
     "NEXT_BUTTON": "Prossimo",
     "PREV_BUTTON": "Precedente",
     "VOTES": "{count} voti",
+    "VOTES_O": "{count} voto",
     "FIT_STRONG": "forte adattamento",
     "PRODUCT_HUNT_LINK": "Ricerca del prodotto",
     "CONTACT_GUESSED": "indirizzo indovinato",
@@ -69,10 +70,14 @@
     "FLASH_SEND_FAILED": "Invio non riuscito. La bozza è ancora in sospeso: riprova.",
     "FLASH_SUPPRESSED": "Quell'indirizzo è presente nella lista nera, quindi non è stato inviato nulla. La bozza è ancora in sospeso.",
     "FLASH_BULK_SENT": "Sono state inviate {count} email.",
+    "FLASH_BULK_SENT_O": "È stata inviata {count} email.",
     "FLASH_BULK_DENIED": "Bozze respinte {count}.",
+    "FLASH_BULK_DENIED_O": "Bozza respinta {count}.",
     "FLASH_TOO_LONG": "Questa bozza è troppo lunga per essere salvata. Accorcia l'oggetto o il corpo del testo e riprova.",
     "FLASH_BULK_DENIED_PARTIAL": "Sono state respinte {count} bozze. Alcune non erano più in sospeso.",
+    "FLASH_BULK_DENIED_PARTIAL_O": "È stata respinta {count} bozza. Alcune non erano più in sospeso.",
     "FLASH_BULK_SENT_PARTIAL": "Sono state inviate {count} email. Alcune non sono andate a buon fine e sono ancora in sospeso.",
+    "FLASH_BULK_SENT_PARTIAL_O": "È stata inviata {count} email. Alcune non sono andate a buon fine e sono ancora in sospeso.",
     "FLASH_INCOMPLETE": "A questa bozza mancano il destinatario, l'oggetto e il corpo del testo.",
     "FLASH_NOTHING_SELECTED": "Seleziona prima almeno una bozza."
 }

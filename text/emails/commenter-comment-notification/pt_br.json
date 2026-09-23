@@ -2,10 +2,16 @@
     "INTRO": "Olá <%= username %>,",
     "BANNER_TEXT": "Novas respostas aos comentários",
     "FROM_NAME": "Robô FastComments",
-    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Nova resposta<% } else { %>Novas respostas<% } %> <% if(replyCount > 1) { %>aos seus comentários<% } else {%>ao seu comentário<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> Novas respostas [comments]",
+    "SUBJECT_O": "<%= abbreviateNumber(replyCount, 0, locale) %> Nova resposta [comments]",
+    "SUBJECT_COMMENTS": "aos seus comentários",
+    "SUBJECT_COMMENTS_O": "ao seu comentário",
     "VIEW_REPLIES": "Ver e responder",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Desativar notificações para este comentário",
     "UNSUBSCRIBE_HERE": "Cancelar inscrição",
     "REPLY_BY_EMAIL_TIP": "Você pode responder a este e-mail diretamente para postar sua resposta.",
-    "RECENT_COMMENT_COUNT": "Você recebeu <% if(replyCount > 1) { %>algumas respostas<% } else { %>uma resposta<% } %> aos seus<% if(commentsSummary.length > 1) {%> comentários<% } else { %> comentário<% } %>."
+    "RECENT_COMMENT_COUNT": "Você recebeu algumas respostas [comments].",
+    "RECENT_COMMENT_COUNT_O": "Você recebeu uma resposta [comments].",
+    "RECENT_COMMENT_COUNT_COMMENTS": "aos seus comentários",
+    "RECENT_COMMENT_COUNT_COMMENTS_O": "ao seu comentário"
 }

@@ -1,0 +1,11 @@
+{
+    "HERO_TITLE_BOLD": "<%= otherRegionName %>",
+    "PAGE_TITLE": "التبديل إلى <%= otherRegionName %>؟ - FastComments",
+    "HERO_TITLE_LIGHT": "التبديل إلى ",
+    "INFO_MESSAGE_QUESTION": "هل تريد الانتقال إلى هناك؟",
+    "INFO_MESSAGE_BOLD": "لديك حساب في مركز البيانات الآخر لدينا.",
+    "HERO_DESCRIPTION": "لديك حساب على <a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a>، هل تريد تسجيل الدخول هناك بدلًا من ذلك؟",
+    "BUTTON_CONTINUE_HERE": "المتابعة هنا",
+    "BUTTON_REDIRECT": "إعادة التوجيه إلى <%= otherRegionName %>",
+    "INFO_MESSAGE_WARNING": "إذا لم تنتقل إلى هناك، فسننشئ لك حسابًا هنا إن لم يكن موجودًا، <b>وعندها سيكون لديك حسابان.</b>"
+}

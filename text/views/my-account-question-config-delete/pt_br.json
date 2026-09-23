@@ -3,6 +3,7 @@
     "HEADING": "Excluir \"<%= question.name %>\"?",
     "CONFIRM_MESSAGE": "Tem certeza de que deseja excluir a pergunta \"<%= question.question %>\", criada em <%= question.createdAt.toLocaleString() %>?",
     "REPLY_COUNT_MESSAGE": "Esta pergunta tem <%= Number(question.usedCount).toLocaleString() %> respostas.",
+    "REPLY_COUNT_MESSAGE_O": "Esta pergunta tem <%= Number(question.usedCount).toLocaleString() %> resposta.",
     "DATA_LOSS_WARNING": "Os dados dessas respostas não estarão mais disponíveis nos relatórios.",
     "DELETE_BUTTON": "Excluir",
     "CANCEL_LINK": "Cancelar"

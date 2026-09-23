@@ -4,6 +4,7 @@
     "HERO_TITLE_BOLD": "Zwei-Faktor-Authentifizierung",
     "HERO_DESCRIPTION": "Bitte geben Sie Ihren Bestätigungscode ein, um die Anmeldung abzuschließen.",
     "ATTEMPTS_REMAINING": "<%= 5 - session.attempts %> verbleibende Versuche",
+    "ATTEMPTS_REMAINING_O": "<%= 5 - session.attempts %> verbleibender Versuch",
     "LABEL_METHOD_SELECT": "Wählen Sie die Verifizierungsmethode:",
     "METHOD_AUTHENTICATOR": "Authentifizierungs-App",
     "METHOD_SMS": "SMS",

@@ -1,0 +1,9 @@
+{
+    "TEXT_CUSTOM_TEMPLATE_NAME_DISPLAY": "<%= template.displayName %>",
+    "TEXT_CUSTOM_TEMPLATE_NAME_DEFAULT": "قالب مخصص: <%= viewTemplate.name %>",
+    "TEXT_RENDER_ERRORS_SINGULAR": "<%= Number(template.errorCount).toLocaleString() %> خطأ عرض حديث!",
+    "TEXT_RENDER_ERRORS_PLURAL": "<%= Number(template.errorCount).toLocaleString() %> خطأ عرض حديث!",
+    "TEXT_RENDER_ERRORS_PLURAL_T": "خطآ عرض حديثان!",
+    "TEXT_RENDER_ERRORS_PLURAL_F": "<%= Number(template.errorCount).toLocaleString() %> أخطاء عرض حديثة!",
+    "TEXT_RENDER_ERRORS_PLURAL_M": "<%= Number(template.errorCount).toLocaleString() %> خطأ عرض حديثًا!"
+}

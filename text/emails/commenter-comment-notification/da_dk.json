@@ -2,10 +2,16 @@
     "INTRO": "Hej <%= username %>,",
     "BANNER_TEXT": "Nye svar på kommentarer",
     "FROM_NAME": "FastComments Robot",
-    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Nyt svar<% } else { %>Nye svar<% } %> til <% if(replyCount > 1) { %>Dine kommentarer<% } else {%>Din kommentar<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> Nye svar til [comments]",
+    "SUBJECT_O": "<%= abbreviateNumber(replyCount, 0, locale) %> Nyt svar til [comments]",
+    "SUBJECT_COMMENTS": "Dine kommentarer",
+    "SUBJECT_COMMENTS_O": "Din kommentar",
     "VIEW_REPLIES": "Se og svar",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Deaktiver meddelelser for denne kommentar",
     "UNSUBSCRIBE_HERE": "Afmeld",
     "REPLY_BY_EMAIL_TIP": "Du kan svare direkte på denne e-mail for at sende dit svar.",
-    "RECENT_COMMENT_COUNT": "Du har fået <% if(replyCount > 1) { %>nogle svar<% } else { %>et svar<% } %> på dine<% if(commentsSummary.length > 1) {%> kommentarer<% } else { %> kommentar<% } %>."
+    "RECENT_COMMENT_COUNT": "Du har fået nogle svar på [comments].",
+    "RECENT_COMMENT_COUNT_O": "Du har fået et svar på [comments].",
+    "RECENT_COMMENT_COUNT_COMMENTS": "dine kommentarer",
+    "RECENT_COMMENT_COUNT_COMMENTS_O": "din kommentar"
 }

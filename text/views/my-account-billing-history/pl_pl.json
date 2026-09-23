@@ -4,6 +4,8 @@
     "TEXT_NO_INVOICES": "Nie masz żadnych faktur na swoim koncie.",
     "TEXT_BILLING_EXTERNALLY_MANAGED": "Twoje dane rozliczeniowe są ustawione na „Zarządzane zewnętrznie”. Faktury mogą się tu nie wyświetlać.",
     "TEXT_SHOWING_PAGE": "Pokazywana jest strona <%= currentPage %> faktur. <%= invoices.length %> faktur na stronie.",
+    "TEXT_SHOWING_PAGE_O": "Pokazywana jest strona <%= currentPage %> faktur. <%= invoices.length %> faktura na stronie.",
+    "TEXT_SHOWING_PAGE_F": "Pokazywana jest strona <%= currentPage %> faktur. <%= invoices.length %> faktury na stronie.",
     "TABLE_HEADER_INVOICE_DATE": "Data faktury",
     "TABLE_HEADER_INVOICE_NUMBER": "Numer faktury",
     "TABLE_HEADER_DESCRIPTION": "Opis",

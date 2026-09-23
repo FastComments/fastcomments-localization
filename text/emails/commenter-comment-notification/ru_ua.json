@@ -2,10 +2,17 @@
     "INTRO": "Привет <%= username %>,",
     "BANNER_TEXT": "Новые ответы на комментарии",
     "FROM_NAME": "Робот FastComments",
-    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Новый ответ<% } else { %>Новые ответы<% } %> на <% if(replyCount > 1) { %>ваши комментарии<% } else {%>ваш комментарий<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> новых ответов на [comments]",
+    "SUBJECT_F": "<%= abbreviateNumber(replyCount, 0, locale) %> новых ответа на [comments]",
+    "SUBJECT_O": "<%= abbreviateNumber(replyCount, 0, locale) %> новый ответ на [comments]",
+    "SUBJECT_COMMENTS": "ваши комментарии",
+    "SUBJECT_COMMENTS_O": "ваш комментарий",
     "VIEW_REPLIES": "Посмотреть и ответить",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Отключить уведомления для этого комментария",
     "UNSUBSCRIBE_HERE": "Отписаться",
     "REPLY_BY_EMAIL_TIP": "Вы можете ответить на это письмо напрямую, чтобы опубликовать свой ответ.",
-    "RECENT_COMMENT_COUNT": "Вы получили <% if(replyCount > 1) { %>несколько ответов<% } else { %>ответ<% } %> на<% if(commentsSummary.length > 1) {%> ваши комментарии<% } else { %> ваш комментарий<% } %>."
+    "RECENT_COMMENT_COUNT": "У вас несколько ответов на [comments].",
+    "RECENT_COMMENT_COUNT_O": "У вас ответ на [comments].",
+    "RECENT_COMMENT_COUNT_COMMENTS": "ваши комментарии",
+    "RECENT_COMMENT_COUNT_COMMENTS_O": "ваш комментарий"
 }

@@ -72,7 +72,15 @@
     "FLASH_INCOMPLETE": "Ovoj skici nedostaje primatelj, predmet ili tijelo.",
     "FLASH_NOTHING_SELECTED": "Prvo odaberite barem jednu skicu.",
     "FLASH_BULK_DENIED": "Odbijeno {count} nacrta.",
+    "FLASH_BULK_DENIED_O": "Odbijen {count} nacrt.",
+    "FLASH_BULK_DENIED_F": "Odbijena {count} nacrta.",
     "FLASH_BULK_SENT": "Poslano {count} e-poruka.",
+    "FLASH_BULK_SENT_O": "Poslana {count} e-poruka.",
+    "FLASH_BULK_SENT_F": "Poslane {count} e-poruke.",
     "FLASH_BULK_SENT_PARTIAL": "Poslano je {count} e-poruka. Neke nisu uspjele i još su na čekanju.",
-    "FLASH_BULK_DENIED_PARTIAL": "Odbijeno {count} nacrta. Neki više nisu bili na čekanju."
+    "FLASH_BULK_SENT_PARTIAL_O": "Poslana je {count} e-poruka. Neke nisu uspjele i još su na čekanju.",
+    "FLASH_BULK_SENT_PARTIAL_F": "Poslane su {count} e-poruke. Neke nisu uspjele i još su na čekanju.",
+    "FLASH_BULK_DENIED_PARTIAL": "Odbijeno {count} nacrta. Neki više nisu bili na čekanju.",
+    "FLASH_BULK_DENIED_PARTIAL_O": "Odbijen {count} nacrt. Neki više nisu bili na čekanju.",
+    "FLASH_BULK_DENIED_PARTIAL_F": "Odbijena {count} nacrta. Neki više nisu bili na čekanju."
 }

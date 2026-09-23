@@ -3,6 +3,7 @@
     "HEADING": "Διαγραφή του \"<%= question.name %>\";",
     "CONFIRM_MESSAGE": "Είστε σίγουροι ότι θέλετε να διαγράψετε την ερώτηση \"<%= question.question %>\", που δημιουργήθηκε στις <%= question.createdAt.toLocaleString() %>;",
     "REPLY_COUNT_MESSAGE": "Αυτή η ερώτηση έχει <%= Number(question.usedCount).toLocaleString() %> απαντήσεις.",
+    "REPLY_COUNT_MESSAGE_O": "Αυτή η ερώτηση έχει <%= Number(question.usedCount).toLocaleString() %> απάντηση.",
     "DATA_LOSS_WARNING": "Τα δεδομένα από αυτές τις απαντήσεις δεν θα είναι πλέον διαθέσιμα στις αναφορές.",
     "DELETE_BUTTON": "Διαγραφή",
     "CANCEL_LINK": "Ακύρωση"

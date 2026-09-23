@@ -1,5 +1,6 @@
 {
     "STARTING_DUPLICATE_DETECTION": "Duplikatsuche für <%= commentCount %> Kommentare gestartet",
     "SKIPPED_DUPLICATE": "Duplikat übersprungen (Entfernung: <%= distance %>). Importiert von \"<%= importedName %>\": \"<%= importedHtml %>\" | Vorhanden von \"<%= existingName %>\": \"<%= existingHtml %>\"",
-    "DUPLICATE_CHECK_PROGRESS": "Fortschritt der Duplikatsprüfung: <%= checked %>/<%= total %> Kommentare geprüft, bisher <%= duplicatesFound %> Duplikate gefunden"
+    "DUPLICATE_CHECK_PROGRESS": "Fortschritt der Duplikatsprüfung: <%= checked %>/<%= total %> Kommentare geprüft, bisher <%= duplicatesFound %> Duplikate gefunden",
+    "DUPLICATE_CHECK_PROGRESS_O": "Fortschritt der Duplikatsprüfung: <%= checked %>/<%= total %> Kommentare geprüft, bisher <%= duplicatesFound %> Duplikat gefunden"
 }

@@ -27,7 +27,8 @@
     "CONTACT_GUESSED": "vermutete Adresse",
     "PRODUCT_HUNT_LINK": "Product Hunt",
     "NEEDS_REVIEW": "Überprüfung erforderlich",
-    "VOTES": "{Anzahl} Stimmen",
+    "VOTES": "{count} Stimmen",
+    "VOTES_O": "{count} Stimme",
     "FIT_STRONG": "starke Passform",
     "NEEDS_REVIEW_WARNING": "Dieser Entwurf hat eine Formatierungsprüfung ausgelöst. Bitte lesen Sie ihn vor dem Absenden sorgfältig durch.",
     "STATUS_PENDING": "Ausstehend",
@@ -69,10 +70,14 @@
     "FLASH_NOT_PENDING": "Dieser Entwurf ist nicht mehr anhängig, es hat sich also nichts geändert.",
     "FLASH_SEND_FAILED": "Das Senden ist fehlgeschlagen. Der Entwurf ist noch in Bearbeitung – bitte versuchen Sie es erneut.",
     "FLASH_BULK_SENT": "{count} E-Mails versendet.",
+    "FLASH_BULK_SENT_O": "{count} E-Mail versendet.",
     "FLASH_SUPPRESSED": "Diese Adresse steht auf der Sperrliste, daher wurde nichts versendet. Der Entwurf ist noch in Bearbeitung.",
     "FLASH_TOO_LONG": "Dieser Entwurf ist zu lang, um ihn zu speichern. Kürzen Sie Betreff oder Text und versuchen Sie es erneut.",
     "FLASH_BULK_SENT_PARTIAL": "{count} E-Mails wurden versendet. Einige konnten nicht zugestellt werden und stehen noch aus.",
+    "FLASH_BULK_SENT_PARTIAL_O": "{count} E-Mail wurde versendet. Einige konnten nicht zugestellt werden und stehen noch aus.",
     "FLASH_BULK_DENIED": "{count} Entwürfe abgelehnt.",
+    "FLASH_BULK_DENIED_O": "{count} Entwurf abgelehnt.",
     "FLASH_NOTHING_SELECTED": "Wählen Sie zunächst mindestens einen Entwurf aus.",
-    "FLASH_BULK_DENIED_PARTIAL": "{count} Entwürfe wurden abgelehnt. Einige waren nicht mehr in Bearbeitung."
+    "FLASH_BULK_DENIED_PARTIAL": "{count} Entwürfe wurden abgelehnt. Einige waren nicht mehr in Bearbeitung.",
+    "FLASH_BULK_DENIED_PARTIAL_O": "{count} Entwurf wurde abgelehnt. Einige waren nicht mehr in Bearbeitung."
 }

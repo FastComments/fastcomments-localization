@@ -1,5 +1,6 @@
 {
     "TEXT_RENDER_ERRORS_HEADING": "<%= Number(renderError.count).toLocaleString() %> Πρόσφατα σφάλματα απόδοσης!",
+    "TEXT_RENDER_ERRORS_HEADING_O": "<%= Number(renderError.count).toLocaleString() %> Πρόσφατο σφάλμα απόδοσης!",
     "TEXT_FIRST_OCCURRENCE": "Πρώτη εμφάνιση: <%= renderError.createdAt.toLocaleString() %>",
     "TEXT_MOST_RECENT_OCCURRENCE": "Πιο πρόσφατη εμφάνιση: <%= renderError.lastOccurredAt.toLocaleString() %>"
 }

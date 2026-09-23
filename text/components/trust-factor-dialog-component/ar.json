@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "تعيين عامل الثقة لـ [name]",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "يحدد عامل الثقة مدى ثقة النظام بهذا المستخدم. كلما ارتفعت القيمة، قلّت تصفية الرسائل المزعجة والقيود المفروضة. اضبطه على 100 لمنع مرشح الرسائل المزعجة من حجب المستخدم.",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "عامل الثقة التلقائي الحالي: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "التجاوز اليدوي الحالي: [value]",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "لا توجد بيانات عن عامل الثقة حتى الآن.",
+    "TRUST_FACTOR_DIALOG_LABEL": "عامل الثقة اليدوي (0-100)",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "حفظ",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "مسح التجاوز اليدوي",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "إلغاء"
+}

@@ -1,6 +1,7 @@
 {
     "FROM_NAME": "Agents FastComments",
     "SUBJECT": "<%= approvalCount %> actions de l'agent en attente d'approbation",
+    "SUBJECT_O": "<%= approvalCount %> action de l'agent en attente d'approbation",
     "COLUMN_AGENT": "Agent",
     "INTRO": "Les actions suivantes de l'agent IA sont en attente de votre approbation ou de votre refus.",
     "COLUMN_ACTION": "Action",

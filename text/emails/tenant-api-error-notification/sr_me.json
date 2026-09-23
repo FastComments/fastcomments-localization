@@ -1,8 +1,9 @@
 {
-    "ERROR_SINGULAR": "грешка",
     "GREETING": "Здраво,",
     "FROM_NAME": "FastComments API robot",
-    "ERROR_PLURAL": "грешке",
+    "ERROR_SINGULAR": "грешку",
+    "ERROR_PLURAL": "грешака",
+    "ERROR_PLURAL_F": "грешке",
     "BANNER_TEXT": "Откривене грешке FastComments API-ја",
     "SUBJECT": "Откривене грешке FastComments API-ја",
     "DETECTION": "Детектовали смо <%= errorCountFormatted %> API <%= errorWord %> за ваш налог дана <%= errorDate %>.",

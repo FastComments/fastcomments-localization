@@ -9,6 +9,7 @@
     "INTRO_PARAGRAPH_3": "כאשר משתמשים מורחקים ינסו להגיב, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">הדבר יופיע ביומן הביקורת</a> עם התיאור &quot;Banned user blocked from commenting.&quot;",
     "IP_BAN_WARNING": "FastComments אינו שומר כתובות IP גולמיות עבור הרחקות מבוססות IP. יש להיזהר בעת שימוש בהרחקות מבוססות IP מכיוון שכתובות IP עשויות להיות מוקצות מחדש.",
     "SHOWING_BANNED_USERS": "מציג <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> מתוך <%= totalCount %> משתמשים מורחקים",
+    "SHOWING_BANNED_USERS_O": "מציג <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> מתוך <%= totalCount %> משתמש מורחק",
     "PAGE_LABEL": "עמוד",
     "COUNT_PER_PAGE_LABEL": "ספירה לעמוד",
     "GO_BUTTON": "מעבר",

@@ -9,6 +9,7 @@
     "INTRO_PARAGRAPH_3": "Когато потребители със забрана се опитат да коментират, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">това ще се покаже в дневника на одита</a> с описанието „Banned user blocked from commenting.“",
     "IP_BAN_WARNING": "FastComments не съхранява сурови IP адреси за забрани, базирани на IP адрес. Бъдете внимателни, когато използвате забрани, базирани на IP адрес, тъй като IP адресите могат да бъдат преназначени.",
     "SHOWING_BANNED_USERS": "Показване на <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> от <%= totalCount %> потребители със забрана",
+    "SHOWING_BANNED_USERS_O": "Показване на <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> от <%= totalCount %> потребител със забрана",
     "PAGE_LABEL": "Страница",
     "COUNT_PER_PAGE_LABEL": "Брой на страница",
     "GO_BUTTON": "Отиди",

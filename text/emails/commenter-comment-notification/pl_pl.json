@@ -1,11 +1,18 @@
 {
     "BANNER_TEXT": "Nowe odpowiedzi na komentarze",
     "FROM_NAME": "FastComments Robot",
-    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Nowa odpowiedź<% } else { %>Nowe odpowiedzi<% } %> na <% if(replyCount > 1) { %>Twoje komentarze<% } else {%>Twój komentarz<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> Nowe odpowiedzi na [comments]",
+    "SUBJECT_M": "<%= abbreviateNumber(replyCount, 0, locale) %> Nowych odpowiedzi na [comments]",
+    "SUBJECT_O": "<%= abbreviateNumber(replyCount, 0, locale) %> Nowa odpowiedź na [comments]",
+    "SUBJECT_COMMENTS": "Twoje komentarze",
+    "SUBJECT_COMMENTS_O": "Twój komentarz",
     "VIEW_REPLIES": "Wyświetl i odpowiedz",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Wyłącz powiadomienia dla tego komentarza",
     "INTRO": "Hej <%= username %>,",
     "UNSUBSCRIBE_HERE": "Anuluj subskrypcję",
     "REPLY_BY_EMAIL_TIP": "Możesz odpowiedzieć bezpośrednio na ten e-mail, aby opublikować swoją odpowiedź.",
-    "RECENT_COMMENT_COUNT": "Otrzymałeś <% if(replyCount > 1) { %>kilka odpowiedzi<% } else { %>odpowiedź<% } %> na Twoje<% if(commentsSummary.length > 1) {%> komentarze<% } else { %> komentarz<% } %>."
+    "RECENT_COMMENT_COUNT": "Otrzymałeś kilka odpowiedzi na [comments].",
+    "RECENT_COMMENT_COUNT_O": "Otrzymałeś odpowiedź na [comments].",
+    "RECENT_COMMENT_COUNT_COMMENTS": "Twoje komentarze",
+    "RECENT_COMMENT_COUNT_COMMENTS_O": "Twój komentarz"
 }

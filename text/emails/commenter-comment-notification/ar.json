@@ -1,0 +1,22 @@
+{
+    "INTRO": "مرحبًا <%= username %>،",
+    "BANNER_TEXT": "ردود جديدة على التعليقات",
+    "RECENT_COMMENT_COUNT": "لقد تلقيت بعض الردود [comments].",
+    "RECENT_COMMENT_COUNT_O": "لقد تلقيت ردًا [comments].",
+    "RECENT_COMMENT_COUNT_T": "لقد تلقيت ردين [comments].",
+    "RECENT_COMMENT_COUNT_COMMENTS": "على تعليقاتك",
+    "RECENT_COMMENT_COUNT_COMMENTS_O": "على تعليقك",
+    "RECENT_COMMENT_COUNT_COMMENTS_T": "على تعليقيك",
+    "FROM_NAME": "روبوت FastComments",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> رد جديد على [comments]",
+    "SUBJECT_T": "<%= abbreviateNumber(replyCount, 0, locale) %> ردان جديدان على [comments]",
+    "SUBJECT_F": "<%= abbreviateNumber(replyCount, 0, locale) %> ردود جديدة على [comments]",
+    "SUBJECT_M": "<%= abbreviateNumber(replyCount, 0, locale) %> ردًا جديدًا على [comments]",
+    "SUBJECT_COMMENTS": "تعليقاتك",
+    "SUBJECT_COMMENTS_O": "تعليقك",
+    "SUBJECT_COMMENTS_T": "تعليقيك",
+    "VIEW_REPLIES": "العرض والرد",
+    "DISABLE_NOTIFICATIONS_FOR_COMMENT": "تعطيل الإشعارات لهذا التعليق",
+    "UNSUBSCRIBE_HERE": "إلغاء الاشتراك",
+    "REPLY_BY_EMAIL_TIP": "يمكنك الرد على هذه الرسالة الإلكترونية مباشرةً لنشر ردك."
+}

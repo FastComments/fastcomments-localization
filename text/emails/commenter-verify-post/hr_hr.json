@@ -6,6 +6,7 @@
     "LOOKS_LIKE_YOU_COMMENTED_HERE": "Ovo je automatizirana e-pošta. Čini se da ste komentirali post <a href=\"<%= comment.url %>\">ovdje</a> . Ako kliknete vezu za potvrdu u nastavku, to će nam pomoći da znamo da ste vi ostavili ovaj komentar.",
     "VERIFY_YOUR_COMMENT_LINK": "Potvrdite svoj komentar",
     "WASNT_YOU_OR_REGRET": "Ako to niste bili vi ili vam je žao što ste rekli, zanemarite ovu e-poruku i komentar će biti uklonjen za <%= removedInDays %> dana.",
+    "WASNT_YOU_OR_REGRET_O": "Ako to niste bili vi ili vam je žao što ste rekli, zanemarite ovu e-poruku i komentar će biti uklonjen za <%= removedInDays %> dan.",
     "REMOVE_COMMENT": "<a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">Ukloni ovaj komentar</a>",
     "THANKS_SO_MUCH": "Hvala puno!",
     "JUST_NOW": "upravo sad",

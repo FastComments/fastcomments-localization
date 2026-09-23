@@ -1,0 +1,7 @@
+{
+    "PAGE_TITLE": "حذف <%= template.displayName %> - FastComments",
+    "HEADING_DELETE_TEMPLATE": "حذف \"<%= template.displayName %>\"؟",
+    "BUTTON_DELETE": "حذف",
+    "BUTTON_CANCEL": "إلغاء",
+    "TEXT_CONFIRM_DELETE": "هل أنت متأكد من رغبتك في حذف القالب <%= template.displayName %>، الذي تم إنشاؤه في <%= template.createdAt.toLocaleString() %>؟"
+}

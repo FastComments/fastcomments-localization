@@ -1,0 +1,11 @@
+{
+    "INTRO": "مرحبًا <%= username %>، لقد حصلت على شارة جديدة في <strong><%= siteDomain %></strong>!",
+    "CONGRATULATIONS": "تهانينا!",
+    "BANNER_TEXT": "حصلت على شارة جديدة",
+    "FROM_NAME": "روبوت FastComments",
+    "SUBJECT": "لقد حصلت على شارة \"<%= badge.displayLabel %>\"!",
+    "VIEW_YOUR_PROFILE": "عرض ملفك الشخصي",
+    "BADGE_EARNED_MESSAGE": "لقد حصلت بنجاح على شارة <strong><%= badge.displayLabel %></strong>.",
+    "KEEP_UP_GOOD_WORK": "استمر في هذا العمل الرائع!",
+    "UNSUBSCRIBE_HERE": "إلغاء الاشتراك في إشعارات الشارات"
+}

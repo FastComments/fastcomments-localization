@@ -1,3 +1,4 @@
 {
-    "ERROR_IMAGE_TOO_LARGE": "This image is too large to process. Please upload an image under <%= maxMegapixels %> megapixels."
+    "ERROR_IMAGE_TOO_LARGE": "This image is too large to process. Please upload an image under <%= maxMegapixels %> megapixels.",
+    "ERROR_IMAGE_TOO_LARGE_O": "This image is too large to process. Please upload an image under <%= maxMegapixels %> megapixel."
 }

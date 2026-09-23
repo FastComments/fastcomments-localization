@@ -1,0 +1,21 @@
+{
+    "COLUMN_STATUS": "الحالة",
+    "COLUMN_EVENT": "الحدث",
+    "COLUMN_WHEN": "الوقت",
+    "HEADING": "سجلات Webhooks الوكلاء",
+    "PAGE_TITLE": "سجلات Webhooks الوكلاء - FastComments",
+    "COLUMN_STATUS_CODE": "HTTP",
+    "COLUMN_DESCRIPTION": "الوصف",
+    "QUEUED_LABEL": "في قائمة الانتظار:",
+    "INTRO_TEXT": "أحدث محاولات التسليم لهذا الـ Webhook. الأحداث الموجودة في قائمة الانتظار تنتظر إعادة المحاولة.",
+    "STATUS_SUCCESS": "نجاح",
+    "STATUS_FAILURE": "فشل",
+    "BACK_LINK": "العودة إلى Webhooks الوكلاء",
+    "EVENT_TRIGGER_SUCCEEDED": "نجح تشغيل الوكيل",
+    "EVENT_TRIGGER_FAILED": "فشل تشغيل الوكيل",
+    "PAGER_NEXT": "التالي",
+    "PAGER_PREV": "السابق",
+    "EVENT_APPROVAL_DECIDED": "صدور قرار بشأن موافقة",
+    "EVENT_APPROVAL_REQUESTED": "طلب موافقة",
+    "EMPTY_MESSAGE": "لم تُسجَّل أي محاولات تسليم لهذا الـ Webhook بعد."
+}

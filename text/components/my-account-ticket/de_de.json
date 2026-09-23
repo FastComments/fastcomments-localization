@@ -23,14 +23,21 @@
     "FILE_UPLOAD_COMMENT_WITH_MENTIONS": "[username] hat eine Datei hochgeladen: [filename]. [mentionTags]",
     "DURATION_IMMEDIATELY": "sofort",
     "DURATION_SECONDS": "[v] Sekunden",
+    "DURATION_SECONDS_O": "[v] Sekunde",
     "DURATION_COUPLE_MINUTES": "ein paar Minuten",
     "DURATION_MINUTES": "[v] Minuten",
+    "DURATION_MINUTES_O": "[v] Minute",
     "DURATION_HOURS": "[v] Stunden",
+    "DURATION_HOURS_O": "[v] Stunde",
     "DURATION_AN_HOUR": "eine Stunde",
     "DURATION_A_DAY": "ein Tag",
     "DURATION_A_WEEK": "eine Woche",
     "DURATION_DAYS": "[v] Tage",
+    "DURATION_DAYS_O": "[v] Tag",
     "DURATION_YEARS": "[v] Jahre",
+    "DURATION_YEARS_O": "[v] Jahr",
     "DURATION_MONTHS": "[v] Monate",
-    "DURATION_WEEKS": "[v] Wochen"
+    "DURATION_MONTHS_O": "[v] Monat",
+    "DURATION_WEEKS": "[v] Wochen",
+    "DURATION_WEEKS_O": "[v] Woche"
 }

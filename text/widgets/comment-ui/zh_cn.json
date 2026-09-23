@@ -29,8 +29,8 @@
     "LINK_EXAMPLE_TEXT": "链接文字",
     "CANCEL_REPLY": "取消回复",
     "LOADING": "正在加载...",
-    "COMMENTS_THIS_PAGE": " 条评论",
     "COMMENT_THIS_PAGE": " 评论",
+    "COMMENTS_THIS_PAGE": " 条评论",
     "NEXT": "加载更多<span>[count]</span>",
     "LOAD_ALL": "查看全部<span>[count]</span>",
     "ALREADY_VOTED": "您已经对此评论进行了投票。",
@@ -121,6 +121,7 @@
     "INSERT_POLL": "添加投票",
     "COMMENT_VIEWED_BY": "查看过该评论的用户数。",
     "UPLOADING": "正在上传 [v]%",
+    "ONE_REPLY": "[v] 回复",
     "REPLIES_COUNT": "[v] 条回复",
     "COMMENT_MENU_PIN": "置顶",
     "COMMENT_MENU_UNPIN": "取消置顶",
@@ -130,6 +131,5 @@
     "THIS_COMMENT_LOCKED": "此评论已锁定。",
     "BOT_LABEL": "机器人",
     "MENTION_NO_MATCHES": "没有匹配的用户。",
-    "MENTION_SEARCHING": "正在搜索用户……",
-    "ONE_REPLY": "[v] 回复"
+    "MENTION_SEARCHING": "正在搜索用户……"
 }

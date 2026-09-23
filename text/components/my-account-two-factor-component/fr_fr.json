@@ -25,7 +25,7 @@
     "MODAL_RENAME_TITLE": "Renommer la méthode 2FA",
     "MODAL_RENAME_LABEL": "Nouveau nom :",
     "MODAL_BACKUP_CODES_TITLE": "Codes de récupération de sauvegarde",
-    "MODAL_BACKUP_CODES_STATUS": "Statut : [unused] codes inutilisés, [used] codes utilisés",
+    "MODAL_BACKUP_CODES_STATUS": "Statut : [unused], [used]",
     "MODAL_BACKUP_CODES_DESC": "Les codes de secours vous permettent d'accéder à votre compte si vous perdez votre dispositif d'authentification à deux facteurs.",
     "MODAL_BACKUP_CODES_WARNING": "Vous ne pouvez pas consulter les codes existants (ils sont chiffrés de manière sécurisée). Vous pouvez uniquement consulter les nouveaux codes lors de leur régénération.",
     "MODAL_VERIFY_IDENTITY_TITLE": "Vérifiez votre identité",
@@ -66,7 +66,9 @@
     "CONFIRM_REMOVE": "Êtes-vous sûr de vouloir supprimer « [label] » de votre compte ?",
     "BACKUP_CODE_STATUS_UNUSED": "Inutilisé",
     "BACKUP_CODES_UNUSED": "[count] codes inutilisés",
+    "BACKUP_CODES_UNUSED_O": "[count] code inutilisé",
     "BACKUP_CODES_USED": "[count] codes utilisés",
+    "BACKUP_CODES_USED_O": "[count] code utilisé",
     "IMPORTANT": "Important :",
     "WARNING": "Avertissement :"
 }

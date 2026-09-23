@@ -25,7 +25,7 @@
     "MODAL_RENAME_TITLE": "重命名双因素身份验证方法",
     "MODAL_RENAME_LABEL": "新名称：",
     "MODAL_BACKUP_CODES_TITLE": "备份恢复代码",
-    "MODAL_BACKUP_CODES_STATUS": "状态：[unused] 个未使用代码，[used] 个已使用代码",
+    "MODAL_BACKUP_CODES_STATUS": "状态：[unused]，[used]",
     "MODAL_BACKUP_CODES_DESC": "如果您丢失了双重验证设备，备用代码可以让您访问您的账户。",
     "MODAL_BACKUP_CODES_WARNING": "您无法查看现有代码（它们经过安全哈希处理）。您只能在重新生成代码时查看新代码。",
     "MODAL_VERIFY_IDENTITY_TITLE": "验证您的身份",

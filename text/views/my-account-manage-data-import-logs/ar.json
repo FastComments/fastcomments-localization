@@ -1,0 +1,12 @@
+{
+    "TITLE": "سجلات الاستيراد - FastComments",
+    "HEADING": "سجلات المهمة <%= job._id %>",
+    "TABLE_LOG": "السجل",
+    "TABLE_DATE": "التاريخ",
+    "POSSIBLE_REASONS": "بعض الأسباب المحتملة:",
+    "REASON_NO_SUPPORT": "قد لا يدعم نوع المهمة السجلات.",
+    "REASON_BEFORE_SUPPORT": "قد تكون المهمة أقدم من إضافة دعم السجلات.",
+    "NO_LOGS": "لا توجد سجلات لهذه المهمة.",
+    "REASON_NOT_STARTED": "ربما لم تبدأ المهمة بعد.",
+    "JOB_LOGS_HEADING": "سجلات المهمة"
+}

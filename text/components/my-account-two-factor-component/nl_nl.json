@@ -25,7 +25,7 @@
     "MODAL_RENAME_TITLE": "Hernoem de 2FA-methode",
     "MODAL_RENAME_LABEL": "Nieuwe naam:",
     "MODAL_BACKUP_CODES_TITLE": "Back-up herstelcodes",
-    "MODAL_BACKUP_CODES_STATUS": "Status: [unused] ongebruikte codes, [used] gebruikte codes",
+    "MODAL_BACKUP_CODES_STATUS": "Status: [unused], [used]",
     "MODAL_BACKUP_CODES_DESC": "Met back-upcodes kunt u toegang krijgen tot uw account als u uw 2FA-apparaat kwijtraakt.",
     "MODAL_BACKUP_CODES_WARNING": "Je kunt bestaande codes niet bekijken (ze zijn veilig gehasht). Je kunt nieuwe codes alleen bekijken tijdens het opnieuw genereren.",
     "MODAL_VERIFY_IDENTITY_TITLE": "Verifieer uw identiteit",
@@ -66,7 +66,9 @@
     "CONFIRM_REMOVE": "Weet je zeker dat je \"[label]\" uit je account wilt verwijderen?",
     "BACKUP_CODE_STATUS_UNUSED": "Ongebruikt",
     "BACKUP_CODES_UNUSED": "[count] ongebruikte codes",
+    "BACKUP_CODES_UNUSED_O": "[count] ongebruikte code",
     "BACKUP_CODES_USED": "[count] gebruikte codes",
+    "BACKUP_CODES_USED_O": "[count] gebruikte code",
     "IMPORTANT": "Belangrijk:",
     "WARNING": "Waarschuwing:"
 }

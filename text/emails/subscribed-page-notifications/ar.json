@@ -1,0 +1,12 @@
+{
+    "SUBJECT": "تعليقات جديدة",
+    "FROM_NAME": "اشتراكات FastComments",
+    "INTRO": "مرحبًا <%= username %>،",
+    "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "توجد تعليقات جديدة على الصفحات التي اشتركت بها.",
+    "HERE_ARE_LINKS_TO_PAGES": "إليك قائمة بالصفحات التي تحتوي على التعليقات الجديدة. كما توجد روابط أدناه لإلغاء الاشتراك في أي صفحة إذا رغبت في ذلك.",
+    "CAN_VIEW_ALL_IN_ACCOUNT": "يمكنك الاطلاع على جميع إشعاراتك غير المقروءة <a href=\"<%= FC_SITE %>/auth/my-account\">في الصفحة الرئيسية لحسابك</a>.",
+    "PAGE": "الصفحة",
+    "NEW_COMMENTS": "التعليقات",
+    "VIEW": "عرض",
+    "UNSUBSCRIBE": "إلغاء الاشتراك"
+}

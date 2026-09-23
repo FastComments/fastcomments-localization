@@ -30,8 +30,8 @@
     "LINK_EXAMPLE_TEXT": "連結文字",
     "CANCEL_REPLY": "取消回覆",
     "LOADING": "載入中...",
-    "COMMENTS_THIS_PAGE": " 評論",
     "COMMENT_THIS_PAGE": " 評論",
+    "COMMENTS_THIS_PAGE": " 評論",
     "PREV": "載入上一個<span>[count]</span>",
     "NEXT": "載入更多<span>[count]</span>",
     "LOAD_ALL": "查看全部<span>[count]</span>",
@@ -121,6 +121,7 @@
     "INSERT_POLL": "新增投票",
     "COMMENT_VIEWED_BY": "查看此評論的使用者數量。",
     "UPLOADING": "正在上傳 [v]%",
+    "ONE_REPLY": "[v] 回覆",
     "REPLIES_COUNT": "[v] 則回覆",
     "COMMENT_MENU_PIN": "置頂",
     "COMMENT_MENU_UNPIN": "取消置頂",
@@ -130,6 +131,5 @@
     "THIS_COMMENT_LOCKED": "此評論已鎖定。",
     "BOT_LABEL": "機器人",
     "MENTION_SEARCHING": "正在搜尋使用者…",
-    "MENTION_NO_MATCHES": "沒有匹配的使用者。",
-    "ONE_REPLY": "[v] 回覆"
+    "MENTION_NO_MATCHES": "沒有匹配的使用者。"
 }

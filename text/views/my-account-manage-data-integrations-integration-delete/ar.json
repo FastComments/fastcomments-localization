@@ -1,0 +1,8 @@
+{
+    "DELETE_BUTTON": "حذف",
+    "HEADING": "حذف رمز التكامل",
+    "PAGE_TITLE": "حذف رمز التكامل - FastComments",
+    "CANCEL_LINK": "إلغاء",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "هل أنت متأكد من رغبتك في حذف رمز تكامل <%= integration.readableType %> هذا الخاص بـ <%= integration.domain %>؟",
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "هل أنت متأكد من رغبتك في حذف رمز تكامل <%= integration.readableType %> هذا؟"
+}

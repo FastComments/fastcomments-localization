@@ -1,0 +1,16 @@
+{
+    "HEADING_COUPONS": "القسائم",
+    "HEADING_COUPON_CODES": "رموز القسائم",
+    "HEADING_STATS": "الإحصائيات",
+    "TEXT_COUPONS_REDEEMED": "عدد القسائم المستردة: <%= Number(couponsRedeemedCount).toLocaleString() %>.",
+    "PAGE_TITLE": "القسائم - FastComments",
+    "HEADING_DOWNLOAD": "تنزيل",
+    "TEXT_TOTAL_COUPONS": "إجمالي القسائم: <%= Number(coupons.length).toLocaleString() %>.",
+    "BUTTON_SUBMIT": "إرسال",
+    "HEADING_COUPON_LIST": "قائمة القسائم",
+    "TABLE_HEADER_CODE": "الرمز",
+    "LABEL_GENERATE_COUPON_COUNT": "عدد القسائم المراد إنشاؤها",
+    "HEADING_GENERATE_TIER_4_COUPONS": "إنشاء قسائم من المستوى 4",
+    "TABLE_HEADER_REDEEMED_DATE": "تاريخ الاسترداد",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "تنزيل القسائم المتاحة"
+}

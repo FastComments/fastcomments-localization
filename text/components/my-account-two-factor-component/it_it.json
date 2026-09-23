@@ -25,7 +25,7 @@
     "MODAL_RENAME_TITLE": "Rinomina metodo 2FA",
     "MODAL_RENAME_LABEL": "Nuovo nome:",
     "MODAL_BACKUP_CODES_TITLE": "Codici di ripristino del backup",
-    "MODAL_BACKUP_CODES_STATUS": "Stato: [unused] codici non utilizzati, [used] codici utilizzati",
+    "MODAL_BACKUP_CODES_STATUS": "Stato: [unused], [used]",
     "MODAL_BACKUP_CODES_DESC": "I codici di backup ti consentono di accedere al tuo account se perdi il dispositivo 2FA.",
     "MODAL_BACKUP_CODES_WARNING": "Non è possibile visualizzare i codici esistenti (sono sottoposti a hash sicuro). È possibile visualizzare i nuovi codici solo durante la rigenerazione.",
     "MODAL_VERIFY_IDENTITY_TITLE": "Verifica la tua identità",
@@ -66,7 +66,9 @@
     "CONFIRM_REMOVE": "Sei sicuro di voler rimuovere \"[label]\" dal tuo account?",
     "BACKUP_CODE_STATUS_UNUSED": "Non utilizzato",
     "BACKUP_CODES_UNUSED": "[count] codici non utilizzati",
+    "BACKUP_CODES_UNUSED_O": "[count] codice non utilizzato",
     "BACKUP_CODES_USED": "[count] codici utilizzati",
+    "BACKUP_CODES_USED_O": "[count] codice utilizzato",
     "IMPORTANT": "Importante:",
     "WARNING": "Attenzione:"
 }

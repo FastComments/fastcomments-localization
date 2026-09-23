@@ -26,6 +26,7 @@
     "NEXT_BUTTON": "Næste",
     "NEEDS_REVIEW": "behov for gennemgang",
     "VOTES": "{count} stemmer",
+    "VOTES_O": "{count} stemme",
     "FIT_STRONG": "stærk pasform",
     "CONTACT_GUESSED": "gættet adresse",
     "PRODUCT_HUNT_LINK": "Produktjagt",
@@ -69,10 +70,12 @@
     "FLASH_SEND_FAILED": "Afsendelse mislykkedes. Udkastet venter stadig - prøv igen.",
     "FLASH_INVALID": "Kræver en gyldig e-mailadresse, et emne og en brødtekst.",
     "FLASH_BULK_SENT": "Sendte {count} e-mails.",
+    "FLASH_BULK_SENT_O": "Sendte {count} e-mail.",
     "FLASH_TOO_LONG": "Det udkast er for langt til at kunne gemmes. Forkort emnet eller brødteksten, og prøv igen.",
     "FLASH_SUPPRESSED": "Den adresse er på undertrykkelseslisten, så der blev ikke sendt noget. Udkastet er stadig under behandling.",
     "FLASH_BULK_DENIED_PARTIAL": "{count} udkast blev afvist. Nogle var ikke længere ventende.",
     "FLASH_BULK_SENT_PARTIAL": "Sendte {count} e-mails. Nogle mislykkedes og er stadig afventende.",
+    "FLASH_BULK_SENT_PARTIAL_O": "Sendte {count} e-mail. Nogle mislykkedes og er stadig afventende.",
     "FLASH_BULK_DENIED": "{count} udkast blev afvist.",
     "FLASH_NOTHING_SELECTED": "Vælg mindst ét udkast først."
 }

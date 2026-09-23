@@ -3,14 +3,14 @@
     "BULK_BAN_SUBTITLE": "Vær forsigtig!",
     "BULK_BAN_BTN_BAN": "Udeluk",
     "BULK_BAN_BTN_CANCEL": "Annuller",
-    "BULK_BAN_PLURAL_EMAILS": "e-mails",
     "BULK_BAN_SINGULAR_EMAIL": "e-mail",
-    "BULK_BAN_PLURAL_USERS": "brugere",
+    "BULK_BAN_PLURAL_EMAILS": "e-mails",
     "BULK_BAN_SINGULAR_USER": "bruger",
-    "BULK_BAN_PLURAL_EMAIL_DOMAINS": "e-maildomæner",
+    "BULK_BAN_PLURAL_USERS": "brugere",
     "BULK_BAN_SINGULAR_EMAIL_DOMAIN": "e-maildomæne",
-    "BULK_BAN_PLURAL_IP_ADDRESSES": "IP-adresser",
+    "BULK_BAN_PLURAL_EMAIL_DOMAINS": "e-maildomæner",
     "BULK_BAN_SINGULAR_IP_ADDRESS": "IP-adresse",
+    "BULK_BAN_PLURAL_IP_ADDRESSES": "IP-adresser",
     "BULK_BAN_SELECTED": "Valgt: [text]",
     "BULK_BAN_USE_CAUTION_SELECTED": "Vær forsigtig! [text]",
     "BULK_BAN_VIA_EMAIL_ACCOUNT": "Udeluk via e-mail / konto",
@@ -33,5 +33,6 @@
     "BULK_BAN_BY_EMAIL": "Via e-mail",
     "BULK_BAN_BY_IP": "Via IP",
     "BULK_BAN_BY_EMAIL_DOMAIN": "Med e-mails der slutter med: [domains]",
-    "BULK_BAN_DELETE_RELATED_COMMENTS": "Slet [count] relaterede kommentarer[summary]."
+    "BULK_BAN_DELETE_RELATED_COMMENTS": "Slet [count] relaterede kommentarer[summary].",
+    "BULK_BAN_DELETE_RELATED_COMMENTS_O": "Slet [count] relateret kommentar[summary]."
 }

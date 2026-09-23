@@ -25,7 +25,7 @@
     "MODAL_RENAME_TITLE": "שינוי שם של שיטת 2FA",
     "MODAL_RENAME_LABEL": "שם חדש:",
     "MODAL_BACKUP_CODES_TITLE": "קודי שחזור גיבוי",
-    "MODAL_BACKUP_CODES_STATUS": "סטטוס: [unused] קודים שאינם בשימוש, [used] קודים משומשים",
+    "MODAL_BACKUP_CODES_STATUS": "סטטוס: [unused], [used]",
     "MODAL_BACKUP_CODES_DESC": "קודי גיבוי מאפשרים לך גישה לחשבונך אם תאבד את מכשיר ה-2FA שלך.",
     "MODAL_BACKUP_CODES_WARNING": "לא ניתן לצפות בקודים קיימים (הם עוברים גיבוי מאובטח). ניתן לצפות בקודים חדשים רק בעת יצירה מחדש.",
     "MODAL_VERIFY_IDENTITY_TITLE": "אימות זהותך",
@@ -66,7 +66,9 @@
     "CONFIRM_REMOVE": "האם אתה בטוח שברצונך להסיר את \"[label]\" מחשבונך?",
     "BACKUP_CODE_STATUS_UNUSED": "לא בשימוש",
     "BACKUP_CODES_UNUSED": "[count] קודים שאינם בשימוש",
+    "BACKUP_CODES_UNUSED_O": "[count] קוד שאינו בשימוש",
     "BACKUP_CODES_USED": "[count] קודים משומשים",
+    "BACKUP_CODES_USED_O": "[count] קוד משומש",
     "IMPORTANT": "חשוב:",
     "WARNING": "אזהרה:"
 }

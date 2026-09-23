@@ -1,6 +1,7 @@
 {
     "PAGE_TITLE": "אלטרנטיבה ל-Disqus: מהירה, פרטית, ללא פרסומות | FastComments",
     "META_DESCRIPTION": "FastComments היא האלטרנטיבה ל-Disqus שנבנתה למהירות ולפרטיות. סקריפט אחד במשקל של פחות מ-30 קילובייט, ללא פרסומות, ללא מעקב, וייבוא מובנה מ-Disqus. בשימוש של <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ ארגונים.",
+    "META_DESCRIPTION_O": "FastComments היא האלטרנטיבה ל-Disqus שנבנתה למהירות ולפרטיות. סקריפט אחד במשקל של פחות מ-30 קילובייט, ללא פרסומות, ללא מעקב, וייבוא מובנה מ-Disqus. בשימוש של <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ ארגון.",
     "HEAD_KEYWORDS": "אלטרנטיבה ל-disqus, fastcomments מול disqus, מעבר מ-disqus, תחליף ל-disqus, אלטרנטיבה ל-disqus ללא פרסומות, אלטרנטיבה ל-disqus עם פרטיות",
     "HERO_TITLE_BOLD": "האלטרנטיבה ל-Disqus",
     "HERO_TITLE_LIGHT": " בלי הפרסומות",
@@ -292,5 +293,6 @@
     "SOURCE_6": "תמחור Disqus שפורסם, נצפה ביולי 2026.",
     "FINAL_CTA_HEADING_LIGHT": "מוכנים להשאיר את הפרסומות ",
     "FINAL_CTA_HEADING_BOLD": "מאחור?",
-    "FINAL_CTA_SUB": "הצטרפו ל-<%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ ארגונים שבחרו בדפים מהירים יותר ובפרטיות הקוראים. ייבאו את תגובות ה-Disqus שלכם תוך דקות וראו את ההבדל כבר בטעינת הדף הראשונה."
+    "FINAL_CTA_SUB": "הצטרפו ל-<%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ ארגונים שבחרו בדפים מהירים יותר ובפרטיות הקוראים. ייבאו את תגובות ה-Disqus שלכם תוך דקות וראו את ההבדל כבר בטעינת הדף הראשונה.",
+    "FINAL_CTA_SUB_O": "הצטרפו ל-<%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ ארגון שבחר בדפים מהירים יותר ובפרטיות הקוראים. ייבאו את תגובות ה-Disqus שלכם תוך דקות וראו את ההבדל כבר בטעינת הדף הראשונה."
 }

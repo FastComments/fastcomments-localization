@@ -4,6 +4,7 @@
     "HERO_TITLE_BOLD": "אימות דו-שלבי",
     "HERO_DESCRIPTION": "אנא הזן את קוד האימות שלך כדי להשלים את הכניסה",
     "ATTEMPTS_REMAINING": "<%= 5 - session.attempts %> ניסיונות שנותרו",
+    "ATTEMPTS_REMAINING_O": "<%= 5 - session.attempts %> ניסיון שנותר",
     "LABEL_METHOD_SELECT": "בחר שיטת אימות:",
     "METHOD_AUTHENTICATOR": "אפליקציית אימות",
     "METHOD_SMS": "SMS",

@@ -4,6 +4,7 @@
     "HERO_TITLE_BOLD": "Tweefactorauthenticatie",
     "HERO_DESCRIPTION": "Voer uw verificatiecode in om het inlogproces te voltooien.",
     "ATTEMPTS_REMAINING": "<%= 5 - session.attempts %> pogingen resterend",
+    "ATTEMPTS_REMAINING_O": "<%= 5 - session.attempts %> poging resterend",
     "LABEL_METHOD_SELECT": "Kies een verificatiemethode:",
     "METHOD_AUTHENTICATOR": "Authenticator-app",
     "METHOD_SMS": "SMS",

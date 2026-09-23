@@ -25,7 +25,7 @@
     "MODAL_RENAME_TITLE": "2FAメソッドの名前を変更する",
     "MODAL_RENAME_LABEL": "新しい名前:",
     "MODAL_BACKUP_CODES_TITLE": "バックアップリカバリコード",
-    "MODAL_BACKUP_CODES_STATUS": "ステータス: [unused] 未使用コード、[used] 使用済みコード",
+    "MODAL_BACKUP_CODES_STATUS": "ステータス: [unused]、[used]",
     "MODAL_BACKUP_CODES_DESC": "バックアップ コードを使用すると、2FA デバイスを紛失した場合でもアカウントにアクセスできます。",
     "MODAL_BACKUP_CODES_WARNING": "既存のコードは安全にハッシュ化されているため、表示できません。新しいコードは再生成時にのみ表示できます。",
     "MODAL_VERIFY_IDENTITY_TITLE": "本人確認",

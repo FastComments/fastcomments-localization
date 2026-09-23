@@ -1,5 +1,7 @@
 {
     "STARTING_DUPLICATE_DETECTION": "Начало проверки на наличие дубликатов для <%= commentCount %> комментариев",
     "SKIPPED_DUPLICATE": "Пропущен дубликат (расстояние: <%= distance %>). Импортировано от \"<%= importedName %>\": \"<%= importedHtml %>\" | Существующий от \"<%= existingName %>\": \"<%= existingHtml %>\"",
-    "DUPLICATE_CHECK_PROGRESS": "Ход проверки на дубликаты: проверено <%= checked %>/<%= total %> комментариев, обнаружено <%= duplicatesFound %> дубликатов."
+    "DUPLICATE_CHECK_PROGRESS": "Ход проверки на дубликаты: проверено <%= checked %>/<%= total %> комментариев, обнаружено <%= duplicatesFound %> дубликатов.",
+    "DUPLICATE_CHECK_PROGRESS_O": "Ход проверки на дубликаты: проверено <%= checked %>/<%= total %> комментариев, обнаружен <%= duplicatesFound %> дубликат.",
+    "DUPLICATE_CHECK_PROGRESS_F": "Ход проверки на дубликаты: проверено <%= checked %>/<%= total %> комментариев, обнаружено <%= duplicatesFound %> дубликата."
 }

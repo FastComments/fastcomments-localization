@@ -3,6 +3,7 @@
     "HEADING": "¿Eliminar \"<%= question.name %>\"?",
     "CONFIRM_MESSAGE": "¿Está seguro de que desea eliminar la pregunta \"<%= question.question %>\", creada el <%= question.createdAt.toLocaleString() %>?",
     "REPLY_COUNT_MESSAGE": "Esta pregunta tiene <%= Number(question.usedCount).toLocaleString() %> respuestas.",
+    "REPLY_COUNT_MESSAGE_O": "Esta pregunta tiene <%= Number(question.usedCount).toLocaleString() %> respuesta.",
     "DATA_LOSS_WARNING": "Los datos de estas respuestas ya no estarán disponibles en los informes.",
     "DELETE_BUTTON": "Eliminar",
     "CANCEL_LINK": "Cancelar"

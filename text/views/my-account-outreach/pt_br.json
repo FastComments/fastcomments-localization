@@ -28,6 +28,7 @@
     "STATUS_PENDING": "Pendente",
     "FIT_STRONG": "ajuste forte",
     "VOTES": "{count} votos",
+    "VOTES_O": "{count} voto",
     "CONTACT_GUESSED": "endereço adivinhado",
     "NEEDS_REVIEW_WARNING": "Este rascunho acionou a verificação de formatação. Leia-o atentamente antes de enviar.",
     "STATUS_DENIED": "Negado",
@@ -72,7 +73,11 @@
     "FLASH_TOO_LONG": "Esse rascunho está muito longo para ser salvo. Reduza o assunto ou o corpo do texto e tente novamente.",
     "FLASH_NOTHING_SELECTED": "Selecione pelo menos um rascunho primeiro.",
     "FLASH_BULK_SENT_PARTIAL": "Foram enviados {count} emails. Alguns falharam e ainda estão pendentes.",
-    "FLASH_BULK_DENIED_PARTIAL": "Foram negadas {count} versões preliminares. Algumas já não estavam mais pendentes.",
+    "FLASH_BULK_SENT_PARTIAL_O": "Foi enviado {count} email. Alguns falharam e ainda estão pendentes.",
+    "FLASH_BULK_DENIED_PARTIAL": "Foram rejeitados {count} rascunhos. Alguns já não estavam mais pendentes.",
+    "FLASH_BULK_DENIED_PARTIAL_O": "Foi rejeitado {count} rascunho. Alguns já não estavam mais pendentes.",
     "FLASH_BULK_SENT": "Foram enviados {count} emails.",
-    "FLASH_BULK_DENIED": "Rejeitados {count} rascunhos."
+    "FLASH_BULK_SENT_O": "Foi enviado {count} email.",
+    "FLASH_BULK_DENIED": "Rejeitados {count} rascunhos.",
+    "FLASH_BULK_DENIED_O": "Rejeitado {count} rascunho."
 }

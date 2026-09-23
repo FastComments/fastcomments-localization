@@ -1,0 +1,15 @@
+{
+    "PAGE_TITLE": "تحليلات الفوترة - FastComments",
+    "TABLE_HEADER_DESCRIPTION": "الوصف",
+    "TABLE_HEADER_COST": "التكلفة",
+    "TEXT_TOTAL": "المجموع",
+    "HEADING_USAGE_THIS_PERIOD": "الاستخدام خلال هذه الفترة",
+    "TEXT_INVOICE_SEND_DATE": "سيتم إرسال الفاتورة في <%= invoiceSendDate %>.",
+    "HEADING_BILLING_ANALYTICS": "تحليلات الفوترة",
+    "HEADING_SERVICE_LIMITS": "حدود الخدمة",
+    "TEXT_TRIAL_PERIOD_NOTE": "أنت حاليًا في الفترة التجريبية. <b>المبلغ أعلاه غير مستحق في دورة الفوترة هذه.</b>",
+    "LABEL_CURRENT": "الحالي:",
+    "LABEL_MAX": "الحد الأقصى:",
+    "TEXT_MAX_NONE": "لا يوجد",
+    "TEXT_TRIAL_LIMITS_NOTE": "<b>ملاحظة!</b> بما أنك في الفترة التجريبية، تُطبَّق على حسابك حدود أقل. <a href=\"/auth/my-account/billing-info\">قم بالترقية إلى حساب مدفوع</a> أو <a href=\"/auth/my-account/help\">تواصل مع الدعم لرفع هذه الحدود</a>."
+}

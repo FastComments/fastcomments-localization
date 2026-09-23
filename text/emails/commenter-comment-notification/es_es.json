@@ -1,11 +1,17 @@
 {
     "BANNER_TEXT": "Nuevas respuestas a comentarios",
     "FROM_NAME": "Robot FastComments",
-    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>nueva respuesta<% } else { %>nuevas respuestas<% } %> a <% if(replyCount > 1) { %>tus comentarios<% } else {%>tu comentario<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> nuevas respuestas a [comments]",
+    "SUBJECT_O": "<%= abbreviateNumber(replyCount, 0, locale) %> nueva respuesta a [comments]",
+    "SUBJECT_COMMENTS": "tus comentarios",
+    "SUBJECT_COMMENTS_O": "tu comentario",
     "VIEW_REPLIES": "Ver y responder",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Deshabilitar notificaciones para este comentario",
     "INTRO": "Oye <%= username %>,",
     "UNSUBSCRIBE_HERE": "Darse de baja",
     "REPLY_BY_EMAIL_TIP": "Puede responder a este correo electrónico directamente para publicar su respuesta.",
-    "RECENT_COMMENT_COUNT": "Has tenido <% if(replyCount > 1) { %>algunas respuestas<% } else { %>una respuesta<% } %> a tus<% if(commentsSummary.length > 1) {%> comentarios<% } else { %> comentario<% } %>."
+    "RECENT_COMMENT_COUNT": "Has tenido algunas respuestas a [comments].",
+    "RECENT_COMMENT_COUNT_O": "Has tenido una respuesta a [comments].",
+    "RECENT_COMMENT_COUNT_COMMENTS": "tus comentarios",
+    "RECENT_COMMENT_COUNT_COMMENTS_O": "tu comentario"
 }

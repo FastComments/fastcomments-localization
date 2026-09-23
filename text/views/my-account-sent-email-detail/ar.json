@@ -1,0 +1,15 @@
+{
+    "LABEL_DATE": "التاريخ:",
+    "HEADING": "بريد إلكتروني مُرسل بتاريخ <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "BUTTON_BACK": "→ العودة إلى الرسائل المرسلة",
+    "PAGE_TITLE": "بريد إلكتروني مُرسل بتاريخ <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "LABEL_FROM": "من:",
+    "LABEL_TO": "إلى:",
+    "LABEL_SUBJECT": "الموضوع:",
+    "LABEL_BCC": "نسخة مخفية:",
+    "LABEL_HEADERS": "الترويسات:",
+    "HEADING_EMAIL_CONTENT": "محتوى البريد الإلكتروني",
+    "MESSAGE_NO_CONTENT": "لا يوجد محتوى متاح",
+    "VALUE_UNKNOWN": "غير معروف",
+    "VALUE_NO_SUBJECT": "(بدون موضوع)"
+}

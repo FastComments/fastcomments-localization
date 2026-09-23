@@ -6,6 +6,7 @@
     "VERIFY_YOUR_ACCOUNT": "Bekræft din konto",
     "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "Du kan oprette nye links til at logge ind på din konto <a href=\"<%= FC_DOMAIN %>/auth/login/\">her</a>.",
     "WASNT_YOU_OR_REGRET": "Hvis dette ikke var dig, eller du fortryder, hvad du sagde, ignorer denne e-mail, og kommentaren vil blive fjernet om <%= removedInDays %> dage.",
+    "WASNT_YOU_OR_REGRET_O": "Hvis dette ikke var dig, eller du fortryder, hvad du sagde, ignorer denne e-mail, og kommentaren vil blive fjernet om <%= removedInDays %> dag.",
     "REMOVE_COMMENT": "Hvis du gerne vil fjerne denne kommentar nu, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">så klik her</a>",
     "THANKS_SO_MUCH": "Tusind tak!",
     "USING_NAME_YOU_SAID": "Under navnet \"<%= comment.commenterName %>\" skrev du:",

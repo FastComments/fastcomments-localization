@@ -1,6 +1,7 @@
 {
     "PAGE_TITLE": "Disqus-alternatief: sneller, privé, zonder advertenties | FastComments",
     "META_DESCRIPTION": "FastComments is het Disqus-alternatief gebouwd voor snelheid en privacy. Eén script van minder dan 30 kilobyte, geen advertenties, geen tracking en een ingebouwde Disqus-import. Vertrouwd door meer dan <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organisaties.",
+    "META_DESCRIPTION_O": "FastComments is het Disqus-alternatief gebouwd voor snelheid en privacy. Eén script van minder dan 30 kilobyte, geen advertenties, geen tracking en een ingebouwde Disqus-import. Vertrouwd door meer dan <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organisatie.",
     "HEAD_KEYWORDS": "disqus-alternatief, fastcomments vs disqus, overstappen van disqus, disqus vervangen, disqus-alternatief zonder advertenties, disqus-alternatief privacy",
     "HERO_TITLE_BOLD": "Het Disqus-alternatief",
     "HERO_TITLE_LIGHT": " zonder de advertenties",
@@ -292,5 +293,6 @@
     "SOURCE_6": "Gepubliceerde Disqus-prijzen, geraadpleegd in juli 2026.",
     "FINAL_CTA_HEADING_LIGHT": "Klaar om de advertenties ",
     "FINAL_CTA_HEADING_BOLD": "achter je te laten?",
-    "FINAL_CTA_SUB": "Sluit je aan bij meer dan <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organisaties die kozen voor snellere pagina's en lezersprivacy. Importeer je Disqus-reacties in enkele minuten en zie het verschil bij de eerste paginaweergave."
+    "FINAL_CTA_SUB": "Sluit je aan bij meer dan <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organisaties die kozen voor snellere pagina's en lezersprivacy. Importeer je Disqus-reacties in enkele minuten en zie het verschil bij de eerste paginaweergave.",
+    "FINAL_CTA_SUB_O": "Sluit je aan bij meer dan <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organisatie die koos voor snellere pagina's en lezersprivacy. Importeer je Disqus-reacties in enkele minuten en zie het verschil bij de eerste paginaweergave."
 }

@@ -1,10 +1,10 @@
 {
     "GREETING": "שלום,",
+    "ERROR_SINGULAR": "שגיאה",
     "ERROR_PLURAL": "שגיאות",
     "BANNER_TEXT": "זוהו שגיאות ב-API של FastComments",
     "SUBJECT": "זוהו שגיאות ב-API של FastComments",
     "FROM_NAME": "רובוט ה-API של FastComments",
-    "ERROR_SINGULAR": "שגיאה",
     "TENANT_NOTE": "זה בנוגע לחשבון עם המזהה \"<%= tenantId %>\".",
     "EXPLANATION": "שגיאות אלו התרחשו בעת קריאה לפלטפורמה שלנו. אנו ממליצים לבדוק יומני רישום של אינטגרציות API מותאמות אישית עם FastComments לאיתור שגיאות.",
     "DETECTION": "זיהינו <%= errorCountFormatted %> ממשק API <%= errorWord %> עבור חשבונך ביום <%= errorDate %>.",

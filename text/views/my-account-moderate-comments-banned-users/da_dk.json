@@ -9,6 +9,7 @@
     "INTRO_PARAGRAPH_3": "Når udelukkede brugere forsøger at kommentere, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">vises det i revisionsloggen</a> med beskrivelsen &quot;Banned user blocked from commenting.&quot;",
     "IP_BAN_WARNING": "FastComments gemmer ikke rå IP-adresser til IP-baseret udelukkelse. Vær forsigtig, når du bruger IP-baserede udelukkelser, da IP-adresser kan blive omtildelt.",
     "SHOWING_BANNED_USERS": "Viser <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> af <%= totalCount %> udelukkede brugere",
+    "SHOWING_BANNED_USERS_O": "Viser <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> af <%= totalCount %> udelukket bruger",
     "PAGE_LABEL": "Side",
     "COUNT_PER_PAGE_LABEL": "Antal pr. side",
     "GO_BUTTON": "Gå",

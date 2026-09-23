@@ -1,0 +1,21 @@
+{
+    "BAN_SELECT_TITLE": "اختر الحظر للتعديل",
+    "BAN_SELECT_SUBTITLE_MULTIPLE": "توجد عدة عمليات حظر تنطبق على [username].",
+    "BAN_SELECT_SUBTITLE_ONE": "ينطبق على [username] حظر واحد مرتبط بهذا التعليق.",
+    "BAN_SELECT_BTN_SELECT": "اختيار",
+    "BAN_SELECT_BTN_CREATE_NEW": "إنشاء جديد",
+    "BAN_SELECT_BTN_CANCEL": "إلغاء",
+    "BAN_SELECT_DROPDOWN_LABEL": "اختر حظرًا",
+    "BAN_SELECT_SECTION_LABEL": "عمليات الحظر ذات الصلة",
+    "BAN_SELECT_REMINDER": "تذكّر التحقق من كيفية مطابقة الحظر للمستخدم قبل التعديل!",
+    "BAN_SELECT_EXPIRES": "ينتهي في [date]",
+    "BAN_SELECT_NEVER_EXPIRES": "لا ينتهي أبدًا",
+    "BAN_SELECT_SHADOW": "خفي",
+    "BAN_SELECT_ANON_USER_ID": "معرف المستخدم المجهول",
+    "BAN_SELECT_USER_ID": "معرف المستخدم",
+    "BAN_SELECT_EMAIL": "البريد الإلكتروني",
+    "BAN_SELECT_EMAIL_PATTERN": "نمط البريد الإلكتروني",
+    "BAN_SELECT_IP": "عنوان IP",
+    "BAN_SELECT_MATCHED_ON": "المطابقة حسب: [matches]",
+    "BAN_SELECT_ID": "(المعرّف: [id])"
+}

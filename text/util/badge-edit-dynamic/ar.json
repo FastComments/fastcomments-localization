@@ -1,0 +1,6 @@
+{
+    "HEADING_EDITING_BADGE": "تعديل <%= badge.displayLabel %>",
+    "HEADING_EDITING_BADGE_TYPE": "تعديل شارة \"<%= BadgeTypeDescriptions[badgeType] %>\"",
+    "HEADING_CREATING_BADGE_TYPE": "إنشاء شارة \"<%= BadgeTypeDescriptions[badgeType] %>\"",
+    "LABEL_BADGE_THRESHOLD": "<%= BadgeLimitDescriptions[badgeType] %>"
+}

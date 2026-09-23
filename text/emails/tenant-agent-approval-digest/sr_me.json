@@ -7,5 +7,6 @@
     "COLUMN_CREATED": "У реду за",
     "FROM_NAME": "FastComments agenti",
     "BANNER_TEXT": "Одобрења агента на чекању",
-    "SUBJECT": "<%= approvalCount %> акције агента чекају на одобрење"
+    "SUBJECT": "<%= approvalCount %> акција агента чека на одобрење",
+    "SUBJECT_F": "<%= approvalCount %> акције агента чекају на одобрење"
 }

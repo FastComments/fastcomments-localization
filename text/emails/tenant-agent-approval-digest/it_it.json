@@ -1,6 +1,7 @@
 {
     "BANNER_TEXT": "Approvazioni dell'agente in attesa",
     "SUBJECT": "<%= approvalCount %> azioni dell'agente in attesa di approvazione",
+    "SUBJECT_O": "<%= approvalCount %> azione dell'agente in attesa di approvazione",
     "COLUMN_AGENT": "Agente",
     "COLUMN_ACTION": "Azione",
     "FROM_NAME": "Agenti di FastComments",

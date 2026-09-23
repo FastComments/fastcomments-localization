@@ -1,6 +1,7 @@
 {
     "FROM_NAME": "FastComments agenti",
-    "SUBJECT": "<%= approvalCount %> akcija agenta čeka odobrenje",
+    "SUBJECT": "<%= approvalCount %> akcija agenta čeka na odobrenje",
+    "SUBJECT_F": "<%= approvalCount %> akcije agenta čekaju na odobrenje",
     "COLUMN_ACTION": "Akcija",
     "INBOX_BUTTON": "Otvori prijemno sanduče za odobrenja",
     "BANNER_TEXT": "Odobrenja agenta na čekanju",

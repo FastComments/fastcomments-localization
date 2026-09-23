@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "أنت الآن مشرف - FastComments",
+    "WELCOME_HEADING": "مرحباً، <%- user.displayName || user.username %>.",
+    "DATE_NOTE": "أنت الآن مشرف!",
+    "BUTTON_START_MODERATING": "ابدأ الإشراف",
+    "SUCCESS_MESSAGE": "تمت معالجة دعوتك بنجاح. شكرًا لانضمامك إلى FastComments كمشرف.",
+    "PASSWORD_INFO": "ستلاحظ أن FastComments لا يستخدم كلمات المرور افتراضيًا، بل نستخدم البريد الإلكتروني للتحقق من هويتك. يمكنك تعيين كلمة مرور لاحقًا."
+}

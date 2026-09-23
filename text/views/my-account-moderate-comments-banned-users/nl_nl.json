@@ -9,6 +9,7 @@
     "INTRO_PARAGRAPH_3": "Wanneer verbannen gebruikers proberen te reageren, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">verschijnt dit in het auditlogboek</a> met de beschrijving &quot;Banned user blocked from commenting.&quot;",
     "IP_BAN_WARNING": "FastComments slaat geen onbewerkte IP-adressen op voor verbanningen op basis van IP-adres. Wees voorzichtig met verbanningen op basis van IP-adres, aangezien IP-adressen opnieuw kunnen worden toegewezen.",
     "SHOWING_BANNED_USERS": "Toont <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> van <%= totalCount %> verbannen gebruikers",
+    "SHOWING_BANNED_USERS_O": "Toont <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> van <%= totalCount %> verbannen gebruiker",
     "PAGE_LABEL": "Pagina",
     "COUNT_PER_PAGE_LABEL": "Aantal per pagina",
     "GO_BUTTON": "Gaan",

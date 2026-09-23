@@ -1,0 +1,9 @@
+{
+    "HEADING": "حذف \"<%= question.name %>\"؟",
+    "DELETE_BUTTON": "حذف",
+    "CANCEL_LINK": "إلغاء",
+    "CONFIRM_MESSAGE": "هل أنت متأكد من رغبتك في حذف السؤال \"<%= question.question %>\"، الذي تم إنشاؤه في <%= question.createdAt.toLocaleString() %>؟",
+    "PAGE_TITLE": "حذف السؤال - FastComments",
+    "REPLY_COUNT_MESSAGE": "عدد الردود على هذا السؤال: <%= Number(question.usedCount).toLocaleString() %>.",
+    "DATA_LOSS_WARNING": "لن تكون البيانات الواردة من هذه الردود متاحة في التقارير بعد الآن."
+}

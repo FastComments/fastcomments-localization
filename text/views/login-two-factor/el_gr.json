@@ -4,6 +4,7 @@
     "HERO_TITLE_BOLD": "Έλεγχος ταυτότητας δύο παραγόντων",
     "HERO_DESCRIPTION": "Παρακαλώ εισάγετε τον κωδικό επαλήθευσης για να ολοκληρώσετε τη σύνδεση",
     "ATTEMPTS_REMAINING": "<%= 5 - session.attempts %> προσπάθειες που απομένουν",
+    "ATTEMPTS_REMAINING_O": "<%= 5 - session.attempts %> προσπάθεια που απομένει",
     "LABEL_METHOD_SELECT": "Επιλέξτε μέθοδο επαλήθευσης:",
     "METHOD_AUTHENTICATOR": "Εφαρμογή ελέγχου ταυτότητας",
     "METHOD_SMS": "SMS",

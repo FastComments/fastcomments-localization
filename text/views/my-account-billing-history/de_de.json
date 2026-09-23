@@ -4,6 +4,7 @@
     "TEXT_NO_INVOICES": "Es sind keine Rechnungen in Ihrem Konto hinterlegt.",
     "TEXT_BILLING_EXTERNALLY_MANAGED": "Ihre Abrechnungsinformationen sind auf „Extern verwaltet“ eingestellt. Rechnungen werden hier möglicherweise nicht angezeigt.",
     "TEXT_SHOWING_PAGE": "Seite <%= currentPage %> der Rechnungen wird angezeigt. <%= invoices.length %> Rechnungen pro Seite.",
+    "TEXT_SHOWING_PAGE_O": "Seite <%= currentPage %> der Rechnungen wird angezeigt. <%= invoices.length %> Rechnung pro Seite.",
     "TABLE_HEADER_INVOICE_DATE": "Rechnungsdatum",
     "TABLE_HEADER_INVOICE_NUMBER": "Rechnungsnummer",
     "TABLE_HEADER_DESCRIPTION": "Beschreibung",

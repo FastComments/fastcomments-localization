@@ -2,10 +2,15 @@
     "INTRO": "Merhaba <%= username %>,",
     "BANNER_TEXT": "Yeni Yorum Yanıtları",
     "FROM_NAME": "FastComments Robotu",
-    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Yeni Yanıt<% } else { %>Yeni Yanıtlar<% } %> için <% if(replyCount > 1) { %>Yorumlarınız<% } else {%>Yorumunuz<% } %>",
+    "SUBJECT": "[comments] <%= abbreviateNumber(replyCount, 0, locale) %> Yeni Yanıt",
+    "SUBJECT_COMMENTS": "Yorumlarınıza",
+    "SUBJECT_COMMENTS_O": "Yorumunuza",
     "VIEW_REPLIES": "Görüntüle ve Cevapla",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Bu Yorum İçin Bildirimleri Devre Dışı Bırak",
     "UNSUBSCRIBE_HERE": "abonelikten çık",
     "REPLY_BY_EMAIL_TIP": "Yanıtınızı göndermek için bu e-postayı doğrudan yanıtlayabilirsiniz.",
-    "RECENT_COMMENT_COUNT": "<% if(commentsSummary.length > 1) {%>Yorumlarınıza<% } else { %>Yorumunuza<% } %> <% if(replyCount > 1) { %>bazı yanıtlar<% } else { %>bir yanıt<% } %> geldi."
+    "RECENT_COMMENT_COUNT": "[comments] bazı yanıtlar geldi.",
+    "RECENT_COMMENT_COUNT_O": "[comments] bir yanıt geldi.",
+    "RECENT_COMMENT_COUNT_COMMENTS": "Yorumlarınıza",
+    "RECENT_COMMENT_COUNT_COMMENTS_O": "Yorumunuza"
 }

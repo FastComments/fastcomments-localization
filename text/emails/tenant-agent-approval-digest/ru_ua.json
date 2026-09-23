@@ -3,6 +3,8 @@
     "FROM_NAME": "Агенты FastComments",
     "COLUMN_AGENT": "Агент",
     "SUBJECT": "<%= approvalCount %> действий агента ожидают утверждения",
+    "SUBJECT_O": "<%= approvalCount %> действие агента ожидает утверждения",
+    "SUBJECT_F": "<%= approvalCount %> действия агента ожидают утверждения",
     "INTRO": "Следующие действия ИИ-агента ожидают вашего одобрения или отклонения.",
     "COLUMN_ACTION": "Действие",
     "COLUMN_CREATED": "Поставлено в очередь",

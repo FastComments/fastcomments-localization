@@ -1,6 +1,8 @@
 {
     "PAGE_TITLE": "Alternativa Disqusu: brže, privatno, bez oglasa | FastComments",
     "META_DESCRIPTION": "FastComments je alternativa Disqusu izgrađena za brzinu i privatnost. Jedna skripta ispod 30 kilobajta, bez oglasa, bez praćenja i s ugrađenim uvozom s Disqusa. Pouzdan izbor za više od <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ organizacija.",
+    "META_DESCRIPTION_O": "FastComments je alternativa Disqusu izgrađena za brzinu i privatnost. Jedna skripta ispod 30 kilobajta, bez oglasa, bez praćenja i s ugrađenim uvozom s Disqusa. Pouzdan izbor za više od <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ organizacije.",
+    "META_DESCRIPTION_F": "FastComments je alternativa Disqusu izgrađena za brzinu i privatnost. Jedna skripta ispod 30 kilobajta, bez oglasa, bez praćenja i s ugrađenim uvozom s Disqusa. Pouzdan izbor za više od <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ organizacije.",
     "HEAD_KEYWORDS": "alternativa Disqusu, fastcomments vs disqus, prelazak s Disqusa, zamjena za Disqus, alternativa Disqusu bez oglasa, alternativa Disqusu privatnost",
     "HERO_TITLE_BOLD": "Alternativa Disqusu",
     "HERO_TITLE_LIGHT": " Bez oglasa",

@@ -9,6 +9,7 @@
     "INTRO_PARAGRAPH_3": "When banned users try to comment <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">it will show up in the audit log</a> with the description \"Banned user blocked from commenting.\"",
     "IP_BAN_WARNING": "FastComments does not store raw IP addresses for IP based banning. Be careful when using IP based bans as IP addresses can be reassigned.",
     "SHOWING_BANNED_USERS": "Showing <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> of <%= totalCount %> Banned Users",
+    "SHOWING_BANNED_USERS_O": "Showing <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> of <%= totalCount %> Banned User",
     "LABEL_SEARCH_BY": "Search By",
     "LABEL_SEARCH_OPERATOR": "Match",
     "LABEL_SEARCH_VALUE": "Value",

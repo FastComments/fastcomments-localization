@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "روبوت التحقق من FastComments",
+    "BANNER_TEXT": "تأكيد بريدك الإلكتروني",
+    "SUBJECT": "أكّد بريدك الإلكتروني يا <%= username %>",
+    "INTRO": "مرحبًا <%= username %>،",
+    "VERIFY_THIS_LINK": "يرجى تأكيد عنوان بريدك الإلكتروني الجديد بالنقر على <a href=\"<%= userVerifyUrl %>\">هذا الرابط</a>. سيتم تحديث بريدك الإلكتروني في حسابك بمجرد القيام بذلك.",
+    "THAT_FULL_LINK_IS": "الرابط الكامل هو: <%= userVerifyUrl %>"
+}

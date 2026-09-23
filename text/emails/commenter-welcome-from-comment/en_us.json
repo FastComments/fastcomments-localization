@@ -6,6 +6,7 @@
     "VERIFY_YOUR_ACCOUNT": "Verify Your Account",
     "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "You can create new links to log into your account <a href=\"<%= FC_DOMAIN %>/auth/login/\">here</a>.",
     "WASNT_YOU_OR_REGRET": "If this wasn't you or you regret what you said ignore this email and the comment will be removed in <%= removedInDays %> days.",
+    "WASNT_YOU_OR_REGRET_O": "If this wasn't you or you regret what you said ignore this email and the comment will be removed in <%= removedInDays %> day.",
     "REMOVE_COMMENT": "If you'd like to remove this comment now, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">click here</a>",
     "THANKS_SO_MUCH": "Thanks so much!",
     "USING_NAME_YOU_SAID": "Using the name \"<%= comment.commenterName %>\" you said:",

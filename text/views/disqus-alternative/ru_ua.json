@@ -1,6 +1,7 @@
 {
     "PAGE_TITLE": "Альтернатива Disqus: быстрее, приватнее, без рекламы | FastComments",
-    "META_DESCRIPTION": "FastComments — это альтернатива Disqus, созданная для скорости и конфиденциальности. Один скрипт менее 30 килобайт, без рекламы, без слежки и со встроенным импортом из Disqus. Нам доверяют более <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ организаций.",
+    "META_DESCRIPTION": "FastComments - это альтернатива Disqus, созданная для скорости и конфиденциальности. Один скрипт менее 30 килобайт, никакой рекламы, никакого отслеживания и встроенный импорт из Disqus. Нам доверяют более <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> организаций.",
+    "META_DESCRIPTION_O": "FastComments - это альтернатива Disqus, созданная для скорости и конфиденциальности. Один скрипт менее 30 килобайт, никакой рекламы, никакого отслеживания и встроенный импорт из Disqus. Нам доверяют более <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> организации.",
     "HEAD_KEYWORDS": "альтернатива disqus, fastcomments против disqus, перейти с disqus, замена disqus, альтернатива disqus без рекламы, альтернатива disqus конфиденциальность",
     "HERO_TITLE_BOLD": "Альтернатива Disqus",
     "HERO_TITLE_LIGHT": " без рекламы",
@@ -292,5 +293,6 @@
     "SOURCE_6": "Опубликованные цены Disqus, доступ в июле 2026.",
     "FINAL_CTA_HEADING_LIGHT": "Готовы оставить рекламу ",
     "FINAL_CTA_HEADING_BOLD": "позади?",
-    "FINAL_CTA_SUB": "Присоединяйтесь к более чем <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ организациям, выбравшим более быстрые страницы и конфиденциальность читателей. Импортируйте комментарии из Disqus за минуты и увидите разницу с первой же загрузки страницы."
+    "FINAL_CTA_SUB": "Присоединяйтесь к более чем <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> организациям, выбравшим более быстрые страницы и конфиденциальность читателей. Импортируйте свои комментарии из Disqus за минуты и увидьте разницу с первой же загрузки страницы.",
+    "FINAL_CTA_SUB_O": "Присоединяйтесь к более чем <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> организации, выбравшим более быстрые страницы и конфиденциальность читателей. Импортируйте свои комментарии из Disqus за минуты и увидьте разницу с первой же загрузки страницы."
 }

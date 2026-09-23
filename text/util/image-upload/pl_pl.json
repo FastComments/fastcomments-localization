@@ -1,3 +1,5 @@
 {
-    "ERROR_IMAGE_TOO_LARGE": "Ten obraz jest za duży, aby go przetworzyć. Prześlij obraz o rozdzielczości mniejszej niż <%= maxMegapixels %> megapikseli."
+    "ERROR_IMAGE_TOO_LARGE": "Ten obraz jest za duży, aby go przetworzyć. Prześlij obraz o rozdzielczości mniejszej niż <%= maxMegapixels %> megapikseli.",
+    "ERROR_IMAGE_TOO_LARGE_O": "Ten obraz jest za duży, aby go przetworzyć. Prześlij obraz o rozdzielczości mniejszej niż <%= maxMegapixels %> megapiksel.",
+    "ERROR_IMAGE_TOO_LARGE_F": "Ten obraz jest za duży, aby go przetworzyć. Prześlij obraz o rozdzielczości mniejszej niż <%= maxMegapixels %> megapiksele."
 }

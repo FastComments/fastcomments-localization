@@ -12,7 +12,9 @@
     "COMMENTS_NEEDING_REVIEW": "Komentarze wymagające sprawdzenia",
     "RECENT_COMMENTS": "Ostatnie komentarze",
     "NO_COMMENTS": "Nie ma tu nic do pokazania!",
-    "VIEW_MORE_COMMENTS": "Moderuj <%= abbreviateNumber(commentCount - comments.length, 0, locale) %> więcej komentarzy",
+    "VIEW_MORE_COMMENTS": "Moderuj jeszcze <%= abbreviateNumber(commentCount - comments.length, 0, locale) %> komentarzy",
+    "VIEW_MORE_COMMENTS_O": "Moderuj jeszcze <%= abbreviateNumber(commentCount - comments.length, 0, locale) %> komentarz",
+    "VIEW_MORE_COMMENTS_F": "Moderuj jeszcze <%= abbreviateNumber(commentCount - comments.length, 0, locale) %> komentarze",
     "FROM_NAME": "FastComments Robot",
     "APPROVE": "Zatwierdź",
     "APPROVE_AND_RESPOND": "Zatwierdź i odpowiedz",
@@ -24,6 +26,8 @@
     "MODERATE_COMMENTS": "Moderuj komentarze",
     "MARK_AS_SPAM": "Oznacz jako spam",
     "NEW_LIKES": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Nowe polubienia",
+    "NEW_LIKES_O": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Nowe polubienie",
+    "NEW_LIKES_M": "<%= abbreviateNumber(digestEmail.newLikeCount, 0, locale) %> Nowych polubień",
     "DELTA_LIKES": "❤️",
     "TOTAL_LIKES": "Łącznie",
     "AGENT_ACTION_MARK_COMMENT_REVIEWED": "Komentarze oznaczone jako sprawdzone: {count}",
@@ -33,8 +37,10 @@
     "AUTOMATED_MODERATION_INTRO": "Działania podjęte przez agentów AI w tej społeczności. Wiersze próbne pokazują, co agent zrobiłby, gdyby był aktywny.",
     "AGENT_ACTION_MARK_COMMENT_APPROVED": "Zatwierdzone komentarze: {count}",
     "AGENT_ACTION_BAN_USER": "Zbanowano {count} użytkowników",
+    "AGENT_ACTION_BAN_USER_O": "Zbanowano {count} użytkownika",
     "AGENT_ACTION_UNLOCK_COMMENT": "Ponownie otwarte komentarze: {count}",
     "AGENT_ACTION_LIVE_BADGE": "Na żywo",
     "AGENT_ACTION_DRY_RUN_BADGE": "Tryb próbny",
-    "AGENT_ACTION_WARNED_USER": "Ostrzeżono {count} użytkowników za pośrednictwem wiadomości prywatnej"
+    "AGENT_ACTION_WARNED_USER": "Ostrzeżono {count} użytkowników za pośrednictwem wiadomości prywatnej",
+    "AGENT_ACTION_WARNED_USER_O": "Ostrzeżono {count} użytkownika za pośrednictwem wiadomości prywatnej"
 }

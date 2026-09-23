@@ -1,8 +1,8 @@
 {
     "GREETING": "Hola,",
-    "ERROR_SINGULAR": "error",
     "FROM_NAME": "Robot de la API de FastComments",
     "BANNER_TEXT": "Se han detectado errores en la API de FastComments.",
+    "ERROR_SINGULAR": "error",
     "ERROR_PLURAL": "errores",
     "SUBJECT": "Se han detectado errores en la API de FastComments.",
     "DETECTION": "Detectamos <%= errorCountFormatted %> API <%= errorWord %> para su cuenta el día de <%= errorDate %>.",

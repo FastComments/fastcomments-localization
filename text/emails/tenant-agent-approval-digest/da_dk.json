@@ -2,6 +2,7 @@
     "BANNER_TEXT": "Afventende agentgodkendelser",
     "COLUMN_AGENT": "Agent",
     "SUBJECT": "<%= approvalCount %> agenthandlinger afventer godkendelse",
+    "SUBJECT_O": "<%= approvalCount %> agenthandling afventer godkendelse",
     "FROM_NAME": "FastComments Agenter",
     "COLUMN_ACTION": "Handling",
     "INTRO": "Følgende AI-agenthandlinger venter på, at du godkender eller afviser dem.",

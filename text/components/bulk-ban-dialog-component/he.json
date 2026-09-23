@@ -3,14 +3,14 @@
     "BULK_BAN_SUBTITLE": "יש לנהוג בזהירות!",
     "BULK_BAN_BTN_BAN": "הרחקה",
     "BULK_BAN_BTN_CANCEL": "ביטול",
-    "BULK_BAN_PLURAL_EMAILS": "כתובות דוא\"ל",
     "BULK_BAN_SINGULAR_EMAIL": "כתובת דוא\"ל",
-    "BULK_BAN_PLURAL_USERS": "משתמשים",
+    "BULK_BAN_PLURAL_EMAILS": "כתובות דוא\"ל",
     "BULK_BAN_SINGULAR_USER": "משתמש",
-    "BULK_BAN_PLURAL_EMAIL_DOMAINS": "דומייני דוא\"ל",
+    "BULK_BAN_PLURAL_USERS": "משתמשים",
     "BULK_BAN_SINGULAR_EMAIL_DOMAIN": "דומיין דוא\"ל",
-    "BULK_BAN_PLURAL_IP_ADDRESSES": "כתובות IP",
+    "BULK_BAN_PLURAL_EMAIL_DOMAINS": "דומייני דוא\"ל",
     "BULK_BAN_SINGULAR_IP_ADDRESS": "כתובת IP",
+    "BULK_BAN_PLURAL_IP_ADDRESSES": "כתובות IP",
     "BULK_BAN_SELECTED": "נבחר: [text]",
     "BULK_BAN_USE_CAUTION_SELECTED": "יש לנהוג בזהירות! [text]",
     "BULK_BAN_VIA_EMAIL_ACCOUNT": "הרחקה לפי דוא\"ל / חשבון",
@@ -33,5 +33,6 @@
     "BULK_BAN_BY_EMAIL": "לפי דוא\"ל",
     "BULK_BAN_BY_IP": "לפי IP",
     "BULK_BAN_BY_EMAIL_DOMAIN": "עם כתובות דוא\"ל המסתיימות ב: [domains]",
-    "BULK_BAN_DELETE_RELATED_COMMENTS": "מחק [count] תגובות קשורות[summary]."
+    "BULK_BAN_DELETE_RELATED_COMMENTS": "מחק [count] תגובות קשורות[summary].",
+    "BULK_BAN_DELETE_RELATED_COMMENTS_O": "מחק [count] תגובה קשורה[summary]."
 }

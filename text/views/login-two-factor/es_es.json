@@ -4,6 +4,7 @@
     "HERO_TITLE_BOLD": "Autenticación de dos factores",
     "HERO_DESCRIPTION": "Ingrese su código de verificación para completar el inicio de sesión.",
     "ATTEMPTS_REMAINING": "<%= 5 - session.attempts %> intentos restantes",
+    "ATTEMPTS_REMAINING_O": "<%= 5 - session.attempts %> intento restante",
     "LABEL_METHOD_SELECT": "Elige el método de verificación:",
     "METHOD_AUTHENTICATOR": "Aplicación de autenticación",
     "METHOD_SMS": "SMS",

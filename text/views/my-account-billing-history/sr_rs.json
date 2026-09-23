@@ -4,6 +4,7 @@
     "TEXT_NO_INVOICES": "Немате фактуре на свом налогу.",
     "TEXT_BILLING_EXTERNALLY_MANAGED": "Подаци о вашем плаћању су подешени на Спољно управљање. Фактуре се можда неће приказивати овде.",
     "TEXT_SHOWING_PAGE": "Приказана је <%= currentPage %> страница фактура. <%= invoices.length %> фактура по страници.",
+    "TEXT_SHOWING_PAGE_F": "Приказана је <%= currentPage %> страница фактура. <%= invoices.length %> фактуре по страници.",
     "TABLE_HEADER_INVOICE_DATE": "Датум фактуре",
     "TABLE_HEADER_INVOICE_NUMBER": "Број фактуре",
     "TABLE_HEADER_DESCRIPTION": "Опис",

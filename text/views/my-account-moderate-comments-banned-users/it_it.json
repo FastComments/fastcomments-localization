@@ -9,6 +9,7 @@
     "INTRO_PARAGRAPH_3": "Quando gli utenti bannati provano a commentare, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">il tentativo comparirà nel registro di controllo</a> con la descrizione &quot;Banned user blocked from commenting.&quot;",
     "IP_BAN_WARNING": "FastComments non memorizza indirizzi IP grezzi per i ban basati su IP. Prestare attenzione quando si utilizzano ban basati su IP, poiché gli indirizzi IP possono essere riassegnati.",
     "SHOWING_BANNED_USERS": "Visualizzazione di <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> di <%= totalCount %> utenti bannati",
+    "SHOWING_BANNED_USERS_O": "Visualizzazione di <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> di <%= totalCount %> utente bannato",
     "PAGE_LABEL": "Pagina",
     "COUNT_PER_PAGE_LABEL": "Elementi per pagina",
     "GO_BUTTON": "Vai",

@@ -2,10 +2,16 @@
     "INTRO": "Γεια <%= username %>,",
     "BANNER_TEXT": "Νέες απαντήσεις σχολίων",
     "FROM_NAME": "Ρομπότ FastComments",
-    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Νέα απάντηση<% } else { %>Νέες απαντήσεις<% } %> σε <% if(replyCount > 1) { %>Τα σχόλιά σας<% } else {%>Το σχόλιό σας<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> Νέες απαντήσεις [comments]",
+    "SUBJECT_O": "<%= abbreviateNumber(replyCount, 0, locale) %> Νέα απάντηση [comments]",
+    "SUBJECT_COMMENTS": "στα σχόλιά σας",
+    "SUBJECT_COMMENTS_O": "στο σχόλιό σας",
     "VIEW_REPLIES": "Προβολή και απάντηση",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Απενεργοποιήστε τις ειδοποιήσεις για αυτό το σχόλιο",
     "UNSUBSCRIBE_HERE": "Απεγγραφή",
     "REPLY_BY_EMAIL_TIP": "Μπορείτε να απαντήσετε απευθείας σε αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου για να δημοσιεύσετε την απάντησή σας.",
-    "RECENT_COMMENT_COUNT": "Λάβατε <% if(replyCount > 1) { %>μερικές απαντήσεις<% } else { %>μια απάντηση<% } %> <% if(commentsSummary.length > 1) {%>στα σχόλιά σας<% } else { %>στο σχόλιό σας<% } %>."
+    "RECENT_COMMENT_COUNT": "Λάβατε μερικές απαντήσεις [comments].",
+    "RECENT_COMMENT_COUNT_O": "Λάβατε μια απάντηση [comments].",
+    "RECENT_COMMENT_COUNT_COMMENTS": "στα σχόλιά σας",
+    "RECENT_COMMENT_COUNT_COMMENTS_O": "στο σχόλιό σας"
 }

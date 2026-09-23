@@ -3,14 +3,16 @@
     "BULK_BAN_SUBTITLE": "Budite oprezni!",
     "BULK_BAN_BTN_BAN": "Banuj",
     "BULK_BAN_BTN_CANCEL": "Otkaži",
-    "BULK_BAN_PLURAL_EMAILS": "adresa e-pošte",
     "BULK_BAN_SINGULAR_EMAIL": "adresa e-pošte",
-    "BULK_BAN_PLURAL_USERS": "korisnika",
+    "BULK_BAN_PLURAL_EMAILS": "adresa e-pošte",
+    "BULK_BAN_PLURAL_EMAILS_F": "adrese e-pošte",
     "BULK_BAN_SINGULAR_USER": "korisnik",
-    "BULK_BAN_PLURAL_EMAIL_DOMAINS": "domena e-pošte",
+    "BULK_BAN_PLURAL_USERS": "korisnika",
     "BULK_BAN_SINGULAR_EMAIL_DOMAIN": "domen e-pošte",
-    "BULK_BAN_PLURAL_IP_ADDRESSES": "IP adresa",
+    "BULK_BAN_PLURAL_EMAIL_DOMAINS": "domena e-pošte",
     "BULK_BAN_SINGULAR_IP_ADDRESS": "IP adresa",
+    "BULK_BAN_PLURAL_IP_ADDRESSES": "IP adresa",
+    "BULK_BAN_PLURAL_IP_ADDRESSES_F": "IP adrese",
     "BULK_BAN_SELECTED": "Izabrano: [text]",
     "BULK_BAN_USE_CAUTION_SELECTED": "Budite oprezni! [text]",
     "BULK_BAN_VIA_EMAIL_ACCOUNT": "Ban putem e-pošte / naloga",
@@ -33,5 +35,6 @@
     "BULK_BAN_BY_EMAIL": "Po e-pošti",
     "BULK_BAN_BY_IP": "Po IP adresi",
     "BULK_BAN_BY_EMAIL_DOMAIN": "Sa e-poštom koja se završava na: [domains]",
-    "BULK_BAN_DELETE_RELATED_COMMENTS": "Obriši povezane komentare: [count][summary]."
+    "BULK_BAN_DELETE_RELATED_COMMENTS": "Obriši povezane komentare: [count][summary].",
+    "BULK_BAN_DELETE_RELATED_COMMENTS_O": "Obriši povezani komentar: [count][summary]."
 }

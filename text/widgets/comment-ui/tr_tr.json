@@ -29,8 +29,8 @@
     "LINK_EXAMPLE_TEXT": "Bağlantı metni",
     "CANCEL_REPLY": "Cevabı İptal Et",
     "LOADING": "Yükleniyor...",
-    "COMMENTS_THIS_PAGE": " yorumlar",
     "COMMENT_THIS_PAGE": " yorum",
+    "COMMENTS_THIS_PAGE": " yorum",
     "NEXT": "Daha Fazla Yükle <span>[count]</span>",
     "LOAD_ALL": "Tümünü Görüntüle <span>[count]</span>",
     "ALREADY_VOTED": "Bu yoruma zaten oy verdiniz.",
@@ -61,8 +61,8 @@
     "HAVE_AN_ACCOUNT": "bir hesabım var",
     "NEW_COMMENT_CLICK_SHOW": "Yeni yorum! Göstermek için tıklayın",
     "NEW_COMMENTS_CLICK_SHOW": "Yeni yorumlar! Daha fazlasını göstermek için tıklayın",
-    "COMMENT": "Yorum",
-    "COMMENTS": "yorumlar",
+    "COMMENT": "yorum",
+    "COMMENTS": "yorum",
     "SAVING_VOTE": "kaydediliyor...",
     "SAVING_COMMENT": "Yorumunuz kaydediliyor...",
     "ERROR_MESSAGE": "Eyvah! Bir şeyler yanlış gitti. Lütfen daha sonra tekrar deneyiniz.",
@@ -121,6 +121,7 @@
     "INSERT_POLL": "Anket Ekle",
     "COMMENT_VIEWED_BY": "Bu yorumu görüntüleyen kullanıcı sayısı.",
     "UPLOADING": "Yükleniyor [v]%",
+    "ONE_REPLY": "[v] Yanıt",
     "REPLIES_COUNT": "[v] Yanıt",
     "COMMENT_MENU_PIN": "Pin",
     "COMMENT_MENU_UNPIN": "Sabitlemeyi kaldır",
@@ -130,6 +131,5 @@
     "THIS_COMMENT_LOCKED": "Bu yorum kilitlendi.",
     "BOT_LABEL": "Bot",
     "MENTION_SEARCHING": "Kullanıcı aranıyor...",
-    "MENTION_NO_MATCHES": "Eşleşen kullanıcı bulunamadı.",
-    "ONE_REPLY": "[v] Yanıt"
+    "MENTION_NO_MATCHES": "Eşleşen kullanıcı bulunamadı."
 }

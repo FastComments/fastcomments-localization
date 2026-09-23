@@ -1,0 +1,9 @@
+{
+    "SUB_HEADING_NO_DOMAIN": "تعديل رمز تكامل <%= integration.readableType %>.",
+    "PAGE_TITLE": "إعدادات رمز التكامل - FastComments",
+    "HEADING": "إعدادات رمز التكامل",
+    "SUB_HEADING_DOMAIN": "تعديل رمز تكامل <%= integration.readableType %> لـ <%= integration.domain %>.",
+    "SAVE_BUTTON": "حفظ",
+    "ENABLE_EVENT_FETCH_DESCRIPTION": "سيُمكّن هذا العملاء الذين يستخدمون رمز التكامل هذا من جلب سجل الأحداث لضمان مزامنة بياناتهم. يُعدّ هذا مفيدًا إذا كنت تستخدم إضافات WordPress تتطلب بيانات التعليقات في قاعدة بياناتك الخاصة.",
+    "ENABLE_EVENT_FETCH_LABEL": "ينبغي أن يكون العملاء الذين يستخدمون هذا التكامل قادرين على جلب التعليقات الجديدة بشكل دوري."
+}

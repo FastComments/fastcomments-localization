@@ -4,6 +4,7 @@
     "HEADING_COUPON_CODES": "Codici coupon",
     "HEADING_STATS": "Statistiche",
     "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> Buoni riscattati.",
+    "TEXT_COUPONS_REDEEMED_O": "<%= Number(couponsRedeemedCount).toLocaleString() %> Buono riscattato.",
     "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> Totale coupon.",
     "HEADING_DOWNLOAD": "Download",
     "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "Scarica i coupon disponibili",

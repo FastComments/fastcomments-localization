@@ -1,4 +1,7 @@
 {
     "TEXT_REPLACES": "↳ Nadomešča <%= badge.replacesDisplayLabel %>",
-    "TEXT_USERS_PROCESSED": "[count] uporabnikov obdelanih ..."
+    "TEXT_USERS_PROCESSED": "[count] uporabnikov obdelanih ...",
+    "TEXT_USERS_PROCESSED_O": "[count] uporabnik obdelan ...",
+    "TEXT_USERS_PROCESSED_T": "[count] uporabnika obdelana ...",
+    "TEXT_USERS_PROCESSED_F": "[count] uporabniki obdelani ..."
 }

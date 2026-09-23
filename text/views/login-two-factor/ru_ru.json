@@ -4,6 +4,8 @@
     "HERO_TITLE_BOLD": "Двухфакторная аутентификация",
     "HERO_DESCRIPTION": "Пожалуйста, введите проверочный код для завершения входа в систему.",
     "ATTEMPTS_REMAINING": "Осталось <%= 5 - session.attempts %> попыток",
+    "ATTEMPTS_REMAINING_O": "Осталась <%= 5 - session.attempts %> попытка",
+    "ATTEMPTS_REMAINING_F": "Осталось <%= 5 - session.attempts %> попытки",
     "LABEL_METHOD_SELECT": "Выберите способ проверки:",
     "METHOD_AUTHENTICATOR": "Приложение-аутентификатор",
     "METHOD_SMS": "SMS",

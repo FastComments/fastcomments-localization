@@ -6,7 +6,9 @@
     "SELECT_TEXT_TO_START": "Выберите текст, чтобы начать обсуждение.",
     "REMOVE_CHAT_CONFIRM": "Удалить этот чат?",
     "USERS_ONLINE_ONE": "[count] пользователь онлайн",
+    "USERS_ONLINE_MANY": "[count] пользователей онлайн",
+    "USERS_ONLINE_MANY_F": "[count] пользователя онлайн",
     "DISCUSSION_ONE": "[count] обсуждение",
-    "USERS_ONLINE_MANY": "Пользователей онлайн: [count]",
-    "DISCUSSION_MANY": "Обсуждений: [count]"
+    "DISCUSSION_MANY": "[count] обсуждений",
+    "DISCUSSION_MANY_F": "[count] обсуждения"
 }

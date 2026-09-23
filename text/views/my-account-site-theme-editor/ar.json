@@ -1,0 +1,18 @@
+{
+    "HEADING_EDITOR": "محرر السمات",
+    "BREADCRUMB_EDITOR": "المحرر",
+    "PAGE_TITLE": "محرر السمات - FastComments",
+    "TAB_TEMPLATE": "القالب",
+    "TAB_CSS": "CSS",
+    "BTN_SAVE": "حفظ",
+    "PREVIEW_PAGE_LABEL": "صفحة المعاينة",
+    "BTN_NEW_FILE": "ملف جديد",
+    "CONFIRM_DELETE_FILE": "هل أنت متأكد من رغبتك في حذف هذا الملف؟",
+    "TAB_LOCALIZATIONS": "الترجمات",
+    "ERROR_INVALID_FILE_NAME": "اسم الملف غير صالح. استخدم الأحرف والأرقام والواصلات والشرطات السفلية والشرطات المائلة. يجب أن ينتهي بـ .njk.",
+    "PROMPT_FILE_NAME": "أدخل اسم ملف القالب (على سبيل المثال: partials/header.njk):",
+    "ERROR_FILE_EXISTS": "يوجد ملف بهذا الاسم بالفعل.",
+    "ERROR_CANNOT_DELETE_REQUIRED": "هذا الملف مطلوب ولا يمكن حذفه.",
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "التخصيص للإعداد اللغوي:",
+    "TEXT_LOCALIZATIONS_INFO": "خصّص النصوص الافتراضية المستخدمة في سمة موقعك. تُطبَّق التغييرات على الإعداد اللغوي المحدد فقط."
+}

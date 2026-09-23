@@ -2,10 +2,12 @@
     "INTRO": "안녕하세요 <%= username %>,",
     "BANNER_TEXT": "새 댓글 답글",
     "FROM_NAME": "FastComments 로봇",
-    "SUBJECT": "<% if(replyCount > 1) { %>내 댓글<% } else {%>내 댓글<% } %>에 <% if(replyCount === 1) {%>새 답글<% } else { %>새 답글<% } %> <%= abbreviateNumber(replyCount, 0, locale) %>개",
+    "SUBJECT": "[comments]에 새 답글 <%= abbreviateNumber(replyCount, 0, locale) %>개",
+    "SUBJECT_COMMENTS": "내 댓글",
     "VIEW_REPLIES": "보기 및 답글 달기",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "이 댓글에 알림 비활성화하기.",
     "UNSUBSCRIBE_HERE": "구독 취소",
     "REPLY_BY_EMAIL_TIP": "이 이메일에 직접 답장하여 답변을 게시할 수 있습니다.",
-    "RECENT_COMMENT_COUNT": "<% if(commentsSummary.length > 1) {%>회원님의 댓글<% } else { %>회원님의 댓글<% } %>에 <% if(replyCount > 1) { %>새 답글이<% } else { %>새 답글이<% } %> 달렸습니다."
+    "RECENT_COMMENT_COUNT": "[comments]에 새 답글이 달렸습니다.",
+    "RECENT_COMMENT_COUNT_COMMENTS": "회원님의 댓글"
 }

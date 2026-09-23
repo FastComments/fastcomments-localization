@@ -1,6 +1,8 @@
 {
     "TEXT_CUSTOM_TEMPLATE_NAME_DISPLAY": "<%= template.displayName %>",
     "TEXT_CUSTOM_TEMPLATE_NAME_DEFAULT": "Predloga po meri: <%= viewTemplate.name %>",
-    "TEXT_RENDER_ERRORS_SINGULAR": "<%= Number(template.errorCount).toLocaleString() %> Nedavna napaka pri upodabljanju!",
-    "TEXT_RENDER_ERRORS_PLURAL": "<%= Number(template.errorCount).toLocaleString() %> Nedavne napake pri upodabljanju!"
+    "TEXT_RENDER_ERRORS_SINGULAR": "<%= Number(template.errorCount).toLocaleString() %> nedavna napaka pri upodabljanju!",
+    "TEXT_RENDER_ERRORS_PLURAL": "<%= Number(template.errorCount).toLocaleString() %> nedavnih napak pri upodabljanju!",
+    "TEXT_RENDER_ERRORS_PLURAL_T": "<%= Number(template.errorCount).toLocaleString() %> nedavni napaki pri upodabljanju!",
+    "TEXT_RENDER_ERRORS_PLURAL_F": "<%= Number(template.errorCount).toLocaleString() %> nedavne napake pri upodabljanju!"
 }

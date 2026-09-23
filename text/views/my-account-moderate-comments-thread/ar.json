@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "عارض سلسلة التعليقات",
+    "HEADING": "عارض سلسلة التعليقات",
+    "PAGE_ID_INFO": "عرض التعليقات لمعرّف الصفحة: <%- thread.urlIdDecoded %>",
+    "THREAD_DETAILS": "أنت تشاهد سلسلة التعليقات على الرابط التالي: <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a>"
+}

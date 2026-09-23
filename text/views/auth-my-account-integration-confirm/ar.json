@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "تأكيد التكامل - FastComments",
+    "PAGE_SUBHEADING": "تأكيد",
+    "PAGE_HEADING": "جارٍ ربط التكامل الخاص بك.",
+    "CHECKBOX_UPLOAD_COMMENTS": "رفع تعليقاتي تلقائيًا.",
+    "NOSCRIPT_MESSAGE": "يُرجى تفعيل JavaScript لإعداد التكامل.",
+    "UPLOAD_DESCRIPTION": "إذا رغبت، يمكننا رفع تعليقاتك تلقائيًا من تثبيت <%= integrationName %> لديك أثناء المزامنة. وإلا، فألغِ تحديد المربع أدناه ويمكنك القيام بذلك بنفسك لاحقًا.",
+    "CHECKBOX_UPLOAD_COMMENTS_HELP": "يمكنك رفع تعليقاتك لاحقًا من صفحة إدارة الإضافة.",
+    "CHECKBOX_SYNC_DATABASE": "إبقاء قاعدة بيانات <%= integrationName %> متزامنة تلقائيًا.",
+    "BUTTON_START_SYNC": "بدء المزامنة",
+    "CHECKBOX_SYNC_DATABASE_HELP": "يُبقي هذا قاعدة بيانات <%= integrationName %> الخاصة بك محدّثة. وهو مفيد إذا كانت أي من الإضافات تتطلب أحدث التعليقات في قاعدة بياناتك. يُعطَّل عادةً في المواقع ذات الزيارات العالية جدًا، حيث يؤدي إبقاء <%= integrationName %> محدّثًا إلى حمل غير مرغوب فيه."
+}

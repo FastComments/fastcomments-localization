@@ -3,6 +3,9 @@
     "HEADING": "Izbrisati \"<%= question.name %>\"?",
     "CONFIRM_MESSAGE": "Ali ste prepričani, da želite izbrisati vprašanje »<%= question.question %>«, ustvarjeno dne <%= question.createdAt.toLocaleString() %>?",
     "REPLY_COUNT_MESSAGE": "To vprašanje ima <%= Number(question.usedCount).toLocaleString() %> odgovorov.",
+    "REPLY_COUNT_MESSAGE_O": "To vprašanje ima <%= Number(question.usedCount).toLocaleString() %> odgovor.",
+    "REPLY_COUNT_MESSAGE_T": "To vprašanje ima <%= Number(question.usedCount).toLocaleString() %> odgovora.",
+    "REPLY_COUNT_MESSAGE_F": "To vprašanje ima <%= Number(question.usedCount).toLocaleString() %> odgovore.",
     "DATA_LOSS_WARNING": "Podatki iz teh odgovorov ne bodo več na voljo v poročilih.",
     "DELETE_BUTTON": "Izbriši",
     "CANCEL_LINK": "Prekliči"

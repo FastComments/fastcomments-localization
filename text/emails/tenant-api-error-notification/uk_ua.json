@@ -5,6 +5,7 @@
     "SUBJECT": "Виявлено помилки API FastComments",
     "ERROR_SINGULAR": "помилка",
     "ERROR_PLURAL": "помилки",
+    "ERROR_PLURAL_M": "помилок",
     "EXPLANATION": "Ці помилки виникли під час виклику нашої платформи. Радимо вам перевірити журнали на наявність помилок у інтеграціях користувацького API з FastComments.",
     "DETECTION": "Ми виявили <%= errorCountFormatted %> API <%= errorWord %> для вашого облікового запису <%= errorDate %> числа.",
     "TENANT_NOTE": "Це стосується акаунта з ідентифікатором \"<%= tenantId %>\".",

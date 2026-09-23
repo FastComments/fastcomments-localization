@@ -1,0 +1,8 @@
+{
+    "HEADING": "تم بنجاح!",
+    "TITLE": "تم اعتماد التعليق - FastComments",
+    "ALSO_LOGGED_IN": "لقد تم تسجيل دخولك أيضاً.",
+    "CLOSE_PAGE": "يمكنك الآن إغلاق هذه الصفحة.",
+    "COMMENT_APPROVED": "تم تحديد هذا التعليق على أنه تمت مراجعته واعتماده.",
+    "VIEW_COMMENT_ON_SITE": "يمكنك عرض التعليق المعتمد على موقعك <a href=\"<%= comment.url %>\" target=\"_blank\">من هنا</a>، أو باستخدام عارض سلاسل التعليقات <a href=\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">من هنا</a>."
+}

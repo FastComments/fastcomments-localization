@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "تحديث نطاق المفتاح السري لـ API - FastComments",
+    "HEADING_UPDATE_API_SECRET_DOMAIN": "تحديث نطاق المفتاح السري لـ API",
+    "TEXT_DOMAIN_INFO": "بالنسبة لإعدادات مثل Webhooks، سنحدد مفتاح API الذي سيُستخدم بناءً على هذا الإعداد.",
+    "OPTION_ALL_DOMAINS": "جميع النطاقات",
+    "BUTTON_UPDATE_DOMAIN": "تحديث النطاق",
+    "LABEL_ASSOCIATE_SECRET_WITH_DOMAIN": "اربط المفتاح السري لـ API \"<%= apiSecret.name %>\" بالنطاق:"
+}

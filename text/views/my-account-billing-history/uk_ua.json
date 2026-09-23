@@ -4,6 +4,8 @@
     "TEXT_NO_INVOICES": "У вашому обліковому записі немає рахунків-фактур.",
     "TEXT_BILLING_EXTERNALLY_MANAGED": "Вашу платіжну інформацію встановлено на зовнішнє керування. Рахунки-фактури можуть тут не відображатися.",
     "TEXT_SHOWING_PAGE": "Показано <%= currentPage %> сторінку рахунків-фактур. <%= invoices.length %> рахунків-фактур на сторінці.",
+    "TEXT_SHOWING_PAGE_O": "Показано <%= currentPage %> сторінку рахунків-фактур. <%= invoices.length %> рахунок-фактура на сторінці.",
+    "TEXT_SHOWING_PAGE_F": "Показано <%= currentPage %> сторінку рахунків-фактур. <%= invoices.length %> рахунки-фактури на сторінці.",
     "TABLE_HEADER_INVOICE_DATE": "Дата рахунку-фактури",
     "TABLE_HEADER_INVOICE_NUMBER": "Номер рахунку-фактури",
     "TABLE_HEADER_DESCRIPTION": "Опис",

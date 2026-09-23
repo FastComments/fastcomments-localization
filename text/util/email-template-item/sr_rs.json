@@ -1,6 +1,7 @@
 {
     "TEXT_CUSTOM_TEMPLATE_NAME_DISPLAY": "<%= template.displayName %>",
     "TEXT_CUSTOM_TEMPLATE_NAME_DEFAULT": "Прилагођени шаблон: <%= viewTemplate.name %>",
-    "TEXT_RENDER_ERRORS_SINGULAR": "<%= Number(template.errorCount).toLocaleString() %> Недавна грешка приказивања!",
-    "TEXT_RENDER_ERRORS_PLURAL": "<%= Number(template.errorCount).toLocaleString() %> Недавне грешке приказивања!"
+    "TEXT_RENDER_ERRORS_SINGULAR": "<%= Number(template.errorCount).toLocaleString() %> недавна грешка при рендеровању!",
+    "TEXT_RENDER_ERRORS_PLURAL": "<%= Number(template.errorCount).toLocaleString() %> недавних грешака при рендеровању!",
+    "TEXT_RENDER_ERRORS_PLURAL_F": "<%= Number(template.errorCount).toLocaleString() %> недавне грешке при рендеровању!"
 }

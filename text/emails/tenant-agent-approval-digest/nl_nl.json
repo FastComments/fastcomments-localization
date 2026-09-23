@@ -2,6 +2,7 @@
     "FROM_NAME": "FastComments-agenten",
     "BANNER_TEXT": "Goedkeuringen van agenten in behandeling",
     "SUBJECT": "<%= approvalCount %> acties van de agent in afwachting van goedkeuring",
+    "SUBJECT_O": "<%= approvalCount %> actie van de agent in afwachting van goedkeuring",
     "COLUMN_AGENT": "Agent",
     "COLUMN_ACTION": "Actie",
     "INTRO": "De volgende acties van de AI-agent wachten op uw goedkeuring of afwijzing.",

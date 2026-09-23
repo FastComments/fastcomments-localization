@@ -1,0 +1,17 @@
+{
+    "INTRO": "مرحبًا <%= username %>،",
+    "FROM_NAME": "روبوت FastComments",
+    "YOU_HAVE_NEW_COMMENTS": "لديك بعض التعليقات الجديدة!",
+    "BANNER_TEXT": "تعليقات جديدة",
+    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> تعليق جديد",
+    "SUBJECT_T": "تعليقان جديدان",
+    "SUBJECT_F": "<%= abbreviateNumber(commentCount, 0, locale) %> تعليقات جديدة",
+    "SUBJECT_M": "<%= abbreviateNumber(commentCount, 0, locale) %> تعليقًا جديدًا",
+    "UNSUBSCRIBE_HERE": "إلغاء الاشتراك",
+    "APPROVE_COMMENT": "اعتماد",
+    "VIEW_COMMENT": "عرض التعليق للرد",
+    "HERE_ARE_LINKS_TO_PAGES": "إليك روابط الصفحات التي تحتوي على تلك التعليقات، مع عدد التعليقات في كل صفحة.",
+    "PAGE": "الصفحة",
+    "NEW_COMMENTS": "تعليقات جديدة",
+    "MODERATE_COMMENTS": "الإشراف على التعليقات"
+}

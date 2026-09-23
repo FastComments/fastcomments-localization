@@ -3,7 +3,7 @@
     "FROM_NAME": "FastComments Robotu",
     "YOU_HAVE_NEW_COMMENTS": "Bazı yeni yorumlarınız var!",
     "BANNER_TEXT": "Yeni Yorumlar",
-    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> <% if(commentCount === 1) {%>Yeni Yorum<% } else { %>Yeni Yorumlar<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> Yeni Yorum",
     "UNSUBSCRIBE_HERE": "Abonelikten Çık",
     "APPROVE_COMMENT": "Onayla",
     "VIEW_COMMENT": "Yanıtlamak için Yorumu Görüntüle",

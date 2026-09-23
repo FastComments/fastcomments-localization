@@ -4,6 +4,8 @@
     "HERO_TITLE_BOLD": "Двофакторна автентифікація",
     "HERO_DESCRIPTION": "Будь ласка, введіть свій код підтвердження, щоб завершити вхід",
     "ATTEMPTS_REMAINING": "Залишилося <%= 5 - session.attempts %> спроб",
+    "ATTEMPTS_REMAINING_O": "Залишилася <%= 5 - session.attempts %> спроба",
+    "ATTEMPTS_REMAINING_F": "Залишилося <%= 5 - session.attempts %> спроби",
     "LABEL_METHOD_SELECT": "Виберіть спосіб підтвердження:",
     "METHOD_AUTHENTICATOR": "Додаток для автентифікатора",
     "METHOD_SMS": "СМС",

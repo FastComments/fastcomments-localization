@@ -4,6 +4,8 @@
     "HERO_TITLE_BOLD": "Dvofaktorska autentifikacija",
     "HERO_DESCRIPTION": "Molimo unesite svoj kontrolni kod kako biste dovršili prijavu",
     "ATTEMPTS_REMAINING": "Preostalo je <%= 5 - session.attempts %> pokušaja",
+    "ATTEMPTS_REMAINING_O": "Preostao je <%= 5 - session.attempts %> pokušaj",
+    "ATTEMPTS_REMAINING_F": "Preostala su <%= 5 - session.attempts %> pokušaja",
     "LABEL_METHOD_SELECT": "Odaberite način provjere:",
     "METHOD_AUTHENTICATOR": "Aplikacija za autentifikaciju",
     "METHOD_SMS": "SMS",

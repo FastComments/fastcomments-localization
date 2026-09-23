@@ -1,0 +1,16 @@
+{
+    "PAGE_TITLE": "حذف حسابي",
+    "HEADING_DELETE_ACCOUNT": "حذف حساب <%= user.username %>",
+    "TEXT_ALSO_DELETING_TENANT": "سيتم أيضًا حذف الحساب \"<%= tenant ? tenant.name : '' %>\".",
+    "TEXT_PRIVACY_POLICY_NOTE": "إذا كنت تحذف حسابك لأسباب تتعلق بالخصوصية، يُرجى مراجعة <a href=\"/privacy-policy\">سياسة الخصوصية</a> الخاصة بنا. نحن لا نبيع بياناتك أو نشاركها مع أي جهات خارجية.",
+    "HEADING_CONFIRMATION": "تأكيد",
+    "TEXT_ACCOUNT_OWNER_WARNING": "أنت مالك هذا الحساب. سيؤدي حذف حسابك الشخصي إلى حذف هذا الحساب بالكامل.",
+    "TEXT_SUBSCRIPTION_CANCELLED": "سيتم إلغاء اشتراكك أيضاً.",
+    "LABEL_REMOVE_COMMENTS": "هل تريد حذف جميع التعليقات وعددها <%= commentCount %>؟",
+    "LABEL_REMOVE_COMMENTS_O": "هل تريد حذف <%= commentCount %> تعليق؟",
+    "TEXT_NO_SELL_DATA": "يرجى العلم بأن FastComments <b>لا تبيع ولا تشارك</b> معلوماتك الشخصية مع أي جهات خارجية. نقدم إنشاء الحساب مجانًا لتسهيل الأمر عليك فقط.",
+    "LABEL_CONFIRM_REMOVAL": "ضع علامة في هذا المربع لتأكيد حذف حسابك. لا يمكن التراجع عن حذف حسابك أو التعليقات المرتبطة به.",
+    "LABEL_FEEDBACK": "ساعدنا على فهم سبب رحيلك.",
+    "BUTTON_NO_DONT_DELETE": "لا، لا تحذف حسابي",
+    "BUTTON_YES_DELETE": "نعم، احذف حسابي"
+}

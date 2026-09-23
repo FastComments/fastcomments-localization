@@ -1,0 +1,16 @@
+{
+    "BANNER_TEXT": "تم رصد أخطاء في FastComments API",
+    "FROM_NAME": "روبوت FastComments API",
+    "SUBJECT": "تم رصد أخطاء في FastComments API",
+    "GREETING": "مرحبًا،",
+    "ERROR_SINGULAR": "خطأ",
+    "ERROR_PLURAL": "خطأ",
+    "ERROR_PLURAL_F": "أخطاء",
+    "ERROR_PLURAL_M": "خطأً",
+    "DETECTION": "رصدنا <%= errorCountFormatted %> <%= errorWord %> في API لحسابك بتاريخ <%= errorDate %>.",
+    "TENANT_NOTE": "يتعلق هذا بالحساب ذي المعرّف \"<%= tenantId %>\".",
+    "EXPLANATION": "حدثت هذه الأخطاء عند استدعاء منصتنا. نقترح عليك مراجعة سجلات أي عمليات تكامل مخصصة مع FastComments API بحثًا عن أخطاء.",
+    "OPT_OUT": "يمكنك إلغاء الاشتراك في هذه الإشعارات <a href=\"<%= notificationSettingsUrl %>\">من هنا</a>.",
+    "SIGN_OFF": "مع خالص التحيات،",
+    "TEAM_NAME": "فريق الهندسة في FastComments"
+}

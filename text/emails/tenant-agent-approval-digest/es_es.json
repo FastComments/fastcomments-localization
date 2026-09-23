@@ -2,6 +2,7 @@
     "FROM_NAME": "Agentes de FastComments",
     "BANNER_TEXT": "Aprobación de agentes pendiente",
     "SUBJECT": "<%= approvalCount %> acciones del agente pendientes de aprobación",
+    "SUBJECT_O": "<%= approvalCount %> acción del agente pendiente de aprobación",
     "COLUMN_AGENT": "Agente",
     "INTRO": "Las siguientes acciones del agente de IA están a la espera de que las apruebes o rechaces.",
     "COLUMN_ACTION": "Acción",

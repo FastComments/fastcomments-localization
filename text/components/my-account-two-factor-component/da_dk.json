@@ -25,7 +25,7 @@
     "MODAL_RENAME_TITLE": "Omdøb 2FA-metoden",
     "MODAL_RENAME_LABEL": "Nyt navn:",
     "MODAL_BACKUP_CODES_TITLE": "Backup-gendannelseskoder",
-    "MODAL_BACKUP_CODES_STATUS": "Status: [unused] ubrugte koder, [used] brugte koder",
+    "MODAL_BACKUP_CODES_STATUS": "Status: [unused], [used]",
     "MODAL_BACKUP_CODES_DESC": "Backupkoder giver dig adgang til din konto, hvis du mister din 2FA-enhed.",
     "MODAL_BACKUP_CODES_WARNING": "Du kan ikke se eksisterende koder (de er sikkert hashet). Du kan kun se nye koder, når de genereres igen.",
     "MODAL_VERIFY_IDENTITY_TITLE": "Bekræft din identitet",
@@ -66,7 +66,9 @@
     "CONFIRM_REMOVE": "Er du sikker på, at du vil fjerne \"[label]\" fra din konto?",
     "BACKUP_CODE_STATUS_UNUSED": "Ubrugt",
     "BACKUP_CODES_UNUSED": "[count] ubrugte koder",
+    "BACKUP_CODES_UNUSED_O": "[count] ubrugt kode",
     "BACKUP_CODES_USED": "[count] brugte koder",
+    "BACKUP_CODES_USED_O": "[count] brugt kode",
     "IMPORTANT": "Vigtig:",
     "WARNING": "Advarsel:"
 }

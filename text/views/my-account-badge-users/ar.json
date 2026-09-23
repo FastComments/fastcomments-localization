@@ -1,0 +1,12 @@
+{
+    "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - FastComments",
+    "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> مستخدم يحمل شارة <%- tenantBadge.displayLabel %>",
+    "HEADING_USERS_WITH_BADGE_PLURAL": "المستخدمون الحاصلون على الشارة <%- tenantBadge.displayLabel %>: <%- Number(userBadges.length).toLocaleString() %>",
+    "TABLE_HEADER_USER_ID": "معرف المستخدم",
+    "TEXT_NO_USERS_WITH_BADGE": "لا يوجد مستخدمون يحملون هذه الشارة! تُمنح معظم الشارات تلقائيًا. إذا كانت شارة يدوية، فسيتعين عليك منحها يدويًا.",
+    "TABLE_HEADER_AVATAR": "الصورة الرمزية",
+    "TABLE_HEADER_EMAIL": "البريد الإلكتروني",
+    "TABLE_HEADER_NAME": "الاسم",
+    "TABLE_HEADER_BADGE_EARNED_DATE": "تاريخ الحصول على الشارة",
+    "TEXT_NA": "غير متوفر"
+}

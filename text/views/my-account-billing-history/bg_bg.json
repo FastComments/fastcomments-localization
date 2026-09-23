@@ -4,6 +4,7 @@
     "TEXT_NO_INVOICES": "Нямате никакви фактури по профила си.",
     "TEXT_BILLING_EXTERNALLY_MANAGED": "Данните ви за плащане са зададени като „Управлявани отвън“. Фактурите може да не се показват тук.",
     "TEXT_SHOWING_PAGE": "Показване на страница <%= currentPage %> с фактури. <%= invoices.length %> фактури на страница.",
+    "TEXT_SHOWING_PAGE_O": "Показване на страница <%= currentPage %> с фактури. <%= invoices.length %> фактура на страница.",
     "TABLE_HEADER_INVOICE_DATE": "Дата на фактурата",
     "TABLE_HEADER_INVOICE_NUMBER": "Номер на фактура",
     "TABLE_HEADER_DESCRIPTION": "Описание",

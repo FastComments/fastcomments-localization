@@ -1,6 +1,7 @@
 {
     "PAGE_TITLE": "Alternativa a Disqus: más rápida, privada y sin anuncios | FastComments",
     "META_DESCRIPTION": "FastComments es la alternativa a Disqus creada para la velocidad y la privacidad. Un solo script de menos de 30 kilobytes, sin anuncios, sin rastreo y con importación de Disqus integrada. La confianza de más de <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organizaciones.",
+    "META_DESCRIPTION_O": "FastComments es la alternativa a Disqus creada para la velocidad y la privacidad. Un solo script de menos de 30 kilobytes, sin anuncios, sin rastreo y con importación de Disqus integrada. La confianza de más de <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organización.",
     "HEAD_KEYWORDS": "alternativa a disqus, fastcomments vs disqus, cambiar de disqus, reemplazo de disqus, alternativa a disqus sin anuncios, alternativa a disqus privacidad",
     "HERO_TITLE_BOLD": "La alternativa a Disqus",
     "HERO_TITLE_LIGHT": " sin los anuncios",
@@ -292,5 +293,6 @@
     "SOURCE_6": "Precios publicados de Disqus, consultados en julio de 2026.",
     "FINAL_CTA_HEADING_LIGHT": "¿Listo para dejar atrás ",
     "FINAL_CTA_HEADING_BOLD": "los anuncios?",
-    "FINAL_CTA_SUB": "Únete a más de <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organizaciones que eligieron páginas más rápidas y la privacidad de sus lectores. Importa tus comentarios de Disqus en minutos y comprueba la diferencia en la primera carga de página."
+    "FINAL_CTA_SUB": "Únete a más de <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organizaciones que eligieron páginas más rápidas y la privacidad de sus lectores. Importa tus comentarios de Disqus en minutos y comprueba la diferencia en la primera carga de página.",
+    "FINAL_CTA_SUB_O": "Únete a más de <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organización que eligió páginas más rápidas y la privacidad de sus lectores. Importa tus comentarios de Disqus en minutos y comprueba la diferencia en la primera carga de página."
 }

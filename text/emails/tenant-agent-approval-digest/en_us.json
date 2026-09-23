@@ -2,6 +2,7 @@
     "BANNER_TEXT": "Pending Agent Approvals",
     "FROM_NAME": "FastComments Agents",
     "SUBJECT": "<%= approvalCount %> agent actions pending approval",
+    "SUBJECT_O": "<%= approvalCount %> agent action pending approval",
     "INTRO": "The following AI agent actions are waiting for you to approve or reject.",
     "COLUMN_AGENT": "Agent",
     "COLUMN_ACTION": "Action",

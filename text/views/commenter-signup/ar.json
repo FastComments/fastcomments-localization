@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "التسجيل",
+    "HERO_TITLE_BOLD": "النقاش",
+    "HERO_TITLE_LIGHT": "انضم إلى ",
+    "LABEL_USERNAME": "*اسم المستخدم:",
+    "FORM_DESCRIPTION": "كل ما تحتاجه هو اسم مستخدم وبريد إلكتروني للتسجيل.",
+    "HERO_DESCRIPTION": "هل ترغب في التعليق على موقع يستخدم FastComments؟ لقد وصلت إلى المكان الصحيح.",
+    "LABEL_EMAIL": "*البريد الإلكتروني:",
+    "HERO_ADDITIONAL_TEXT": "إذا كنت تريد إضافة FastComments إلى موقع ويب، فعليك التسجيل <a href=\"/auth/tenant-signup?email=<%= email %>\">هنا.</a>",
+    "PLACEHOLDER_EMAIL": "أدخل بريدًا إلكترونيًا",
+    "USERNAME_PATTERN_TITLE": "يُرجى عدم استخدام رموز خاصة: أرقام وحروف فقط.",
+    "EMAIL_DESCRIPTION": "سنرسل لك رابطًا عبر البريد الإلكتروني لإكمال حسابك وتسجيل الدخول.",
+    "BUTTON_SIGN_UP": "تسجيل",
+    "PLACEHOLDER_USERNAME": "أدخل اسم المستخدم",
+    "USERNAME_DESCRIPTION": "سيكون اسم المستخدم هذا مرئيًا للجميع.",
+    "CAPTCHA_HELP": "يساعدنا على التأكد من أنك لست روبوتًا.",
+    "SIGNUP_EMAIL_TEXT": "أنت تسجّل باستخدام <b><%= email %></b>.",
+    "LABEL_CAPTCHA": "كم يساوي <%= captchaA %> + <%= captchaB %>؟",
+    "TERMS_AGREEMENT": "بالنقر على «تسجيل»، فإنك توافق على <a href=\"/terms-of-service\" target=\"_blank\">شروط الخدمة</a>."
+}

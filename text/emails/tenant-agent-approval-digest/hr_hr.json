@@ -1,7 +1,9 @@
 {
     "BANNER_TEXT": "Odobrenja agenta na čekanju",
     "COLUMN_AGENT": "Agent",
-    "SUBJECT": "<%= approvalCount %> radnje agenta čekaju odobrenje",
+    "SUBJECT": "<%= approvalCount %> radnji agenta čeka odobrenje",
+    "SUBJECT_O": "<%= approvalCount %> radnja agenta čeka odobrenje",
+    "SUBJECT_F": "<%= approvalCount %> radnje agenta čekaju odobrenje",
     "FROM_NAME": "FastComments Agenti",
     "INTRO": "Sljedeće akcije AI agenta čekaju vaše odobrenje ili odbijanje.",
     "COLUMN_ACTION": "Radnja",

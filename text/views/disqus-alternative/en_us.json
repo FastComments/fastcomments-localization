@@ -1,6 +1,7 @@
 {
     "PAGE_TITLE": "Disqus Alternative: Faster, Private, No Ads | FastComments",
     "META_DESCRIPTION": "FastComments is the Disqus alternative built for speed and privacy. One script under 30 kilobytes, no ads, no tracking, and built-in Disqus import. Trusted by <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ organizations.",
+    "META_DESCRIPTION_O": "FastComments is the Disqus alternative built for speed and privacy. One script under 30 kilobytes, no ads, no tracking, and built-in Disqus import. Trusted by <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ organization.",
     "HEAD_KEYWORDS": "disqus alternative, fastcomments vs disqus, switch from disqus, disqus replacement, disqus alternative no ads, disqus alternative privacy",
     "HERO_TITLE_BOLD": "The Disqus Alternative",
     "HERO_TITLE_LIGHT": " Without the Ads",
@@ -292,5 +293,6 @@
     "SOURCE_6": "Disqus published pricing, accessed July 2026.",
     "FINAL_CTA_HEADING_LIGHT": "Ready to leave the ads ",
     "FINAL_CTA_HEADING_BOLD": "behind?",
-    "FINAL_CTA_SUB": "Join <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ organizations that chose faster pages and reader privacy. Import your Disqus comments in minutes and see the difference on the first page load."
+    "FINAL_CTA_SUB": "Join <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ organizations that chose faster pages and reader privacy. Import your Disqus comments in minutes and see the difference on the first page load.",
+    "FINAL_CTA_SUB_O": "Join <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ organization that chose faster pages and reader privacy. Import your Disqus comments in minutes and see the difference on the first page load."
 }

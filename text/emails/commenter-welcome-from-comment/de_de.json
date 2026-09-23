@@ -6,6 +6,7 @@
     "VERIFY_YOUR_ACCOUNT": "Überprüfen Sie Ihr Konto",
     "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "Sie können hier neue Links erstellen, um sich in Ihrem Konto <a href=\"<%= FC_DOMAIN %>/auth/login/\"> anzumelden </a>.",
     "WASNT_YOU_OR_REGRET": "Wenn Sie es nicht waren oder bereuen, was Sie gesagt haben, ignorieren Sie diese E-Mail und der Kommentar wird in <%= removedInDays %> Tagen entfernt.",
+    "WASNT_YOU_OR_REGRET_O": "Wenn Sie es nicht waren oder bereuen, was Sie gesagt haben, ignorieren Sie diese E-Mail und der Kommentar wird in <%= removedInDays %> Tag entfernt.",
     "REMOVE_COMMENT": "Wenn Sie diesen Kommentar jetzt entfernen möchten, klicken Sie <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\"> hier </a>",
     "THANKS_SO_MUCH": "Vielen Dank!",
     "USING_NAME_YOU_SAID": "Mit dem Namen \"<%= comment.commenterName %>\" sagten Sie:",

@@ -25,7 +25,7 @@
     "MODAL_RENAME_TITLE": "Переименовать метод двухфакторной аутентификации",
     "MODAL_RENAME_LABEL": "Новое название:",
     "MODAL_BACKUP_CODES_TITLE": "Коды восстановления резервных копий",
-    "MODAL_BACKUP_CODES_STATUS": "Статус: [unused] неиспользованных кодов, [used] использованных кодов",
+    "MODAL_BACKUP_CODES_STATUS": "Статус: [unused], [used]",
     "MODAL_BACKUP_CODES_DESC": "Резервные коды позволяют получить доступ к учетной записи в случае потери устройства для двухфакторной аутентификации.",
     "MODAL_BACKUP_CODES_WARNING": "Вы не можете просмотреть существующие коды (они надежно хешированы). Новые коды можно просмотреть только при повторной генерации.",
     "MODAL_VERIFY_IDENTITY_TITLE": "Подтвердите свою личность",
@@ -65,8 +65,12 @@
     "NEVER_USED": "Никогда не использовался",
     "CONFIRM_REMOVE": "Вы уверены, что хотите удалить \"[label]\" из своего аккаунта?",
     "BACKUP_CODE_STATUS_UNUSED": "Неиспользованный",
-    "BACKUP_CODES_UNUSED": "Неиспользованных кодов: [count]",
-    "BACKUP_CODES_USED": "Использованных кодов: [count]",
+    "BACKUP_CODES_UNUSED": "[count] неиспользованных кодов",
+    "BACKUP_CODES_UNUSED_O": "[count] неиспользованный код",
+    "BACKUP_CODES_UNUSED_F": "[count] неиспользованных кода",
+    "BACKUP_CODES_USED": "[count] использованных кодов",
+    "BACKUP_CODES_USED_O": "[count] использованный код",
+    "BACKUP_CODES_USED_F": "[count] использованных кода",
     "IMPORTANT": "Важно:",
     "WARNING": "Предупреждение:"
 }

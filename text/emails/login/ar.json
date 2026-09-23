@@ -1,0 +1,14 @@
+{
+    "INTRO": "مرحبًا <%= username %>،",
+    "NEW_USER_BANNER_TEXT": "مرحبًا بك في FastComments",
+    "BANNER_TEXT": "رابط تسجيل الدخول إلى FastComments",
+    "FROM_NAME": "روبوت FastComments",
+    "NEW_USER_SUBJECT": "مرحبًا بك في FastComments يا <%= username %>! أكّد حسابك وسجّل الدخول من هنا",
+    "SUBJECT": "إليك رابط تسجيل الدخول يا <%= username %>",
+    "NEW_USER_THANKS_FOR_SIGNING_UP": "شكرًا لتسجيلك في FastComments.",
+    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "يرجى <b>تأكيد حسابك</b> بالنقر على <a href=\"<%= userVerifyUrl %>\">هذا الرابط</a>. سيؤدي ذلك أيضًا إلى تسجيل دخولك.",
+    "CAN_CREATE_NEW_LINKS_HERE": "يمكنك إنشاء روابط جديدة لتسجيل الدخول إلى حسابك <a href=\"<%= HOST %>/auth/login/\">هنا</a>.",
+    "CLICK_HERE_TO_LOGIN": "<a href=\"<%= userVerifyUrl %>\">انقر هنا</a> لتسجيل الدخول إلى FastComments.",
+    "THAT_FULL_LINK_IS": "الرابط الكامل هو: <%= userVerifyUrl %>",
+    "UNSUBSCRIBE_HERE": "إلغاء الاشتراك"
+}

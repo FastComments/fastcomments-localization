@@ -1,0 +1,17 @@
+{
+    "LABEL_TENANT_ID": "معرّف الحساب (Tenant ID)",
+    "TEXT_DEFAULT_KEY_NAME": "افتراضي",
+    "LABEL_DOMAIN": "النطاق:",
+    "PAGE_TITLE": "المفتاح السري لـ API - FastComments",
+    "HEADING_API_CREDENTIALS": "بيانات اعتماد API",
+    "TEXT_NO_API_KEYS": "لا يوجد شيء هنا! أضف مفتاح API للبدء باستخدام API أو Webhooks.",
+    "LABEL_KEY_NAME": "اسم المفتاح:",
+    "TEXT_ALL_DOMAINS": "الكل",
+    "TITLE_EDIT_NAME": "تعديل الاسم",
+    "TITLE_DELETE": "حذف",
+    "TEXT_CLICK_TO_REVEAL": "انقر للكشف عن المفتاح السري",
+    "TEXT_ADD_API_KEY": "إضافة مفتاح API",
+    "TITLE_ADD_API_SECRET": "إضافة مفتاح سري لـ API",
+    "TITLE_EDIT_DOMAIN": "تعديل النطاق",
+    "TEXT_SECURITY_WARNING": "لا تشارك مفاتيحك السرية، ولا تقم بالتشفير في المتصفح! اطلع على <a href=\"https://github.com/fastcomments/fastcomments-code-examples\" target=\"_blank\">أمثلة أكواد الواجهة الخلفية</a> لدينا لمعرفة كيفية التشفير مع الحفاظ على أمان مفتاحك."
+}

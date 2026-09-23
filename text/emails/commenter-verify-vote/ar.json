@@ -1,0 +1,11 @@
+{
+    "FROM_NAME": "روبوت FastComments",
+    "INTRO": "مرحبًا <%= commenterName %>،",
+    "BANNER_TEXT": "تأكيد تصويتك",
+    "SUBJECT": "<%= commenterName %> - أكّد تصويتك.",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "يبدو أنك صوّتت على منشور <a href=\"<%= url %>\">هنا</a>. إذا نقرت على رابط التحقق أدناه، فسيساعدنا ذلك على معرفة أنك أنت من قام بهذا التصويت.",
+    "VERIFY_YOUR_VOTE_LINK": "تأكيد تصويتك",
+    "WAS_YOU_IGNORE_THIS_EMAIL": "إذا لم تكن أنت من قام بذلك، فتجاهل هذه الرسالة.",
+    "THANKS_SO_MUCH": "شكرًا جزيلًا!",
+    "UNSUBSCRIBE_HERE": "إلغاء الاشتراك"
+}

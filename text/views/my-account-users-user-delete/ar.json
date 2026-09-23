@@ -1,0 +1,6 @@
+{
+    "BUTTON_DELETE": "حذف المستخدم",
+    "HEADING": "تأكيد إزالة المستخدم",
+    "PAGE_TITLE": "حذف المستخدم - FastComments",
+    "MESSAGE_CONFIRM": "هل أنت متأكد من رغبتك في إزالة المستخدم \"<%= userToDeleteUserName %>\"؟ سيؤدي هذا إلى إزالته من حسابك فورًا، لكنه سيحتفظ بحسابه على FastComments كمعلق."
+}

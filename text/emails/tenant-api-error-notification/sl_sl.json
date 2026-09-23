@@ -1,8 +1,10 @@
 {
     "BANNER_TEXT": "Zaznane napake API-ja FastComments",
-    "ERROR_SINGULAR": "napaka",
     "GREETING": "Živjo,",
-    "ERROR_PLURAL": "napake",
+    "ERROR_SINGULAR": "napako",
+    "ERROR_PLURAL": "napak",
+    "ERROR_PLURAL_T": "napaki",
+    "ERROR_PLURAL_F": "napake",
     "SIGN_OFF": "Lep pozdrav,",
     "TENANT_NOTE": "To se nanaša na račun z ID-jem \"<%= tenantId %>\".",
     "SUBJECT": "Zaznane napake API-ja FastComments",

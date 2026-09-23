@@ -2,10 +2,16 @@
     "INTRO": "Хей <%= username %>,",
     "BANNER_TEXT": "Нови отговори на коментари",
     "FROM_NAME": "Робот FastComments",
-    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Нов отговор<% } else { %>Нови отговори<% } %> на <% if(replyCount > 1) { %>Вашите коментари<% } else {%>Вашият коментар<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> Нови отговора на [comments]",
+    "SUBJECT_O": "<%= abbreviateNumber(replyCount, 0, locale) %> Нов отговор на [comments]",
+    "SUBJECT_COMMENTS": "Вашите коментари",
+    "SUBJECT_COMMENTS_O": "Вашият коментар",
     "VIEW_REPLIES": "Преглед и отговор",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Деактивиране на известията за този коментар",
     "UNSUBSCRIBE_HERE": "Отписване",
     "REPLY_BY_EMAIL_TIP": "Можете да отговорите директно на този имейл, за да публикувате отговора си.",
-    "RECENT_COMMENT_COUNT": "Получихте <% if(replyCount > 1) { %>някои отговори<% } else { %>отговор<% } %> на вашите <% if(commentsSummary.length > 1) {%> коментари<% } else { %> коментар<% } %>."
+    "RECENT_COMMENT_COUNT": "Получихте някои отговори на [comments].",
+    "RECENT_COMMENT_COUNT_O": "Получихте отговор на [comments].",
+    "RECENT_COMMENT_COUNT_COMMENTS": "вашите коментари",
+    "RECENT_COMMENT_COUNT_COMMENTS_O": "вашия коментар"
 }

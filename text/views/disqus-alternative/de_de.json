@@ -1,6 +1,7 @@
 {
     "PAGE_TITLE": "Disqus-Alternative: Schneller, privat, ohne Werbung | FastComments",
     "META_DESCRIPTION": "FastComments ist die Disqus-Alternative für Geschwindigkeit und Datenschutz. Ein Skript unter 30 Kilobyte, keine Werbung, kein Tracking und ein integrierter Disqus-Import. Vertraut von über <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> Organisationen.",
+    "META_DESCRIPTION_O": "FastComments ist die Disqus-Alternative für Geschwindigkeit und Datenschutz. Ein Skript unter 30 Kilobyte, keine Werbung, kein Tracking und ein integrierter Disqus-Import. Vertraut von über <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> Organisation.",
     "HEAD_KEYWORDS": "Disqus-Alternative, FastComments vs Disqus, von Disqus wechseln, Disqus-Ersatz, Disqus-Alternative ohne Werbung, Disqus-Alternative Datenschutz",
     "HERO_TITLE_BOLD": "Die Disqus-Alternative",
     "HERO_TITLE_LIGHT": " ohne Werbung",
@@ -292,5 +293,6 @@
     "SOURCE_6": "Von Disqus veröffentlichte Preise, abgerufen im Juli 2026.",
     "FINAL_CTA_HEADING_LIGHT": "Bereit, die Werbung ",
     "FINAL_CTA_HEADING_BOLD": "hinter sich zu lassen?",
-    "FINAL_CTA_SUB": "Schließen Sie sich über <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> Organisationen an, die sich für schnellere Seiten und Leserdatenschutz entschieden haben. Importieren Sie Ihre Disqus-Kommentare in wenigen Minuten und sehen Sie den Unterschied schon beim ersten Seitenaufruf."
+    "FINAL_CTA_SUB": "Schließen Sie sich über <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> Organisationen an, die sich für schnellere Seiten und Leserdatenschutz entschieden haben. Importieren Sie Ihre Disqus-Kommentare in wenigen Minuten und sehen Sie den Unterschied schon beim ersten Seitenaufruf.",
+    "FINAL_CTA_SUB_O": "Schließen Sie sich über <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> Organisation an, die sich für schnellere Seiten und Leserdatenschutz entschieden hat. Importieren Sie Ihre Disqus-Kommentare in wenigen Minuten und sehen Sie den Unterschied schon beim ersten Seitenaufruf."
 }

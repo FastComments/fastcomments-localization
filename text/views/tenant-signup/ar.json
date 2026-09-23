@@ -1,0 +1,20 @@
+{
+    "HERO_TITLE_LIGHT": "أوشكت ",
+    "HERO_TITLE_BOLD": "على الانتهاء",
+    "PAGE_TITLE": "إعداد حساب جديد",
+    "HERO_DESCRIPTION": "يوفر FastComments أسرع نظام تعليقات من حيث الإعداد والاستخدام للشركات والمستخدمين على حد سواء، وأنت في طريقك إلى <u>فترة تجريبية مجانية لمدة 30 يومًا</u>.",
+    "FORM_DESCRIPTION": "الآن نحتاج فقط إلى بعض المعلومات الأساسية، وبعد ذلك يمكنك البدء في تثبيت FastComments.",
+    "LABEL_EMAIL": "*البريد الإلكتروني:",
+    "LABEL_USERNAME": "*اسم المستخدم المعروض للعامة:",
+    "NOT_WEBSITE_LINK_TEXT": "إذا كنت لا ترغب في إضافة FastComments إلى موقع ويب، فيجب عليك التسجيل <a href=\"/auth/commenter-signup?email=<%= email %>\">هنا.</a>",
+    "LABEL_COMPANY_NAME": "*اسم الشركة:",
+    "EMAIL_DESCRIPTION_LOGGED_IN": "سنستخدم بريدك الإلكتروني الحالي. يمكنك تغييره لاحقاً من صفحة الحساب إذا لزم الأمر.",
+    "USERNAME_PATTERN_TITLE": "يرجى عدم استخدام رموز خاصة، أرقام وحروف فقط.",
+    "EMAIL_DESCRIPTION": "سنرسل إليك بريدًا إلكترونيًا نطلب منك فيه التحقق من حسابك.",
+    "DOMAINS_HEADING": "ما هو عنوان موقعك الإلكتروني الذي ستقوم بتثبيت FastComments عليه؟",
+    "BUTTON_CREATE_ACCOUNT": "إنشاء حساب",
+    "LABEL_WEBSITES": "*المواقع الإلكترونية:",
+    "ERROR_SIGNUP_ALREADY_STARTED": "لقد بدأت عملية التسجيل بالفعل ولا يمكن إرسالها مرة أخرى. ربما قمت بتحديث الصفحة؟",
+    "DOMAINS_DESCRIPTION": "لا حاجة لإدخال النطاقات الفرعية أو localhost. بالنسبة للمواقع المتعددة، افصل بينها بفواصل.",
+    "TOS_TEXT": "بالنقر على \"إنشاء حساب\"، فإنك توافق على <a href=\"/terms-of-service\" target=\"_blank\">شروط الخدمة</a>."
+}

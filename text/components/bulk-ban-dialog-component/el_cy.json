@@ -3,14 +3,14 @@
     "BULK_BAN_SUBTITLE": "Να είστε προσεκτικοί!",
     "BULK_BAN_BTN_BAN": "Αποκλεισμός",
     "BULK_BAN_BTN_CANCEL": "Ακύρωση",
-    "BULK_BAN_PLURAL_EMAILS": "email",
     "BULK_BAN_SINGULAR_EMAIL": "email",
-    "BULK_BAN_PLURAL_USERS": "χρήστες",
+    "BULK_BAN_PLURAL_EMAILS": "email",
     "BULK_BAN_SINGULAR_USER": "χρήστης",
-    "BULK_BAN_PLURAL_EMAIL_DOMAINS": "τομείς email",
+    "BULK_BAN_PLURAL_USERS": "χρήστες",
     "BULK_BAN_SINGULAR_EMAIL_DOMAIN": "τομέας email",
-    "BULK_BAN_PLURAL_IP_ADDRESSES": "διευθύνσεις IP",
+    "BULK_BAN_PLURAL_EMAIL_DOMAINS": "τομείς email",
     "BULK_BAN_SINGULAR_IP_ADDRESS": "διεύθυνση IP",
+    "BULK_BAN_PLURAL_IP_ADDRESSES": "διευθύνσεις IP",
     "BULK_BAN_SELECTED": "Επιλεγμένα: [text]",
     "BULK_BAN_USE_CAUTION_SELECTED": "Να είστε προσεκτικοί! [text]",
     "BULK_BAN_VIA_EMAIL_ACCOUNT": "Αποκλεισμός μέσω email / λογαριασμού",
@@ -33,5 +33,6 @@
     "BULK_BAN_BY_EMAIL": "Ανά email",
     "BULK_BAN_BY_IP": "Ανά IP",
     "BULK_BAN_BY_EMAIL_DOMAIN": "Με email που τελειώνουν σε: [domains]",
-    "BULK_BAN_DELETE_RELATED_COMMENTS": "Διαγραφή [count] σχετικών σχολίων[summary]."
+    "BULK_BAN_DELETE_RELATED_COMMENTS": "Διαγραφή [count] σχετικών σχολίων[summary].",
+    "BULK_BAN_DELETE_RELATED_COMMENTS_O": "Διαγραφή [count] σχετικού σχολίου[summary]."
 }

@@ -25,6 +25,7 @@
     "PREV_BUTTON": "Précédent",
     "NEXT_BUTTON": "Suivant",
     "VOTES": "{count} votes",
+    "VOTES_O": "{count} vote",
     "CONTACT_GUESSED": "adresse devinée",
     "FIT_STRONG": "ajustement solide",
     "NEEDS_REVIEW": "à examiner",
@@ -69,10 +70,14 @@
     "FLASH_INCOMPLETE": "Ce brouillon est incomplet : il manque un destinataire, un sujet et un corps.",
     "FLASH_SEND_FAILED": "L'envoi a échoué. Le brouillon est toujours en attente ; veuillez réessayer.",
     "FLASH_BULK_SENT": "{count} e-mails envoyés.",
+    "FLASH_BULK_SENT_O": "{count} e-mail envoyé.",
     "FLASH_TOO_LONG": "Ce brouillon est trop long pour être enregistré. Raccourcissez le sujet ou le corps du texte et réessayez.",
     "FLASH_SUPPRESSED": "Cette adresse figure sur la liste noire, donc rien n'a été envoyé. Le projet de loi est toujours en attente.",
     "FLASH_BULK_DENIED": "{count} brouillons refusés.",
+    "FLASH_BULK_DENIED_O": "{count} brouillon refusé.",
     "FLASH_BULK_SENT_PARTIAL": "{count} e-mails envoyés. Certains ont échoué et sont toujours en attente.",
+    "FLASH_BULK_SENT_PARTIAL_O": "{count} e-mail envoyé. Certains ont échoué et sont toujours en attente.",
     "FLASH_NOTHING_SELECTED": "Sélectionnez d'abord au moins un brouillon.",
-    "FLASH_BULK_DENIED_PARTIAL": "{count} brouillons refusés. Certains n'étaient plus en attente."
+    "FLASH_BULK_DENIED_PARTIAL": "{count} brouillons refusés. Certains n'étaient plus en attente.",
+    "FLASH_BULK_DENIED_PARTIAL_O": "{count} brouillon refusé. Certains n'étaient plus en attente."
 }

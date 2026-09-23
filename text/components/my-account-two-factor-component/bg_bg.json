@@ -25,7 +25,7 @@
     "MODAL_RENAME_TITLE": "Преименуване на метода за 2FA",
     "MODAL_RENAME_LABEL": "Ново име:",
     "MODAL_BACKUP_CODES_TITLE": "Кодове за възстановяване на резервни копия",
-    "MODAL_BACKUP_CODES_STATUS": "Статус: [unused] неизползвани кодове, [used] използвани кодове",
+    "MODAL_BACKUP_CODES_STATUS": "Статус: [unused], [used]",
     "MODAL_BACKUP_CODES_DESC": "Резервните кодове ви позволяват да получите достъп до акаунта си, ако загубите устройството си за 2FA.",
     "MODAL_BACKUP_CODES_WARNING": "Не можете да преглеждате съществуващите кодове (те са сигурно хеширани). Можете да преглеждате нови кодове само при регенериране.",
     "MODAL_VERIFY_IDENTITY_TITLE": "Потвърдете самоличността си",
@@ -65,8 +65,10 @@
     "NEVER_USED": "Никога не е използван",
     "CONFIRM_REMOVE": "Сигурни ли сте, че искате да премахнете „[label]“ от профила си?",
     "BACKUP_CODE_STATUS_UNUSED": "Неизползван",
-    "BACKUP_CODES_UNUSED": "[count] неизползвани кодове",
-    "BACKUP_CODES_USED": "[count] използвани кодове",
+    "BACKUP_CODES_UNUSED": "[count] неизползвани кода",
+    "BACKUP_CODES_UNUSED_O": "[count] неизползван код",
+    "BACKUP_CODES_USED": "[count] използвани кода",
+    "BACKUP_CODES_USED_O": "[count] използван код",
     "IMPORTANT": "Важно:",
     "WARNING": "Предупреждение:"
 }

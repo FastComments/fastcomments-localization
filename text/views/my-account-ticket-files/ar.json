@@ -1,0 +1,20 @@
+{
+    "LABEL_UPLOAD_FILE": "رفع ملف",
+    "LINK_BACK_TO_TICKET": "العودة إلى التذكرة",
+    "HEADING": "ملفات التذكرة \"<%- ticket.subject %>\"",
+    "PAGE_TITLE": "إدارة الملفات - <%- ticket.subject %>",
+    "TABLE_HEADER_NAME": "الاسم",
+    "TABLE_HEADER_SIZE": "الحجم",
+    "TABLE_HEADER_UPLOADED_BY": "رفعه",
+    "BUTTON_UPLOAD": "رفع",
+    "TABLE_HEADER_DATE": "التاريخ",
+    "TABLE_HEADER_EXPIRES": "تاريخ الانتهاء",
+    "BUTTON_DELETE": "حذف",
+    "TABLE_HEADER_ACTIONS": "الإجراءات",
+    "MESSAGE_NO_FILES": "لم يتم رفع أي ملفات حتى الآن.",
+    "ERROR_FILE_TOO_LARGE": "حجم الملف كبير جدًا. الحد الأقصى للحجم هو 2 جيجابايت.",
+    "FILE_EXPIRED": "منتهي الصلاحية",
+    "ERROR_TOTAL_SIZE_EXCEEDED": "سيؤدي ذلك إلى تجاوز الحد الأقصى لإجمالي حجم الملفات، وهو 5 جيجابايت لكل تذكرة.",
+    "ERROR_UPLOAD_FAILED": "فشل رفع الملف. يرجى المحاولة مرة أخرى.",
+    "ERROR_NO_FILE": "يرجى اختيار ملف لرفعه."
+}

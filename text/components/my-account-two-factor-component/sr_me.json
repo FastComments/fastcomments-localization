@@ -25,7 +25,7 @@
     "MODAL_RENAME_TITLE": "Преименуј 2FA метод",
     "MODAL_RENAME_LABEL": "Ново име:",
     "MODAL_BACKUP_CODES_TITLE": "Кодови за опоравак резервне копије",
-    "MODAL_BACKUP_CODES_STATUS": "Статус: [unused] неискоришћени кодови, [used] искоришћени кодови",
+    "MODAL_BACKUP_CODES_STATUS": "Статус: [unused], [used]",
     "MODAL_BACKUP_CODES_DESC": "Резервни кодови вам омогућавају приступ налогу ако изгубите свој 2FA уређај.",
     "MODAL_BACKUP_CODES_WARNING": "Не можете да видите постојеће кодове (они су безбедно хеширани). Нове кодове можете да видите само приликом регенерације.",
     "MODAL_VERIFY_IDENTITY_TITLE": "Потврдите свој идентитет",
@@ -65,8 +65,12 @@
     "NEVER_USED": "Никада коришћено",
     "CONFIRM_REMOVE": "Да ли сте сигурни да желите да уклоните „[label]“ са свог налога?",
     "BACKUP_CODE_STATUS_UNUSED": "Неискоришћено",
-    "BACKUP_CODES_UNUSED": "[count] неискоришћени кодови",
-    "BACKUP_CODES_USED": "[count] коришћених кодова",
+    "BACKUP_CODES_UNUSED": "[count] неискоришћених кодова",
+    "BACKUP_CODES_UNUSED_O": "[count] неискоришћени код",
+    "BACKUP_CODES_UNUSED_F": "[count] неискоришћена кода",
+    "BACKUP_CODES_USED": "[count] искоришћених кодова",
+    "BACKUP_CODES_USED_O": "[count] искоришћени код",
+    "BACKUP_CODES_USED_F": "[count] искоришћена кода",
     "IMPORTANT": "Важно:",
     "WARNING": "Упозорење:"
 }

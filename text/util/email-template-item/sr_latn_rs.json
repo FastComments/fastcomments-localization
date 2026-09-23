@@ -2,5 +2,6 @@
     "TEXT_CUSTOM_TEMPLATE_NAME_DISPLAY": "<%= template.displayName %>",
     "TEXT_CUSTOM_TEMPLATE_NAME_DEFAULT": "Prilagođeni šablon: <%= viewTemplate.name %>",
     "TEXT_RENDER_ERRORS_SINGULAR": "<%= Number(template.errorCount).toLocaleString() %> nedavna greška pri renderovanju!",
-    "TEXT_RENDER_ERRORS_PLURAL": "<%= Number(template.errorCount).toLocaleString() %> nedavne greške pri renderovanju!"
+    "TEXT_RENDER_ERRORS_PLURAL": "<%= Number(template.errorCount).toLocaleString() %> nedavnih grešaka pri renderovanju!",
+    "TEXT_RENDER_ERRORS_PLURAL_F": "<%= Number(template.errorCount).toLocaleString() %> nedavne greške pri renderovanju!"
 }

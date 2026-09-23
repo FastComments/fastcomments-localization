@@ -1,0 +1,7 @@
+{
+    "INTRO": "مرحبًا <%= username %>،",
+    "FROM_NAME": "روبوت FastComments",
+    "SUBJECT": "سيتم تعطيل حسابك في FastComments قريبًا!",
+    "DETAILS_LINE_ONE": "هذه رسالة بريد إلكتروني آلية. نلاحظ أن لديك فواتير متأخرة منذ فترة، ولم نتمكن من التواصل معك.",
+    "DETAILS_LINE_TWO": "سيتم تعطيل حسابك في تاريخ <%= readableDeactivationDate %>. <a href=\"<%= billingPageURL %>\">يمكنك تحديث معلومات الفوترة الخاصة بك هنا.</a>"
+}

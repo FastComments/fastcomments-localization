@@ -3,6 +3,7 @@
     "HEADING": "Supprimer \"<%= question.name %>\"?",
     "CONFIRM_MESSAGE": "Êtes-vous sûr de vouloir supprimer la question « <%= question.question %> », créée le <%= question.createdAt.toLocaleString() %> ?",
     "REPLY_COUNT_MESSAGE": "Cette question a <%= Number(question.usedCount).toLocaleString() %> réponses.",
+    "REPLY_COUNT_MESSAGE_O": "Cette question a <%= Number(question.usedCount).toLocaleString() %> réponse.",
     "DATA_LOSS_WARNING": "Les données issues de ces réponses ne seront plus disponibles dans les rapports.",
     "DELETE_BUTTON": "Supprimer",
     "CANCEL_LINK": "Annuler"

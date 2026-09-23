@@ -1,6 +1,7 @@
 {
     "PAGE_TITLE": "Алтернатива на Disqus: по-бърза, поверителна, без реклами | FastComments",
     "META_DESCRIPTION": "FastComments е алтернативата на Disqus, създадена за скорост и поверителност. Един скрипт под 30 килобайта, без реклами, без проследяване и вградено импортиране от Disqus. Доверена от над <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> организации.",
+    "META_DESCRIPTION_O": "FastComments е алтернативата на Disqus, създадена за скорост и поверителност. Един скрипт под 30 килобайта, без реклами, без проследяване и вградено импортиране от Disqus. Доверена от над <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> организация.",
     "HEAD_KEYWORDS": "алтернатива на disqus, fastcomments срещу disqus, преминаване от disqus, замяна на disqus, алтернатива на disqus без реклами, алтернатива на disqus с поверителност",
     "HERO_TITLE_BOLD": "Алтернативата на Disqus",
     "HERO_TITLE_LIGHT": " без рекламите",
@@ -292,5 +293,6 @@
     "SOURCE_6": "Публикувани цени на Disqus, достъпени юли 2026 г.",
     "FINAL_CTA_HEADING_LIGHT": "Готови ли сте да оставите рекламите ",
     "FINAL_CTA_HEADING_BOLD": "зад гърба си?",
-    "FINAL_CTA_SUB": "Присъединете се към над <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> организации, които избраха по-бързи страници и поверителност за читателите. Импортирайте коментарите си от Disqus за минути и вижте разликата от първото зареждане на страницата."
+    "FINAL_CTA_SUB": "Присъединете се към над <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> организации, които избраха по-бързи страници и поверителност за читателите. Импортирайте коментарите си от Disqus за минути и вижте разликата от първото зареждане на страницата.",
+    "FINAL_CTA_SUB_O": "Присъединете се към над <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> организация, които избраха по-бързи страници и поверителност за читателите. Импортирайте коментарите си от Disqus за минути и вижте разликата от първото зареждане на страницата."
 }

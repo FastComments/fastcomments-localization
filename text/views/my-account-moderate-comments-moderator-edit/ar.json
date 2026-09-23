@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "تخصيص - FastComments",
+    "HEADING_EDIT": "تخصيص <%= moderator.name %>",
+    "SUB_HEADING_ADD": "إضافة مشرف",
+    "SUB_HEADING_EDIT": "تعديل <%= moderator.name %>",
+    "HEADING_ADD": "إضافة مشرف",
+    "INTRO_PARAGRAPH_1": "لقد وصلت إلى المكان الصحيح إذا كنت ترغب في منح شخص ما صلاحية الإشراف على تعليقاتك.",
+    "NAME_LABEL": "الاسم",
+    "INTRO_PARAGRAPH_2": "لاحظ أنه لا داعي لإضافة المستخدمين المسؤولين كمشرفين. فالمستخدمون المسؤولون لديهم صلاحيات الإشراف بالفعل.",
+    "NAME_SECTION_HEADING": "امنحه اسمًا",
+    "NAME_PLACEHOLDER": "السيد مشرف",
+    "EMAIL_LABEL": "البريد الإلكتروني",
+    "SAVE_BUTTON": "حفظ",
+    "EMAIL_SECTION_HEADING": "سنحتاج إلى بريد إلكتروني",
+    "CLEAR_ALL_LINK": "مسح الكل",
+    "GROUPS_DESCRIPTION": "لن يرى سوى التعليقات من هذه المجموعات في صفحة الإشراف على التعليقات.",
+    "MODERATION_GROUPS_LABEL": "مجموعات الإشراف",
+    "GROUPS_SECTION_HEADING": "إلى أي مجموعات ينتمي؟",
+    "EMAIL_PLACEHOLDER": "guy@moderators.com"
+}

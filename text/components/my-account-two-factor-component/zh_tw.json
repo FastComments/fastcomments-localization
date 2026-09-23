@@ -25,7 +25,7 @@
     "MODAL_RENAME_TITLE": "重新命名雙重認證方法",
     "MODAL_RENAME_LABEL": "新名稱：",
     "MODAL_BACKUP_CODES_TITLE": "備份還原碼",
-    "MODAL_BACKUP_CODES_STATUS": "狀態：[unused] 個未使用代碼，[used] 個已使用代碼",
+    "MODAL_BACKUP_CODES_STATUS": "狀態：[unused]，[used]",
     "MODAL_BACKUP_CODES_DESC": "如果您遺失了雙重驗證設備，備用代碼可以讓您存取您的帳戶。",
     "MODAL_BACKUP_CODES_WARNING": "您無法查看現有程式碼（它們經過安全雜湊處理）。您只能在重新產生程式碼時查看新程式碼。",
     "MODAL_VERIFY_IDENTITY_TITLE": "驗證您的身份",

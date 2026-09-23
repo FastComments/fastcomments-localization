@@ -6,6 +6,8 @@
     "VERIFY_YOUR_ACCOUNT": "Potrdi svoj račun",
     "YOU_CAN_CREATE_LOGIN_LINKS_HERE": "<a href=\"<%= FC_DOMAIN %>/auth/login/\">Tu</a> lahko ustvarite nove povezave za prijavo v svoj račun.",
     "WASNT_YOU_OR_REGRET": "Če to niste bili vi ali obžalujete, kar ste rekli, prezrite to e-poštno sporočilo in komentar bo odstranjen čez <%= removedInDays %> dni.",
+    "WASNT_YOU_OR_REGRET_O": "Če to niste bili vi ali obžalujete, kar ste rekli, prezrite to e-poštno sporočilo in komentar bo odstranjen čez <%= removedInDays %> dan.",
+    "WASNT_YOU_OR_REGRET_T": "Če to niste bili vi ali obžalujete, kar ste rekli, prezrite to e-poštno sporočilo in komentar bo odstranjen čez <%= removedInDays %> dneva.",
     "REMOVE_COMMENT": "Če želite ta komentar zdaj odstraniti, <a href=\"<%= FC_DOMAIN %>/remove-post/verify-removal/<%= tenant._id %>/<%= comment._id %>/<%= comment.verificationId %>\">kliknite tukaj</a>",
     "THANKS_SO_MUCH": "Najlepša hvala!",
     "USING_NAME_YOU_SAID": "Z imenom \"<%= comment.commenterName %>\" ste rekli:",

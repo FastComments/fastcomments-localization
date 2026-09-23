@@ -3,14 +3,14 @@
     "BULK_BAN_SUBTITLE": "Wees voorzichtig!",
     "BULK_BAN_BTN_BAN": "Verbannen",
     "BULK_BAN_BTN_CANCEL": "Annuleren",
-    "BULK_BAN_PLURAL_EMAILS": "e-mails",
     "BULK_BAN_SINGULAR_EMAIL": "e-mail",
-    "BULK_BAN_PLURAL_USERS": "gebruikers",
+    "BULK_BAN_PLURAL_EMAILS": "e-mails",
     "BULK_BAN_SINGULAR_USER": "gebruiker",
-    "BULK_BAN_PLURAL_EMAIL_DOMAINS": "e-maildomeinen",
+    "BULK_BAN_PLURAL_USERS": "gebruikers",
     "BULK_BAN_SINGULAR_EMAIL_DOMAIN": "e-maildomein",
-    "BULK_BAN_PLURAL_IP_ADDRESSES": "IP-adressen",
+    "BULK_BAN_PLURAL_EMAIL_DOMAINS": "e-maildomeinen",
     "BULK_BAN_SINGULAR_IP_ADDRESS": "IP-adres",
+    "BULK_BAN_PLURAL_IP_ADDRESSES": "IP-adressen",
     "BULK_BAN_SELECTED": "Geselecteerd: [text]",
     "BULK_BAN_USE_CAUTION_SELECTED": "Wees voorzichtig! [text]",
     "BULK_BAN_VIA_EMAIL_ACCOUNT": "Verbannen via e-mail/account",
@@ -33,5 +33,6 @@
     "BULK_BAN_BY_EMAIL": "Via e-mail",
     "BULK_BAN_BY_IP": "Via IP",
     "BULK_BAN_BY_EMAIL_DOMAIN": "Met e-mailadressen die eindigen op: [domains]",
-    "BULK_BAN_DELETE_RELATED_COMMENTS": "Verwijder [count] gerelateerde reacties[summary]."
+    "BULK_BAN_DELETE_RELATED_COMMENTS": "Verwijder [count] gerelateerde reacties[summary].",
+    "BULK_BAN_DELETE_RELATED_COMMENTS_O": "Verwijder [count] gerelateerde reactie[summary]."
 }

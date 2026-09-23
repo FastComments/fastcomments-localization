@@ -9,6 +9,7 @@
     "INTRO_PARAGRAPH_3": "Όταν οι αποκλεισμένοι χρήστες προσπαθούν να σχολιάσουν, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">αυτό θα εμφανίζεται στο αρχείο καταγραφής ελέγχου</a> με την περιγραφή &quot;Banned user blocked from commenting.&quot;",
     "IP_BAN_WARNING": "Το FastComments δεν αποθηκεύει ακατέργαστες διευθύνσεις IP για αποκλεισμούς βάσει IP. Να είστε προσεκτικοί όταν χρησιμοποιείτε αποκλεισμούς βάσει IP, καθώς οι διευθύνσεις IP μπορούν να εκχωρηθούν εκ νέου.",
     "SHOWING_BANNED_USERS": "Εμφάνιση <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> από <%= totalCount %> αποκλεισμένους χρήστες",
+    "SHOWING_BANNED_USERS_O": "Εμφάνιση <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> από <%= totalCount %> αποκλεισμένο χρήστη",
     "PAGE_LABEL": "Σελίδα",
     "COUNT_PER_PAGE_LABEL": "Αριθμός ανά σελίδα",
     "GO_BUTTON": "Μετάβαση",

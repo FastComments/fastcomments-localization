@@ -1,3 +1,4 @@
 {
-    "ERROR_IMAGE_TOO_LARGE": "Esta imagem é muito grande para ser processada. Por favor, envie uma imagem com menos de <%= maxMegapixels %> megapixels."
+    "ERROR_IMAGE_TOO_LARGE": "Esta imagem é muito grande para ser processada. Por favor, envie uma imagem com menos de <%= maxMegapixels %> megapixels.",
+    "ERROR_IMAGE_TOO_LARGE_O": "Esta imagem é muito grande para ser processada. Por favor, envie uma imagem com menos de <%= maxMegapixels %> megapixel."
 }

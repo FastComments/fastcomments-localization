@@ -3,14 +3,16 @@
     "BULK_BAN_SUBTITLE": "Будите опрезни!",
     "BULK_BAN_BTN_BAN": "Бануј",
     "BULK_BAN_BTN_CANCEL": "Откажи",
-    "BULK_BAN_PLURAL_EMAILS": "адреса е-поште",
     "BULK_BAN_SINGULAR_EMAIL": "адреса е-поште",
-    "BULK_BAN_PLURAL_USERS": "корисника",
+    "BULK_BAN_PLURAL_EMAILS": "адреса е-поште",
+    "BULK_BAN_PLURAL_EMAILS_F": "адресе е-поште",
     "BULK_BAN_SINGULAR_USER": "корисник",
-    "BULK_BAN_PLURAL_EMAIL_DOMAINS": "домена е-поште",
+    "BULK_BAN_PLURAL_USERS": "корисника",
     "BULK_BAN_SINGULAR_EMAIL_DOMAIN": "домен е-поште",
-    "BULK_BAN_PLURAL_IP_ADDRESSES": "IP адреса",
+    "BULK_BAN_PLURAL_EMAIL_DOMAINS": "домена е-поште",
     "BULK_BAN_SINGULAR_IP_ADDRESS": "IP адреса",
+    "BULK_BAN_PLURAL_IP_ADDRESSES": "IP адреса",
+    "BULK_BAN_PLURAL_IP_ADDRESSES_F": "IP адресе",
     "BULK_BAN_SELECTED": "Изабрано: [text]",
     "BULK_BAN_USE_CAUTION_SELECTED": "Будите опрезни! [text]",
     "BULK_BAN_VIA_EMAIL_ACCOUNT": "Бан путем е-поште / налога",
@@ -33,5 +35,6 @@
     "BULK_BAN_BY_EMAIL": "По е-пошти",
     "BULK_BAN_BY_IP": "По IP адреси",
     "BULK_BAN_BY_EMAIL_DOMAIN": "Са е-поштом која се завршава на: [domains]",
-    "BULK_BAN_DELETE_RELATED_COMMENTS": "Обриши повезане коментаре: [count][summary]."
+    "BULK_BAN_DELETE_RELATED_COMMENTS": "Обриши повезане коментаре: [count][summary].",
+    "BULK_BAN_DELETE_RELATED_COMMENTS_O": "Обриши повезани коментар: [count][summary]."
 }

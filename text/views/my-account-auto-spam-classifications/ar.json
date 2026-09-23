@@ -1,0 +1,8 @@
+{
+    "BUTTON_SPAM": "رسالة مزعجة",
+    "BUTTON_NOT_SPAM": "ليست رسالة مزعجة",
+    "PAGE_TITLE": "مجموعة تدريب الرسائل المزعجة في التعليقات - FastComments",
+    "HEADING_COMMENTS_SPAM_TRAINING_SET": "مجموعة تدريب الرسائل المزعجة في التعليقات",
+    "BUTTON_UNCLASSIFY": "إلغاء التصنيف",
+    "TEXT_CURRENT_CLASSIFICATION": "التصنيف الحالي: <%= viewModelItem.spamTrainingComment.isSpam ? 'spam' : 'not-spam' %>"
+}

@@ -1,0 +1,7 @@
+{
+    "WELCOME_BACK": "مرحبًا بعودتك، <%- user.displayName || user.username %>.",
+    "TITLE": "حسابي - FastComments",
+    "SNAPSHOT_MESSAGE": "إليك لمحة سريعة عن حسابك.",
+    "JAVASCRIPT_REQUIRED": "يتطلب FastComments تفعيل JavaScript ليعمل بشكل صحيح.",
+    "JAVASCRIPT_NOTE": "ملاحظة: نستخدم الحد الأدنى من JavaScript، دون أطر عمل ثقيلة، لتقليل استهلاك الذاكرة. نأمل أن تستمتع بمنتجنا."
+}

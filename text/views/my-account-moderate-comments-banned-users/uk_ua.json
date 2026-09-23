@@ -9,6 +9,7 @@
     "INTRO_PARAGRAPH_3": "Коли забанені користувачі намагаються коментувати, <a href=\"/auth/my-account/manage-data/audit-logs?username=&ip=&crudType=c&resourceName=Comment\">це відображається в журналі аудиту</a> з описом «Banned user blocked from commenting.» (спробу коментування забаненого користувача заблоковано).",
     "IP_BAN_WARNING": "FastComments не зберігає необроблені IP-адреси для банів за IP-адресою. Будьте обережні з банами за IP-адресою, оскільки IP-адреси можуть бути перепризначені.",
     "SHOWING_BANNED_USERS": "Показано <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> з <%= totalCount %> забанених користувачів",
+    "SHOWING_BANNED_USERS_O": "Показано <%= Number((page - 1) * count).toLocaleString() %> - <%= Number(((page - 1) * count) + bannedUsers.length).toLocaleString() %> з <%= totalCount %> забаненого користувача",
     "PAGE_LABEL": "Сторінка",
     "COUNT_PER_PAGE_LABEL": "Кількість на сторінці",
     "GO_BUTTON": "Перейти",

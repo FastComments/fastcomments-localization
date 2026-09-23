@@ -73,6 +73,12 @@
     "FLASH_BULK_DENIED": "Zavrnjenih osnutkov: {count}.",
     "FLASH_NOTHING_SELECTED": "Najprej izberite vsaj en osnutek.",
     "FLASH_BULK_SENT": "Poslanih {count} e-poštnih sporočil.",
+    "FLASH_BULK_SENT_O": "Poslano {count} e-poštno sporočilo.",
+    "FLASH_BULK_SENT_T": "Poslani {count} e-poštni sporočili.",
+    "FLASH_BULK_SENT_F": "Poslana {count} e-poštna sporočila.",
     "FLASH_BULK_SENT_PARTIAL": "Poslanih {count} e-poštnih sporočil. Nekatera niso bila poslana in so še vedno v teku.",
+    "FLASH_BULK_SENT_PARTIAL_O": "Poslano {count} e-poštno sporočilo. Nekatera niso bila poslana in so še vedno v teku.",
+    "FLASH_BULK_SENT_PARTIAL_T": "Poslani {count} e-poštni sporočili. Nekatera niso bila poslana in so še vedno v teku.",
+    "FLASH_BULK_SENT_PARTIAL_F": "Poslana {count} e-poštna sporočila. Nekatera niso bila poslana in so še vedno v teku.",
     "FLASH_BULK_DENIED_PARTIAL": "Zavrnjenih osnutkov: {count}. Nekateri niso bili več v obravnavi."
 }

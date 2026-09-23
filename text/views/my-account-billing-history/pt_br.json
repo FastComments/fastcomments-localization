@@ -4,6 +4,7 @@
     "TEXT_NO_INVOICES": "Você não possui nenhuma fatura em sua conta.",
     "TEXT_BILLING_EXTERNALLY_MANAGED": "Suas informações de faturamento estão configuradas para gerenciamento externo. As faturas podem não ser exibidas aqui.",
     "TEXT_SHOWING_PAGE": "Exibindo a página <%= currentPage %> de faturas. <%= invoices.length %> faturas por página.",
+    "TEXT_SHOWING_PAGE_O": "Exibindo a página <%= currentPage %> de faturas. <%= invoices.length %> fatura por página.",
     "TABLE_HEADER_INVOICE_DATE": "Data da fatura",
     "TABLE_HEADER_INVOICE_NUMBER": "Número da fatura",
     "TABLE_HEADER_DESCRIPTION": "Descrição",

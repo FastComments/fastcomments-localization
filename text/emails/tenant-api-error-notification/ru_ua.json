@@ -1,9 +1,10 @@
 {
     "BANNER_TEXT": "Обнаружены ошибки API FastComments.",
     "GREETING": "Привет,",
-    "ERROR_SINGULAR": "ошибка",
     "FROM_NAME": "Робот API FastComments",
+    "ERROR_SINGULAR": "ошибка",
     "ERROR_PLURAL": "ошибки",
+    "ERROR_PLURAL_M": "ошибок",
     "SUBJECT": "Обнаружены ошибки API FastComments.",
     "EXPLANATION": "Эти ошибки возникли при обращении к нашей платформе. Мы рекомендуем проверить журналы любых пользовательских интеграций API с FastComments на наличие ошибок.",
     "DETECTION": "Мы обнаружили API <%= errorCountFormatted %> <%= errorWord %> для вашей учетной записи в день <%= errorDate %>.",

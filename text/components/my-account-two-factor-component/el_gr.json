@@ -25,7 +25,7 @@
     "MODAL_RENAME_TITLE": "Μετονομασία μεθόδου 2FA",
     "MODAL_RENAME_LABEL": "Νέο όνομα:",
     "MODAL_BACKUP_CODES_TITLE": "Κωδικοί ανάκτησης αντιγράφων ασφαλείας",
-    "MODAL_BACKUP_CODES_STATUS": "Κατάσταση: [unused] αχρησιμοποίητοι κωδικοί, [used] χρησιμοποιημένοι κωδικοί",
+    "MODAL_BACKUP_CODES_STATUS": "Κατάσταση: [unused], [used]",
     "MODAL_BACKUP_CODES_DESC": "Οι εφεδρικοί κωδικοί σάς επιτρέπουν να αποκτήσετε πρόσβαση στον λογαριασμό σας σε περίπτωση απώλειας της συσκευής 2FA.",
     "MODAL_BACKUP_CODES_WARNING": "Δεν μπορείτε να δείτε υπάρχοντες κωδικούς (έχουν κατακερματιστεί με ασφάλεια). Μπορείτε να δείτε νέους κωδικούς μόνο κατά την αναδημιουργία.",
     "MODAL_VERIFY_IDENTITY_TITLE": "Επαληθεύστε την ταυτότητά σας",
@@ -66,7 +66,9 @@
     "CONFIRM_REMOVE": "Είστε βέβαιοι ότι θέλετε να καταργήσετε το \"[label]\" από τον λογαριασμό σας;",
     "BACKUP_CODE_STATUS_UNUSED": "Αχρησιμοποίητος",
     "BACKUP_CODES_UNUSED": "[count] αχρησιμοποίητοι κωδικοί",
+    "BACKUP_CODES_UNUSED_O": "[count] αχρησιμοποίητος κωδικός",
     "BACKUP_CODES_USED": "[count] χρησιμοποιημένοι κωδικοί",
+    "BACKUP_CODES_USED_O": "[count] χρησιμοποιημένος κωδικός",
     "IMPORTANT": "Σημαντικό:",
     "WARNING": "Προειδοποίηση:"
 }

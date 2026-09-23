@@ -1,6 +1,8 @@
 {
     "PAGE_TITLE": "Disqus алтернатива: бржа, приватна, без реклама | FastComments",
-    "META_DESCRIPTION": "FastComments је Disqus алтернатива направљена за брзину и приватност. Једна скрипта испод 30 килобајта, без реклама, без праћења и уграђен увоз из Disqus-а. Поверење има преко <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> организација.",
+    "META_DESCRIPTION": "FastComments је Disqus алтернатива направљена за брзину и приватност. Једна скрипта испод 30 килобајта, без реклама, без праћења и уграђени увоз из Disqus-а. Поверење му указује преко <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ организација.",
+    "META_DESCRIPTION_O": "FastComments је Disqus алтернатива направљена за брзину и приватност. Једна скрипта испод 30 килобајта, без реклама, без праћења и уграђени увоз из Disqus-а. Поверење му указује преко <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ организације.",
+    "META_DESCRIPTION_F": "FastComments је Disqus алтернатива направљена за брзину и приватност. Једна скрипта испод 30 килобајта, без реклама, без праћења и уграђени увоз из Disqus-а. Поверење му указује преко <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ организације.",
     "HEAD_KEYWORDS": "disqus алтернатива, fastcomments vs disqus, прелазак са disqus-а, замена за disqus, disqus алтернатива без реклама, disqus алтернатива приватност",
     "HERO_TITLE_BOLD": "Disqus алтернатива",
     "HERO_TITLE_LIGHT": " без реклама",
@@ -292,5 +294,5 @@
     "SOURCE_6": "Disqus објављене цене, приступљено јула 2026.",
     "FINAL_CTA_HEADING_LIGHT": "Спремни да оставите рекламе ",
     "FINAL_CTA_HEADING_BOLD": "иза себе?",
-    "FINAL_CTA_SUB": "Придружите се са преко <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> организација које су изабрале брже странице и приватност читалаца. Увезите своје Disqus коментаре за неколико минута и видите разлику при првом учитавању странице."
+    "FINAL_CTA_SUB": "Придружите се <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ организацијама које су изабрале брже странице и приватност читалаца. Увезите своје Disqus коментаре за неколико минута и видите разлику већ при првом учитавању странице."
 }

@@ -1,6 +1,7 @@
 {
     "PAGE_TITLE": "Disqus-alternativ: Hurtigere, privat, ingen annoncer | FastComments",
     "META_DESCRIPTION": "FastComments er Disqus-alternativet bygget til hastighed og privatliv. Ét script på under 30 kilobyte, ingen annoncer, ingen sporing og indbygget import fra Disqus. Betroet af <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ organisationer.",
+    "META_DESCRIPTION_O": "FastComments er Disqus-alternativet bygget til hastighed og privatliv. Ét script på under 30 kilobyte, ingen annoncer, ingen sporing og indbygget import fra Disqus. Betroet af <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ organisation.",
     "HEAD_KEYWORDS": "disqus alternativ, fastcomments vs disqus, skift fra disqus, disqus erstatning, disqus alternativ uden annoncer, disqus alternativ privatliv",
     "HERO_TITLE_BOLD": "Disqus-alternativet",
     "HERO_TITLE_LIGHT": " uden annoncerne",
@@ -292,5 +293,6 @@
     "SOURCE_6": "Disqus' offentliggjorte priser, tilgået juli 2026.",
     "FINAL_CTA_HEADING_LIGHT": "Klar til at lægge annoncerne ",
     "FINAL_CTA_HEADING_BOLD": "bag dig?",
-    "FINAL_CTA_SUB": "Slut dig til <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ organisationer, der valgte hurtigere sider og læserprivatliv. Importér dine Disqus-kommentarer på få minutter, og se forskellen ved den første sideindlæsning."
+    "FINAL_CTA_SUB": "Slut dig til <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ organisationer, der valgte hurtigere sider og læserprivatliv. Importér dine Disqus-kommentarer på få minutter, og se forskellen ved den første sideindlæsning.",
+    "FINAL_CTA_SUB_O": "Slut dig til <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %>+ organisation, der valgte hurtigere sider og læserprivatliv. Importér dine Disqus-kommentarer på få minutter, og se forskellen ved den første sideindlæsning."
 }

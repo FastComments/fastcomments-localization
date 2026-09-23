@@ -1,6 +1,7 @@
 {
     "PAGE_TITLE": "Alternativa a Disqus: più veloce, privata, senza pubblicità | FastComments",
     "META_DESCRIPTION": "FastComments è l'alternativa a Disqus creata per velocità e privacy. Un solo script sotto i 30 kilobyte, nessuna pubblicità, nessun tracciamento e importazione da Disqus integrata. Scelta da oltre <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organizzazioni.",
+    "META_DESCRIPTION_O": "FastComments è l'alternativa a Disqus creata per velocità e privacy. Un solo script sotto i 30 kilobyte, nessuna pubblicità, nessun tracciamento e importazione da Disqus integrata. Scelta da oltre <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organizzazione.",
     "HEAD_KEYWORDS": "alternativa a disqus, fastcomments vs disqus, passare da disqus, sostituto di disqus, alternativa a disqus senza pubblicità, alternativa a disqus privacy",
     "HERO_TITLE_BOLD": "L'alternativa a Disqus",
     "HERO_TITLE_LIGHT": " senza pubblicità",
@@ -292,5 +293,6 @@
     "SOURCE_6": "Prezzi pubblicati da Disqus, consultati a luglio 2026.",
     "FINAL_CTA_HEADING_LIGHT": "Pronto a lasciarti la pubblicità ",
     "FINAL_CTA_HEADING_BOLD": "alle spalle?",
-    "FINAL_CTA_SUB": "Unisciti a oltre <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organizzazioni che hanno scelto pagine più veloci e la privacy dei lettori. Importa i tuoi commenti Disqus in pochi minuti e vedi la differenza al primo caricamento di pagina."
+    "FINAL_CTA_SUB": "Unisciti a oltre <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organizzazioni che hanno scelto pagine più veloci e la privacy dei lettori. Importa i tuoi commenti Disqus in pochi minuti e vedi la differenza al primo caricamento di pagina.",
+    "FINAL_CTA_SUB_O": "Unisciti a oltre <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organizzazione che ha scelto pagine più veloci e la privacy dei lettori. Importa i tuoi commenti Disqus in pochi minuti e vedi la differenza al primo caricamento di pagina."
 }

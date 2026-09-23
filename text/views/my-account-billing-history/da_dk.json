@@ -4,6 +4,7 @@
     "TEXT_NO_INVOICES": "Du har ingen fakturaer på din konto.",
     "TEXT_BILLING_EXTERNALLY_MANAGED": "Dine faktureringsoplysninger er indstillet til Eksternt administreret. Fakturaer vises muligvis ikke her.",
     "TEXT_SHOWING_PAGE": "Viser side <%= currentPage %> af fakturaer. <%= invoices.length %> fakturaer pr. side.",
+    "TEXT_SHOWING_PAGE_O": "Viser side <%= currentPage %> af fakturaer. <%= invoices.length %> faktura pr. side.",
     "TABLE_HEADER_INVOICE_DATE": "Fakturadato",
     "TABLE_HEADER_INVOICE_NUMBER": "Fakturanummer",
     "TABLE_HEADER_DESCRIPTION": "Beskrivelse",

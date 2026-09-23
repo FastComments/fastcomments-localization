@@ -1,6 +1,7 @@
 {
     "PAGE_TITLE": "Alternative à Disqus : plus rapide, privée, sans publicité | FastComments",
     "META_DESCRIPTION": "FastComments est l'alternative à Disqus conçue pour la vitesse et la confidentialité. Un seul script de moins de 30 kilo-octets, aucune publicité, aucun pistage et une importation Disqus intégrée. Utilisé par plus de <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organisations.",
+    "META_DESCRIPTION_O": "FastComments est l'alternative à Disqus conçue pour la vitesse et la confidentialité. Un seul script de moins de 30 kilo-octets, aucune publicité, aucun pistage et une importation Disqus intégrée. Utilisé par plus de <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organisation.",
     "HEAD_KEYWORDS": "alternative à disqus, fastcomments vs disqus, quitter disqus, remplacer disqus, alternative à disqus sans publicité, alternative à disqus respectueuse de la vie privée",
     "HERO_TITLE_BOLD": "L'alternative à Disqus",
     "HERO_TITLE_LIGHT": " sans les publicités",
@@ -292,5 +293,6 @@
     "SOURCE_6": "Tarifs publiés par Disqus, consultés en juillet 2026.",
     "FINAL_CTA_HEADING_LIGHT": "Prêt à laisser les publicités ",
     "FINAL_CTA_HEADING_BOLD": "derrière vous ?",
-    "FINAL_CTA_SUB": "Rejoignez plus de <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organisations qui ont choisi des pages plus rapides et la confidentialité de leurs lecteurs. Importez vos commentaires Disqus en quelques minutes et constatez la différence dès le premier chargement de page."
+    "FINAL_CTA_SUB": "Rejoignez plus de <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organisations qui ont choisi des pages plus rapides et la confidentialité de leurs lecteurs. Importez vos commentaires Disqus en quelques minutes et constatez la différence dès le premier chargement de page.",
+    "FINAL_CTA_SUB_O": "Rejoignez plus de <%- Number(Math.floor(usageStats.tenantCount / 100) * 100).toLocaleString() %> organisation qui a choisi des pages plus rapides et la confidentialité de ses lecteurs. Importez vos commentaires Disqus en quelques minutes et constatez la différence dès le premier chargement de page."
 }

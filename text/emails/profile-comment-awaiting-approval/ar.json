@@ -1,0 +1,8 @@
+{
+    "SUBJECT": "تعليق على الملف الشخصي من <%= comment.commenterName %> بانتظار الاعتماد",
+    "INTRO": "مرحبًا <%= targetUser.username %>،",
+    "YOU_HAVE_A_PROFILE_COMMENT_AWAITING_APPROVAL": "لقد تلقيت تعليقًا جديدًا على ملفك الشخصي يتطلب اعتمادك. يمكنك اعتماد هذا التعليق أو رفضه باستخدام الأزرار أدناه.",
+    "APPROVE_COMMENT": "اعتماد التعليق",
+    "REJECT_COMMENT": "رفض التعليق",
+    "UNSUBSCRIBE_HERE": "يمكنك إلغاء الاشتراك في الإشعارات من هنا."
+}

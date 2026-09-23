@@ -2,10 +2,20 @@
     "INTRO": "Zdravo <%= username %>,",
     "BANNER_TEXT": "Novi odgovori na komentarje",
     "FROM_NAME": "Robot FastComments",
-    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> <% if(replyCount === 1) {%>Nov odgovor<% } else { %>Novi odgovori<% } %> na <% if(replyCount > 1) { %>Vaše komentarje<% } else {%>Vaš komentar<% } %>",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> novih odgovorov na [comments]",
+    "SUBJECT_T": "<%= abbreviateNumber(replyCount, 0, locale) %> nova odgovora na [comments]",
+    "SUBJECT_F": "<%= abbreviateNumber(replyCount, 0, locale) %> novi odgovori na [comments]",
+    "SUBJECT_O": "<%= abbreviateNumber(replyCount, 0, locale) %> nov odgovor na [comments]",
+    "SUBJECT_COMMENTS": "vaše komentarje",
+    "SUBJECT_COMMENTS_T": "vaša komentarja",
+    "SUBJECT_COMMENTS_O": "vaš komentar",
     "VIEW_REPLIES": "Poglej in odgovori",
     "DISABLE_NOTIFICATIONS_FOR_COMMENT": "Onemogoči obvestila za ta komentar",
     "UNSUBSCRIBE_HERE": "Odjavi se",
     "REPLY_BY_EMAIL_TIP": "Svoj odgovor lahko objavite tako, da odgovorite neposredno na to e-poštno sporočilo.",
-    "RECENT_COMMENT_COUNT": "Prejeli ste <% if(replyCount > 1) { %>nekaj odgovorov<% } else { %>odgovor <% } %> na vaše <% if(commentsSummary.length > 1) {%> komentarje<% } else { %> komentar <% } %>."
+    "RECENT_COMMENT_COUNT": "Prejeli ste nekaj odgovorov na vaše [comments].",
+    "RECENT_COMMENT_COUNT_O": "Prejeli ste odgovor na [comments].",
+    "RECENT_COMMENT_COUNT_COMMENTS": "vaše komentarje",
+    "RECENT_COMMENT_COUNT_COMMENTS_T": "vaša komentarja",
+    "RECENT_COMMENT_COUNT_COMMENTS_O": "vaš komentar"
 }

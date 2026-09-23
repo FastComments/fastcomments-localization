@@ -4,6 +4,8 @@
     "HERO_TITLE_BOLD": "Двофакторска аутентификација",
     "HERO_DESCRIPTION": "Молимо вас да унесете верификациони код да бисте завршили пријављивање",
     "ATTEMPTS_REMAINING": "Преостало је <%= 5 - session.attempts %> покушаја",
+    "ATTEMPTS_REMAINING_O": "Преостао је <%= 5 - session.attempts %> покушај",
+    "ATTEMPTS_REMAINING_F": "Преостала су <%= 5 - session.attempts %> покушаја",
     "LABEL_METHOD_SELECT": "Изаберите метод верификације:",
     "METHOD_AUTHENTICATOR": "Апликација за аутентификатор",
     "METHOD_SMS": "СМС",

@@ -1,0 +1,5 @@
+{
+    "STARTING_DUPLICATE_DETECTION": "بدء الكشف عن التعليقات المكررة في <%= commentCount %> من التعليقات",
+    "SKIPPED_DUPLICATE": "تم تخطي تعليق مكرر (المسافة: <%= distance %>). المستورد من \"<%= importedName %>\": \"<%= importedHtml %>\" | الموجود من \"<%= existingName %>\": \"<%= existingHtml %>\"",
+    "DUPLICATE_CHECK_PROGRESS": "تقدم التحقق من التكرارات: تم فحص <%= checked %>/<%= total %> من التعليقات، وتم العثور على <%= duplicatesFound %> من التكرارات حتى الآن"
+}

@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "رفع الحظر عن مستخدم - FastComments",
+    "HEADING": "رفع الحظر عن مستخدم",
+    "SUB_HEADING": "رفع الحظر عن <%= bannedUser.username %>؟",
+    "UN_BAN_BUTTON": "رفع الحظر عن المستخدم",
+    "CONFIRM_MESSAGE": "هل أنت متأكد من رغبتك في رفع الحظر عن هذا المستخدم؟",
+    "BANNED_FOR_SAYING_TEXT": "تم حظره بسبب قوله \"<span class=\"quote\"><%= bannedUser.bannedCommentText %></span>\""
+}
