@@ -127,7 +127,7 @@
         "login-success": 9,
         "login-two-factor": 22,
         "maintenance-page": 4,
-        "marketing_common": 173,
+        "marketing_common": 174,
         "moderator-join-failure": 9,
         "moderator-join-success": 6,
         "my-account": 5,
@@ -235,7 +235,7 @@
         "my-account-moderate-comments-v2": 9,
         "my-account-on-prem-status": 0,
         "my-account-question-config-delete": 11,
-        "my-account-question-config-edit": 55,
+        "my-account-question-config-edit": 59,
         "my-account-question-configs": 18,
         "my-account-question-configs-table": 6,
         "my-account-saml-config": 63,
@@ -3831,7 +3831,8 @@
         "t170": "USAGE_STATS_COMMENTERS_M",
         "t171": "USAGE_STATS_PAGE_LOADS_T",
         "t172": "USAGE_STATS_PAGE_LOADS_F",
-        "t173": "USAGE_STATS_PAGE_LOADS_M"
+        "t173": "USAGE_STATS_PAGE_LOADS_M",
+        "t174": "PUBLIC_FOOTER_V2_LIVE_CHAT_NOTICE"
     },
     "moderator-join-failure": {
         "t1": "PAGE_TITLE",
@@ -6377,7 +6378,11 @@
         "t52": "QUESTION_TYPE_THUMBS",
         "t53": "LABEL_DISPLAY_STYLE",
         "t54": "OPTION_STYLE_CENTERED",
-        "t55": "OPTION_STYLE_INLINE"
+        "t55": "OPTION_STYLE_INLINE",
+        "t56": "HEADING_THUMBS_OPTIONS",
+        "t57": "LABEL_THUMBS_UP_LABEL",
+        "t58": "LABEL_THUMBS_DOWN_LABEL",
+        "t59": "HELP_THUMBS_LABELS"
     },
     "my-account-question-configs": {
         "t1": "PAGE_TITLE",

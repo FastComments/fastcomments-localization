@@ -103,6 +103,7 @@
     "PUBLIC_FOOTER_V2_EMAIL_PLACEHOLDER": "Enter your email address",
     "PUBLIC_FOOTER_V2_SUBMIT": "Submit",
     "PUBLIC_FOOTER_V2_COPYRIGHT": "© <span id=\"current-year\"><%- new Date().getFullYear() %></span> FastComments. All rights reserved.",
+    "PUBLIC_FOOTER_V2_LIVE_CHAT_NOTICE": "This is the support channel for <b>FastComments</b>. If you need help with commenting on a specific site, reach out to them directly.",
     "PUBLIC_FOOTER_V2_BACK_TO_TOP": "back to top",
     "PUBLIC_FOOTER_COPYRIGHT": "© <%= GET_YEAR() %> FastComments. All rights reserved.",
     "PUBLIC_FOOTER_INSTALL": "Install",
