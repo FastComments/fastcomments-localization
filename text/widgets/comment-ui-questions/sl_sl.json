@@ -11,5 +11,10 @@
     "BREAKDOWN_PASSIVES": "Pasivni",
     "BREAKDOWN_DETRACTORS": "Kritiki",
     "BREAKDOWN_THUMBS_UP": "Palec gor",
-    "BREAKDOWN_THUMBS_DOWN": "Palec dol"
+    "BREAKDOWN_THUMBS_DOWN": "Palec dol",
+    "ERROR_QUESTION_VALUE_NOT_NUMERIC": "Vrednost vprašanja mora biti številska.",
+    "ERROR_QUESTION_NOT_FOUND": "Tega vprašanja ni bilo mogoče najti.",
+    "ERROR_QUESTION_VALUE_OUT_OF_RANGE": "Vrednost vprašanja ni v območju.",
+    "BREAKDOWN_TOP_ANSWER": "Najpogostejši odgovor",
+    "ERROR_ANSWER_ALL_QUESTIONS": "Prosim, odgovorite na vsa vprašanja."
 }

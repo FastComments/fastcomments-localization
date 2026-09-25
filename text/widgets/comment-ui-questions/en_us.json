@@ -9,5 +9,10 @@
     "BREAKDOWN_PASSIVES": "Passives",
     "BREAKDOWN_DETRACTORS": "Detractors",
     "BREAKDOWN_THUMBS_UP": "Thumbs Up",
-    "BREAKDOWN_THUMBS_DOWN": "Thumbs Down"
+    "BREAKDOWN_THUMBS_DOWN": "Thumbs Down",
+    "BREAKDOWN_TOP_ANSWER": "Top answer",
+    "ERROR_ANSWER_ALL_QUESTIONS": "Please answer all the questions.",
+    "ERROR_QUESTION_NOT_FOUND": "That question was not found.",
+    "ERROR_QUESTION_VALUE_NOT_NUMERIC": "Question value must be numeric.",
+    "ERROR_QUESTION_VALUE_OUT_OF_RANGE": "Question value is not in range."
 }

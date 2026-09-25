@@ -9,5 +9,10 @@
     "BREAKDOWN_PASSIVES": "Pasivos",
     "BREAKDOWN_DETRACTORS": "Detractores",
     "BREAKDOWN_THUMBS_UP": "Votos positivos",
-    "BREAKDOWN_THUMBS_DOWN": "Votos negativos"
+    "BREAKDOWN_THUMBS_DOWN": "Votos negativos",
+    "BREAKDOWN_TOP_ANSWER": "Respuesta más elegida",
+    "ERROR_ANSWER_ALL_QUESTIONS": "Por favor, responde a todas las preguntas.",
+    "ERROR_QUESTION_NOT_FOUND": "Esa pregunta no se encontró.",
+    "ERROR_QUESTION_VALUE_NOT_NUMERIC": "El valor de la pregunta debe ser numérico.",
+    "ERROR_QUESTION_VALUE_OUT_OF_RANGE": "El valor de la pregunta no está dentro del rango."
 }

@@ -9,5 +9,10 @@
     "BREAKDOWN_PASSIVES": "Passivos",
     "BREAKDOWN_DETRACTORS": "Detratores",
     "BREAKDOWN_THUMBS_UP": "Polegar para cima",
-    "BREAKDOWN_THUMBS_DOWN": "Polegar para baixo"
+    "BREAKDOWN_THUMBS_DOWN": "Polegar para baixo",
+    "BREAKDOWN_TOP_ANSWER": "Resposta principal",
+    "ERROR_QUESTION_VALUE_NOT_NUMERIC": "O valor da pergunta deve ser numérico.",
+    "ERROR_QUESTION_NOT_FOUND": "Essa pergunta não foi encontrada.",
+    "ERROR_ANSWER_ALL_QUESTIONS": "Por favor, responda a todas as perguntas.",
+    "ERROR_QUESTION_VALUE_OUT_OF_RANGE": "O valor da pergunta está fora do intervalo."
 }

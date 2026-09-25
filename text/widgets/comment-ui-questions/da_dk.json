@@ -9,5 +9,10 @@
     "BREAKDOWN_PASSIVES": "Passive",
     "BREAKDOWN_DETRACTORS": "Kritikere",
     "BREAKDOWN_THUMBS_UP": "Tommel op",
-    "BREAKDOWN_THUMBS_DOWN": "Tommel ned"
+    "BREAKDOWN_THUMBS_DOWN": "Tommel ned",
+    "BREAKDOWN_TOP_ANSWER": "Mest valgte svar",
+    "ERROR_QUESTION_NOT_FOUND": "Det spørgsmål blev ikke fundet.",
+    "ERROR_ANSWER_ALL_QUESTIONS": "Besvar venligst alle spørgsmålene.",
+    "ERROR_QUESTION_VALUE_NOT_NUMERIC": "Spørgsmålsværdien skal være numerisk.",
+    "ERROR_QUESTION_VALUE_OUT_OF_RANGE": "Spørgsmålsværdien er ikke inden for intervallet."
 }

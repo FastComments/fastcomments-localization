@@ -9,5 +9,10 @@
     "BREAKDOWN_PASSIVES": "중립자",
     "BREAKDOWN_DETRACTORS": "비판자",
     "BREAKDOWN_THUMBS_UP": "좋아요",
-    "BREAKDOWN_THUMBS_DOWN": "싫어요"
+    "BREAKDOWN_THUMBS_DOWN": "싫어요",
+    "BREAKDOWN_TOP_ANSWER": "최다 응답",
+    "ERROR_QUESTION_VALUE_NOT_NUMERIC": "질문 값은 숫자여야 합니다.",
+    "ERROR_QUESTION_VALUE_OUT_OF_RANGE": "질문 값이 범위를 벗어났습니다.",
+    "ERROR_ANSWER_ALL_QUESTIONS": "모든 질문에 답해 주세요.",
+    "ERROR_QUESTION_NOT_FOUND": "해당 질문을 찾을 수 없습니다."
 }

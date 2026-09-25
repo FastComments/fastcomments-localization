@@ -9,5 +9,10 @@
     "BREAKDOWN_PASSIVES": "Passive",
     "BREAKDOWN_DETRACTORS": "Kritiker",
     "BREAKDOWN_THUMBS_UP": "Daumen hoch",
-    "BREAKDOWN_THUMBS_DOWN": "Daumen runter"
+    "BREAKDOWN_THUMBS_DOWN": "Daumen runter",
+    "BREAKDOWN_TOP_ANSWER": "Häufigste Antwort",
+    "ERROR_QUESTION_NOT_FOUND": "Diese Frage wurde nicht gefunden.",
+    "ERROR_QUESTION_VALUE_OUT_OF_RANGE": "Der Wert der Frage liegt außerhalb des zulässigen Bereichs.",
+    "ERROR_QUESTION_VALUE_NOT_NUMERIC": "Der Wert der Frage muss numerisch sein.",
+    "ERROR_ANSWER_ALL_QUESTIONS": "Bitte beantworten Sie alle Fragen."
 }

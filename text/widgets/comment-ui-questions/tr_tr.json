@@ -9,5 +9,10 @@
     "BREAKDOWN_PASSIVES": "Pasifler",
     "BREAKDOWN_DETRACTORS": "Kötüleyenler",
     "BREAKDOWN_THUMBS_UP": "Beğeni",
-    "BREAKDOWN_THUMBS_DOWN": "Beğenmeme"
+    "BREAKDOWN_THUMBS_DOWN": "Beğenmeme",
+    "BREAKDOWN_TOP_ANSWER": "En popüler yanıt",
+    "ERROR_QUESTION_NOT_FOUND": "Bu soru bulunamadı.",
+    "ERROR_ANSWER_ALL_QUESTIONS": "Lütfen tüm soruları yanıtlayın.",
+    "ERROR_QUESTION_VALUE_NOT_NUMERIC": "Soru değeri sayısal olmalıdır.",
+    "ERROR_QUESTION_VALUE_OUT_OF_RANGE": "Soru değeri aralık dışında."
 }

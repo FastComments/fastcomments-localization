@@ -10,5 +10,10 @@
     "BREAKDOWN_PASSIVES": "Пассивные",
     "BREAKDOWN_DETRACTORS": "Критики",
     "BREAKDOWN_THUMBS_UP": "Палец вверх",
-    "BREAKDOWN_THUMBS_DOWN": "Палец вниз"
+    "BREAKDOWN_THUMBS_DOWN": "Палец вниз",
+    "BREAKDOWN_TOP_ANSWER": "Самый частый ответ",
+    "ERROR_QUESTION_NOT_FOUND": "Этот вопрос не найден.",
+    "ERROR_ANSWER_ALL_QUESTIONS": "Пожалуйста, ответьте на все вопросы.",
+    "ERROR_QUESTION_VALUE_NOT_NUMERIC": "Значение вопроса должно быть числовым.",
+    "ERROR_QUESTION_VALUE_OUT_OF_RANGE": "Значение вопроса выходит за пределы допустимого диапазона."
 }

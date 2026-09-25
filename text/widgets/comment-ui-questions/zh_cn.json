@@ -9,5 +9,10 @@
     "BREAKDOWN_PASSIVES": "中立者",
     "BREAKDOWN_DETRACTORS": "批评者",
     "BREAKDOWN_THUMBS_UP": "赞",
-    "BREAKDOWN_THUMBS_DOWN": "踩"
+    "BREAKDOWN_THUMBS_DOWN": "踩",
+    "BREAKDOWN_TOP_ANSWER": "最多人选",
+    "ERROR_ANSWER_ALL_QUESTIONS": "请回答所有问题。",
+    "ERROR_QUESTION_VALUE_OUT_OF_RANGE": "问题值不在范围内。",
+    "ERROR_QUESTION_NOT_FOUND": "没有找到该问题。",
+    "ERROR_QUESTION_VALUE_NOT_NUMERIC": "问题值必须为数值。"
 }
