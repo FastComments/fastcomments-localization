@@ -198,6 +198,8 @@
     "TEXT_HIDE_EMAIL_INPUTS_NOTE": "Uporabnikom ne bo nikoli treba vnesti svojega e-poštnega naslova, da bi lahko komentirali ali glasovali.",
     "LABEL_DEFAULT_USERNAME": "Privzeto uporabniško ime",
     "TEXT_DEFAULT_USERNAME_NOTE": "Privzeta vrednost vnosnega polja za uporabniško ime.",
+    "LABEL_AUTO_GENERATE_USERNAME": "Samodejno ustvari uporabniška imena",
+    "TEXT_AUTO_GENERATE_USERNAME_NOTE": "Vsak nov obiskovalec dobi edinstveno nevtralno uporabniško ime, na primer BraveOtter4172, vnaprej vpisano v polje za uporabniško ime. Še vedno ga lahko spremeni. To prevlada nad nastavitvijo Privzeto uporabniško ime.",
     "LABEL_ALLOW_ANONYMOUS_VOTES": "Dovoli anonimne glasove",
     "TEXT_ALLOW_ANONYMOUS_VOTES_NOTE": "Glasove bo mogoče oddati brez prijave ali vnosa uporabniškega imena in e-pošte.",
     "LABEL_ALLOW_ANONYMOUS_FLAGGING": "Dovoli anonimno prijavljanje",

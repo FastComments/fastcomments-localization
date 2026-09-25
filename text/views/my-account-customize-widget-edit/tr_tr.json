@@ -198,6 +198,8 @@
     "TEXT_HIDE_EMAIL_INPUTS_NOTE": "Kullanıcıların yorum yapmak veya oy vermek için asla e-posta adreslerini girmeleri gerekmeyecek.",
     "LABEL_DEFAULT_USERNAME": "Varsayılan Kullanıcı Adı",
     "TEXT_DEFAULT_USERNAME_NOTE": "Kullanıcı adı giriş alanının varsayılan değeri.",
+    "LABEL_AUTO_GENERATE_USERNAME": "Kullanıcı Adlarını Otomatik Oluştur",
+    "TEXT_AUTO_GENERATE_USERNAME_NOTE": "Her yeni ziyaretçi, BraveOtter4172 gibi benzersiz ve nötr bir kullanıcı adı alır; bu ad, kullanıcı adı alanına önceden doldurulur. Ziyaretçi yine de bunu değiştirebilir. Bu ayar, Varsayılan Kullanıcı Adı'nı geçersiz kılar.",
     "LABEL_ALLOW_ANONYMOUS_VOTES": "Anonim Oylara İzin Ver",
     "TEXT_ALLOW_ANONYMOUS_VOTES_NOTE": "Oy kullanmak için giriş yapmanıza veya kullanıcı adı ve e-posta adresi vermenize gerek kalmayacak.",
     "LABEL_ALLOW_ANONYMOUS_FLAGGING": "Anonim Şikayete İzin Ver",

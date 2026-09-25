@@ -198,6 +198,8 @@
     "TEXT_HIDE_EMAIL_INPUTS_NOTE": "Użytkownicy nigdy nie będą musieli podawać swojego adresu e-mail, aby móc komentować lub głosować.",
     "LABEL_DEFAULT_USERNAME": "Domyślna nazwa użytkownika",
     "TEXT_DEFAULT_USERNAME_NOTE": "Domyślna wartość pola wprowadzania nazwy użytkownika.",
+    "LABEL_AUTO_GENERATE_USERNAME": "Generuj nazwy użytkowników automatycznie",
+    "TEXT_AUTO_GENERATE_USERNAME_NOTE": "Każdy nowy odwiedzający otrzymuje unikalną, neutralną nazwę użytkownika, np. BraveOtter4172, wstępnie wpisaną w polu nazwy użytkownika. Nadal może ją zmienić. Ta opcja ma pierwszeństwo przed ustawieniem „Domyślna nazwa użytkownika”.",
     "LABEL_ALLOW_ANONYMOUS_VOTES": "Zezwalaj na głosy anonimowe",
     "TEXT_ALLOW_ANONYMOUS_VOTES_NOTE": "Głosować będzie można bez konieczności logowania się lub podawania nazwy użytkownika i adresu e-mail.",
     "LABEL_ALLOW_ANONYMOUS_FLAGGING": "Zezwalaj na anonimowe zgłaszanie",

@@ -164,7 +164,7 @@
         "my-account-customize-email-templates": 17,
         "my-account-customize-widget": 14,
         "my-account-customize-widget-delete": 5,
-        "my-account-customize-widget-edit": 293,
+        "my-account-customize-widget-edit": 295,
         "my-account-delete": 17,
         "my-account-delete-failure": 4,
         "my-account-delete-success": 5,
@@ -4798,7 +4798,9 @@
         "t290": "OPTION_POLLS_EVERYONE",
         "t291": "TEXT_POLL_CREATION_NOTE",
         "t292": "LABEL_ALLOW_ANONYMOUS_POLL_VOTES",
-        "t293": "TEXT_ALLOW_ANONYMOUS_POLL_VOTES_NOTE"
+        "t293": "TEXT_ALLOW_ANONYMOUS_POLL_VOTES_NOTE",
+        "t294": "LABEL_AUTO_GENERATE_USERNAME",
+        "t295": "TEXT_AUTO_GENERATE_USERNAME_NOTE"
     },
     "my-account-delete": {
         "t1": "PAGE_TITLE",

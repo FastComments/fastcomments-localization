@@ -198,6 +198,8 @@
     "TEXT_HIDE_EMAIL_INPUTS_NOTE": "ユーザーはコメントや投票をする際にメールアドレスを入力する必要がありません。",
     "LABEL_DEFAULT_USERNAME": "デフォルトのユーザー名",
     "TEXT_DEFAULT_USERNAME_NOTE": "ユーザー名入力フィールドのデフォルト値。",
+    "LABEL_AUTO_GENERATE_USERNAME": "ユーザー名を自動生成する",
+    "TEXT_AUTO_GENERATE_USERNAME_NOTE": "新規訪問者ごとに BraveOtter4172 のような一意で中立的なユーザー名が生成され、ユーザー名入力フィールドにあらかじめ入力されます。訪問者はこれを変更できます。この設定はデフォルトのユーザー名より優先されます。",
     "LABEL_ALLOW_ANONYMOUS_VOTES": "匿名投票を許可する",
     "TEXT_ALLOW_ANONYMOUS_VOTES_NOTE": "ログインしたり、ユーザー名やメールアドレスを入力しなくても投票できるようになります。",
     "LABEL_ALLOW_ANONYMOUS_FLAGGING": "匿名での通報を許可する",

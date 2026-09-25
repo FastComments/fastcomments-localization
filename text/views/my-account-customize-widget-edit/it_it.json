@@ -198,6 +198,8 @@
     "TEXT_HIDE_EMAIL_INPUTS_NOTE": "Gli utenti non dovranno mai inserire la propria email per commentare o votare.",
     "LABEL_DEFAULT_USERNAME": "Nome utente predefinito",
     "TEXT_DEFAULT_USERNAME_NOTE": "Valore predefinito del campo di input del nome utente.",
+    "LABEL_AUTO_GENERATE_USERNAME": "Genera i nomi utente automaticamente",
+    "TEXT_AUTO_GENERATE_USERNAME_NOTE": "Ogni nuovo visitatore riceve un nome utente neutro e univoco, come BraveOtter4172, precompilato nel campo del nome utente. Può comunque modificarlo. Questa opzione sostituisce il Nome utente predefinito.",
     "LABEL_ALLOW_ANONYMOUS_VOTES": "Consenti voti anonimi",
     "TEXT_ALLOW_ANONYMOUS_VOTES_NOTE": "Sarà possibile esprimere il proprio voto senza dover effettuare l'accesso o fornire un nome utente e un indirizzo email.",
     "LABEL_ALLOW_ANONYMOUS_FLAGGING": "Consenti segnalazione anonima",

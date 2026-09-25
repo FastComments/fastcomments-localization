@@ -198,6 +198,8 @@
     "TEXT_HIDE_EMAIL_INPUTS_NOTE": "Brugere behøver aldrig at indtaste deres e-mailadresse for at kommentere eller stemme.",
     "LABEL_DEFAULT_USERNAME": "Standardbrugernavn",
     "TEXT_DEFAULT_USERNAME_NOTE": "Standardværdien for brugernavnsfeltet.",
+    "LABEL_AUTO_GENERATE_USERNAME": "Generer brugernavne automatisk",
+    "TEXT_AUTO_GENERATE_USERNAME_NOTE": "Hver ny besøgende får et unikt, neutralt brugernavn som BraveOtter4172, der er udfyldt på forhånd i brugernavnsfeltet. Den besøgende kan stadig ændre det. Dette tilsidesætter standardbrugernavnet.",
     "LABEL_ALLOW_ANONYMOUS_VOTES": "Tillad anonyme stemmer",
     "TEXT_ALLOW_ANONYMOUS_VOTES_NOTE": "Det vil være muligt at stemme uden at være logget ind eller angive et brugernavn og en e-mail.",
     "LABEL_ALLOW_ANONYMOUS_FLAGGING": "Tillad anonym rapportering",

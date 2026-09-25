@@ -219,6 +219,8 @@
     "TEXT_HIDE_EMAIL_INPUTS_NOTE": "Users will never have to enter their email to comment or vote.",
     "LABEL_DEFAULT_USERNAME": "Default Username",
     "TEXT_DEFAULT_USERNAME_NOTE": "The default value of the username input field.",
+    "LABEL_AUTO_GENERATE_USERNAME": "Generate Usernames Automatically",
+    "TEXT_AUTO_GENERATE_USERNAME_NOTE": "Each new visitor gets a unique neutral username, like BraveOtter4172, prefilled in the username field. They can still change it. This overrides the Default Username.",
     "LABEL_ALLOW_ANONYMOUS_VOTES": "Allow Anonymous Votes",
     "TEXT_ALLOW_ANONYMOUS_VOTES_NOTE": "Votes will be able to be left without being logged in, or providing a username and email.",
     "LABEL_ALLOW_ANONYMOUS_FLAGGING": "Allow Anonymous Flagging",

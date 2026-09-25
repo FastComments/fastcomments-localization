@@ -198,6 +198,8 @@
     "TEXT_HIDE_EMAIL_INPUTS_NOTE": "使用者無需輸入電子郵件地址即可發表評論或投票。",
     "LABEL_DEFAULT_USERNAME": "預設使用者名稱",
     "TEXT_DEFAULT_USERNAME_NOTE": "使用者名稱輸入欄位的預設值。",
+    "LABEL_AUTO_GENERATE_USERNAME": "自動產生使用者名稱",
+    "TEXT_AUTO_GENERATE_USERNAME_NOTE": "每位新訪客都會獲得一個唯一的中性使用者名稱（例如 BraveOtter4172），並預先填入使用者名稱輸入欄位中。訪客仍可以修改。此設定會覆寫預設使用者名稱。",
     "LABEL_ALLOW_ANONYMOUS_VOTES": "允許匿名投票",
     "TEXT_ALLOW_ANONYMOUS_VOTES_NOTE": "使用者無需登入、無需提供使用者名稱和電子郵件即可投票。",
     "LABEL_ALLOW_ANONYMOUS_FLAGGING": "允許匿名檢舉",

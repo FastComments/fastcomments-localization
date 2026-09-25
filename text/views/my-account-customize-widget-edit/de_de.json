@@ -198,6 +198,8 @@
     "TEXT_HIDE_EMAIL_INPUTS_NOTE": "Benutzer müssen niemals ihre E-Mail-Adresse eingeben, um einen Kommentar abzugeben oder abzustimmen.",
     "LABEL_DEFAULT_USERNAME": "Standardbenutzername",
     "TEXT_DEFAULT_USERNAME_NOTE": "Der Standardwert des Eingabefelds für den Benutzernamen.",
+    "LABEL_AUTO_GENERATE_USERNAME": "Benutzernamen automatisch generieren",
+    "TEXT_AUTO_GENERATE_USERNAME_NOTE": "Jeder neue Besucher erhält einen eindeutigen, neutralen Benutzernamen wie BraveOtter4172, der im Eingabefeld für den Benutzernamen vorausgefüllt wird. Er kann ihn weiterhin ändern. Dies überschreibt den Standardbenutzernamen.",
     "LABEL_ALLOW_ANONYMOUS_VOTES": "Anonyme Abstimmungen zulassen",
     "TEXT_ALLOW_ANONYMOUS_VOTES_NOTE": "Die Abstimmung kann auch ohne Anmeldung oder Angabe eines Benutzernamens und einer E-Mail-Adresse erfolgen.",
     "LABEL_ALLOW_ANONYMOUS_FLAGGING": "Anonyme Meldungen zulassen",

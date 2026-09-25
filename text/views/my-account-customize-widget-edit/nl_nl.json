@@ -198,6 +198,8 @@
     "TEXT_HIDE_EMAIL_INPUTS_NOTE": "Gebruikers hoeven nooit hun e-mailadres in te voeren om te reageren of te stemmen.",
     "LABEL_DEFAULT_USERNAME": "Standaard gebruikersnaam",
     "TEXT_DEFAULT_USERNAME_NOTE": "De standaardwaarde van het gebruikersnaamveld.",
+    "LABEL_AUTO_GENERATE_USERNAME": "Gebruikersnamen automatisch genereren",
+    "TEXT_AUTO_GENERATE_USERNAME_NOTE": "Elke nieuwe bezoeker krijgt een unieke, neutrale gebruikersnaam, zoals BraveOtter4172, die vooraf wordt ingevuld in het gebruikersnaamveld. De bezoeker kan deze nog steeds wijzigen. Dit overschrijft de standaard gebruikersnaam.",
     "LABEL_ALLOW_ANONYMOUS_VOTES": "Anonieme stemmen toestaan",
     "TEXT_ALLOW_ANONYMOUS_VOTES_NOTE": "Het is mogelijk om te stemmen zonder ingelogd te zijn of een gebruikersnaam en e-mailadres op te geven.",
     "LABEL_ALLOW_ANONYMOUS_FLAGGING": "Anoniem rapporteren toestaan",

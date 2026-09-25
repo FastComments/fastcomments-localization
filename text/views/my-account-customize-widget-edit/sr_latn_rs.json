@@ -198,6 +198,8 @@
     "TEXT_HIDE_EMAIL_INPUTS_NOTE": "Korisnici nikada neće morati da unesu svoju e-poštu da komentarišu ili glasaju.",
     "LABEL_DEFAULT_USERNAME": "Uobičajeno korisničko ime",
     "TEXT_DEFAULT_USERNAME_NOTE": "Podrazumevana vrednost polja za unos korisničkog imena.",
+    "LABEL_AUTO_GENERATE_USERNAME": "Automatski generiši korisnička imena",
+    "TEXT_AUTO_GENERATE_USERNAME_NOTE": "Svaki novi posetilac dobija jedinstveno neutralno korisničko ime, poput BraveOtter4172, unapred upisano u polje za korisničko ime. I dalje može da ga promeni. Ovo ima prednost u odnosu na podešavanje Uobičajeno korisničko ime.",
     "LABEL_ALLOW_ANONYMOUS_VOTES": "Dozvolite anonimne glasove",
     "TEXT_ALLOW_ANONYMOUS_VOTES_NOTE": "Glasovi će moći da budu ostavljeni bez prijave ili pružanja korisničkog imena i e-pošte.",
     "LABEL_ALLOW_ANONYMOUS_FLAGGING": "Dozvoli anonimno prijavljivanje",

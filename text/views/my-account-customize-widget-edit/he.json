@@ -198,6 +198,8 @@
     "TEXT_HIDE_EMAIL_INPUTS_NOTE": "משתמשים לעולם לא יצטרכו להזין את כתובת האימייל שלהם כדי להגיב או להצביע.",
     "LABEL_DEFAULT_USERNAME": "שם משתמש ברירת מחדל",
     "TEXT_DEFAULT_USERNAME_NOTE": "ערך ברירת המחדל של שדה הקלט של שם המשתמש.",
+    "LABEL_AUTO_GENERATE_USERNAME": "צור שמות משתמש אוטומטית",
+    "TEXT_AUTO_GENERATE_USERNAME_NOTE": "כל מבקר חדש מקבל שם משתמש ייחודי וניטרלי, כמו BraveOtter4172, שממולא מראש בשדה שם המשתמש. הוא עדיין יכול לשנות אותו. אפשרות זו עוקפת את ההגדרה \"שם משתמש ברירת מחדל\".",
     "LABEL_ALLOW_ANONYMOUS_VOTES": "אפשר הצבעות אנונימיות",
     "TEXT_ALLOW_ANONYMOUS_VOTES_NOTE": "ניתן יהיה להצביע מבלי להתחבר, או למסור שם משתמש וכתובת דוא\"ל.",
     "LABEL_ALLOW_ANONYMOUS_FLAGGING": "אפשר דיווח אנונימי",

@@ -198,6 +198,8 @@
     "TEXT_HIDE_EMAIL_INPUTS_NOTE": "用户无需输入电子邮件地址即可发表评论或投票。",
     "LABEL_DEFAULT_USERNAME": "默认用户名",
     "TEXT_DEFAULT_USERNAME_NOTE": "用户名输入字段的默认值。",
+    "LABEL_AUTO_GENERATE_USERNAME": "自动生成用户名",
+    "TEXT_AUTO_GENERATE_USERNAME_NOTE": "每位新访客都会获得一个唯一的中性用户名（例如 BraveOtter4172），并预填在用户名输入字段中。访客仍可以修改。此设置会覆盖默认用户名。",
     "LABEL_ALLOW_ANONYMOUS_VOTES": "允许匿名投票",
     "TEXT_ALLOW_ANONYMOUS_VOTES_NOTE": "用户无需登录、无需提供用户名和电子邮件即可投票。",
     "LABEL_ALLOW_ANONYMOUS_FLAGGING": "允许匿名举报",

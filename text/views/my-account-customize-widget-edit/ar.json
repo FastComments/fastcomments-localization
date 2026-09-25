@@ -218,6 +218,8 @@
     "TEXT_ALLOW_ANONYMOUS_COMMENTS_NOTE": "ستظهر التعليقات المجهولة دائمًا على أنها غير موثقة.",
     "TEXT_PREVENT_REMOVAL_NOTE": "<b>لمنع إزالتها،</b> اضبط إعدادات الإشراف <a href=\"/auth/my-account/moderate-comments/settings\" target=\"_blank\">هنا</a>.",
     "TEXT_DEFAULT_USERNAME_NOTE": "القيمة الافتراضية لحقل إدخال اسم المستخدم.",
+    "LABEL_AUTO_GENERATE_USERNAME": "إنشاء أسماء المستخدمين تلقائيًا",
+    "TEXT_AUTO_GENERATE_USERNAME_NOTE": "يحصل كل زائر جديد على اسم مستخدم فريد ومحايد، مثل BraveOtter4172، يُملأ مسبقًا في حقل اسم المستخدم. ويظل بإمكانه تغييره. يتجاوز هذا الخيار \"اسم المستخدم الافتراضي\".",
     "LABEL_ALLOW_ANONYMOUS_VOTES": "السماح بالتصويت المجهول",
     "TEXT_HIDE_EMAIL_INPUTS_NOTE": "لن يضطر المستخدمون أبداً إلى إدخال بريدهم الإلكتروني للتعليق أو التصويت.",
     "TEXT_ALLOW_ANONYMOUS_FLAGGING_NOTE": "سيتمكن المستخدمون من الإبلاغ عن التعليقات دون الحاجة إلى تسجيل الدخول.",
