@@ -4,5 +4,10 @@
     "HEADING_BOLD": "FastComments!",
     "DESCRIPTION": "Enviamos uma mensagem. Para concluir o processo de inscrição, verifique o link enviado para o e-mail que você forneceu.",
     "MESSAGE_RESEND_SUCCESS": "E-mail reenviado com sucesso!",
-    "BUTTON_RESEND": "Reenviar e-mail de verificação"
+    "BUTTON_RESEND": "Reenviar e-mail de verificação",
+    "ERROR_RESEND_USER_NOT_FOUND": "Usuário não encontrado ou e-mail não corresponde.",
+    "ERROR_RESEND_NO_PENDING_SIGNUP": "Nenhum cadastro pendente encontrado.",
+    "ERROR_RESEND_RATE_LIMITED_MINUTE": "Você enviou muitas solicitações. Tente novamente em um minuto.",
+    "ERROR_RESEND_RATE_LIMITED_DAY": "Você excedeu o limite diário de e-mails. Tente novamente amanhã ou entre em contato com o suporte.",
+    "ERROR_RESEND_FAILED": "Ocorreu um erro ao reenviar o e-mail de verificação. Tente novamente mais tarde."
 }

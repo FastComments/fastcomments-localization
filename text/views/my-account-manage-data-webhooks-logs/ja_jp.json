@@ -38,5 +38,8 @@
     "RETENTION_INFO": "Webhook ログは 1 年間保持されます。",
     "N_A_VALUES_NOTE": "一部のエントリでは、必ずしも収集されなかった値に対して N/A が表示される場合があります。",
     "LOG_DETAILS_HEADING": "ログの詳細",
-    "CLOSE_BUTTON": "閉じる"
+    "CLOSE_BUTTON": "閉じる",
+    "EVENT_TYPE_CREATE": "作成",
+    "EVENT_TYPE_UPDATE": "更新",
+    "EVENT_TYPE_DELETE": "削除"
 }

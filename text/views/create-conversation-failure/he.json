@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "שיחה ",
     "HERO_TITLE_BOLD": "לא ניתן היה ליצור",
     "HERO_DESCRIPTION": "לא הצלחנו ליצור את השיחה שלך. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
-    "BUTTON_TRY_AGAIN": "נסה ליצור שיחה חדשה."
+    "BUTTON_TRY_AGAIN": "נסה ליצור שיחה חדשה.",
+    "ERROR_SIGN_IN": "אנא התחבר לחשבון שלך לפני יצירת שיחות.",
+    "ERROR_LIMIT_REACHED": "הגעת למספר השיחות המרבי עבור החשבון שלך (2 מיליון). כדי להגדיל מגבלה זו, פנה לתמיכה.",
+    "ERROR_NAME_TOO_LONG": "שם השיחה שלך חורג ממספר התווים המרבי המותר (300).",
+    "ERROR_ALREADY_EXISTS": "כבר קיימת שיחה בשם זה.",
+    "ERROR_NOT_FOUND": "לא ניתן היה למצוא את השיחה הזו.",
+    "ERROR_INTERNAL": "זו הייתה שגיאה פנימית. אנא דווח על כך לנציג שירות הלקוחות שלך."
 }

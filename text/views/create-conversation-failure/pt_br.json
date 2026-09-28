@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "Conversa ",
     "HERO_TITLE_BOLD": "Não foi possível criar",
     "HERO_DESCRIPTION": "Não foi possível criar sua conversa. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'Ocorreu um erro interno. Informe o seu representante de atendimento ao cliente.' %>",
-    "BUTTON_TRY_AGAIN": "Tente iniciar uma nova conversa."
+    "BUTTON_TRY_AGAIN": "Tente iniciar uma nova conversa.",
+    "ERROR_SIGN_IN": "Faça login no seu tenant antes de criar conversas.",
+    "ERROR_LIMIT_REACHED": "Você atingiu o número máximo de conversas do seu tenant (2 milhões). Para aumentar esse limite, entre em contato com o suporte.",
+    "ERROR_NAME_TOO_LONG": "O nome da conversa excede o número máximo de caracteres permitido (300).",
+    "ERROR_ALREADY_EXISTS": "Já existe uma conversa com esse nome.",
+    "ERROR_NOT_FOUND": "Não foi possível encontrar essa conversa.",
+    "ERROR_INTERNAL": "Ocorreu um erro interno. Informe o seu representante de atendimento ao cliente."
 }

@@ -213,9 +213,9 @@
     "HEADING_ADVANCED": "Разширено",
     "LABEL_SHOW_ADVANCED_OPTIONS": "Показване на разширени опции",
     "LABEL_USE_ABSOLUTE_DATES": "Да се използват абсолютни дати?",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Това ще показва дати като „<%= new Date().toLocaleString() %>“ вместо „точно сега“.",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Това ще показва дати като „<%= new Date().toLocaleString(htmlLang) %>“ вместо „точно сега“.",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "Да се използват както относителни, така и абсолютни дати?",
-    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Това ще показва дати като „точно сега (<%= new Date().toLocaleDateString() %>)“ вместо „точно сега“.",
+    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Това ще показва дати като „точно сега (<%= new Date().toLocaleDateString(htmlLang) %>)“ вместо „точно сега“.",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "HTML рендиране на коментари",
     "OPTION_RENDER_ALL": "Рендиране на всички (по подразбиране)",
     "OPTION_LINKS_AS_TEXT": "Връзки като текст.",
@@ -292,5 +292,8 @@
     "LABEL_ALLOW_EMBEDS": "Да се разреши ли вграждането на медийни файлове?",
     "LABEL_ALLOWED_EMBED_DOMAINS": "Допълнителни вградени домейни",
     "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Списък с допълнителни имена на хостове за вграждане, разделени със запетаи, които да бъдат разрешени в допълнение към вградените надеждни доставчици.",
-    "TEXT_ALLOW_EMBEDS_NOTE": "Позволява на коментиращите да вграждат видеоклипове и плейъри (YouTube, Vimeo, SoundCloud, Spotify и други), като поставят iframe-а на доставчика. Допускат се само доверени доставчици."
+    "TEXT_ALLOW_EMBEDS_NOTE": "Позволява на коментиращите да вграждат видеоклипове и плейъри (YouTube, Vimeo, SoundCloud, Spotify и други), като поставят iframe-а на доставчика. Допускат се само доверени доставчици.",
+    "TEXT_NO_TEXT_OVERRIDES": "В момента нямате замени на текст.",
+    "TABLE_HEADER_DEFAULT_TEXT": "Текст по подразбиране",
+    "TABLE_HEADER_OVERRIDE": "Замяна"
 }

@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "אין צורך להזין תת-דומיינים או שרת מקומי. עבור אתרים מרובים, יש להפריד ביניהם באמצעות פסיקים.",
     "TOS_TEXT": "על ידי לחיצה על צור חשבון, הנך מסכים <a href=\"/terms-of-service\" target=\"_blank\">לתנאי השירות</a> .",
     "BUTTON_CREATE_ACCOUNT": "צור חשבון",
-    "ERROR_SIGNUP_ALREADY_STARTED": "תהליך ההרשמה כבר החל ולא ניתן להגישו שוב. אולי רעננת את הדף?"
+    "ERROR_SIGNUP_ALREADY_STARTED": "תהליך ההרשמה כבר החל ולא ניתן להגישו שוב. אולי רעננת את הדף?",
+    "ERROR_INVALID_DOMAINS": "נראה שהדומיינים שסופקו אינם תקינים. אנא בדוק ושלח שוב.",
+    "ERROR_PACKAGE_REQUIRED": "יש לבחור חבילה.",
+    "ERROR_INVALID_PACKAGE": "נבחרה חבילה לא תקינה. אנא בחר חבילה תקינה.",
+    "ERROR_TEMPORARY_EMAIL": "איננו מקבלים כתובות אימייל זמניות.",
+    "ERROR_VALID_EMAIL_REQUIRED": "נדרשת כתובת אימייל תקינה.",
+    "ERROR_INPUT_TOO_LONG": "אוי! הזנת טקסט ארוך מדי.",
+    "ERROR_USERNAME_REQUIRED": "נדרש שם משתמש.",
+    "ERROR_EMAIL_REQUIRED": "נדרשת כתובת האימייל שלך.",
+    "ERROR_COMPANY_NAME_REQUIRED": "נדרש שם חברה.",
+    "ERROR_DOMAINS_REQUIRED": "נדרשת רשימת דומיינים מופרדים בפסיקים.",
+    "ERROR_INVALID_COUPON": "קוד הקופון אינו תקף.",
+    "ERROR_USERNAME_TAKEN": "אוי! שם המשתמש הזה כבר תפוס.",
+    "ERROR_CREATING_ACCOUNT": "אוי! אירעה שגיאה ביצירת החשבון שלך."
 }

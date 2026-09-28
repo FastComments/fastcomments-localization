@@ -41,7 +41,6 @@
     "TEXT_NO_PAGE_LIKES": "Rien à voir ici. Peut-être souhaitez-vous configurer le widget <a href=\"https://docs.fastcomments.com/guide-page-reacts.html\" target=\"_blank\">Page Reacts</a> ?",
     "TEXT_NO_USERS_ONLINE": "Aucun utilisateur n'est actuellement en ligne, ou aucun commentaire n'a été recueilli pour les pages où des utilisateurs sont en ligne.",
     "TEXT_NOTHING_TO_SEE": "Rien à voir ici.",
-    "HEADING_METRICS_BY_MONTH": "Métriques par <%= timePeriod === '12months' ? 'Month - Last 12 Months' : 'Day - Last 30 Days' %>",
     "TABLE_HEADER_MONTH": "Mois",
     "TABLE_HEADER_DAY": "Jour",
     "TABLE_HEADER_PAGE_LOADS": "Chargement de la page",
@@ -66,5 +65,7 @@
     "TABLE_HEADER_SYNC_REQUESTS_SUCCESS": "Réussite des requêtes de synchronisation",
     "TABLE_HEADER_SYNC_REQUESTS_FAILURE": "Échec des requêtes de synchronisation",
     "TABLE_HEADER_IMAGES_UPLOADED": "Images téléchargées",
-    "TABLE_HEADER_IMAGES_SIZE_BYTES": "Taille des images (octets)"
+    "TABLE_HEADER_IMAGES_SIZE_BYTES": "Taille des images (octets)",
+    "HEADING_METRICS_BY_MONTH_LAST_12_MONTHS": "Métriques par mois - 12 derniers mois",
+    "HEADING_METRICS_BY_DAY_LAST_30_DAYS": "Métriques par jour - 30 derniers jours"
 }

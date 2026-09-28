@@ -3,5 +3,16 @@
     "HEADING": "WordPress Connect",
     "MESSAGE_IMPORTING": "Wir importieren gerade Ihre Kommentare, um sie Ihnen von Ihrem Blog bereitzustellen. Sie können diese Seite geöffnet lassen oder sie schließen. Wir benachrichtigen Sie per E-Mail, sobald der Vorgang abgeschlossen ist. Um später den Status zu überprüfen, klicken Sie einfach oben auf die Schaltfläche „Importieren/Exportieren“.",
     "MESSAGE_LOADING": "...Laden...",
-    "MESSAGE_AFTER_DONE": "Nach Abschluss dieses Vorgangs synchronisieren wir Ihre Kommentare mit Ihrer WordPress-Website, sodass Sie keine Daten verlieren, falls Sie FastComments jemals deaktivieren."
+    "MESSAGE_AFTER_DONE": "Nach Abschluss dieses Vorgangs synchronisieren wir Ihre Kommentare mit Ihrer WordPress-Website, sodass Sie keine Daten verlieren, falls Sie FastComments jemals deaktivieren.",
+    "STATUS_POWERING_UP": "Wird gestartet...",
+    "STATUS_IMPORTED_COUNT": "[count] von [total] Kommentaren importiert...",
+    "STATUS_DETERMINING_COUNT": "Anzahl der Kommentare wird ermittelt...",
+    "STATUS_ALL_SET": "Alles bereit! FastComments sollte jetzt in Ihrem Blog aktiviert sein.",
+    "STATUS_CLOSE_PAGE": "Sie können diese Seite jetzt schließen.",
+    "STATUS_SETUP_BILLING_LINK": "Klicken Sie als Nächstes hier, um Ihre Zahlungsinformationen einzurichten.",
+    "STATUS_IMPORT_FAILED": "Oh nein, ein Fehler ist aufgetreten! Wenn das Problem weiterhin besteht, wenden Sie sich bitte an den Support.",
+    "STATUS_IMPORT_EXPIRED": "Dieser Import wurde anscheinend schon vor einiger Zeit durchgeführt. Sie können dieses Fenster schließen.",
+    "ERROR_INVALID_URL": "Oh nein! Die URL scheint ungültig zu sein.",
+    "ERROR_SESSION_EXPIRED": "Oh nein! Ihre Sitzung ist anscheinend abgelaufen. Melden Sie sich erneut an und laden Sie diese Seite neu.",
+    "ERROR_GENERIC": "Oh nein! Da ist etwas schiefgelaufen!"
 }

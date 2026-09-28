@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Tilmelding mislykkedes",
     "HEADING_LIGHT": "Tilmeld dig ",
-    "HEADING_BOLD": "Mislykkedes"
+    "HEADING_BOLD": "Mislykkedes",
+    "ERROR_EXPIRED": "Denne URL er udløbet. Har du allerede brugt denne URL?",
+    "ERROR_USER_NOT_FOUND": "Vi kunne ikke finde den bruger. Er din URL korrekt?",
+    "ERROR_INTERNAL": "Der opstod en intern fejl."
 }

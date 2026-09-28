@@ -2,7 +2,13 @@
     "META_DESCRIPTION": "تواصل مع FastComments.com",
     "PAGE_TITLE": "تعذّر إنشاء المحادثة - FastComments",
     "HERO_TITLE_LIGHT": "تعذّر إنشاء ",
-    "HERO_DESCRIPTION": "لم نتمكن من إنشاء محادثتك. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
+    "HERO_DESCRIPTION": "لم نتمكن من إنشاء محادثتك. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'حدث خطأ داخلي. يرجى إبلاغ ممثل خدمة العملاء لديك بذلك.' %>",
     "HERO_TITLE_BOLD": "المحادثة",
-    "BUTTON_TRY_AGAIN": "حاول إنشاء محادثة جديدة."
+    "BUTTON_TRY_AGAIN": "حاول إنشاء محادثة جديدة.",
+    "ERROR_SIGN_IN": "يرجى تسجيل الدخول إلى حسابك قبل إنشاء المحادثات.",
+    "ERROR_LIMIT_REACHED": "لقد بلغت الحد الأقصى لعدد المحادثات في حسابك (مليونا محادثة). لرفع هذا الحد، تواصل مع فريق الدعم.",
+    "ERROR_NAME_TOO_LONG": "يتجاوز اسم المحادثة الحد الأقصى المسموح به من الأحرف (300).",
+    "ERROR_ALREADY_EXISTS": "توجد محادثة بهذا الاسم بالفعل.",
+    "ERROR_NOT_FOUND": "تعذّر العثور على هذه المحادثة.",
+    "ERROR_INTERNAL": "حدث خطأ داخلي. يرجى إبلاغ ممثل خدمة العملاء لديك بذلك."
 }

@@ -14,5 +14,8 @@
     "ERROR_CANNOT_DELETE_REQUIRED": "Bu dosya zorunludur ve silinemez.",
     "TAB_LOCALIZATIONS": "Yerelleştirmeler",
     "TEXT_LOCALIZATIONS_INFO": "Sitenizin temasında kullanılan varsayılan metin dizelerini özelleştirin. Değişiklikler yalnızca seçilen dil için geçerlidir.",
-    "LABEL_CUSTOMIZE_FOR_LOCALE": "Yerel ayarlara göre özelleştirin:"
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Yerel ayarlara göre özelleştirin:",
+    "LABEL_CUSTOMIZE_VALUE": "\"[value]\" öğesini özelleştir",
+    "OVERRIDES_COUNT": "[count] özelleştirme",
+    "CONFIRM_UNSAVED_CHANGES": "Kaydedilmemiş değişiklikleriniz var."
 }

@@ -38,5 +38,8 @@
     "RETENTION_INFO": "Les journaux des webhooks sont conservés pendant un an.",
     "N_A_VALUES_NOTE": "Certaines entrées peuvent afficher N/A pour des valeurs que nous n'avons pas toujours collectées.",
     "LOG_DETAILS_HEADING": "Détails du journal",
-    "CLOSE_BUTTON": "Fermer"
+    "CLOSE_BUTTON": "Fermer",
+    "EVENT_TYPE_CREATE": "Création",
+    "EVENT_TYPE_UPDATE": "Mise à jour",
+    "EVENT_TYPE_DELETE": "Suppression"
 }

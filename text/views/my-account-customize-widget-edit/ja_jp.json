@@ -213,9 +213,9 @@
     "HEADING_ADVANCED": "高度な",
     "LABEL_SHOW_ADVANCED_OPTIONS": "詳細オプションを表示",
     "LABEL_USE_ABSOLUTE_DATES": "絶対日付を使用しますか?",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "これにより、「たった今」ではなく「<%= new Date().toLocaleString() %>」のような日付が表示されます。",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "これにより、「just now」ではなく「<%= new Date().toLocaleString(htmlLang) %>」のような日付が表示されます。",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "相対日付と絶対日付の両方を使用しますか?",
-    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "これにより、「たった今」ではなく「たった今 (<%= new Date().toLocaleDateString() %>)」のような日付が表示されます。",
+    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "これにより、「just now (<%= new Date().toLocaleDateString(htmlLang) %>)」のように日付が表示されるようになり、「just now」と表示されることはなくなります。",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "コメントのHTMLレンダリング",
     "OPTION_RENDER_ALL": "すべてをレンダリング（デフォルト）",
     "OPTION_LINKS_AS_TEXT": "テキストとしてのリンク。",
@@ -292,5 +292,8 @@
     "TEXT_ALLOW_EMBEDS_NOTE": "コメント投稿者は、プロバイダーのiframeを貼り付けることで、動画やプレーヤー（YouTube、Vimeo、SoundCloud、Spotifyなど）を埋め込むことができます。信頼できるプロバイダーのみが許可されます。",
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com、embed.example.com",
     "LABEL_ALLOWED_EMBED_DOMAINS": "追加の埋め込みドメイン",
-    "LABEL_ALLOW_EMBEDS": "メディア埋め込みを許可しますか？"
+    "LABEL_ALLOW_EMBEDS": "メディア埋め込みを許可しますか？",
+    "TEXT_NO_TEXT_OVERRIDES": "現在、テキストのオーバーライドはありません。",
+    "TABLE_HEADER_DEFAULT_TEXT": "デフォルトのテキスト",
+    "TABLE_HEADER_OVERRIDE": "オーバーライド"
 }

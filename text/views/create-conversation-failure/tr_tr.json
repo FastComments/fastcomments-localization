@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "Konuşma ",
     "HERO_TITLE_BOLD": "Oluşturulamadı",
     "HERO_DESCRIPTION": "Konuşmanızı oluşturamadık. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
-    "BUTTON_TRY_AGAIN": "Yeni bir konuşma başlatmayı deneyin."
+    "BUTTON_TRY_AGAIN": "Yeni bir konuşma başlatmayı deneyin.",
+    "ERROR_SIGN_IN": "Konuşma oluşturmadan önce lütfen hesabınıza giriş yapın.",
+    "ERROR_LIMIT_REACHED": "Hesabınız için izin verilen maksimum konuşma sayısına (2 milyon) ulaştınız. Bu sınırı artırmak için destek ekibiyle iletişime geçin.",
+    "ERROR_NAME_TOO_LONG": "Konuşma adınız izin verilen maksimum karakter sayısını (300) aşıyor.",
+    "ERROR_ALREADY_EXISTS": "Bu ada sahip bir konuşma zaten var.",
+    "ERROR_NOT_FOUND": "Bu konuşma bulunamadı.",
+    "ERROR_INTERNAL": "Bu bir dahili hataydı. Lütfen bunu müşteri hizmetleri temsilcinize bildirin."
 }

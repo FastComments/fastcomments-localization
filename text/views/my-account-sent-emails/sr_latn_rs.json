@@ -19,5 +19,8 @@
     "MESSAGE_NO_EMAILS": "Nemate poslate e-poruke.",
     "VALUE_UNKNOWN": "Nepoznato",
     "VALUE_NO_SUBJECT": "(Nema predmeta)",
-    "VALUE_NA": "N/D"
+    "VALUE_NA": "N/D",
+    "ERROR_VERIFY_EMAIL": "Potvrdite svoju imejl adresu da biste pristupili poslatim imejlovima. Proverite prijemno sanduče za imejl za verifikaciju ili ga ponovo pošaljite iz podešavanja naloga.",
+    "ERROR_LOAD_SENT_EMAILS": "Učitavanje poslatih imejlova nije uspelo. Pokušajte ponovo kasnije.",
+    "ERROR_LOAD_EMAIL_DETAIL": "Učitavanje detalja imejla nije uspelo. Pokušajte ponovo kasnije."
 }

@@ -22,5 +22,18 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "根据地区进行自定义",
     "TEXT_TEST_DATA_INFO": "您可以在此处定义预览中使用的自定义测试数据。它将与模板一起保存。",
     "BUTTON_RESET_TEST_DATA": "重置",
-    "BUTTON_SAVE": "保存"
+    "BUTTON_SAVE": "保存",
+    "LABEL_CUSTOMIZE_VALUE": "自定义“[value]”",
+    "OVERRIDES_COUNT": "[count] 项覆盖",
+    "ERROR_LOAD_FAILED": "无法加载此模板。请稍后再试或联系支持团队。",
+    "CONFIRM_UNSAVED_CHANGES": "您有未保存的更改，确定要离开吗？",
+    "ERROR_DOES_NOT_RENDER": "电子邮件模板无法成功渲染，因此无法保存。请修复所有错误后重试。",
+    "ERROR_SAVE_REQUEST_FAILED": "上一次保存请求失败。请稍后再试。",
+    "BUTTON_SAVING": "正在保存...",
+    "BUTTON_SAVED": "保存成功！",
+    "BUTTON_SAVE_FAILED": "保存失败！",
+    "BUTTON_NAVIGATING_TO_NEW": "正在跳转到新模板...",
+    "BUTTON_CLEARING": "正在清除...",
+    "BUTTON_CLEARED": "已清除！",
+    "BUTTON_CLEAR_FAILED": "清除失败！"
 }

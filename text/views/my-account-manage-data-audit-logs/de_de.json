@@ -43,5 +43,9 @@
     "TABLE_TENANT": "Mandant",
     "DATE_PRESET_CUSTOM": "Benutzerdefinierter Zeitraum",
     "FILTER_BY_AFFECTED": "Wer oder was wurde geändert",
-    "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, E-Mail-Adresse oder ID"
+    "FILTER_BY_AFFECTED_PLACEHOLDER": "Name, E-Mail-Adresse oder ID",
+    "FROM_UI": "Oberfläche",
+    "FROM_API": "API",
+    "FROM_CRON": "Cron-Job",
+    "VALUE_N_A": "k. A."
 }

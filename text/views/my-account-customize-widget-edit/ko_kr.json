@@ -213,9 +213,9 @@
     "HEADING_ADVANCED": "고급의",
     "LABEL_SHOW_ADVANCED_OPTIONS": "고급 옵션 표시",
     "LABEL_USE_ABSOLUTE_DATES": "절대 날짜를 사용하시나요?",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "이렇게 하면 \"방금 전\" 대신 \"<%= new Date().toLocaleString() %>\"과 같은 형식으로 날짜가 표시됩니다.",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "이렇게 하면 \"방금 전\" 대신 \"<%= new Date().toLocaleString(htmlLang) %>\"과 같은 형식으로 날짜가 표시됩니다.",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "상대 날짜와 절대 날짜를 모두 사용하시나요?",
-    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "이렇게 하면 날짜가 \"방금 전(<%= new Date().toLocaleDateString() %>)\" 대신 \"방금 전\"과 같이 표시됩니다.",
+    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "이렇게 하면 날짜가 \"방금 전(<%= new Date().toLocaleDateString(htmlLang) %>)\" 대신 \"방금 전\"과 같이 표시됩니다.",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "HTML 렌더링에 대한 댓글",
     "OPTION_RENDER_ALL": "모두 렌더링(기본값)",
     "OPTION_LINKS_AS_TEXT": "링크를 텍스트로 표시합니다.",
@@ -292,5 +292,8 @@
     "LABEL_ALLOW_EMBEDS": "미디어 삽입을 허용하시겠습니까?",
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
     "LABEL_ALLOWED_EMBED_DOMAINS": "추가 임베드 도메인",
-    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "기본 제공되는 신뢰할 수 있는 공급자 외에 추가로 허용할 임베드 호스트 이름을 쉼표로 구분하여 나열합니다."
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "기본 제공되는 신뢰할 수 있는 공급자 외에 추가로 허용할 임베드 호스트 이름을 쉼표로 구분하여 나열합니다.",
+    "TEXT_NO_TEXT_OVERRIDES": "현재 텍스트 재정의가 없습니다.",
+    "TABLE_HEADER_DEFAULT_TEXT": "기본 텍스트",
+    "TABLE_HEADER_OVERRIDE": "재정의"
 }

@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "Não é necessário inserir subdomínios ou localhost. Para vários sites, separe-os com vírgulas.",
     "TOS_TEXT": "Ao clicar em Criar conta, você concorda com os <a href=\"/terms-of-service\" target=\"_blank\">Termos de Serviço</a> .",
     "BUTTON_CREATE_ACCOUNT": "Criar uma conta",
-    "ERROR_SIGNUP_ALREADY_STARTED": "O processo de cadastro já foi iniciado e não pode ser enviado novamente. Talvez você tenha atualizado a página?"
+    "ERROR_SIGNUP_ALREADY_STARTED": "O processo de cadastro já foi iniciado e não pode ser enviado novamente. Talvez você tenha atualizado a página?",
+    "ERROR_INVALID_DOMAINS": "Parece que os domínios informados são inválidos. Revise-os e envie novamente.",
+    "ERROR_PACKAGE_REQUIRED": "É necessário selecionar um pacote.",
+    "ERROR_INVALID_PACKAGE": "Pacote selecionado inválido. Escolha um pacote válido.",
+    "ERROR_TEMPORARY_EMAIL": "Não aceitamos endereços de e-mail temporários.",
+    "ERROR_VALID_EMAIL_REQUIRED": "É necessário um e-mail válido.",
+    "ERROR_INPUT_TOO_LONG": "Ah não! Você digitou um texto longo demais.",
+    "ERROR_USERNAME_REQUIRED": "É necessário um nome de usuário.",
+    "ERROR_EMAIL_REQUIRED": "Seu e-mail é obrigatório.",
+    "ERROR_COMPANY_NAME_REQUIRED": "É necessário o nome da empresa.",
+    "ERROR_DOMAINS_REQUIRED": "É necessária uma lista de domínios separados por vírgulas.",
+    "ERROR_INVALID_COUPON": "Esse código de cupom não é válido.",
+    "ERROR_USERNAME_TAKEN": "Ah não! Esse nome de usuário já está em uso.",
+    "ERROR_CREATING_ACCOUNT": "Ah não! Ocorreu um erro ao criar sua conta."
 }

@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "サブドメインやローカルホストを入力する必要はありません。複数のサイトを指定する場合は、カンマで区切ってください。",
     "TOS_TEXT": "「アカウントを作成」をクリックすると、<a href=\"/terms-of-service\" target=\"_blank\">利用規約</a>に同意したことになります。",
     "BUTTON_CREATE_ACCOUNT": "アカウントを作成する",
-    "ERROR_SIGNUP_ALREADY_STARTED": "登録手続きはすでに開始されており、再度送信することはできません。ページを更新しましたか？"
+    "ERROR_SIGNUP_ALREADY_STARTED": "登録手続きはすでに開始されており、再度送信することはできません。ページを更新しましたか？",
+    "ERROR_INVALID_DOMAINS": "入力されたドメインが無効のようです。内容を確認して、もう一度送信してください。",
+    "ERROR_PACKAGE_REQUIRED": "パッケージの選択は必須です。",
+    "ERROR_INVALID_PACKAGE": "無効なパッケージが選択されました。有効なパッケージを選択してください。",
+    "ERROR_TEMPORARY_EMAIL": "使い捨てメールアドレスはご利用いただけません。",
+    "ERROR_VALID_EMAIL_REQUIRED": "有効なメールアドレスが必要です。",
+    "ERROR_INPUT_TOO_LONG": "申し訳ありません！入力内容が長すぎます。",
+    "ERROR_USERNAME_REQUIRED": "ユーザー名は必須です。",
+    "ERROR_EMAIL_REQUIRED": "メールアドレスは必須です。",
+    "ERROR_COMPANY_NAME_REQUIRED": "会社名は必須です。",
+    "ERROR_DOMAINS_REQUIRED": "カンマ区切りのドメイン一覧が必要です。",
+    "ERROR_INVALID_COUPON": "そのクーポンコードは無効です。",
+    "ERROR_USERNAME_TAKEN": "申し訳ありません！そのユーザー名はすでに使用されています。",
+    "ERROR_CREATING_ACCOUNT": "申し訳ありません！アカウントの作成中にエラーが発生しました。"
 }

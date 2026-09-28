@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "E-mail verzonden op <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "PAGE_TITLE": "E-mail verzonden op <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> - FastComments",
     "BUTTON_BACK": "← Terug naar verzonden e-mails",
-    "HEADING": "E-mail verzonden op <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "HEADING": "E-mail verzonden op <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>",
     "LABEL_DATE": "Datum:",
     "LABEL_FROM": "Van:",
     "LABEL_TO": "Naar:",

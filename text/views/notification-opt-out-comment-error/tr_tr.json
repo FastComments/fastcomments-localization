@@ -1,5 +1,10 @@
 {
     "PAGE_TITLE": "Bildirim Aboneliğinden Çıkma Başarısız",
     "HEADING_LIGHT": "Abonelikten çık ",
-    "HEADING_BOLD": "Başarısız"
+    "HEADING_BOLD": "Başarısız",
+    "ERROR_INVALID_LINK": "Bu bağlantı yanlış ya da süresi dolmuş görünüyor.",
+    "ERROR_ACCOUNT_NOT_FOUND": "Hesabınızı bulamadık.",
+    "ERROR_COMMENT_NOT_FOUND": "Bildirimlerinden çıkmaya çalıştığınız yorumu bulamadık. Silinmiş olabilir ya da bağlantınız geçersiz olabilir.",
+    "ERROR_ALREADY_OPTED_OUT": "... çünkü bu gönderinin bildirimlerinden zaten çıktınız! İyi günler dileriz.",
+    "ERROR_OPT_OUT_FAILED": "Sizi bildirimlerden çıkaramadık ve nedenini bilmiyoruz. Lütfen daha sonra tekrar deneyin."
 }

@@ -4,5 +4,10 @@
     "HEADING_BOLD": "FastComments!",
     "DESCRIPTION": "Abbiamo inviato un messaggio. Per completare la procedura di registrazione, controlla il link inviato all'indirizzo email che hai fornito.",
     "MESSAGE_RESEND_SUCCESS": "Email reinviata con successo!",
-    "BUTTON_RESEND": "Invia nuovamente l'email di verifica"
+    "BUTTON_RESEND": "Invia nuovamente l'email di verifica",
+    "ERROR_RESEND_USER_NOT_FOUND": "Utente non trovato o email non corrispondente.",
+    "ERROR_RESEND_NO_PENDING_SIGNUP": "Nessuna registrazione in sospeso trovata.",
+    "ERROR_RESEND_RATE_LIMITED_MINUTE": "Hai inviato troppe richieste. Riprova tra un minuto.",
+    "ERROR_RESEND_RATE_LIMITED_DAY": "Hai superato il limite giornaliero di email. Riprova domani o contatta l'assistenza.",
+    "ERROR_RESEND_FAILED": "Si è verificato un errore durante il reinvio dell'email di verifica. Riprova più tardi."
 }

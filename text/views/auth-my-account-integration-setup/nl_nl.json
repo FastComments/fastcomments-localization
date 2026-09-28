@@ -28,5 +28,18 @@
     "TITLE_FETCH_EVENTS": "Synchronisatieverzoek",
     "DESC_FETCH_EVENTS": "De integratie heeft het gebeurtenislogboek opgevraagd voor de nieuwste reacties en gerelateerde gegevens.",
     "TITLE_GET_COMMENTS": "Reacties ophalen...",
-    "DESC_GET_COMMENTS": "De integratie heeft reactiegegevens opgevraagd."
+    "DESC_GET_COMMENTS": "De integratie heeft reactiegegevens opgevraagd.",
+    "TITLE_NO_LOGS": "Geen logboeken",
+    "DESC_NO_LOGS_EXPIRED": "Er zijn geen logboeken gevonden. Het lijkt erop dat ze zijn verlopen.",
+    "DESC_NO_LOGS_EXPIRED_SETUP_DONE": "Er zijn geen logboeken gevonden. Het lijkt erop dat ze zijn verlopen. We zien echter wel dat de installatie is voltooid.",
+    "ALT_DONE": "Klaar",
+    "TITLE_ALL_SET": "Alles is klaar!",
+    "DESC_SETUP_COMPLETED": "De eerste installatie is voltooid! De integratie is nu live.",
+    "HEADING_NEXT_STEPS": "Volgende stappen",
+    "BUTTON_DOCUMENTATION": "Documentatie",
+    "BUTTON_CUSTOMIZE": "Aanpassen",
+    "BUTTON_ADD_MODERATORS": "Moderators toevoegen",
+    "BUTTON_ADD_ADMINS": "Beheerders toevoegen",
+    "HEADING_SETUP_COMPLETED": "Installatie voltooid.",
+    "SUBHEADING_SETUP_LOG": "Installatielogboek"
 }

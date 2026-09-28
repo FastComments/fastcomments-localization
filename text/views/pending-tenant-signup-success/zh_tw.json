@@ -4,5 +4,10 @@
     "HEADING_BOLD": "FastComments！",
     "DESCRIPTION": "我們已寄出郵件。請查看您提供的信箱，郵件中附有連結，以完成註冊流程。",
     "MESSAGE_RESEND_SUCCESS": "郵件重新寄送成功！",
-    "BUTTON_RESEND": "重新寄送驗證郵件"
+    "BUTTON_RESEND": "重新寄送驗證郵件",
+    "ERROR_RESEND_USER_NOT_FOUND": "找不到使用者或電子郵件不符。",
+    "ERROR_RESEND_NO_PENDING_SIGNUP": "找不到待處理的註冊。",
+    "ERROR_RESEND_RATE_LIMITED_MINUTE": "您傳送的請求過多。請一分鐘後再試。",
+    "ERROR_RESEND_RATE_LIMITED_DAY": "您已超出每日郵件寄送上限。請明天再試或聯絡支援團隊。",
+    "ERROR_RESEND_FAILED": "重新寄送驗證郵件時發生錯誤。請稍後再試。"
 }

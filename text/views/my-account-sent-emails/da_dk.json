@@ -19,5 +19,8 @@
     "MESSAGE_NO_EMAILS": "Du har ingen sendte e-mails.",
     "VALUE_UNKNOWN": "Ukendt",
     "VALUE_NO_SUBJECT": "(Intet emne)",
-    "VALUE_NA": "Ikke tilgængelig"
+    "VALUE_NA": "Ikke tilgængelig",
+    "ERROR_VERIFY_EMAIL": "Bekræft din e-mailadresse for at få adgang til sendte e-mails. Se efter bekræftelsesmailen i din indbakke, eller send den igen fra dine kontoindstillinger.",
+    "ERROR_LOAD_SENT_EMAILS": "Sendte e-mails kunne ikke indlæses. Prøv igen senere.",
+    "ERROR_LOAD_EMAIL_DETAIL": "E-mailens detaljer kunne ikke indlæses. Prøv igen senere."
 }

@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "Poslana e-pošta <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "PAGE_TITLE": "Poslana e-pošta <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> - Brzi komentari",
     "BUTTON_BACK": "← Natrag na poslane e-poruke",
-    "HEADING": "Poslana e-pošta <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "HEADING": "Poslana e-pošta <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>",
     "LABEL_DATE": "Datum:",
     "LABEL_FROM": "Šalje:",
     "LABEL_TO": "Prima:",

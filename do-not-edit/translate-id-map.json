@@ -21,12 +21,12 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 24,
         "comment-count": 6,
-        "comment-ui": 618,
+        "comment-ui": 640,
         "recent-comments": 39,
         "top-pages": 3,
         "recent-discussions": 3,
         "user-help-acknowledged": 6,
-        "common": 37,
+        "common": 38,
         "tenant-user-removed-from-tenant": 5,
         "tenant-user-invite": 6,
         "tenant-new-user-invite": 6,
@@ -64,7 +64,7 @@
         "comment-list-manager": 337,
         "confirm-dialog-component": 2,
         "dialog-component": 2,
-        "header-component": 41,
+        "header-component": 43,
         "localized-list": 3,
         "manage-my-badges-dialog-component": 16,
         "moderate-user-badges-dialog-component": 13,
@@ -74,7 +74,7 @@
         "my-profile-tile": 2,
         "my-top-contribution-tile": 3,
         "my-top-pages-tile": 6,
-        "ordered-selector-component": 1,
+        "ordered-selector-component": 5,
         "paginate-component": 3,
         "search-component": 6,
         "small-number-tile": 2,
@@ -91,7 +91,7 @@
         "amptest": 2,
         "auth-login-link-failure": 5,
         "auth-my-account-integration-confirm": 10,
-        "auth-my-account-integration-setup": 36,
+        "auth-my-account-integration-setup": 49,
         "auth-my-account-integration-setup-failure": 4,
         "auth-my-account-integration-token-failed": 6,
         "calculator-v2": 75,
@@ -110,12 +110,12 @@
         "contact-us": 62,
         "cookie-auth-window": 7,
         "create-conversation": 24,
-        "create-conversation-failure": 6,
+        "create-conversation-failure": 12,
         "create-conversation-success": 10,
-        "dashboard_common": 126,
+        "dashboard_common": 127,
         "demo": 44,
         "error": 11,
-        "global-distribution": 44,
+        "global-distribution": 49,
         "homepage-email-opt-out": 5,
         "index": 426,
         "layout-v2": 1,
@@ -132,7 +132,7 @@
         "moderator-join-success": 6,
         "my-account": 5,
         "my-account-affiliates": 26,
-        "my-account-analytics": 72,
+        "my-account-analytics": 74,
         "my-account-api": 16,
         "my-account-api-secret": 15,
         "my-account-api-secret-add": 7,
@@ -158,13 +158,13 @@
         "my-account-configure-domains-remove-confirm": 6,
         "my-account-configure-domains-success": 4,
         "my-account-coupons": 22,
-        "my-account-customize-email-template": 27,
+        "my-account-customize-email-template": 44,
         "my-account-customize-email-template-delete": 5,
         "my-account-customize-email-template-delete-success": 4,
         "my-account-customize-email-templates": 17,
         "my-account-customize-widget": 14,
         "my-account-customize-widget-delete": 5,
-        "my-account-customize-widget-edit": 295,
+        "my-account-customize-widget-edit": 298,
         "my-account-delete": 17,
         "my-account-delete-failure": 4,
         "my-account-delete-success": 5,
@@ -177,7 +177,7 @@
         "my-account-edit-details": 33,
         "my-account-edit-details-change-password": 7,
         "my-account-edit-details-change-password-do": 14,
-        "my-account-edit-notifications": 48,
+        "my-account-edit-notifications": 49,
         "my-account-feedback-analytics": 24,
         "my-account-get-code": 22,
         "my-account-help": 22,
@@ -191,11 +191,11 @@
         "my-account-installation-wizard": 125,
         "my-account-licenses": 15,
         "my-account-manage-data": 12,
-        "my-account-manage-data-audit-logs": 51,
+        "my-account-manage-data-audit-logs": 55,
         "my-account-manage-data-copy-comments": 30,
         "my-account-manage-data-copy-comments-table": 0,
         "my-account-manage-data-export": 27,
-        "my-account-manage-data-export-table": 17,
+        "my-account-manage-data-export-table": 18,
         "my-account-manage-data-import": 99,
         "my-account-manage-data-import-logs": 10,
         "my-account-manage-data-import-scheduled-comments": 61,
@@ -212,7 +212,7 @@
         "my-account-manage-data-webhook": 2,
         "my-account-manage-data-webhooks": 99,
         "my-account-manage-data-webhooks-for-domain": 5,
-        "my-account-manage-data-webhooks-logs": 40,
+        "my-account-manage-data-webhooks-logs": 43,
         "my-account-managed-tenants-create": 24,
         "my-account-managed-tenants-create-success": 9,
         "my-account-moderate-comments": 37,
@@ -240,7 +240,7 @@
         "my-account-question-configs-table": 6,
         "my-account-saml-config": 63,
         "my-account-sent-email-detail": 13,
-        "my-account-sent-emails": 21,
+        "my-account-sent-emails": 24,
         "my-account-tenant-delete": 125,
         "my-account-tenants": 37,
         "my-account-ticket": 71,
@@ -258,20 +258,20 @@
         "my-account-widgets": 32,
         "my-account-wp-connect": 11,
         "my-account-wp-sso-enable": 9,
-        "my-account-wp-sync": 5,
-        "notification-opt-out-all-failure": 3,
+        "my-account-wp-sync": 16,
+        "notification-opt-out-all-failure": 6,
         "notification-opt-out-all-success": 6,
-        "notification-opt-out-all-undo-failure": 3,
+        "notification-opt-out-all-undo-failure": 6,
         "notification-opt-out-all-undo-success": 6,
-        "notification-opt-out-comment-error": 3,
+        "notification-opt-out-comment-error": 8,
         "notification-opt-out-comment-success": 5,
-        "pending-tenant-signup-success": 6,
+        "pending-tenant-signup-success": 11,
         "pricing-calculator-tier": 7,
         "pricing-v2": 64,
         "privacy-policy": 113,
         "product-demo-collab-chat": 33,
-        "product-demo-image-chat": 13,
-        "product-demo-live-chat": 19,
+        "product-demo-image-chat": 15,
+        "product-demo-live-chat": 21,
         "profile-comment-approve-success": 5,
         "profile-comment-reject-success": 5,
         "public-installation-wizard": 5,
@@ -280,7 +280,7 @@
         "remove-post-success": 5,
         "set-subscription-state": 15,
         "success-stories": 5,
-        "tenant-signup": 18,
+        "tenant-signup": 31,
         "tenant-signup-failure": 4,
         "tenant-signup-success": 9,
         "test-e2e-comment-ui": 0,
@@ -310,7 +310,7 @@
         "billing-limits": 18,
         "domain-item": 4,
         "domain-validation": 4,
-        "email-template-item": 10,
+        "email-template-item": 34,
         "flex-billing": 67,
         "render-error-item": 7,
         "user-permissions": 27,
@@ -332,8 +332,8 @@
         "my-account-site-collections": 69,
         "my-account-site-settings": 38,
         "my-account-site-common": 38,
-        "my-account-site-theme": 10,
-        "my-account-site-theme-editor": 16,
+        "my-account-site-theme": 26,
+        "my-account-site-theme-editor": 23,
         "site-starter-packages": 67,
         "site-renderer-component": 2,
         "my-account-ticket-files": 28,
@@ -362,7 +362,7 @@
         "my-account-canvas-lti-config-delete": 5,
         "my-account-canvas-lti-config-enable": 1,
         "my-account-canvas-lti-config-setup": 1,
-        "tickets": 116,
+        "tickets": 117,
         "tickets-admin": 13,
         "demo-ticketing": 11,
         "my-account-configure-domains-edit": 17,
@@ -372,19 +372,19 @@
         "shopify-success": 23,
         "my-account-manage-data-ai-agents": 67,
         "collab-chat": 18,
-        "webinars": 107,
+        "webinars": 124,
         "news-sites": 62,
         "ai-agent-budget-alert": 14,
         "tenant-agent-approval-digest": 13,
         "tenant-agent-approval-request": 9,
-        "my-account-ai-agent-approvals": 64,
+        "my-account-ai-agent-approvals": 85,
         "my-account-ai-agent-prompt-refine": 37,
         "my-account-ai-agent-templates": 30,
         "my-account-ai-agent-webhooks": 61,
         "my-account-ai-agent-webhooks-logs": 19,
         "my-account-ai-agents": 463,
         "block-confirm": 4,
-        "feed-ui": 32,
+        "feed-ui": 51,
         "agent-notification": 2,
         "ai-agents": 196,
         "common-duration": 4,
@@ -419,7 +419,7 @@
         "tenant-webhook-disable-warning": 6,
         "tenant-webhook-disabled": 6,
         "signup": 11,
-        "commenting-api": 99,
+        "commenting-api": 100,
         "flex-limits-edit-dialog-component": 18,
         "tenant-limit-reached": 16,
         "live-demo": 4,
@@ -1058,7 +1058,8 @@
         "t34": "SIGNUP_VERIFICATION_SENT",
         "t35": "ERROR_404_MESSAGE",
         "t36": "ERROR_404_GO_HOME",
-        "t37": "BOT_LABEL"
+        "t37": "BOT_LABEL",
+        "t38": "LOGO_ALT"
     },
     "tenant-user-removed-from-tenant": {
         "t1": "INTRO",
@@ -1130,7 +1131,8 @@
         "t292": "COMMENT_MENU_LOCK",
         "t293": "COMMENT_MENU_UNLOCK",
         "t351": "MODERATION_BAN_REASON",
-        "t352": "MODERATION_BAN_REASON_PLACEHOLDER"
+        "t352": "MODERATION_BAN_REASON_PLACEHOLDER",
+        "t639": "MODERATION_BAN_DELETE_ALL_USER_COMMENTS"
     },
     "comment-user-mention": {
         "t1": "SUBJECT",
@@ -2239,7 +2241,9 @@
         "t38": "FEEDBACK_OFFER_COPY_FEEDBACK_COPIED",
         "t39": "FEEDBACK_OFFER_PASTE_ON_TRUSTPILOT",
         "t40": "FEEDBACK_OFFER_PASTE_ON_G2",
-        "t41": "FEEDBACK_OFFER_CREDIT_NOTE"
+        "t41": "FEEDBACK_OFFER_CREDIT_NOTE",
+        "t42": "HEADER_LIGHT_MODE",
+        "t43": "HEADER_DARK_MODE"
     },
     "localized-list": {
         "t1": "LIST_SEPARATOR",
@@ -2310,7 +2314,11 @@
         "t6": "MY_TOP_PAGES_NO_DATA_DESCRIPTION"
     },
     "ordered-selector-component": {
-        "t1": "ORDERED_SELECTOR_EMPTY"
+        "t1": "ORDERED_SELECTOR_EMPTY",
+        "t2": "ORDERED_SELECTOR_REMOVE_SELECTED",
+        "t3": "ORDERED_SELECTOR_USE_SELECTED",
+        "t4": "ORDERED_SELECTOR_MOVE_UP",
+        "t5": "ORDERED_SELECTOR_MOVE_DOWN"
     },
     "paginate-component": {
         "t1": "PAGINATE_SHOWING_X_TO_Y_OF_Z",
@@ -2513,7 +2521,20 @@
         "t33": "DESC_COMMENTS_RECEIVED_M",
         "t34": "DESC_COMMENTS_REMAINING_T",
         "t35": "DESC_COMMENTS_REMAINING_F",
-        "t36": "DESC_COMMENTS_REMAINING_M"
+        "t36": "DESC_COMMENTS_REMAINING_M",
+        "t37": "TITLE_NO_LOGS",
+        "t38": "DESC_NO_LOGS_EXPIRED",
+        "t39": "DESC_NO_LOGS_EXPIRED_SETUP_DONE",
+        "t40": "ALT_DONE",
+        "t41": "TITLE_ALL_SET",
+        "t42": "DESC_SETUP_COMPLETED",
+        "t43": "HEADING_NEXT_STEPS",
+        "t44": "BUTTON_DOCUMENTATION",
+        "t45": "BUTTON_CUSTOMIZE",
+        "t46": "BUTTON_ADD_MODERATORS",
+        "t47": "BUTTON_ADD_ADMINS",
+        "t48": "HEADING_SETUP_COMPLETED",
+        "t49": "SUBHEADING_SETUP_LOG"
     },
     "auth-my-account-integration-setup-failure": {
         "t1": "PAGE_TITLE",
@@ -2874,7 +2895,13 @@
         "t3": "HERO_TITLE_LIGHT",
         "t4": "HERO_TITLE_BOLD",
         "t5": "HERO_DESCRIPTION",
-        "t6": "BUTTON_TRY_AGAIN"
+        "t6": "BUTTON_TRY_AGAIN",
+        "t7": "ERROR_SIGN_IN",
+        "t8": "ERROR_LIMIT_REACHED",
+        "t9": "ERROR_NAME_TOO_LONG",
+        "t10": "ERROR_ALREADY_EXISTS",
+        "t11": "ERROR_NOT_FOUND",
+        "t12": "ERROR_INTERNAL"
     },
     "create-conversation-success": {
         "t1": "PAGE_TITLE",
@@ -3014,7 +3041,8 @@
         "t123": "FREE_TRIAL_REMAINING_O",
         "t124": "FREE_TRIAL_REMAINING_F",
         "t125": "FREE_TRIAL_REMAINING_T",
-        "t126": "FREE_TRIAL_REMAINING_M"
+        "t126": "FREE_TRIAL_REMAINING_M",
+        "t127": "HEADER_IMPORTANT"
     },
     "demo": {
         "t1": "PAGE_TITLE",
@@ -3119,7 +3147,12 @@
         "t41": "CTA_TITLE",
         "t42": "CTA_SUBTITLE",
         "t43": "CTA_BUTTON_GET_STARTED",
-        "t44": "CTA_BUTTON_CONTACT"
+        "t44": "CTA_BUTTON_CONTACT",
+        "t45": "MAP_LOAD_FAILED",
+        "t46": "NODE_REGION",
+        "t47": "NODE_STATUS",
+        "t48": "NODE_HEALTHY",
+        "t49": "NODE_UNHEALTHY"
     },
     "homepage-email-opt-out": {
         "t1": "PAGE_TITLE",
@@ -3965,7 +3998,9 @@
         "t69": "LABEL_USERS_PLURAL_T",
         "t70": "LABEL_USERS_PLURAL_F",
         "t71": "LABEL_USERS_PLURAL_M",
-        "t72": "LABEL_USERS_PLURAL_O"
+        "t72": "LABEL_USERS_PLURAL_O",
+        "t73": "HEADING_METRICS_BY_MONTH_LAST_12_MONTHS",
+        "t74": "HEADING_METRICS_BY_DAY_LAST_30_DAYS"
     },
     "my-account-api": {
         "t1": "PAGE_TITLE",
@@ -4448,7 +4483,24 @@
         "t24": "LABEL_CUSTOMIZE_FOR_LOCALE",
         "t25": "TEXT_TEST_DATA_INFO",
         "t26": "BUTTON_RESET_TEST_DATA",
-        "t27": "BUTTON_SAVE"
+        "t27": "BUTTON_SAVE",
+        "t28": "LABEL_CUSTOMIZE_VALUE",
+        "t29": "OVERRIDES_COUNT_O",
+        "t30": "OVERRIDES_COUNT",
+        "t31": "ERROR_LOAD_FAILED",
+        "t32": "CONFIRM_UNSAVED_CHANGES",
+        "t33": "ERROR_DOES_NOT_RENDER",
+        "t34": "ERROR_SAVE_REQUEST_FAILED",
+        "t35": "BUTTON_SAVING",
+        "t36": "BUTTON_SAVED",
+        "t37": "BUTTON_SAVE_FAILED",
+        "t38": "BUTTON_NAVIGATING_TO_NEW",
+        "t39": "BUTTON_CLEARING",
+        "t40": "BUTTON_CLEARED",
+        "t41": "BUTTON_CLEAR_FAILED",
+        "t42": "OVERRIDES_COUNT_T",
+        "t43": "OVERRIDES_COUNT_F",
+        "t44": "OVERRIDES_COUNT_M"
     },
     "my-account-customize-email-template-delete": {
         "t1": "PAGE_TITLE",
@@ -4800,7 +4852,10 @@
         "t292": "LABEL_ALLOW_ANONYMOUS_POLL_VOTES",
         "t293": "TEXT_ALLOW_ANONYMOUS_POLL_VOTES_NOTE",
         "t294": "LABEL_AUTO_GENERATE_USERNAME",
-        "t295": "TEXT_AUTO_GENERATE_USERNAME_NOTE"
+        "t295": "TEXT_AUTO_GENERATE_USERNAME_NOTE",
+        "t296": "TEXT_NO_TEXT_OVERRIDES",
+        "t297": "TABLE_HEADER_DEFAULT_TEXT",
+        "t298": "TABLE_HEADER_OVERRIDE"
     },
     "my-account-delete": {
         "t1": "PAGE_TITLE",
@@ -4987,7 +5042,8 @@
         "t45": "AGENT_APPROVAL_FREQUENCY_DISABLED",
         "t46": "AGENT_APPROVAL_FREQUENCY_IMMEDIATE",
         "t47": "AGENT_APPROVAL_FREQUENCY_HOURLY",
-        "t48": "AGENT_APPROVAL_FREQUENCY_DAILY"
+        "t48": "AGENT_APPROVAL_FREQUENCY_DAILY",
+        "t49": "TICKET_SUBSCRIPTION_TITLE"
     },
     "my-account-feedback-analytics": {
         "t1": "TITLE",
@@ -5321,7 +5377,11 @@
         "t48": "DATE_DEFAULTED_NOTICE_O",
         "t49": "DATE_DEFAULTED_NOTICE_T",
         "t50": "DATE_DEFAULTED_NOTICE_F",
-        "t51": "DATE_DEFAULTED_NOTICE_M"
+        "t51": "DATE_DEFAULTED_NOTICE_M",
+        "t52": "FROM_UI",
+        "t53": "FROM_API",
+        "t54": "FROM_CRON",
+        "t55": "VALUE_N_A"
     },
     "my-account-manage-data-copy-comments": {
         "t1": "TITLE",
@@ -5402,7 +5462,8 @@
         "t14": "STATUS_FAILED",
         "t15": "STATUS_EXPIRED",
         "t16": "STATUS_DELETING",
-        "t17": "STATUS_CANCELLED"
+        "t17": "STATUS_CANCELLED",
+        "t18": "TEXT_MODERATION_EXPORT"
     },
     "my-account-manage-data-import": {
         "t1": "TITLE",
@@ -5891,7 +5952,10 @@
         "t37": "RETENTION_INFO",
         "t38": "N_A_VALUES_NOTE",
         "t39": "LOG_DETAILS_HEADING",
-        "t40": "CLOSE_BUTTON"
+        "t40": "CLOSE_BUTTON",
+        "t41": "EVENT_TYPE_CREATE",
+        "t42": "EVENT_TYPE_UPDATE",
+        "t43": "EVENT_TYPE_DELETE"
     },
     "my-account-managed-tenants-create": {
         "t1": "PAGE_TITLE",
@@ -6577,7 +6641,10 @@
         "t18": "MESSAGE_NO_EMAILS",
         "t19": "VALUE_UNKNOWN",
         "t20": "VALUE_NO_SUBJECT",
-        "t21": "VALUE_NA"
+        "t21": "VALUE_NA",
+        "t22": "ERROR_VERIFY_EMAIL",
+        "t23": "ERROR_LOAD_SENT_EMAILS",
+        "t24": "ERROR_LOAD_EMAIL_DETAIL"
     },
     "my-account-tenant-delete": {
         "t1": "PAGE_TITLE",
@@ -7086,12 +7153,26 @@
         "t2": "HEADING",
         "t3": "MESSAGE_IMPORTING",
         "t4": "MESSAGE_LOADING",
-        "t5": "MESSAGE_AFTER_DONE"
+        "t5": "MESSAGE_AFTER_DONE",
+        "t6": "STATUS_POWERING_UP",
+        "t7": "STATUS_IMPORTED_COUNT",
+        "t8": "STATUS_DETERMINING_COUNT",
+        "t9": "STATUS_ALL_SET",
+        "t10": "STATUS_CLOSE_PAGE",
+        "t11": "STATUS_SETUP_BILLING_LINK",
+        "t12": "STATUS_IMPORT_FAILED",
+        "t13": "STATUS_IMPORT_EXPIRED",
+        "t14": "ERROR_INVALID_URL",
+        "t15": "ERROR_SESSION_EXPIRED",
+        "t16": "ERROR_GENERIC"
     },
     "notification-opt-out-all-failure": {
         "t1": "PAGE_TITLE",
         "t2": "HEADING_LIGHT",
-        "t3": "HEADING_BOLD"
+        "t3": "HEADING_BOLD",
+        "t4": "ERROR_EXPIRED",
+        "t5": "ERROR_USER_NOT_FOUND",
+        "t6": "ERROR_INTERNAL"
     },
     "notification-opt-out-all-success": {
         "t1": "PAGE_TITLE",
@@ -7104,7 +7185,10 @@
     "notification-opt-out-all-undo-failure": {
         "t1": "PAGE_TITLE",
         "t2": "HEADING_LIGHT",
-        "t3": "HEADING_BOLD"
+        "t3": "HEADING_BOLD",
+        "t4": "ERROR_EXPIRED",
+        "t5": "ERROR_USER_NOT_FOUND",
+        "t6": "ERROR_INTERNAL"
     },
     "notification-opt-out-all-undo-success": {
         "t1": "PAGE_TITLE",
@@ -7117,7 +7201,12 @@
     "notification-opt-out-comment-error": {
         "t1": "PAGE_TITLE",
         "t2": "HEADING_LIGHT",
-        "t3": "HEADING_BOLD"
+        "t3": "HEADING_BOLD",
+        "t4": "ERROR_INVALID_LINK",
+        "t5": "ERROR_ACCOUNT_NOT_FOUND",
+        "t6": "ERROR_COMMENT_NOT_FOUND",
+        "t7": "ERROR_ALREADY_OPTED_OUT",
+        "t8": "ERROR_OPT_OUT_FAILED"
     },
     "notification-opt-out-comment-success": {
         "t1": "PAGE_TITLE",
@@ -7132,7 +7221,12 @@
         "t3": "HEADING_BOLD",
         "t4": "DESCRIPTION",
         "t5": "MESSAGE_RESEND_SUCCESS",
-        "t6": "BUTTON_RESEND"
+        "t6": "BUTTON_RESEND",
+        "t7": "ERROR_RESEND_USER_NOT_FOUND",
+        "t8": "ERROR_RESEND_NO_PENDING_SIGNUP",
+        "t9": "ERROR_RESEND_RATE_LIMITED_MINUTE",
+        "t10": "ERROR_RESEND_RATE_LIMITED_DAY",
+        "t11": "ERROR_RESEND_FAILED"
     },
     "pricing-calculator-tier": {
         "t1": "LABEL_FLEXIBLE_PRICING",
@@ -7372,7 +7466,9 @@
         "t10": "TRY_IT_NOW_SUBHEADING",
         "t11": "SNIPPET_SELECT_PLATFORM",
         "t12": "SNIPPET_COPY_TITLE",
-        "t13": "SNIPPET_COPIED"
+        "t13": "SNIPPET_COPIED",
+        "t14": "ACTION_TEXT",
+        "t15": "ACTION_BUTTON"
     },
     "product-demo-live-chat": {
         "t1": "PAGE_TITLE",
@@ -7393,7 +7489,9 @@
         "t16": "SNIPPET_SELECT_PLATFORM",
         "t17": "SNIPPET_COPY_TITLE",
         "t18": "SNIPPET_COPIED",
-        "t19": "INTRO_TEXT"
+        "t19": "INTRO_TEXT",
+        "t20": "ACTION_TEXT",
+        "t21": "ACTION_BUTTON"
     },
     "profile-comment-approve-success": {
         "t1": "PAGE_TITLE",
@@ -7480,7 +7578,20 @@
         "t15": "DOMAINS_DESCRIPTION",
         "t16": "TOS_TEXT",
         "t17": "BUTTON_CREATE_ACCOUNT",
-        "t18": "ERROR_SIGNUP_ALREADY_STARTED"
+        "t18": "ERROR_SIGNUP_ALREADY_STARTED",
+        "t19": "ERROR_INVALID_DOMAINS",
+        "t20": "ERROR_PACKAGE_REQUIRED",
+        "t21": "ERROR_INVALID_PACKAGE",
+        "t22": "ERROR_TEMPORARY_EMAIL",
+        "t23": "ERROR_VALID_EMAIL_REQUIRED",
+        "t24": "ERROR_INPUT_TOO_LONG",
+        "t25": "ERROR_USERNAME_REQUIRED",
+        "t26": "ERROR_EMAIL_REQUIRED",
+        "t27": "ERROR_COMPANY_NAME_REQUIRED",
+        "t28": "ERROR_DOMAINS_REQUIRED",
+        "t29": "ERROR_INVALID_COUPON",
+        "t30": "ERROR_USERNAME_TAKEN",
+        "t31": "ERROR_CREATING_ACCOUNT"
     },
     "tenant-signup-failure": {
         "t1": "PAGE_TITLE",
@@ -7861,7 +7972,31 @@
         "t7": "TEXT_RENDER_ERRORS_PLURAL_T",
         "t8": "TEXT_RENDER_ERRORS_PLURAL_F",
         "t9": "TEXT_RENDER_ERRORS_PLURAL_M",
-        "t10": "TEXT_RENDER_ERRORS_PLURAL_O"
+        "t10": "TEXT_RENDER_ERRORS_PLURAL_O",
+        "t11": "NAME_COMMENT_USER_MENTION",
+        "t12": "DESCRIPTION_COMMENT_USER_MENTION",
+        "t13": "NAME_COMMENTER_COMMENT_NOTIFICATION",
+        "t14": "DESCRIPTION_COMMENTER_COMMENT_NOTIFICATION",
+        "t15": "NAME_COMMENTER_VERIFY_POST",
+        "t16": "DESCRIPTION_COMMENTER_VERIFY_POST",
+        "t17": "NAME_COMMENTER_VERIFY_VOTE",
+        "t18": "DESCRIPTION_COMMENTER_VERIFY_VOTE",
+        "t19": "NAME_COMMENTER_WELCOME_FROM_COMMENT",
+        "t20": "DESCRIPTION_COMMENTER_WELCOME_FROM_COMMENT",
+        "t21": "NAME_COMMENTER_WELCOME_FROM_VOTE",
+        "t22": "DESCRIPTION_COMMENTER_WELCOME_FROM_VOTE",
+        "t23": "NAME_POLL_VOTE_NOTIFICATION",
+        "t24": "DESCRIPTION_POLL_VOTE_NOTIFICATION",
+        "t25": "NAME_TENANT_COMMENT_NOTIFICATION",
+        "t26": "DESCRIPTION_TENANT_COMMENT_NOTIFICATION",
+        "t27": "NAME_TENANT_USER_REMOVED_FROM_TENANT",
+        "t28": "DESCRIPTION_TENANT_USER_REMOVED_FROM_TENANT",
+        "t29": "NAME_SUBSCRIBED_PAGE_NOTIFICATIONS",
+        "t30": "DESCRIPTION_SUBSCRIBED_PAGE_NOTIFICATIONS",
+        "t31": "NAME_SITE_MEMBER_WELCOME",
+        "t32": "DESCRIPTION_SITE_MEMBER_WELCOME",
+        "t33": "NAME_BADGE_AWARD",
+        "t34": "DESCRIPTION_BADGE_AWARD"
     },
     "flex-billing": {
         "t1": "FLEX_PAGE_LOADS",
@@ -8730,7 +8865,23 @@
         "t7": "BADGE_ACTIVE",
         "t8": "BADGE_CUSTOM",
         "t9": "CONFIRM_DELETE",
-        "t10": "CONFIRM_FORK"
+        "t10": "CONFIRM_FORK",
+        "t11": "THEME_FORK_NAME",
+        "t12": "THEME_FALLBACK_NAME",
+        "t13": "THEME_CLEAN_NAME",
+        "t14": "THEME_CLEAN_DESCRIPTION",
+        "t15": "THEME_BOLD_NAME",
+        "t16": "THEME_BOLD_DESCRIPTION",
+        "t17": "THEME_MINIMAL_NAME",
+        "t18": "THEME_MINIMAL_DESCRIPTION",
+        "t19": "THEME_CLASSIC_NAME",
+        "t20": "THEME_CLASSIC_DESCRIPTION",
+        "t21": "THEME_BLOG_NAME",
+        "t22": "THEME_BLOG_DESCRIPTION",
+        "t23": "THEME_PORTFOLIO_NAME",
+        "t24": "THEME_PORTFOLIO_DESCRIPTION",
+        "t25": "THEME_CREATOR_NAME",
+        "t26": "THEME_CREATOR_DESCRIPTION"
     },
     "my-account-site-theme-editor": {
         "t1": "PAGE_TITLE",
@@ -8748,7 +8899,14 @@
         "t13": "ERROR_CANNOT_DELETE_REQUIRED",
         "t14": "TAB_LOCALIZATIONS",
         "t15": "TEXT_LOCALIZATIONS_INFO",
-        "t16": "LABEL_CUSTOMIZE_FOR_LOCALE"
+        "t16": "LABEL_CUSTOMIZE_FOR_LOCALE",
+        "t17": "LABEL_CUSTOMIZE_VALUE",
+        "t18": "OVERRIDES_COUNT_O",
+        "t19": "OVERRIDES_COUNT",
+        "t20": "CONFIRM_UNSAVED_CHANGES",
+        "t21": "OVERRIDES_COUNT_T",
+        "t22": "OVERRIDES_COUNT_F",
+        "t23": "OVERRIDES_COUNT_M"
     },
     "site-starter-packages": {
         "t1": "STARTER_HEADER_NAME",
@@ -9786,7 +9944,8 @@
         "t113": "DURATION_WEEKS_T",
         "t114": "DURATION_WEEKS_F",
         "t115": "DURATION_WEEKS_M",
-        "t116": "FILE_PLURAL_O"
+        "t116": "FILE_PLURAL_O",
+        "t117": "NAME_ON_DATE"
     },
     "tickets-admin": {
         "t1": "TITLE",
@@ -10196,7 +10355,24 @@
         "t104": "CTA_BUTTON_TRIAL",
         "t105": "CTA_BUTTON_CONTACT",
         "t106": "DEMO_TAB_THREADED",
-        "t107": "DEMO_TAB_STREAMING"
+        "t107": "DEMO_TAB_STREAMING",
+        "t108": "HERO_MOCK_MODERATOR",
+        "t109": "HERO_MOCK_PINNED",
+        "t110": "HERO_MOCK_ANSWERED",
+        "t111": "HERO_MOCK_REMOVED",
+        "t112": "HERO_MOCK_AUTHOR_1",
+        "t113": "HERO_MOCK_AUTHOR_2",
+        "t114": "HERO_MOCK_AUTHOR_3",
+        "t115": "HERO_MOCK_AUTHOR_4",
+        "t116": "HERO_MOCK_AUTHOR_5",
+        "t117": "HERO_MOCK_MSG_API_DOCS",
+        "t118": "HERO_MOCK_MSG_RECORDING",
+        "t119": "HERO_MOCK_MSG_SPAM",
+        "t120": "HERO_MOCK_MSG_REGIONS",
+        "t121": "HERO_MOCK_MSG_REGIONS_ANSWER",
+        "t122": "HERO_MOCK_MSG_EXPORT",
+        "t123": "HERO_MOCK_MSG_EXPORT_ANSWER",
+        "t124": "HERO_MOCK_MSG_LATENCY"
     },
     "news-sites": {
         "t1": "PAGE_TITLE",
@@ -10368,7 +10544,28 @@
         "t61": "ACTION_SAVED_MEMORY",
         "t62": "TARGET_COMMENT_HEADING",
         "t63": "COMMENT_LOADING",
-        "t64": "COMMENT_LOAD_ERROR"
+        "t64": "COMMENT_LOAD_ERROR",
+        "t65": "ARG_COMMENT",
+        "t66": "ARG_URL_ID",
+        "t67": "ARG_PARENT_ID",
+        "t68": "ARG_COMMENT_ID",
+        "t69": "ARG_NEW_TEXT",
+        "t70": "ARG_DIRECTION",
+        "t71": "ARG_APPROVED",
+        "t72": "ARG_IS_SPAM",
+        "t73": "ARG_USER_ID",
+        "t74": "ARG_BADGE_ID",
+        "t75": "ARG_DURATION",
+        "t76": "ARG_SHADOW_BAN",
+        "t77": "ARG_DELETE_ALL_USERS_COMMENTS",
+        "t78": "ARG_BAN_IP",
+        "t79": "ARG_SUBJECT",
+        "t80": "ARG_BODY",
+        "t81": "ARG_TO_EMAIL_ADDRESS",
+        "t82": "ARG_MESSAGE",
+        "t83": "ARG_TAGS",
+        "t84": "ARG_QUERY",
+        "t85": "ARG_CONTENT"
     },
     "my-account-ai-agent-prompt-refine": {
         "t1": "PAGE_TITLE",
@@ -11028,7 +11225,26 @@
         "t29": "FEED_COMPOSER_LINK_BUTTON",
         "t30": "FEED_COMPOSER_LINK_PLACEHOLDER",
         "t31": "FEED_COMPOSER_REMOVE_LINK",
-        "t32": "DELETE"
+        "t32": "DELETE",
+        "t33": "FEED_COMMENT",
+        "t34": "FEED_LIKE",
+        "t35": "FEED_LIKED",
+        "t36": "FEED_POST_OPTIONS",
+        "t37": "FEED_VIEW",
+        "t38": "FEED_LOADING",
+        "t39": "FEED_RETRY",
+        "t40": "FEED_LOAD_MORE",
+        "t41": "FEED_NEW_POSTS_AVAILABLE",
+        "t42": "FEED_EMPTY_CTA",
+        "t43": "FEED_POSTING",
+        "t44": "FEED_POST_FAILED",
+        "t45": "FEED_POST_DELETED",
+        "t46": "FEED_DELETE_FAILED",
+        "t47": "FEED_LINK_COPIED",
+        "t48": "FEED_IMAGE",
+        "t49": "FEED_IMAGE_NUMBER",
+        "t50": "FEED_IMAGE_PREVIOUS",
+        "t51": "FEED_IMAGE_NEXT"
     },
     "agent-notification": {
         "t1": "FROM_NAME",
@@ -12294,7 +12510,8 @@
         "t96": "CTA_DESC",
         "t97": "CTA_PRIMARY",
         "t98": "CTA_SECONDARY",
-        "t99": "SCALE_LABEL"
+        "t99": "SCALE_LABEL",
+        "t100": "CODE_SWITCHER_POLL"
     },
     "flex-limits-edit-dialog-component": {
         "t1": "FLEX_LIMITS_TITLE",
@@ -12802,5 +13019,30 @@
         "t24": "SUBJECT_POLLS_M",
         "t25": "NEW_RESPONSES_SUMMARY_F",
         "t26": "NEW_RESPONSES_SUMMARY_M"
+    },
+    "comment-ui-reviews": {
+        "t619": "REVIEWS_RATING_SUMMARY_ONE",
+        "t620": "REVIEWS_RATING_SUMMARY",
+        "t621": "REVIEWS_RATING_SUMMARY_O",
+        "t622": "REVIEWS_RATING_SUMMARY_T",
+        "t623": "REVIEWS_RATING_SUMMARY_F",
+        "t624": "REVIEWS_RATING_SUMMARY_M",
+        "t625": "REVIEWS_STAR",
+        "t626": "REVIEWS_STARS",
+        "t627": "REVIEWS_STARS_O",
+        "t628": "REVIEWS_STARS_T",
+        "t629": "REVIEWS_STARS_F",
+        "t630": "REVIEWS_STARS_M",
+        "t631": "REVIEWS_LEAVE_A_REVIEW"
+    },
+    "comment-ui-account-selection": {
+        "t632": "ACCOUNT_SELECTION_TITLE",
+        "t633": "ACCOUNT_SELECTION_PROMPT",
+        "t634": "ACCOUNT_SELECTION_SAVED",
+        "t635": "ACCOUNT_SELECTION_CURRENT",
+        "t636": "ACCOUNT_SELECTION_NO_EMAIL",
+        "t637": "ACCOUNT_SELECTION_LAST_USED",
+        "t638": "ACCOUNT_SELECTION_SIGNED_IN",
+        "t640": "ACCOUNT_SELECTION_CANCEL"
     }
 }

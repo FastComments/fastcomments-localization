@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "Sendte e-mail den <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "PAGE_TITLE": "Sendte e-mail den <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> - FastComments",
     "BUTTON_BACK": "← Tilbage til Sendte e-mails",
-    "HEADING": "Sendte e-mail den <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "HEADING": "Sendte e-mail den <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>",
     "LABEL_DATE": "Dato:",
     "LABEL_FROM": "Fra:",
     "LABEL_TO": "Til:",

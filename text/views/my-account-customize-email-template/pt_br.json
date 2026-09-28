@@ -22,5 +22,19 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Personalizar para a localidade",
     "TEXT_TEST_DATA_INFO": "Aqui você pode definir dados de teste personalizados usados na pré-visualização. Eles são salvos junto com o modelo.",
     "BUTTON_RESET_TEST_DATA": "Redefinir",
-    "BUTTON_SAVE": "Salvar"
+    "BUTTON_SAVE": "Salvar",
+    "LABEL_CUSTOMIZE_VALUE": "Personalizar \"[value]\"",
+    "OVERRIDES_COUNT_O": "[count] substituição",
+    "OVERRIDES_COUNT": "[count] substituições",
+    "ERROR_LOAD_FAILED": "Falha ao carregar este modelo. Tente novamente mais tarde ou entre em contato com o suporte.",
+    "CONFIRM_UNSAVED_CHANGES": "Você tem alterações não salvas. Deseja sair mesmo assim?",
+    "ERROR_DOES_NOT_RENDER": "Não foi possível salvar o modelo de e-mail porque ele não é renderizado corretamente. Corrija os erros e tente novamente.",
+    "ERROR_SAVE_REQUEST_FAILED": "A última solicitação para salvar falhou. Tente novamente mais tarde.",
+    "BUTTON_SAVING": "Salvando...",
+    "BUTTON_SAVED": "Salvo com sucesso!",
+    "BUTTON_SAVE_FAILED": "Falha ao salvar!",
+    "BUTTON_NAVIGATING_TO_NEW": "Abrindo o novo modelo...",
+    "BUTTON_CLEARING": "Limpando...",
+    "BUTTON_CLEARED": "Limpo!",
+    "BUTTON_CLEAR_FAILED": "Falha ao limpar!"
 }

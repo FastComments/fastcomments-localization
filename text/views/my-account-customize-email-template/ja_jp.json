@@ -22,5 +22,18 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "ロケールに合わせてカスタマイズ",
     "TEXT_TEST_DATA_INFO": "ここでは、プレビューで使用するカスタムテストデータを定義できます。定義したデータはテンプレートと一緒に保存されます。",
     "BUTTON_RESET_TEST_DATA": "リセット",
-    "BUTTON_SAVE": "保存"
+    "BUTTON_SAVE": "保存",
+    "LABEL_CUSTOMIZE_VALUE": "「[value]」をカスタマイズ",
+    "OVERRIDES_COUNT": "[count] 件のオーバーライド",
+    "ERROR_LOAD_FAILED": "このテンプレートを読み込めませんでした。後でもう一度お試しいただくか、サポートまでお問い合わせください。",
+    "CONFIRM_UNSAVED_CHANGES": "保存されていない変更があります。このまま移動しますか？",
+    "ERROR_DOES_NOT_RENDER": "メールテンプレートを正常にレンダリングできないため、保存できませんでした。エラーを修正してもう一度お試しください。",
+    "ERROR_SAVE_REQUEST_FAILED": "前回の保存リクエストが失敗しました。後でもう一度お試しください。",
+    "BUTTON_SAVING": "保存中...",
+    "BUTTON_SAVED": "保存しました！",
+    "BUTTON_SAVE_FAILED": "保存に失敗しました！",
+    "BUTTON_NAVIGATING_TO_NEW": "新しいテンプレートに移動中...",
+    "BUTTON_CLEARING": "クリア中...",
+    "BUTTON_CLEARED": "クリアしました！",
+    "BUTTON_CLEAR_FAILED": "クリアに失敗しました！"
 }

@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Falha ao cancelar inscrição",
     "HEADING_LIGHT": "Cancelamento de inscrição ",
-    "HEADING_BOLD": "Falha"
+    "HEADING_BOLD": "Falha",
+    "ERROR_EXPIRED": "Esta URL expirou. Você já cancelou sua inscrição?",
+    "ERROR_USER_NOT_FOUND": "Não encontramos esse usuário. A sua URL está correta?",
+    "ERROR_INTERNAL": "Ocorreu um erro interno."
 }

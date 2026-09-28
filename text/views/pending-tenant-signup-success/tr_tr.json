@@ -4,5 +4,10 @@
     "HEADING_BOLD": "FastComments!",
     "DESCRIPTION": "Bir mesaj gönderdik. Kayıt işlemini tamamlamak için lütfen verdiğiniz e-posta adresine gönderilen bağlantıyı kontrol edin.",
     "MESSAGE_RESEND_SUCCESS": "E-posta başarıyla yeniden gönderildi!",
-    "BUTTON_RESEND": "Doğrulama E-postasını Yeniden Gönder"
+    "BUTTON_RESEND": "Doğrulama E-postasını Yeniden Gönder",
+    "ERROR_RESEND_USER_NOT_FOUND": "Kullanıcı bulunamadı veya e-posta eşleşmiyor.",
+    "ERROR_RESEND_NO_PENDING_SIGNUP": "Bekleyen kayıt bulunamadı.",
+    "ERROR_RESEND_RATE_LIMITED_MINUTE": "Çok fazla istek gönderdiniz. Lütfen bir dakika sonra tekrar deneyin.",
+    "ERROR_RESEND_RATE_LIMITED_DAY": "Günlük e-posta sınırını aştınız. Lütfen yarın tekrar deneyin veya destek ekibiyle iletişime geçin.",
+    "ERROR_RESEND_FAILED": "Doğrulama e-postası yeniden gönderilirken bir hata oluştu. Lütfen daha sonra tekrar deneyin."
 }

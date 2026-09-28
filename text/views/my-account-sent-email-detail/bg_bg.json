@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "Изпратен имейл на <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "PAGE_TITLE": "Изпратен имейл на <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> - FastComments",
     "BUTTON_BACK": "← Обратно към Изпратени имейли",
-    "HEADING": "Изпратен имейл на <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "HEADING": "Изпратен имейл на <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>",
     "LABEL_DATE": "Дата:",
     "LABEL_FROM": "От:",
     "LABEL_TO": "До:",

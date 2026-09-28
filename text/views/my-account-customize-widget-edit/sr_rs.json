@@ -213,9 +213,9 @@
     "HEADING_ADVANCED": "Напредно",
     "LABEL_SHOW_ADVANCED_OPTIONS": "Прикажи напредне опције",
     "LABEL_USE_ABSOLUTE_DATES": "Користити апсолутне датуме?",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Ово ће приказивати датуме попут „<%= new Date().toLocaleString() %>“ уместо „управо сада“.",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Ово ће приказивати датуме попут „<%= new Date().toLocaleString(htmlLang) %>“ уместо „управо сада“.",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "Користите и релативне и апсолутне датуме?",
-    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Ово ће приказивати датуме попут „управо сада (<%= new Date().toLocaleDateString() %>)“ уместо „управо сада“.",
+    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Ово ће приказивати датуме попут „управо сада (<%= new Date().toLocaleDateString(htmlLang) %>)“ уместо „управо сада“.",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "HTML рендеровање коментара",
     "OPTION_RENDER_ALL": "Прикажи све (подразумевано)",
     "OPTION_LINKS_AS_TEXT": "Линкови као текст.",
@@ -292,5 +292,8 @@
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
     "TEXT_ALLOW_EMBEDS_NOTE": "Омогућава коментаторима да уграђују видео записе и плејере (YouTube, Vimeo, SoundCloud, Spotify и друге) лепљењем iframe-а провајдера. Дозвољени су само поуздани провајдери.",
     "LABEL_ALLOWED_EMBED_DOMAINS": "Додатни уграђени домени",
-    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Листа додатних имена хостова за уграђивање, раздвојених зарезима, која ће бити дозвољена поред уграђених поузданих провајдера."
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Листа додатних имена хостова за уграђивање, раздвојених зарезима, која ће бити дозвољена поред уграђених поузданих провајдера.",
+    "TEXT_NO_TEXT_OVERRIDES": "Тренутно немате ниједну замену текста.",
+    "TABLE_HEADER_DEFAULT_TEXT": "Подразумевани текст",
+    "TABLE_HEADER_OVERRIDE": "Замена"
 }

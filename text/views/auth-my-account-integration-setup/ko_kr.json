@@ -26,5 +26,18 @@
     "TITLE_FETCH_EVENTS": "동기화 요청",
     "DESC_FETCH_EVENTS": "통합에서 최신 댓글 및 관련 데이터에 대한 이벤트 로그를 요청했습니다.",
     "TITLE_GET_COMMENTS": "댓글 가져오는 중...",
-    "DESC_GET_COMMENTS": "통합에서 댓글 데이터를 요청했습니다."
+    "DESC_GET_COMMENTS": "통합에서 댓글 데이터를 요청했습니다.",
+    "TITLE_NO_LOGS": "로그 없음",
+    "DESC_NO_LOGS_EXPIRED": "로그를 찾을 수 없습니다. 만료된 것 같습니다.",
+    "DESC_NO_LOGS_EXPIRED_SETUP_DONE": "로그를 찾을 수 없습니다. 만료된 것 같습니다. 하지만 설정은 완료된 것으로 확인됩니다.",
+    "ALT_DONE": "완료",
+    "TITLE_ALL_SET": "모든 준비가 끝났습니다!",
+    "DESC_SETUP_COMPLETED": "초기 설정이 완료되었습니다! 이제 통합이 활성화되었습니다.",
+    "HEADING_NEXT_STEPS": "다음 단계",
+    "BUTTON_DOCUMENTATION": "문서",
+    "BUTTON_CUSTOMIZE": "맞춤 설정",
+    "BUTTON_ADD_MODERATORS": "모더레이터 추가",
+    "BUTTON_ADD_ADMINS": "관리자 추가",
+    "HEADING_SETUP_COMPLETED": "설정 완료.",
+    "SUBHEADING_SETUP_LOG": "설정 로그"
 }

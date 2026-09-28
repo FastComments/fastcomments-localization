@@ -41,7 +41,6 @@
     "TEXT_NO_PAGE_LIKES": "Няма нищо за разглеждане тук. Може би искате да настроите уиджета <a href=\"https://docs.fastcomments.com/guide-page-reacts.html\" target=\"_blank\">Page Reacts</a> ?",
     "TEXT_NO_USERS_ONLINE": "В момента няма онлайн потребители или няма събрани коментари за страници, където потребителите са онлайн.",
     "TEXT_NOTHING_TO_SEE": "Няма нищо за гледане тук.",
-    "HEADING_METRICS_BY_MONTH": "Показатели от <%= timePeriod === '12months' ? 'Month - Last 12 Months' : 'Day - Last 30 Days' %>",
     "TABLE_HEADER_MONTH": "Месец",
     "TABLE_HEADER_DAY": "Ден",
     "TABLE_HEADER_PAGE_LOADS": "Зареждания на страници",
@@ -66,5 +65,7 @@
     "TABLE_HEADER_SYNC_REQUESTS_SUCCESS": "Заявките за синхронизиране са успешни",
     "TABLE_HEADER_SYNC_REQUESTS_FAILURE": "Неуспешни заявки за синхронизиране",
     "TABLE_HEADER_IMAGES_UPLOADED": "Качени изображения",
-    "TABLE_HEADER_IMAGES_SIZE_BYTES": "Размер на изображенията (байтове)"
+    "TABLE_HEADER_IMAGES_SIZE_BYTES": "Размер на изображенията (байтове)",
+    "HEADING_METRICS_BY_MONTH_LAST_12_MONTHS": "Показатели по месеци - последните 12 месеца",
+    "HEADING_METRICS_BY_DAY_LAST_30_DAYS": "Показатели по дни - последните 30 дни"
 }

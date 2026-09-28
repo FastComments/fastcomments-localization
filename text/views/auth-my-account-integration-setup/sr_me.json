@@ -27,5 +27,19 @@
     "TITLE_FETCH_EVENTS": "Захтев за синхронизацију",
     "DESC_FETCH_EVENTS": "Интеграција је затражила дневник догађаја за најновије коментаре и повезане податке.",
     "TITLE_GET_COMMENTS": "Добијање коментара...",
-    "DESC_GET_COMMENTS": "Интеграција је затражила податке о коментарима."
+    "DESC_GET_COMMENTS": "Интеграција је затражила податке о коментарима.",
+    "DESC_COMMENTS_REMAINING_O": "Преостаје још <b>[countRemaining]</b> за синхронизацију.",
+    "TITLE_NO_LOGS": "Нема дневника",
+    "DESC_NO_LOGS_EXPIRED": "Нису пронађени дневници. Изгледа да су истекли.",
+    "DESC_NO_LOGS_EXPIRED_SETUP_DONE": "Нису пронађени дневници. Изгледа да су истекли. Међутим, видимо да је подешавање завршено.",
+    "ALT_DONE": "Готово",
+    "TITLE_ALL_SET": "Све је спремно!",
+    "DESC_SETUP_COMPLETED": "Почетно подешавање је завршено! Интеграција је сада активна.",
+    "HEADING_NEXT_STEPS": "Следећи кораци",
+    "BUTTON_DOCUMENTATION": "Документација",
+    "BUTTON_CUSTOMIZE": "Прилагоди",
+    "BUTTON_ADD_MODERATORS": "Додај модераторе",
+    "BUTTON_ADD_ADMINS": "Додај администраторе",
+    "HEADING_SETUP_COMPLETED": "Подешавање је завршено.",
+    "SUBHEADING_SETUP_LOG": "Дневник подешавања"
 }

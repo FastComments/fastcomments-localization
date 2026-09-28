@@ -4,5 +4,10 @@
     "HEADING_BOLD": "FastComments!",
     "DESCRIPTION": "שלחנו הודעה. כדי להשלים את תהליך ההרשמה, אנא בדוק את הקישור שנשלח לכתובת האימייל שסיפקת.",
     "MESSAGE_RESEND_SUCCESS": "אימייל נשלח בהצלחה!",
-    "BUTTON_RESEND": "שלח שוב אימייל אימות"
+    "BUTTON_RESEND": "שלח שוב אימייל אימות",
+    "ERROR_RESEND_USER_NOT_FOUND": "המשתמש לא נמצא או שהאימייל אינו תואם.",
+    "ERROR_RESEND_NO_PENDING_SIGNUP": "לא נמצאה הרשמה ממתינה.",
+    "ERROR_RESEND_RATE_LIMITED_MINUTE": "שלחת יותר מדי בקשות. נסה שוב בעוד דקה.",
+    "ERROR_RESEND_RATE_LIMITED_DAY": "חרגת ממגבלת האימיילים היומית. נסה שוב מחר או פנה לתמיכה.",
+    "ERROR_RESEND_FAILED": "אירעה שגיאה בשליחה החוזרת של אימייל האימות. נסה שוב מאוחר יותר."
 }

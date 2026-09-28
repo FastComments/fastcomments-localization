@@ -26,5 +26,18 @@
     "DESC_FETCH_EVENTS": "طلب التكامل سجل الأحداث للاطلاع على أحدث التعليقات والبيانات ذات الصلة.",
     "TITLE_FETCH_EVENTS": "طلب مزامنة",
     "TITLE_GET_COMMENTS": "جلب التعليقات...",
-    "DESC_GET_COMMENTS": "طلب التكامل بيانات التعليقات."
+    "DESC_GET_COMMENTS": "طلب التكامل بيانات التعليقات.",
+    "TITLE_NO_LOGS": "لا توجد سجلات",
+    "DESC_NO_LOGS_EXPIRED": "لم يتم العثور على أي سجلات. يبدو أن صلاحيتها قد انتهت.",
+    "DESC_NO_LOGS_EXPIRED_SETUP_DONE": "لم يتم العثور على أي سجلات. يبدو أن صلاحيتها قد انتهت، لكن يمكننا أن نرى أن الإعداد قد اكتمل.",
+    "ALT_DONE": "تم",
+    "TITLE_ALL_SET": "كل شيء جاهز!",
+    "DESC_SETUP_COMPLETED": "اكتمل الإعداد الأولي! التكامل يعمل الآن.",
+    "HEADING_NEXT_STEPS": "الخطوات التالية",
+    "BUTTON_DOCUMENTATION": "الوثائق",
+    "BUTTON_CUSTOMIZE": "تخصيص",
+    "BUTTON_ADD_MODERATORS": "إضافة مشرفين",
+    "BUTTON_ADD_ADMINS": "إضافة مسؤولين",
+    "HEADING_SETUP_COMPLETED": "اكتمل الإعداد.",
+    "SUBHEADING_SETUP_LOG": "سجل الإعداد"
 }

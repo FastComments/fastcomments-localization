@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Aanmelden mislukt",
     "HEADING_LIGHT": "Aanmelden ",
-    "HEADING_BOLD": "Mislukt"
+    "HEADING_BOLD": "Mislukt",
+    "ERROR_EXPIRED": "Deze URL is verlopen. Hebt u deze URL al gebruikt?",
+    "ERROR_USER_NOT_FOUND": "We konden deze gebruiker niet vinden. Klopt de URL die u hebt?",
+    "ERROR_INTERNAL": "Er is een interne fout opgetreden."
 }

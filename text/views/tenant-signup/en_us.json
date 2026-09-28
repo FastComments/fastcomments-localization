@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "No need to input subdomains or localhost. For multiple sites, separate them with commas.",
     "TOS_TEXT": "By clicking Create Account, you agree to the <a href=\"/terms-of-service\" target=\"_blank\">Terms of Service</a>.",
     "BUTTON_CREATE_ACCOUNT": "Create Account",
-    "ERROR_SIGNUP_ALREADY_STARTED": "The sign up process has already been started and can't be submitted again. Maybe you refreshed the page?"
+    "ERROR_SIGNUP_ALREADY_STARTED": "The sign up process has already been started and can't be submitted again. Maybe you refreshed the page?",
+    "ERROR_INVALID_DOMAINS": "It seems the domains provided are invalid. Please review and submit again.",
+    "ERROR_PACKAGE_REQUIRED": "Package selection is required.",
+    "ERROR_INVALID_PACKAGE": "Invalid package selected. Please choose a valid package.",
+    "ERROR_TEMPORARY_EMAIL": "We do not accept temporary email addresses.",
+    "ERROR_VALID_EMAIL_REQUIRED": "A valid email is required.",
+    "ERROR_INPUT_TOO_LONG": "Oh no! You've entered input that is way too long.",
+    "ERROR_USERNAME_REQUIRED": "A username is required.",
+    "ERROR_EMAIL_REQUIRED": "Your email is required.",
+    "ERROR_COMPANY_NAME_REQUIRED": "A company name is required.",
+    "ERROR_DOMAINS_REQUIRED": "A list of domains in comma-separated format is required.",
+    "ERROR_INVALID_COUPON": "That coupon code is not valid.",
+    "ERROR_USERNAME_TAKEN": "Oh no! That username is taken.",
+    "ERROR_CREATING_ACCOUNT": "Oh no! There was an error creating your account."
 }

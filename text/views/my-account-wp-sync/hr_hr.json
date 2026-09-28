@@ -3,5 +3,16 @@
     "HEADING": "WordPress Connect",
     "MESSAGE_IMPORTING": "Trenutno uvozimo vaše komentare kako bismo ih mogli posluživati s vašeg bloga. Možete ostaviti ovu stranicu otvorenu ako želite ili je možete zatvoriti, a mi ćemo vam poslati e-poštu kada to bude gotovo. Ako se želite kasnije vratiti i provjeriti status, jednostavno kliknite gumb Uvoz/Izvoz pri vrhu.",
     "MESSAGE_LOADING": "...učitavanje...",
-    "MESSAGE_AFTER_DONE": "Nakon što to učinite, vaše ćemo komentare sinkronizirati s vašom WordPress stranicom tako da ako ikada deaktivirate FastComments, nećete izgubiti nikakve podatke."
+    "MESSAGE_AFTER_DONE": "Nakon što to učinite, vaše ćemo komentare sinkronizirati s vašom WordPress stranicom tako da ako ikada deaktivirate FastComments, nećete izgubiti nikakve podatke.",
+    "STATUS_POWERING_UP": "Pokretanje...",
+    "STATUS_IMPORTED_COUNT": "Uvezeno [count] od [total] komentara...",
+    "STATUS_DETERMINING_COUNT": "Utvrđivanje broja komentara...",
+    "STATUS_ALL_SET": "Sve je spremno! FastComments bi sada trebao biti omogućen na vašem blogu.",
+    "STATUS_CLOSE_PAGE": "Sada možete zatvoriti ovu stranicu.",
+    "STATUS_SETUP_BILLING_LINK": "Zatim kliknite ovdje za postavljanje podataka za naplatu.",
+    "STATUS_IMPORT_FAILED": "O ne, došlo je do pogreške! Ako se to ponavlja, obratite se podršci.",
+    "STATUS_IMPORT_EXPIRED": "Čini se da je ovaj uvoz obavljen prije nekog vremena. Možete zatvoriti ovaj prozor.",
+    "ERROR_INVALID_URL": "O ne! Čini se da je vaš URL nevažeći.",
+    "ERROR_SESSION_EXPIRED": "O ne! Čini se da je vaša sesija istekla. Ponovno se prijavite i osvježite ovu stranicu.",
+    "ERROR_GENERIC": "O ne! Čini se da smo naišli na problem!"
 }

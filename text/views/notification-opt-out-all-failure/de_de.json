@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Abmeldung fehlgeschlagen",
     "HEADING_LIGHT": "Opt-out  ",
-    "HEADING_BOLD": "Fehlgeschlagen"
+    "HEADING_BOLD": "Fehlgeschlagen",
+    "ERROR_EXPIRED": "Diese URL ist abgelaufen. Haben Sie sich bereits abgemeldet?",
+    "ERROR_USER_NOT_FOUND": "Wir konnten diesen Benutzer nicht finden. Ist Ihre URL korrekt?",
+    "ERROR_INTERNAL": "Es ist ein interner Fehler aufgetreten."
 }

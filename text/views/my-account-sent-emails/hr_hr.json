@@ -19,5 +19,8 @@
     "MESSAGE_NO_EMAILS": "Nemate poslanih e-poruka.",
     "VALUE_UNKNOWN": "Nepoznato",
     "VALUE_NO_SUBJECT": "(Bez predmeta)",
-    "VALUE_NA": "N/A"
+    "VALUE_NA": "N/A",
+    "ERROR_VERIFY_EMAIL": "Potvrdite svoju e-adresu za pristup poslanim e-porukama. Provjerite ulaznu poštu za e-poruku za potvrdu ili je ponovno pošaljite iz postavki računa.",
+    "ERROR_LOAD_SENT_EMAILS": "Učitavanje poslanih e-poruka nije uspjelo. Pokušajte ponovno kasnije.",
+    "ERROR_LOAD_EMAIL_DETAIL": "Učitavanje pojedinosti e-poruke nije uspjelo. Pokušajte ponovno kasnije."
 }

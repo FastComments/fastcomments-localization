@@ -38,5 +38,8 @@
     "RETENTION_INFO": "I registri dei webhook vengono conservati per un anno.",
     "N_A_VALUES_NOTE": "Alcune voci potrebbero mostrare N/D per valori che non sempre abbiamo raccolto.",
     "LOG_DETAILS_HEADING": "Dettagli del registro",
-    "CLOSE_BUTTON": "Chiudi"
+    "CLOSE_BUTTON": "Chiudi",
+    "EVENT_TYPE_CREATE": "Creazione",
+    "EVENT_TYPE_UPDATE": "Aggiornamento",
+    "EVENT_TYPE_DELETE": "Eliminazione"
 }

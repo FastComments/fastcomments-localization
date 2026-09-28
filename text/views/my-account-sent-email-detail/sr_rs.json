@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "Послата е-пошта <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "PAGE_TITLE": "Послата е-пошта <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> - FastComments",
     "BUTTON_BACK": "← Назад на послате имејлове",
-    "HEADING": "Послата е-пошта <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "HEADING": "Послата е-пошта <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>",
     "LABEL_DATE": "Датум:",
     "LABEL_FROM": "Од:",
     "LABEL_TO": "За:",

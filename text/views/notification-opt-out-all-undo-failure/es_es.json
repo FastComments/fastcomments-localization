@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Error al reactivar la suscripción",
     "HEADING_LIGHT": "Reactivación ",
-    "HEADING_BOLD": "fallida"
+    "HEADING_BOLD": "fallida",
+    "ERROR_EXPIRED": "Esta URL ha caducado. ¿Ya la has utilizado?",
+    "ERROR_USER_NOT_FOUND": "No hemos encontrado a ese usuario. ¿Es correcta la URL que tienes?",
+    "ERROR_INTERNAL": "Se ha producido un error interno."
 }

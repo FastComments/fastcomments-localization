@@ -213,9 +213,9 @@
     "HEADING_ADVANCED": "Avançado",
     "LABEL_SHOW_ADVANCED_OPTIONS": "Mostrar opções avançadas",
     "LABEL_USE_ABSOLUTE_DATES": "Usar datas absolutas?",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Isso exibirá datas como \"<%= new Date().toLocaleString() %>\" em vez de \"agora mesmo\".",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Isso exibirá datas como \"<%= new Date().toLocaleString(htmlLang) %>\" em vez de \"agora mesmo\".",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "Usar datas relativas e absolutas?",
-    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Isso exibirá datas como \"agora mesmo (<%= new Date().toLocaleDateString() %>)\" em vez de \"agora mesmo\".",
+    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Isso exibirá datas como \"agora mesmo (<%= new Date().toLocaleDateString(htmlLang) %>)\" em vez de \"agora mesmo\".",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "Renderização de HTML de comentários",
     "OPTION_RENDER_ALL": "Renderizar tudo (padrão)",
     "OPTION_LINKS_AS_TEXT": "Links como texto.",
@@ -292,5 +292,8 @@
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
     "LABEL_ALLOWED_EMBED_DOMAINS": "Domínios de incorporação adicionais",
     "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Lista separada por vírgulas de nomes de host adicionais para incorporar, além dos provedores confiáveis integrados.",
-    "TEXT_ALLOW_EMBEDS_NOTE": "Permite que os comentaristas incorporem vídeos e players (YouTube, Vimeo, SoundCloud, Spotify e outros) colando o iframe do provedor. Somente provedores confiáveis são permitidos."
+    "TEXT_ALLOW_EMBEDS_NOTE": "Permite que os comentaristas incorporem vídeos e players (YouTube, Vimeo, SoundCloud, Spotify e outros) colando o iframe do provedor. Somente provedores confiáveis são permitidos.",
+    "TEXT_NO_TEXT_OVERRIDES": "No momento, você não tem substituições de texto.",
+    "TABLE_HEADER_DEFAULT_TEXT": "Texto padrão",
+    "TABLE_HEADER_OVERRIDE": "Substituição"
 }

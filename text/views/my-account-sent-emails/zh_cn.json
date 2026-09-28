@@ -19,5 +19,8 @@
     "MESSAGE_NO_EMAILS": "您没有任何已发送的电子邮件。",
     "VALUE_UNKNOWN": "未知",
     "VALUE_NO_SUBJECT": "（无主题）",
-    "VALUE_NA": "不适用"
+    "VALUE_NA": "不适用",
+    "ERROR_VERIFY_EMAIL": "请先验证您的邮箱地址，才能查看已发送邮件。请在收件箱中查找验证邮件，或在账户设置中重新发送。",
+    "ERROR_LOAD_SENT_EMAILS": "无法加载已发送邮件。请稍后再试。",
+    "ERROR_LOAD_EMAIL_DETAIL": "无法加载邮件详情。请稍后再试。"
 }

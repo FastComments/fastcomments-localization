@@ -213,9 +213,9 @@
     "HEADING_ADVANCED": "Avanzato",
     "LABEL_SHOW_ADVANCED_OPTIONS": "Mostra opzioni avanzate",
     "LABEL_USE_ABSOLUTE_DATES": "Utilizzare date assolute?",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Verranno visualizzate date come \"<%= new Date().toLocaleString() %>\" invece di \"proprio ora\".",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "In questo modo verranno visualizzate le date nel formato \"<%= new Date().toLocaleString(htmlLang) %>\" invece di \"proprio ora\".",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "Utilizzare sia date relative che assolute?",
-    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Verranno visualizzate date come \"proprio ora (<%= new Date().toLocaleDateString() %>)\" invece di \"proprio ora\".",
+    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "In questo modo le date verranno visualizzate come \"proprio ora (<%= new Date().toLocaleDateString(htmlLang) %>)\" invece di \"proprio ora\".",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "Rendering HTML dei commenti",
     "OPTION_RENDER_ALL": "Rendi tutto (predefinito)",
     "OPTION_LINKS_AS_TEXT": "Collegamenti come testo.",
@@ -292,5 +292,8 @@
     "TEXT_ALLOW_EMBEDS_NOTE": "Consente agli utenti di incorporare video e lettori multimediali (YouTube, Vimeo, SoundCloud, Spotify e altri) incollando l'iframe del fornitore. Sono ammessi solo fornitori affidabili.",
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
     "LABEL_ALLOWED_EMBED_DOMAINS": "Domini di incorporamento aggiuntivi",
-    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Elenco di hostname aggiuntivi da incorporare, separati da virgole, da consentire in aggiunta ai provider attendibili predefiniti."
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Elenco di hostname aggiuntivi da incorporare, separati da virgole, da consentire in aggiunta ai provider attendibili predefiniti.",
+    "TEXT_NO_TEXT_OVERRIDES": "Al momento non hai sostituzioni di testo.",
+    "TABLE_HEADER_DEFAULT_TEXT": "Testo predefinito",
+    "TABLE_HEADER_OVERRIDE": "Sostituzione"
 }

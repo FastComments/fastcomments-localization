@@ -41,7 +41,6 @@
     "TEXT_NO_PAGE_LIKES": "這裡沒什麼特別的。或許你想設定<a href=\"https://docs.fastcomments.com/guide-page-reacts.html\" target=\"_blank\">頁面響應</a>元件？",
     "TEXT_NO_USERS_ONLINE": "目前沒有使用者在線上，或在使用者在線上的頁面上沒有收集到任何評論。",
     "TEXT_NOTHING_TO_SEE": "這裡沒什麼好看的。",
-    "HEADING_METRICS_BY_MONTH": "指標依據<%= timePeriod === '12months' ? 'Month - Last 12 Months' : 'Day - Last 30 Days' %>",
     "TABLE_HEADER_MONTH": "月",
     "TABLE_HEADER_DAY": "天",
     "TABLE_HEADER_PAGE_LOADS": "頁面載入",
@@ -66,5 +65,7 @@
     "TABLE_HEADER_SYNC_REQUESTS_SUCCESS": "同步請求成功",
     "TABLE_HEADER_SYNC_REQUESTS_FAILURE": "同步請求失敗",
     "TABLE_HEADER_IMAGES_UPLOADED": "圖片已上傳",
-    "TABLE_HEADER_IMAGES_SIZE_BYTES": "圖片大小（位元組）"
+    "TABLE_HEADER_IMAGES_SIZE_BYTES": "圖片大小（位元組）",
+    "HEADING_METRICS_BY_MONTH_LAST_12_MONTHS": "每月指標 - 過去 12 個月",
+    "HEADING_METRICS_BY_DAY_LAST_30_DAYS": "每日指標 - 過去 30 天"
 }

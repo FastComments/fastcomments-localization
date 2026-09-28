@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "Samtale ",
     "HERO_TITLE_BOLD": "Kunne ikke oprettes",
     "HERO_DESCRIPTION": "Vi kunne ikke oprette din samtale. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
-    "BUTTON_TRY_AGAIN": "Prøv at oprette en ny samtale."
+    "BUTTON_TRY_AGAIN": "Prøv at oprette en ny samtale.",
+    "ERROR_SIGN_IN": "Log ind på din konto, før du opretter samtaler.",
+    "ERROR_LIMIT_REACHED": "Du har nået det maksimale antal samtaler for din konto (2 millioner). Kontakt support for at få grænsen hævet.",
+    "ERROR_NAME_TOO_LONG": "Navnet på din samtale overskrider det maksimalt tilladte antal tegn (300).",
+    "ERROR_ALREADY_EXISTS": "Der findes allerede en samtale med det navn.",
+    "ERROR_NOT_FOUND": "Samtalen kunne ikke findes.",
+    "ERROR_INTERNAL": "Der opstod en intern fejl. Rapportér den til din kontaktperson i kundeservice."
 }

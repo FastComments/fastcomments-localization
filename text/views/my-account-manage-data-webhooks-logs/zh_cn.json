@@ -38,5 +38,8 @@
     "RETENTION_INFO": "Webhook 日志保留一年。",
     "N_A_VALUES_NOTE": "部分条目可能显示 N/A，表示我们并非一直收集到这些值。",
     "LOG_DETAILS_HEADING": "日志详情",
-    "CLOSE_BUTTON": "关闭"
+    "CLOSE_BUTTON": "关闭",
+    "EVENT_TYPE_CREATE": "创建",
+    "EVENT_TYPE_UPDATE": "更新",
+    "EVENT_TYPE_DELETE": "删除"
 }

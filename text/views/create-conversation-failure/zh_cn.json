@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "对话  ",
     "HERO_TITLE_BOLD": "无法创建",
     "HERO_DESCRIPTION": "我们无法创建您的对话。<%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
-    "BUTTON_TRY_AGAIN": "尝试创建新对话。"
+    "BUTTON_TRY_AGAIN": "尝试创建新对话。",
+    "ERROR_SIGN_IN": "创建对话前，请先登录您的租户。",
+    "ERROR_LIMIT_REACHED": "您的租户对话数量已达上限（200 万）。如需提高此上限，请联系支持团队。",
+    "ERROR_NAME_TOO_LONG": "对话名称超出了允许的最大字符数（300）。",
+    "ERROR_ALREADY_EXISTS": "同名对话已存在。",
+    "ERROR_NOT_FOUND": "找不到该对话。",
+    "ERROR_INTERNAL": "发生了内部错误。请将此问题报告给您的客户服务代表。"
 }

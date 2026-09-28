@@ -41,7 +41,6 @@
     "TEXT_NO_PAGE_LIKES": "Hier gibt es nichts zu sehen. Vielleicht möchten Sie das <a href=\"https://docs.fastcomments.com/guide-page-reacts.html\" target=\"_blank\">Page Reacts</a> -Widget einrichten?",
     "TEXT_NO_USERS_ONLINE": "Derzeit sind keine Benutzer online, oder es wurden keine Kommentare für Seiten gesammelt, auf denen Benutzer online sind.",
     "TEXT_NOTHING_TO_SEE": "Hier gibt es nichts zu sehen.",
-    "HEADING_METRICS_BY_MONTH": "Kennzahlen von <%= timePeriod === '12months' ? 'Month - Last 12 Months' : 'Day - Last 30 Days' %>",
     "TABLE_HEADER_MONTH": "Monat",
     "TABLE_HEADER_DAY": "Tag",
     "TABLE_HEADER_PAGE_LOADS": "Seitenaufrufe",
@@ -66,5 +65,7 @@
     "TABLE_HEADER_SYNC_REQUESTS_SUCCESS": "Synchronisierungsanfragen erfolgreich",
     "TABLE_HEADER_SYNC_REQUESTS_FAILURE": "Fehler bei Synchronisierungsanfragen",
     "TABLE_HEADER_IMAGES_UPLOADED": "Hochgeladene Bilder",
-    "TABLE_HEADER_IMAGES_SIZE_BYTES": "Bildgröße (Bytes)"
+    "TABLE_HEADER_IMAGES_SIZE_BYTES": "Bildgröße (Bytes)",
+    "HEADING_METRICS_BY_MONTH_LAST_12_MONTHS": "Kennzahlen nach Monat - letzte 12 Monate",
+    "HEADING_METRICS_BY_DAY_LAST_30_DAYS": "Kennzahlen nach Tag - letzte 30 Tage"
 }

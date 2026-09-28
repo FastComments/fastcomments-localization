@@ -14,5 +14,9 @@
     "ERROR_CANNOT_DELETE_REQUIRED": "This file is required and cannot be deleted.",
     "TAB_LOCALIZATIONS": "Localizations",
     "TEXT_LOCALIZATIONS_INFO": "Customize the default text strings used in your site theme. Changes apply only to the selected locale.",
-    "LABEL_CUSTOMIZE_FOR_LOCALE": "Customize for locale:"
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Customize for locale:",
+    "LABEL_CUSTOMIZE_VALUE": "Customize \"[value]\"",
+    "OVERRIDES_COUNT_O": "[count] override",
+    "OVERRIDES_COUNT": "[count] overrides",
+    "CONFIRM_UNSAVED_CHANGES": "You have unsaved changes."
 }

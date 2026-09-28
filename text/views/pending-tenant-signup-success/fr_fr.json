@@ -4,5 +4,10 @@
     "HEADING_BOLD": "FastComments !",
     "DESCRIPTION": "Nous vous avons envoyé un message. Pour finaliser votre inscription, veuillez consulter le lien qui vous a été envoyé à l'adresse électronique que vous avez fournie.",
     "MESSAGE_RESEND_SUCCESS": "E-mail renvoyé avec succès !",
-    "BUTTON_RESEND": "Renvoyer l'e-mail de vérification"
+    "BUTTON_RESEND": "Renvoyer l'e-mail de vérification",
+    "ERROR_RESEND_USER_NOT_FOUND": "Utilisateur introuvable ou adresse e-mail non correspondante.",
+    "ERROR_RESEND_NO_PENDING_SIGNUP": "Aucune inscription en attente trouvée.",
+    "ERROR_RESEND_RATE_LIMITED_MINUTE": "Vous avez envoyé trop de demandes. Veuillez réessayer dans une minute.",
+    "ERROR_RESEND_RATE_LIMITED_DAY": "Vous avez dépassé la limite quotidienne d'e-mails. Veuillez réessayer demain ou contacter l'assistance.",
+    "ERROR_RESEND_FAILED": "Une erreur s'est produite lors du renvoi de l'e-mail de vérification. Veuillez réessayer plus tard."
 }

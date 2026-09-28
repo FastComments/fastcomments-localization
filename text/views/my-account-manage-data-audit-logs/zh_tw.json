@@ -42,5 +42,9 @@
     "INCLUDE_SUB_TENANTS_DESCRIPTION": "同時搜尋此帳戶管理的租戶的稽核日誌。",
     "DATE_PRESET_CUSTOM": "自訂範圍",
     "FILTER_BY_AFFECTED": "受影響的對象",
-    "FILTER_BY_AFFECTED_PLACEHOLDER": "姓名、電子郵件或 ID"
+    "FILTER_BY_AFFECTED_PLACEHOLDER": "姓名、電子郵件或 ID",
+    "FROM_UI": "UI",
+    "FROM_API": "API",
+    "FROM_CRON": "排程工作",
+    "VALUE_N_A": "不適用"
 }

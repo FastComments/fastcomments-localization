@@ -3,5 +3,16 @@
     "HEADING": "WordPress Connect",
     "MESSAGE_IMPORTING": "Nous importons actuellement vos commentaires afin de les afficher sur votre blog. Vous pouvez laisser cette page ouverte si vous le souhaitez, ou la fermer ; nous vous enverrons un e-mail une fois l’opération terminée. Pour consulter l’état d’avancement de l’importation ultérieurement, cliquez simplement sur le bouton « Importer/Exporter » en haut de la page.",
     "MESSAGE_LOADING": "...chargement...",
-    "MESSAGE_AFTER_DONE": "Une fois cette opération effectuée, nous synchroniserons vos commentaires avec votre site WordPress. Ainsi, si vous désactivez FastComments, vous ne perdrez aucune donnée."
+    "MESSAGE_AFTER_DONE": "Une fois cette opération effectuée, nous synchroniserons vos commentaires avec votre site WordPress. Ainsi, si vous désactivez FastComments, vous ne perdrez aucune donnée.",
+    "STATUS_POWERING_UP": "Démarrage...",
+    "STATUS_IMPORTED_COUNT": "[count] commentaires importés sur [total]...",
+    "STATUS_DETERMINING_COUNT": "Calcul du nombre de commentaires...",
+    "STATUS_ALL_SET": "Tout est prêt ! FastComments devrait maintenant être activé sur votre blog.",
+    "STATUS_CLOSE_PAGE": "Vous pouvez maintenant fermer cette page.",
+    "STATUS_SETUP_BILLING_LINK": "Ensuite, cliquez ici pour configurer vos informations de facturation.",
+    "STATUS_IMPORT_FAILED": "Oh non, une erreur s'est produite ! Si le problème persiste, veuillez contacter l'assistance.",
+    "STATUS_IMPORT_EXPIRED": "Il semble que cette importation ait été effectuée il y a un moment. Vous pouvez fermer cette fenêtre.",
+    "ERROR_INVALID_URL": "Oh non ! Il semble que votre URL ne soit pas valide.",
+    "ERROR_SESSION_EXPIRED": "Oh non ! Il semble que votre session ait expiré. Reconnectez-vous, puis actualisez cette page.",
+    "ERROR_GENERIC": "Oh non ! Il semble que nous ayons rencontré un problème !"
 }

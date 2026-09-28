@@ -41,7 +41,6 @@
     "TEXT_NO_PAGE_LIKES": "여기엔 볼 게 없네요. 혹시 <a href=\"https://docs.fastcomments.com/guide-page-reacts.html\" target=\"_blank\">페이지 리액츠</a> 위젯을 설정하시려는 건가요?",
     "TEXT_NO_USERS_ONLINE": "현재 접속 중인 사용자가 없거나, 접속 중인 페이지에도 댓글이 수집되지 않았습니다.",
     "TEXT_NOTHING_TO_SEE": "여기 볼 거 없어요.",
-    "HEADING_METRICS_BY_MONTH": "측정 기준 작성자: <%= timePeriod === '12months' ? 'Month - Last 12 Months' : 'Day - Last 30 Days' %>",
     "TABLE_HEADER_MONTH": "월",
     "TABLE_HEADER_DAY": "낮",
     "TABLE_HEADER_PAGE_LOADS": "페이지 로드",
@@ -66,5 +65,7 @@
     "TABLE_HEADER_SYNC_REQUESTS_SUCCESS": "동기화 요청 성공",
     "TABLE_HEADER_SYNC_REQUESTS_FAILURE": "동기화 요청 실패",
     "TABLE_HEADER_IMAGES_UPLOADED": "이미지 업로드됨",
-    "TABLE_HEADER_IMAGES_SIZE_BYTES": "이미지 크기(바이트)"
+    "TABLE_HEADER_IMAGES_SIZE_BYTES": "이미지 크기(바이트)",
+    "HEADING_METRICS_BY_MONTH_LAST_12_MONTHS": "월별 지표 - 최근 12개월",
+    "HEADING_METRICS_BY_DAY_LAST_30_DAYS": "일별 지표 - 최근 30일"
 }

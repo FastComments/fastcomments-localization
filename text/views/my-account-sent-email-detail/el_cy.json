@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "Απεστάλη email στις <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "PAGE_TITLE": "Απεστάλη email στις <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> - FastComments",
     "BUTTON_BACK": "← Πίσω στα Απεσταλμένα Ηλεκτρονικά Μηνύματα",
-    "HEADING": "Απεστάλη email στις <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "HEADING": "Απεστάλη email στις <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>",
     "LABEL_DATE": "Ημερομηνία:",
     "LABEL_FROM": "Από:",
     "LABEL_TO": "Προς:",

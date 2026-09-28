@@ -3,5 +3,16 @@
     "HEADING": "Połączenie WordPress",
     "MESSAGE_IMPORTING": "Aktualnie importujemy Twoje komentarze, aby móc je wyświetlać z Twojego bloga. Możesz pozostawić tę stronę otwartą, jeśli chcesz, lub ją zamknąć – wyślemy Ci e-mail, gdy proces się zakończy. Jeśli chcesz wrócić później i sprawdzić status, kliknij przycisk „Importuj/Eksportuj” u góry strony.",
     "MESSAGE_LOADING": "...ładowanie...",
-    "MESSAGE_AFTER_DONE": "Po wykonaniu tej czynności Twoje komentarze będą synchronizowane z Twoją witryną WordPress, więc jeśli kiedykolwiek dezaktywujesz FastComments, nie utracisz żadnych danych."
+    "MESSAGE_AFTER_DONE": "Po wykonaniu tej czynności Twoje komentarze będą synchronizowane z Twoją witryną WordPress, więc jeśli kiedykolwiek dezaktywujesz FastComments, nie utracisz żadnych danych.",
+    "STATUS_POWERING_UP": "Uruchamianie...",
+    "STATUS_IMPORTED_COUNT": "Zaimportowano [count] z [total] komentarzy...",
+    "STATUS_DETERMINING_COUNT": "Ustalanie liczby komentarzy...",
+    "STATUS_ALL_SET": "Wszystko gotowe! FastComments powinien być już włączony na Twoim blogu.",
+    "STATUS_CLOSE_PAGE": "Możesz teraz zamknąć tę stronę.",
+    "STATUS_SETUP_BILLING_LINK": "Następnie kliknij tutaj, aby skonfigurować dane rozliczeniowe.",
+    "STATUS_IMPORT_FAILED": "Ojej, wystąpił błąd! Jeśli problem będzie się powtarzał, skontaktuj się z pomocą techniczną.",
+    "STATUS_IMPORT_EXPIRED": "Wygląda na to, że ten import został wykonany jakiś czas temu. Możesz zamknąć to okno.",
+    "ERROR_INVALID_URL": "Ojej! Wygląda na to, że Twój adres URL jest nieprawidłowy.",
+    "ERROR_SESSION_EXPIRED": "Ojej! Wygląda na to, że Twoja sesja wygasła. Zaloguj się ponownie i odśwież tę stronę.",
+    "ERROR_GENERIC": "Ojej! Wygląda na to, że coś poszło nie tak!"
 }

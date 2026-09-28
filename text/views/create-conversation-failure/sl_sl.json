@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "Pogovor ",
     "HERO_TITLE_BOLD": "Ni bilo mogoče ustvariti",
     "HERO_DESCRIPTION": "Vašega pogovora nismo mogli ustvariti. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'To je bila notranja napaka. Prosimo, sporočite to svojemu predstavniku za pomoč strankam.' %>",
-    "BUTTON_TRY_AGAIN": "Poskusite ustvariti nov pogovor."
+    "BUTTON_TRY_AGAIN": "Poskusite ustvariti nov pogovor.",
+    "ERROR_SIGN_IN": "Pred ustvarjanjem pogovorov se prijavite v svoj račun.",
+    "ERROR_LIMIT_REACHED": "Dosegli ste največje število pogovorov za svoj račun (2 milijona). Če želite povečati to omejitev, se obrnite na podporo.",
+    "ERROR_NAME_TOO_LONG": "Ime pogovora presega največje dovoljeno število znakov (300).",
+    "ERROR_ALREADY_EXISTS": "Pogovor s tem imenom že obstaja.",
+    "ERROR_NOT_FOUND": "Tega pogovora ni bilo mogoče najti.",
+    "ERROR_INTERNAL": "Prišlo je do notranje napake. Sporočite jo svojemu predstavniku za pomoč strankam."
 }

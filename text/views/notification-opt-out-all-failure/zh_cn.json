@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "退出失败",
     "HEADING_LIGHT": "选择退出  ",
-    "HEADING_BOLD": "失败"
+    "HEADING_BOLD": "失败",
+    "ERROR_EXPIRED": "此 URL 已过期。您是否已经选择退出？",
+    "ERROR_USER_NOT_FOUND": "找不到该用户。请确认您的 URL 是否正确。",
+    "ERROR_INTERNAL": "我们遇到了内部错误。"
 }

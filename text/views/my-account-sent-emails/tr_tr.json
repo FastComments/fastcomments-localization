@@ -19,5 +19,8 @@
     "MESSAGE_NO_EMAILS": "Gönderdiğiniz hiçbir e-posta yok.",
     "VALUE_UNKNOWN": "Bilinmiyor",
     "VALUE_NO_SUBJECT": "(Konu Yok)",
-    "VALUE_NA": "Yok"
+    "VALUE_NA": "Yok",
+    "ERROR_VERIFY_EMAIL": "Gönderilen e-postalara erişmek için lütfen e-posta adresinizi doğrulayın. Doğrulama e-postası için gelen kutunuzu kontrol edin veya hesap ayarlarınızdan yeniden gönderin.",
+    "ERROR_LOAD_SENT_EMAILS": "Gönderilen e-postalar yüklenemedi. Lütfen daha sonra tekrar deneyin.",
+    "ERROR_LOAD_EMAIL_DETAIL": "E-posta ayrıntıları yüklenemedi. Lütfen daha sonra tekrar deneyin."
 }

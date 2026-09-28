@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "Nie ma potrzeby wprowadzania subdomen ani localhost. W przypadku wielu witryn rozdziel je przecinkami.",
     "TOS_TEXT": "Klikając przycisk Utwórz konto, akceptujesz <a href=\"/terms-of-service\" target=\"_blank\">Warunki korzystania z usługi</a>.",
     "BUTTON_CREATE_ACCOUNT": "Utwórz konto",
-    "ERROR_SIGNUP_ALREADY_STARTED": "Proces rejestracji już się rozpoczął i nie można go ponownie wysłać. Może odświeżyłeś stronę?"
+    "ERROR_SIGNUP_ALREADY_STARTED": "Proces rejestracji już się rozpoczął i nie można go ponownie wysłać. Może odświeżyłeś stronę?",
+    "ERROR_INVALID_DOMAINS": "Wygląda na to, że podane domeny są nieprawidłowe. Sprawdź je i prześlij ponownie.",
+    "ERROR_PACKAGE_REQUIRED": "Wybór pakietu jest wymagany.",
+    "ERROR_INVALID_PACKAGE": "Wybrano nieprawidłowy pakiet. Wybierz prawidłowy pakiet.",
+    "ERROR_TEMPORARY_EMAIL": "Nie akceptujemy tymczasowych adresów e-mail.",
+    "ERROR_VALID_EMAIL_REQUIRED": "Wymagany jest prawidłowy adres e-mail.",
+    "ERROR_INPUT_TOO_LONG": "Ojej! Wprowadzony tekst jest zdecydowanie za długi.",
+    "ERROR_USERNAME_REQUIRED": "Nazwa użytkownika jest wymagana.",
+    "ERROR_EMAIL_REQUIRED": "Twój adres e-mail jest wymagany.",
+    "ERROR_COMPANY_NAME_REQUIRED": "Nazwa firmy jest wymagana.",
+    "ERROR_DOMAINS_REQUIRED": "Wymagana jest lista domen rozdzielonych przecinkami.",
+    "ERROR_INVALID_COUPON": "Ten kod kuponu jest nieprawidłowy.",
+    "ERROR_USERNAME_TAKEN": "Ojej! Ta nazwa użytkownika jest już zajęta.",
+    "ERROR_CREATING_ACCOUNT": "Ojej! Wystąpił błąd podczas tworzenia Twojego konta."
 }

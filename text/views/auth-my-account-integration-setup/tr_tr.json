@@ -26,5 +26,18 @@
     "TITLE_FETCH_EVENTS": "Senkronizasyon İsteği",
     "DESC_FETCH_EVENTS": "Entegrasyon, en son yorumlar ve ilgili veriler için olay günlüğünü istedi.",
     "TITLE_GET_COMMENTS": "Yorumlar Alınıyor...",
-    "DESC_GET_COMMENTS": "Entegrasyon yorum verilerini istedi."
+    "DESC_GET_COMMENTS": "Entegrasyon yorum verilerini istedi.",
+    "TITLE_NO_LOGS": "Kayıt Yok",
+    "DESC_NO_LOGS_EXPIRED": "Hiç kayıt bulunamadı. Süreleri dolmuş gibi görünüyor.",
+    "DESC_NO_LOGS_EXPIRED_SETUP_DONE": "Hiç kayıt bulunamadı. Süreleri dolmuş gibi görünüyor. Ancak kurulumun tamamlandığını görebiliyoruz.",
+    "ALT_DONE": "Tamamlandı",
+    "TITLE_ALL_SET": "Her şey hazır!",
+    "DESC_SETUP_COMPLETED": "İlk kurulum tamamlandı! Entegrasyon artık yayında.",
+    "HEADING_NEXT_STEPS": "Sonraki Adımlar",
+    "BUTTON_DOCUMENTATION": "Dokümantasyon",
+    "BUTTON_CUSTOMIZE": "Özelleştir",
+    "BUTTON_ADD_MODERATORS": "Moderatör Ekle",
+    "BUTTON_ADD_ADMINS": "Yönetici Ekle",
+    "HEADING_SETUP_COMPLETED": "Kurulum Tamamlandı.",
+    "SUBHEADING_SETUP_LOG": "Kurulum Kaydı"
 }

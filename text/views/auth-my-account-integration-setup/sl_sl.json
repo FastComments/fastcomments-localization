@@ -29,5 +29,19 @@
     "TITLE_FETCH_EVENTS": "Zahteva za sinhronizacijo",
     "DESC_FETCH_EVENTS": "Integracija je zahtevala dnevnik dogodkov za najnovejše komentarje in povezane podatke.",
     "TITLE_GET_COMMENTS": "Pridobivanje komentarjev...",
-    "DESC_GET_COMMENTS": "Integracija je zahtevala podatke komentarjev."
+    "DESC_GET_COMMENTS": "Integracija je zahtevala podatke komentarjev.",
+    "DESC_COMMENTS_REMAINING_O": "Za sinhronizacijo je ostal še <b>[countRemaining]</b>.",
+    "TITLE_NO_LOGS": "Ni dnevnikov",
+    "DESC_NO_LOGS_EXPIRED": "Dnevnikov ni bilo mogoče najti. Videti je, da so potekli.",
+    "DESC_NO_LOGS_EXPIRED_SETUP_DONE": "Dnevnikov ni bilo mogoče najti. Videti je, da so potekli. Vidimo pa, da je bila nastavitev končana.",
+    "ALT_DONE": "Končano",
+    "TITLE_ALL_SET": "Vse je pripravljeno!",
+    "DESC_SETUP_COMPLETED": "Začetna nastavitev je končana! Integracija je zdaj aktivna.",
+    "HEADING_NEXT_STEPS": "Naslednji koraki",
+    "BUTTON_DOCUMENTATION": "Dokumentacija",
+    "BUTTON_CUSTOMIZE": "Prilagodi",
+    "BUTTON_ADD_MODERATORS": "Dodaj moderatorje",
+    "BUTTON_ADD_ADMINS": "Dodaj skrbnike",
+    "HEADING_SETUP_COMPLETED": "Nastavitev je končana.",
+    "SUBHEADING_SETUP_LOG": "Dnevnik nastavitve"
 }

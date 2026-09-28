@@ -28,5 +28,18 @@
     "TITLE_FETCH_EVENTS": "Solicitud de sincronización",
     "DESC_FETCH_EVENTS": "La integración solicitó el registro de eventos de los últimos comentarios y datos relacionados.",
     "TITLE_GET_COMMENTS": "Obteniendo comentarios...",
-    "DESC_GET_COMMENTS": "La integración solicitó datos de comentarios."
+    "DESC_GET_COMMENTS": "La integración solicitó datos de comentarios.",
+    "TITLE_NO_LOGS": "Sin registros",
+    "DESC_NO_LOGS_EXPIRED": "No se encontraron registros. Parece que han caducado.",
+    "DESC_NO_LOGS_EXPIRED_SETUP_DONE": "No se encontraron registros. Parece que han caducado. Sin embargo, vemos que la configuración se ha completado.",
+    "ALT_DONE": "Listo",
+    "TITLE_ALL_SET": "¡Todo listo!",
+    "DESC_SETUP_COMPLETED": "¡La configuración inicial se ha completado! La integración ya está activa.",
+    "HEADING_NEXT_STEPS": "Próximos pasos",
+    "BUTTON_DOCUMENTATION": "Documentación",
+    "BUTTON_CUSTOMIZE": "Personalizar",
+    "BUTTON_ADD_MODERATORS": "Añadir moderadores",
+    "BUTTON_ADD_ADMINS": "Añadir administradores",
+    "HEADING_SETUP_COMPLETED": "Configuración completada.",
+    "SUBHEADING_SETUP_LOG": "Registro de configuración"
 }

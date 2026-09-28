@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "Konwersacja ",
     "HERO_TITLE_BOLD": "nie mogła zostać utworzona",
     "HERO_DESCRIPTION": "Nie udało się utworzyć Twojej konwersacji. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
-    "BUTTON_TRY_AGAIN": "Spróbuj utworzyć nową konwersację."
+    "BUTTON_TRY_AGAIN": "Spróbuj utworzyć nową konwersację.",
+    "ERROR_SIGN_IN": "Zaloguj się do swojego konta przed utworzeniem konwersacji.",
+    "ERROR_LIMIT_REACHED": "Osiągnięto maksymalną liczbę konwersacji dla Twojego konta (2 miliony). Aby zwiększyć ten limit, skontaktuj się z pomocą techniczną.",
+    "ERROR_NAME_TOO_LONG": "Nazwa konwersacji przekracza maksymalną dozwoloną liczbę znaków (300).",
+    "ERROR_ALREADY_EXISTS": "Konwersacja o tej nazwie już istnieje.",
+    "ERROR_NOT_FOUND": "Nie znaleziono tej konwersacji.",
+    "ERROR_INTERNAL": "Wystąpił błąd wewnętrzny. Zgłoś go swojemu przedstawicielowi obsługi klienta."
 }

@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Nie udało się wyrazić zgody",
     "HEADING_LIGHT": "Wyrażenie zgody ",
-    "HEADING_BOLD": "nie powiodło się"
+    "HEADING_BOLD": "nie powiodło się",
+    "ERROR_EXPIRED": "Ten adres URL wygasł. Czy to możliwe, że został już użyty?",
+    "ERROR_USER_NOT_FOUND": "Nie udało się znaleźć tego użytkownika. Czy Twój adres URL jest prawidłowy?",
+    "ERROR_INTERNAL": "Wystąpił błąd wewnętrzny."
 }

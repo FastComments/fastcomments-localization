@@ -16,5 +16,18 @@
     "LABEL_WEBSITES": "*المواقع الإلكترونية:",
     "ERROR_SIGNUP_ALREADY_STARTED": "لقد بدأت عملية التسجيل بالفعل ولا يمكن إرسالها مرة أخرى. ربما قمت بتحديث الصفحة؟",
     "DOMAINS_DESCRIPTION": "لا حاجة لإدخال النطاقات الفرعية أو localhost. بالنسبة للمواقع المتعددة، افصل بينها بفواصل.",
-    "TOS_TEXT": "بالنقر على \"إنشاء حساب\"، فإنك توافق على <a href=\"/terms-of-service\" target=\"_blank\">شروط الخدمة</a>."
+    "TOS_TEXT": "بالنقر على \"إنشاء حساب\"، فإنك توافق على <a href=\"/terms-of-service\" target=\"_blank\">شروط الخدمة</a>.",
+    "ERROR_INVALID_DOMAINS": "يبدو أن النطاقات المُدخلة غير صالحة. يرجى مراجعتها وإرسالها مرة أخرى.",
+    "ERROR_PACKAGE_REQUIRED": "يجب اختيار باقة.",
+    "ERROR_INVALID_PACKAGE": "الباقة المختارة غير صالحة. يرجى اختيار باقة صالحة.",
+    "ERROR_TEMPORARY_EMAIL": "لا نقبل عناوين البريد الإلكتروني المؤقتة.",
+    "ERROR_VALID_EMAIL_REQUIRED": "يجب إدخال بريد إلكتروني صالح.",
+    "ERROR_INPUT_TOO_LONG": "عذرًا! النص الذي أدخلته طويل جدًا.",
+    "ERROR_USERNAME_REQUIRED": "اسم المستخدم مطلوب.",
+    "ERROR_EMAIL_REQUIRED": "بريدك الإلكتروني مطلوب.",
+    "ERROR_COMPANY_NAME_REQUIRED": "اسم الشركة مطلوب.",
+    "ERROR_DOMAINS_REQUIRED": "يجب إدخال قائمة بالنطاقات مفصولة بفواصل.",
+    "ERROR_INVALID_COUPON": "رمز القسيمة هذا غير صالح.",
+    "ERROR_USERNAME_TAKEN": "عذرًا! اسم المستخدم هذا مستخدم بالفعل.",
+    "ERROR_CREATING_ACCOUNT": "عذرًا! حدث خطأ أثناء إنشاء حسابك."
 }

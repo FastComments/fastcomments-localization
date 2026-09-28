@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Prijavljivanje nije uspelo",
     "HEADING_LIGHT": "Prijavljivanje ",
-    "HEADING_BOLD": "neuspelo"
+    "HEADING_BOLD": "neuspelo",
+    "ERROR_EXPIRED": "Ovaj URL je istekao. Da li ste ga već iskoristili?",
+    "ERROR_USER_NOT_FOUND": "Nismo pronašli tog korisnika. Da li je vaš URL ispravan?",
+    "ERROR_INTERNAL": "Došlo je do interne greške."
 }

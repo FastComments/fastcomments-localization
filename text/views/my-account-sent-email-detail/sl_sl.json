@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "Poslano e-poštno sporočilo dne <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "PAGE_TITLE": "Poslano e-poštno sporočilo dne <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> - FastComments",
     "BUTTON_BACK": "← Nazaj na poslana e-poštna sporočila",
-    "HEADING": "Poslano e-poštno sporočilo dne <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "HEADING": "Poslano e-poštno sporočilo dne <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>",
     "LABEL_DATE": "Datum:",
     "LABEL_FROM": "Od:",
     "LABEL_TO": "Za:",

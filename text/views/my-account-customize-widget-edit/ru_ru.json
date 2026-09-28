@@ -213,9 +213,9 @@
     "HEADING_ADVANCED": "Дополнительно",
     "LABEL_SHOW_ADVANCED_OPTIONS": "Показать дополнительные параметры",
     "LABEL_USE_ABSOLUTE_DATES": "Использовать абсолютные даты?",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Это позволит отображать даты в формате \"<%= new Date().toLocaleString() %>\" вместо \"только что\".",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Это позволит отображать даты в формате \"<%= new Date().toLocaleString(htmlLang) %>\" вместо \"только что\".",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "Использовать как относительные, так и абсолютные даты?",
-    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Это позволит отображать даты в формате \"только что (<%= new Date().toLocaleDateString() %>)\" вместо \"только что\".",
+    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Это позволит отображать даты в формате \"только что (<%= new Date().toLocaleDateString(htmlLang) %>)\" вместо \"только что\".",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "Рендеринг HTML-комментариев",
     "OPTION_RENDER_ALL": "Отобразить все (по умолчанию)",
     "OPTION_LINKS_AS_TEXT": "Ссылки в виде текста.",
@@ -292,5 +292,8 @@
     "LABEL_ALLOWED_EMBED_DOMAINS": "Дополнительные домены встраивания",
     "TEXT_ALLOW_EMBEDS_NOTE": "Позволяет комментаторам встраивать видео и плееры (YouTube, Vimeo, SoundCloud, Spotify и другие), просто вставляя iframe от соответствующего поставщика. Разрешены только проверенные поставщики.",
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
-    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Разделенный запятыми список дополнительных имен хостов для встраивания, разрешенных в дополнение к встроенным доверенным поставщикам."
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Разделенный запятыми список дополнительных имен хостов для встраивания, разрешенных в дополнение к встроенным доверенным поставщикам.",
+    "TEXT_NO_TEXT_OVERRIDES": "У вас пока нет переопределений текста.",
+    "TABLE_HEADER_DEFAULT_TEXT": "Текст по умолчанию",
+    "TABLE_HEADER_OVERRIDE": "Переопределение"
 }

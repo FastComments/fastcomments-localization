@@ -19,5 +19,8 @@
     "MESSAGE_NO_EMAILS": "Nimate poslanih e-poštnih sporočil.",
     "VALUE_UNKNOWN": "Neznano",
     "VALUE_NO_SUBJECT": "(Brez zadeve)",
-    "VALUE_NA": "Ni na voljo"
+    "VALUE_NA": "Ni na voljo",
+    "ERROR_VERIFY_EMAIL": "Za dostop do poslanih e-poštnih sporočil potrdite svoj e-poštni naslov. V mapi Prejeto poiščite potrditveno e-poštno sporočilo ali ga znova pošljite v nastavitvah računa.",
+    "ERROR_LOAD_SENT_EMAILS": "Poslanih e-poštnih sporočil ni bilo mogoče naložiti. Poskusite znova pozneje.",
+    "ERROR_LOAD_EMAIL_DETAIL": "Podrobnosti e-poštnega sporočila ni bilo mogoče naložiti. Poskusite znova pozneje."
 }

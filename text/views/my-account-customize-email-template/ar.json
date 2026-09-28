@@ -22,5 +22,21 @@
     "BUTTON_RESET_TEST_DATA": "إعادة ضبط",
     "TEXT_CUSTOMIZE_FROM_NAME_EMAIL": "هل ترغب في تخصيص <b>اسم المرسل وبريده الإلكتروني</b>؟ يمكنك فعل ذلك <a href=\"/auth/my-account/configure-domains\">هنا</a>.",
     "BUTTON_SAVE": "حفظ",
-    "TEXT_DOMAIN_NOTE_CANNOT_BE_SPECIFIC": "قد يظهر هذا القالب في سياق نطاقات متعددة في آن واحد (على سبيل المثال، عدة تعليقات في نفس إشعار البريد الإلكتروني)، أو قد لا يظهر في سياق أي نطاق على الإطلاق. <span class=\"red\">ولهذا السبب، لا يمكن أن يكون هذا القالب خاصًا بنطاق معين.</span>"
+    "TEXT_DOMAIN_NOTE_CANNOT_BE_SPECIFIC": "قد يظهر هذا القالب في سياق نطاقات متعددة في آن واحد (على سبيل المثال، عدة تعليقات في نفس إشعار البريد الإلكتروني)، أو قد لا يظهر في سياق أي نطاق على الإطلاق. <span class=\"red\">ولهذا السبب، لا يمكن أن يكون هذا القالب خاصًا بنطاق معين.</span>",
+    "LABEL_CUSTOMIZE_VALUE": "تخصيص «[value]»",
+    "OVERRIDES_COUNT": "[count] تعديل",
+    "OVERRIDES_COUNT_T": "تعديلان",
+    "OVERRIDES_COUNT_F": "[count] تعديلات",
+    "OVERRIDES_COUNT_M": "[count] تعديلًا",
+    "ERROR_LOAD_FAILED": "تعذّر تحميل هذا القالب. يُرجى المحاولة مرة أخرى لاحقًا أو التواصل مع الدعم.",
+    "CONFIRM_UNSAVED_CHANGES": "لديك تغييرات غير محفوظة، هل تريد المغادرة؟",
+    "ERROR_DOES_NOT_RENDER": "تعذّر حفظ قالب البريد الإلكتروني لأنه لا يُعرض بنجاح. أصلح أي أخطاء وحاول مرة أخرى.",
+    "ERROR_SAVE_REQUEST_FAILED": "فشل طلب الحفظ الأخير. يُرجى المحاولة مرة أخرى لاحقًا.",
+    "BUTTON_SAVING": "جارٍ الحفظ...",
+    "BUTTON_SAVED": "تم الحفظ بنجاح!",
+    "BUTTON_SAVE_FAILED": "فشل الحفظ!",
+    "BUTTON_NAVIGATING_TO_NEW": "جارٍ الانتقال إلى القالب الجديد...",
+    "BUTTON_CLEARING": "جارٍ المسح...",
+    "BUTTON_CLEARED": "تم المسح!",
+    "BUTTON_CLEAR_FAILED": "فشل المسح!"
 }

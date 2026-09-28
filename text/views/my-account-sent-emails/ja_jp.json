@@ -19,5 +19,8 @@
     "MESSAGE_NO_EMAILS": "送信済みのメールはありません。",
     "VALUE_UNKNOWN": "未知",
     "VALUE_NO_SUBJECT": "（件名なし）",
-    "VALUE_NA": "該当なし"
+    "VALUE_NA": "該当なし",
+    "ERROR_VERIFY_EMAIL": "送信済みメールを表示するには、メールアドレスを確認してください。受信トレイで確認メールをご確認いただくか、アカウント設定から再送信してください。",
+    "ERROR_LOAD_SENT_EMAILS": "送信済みメールを読み込めませんでした。後でもう一度お試しください。",
+    "ERROR_LOAD_EMAIL_DETAIL": "メールの詳細を読み込めませんでした。後でもう一度お試しください。"
 }

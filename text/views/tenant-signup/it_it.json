@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "Non è necessario inserire sottodomini o localhost. Per più siti, separarli con virgole.",
     "TOS_TEXT": "Facendo clic su Crea account, accetti i <a href=\"/terms-of-service\" target=\"_blank\">Termini di servizio</a> .",
     "BUTTON_CREATE_ACCOUNT": "Crea account",
-    "ERROR_SIGNUP_ALREADY_STARTED": "La procedura di registrazione è già stata avviata e non è possibile inviarla nuovamente. Forse hai aggiornato la pagina?"
+    "ERROR_SIGNUP_ALREADY_STARTED": "La procedura di registrazione è già stata avviata e non è possibile inviarla nuovamente. Forse hai aggiornato la pagina?",
+    "ERROR_INVALID_DOMAINS": "Sembra che i domini forniti non siano validi. Controllali e invia di nuovo.",
+    "ERROR_PACKAGE_REQUIRED": "È necessario selezionare un pacchetto.",
+    "ERROR_INVALID_PACKAGE": "Il pacchetto selezionato non è valido. Scegli un pacchetto valido.",
+    "ERROR_TEMPORARY_EMAIL": "Non accettiamo indirizzi email temporanei.",
+    "ERROR_VALID_EMAIL_REQUIRED": "È richiesto un indirizzo email valido.",
+    "ERROR_INPUT_TOO_LONG": "Oh no! Hai inserito un testo troppo lungo.",
+    "ERROR_USERNAME_REQUIRED": "È richiesto un nome utente.",
+    "ERROR_EMAIL_REQUIRED": "Il tuo indirizzo email è obbligatorio.",
+    "ERROR_COMPANY_NAME_REQUIRED": "È richiesto il nome dell'azienda.",
+    "ERROR_DOMAINS_REQUIRED": "È richiesto un elenco di domini separati da virgole.",
+    "ERROR_INVALID_COUPON": "Questo codice coupon non è valido.",
+    "ERROR_USERNAME_TAKEN": "Oh no! Questo nome utente è già in uso.",
+    "ERROR_CREATING_ACCOUNT": "Oh no! Si è verificato un errore durante la creazione del tuo account."
 }

@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "Nije potrebno unositi poddomene ili localhost. Za više web-lokacija, odvojite ih zarezima.",
     "TOS_TEXT": "Klikom na Stvori račun prihvaćate <a href=\"/terms-of-service\" target=\"_blank\">Uvjete pružanja usluge</a> .",
     "BUTTON_CREATE_ACCOUNT": "Izradi račun",
-    "ERROR_SIGNUP_ALREADY_STARTED": "Postupak prijave je već započet i ne može se ponovno poslati. Možda ste osvježili stranicu?"
+    "ERROR_SIGNUP_ALREADY_STARTED": "Postupak prijave je već započet i ne može se ponovno poslati. Možda ste osvježili stranicu?",
+    "ERROR_INVALID_DOMAINS": "Čini se da su navedene domene nevažeće. Provjerite ih i ponovno pošaljite.",
+    "ERROR_PACKAGE_REQUIRED": "Odabir paketa je obavezan.",
+    "ERROR_INVALID_PACKAGE": "Odabran je nevažeći paket. Odaberite valjani paket.",
+    "ERROR_TEMPORARY_EMAIL": "Ne prihvaćamo privremene e-adrese.",
+    "ERROR_VALID_EMAIL_REQUIRED": "Potrebna je valjana e-adresa.",
+    "ERROR_INPUT_TOO_LONG": "O ne! Unijeli ste predugačak tekst.",
+    "ERROR_USERNAME_REQUIRED": "Korisničko ime je obavezno.",
+    "ERROR_EMAIL_REQUIRED": "Vaša e-adresa je obavezna.",
+    "ERROR_COMPANY_NAME_REQUIRED": "Naziv tvrtke je obavezan.",
+    "ERROR_DOMAINS_REQUIRED": "Potreban je popis domena odvojenih zarezima.",
+    "ERROR_INVALID_COUPON": "Taj kod kupona nije valjan.",
+    "ERROR_USERNAME_TAKEN": "O ne! To korisničko ime je zauzeto.",
+    "ERROR_CREATING_ACCOUNT": "O ne! Došlo je do pogreške pri izradi vašeg računa."
 }

@@ -22,5 +22,20 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Dostosuj do ustawień regionalnych",
     "TEXT_TEST_DATA_INFO": "Tutaj możesz zdefiniować niestandardowe dane testowe używane w podglądzie. Są one zapisywane wraz z szablonem.",
     "BUTTON_RESET_TEST_DATA": "Resetuj",
-    "BUTTON_SAVE": "Zapisz"
+    "BUTTON_SAVE": "Zapisz",
+    "LABEL_CUSTOMIZE_VALUE": "Dostosuj „[value]”",
+    "OVERRIDES_COUNT_O": "[count] nadpisanie",
+    "OVERRIDES_COUNT": "[count] nadpisań",
+    "OVERRIDES_COUNT_F": "[count] nadpisania",
+    "ERROR_LOAD_FAILED": "Nie udało się załadować tego szablonu. Spróbuj ponownie później lub skontaktuj się z pomocą techniczną.",
+    "CONFIRM_UNSAVED_CHANGES": "Masz niezapisane zmiany. Czy na pewno chcesz wyjść?",
+    "ERROR_DOES_NOT_RENDER": "Nie można zapisać szablonu wiadomości e-mail, ponieważ nie renderuje się poprawnie. Popraw błędy i spróbuj ponownie.",
+    "ERROR_SAVE_REQUEST_FAILED": "Ostatnie żądanie zapisu nie powiodło się. Spróbuj ponownie później.",
+    "BUTTON_SAVING": "Zapisywanie...",
+    "BUTTON_SAVED": "Zapisano pomyślnie!",
+    "BUTTON_SAVE_FAILED": "Nie udało się zapisać!",
+    "BUTTON_NAVIGATING_TO_NEW": "Przechodzenie do nowego szablonu...",
+    "BUTTON_CLEARING": "Czyszczenie...",
+    "BUTTON_CLEARED": "Wyczyszczono!",
+    "BUTTON_CLEAR_FAILED": "Nie udało się wyczyścić!"
 }

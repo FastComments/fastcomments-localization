@@ -19,5 +19,8 @@
     "MESSAGE_NO_EMAILS": "보낸 이메일이 없습니다.",
     "VALUE_UNKNOWN": "알려지지 않은",
     "VALUE_NO_SUBJECT": "(제목 없음)",
-    "VALUE_NA": "해당 없음"
+    "VALUE_NA": "해당 없음",
+    "ERROR_VERIFY_EMAIL": "보낸 이메일을 보려면 이메일 주소를 인증해 주세요. 받은편지함에서 인증 이메일을 확인하거나 계정 설정에서 다시 보내세요.",
+    "ERROR_LOAD_SENT_EMAILS": "보낸 이메일을 불러오지 못했습니다. 나중에 다시 시도해 주세요.",
+    "ERROR_LOAD_EMAIL_DETAIL": "이메일 세부 정보를 불러오지 못했습니다. 나중에 다시 시도해 주세요."
 }

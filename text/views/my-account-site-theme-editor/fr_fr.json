@@ -14,5 +14,9 @@
     "ERROR_CANNOT_DELETE_REQUIRED": "Ce fichier est obligatoire et ne peut pas être supprimé.",
     "TAB_LOCALIZATIONS": "Localisations",
     "TEXT_LOCALIZATIONS_INFO": "Personnalisez les chaînes de texte par défaut utilisées dans le thème de votre site. Les modifications s'appliquent uniquement à la langue sélectionnée.",
-    "LABEL_CUSTOMIZE_FOR_LOCALE": "Personnaliser en fonction des paramètres régionaux :"
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Personnaliser en fonction des paramètres régionaux :",
+    "LABEL_CUSTOMIZE_VALUE": "Personnaliser « [value] »",
+    "OVERRIDES_COUNT_O": "[count] remplacement",
+    "OVERRIDES_COUNT": "[count] remplacements",
+    "CONFIRM_UNSAVED_CHANGES": "Vous avez des modifications non enregistrées."
 }

@@ -22,5 +22,18 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Bölgeye Göre Özelleştir",
     "TEXT_TEST_DATA_INFO": "Burada önizlemede kullanılacak özel test verilerini tanımlayabilirsiniz. Bu veriler şablonla birlikte kaydedilir.",
     "BUTTON_RESET_TEST_DATA": "Sıfırla",
-    "BUTTON_SAVE": "Kaydet"
+    "BUTTON_SAVE": "Kaydet",
+    "LABEL_CUSTOMIZE_VALUE": "\"[value]\" öğesini özelleştir",
+    "OVERRIDES_COUNT": "[count] özelleştirme",
+    "ERROR_LOAD_FAILED": "Bu şablon yüklenemedi. Lütfen daha sonra tekrar deneyin veya destek ekibiyle iletişime geçin.",
+    "CONFIRM_UNSAVED_CHANGES": "Kaydedilmemiş değişiklikleriniz var, yine de ayrılmak istiyor musunuz?",
+    "ERROR_DOES_NOT_RENDER": "E-posta şablonu düzgün render edilemediği için kaydedilemedi. Hataları düzeltip tekrar deneyin.",
+    "ERROR_SAVE_REQUEST_FAILED": "Son kaydetme isteği başarısız oldu. Lütfen daha sonra tekrar deneyin.",
+    "BUTTON_SAVING": "Kaydediliyor...",
+    "BUTTON_SAVED": "Başarıyla Kaydedildi!",
+    "BUTTON_SAVE_FAILED": "Kaydedilemedi!",
+    "BUTTON_NAVIGATING_TO_NEW": "Yeni şablona gidiliyor...",
+    "BUTTON_CLEARING": "Temizleniyor...",
+    "BUTTON_CLEARED": "Temizlendi!",
+    "BUTTON_CLEAR_FAILED": "Temizlenemedi!"
 }

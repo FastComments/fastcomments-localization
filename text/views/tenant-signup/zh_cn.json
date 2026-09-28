@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "无需输入子域名或本地主机。多个站点之间用逗号分隔。",
     "TOS_TEXT": "点击“创建账户”，即表示您同意<a href=\"/terms-of-service\" target=\"_blank\">服务条款</a>。",
     "BUTTON_CREATE_ACCOUNT": "创建账户",
-    "ERROR_SIGNUP_ALREADY_STARTED": "注册流程已经开始，无法再次提交。您是否刷新了页面？"
+    "ERROR_SIGNUP_ALREADY_STARTED": "注册流程已经开始，无法再次提交。您是否刷新了页面？",
+    "ERROR_INVALID_DOMAINS": "提供的域名似乎无效。请检查后重新提交。",
+    "ERROR_PACKAGE_REQUIRED": "必须选择套餐。",
+    "ERROR_INVALID_PACKAGE": "所选套餐无效。请选择有效的套餐。",
+    "ERROR_TEMPORARY_EMAIL": "我们不接受临时邮箱地址。",
+    "ERROR_VALID_EMAIL_REQUIRED": "需要有效的邮箱地址。",
+    "ERROR_INPUT_TOO_LONG": "糟糕！您输入的内容太长了。",
+    "ERROR_USERNAME_REQUIRED": "用户名为必填项。",
+    "ERROR_EMAIL_REQUIRED": "邮箱为必填项。",
+    "ERROR_COMPANY_NAME_REQUIRED": "公司名称为必填项。",
+    "ERROR_DOMAINS_REQUIRED": "需要以逗号分隔的域名列表。",
+    "ERROR_INVALID_COUPON": "该优惠码无效。",
+    "ERROR_USERNAME_TAKEN": "糟糕！该用户名已被占用。",
+    "ERROR_CREATING_ACCOUNT": "糟糕！创建账户时出错。"
 }

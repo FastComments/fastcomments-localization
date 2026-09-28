@@ -26,5 +26,18 @@
     "TITLE_FETCH_EVENTS": "同期リクエスト",
     "DESC_FETCH_EVENTS": "統合が最新のコメントと関連データのイベントログをリクエストしました。",
     "TITLE_GET_COMMENTS": "コメントを取得中...",
-    "DESC_GET_COMMENTS": "統合がコメントデータをリクエストしました。"
+    "DESC_GET_COMMENTS": "統合がコメントデータをリクエストしました。",
+    "TITLE_NO_LOGS": "ログなし",
+    "DESC_NO_LOGS_EXPIRED": "ログが見つかりませんでした。有効期限が切れたようです。",
+    "DESC_NO_LOGS_EXPIRED_SETUP_DONE": "ログが見つかりませんでした。有効期限が切れたようです。ただし、セットアップは完了していることを確認できました。",
+    "ALT_DONE": "完了",
+    "TITLE_ALL_SET": "準備が整いました！",
+    "DESC_SETUP_COMPLETED": "初期セットアップが完了しました！統合が有効になりました。",
+    "HEADING_NEXT_STEPS": "次のステップ",
+    "BUTTON_DOCUMENTATION": "ドキュメント",
+    "BUTTON_CUSTOMIZE": "カスタマイズ",
+    "BUTTON_ADD_MODERATORS": "モデレーターを追加",
+    "BUTTON_ADD_ADMINS": "管理者を追加",
+    "HEADING_SETUP_COMPLETED": "セットアップ完了。",
+    "SUBHEADING_SETUP_LOG": "セットアップログ"
 }

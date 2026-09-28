@@ -213,9 +213,9 @@
     "HEADING_ADVANCED": "Geavanceerd",
     "LABEL_SHOW_ADVANCED_OPTIONS": "Geavanceerde opties weergeven",
     "LABEL_USE_ABSOLUTE_DATES": "Gebruik je absolute datums?",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Hierdoor worden datums weergegeven als \"<%= new Date().toLocaleString() %>\" in plaats van \"zojuist\".",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Hierdoor worden datums weergegeven als \"<%= new Date().toLocaleString(htmlLang) %>\" in plaats van \"zojuist\".",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "Gebruik je zowel relatieve als absolute datums?",
-    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Hierdoor worden datums weergegeven als \"zojuist (<%= new Date().toLocaleDateString() %>)\" in plaats van \"zojuist\".",
+    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Hierdoor worden datums weergegeven als \"zojuist (<%= new Date().toLocaleDateString(htmlLang) %>)\" in plaats van \"zojuist\".",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "HTML-weergave van reacties",
     "OPTION_RENDER_ALL": "Alles weergeven (standaard)",
     "OPTION_LINKS_AS_TEXT": "Links als tekst.",
@@ -292,5 +292,8 @@
     "TEXT_ALLOW_EMBEDS_NOTE": "Hiermee kunnen reageerders video's en mediaspelers (YouTube, Vimeo, SoundCloud, Spotify en meer) insluiten door de iframe van de aanbieder te plakken. Alleen vertrouwde aanbieders zijn toegestaan.",
     "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Door komma's gescheiden lijst met extra hostnamen voor embed-websites die naast de ingebouwde vertrouwde providers mogen worden gebruikt.",
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
-    "LABEL_ALLOWED_EMBED_DOMAINS": "Aanvullende insluitdomeinen"
+    "LABEL_ALLOWED_EMBED_DOMAINS": "Aanvullende insluitdomeinen",
+    "TEXT_NO_TEXT_OVERRIDES": "U hebt momenteel geen tekstoverschrijvingen.",
+    "TABLE_HEADER_DEFAULT_TEXT": "Standaardtekst",
+    "TABLE_HEADER_OVERRIDE": "Overschrijving"
 }

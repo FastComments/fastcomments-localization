@@ -213,9 +213,9 @@
     "HEADING_ADVANCED": "Napredno",
     "LABEL_SHOW_ADVANCED_OPTIONS": "Pokaži napredne opcije",
     "LABEL_USE_ABSOLUTE_DATES": "Koristite apsolutne datume?",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Ovo će prikazati datume kao što su \"<%= new Date().toLocaleString() %>\" umesto \"upravo sada\".",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Ovo će prikazati datume kao što su \"<%= new Date().toLocaleString(htmlLang) %>\" umesto \"upravo sada\".",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "Koristite i relativne i apsolutne datume?",
-    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Ovo će prikazati datume kao što su \"upravo sada (<%= new Date().toLocaleDateString() %>)\" umesto \"upravo sada\".",
+    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Ovo će prikazati datume kao što su \"upravo sada (<%= new Date().toLocaleDateString(htmlLang) %>)\" umesto \"upravo sada\".",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "Prikazivanje HTML-a komentara",
     "OPTION_RENDER_ALL": "Prikaži sve (podrazumevano)",
     "OPTION_LINKS_AS_TEXT": "Linkovi kao tekst.",
@@ -292,5 +292,8 @@
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
     "LABEL_ALLOW_EMBEDS": "Dozvoliti ugradnju medija?",
     "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Lista odvojenih zarezom dodatnih imena domaćina za ugradnju kako bi se omogućilo pored ugrađenih pouzdanih provajdera.",
-    "TEXT_ALLOW_EMBEDS_NOTE": "Omogućava komentatorima da ugrađuju video zapise i plejere (IouTube, Vimeo, SoundCloud, Spotifi i još mnogo toga) lepljenjem iframe-a provajdera. Dozvoljeni su samo pouzdani provajderi."
+    "TEXT_ALLOW_EMBEDS_NOTE": "Omogućava komentatorima da ugrađuju video zapise i plejere (IouTube, Vimeo, SoundCloud, Spotifi i još mnogo toga) lepljenjem iframe-a provajdera. Dozvoljeni su samo pouzdani provajderi.",
+    "TEXT_NO_TEXT_OVERRIDES": "Trenutno nemate nijednu zamenu teksta.",
+    "TABLE_HEADER_DEFAULT_TEXT": "Podrazumevani tekst",
+    "TABLE_HEADER_OVERRIDE": "Zamena"
 }

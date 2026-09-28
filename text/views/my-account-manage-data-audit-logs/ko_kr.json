@@ -42,5 +42,9 @@
     "TABLE_TENANT": "테넌트",
     "DATE_PRESET_CUSTOM": "사용자 지정 기간",
     "FILTER_BY_AFFECTED": "영향을 받은 대상",
-    "FILTER_BY_AFFECTED_PLACEHOLDER": "이름, 이메일 또는 ID"
+    "FILTER_BY_AFFECTED_PLACEHOLDER": "이름, 이메일 또는 ID",
+    "FROM_UI": "UI",
+    "FROM_API": "API",
+    "FROM_CRON": "예약 작업",
+    "VALUE_N_A": "해당 없음"
 }

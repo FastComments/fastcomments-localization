@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>にメールを送信しました - FastComments",
+    "PAGE_TITLE": "<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>にメールを送信しました - FastComments",
     "BUTTON_BACK": "← 送信済みメールに戻る",
-    "HEADING": "<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>にメールを送信しました",
+    "HEADING": "<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>にメールを送信しました",
     "LABEL_DATE": "日付：",
     "LABEL_FROM": "から：",
     "LABEL_TO": "に：",

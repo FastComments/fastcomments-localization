@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "Conversazione ",
     "HERO_TITLE_BOLD": "Impossibile da creare",
     "HERO_DESCRIPTION": "Non siamo riusciti a creare la tua conversazione. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'Si è verificato un errore interno. Segnalalo al tuo referente del servizio clienti.' %>",
-    "BUTTON_TRY_AGAIN": "Prova a creare una nuova conversazione."
+    "BUTTON_TRY_AGAIN": "Prova a creare una nuova conversazione.",
+    "ERROR_SIGN_IN": "Accedi al tuo tenant prima di creare conversazioni.",
+    "ERROR_LIMIT_REACHED": "Hai raggiunto il numero massimo di conversazioni per il tuo tenant (2 milioni). Per aumentare questo limite, contatta l'assistenza.",
+    "ERROR_NAME_TOO_LONG": "Il nome della conversazione supera il numero massimo di caratteri consentiti (300).",
+    "ERROR_ALREADY_EXISTS": "Esiste già una conversazione con questo nome.",
+    "ERROR_NOT_FOUND": "Impossibile trovare la conversazione.",
+    "ERROR_INTERNAL": "Si è verificato un errore interno. Segnalalo al tuo referente del servizio clienti."
 }

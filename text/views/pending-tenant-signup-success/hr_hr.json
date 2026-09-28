@@ -4,5 +4,10 @@
     "HEADING_BOLD": "FastComments!",
     "DESCRIPTION": "Poslali smo poruku. Kako biste dovršili postupak prijave, molimo vas da provjerite poveznicu poslanu na e-mail adresu koju ste naveli.",
     "MESSAGE_RESEND_SUCCESS": "Ponovno slanje e-pošte uspješno!",
-    "BUTTON_RESEND": "Ponovno pošalji e-poruku za potvrdu"
+    "BUTTON_RESEND": "Ponovno pošalji e-poruku za potvrdu",
+    "ERROR_RESEND_USER_NOT_FOUND": "Korisnik nije pronađen ili se e-adresa ne podudara.",
+    "ERROR_RESEND_NO_PENDING_SIGNUP": "Nije pronađena nijedna registracija na čekanju.",
+    "ERROR_RESEND_RATE_LIMITED_MINUTE": "Poslali ste previše zahtjeva. Pokušajte ponovno za minutu.",
+    "ERROR_RESEND_RATE_LIMITED_DAY": "Premašili ste dnevno ograničenje e-poruka. Pokušajte ponovno sutra ili se obratite podršci.",
+    "ERROR_RESEND_FAILED": "Došlo je do pogreške pri ponovnom slanju e-poruke za potvrdu. Pokušajte ponovno kasnije."
 }

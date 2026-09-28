@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Opt In Failed",
     "HEADING_LIGHT": "Opt In ",
-    "HEADING_BOLD": "Failed"
+    "HEADING_BOLD": "Failed",
+    "ERROR_EXPIRED": "This URL has expired. Have you already used this URL?",
+    "ERROR_USER_NOT_FOUND": "We couldn't find that user. Is the URL you have correct?",
+    "ERROR_INTERNAL": "We had an internal error."
 }

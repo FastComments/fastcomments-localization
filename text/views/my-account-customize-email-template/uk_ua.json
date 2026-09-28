@@ -22,5 +22,20 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Налаштувати для локалізації",
     "TEXT_TEST_DATA_INFO": "Тут ви можете визначити власні тестові дані, що використовуються в попередньому перегляді. Вони зберігаються разом із шаблоном.",
     "BUTTON_RESET_TEST_DATA": "Скинути",
-    "BUTTON_SAVE": "Зберегти"
+    "BUTTON_SAVE": "Зберегти",
+    "LABEL_CUSTOMIZE_VALUE": "Налаштувати «[value]»",
+    "OVERRIDES_COUNT_O": "[count] заміна",
+    "OVERRIDES_COUNT": "[count] замін",
+    "OVERRIDES_COUNT_F": "[count] заміни",
+    "ERROR_LOAD_FAILED": "Не вдалося завантажити цей шаблон. Спробуйте пізніше або зверніться до служби підтримки.",
+    "CONFIRM_UNSAVED_CHANGES": "У вас є незбережені зміни. Усе одно залишити сторінку?",
+    "ERROR_DOES_NOT_RENDER": "Не вдалося зберегти шаблон листа, бо він не відображається без помилок. Виправте помилки та спробуйте ще раз.",
+    "ERROR_SAVE_REQUEST_FAILED": "Останній запит на збереження не вдався. Спробуйте пізніше.",
+    "BUTTON_SAVING": "Збереження...",
+    "BUTTON_SAVED": "Успішно збережено!",
+    "BUTTON_SAVE_FAILED": "Не вдалося зберегти!",
+    "BUTTON_NAVIGATING_TO_NEW": "Перехід до нового шаблону...",
+    "BUTTON_CLEARING": "Очищення...",
+    "BUTTON_CLEARED": "Очищено!",
+    "BUTTON_CLEAR_FAILED": "Не вдалося очистити!"
 }

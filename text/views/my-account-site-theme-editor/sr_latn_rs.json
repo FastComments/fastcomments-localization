@@ -14,5 +14,9 @@
     "ERROR_CANNOT_DELETE_REQUIRED": "Ova datoteka je obavezna i ne može se izbrisati.",
     "TAB_LOCALIZATIONS": "Lokalizacije",
     "TEXT_LOCALIZATIONS_INFO": "Prilagodite podrazumevane tekstualne nizove koji se koriste u temi vašeg sajta. Izmene se primenjuju samo na izabrani jezik.",
-    "LABEL_CUSTOMIZE_FOR_LOCALE": "Prilagodi za jezik:"
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Prilagodi za jezik:",
+    "LABEL_CUSTOMIZE_VALUE": "Prilagodi „[value]“",
+    "OVERRIDES_COUNT": "[count] zamena",
+    "OVERRIDES_COUNT_F": "[count] zamene",
+    "CONFIRM_UNSAVED_CHANGES": "Imate nesačuvane izmene."
 }

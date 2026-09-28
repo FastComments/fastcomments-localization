@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Prijava ni uspela",
     "HEADING_LIGHT": "Prijava ",
-    "HEADING_BOLD": "ni uspela"
+    "HEADING_BOLD": "ni uspela",
+    "ERROR_EXPIRED": "Ta URL je potekel. Ali ste ga že uporabili?",
+    "ERROR_USER_NOT_FOUND": "Tega uporabnika nismo našli. Ali je vaš URL pravilen?",
+    "ERROR_INTERNAL": "Prišlo je do notranje napake."
 }

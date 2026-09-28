@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Disattivazione non riuscita",
     "HEADING_LIGHT": "Disattivazione ",
-    "HEADING_BOLD": "non riuscita"
+    "HEADING_BOLD": "non riuscita",
+    "ERROR_EXPIRED": "Questo URL è scaduto. Hai già disattivato le notifiche?",
+    "ERROR_USER_NOT_FOUND": "Non abbiamo trovato questo utente. Il tuo URL è corretto?",
+    "ERROR_INTERNAL": "Si è verificato un errore interno."
 }

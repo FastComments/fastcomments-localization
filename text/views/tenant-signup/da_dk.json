@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "Det er ikke nødvendigt at indtaste underdomæner eller localhost. Adskil flere websteder med kommaer.",
     "TOS_TEXT": "Ved at klikke på Opret konto accepterer du <a href=\"/terms-of-service\" target=\"_blank\">servicevilkårene</a>.",
     "BUTTON_CREATE_ACCOUNT": "Opret konto",
-    "ERROR_SIGNUP_ALREADY_STARTED": "Tilmeldingsprocessen er allerede startet og kan ikke indsendes igen. Måske har du opdateret siden?"
+    "ERROR_SIGNUP_ALREADY_STARTED": "Tilmeldingsprocessen er allerede startet og kan ikke indsendes igen. Måske har du opdateret siden?",
+    "ERROR_INVALID_DOMAINS": "Det ser ud til, at de angivne domæner er ugyldige. Gennemgå dem, og indsend igen.",
+    "ERROR_PACKAGE_REQUIRED": "Du skal vælge en pakke.",
+    "ERROR_INVALID_PACKAGE": "Ugyldig pakke valgt. Vælg en gyldig pakke.",
+    "ERROR_TEMPORARY_EMAIL": "Vi accepterer ikke midlertidige e-mailadresser.",
+    "ERROR_VALID_EMAIL_REQUIRED": "En gyldig e-mailadresse er påkrævet.",
+    "ERROR_INPUT_TOO_LONG": "Åh nej! Det, du har indtastet, er alt for langt.",
+    "ERROR_USERNAME_REQUIRED": "Et brugernavn er påkrævet.",
+    "ERROR_EMAIL_REQUIRED": "Din e-mailadresse er påkrævet.",
+    "ERROR_COMPANY_NAME_REQUIRED": "Et firmanavn er påkrævet.",
+    "ERROR_DOMAINS_REQUIRED": "En kommasepareret liste over domæner er påkrævet.",
+    "ERROR_INVALID_COUPON": "Den rabatkode er ikke gyldig.",
+    "ERROR_USERNAME_TAKEN": "Åh nej! Det brugernavn er optaget.",
+    "ERROR_CREATING_ACCOUNT": "Åh nej! Der opstod en fejl under oprettelsen af din konto."
 }

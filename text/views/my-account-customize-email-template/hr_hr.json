@@ -22,5 +22,19 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Prilagodi za lokalnu oznaku",
     "TEXT_TEST_DATA_INFO": "Ovdje možete definirati prilagođene testne podatke koji se koriste u pregledu. Spremaju se zajedno s predloškom.",
     "BUTTON_RESET_TEST_DATA": "Resetiraj",
-    "BUTTON_SAVE": "Spremi"
+    "BUTTON_SAVE": "Spremi",
+    "LABEL_CUSTOMIZE_VALUE": "Prilagodi „[value]”",
+    "OVERRIDES_COUNT": "[count] zamjena",
+    "OVERRIDES_COUNT_F": "[count] zamjene",
+    "ERROR_LOAD_FAILED": "Učitavanje ovog predloška nije uspjelo. Pokušajte ponovno kasnije ili se obratite podršci.",
+    "CONFIRM_UNSAVED_CHANGES": "Imate nespremljene promjene. Želite li ipak napustiti stranicu?",
+    "ERROR_DOES_NOT_RENDER": "Predložak e-pošte nije moguće spremiti jer se ne renderira uspješno. Ispravite pogreške i pokušajte ponovno.",
+    "ERROR_SAVE_REQUEST_FAILED": "Posljednji zahtjev za spremanje nije uspio. Pokušajte ponovno kasnije.",
+    "BUTTON_SAVING": "Spremanje...",
+    "BUTTON_SAVED": "Uspješno spremljeno!",
+    "BUTTON_SAVE_FAILED": "Spremanje nije uspjelo!",
+    "BUTTON_NAVIGATING_TO_NEW": "Prelazak na novi predložak...",
+    "BUTTON_CLEARING": "Brisanje...",
+    "BUTTON_CLEARED": "Obrisano!",
+    "BUTTON_CLEAR_FAILED": "Brisanje nije uspjelo!"
 }

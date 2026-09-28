@@ -44,5 +44,9 @@
     "TABLE_TENANT": "Аккаунт",
     "FILTER_BY_AFFECTED": "Кто или что было изменено",
     "DATE_PRESET_CUSTOM": "Произвольный период",
-    "FILTER_BY_AFFECTED_PLACEHOLDER": "Имя, email или ID"
+    "FILTER_BY_AFFECTED_PLACEHOLDER": "Имя, email или ID",
+    "FROM_UI": "Интерфейс",
+    "FROM_API": "API",
+    "FROM_CRON": "Задание cron",
+    "VALUE_N_A": "Н/Д"
 }

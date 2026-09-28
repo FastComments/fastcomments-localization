@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Framelding mislykkedes",
     "HEADING_LIGHT": "Fravælg ",
-    "HEADING_BOLD": "Mislykkedes"
+    "HEADING_BOLD": "Mislykkedes",
+    "ERROR_EXPIRED": "Denne URL er udløbet. Har du allerede frameldt dig?",
+    "ERROR_USER_NOT_FOUND": "Vi kunne ikke finde den bruger. Er din URL korrekt?",
+    "ERROR_INTERNAL": "Der opstod en intern fejl."
 }

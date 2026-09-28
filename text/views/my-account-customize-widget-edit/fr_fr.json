@@ -213,9 +213,9 @@
     "HEADING_ADVANCED": "Avancé",
     "LABEL_SHOW_ADVANCED_OPTIONS": "Afficher les options avancées",
     "LABEL_USE_ABSOLUTE_DATES": "Utiliser des dates absolues ?",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Cela affichera les dates sous la forme « <%= new Date().toLocaleString() %> » au lieu de « à l'instant ».",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Cela affichera les dates sous la forme « <%= new Date().toLocaleString(htmlLang) %> » au lieu de « à l'instant ».",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "Utiliser à la fois les dates relatives et absolues ?",
-    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Cela affichera les dates comme « à l'instant (<%= new Date().toLocaleDateString() %>) » au lieu de « à l'instant ».",
+    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Cela affichera les dates comme « à l'instant (<%= new Date().toLocaleDateString(htmlLang) %>) » au lieu de « à l'instant ».",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "Rendu HTML des commentaires",
     "OPTION_RENDER_ALL": "Afficher tout (par défaut)",
     "OPTION_LINKS_AS_TEXT": "Liens sous forme de texte.",
@@ -292,5 +292,8 @@
     "LABEL_ALLOWED_EMBED_DOMAINS": "Domaines d'intégration supplémentaires",
     "TEXT_ALLOW_EMBEDS_NOTE": "Les commentateurs peuvent intégrer des vidéos et des lecteurs (YouTube, Vimeo, SoundCloud, Spotify, etc.) en collant l'iframe du fournisseur. Seuls les fournisseurs de confiance sont autorisés.",
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
-    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Liste, séparée par des virgules, de noms d'hôtes supplémentaires à intégrer, en plus des fournisseurs de confiance intégrés."
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Liste, séparée par des virgules, de noms d'hôtes supplémentaires à intégrer, en plus des fournisseurs de confiance intégrés.",
+    "TEXT_NO_TEXT_OVERRIDES": "Vous n'avez actuellement aucun remplacement de texte.",
+    "TABLE_HEADER_DEFAULT_TEXT": "Texte par défaut",
+    "TABLE_HEADER_OVERRIDE": "Remplacement"
 }

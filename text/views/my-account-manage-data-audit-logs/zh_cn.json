@@ -42,5 +42,9 @@
     "TABLE_TARGET": "受影响对象",
     "DATE_PRESET_CUSTOM": "自定义范围",
     "FILTER_BY_AFFECTED_PLACEHOLDER": "姓名、电子邮件或 ID",
-    "FILTER_BY_AFFECTED": "受影响的对象"
+    "FILTER_BY_AFFECTED": "受影响的对象",
+    "FROM_UI": "UI",
+    "FROM_API": "API",
+    "FROM_CRON": "定时任务",
+    "VALUE_N_A": "不适用"
 }

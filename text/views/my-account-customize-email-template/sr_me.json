@@ -22,5 +22,19 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Прилагоди за локалне подешавања",
     "TEXT_TEST_DATA_INFO": "Овде можете дефинисати прилагођене тест податке који се користе у прегледу. Чувају се заједно са шаблоном.",
     "BUTTON_RESET_TEST_DATA": "Ресетуј",
-    "BUTTON_SAVE": "Сачувај"
+    "BUTTON_SAVE": "Сачувај",
+    "LABEL_CUSTOMIZE_VALUE": "Прилагоди „[value]“",
+    "OVERRIDES_COUNT": "[count] замена",
+    "OVERRIDES_COUNT_F": "[count] замене",
+    "ERROR_LOAD_FAILED": "Учитавање овог шаблона није успело. Покушајте поново касније или се обратите подршци.",
+    "CONFIRM_UNSAVED_CHANGES": "Имате несачуване измене. Желите ли ипак да напустите страницу?",
+    "ERROR_DOES_NOT_RENDER": "Шаблон имејла није могуће сачувати јер се не рендерује успешно. Исправите грешке и покушајте поново.",
+    "ERROR_SAVE_REQUEST_FAILED": "Последњи захтев за чување није успео. Покушајте поново касније.",
+    "BUTTON_SAVING": "Чување...",
+    "BUTTON_SAVED": "Успешно сачувано!",
+    "BUTTON_SAVE_FAILED": "Чување није успело!",
+    "BUTTON_NAVIGATING_TO_NEW": "Прелазак на нови шаблон...",
+    "BUTTON_CLEARING": "Брисање...",
+    "BUTTON_CLEARED": "Обрисано!",
+    "BUTTON_CLEAR_FAILED": "Брисање није успело!"
 }

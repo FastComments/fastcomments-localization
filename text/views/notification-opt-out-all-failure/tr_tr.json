@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Vazgeçme Başarısız Oldu",
     "HEADING_LIGHT": "Vazgeçme ",
-    "HEADING_BOLD": "Başarısız"
+    "HEADING_BOLD": "Başarısız",
+    "ERROR_EXPIRED": "Bu URL'nin süresi doldu. Bildirimlerden zaten çıkmış olabilir misiniz?",
+    "ERROR_USER_NOT_FOUND": "Bu kullanıcıyı bulamadık. Elinizdeki URL doğru mu?",
+    "ERROR_INTERNAL": "Dahili bir hata oluştu."
 }

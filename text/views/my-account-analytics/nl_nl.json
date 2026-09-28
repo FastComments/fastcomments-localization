@@ -41,7 +41,6 @@
     "TEXT_NO_PAGE_LIKES": "Niets bijzonders te zien. Misschien wilt u de <a href=\"https://docs.fastcomments.com/guide-page-reacts.html\" target=\"_blank\">Page Reacts</a> -widget instellen?",
     "TEXT_NO_USERS_ONLINE": "Er zijn momenteel geen gebruikers online, of er zijn geen reacties verzameld voor pagina's waar wel gebruikers online zijn.",
     "TEXT_NOTHING_TO_SEE": "Niets te zien hier.",
-    "HEADING_METRICS_BY_MONTH": "Statistieken door <%= timePeriod === '12months' ? 'Month - Last 12 Months' : 'Day - Last 30 Days' %>",
     "TABLE_HEADER_MONTH": "Maand",
     "TABLE_HEADER_DAY": "Dag",
     "TABLE_HEADER_PAGE_LOADS": "Pagina laadt",
@@ -66,5 +65,7 @@
     "TABLE_HEADER_SYNC_REQUESTS_SUCCESS": "Synchronisatieverzoeken succesvol",
     "TABLE_HEADER_SYNC_REQUESTS_FAILURE": "Synchronisatieverzoek mislukt",
     "TABLE_HEADER_IMAGES_UPLOADED": "Afbeeldingen geüpload",
-    "TABLE_HEADER_IMAGES_SIZE_BYTES": "Afbeeldingsgrootte (bytes)"
+    "TABLE_HEADER_IMAGES_SIZE_BYTES": "Afbeeldingsgrootte (bytes)",
+    "HEADING_METRICS_BY_MONTH_LAST_12_MONTHS": "Statistieken per maand - afgelopen 12 maanden",
+    "HEADING_METRICS_BY_DAY_LAST_30_DAYS": "Statistieken per dag - afgelopen 30 dagen"
 }

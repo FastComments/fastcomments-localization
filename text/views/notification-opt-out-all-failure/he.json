@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "ביטול ההסכמה נכשל",
     "HEADING_LIGHT": "ביטול הסכמה ",
-    "HEADING_BOLD": "כשל"
+    "HEADING_BOLD": "נכשל",
+    "ERROR_EXPIRED": "תוקף כתובת ה-URL הזו פג. האם כבר ביטלת את ההסכמה?",
+    "ERROR_USER_NOT_FOUND": "לא הצלחנו למצוא את המשתמש הזה. האם כתובת ה-URL שבידך נכונה?",
+    "ERROR_INTERNAL": "אירעה שגיאה פנימית."
 }

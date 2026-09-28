@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "Wysłano e-mail w dniu <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "PAGE_TITLE": "Wysłano e-mail w dniu <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> - FastComments",
     "BUTTON_BACK": "← Powrót do wysłanych wiadomości e-mail",
-    "HEADING": "Wysłano e-mail w dniu <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "HEADING": "Wysłano e-mail w dniu <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>",
     "LABEL_DATE": "Data:",
     "LABEL_FROM": "Z:",
     "LABEL_TO": "Do:",

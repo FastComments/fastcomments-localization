@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "Gespräch  ",
     "HERO_TITLE_BOLD": "Konnte nicht erstellt werden",
     "HERO_DESCRIPTION": "Wir konnten Ihre Konversation nicht erstellen. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
-    "BUTTON_TRY_AGAIN": "Versuchen Sie, ein neues Gespräch zu beginnen."
+    "BUTTON_TRY_AGAIN": "Versuchen Sie, ein neues Gespräch zu beginnen.",
+    "ERROR_SIGN_IN": "Bitte melden Sie sich bei Ihrem Konto an, bevor Sie Konversationen erstellen.",
+    "ERROR_LIMIT_REACHED": "Sie haben die maximale Anzahl an Konversationen für Ihr Konto erreicht (2 Millionen). Wenden Sie sich an den Support, um dieses Limit zu erhöhen.",
+    "ERROR_NAME_TOO_LONG": "Der Name Ihrer Konversation überschreitet die maximal zulässige Zeichenanzahl (300).",
+    "ERROR_ALREADY_EXISTS": "Eine Konversation mit diesem Namen existiert bereits.",
+    "ERROR_NOT_FOUND": "Diese Konversation wurde nicht gefunden.",
+    "ERROR_INTERNAL": "Es ist ein interner Fehler aufgetreten. Bitte melden Sie ihn Ihrem Kundenservice-Ansprechpartner."
 }

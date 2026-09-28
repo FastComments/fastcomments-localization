@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "대화  ",
     "HERO_TITLE_BOLD": "생성할 수 없습니다",
     "HERO_DESCRIPTION": "저희는 귀하의 대화를 생성할 수 없었습니다. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
-    "BUTTON_TRY_AGAIN": "새로운 대화를 시작해 보세요."
+    "BUTTON_TRY_AGAIN": "새로운 대화를 시작해 보세요.",
+    "ERROR_SIGN_IN": "대화를 만들기 전에 테넌트에 로그인해 주세요.",
+    "ERROR_LIMIT_REACHED": "테넌트의 최대 대화 수(200만 개)에 도달했습니다. 한도를 늘리려면 지원팀에 문의해 주세요.",
+    "ERROR_NAME_TOO_LONG": "대화 이름이 허용된 최대 글자 수(300자)를 초과했습니다.",
+    "ERROR_ALREADY_EXISTS": "같은 이름의 대화가 이미 있습니다.",
+    "ERROR_NOT_FOUND": "해당 대화를 찾을 수 없습니다.",
+    "ERROR_INTERNAL": "내부 오류가 발생했습니다. 고객 서비스 담당자에게 알려 주세요."
 }

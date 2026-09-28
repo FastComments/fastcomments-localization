@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "La conversation ",
     "HERO_TITLE_BOLD": "n'a pas pu être créée",
     "HERO_DESCRIPTION": "Nous n'avons pas pu créer votre conversation. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'Une erreur interne s\\'est produite. Veuillez la signaler à votre représentant du service client.' %>",
-    "BUTTON_TRY_AGAIN": "Essayez d'entamer une nouvelle conversation."
+    "BUTTON_TRY_AGAIN": "Essayez d'entamer une nouvelle conversation.",
+    "ERROR_SIGN_IN": "Veuillez vous connecter à votre compte avant de créer des conversations.",
+    "ERROR_LIMIT_REACHED": "Vous avez atteint le nombre maximal de conversations pour votre compte (2 millions). Pour augmenter cette limite, contactez l'assistance.",
+    "ERROR_NAME_TOO_LONG": "Le nom de votre conversation dépasse le nombre maximal de caractères autorisé (300).",
+    "ERROR_ALREADY_EXISTS": "Une conversation portant ce nom existe déjà.",
+    "ERROR_NOT_FOUND": "Cette conversation est introuvable.",
+    "ERROR_INTERNAL": "Une erreur interne s'est produite. Veuillez la signaler à votre représentant du service client."
 }

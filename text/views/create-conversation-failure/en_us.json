@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "Conversation ",
     "HERO_TITLE_BOLD": "Could Not Be Created",
     "HERO_DESCRIPTION": "We couldn't create your conversation. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
-    "BUTTON_TRY_AGAIN": "Try to create a new conversation."
+    "BUTTON_TRY_AGAIN": "Try to create a new conversation.",
+    "ERROR_SIGN_IN": "Please sign in to your tenant before creating conversations.",
+    "ERROR_LIMIT_REACHED": "You have reached the maximum conversations for your tenant (2 million). To increase this limit, reach out to support.",
+    "ERROR_NAME_TOO_LONG": "Your conversation name is beyond the maximum characters allowed (300).",
+    "ERROR_ALREADY_EXISTS": "A conversation with that name already exists.",
+    "ERROR_NOT_FOUND": "That conversation could not be found.",
+    "ERROR_INTERNAL": "This was an internal error. Please report this to your customer service representative."
 }

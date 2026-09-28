@@ -22,5 +22,19 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Für die jeweilige Region anpassen",
     "TEXT_TEST_DATA_INFO": "Hier können Sie benutzerdefinierte Testdaten definieren, die in der Vorschau verwendet werden. Diese werden zusammen mit der Vorlage gespeichert.",
     "BUTTON_RESET_TEST_DATA": "Zurücksetzen",
-    "BUTTON_SAVE": "Speichern"
+    "BUTTON_SAVE": "Speichern",
+    "LABEL_CUSTOMIZE_VALUE": "„[value]“ anpassen",
+    "OVERRIDES_COUNT_O": "[count] Überschreibung",
+    "OVERRIDES_COUNT": "[count] Überschreibungen",
+    "ERROR_LOAD_FAILED": "Diese Vorlage konnte nicht geladen werden. Bitte versuchen Sie es später erneut oder wenden Sie sich an den Support.",
+    "CONFIRM_UNSAVED_CHANGES": "Sie haben ungespeicherte Änderungen. Trotzdem verlassen?",
+    "ERROR_DOES_NOT_RENDER": "Die E-Mail-Vorlage konnte nicht gespeichert werden, weil sie sich nicht fehlerfrei rendern lässt. Beheben Sie alle Fehler und versuchen Sie es erneut.",
+    "ERROR_SAVE_REQUEST_FAILED": "Die letzte Speicheranfrage ist fehlgeschlagen. Bitte versuchen Sie es später erneut.",
+    "BUTTON_SAVING": "Wird gespeichert...",
+    "BUTTON_SAVED": "Erfolgreich gespeichert!",
+    "BUTTON_SAVE_FAILED": "Speichern fehlgeschlagen!",
+    "BUTTON_NAVIGATING_TO_NEW": "Neue Vorlage wird geöffnet...",
+    "BUTTON_CLEARING": "Wird geleert...",
+    "BUTTON_CLEARED": "Geleert!",
+    "BUTTON_CLEAR_FAILED": "Leeren fehlgeschlagen!"
 }

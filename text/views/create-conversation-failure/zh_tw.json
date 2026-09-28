@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "對話 ",
     "HERO_TITLE_BOLD": "無法建立。",
     "HERO_DESCRIPTION": "我們無法建立您的對話。 <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
-    "BUTTON_TRY_AGAIN": "嘗試開啟一段新的對話。"
+    "BUTTON_TRY_AGAIN": "嘗試開啟一段新的對話。",
+    "ERROR_SIGN_IN": "建立對話前，請先登入您的租戶。",
+    "ERROR_LIMIT_REACHED": "您的租戶對話數量已達上限（200 萬）。如需提高此上限，請聯絡支援團隊。",
+    "ERROR_NAME_TOO_LONG": "對話名稱超出允許的最大字元數（300）。",
+    "ERROR_ALREADY_EXISTS": "同名對話已存在。",
+    "ERROR_NOT_FOUND": "找不到該對話。",
+    "ERROR_INTERNAL": "發生內部錯誤。請將此問題回報給您的客服代表。"
 }

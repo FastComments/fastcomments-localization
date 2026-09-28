@@ -22,5 +22,19 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Tilpas til lokalitet",
     "TEXT_TEST_DATA_INFO": "Her kan du definere brugerdefinerede testdata, der bruges i forhåndsvisningen. De gemmes sammen med skabelonen.",
     "BUTTON_RESET_TEST_DATA": "Nulstil",
-    "BUTTON_SAVE": "Gem"
+    "BUTTON_SAVE": "Gem",
+    "LABEL_CUSTOMIZE_VALUE": "Tilpas \"[value]\"",
+    "OVERRIDES_COUNT_O": "[count] tilsidesættelse",
+    "OVERRIDES_COUNT": "[count] tilsidesættelser",
+    "ERROR_LOAD_FAILED": "Skabelonen kunne ikke indlæses. Prøv igen senere, eller kontakt support.",
+    "CONFIRM_UNSAVED_CHANGES": "Du har ændringer, der ikke er gemt. Vil du forlade siden alligevel?",
+    "ERROR_DOES_NOT_RENDER": "E-mailskabelonen kunne ikke gemmes, fordi den ikke kan gengives korrekt. Ret eventuelle fejl, og prøv igen.",
+    "ERROR_SAVE_REQUEST_FAILED": "Den seneste anmodning om at gemme mislykkedes. Prøv igen senere.",
+    "BUTTON_SAVING": "Gemmer...",
+    "BUTTON_SAVED": "Gemt!",
+    "BUTTON_SAVE_FAILED": "Kunne ikke gemme!",
+    "BUTTON_NAVIGATING_TO_NEW": "Går til ny skabelon...",
+    "BUTTON_CLEARING": "Rydder...",
+    "BUTTON_CLEARED": "Ryddet!",
+    "BUTTON_CLEAR_FAILED": "Kunne ikke rydde!"
 }

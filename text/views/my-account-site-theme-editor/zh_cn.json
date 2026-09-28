@@ -14,5 +14,8 @@
     "ERROR_CANNOT_DELETE_REQUIRED": "此文件为必填文件，不可删除。",
     "TAB_LOCALIZATIONS": "本地化",
     "TEXT_LOCALIZATIONS_INFO": "自定义网站主题中使用的默认文本字符串。更改仅适用于所选语言环境。",
-    "LABEL_CUSTOMIZE_FOR_LOCALE": "根据语言环境进行自定义："
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "根据语言环境进行自定义：",
+    "LABEL_CUSTOMIZE_VALUE": "自定义“[value]”",
+    "OVERRIDES_COUNT": "[count] 项覆盖",
+    "CONFIRM_UNSAVED_CHANGES": "您有未保存的更改。"
 }

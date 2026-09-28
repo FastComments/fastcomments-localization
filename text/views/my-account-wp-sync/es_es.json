@@ -3,5 +3,16 @@
     "HEADING": "Conexión de WordPress",
     "MESSAGE_IMPORTING": "Estamos importando tus comentarios para que podamos publicarlos desde tu blog. Puedes dejar esta página abierta si lo deseas o cerrarla y te enviaremos un correo electrónico cuando esté lista. Si quieres volver más tarde para comprobar el estado, simplemente haz clic en el botón Importar/Exportar en la parte superior.",
     "MESSAGE_LOADING": "...cargando...",
-    "MESSAGE_AFTER_DONE": "Una vez hecho esto, mantendremos tus comentarios sincronizados con tu sitio de WordPress, por lo que si alguna vez desactivas FastComments, no perderás ningún dato."
+    "MESSAGE_AFTER_DONE": "Una vez hecho esto, mantendremos tus comentarios sincronizados con tu sitio de WordPress, por lo que si alguna vez desactivas FastComments, no perderás ningún dato.",
+    "STATUS_POWERING_UP": "Arrancando...",
+    "STATUS_IMPORTED_COUNT": "Importados [count] de [total] comentarios...",
+    "STATUS_DETERMINING_COUNT": "Calculando el número de comentarios...",
+    "STATUS_ALL_SET": "¡Todo listo! FastComments ya debería estar activado en tu blog.",
+    "STATUS_CLOSE_PAGE": "Ya puedes cerrar esta página.",
+    "STATUS_SETUP_BILLING_LINK": "A continuación, haz clic aquí para configurar tu información de facturación.",
+    "STATUS_IMPORT_FAILED": "¡Oh, no! Se ha producido un error. Si el problema persiste, ponte en contacto con el soporte.",
+    "STATUS_IMPORT_EXPIRED": "Parece que esta importación se realizó hace tiempo. Puedes cerrar esta ventana.",
+    "ERROR_INVALID_URL": "¡Oh, no! Parece que la URL que tienes no es válida.",
+    "ERROR_SESSION_EXPIRED": "¡Oh, no! Parece que tu sesión ha caducado. Vuelve a iniciar sesión y actualiza esta página.",
+    "ERROR_GENERIC": "¡Oh, no! Parece que hemos tenido un problema."
 }

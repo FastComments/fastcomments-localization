@@ -213,9 +213,9 @@
     "HEADING_ADVANCED": "Napredno",
     "LABEL_SHOW_ADVANCED_OPTIONS": "Prikaži napredne možnosti",
     "LABEL_USE_ABSOLUTE_DATES": "Uporabiti absolutne datume?",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "To bo prikazalo datume, kot je »<%= new Date().toLocaleString() %>« namesto »pravkar zdaj«.",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "To bo prikazalo datume, kot je »<%= new Date().toLocaleString(htmlLang) %>« namesto »pravkar zdaj«.",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "Uporabljati tako relativne kot absolutne datume?",
-    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "To bo prikazalo datume, kot je »pravkar zdaj (<%= new Date().toLocaleDateString() %>)« namesto »pravkar zdaj«.",
+    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "To bo prikazalo datume, kot je »pravkar zdaj (<%= new Date().toLocaleDateString(htmlLang) %>)« namesto »pravkar zdaj«.",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "Upodabljanje komentarjev v HTML-ju",
     "OPTION_RENDER_ALL": "Upodobi vse (privzeto)",
     "OPTION_LINKS_AS_TEXT": "Povezave kot besedilo.",
@@ -292,5 +292,8 @@
     "TEXT_ALLOW_EMBEDS_NOTE": "Komentatorjem omogoča vdelavo videoposnetkov in predvajalnikov (YouTube, Vimeo, SoundCloud, Spotify in drugi) z lepljenjem vstavljivega okvirja ponudnika. Dovoljeni so samo zaupanja vredni ponudniki.",
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "igralec.primer.com, vdelaj.primer.com",
     "LABEL_ALLOWED_EMBED_DOMAINS": "Dodatne vdelane domene",
-    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Seznam dodatnih vdelanih imen gostiteljev, ločenih z vejicami, ki jih je treba dovoliti poleg vgrajenih zaupanja vrednih ponudnikov."
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Seznam dodatnih vdelanih imen gostiteljev, ločenih z vejicami, ki jih je treba dovoliti poleg vgrajenih zaupanja vrednih ponudnikov.",
+    "TEXT_NO_TEXT_OVERRIDES": "Trenutno nimate nobenih preglasitev besedila.",
+    "TABLE_HEADER_DEFAULT_TEXT": "Privzeto besedilo",
+    "TABLE_HEADER_OVERRIDE": "Preglasitev"
 }

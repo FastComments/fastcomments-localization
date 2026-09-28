@@ -14,5 +14,10 @@
     "ERROR_CANNOT_DELETE_REQUIRED": "Ten plik jest wymagany i nie można go usunąć.",
     "TAB_LOCALIZATIONS": "Lokalizacje",
     "TEXT_LOCALIZATIONS_INFO": "Dostosuj domyślne ciągi tekstowe używane w motywie witryny. Zmiany dotyczą tylko wybranej lokalizacji.",
-    "LABEL_CUSTOMIZE_FOR_LOCALE": "Dostosuj do ustawień regionalnych:"
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Dostosuj do ustawień regionalnych:",
+    "LABEL_CUSTOMIZE_VALUE": "Dostosuj „[value]”",
+    "OVERRIDES_COUNT_O": "[count] nadpisanie",
+    "OVERRIDES_COUNT": "[count] nadpisań",
+    "OVERRIDES_COUNT_F": "[count] nadpisania",
+    "CONFIRM_UNSAVED_CHANGES": "Masz niezapisane zmiany."
 }

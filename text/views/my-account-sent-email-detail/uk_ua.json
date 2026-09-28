@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "Надіслано електронного листа <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "PAGE_TITLE": "Надіслано електронного листа <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> - FastComments",
     "BUTTON_BACK": "← Назад до надісланих листів",
-    "HEADING": "Надіслано електронного листа <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "HEADING": "Надіслано електронного листа <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>",
     "LABEL_DATE": "Дата:",
     "LABEL_FROM": "Від:",
     "LABEL_TO": "До:",

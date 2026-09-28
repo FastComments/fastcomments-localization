@@ -1,5 +1,10 @@
 {
     "PAGE_TITLE": "알림 수신 거부 실패",
     "HEADING_LIGHT": "구독 취소 ",
-    "HEADING_BOLD": "실패"
+    "HEADING_BOLD": "실패",
+    "ERROR_INVALID_LINK": "이 링크가 잘못되었거나 만료된 것 같습니다.",
+    "ERROR_ACCOUNT_NOT_FOUND": "계정을 찾을 수 없습니다.",
+    "ERROR_COMMENT_NOT_FOUND": "알림 수신을 거부하려는 댓글을 찾을 수 없습니다. 삭제되었거나 링크가 잘못되었을 수 있습니다.",
+    "ERROR_ALREADY_OPTED_OUT": "...이 게시물의 알림을 이미 수신 거부하셨기 때문입니다! 좋은 하루 보내세요.",
+    "ERROR_OPT_OUT_FAILED": "알 수 없는 이유로 수신 거부를 처리하지 못했습니다. 나중에 다시 시도해 주세요."
 }

@@ -43,7 +43,6 @@
     "TEXT_NO_PAGE_LIKES": "Здесь ничего интересного. Возможно, вы хотите настроить виджет <a href=\"https://docs.fastcomments.com/guide-page-reacts.html\" target=\"_blank\">Page Reacts</a> ?",
     "TEXT_NO_USERS_ONLINE": "В данный момент нет пользователей онлайн, или комментарии к страницам, на которых пользователи находятся онлайн, не собираются.",
     "TEXT_NOTHING_TO_SEE": "Здесь смотреть нечего.",
-    "HEADING_METRICS_BY_MONTH": "Показатели по <%= timePeriod === '12months' ? 'Month - Last 12 Months' : 'Day - Last 30 Days' %>",
     "TABLE_HEADER_MONTH": "Месяц",
     "TABLE_HEADER_DAY": "День",
     "TABLE_HEADER_PAGE_LOADS": "Загрузка страницы",
@@ -68,5 +67,7 @@
     "TABLE_HEADER_SYNC_REQUESTS_SUCCESS": "Запросы на синхронизацию успешно выполнены.",
     "TABLE_HEADER_SYNC_REQUESTS_FAILURE": "Сбой запросов синхронизации",
     "TABLE_HEADER_IMAGES_UPLOADED": "Загруженные изображения",
-    "TABLE_HEADER_IMAGES_SIZE_BYTES": "Размер изображений (байты)"
+    "TABLE_HEADER_IMAGES_SIZE_BYTES": "Размер изображений (байты)",
+    "HEADING_METRICS_BY_MONTH_LAST_12_MONTHS": "Показатели по месяцам - последние 12 месяцев",
+    "HEADING_METRICS_BY_DAY_LAST_30_DAYS": "Показатели по дням - последние 30 дней"
 }

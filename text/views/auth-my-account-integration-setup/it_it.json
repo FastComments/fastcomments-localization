@@ -28,5 +28,18 @@
     "TITLE_FETCH_EVENTS": "Richiesta di sincronizzazione",
     "DESC_FETCH_EVENTS": "L'integrazione ha richiesto il registro eventi per gli ultimi commenti e i dati correlati.",
     "TITLE_GET_COMMENTS": "Recupero commenti...",
-    "DESC_GET_COMMENTS": "L'integrazione ha richiesto i dati dei commenti."
+    "DESC_GET_COMMENTS": "L'integrazione ha richiesto i dati dei commenti.",
+    "TITLE_NO_LOGS": "Nessun registro",
+    "DESC_NO_LOGS_EXPIRED": "Nessun registro trovato. Sembra che siano scaduti.",
+    "DESC_NO_LOGS_EXPIRED_SETUP_DONE": "Nessun registro trovato. Sembra che siano scaduti. Risulta comunque che la configurazione è stata completata.",
+    "ALT_DONE": "Fatto",
+    "TITLE_ALL_SET": "È tutto pronto!",
+    "DESC_SETUP_COMPLETED": "La configurazione iniziale è stata completata! L'integrazione è ora attiva.",
+    "HEADING_NEXT_STEPS": "Prossimi passi",
+    "BUTTON_DOCUMENTATION": "Documentazione",
+    "BUTTON_CUSTOMIZE": "Personalizza",
+    "BUTTON_ADD_MODERATORS": "Aggiungi moderatori",
+    "BUTTON_ADD_ADMINS": "Aggiungi amministratori",
+    "HEADING_SETUP_COMPLETED": "Configurazione completata.",
+    "SUBHEADING_SETUP_LOG": "Registro di configurazione"
 }

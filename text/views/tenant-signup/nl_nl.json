@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "Het is niet nodig om subdomeinen of localhost in te voeren. Voor meerdere sites kunt u deze met komma's scheiden.",
     "TOS_TEXT": "Door op &#39;Account aanmaken&#39; te klikken, ga je akkoord met de <a href=\"/terms-of-service\" target=\"_blank\">Servicevoorwaarden</a> .",
     "BUTTON_CREATE_ACCOUNT": "Account aanmaken",
-    "ERROR_SIGNUP_ALREADY_STARTED": "Het aanmeldproces is al gestart en kan niet opnieuw worden ingediend. Heeft u de pagina mogelijk vernieuwd?"
+    "ERROR_SIGNUP_ALREADY_STARTED": "Het aanmeldproces is al gestart en kan niet opnieuw worden ingediend. Heeft u de pagina mogelijk vernieuwd?",
+    "ERROR_INVALID_DOMAINS": "De opgegeven domeinen lijken ongeldig te zijn. Controleer ze en verstuur het formulier opnieuw.",
+    "ERROR_PACKAGE_REQUIRED": "Selecteer een pakket.",
+    "ERROR_INVALID_PACKAGE": "Ongeldig pakket geselecteerd. Kies een geldig pakket.",
+    "ERROR_TEMPORARY_EMAIL": "We accepteren geen tijdelijke e-mailadressen.",
+    "ERROR_VALID_EMAIL_REQUIRED": "Een geldig e-mailadres is verplicht.",
+    "ERROR_INPUT_TOO_LONG": "Oh nee! Uw invoer is veel te lang.",
+    "ERROR_USERNAME_REQUIRED": "Een gebruikersnaam is verplicht.",
+    "ERROR_EMAIL_REQUIRED": "Uw e-mailadres is verplicht.",
+    "ERROR_COMPANY_NAME_REQUIRED": "Een bedrijfsnaam is verplicht.",
+    "ERROR_DOMAINS_REQUIRED": "Een door komma's gescheiden lijst met domeinen is verplicht.",
+    "ERROR_INVALID_COUPON": "Die kortingscode is niet geldig.",
+    "ERROR_USERNAME_TAKEN": "Oh nee! Die gebruikersnaam is al in gebruik.",
+    "ERROR_CREATING_ACCOUNT": "Oh nee! Er is een fout opgetreden bij het aanmaken van uw account."
 }

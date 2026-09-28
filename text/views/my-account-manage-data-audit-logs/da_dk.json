@@ -43,5 +43,9 @@
     "TABLE_TENANT": "Konto",
     "FILTER_BY_AFFECTED": "Hvem eller hvad blev ændret",
     "DATE_PRESET_CUSTOM": "Brugerdefineret periode",
-    "FILTER_BY_AFFECTED_PLACEHOLDER": "Navn, e-mail eller ID"
+    "FILTER_BY_AFFECTED_PLACEHOLDER": "Navn, e-mail eller ID",
+    "FROM_UI": "Brugerflade",
+    "FROM_API": "API",
+    "FROM_CRON": "Cron-job",
+    "VALUE_N_A": "Ikke relevant"
 }

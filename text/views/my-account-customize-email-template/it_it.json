@@ -22,5 +22,19 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Personalizza per locale",
     "TEXT_TEST_DATA_INFO": "Qui puoi definire i dati di test personalizzati da utilizzare nell'anteprima. Questi dati vengono salvati insieme al modello.",
     "BUTTON_RESET_TEST_DATA": "Reimposta",
-    "BUTTON_SAVE": "Salva"
+    "BUTTON_SAVE": "Salva",
+    "LABEL_CUSTOMIZE_VALUE": "Personalizza \"[value]\"",
+    "OVERRIDES_COUNT_O": "[count] sostituzione",
+    "OVERRIDES_COUNT": "[count] sostituzioni",
+    "ERROR_LOAD_FAILED": "Impossibile caricare questo modello. Riprova più tardi o contatta l'assistenza.",
+    "CONFIRM_UNSAVED_CHANGES": "Hai modifiche non salvate. Vuoi comunque uscire?",
+    "ERROR_DOES_NOT_RENDER": "Impossibile salvare il modello di posta elettronica perché il rendering non riesce. Correggi gli errori e riprova.",
+    "ERROR_SAVE_REQUEST_FAILED": "L'ultima richiesta di salvataggio non è riuscita. Riprova più tardi.",
+    "BUTTON_SAVING": "Salvataggio...",
+    "BUTTON_SAVED": "Salvato correttamente!",
+    "BUTTON_SAVE_FAILED": "Salvataggio non riuscito!",
+    "BUTTON_NAVIGATING_TO_NEW": "Apertura del nuovo modello...",
+    "BUTTON_CLEARING": "Cancellazione...",
+    "BUTTON_CLEARED": "Cancellato!",
+    "BUTTON_CLEAR_FAILED": "Cancellazione non riuscita!"
 }

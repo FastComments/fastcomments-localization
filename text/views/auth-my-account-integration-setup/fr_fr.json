@@ -27,5 +27,18 @@
     "TITLE_FETCH_EVENTS": "Demande de synchronisation",
     "DESC_FETCH_EVENTS": "L'intégration a demandé le journal des événements pour les derniers commentaires et les données associées.",
     "TITLE_GET_COMMENTS": "Récupération des commentaires...",
-    "DESC_GET_COMMENTS": "L'intégration a demandé les données des commentaires."
+    "DESC_GET_COMMENTS": "L'intégration a demandé les données des commentaires.",
+    "TITLE_NO_LOGS": "Aucun registre",
+    "DESC_NO_LOGS_EXPIRED": "Aucun registre trouvé. Il semble qu'ils aient expiré.",
+    "DESC_NO_LOGS_EXPIRED_SETUP_DONE": "Aucun registre trouvé. Il semble qu'ils aient expiré. Nous constatons toutefois que la configuration a bien été effectuée.",
+    "ALT_DONE": "Terminé",
+    "TITLE_ALL_SET": "Tout est prêt !",
+    "DESC_SETUP_COMPLETED": "La configuration initiale est terminée ! L'intégration est désormais active.",
+    "HEADING_NEXT_STEPS": "Prochaines étapes",
+    "BUTTON_DOCUMENTATION": "Documentation",
+    "BUTTON_CUSTOMIZE": "Personnaliser",
+    "BUTTON_ADD_MODERATORS": "Ajouter des modérateurs",
+    "BUTTON_ADD_ADMINS": "Ajouter des administrateurs",
+    "HEADING_SETUP_COMPLETED": "Configuration terminée.",
+    "SUBHEADING_SETUP_LOG": "Journal de configuration"
 }

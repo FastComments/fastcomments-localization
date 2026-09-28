@@ -41,7 +41,6 @@
     "TEXT_NO_PAGE_LIKES": "何も表示されません。<a href=\"https://docs.fastcomments.com/guide-page-reacts.html\" target=\"_blank\">Page Reacts</a>ウィジェットを設定してみてはいかがでしょうか？",
     "TEXT_NO_USERS_ONLINE": "現在オンラインのユーザーがいないか、ユーザーがオンラインのページにコメントが収集されていません。",
     "TEXT_NOTHING_TO_SEE": "ここには何もありません。",
-    "HEADING_METRICS_BY_MONTH": "メトリクス：<%= timePeriod === '12months' ? 'Month - Last 12 Months' : 'Day - Last 30 Days' %>",
     "TABLE_HEADER_MONTH": "月",
     "TABLE_HEADER_DAY": "日",
     "TABLE_HEADER_PAGE_LOADS": "ページの読み込み",
@@ -66,5 +65,7 @@
     "TABLE_HEADER_SYNC_REQUESTS_SUCCESS": "同期リクエスト成功",
     "TABLE_HEADER_SYNC_REQUESTS_FAILURE": "同期要求の失敗",
     "TABLE_HEADER_IMAGES_UPLOADED": "アップロードされた画像",
-    "TABLE_HEADER_IMAGES_SIZE_BYTES": "画像サイズ（バイト）"
+    "TABLE_HEADER_IMAGES_SIZE_BYTES": "画像サイズ（バイト）",
+    "HEADING_METRICS_BY_MONTH_LAST_12_MONTHS": "月別メトリクス - 過去12か月",
+    "HEADING_METRICS_BY_DAY_LAST_30_DAYS": "日別メトリクス - 過去30日間"
 }

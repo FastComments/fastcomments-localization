@@ -22,5 +22,19 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Prilagodite za lokal",
     "TEXT_TEST_DATA_INFO": "Ovde možete definisati prilagođene testne podatke koji se koriste u pregledu. Čuva se zajedno sa šablonom.",
     "BUTTON_RESET_TEST_DATA": "Resetovanje",
-    "BUTTON_SAVE": "Sačuvaj"
+    "BUTTON_SAVE": "Sačuvaj",
+    "LABEL_CUSTOMIZE_VALUE": "Prilagodi „[value]“",
+    "OVERRIDES_COUNT": "[count] zamena",
+    "OVERRIDES_COUNT_F": "[count] zamene",
+    "ERROR_LOAD_FAILED": "Učitavanje ovog šablona nije uspelo. Pokušajte ponovo kasnije ili se obratite podršci.",
+    "CONFIRM_UNSAVED_CHANGES": "Imate nesačuvane izmene. Želite li ipak da napustite stranicu?",
+    "ERROR_DOES_NOT_RENDER": "Šablon imejla nije moguće sačuvati jer se ne renderuje uspešno. Ispravite greške i pokušajte ponovo.",
+    "ERROR_SAVE_REQUEST_FAILED": "Poslednji zahtev za čuvanje nije uspeo. Pokušajte ponovo kasnije.",
+    "BUTTON_SAVING": "Čuvanje...",
+    "BUTTON_SAVED": "Uspešno sačuvano!",
+    "BUTTON_SAVE_FAILED": "Čuvanje nije uspelo!",
+    "BUTTON_NAVIGATING_TO_NEW": "Prelazak na novi šablon...",
+    "BUTTON_CLEARING": "Brisanje...",
+    "BUTTON_CLEARED": "Obrisano!",
+    "BUTTON_CLEAR_FAILED": "Brisanje nije uspelo!"
 }

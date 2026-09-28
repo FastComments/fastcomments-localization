@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Échec de la désinscription",
     "HEADING_LIGHT": "Désinscription ",
-    "HEADING_BOLD": "échouée"
+    "HEADING_BOLD": "échouée",
+    "ERROR_EXPIRED": "Cette URL a expiré. Vous êtes-vous déjà désinscrit ?",
+    "ERROR_USER_NOT_FOUND": "Nous n'avons pas trouvé cet utilisateur. Votre URL est-elle correcte ?",
+    "ERROR_INTERNAL": "Une erreur interne s'est produite."
 }

@@ -38,5 +38,8 @@
     "RETENTION_INFO": "Webhook-Protokolle werden ein Jahr lang aufbewahrt.",
     "N_A_VALUES_NOTE": "Bei einigen Einträgen kann „N/A“ für Werte angezeigt werden, die wir nicht immer erfasst haben.",
     "LOG_DETAILS_HEADING": "Protokolldetails",
-    "CLOSE_BUTTON": "Schließen"
+    "CLOSE_BUTTON": "Schließen",
+    "EVENT_TYPE_CREATE": "Erstellung",
+    "EVENT_TYPE_UPDATE": "Aktualisierung",
+    "EVENT_TYPE_DELETE": "Löschung"
 }

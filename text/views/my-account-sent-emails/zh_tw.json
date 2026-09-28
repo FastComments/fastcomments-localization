@@ -19,5 +19,8 @@
     "MESSAGE_NO_EMAILS": "您沒有任何已傳送的電子郵件。",
     "VALUE_UNKNOWN": "未知",
     "VALUE_NO_SUBJECT": "（無主題）",
-    "VALUE_NA": "不適用"
+    "VALUE_NA": "不適用",
+    "ERROR_VERIFY_EMAIL": "請先驗證您的電子郵件地址，才能查看已寄出的郵件。請在收件匣中查看驗證郵件，或從帳戶設定重新寄送。",
+    "ERROR_LOAD_SENT_EMAILS": "無法載入已寄出的郵件。請稍後再試。",
+    "ERROR_LOAD_EMAIL_DETAIL": "無法載入郵件詳細資料。請稍後再試。"
 }

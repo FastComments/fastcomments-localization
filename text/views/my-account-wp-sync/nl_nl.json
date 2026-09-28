@@ -3,5 +3,16 @@
     "HEADING": "WordPress Connect",
     "MESSAGE_IMPORTING": "We zijn momenteel bezig met het importeren van uw reacties, zodat we ze vanaf uw blog kunnen weergeven. U kunt deze pagina open laten staan als u wilt, of u kunt hem sluiten. We sturen u dan een e-mail zodra dit is voltooid. Als u later wilt terugkomen om de status te controleren, klikt u gewoon op de knop Importeren/Exporteren bovenaan.",
     "MESSAGE_LOADING": "...laden...",
-    "MESSAGE_AFTER_DONE": "Nadat dit is gedaan, synchroniseren we je reacties met je WordPress-site, zodat je geen gegevens verliest als je FastComments ooit deactiveert."
+    "MESSAGE_AFTER_DONE": "Nadat dit is gedaan, synchroniseren we je reacties met je WordPress-site, zodat je geen gegevens verliest als je FastComments ooit deactiveert.",
+    "STATUS_POWERING_UP": "Opstarten...",
+    "STATUS_IMPORTED_COUNT": "[count] van [total] reacties geïmporteerd...",
+    "STATUS_DETERMINING_COUNT": "Aantal reacties bepalen...",
+    "STATUS_ALL_SET": "Alles is klaar! FastComments zou nu ingeschakeld moeten zijn op uw blog.",
+    "STATUS_CLOSE_PAGE": "U kunt deze pagina nu sluiten.",
+    "STATUS_SETUP_BILLING_LINK": "Klik vervolgens hier om uw factuurgegevens in te stellen.",
+    "STATUS_IMPORT_FAILED": "Oh nee, er is een fout opgetreden! Neem contact op met support als dit blijft gebeuren.",
+    "STATUS_IMPORT_EXPIRED": "Deze import is blijkbaar al een tijd geleden uitgevoerd. U kunt dit venster sluiten.",
+    "ERROR_INVALID_URL": "Oh nee! De URL lijkt ongeldig te zijn.",
+    "ERROR_SESSION_EXPIRED": "Oh nee! Uw sessie lijkt verlopen te zijn. Log opnieuw in en vernieuw deze pagina.",
+    "ERROR_GENERIC": "Oh nee! Er ging iets mis!"
 }

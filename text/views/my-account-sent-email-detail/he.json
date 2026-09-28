@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "נשלח אימייל בתאריך <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "PAGE_TITLE": "נשלח אימייל בתאריך <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> - תגובות מהירות",
     "BUTTON_BACK": "← חזרה להודעות דוא\"ל שנשלחו",
-    "HEADING": "נשלח אימייל בתאריך <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "HEADING": "נשלח אימייל בתאריך <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>",
     "LABEL_DATE": "תאריך:",
     "LABEL_FROM": "מאת:",
     "LABEL_TO": "אל:",

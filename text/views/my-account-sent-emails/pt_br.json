@@ -19,5 +19,8 @@
     "MESSAGE_NO_EMAILS": "Você não tem nenhum e-mail enviado.",
     "VALUE_UNKNOWN": "Desconhecido",
     "VALUE_NO_SUBJECT": "(Sem assunto)",
-    "VALUE_NA": "N/A"
+    "VALUE_NA": "N/A",
+    "ERROR_VERIFY_EMAIL": "Verifique seu endereço de e-mail para acessar os e-mails enviados. Procure o e-mail de verificação na sua caixa de entrada ou reenvie-o nas configurações da sua conta.",
+    "ERROR_LOAD_SENT_EMAILS": "Falha ao carregar os e-mails enviados. Tente novamente mais tarde.",
+    "ERROR_LOAD_EMAIL_DETAIL": "Falha ao carregar os detalhes do e-mail. Tente novamente mais tarde."
 }

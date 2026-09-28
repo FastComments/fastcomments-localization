@@ -8,5 +8,21 @@
     "BADGE_ACTIVE": "Aktivan",
     "BADGE_CUSTOM": "Prilagođeno",
     "CONFIRM_DELETE": "Jeste li sigurni da želite izbrisati ovu temu? Vaša će se web-lokacija vratiti na zadanu temu.",
-    "CONFIRM_FORK": "Ovim će se stvoriti kopija ove teme koju je moguće uređivati. Želite li nastaviti?"
+    "CONFIRM_FORK": "Ovim će se stvoriti kopija ove teme koju je moguće uređivati. Želite li nastaviti?",
+    "THEME_FORK_NAME": "[name] (prilagođena)",
+    "THEME_FALLBACK_NAME": "Tema",
+    "THEME_CLEAN_NAME": "Čista",
+    "THEME_CLEAN_DESCRIPTION": "Moderan, minimalistički dizajn s plavim naglascima i puno bijelog prostora.",
+    "THEME_BOLD_NAME": "Odvažna",
+    "THEME_BOLD_DESCRIPTION": "Snažne boje s tamnim zaglavljem i podnožjem. Odlično za upečatljive brendove.",
+    "THEME_MINIMAL_NAME": "Minimalna",
+    "THEME_MINIMAL_DESCRIPTION": "Sveden dizajn s neutralnim tonovima i oštrim rubovima.",
+    "THEME_CLASSIC_NAME": "Klasična",
+    "THEME_CLASSIC_DESCRIPTION": "Topao, urednički dojam sa serifnim fontovima i klasičnim proporcijama.",
+    "THEME_BLOG_NAME": "Blog",
+    "THEME_BLOG_DESCRIPTION": "Raspored usmjeren na sadržaj s bočnom trakom za istaknute objave.",
+    "THEME_PORTFOLIO_NAME": "Portfelj",
+    "THEME_PORTFOLIO_DESCRIPTION": "Uvodni odjeljci preko cijele širine, galerije u mozaičnom rasporedu i upečatljivi pozivi na akciju.",
+    "THEME_CREATOR_NAME": "Kreator",
+    "THEME_CREATOR_DESCRIPTION": "Navigacija u bočnoj traci s naslovnim bannerom i mrežom sadržaja. Odlično za kreatore i stranice s članstvom."
 }

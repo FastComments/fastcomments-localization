@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Anmeldung fehlgeschlagen",
     "HEADING_LIGHT": "Anmelden ",
-    "HEADING_BOLD": "Fehlgeschlagen"
+    "HEADING_BOLD": "Fehlgeschlagen",
+    "ERROR_EXPIRED": "Diese URL ist abgelaufen. Haben Sie diese URL bereits verwendet?",
+    "ERROR_USER_NOT_FOUND": "Wir konnten diesen Benutzer nicht finden. Ist Ihre URL korrekt?",
+    "ERROR_INTERNAL": "Es ist ein interner Fehler aufgetreten."
 }

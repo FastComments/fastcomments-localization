@@ -213,9 +213,9 @@
     "HEADING_ADVANCED": "進階",
     "LABEL_SHOW_ADVANCED_OPTIONS": "顯示進階選項",
     "LABEL_USE_ABSOLUTE_DATES": "使用絕對日期？",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "這樣會顯示類似“<%= new Date().toLocaleString() %>”的日期，而不是“剛剛”。",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "這樣會顯示類似“<%= new Date().toLocaleString(htmlLang) %>”的日期，而不是“剛剛”。",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "同時使用相對日期和絕對日期嗎？",
-    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "這樣會顯示類似「剛剛（<%= new Date().toLocaleDateString() %>）」的日期，而不是「剛剛」。",
+    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "這樣會顯示類似「剛剛（<%= new Date().toLocaleDateString(htmlLang) %>）」的日期，而不是「剛剛」。",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "註解 HTML 渲染",
     "OPTION_RENDER_ALL": "全部渲染（預設）",
     "OPTION_LINKS_AS_TEXT": "連結以文字形式呈現。",
@@ -292,5 +292,8 @@
     "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "以逗號分隔的額外嵌入式主機名稱列表，允許在內建受信任提供者之外進行存取。",
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com，embed.example.com",
     "TEXT_ALLOW_EMBEDS_NOTE": "允許評論者透過貼上提供者的 iframe 程式碼來嵌入影片和播放器（YouTube、Vimeo、SoundCloud、Spotify 等）。僅允許使用受信任的提供者。",
-    "LABEL_ALLOWED_EMBED_DOMAINS": "附加嵌入域"
+    "LABEL_ALLOWED_EMBED_DOMAINS": "附加嵌入域",
+    "TEXT_NO_TEXT_OVERRIDES": "您目前沒有任何文字覆蓋。",
+    "TABLE_HEADER_DEFAULT_TEXT": "預設文字",
+    "TABLE_HEADER_OVERRIDE": "覆蓋"
 }

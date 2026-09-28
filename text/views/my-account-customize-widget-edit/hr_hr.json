@@ -213,9 +213,9 @@
     "HEADING_ADVANCED": "Napredno",
     "LABEL_SHOW_ADVANCED_OPTIONS": "Prikaži napredne opcije",
     "LABEL_USE_ABSOLUTE_DATES": "Koristiti apsolutne datume?",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Ovo će prikazivati datume poput \"<%= new Date().toLocaleString() %>\" umjesto \"upravo sada\".",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Ovo će prikazivati datume poput \"<%= new Date().toLocaleString(htmlLang) %>\" umjesto \"upravo sada\".",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "Koristiti i relativne i apsolutne datume?",
-    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Ovo će prikazivati datume poput \"upravo sada (<%= new Date().toLocaleDateString() %>)\" umjesto \"upravo sada\".",
+    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Ovo će prikazivati datume poput \"upravo sada (<%= new Date().toLocaleDateString(htmlLang) %>)\" umjesto \"upravo sada\".",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "Renderiranje HTML komentara",
     "OPTION_RENDER_ALL": "Renderiraj sve (zadano)",
     "OPTION_LINKS_AS_TEXT": "Linkovi kao tekst.",
@@ -292,5 +292,8 @@
     "LABEL_ALLOWED_EMBED_DOMAINS": "Dodatne ugrađene domene",
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
     "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Popis dodatnih ugrađenih naziva hostova odvojenih zarezima koji će biti dopušteni uz ugrađene pouzdane pružatelje usluga.",
-    "LABEL_ALLOW_EMBEDS": "Dopustiti ugrađivanje medija?"
+    "LABEL_ALLOW_EMBEDS": "Dopustiti ugrađivanje medija?",
+    "TEXT_NO_TEXT_OVERRIDES": "Trenutačno nemate nijednu zamjenu teksta.",
+    "TABLE_HEADER_DEFAULT_TEXT": "Zadani tekst",
+    "TABLE_HEADER_OVERRIDE": "Zamjena"
 }

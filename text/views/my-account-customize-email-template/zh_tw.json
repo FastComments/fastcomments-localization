@@ -22,5 +22,18 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "根據地區進行自訂",
     "TEXT_TEST_DATA_INFO": "您可以在此處定義預覽中使用的自訂測試資料。它將與範本一起儲存。",
     "BUTTON_RESET_TEST_DATA": "重設",
-    "BUTTON_SAVE": "儲存"
+    "BUTTON_SAVE": "儲存",
+    "LABEL_CUSTOMIZE_VALUE": "自訂「[value]」",
+    "OVERRIDES_COUNT": "[count] 項覆蓋",
+    "ERROR_LOAD_FAILED": "無法載入此範本。請稍後再試或聯絡支援團隊。",
+    "CONFIRM_UNSAVED_CHANGES": "您有尚未儲存的變更，確定要離開嗎？",
+    "ERROR_DOES_NOT_RENDER": "電子郵件範本無法成功渲染，因此無法儲存。請修正所有錯誤後再試一次。",
+    "ERROR_SAVE_REQUEST_FAILED": "上一次儲存請求失敗。請稍後再試。",
+    "BUTTON_SAVING": "儲存中...",
+    "BUTTON_SAVED": "儲存成功！",
+    "BUTTON_SAVE_FAILED": "儲存失敗！",
+    "BUTTON_NAVIGATING_TO_NEW": "正在前往新範本...",
+    "BUTTON_CLEARING": "清除中...",
+    "BUTTON_CLEARED": "已清除！",
+    "BUTTON_CLEAR_FAILED": "清除失敗！"
 }

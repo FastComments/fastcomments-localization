@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "Razgovor  ",
     "HERO_TITLE_BOLD": "Nije moguće kreirati",
     "HERO_DESCRIPTION": "Nismo mogli da kreiramo vaš razgovor. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'Došlo je do interne greške. Prijavite ovo svom predstavniku korisničke podrške.' %>",
-    "BUTTON_TRY_AGAIN": "Pokušajte da kreirate novi razgovor."
+    "BUTTON_TRY_AGAIN": "Pokušajte da kreirate novi razgovor.",
+    "ERROR_SIGN_IN": "Prijavite se na svoj nalog pre kreiranja razgovora.",
+    "ERROR_LIMIT_REACHED": "Dostigli ste maksimalan broj razgovora za svoj nalog (2 miliona). Da biste povećali ovo ograničenje, obratite se podršci.",
+    "ERROR_NAME_TOO_LONG": "Naziv razgovora premašuje maksimalan dozvoljeni broj znakova (300).",
+    "ERROR_ALREADY_EXISTS": "Razgovor sa tim nazivom već postoji.",
+    "ERROR_NOT_FOUND": "Taj razgovor nije pronađen.",
+    "ERROR_INTERNAL": "Došlo je do interne greške. Prijavite je svom predstavniku korisničke podrške."
 }

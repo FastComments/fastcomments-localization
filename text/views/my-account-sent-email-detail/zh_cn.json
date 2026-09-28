@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "已于<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>发送电子邮件 - FastComments",
+    "PAGE_TITLE": "已于<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>发送电子邮件 - FastComments",
     "BUTTON_BACK": "← 返回已发送邮件",
-    "HEADING": "已于<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>发送电子邮件",
+    "HEADING": "已于<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>发送电子邮件",
     "LABEL_DATE": "日期：",
     "LABEL_FROM": "发件人：",
     "LABEL_TO": "收件人：",

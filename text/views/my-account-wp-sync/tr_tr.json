@@ -3,5 +3,16 @@
     "HEADING": "WordPress Connect",
     "MESSAGE_IMPORTING": "Şu anda yorumlarınızı blogunuzdan sunabilmek için içe aktarıyoruz. İsterseniz bu sayfayı açık tutabilirsiniz veya kapatabilirsiniz; işlem tamamlandığında size e-posta göndereceğiz. Daha sonra geri dönüp durumu kontrol etmek isterseniz, üst kısımdaki İçe Aktar/Dışa Aktar düğmesine tıklamanız yeterlidir.",
     "MESSAGE_LOADING": "...yükleniyor...",
-    "MESSAGE_AFTER_DONE": "Bu işlem tamamlandıktan sonra, yorumlarınız WordPress sitenizle senkronize halde kalacak, böylece FastComments'ı devre dışı bıraksanız bile hiçbir veri kaybetmeyeceksiniz."
+    "MESSAGE_AFTER_DONE": "Bu işlem tamamlandıktan sonra, yorumlarınız WordPress sitenizle senkronize halde kalacak, böylece FastComments'ı devre dışı bıraksanız bile hiçbir veri kaybetmeyeceksiniz.",
+    "STATUS_POWERING_UP": "Başlatılıyor...",
+    "STATUS_IMPORTED_COUNT": "[total] yorumdan [count] tanesi içe aktarıldı...",
+    "STATUS_DETERMINING_COUNT": "Yorum sayısı belirleniyor...",
+    "STATUS_ALL_SET": "Her şey hazır! FastComments artık blogunuzda etkin olmalı.",
+    "STATUS_CLOSE_PAGE": "Artık bu sayfayı kapatabilirsiniz.",
+    "STATUS_SETUP_BILLING_LINK": "Şimdi fatura bilgilerinizi ayarlamak için buraya tıklayın.",
+    "STATUS_IMPORT_FAILED": "Olamaz, bir hatayla karşılaştık! Sorun devam ederse lütfen destek ekibiyle iletişime geçin.",
+    "STATUS_IMPORT_EXPIRED": "Görünüşe göre bu içe aktarma bir süre önce yapılmış. Bu pencereyi kapatabilirsiniz.",
+    "ERROR_INVALID_URL": "Olamaz! Elinizdeki URL geçersiz görünüyor.",
+    "ERROR_SESSION_EXPIRED": "Olamaz! Oturumunuzun süresi dolmuş görünüyor. Tekrar giriş yapıp bu sayfayı yenilemeyi deneyin.",
+    "ERROR_GENERIC": "Olamaz! Bir sorunla karşılaştık gibi görünüyor!"
 }

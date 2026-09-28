@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "Il n'est pas nécessaire de saisir les sous-domaines ni localhost. Pour plusieurs sites, séparez-les par des virgules.",
     "TOS_TEXT": "En cliquant sur Créer un compte, vous acceptez les <a href=\"/terms-of-service\" target=\"_blank\">conditions d&#39;utilisation</a>.",
     "BUTTON_CREATE_ACCOUNT": "Créer un compte",
-    "ERROR_SIGNUP_ALREADY_STARTED": "La procédure d'inscription a déjà commencé et ne peut pas être soumise à nouveau. Avez-vous actualisé la page ?"
+    "ERROR_SIGNUP_ALREADY_STARTED": "La procédure d'inscription a déjà commencé et ne peut pas être soumise à nouveau. Avez-vous actualisé la page ?",
+    "ERROR_INVALID_DOMAINS": "Il semble que les domaines fournis ne soient pas valides. Veuillez les vérifier et les soumettre à nouveau.",
+    "ERROR_PACKAGE_REQUIRED": "La sélection d'un forfait est obligatoire.",
+    "ERROR_INVALID_PACKAGE": "Le forfait sélectionné n'est pas valide. Veuillez choisir un forfait valide.",
+    "ERROR_TEMPORARY_EMAIL": "Nous n'acceptons pas les adresses e-mail temporaires.",
+    "ERROR_VALID_EMAIL_REQUIRED": "Une adresse e-mail valide est requise.",
+    "ERROR_INPUT_TOO_LONG": "Oh non ! Vous avez saisi un texte beaucoup trop long.",
+    "ERROR_USERNAME_REQUIRED": "Un nom d'utilisateur est requis.",
+    "ERROR_EMAIL_REQUIRED": "Votre adresse e-mail est requise.",
+    "ERROR_COMPANY_NAME_REQUIRED": "Un nom d'entreprise est requis.",
+    "ERROR_DOMAINS_REQUIRED": "Une liste de domaines séparés par des virgules est requise.",
+    "ERROR_INVALID_COUPON": "Ce code promo n'est pas valide.",
+    "ERROR_USERNAME_TAKEN": "Oh non ! Ce nom d'utilisateur est déjà pris.",
+    "ERROR_CREATING_ACCOUNT": "Oh non ! Une erreur s'est produite lors de la création de votre compte."
 }

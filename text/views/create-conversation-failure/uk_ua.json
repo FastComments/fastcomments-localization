@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "Розмова ",
     "HERO_TITLE_BOLD": "Не вдалося створити",
     "HERO_DESCRIPTION": "Нам не вдалося створити вашу розмову. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
-    "BUTTON_TRY_AGAIN": "Спробуйте створити нову розмову."
+    "BUTTON_TRY_AGAIN": "Спробуйте створити нову розмову.",
+    "ERROR_SIGN_IN": "Увійдіть у свій обліковий запис, перш ніж створювати розмови.",
+    "ERROR_LIMIT_REACHED": "Ви досягли максимальної кількості розмов для вашого облікового запису (2 мільйони). Щоб збільшити ліміт, зверніться до служби підтримки.",
+    "ERROR_NAME_TOO_LONG": "Назва розмови перевищує максимально допустиму довжину (300 символів).",
+    "ERROR_ALREADY_EXISTS": "Розмова з такою назвою вже існує.",
+    "ERROR_NOT_FOUND": "Цю розмову не вдалося знайти.",
+    "ERROR_INTERNAL": "Сталася внутрішня помилка. Повідомте про неї представнику служби підтримки."
 }

@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Katılım başarısız oldu",
     "HEADING_LIGHT": "Katılım ",
-    "HEADING_BOLD": "Başarısız"
+    "HEADING_BOLD": "Başarısız",
+    "ERROR_EXPIRED": "Bu URL'nin süresi doldu. Bu URL'yi daha önce kullanmış olabilir misiniz?",
+    "ERROR_USER_NOT_FOUND": "Bu kullanıcıyı bulamadık. Elinizdeki URL doğru mu?",
+    "ERROR_INTERNAL": "Dahili bir hata oluştu."
 }

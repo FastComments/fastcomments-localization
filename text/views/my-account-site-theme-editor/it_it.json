@@ -14,5 +14,9 @@
     "ERROR_CANNOT_DELETE_REQUIRED": "Questo file è obbligatorio e non può essere eliminato.",
     "TAB_LOCALIZATIONS": "Localizzazioni",
     "TEXT_LOCALIZATIONS_INFO": "Personalizza le stringhe di testo predefinite utilizzate nel tema del tuo sito. Le modifiche si applicano solo alle impostazioni locali selezionate.",
-    "LABEL_CUSTOMIZE_FOR_LOCALE": "Personalizza per le impostazioni locali:"
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Personalizza per le impostazioni locali:",
+    "LABEL_CUSTOMIZE_VALUE": "Personalizza \"[value]\"",
+    "OVERRIDES_COUNT_O": "[count] sostituzione",
+    "OVERRIDES_COUNT": "[count] sostituzioni",
+    "CONFIRM_UNSAVED_CHANGES": "Hai modifiche non salvate."
 }

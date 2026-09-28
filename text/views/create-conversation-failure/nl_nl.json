@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "Gesprek  ",
     "HERO_TITLE_BOLD": "Kon niet worden aangemaakt",
     "HERO_DESCRIPTION": "Het is ons niet gelukt om uw gesprek te starten. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
-    "BUTTON_TRY_AGAIN": "Probeer een nieuw gesprek te beginnen."
+    "BUTTON_TRY_AGAIN": "Probeer een nieuw gesprek te beginnen.",
+    "ERROR_SIGN_IN": "Log in op uw account voordat u gesprekken aanmaakt.",
+    "ERROR_LIMIT_REACHED": "U hebt het maximale aantal gesprekken voor uw account bereikt (2 miljoen). Neem contact op met support om deze limiet te verhogen.",
+    "ERROR_NAME_TOO_LONG": "De naam van uw gesprek is langer dan het maximaal toegestane aantal tekens (300).",
+    "ERROR_ALREADY_EXISTS": "Er bestaat al een gesprek met die naam.",
+    "ERROR_NOT_FOUND": "Dat gesprek is niet gevonden.",
+    "ERROR_INTERNAL": "Er is een interne fout opgetreden. Meld dit aan uw contactpersoon bij de klantenservice."
 }

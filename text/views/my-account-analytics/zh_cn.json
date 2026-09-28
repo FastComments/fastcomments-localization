@@ -41,7 +41,6 @@
     "TEXT_NO_PAGE_LIKES": "这里没什么特别的。或许你想设置<a href=\"https://docs.fastcomments.com/guide-page-reacts.html\" target=\"_blank\">页面响应</a>组件？",
     "TEXT_NO_USERS_ONLINE": "目前没有用户在线，或者在用户在线的页面上没有收集到任何评论。",
     "TEXT_NOTHING_TO_SEE": "这里没什么好看的。",
-    "HEADING_METRICS_BY_MONTH": "指标依据<%= timePeriod === '12months' ? 'Month - Last 12 Months' : 'Day - Last 30 Days' %>",
     "TABLE_HEADER_MONTH": "月",
     "TABLE_HEADER_DAY": "天",
     "TABLE_HEADER_PAGE_LOADS": "页面加载",
@@ -66,5 +65,7 @@
     "TABLE_HEADER_SYNC_REQUESTS_SUCCESS": "同步请求成功",
     "TABLE_HEADER_SYNC_REQUESTS_FAILURE": "同步请求失败",
     "TABLE_HEADER_IMAGES_UPLOADED": "图片已上传",
-    "TABLE_HEADER_IMAGES_SIZE_BYTES": "图片大小（字节）"
+    "TABLE_HEADER_IMAGES_SIZE_BYTES": "图片大小（字节）",
+    "HEADING_METRICS_BY_MONTH_LAST_12_MONTHS": "按月指标 - 过去 12 个月",
+    "HEADING_METRICS_BY_DAY_LAST_30_DAYS": "按日指标 - 过去 30 天"
 }

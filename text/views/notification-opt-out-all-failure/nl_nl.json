@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Afmelden mislukt",
     "HEADING_LIGHT": "Afmelden ",
-    "HEADING_BOLD": "Mislukking"
+    "HEADING_BOLD": "Mislukking",
+    "ERROR_EXPIRED": "Deze URL is verlopen. Hebt u zich al afgemeld?",
+    "ERROR_USER_NOT_FOUND": "We konden deze gebruiker niet vinden. Klopt de URL die u hebt?",
+    "ERROR_INTERNAL": "Er is een interne fout opgetreden."
 }

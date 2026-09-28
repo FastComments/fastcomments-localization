@@ -26,5 +26,18 @@
     "TITLE_FETCH_EVENTS": "同步请求",
     "DESC_FETCH_EVENTS": "集成请求了最新评论和相关数据的事件日志。",
     "TITLE_GET_COMMENTS": "获取评论...",
-    "DESC_GET_COMMENTS": "集成请求了评论数据。"
+    "DESC_GET_COMMENTS": "集成请求了评论数据。",
+    "TITLE_NO_LOGS": "无日志",
+    "DESC_NO_LOGS_EXPIRED": "未找到日志，日志似乎已过期。",
+    "DESC_NO_LOGS_EXPIRED_SETUP_DONE": "未找到日志，日志似乎已过期。不过，我们可以看到设置已经完成。",
+    "ALT_DONE": "完成",
+    "TITLE_ALL_SET": "一切就绪！",
+    "DESC_SETUP_COMPLETED": "初始设置已完成！集成现已上线。",
+    "HEADING_NEXT_STEPS": "后续步骤",
+    "BUTTON_DOCUMENTATION": "文档",
+    "BUTTON_CUSTOMIZE": "自定义",
+    "BUTTON_ADD_MODERATORS": "添加版主",
+    "BUTTON_ADD_ADMINS": "添加管理员",
+    "HEADING_SETUP_COMPLETED": "设置完成。",
+    "SUBHEADING_SETUP_LOG": "设置日志"
 }

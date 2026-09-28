@@ -19,5 +19,8 @@
     "MESSAGE_NO_EMAILS": "Non hai inviato alcuna email.",
     "VALUE_UNKNOWN": "Sconosciuto",
     "VALUE_NO_SUBJECT": "(Nessun oggetto)",
-    "VALUE_NA": "N/D"
+    "VALUE_NA": "N/D",
+    "ERROR_VERIFY_EMAIL": "Verifica il tuo indirizzo email per accedere alle email inviate. Cerca l'email di verifica nella tua casella di posta o inviala di nuovo dalle impostazioni dell'account.",
+    "ERROR_LOAD_SENT_EMAILS": "Impossibile caricare le email inviate. Riprova più tardi.",
+    "ERROR_LOAD_EMAIL_DETAIL": "Impossibile caricare il dettaglio dell'email. Riprova più tardi."
 }

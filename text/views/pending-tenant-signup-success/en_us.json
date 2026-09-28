@@ -4,5 +4,10 @@
     "HEADING_BOLD": "FastComments!",
     "DESCRIPTION": "We've sent a message. In order to complete the sign-up process, please check the link sent in to the email you provided.",
     "MESSAGE_RESEND_SUCCESS": "Email resent successfully!",
-    "BUTTON_RESEND": "Resend Verification Email"
+    "BUTTON_RESEND": "Resend Verification Email",
+    "ERROR_RESEND_USER_NOT_FOUND": "User not found or email mismatch.",
+    "ERROR_RESEND_NO_PENDING_SIGNUP": "No pending signup found.",
+    "ERROR_RESEND_RATE_LIMITED_MINUTE": "You have sent too many requests. Please try again in a minute.",
+    "ERROR_RESEND_RATE_LIMITED_DAY": "You have exceeded daily email limits. Please try again tomorrow or contact support.",
+    "ERROR_RESEND_FAILED": "An error occurred while resending the verification email. Please try again later."
 }

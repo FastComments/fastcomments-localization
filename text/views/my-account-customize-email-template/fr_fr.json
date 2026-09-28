@@ -22,5 +22,19 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Personnaliser pour la langue",
     "TEXT_TEST_DATA_INFO": "Vous pouvez définir ici des données de test personnalisées utilisées dans l'aperçu. Elles sont enregistrées avec le modèle.",
     "BUTTON_RESET_TEST_DATA": "Réinitialiser",
-    "BUTTON_SAVE": "Enregistrer"
+    "BUTTON_SAVE": "Enregistrer",
+    "LABEL_CUSTOMIZE_VALUE": "Personnaliser « [value] »",
+    "OVERRIDES_COUNT_O": "[count] remplacement",
+    "OVERRIDES_COUNT": "[count] remplacements",
+    "ERROR_LOAD_FAILED": "Impossible de charger ce modèle. Veuillez réessayer plus tard ou contacter l'assistance.",
+    "CONFIRM_UNSAVED_CHANGES": "Vous avez des modifications non enregistrées. Voulez-vous vraiment quitter la page ?",
+    "ERROR_DOES_NOT_RENDER": "Le modèle d'e-mail n'a pas pu être enregistré, car son rendu échoue. Corrigez les erreurs et réessayez.",
+    "ERROR_SAVE_REQUEST_FAILED": "La dernière demande d'enregistrement a échoué. Veuillez réessayer plus tard.",
+    "BUTTON_SAVING": "Enregistrement...",
+    "BUTTON_SAVED": "Enregistré avec succès !",
+    "BUTTON_SAVE_FAILED": "Échec de l'enregistrement !",
+    "BUTTON_NAVIGATING_TO_NEW": "Redirection vers le nouveau modèle...",
+    "BUTTON_CLEARING": "Effacement...",
+    "BUTTON_CLEARED": "Effacé !",
+    "BUTTON_CLEAR_FAILED": "Échec de l'effacement !"
 }

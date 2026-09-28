@@ -19,5 +19,8 @@
     "MESSAGE_NO_EMAILS": "Vous n'avez envoyé aucun e-mail.",
     "VALUE_UNKNOWN": "Inconnu",
     "VALUE_NO_SUBJECT": "(Sans sujet)",
-    "VALUE_NA": "N/A"
+    "VALUE_NA": "N/A",
+    "ERROR_VERIFY_EMAIL": "Veuillez vérifier votre adresse e-mail pour accéder aux e-mails envoyés. Consultez votre boîte de réception pour trouver l'e-mail de vérification, ou renvoyez-le depuis les paramètres de votre compte.",
+    "ERROR_LOAD_SENT_EMAILS": "Impossible de charger les e-mails envoyés. Veuillez réessayer plus tard.",
+    "ERROR_LOAD_EMAIL_DETAIL": "Impossible de charger le détail de l'e-mail. Veuillez réessayer plus tard."
 }

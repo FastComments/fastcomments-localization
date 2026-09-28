@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "無需輸入子網域或本機。多個網站之間以逗號分隔。",
     "TOS_TEXT": "點選「建立帳戶」，即表示您同意<a href=\"/terms-of-service\" target=\"_blank\">服務條款</a>。",
     "BUTTON_CREATE_ACCOUNT": "建立帳戶",
-    "ERROR_SIGNUP_ALREADY_STARTED": "註冊流程已經開始，無法再次提交。您是否刷新了頁面？"
+    "ERROR_SIGNUP_ALREADY_STARTED": "註冊流程已經開始，無法再次提交。您是否刷新了頁面？",
+    "ERROR_INVALID_DOMAINS": "提供的網域似乎無效。請檢查後重新送出。",
+    "ERROR_PACKAGE_REQUIRED": "必須選擇方案。",
+    "ERROR_INVALID_PACKAGE": "所選方案無效。請選擇有效的方案。",
+    "ERROR_TEMPORARY_EMAIL": "我們不接受臨時電子郵件地址。",
+    "ERROR_VALID_EMAIL_REQUIRED": "需要有效的電子郵件地址。",
+    "ERROR_INPUT_TOO_LONG": "糟糕！您輸入的內容太長了。",
+    "ERROR_USERNAME_REQUIRED": "使用者名稱為必填。",
+    "ERROR_EMAIL_REQUIRED": "電子郵件為必填。",
+    "ERROR_COMPANY_NAME_REQUIRED": "公司名稱為必填。",
+    "ERROR_DOMAINS_REQUIRED": "需要以逗號分隔的網域清單。",
+    "ERROR_INVALID_COUPON": "此優惠碼無效。",
+    "ERROR_USERNAME_TAKEN": "糟糕！此使用者名稱已被使用。",
+    "ERROR_CREATING_ACCOUNT": "糟糕！建立帳戶時發生錯誤。"
 }

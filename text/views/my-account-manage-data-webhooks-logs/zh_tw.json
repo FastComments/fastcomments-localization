@@ -38,5 +38,8 @@
     "RETENTION_INFO": "Webhook 日誌保留一年。",
     "N_A_VALUES_NOTE": "部分條目可能顯示「N/A」，表示我們並非一直收集到這些值。",
     "LOG_DETAILS_HEADING": "日誌詳情",
-    "CLOSE_BUTTON": "關閉"
+    "CLOSE_BUTTON": "關閉",
+    "EVENT_TYPE_CREATE": "建立",
+    "EVENT_TYPE_UPDATE": "更新",
+    "EVENT_TYPE_DELETE": "刪除"
 }

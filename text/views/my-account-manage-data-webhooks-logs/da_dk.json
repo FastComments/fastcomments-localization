@@ -38,5 +38,8 @@
     "RETENTION_INFO": "Webhook-logfiler opbevares i et år.",
     "N_A_VALUES_NOTE": "Nogle poster viser muligvis N/A for værdier, vi ikke altid indsamlede.",
     "LOG_DETAILS_HEADING": "Logoplysninger",
-    "CLOSE_BUTTON": "Luk"
+    "CLOSE_BUTTON": "Luk",
+    "EVENT_TYPE_CREATE": "Oprettelse",
+    "EVENT_TYPE_UPDATE": "Opdatering",
+    "EVENT_TYPE_DELETE": "Sletning"
 }

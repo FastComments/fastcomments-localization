@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "Nema potrebe za unosom poddomena ili localhost-a. Za više sajtova, odvojite ih zarezima.",
     "TOS_TEXT": "Klikom na Kreiraj nalog slažete se sa <a href=\"/terms-of-service\" target=\"_blank\">Uslovima korišćenja usluge</a>.",
     "BUTTON_CREATE_ACCOUNT": "Kreiraj nalog",
-    "ERROR_SIGNUP_ALREADY_STARTED": "Proces prijavljivanja je već započeo i ne može se ponovo poslati. Možda ste osvežili stranicu?"
+    "ERROR_SIGNUP_ALREADY_STARTED": "Proces prijavljivanja je već započeo i ne može se ponovo poslati. Možda ste osvežili stranicu?",
+    "ERROR_INVALID_DOMAINS": "Izgleda da su navedeni domeni nevažeći. Proverite ih i pošaljite ponovo.",
+    "ERROR_PACKAGE_REQUIRED": "Izbor paketa je obavezan.",
+    "ERROR_INVALID_PACKAGE": "Izabran je nevažeći paket. Izaberite važeći paket.",
+    "ERROR_TEMPORARY_EMAIL": "Ne prihvatamo privremene imejl adrese.",
+    "ERROR_VALID_EMAIL_REQUIRED": "Potrebna je važeća imejl adresa.",
+    "ERROR_INPUT_TOO_LONG": "O, ne! Uneli ste predugačak tekst.",
+    "ERROR_USERNAME_REQUIRED": "Korisničko ime je obavezno.",
+    "ERROR_EMAIL_REQUIRED": "Vaša imejl adresa je obavezna.",
+    "ERROR_COMPANY_NAME_REQUIRED": "Naziv kompanije je obavezan.",
+    "ERROR_DOMAINS_REQUIRED": "Potrebna je lista domena razdvojenih zarezima.",
+    "ERROR_INVALID_COUPON": "Taj kod kupona nije važeći.",
+    "ERROR_USERNAME_TAKEN": "O, ne! To korisničko ime je zauzeto.",
+    "ERROR_CREATING_ACCOUNT": "O, ne! Došlo je do greške pri kreiranju vašeg naloga."
 }

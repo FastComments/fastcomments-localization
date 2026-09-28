@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "会話  ",
     "HERO_TITLE_BOLD": "作成できませんでした",
     "HERO_DESCRIPTION": "会話を作成できませんでした。 <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
-    "BUTTON_TRY_AGAIN": "新しい会話を作成してみてください。"
+    "BUTTON_TRY_AGAIN": "新しい会話を作成してみてください。",
+    "ERROR_SIGN_IN": "会話を作成する前に、テナントにログインしてください。",
+    "ERROR_LIMIT_REACHED": "テナントの会話数が上限（200万件）に達しました。上限を引き上げるには、サポートまでお問い合わせください。",
+    "ERROR_NAME_TOO_LONG": "会話名が上限の文字数（300文字）を超えています。",
+    "ERROR_ALREADY_EXISTS": "その名前の会話はすでに存在します。",
+    "ERROR_NOT_FOUND": "その会話が見つかりませんでした。",
+    "ERROR_INTERNAL": "内部エラーが発生しました。カスタマーサービスの担当者にご報告ください。"
 }

@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "서브도메인이나 로컬호스트를 입력할 필요가 없습니다. 여러 사이트를 등록하려면 쉼표로 구분하세요.",
     "TOS_TEXT": "&#39;계정 생성&#39;을 클릭하면 <a href=\"/terms-of-service\" target=\"_blank\">서비스 약관</a> 에 동의하는 것입니다.",
     "BUTTON_CREATE_ACCOUNT": "계정 생성",
-    "ERROR_SIGNUP_ALREADY_STARTED": "이미 가입 절차가 시작되었으므로 다시 제출할 수 없습니다. 페이지를 새로고침하셨나요?"
+    "ERROR_SIGNUP_ALREADY_STARTED": "이미 가입 절차가 시작되었으므로 다시 제출할 수 없습니다. 페이지를 새로고침하셨나요?",
+    "ERROR_INVALID_DOMAINS": "입력한 도메인이 올바르지 않은 것 같습니다. 확인 후 다시 제출해 주세요.",
+    "ERROR_PACKAGE_REQUIRED": "패키지를 선택해야 합니다.",
+    "ERROR_INVALID_PACKAGE": "잘못된 패키지가 선택되었습니다. 유효한 패키지를 선택해 주세요.",
+    "ERROR_TEMPORARY_EMAIL": "임시 이메일 주소는 사용할 수 없습니다.",
+    "ERROR_VALID_EMAIL_REQUIRED": "유효한 이메일 주소가 필요합니다.",
+    "ERROR_INPUT_TOO_LONG": "이런! 입력한 내용이 너무 깁니다.",
+    "ERROR_USERNAME_REQUIRED": "사용자 이름이 필요합니다.",
+    "ERROR_EMAIL_REQUIRED": "이메일 주소가 필요합니다.",
+    "ERROR_COMPANY_NAME_REQUIRED": "회사 이름이 필요합니다.",
+    "ERROR_DOMAINS_REQUIRED": "쉼표로 구분된 도메인 목록이 필요합니다.",
+    "ERROR_INVALID_COUPON": "유효하지 않은 쿠폰 코드입니다.",
+    "ERROR_USERNAME_TAKEN": "이런! 이미 사용 중인 사용자 이름입니다.",
+    "ERROR_CREATING_ACCOUNT": "이런! 계정을 만드는 중 오류가 발생했습니다."
 }

@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "Разговор ",
     "HERO_TITLE_BOLD": "Није могуће креирати",
     "HERO_DESCRIPTION": "Нисмо могли да направимо ваш разговор. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
-    "BUTTON_TRY_AGAIN": "Покушајте да започнете нови разговор."
+    "BUTTON_TRY_AGAIN": "Покушајте да започнете нови разговор.",
+    "ERROR_SIGN_IN": "Пријавите се на свој налог пре креирања разговора.",
+    "ERROR_LIMIT_REACHED": "Достигли сте максималан број разговора за свој налог (2 милиона). Да бисте повећали ово ограничење, обратите се подршци.",
+    "ERROR_NAME_TOO_LONG": "Назив разговора премашује максималан дозвољени број знакова (300).",
+    "ERROR_ALREADY_EXISTS": "Разговор са тим називом већ постоји.",
+    "ERROR_NOT_FOUND": "Тај разговор није пронађен.",
+    "ERROR_INTERNAL": "Дошло је до интерне грешке. Пријавите је свом представнику корисничке подршке."
 }

@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "Sent Email on <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> - FastComments",
+    "PAGE_TITLE": "Sent Email on <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> - FastComments",
     "BUTTON_BACK": "← Back to Sent Emails",
-    "HEADING": "Sent Email on <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "HEADING": "Sent Email on <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>",
     "LABEL_DATE": "Date:",
     "LABEL_FROM": "From:",
     "LABEL_TO": "To:",

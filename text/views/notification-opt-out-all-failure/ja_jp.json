@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "オプトアウトに失敗しました",
     "HEADING_LIGHT": "オプトアウト ",
-    "HEADING_BOLD": "失敗"
+    "HEADING_BOLD": "失敗",
+    "ERROR_EXPIRED": "このURLは有効期限が切れています。すでにオプトアウト済みではありませんか？",
+    "ERROR_USER_NOT_FOUND": "そのユーザーが見つかりませんでした。URLが正しいかご確認ください。",
+    "ERROR_INTERNAL": "内部エラーが発生しました。"
 }

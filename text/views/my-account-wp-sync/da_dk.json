@@ -3,5 +3,16 @@
     "HEADING": "WordPress Connect",
     "MESSAGE_IMPORTING": "Vi importerer i øjeblikket dine kommentarer, så vi kan vise dem fra din blog. Du kan holde denne side åben, hvis du ønsker det, eller du kan lukke den, og vi sender dig en e-mail, når dette er gjort. Hvis du vil vende tilbage senere og tjekke status, skal du blot klikke på knappen Importer/Eksporter øverst.",
     "MESSAGE_LOADING": "...indlæser...",
-    "MESSAGE_AFTER_DONE": "Når dette er gjort, synkroniserer vi dine kommentarer med dit WordPress-websted, så hvis du nogensinde deaktiverer FastComments, mister du ingen data."
+    "MESSAGE_AFTER_DONE": "Når dette er gjort, synkroniserer vi dine kommentarer med dit WordPress-websted, så hvis du nogensinde deaktiverer FastComments, mister du ingen data.",
+    "STATUS_POWERING_UP": "Starter op...",
+    "STATUS_IMPORTED_COUNT": "[count] af [total] kommentarer importeret...",
+    "STATUS_DETERMINING_COUNT": "Finder antallet af kommentarer...",
+    "STATUS_ALL_SET": "Så er du klar! FastComments burde nu være aktiveret på din blog.",
+    "STATUS_CLOSE_PAGE": "Du kan nu lukke denne side.",
+    "STATUS_SETUP_BILLING_LINK": "Klik derefter her for at konfigurere dine betalingsoplysninger.",
+    "STATUS_IMPORT_FAILED": "Åh nej, der opstod en fejl! Kontakt support, hvis problemet fortsætter.",
+    "STATUS_IMPORT_EXPIRED": "Denne import ser ud til at være foretaget for et stykke tid siden. Du kan lukke dette vindue.",
+    "ERROR_INVALID_URL": "Åh nej! URL'en ser ud til at være ugyldig.",
+    "ERROR_SESSION_EXPIRED": "Åh nej! Din session ser ud til at være udløbet. Log ind igen, og genindlæs denne side.",
+    "ERROR_GENERIC": "Åh nej! Noget gik galt!"
 }

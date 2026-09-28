@@ -4,5 +4,11 @@
     "HERO_TITLE_LIGHT": "Разговор ",
     "HERO_TITLE_BOLD": "Не можа да бъде създаден",
     "HERO_DESCRIPTION": "Не успяхме да създадем разговора ви. <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
-    "BUTTON_TRY_AGAIN": "Опитайте се да създадете нов разговор."
+    "BUTTON_TRY_AGAIN": "Опитайте се да създадете нов разговор.",
+    "ERROR_SIGN_IN": "Моля, влезте в акаунта си, преди да създавате разговори.",
+    "ERROR_LIMIT_REACHED": "Достигнахте максималния брой разговори за акаунта си (2 милиона). За да увеличите лимита, свържете се с поддръжката.",
+    "ERROR_NAME_TOO_LONG": "Името на разговора надвишава максимално допустимия брой знаци (300).",
+    "ERROR_ALREADY_EXISTS": "Вече съществува разговор с това име.",
+    "ERROR_NOT_FOUND": "Този разговор не можа да бъде намерен.",
+    "ERROR_INTERNAL": "Възникна вътрешна грешка. Моля, съобщете за нея на вашия представител по обслужване на клиенти."
 }

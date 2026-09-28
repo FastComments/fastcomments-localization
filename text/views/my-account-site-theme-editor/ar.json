@@ -14,5 +14,11 @@
     "ERROR_FILE_EXISTS": "يوجد ملف بهذا الاسم بالفعل.",
     "ERROR_CANNOT_DELETE_REQUIRED": "هذا الملف مطلوب ولا يمكن حذفه.",
     "LABEL_CUSTOMIZE_FOR_LOCALE": "التخصيص للإعداد اللغوي:",
-    "TEXT_LOCALIZATIONS_INFO": "خصّص النصوص الافتراضية المستخدمة في سمة موقعك. تُطبَّق التغييرات على الإعداد اللغوي المحدد فقط."
+    "TEXT_LOCALIZATIONS_INFO": "خصّص النصوص الافتراضية المستخدمة في سمة موقعك. تُطبَّق التغييرات على الإعداد اللغوي المحدد فقط.",
+    "LABEL_CUSTOMIZE_VALUE": "تخصيص «[value]»",
+    "OVERRIDES_COUNT": "[count] تعديل",
+    "OVERRIDES_COUNT_T": "تعديلان",
+    "OVERRIDES_COUNT_F": "[count] تعديلات",
+    "OVERRIDES_COUNT_M": "[count] تعديلًا",
+    "CONFIRM_UNSAVED_CHANGES": "لديك تغييرات غير محفوظة."
 }

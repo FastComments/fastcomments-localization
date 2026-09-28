@@ -3,5 +3,16 @@
     "HEADING": "WordPress Connect",
     "MESSAGE_IMPORTING": "我们正在导入您的评论，以便将其显示在您的博客上。您可以保持此页面打开，也可以关闭此页面，完成后我们会通过电子邮件通知您。如果您想稍后回来查看进度，只需点击页面顶部的“导入/导出”按钮即可。",
     "MESSAGE_LOADING": "...加载中...",
-    "MESSAGE_AFTER_DONE": "完成此操作后，我们将使您的评论与您的 WordPress 网站保持同步，因此即使您停用 FastComments，也不会丢失任何数据。"
+    "MESSAGE_AFTER_DONE": "完成此操作后，我们将使您的评论与您的 WordPress 网站保持同步，因此即使您停用 FastComments，也不会丢失任何数据。",
+    "STATUS_POWERING_UP": "正在启动...",
+    "STATUS_IMPORTED_COUNT": "已导入 [count] 条评论，共 [total] 条...",
+    "STATUS_DETERMINING_COUNT": "正在统计评论数量...",
+    "STATUS_ALL_SET": "一切就绪！您的博客现在应该已启用 FastComments。",
+    "STATUS_CLOSE_PAGE": "您现在可以关闭此页面了。",
+    "STATUS_SETUP_BILLING_LINK": "接下来，请点击此处设置您的账单信息。",
+    "STATUS_IMPORT_FAILED": "糟糕，出现了错误！如果问题持续存在，请联系支持团队。",
+    "STATUS_IMPORT_EXPIRED": "此导入似乎已在一段时间前完成。您可以关闭此窗口。",
+    "ERROR_INVALID_URL": "糟糕！您的 URL 似乎无效。",
+    "ERROR_SESSION_EXPIRED": "糟糕！您的会话似乎已过期。请重新登录并刷新此页面。",
+    "ERROR_GENERIC": "糟糕！似乎出了点问题！"
 }

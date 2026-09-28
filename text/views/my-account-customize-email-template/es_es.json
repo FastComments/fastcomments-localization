@@ -22,5 +22,19 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Personalizar para la configuración regional",
     "TEXT_TEST_DATA_INFO": "Aquí puede definir los datos de prueba personalizados que se usarán en la vista previa. Se guardan junto con la plantilla.",
     "BUTTON_RESET_TEST_DATA": "Reiniciar",
-    "BUTTON_SAVE": "Guardar"
+    "BUTTON_SAVE": "Guardar",
+    "LABEL_CUSTOMIZE_VALUE": "Personalizar \"[value]\"",
+    "OVERRIDES_COUNT_O": "[count] sustitución",
+    "OVERRIDES_COUNT": "[count] sustituciones",
+    "ERROR_LOAD_FAILED": "No se pudo cargar esta plantilla. Inténtelo de nuevo más tarde o póngase en contacto con el soporte.",
+    "CONFIRM_UNSAVED_CHANGES": "Tiene cambios sin guardar. ¿Desea salir de todos modos?",
+    "ERROR_DOES_NOT_RENDER": "No se pudo guardar la plantilla de correo electrónico porque no se renderiza correctamente. Corrija los errores e inténtelo de nuevo.",
+    "ERROR_SAVE_REQUEST_FAILED": "La última solicitud de guardado falló. Inténtelo de nuevo más tarde.",
+    "BUTTON_SAVING": "Guardando...",
+    "BUTTON_SAVED": "¡Guardado correctamente!",
+    "BUTTON_SAVE_FAILED": "¡Error al guardar!",
+    "BUTTON_NAVIGATING_TO_NEW": "Abriendo la nueva plantilla...",
+    "BUTTON_CLEARING": "Borrando...",
+    "BUTTON_CLEARED": "¡Borrado!",
+    "BUTTON_CLEAR_FAILED": "¡Error al borrar!"
 }

@@ -19,5 +19,8 @@
     "MESSAGE_NO_EMAILS": "Je hebt geen e-mails verzonden.",
     "VALUE_UNKNOWN": "Onbekend",
     "VALUE_NO_SUBJECT": "(Geen onderwerp)",
-    "VALUE_NA": "Niet van toepassing"
+    "VALUE_NA": "Niet van toepassing",
+    "ERROR_VERIFY_EMAIL": "Verifieer uw e-mailadres om verzonden e-mails te bekijken. Zoek in uw inbox naar de verificatie-e-mail of verstuur deze opnieuw via uw accountinstellingen.",
+    "ERROR_LOAD_SENT_EMAILS": "Verzonden e-mails konden niet worden geladen. Probeer het later opnieuw.",
+    "ERROR_LOAD_EMAIL_DETAIL": "De e-maildetails konden niet worden geladen. Probeer het later opnieuw."
 }

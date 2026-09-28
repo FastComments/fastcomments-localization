@@ -14,5 +14,9 @@
     "ERROR_CANNOT_DELETE_REQUIRED": "Denne fil er påkrævet og kan ikke slettes.",
     "TAB_LOCALIZATIONS": "Lokaliseringer",
     "TEXT_LOCALIZATIONS_INFO": "Tilpas standardtekststrengene, der bruges i dit webstedstema. Ændringer gælder kun for den valgte landestandard.",
-    "LABEL_CUSTOMIZE_FOR_LOCALE": "Tilpas til lokalitet:"
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Tilpas til lokalitet:",
+    "LABEL_CUSTOMIZE_VALUE": "Tilpas \"[value]\"",
+    "OVERRIDES_COUNT_O": "[count] tilsidesættelse",
+    "OVERRIDES_COUNT": "[count] tilsidesættelser",
+    "CONFIRM_UNSAVED_CHANGES": "Du har ændringer, der ikke er gemt."
 }

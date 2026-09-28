@@ -213,9 +213,9 @@
     "HEADING_ADVANCED": "Avanceret",
     "LABEL_SHOW_ADVANCED_OPTIONS": "Vis avancerede indstillinger",
     "LABEL_USE_ABSOLUTE_DATES": "Brug absolutte datoer?",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Dette vil vise datoer som \"<%= new Date().toLocaleString() %>\" i stedet for \"lige nu\".",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Dette vil vise datoer som \"<%= new Date().toLocaleString(htmlLang) %>\" i stedet for \"lige nu\".",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "Bruge både relative og absolutte datoer?",
-    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Dette vil vise datoer som \"lige nu (<%= new Date().toLocaleDateString() %>)\" i stedet for \"lige nu\".",
+    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Dette vil vise datoer som \"lige nu (<%= new Date().toLocaleDateString(htmlLang) %>)\" i stedet for \"lige nu\".",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "HTML-gengivelse af kommentarer",
     "OPTION_RENDER_ALL": "Gengiv alle (standard)",
     "OPTION_LINKS_AS_TEXT": "Links som tekst.",
@@ -292,5 +292,8 @@
     "LABEL_ALLOWED_EMBED_DOMAINS": "Yderligere indlejringsdomæner",
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "spiller.eksempel.com, indlejr.eksempel.com",
     "TEXT_ALLOW_EMBEDS_NOTE": "Giver kommentatorer mulighed for at integrere videoer og afspillere (YouTube, Vimeo, SoundCloud, Spotify og flere) ved at indsætte udbyderens iframe. Kun betroede udbydere er tilladt.",
-    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Kommasepareret liste over ekstra indlejrede værtsnavne, der skal tillades ud over de indbyggede betroede udbydere."
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Kommasepareret liste over ekstra indlejrede værtsnavne, der skal tillades ud over de indbyggede betroede udbydere.",
+    "TEXT_NO_TEXT_OVERRIDES": "Du har i øjeblikket ingen teksttilsidesættelser.",
+    "TABLE_HEADER_DEFAULT_TEXT": "Standardtekst",
+    "TABLE_HEADER_OVERRIDE": "Tilsidesættelse"
 }

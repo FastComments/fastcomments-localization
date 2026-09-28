@@ -46,5 +46,6 @@
     "AGENT_APPROVAL_FREQUENCY_LABEL": "核准通知頻率",
     "AGENT_APPROVAL_FREQUENCY_HELP": "AI 代理將操作加入佇列供您審核時，您多久會收到一次電子郵件通知？",
     "AGENT_APPROVAL_FREQUENCY_DISABLED": "永遠不要寄郵件",
-    "AGENT_APPROVAL_FREQUENCY_HOURLY": "每小時摘要"
+    "AGENT_APPROVAL_FREQUENCY_HOURLY": "每小時摘要",
+    "TICKET_SUBSCRIPTION_TITLE": "工單「[subject]」"
 }

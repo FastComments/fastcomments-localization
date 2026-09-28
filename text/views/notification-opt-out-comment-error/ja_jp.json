@@ -1,5 +1,10 @@
 {
     "PAGE_TITLE": "通知の登録解除に失敗しました",
     "HEADING_LIGHT": "購読解除 ",
-    "HEADING_BOLD": "失敗"
+    "HEADING_BOLD": "失敗",
+    "ERROR_INVALID_LINK": "このリンクは正しくないか、有効期限が切れているようです。",
+    "ERROR_ACCOUNT_NOT_FOUND": "アカウントが見つかりませんでした。",
+    "ERROR_COMMENT_NOT_FOUND": "通知を停止しようとしているコメントが見つかりませんでした。削除されたか、リンクが無効な可能性があります。",
+    "ERROR_ALREADY_OPTED_OUT": "...この投稿の通知はすでにオプトアウト済みです！良い一日を。",
+    "ERROR_OPT_OUT_FAILED": "原因不明のエラーによりオプトアウトできませんでした。後でもう一度お試しください。"
 }

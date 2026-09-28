@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "Alt alan adlarını veya localhost adresini girmenize gerek yok. Birden fazla site için, bunları virgülle ayırın.",
     "TOS_TEXT": "&quot;Hesap Oluştur&quot; butonuna tıklayarak <a href=\"/terms-of-service\" target=\"_blank\">Hizmet Şartlarını</a> kabul etmiş olursunuz.",
     "BUTTON_CREATE_ACCOUNT": "Hesap Oluştur",
-    "ERROR_SIGNUP_ALREADY_STARTED": "Kayıt işlemi zaten başlatıldı ve tekrar gönderilemez. Belki sayfayı yenilediniz?"
+    "ERROR_SIGNUP_ALREADY_STARTED": "Kayıt işlemi zaten başlatıldı ve tekrar gönderilemez. Belki sayfayı yenilediniz?",
+    "ERROR_INVALID_DOMAINS": "Girilen alan adları geçersiz görünüyor. Lütfen kontrol edip tekrar gönderin.",
+    "ERROR_PACKAGE_REQUIRED": "Paket seçimi zorunludur.",
+    "ERROR_INVALID_PACKAGE": "Geçersiz paket seçildi. Lütfen geçerli bir paket seçin.",
+    "ERROR_TEMPORARY_EMAIL": "Geçici e-posta adreslerini kabul etmiyoruz.",
+    "ERROR_VALID_EMAIL_REQUIRED": "Geçerli bir e-posta adresi gereklidir.",
+    "ERROR_INPUT_TOO_LONG": "Olamaz! Girdiğiniz metin çok uzun.",
+    "ERROR_USERNAME_REQUIRED": "Kullanıcı adı gereklidir.",
+    "ERROR_EMAIL_REQUIRED": "E-posta adresiniz gereklidir.",
+    "ERROR_COMPANY_NAME_REQUIRED": "Firma adı gereklidir.",
+    "ERROR_DOMAINS_REQUIRED": "Virgülle ayrılmış bir alan adı listesi gereklidir.",
+    "ERROR_INVALID_COUPON": "Bu kupon kodu geçerli değil.",
+    "ERROR_USERNAME_TAKEN": "Olamaz! Bu kullanıcı adı zaten alınmış.",
+    "ERROR_CREATING_ACCOUNT": "Olamaz! Hesabınız oluşturulurken bir hata oluştu."
 }

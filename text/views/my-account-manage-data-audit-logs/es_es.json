@@ -43,5 +43,9 @@
     "TABLE_TENANT": "Tenant",
     "FILTER_BY_AFFECTED": "Quién o qué fue modificado",
     "DATE_PRESET_CUSTOM": "Rango personalizado",
-    "FILTER_BY_AFFECTED_PLACEHOLDER": "Nombre, correo o ID"
+    "FILTER_BY_AFFECTED_PLACEHOLDER": "Nombre, correo o ID",
+    "FROM_UI": "Interfaz",
+    "FROM_API": "API",
+    "FROM_CRON": "Cron",
+    "VALUE_N_A": "N/D"
 }

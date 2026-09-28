@@ -1,5 +1,10 @@
 {
     "PAGE_TITLE": "Notification Unsubscribe Failed",
     "HEADING_LIGHT": "Unsubscribe ",
-    "HEADING_BOLD": "Failure"
+    "HEADING_BOLD": "Failure",
+    "ERROR_INVALID_LINK": "Looks like this link is wrong or has expired.",
+    "ERROR_ACCOUNT_NOT_FOUND": "We couldn't find your account.",
+    "ERROR_COMMENT_NOT_FOUND": "We couldn't find the comment you are trying to opt out of. Maybe it was deleted or you have an invalid link.",
+    "ERROR_ALREADY_OPTED_OUT": "... because you have already opted out of notifications for this post! Have a great day.",
+    "ERROR_OPT_OUT_FAILED": "We couldn't opt you out and aren't sure why. Please try again later."
 }

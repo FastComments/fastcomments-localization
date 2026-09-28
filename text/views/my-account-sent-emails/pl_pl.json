@@ -19,5 +19,8 @@
     "MESSAGE_NO_EMAILS": "Nie wysłałeś żadnych wiadomości e-mail.",
     "VALUE_UNKNOWN": "Nieznany",
     "VALUE_NO_SUBJECT": "(Bez tematu)",
-    "VALUE_NA": "Nie dotyczy"
+    "VALUE_NA": "Nie dotyczy",
+    "ERROR_VERIFY_EMAIL": "Zweryfikuj swój adres e-mail, aby uzyskać dostęp do wysłanych wiadomości. Sprawdź skrzynkę odbiorczą w poszukiwaniu wiadomości weryfikacyjnej lub wyślij ją ponownie z ustawień konta.",
+    "ERROR_LOAD_SENT_EMAILS": "Nie udało się załadować wysłanych wiadomości e-mail. Spróbuj ponownie później.",
+    "ERROR_LOAD_EMAIL_DETAIL": "Nie udało się załadować szczegółów wiadomości e-mail. Spróbuj ponownie później."
 }

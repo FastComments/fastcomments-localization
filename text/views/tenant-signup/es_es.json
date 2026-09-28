@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "No es necesario introducir subdominios ni localhost. Si hay varios sitios, sepárelos con comas.",
     "TOS_TEXT": "Al hacer clic en Crear cuenta, acepta los <a href=\"/terms-of-service\" target=\"_blank\">Términos de servicio</a> .",
     "BUTTON_CREATE_ACCOUNT": "Crear una cuenta",
-    "ERROR_SIGNUP_ALREADY_STARTED": "El proceso de registro ya se inició y no se puede volver a enviar. ¿Has actualizado la página?"
+    "ERROR_SIGNUP_ALREADY_STARTED": "El proceso de registro ya se inició y no se puede volver a enviar. ¿Has actualizado la página?",
+    "ERROR_INVALID_DOMAINS": "Parece que los dominios proporcionados no son válidos. Revíselos y vuelva a enviarlos.",
+    "ERROR_PACKAGE_REQUIRED": "Debe seleccionar un paquete.",
+    "ERROR_INVALID_PACKAGE": "El paquete seleccionado no es válido. Elija un paquete válido.",
+    "ERROR_TEMPORARY_EMAIL": "No aceptamos direcciones de correo electrónico temporales.",
+    "ERROR_VALID_EMAIL_REQUIRED": "Se requiere un correo electrónico válido.",
+    "ERROR_INPUT_TOO_LONG": "¡Oh, no! Ha introducido un texto demasiado largo.",
+    "ERROR_USERNAME_REQUIRED": "Se requiere un nombre de usuario.",
+    "ERROR_EMAIL_REQUIRED": "Su correo electrónico es obligatorio.",
+    "ERROR_COMPANY_NAME_REQUIRED": "Se requiere el nombre de la empresa.",
+    "ERROR_DOMAINS_REQUIRED": "Se requiere una lista de dominios separados por comas.",
+    "ERROR_INVALID_COUPON": "Ese código de cupón no es válido.",
+    "ERROR_USERNAME_TAKEN": "¡Oh, no! Ese nombre de usuario ya está en uso.",
+    "ERROR_CREATING_ACCOUNT": "¡Oh, no! Se ha producido un error al crear su cuenta."
 }

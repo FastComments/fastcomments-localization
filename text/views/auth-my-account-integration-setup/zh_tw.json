@@ -26,5 +26,18 @@
     "TITLE_FETCH_EVENTS": "同步要求",
     "DESC_FETCH_EVENTS": "整合要求了最新評論和相關資料的事件日誌。",
     "TITLE_GET_COMMENTS": "取得評論...",
-    "DESC_GET_COMMENTS": "整合要求了評論資料。"
+    "DESC_GET_COMMENTS": "整合要求了評論資料。",
+    "TITLE_NO_LOGS": "無日誌",
+    "DESC_NO_LOGS_EXPIRED": "找不到日誌，日誌似乎已過期。",
+    "DESC_NO_LOGS_EXPIRED_SETUP_DONE": "找不到日誌，日誌似乎已過期。不過，我們可以看到設定已經完成。",
+    "ALT_DONE": "完成",
+    "TITLE_ALL_SET": "一切就緒！",
+    "DESC_SETUP_COMPLETED": "初始設定已完成！整合現已上線。",
+    "HEADING_NEXT_STEPS": "後續步驟",
+    "BUTTON_DOCUMENTATION": "文件",
+    "BUTTON_CUSTOMIZE": "自訂",
+    "BUTTON_ADD_MODERATORS": "新增版主",
+    "BUTTON_ADD_ADMINS": "新增管理員",
+    "HEADING_SETUP_COMPLETED": "設定完成。",
+    "SUBHEADING_SETUP_LOG": "設定日誌"
 }

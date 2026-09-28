@@ -42,5 +42,9 @@
     "TABLE_TARGET": "対象",
     "FILTER_BY_AFFECTED_PLACEHOLDER": "氏名、メールアドレス、またはID",
     "FILTER_BY_AFFECTED": "影響を受けた対象",
-    "DATE_PRESET_CUSTOM": "カスタム期間"
+    "DATE_PRESET_CUSTOM": "カスタム期間",
+    "FROM_UI": "UI",
+    "FROM_API": "API",
+    "FROM_CRON": "定期ジョブ",
+    "VALUE_N_A": "該当なし"
 }

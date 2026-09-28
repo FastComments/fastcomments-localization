@@ -4,5 +4,10 @@
     "HEADING_BOLD": "FastComments！",
     "DESCRIPTION": "我们已发送邮件。请查看您提供的邮箱地址，邮件中附有链接，以完成注册流程。",
     "MESSAGE_RESEND_SUCCESS": "邮件重新发送成功！",
-    "BUTTON_RESEND": "重新发送验证邮件"
+    "BUTTON_RESEND": "重新发送验证邮件",
+    "ERROR_RESEND_USER_NOT_FOUND": "未找到用户或邮箱不匹配。",
+    "ERROR_RESEND_NO_PENDING_SIGNUP": "未找到待处理的注册。",
+    "ERROR_RESEND_RATE_LIMITED_MINUTE": "您发送的请求过多。请一分钟后再试。",
+    "ERROR_RESEND_RATE_LIMITED_DAY": "您已超出每日邮件发送上限。请明天再试或联系支持团队。",
+    "ERROR_RESEND_FAILED": "重新发送验证邮件时出错。请稍后再试。"
 }

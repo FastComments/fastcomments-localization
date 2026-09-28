@@ -104,5 +104,22 @@
     "FAQ_WEBINARS_GDPR_ANSWER": "Oui. FastComments propose un déploiement exclusif au sein de l'UE à l'adresse eu.fastcomments.com, où toutes les données restent stockées dans l'Union européenne. Le widget n'utilise pas de cookies de suivi ni de scripts publicitaires tiers. L'exportation et la suppression complètes des données sont possibles sur demande, conformément aux demandes d'accès aux données. Grâce à l'authentification unique (SSO), les données d'identité des utilisateurs restent sur votre système, et non sur le nôtre.",
     "FAQ_WEBINARS_PRICING_ANSWER": "FastComments facture en fonction du nombre de pages vues et du volume de commentaires, et non par participant. Un webinaire avec 50 000 participants coûte le même prix qu&#39;un webinaire avec 500 participants si le volume de pages vues correspond à votre forfait. Il n&#39;y a pas de frais par participant. Ainsi, les coûts sont prévisibles pour les événements récurrents. <a href='/traffic-pricing' target='_blank'>Consultez nos tarifs</a>.",
     "DEMO_TAB_THREADED": "Commentaires imbriqués",
-    "DEMO_TAB_STREAMING": "Chat en direct"
+    "DEMO_TAB_STREAMING": "Chat en direct",
+    "HERO_MOCK_MODERATOR": "Modérateur",
+    "HERO_MOCK_PINNED": "Le modérateur a épinglé un message",
+    "HERO_MOCK_ANSWERED": "Le modérateur a marqué une question comme répondue",
+    "HERO_MOCK_REMOVED": "Supprimé par la modération automatique",
+    "HERO_MOCK_AUTHOR_1": "Julien K.",
+    "HERO_MOCK_AUTHOR_2": "Camille M.",
+    "HERO_MOCK_AUTHOR_3": "Thomas L.",
+    "HERO_MOCK_AUTHOR_4": "Élodie T.",
+    "HERO_MOCK_AUTHOR_5": "Nicolas R.",
+    "HERO_MOCK_MSG_API_DOCS": "Comment accéder à la documentation de l'API ?",
+    "HERO_MOCK_MSG_RECORDING": "Y aura-t-il un enregistrement de cette session ?",
+    "HERO_MOCK_MSG_SPAM": "Visitez mon site pour gagner des cadeaux gratuits...",
+    "HERO_MOCK_MSG_REGIONS": "Dans quelles régions l'API est-elle disponible ?",
+    "HERO_MOCK_MSG_REGIONS_ANSWER": "Excellente question ! Toutes les régions sont listées sur docs.fastcomments.com/guide-api",
+    "HERO_MOCK_MSG_EXPORT": "Peut-on exporter les questions-réponses après la session ?",
+    "HERO_MOCK_MSG_EXPORT_ANSWER": "Oui, l'export complet en CSV et JSON est disponible dans le tableau de bord d'administration.",
+    "HERO_MOCK_MSG_LATENCY": "La latence est impressionnante, les commentaires apparaissent instantanément ici."
 }

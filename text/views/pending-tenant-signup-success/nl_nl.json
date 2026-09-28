@@ -4,5 +4,10 @@
     "HEADING_BOLD": "FastComments!",
     "DESCRIPTION": "We hebben een bericht verzonden. Om de registratie te voltooien, kunt u de link in het door u opgegeven e-mailadres raadplegen.",
     "MESSAGE_RESEND_SUCCESS": "E-mail succesvol opnieuw verzonden!",
-    "BUTTON_RESEND": "Verificatie-e-mail opnieuw verzenden"
+    "BUTTON_RESEND": "Verificatie-e-mail opnieuw verzenden",
+    "ERROR_RESEND_USER_NOT_FOUND": "Gebruiker niet gevonden of e-mailadres komt niet overeen.",
+    "ERROR_RESEND_NO_PENDING_SIGNUP": "Geen openstaande registratie gevonden.",
+    "ERROR_RESEND_RATE_LIMITED_MINUTE": "U hebt te veel verzoeken verzonden. Probeer het over een minuut opnieuw.",
+    "ERROR_RESEND_RATE_LIMITED_DAY": "U hebt de dagelijkse e-maillimiet overschreden. Probeer het morgen opnieuw of neem contact op met support.",
+    "ERROR_RESEND_FAILED": "Er is een fout opgetreden bij het opnieuw verzenden van de verificatie-e-mail. Probeer het later opnieuw."
 }

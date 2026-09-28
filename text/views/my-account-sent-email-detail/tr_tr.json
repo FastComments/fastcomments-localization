@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %> tarihinde e-posta gönderildi - FastComments",
+    "PAGE_TITLE": "<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> tarihinde e-posta gönderildi - FastComments",
     "BUTTON_BACK": "← Gönderilen E-postalara Geri Dön",
-    "HEADING": "E-posta şu tarihte gönderildi: <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString() : 'Unknown Date' %>",
+    "HEADING": "E-posta <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> tarihinde gönderildi.",
     "LABEL_DATE": "Tarih:",
     "LABEL_FROM": "Kimden:",
     "LABEL_TO": "Kime:",

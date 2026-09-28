@@ -4,5 +4,10 @@
     "HEADING_BOLD": "¡FastComments!",
     "DESCRIPTION": "Te enviamos un mensaje. Para completar el proceso de registro, revisa el enlace que recibiste en tu correo electrónico.",
     "MESSAGE_RESEND_SUCCESS": "¡Correo electrónico reenviado exitosamente!",
-    "BUTTON_RESEND": "Reenviar correo electrónico de verificación"
+    "BUTTON_RESEND": "Reenviar correo electrónico de verificación",
+    "ERROR_RESEND_USER_NOT_FOUND": "Usuario no encontrado o el correo electrónico no coincide.",
+    "ERROR_RESEND_NO_PENDING_SIGNUP": "No se encontró ningún registro pendiente.",
+    "ERROR_RESEND_RATE_LIMITED_MINUTE": "Has enviado demasiadas solicitudes. Inténtalo de nuevo dentro de un minuto.",
+    "ERROR_RESEND_RATE_LIMITED_DAY": "Has superado el límite diario de correos electrónicos. Inténtalo de nuevo mañana o ponte en contacto con el soporte.",
+    "ERROR_RESEND_FAILED": "Se ha producido un error al reenviar el correo electrónico de verificación. Inténtalo de nuevo más tarde."
 }

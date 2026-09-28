@@ -16,5 +16,18 @@
     "DOMAINS_DESCRIPTION": "Sie müssen keine Subdomains oder localhost angeben. Bei mehreren Websites trennen Sie diese durch Kommas.",
     "TOS_TEXT": "Mit einem Klick auf „Konto erstellen“ stimmen Sie den <a href=\"/terms-of-service\" target=\"_blank\">Nutzungsbedingungen</a> zu.",
     "BUTTON_CREATE_ACCOUNT": "Benutzerkonto erstellen",
-    "ERROR_SIGNUP_ALREADY_STARTED": "Der Anmeldevorgang wurde bereits gestartet und kann nicht erneut abgeschickt werden. Haben Sie die Seite vielleicht aktualisiert?"
+    "ERROR_SIGNUP_ALREADY_STARTED": "Der Anmeldevorgang wurde bereits gestartet und kann nicht erneut abgeschickt werden. Haben Sie die Seite vielleicht aktualisiert?",
+    "ERROR_INVALID_DOMAINS": "Die angegebenen Domains scheinen ungültig zu sein. Bitte überprüfen Sie sie und senden Sie das Formular erneut ab.",
+    "ERROR_PACKAGE_REQUIRED": "Bitte wählen Sie einen Tarif aus.",
+    "ERROR_INVALID_PACKAGE": "Ungültiger Tarif ausgewählt. Bitte wählen Sie einen gültigen Tarif.",
+    "ERROR_TEMPORARY_EMAIL": "Temporäre E-Mail-Adressen werden nicht akzeptiert.",
+    "ERROR_VALID_EMAIL_REQUIRED": "Eine gültige E-Mail-Adresse ist erforderlich.",
+    "ERROR_INPUT_TOO_LONG": "Oh nein! Ihre Eingabe ist viel zu lang.",
+    "ERROR_USERNAME_REQUIRED": "Ein Benutzername ist erforderlich.",
+    "ERROR_EMAIL_REQUIRED": "Ihre E-Mail-Adresse ist erforderlich.",
+    "ERROR_COMPANY_NAME_REQUIRED": "Ein Firmenname ist erforderlich.",
+    "ERROR_DOMAINS_REQUIRED": "Eine durch Kommas getrennte Liste von Domains ist erforderlich.",
+    "ERROR_INVALID_COUPON": "Dieser Gutscheincode ist ungültig.",
+    "ERROR_USERNAME_TAKEN": "Oh nein! Dieser Benutzername ist bereits vergeben.",
+    "ERROR_CREATING_ACCOUNT": "Oh nein! Beim Erstellen Ihres Kontos ist ein Fehler aufgetreten."
 }

@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Rezygnacja nie powiodła się",
     "HEADING_LIGHT": "Rezygnacja ",
-    "HEADING_BOLD": "Niepowodzenie"
+    "HEADING_BOLD": "nie powiodła się",
+    "ERROR_EXPIRED": "Ten adres URL wygasł. Czy to możliwe, że już zrezygnowałeś z powiadomień?",
+    "ERROR_USER_NOT_FOUND": "Nie udało się znaleźć tego użytkownika. Czy Twój adres URL jest prawidłowy?",
+    "ERROR_INTERNAL": "Wystąpił błąd wewnętrzny."
 }

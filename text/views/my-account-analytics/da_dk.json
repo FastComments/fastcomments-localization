@@ -41,7 +41,6 @@
     "TEXT_NO_PAGE_LIKES": "Intet at se her. Måske vil du opsætte <a href=\"https://docs.fastcomments.com/guide-page-reacts.html\" target=\"_blank\">Page Reacts-</a> widgetten?",
     "TEXT_NO_USERS_ONLINE": "Ingen brugere online i øjeblikket, eller ingen kommentarer indsamlet for sider, hvor brugerne er online.",
     "TEXT_NOTHING_TO_SEE": "Intet at se her.",
-    "HEADING_METRICS_BY_MONTH": "Målinger efter <%= timePeriod === '12months' ? 'Month - Last 12 Months' : 'Day - Last 30 Days' %>",
     "TABLE_HEADER_MONTH": "Måned",
     "TABLE_HEADER_DAY": "Dag",
     "TABLE_HEADER_PAGE_LOADS": "Sideindlæsninger",
@@ -66,5 +65,7 @@
     "TABLE_HEADER_SYNC_REQUESTS_SUCCESS": "Synkroniseringsanmodninger lykkedes",
     "TABLE_HEADER_SYNC_REQUESTS_FAILURE": "Synkroniseringsanmodninger mislykkedes",
     "TABLE_HEADER_IMAGES_UPLOADED": "Uploadede billeder",
-    "TABLE_HEADER_IMAGES_SIZE_BYTES": "Billedstørrelse (bytes)"
+    "TABLE_HEADER_IMAGES_SIZE_BYTES": "Billedstørrelse (bytes)",
+    "HEADING_METRICS_BY_MONTH_LAST_12_MONTHS": "Målinger pr. måned - sidste 12 måneder",
+    "HEADING_METRICS_BY_DAY_LAST_30_DAYS": "Målinger pr. dag - sidste 30 dage"
 }

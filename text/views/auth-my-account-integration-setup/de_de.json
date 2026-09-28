@@ -28,5 +28,18 @@
     "TITLE_FETCH_EVENTS": "Synchronisierungsanfrage",
     "DESC_FETCH_EVENTS": "Die Integration hat das Ereignisprotokoll für die neuesten Kommentare und zugehörige Daten angefordert.",
     "TITLE_GET_COMMENTS": "Kommentare abrufen...",
-    "DESC_GET_COMMENTS": "Die Integration hat Kommentardaten angefordert."
+    "DESC_GET_COMMENTS": "Die Integration hat Kommentardaten angefordert.",
+    "TITLE_NO_LOGS": "Keine Protokolle",
+    "DESC_NO_LOGS_EXPIRED": "Es wurden keine Protokolle gefunden. Sie sind offenbar abgelaufen.",
+    "DESC_NO_LOGS_EXPIRED_SETUP_DONE": "Es wurden keine Protokolle gefunden. Sie sind offenbar abgelaufen. Wir sehen jedoch, dass die Einrichtung abgeschlossen wurde.",
+    "ALT_DONE": "Fertig",
+    "TITLE_ALL_SET": "Alles bereit!",
+    "DESC_SETUP_COMPLETED": "Die Ersteinrichtung ist abgeschlossen! Die Integration ist jetzt live.",
+    "HEADING_NEXT_STEPS": "Nächste Schritte",
+    "BUTTON_DOCUMENTATION": "Dokumentation",
+    "BUTTON_CUSTOMIZE": "Anpassen",
+    "BUTTON_ADD_MODERATORS": "Moderatoren hinzufügen",
+    "BUTTON_ADD_ADMINS": "Administratoren hinzufügen",
+    "HEADING_SETUP_COMPLETED": "Einrichtung abgeschlossen.",
+    "SUBHEADING_SETUP_LOG": "Einrichtungsprotokoll"
 }

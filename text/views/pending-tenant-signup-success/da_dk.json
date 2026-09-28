@@ -4,5 +4,10 @@
     "HEADING_BOLD": "FastComments!",
     "DESCRIPTION": "Vi har sendt en besked. For at fuldføre tilmeldingsprocessen skal du tjekke linket, der er sendt til den e-mail, du har angivet.",
     "MESSAGE_RESEND_SUCCESS": "E-mail sendt igen!",
-    "BUTTON_RESEND": "Send bekræftelsesmail igen"
+    "BUTTON_RESEND": "Send bekræftelsesmail igen",
+    "ERROR_RESEND_USER_NOT_FOUND": "Brugeren blev ikke fundet, eller e-mailadressen stemmer ikke overens.",
+    "ERROR_RESEND_NO_PENDING_SIGNUP": "Der blev ikke fundet nogen afventende tilmelding.",
+    "ERROR_RESEND_RATE_LIMITED_MINUTE": "Du har sendt for mange anmodninger. Prøv igen om et minut.",
+    "ERROR_RESEND_RATE_LIMITED_DAY": "Du har overskredet den daglige grænse for e-mails. Prøv igen i morgen, eller kontakt support.",
+    "ERROR_RESEND_FAILED": "Der opstod en fejl under genafsendelse af bekræftelsesmailen. Prøv igen senere."
 }

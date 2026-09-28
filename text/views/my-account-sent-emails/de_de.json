@@ -19,5 +19,8 @@
     "MESSAGE_NO_EMAILS": "Sie haben keine gesendeten E-Mails.",
     "VALUE_UNKNOWN": "Unbekannt",
     "VALUE_NO_SUBJECT": "(Kein Betreff)",
-    "VALUE_NA": "N/A"
+    "VALUE_NA": "N/A",
+    "ERROR_VERIFY_EMAIL": "Bitte bestätigen Sie Ihre E-Mail-Adresse, um auf gesendete E-Mails zuzugreifen. Suchen Sie in Ihrem Posteingang nach der Bestätigungs-E-Mail oder senden Sie sie über Ihre Kontoeinstellungen erneut.",
+    "ERROR_LOAD_SENT_EMAILS": "Gesendete E-Mails konnten nicht geladen werden. Bitte versuchen Sie es später erneut.",
+    "ERROR_LOAD_EMAIL_DETAIL": "Die E-Mail-Details konnten nicht geladen werden. Bitte versuchen Sie es später erneut."
 }

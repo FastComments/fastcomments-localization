@@ -1,5 +1,8 @@
 {
     "PAGE_TITLE": "Échec de la réinscription",
     "HEADING_LIGHT": "Réinscription ",
-    "HEADING_BOLD": "échouée"
+    "HEADING_BOLD": "échouée",
+    "ERROR_EXPIRED": "Cette URL a expiré. L'avez-vous déjà utilisée ?",
+    "ERROR_USER_NOT_FOUND": "Nous n'avons pas trouvé cet utilisateur. Votre URL est-elle correcte ?",
+    "ERROR_INTERNAL": "Une erreur interne s'est produite."
 }

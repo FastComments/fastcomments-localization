@@ -1,5 +1,10 @@
 {
     "PAGE_TITLE": "取消订阅通知失败",
     "HEADING_LIGHT": "取消订阅 ",
-    "HEADING_BOLD": "失败"
+    "HEADING_BOLD": "失败",
+    "ERROR_INVALID_LINK": "此链接似乎有误或已过期。",
+    "ERROR_ACCOUNT_NOT_FOUND": "找不到您的账户。",
+    "ERROR_COMMENT_NOT_FOUND": "找不到您要取消订阅的评论。它可能已被删除，或者您的链接无效。",
+    "ERROR_ALREADY_OPTED_OUT": "……因为您已经取消订阅此帖子的通知！祝您有美好的一天。",
+    "ERROR_OPT_OUT_FAILED": "我们无法为您取消订阅，原因不明。请稍后再试。"
 }

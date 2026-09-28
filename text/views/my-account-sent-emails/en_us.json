@@ -19,5 +19,8 @@
     "MESSAGE_NO_EMAILS": "You don't have any sent emails.",
     "VALUE_UNKNOWN": "Unknown",
     "VALUE_NO_SUBJECT": "(No Subject)",
-    "VALUE_NA": "N/A"
+    "VALUE_NA": "N/A",
+    "ERROR_VERIFY_EMAIL": "Please verify your email address to access sent emails. Check your inbox for a verification email or resend it from your account settings.",
+    "ERROR_LOAD_SENT_EMAILS": "Failed to load sent emails. Please try again later.",
+    "ERROR_LOAD_EMAIL_DETAIL": "Failed to load email detail. Please try again later."
 }

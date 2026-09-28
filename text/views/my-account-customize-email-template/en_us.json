@@ -22,5 +22,19 @@
     "LABEL_CUSTOMIZE_FOR_LOCALE": "Customize For Locale",
     "TEXT_TEST_DATA_INFO": "Here you can define custom test data used in preview. It is saved along with the template.",
     "BUTTON_RESET_TEST_DATA": "Reset",
-    "BUTTON_SAVE": "Save"
+    "BUTTON_SAVE": "Save",
+    "LABEL_CUSTOMIZE_VALUE": "Customize \"[value]\"",
+    "OVERRIDES_COUNT_O": "[count] override",
+    "OVERRIDES_COUNT": "[count] overrides",
+    "ERROR_LOAD_FAILED": "Failed to load this template. Please try again later or reach out to support.",
+    "CONFIRM_UNSAVED_CHANGES": "You have unsaved changes, continue leaving?",
+    "ERROR_DOES_NOT_RENDER": "The email template could not save because it does not successfully render. Fix any errors and try again.",
+    "ERROR_SAVE_REQUEST_FAILED": "The last request to save failed. Please try again later.",
+    "BUTTON_SAVING": "Saving...",
+    "BUTTON_SAVED": "Successfully Saved!",
+    "BUTTON_SAVE_FAILED": "Failed to Save!",
+    "BUTTON_NAVIGATING_TO_NEW": "Navigating to new template...",
+    "BUTTON_CLEARING": "Clearing...",
+    "BUTTON_CLEARED": "Cleared!",
+    "BUTTON_CLEAR_FAILED": "Failed to clear!"
 }
