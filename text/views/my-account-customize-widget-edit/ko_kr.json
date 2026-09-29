@@ -215,7 +215,7 @@
     "LABEL_USE_ABSOLUTE_DATES": "절대 날짜를 사용하시나요?",
     "TEXT_USE_ABSOLUTE_DATES_NOTE": "이렇게 하면 \"방금 전\" 대신 \"<%= new Date().toLocaleString(htmlLang) %>\"과 같은 형식으로 날짜가 표시됩니다.",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "상대 날짜와 절대 날짜를 모두 사용하시나요?",
-    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "이렇게 하면 날짜가 \"방금 전(<%= new Date().toLocaleDateString(htmlLang) %>)\" 대신 \"방금 전\"과 같이 표시됩니다.",
+    "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "이렇게 하면 \"방금 전\" 대신 \"방금 전(<%= new Date().toLocaleDateString(htmlLang) %>)\"과 같은 형식으로 날짜가 표시됩니다.",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "HTML 렌더링에 대한 댓글",
     "OPTION_RENDER_ALL": "모두 렌더링(기본값)",
     "OPTION_LINKS_AS_TEXT": "링크를 텍스트로 표시합니다.",

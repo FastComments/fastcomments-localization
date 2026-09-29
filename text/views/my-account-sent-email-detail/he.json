@@ -1,5 +1,5 @@
 {
-    "PAGE_TITLE": "נשלח אימייל בתאריך <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> - תגובות מהירות",
+    "PAGE_TITLE": "נשלח אימייל בתאריך <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> - FastComments",
     "BUTTON_BACK": "← חזרה להודעות דוא\"ל שנשלחו",
     "HEADING": "נשלח אימייל בתאריך <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>",
     "LABEL_DATE": "תאריך:",

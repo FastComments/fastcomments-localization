@@ -1,8 +1,8 @@
 {
     "LABEL_DATE": "التاريخ:",
-    "HEADING": "تم إرسال البريد الإلكتروني بتاريخ <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>",
+    "HEADING": "بريد إلكتروني مُرسل بتاريخ <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>",
     "BUTTON_BACK": "→ العودة إلى الرسائل المرسلة",
-    "PAGE_TITLE": "تم إرسال البريد الإلكتروني بتاريخ <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> - FastComments",
+    "PAGE_TITLE": "بريد إلكتروني مُرسل بتاريخ <%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> - FastComments",
     "LABEL_FROM": "من:",
     "LABEL_TO": "إلى:",
     "LABEL_SUBJECT": "الموضوع:",

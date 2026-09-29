@@ -213,7 +213,7 @@
     "HEADING_ADVANCED": "Fortschrittlich",
     "LABEL_SHOW_ADVANCED_OPTIONS": "Erweiterte Optionen anzeigen",
     "LABEL_USE_ABSOLUTE_DATES": "Absolute Datumsangaben verwenden?",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Dadurch werden Datumsangaben wie „<%= new Date().toLocaleString(htmlLang) %>___“ anstelle von „gerade eben“ angezeigt.",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "Dadurch werden Datumsangaben wie „<%= new Date().toLocaleString(htmlLang) %>“ anstelle von „gerade eben“ angezeigt.",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "Sowohl relative als auch absolute Datumsangaben verwenden?",
     "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "Dadurch werden Datumsangaben wie „gerade eben (<%= new Date().toLocaleDateString(htmlLang) %>)“ anstelle von „gerade eben“ angezeigt.",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "Kommentar-HTML-Rendering",

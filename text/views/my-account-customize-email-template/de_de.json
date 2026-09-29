@@ -19,7 +19,7 @@
     "TEXT_DOMAIN_NOTE_CANNOT_BE_SPECIFIC": "Diese Vorlage kann gleichzeitig im Kontext mehrerer Domänen angezeigt werden (z. B. mehrere Kommentare in derselben E-Mail-Benachrichtigung) oder auch gar nicht im Kontext einer Domäne. <span class=\"red\">Daher kann diese Vorlage nicht domänenspezifisch sein.</span>",
     "TEXT_LOCALIZATIONS_INFO": "Die Übersetzungen werden für jede Sprache individuell angepasst, da Benutzer in verschiedenen Sprachen kommentieren und sprechen können. Wählen Sie die Sprache aus, für die Sie die Übersetzungen anpassen möchten.",
     "TEXT_CUSTOMIZE_FROM_NAME_EMAIL": "Möchten Sie den <b>Absendernamen und die Absender-E-Mail-Adresse</b> anpassen? Das können Sie <a href=\"/auth/my-account/configure-domains\">hier</a> tun.",
-    "LABEL_CUSTOMIZE_FOR_LOCALE": "Für die jeweilige Region anpassen",
+    "LABEL_CUSTOMIZE_FOR_LOCALE": "Für Sprache anpassen",
     "TEXT_TEST_DATA_INFO": "Hier können Sie benutzerdefinierte Testdaten definieren, die in der Vorschau verwendet werden. Diese werden zusammen mit der Vorlage gespeichert.",
     "BUTTON_RESET_TEST_DATA": "Zurücksetzen",
     "BUTTON_SAVE": "Speichern",
@@ -34,7 +34,7 @@
     "BUTTON_SAVED": "Erfolgreich gespeichert!",
     "BUTTON_SAVE_FAILED": "Speichern fehlgeschlagen!",
     "BUTTON_NAVIGATING_TO_NEW": "Neue Vorlage wird geöffnet...",
-    "BUTTON_CLEARING": "Wird geleert...",
-    "BUTTON_CLEARED": "Geleert!",
-    "BUTTON_CLEAR_FAILED": "Leeren fehlgeschlagen!"
+    "BUTTON_CLEARING": "Wird gelöscht...",
+    "BUTTON_CLEARED": "Gelöscht!",
+    "BUTTON_CLEAR_FAILED": "Löschen fehlgeschlagen!"
 }

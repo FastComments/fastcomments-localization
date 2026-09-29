@@ -243,7 +243,7 @@
     "OPTION_RENDER_ALL": "عرض الكل (افتراضي)",
     "OPTION_LINKS_AS_TEXT": "الروابط كنصوص.",
     "LABEL_HEADER_HTML": "HTML الترويسة",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "سيؤدي هذا إلى عرض التواريخ مثل \"<%= new Date().toLocaleString(htmlLang) %>\" بدلاً من \"الآن فقط\".",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "سيؤدي هذا إلى عرض التواريخ مثل \"<%= new Date().toLocaleString(htmlLang) %>\" بدلاً من \"الآن\".",
     "TEXT_COMMENT_HTML_RENDERING_MODE_NOTE": "تُحوَّل التعليقات إلى HTML، ويُدعم جزء صغير وآمن من HTML. نزيل مثلًا الأسطر الجديدة الزائدة والعناوين الكبيرة والسكربتات. يمكنك أيضًا اختيار عرض الروابط كنص خام بدلاً من عنصر رابط HTML لردع مرسلي الرسائل المزعجة.",
     "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "سيؤدي هذا إلى عرض التواريخ مثل \"الآن (<%= new Date().toLocaleDateString(htmlLang) %>)\" بدلاً من \"الآن\".",
     "LABEL_CUSTOM_CSS": "CSS مخصص",

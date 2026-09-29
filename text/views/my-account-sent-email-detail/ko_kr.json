@@ -1,7 +1,7 @@
 {
-    "PAGE_TITLE": "<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>일에 이메일을 보냈습니다 - FastComments",
+    "PAGE_TITLE": "<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>에 보낸 이메일 - FastComments",
     "BUTTON_BACK": "← 보낸 이메일 목록으로 돌아가기",
-    "HEADING": "<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>일에 이메일을 보냈습니다.",
+    "HEADING": "<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %>에 보낸 이메일",
     "LABEL_DATE": "날짜:",
     "LABEL_FROM": "에서:",
     "LABEL_TO": "에게:",

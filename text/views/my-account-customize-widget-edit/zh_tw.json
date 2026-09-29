@@ -213,7 +213,7 @@
     "HEADING_ADVANCED": "進階",
     "LABEL_SHOW_ADVANCED_OPTIONS": "顯示進階選項",
     "LABEL_USE_ABSOLUTE_DATES": "使用絕對日期？",
-    "TEXT_USE_ABSOLUTE_DATES_NOTE": "這樣會顯示類似“<%= new Date().toLocaleString(htmlLang) %>”的日期，而不是“剛剛”。",
+    "TEXT_USE_ABSOLUTE_DATES_NOTE": "這樣會顯示類似「<%= new Date().toLocaleString(htmlLang) %>」的日期，而不是「剛剛」。",
     "LABEL_USE_BOTH_RELATIVE_AND_ABSOLUTE": "同時使用相對日期和絕對日期嗎？",
     "TEXT_USE_BOTH_RELATIVE_AND_ABSOLUTE_NOTE": "這樣會顯示類似「剛剛（<%= new Date().toLocaleDateString(htmlLang) %>）」的日期，而不是「剛剛」。",
     "LABEL_COMMENT_HTML_RENDERING_MODE": "註解 HTML 渲染",
