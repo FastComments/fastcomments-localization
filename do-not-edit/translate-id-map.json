@@ -158,7 +158,7 @@
         "my-account-configure-domains-remove-confirm": 6,
         "my-account-configure-domains-success": 4,
         "my-account-coupons": 22,
-        "my-account-customize-email-template": 44,
+        "my-account-customize-email-template": 54,
         "my-account-customize-email-template-delete": 5,
         "my-account-customize-email-template-delete-success": 4,
         "my-account-customize-email-templates": 17,
@@ -4500,7 +4500,17 @@
         "t41": "BUTTON_CLEAR_FAILED",
         "t42": "OVERRIDES_COUNT_T",
         "t43": "OVERRIDES_COUNT_F",
-        "t44": "OVERRIDES_COUNT_M"
+        "t44": "OVERRIDES_COUNT_M",
+        "t45": "BUTTON_SEND_TEST",
+        "t46": "TEXT_SEND_TEST_INFO",
+        "t47": "BUTTON_SENDING_TEST",
+        "t48": "BUTTON_TEST_SENT",
+        "t49": "BUTTON_SEND_TEST_FAILED",
+        "t50": "ERROR_SEND_TEST_RATE_LIMITED",
+        "t51": "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED",
+        "t52": "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED",
+        "t53": "ERROR_SEND_TEST_FAILED",
+        "t54": "TEXT_TEST_EMAIL_SUBJECT"
     },
     "my-account-customize-email-template-delete": {
         "t1": "PAGE_TITLE",

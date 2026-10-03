@@ -36,5 +36,15 @@
     "BUTTON_NAVIGATING_TO_NEW": "Går til ny skabelon...",
     "BUTTON_CLEARING": "Rydder...",
     "BUTTON_CLEARED": "Ryddet!",
-    "BUTTON_CLEAR_FAILED": "Kunne ikke rydde!"
+    "BUTTON_CLEAR_FAILED": "Kunne ikke rydde!",
+    "BUTTON_SENDING_TEST": "Sender...",
+    "BUTTON_SEND_TEST": "Send test",
+    "TEXT_SEND_TEST_INFO": "\"Send test\" sender denne skabelon, som den er redigeret lige nu og udfyldt med testdataene, til [email].",
+    "BUTTON_SEND_TEST_FAILED": "Kunne ikke sende!",
+    "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Din e-mailadresse skal bekræftes, før du kan sende test-e-mails.",
+    "ERROR_SEND_TEST_RATE_LIMITED": "Der er blevet sendt for mange test-e-mails for nylig. Vent et par minutter, og prøv igen.",
+    "TEXT_TEST_EMAIL_SUBJECT": "[Test] [name]",
+    "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Din e-mailadresse er på undertrykkelseslisten, så test-e-mailen blev ikke sendt.",
+    "BUTTON_TEST_SENT": "Test sendt!",
+    "ERROR_SEND_TEST_FAILED": "Test-e-mailen kunne ikke sendes. Prøv igen senere."
 }

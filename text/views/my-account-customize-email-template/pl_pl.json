@@ -37,5 +37,15 @@
     "BUTTON_NAVIGATING_TO_NEW": "Przechodzenie do nowego szablonu...",
     "BUTTON_CLEARING": "Czyszczenie...",
     "BUTTON_CLEARED": "Wyczyszczono!",
-    "BUTTON_CLEAR_FAILED": "Nie udało się wyczyścić!"
+    "BUTTON_CLEAR_FAILED": "Nie udało się wyczyścić!",
+    "BUTTON_SENDING_TEST": "Wysyłanie...",
+    "BUTTON_SEND_TEST": "Wyślij test",
+    "BUTTON_SEND_TEST_FAILED": "Nie udało się wysłać!",
+    "BUTTON_TEST_SENT": "Test wysłany!",
+    "TEXT_SEND_TEST_INFO": "Przycisk „Wyślij test” wysyła ten szablon e-mailem, w jego bieżącej wersji i z danymi testowymi, na adres [email].",
+    "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Twój adres e-mail znajduje się na liście adresów blokowanych, dlatego e-mail testowy nie został wysłany.",
+    "ERROR_SEND_TEST_RATE_LIMITED": "Ostatnio wysłano zbyt wiele e-maili testowych. Poczekaj kilka minut i spróbuj ponownie.",
+    "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Zanim będziesz mógł wysłać testowe wiadomości e-mail, musisz zweryfikować swój adres e-mail.",
+    "ERROR_SEND_TEST_FAILED": "Nie udało się wysłać e-maila testowego. Spróbuj ponownie później.",
+    "TEXT_TEST_EMAIL_SUBJECT": "[Test] [name]"
 }

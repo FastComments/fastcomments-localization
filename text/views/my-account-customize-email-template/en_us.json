@@ -36,5 +36,15 @@
     "BUTTON_NAVIGATING_TO_NEW": "Navigating to new template...",
     "BUTTON_CLEARING": "Clearing...",
     "BUTTON_CLEARED": "Cleared!",
-    "BUTTON_CLEAR_FAILED": "Failed to clear!"
+    "BUTTON_CLEAR_FAILED": "Failed to clear!",
+    "BUTTON_SEND_TEST": "Send Test",
+    "TEXT_SEND_TEST_INFO": "Send Test emails this template, as currently edited and with the test data, to [email].",
+    "BUTTON_SENDING_TEST": "Sending...",
+    "BUTTON_TEST_SENT": "Test Sent!",
+    "BUTTON_SEND_TEST_FAILED": "Failed to Send!",
+    "ERROR_SEND_TEST_RATE_LIMITED": "Too many test emails have been sent recently. Please wait a few minutes and try again.",
+    "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Your email address must be verified before you can send test emails.",
+    "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Your email address is on the suppression list, so the test email was not sent.",
+    "ERROR_SEND_TEST_FAILED": "The test email could not be sent. Please try again later.",
+    "TEXT_TEST_EMAIL_SUBJECT": "[Test] [name]"
 }

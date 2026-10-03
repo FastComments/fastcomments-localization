@@ -37,5 +37,15 @@
     "BUTTON_NAVIGATING_TO_NEW": "Prehod na novo predlogo ...",
     "BUTTON_CLEARING": "Čiščenje ...",
     "BUTTON_CLEARED": "Počiščeno!",
-    "BUTTON_CLEAR_FAILED": "Čiščenje ni uspelo!"
+    "BUTTON_CLEAR_FAILED": "Čiščenje ni uspelo!",
+    "BUTTON_SEND_TEST": "Pošlji test",
+    "BUTTON_TEST_SENT": "Test poslan!",
+    "BUTTON_SENDING_TEST": "Pošiljanje ...",
+    "TEXT_SEND_TEST_INFO": "Gumb »Pošlji test« pošlje to predlogo, kot je trenutno urejena in izpolnjena s testnimi podatki, na [email].",
+    "ERROR_SEND_TEST_RATE_LIMITED": "V zadnjem času je bilo poslanih preveč testnih e-poštnih sporočil. Počakajte nekaj minut in poskusite znova.",
+    "BUTTON_SEND_TEST_FAILED": "Pošiljanje ni uspelo!",
+    "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Preden lahko pošljete testna e-poštna sporočila, morate preveriti svoj e-poštni naslov.",
+    "TEXT_TEST_EMAIL_SUBJECT": "[Test] [name]",
+    "ERROR_SEND_TEST_FAILED": "Testnega e-poštnega sporočila ni bilo mogoče poslati. Poskusite znova pozneje.",
+    "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Vaš e-poštni naslov je na seznamu za blokiranje, zato testno e-poštno sporočilo ni bilo poslano."
 }

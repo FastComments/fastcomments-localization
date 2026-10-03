@@ -6,7 +6,7 @@
     "TEXT_DOCUMENTATION_LINK": "이메일 템플릿 관련 문서는 <a href=\"https://docs.fastcomments.com/guide-email-templates.html\" target=\"_blank\">여기에서 확인할 수 있습니다.</a>",
     "TEXT_RENDER_ERROR_MESSAGE": "이 템플릿에 최근 오류가 발생하여 전송에 실패했습니다.",
     "BUTTON_CLEAR_ERROR": "오류 지우기",
-    "TAB_TEMPLATE": "주형",
+    "TAB_TEMPLATE": "템플릿",
     "TAB_SETTINGS": "설정",
     "TAB_LOCALIZATIONS": "번역",
     "TAB_TEST_DATA": "테스트 데이터",
@@ -35,5 +35,15 @@
     "BUTTON_NAVIGATING_TO_NEW": "새 템플릿으로 이동 중...",
     "BUTTON_CLEARING": "지우는 중...",
     "BUTTON_CLEARED": "지웠습니다!",
-    "BUTTON_CLEAR_FAILED": "지우지 못했습니다!"
+    "BUTTON_CLEAR_FAILED": "지우지 못했습니다!",
+    "BUTTON_SEND_TEST": "테스트 전송",
+    "BUTTON_SENDING_TEST": "전송 중...",
+    "BUTTON_TEST_SENT": "테스트 전송 완료!",
+    "TEXT_SEND_TEST_INFO": "\"테스트 전송\" 버튼을 누르면 현재 편집 중인 이 템플릿(저장하지 않은 변경 사항 포함)을 테스트 데이터와 함께 [email] 주소로 전송합니다.",
+    "BUTTON_SEND_TEST_FAILED": "전송에 실패했습니다!",
+    "ERROR_SEND_TEST_RATE_LIMITED": "최근에 테스트 이메일이 너무 많이 전송되었습니다. 잠시 기다렸다가 다시 시도해 주세요.",
+    "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "귀하의 이메일 주소가 차단 목록에 등록되어 있어 테스트 이메일이 전송되지 않았습니다.",
+    "ERROR_SEND_TEST_FAILED": "테스트 이메일을 보낼 수 없습니다. 나중에 다시 시도해 주세요.",
+    "TEXT_TEST_EMAIL_SUBJECT": "[테스트] [name]",
+    "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "테스트 이메일을 보내려면 먼저 이메일 주소를 인증해야 합니다."
 }

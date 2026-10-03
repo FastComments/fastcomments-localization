@@ -36,5 +36,15 @@
     "BUTTON_NAVIGATING_TO_NEW": "Apertura del nuovo modello...",
     "BUTTON_CLEARING": "Cancellazione...",
     "BUTTON_CLEARED": "Cancellato!",
-    "BUTTON_CLEAR_FAILED": "Cancellazione non riuscita!"
+    "BUTTON_CLEAR_FAILED": "Cancellazione non riuscita!",
+    "BUTTON_SENDING_TEST": "Invio in corso...",
+    "TEXT_SEND_TEST_INFO": "Il pulsante \"Invia test\" invia per email questo modello, così com'è attualmente modificato e con i dati di prova, a [email].",
+    "BUTTON_SEND_TEST": "Invia test",
+    "BUTTON_TEST_SENT": "Test inviato!",
+    "BUTTON_SEND_TEST_FAILED": "Invio non riuscito!",
+    "ERROR_SEND_TEST_RATE_LIMITED": "Sono state inviate troppe email di prova di recente. Attendi qualche minuto e riprova.",
+    "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Il tuo indirizzo email è presente nell'elenco delle email soppresse, pertanto l'email di prova non è stata inviata.",
+    "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Il tuo indirizzo email deve essere verificato prima che tu possa inviare email di prova.",
+    "ERROR_SEND_TEST_FAILED": "Impossibile inviare l'email di prova. Riprova più tardi.",
+    "TEXT_TEST_EMAIL_SUBJECT": "[Prova] [name]"
 }

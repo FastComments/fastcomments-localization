@@ -35,5 +35,15 @@
     "BUTTON_NAVIGATING_TO_NEW": "Yeni şablona gidiliyor...",
     "BUTTON_CLEARING": "Temizleniyor...",
     "BUTTON_CLEARED": "Temizlendi!",
-    "BUTTON_CLEAR_FAILED": "Temizlenemedi!"
+    "BUTTON_CLEAR_FAILED": "Temizlenemedi!",
+    "BUTTON_SENDING_TEST": "Gönderiliyor...",
+    "BUTTON_SEND_TEST": "Test Gönder",
+    "TEXT_SEND_TEST_INFO": "\"Test Gönder\" düğmesi bu şablonu, şu anki düzenlenmiş haliyle ve test verileriyle birlikte, [email] adresine e-posta olarak gönderir.",
+    "BUTTON_TEST_SENT": "Test Gönderildi!",
+    "BUTTON_SEND_TEST_FAILED": "Gönderilemedi!",
+    "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Test e-postaları gönderebilmeniz için önce e-posta adresinizin doğrulanması gerekmektedir.",
+    "ERROR_SEND_TEST_FAILED": "Test e-postası gönderilemedi. Lütfen daha sonra tekrar deneyin.",
+    "ERROR_SEND_TEST_RATE_LIMITED": "Son zamanlarda çok fazla test e-postası gönderildi. Lütfen birkaç dakika bekleyin ve tekrar deneyin.",
+    "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "E-posta adresiniz engelleme listesinde olduğundan test e-postası gönderilmedi.",
+    "TEXT_TEST_EMAIL_SUBJECT": "[Test] [name]"
 }

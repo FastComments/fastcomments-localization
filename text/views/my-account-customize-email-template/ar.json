@@ -38,5 +38,15 @@
     "BUTTON_NAVIGATING_TO_NEW": "جارٍ الانتقال إلى القالب الجديد...",
     "BUTTON_CLEARING": "جارٍ المسح...",
     "BUTTON_CLEARED": "تم المسح!",
-    "BUTTON_CLEAR_FAILED": "فشل المسح!"
+    "BUTTON_CLEAR_FAILED": "فشل المسح!",
+    "BUTTON_SENDING_TEST": "جارٍ الإرسال...",
+    "TEXT_SEND_TEST_INFO": "يُرسل زر «إرسال اختبار» هذا القالب بالبريد الإلكتروني، كما هو معدَّل حاليًا ومع بيانات الاختبار، إلى [email].",
+    "ERROR_SEND_TEST_RATE_LIMITED": "تم إرسال عدد كبير جدًا من رسائل البريد الإلكتروني التجريبية مؤخرًا. يرجى الانتظار بضع دقائق ثم المحاولة مرة أخرى.",
+    "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "عنوان بريدك الإلكتروني مدرج في قائمة العناوين الموقوفة، لذلك لم يتم إرسال البريد الإلكتروني التجريبي.",
+    "ERROR_SEND_TEST_FAILED": "تعذر إرسال البريد الإلكتروني التجريبي. يرجى المحاولة مرة أخرى لاحقاً.",
+    "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "يجب التحقق من عنوان بريدك الإلكتروني قبل أن تتمكن من إرسال رسائل بريد إلكتروني تجريبية.",
+    "BUTTON_SEND_TEST": "إرسال اختبار",
+    "BUTTON_SEND_TEST_FAILED": "فشل الإرسال!",
+    "BUTTON_TEST_SENT": "تم إرسال الاختبار!",
+    "TEXT_TEST_EMAIL_SUBJECT": "[اختبار] [name]"
 }

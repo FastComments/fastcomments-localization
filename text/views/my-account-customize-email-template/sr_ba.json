@@ -36,5 +36,15 @@
     "BUTTON_NAVIGATING_TO_NEW": "Прелазак на нови шаблон...",
     "BUTTON_CLEARING": "Брисање...",
     "BUTTON_CLEARED": "Обрисано!",
-    "BUTTON_CLEAR_FAILED": "Брисање није успело!"
+    "BUTTON_CLEAR_FAILED": "Брисање није успело!",
+    "BUTTON_SENDING_TEST": "Слање...",
+    "TEXT_SEND_TEST_INFO": "Дугме „Пошаљи тест“ шаље овај шаблон, онако како је тренутно уређен и са тест подацима, на [email].",
+    "BUTTON_SEND_TEST": "Пошаљи тест",
+    "BUTTON_TEST_SENT": "Тест послат!",
+    "BUTTON_SEND_TEST_FAILED": "Слање није успело!",
+    "ERROR_SEND_TEST_RATE_LIMITED": "Превише тест имејлова је послато у последње време. Молимо сачекајте неколико минута и покушајте поново.",
+    "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Ваша имејл адреса мора бити верификована пре него што можете да шаљете тест имејлове.",
+    "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Ваша имејл адреса је на листи блокираних адреса, тако да тест имејл није послат.",
+    "TEXT_TEST_EMAIL_SUBJECT": "[Тест] [name]",
+    "ERROR_SEND_TEST_FAILED": "Тест имејл није могао бити послат. Молимо покушајте поново касније."
 }

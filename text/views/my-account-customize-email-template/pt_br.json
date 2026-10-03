@@ -36,5 +36,15 @@
     "BUTTON_NAVIGATING_TO_NEW": "Abrindo o novo modelo...",
     "BUTTON_CLEARING": "Limpando...",
     "BUTTON_CLEARED": "Limpo!",
-    "BUTTON_CLEAR_FAILED": "Falha ao limpar!"
+    "BUTTON_CLEAR_FAILED": "Falha ao limpar!",
+    "BUTTON_SENDING_TEST": "Enviando...",
+    "BUTTON_SEND_TEST": "Enviar teste",
+    "BUTTON_TEST_SENT": "Teste enviado!",
+    "BUTTON_SEND_TEST_FAILED": "Falha ao enviar!",
+    "TEXT_SEND_TEST_INFO": "O botão \"Enviar teste\" envia este modelo, como está editado no momento e com os dados de teste, por e-mail para [email].",
+    "ERROR_SEND_TEST_RATE_LIMITED": "Foram enviados muitos e-mails de teste recentemente. Aguarde alguns minutos e tente novamente.",
+    "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Seu endereço de e-mail precisa ser verificado antes que você possa enviar e-mails de teste.",
+    "TEXT_TEST_EMAIL_SUBJECT": "[Teste] [name]",
+    "ERROR_SEND_TEST_FAILED": "Não foi possível enviar o e-mail de teste. Tente novamente mais tarde.",
+    "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Seu endereço de e-mail está na lista de e-mails suprimidos, portanto o e-mail de teste não foi enviado."
 }

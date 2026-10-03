@@ -36,5 +36,15 @@
     "BUTTON_NAVIGATING_TO_NEW": "Abriendo la nueva plantilla...",
     "BUTTON_CLEARING": "Borrando...",
     "BUTTON_CLEARED": "¡Borrado!",
-    "BUTTON_CLEAR_FAILED": "¡Error al borrar!"
+    "BUTTON_CLEAR_FAILED": "¡Error al borrar!",
+    "BUTTON_SEND_TEST": "Enviar prueba",
+    "TEXT_SEND_TEST_INFO": "El botón \"Enviar prueba\" envía por correo electrónico esta plantilla, tal como está editada actualmente y con los datos de prueba, a [email].",
+    "BUTTON_SENDING_TEST": "Enviando...",
+    "BUTTON_SEND_TEST_FAILED": "¡Error al enviar!",
+    "BUTTON_TEST_SENT": "¡Prueba enviada!",
+    "TEXT_TEST_EMAIL_SUBJECT": "[Prueba] [name]",
+    "ERROR_SEND_TEST_RATE_LIMITED": "Se han enviado demasiados correos electrónicos de prueba recientemente. Por favor, espere unos minutos e inténtelo de nuevo.",
+    "ERROR_SEND_TEST_FAILED": "No se pudo enviar el correo electrónico de prueba. Inténtelo de nuevo más tarde.",
+    "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Su dirección de correo electrónico está en la lista de correos electrónicos suprimidos, por lo que no se envió el correo electrónico de prueba.",
+    "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Su dirección de correo electrónico debe estar verificada para poder enviar correos electrónicos de prueba."
 }

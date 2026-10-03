@@ -36,5 +36,15 @@
     "BUTTON_NAVIGATING_TO_NEW": "עובר לתבנית החדשה...",
     "BUTTON_CLEARING": "מנקה...",
     "BUTTON_CLEARED": "נוקה!",
-    "BUTTON_CLEAR_FAILED": "הניקוי נכשל!"
+    "BUTTON_CLEAR_FAILED": "הניקוי נכשל!",
+    "BUTTON_SENDING_TEST": "שולח...",
+    "TEXT_SEND_TEST_INFO": "הלחצן \"שלח בדיקה\" שולח תבנית זו בדוא\"ל, כפי שהיא ערוכה כעת ועם נתוני הבדיקה, אל [email].",
+    "BUTTON_TEST_SENT": "בדיקה נשלחה!",
+    "BUTTON_SEND_TEST_FAILED": "השליחה נכשלה!",
+    "BUTTON_SEND_TEST": "שלח בדיקה",
+    "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "יש לאמת את כתובת הדוא\"ל שלך לפני שתוכל לשלוח הודעות דוא\"ל לבדיקה.",
+    "ERROR_SEND_TEST_RATE_LIMITED": "נשלחו לאחרונה יותר מדי הודעות דוא\"ל לבדיקה. אנא המתן מספר דקות ונסה שוב.",
+    "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "כתובת הדוא\"ל שלך נמצאת ברשימת הכתובות החסומות, לכן דוא\"ל הבדיקה לא נשלח.",
+    "TEXT_TEST_EMAIL_SUBJECT": "[בדיקה] [name]",
+    "ERROR_SEND_TEST_FAILED": "לא ניתן היה לשלוח את דוא\"ל הבדיקה. אנא נסה שוב מאוחר יותר."
 }

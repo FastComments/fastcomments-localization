@@ -35,5 +35,15 @@
     "BUTTON_NAVIGATING_TO_NEW": "正在前往新範本...",
     "BUTTON_CLEARING": "清除中...",
     "BUTTON_CLEARED": "已清除！",
-    "BUTTON_CLEAR_FAILED": "清除失敗！"
+    "BUTTON_CLEAR_FAILED": "清除失敗！",
+    "BUTTON_SENDING_TEST": "傳送中...",
+    "BUTTON_SEND_TEST_FAILED": "傳送失敗！",
+    "BUTTON_SEND_TEST": "傳送測試",
+    "TEXT_SEND_TEST_INFO": "「傳送測試」會將此範本依目前的編輯內容（包括尚未儲存的變更）填入測試資料，傳送至 [email]。",
+    "BUTTON_TEST_SENT": "測試已傳送！",
+    "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "您必須先驗證電子郵件地址才能傳送測試郵件。",
+    "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "您的電子郵件地址已在封鎖清單中，因此測試郵件未傳送。",
+    "ERROR_SEND_TEST_FAILED": "測試郵件傳送失敗，請稍後再試。",
+    "ERROR_SEND_TEST_RATE_LIMITED": "最近傳送的測試郵件過多，請稍等片刻後再試。",
+    "TEXT_TEST_EMAIL_SUBJECT": "[測試] [name]"
 }

@@ -35,5 +35,15 @@
     "BUTTON_NAVIGATING_TO_NEW": "正在跳转到新模板...",
     "BUTTON_CLEARING": "正在清除...",
     "BUTTON_CLEARED": "已清除！",
-    "BUTTON_CLEAR_FAILED": "清除失败！"
+    "BUTTON_CLEAR_FAILED": "清除失败！",
+    "BUTTON_SEND_TEST": "发送测试",
+    "TEXT_SEND_TEST_INFO": "“发送测试”会将此模板按当前编辑内容（包括未保存的更改）填入测试数据，发送至 [email]。",
+    "BUTTON_SENDING_TEST": "正在发送...",
+    "ERROR_SEND_TEST_RATE_LIMITED": "最近发送的测试邮件过多，请稍等片刻后再试。",
+    "BUTTON_SEND_TEST_FAILED": "发送失败！",
+    "BUTTON_TEST_SENT": "测试已发送！",
+    "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "您的电子邮件地址已在屏蔽列表中，因此测试邮件未发送。",
+    "ERROR_SEND_TEST_FAILED": "测试邮件发送失败，请稍后再试。",
+    "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "您必须先验证电子邮件地址才能发送测试邮件。",
+    "TEXT_TEST_EMAIL_SUBJECT": "[测试] [name]"
 }

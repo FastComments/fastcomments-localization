@@ -36,5 +36,15 @@
     "BUTTON_NAVIGATING_TO_NEW": "Μετάβαση στο νέο πρότυπο...",
     "BUTTON_CLEARING": "Εκκαθάριση...",
     "BUTTON_CLEARED": "Εκκαθαρίστηκε!",
-    "BUTTON_CLEAR_FAILED": "Η εκκαθάριση απέτυχε!"
+    "BUTTON_CLEAR_FAILED": "Η εκκαθάριση απέτυχε!",
+    "BUTTON_SENDING_TEST": "Αποστολή...",
+    "TEXT_SEND_TEST_INFO": "Η «Αποστολή δοκιμής» στέλνει αυτό το πρότυπο μέσω email, όπως είναι επεξεργασμένο αυτή τη στιγμή και με τα δεδομένα δοκιμής, στη διεύθυνση [email].",
+    "BUTTON_SEND_TEST": "Αποστολή δοκιμής",
+    "BUTTON_SEND_TEST_FAILED": "Η αποστολή απέτυχε!",
+    "BUTTON_TEST_SENT": "Η δοκιμή στάλθηκε!",
+    "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Η διεύθυνση email σας πρέπει να επαληθευτεί πριν μπορέσετε να στείλετε δοκιμαστικά email.",
+    "ERROR_SEND_TEST_RATE_LIMITED": "Έχουν σταλεί πάρα πολλά δοκιμαστικά email πρόσφατα. Περιμένετε λίγα λεπτά και δοκιμάστε ξανά.",
+    "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Η διεύθυνση email σας βρίσκεται στη λίστα κατασταλμένων email, επομένως το δοκιμαστικό email δεν στάλθηκε.",
+    "ERROR_SEND_TEST_FAILED": "Δεν ήταν δυνατή η αποστολή του δοκιμαστικού email. Δοκιμάστε ξανά αργότερα.",
+    "TEXT_TEST_EMAIL_SUBJECT": "[Δοκιμή] [name]"
 }
