@@ -45,5 +45,5 @@
     "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "您的電子郵件地址已在封鎖清單中，因此測試郵件未傳送。",
     "ERROR_SEND_TEST_FAILED": "測試郵件傳送失敗，請稍後再試。",
     "ERROR_SEND_TEST_RATE_LIMITED": "最近傳送的測試郵件過多，請稍等片刻後再試。",
-    "TEXT_TEST_EMAIL_SUBJECT": "[測試] [name]"
+    "TEXT_TEST_EMAIL_SUBJECT": "測試：[name]"
 }

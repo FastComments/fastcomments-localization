@@ -46,5 +46,5 @@
     "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Votre adresse e-mail figure dans la liste des e-mails supprimés, c'est pourquoi l'e-mail de test n'a pas été envoyé.",
     "ERROR_SEND_TEST_RATE_LIMITED": "Trop d'e-mails de test ont été envoyés récemment. Veuillez patienter quelques minutes et réessayer.",
     "ERROR_SEND_TEST_FAILED": "L'e-mail de test n'a pas pu être envoyé. Veuillez réessayer plus tard.",
-    "TEXT_TEST_EMAIL_SUBJECT": "[Test] [name]"
+    "TEXT_TEST_EMAIL_SUBJECT": "Test : [name]"
 }

@@ -42,7 +42,7 @@
     "BUTTON_SENDING_TEST": "Enviando...",
     "BUTTON_SEND_TEST_FAILED": "¡Error al enviar!",
     "BUTTON_TEST_SENT": "¡Prueba enviada!",
-    "TEXT_TEST_EMAIL_SUBJECT": "[Prueba] [name]",
+    "TEXT_TEST_EMAIL_SUBJECT": "Prueba: [name]",
     "ERROR_SEND_TEST_RATE_LIMITED": "Se han enviado demasiados correos electrónicos de prueba recientemente. Por favor, espere unos minutos e inténtelo de nuevo.",
     "ERROR_SEND_TEST_FAILED": "No se pudo enviar el correo electrónico de prueba. Inténtelo de nuevo más tarde.",
     "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Su dirección de correo electrónico está en la lista de correos electrónicos suprimidos, por lo que no se envió el correo electrónico de prueba.",

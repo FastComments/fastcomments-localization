@@ -45,6 +45,6 @@
     "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Uw e-mailadres moet worden geverifieerd voordat u testmails kunt versturen.",
     "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Uw e-mailadres staat op de lijst met geblokkeerde e-mailadressen, daarom is de testmail niet verzonden.",
     "ERROR_SEND_TEST_RATE_LIMITED": "Er zijn de afgelopen tijd te veel testmails verzonden. Wacht een paar minuten en probeer het opnieuw.",
-    "TEXT_TEST_EMAIL_SUBJECT": "[Test] [name]",
+    "TEXT_TEST_EMAIL_SUBJECT": "Test: [name]",
     "ERROR_SEND_TEST_FAILED": "De testmail kon niet worden verzonden. Probeer het later opnieuw."
 }

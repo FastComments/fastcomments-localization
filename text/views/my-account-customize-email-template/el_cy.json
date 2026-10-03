@@ -46,5 +46,5 @@
     "ERROR_SEND_TEST_RATE_LIMITED": "Έχουν σταλεί πάρα πολλά δοκιμαστικά email πρόσφατα. Περιμένετε λίγα λεπτά και δοκιμάστε ξανά.",
     "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Η διεύθυνση email σας βρίσκεται στη λίστα κατασταλμένων email, επομένως το δοκιμαστικό email δεν στάλθηκε.",
     "ERROR_SEND_TEST_FAILED": "Δεν ήταν δυνατή η αποστολή του δοκιμαστικού email. Δοκιμάστε ξανά αργότερα.",
-    "TEXT_TEST_EMAIL_SUBJECT": "[Δοκιμή] [name]"
+    "TEXT_TEST_EMAIL_SUBJECT": "Δοκιμή: [name]"
 }

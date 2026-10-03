@@ -46,5 +46,5 @@
     "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Your email address must be verified before you can send test emails.",
     "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Your email address is on the suppression list, so the test email was not sent.",
     "ERROR_SEND_TEST_FAILED": "The test email could not be sent. Please try again later.",
-    "TEXT_TEST_EMAIL_SUBJECT": "[Test] [name]"
+    "TEXT_TEST_EMAIL_SUBJECT": "Test: [name]"
 }

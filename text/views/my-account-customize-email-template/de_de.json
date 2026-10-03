@@ -42,7 +42,7 @@
     "TEXT_SEND_TEST_INFO": "„Test senden“ schickt diese Vorlage im aktuellen Bearbeitungsstand und mit den Testdaten per E-Mail an [email].",
     "BUTTON_TEST_SENT": "Test gesendet!",
     "BUTTON_SEND_TEST_FAILED": "Senden fehlgeschlagen!",
-    "TEXT_TEST_EMAIL_SUBJECT": "[Test] [name]",
+    "TEXT_TEST_EMAIL_SUBJECT": "Test: [name]",
     "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Ihre E-Mail-Adresse steht auf der Sperrliste, daher wurde die Test-E-Mail nicht versendet.",
     "ERROR_SEND_TEST_RATE_LIMITED": "Es wurden in letzter Zeit zu viele Test-E-Mails versendet. Bitte warten Sie einige Minuten und versuchen Sie es erneut.",
     "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Ihre E-Mail-Adresse muss verifiziert werden, bevor Sie Test-E-Mails senden können.",

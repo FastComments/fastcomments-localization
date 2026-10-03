@@ -42,7 +42,7 @@
     "BUTTON_SEND_TEST_FAILED": "Slanje nije uspelo!",
     "ERROR_SEND_TEST_FAILED": "Test imejl nije mogao biti poslat. Molimo pokušajte ponovo kasnije.",
     "BUTTON_TEST_SENT": "Test poslat!",
-    "TEXT_TEST_EMAIL_SUBJECT": "[Test] [name]",
+    "TEXT_TEST_EMAIL_SUBJECT": "Test: [name]",
     "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Vaša imejl adresa je na listi blokiranih adresa, tako da test imejl nije poslat.",
     "BUTTON_SEND_TEST": "Pošalji test",
     "TEXT_SEND_TEST_INFO": "Dugme „Pošalji test“ šalje ovaj šablon, onako kako je trenutno uređen i sa test podacima, na [email].",

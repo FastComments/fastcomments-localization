@@ -47,5 +47,5 @@
     "ERROR_SEND_TEST_RATE_LIMITED": "Ostatnio wysłano zbyt wiele e-maili testowych. Poczekaj kilka minut i spróbuj ponownie.",
     "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Zanim będziesz mógł wysłać testowe wiadomości e-mail, musisz zweryfikować swój adres e-mail.",
     "ERROR_SEND_TEST_FAILED": "Nie udało się wysłać e-maila testowego. Spróbuj ponownie później.",
-    "TEXT_TEST_EMAIL_SUBJECT": "[Test] [name]"
+    "TEXT_TEST_EMAIL_SUBJECT": "Test: [name]"
 }

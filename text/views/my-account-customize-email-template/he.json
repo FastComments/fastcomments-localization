@@ -45,6 +45,6 @@
     "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "יש לאמת את כתובת הדוא\"ל שלך לפני שתוכל לשלוח הודעות דוא\"ל לבדיקה.",
     "ERROR_SEND_TEST_RATE_LIMITED": "נשלחו לאחרונה יותר מדי הודעות דוא\"ל לבדיקה. אנא המתן מספר דקות ונסה שוב.",
     "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "כתובת הדוא\"ל שלך נמצאת ברשימת הכתובות החסומות, לכן דוא\"ל הבדיקה לא נשלח.",
-    "TEXT_TEST_EMAIL_SUBJECT": "[בדיקה] [name]",
+    "TEXT_TEST_EMAIL_SUBJECT": "בדיקה: [name]",
     "ERROR_SEND_TEST_FAILED": "לא ניתן היה לשלוח את דוא\"ל הבדיקה. אנא נסה שוב מאוחר יותר."
 }

@@ -43,7 +43,7 @@
     "BUTTON_SEND_TEST_FAILED": "Kunne ikke sende!",
     "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Din e-mailadresse skal bekræftes, før du kan sende test-e-mails.",
     "ERROR_SEND_TEST_RATE_LIMITED": "Der er blevet sendt for mange test-e-mails for nylig. Vent et par minutter, og prøv igen.",
-    "TEXT_TEST_EMAIL_SUBJECT": "[Test] [name]",
+    "TEXT_TEST_EMAIL_SUBJECT": "Test: [name]",
     "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Din e-mailadresse er på undertrykkelseslisten, så test-e-mailen blev ikke sendt.",
     "BUTTON_TEST_SENT": "Test sendt!",
     "ERROR_SEND_TEST_FAILED": "Test-e-mailen kunne ikke sendes. Prøv igen senere."

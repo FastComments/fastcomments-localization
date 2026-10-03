@@ -46,5 +46,5 @@
     "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Il tuo indirizzo email è presente nell'elenco delle email soppresse, pertanto l'email di prova non è stata inviata.",
     "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Il tuo indirizzo email deve essere verificato prima che tu possa inviare email di prova.",
     "ERROR_SEND_TEST_FAILED": "Impossibile inviare l'email di prova. Riprova più tardi.",
-    "TEXT_TEST_EMAIL_SUBJECT": "[Prova] [name]"
+    "TEXT_TEST_EMAIL_SUBJECT": "Prova: [name]"
 }

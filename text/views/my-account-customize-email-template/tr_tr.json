@@ -45,5 +45,5 @@
     "ERROR_SEND_TEST_FAILED": "Test e-postası gönderilemedi. Lütfen daha sonra tekrar deneyin.",
     "ERROR_SEND_TEST_RATE_LIMITED": "Son zamanlarda çok fazla test e-postası gönderildi. Lütfen birkaç dakika bekleyin ve tekrar deneyin.",
     "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "E-posta adresiniz engelleme listesinde olduğundan test e-postası gönderilmedi.",
-    "TEXT_TEST_EMAIL_SUBJECT": "[Test] [name]"
+    "TEXT_TEST_EMAIL_SUBJECT": "Test: [name]"
 }

@@ -44,7 +44,7 @@
     "BUTTON_SEND_TEST_FAILED": "Slanje nije uspjelo!",
     "ERROR_SEND_TEST_FAILED": "Testna e-poruka nije mogla biti poslana. Pokušajte ponovno kasnije.",
     "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "Vaša adresa e-pošte mora biti potvrđena prije nego što možete slati testne e-poruke.",
-    "TEXT_TEST_EMAIL_SUBJECT": "[Test] [name]",
+    "TEXT_TEST_EMAIL_SUBJECT": "Test: [name]",
     "ERROR_SEND_TEST_RATE_LIMITED": "Nedavno je poslano previše testnih e-poruka. Pričekajte nekoliko minuta i pokušajte ponovno.",
     "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "Vaša adresa e-pošte nalazi se na popisu blokiranih adresa, pa testna e-poruka nije poslana."
 }

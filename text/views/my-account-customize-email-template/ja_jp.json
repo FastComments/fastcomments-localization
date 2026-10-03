@@ -42,7 +42,7 @@
     "BUTTON_SEND_TEST_FAILED": "送信に失敗しました！",
     "BUTTON_SEND_TEST": "テストを送信",
     "ERROR_SEND_TEST_EMAIL_NOT_VERIFIED": "テストメールを送信するには、メールアドレスの認証が必要です。",
-    "TEXT_TEST_EMAIL_SUBJECT": "[テスト] [name]",
+    "TEXT_TEST_EMAIL_SUBJECT": "テスト：[name]",
     "ERROR_SEND_TEST_RATE_LIMITED": "最近、テストメールが多数送信されています。数分お待ちいただいてから、もう一度お試しください。",
     "ERROR_SEND_TEST_RECIPIENT_SUPPRESSED": "お客様のメールアドレスは抑制リストに登録されているため、テストメールは送信されませんでした。",
     "ERROR_SEND_TEST_FAILED": "テストメールを送信できませんでした。しばらくしてからもう一度お試しください。"
