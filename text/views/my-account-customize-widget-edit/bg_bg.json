@@ -295,5 +295,14 @@
     "TEXT_ALLOW_EMBEDS_NOTE": "Позволява на коментиращите да вграждат видеоклипове и плейъри (YouTube, Vimeo, SoundCloud, Spotify и други), като поставят iframe-а на доставчика. Допускат се само доверени доставчици.",
     "TEXT_NO_TEXT_OVERRIDES": "В момента нямате замени на текст.",
     "TABLE_HEADER_DEFAULT_TEXT": "Текст по подразбиране",
-    "TABLE_HEADER_OVERRIDE": "Замяна"
+    "TABLE_HEADER_OVERRIDE": "Замяна",
+    "HEADING_INPUT_BORDER_WIZARD": "Граница на полето за коментари",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "Изберете цветовете и закръглеността на ъглите на полето за коментари и ние ще добавим CSS кода към вашия персонализиран CSS код. Добавят се само настройките, които промените.",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "Цвят на рамката при писане",
+    "LABEL_INPUT_BORDER_COLOR": "Цвят на рамката",
+    "LABEL_INPUT_BORDER_RADIUS": "Закръгленост на ъглите (px)",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "Закръгленост на горния ляв ъгъл (px)",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Първо променете настройката по-горе.",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "Добавено към вашия персонализиран CSS. Запазете го, за да го запазите.",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "Добавяне към персонализиран CSS"
 }

@@ -295,5 +295,14 @@
     "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Lista separada por comas de nombres de host adicionales que se permitirán además de los proveedores de confianza integrados.",
     "TEXT_NO_TEXT_OVERRIDES": "Actualmente no tiene sustituciones de texto.",
     "TABLE_HEADER_DEFAULT_TEXT": "Texto predeterminado",
-    "TABLE_HEADER_OVERRIDE": "Sustitución"
+    "TABLE_HEADER_OVERRIDE": "Sustitución",
+    "HEADING_INPUT_BORDER_WIZARD": "Borde del cuadro de comentarios",
+    "LABEL_INPUT_BORDER_COLOR": "Color del borde",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "Selecciona los colores y el redondeo de las esquinas del cuadro de comentarios, y nosotros añadiremos el código CSS a tu CSS personalizado. Solo se añadirán los ajustes que modifiques.",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "Color del borde al escribir",
+    "LABEL_INPUT_BORDER_RADIUS": "Redondeo de las esquinas (px)",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "Agregar a CSS personalizado",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "Redondeo de la esquina superior izquierda (px)",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "Añadido a tu CSS personalizado. Guárdalo para conservarlo.",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Primero, cambia una de las configuraciones anteriores."
 }

@@ -164,7 +164,7 @@
         "my-account-customize-email-templates": 17,
         "my-account-customize-widget": 14,
         "my-account-customize-widget-delete": 5,
-        "my-account-customize-widget-edit": 298,
+        "my-account-customize-widget-edit": 307,
         "my-account-delete": 17,
         "my-account-delete-failure": 4,
         "my-account-delete-success": 5,
@@ -4865,7 +4865,16 @@
         "t295": "TEXT_AUTO_GENERATE_USERNAME_NOTE",
         "t296": "TEXT_NO_TEXT_OVERRIDES",
         "t297": "TABLE_HEADER_DEFAULT_TEXT",
-        "t298": "TABLE_HEADER_OVERRIDE"
+        "t298": "TABLE_HEADER_OVERRIDE",
+        "t299": "HEADING_INPUT_BORDER_WIZARD",
+        "t300": "TEXT_INPUT_BORDER_WIZARD_NOTE",
+        "t301": "LABEL_INPUT_BORDER_COLOR",
+        "t302": "LABEL_INPUT_BORDER_COLOR_FOCUS",
+        "t303": "LABEL_INPUT_BORDER_RADIUS",
+        "t304": "LABEL_INPUT_BORDER_START_START_RADIUS",
+        "t305": "BUTTON_INPUT_BORDER_WIZARD_ADD",
+        "t306": "TEXT_INPUT_BORDER_WIZARD_ADDED",
+        "t307": "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES"
     },
     "my-account-delete": {
         "t1": "PAGE_TITLE",

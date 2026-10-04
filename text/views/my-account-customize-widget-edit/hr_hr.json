@@ -295,5 +295,14 @@
     "LABEL_ALLOW_EMBEDS": "Dopustiti ugrađivanje medija?",
     "TEXT_NO_TEXT_OVERRIDES": "Trenutačno nemate nijednu zamjenu teksta.",
     "TABLE_HEADER_DEFAULT_TEXT": "Zadani tekst",
-    "TABLE_HEADER_OVERRIDE": "Zamjena"
+    "TABLE_HEADER_OVERRIDE": "Zamjena",
+    "HEADING_INPUT_BORDER_WIZARD": "Obrub okvira za komentare",
+    "LABEL_INPUT_BORDER_COLOR": "Boja obruba",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "Odaberite boje i zaobljenost kutova okvira za komentare, a mi ćemo dodati CSS vašem prilagođenom CSS-u. Dodaju se samo postavke koje promijenite.",
+    "LABEL_INPUT_BORDER_RADIUS": "Zaobljenost kutova (px)",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "Boja obruba tijekom tipkanja",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "Dodaj u prilagođeni CSS",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "Dodano u vaš prilagođeni CSS. Spremite da biste ga zadržali.",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Prvo promijenite gornju postavku.",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "Zaobljenost gornjeg lijevog kuta (px)"
 }

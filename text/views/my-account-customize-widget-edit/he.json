@@ -295,5 +295,14 @@
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
     "LABEL_ALLOWED_EMBED_DOMAINS": "דומיינים נוספים להטמעה",
     "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "רשימה מופרדת בפסיקים של שמות מארחים נוספים להטמעה, שיותרו בנוסף לספקים המהימנים המובנים.",
-    "TEXT_ALLOW_EMBEDS_NOTE": "מאפשר למגיבים להטמיע סרטונים ונגנים (YouTube, Vimeo, SoundCloud, Spotify ועוד) על ידי הדבקת ה-iframe של הספק. רק ספקים מהימנים מורשים."
+    "TEXT_ALLOW_EMBEDS_NOTE": "מאפשר למגיבים להטמיע סרטונים ונגנים (YouTube, Vimeo, SoundCloud, Spotify ועוד) על ידי הדבקת ה-iframe של הספק. רק ספקים מהימנים מורשים.",
+    "LABEL_INPUT_BORDER_COLOR": "צבע הגבול",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "צבע גבול בעת הקלדה",
+    "HEADING_INPUT_BORDER_WIZARD": "גבול תיבת ההערות",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "בחרו את הצבעים ואת עיגול הפינות של תיבת התגובות, ואנחנו נוסיף את ה-CSS ל-CSS המותאם אישית שלכם. רק ההגדרות שתשינו יתווספו.",
+    "LABEL_INPUT_BORDER_RADIUS": "עגלגלות פינות (פיקסלים)",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "עגלגלות פינה שמאלית עליונה (פיקסלים)",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "הוסף ל-CSS מותאם אישית",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "שנה תחילה הגדרה למעלה.",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "נוסף ל-CSS המותאם אישית שלך. שמור כדי לשמור אותו."
 }

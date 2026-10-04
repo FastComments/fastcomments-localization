@@ -295,5 +295,14 @@
     "LABEL_ALLOW_EMBEDS": "Czy zezwolić na osadzanie multimediów?",
     "LABEL_ALLOWED_EMBED_DOMAINS": "Dodatkowe domeny osadzone",
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
-    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Lista oddzielonych przecinkami dodatkowych nazw hostów, które należy osadzić oprócz wbudowanych zaufanych dostawców."
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Lista oddzielonych przecinkami dodatkowych nazw hostów, które należy osadzić oprócz wbudowanych zaufanych dostawców.",
+    "HEADING_INPUT_BORDER_WIZARD": "Obramowanie pola komentarza",
+    "LABEL_INPUT_BORDER_COLOR": "Kolor obramowania",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "Wybierz kolory i zaokrąglenie narożników pola komentarza, a my dodamy kod CSS do Twojego niestandardowego kodu CSS. Uwzględnione zostaną tylko zmienione przez Ciebie ustawienia.",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "Kolor obramowania podczas pisania",
+    "LABEL_INPUT_BORDER_RADIUS": "Zaokrąglenie narożników (px)",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "Zaokrąglenie lewego górnego rogu (px)",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "Dodano do Twojego niestandardowego CSS. Zapisz, aby zachować.",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "Dodaj do niestandardowego CSS",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Najpierw zmień powyższe ustawienie."
 }

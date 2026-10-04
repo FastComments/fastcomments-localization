@@ -295,5 +295,14 @@
     "TEXT_ALLOW_EMBEDS_NOTE": "Επιτρέπει στους σχολιαστές να ενσωματώνουν βίντεο και προγράμματα αναπαραγωγής (YouTube, Vimeo, SoundCloud, Spotify και άλλα) επικολλώντας το iframe του παρόχου. Επιτρέπονται μόνο αξιόπιστοι πάροχοι.",
     "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Λίστα διαχωρισμένων με κόμμα με επιπλέον ονόματα κεντρικών υπολογιστών ενσωμάτωσης που θα επιτρέπονται εκτός από τους ενσωματωμένους αξιόπιστους παρόχους.",
     "LABEL_ALLOWED_EMBED_DOMAINS": "Επιπλέον τομείς ενσωμάτωσης",
-    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com"
+    "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
+    "HEADING_INPUT_BORDER_WIZARD": "Περίγραμμα πλαισίου σχολίων",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "Επιλέξτε τα χρώματα και την στρογγυλότητα των γωνιών του πλαισίου σχολίων και θα προσθέσουμε το CSS στο προσαρμοσμένο CSS σας. Προστίθενται μόνο οι ρυθμίσεις που αλλάζετε.",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "Χρώμα περιγράμματος κατά την πληκτρολόγηση",
+    "LABEL_INPUT_BORDER_COLOR": "Χρώμα περιγράμματος",
+    "LABEL_INPUT_BORDER_RADIUS": "Στρογγυλότητα γωνιών (px)",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "Στρογγυλότητα επάνω αριστερής γωνίας (px)",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "Προσθήκη σε προσαρμοσμένο CSS",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "Προστέθηκε στο προσαρμοσμένο CSS σας. Αποθηκεύστε το για να το διατηρήσετε.",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Αλλάξτε πρώτα μια ρύθμιση παραπάνω."
 }

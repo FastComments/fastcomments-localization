@@ -295,5 +295,14 @@
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com，embed.example.com",
     "TEXT_NO_TEXT_OVERRIDES": "您目前没有任何文本覆盖。",
     "TABLE_HEADER_DEFAULT_TEXT": "默认文本",
-    "TABLE_HEADER_OVERRIDE": "覆盖"
+    "TABLE_HEADER_OVERRIDE": "覆盖",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "选择评论框的颜色和圆角样式，我们会将相应的 CSS 添加到您的自定义 CSS 中。只有您更改的设置才会生效。",
+    "LABEL_INPUT_BORDER_COLOR": "边框颜色",
+    "HEADING_INPUT_BORDER_WIZARD": "评论框边框",
+    "LABEL_INPUT_BORDER_RADIUS": "圆角度（像素）",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "打字时的边框颜色",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "左上角圆角度（像素）",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "已添加到您的自定义 CSS 中。保存即可保留。",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "请先更改上述设置。",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "添加到自定义 CSS"
 }

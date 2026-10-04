@@ -295,5 +295,14 @@
     "LABEL_ALLOW_EMBEDS": "メディア埋め込みを許可しますか？",
     "TEXT_NO_TEXT_OVERRIDES": "現在、テキストのオーバーライドはありません。",
     "TABLE_HEADER_DEFAULT_TEXT": "デフォルトのテキスト",
-    "TABLE_HEADER_OVERRIDE": "オーバーライド"
+    "TABLE_HEADER_OVERRIDE": "オーバーライド",
+    "HEADING_INPUT_BORDER_WIZARD": "コメント欄の枠線",
+    "LABEL_INPUT_BORDER_COLOR": "枠線の色",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "コメントボックスの色と角の丸みを選択してください。選択したCSSをカスタムCSSに追加します。変更した設定のみが追加されます。",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "入力中の枠線の色",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "カスタムCSSに追加",
+    "LABEL_INPUT_BORDER_RADIUS": "角の丸み（ピクセル）",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "カスタムCSSに追加しました。保存して保持してください。",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "左上隅の丸み（ピクセル）",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "まず、上の設定を変更してください。"
 }

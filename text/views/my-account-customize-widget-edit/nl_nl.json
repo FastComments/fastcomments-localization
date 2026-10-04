@@ -295,5 +295,14 @@
     "LABEL_ALLOWED_EMBED_DOMAINS": "Aanvullende insluitdomeinen",
     "TEXT_NO_TEXT_OVERRIDES": "U hebt momenteel geen tekstoverschrijvingen.",
     "TABLE_HEADER_DEFAULT_TEXT": "Standaardtekst",
-    "TABLE_HEADER_OVERRIDE": "Overschrijving"
+    "TABLE_HEADER_OVERRIDE": "Overschrijving",
+    "HEADING_INPUT_BORDER_WIZARD": "Rand van het commentaarvak",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "Kies de kleuren en de afronding van de hoeken van het reactieveld, en wij voegen de CSS toe aan je aangepaste CSS. Alleen de instellingen die je wijzigt, worden toegevoegd.",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "Randkleur tijdens het typen",
+    "LABEL_INPUT_BORDER_COLOR": "Randkleur",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "Voeg toe aan aangepaste CSS",
+    "LABEL_INPUT_BORDER_RADIUS": "Afronding van de hoeken (px)",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "Afronding van de linkerbovenhoek (px)",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "Toegevoegd aan je aangepaste CSS. Opslaan om het te behouden.",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Wijzig eerst een van de bovenstaande instellingen."
 }

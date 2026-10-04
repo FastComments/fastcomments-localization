@@ -295,5 +295,14 @@
     "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Elenco di hostname aggiuntivi da incorporare, separati da virgole, da consentire in aggiunta ai provider attendibili predefiniti.",
     "TEXT_NO_TEXT_OVERRIDES": "Al momento non hai sostituzioni di testo.",
     "TABLE_HEADER_DEFAULT_TEXT": "Testo predefinito",
-    "TABLE_HEADER_OVERRIDE": "Sostituzione"
+    "TABLE_HEADER_OVERRIDE": "Sostituzione",
+    "LABEL_INPUT_BORDER_COLOR": "Colore del bordo",
+    "HEADING_INPUT_BORDER_WIZARD": "bordo della casella dei commenti",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "Colore del bordo durante la digitazione",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "Scegli i colori e l'arrotondamento degli angoli della casella dei commenti e noi aggiungeremo il CSS al tuo CSS personalizzato. Verranno aggiunte solo le impostazioni che modificherai.",
+    "LABEL_INPUT_BORDER_RADIUS": "Arrotondamento degli angoli (px)",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "Aggiunto al tuo CSS personalizzato. Salva per mantenerlo.",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "Aggiungi al CSS personalizzato",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "Arrotondamento dell'angolo in alto a sinistra (px)",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Modifica prima un'impostazione qui sopra."
 }

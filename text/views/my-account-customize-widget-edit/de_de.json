@@ -295,5 +295,14 @@
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "player.example.com, embed.example.com",
     "TEXT_NO_TEXT_OVERRIDES": "Sie haben derzeit keine Textüberschreibungen.",
     "TABLE_HEADER_DEFAULT_TEXT": "Standardtext",
-    "TABLE_HEADER_OVERRIDE": "Überschreibung"
+    "TABLE_HEADER_OVERRIDE": "Überschreibung",
+    "LABEL_INPUT_BORDER_COLOR": "Rahmenfarbe",
+    "HEADING_INPUT_BORDER_WIZARD": "Rahmen des Kommentarfelds",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "Wählen Sie die Farben und die Abrundung der Ecken des Kommentarfelds aus, und wir fügen das entsprechende CSS zu Ihrem benutzerdefinierten CSS hinzu. Nur die von Ihnen geänderten Einstellungen werden übernommen.",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "Rahmenfarbe beim Tippen",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "Zu benutzerdefiniertem CSS hinzufügen",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "Rundung der oberen linken Ecke (px)",
+    "LABEL_INPUT_BORDER_RADIUS": "Eckenrundung (px)",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Ändern Sie zuerst eine der oben genannten Einstellungen.",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "Wurde Ihrem benutzerdefinierten CSS hinzugefügt. Speichern Sie die Änderungen, um sie beizubehalten."
 }

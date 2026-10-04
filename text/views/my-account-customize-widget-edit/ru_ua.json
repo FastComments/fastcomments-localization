@@ -295,5 +295,14 @@
     "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Разделенный запятыми список дополнительных имен хостов для встраивания, разрешенных в дополнение к встроенным доверенным поставщикам.",
     "TEXT_NO_TEXT_OVERRIDES": "У вас пока нет переопределений текста.",
     "TABLE_HEADER_DEFAULT_TEXT": "Текст по умолчанию",
-    "TABLE_HEADER_OVERRIDE": "Переопределение"
+    "TABLE_HEADER_OVERRIDE": "Переопределение",
+    "LABEL_INPUT_BORDER_COLOR": "цвет границы",
+    "HEADING_INPUT_BORDER_WIZARD": "Граница поля для комментариев",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "Выберите цвета и скругление углов поля для комментариев, и мы добавим CSS в ваш пользовательский CSS. Будут добавлены только измененные вами настройки.",
+    "LABEL_INPUT_BORDER_RADIUS": "Закругление углов (в пикселях)",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "Цвет границы при наборе текста",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "Закругление верхнего левого угла (в пикселях)",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "Добавлено в ваш пользовательский CSS. Сохраните, чтобы сохранить.",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "Добавить в пользовательский CSS",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Сначала измените настройку выше."
 }

@@ -295,5 +295,14 @@
     "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Seznam dodatnih vdelanih imen gostiteljev, ločenih z vejicami, ki jih je treba dovoliti poleg vgrajenih zaupanja vrednih ponudnikov.",
     "TEXT_NO_TEXT_OVERRIDES": "Trenutno nimate nobenih preglasitev besedila.",
     "TABLE_HEADER_DEFAULT_TEXT": "Privzeto besedilo",
-    "TABLE_HEADER_OVERRIDE": "Preglasitev"
+    "TABLE_HEADER_OVERRIDE": "Preglasitev",
+    "HEADING_INPUT_BORDER_WIZARD": "Obroba polja za komentarje",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "Izberite barve in zaobljenost vogalov polja za komentarje, mi pa bomo dodali CSS v vaš CSS po meri. Dodane bodo samo nastavitve, ki jih spremenite.",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "Zaokroženost zgornjega levega kota (px)",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Najprej spremenite zgornjo nastavitev.",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "Dodano v vaš CSS po meri. Shranite, da ga ohranite.",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "Dodaj v CSS po meri",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "Barva obrobe med tipkanjem",
+    "LABEL_INPUT_BORDER_COLOR": "Barva obrobe",
+    "LABEL_INPUT_BORDER_RADIUS": "Zaokroženost vogalov (px)"
 }

@@ -295,5 +295,14 @@
     "TEXT_ALLOW_EMBEDS_NOTE": "Дозволяє коментаторам вставляти відео та плеєри (YouTube, Vimeo, SoundCloud, Spotify тощо), вставляючи iframe постачальника. Дозволено лише перевірених постачальників.",
     "TEXT_NO_TEXT_OVERRIDES": "Наразі у вас немає замін тексту.",
     "TABLE_HEADER_DEFAULT_TEXT": "Текст за замовчуванням",
-    "TABLE_HEADER_OVERRIDE": "Заміна"
+    "TABLE_HEADER_OVERRIDE": "Заміна",
+    "LABEL_INPUT_BORDER_COLOR": "Колір межі",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "Колір рамки під час введення тексту",
+    "HEADING_INPUT_BORDER_WIZARD": "Межа поля для коментарів",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "Виберіть кольори та заокруглення кутів поля для коментарів, і ми додамо CSS до вашого власного CSS. Додаються лише змінені вами налаштування.",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "Округлення верхнього лівого кута (пікселі)",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "Додано до вашого власного CSS. Збережіть, щоб залишити.",
+    "LABEL_INPUT_BORDER_RADIUS": "Округлість кутів (пікселі)",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "Додати до власного CSS",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Спочатку змініть налаштування вище."
 }

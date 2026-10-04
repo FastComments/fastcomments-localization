@@ -295,5 +295,14 @@
     "AI_ASSISTANT_FIELD_UNKNOWN": "[field] (حقل غير معروف)",
     "AI_ASSISTANT_ASSISTANT": "المساعد",
     "AI_ASSISTANT_YOU": "أنت",
-    "AI_ASSISTANT_ERROR_TOKEN_BUDGET": "لقد وصلت إلى الحد الأقصى لاستخدام المساعد اليوم. يرجى المحاولة مرة أخرى غداً."
+    "AI_ASSISTANT_ERROR_TOKEN_BUDGET": "لقد وصلت إلى الحد الأقصى لاستخدام المساعد اليوم. يرجى المحاولة مرة أخرى غداً.",
+    "LABEL_INPUT_BORDER_COLOR": "لون الحدود",
+    "HEADING_INPUT_BORDER_WIZARD": "حدود مربع التعليقات",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "تمت إضافته إلى ملف CSS المخصص الخاص بك. احفظه للاحتفاظ به.",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "اختر ألوان مربع التعليقات وزاوية استدارته، وسنضيف تنسيق CSS إلى ملف CSS المخصص الخاص بك. سيتم إضافة الإعدادات التي تُغيرها فقط.",
+    "LABEL_INPUT_BORDER_RADIUS": "استدارة الزوايا (بكسل)",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "أضف إلى CSS المخصص",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "قم بتغيير أحد الإعدادات المذكورة أعلاه أولاً.",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "استدارة الزاوية العلوية اليسرى (بكسل)",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "لون الحدود أثناء الكتابة"
 }

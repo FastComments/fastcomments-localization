@@ -295,5 +295,14 @@
     "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Листа додатних имена хостова за уграђивање, раздвојених зарезима, која ће бити дозвољена поред уграђених поузданих провајдера.",
     "TEXT_NO_TEXT_OVERRIDES": "Тренутно немате ниједну замену текста.",
     "TABLE_HEADER_DEFAULT_TEXT": "Подразумевани текст",
-    "TABLE_HEADER_OVERRIDE": "Замена"
+    "TABLE_HEADER_OVERRIDE": "Замена",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "Изаберите боје и заобљеност углова поља за коментаре, а ми ћемо додати CSS вашем прилагођеном CSS-у. Додају се само подешавања која промените.",
+    "HEADING_INPUT_BORDER_WIZARD": "Ивица поља за коментаре",
+    "LABEL_INPUT_BORDER_COLOR": "Боја ивице",
+    "LABEL_INPUT_BORDER_RADIUS": "Заобљеност углова (px)",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "Боја ивице током куцања",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "Заокруженост горњег левог угла (px)",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Прво промените подешавање изнад.",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "Додато у ваш прилагођени CSS. Сачувајте да бисте га задржали.",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "Додај у прилагођени CSS"
 }

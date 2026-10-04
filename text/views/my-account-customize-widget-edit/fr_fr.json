@@ -295,5 +295,14 @@
     "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Liste, séparée par des virgules, de noms d'hôtes supplémentaires à intégrer, en plus des fournisseurs de confiance intégrés.",
     "TEXT_NO_TEXT_OVERRIDES": "Vous n'avez actuellement aucun remplacement de texte.",
     "TABLE_HEADER_DEFAULT_TEXT": "Texte par défaut",
-    "TABLE_HEADER_OVERRIDE": "Remplacement"
+    "TABLE_HEADER_OVERRIDE": "Remplacement",
+    "HEADING_INPUT_BORDER_WIZARD": "Bordure de la zone de commentaires",
+    "LABEL_INPUT_BORDER_COLOR": "Couleur de la bordure",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "Choisissez les couleurs et l'arrondi des coins de la zone de commentaires, et nous ajouterons le CSS à votre CSS personnalisée. Seuls les paramètres que vous modifiez seront ajoutés.",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "Couleur de la bordure pendant la saisie",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "Ajouté à votre CSS personnalisée. Enregistrez-la pour la conserver.",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "Ajouter au CSS personnalisé",
+    "LABEL_INPUT_BORDER_RADIUS": "Arrondi des coins (px)",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "Arrondi du coin supérieur gauche (px)",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Commencez par modifier un paramètre ci-dessus."
 }

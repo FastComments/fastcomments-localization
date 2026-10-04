@@ -295,5 +295,14 @@
     "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "기본 제공되는 신뢰할 수 있는 공급자 외에 추가로 허용할 임베드 호스트 이름을 쉼표로 구분하여 나열합니다.",
     "TEXT_NO_TEXT_OVERRIDES": "현재 텍스트 재정의가 없습니다.",
     "TABLE_HEADER_DEFAULT_TEXT": "기본 텍스트",
-    "TABLE_HEADER_OVERRIDE": "재정의"
+    "TABLE_HEADER_OVERRIDE": "재정의",
+    "LABEL_INPUT_BORDER_COLOR": "테두리 색상",
+    "HEADING_INPUT_BORDER_WIZARD": "댓글 상자 테두리",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "댓글 상자의 색상과 모서리 둥글기를 선택하시면, 변경하신 CSS를 사용자 지정 CSS에 추가해 드립니다. 변경하신 설정만 추가됩니다.",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "입력 중 테두리 색상",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "사용자 지정 CSS에 추가",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "위의 설정을 먼저 변경하세요.",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "사용자 지정 CSS에 추가되었습니다. 저장하면 유지됩니다.",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "좌측 상단 모서리 둥글기 정도(px)",
+    "LABEL_INPUT_BORDER_RADIUS": "모서리 둥글기(px)"
 }

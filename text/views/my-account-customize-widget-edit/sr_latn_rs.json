@@ -295,5 +295,14 @@
     "TEXT_ALLOW_EMBEDS_NOTE": "Omogućava komentatorima da ugrađuju video zapise i plejere (IouTube, Vimeo, SoundCloud, Spotifi i još mnogo toga) lepljenjem iframe-a provajdera. Dozvoljeni su samo pouzdani provajderi.",
     "TEXT_NO_TEXT_OVERRIDES": "Trenutno nemate nijednu zamenu teksta.",
     "TABLE_HEADER_DEFAULT_TEXT": "Podrazumevani tekst",
-    "TABLE_HEADER_OVERRIDE": "Zamena"
+    "TABLE_HEADER_OVERRIDE": "Zamena",
+    "HEADING_INPUT_BORDER_WIZARD": "Komentar okvir granica",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Prvo promenite postavku iznad.",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "Zaobljenost gornjeg levog ugla (pk)",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "Boja granice dok kucate",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "Izaberite boje i zaobljenost ugla polja za komentare, a mi ćemo dodati CSS u vaš prilagođeni CSS. Dodaju se samo postavke koje promenite.",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "Dodaj u prilagođeni CSS",
+    "LABEL_INPUT_BORDER_RADIUS": "Zaobljenost ugla (pk)",
+    "LABEL_INPUT_BORDER_COLOR": "Boja granice",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "Dodato u vaš prilagođeni CSS. Sačuvaj da ga zadrži."
 }

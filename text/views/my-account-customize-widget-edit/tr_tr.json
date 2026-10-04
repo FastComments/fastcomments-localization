@@ -295,5 +295,14 @@
     "TEXT_ALLOW_EMBEDS_NOTE": "Yorum yapanların, sağlayıcının iframe kodunu yapıştırarak video ve oynatıcı (YouTube, Vimeo, SoundCloud, Spotify ve daha fazlası) eklemesine olanak tanır. Yalnızca güvenilir sağlayıcılara izin verilir.",
     "LABEL_ALLOWED_EMBED_DOMAINS": "Ek Gömme Alan Adları",
     "PLACEHOLDER_ALLOWED_EMBED_DOMAINS": "oyuncu.örnek.com, embed.örnek.com",
-    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Yerleşik güvenilir sağlayıcılara ek olarak izin verilecek ek gömülü ana bilgisayar adlarının virgülle ayrılmış listesi."
+    "TEXT_ALLOWED_EMBED_DOMAINS_NOTE": "Yerleşik güvenilir sağlayıcılara ek olarak izin verilecek ek gömülü ana bilgisayar adlarının virgülle ayrılmış listesi.",
+    "HEADING_INPUT_BORDER_WIZARD": "Yorum kutusu kenarlığı",
+    "LABEL_INPUT_BORDER_COLOR": "Kenar rengi",
+    "LABEL_INPUT_BORDER_COLOR_FOCUS": "Yazarken kenar rengi",
+    "TEXT_INPUT_BORDER_WIZARD_NOTE": "Yorum kutusunun renklerini ve köşe yuvarlaklığını seçin, biz de CSS'inizi Özel CSS'inize ekleyelim. Yalnızca değiştirdiğiniz ayarlar eklenir.",
+    "LABEL_INPUT_BORDER_START_START_RADIUS": "Sol üst köşe yuvarlaklığı (px)",
+    "LABEL_INPUT_BORDER_RADIUS": "Köşe yuvarlaklığı (px)",
+    "TEXT_INPUT_BORDER_WIZARD_ADDED": "Özel CSS dosyanıza eklendi. Kaydetmek için tıklayın.",
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "Özel CSS'ye Ekle",
+    "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Öncelikle yukarıdaki ayarlardan birini değiştirin."
 }
