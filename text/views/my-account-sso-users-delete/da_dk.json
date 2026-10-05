@@ -1,0 +1,14 @@
+{
+    "LABEL_USERNAME": "Brugernavn:",
+    "LABEL_ID": "ID:",
+    "PAGE_TITLE": "Slet SSO-bruger - FastComments",
+    "HEADING": "Slet SSO-bruger",
+    "LABEL_EMAIL": "E-mail:",
+    "MESSAGE_CONFIRM": "Er du sikker på, at du vil slette denne SSO-bruger? Dette kan ikke fortrydes. Hvis din SSO-integration logger dem ind igen, vil de blive oprettet igen som en ny bruger.",
+    "LABEL_COMMENTS": "Hvad skal der ske med deres kommentarer?",
+    "BUTTON_CANCEL": "Annuller",
+    "COMMENT_ACTION_ANONYMIZE": "Anonymiser deres kommentarer (behold teksten, fjern deres navn og e-mail)",
+    "BUTTON_DELETE": "Slet SSO-bruger",
+    "COMMENT_ACTION_KEEP": "Behold deres kommentarer, som de er",
+    "COMMENT_ACTION_DELETE": "Slet deres kommentarer"
+}

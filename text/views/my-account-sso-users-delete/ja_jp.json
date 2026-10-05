@@ -1,0 +1,14 @@
+{
+    "LABEL_USERNAME": "ユーザー名:",
+    "LABEL_ID": "ID:",
+    "MESSAGE_CONFIRM": "このSSOユーザーを削除してもよろしいですか？この操作は元に戻せません。SSO連携によって再度サインインされた場合、新しいユーザーとして再作成されます。",
+    "LABEL_EMAIL": "メール:",
+    "HEADING": "SSOユーザーを削除",
+    "PAGE_TITLE": "SSOユーザーの削除 - FastComments",
+    "LABEL_COMMENTS": "このユーザーのコメントをどうしますか？",
+    "COMMENT_ACTION_KEEP": "コメントをそのまま残す",
+    "BUTTON_CANCEL": "キャンセル",
+    "BUTTON_DELETE": "SSOユーザーを削除",
+    "COMMENT_ACTION_ANONYMIZE": "コメントを匿名化する（テキストは残し、名前とメールアドレスを削除する）",
+    "COMMENT_ACTION_DELETE": "コメントを削除する"
+}

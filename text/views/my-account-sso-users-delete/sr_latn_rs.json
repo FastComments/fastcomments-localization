@@ -1,0 +1,14 @@
+{
+    "PAGE_TITLE": "Brisanje SSO korisnika - FastComments",
+    "LABEL_USERNAME": "Korisničko ime:",
+    "LABEL_ID": "ID:",
+    "LABEL_EMAIL": "E-pošta:",
+    "MESSAGE_CONFIRM": "Da li ste sigurni da želite da izbrišete ovog SSO korisnika? Ova radnja se ne može poništiti. Ako ga vaša SSO integracija ponovo prijavi, biće ponovo kreiran kao novi korisnik.",
+    "HEADING": "Obriši korisnika SSO-a",
+    "COMMENT_ACTION_KEEP": "Zadržite njihove komentare kakvi jesu",
+    "LABEL_COMMENTS": "Šta bi trebalo da se desi sa njihovim komentarima?",
+    "BUTTON_DELETE": "Obriši korisnika SSO-a",
+    "COMMENT_ACTION_DELETE": "Obrišite njihove komentare",
+    "BUTTON_CANCEL": "Otkaži",
+    "COMMENT_ACTION_ANONYMIZE": "Anonimizujte njihove komentare (zadržite tekst, uklonite njihovo ime i imejl)"
+}

@@ -304,5 +304,7 @@
     "LABEL_INPUT_BORDER_START_START_RADIUS": "左上角圆角度（像素）",
     "TEXT_INPUT_BORDER_WIZARD_ADDED": "已添加到您的自定义 CSS 中。保存即可保留。",
     "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "请先更改上述设置。",
-    "BUTTON_INPUT_BORDER_WIZARD_ADD": "添加到自定义 CSS"
+    "BUTTON_INPUT_BORDER_WIZARD_ADD": "添加到自定义 CSS",
+    "HEADING_STYLING_SHORTCUTS": "样式快捷方式",
+    "TEXT_STYLING_SHORTCUTS_NOTE": "快速修改小部件部分样式的方法。每个快捷方式都会将 CSS 添加到下方的自定义 CSS 中。"
 }

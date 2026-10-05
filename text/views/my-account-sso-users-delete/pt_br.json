@@ -1,0 +1,14 @@
+{
+    "LABEL_USERNAME": "Nome de usuário:",
+    "LABEL_ID": "ID:",
+    "LABEL_EMAIL": "E-mail:",
+    "HEADING": "Excluir usuário de SSO",
+    "PAGE_TITLE": "Excluir usuário de SSO - FastComments",
+    "MESSAGE_CONFIRM": "Tem certeza de que deseja excluir este usuário de SSO? Esta ação é irreversível. Se a sua integração de SSO fizer o login dele novamente, ele será recriado como um novo usuário.",
+    "COMMENT_ACTION_KEEP": "Manter os comentários como estão",
+    "LABEL_COMMENTS": "O que deve acontecer com os comentários deste usuário?",
+    "BUTTON_CANCEL": "Cancelar",
+    "COMMENT_ACTION_ANONYMIZE": "Anonimizar os comentários (manter o texto, remover o nome e o e-mail)",
+    "BUTTON_DELETE": "Excluir usuário de SSO",
+    "COMMENT_ACTION_DELETE": "Excluir os comentários"
+}

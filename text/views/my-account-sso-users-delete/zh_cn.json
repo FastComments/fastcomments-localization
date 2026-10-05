@@ -1,0 +1,14 @@
+{
+    "PAGE_TITLE": "删除 SSO 用户 - FastComments",
+    "LABEL_ID": "ID：",
+    "HEADING": "删除 SSO 用户",
+    "LABEL_USERNAME": "用户名：",
+    "MESSAGE_CONFIRM": "您确定要删除此 SSO 用户吗？此操作无法撤销。如果您的 SSO 集成再次使用该用户登录，系统将重新创建该用户。",
+    "LABEL_EMAIL": "电子邮件：",
+    "COMMENT_ACTION_DELETE": "删除其评论",
+    "LABEL_COMMENTS": "如何处理该用户的评论？",
+    "BUTTON_CANCEL": "取消",
+    "COMMENT_ACTION_KEEP": "保留其评论不变",
+    "BUTTON_DELETE": "删除 SSO 用户",
+    "COMMENT_ACTION_ANONYMIZE": "匿名化其评论（保留内容，删除姓名和电子邮件地址）"
+}

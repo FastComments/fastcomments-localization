@@ -1,0 +1,14 @@
+{
+    "PAGE_TITLE": "Delete SSO User - FastComments",
+    "HEADING": "Delete SSO User",
+    "MESSAGE_CONFIRM": "Are you sure you want to delete this SSO user? This can't be undone. If your SSO integration signs them in again, they will be re-created as a new user.",
+    "LABEL_ID": "ID:",
+    "LABEL_USERNAME": "Username:",
+    "LABEL_EMAIL": "Email:",
+    "LABEL_COMMENTS": "What should happen to their comments?",
+    "COMMENT_ACTION_KEEP": "Keep their comments as they are",
+    "COMMENT_ACTION_ANONYMIZE": "Anonymize their comments (keep the text, remove their name and email)",
+    "COMMENT_ACTION_DELETE": "Delete their comments",
+    "BUTTON_DELETE": "Delete SSO User",
+    "BUTTON_CANCEL": "Cancel"
+}

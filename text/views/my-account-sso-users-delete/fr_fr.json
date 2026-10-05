@@ -1,0 +1,14 @@
+{
+    "PAGE_TITLE": "Supprimer un utilisateur SSO - FastComments",
+    "LABEL_ID": "ID :",
+    "LABEL_EMAIL": "E-mail :",
+    "COMMENT_ACTION_KEEP": "Conserver ses commentaires tels quels",
+    "MESSAGE_CONFIRM": "Êtes-vous sûr de vouloir supprimer cet utilisateur SSO ? Cette action est irréversible. Si votre intégration SSO le reconnecte, il sera recréé en tant que nouvel utilisateur.",
+    "HEADING": "Supprimer l'utilisateur SSO",
+    "LABEL_COMMENTS": "Que faire de ses commentaires ?",
+    "LABEL_USERNAME": "Nom d'utilisateur :",
+    "BUTTON_CANCEL": "Annuler",
+    "BUTTON_DELETE": "Supprimer l'utilisateur SSO",
+    "COMMENT_ACTION_DELETE": "Supprimer ses commentaires",
+    "COMMENT_ACTION_ANONYMIZE": "Anonymiser ses commentaires (conserver le texte, supprimer son nom et son adresse e-mail)"
+}

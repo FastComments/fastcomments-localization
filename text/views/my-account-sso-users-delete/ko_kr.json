@@ -1,0 +1,14 @@
+{
+    "LABEL_ID": "ID:",
+    "LABEL_USERNAME": "사용자 이름:",
+    "HEADING": "SSO 사용자 삭제",
+    "LABEL_EMAIL": "이메일:",
+    "PAGE_TITLE": "SSO 사용자 삭제 - FastComments",
+    "MESSAGE_CONFIRM": "이 SSO 사용자를 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다. SSO 연동을 통해 해당 사용자가 다시 로그인하면 새 사용자로 다시 생성됩니다.",
+    "BUTTON_CANCEL": "취소",
+    "LABEL_COMMENTS": "이 사용자의 댓글은 어떻게 처리할까요?",
+    "COMMENT_ACTION_KEEP": "댓글 그대로 유지",
+    "BUTTON_DELETE": "SSO 사용자 삭제",
+    "COMMENT_ACTION_DELETE": "댓글 삭제",
+    "COMMENT_ACTION_ANONYMIZE": "댓글 익명화(내용은 유지하고 이름과 이메일 주소는 삭제)"
+}
