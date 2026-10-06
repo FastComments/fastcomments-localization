@@ -35,10 +35,14 @@
     "FEEDBACK_OFFER_ERROR": "Bir sorun oluştu. Lütfen tekrar deneyin.",
     "FEEDBACK_OFFER_DONE": "Kapat",
     "FEEDBACK_OFFER_TOO_SHORT": "Lütfen biraz daha detay paylaşın (en az 100 karakter).",
-    "FEEDBACK_OFFER_PUBLIC_SHARE_PROMPT": "Son olarak: geri bildiriminizi Trustpilot'a veya G2'ye kopyalayın.",
+    "FEEDBACK_OFFER_RATING_LABEL": "FastComments'a kaç puan verirsiniz?",
+    "FEEDBACK_OFFER_RATING_STAR": "5 üzerinden [count] yıldız",
+    "FEEDBACK_OFFER_RATING_REQUIRED": "Lütfen bir yıldız puanı seçin.",
+    "FEEDBACK_OFFER_PUBLISH_NOTICE": "Puanınız ve geri bildiriminiz onaylandıktan sonra görünen adınızla fastcomments.com/reviews adresinde bir değerlendirme olarak yayımlanır.",
+    "FEEDBACK_OFFER_FILE_TICKET": "Bu değerlendirmeyle birlikte bir destek talebi oluştur",
+    "FEEDBACK_OFFER_PUBLIC_SHARE_PROMPT": "Son olarak: geri bildiriminizi G2'ye kopyalayın.",
     "FEEDBACK_OFFER_COPY_FEEDBACK": "Geri bildirimi kopyala",
     "FEEDBACK_OFFER_COPY_FEEDBACK_COPIED": "Kopyalandı",
-    "FEEDBACK_OFFER_PASTE_ON_TRUSTPILOT": "Trustpilot'a yapıştır",
     "FEEDBACK_OFFER_PASTE_ON_G2": "G2'ye yapıştır",
     "FEEDBACK_OFFER_CREDIT_NOTE": "Hesabınıza bir aylık ücretsiz kullanım hakkı eklenecektir. Deneme süresindeyseniz, bu süre bir ay uzatılmıştır."
 }

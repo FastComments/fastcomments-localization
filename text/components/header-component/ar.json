@@ -35,10 +35,14 @@
     "FEEDBACK_OFFER_TOO_SHORT": "يرجى تقديم المزيد من التفاصيل (100 حرف على الأقل).",
     "FEEDBACK_OFFER_ERROR": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
     "FEEDBACK_OFFER_DONE": "إغلاق",
-    "FEEDBACK_OFFER_PUBLIC_SHARE_PROMPT": "للإنهاء: انسخ ملاحظاتك إلى Trustpilot أو G2.",
+    "FEEDBACK_OFFER_RATING_LABEL": "كيف تقيّم FastComments؟",
+    "FEEDBACK_OFFER_RATING_STAR": "[count] من 5 نجوم",
+    "FEEDBACK_OFFER_RATING_REQUIRED": "يرجى اختيار تقييم بالنجوم.",
+    "FEEDBACK_OFFER_PUBLISH_NOTICE": "يُنشر تقييمك وملاحظاتك كمراجعة على fastcomments.com/reviews باسمك المعروض بعد الموافقة عليها.",
+    "FEEDBACK_OFFER_FILE_TICKET": "إنشاء تذكرة دعم مع هذه المراجعة",
+    "FEEDBACK_OFFER_PUBLIC_SHARE_PROMPT": "للإنهاء: انسخ ملاحظاتك إلى G2.",
     "FEEDBACK_OFFER_COPY_FEEDBACK": "نسخ الملاحظات",
     "FEEDBACK_OFFER_COPY_FEEDBACK_COPIED": "تم النسخ",
-    "FEEDBACK_OFFER_PASTE_ON_TRUSTPILOT": "الصق على Trustpilot",
     "FEEDBACK_OFFER_PASTE_ON_G2": "الصق على G2",
     "FEEDBACK_OFFER_CREDIT_NOTE": "سيُضاف شهر مجاني إلى رصيد حسابك. إذا كنت في الفترة التجريبية، فقد تم تمديدها لمدة شهر."
 }
