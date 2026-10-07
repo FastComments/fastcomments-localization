@@ -21,7 +21,7 @@
         "tenant-free-trial-expired-reminder": 10,
         "tenant-free-trial-half-done-reminder": 24,
         "comment-count": 6,
-        "comment-ui": 640,
+        "comment-ui": 642,
         "recent-comments": 39,
         "top-pages": 3,
         "recent-discussions": 3,
@@ -1564,7 +1564,9 @@
         "t615": "ERROR_ANSWER_ALL_QUESTIONS",
         "t616": "ERROR_QUESTION_NOT_FOUND",
         "t617": "ERROR_QUESTION_VALUE_NOT_NUMERIC",
-        "t618": "ERROR_QUESTION_VALUE_OUT_OF_RANGE"
+        "t618": "ERROR_QUESTION_VALUE_OUT_OF_RANGE",
+        "t641": "QUESTION_FILTER_TITLE",
+        "t642": "QUESTION_FILTER_CLEAR"
     },
     "comment-ui-errors": {
         "t306": "RATE_LIMITED",
