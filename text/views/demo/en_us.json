@@ -42,5 +42,8 @@
     "DEMO_OPTION_USER_LIST_TITLE": "User List",
     "DEMO_OPTION_USER_LIST_DESC": "Show a sidebar of online viewers and past commenters next to the widget.",
     "DEMO_OPTION_USER_LIST_ABOUT": "Renders a list of people on this page beside the comment widget. The Online Participants section shows everyone currently viewing in real time; the Offline Participants section lists past commenters when usersListIncludeOffline is enabled. Configurable to render as a top facepile, a left sidebar, or a right sidebar.",
+    "DEMO_OPTION_POLLS_TITLE": "Live Polls",
+    "DEMO_OPTION_POLLS_DESC": "Attach a poll to a comment and let the community vote right in the thread.",
+    "DEMO_OPTION_POLLS_ABOUT": "Click the poll button in the comment toolbar to add a question with 2 to 10 options to your comment. Results update live for everyone on the page as votes come in. Poll authors can set a closing date, hide results from people who have not voted yet, and choose whether voters stay anonymous or are shown publicly or to admins only.<br><br>In this demo anyone can create a poll and vote without an account. On your site you choose who can create polls (everyone, or only admins and moderators) and whether voting requires logging in.",
     "DEMO_OPTION_VIEW_DOCUMENTATION": "View Documentation"
 }

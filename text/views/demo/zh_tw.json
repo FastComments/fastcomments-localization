@@ -42,5 +42,8 @@
     "DEMO_OPTION_AI_AGENTS_DESC": "使用<a href=\"https://docs.fastcomments.com/guide-ai-agents.html\" target=\"_blank\">AI 代理</a>進行評論串摘要，以及其他一些 AI 代理功能，例如歡迎電子郵件。",
     "DEMO_OPTION_USER_LIST_TITLE": "使用者列表",
     "DEMO_OPTION_USER_LIST_ABOUT": "在評論元件旁邊顯示此頁面上的使用者清單。 「線上參與者」部分即時顯示所有目前正在瀏覽的使用者；「離線參與者」部分在啟用「usersListIncludeOffline」時列出過去的評論者。可配置為顯示在頂部面板、左側邊欄或右側邊欄。",
-    "DEMO_OPTION_USER_LIST_DESC": "在小工具旁邊顯示線上瀏覽者和過往評論者的側邊欄。"
+    "DEMO_OPTION_USER_LIST_DESC": "在小工具旁邊顯示線上瀏覽者和過往評論者的側邊欄。",
+    "DEMO_OPTION_POLLS_TITLE": "即時投票",
+    "DEMO_OPTION_POLLS_DESC": "在評論中附加投票，讓社群成員直接在評論串中投票。",
+    "DEMO_OPTION_POLLS_ABOUT": "點擊評論工具列中的投票按鈕，即可在評論中新增一個包含 2 到 10 個選項的問題。每當有人投票，頁面上所有人看到的結果都會即時更新。投票發起者可以設定截止日期、對尚未投票的使用者隱藏結果，並選擇投票者保持匿名、公開顯示，或僅對管理員可見。<br><br>在此示範中，任何人無需帳號即可建立投票並參與投票。在您自己的網站上，您可以選擇誰能建立投票（所有人，或僅限管理員和版主），以及投票是否需要登入。"
 }

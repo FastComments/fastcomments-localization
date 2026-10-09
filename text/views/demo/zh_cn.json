@@ -42,5 +42,8 @@
     "DEMO_OPTION_AI_AGENTS_DESC": "使用<a href=\"https://docs.fastcomments.com/guide-ai-agents.html\" target=\"_blank\">AI 代理</a>进行评论串摘要，以及其他一些 AI 代理功能，例如欢迎电子邮件。",
     "DEMO_OPTION_USER_LIST_TITLE": "用户列表",
     "DEMO_OPTION_USER_LIST_DESC": "在小部件旁边显示在线浏览者和过往评论者的侧边栏。",
-    "DEMO_OPTION_USER_LIST_ABOUT": "在评论组件旁边显示此页面上的用户列表。“在线参与者”部分实时显示所有当前正在浏览的用户；“离线参与者”部分在启用“usersListIncludeOffline”时列出过去的评论者。可配置为显示在顶部面板、左侧边栏或右侧边栏。"
+    "DEMO_OPTION_USER_LIST_ABOUT": "在评论组件旁边显示此页面上的用户列表。“在线参与者”部分实时显示所有当前正在浏览的用户；“离线参与者”部分在启用“usersListIncludeOffline”时列出过去的评论者。可配置为显示在顶部面板、左侧边栏或右侧边栏。",
+    "DEMO_OPTION_POLLS_TITLE": "实时投票",
+    "DEMO_OPTION_POLLS_DESC": "在评论中附加投票，让社区成员直接在评论串中投票。",
+    "DEMO_OPTION_POLLS_ABOUT": "点击评论工具栏中的投票按钮，即可在评论中添加一个包含 2 到 10 个选项的问题。每当有人投票，页面上所有人看到的结果都会实时更新。投票发起者可以设置截止日期、对尚未投票的用户隐藏结果，并选择投票者保持匿名、公开显示，或仅对管理员可见。<br><br>在此演示中，任何人无需账户即可创建投票并参与投票。在您自己的网站上，您可以选择谁能创建投票（所有人，或仅限管理员和版主），以及投票是否需要登录。"
 }

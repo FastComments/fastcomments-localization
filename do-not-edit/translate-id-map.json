@@ -113,7 +113,7 @@
         "create-conversation-failure": 12,
         "create-conversation-success": 10,
         "dashboard_common": 127,
-        "demo": 44,
+        "demo": 47,
         "error": 11,
         "global-distribution": 49,
         "homepage-email-opt-out": 5,
@@ -127,7 +127,7 @@
         "login-success": 9,
         "login-two-factor": 22,
         "maintenance-page": 4,
-        "marketing_common": 174,
+        "marketing_common": 176,
         "moderator-join-failure": 9,
         "moderator-join-success": 6,
         "my-account": 5,
@@ -272,6 +272,7 @@
         "product-demo-collab-chat": 33,
         "product-demo-image-chat": 15,
         "product-demo-live-chat": 21,
+        "product-demo-live-polls": 9,
         "profile-comment-approve-success": 5,
         "profile-comment-reject-success": 5,
         "public-installation-wizard": 5,
@@ -3093,7 +3094,10 @@
         "t41": "DEMO_OPTION_AI_AGENTS_ABOUT",
         "t42": "DEMO_OPTION_USER_LIST_TITLE",
         "t43": "DEMO_OPTION_USER_LIST_DESC",
-        "t44": "DEMO_OPTION_USER_LIST_ABOUT"
+        "t44": "DEMO_OPTION_USER_LIST_ABOUT",
+        "t45": "DEMO_OPTION_POLLS_TITLE",
+        "t46": "DEMO_OPTION_POLLS_DESC",
+        "t47": "DEMO_OPTION_POLLS_ABOUT"
     },
     "error": {
         "t1": "PAGE_TITLE",
@@ -3875,7 +3879,9 @@
         "t171": "USAGE_STATS_PAGE_LOADS_T",
         "t172": "USAGE_STATS_PAGE_LOADS_F",
         "t173": "USAGE_STATS_PAGE_LOADS_M",
-        "t174": "PUBLIC_FOOTER_V2_LIVE_CHAT_NOTICE"
+        "t174": "PUBLIC_FOOTER_V2_LIVE_CHAT_NOTICE",
+        "t175": "PUBLIC_NAV_ITEM_LIVE_POLLS",
+        "t176": "PUBLIC_NAV_ITEM_LIVE_POLLS_DESC"
     },
     "moderator-join-failure": {
         "t1": "PAGE_TITLE",
@@ -7520,6 +7526,17 @@
         "t19": "INTRO_TEXT",
         "t20": "ACTION_TEXT",
         "t21": "ACTION_BUTTON"
+    },
+    "product-demo-live-polls": {
+        "t1": "PAGE_TITLE",
+        "t2": "META_DESCRIPTION",
+        "t3": "HERO_TITLE_LIGHT",
+        "t4": "HERO_TITLE_BOLD",
+        "t5": "HERO_DESCRIPTION",
+        "t6": "INTRO_TEXT",
+        "t7": "OUTRO_TEXT",
+        "t8": "ACTION_TEXT",
+        "t9": "ACTION_BUTTON"
     },
     "profile-comment-approve-success": {
         "t1": "PAGE_TITLE",
