@@ -9,7 +9,7 @@
     "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Hinweis: Absendername und E-Mail-Einstellungen haben keinen Einfluss auf E-Mails, die an Administratoren gesendet werden.</b>",
     "LINK_REMOVE": "Entfernen",
     "TEXT_AUTO_ADDED_NOTICE": "Automatisch während der Testphase hinzugefügt.",
-    "TITLE_AUTO_ADDED": "Diese Funktion wird während der Testphase automatisch basierend auf dem Traffic Ihres Kontos hinzugefügt. Dies dient der einfacheren Einrichtung und erfolgt nur während der Testphase.",
+    "TITLE_AUTO_ADDED": "Wird während der Testphase automatisch anhand des Traffics Ihres Kontos hinzugefügt. Dies erleichtert die Einrichtung und gilt während der Testphase nur für Ihre erste Domain. Weitere Domains müssen Sie über die E-Mail genehmigen, die wir Ihnen senden.",
     "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Absendername beim Senden einer E-Mail an den Benutzer",
     "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "Absender-E-Mail beim Senden einer E-Mail an den Benutzer",
     "TEXT_EMAIL_ERROR": "Mit dieser E-Mail stimmt etwas nicht. Alle anderen Änderungen wurden gespeichert.",
@@ -71,5 +71,8 @@
     "TEXT_DOMAIN_EDITED_SUCCESS": "Domain erfolgreich aktualisiert!",
     "HELP_OBFUSCATE_EMAIL_LINKS": "Aktivieren Sie diese Option, wenn die Domain-Reputation Ihrer Website dazu führt, dass Benachrichtigungs-E-Mails im Spam-Ordner landen. Schaltflächen zum Anzeigen von Kommentaren in E-Mails werden über fastcomments.com weitergeleitet, bevor sie auf Ihre Seite gelangen.",
     "LABEL_OBFUSCATE_EMAIL_LINKS": "E-Mail-Links über fastcomments.com weiterleiten",
-    "HEADING_EMAIL_LINK_OBFUSCATION": "E-Mail-Link-Verschleierung"
+    "HEADING_EMAIL_LINK_OBFUSCATION": "E-Mail-Link-Verschleierung",
+    "LINK_DISABLE_AUTO_ADD": "automatisches Hinzufügen deaktivieren",
+    "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain erfolgreich genehmigt!",
+    "TITLE_DISABLE_AUTO_ADD": "Das automatische Hinzufügen von Domains beenden und keine Genehmigungs-E-Mails mehr für neue Domains senden."
 }

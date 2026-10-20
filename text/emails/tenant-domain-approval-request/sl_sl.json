@@ -1,0 +1,12 @@
+{
+    "INTRO": "Zdravo <%= user.username %>",
+    "SUBJECT": "Novo spletno mesto čaka na odobritev v vašem računu FastComments",
+    "DOMAIN_REQUESTED_PARAGRAPH": "Z vašim računom FastComments.com je bila uporabljena nova domena. Med poskusnim obdobjem samodejno dodamo le vaše prvo spletno mesto, zato to ni bilo dodano in komentarji se tam ne bodo naložili, dokler ga ne odobrite. To je samodejno e-poštno sporočilo.",
+    "SITE_REQUESTED_WAS": "Novo spletno mesto, ki smo ga odkrili, je bilo: <b><%= domainRequested %></b>",
+    "TECHNICAL_DETAILS": "FastComments preverja pristnost zahtev za vaš račun glede na domeno. Včasih lahko to povzročijo avtomatizirani sistemi, roboti ali prevajalska orodja, zato to domeno odobrite le, če gre za vaše spletno mesto.",
+    "BUTTON_TEXT_DISABLE_FEATURE": "Onemogoči to funkcijo.",
+    "BUTTON_TEXT_APPROVE_DOMAIN": "Odobri to domeno.",
+    "FLEX_BILLING_NOTE": "<b>Opomba:</b> ker vaš račun uporablja prilagodljive cene, imajo dodane domene stroške, pri čemer je prva brezplačna. <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">Tukaj</a> preverite znesek morebitnih prihodnjih računov.",
+    "BILLING_NOTE": "<b>Opomba:</b> Ker vaš račun ne uporablja fleksibilnega oblikovanja cen, imate lahko v svojem računu samo toliko domen. <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">Tukaj</a> preverite uporabo svojega paketa.",
+    "OUTRO": "Če tega spletnega mesta ne prepoznate, vam ni treba storiti ničesar. Hvala za uporabo FastComments!"
+}

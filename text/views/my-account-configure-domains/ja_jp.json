@@ -9,7 +9,7 @@
     "TEXT_FROM_NAME_EMAIL_NOTE": "<b>注: 送信者名と電子メールの設定は、管理者に送信される電子メールには影響しません。</b>",
     "LINK_REMOVE": "削除",
     "TEXT_AUTO_ADDED_NOTICE": "試用期間中は自動的に追加されます。",
-    "TITLE_AUTO_ADDED": "トライアル期間中、アカウントへのトラフィックに基づいて自動的に追加されます。これはセットアップを容易にするために行われ、トライアル期間中のみ実行されます。",
+    "TITLE_AUTO_ADDED": "試用期間中に、アカウントへのトラフィックに基づいて自動的に追加されました。これは設定を容易にするための措置であり、試用期間中の最初のドメインにのみ適用されます。その他のドメインについては、弊社からお送りするメールでの承認が必要です。",
     "LABEL_FROM_NAME_WHEN_EMAILING_USER": "ユーザーにメールを送信する際の送信者名",
     "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "ユーザーにメールを送信する際の送信元メールアドレス",
     "TEXT_EMAIL_ERROR": "このメールに問題があるようです。その他の変更は保存しました。",
@@ -71,5 +71,8 @@
     "LINK_EDIT": "編集",
     "HELP_OBFUSCATE_EMAIL_LINKS": "サイトのドメイン評判が原因で通知メールがスパムフォルダに振り分けられてしまう場合は、この設定を有効にしてください。メール内のコメント表示ボタンをクリックすると、fastcomments.comを経由してページに移動します。",
     "LABEL_OBFUSCATE_EMAIL_LINKS": "メールリンクはfastcomments.com経由でルーティングされます。",
-    "HEADING_EMAIL_LINK_OBFUSCATION": "メールリンクの難読化"
+    "HEADING_EMAIL_LINK_OBFUSCATION": "メールリンクの難読化",
+    "LINK_DISABLE_AUTO_ADD": "自動追加を無効にする",
+    "TEXT_DOMAIN_APPROVED_SUCCESS": "ドメインの承認に成功しました！",
+    "TITLE_DISABLE_AUTO_ADD": "ドメインの自動追加を停止し、新規ドメインに対する承認メールの送信を停止します。"
 }

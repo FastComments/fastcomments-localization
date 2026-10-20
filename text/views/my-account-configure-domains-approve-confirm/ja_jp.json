@@ -1,0 +1,8 @@
+{
+    "HEADING_APPROVE_DOMAIN": "<%= domainName %>を承認",
+    "BUTTON_CANCEL": "キャンセル",
+    "HEADING_APPROVING_DOMAIN": "<%= domainName %>の承認",
+    "PAGE_TITLE": "ドメインの承認 - FastComments",
+    "TEXT_APPROVE_CONFIRM": "<b><%= domainName %></b>からのコメントウィジェットのトラフィックを検出しました。承認すると、このドメインがアカウントに追加され、そこでコメントが読み込まれるようになります。ご自身のサイトである場合にのみ承認してください。続行しますか？",
+    "BUTTON_APPROVE_DOMAIN": "ドメインを承認"
+}

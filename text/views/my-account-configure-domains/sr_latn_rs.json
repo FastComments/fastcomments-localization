@@ -9,7 +9,7 @@
     "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Napomena: Podešavanja imena pošiljaoca i e-pošte ne utiču na e-poštu poslatu administratorima.</b>",
     "LINK_REMOVE": "Ukloni",
     "TEXT_AUTO_ADDED_NOTICE": "Automatski dodat tokom probnog perioda.",
-    "TITLE_AUTO_ADDED": "Automatski se dodaje tokom probnog perioda na osnovu saobraćaja na vašem nalogu. Ovo se radi kako bi se olakšalo podešavanje, a dešava se samo tokom probnog perioda.",
+    "TITLE_AUTO_ADDED": "Automatski dodat tokom probnog perioda na osnovu saobraćaja na vašem nalogu. Ovo se radi kako bi se olakšalo podešavanje i dešava se samo za vaš prvi domen tokom probnog perioda. Za ostale domene potrebno je vaše odobrenje putem imejla koji vam šaljemo.",
     "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Od-Ime prilikom slanja e-pošte korisniku",
     "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "Od-E-mail prilikom slanja e-pošte korisniku",
     "TEXT_EMAIL_ERROR": "Nešto izgleda nije u redu sa ovom e-poštom. Sačuvali smo sve druge promene.",
@@ -71,5 +71,8 @@
     "TEXT_DOMAIN_EDITED_SUCCESS": "Domen je uspešno ažuriran!",
     "LABEL_OBFUSCATE_EMAIL_LINKS": "Usmerite linkove e-pošte kroz fastcomments.com",
     "HELP_OBFUSCATE_EMAIL_LINKS": "Omogućite ovo ako reputacija domena vašeg sajta dovodi do toga da imejlovi sa obaveštenjima završavaju u spamu. Dugmad za pregled komentara u imejlovima će preusmeravati na fastcomments.com pre nego što se pojave na vašoj stranici.",
-    "HEADING_EMAIL_LINK_OBFUSCATION": "Zamagljivanje linkova putem e-pošte"
+    "HEADING_EMAIL_LINK_OBFUSCATION": "Zamagljivanje linkova putem e-pošte",
+    "TEXT_DOMAIN_APPROVED_SUCCESS": "Domen je uspešno odobren!",
+    "TITLE_DISABLE_AUTO_ADD": "Zaustavi automatsko dodavanje domena i slanje imejlova za odobrenje novih domena.",
+    "LINK_DISABLE_AUTO_ADD": "onemogući automatsko dodavanje"
 }

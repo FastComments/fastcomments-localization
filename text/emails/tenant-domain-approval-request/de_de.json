@@ -1,0 +1,12 @@
+{
+    "INTRO": "Hallo <%= user.username %>",
+    "SUBJECT": "Neue Website wartet auf Genehmigung in Ihrem FastComments-Konto",
+    "SITE_REQUESTED_WAS": "Die neue Website, die wir entdeckt haben, war: <b><%= domainRequested %></b>",
+    "DOMAIN_REQUESTED_PARAGRAPH": "Eine neue Domain wurde mit Ihrem FastComments.com-Konto verwendet. Während der Testphase fügen wir nur Ihre erste Website automatisch hinzu. Diese Website wurde daher nicht hinzugefügt, und Kommentare werden dort erst geladen, wenn Sie sie genehmigen. Dies ist eine automatisierte E-Mail.",
+    "TECHNICAL_DETAILS": "FastComments authentifiziert Anfragen an Ihr Konto nach Domain. Manchmal können automatisierte Systeme, Bots oder Übersetzungstools dies verursachen. Genehmigen Sie diese Domain daher nur, wenn es sich um Ihre Website handelt.",
+    "FLEX_BILLING_NOTE": "<b>Hinweis:</b> Da Ihr Konto flexible Preise verwendet, fallen für hinzugefügte Domains Kosten an, wobei die erste kostenlos ist. Überprüfen Sie <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">hier</a> den Betrag für zukünftige Rechnungen.",
+    "BILLING_NOTE": "<b>Hinweis:</b> Da Ihr Konto keine flexiblen Preise verwendet, können Sie nur eine begrenzte Anzahl von Domains in Ihrem Konto haben. Überprüfen Sie <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">hier</a> die Nutzung Ihres Tarifs.",
+    "BUTTON_TEXT_DISABLE_FEATURE": "Deaktivieren Sie diese Funktion.",
+    "BUTTON_TEXT_APPROVE_DOMAIN": "Diese Domain genehmigen.",
+    "OUTRO": "Falls Sie diese Website nicht kennen, sind keine Maßnahmen erforderlich. Danke, dass Sie FastComments verwenden!"
+}

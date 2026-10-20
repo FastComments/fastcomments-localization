@@ -1,0 +1,12 @@
+{
+    "INTRO": "Hola <%= user.username %>",
+    "SUBJECT": "Nuevo sitio pendiente de aprobación en tu cuenta de FastComments",
+    "DOMAIN_REQUESTED_PARAGRAPH": "Se ha utilizado un nuevo dominio con tu cuenta de FastComments.com. Durante el período de prueba solo añadimos automáticamente tu primer sitio, por lo que este no se ha añadido y los comentarios no se cargarán en él hasta que lo apruebes. Este es un correo electrónico automático.",
+    "SITE_REQUESTED_WAS": "El nuevo sitio que detectamos fue: <b><%= domainRequested %></b>",
+    "BUTTON_TEXT_DISABLE_FEATURE": "Deshabilitar esta función.",
+    "BUTTON_TEXT_APPROVE_DOMAIN": "Aprobar este dominio.",
+    "FLEX_BILLING_NOTE": "<b>Nota:</b> Dado que tu cuenta utiliza precios flexibles, los dominios añadidos tienen un coste, y el primero es gratuito. Consulta <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">aquí</a> el importe de futuras facturas.",
+    "BILLING_NOTE": "<b>Nota:</b> Dado que tu cuenta no utiliza precios flexibles, solo puedes tener una cantidad determinada de dominios en tu cuenta. Consulta <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">aquí</a> el uso de tu plan.",
+    "OUTRO": "Si no reconoces este sitio, no es necesario que hagas nada. ¡Gracias por usar FastComments!",
+    "TECHNICAL_DETAILS": "FastComments autentica las solicitudes a tu cuenta por dominio. A veces, los sistemas automatizados, los bots o las herramientas de traducción pueden hacer que esto suceda, así que aprueba este dominio solo si es tu sitio."
+}

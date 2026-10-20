@@ -1,0 +1,12 @@
+{
+    "INTRO": "你好 <%= user.username %>",
+    "SUBJECT": "您的 FastComments 帳戶有一個新網站等待批准",
+    "DOMAIN_REQUESTED_PARAGRAPH": "您的 FastComments.com 帳戶已使用新網域。試用期內，我們只會自動新增您的第一個網站，因此這個新網域尚未新增，您需要批准後才能在該網域上顯示評論。這是一封自動發送的電子郵件。",
+    "TECHNICAL_DETAILS": "FastComments 依網域驗證對您帳戶的請求。有時，自動化系統、機器人或翻譯工具可能會導致這種情況發生，因此請僅在該網域是您的網站時才批准它。",
+    "SITE_REQUESTED_WAS": "我們偵測到的新網站是： <b><%= domainRequested %></b>",
+    "BUTTON_TEXT_APPROVE_DOMAIN": "批准此網域。",
+    "BUTTON_TEXT_DISABLE_FEATURE": "停用此功能。",
+    "BILLING_NOTE": "<b>注意：</b>由於您的帳戶未使用彈性定價，因此您的帳戶中只能有一定數量的網域。請在<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">此處</a>查看您方案的使用情況。",
+    "OUTRO": "如果您不認識這個網站，無需進行任何操作。感謝您使用 FastComments！",
+    "FLEX_BILLING_NOTE": "<b>注意：</b>由於您的帳戶使用彈性定價，因此新增網域會產生費用，第一個是免費的。請在<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">此處</a>查看未來任何帳單的金額。"
+}

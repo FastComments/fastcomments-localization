@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Approve a Domain - FastComments",
+    "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+    "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+    "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?",
+    "BUTTON_CANCEL": "Cancel",
+    "BUTTON_APPROVE_DOMAIN": "Approve Domain"
+}

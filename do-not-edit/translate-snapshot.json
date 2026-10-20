@@ -798,7 +798,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -3500,7 +3500,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -3562,7 +3562,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains.",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!"
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -10563,6 +10566,26 @@
                 "ERROR_GROUP_IDS_INVALID": "Use at most 100 group IDs, each under 50 characters.",
                 "ERROR_WEBSITE_URL_INVALID": "The website URL must start with http:// or https:// and be under 2,000 characters.",
                 "ERROR_NO_PACKAGE": "SSO users can't be added until your account has an active plan."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>."
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "BUTTON_CANCEL": "Cancel",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         },
         "es_es": {
@@ -11363,7 +11386,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -14065,7 +14088,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -14127,7 +14150,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -21128,6 +21154,26 @@
                 "ERROR_NO_PACKAGE": "SSO users can't be added until your account has an active plan.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again.",
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site."
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "BUTTON_CANCEL": "Cancel",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         },
         "pl_pl": {
@@ -21914,7 +21960,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -24616,7 +24662,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -24678,7 +24724,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains.",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!"
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -31679,6 +31728,26 @@
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again.",
                 "ERROR_NO_PACKAGE": "SSO users can't be added until your account has an active plan."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "BUTTON_CANCEL": "Cancel",
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain"
             }
         },
         "de_de": {
@@ -32463,7 +32532,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -35165,7 +35234,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -35227,7 +35296,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -42228,6 +42300,26 @@
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again.",
                 "PAGE_TITLE_EDIT": "Edit SSO User - FastComments",
                 "PREF_PROFILE_DM_DISABLED_DESC": "Other users can't send this user direct messages."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "BUTTON_CANCEL": "Cancel",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain"
             }
         },
         "it_it": {
@@ -43012,7 +43104,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -45703,7 +45795,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -45765,7 +45857,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -52766,6 +52861,26 @@
                 "ERROR_SSO_USER_LIMIT_REACHED": "Your plan's SSO user limit has been reached. Upgrade your plan to add more SSO users.",
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>."
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "BUTTON_CANCEL": "Cancel",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         },
         "ru_ru": {
@@ -53550,7 +53665,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -56252,7 +56367,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -56314,7 +56429,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -63315,6 +63433,26 @@
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again.",
                 "ERROR_NO_PACKAGE": "SSO users can't be added until your account has an active plan.",
                 "ERROR_SSO_USER_LIMIT_REACHED": "Your plan's SSO user limit has been reached. Upgrade your plan to add more SSO users."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "BUTTON_CANCEL": "Cancel",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         },
         "pt_br": {
@@ -64094,7 +64232,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -66198,7 +66336,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -66262,7 +66400,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -73182,6 +73323,26 @@
                 "ERROR_SSO_USER_LIMIT_REACHED": "Your plan's SSO user limit has been reached. Upgrade your plan to add more SSO users.",
                 "ERROR_NO_PACKAGE": "SSO users can't be added until your account has an active plan.",
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "BUTTON_CANCEL": "Cancel",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         },
         "ja_jp": {
@@ -73959,7 +74120,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -76661,7 +76822,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -76723,7 +76884,10 @@
                 "LINK_EDIT": "Edit",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -83724,6 +83888,26 @@
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again.",
                 "ERROR_NO_PACKAGE": "SSO users can't be added until your account has an active plan.",
                 "ERROR_GROUP_IDS_INVALID": "Use at most 100 group IDs, each under 50 characters."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "BUTTON_CANCEL": "Cancel",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain"
             }
         },
         "tr_tr": {
@@ -84501,7 +84685,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -87203,7 +87387,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -87265,7 +87449,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -94266,6 +94453,26 @@
                 "ERROR_GROUP_IDS_INVALID": "Use at most 100 group IDs, each under 50 characters.",
                 "ERROR_NO_PACKAGE": "SSO users can't be added until your account has an active plan.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again."
+            },
+            "tenant-domain-approval-request": {
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "INTRO": "Hello <%= user.username %>",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "BUTTON_CANCEL": "Cancel",
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         },
         "zh_cn": {
@@ -95042,7 +95249,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -97744,7 +97951,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -97806,7 +98013,10 @@
                 "LINK_EDIT": "Edit",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -104807,6 +105017,26 @@
                 "ERROR_SSO_USER_LIMIT_REACHED": "Your plan's SSO user limit has been reached. Upgrade your plan to add more SSO users.",
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "BUTTON_CANCEL": "Cancel",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         },
         "ko_kr": {
@@ -105582,7 +105812,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -108284,7 +108514,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -108346,7 +108576,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -115347,6 +115580,26 @@
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists.",
                 "ERROR_GROUP_IDS_INVALID": "Use at most 100 group IDs, each under 50 characters.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again."
+            },
+            "tenant-domain-approval-request": {
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "INTRO": "Hello <%= user.username %>",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>."
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "BUTTON_CANCEL": "Cancel",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         },
         "zh_tw": {
@@ -115650,7 +115903,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -118823,7 +119076,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -118885,7 +119138,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains.",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!"
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -125886,6 +126142,26 @@
                 "ERROR_GROUP_IDS_INVALID": "Use at most 100 group IDs, each under 50 characters.",
                 "ERROR_SSO_USER_LIMIT_REACHED": "Your plan's SSO user limit has been reached. Upgrade your plan to add more SSO users.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>."
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "BUTTON_CANCEL": "Cancel",
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain"
             }
         },
         "he": {
@@ -126189,7 +126465,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -129362,7 +129638,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -129424,7 +129700,10 @@
                 "LINK_EDIT": "Edit",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains.",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!"
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -136425,6 +136704,26 @@
                 "ERROR_NO_PACKAGE": "SSO users can't be added until your account has an active plan.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again.",
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists."
+            },
+            "tenant-domain-approval-request": {
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "INTRO": "Hello <%= user.username %>",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "BUTTON_CANCEL": "Cancel",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>"
             }
         },
         "hr_hr": {
@@ -136728,7 +137027,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -139901,7 +140200,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -139963,7 +140262,10 @@
                 "LINK_EDIT": "Edit",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -146964,6 +147266,26 @@
                 "ERROR_EMAIL_TAKEN": "Another SSO user already has that email.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again.",
                 "ERROR_GROUP_IDS_INVALID": "Use at most 100 group IDs, each under 50 characters."
+            },
+            "tenant-domain-approval-request": {
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "INTRO": "Hello <%= user.username %>",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "BUTTON_CANCEL": "Cancel",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         },
         "da_dk": {
@@ -147267,7 +147589,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -150440,7 +150762,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -150502,7 +150824,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -157503,6 +157828,26 @@
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again.",
                 "PREF_OPTED_IN_NOTIFICATIONS_DESC": "Email this user when someone replies to them."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "BUTTON_CANCEL": "Cancel",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain"
             }
         },
         "ru_ua": {
@@ -157806,7 +158151,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -160979,7 +161324,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -161041,7 +161386,10 @@
                 "LINK_EDIT": "Edit",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -168042,6 +168390,26 @@
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again.",
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists.",
                 "ERROR_DISPLAY_NAME_TOO_LONG": "The display name must be under 500 characters."
+            },
+            "tenant-domain-approval-request": {
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "INTRO": "Hello <%= user.username %>",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "BUTTON_CANCEL": "Cancel",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain"
             }
         },
         "uk_ua": {
@@ -168345,7 +168713,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -171518,7 +171886,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -171580,7 +171948,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains.",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!"
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -178581,6 +178952,26 @@
                 "ERROR_SSO_USER_LIMIT_REACHED": "Your plan's SSO user limit has been reached. Upgrade your plan to add more SSO users.",
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "BUTTON_CANCEL": "Cancel",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain"
             }
         },
         "bg_bg": {
@@ -178884,7 +179275,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -182046,7 +182437,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -182108,7 +182499,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -189109,6 +189503,26 @@
                 "ERROR_SSO_USER_LIMIT_REACHED": "Your plan's SSO user limit has been reached. Upgrade your plan to add more SSO users.",
                 "ERROR_USERNAME_INVALID": "A username is required and must be under 1,000 characters.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again."
+            },
+            "tenant-domain-approval-request": {
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "INTRO": "Hello <%= user.username %>",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "BUTTON_CANCEL": "Cancel",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain"
             }
         },
         "el_cy": {
@@ -189412,7 +189826,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -192585,7 +192999,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -192647,7 +193061,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains.",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!"
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -199648,6 +200065,26 @@
                 "ERROR_SSO_USER_LIMIT_REACHED": "Your plan's SSO user limit has been reached. Upgrade your plan to add more SSO users.",
                 "ERROR_NO_PACKAGE": "SSO users can't be added until your account has an active plan.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again."
+            },
+            "tenant-domain-approval-request": {
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "INTRO": "Hello <%= user.username %>",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "BUTTON_CANCEL": "Cancel",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         },
         "el_gr": {
@@ -199951,7 +200388,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -203124,7 +203561,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -203186,7 +203623,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains.",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add"
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -210187,6 +210627,26 @@
                 "ERROR_SSO_USER_LIMIT_REACHED": "Your plan's SSO user limit has been reached. Upgrade your plan to add more SSO users.",
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists.",
                 "ERROR_GROUP_IDS_INVALID": "Use at most 100 group IDs, each under 50 characters."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "BUTTON_CANCEL": "Cancel",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain"
             }
         },
         "sr_ba": {
@@ -210490,7 +210950,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -213663,7 +214123,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -213725,7 +214185,10 @@
                 "LINK_EDIT": "Edit",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains.",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!"
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -220726,6 +221189,26 @@
                 "ERROR_SSO_USER_LIMIT_REACHED": "Your plan's SSO user limit has been reached. Upgrade your plan to add more SSO users.",
                 "ERROR_WEBSITE_URL_INVALID": "The website URL must start with http:// or https:// and be under 2,000 characters.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again."
+            },
+            "tenant-domain-approval-request": {
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "INTRO": "Hello <%= user.username %>",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "BUTTON_CANCEL": "Cancel",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         },
         "sr_me": {
@@ -221029,7 +221512,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -224202,7 +224685,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -224264,7 +224747,10 @@
                 "LINK_EDIT": "Edit",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -231265,6 +231751,26 @@
                 "ERROR_ID_INVALID": "An ID is required and must be under 1,000 characters.",
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "BUTTON_CANCEL": "Cancel",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         },
         "sr_rs": {
@@ -231568,7 +232074,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -234741,7 +235247,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -234803,7 +235309,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -241804,6 +242313,26 @@
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again.",
                 "ERROR_NO_PACKAGE": "SSO users can't be added until your account has an active plan."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "BUTTON_CANCEL": "Cancel",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         },
         "sl_sl": {
@@ -242107,7 +242636,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -245280,7 +245809,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -245342,7 +245871,10 @@
                 "LINK_EDIT": "Edit",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -252343,6 +252875,26 @@
                 "ERROR_NO_PACKAGE": "SSO users can't be added until your account has an active plan.",
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "BUTTON_CANCEL": "Cancel",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         },
         "sr_latn_rs": {
@@ -252646,7 +253198,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -255801,7 +256353,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -255863,7 +256415,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains.",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add"
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -262864,6 +263419,26 @@
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists.",
                 "ERROR_DISPLAY_LABEL_TOO_LONG": "The display label must be under 100 characters.",
                 "HELP_COMMENTS_UPDATED": "Changes to the name, avatar, website, and permissions are also applied to this user's existing comments."
+            },
+            "tenant-domain-approval-request": {
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "INTRO": "Hello <%= user.username %>",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "BUTTON_CANCEL": "Cancel",
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         },
         "nl_nl": {
@@ -263192,7 +263767,7 @@
             "tenant-domain-added-notification": {
                 "SUBJECT": "Site Added to Your FastComments Account",
                 "INTRO": "Hello <%= user.username %>",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
                 "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, and adding this domain to your account may not be desirable.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
@@ -266339,7 +266914,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "LINK_REMOVE": "Remove",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "TEXT_EMAIL_ERROR": "Something looks wrong with this email. We've saved any other changes.",
@@ -266401,7 +266976,10 @@
                 "TEXT_DOMAIN_EDITED_SUCCESS": "Domain updated successfully!",
                 "LABEL_OBFUSCATE_EMAIL_LINKS": "Route email links through fastcomments.com",
                 "HELP_OBFUSCATE_EMAIL_LINKS": "Enable this if your site's domain reputation is causing notification emails to land in spam. View-comment buttons in emails will redirect through fastcomments.com before landing on your page.",
-                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation"
+                "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "PAGE_TITLE": "Disable Automatic Domain Add - FastComments",
@@ -273402,6 +273980,26 @@
                 "ERROR_NO_PACKAGE": "SSO users can't be added until your account has an active plan.",
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>."
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "BUTTON_CANCEL": "Cancel",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         },
         "ar": {
@@ -274015,7 +274613,7 @@
                 "FEEDBACK_OFFER_DONE": "Close",
                 "FEEDBACK_OFFER_ERROR": "Something went wrong. Please try again.",
                 "FEEDBACK_OFFER_COPY_FEEDBACK": "Copy feedback",
-                "FEEDBACK_OFFER_PUBLIC_SHARE_PROMPT": "To finish: copy your feedback to Trustpilot or G2.",
+                "FEEDBACK_OFFER_PUBLIC_SHARE_PROMPT": "To finish: copy your feedback to G2.",
                 "FEEDBACK_OFFER_COPY_FEEDBACK_COPIED": "Copied",
                 "FEEDBACK_OFFER_TOO_SHORT": "Please share a little more detail (at least 100 characters).",
                 "FEEDBACK_OFFER_PASTE_ON_TRUSTPILOT": "Paste on Trustpilot",
@@ -275156,7 +275754,7 @@
                 "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
                 "BUTTON_TEXT_REMOVE_DOMAIN": "Remove this domain.",
                 "OUTRO": "If this site should belong to your account, no further action is needed. Thanks for using FastComments!",
-                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. This is an automated email.",
+                "DOMAIN_ADDED_PARAGRAPH": "A new domain has been used with your FastComments.com account. Since you are in trial period, we have automatically added this site for you as a convenience. Any other sites we detect will need your approval first. This is an automated email.",
                 "YOU_CAN_REMOVE_THIS_DOMAIN": "If desired, you can remove this domain, as well as disable this feature.",
                 "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
                 "SITE_ADDED_WAS": "The new site we detected was: <b><%= domainAdded %></b>",
@@ -279415,7 +280013,7 @@
                 "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Note: From-Name and Email settings do not affect emails sent to administrators.</b>",
                 "TEXT_EMAIL_CONFIG_INFO": "The following is configuration for how emails should look when FastComments sends emails to your commenters. You don't have to enter anything if you don't want to customize this.",
                 "TEXT_AUTO_ADDED_NOTICE": "Auto-added during trial.",
-                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens during the trial period.",
+                "TITLE_AUTO_ADDED": "Automatically added during trial period based on traffic to your account. This is done to ease setup, and only happens for your first domain during the trial period. Other domains need your approval through the email we send.",
                 "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "From-Email When Emailing User",
                 "LABEL_FROM_NAME_WHEN_EMAILING_USER": "From-Name When Emailing User",
                 "HEADING_EMAIL_LINK_OBFUSCATION": "Email Link Obfuscation",
@@ -279475,7 +280073,10 @@
                 "TEXT_REPLY_DOMAIN_RATE_LIMITED": "Too many requests. Please try again later.",
                 "BUTTON_DISABLE_REPLY_DOMAIN": "Disable Reply Domain",
                 "TEXT_REPLY_DOMAIN_INVALID_SUBDOMAIN": "Invalid subdomain prefix. Use only lowercase letters, numbers, and hyphens (must start and end with a letter or number, max 63 characters).",
-                "CONFIRM_DISABLE_REPLY_DOMAIN": "Are you sure? Disabling the reply domain will remove the custom reply-to address from notification emails. Users will no longer be able to reply via your custom domain."
+                "CONFIRM_DISABLE_REPLY_DOMAIN": "Are you sure? Disabling the reply domain will remove the custom reply-to address from notification emails. Users will no longer be able to reply via your custom domain.",
+                "TEXT_DOMAIN_APPROVED_SUCCESS": "Domain approved successfully!",
+                "LINK_DISABLE_AUTO_ADD": "disable auto add",
+                "TITLE_DISABLE_AUTO_ADD": "Stop adding domains automatically and stop sending approval emails for new domains."
             },
             "my-account-configure-domains-disable-auto-add-confirm": {
                 "HEADING_RE_ENABLE_AUTOMATIC_DOMAIN_ADDING": "Re-Enable Automatic Domain Adding",
@@ -284520,6 +285121,26 @@
                 "ERROR_NO_PACKAGE": "SSO users can't be added until your account has an active plan.",
                 "ERROR_USER_NOT_FOUND": "That SSO user no longer exists.",
                 "ERROR_INTERNAL": "Something went wrong saving this SSO user. Please try again."
+            },
+            "tenant-domain-approval-request": {
+                "INTRO": "Hello <%= user.username %>",
+                "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+                "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+                "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+                "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+                "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+                "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+                "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+                "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+            },
+            "my-account-configure-domains-approve-confirm": {
+                "HEADING_APPROVE_DOMAIN": "Approve <%= domainName %>",
+                "HEADING_APPROVING_DOMAIN": "Approving <%= domainName %>",
+                "PAGE_TITLE": "Approve a Domain - FastComments",
+                "BUTTON_CANCEL": "Cancel",
+                "BUTTON_APPROVE_DOMAIN": "Approve Domain",
+                "TEXT_APPROVE_CONFIRM": "We saw comment widget traffic from <b><%= domainName %></b>. Approving it adds the domain to your account so comments load there. Only approve it if it is your site. Continue?"
             }
         }
     }

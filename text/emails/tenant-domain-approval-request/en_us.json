@@ -1,0 +1,12 @@
+{
+    "SUBJECT": "New Site Waiting for Approval on Your FastComments Account",
+    "INTRO": "Hello <%= user.username %>",
+    "DOMAIN_REQUESTED_PARAGRAPH": "A new domain has been used with your FastComments.com account. During the trial period we only add your first site automatically, so this one was not added and comments will not load there until you approve it. This is an automated email.",
+    "SITE_REQUESTED_WAS": "The new site we detected was: <b><%= domainRequested %></b>",
+    "TECHNICAL_DETAILS": "FastComments authenticates requests to your account by domain. Sometimes, automated systems, bots, or translation tools can cause this to happen, so only approve this domain if it is your site.",
+    "FLEX_BILLING_NOTE": "<b>Note:</b> Since your account is using flex pricing, domains added incur a cost, with the first one being free. Check the amount for any future invoices <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+    "BILLING_NOTE": "<b>Note:</b> Since your account is not using flex pricing, you can only have so many domains on your account. Check the usage of your plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">here</a>.",
+    "BUTTON_TEXT_APPROVE_DOMAIN": "Approve this domain.",
+    "BUTTON_TEXT_DISABLE_FEATURE": "Disable this feature.",
+    "OUTRO": "If you do not recognize this site, no action is needed. Thanks for using FastComments!"
+}

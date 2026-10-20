@@ -1,0 +1,12 @@
+{
+    "INTRO": "Hej <%= user.username %>",
+    "SITE_REQUESTED_WAS": "Det nye websted, vi opdagede, var: <b><%= domainRequested %></b>",
+    "SUBJECT": "Nyt websted venter på godkendelse på din FastComments-konto",
+    "DOMAIN_REQUESTED_PARAGRAPH": "Et nyt domæne er blevet brugt med din FastComments.com-konto. I prøveperioden tilføjer vi kun dit første websted automatisk, så dette websted blev ikke tilføjet, og kommentarer indlæses ikke der, før du godkender det. Dette er en automatisk e-mail.",
+    "BUTTON_TEXT_APPROVE_DOMAIN": "Godkend dette domæne.",
+    "TECHNICAL_DETAILS": "FastComments godkender anmodninger til din konto efter domæne. Nogle gange kan automatiserede systemer, bots eller oversættelsesværktøjer få dette til at ske, så godkend kun dette domæne, hvis det er dit websted.",
+    "FLEX_BILLING_NOTE": "<b>Bemærk:</b> Da din konto bruger flekspriser, påløber domæner, der tilføjes, en omkostning, hvor det første er gratis. Tjek beløbet for eventuelle fremtidige fakturaer <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">her</a>.",
+    "BUTTON_TEXT_DISABLE_FEATURE": "Deaktiver denne funktion.",
+    "BILLING_NOTE": "<b>Bemærk:</b> Da din konto ikke bruger flekspriser, kan du kun have et begrænset antal domæner på din konto. Tjek brugen af din plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">her</a>.",
+    "OUTRO": "Hvis du ikke genkender dette websted, behøver du ikke at foretage dig noget. Tak, fordi du bruger FastComments!"
+}

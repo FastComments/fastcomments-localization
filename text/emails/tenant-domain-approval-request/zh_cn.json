@@ -1,0 +1,12 @@
+{
+    "INTRO": "你好 <%= user.username %>",
+    "DOMAIN_REQUESTED_PARAGRAPH": "您的 FastComments.com 账户已使用新域名。试用期内，我们只会自动添加您的第一个网站，因此这个新域名尚未添加，您需要批准后才能在该域名上显示评论。这是一封自动发送的电子邮件。",
+    "SUBJECT": "您的 FastComments 账户有一个新网站等待批准",
+    "SITE_REQUESTED_WAS": "我们检测到的新站点是： <b><%= domainRequested %></b>",
+    "TECHNICAL_DETAILS": "FastComments 会通过域名验证对您账户的请求。有时，自动化系统、机器人或翻译工具可能会导致这种情况发生，因此请仅当该域名是您的网站时才批准它。",
+    "FLEX_BILLING_NOTE": "<b>注意：</b>由于您的账户采用弹性定价模式，添加域名会产生费用，第一个域名免费。您可以<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">在此处</a>查看未来账单的金额。",
+    "BILLING_NOTE": "<b>注意：</b>由于您的账户未使用弹性定价方案，因此您的账户可拥有的域名数量有限。请<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">在此处</a>查看您的套餐使用情况。",
+    "BUTTON_TEXT_DISABLE_FEATURE": "禁用此功能。",
+    "BUTTON_TEXT_APPROVE_DOMAIN": "批准此域名。",
+    "OUTRO": "如果您不认识这个网站，无需进行任何操作。感谢您使用 FastComments！"
+}

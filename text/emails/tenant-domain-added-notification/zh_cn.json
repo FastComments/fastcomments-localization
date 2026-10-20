@@ -1,13 +1,13 @@
 {
     "SUBJECT": "网站已添加到您的 FastComments 账户",
     "INTRO": "你好 <%= user.username %>",
-    "DOMAIN_ADDED_PARAGRAPH": "您的 FastComments.com 账户已使用新域。由于您处于试用期，为了方便起见，我们已自动添加此站点。这是一封自动电子邮件。",
+    "DOMAIN_ADDED_PARAGRAPH": "您的 FastComments.com 账户已使用新域名。由于您目前处于试用期，为了方便起见，我们已自动为您添加了此网站。我们检测到的任何其他网站都需要您先行批准。这是一封自动发送的电子邮件。",
     "SITE_ADDED_WAS": "我们检测到的新站点是： <b><%= domainAdded %></b>",
-    "TECHNICAL_DETAILS": "FastComments 按域对对您账户的请求进行身份验证。有时，自动化系统、机器人或翻译工具可能会导致这种情况发生，并且可能不希望将此域添加到您的账户中。",
-    "FLEX_BILLING_NOTE": "<b>注意：</b>由于您的账户使用弹性定价，添加的域会产生费用，第一个是免费的。在<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">此处</a>检查任何未来发票的金额。",
-    "BILLING_NOTE": "<b>注意：</b>由于您的账户未使用弹性定价，因此您的账户中只能拥有这么多域。在<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">此处</a>检查您的计划的使用情况。",
-    "YOU_CAN_REMOVE_THIS_DOMAIN": "如果需要，您可以删除此域，也可以禁用此功能。",
-    "BUTTON_TEXT_REMOVE_DOMAIN": "删除此域。",
+    "TECHNICAL_DETAILS": "FastComments 会通过域名验证对您账户的请求。有时，自动化系统、机器人或翻译工具可能会导致这种情况发生，而将此域名添加到您的账户中可能并非您所愿。",
+    "FLEX_BILLING_NOTE": "<b>注意：</b>由于您的账户采用弹性定价模式，添加域名会产生费用，第一个域名免费。您可以<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">在此处</a>查看未来账单的金额。",
+    "BILLING_NOTE": "<b>注意：</b>由于您的账户未使用弹性定价方案，因此您的账户可拥有的域名数量有限。请<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">在此处</a>查看您的套餐使用情况。",
+    "YOU_CAN_REMOVE_THIS_DOMAIN": "如果需要，您可以删除此域名，也可以禁用此功能。",
+    "BUTTON_TEXT_REMOVE_DOMAIN": "删除此域名。",
     "BUTTON_TEXT_DISABLE_FEATURE": "禁用此功能。",
     "OUTRO": "如果此站点应属于您的账户，则无需进一步操作。感谢您使用 FastComments！"
 }

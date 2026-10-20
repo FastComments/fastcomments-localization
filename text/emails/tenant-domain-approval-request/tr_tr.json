@@ -1,0 +1,12 @@
+{
+    "SUBJECT": "FastComments Hesabınızda Onay Bekleyen Yeni Site",
+    "INTRO": "Merhaba <%= user.username %>",
+    "DOMAIN_REQUESTED_PARAGRAPH": "FastComments.com hesabınızla yeni bir alan adı kullanıldı. Deneme süresi boyunca yalnızca ilk sitenizi otomatik olarak ekliyoruz, bu nedenle bu site eklenmedi ve siz onaylayana kadar yorumlar orada yüklenmeyecektir. Bu otomatik bir e-postadır.",
+    "SITE_REQUESTED_WAS": "Tespit ettiğimiz yeni site: <b><%= domainRequested %></b>",
+    "TECHNICAL_DETAILS": "FastComments, hesabınıza yapılan istekleri alan adına göre doğrular. Bazen otomatik sistemler, botlar veya çeviri araçları bunun olmasına neden olabilir, bu nedenle bu alan adını yalnızca size ait bir siteyse onaylayın.",
+    "FLEX_BILLING_NOTE": "<b>Not:</b> Hesabınız esnek fiyatlandırma kullandığından, ilk alan adı ücretsiz olmak üzere eklenen alan adları ücrete tabidir. Gelecekteki faturalar için tutarı <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">buradan</a> kontrol edin.",
+    "BILLING_NOTE": "<b>Not:</b> Hesabınız esnek fiyatlandırma kullanmadığından, hesabınızda yalnızca belirli sayıda alan adı bulundurabilirsiniz. Planınızın kullanımını <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">buradan</a> kontrol edin.",
+    "BUTTON_TEXT_APPROVE_DOMAIN": "Bu alan adını onaylayın.",
+    "BUTTON_TEXT_DISABLE_FEATURE": "Bu özelliği devre dışı bırakın.",
+    "OUTRO": "Bu siteyi tanımıyorsanız, herhangi bir işlem yapmanıza gerek yok. FastComments'ı kullandığınız için teşekkürler!"
+}

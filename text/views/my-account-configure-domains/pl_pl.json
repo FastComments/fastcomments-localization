@@ -9,7 +9,7 @@
     "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Uwaga: ustawienia Nadawcy i Adresu e-mail nie mają wpływu na wiadomości e-mail wysyłane do administratorów.</b>",
     "LINK_REMOVE": "Usuń",
     "TEXT_AUTO_ADDED_NOTICE": "Dodano automatycznie w okresie próbnym.",
-    "TITLE_AUTO_ADDED": "Dodawane automatycznie w okresie próbnym na podstawie ruchu na Twoim koncie. Ma to na celu ułatwienie konfiguracji i ma miejsce tylko w okresie próbnym.",
+    "TITLE_AUTO_ADDED": "Dodawane automatycznie w okresie próbnym na podstawie ruchu na Twoim koncie. Ma to na celu ułatwienie konfiguracji i dotyczy tylko Twojej pierwszej domeny w okresie próbnym. Pozostałe domeny wymagają Twojego zatwierdzenia za pośrednictwem wysyłanej przez nas wiadomości e-mail.",
     "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Nazwa nadawcy podczas wysyłania wiadomości e-mail do użytkownika",
     "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "Adres e-mail nadawcy podczas wysyłania wiadomości e-mail do użytkownika",
     "TEXT_EMAIL_ERROR": "Coś wygląda na nie tak z tym e-mailem. Wszystkie pozostałe zmiany zostały zapisane.",
@@ -71,5 +71,8 @@
     "TEXT_DOMAIN_EDITED_SUCCESS": "Domena zaktualizowana pomyślnie!",
     "LABEL_OBFUSCATE_EMAIL_LINKS": "Kieruj linki e-mail przez fastcomments.com",
     "HELP_OBFUSCATE_EMAIL_LINKS": "Włącz tę opcję, jeśli reputacja domeny Twojej witryny powoduje, że powiadomienia e-mail trafiają do spamu. Przyciski „Wyświetl komentarze” w e-mailach będą przekierowywać przez fastcomments.com, zanim trafią na Twoją stronę.",
-    "HEADING_EMAIL_LINK_OBFUSCATION": "Ukrywanie linków e-mail"
+    "HEADING_EMAIL_LINK_OBFUSCATION": "Ukrywanie linków e-mail",
+    "LINK_DISABLE_AUTO_ADD": "wyłącz automatyczne dodawanie",
+    "TITLE_DISABLE_AUTO_ADD": "Wyłącza automatyczne dodawanie domen i wysyłanie wiadomości e-mail z prośbą o zatwierdzenie nowych domen.",
+    "TEXT_DOMAIN_APPROVED_SUCCESS": "Domena została pomyślnie zatwierdzona!"
 }

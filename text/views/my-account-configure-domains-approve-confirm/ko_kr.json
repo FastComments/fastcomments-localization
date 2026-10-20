@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "도메인 승인 - FastComments",
+    "HEADING_APPROVE_DOMAIN": "<%= domainName %> 승인",
+    "BUTTON_CANCEL": "취소",
+    "HEADING_APPROVING_DOMAIN": "<%= domainName %> 승인 중",
+    "BUTTON_APPROVE_DOMAIN": "도메인 승인",
+    "TEXT_APPROVE_CONFIRM": "<b><%= domainName %></b>에서 댓글 위젯 트래픽이 감지되었습니다. 이를 승인하시면 해당 도메인이 계정에 추가되어 댓글이 표시됩니다. 본인의 사이트인 경우에만 승인해 주세요. 계속하시겠습니까?"
+}

@@ -1,0 +1,12 @@
+{
+    "SUBJECT": "Nova stranica čeka odobrenje na vašem FastComments računu",
+    "INTRO": "Zdravo <%= user.username %>",
+    "DOMAIN_REQUESTED_PARAGRAPH": "S vašim FastComments.com računom korištena je nova domena. Tijekom probnog razdoblja automatski dodajemo samo vašu prvu stranicu, pa ova nije dodana i komentari se ondje neće učitavati dok je ne odobrite. Ovo je automatska e-pošta.",
+    "TECHNICAL_DETAILS": "FastComments provjerava autentičnost zahtjeva za vaš račun prema domeni. Ponekad automatizirani sustavi, botovi ili alati za prevođenje mogu uzrokovati da se to dogodi, stoga ovu domenu odobrite samo ako je to vaša stranica.",
+    "SITE_REQUESTED_WAS": "Novo mjesto koje smo otkrili bilo je: <b><%= domainRequested %></b>",
+    "FLEX_BILLING_NOTE": "<b>Napomena:</b> Budući da vaš račun koristi fleksibilno određivanje cijena, dodane domene naplaćuju se, a prva je besplatna. <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">Ovdje</a> provjerite iznos za sve buduće fakture.",
+    "BILLING_NOTE": "<b>Napomena:</b> Budući da vaš račun ne koristi fleksibilno određivanje cijena, možete imati samo određeni broj domena na svom računu. <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">Ovdje</a> provjerite korištenje svog plana.",
+    "BUTTON_TEXT_APPROVE_DOMAIN": "Odobri ovu domenu.",
+    "BUTTON_TEXT_DISABLE_FEATURE": "Onemogućite ovu značajku.",
+    "OUTRO": "Ako ne prepoznajete ovu stranicu, nije potrebna nikakva radnja. Hvala što koristite FastComments!"
+}

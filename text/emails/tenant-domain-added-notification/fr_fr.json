@@ -1,7 +1,7 @@
 {
     "SUBJECT": "Site ajouté à votre compte FastComments",
     "INTRO": "Bonjour <%= user.username %>",
-    "DOMAIN_ADDED_PARAGRAPH": "Un nouveau domaine a été utilisé avec votre compte FastComments.com. Puisque vous êtes en période d'essai, nous avons automatiquement ajouté ce site pour vous. Il s'agit d'un e-mail automatisé.",
+    "DOMAIN_ADDED_PARAGRAPH": "Un nouveau domaine a été utilisé avec votre compte FastComments.com. Puisque vous êtes en période d'essai, nous avons automatiquement ajouté ce site pour vous. Tout autre site que nous détecterons nécessitera d'abord votre approbation. Il s'agit d'un e-mail automatisé.",
     "SITE_ADDED_WAS": "Le nouveau site que nous avons détecté était : <b><%= domainAdded %></b>",
     "TECHNICAL_DETAILS": "FastComments authentifie les demandes adressées à votre compte par domaine. Parfois, des systèmes automatisés, des bots ou des outils de traduction peuvent provoquer cela, et l'ajout de ce domaine à votre compte peut ne pas être souhaitable.",
     "FLEX_BILLING_NOTE": "<b>Remarque :</b> étant donné que votre compte utilise la tarification flexible, les domaines ajoutés entraînent un coût, le premier étant gratuit. Vérifiez le montant de vos futures factures <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">ici</a>.",

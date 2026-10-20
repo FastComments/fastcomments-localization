@@ -1,0 +1,12 @@
+{
+    "INTRO": "Bonjour <%= user.username %>",
+    "SUBJECT": "Nouveau site en attente d'approbation sur votre compte FastComments",
+    "TECHNICAL_DETAILS": "FastComments authentifie les demandes adressées à votre compte par domaine. Parfois, des systèmes automatisés, des bots ou des outils de traduction peuvent provoquer cela ; n'approuvez donc ce domaine que s'il s'agit de votre site.",
+    "SITE_REQUESTED_WAS": "Le nouveau site que nous avons détecté était : <b><%= domainRequested %></b>",
+    "DOMAIN_REQUESTED_PARAGRAPH": "Un nouveau domaine a été utilisé avec votre compte FastComments.com. Durant la période d'essai, seul votre premier site est ajouté automatiquement ; celui-ci n'a donc pas été ajouté et les commentaires ne s'y afficheront pas tant que vous ne l'aurez pas approuvé. Il s'agit d'un e-mail automatisé.",
+    "FLEX_BILLING_NOTE": "<b>Remarque :</b> étant donné que votre compte utilise la tarification flexible, les domaines ajoutés entraînent un coût, le premier étant gratuit. Vérifiez le montant de vos futures factures <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">ici</a>.",
+    "BUTTON_TEXT_APPROVE_DOMAIN": "Approuvez ce domaine.",
+    "BUTTON_TEXT_DISABLE_FEATURE": "Désactivez cette fonctionnalité.",
+    "OUTRO": "Si vous ne reconnaissez pas ce site, aucune action n'est requise. Merci d'utiliser FastComments !",
+    "BILLING_NOTE": "<b>Remarque :</b> étant donné que votre compte n'utilise pas la tarification flexible, vous ne pouvez avoir qu'un certain nombre de domaines sur votre compte. Vérifiez l'utilisation de votre plan <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">ici</a>."
+}

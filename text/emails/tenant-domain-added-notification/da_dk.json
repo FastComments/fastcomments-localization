@@ -1,7 +1,7 @@
 {
     "SUBJECT": "Websted føjet til din FastComments-konto",
     "INTRO": "Hej <%= user.username %>",
-    "DOMAIN_ADDED_PARAGRAPH": "Et nyt domæne er blevet brugt med din FastComments.com-konto. Da du er i en prøveperiode, har vi automatisk tilføjet dette websted for dig for at gøre det nemmere. Dette er en automatisk e-mail.",
+    "DOMAIN_ADDED_PARAGRAPH": "Et nyt domæne er blevet brugt med din FastComments.com-konto. Da du er i en prøveperiode, har vi automatisk tilføjet dette websted for dig for at gøre det nemmere. Alle andre websteder, vi opdager, skal først godkendes af dig. Dette er en automatisk e-mail.",
     "SITE_ADDED_WAS": "Det nye websted, vi opdagede, var: <b><%= domainAdded %></b>",
     "TECHNICAL_DETAILS": "FastComments godkender anmodninger til din konto efter domæne. Nogle gange kan automatiserede systemer, bots eller oversættelsesværktøjer få dette til at ske, og det er muligvis ikke ønskeligt at tilføje dette domæne til din konto.",
     "FLEX_BILLING_NOTE": "<b>Bemærk:</b> Da din konto bruger flekspriser, påløber domæner, der tilføjes, en omkostning, hvor det første er gratis. Tjek beløbet for eventuelle fremtidige fakturaer <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">her</a>.",

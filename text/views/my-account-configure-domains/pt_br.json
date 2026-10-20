@@ -9,7 +9,7 @@
     "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Observação: as configurações de nome do remetente e e-mail não afetam os e-mails enviados aos administradores.</b>",
     "LINK_REMOVE": "Remover",
     "TEXT_AUTO_ADDED_NOTICE": "Adicionado automaticamente durante o período de teste.",
-    "TITLE_AUTO_ADDED": "Adicionado automaticamente durante o período de teste com base no tráfego da sua conta. Isso é feito para facilitar a configuração e ocorre apenas durante o período de teste.",
+    "TITLE_AUTO_ADDED": "Adicionado automaticamente durante o período de teste com base no tráfego da sua conta. Isso facilita a configuração e ocorre apenas para o seu primeiro domínio durante o período de teste. Os demais domínios precisam da sua aprovação por e-mail.",
     "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Nome do remetente ao enviar e-mail para o usuário",
     "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "De: Email ao enviar e-mail para o usuário",
     "TEXT_EMAIL_ERROR": "Parece haver algo errado com este e-mail. Salvamos todas as outras alterações.",
@@ -71,5 +71,8 @@
     "TEXT_DOMAIN_EDITED_SUCCESS": "Domínio atualizado com sucesso!",
     "LABEL_OBFUSCATE_EMAIL_LINKS": "Encaminhe links de e-mail através do fastcomments.com",
     "HELP_OBFUSCATE_EMAIL_LINKS": "Ative esta opção se a reputação do domínio do seu site estiver fazendo com que os e-mails de notificação sejam direcionados para a pasta de spam. Os botões \"Ver comentários\" nos e-mails redirecionarão para o fastcomments.com antes de acessar sua página.",
-    "HEADING_EMAIL_LINK_OBFUSCATION": "Ocultação de links de e-mail"
+    "HEADING_EMAIL_LINK_OBFUSCATION": "Ocultação de links de e-mail",
+    "LINK_DISABLE_AUTO_ADD": "desativar adição automática",
+    "TEXT_DOMAIN_APPROVED_SUCCESS": "Domínio aprovado com sucesso!",
+    "TITLE_DISABLE_AUTO_ADD": "Pare de adicionar domínios automaticamente e pare de enviar e-mails de aprovação para novos domínios."
 }

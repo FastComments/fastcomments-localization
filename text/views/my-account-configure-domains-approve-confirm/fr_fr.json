@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Approuver un domaine - FastComments",
+    "HEADING_APPROVING_DOMAIN": "Approbation de <%= domainName %>",
+    "HEADING_APPROVE_DOMAIN": "Approuver <%= domainName %>",
+    "BUTTON_CANCEL": "Annuler",
+    "BUTTON_APPROVE_DOMAIN": "Approuver le domaine",
+    "TEXT_APPROVE_CONFIRM": "Nous avons détecté du trafic du widget de commentaires provenant de <b><%= domainName %></b>. L'approuver ajoute le domaine à votre compte afin que les commentaires s'y chargent. Ne l'approuvez que s'il s'agit de votre site. Continuer ?"
+}

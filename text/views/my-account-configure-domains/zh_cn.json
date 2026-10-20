@@ -9,7 +9,7 @@
     "TEXT_FROM_NAME_EMAIL_NOTE": "<b>注意：发件人姓名和电子邮件设置不会影响发送给管理员的电子邮件。</b>",
     "LINK_REMOVE": "移除",
     "TEXT_AUTO_ADDED_NOTICE": "试用期间自动添加。",
-    "TITLE_AUTO_ADDED": "试用期内，系统会根据您的账户流量自动添加此功能。这样做是为了简化设置，并且仅在试用期内有效。",
+    "TITLE_AUTO_ADDED": "试用期内，我们会根据您的账户流量自动添加域名。这样做是为了简化设置，并且仅在试用期内对您的第一个域名生效。其他域名需要您通过我们发送的电子邮件进行批准。",
     "LABEL_FROM_NAME_WHEN_EMAILING_USER": "向用户发送电子邮件时填写发件人姓名",
     "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "发件人电子邮件地址（当向用户发送电子邮件时）",
     "TEXT_EMAIL_ERROR": "这封邮件似乎有问题。我们已保存其他更改。",
@@ -71,5 +71,8 @@
     "LINK_EDIT": "编辑",
     "LABEL_OBFUSCATE_EMAIL_LINKS": "通过 fastcomments.com 路由电子邮件链接",
     "HELP_OBFUSCATE_EMAIL_LINKS": "如果您的网站域名信誉导致通知邮件被归入垃圾邮件，请启用此功能。邮件中的“查看评论”按钮将先重定向到 fastcomments.com，然后再跳转到您的页面。",
-    "HEADING_EMAIL_LINK_OBFUSCATION": "电子邮件链接混淆"
+    "HEADING_EMAIL_LINK_OBFUSCATION": "电子邮件链接混淆",
+    "LINK_DISABLE_AUTO_ADD": "禁用自动添加",
+    "TEXT_DOMAIN_APPROVED_SUCCESS": "域名已成功批准！",
+    "TITLE_DISABLE_AUTO_ADD": "停止自动添加域名，停止发送新域名的审批邮件。"
 }

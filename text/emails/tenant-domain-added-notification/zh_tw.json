@@ -1,7 +1,7 @@
 {
     "SUBJECT": "網站已新增至您的 FastComments 帳戶",
     "INTRO": "你好 <%= user.username %>",
-    "DOMAIN_ADDED_PARAGRAPH": "您的 FastComments.com 帳戶使用了一個新網域。由於您處於試用期，為方便起見，我們已自動為您新增此網站。這是一封自動發送的電子郵件。",
+    "DOMAIN_ADDED_PARAGRAPH": "您的 FastComments.com 帳戶已使用新網域。由於您目前處於試用期，為了方便起見，我們已自動為您新增了此網站。我們偵測到的任何其他網站都需要您先行批准。這是一封自動發送的電子郵件。",
     "SITE_ADDED_WAS": "我們偵測到的新網站是： <b><%= domainAdded %></b>",
     "TECHNICAL_DETAILS": "FastComments 依網域驗證對您帳戶的請求。有時，自動化系統、機器人或翻譯工具會導致這種情況發生，而將此網域新增至您的帳戶可能並非您所希望的。",
     "FLEX_BILLING_NOTE": "<b>注意：</b>由於您的帳戶使用彈性定價，因此新增網域會產生費用，第一個是免費的。請在<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">此處</a>查看未來任何帳單的金額。",

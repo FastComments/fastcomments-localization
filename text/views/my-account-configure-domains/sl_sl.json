@@ -9,7 +9,7 @@
     "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Opomba: Nastavitve imena pošiljatelja in e-pošte ne vplivajo na e-poštna sporočila, poslana skrbnikom.</b>",
     "LINK_REMOVE": "Odstrani",
     "TEXT_AUTO_ADDED_NOTICE": "Samodejno dodano med preizkusno dobo.",
-    "TITLE_AUTO_ADDED": "Samodejno dodano med poskusnim obdobjem glede na promet v vašem računu. To se naredi za lažjo nastavitev in se zgodi samo med poskusnim obdobjem.",
+    "TITLE_AUTO_ADDED": "Samodejno dodano med poskusnim obdobjem glede na promet na vašem računu. To olajša nastavitev in se zgodi le za vašo prvo domeno med poskusnim obdobjem. Druge domene potrebujejo vašo odobritev prek e-pošte, ki vam jo pošljemo.",
     "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Ime pošiljatelja pri pošiljanju e-pošte uporabniku",
     "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "E-pošta od pri pošiljanju e-pošte uporabniku",
     "TEXT_EMAIL_ERROR": "Zdi se, da je s tem e-poštnim sporočilom nekaj narobe. Vse druge spremembe smo shranili.",
@@ -71,5 +71,8 @@
     "LINK_EDIT": "Uredi",
     "LABEL_OBFUSCATE_EMAIL_LINKS": "Usmerjanje povezav e-pošte prek fastcomments.com",
     "HELP_OBFUSCATE_EMAIL_LINKS": "Omogočite to možnost, če ugled domene vašega spletnega mesta povzroča, da e-poštna obvestila pristanejo v neželeni pošti. Gumbi za ogled komentarjev v e-poštnih sporočilih bodo preusmerili prek fastcomments.com, preden bodo pristali na vaši strani.",
-    "HEADING_EMAIL_LINK_OBFUSCATION": "Zakrivanje povezav e-pošte"
+    "HEADING_EMAIL_LINK_OBFUSCATION": "Zakrivanje povezav e-pošte",
+    "LINK_DISABLE_AUTO_ADD": "onemogoči samodejno dodajanje",
+    "TEXT_DOMAIN_APPROVED_SUCCESS": "Domena je bila uspešno odobrena!",
+    "TITLE_DISABLE_AUTO_ADD": "Ustavi samodejno dodajanje domen in pošiljanje e-poštnih sporočil za odobritev novih domen."
 }

@@ -9,7 +9,7 @@
     "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Napomena: Postavke za ime pošiljatelja i e-poštu ne utječu na e-poruke poslane administratorima.</b>",
     "LINK_REMOVE": "Ukloni",
     "TEXT_AUTO_ADDED_NOTICE": "Automatski dodano tijekom probnog razdoblja.",
-    "TITLE_AUTO_ADDED": "Automatski se dodaje tijekom probnog razdoblja na temelju prometa na vašem računu. To se radi radi lakšeg postavljanja i događa se samo tijekom probnog razdoblja.",
+    "TITLE_AUTO_ADDED": "Automatski dodano tijekom probnog razdoblja na temelju prometa na vašem računu. Time se olakšava postavljanje, a događa se samo za vašu prvu domenu tijekom probnog razdoblja. Za ostale domene potrebno je vaše odobrenje putem e-pošte koju šaljemo.",
     "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Ime pošiljatelja prilikom slanja e-pošte korisniku",
     "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "E-pošta pošiljatelja prilikom slanja e-pošte korisniku",
     "TEXT_EMAIL_ERROR": "Nešto nije u redu s ovom e-poštom. Spremili smo sve ostale promjene.",
@@ -71,5 +71,8 @@
     "LINK_EDIT": "Uredi",
     "HELP_OBFUSCATE_EMAIL_LINKS": "Omogućite ovo ako reputacija domene vaše web-lokacije uzrokuje da e-poruke s obavijestima završe u neželjenoj pošti. Gumbi za pregled komentara u e-porukama preusmjerit će se putem fastcomments.com prije nego što stignu na vašu stranicu.",
     "LABEL_OBFUSCATE_EMAIL_LINKS": "Usmjeravanje poveznica e-pošte putem fastcomments.com",
-    "HEADING_EMAIL_LINK_OBFUSCATION": "Zatamnjivanje poveznice e-pošte"
+    "HEADING_EMAIL_LINK_OBFUSCATION": "Zatamnjivanje poveznice e-pošte",
+    "TEXT_DOMAIN_APPROVED_SUCCESS": "Domena je uspješno odobrena!",
+    "LINK_DISABLE_AUTO_ADD": "onemogući automatsko dodavanje",
+    "TITLE_DISABLE_AUTO_ADD": "Zaustavi automatsko dodavanje domena i slanje e-poruka za odobrenje novih domena."
 }

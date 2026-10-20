@@ -1,0 +1,12 @@
+{
+    "SUBJECT": "Nowa witryna oczekuje na zatwierdzenie na Twoim koncie FastComments",
+    "INTRO": "Witam <%= user.username %>",
+    "DOMAIN_REQUESTED_PARAGRAPH": "Z Twoim kontem FastComments.com została użyta nowa domena. W okresie próbnym automatycznie dodajemy tylko Twoją pierwszą witrynę, więc ta nie została dodana, a komentarze nie będą się na niej ładować, dopóki jej nie zatwierdzisz. To jest automatyczna wiadomość e-mail.",
+    "SITE_REQUESTED_WAS": "Nowa wykryta przez nas witryna to: <b><%= domainRequested %></b>",
+    "TECHNICAL_DETAILS": "FastComments uwierzytelnia żądania na Twoim koncie według domeny. Czasami mogą to powodować zautomatyzowane systemy, boty lub narzędzia do tłumaczenia, dlatego zatwierdź tę domenę tylko wtedy, gdy jest to Twoja witryna.",
+    "FLEX_BILLING_NOTE": "<b>Uwaga:</b> ponieważ Twoje konto korzysta z elastycznych cen, dodanie domeny wiąże się z opłatą, przy czym pierwsza domena jest bezpłatna. Sprawdź kwotę przyszłych faktur <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">tutaj</a>.",
+    "BILLING_NOTE": "<b>Uwaga:</b> ponieważ Twoje konto nie korzysta z elastycznej wyceny, możesz mieć na swoim koncie tylko ograniczoną liczbę domen. Sprawdź wykorzystanie swojego planu <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">tutaj</a>.",
+    "BUTTON_TEXT_APPROVE_DOMAIN": "Zatwierdź tę domenę.",
+    "BUTTON_TEXT_DISABLE_FEATURE": "Wyłącz tę funkcję.",
+    "OUTRO": "Jeśli nie rozpoznajesz tej witryny, nie musisz nic robić. Dziękujemy za korzystanie z FastComments!"
+}

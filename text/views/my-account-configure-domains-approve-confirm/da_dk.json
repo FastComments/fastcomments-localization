@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "Godkend et domæne - FastComments",
+    "BUTTON_CANCEL": "Annuller",
+    "TEXT_APPROVE_CONFIRM": "Vi har set trafik fra kommentarwidgetten på <b><%= domainName %></b>. Hvis du godkender det, tilføjes domænet til din konto, så kommentarer indlæses der. Godkend det kun, hvis det er dit websted. Vil du fortsætte?",
+    "HEADING_APPROVE_DOMAIN": "Godkend <%= domainName %>",
+    "HEADING_APPROVING_DOMAIN": "Godkender <%= domainName %>",
+    "BUTTON_APPROVE_DOMAIN": "Godkend domæne"
+}

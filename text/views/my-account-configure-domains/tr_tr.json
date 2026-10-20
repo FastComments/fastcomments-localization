@@ -9,7 +9,7 @@
     "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Not: Gönderen adı ve e-posta ayarları, yöneticilere gönderilen e-postaları etkilemez.</b>",
     "LINK_REMOVE": "Kaldır",
     "TEXT_AUTO_ADDED_NOTICE": "Deneme sürecinde otomatik olarak eklendi.",
-    "TITLE_AUTO_ADDED": "Deneme süresi boyunca hesabınıza gelen trafiğe bağlı olarak otomatik olarak eklenir. Bu, kurulumu kolaylaştırmak için yapılır ve yalnızca deneme süresi boyunca gerçekleşir.",
+    "TITLE_AUTO_ADDED": "Deneme süresi boyunca hesabınıza gelen trafiğe bağlı olarak otomatik olarak eklenir. Bu, kurulumu kolaylaştırmak için yapılır ve deneme süresi boyunca yalnızca ilk alan adınız için geçerlidir. Diğer alan adları için size gönderdiğimiz e-posta aracılığıyla onayınız gerekmektedir.",
     "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Kullanıcıya E-posta Gönderirken Gönderen Adı",
     "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "Kullanıcıya E-posta Gönderildiğinde Gönderen E-postası",
     "TEXT_EMAIL_ERROR": "Bu e-postada bir sorun var gibi görünüyor. Diğer tüm değişiklikleri kaydettik.",
@@ -71,5 +71,8 @@
     "TEXT_DOMAIN_EDITED_SUCCESS": "Alan adı başarıyla güncellendi!",
     "LABEL_OBFUSCATE_EMAIL_LINKS": "E-posta bağlantılarını fastcomments.com üzerinden yönlendirin.",
     "HELP_OBFUSCATE_EMAIL_LINKS": "Sitenizin alan adı itibarı, bildirim e-postalarının spam klasörüne düşmesine neden oluyorsa bunu etkinleştirin. E-postalardaki yorumları görüntüle düğmeleri, sayfanıza ulaşmadan önce fastcomments.com üzerinden yönlendirme yapacaktır.",
-    "HEADING_EMAIL_LINK_OBFUSCATION": "E-posta Bağlantısı Gizleme"
+    "HEADING_EMAIL_LINK_OBFUSCATION": "E-posta Bağlantısı Gizleme",
+    "LINK_DISABLE_AUTO_ADD": "otomatik eklemeyi devre dışı bırak",
+    "TEXT_DOMAIN_APPROVED_SUCCESS": "Alan adı başarıyla onaylandı!",
+    "TITLE_DISABLE_AUTO_ADD": "Alan adlarının otomatik olarak eklenmesini ve yeni alan adları için onay e-postalarının gönderilmesini durdurun."
 }

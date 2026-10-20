@@ -9,7 +9,7 @@
     "TEXT_FROM_NAME_EMAIL_NOTE": "<b>참고: 보내는 사람 이름 및 이메일 설정은 관리자에게 전송되는 이메일에는 영향을 미치지 않습니다.</b>",
     "LINK_REMOVE": "제거",
     "TEXT_AUTO_ADDED_NOTICE": "체험 기간 중 자동으로 추가되었습니다.",
-    "TITLE_AUTO_ADDED": "계정 트래픽에 따라 체험 기간 동안 자동으로 추가됩니다. 이는 설정 과정을 간소화하기 위한 것이며, 체험 기간 동안에만 발생합니다.",
+    "TITLE_AUTO_ADDED": "체험 기간 동안 계정 트래픽을 기준으로 자동으로 추가됩니다. 이는 설정 과정을 간소화하기 위한 것으로, 체험 기간 동안 첫 번째 도메인에만 적용됩니다. 다른 도메인은 저희가 보내드리는 이메일을 통해 승인을 받아야 합니다.",
     "LABEL_FROM_NAME_WHEN_EMAILING_USER": "이메일을 보낼 때 발신인 이름",
     "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "이메일을 보낼 때 발신 이메일 주소 입력",
     "TEXT_EMAIL_ERROR": "이메일에 문제가 있는 것 같습니다. 다른 변경 사항은 모두 저장되었습니다.",
@@ -71,5 +71,8 @@
     "TEXT_DOMAIN_EDITED_SUCCESS": "도메인 업데이트가 성공적으로 완료되었습니다!",
     "LABEL_OBFUSCATE_EMAIL_LINKS": "fastcomments.com을 통해 이메일 링크를 전송하세요.",
     "HELP_OBFUSCATE_EMAIL_LINKS": "사이트 도메인 평판 때문에 알림 이메일이 스팸으로 분류되는 경우 이 기능을 활성화하세요. 이메일의 댓글 보기 버튼을 클릭하면 fastcomments.com을 거쳐 사용자 페이지로 이동합니다.",
-    "HEADING_EMAIL_LINK_OBFUSCATION": "이메일 링크 난독화"
+    "HEADING_EMAIL_LINK_OBFUSCATION": "이메일 링크 난독화",
+    "LINK_DISABLE_AUTO_ADD": "자동 추가 비활성화",
+    "TEXT_DOMAIN_APPROVED_SUCCESS": "도메인이 성공적으로 승인되었습니다!",
+    "TITLE_DISABLE_AUTO_ADD": "도메인 자동 추가를 중지하고 새 도메인에 대한 승인 이메일 발송을 중지합니다."
 }

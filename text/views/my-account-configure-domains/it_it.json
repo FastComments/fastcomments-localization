@@ -9,7 +9,7 @@
     "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Nota: le impostazioni Da-Nome ed Email non influiscono sulle email inviate agli amministratori.</b>",
     "LINK_REMOVE": "Rimuovi",
     "TEXT_AUTO_ADDED_NOTICE": "Aggiunto automaticamente durante la prova.",
-    "TITLE_AUTO_ADDED": "Aggiunto automaticamente durante il periodo di prova in base al traffico sul tuo account. Questo serve a semplificare la configurazione e avviene solo durante il periodo di prova.",
+    "TITLE_AUTO_ADDED": "Aggiunto automaticamente durante il periodo di prova in base al traffico sul tuo account. Questo viene fatto per semplificare la configurazione e avviene solo per il tuo primo dominio durante il periodo di prova. Per gli altri domini è necessaria la tua approvazione tramite l'email che ti invieremo.",
     "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Nome del mittente quando si invia un'e-mail all'utente",
     "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "Da-Email quando si invia un'email all'utente",
     "TEXT_EMAIL_ERROR": "C'è qualcosa che non va in questa email. Abbiamo salvato tutte le altre modifiche.",
@@ -71,5 +71,8 @@
     "TEXT_DOMAIN_EDITED_SUCCESS": "Dominio aggiornato con successo!",
     "LABEL_OBFUSCATE_EMAIL_LINKS": "Instrada i link email tramite fastcomments.com",
     "HELP_OBFUSCATE_EMAIL_LINKS": "Attiva questa opzione se la reputazione del dominio del tuo sito sta causando l'invio di email di notifica nella cartella spam. I pulsanti \"Visualizza commenti\" nelle email reindirizzeranno a fastcomments.com prima di arrivare alla tua pagina.",
-    "HEADING_EMAIL_LINK_OBFUSCATION": "Offuscamento del collegamento e-mail"
+    "HEADING_EMAIL_LINK_OBFUSCATION": "Offuscamento del collegamento e-mail",
+    "LINK_DISABLE_AUTO_ADD": "disabilita l'aggiunta automatica",
+    "TEXT_DOMAIN_APPROVED_SUCCESS": "Dominio approvato con successo!",
+    "TITLE_DISABLE_AUTO_ADD": "Interrompere l'aggiunta automatica dei domini e l'invio di email di approvazione per i nuovi domini."
 }

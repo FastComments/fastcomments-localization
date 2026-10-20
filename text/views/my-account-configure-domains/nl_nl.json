@@ -9,7 +9,7 @@
     "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Let op: de instellingen voor &#39;Afzender&#39; en &#39;E-mailadres&#39; hebben geen invloed op e-mails die naar beheerders worden verzonden.</b>",
     "LINK_REMOVE": "Verwijderen",
     "TEXT_AUTO_ADDED_NOTICE": "Automatisch toegevoegd tijdens de proefperiode.",
-    "TITLE_AUTO_ADDED": "Wordt automatisch toegevoegd tijdens de proefperiode op basis van het verkeer naar uw account. Dit is bedoeld om de installatie te vereenvoudigen en gebeurt alleen tijdens de proefperiode.",
+    "TITLE_AUTO_ADDED": "Wordt automatisch toegevoegd tijdens de proefperiode op basis van het verkeer naar uw account. Dit is bedoeld om de installatie te vereenvoudigen en gebeurt tijdens de proefperiode alleen voor uw eerste domein. Andere domeinen moet u goedkeuren via de e-mail die we u sturen.",
     "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Afzendernaam bij het e-mailen van de gebruiker",
     "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "Van-e-mailadres bij het e-mailen van de gebruiker",
     "TEXT_EMAIL_ERROR": "Er lijkt iets mis te zijn met deze e-mail. We hebben alle andere wijzigingen opgeslagen.",
@@ -71,5 +71,8 @@
     "TEXT_DOMAIN_EDITED_SUCCESS": "Domein succesvol bijgewerkt!",
     "LABEL_OBFUSCATE_EMAIL_LINKS": "Stuur e-maillinks door via fastcomments.com",
     "HELP_OBFUSCATE_EMAIL_LINKS": "Schakel deze optie in als de domeinreputatie van uw site ervoor zorgt dat notificatiemails in de spamfolder terechtkomen. Knoppen om reacties te bekijken in e-mails zullen via fastcomments.com doorverwijzen voordat ze op uw pagina terechtkomen.",
-    "HEADING_EMAIL_LINK_OBFUSCATION": "E-maillinkverhulling"
+    "HEADING_EMAIL_LINK_OBFUSCATION": "E-maillinkverhulling",
+    "TEXT_DOMAIN_APPROVED_SUCCESS": "Domein succesvol goedgekeurd!",
+    "LINK_DISABLE_AUTO_ADD": "automatisch toevoegen uitschakelen",
+    "TITLE_DISABLE_AUTO_ADD": "Stop met het automatisch toevoegen van domeinen en stop met het versturen van goedkeuringsmails voor nieuwe domeinen."
 }

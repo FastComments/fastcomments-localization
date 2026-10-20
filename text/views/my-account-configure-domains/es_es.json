@@ -9,7 +9,7 @@
     "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Nota: Las configuraciones de Nombre de remitente y Correo electrónico no afectan los correos electrónicos enviados a los administradores.</b>",
     "LINK_REMOVE": "Eliminar",
     "TEXT_AUTO_ADDED_NOTICE": "Agregado automáticamente durante la prueba.",
-    "TITLE_AUTO_ADDED": "Se añade automáticamente durante el periodo de prueba según el tráfico de tu cuenta. Esto facilita la configuración y solo ocurre durante el periodo de prueba.",
+    "TITLE_AUTO_ADDED": "Añadido automáticamente durante el periodo de prueba en función del tráfico de tu cuenta. Esto facilita la configuración y solo ocurre con tu primer dominio durante dicho periodo. Los demás dominios requieren tu aprobación a través del correo electrónico que te enviamos.",
     "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Nombre del remitente al enviar un correo electrónico al usuario",
     "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "Correo electrónico del remitente al enviar un correo electrónico al usuario",
     "TEXT_EMAIL_ERROR": "Hay algún problema con este correo electrónico. Hemos guardado los demás cambios.",
@@ -71,5 +71,8 @@
     "TEXT_DOMAIN_EDITED_SUCCESS": "¡Dominio actualizado correctamente!",
     "LABEL_OBFUSCATE_EMAIL_LINKS": "Dirige los enlaces de correo electrónico a través de fastcomments.com",
     "HELP_OBFUSCATE_EMAIL_LINKS": "Habilita esta opción si la reputación del dominio de tu sitio web está provocando que los correos electrónicos de notificación terminen en la carpeta de spam. Los botones para ver comentarios en los correos electrónicos redirigirán a través de fastcomments.com antes de llegar a tu página.",
-    "HEADING_EMAIL_LINK_OBFUSCATION": "Ofuscación de enlaces de correo electrónico"
+    "HEADING_EMAIL_LINK_OBFUSCATION": "Ofuscación de enlaces de correo electrónico",
+    "LINK_DISABLE_AUTO_ADD": "deshabilitar la adición automática",
+    "TEXT_DOMAIN_APPROVED_SUCCESS": "¡Dominio aprobado con éxito!",
+    "TITLE_DISABLE_AUTO_ADD": "Deja de añadir dominios automáticamente y de enviar correos electrónicos de aprobación para nuevos dominios."
 }

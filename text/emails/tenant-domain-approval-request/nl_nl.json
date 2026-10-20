@@ -1,0 +1,12 @@
+{
+    "INTRO": "Hallo <%= user.username %>",
+    "SUBJECT": "Nieuwe site wacht op goedkeuring voor uw FastComments-account",
+    "DOMAIN_REQUESTED_PARAGRAPH": "Er is een nieuw domein gebruikt met uw FastComments.com-account. Tijdens de proefperiode voegen we alleen uw eerste site automatisch toe. Deze site is daarom niet toegevoegd en reacties worden daar pas geladen nadat u deze hebt goedgekeurd. Dit is een geautomatiseerde e-mail.",
+    "SITE_REQUESTED_WAS": "De nieuwe site die we hebben gedetecteerd was: <b><%= domainRequested %></b>",
+    "TECHNICAL_DETAILS": "FastComments verifieert verzoeken aan uw account per domein. Soms kunnen geautomatiseerde systemen, bots of vertaaltools ervoor zorgen dat dit gebeurt. Keur dit domein daarom alleen goed als het uw eigen site is.",
+    "FLEX_BILLING_NOTE": "<b>Opmerking:</b> aangezien uw account gebruikmaakt van flexibele prijzen, worden voor toegevoegde domeinen kosten in rekening gebracht, waarbij de eerste gratis is. Bekijk <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">hier</a> het bedrag voor eventuele toekomstige facturen.",
+    "BUTTON_TEXT_APPROVE_DOMAIN": "Keur dit domein goed.",
+    "BUTTON_TEXT_DISABLE_FEATURE": "Schakel deze functie uit.",
+    "OUTRO": "Als u deze site niet herkent, hoeft u niets te doen. Bedankt voor het gebruik van FastComments!",
+    "BILLING_NOTE": "<b>Opmerking:</b> aangezien uw account geen gebruik maakt van flexibele prijzen, kunt u slechts een beperkt aantal domeinen in uw account hebben. Bekijk <a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">hier</a> het verbruik van uw abonnement."
+}

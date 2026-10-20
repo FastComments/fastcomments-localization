@@ -1,0 +1,8 @@
+{
+    "HEADING_APPROVE_DOMAIN": "批准 <%= domainName %>",
+    "BUTTON_CANCEL": "取消",
+    "HEADING_APPROVING_DOMAIN": "正在批准 <%= domainName %>",
+    "PAGE_TITLE": "批准域名 - FastComments",
+    "BUTTON_APPROVE_DOMAIN": "批准域名",
+    "TEXT_APPROVE_CONFIRM": "我们检测到来自<b><%= domainName %></b>的评论组件流量。批准后，该域名将添加到您的账户，评论即可在该域名上加载。请仅在确认是您的网站时批准。是否继续？"
+}

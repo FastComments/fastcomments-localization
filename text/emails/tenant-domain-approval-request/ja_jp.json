@@ -1,0 +1,12 @@
+{
+    "INTRO": "こんにちは <%= user.username %>",
+    "DOMAIN_REQUESTED_PARAGRAPH": "FastComments.com アカウントで新しいドメインが使用されました。試用期間中は最初のサイトのみが自動的に追加されるため、このサイトは追加されておらず、承認されるまでこのサイトではコメントが表示されません。これは自動送信メールです。",
+    "SUBJECT": "FastCommentsアカウントで新しいサイトが承認待ちです",
+    "SITE_REQUESTED_WAS": "検出された新しいサイトは次のとおりです: <b><%= domainRequested %></b>",
+    "TECHNICAL_DETAILS": "FastComments は、ドメインごとにアカウントへのリクエストを認証します。場合によっては、自動化されたシステム、ボット、または翻訳ツールがこれを引き起こす可能性があるため、ご自身のサイトである場合にのみ、このドメインを承認してください。",
+    "BUTTON_TEXT_APPROVE_DOMAIN": "このドメインを承認します。",
+    "FLEX_BILLING_NOTE": "<b>注:</b>アカウントは柔軟な価格設定を使用しているため、追加されたドメインにはコストがかかり、最初のドメインは無料です。今後の請求については、<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">こちらで</a>金額を確認してください。",
+    "BILLING_NOTE": "<b>注：</b>お客様のアカウントはフレックス料金プランをご利用いただいていないため、アカウントに登録できるドメイン数には制限があります。プランの使用状況は<a href=\"<%= FC_DOMAIN %>/auth/my-account/analytics/billing\">こちらで</a>ご確認ください。",
+    "BUTTON_TEXT_DISABLE_FEATURE": "この機能を無効にします。",
+    "OUTRO": "このサイトに見覚えがない場合は、特に何もする必要はありません。FastCommentsをご利用いただきありがとうございます！"
+}

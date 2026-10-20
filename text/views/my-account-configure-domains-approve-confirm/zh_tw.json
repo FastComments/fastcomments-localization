@@ -1,0 +1,8 @@
+{
+    "BUTTON_CANCEL": "取消",
+    "PAGE_TITLE": "批准網域 - FastComments",
+    "HEADING_APPROVE_DOMAIN": "批准 <%= domainName %>",
+    "HEADING_APPROVING_DOMAIN": "正在批准 <%= domainName %>",
+    "TEXT_APPROVE_CONFIRM": "我們偵測到來自<b><%= domainName %></b>的評論元件流量。批准後，該網域將新增至您的帳戶，評論即可在該網域上載入。請僅在確認是您的網站時批准。是否繼續？",
+    "BUTTON_APPROVE_DOMAIN": "批准網域"
+}

@@ -9,7 +9,7 @@
     "TEXT_FROM_NAME_EMAIL_NOTE": "<b>Bemærk: Indstillingerne for Fra-navn og E-mail påvirker ikke e-mails, der sendes til administratorer.</b>",
     "LINK_REMOVE": "Fjern",
     "TEXT_AUTO_ADDED_NOTICE": "Automatisk tilføjet under prøveperioden.",
-    "TITLE_AUTO_ADDED": "Tilføjes automatisk i prøveperioden baseret på trafik til din konto. Dette gøres for at lette opsætningen og sker kun i prøveperioden.",
+    "TITLE_AUTO_ADDED": "Tilføjes automatisk i prøveperioden baseret på trafik til din konto. Dette gøres for at lette opsætningen og sker kun for dit første domæne i prøveperioden. Andre domæner kræver din godkendelse via den e-mail, vi sender.",
     "LABEL_FROM_NAME_WHEN_EMAILING_USER": "Fra-navn ved e-mail til bruger",
     "LABEL_FROM_EMAIL_WHEN_EMAILING_USER": "Fra-e-mail ved e-mail til bruger",
     "TEXT_EMAIL_ERROR": "Der ser noget galt ud med denne e-mail. Vi har gemt alle andre ændringer.",
@@ -71,5 +71,8 @@
     "TEXT_DOMAIN_EDITED_SUCCESS": "Domænet er blevet opdateret!",
     "HELP_OBFUSCATE_EMAIL_LINKS": "Aktivér dette, hvis dit websteds domæneomdømme forårsager, at notifikationsmails lander i spam. Vis-kommentar-knapper i e-mails omdirigeres via fastcomments.com, før de lander på din side.",
     "LABEL_OBFUSCATE_EMAIL_LINKS": "Send e-maillinks via fastcomments.com",
-    "HEADING_EMAIL_LINK_OBFUSCATION": "Sløring af e-maillinks"
+    "HEADING_EMAIL_LINK_OBFUSCATION": "Sløring af e-maillinks",
+    "TEXT_DOMAIN_APPROVED_SUCCESS": "Domænet er godkendt!",
+    "LINK_DISABLE_AUTO_ADD": "deaktiver automatisk tilføjelse",
+    "TITLE_DISABLE_AUTO_ADD": "Stop med automatisk tilføjelse af domæner, og stop med at sende godkendelsesmails for nye domæner."
 }
