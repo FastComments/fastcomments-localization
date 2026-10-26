@@ -306,5 +306,10 @@
     "LABEL_INPUT_BORDER_COLOR": "Boja granice",
     "TEXT_INPUT_BORDER_WIZARD_ADDED": "Dodato u vaš prilagođeni CSS. Sačuvaj da ga zadrži.",
     "HEADING_STYLING_SHORTCUTS": "Prečice za stilizovanje",
-    "TEXT_STYLING_SHORTCUTS_NOTE": "Brzi načini za preoblikovanje delova vidžeta. Svaka prečica dodaje CSS vašem prilagođenom CSS-u ispod."
+    "TEXT_STYLING_SHORTCUTS_NOTE": "Brzi načini za preoblikovanje delova vidžeta. Svaka prečica dodaje CSS vašem prilagođenom CSS-u ispod.",
+    "LABEL_COMMENT_TRANSLATION": "Prevođenje komentara",
+    "OPTION_COMMENT_TRANSLATION_OFF": "Isključeno",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "Automatski - prevodi komentare napisane na drugom jeziku",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "Ručno - prikazuje dugme Prevedi na svakom komentaru",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Komentari se prevode na jezik vidžeta (podešavanje Lokal / Jezik iznad ili jezik pregledača posetioca). Prevodi se naplaćuju kao LLM tokeni."
 }

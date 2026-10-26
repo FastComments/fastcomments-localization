@@ -306,5 +306,10 @@
     "LABEL_INPUT_BORDER_START_START_RADIUS": "좌측 상단 모서리 둥글기 정도(px)",
     "LABEL_INPUT_BORDER_RADIUS": "모서리 둥글기(px)",
     "HEADING_STYLING_SHORTCUTS": "스타일링 바로가기",
-    "TEXT_STYLING_SHORTCUTS_NOTE": "위젯의 특정 부분을 빠르게 스타일링하는 방법입니다. 각 바로가기는 아래의 사용자 지정 CSS에 CSS를 추가합니다."
+    "TEXT_STYLING_SHORTCUTS_NOTE": "위젯의 특정 부분을 빠르게 스타일링하는 방법입니다. 각 바로가기는 아래의 사용자 지정 CSS에 CSS를 추가합니다.",
+    "LABEL_COMMENT_TRANSLATION": "댓글 번역",
+    "OPTION_COMMENT_TRANSLATION_OFF": "꺼짐",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "자동 - 다른 언어로 작성된 댓글을 번역",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "수동 - 각 댓글에 번역 버튼 표시",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "댓글은 위젯의 언어(위의 지역/언어 설정 또는 방문자의 브라우저 언어)로 번역됩니다. 번역은 LLM 토큰으로 청구됩니다."
 }

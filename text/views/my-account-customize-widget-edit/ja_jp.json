@@ -306,5 +306,10 @@
     "LABEL_INPUT_BORDER_START_START_RADIUS": "左上隅の丸み（ピクセル）",
     "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "まず、上の設定を変更してください。",
     "TEXT_STYLING_SHORTCUTS_NOTE": "ウィジェットの一部を素早くスタイル変更する方法。各ショートカットは、下記のカスタムCSSにCSSを追加します。",
-    "HEADING_STYLING_SHORTCUTS": "スタイリングのショートカット"
+    "HEADING_STYLING_SHORTCUTS": "スタイリングのショートカット",
+    "LABEL_COMMENT_TRANSLATION": "コメントの翻訳",
+    "OPTION_COMMENT_TRANSLATION_OFF": "オフ",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "自動（他の言語で書かれたコメントを翻訳）",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "手動（各コメントに「翻訳」ボタンを表示）",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "コメントはウィジェットの言語（上の「ロケール/言語」設定、または閲覧者のブラウザの言語）に翻訳されます。翻訳はLLMトークンとして課金されます。"
 }

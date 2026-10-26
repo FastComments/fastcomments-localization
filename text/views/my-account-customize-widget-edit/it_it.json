@@ -306,5 +306,10 @@
     "LABEL_INPUT_BORDER_START_START_RADIUS": "Arrotondamento dell'angolo in alto a sinistra (px)",
     "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Modifica prima un'impostazione qui sopra.",
     "HEADING_STYLING_SHORTCUTS": "Scorciatoie di stile",
-    "TEXT_STYLING_SHORTCUTS_NOTE": "Metodi rapidi per personalizzare parti del widget. Ogni scorciatoia aggiunge codice CSS al CSS personalizzato sottostante."
+    "TEXT_STYLING_SHORTCUTS_NOTE": "Metodi rapidi per personalizzare parti del widget. Ogni scorciatoia aggiunge codice CSS al CSS personalizzato sottostante.",
+    "LABEL_COMMENT_TRANSLATION": "Traduzione dei commenti",
+    "OPTION_COMMENT_TRANSLATION_OFF": "Disattivato",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "Automatica - traduce i commenti scritti in un'altra lingua",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "Manuale - mostra un pulsante Traduci su ogni commento",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "I commenti vengono tradotti nella lingua del widget (l'impostazione Locale / Lingua qui sopra, oppure la lingua del browser del visitatore). Le traduzioni vengono fatturate come token LLM."
 }

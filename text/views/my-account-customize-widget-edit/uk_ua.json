@@ -306,5 +306,10 @@
     "BUTTON_INPUT_BORDER_WIZARD_ADD": "Додати до власного CSS",
     "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Спочатку змініть налаштування вище.",
     "TEXT_STYLING_SHORTCUTS_NOTE": "Швидкі способи змінити стиль частин віджета. Кожен із них додає CSS до вашого користувацького CSS нижче.",
-    "HEADING_STYLING_SHORTCUTS": "Швидкі способи стилізації"
+    "HEADING_STYLING_SHORTCUTS": "Швидкі способи стилізації",
+    "LABEL_COMMENT_TRANSLATION": "Переклад коментарів",
+    "OPTION_COMMENT_TRANSLATION_OFF": "Вимкнено",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "Автоматично - перекладати коментарі, написані іншою мовою",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "Вручну - показувати кнопку «Перекласти» під кожним коментарем",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Коментарі перекладаються мовою віджета (налаштування «Локаль / Мова» вище або мова браузера відвідувача). Переклади оплачуються як токени LLM."
 }

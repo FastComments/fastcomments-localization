@@ -306,5 +306,10 @@
     "AI_ASSISTANT_FIELD_UNKNOWN": "[field] (unknown field)",
     "AI_ASSISTANT_TYPING": "Thinking",
     "AI_ASSISTANT_YOU": "You",
-    "AI_ASSISTANT_ASSISTANT": "Assistant"
+    "AI_ASSISTANT_ASSISTANT": "Assistant",
+    "LABEL_COMMENT_TRANSLATION": "Comment Translation",
+    "OPTION_COMMENT_TRANSLATION_OFF": "Off",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "Automatic - translate comments written in another language",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "Manual - show a Translate button on each comment",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Comments are translated into the widget's language (the Locale / Language setting above, or the visitor's browser language). Translations are billed as LLM tokens."
 }

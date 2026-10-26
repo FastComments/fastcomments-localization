@@ -306,5 +306,10 @@
     "BUTTON_INPUT_BORDER_WIZARD_ADD": "Добавить в пользовательский CSS",
     "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Сначала измените настройку выше.",
     "TEXT_STYLING_SHORTCUTS_NOTE": "Быстрые способы изменить стиль отдельных элементов виджета. Каждый из них добавляет CSS в ваш пользовательский CSS ниже.",
-    "HEADING_STYLING_SHORTCUTS": "Быстрая стилизация"
+    "HEADING_STYLING_SHORTCUTS": "Быстрая стилизация",
+    "LABEL_COMMENT_TRANSLATION": "Перевод комментариев",
+    "OPTION_COMMENT_TRANSLATION_OFF": "Выкл.",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "Автоматически - переводить комментарии, написанные на другом языке",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "Вручную - показывать кнопку «Перевести» под каждым комментарием",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Комментарии переводятся на язык виджета (настройка «Локаль / Язык» выше или язык браузера посетителя). Переводы оплачиваются как токены LLM."
 }

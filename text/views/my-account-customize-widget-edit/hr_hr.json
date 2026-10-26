@@ -306,5 +306,10 @@
     "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Prvo promijenite gornju postavku.",
     "LABEL_INPUT_BORDER_START_START_RADIUS": "Zaobljenost gornjeg lijevog kuta (px)",
     "TEXT_STYLING_SHORTCUTS_NOTE": "Brzi načini za promjenu stila dijelova widgeta. Svaki prečac dodaje CSS vašem prilagođenom CSS-u u nastavku.",
-    "HEADING_STYLING_SHORTCUTS": "Prečaci za stiliziranje"
+    "HEADING_STYLING_SHORTCUTS": "Prečaci za stiliziranje",
+    "LABEL_COMMENT_TRANSLATION": "Prevođenje komentara",
+    "OPTION_COMMENT_TRANSLATION_OFF": "Isključeno",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "Automatski - prevodi komentare napisane na drugom jeziku",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "Ručno - prikazuje gumb Prevedi na svakom komentaru",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Komentari se prevode na jezik widgeta (postavka Jezik / Lokacija iznad ili jezik preglednika posjetitelja). Prijevodi se naplaćuju kao LLM tokeni."
 }

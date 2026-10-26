@@ -306,5 +306,10 @@
     "TEXT_INPUT_BORDER_WIZARD_ADDED": "已新增到您的自訂 CSS 中。保存即可保留。",
     "LABEL_INPUT_BORDER_START_START_RADIUS": "左上角圓角度（像素）",
     "HEADING_STYLING_SHORTCUTS": "樣式快捷方式",
-    "TEXT_STYLING_SHORTCUTS_NOTE": "快速修改小工具部分樣式的方法。每個快捷方式都會將 CSS 新增到下方的自訂 CSS 中。"
+    "TEXT_STYLING_SHORTCUTS_NOTE": "快速修改小工具部分樣式的方法。每個快捷方式都會將 CSS 新增到下方的自訂 CSS 中。",
+    "LABEL_COMMENT_TRANSLATION": "評論翻譯",
+    "OPTION_COMMENT_TRANSLATION_OFF": "關閉",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "自動 - 翻譯以其他語言撰寫的評論",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "手動 - 在每則評論下顯示「翻譯」按鈕",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "評論會翻譯成小工具的語言（上方的「區域/語言」設定，或訪客的瀏覽器語言）。翻譯以 LLM token 計費。"
 }

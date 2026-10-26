@@ -306,5 +306,10 @@
     "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Ändern Sie zuerst eine der oben genannten Einstellungen.",
     "TEXT_INPUT_BORDER_WIZARD_ADDED": "Wurde Ihrem benutzerdefinierten CSS hinzugefügt. Speichern Sie die Änderungen, um sie beizubehalten.",
     "HEADING_STYLING_SHORTCUTS": "Styling-Schnellzugriffe",
-    "TEXT_STYLING_SHORTCUTS_NOTE": "Schnelle Möglichkeiten, Teile des Widgets neu zu gestalten. Jeder Schnellzugriff fügt CSS-Code zu Ihrem benutzerdefinierten CSS unten hinzu."
+    "TEXT_STYLING_SHORTCUTS_NOTE": "Schnelle Möglichkeiten, Teile des Widgets neu zu gestalten. Jeder Schnellzugriff fügt CSS-Code zu Ihrem benutzerdefinierten CSS unten hinzu.",
+    "LABEL_COMMENT_TRANSLATION": "Kommentarübersetzung",
+    "OPTION_COMMENT_TRANSLATION_OFF": "Aus",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "Automatisch - Kommentare in einer anderen Sprache übersetzen",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "Manuell - bei jedem Kommentar eine Schaltfläche „Übersetzen“ anzeigen",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Kommentare werden in die Sprache des Widgets übersetzt (die Einstellung „Gebietsschema / Sprache“ oben oder die Browsersprache des Besuchers). Die Übersetzungen werden als LLM-Tokens abgerechnet."
 }

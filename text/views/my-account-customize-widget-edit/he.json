@@ -306,5 +306,10 @@
     "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "שנה תחילה הגדרה למעלה.",
     "TEXT_INPUT_BORDER_WIZARD_ADDED": "נוסף ל-CSS המותאם אישית שלך. שמור כדי לשמור אותו.",
     "HEADING_STYLING_SHORTCUTS": "קיצורי דרך לעיצוב",
-    "TEXT_STYLING_SHORTCUTS_NOTE": "דרכים מהירות לעיצוב מחדש של חלקים מהווידג'ט. כל קיצור דרך מוסיף CSS ל-CSS המותאם אישית שלך למטה."
+    "TEXT_STYLING_SHORTCUTS_NOTE": "דרכים מהירות לעיצוב מחדש של חלקים מהווידג'ט. כל קיצור דרך מוסיף CSS ל-CSS המותאם אישית שלך למטה.",
+    "LABEL_COMMENT_TRANSLATION": "תרגום תגובות",
+    "OPTION_COMMENT_TRANSLATION_OFF": "כבוי",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "אוטומטי - תרגום תגובות שנכתבו בשפה אחרת",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "ידני - הצגת כפתור \"תרגם\" בכל תגובה",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "התגובות מתורגמות לשפת הווידג'ט (ההגדרה \"אזור / שפה\" למעלה, או שפת הדפדפן של המבקר). התרגומים מחויבים כטוקנים של LLM."
 }

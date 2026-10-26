@@ -306,5 +306,10 @@
     "LABEL_INPUT_BORDER_RADIUS": "Arredondamento do canto (px)",
     "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Primeiro, altere uma das configurações acima.",
     "HEADING_STYLING_SHORTCUTS": "Atalhos de estilo",
-    "TEXT_STYLING_SHORTCUTS_NOTE": "Formas rápidas de reestilizar partes do widget. Cada atalho adiciona CSS ao seu CSS personalizado abaixo."
+    "TEXT_STYLING_SHORTCUTS_NOTE": "Formas rápidas de reestilizar partes do widget. Cada atalho adiciona CSS ao seu CSS personalizado abaixo.",
+    "LABEL_COMMENT_TRANSLATION": "Tradução de comentários",
+    "OPTION_COMMENT_TRANSLATION_OFF": "Desligado",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "Automática - traduz os comentários escritos em outro idioma",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "Manual - mostra um botão Traduzir em cada comentário",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Os comentários são traduzidos para o idioma do widget (a configuração Localidade/Idioma acima ou o idioma do navegador do visitante). As traduções são cobradas como tokens de LLM."
 }

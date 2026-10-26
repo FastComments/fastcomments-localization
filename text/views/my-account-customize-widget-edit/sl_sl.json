@@ -306,5 +306,10 @@
     "LABEL_INPUT_BORDER_COLOR": "Barva obrobe",
     "LABEL_INPUT_BORDER_RADIUS": "Zaokroženost vogalov (px)",
     "HEADING_STYLING_SHORTCUTS": "Bližnjice za oblikovanje",
-    "TEXT_STYLING_SHORTCUTS_NOTE": "Hitri načini za spreminjanje sloga delov gradnika. Vsaka bližnjica doda CSS v spodnji CSS po meri."
+    "TEXT_STYLING_SHORTCUTS_NOTE": "Hitri načini za spreminjanje sloga delov gradnika. Vsaka bližnjica doda CSS v spodnji CSS po meri.",
+    "LABEL_COMMENT_TRANSLATION": "Prevajanje komentarjev",
+    "OPTION_COMMENT_TRANSLATION_OFF": "Izklopljeno",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "Samodejno - prevede komentarje, napisane v drugem jeziku",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "Ročno - pri vsakem komentarju pokaže gumb Prevedi",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Komentarji se prevedejo v jezik pripomočka (nastavitev Jezik/lokacija zgoraj ali jezik brskalnika obiskovalca). Prevodi se zaračunajo kot žetoni LLM."
 }

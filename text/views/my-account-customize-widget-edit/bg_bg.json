@@ -306,5 +306,10 @@
     "TEXT_INPUT_BORDER_WIZARD_ADDED": "Добавено към вашия персонализиран CSS. Запазете го, за да го запазите.",
     "BUTTON_INPUT_BORDER_WIZARD_ADD": "Добавяне към персонализиран CSS",
     "HEADING_STYLING_SHORTCUTS": "Бързо стилизиране",
-    "TEXT_STYLING_SHORTCUTS_NOTE": "Бързи начини за промяна на стила на части от уиджета. Всеки от тях добавя CSS към вашия персонализиран CSS по-долу."
+    "TEXT_STYLING_SHORTCUTS_NOTE": "Бързи начини за промяна на стила на части от уиджета. Всеки от тях добавя CSS към вашия персонализиран CSS по-долу.",
+    "LABEL_COMMENT_TRANSLATION": "Превод на коментари",
+    "OPTION_COMMENT_TRANSLATION_OFF": "Изключено",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "Автоматично - превежда коментарите, написани на друг език",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "Ръчно - показва бутон „Превод“ под всеки коментар",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Коментарите се превеждат на езика на уиджета (настройката „Локал / Език“ по-горе или езика на браузъра на посетителя). Преводите се таксуват като LLM токени."
 }

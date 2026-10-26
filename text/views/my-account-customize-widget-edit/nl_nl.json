@@ -306,5 +306,10 @@
     "TEXT_INPUT_BORDER_WIZARD_ADDED": "Toegevoegd aan je aangepaste CSS. Opslaan om het te behouden.",
     "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Wijzig eerst een van de bovenstaande instellingen.",
     "HEADING_STYLING_SHORTCUTS": "Snelle stijlopties",
-    "TEXT_STYLING_SHORTCUTS_NOTE": "Snelle manieren om delen van de widget opnieuw vorm te geven. Elke optie voegt CSS toe aan je aangepaste CSS hieronder."
+    "TEXT_STYLING_SHORTCUTS_NOTE": "Snelle manieren om delen van de widget opnieuw vorm te geven. Elke optie voegt CSS toe aan je aangepaste CSS hieronder.",
+    "LABEL_COMMENT_TRANSLATION": "Vertaling van reacties",
+    "OPTION_COMMENT_TRANSLATION_OFF": "Uit",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "Automatisch - vertaal reacties die in een andere taal zijn geschreven",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "Handmatig - toon bij elke reactie een knop 'Vertalen'",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Reacties worden vertaald naar de taal van de widget (de instelling Locatie / Taal hierboven, of de browsertaal van de bezoeker). Vertalingen worden gefactureerd als LLM-tokens."
 }

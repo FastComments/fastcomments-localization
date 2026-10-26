@@ -306,5 +306,10 @@
     "BUTTON_INPUT_BORDER_WIZARD_ADD": "Özel CSS'ye Ekle",
     "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Öncelikle yukarıdaki ayarlardan birini değiştirin.",
     "TEXT_STYLING_SHORTCUTS_NOTE": "Widget'ın belirli bölümlerini yeniden biçimlendirmenin hızlı yolları. Her kısayol, aşağıdaki Özel CSS'nize CSS ekler.",
-    "HEADING_STYLING_SHORTCUTS": "Stil Kısayolları"
+    "HEADING_STYLING_SHORTCUTS": "Stil Kısayolları",
+    "LABEL_COMMENT_TRANSLATION": "Yorum Çevirisi",
+    "OPTION_COMMENT_TRANSLATION_OFF": "Kapalı",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "Otomatik - başka bir dilde yazılan yorumları çevirir",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "Manuel - her yorumda bir Çevir düğmesi gösterir",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Yorumlar widget'ın diline çevrilir (yukarıdaki Yerel ayar / Dil ayarı veya ziyaretçinin tarayıcı dili). Çeviriler LLM token'ları olarak faturalandırılır."
 }

@@ -306,5 +306,10 @@
     "LABEL_INPUT_BORDER_START_START_RADIUS": "استدارة الزاوية العلوية اليسرى (بكسل)",
     "LABEL_INPUT_BORDER_COLOR_FOCUS": "لون الحدود أثناء الكتابة",
     "HEADING_STYLING_SHORTCUTS": "اختصارات التنسيق",
-    "TEXT_STYLING_SHORTCUTS_NOTE": "طرق سريعة لإعادة تنسيق أجزاء من الأداة. كل اختصار يضيف CSS إلى CSS المخصص الخاص بك أدناه."
+    "TEXT_STYLING_SHORTCUTS_NOTE": "طرق سريعة لإعادة تنسيق أجزاء من الأداة. كل اختصار يضيف CSS إلى CSS المخصص الخاص بك أدناه.",
+    "LABEL_COMMENT_TRANSLATION": "ترجمة التعليقات",
+    "OPTION_COMMENT_TRANSLATION_OFF": "إيقاف",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "تلقائي - ترجمة التعليقات المكتوبة بلغة أخرى",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "يدوي - إظهار زر \"ترجمة\" على كل تعليق",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "تُترجم التعليقات إلى لغة الأداة (إعداد \"اللغة / الإعدادات المحلية\" أعلاه، أو لغة متصفح الزائر). تُحتسب تكلفة الترجمات كرموز LLM."
 }

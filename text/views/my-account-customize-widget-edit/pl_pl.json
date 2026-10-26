@@ -306,5 +306,10 @@
     "BUTTON_INPUT_BORDER_WIZARD_ADD": "Dodaj do niestandardowego CSS",
     "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Najpierw zmień powyższe ustawienie.",
     "TEXT_STYLING_SHORTCUTS_NOTE": "Szybkie sposoby zmiany stylu części widżetu. Każdy skrót dodaje CSS do Twojego niestandardowego CSS poniżej.",
-    "HEADING_STYLING_SHORTCUTS": "Skróty stylów"
+    "HEADING_STYLING_SHORTCUTS": "Skróty stylów",
+    "LABEL_COMMENT_TRANSLATION": "Tłumaczenie komentarzy",
+    "OPTION_COMMENT_TRANSLATION_OFF": "Wyłączone",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "Automatyczne - tłumaczenie komentarzy napisanych w innym języku",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "Ręczne - przycisk „Przetłumacz” przy każdym komentarzu",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Komentarze są tłumaczone na język widżetu (ustawienie „Ustawienia regionalne / Język” powyżej lub język przeglądarki odwiedzającego). Tłumaczenia są rozliczane jako tokeny LLM."
 }

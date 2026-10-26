@@ -306,5 +306,10 @@
     "TEXT_INPUT_BORDER_WIZARD_ADDED": "Añadido a tu CSS personalizado. Guárdalo para conservarlo.",
     "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Primero, cambia una de las configuraciones anteriores.",
     "HEADING_STYLING_SHORTCUTS": "Atajos de estilo",
-    "TEXT_STYLING_SHORTCUTS_NOTE": "Formas rápidas de modificar el estilo de partes del widget. Cada atajo agrega CSS a tu CSS personalizado que se muestra a continuación."
+    "TEXT_STYLING_SHORTCUTS_NOTE": "Formas rápidas de modificar el estilo de partes del widget. Cada atajo agrega CSS a tu CSS personalizado que se muestra a continuación.",
+    "LABEL_COMMENT_TRANSLATION": "Traducción de comentarios",
+    "OPTION_COMMENT_TRANSLATION_OFF": "Desactivado",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "Automático - traduce los comentarios escritos en otro idioma",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "Manual - muestra un botón Traducir en cada comentario",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Los comentarios se traducen al idioma del widget (la opción Configuración regional/idioma de arriba o el idioma del navegador del visitante). Las traducciones se facturan como tokens de LLM."
 }

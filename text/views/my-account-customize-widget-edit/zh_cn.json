@@ -306,5 +306,10 @@
     "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "请先更改上述设置。",
     "BUTTON_INPUT_BORDER_WIZARD_ADD": "添加到自定义 CSS",
     "HEADING_STYLING_SHORTCUTS": "样式快捷方式",
-    "TEXT_STYLING_SHORTCUTS_NOTE": "快速修改小部件部分样式的方法。每个快捷方式都会将 CSS 添加到下方的自定义 CSS 中。"
+    "TEXT_STYLING_SHORTCUTS_NOTE": "快速修改小部件部分样式的方法。每个快捷方式都会将 CSS 添加到下方的自定义 CSS 中。",
+    "LABEL_COMMENT_TRANSLATION": "评论翻译",
+    "OPTION_COMMENT_TRANSLATION_OFF": "关闭",
+    "OPTION_COMMENT_TRANSLATION_AUTO": "自动 - 翻译以其他语言撰写的评论",
+    "OPTION_COMMENT_TRANSLATION_MANUAL": "手动 - 在每条评论下显示“翻译”按钮",
+    "TEXT_COMMENT_TRANSLATION_NOTE": "评论会被翻译为小部件的语言（上方的“区域/语言”设置，或访客的浏览器语言）。翻译按 LLM 令牌计费。"
 }
