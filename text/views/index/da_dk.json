@@ -377,5 +377,8 @@
     "FEATURE_MCP_SERVER_DESC": "Forbind AI-agenter til din FastComments-konto for analyse, moderation og mere.",
     "FEATURE_MCP_SERVER_MODAL_B2": "Dit dashboard genererer en forudfyldt URL og en konfigurationsfil til Claude Code, Claude Desktop og Cursor, der er klar til indsættelse.",
     "FEATURE_MCP_SERVER_MODAL_B1": "Alle værktøjer genereres ud fra vores offentlige OpenAPI-specifikation, så alt hvad REST API'en kan, kan din agent også gøre.",
-    "FEATURE_MCP_SERVER_MODAL_INTRO": "Vi hoster en Model Context Protocol-server, så Claude, Cursor og alle andre agentklienter kan arbejde direkte med din konto."
+    "FEATURE_MCP_SERVER_MODAL_INTRO": "Vi hoster en Model Context Protocol-server, så Claude, Cursor og alle andre agentklienter kan arbejde direkte med din konto.",
+    "FEATURE_AI_AGENTS_MODAL_B5": "Har du også brug for mennesker? Kombiner agenter med menneskelige moderationstjenester, administreret af FastComments-teamet.",
+    "SCALE_HUMAN_MODERATION": "Menneskelige moderationstjenester",
+    "SCALE_HUMAN_MODERATION_DESC": "Vores moderatorer arbejder i din kø i dit dashboard efter dine retningslinjer, mens AI-agenter tager første omgang. Dækning og vilkår aftales pr. kontrakt."
 }

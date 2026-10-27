@@ -364,5 +364,8 @@
     "FEATURE_MCP_SERVER_MODAL_INTRO": "我们托管了一个模型上下文协议服务器，因此 Claude、Cursor 和任何其他代理客户端都可以直接与您的账户交互。",
     "FEATURE_MCP_SERVER_DESC": "将 AI 代理连接到您的 FastComments 账户，以进行分析、审核等操作。",
     "FEATURE_MCP_SERVER_MODAL_B1": "每个工具都是根据我们的公开 OpenAPI 规范生成的，因此 REST API 可以做的任何事情，您的代理都可以做。",
-    "FEATURE_MCP_SERVER_MODAL_B2": "您的仪表板会为 Claude Code、Claude Desktop 和 Cursor 生成预填充的 URL 和可粘贴的配置。"
+    "FEATURE_MCP_SERVER_MODAL_B2": "您的仪表板会为 Claude Code、Claude Desktop 和 Cursor 生成预填充的 URL 和可粘贴的配置。",
+    "FEATURE_AI_AGENTS_MODAL_B5": "还需要人手吗？将代理与人工审核服务搭配使用，由 FastComments 团队为您提供托管式审核。",
+    "SCALE_HUMAN_MODERATION": "人工审核服务",
+    "SCALE_HUMAN_MODERATION_DESC": "我们的版主会根据您提供的准则，在您的控制面板中处理您的队列，AI 代理会进行初步审核。服务范围和条款以合同为准。"
 }

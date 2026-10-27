@@ -377,5 +377,8 @@
     "FEATURE_MCP_SERVER_MODAL_B1": "Todas las herramientas se generan a partir de nuestra especificación pública OpenAPI, por lo que todo lo que puede hacer la API REST, su agente también puede hacerlo.",
     "FEATURE_MCP_SERVER_MODAL_B2": "Tu panel de control genera una URL prellenada y una configuración lista para pegar para Claude Code, Claude Desktop y Cursor.",
     "FEATURE_MCP_SERVER_MODAL_INTRO": "Alojamos un servidor Model Context Protocol, por lo que Claude, Cursor y cualquier otro cliente con capacidad de agente pueden trabajar directamente con su cuenta.",
-    "FEATURE_MCP_SERVER_DESC": "Conecta agentes de IA a tu cuenta de FastComments para análisis, moderación y mucho más."
+    "FEATURE_MCP_SERVER_DESC": "Conecta agentes de IA a tu cuenta de FastComments para análisis, moderación y mucho más.",
+    "FEATURE_AI_AGENTS_MODAL_B5": "¿Necesitas también personas? Combina los agentes con los Servicios de moderación humana, la moderación gestionada por el equipo de FastComments.",
+    "SCALE_HUMAN_MODERATION": "Servicios de moderación humana",
+    "SCALE_HUMAN_MODERATION_DESC": "Nuestros moderadores gestionan tu cola en tu panel de control, siguiendo tus directrices, y los agentes de IA realizan la primera revisión. La cobertura y los términos se acuerdan en cada contrato."
 }

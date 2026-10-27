@@ -376,5 +376,8 @@
     "FEATURE_MCP_SERVER_DESC": "Verbinden Sie KI-Agenten mit Ihrem FastComments-Konto für Analysen, Moderation und mehr.",
     "FEATURE_MCP_SERVER_MODAL_INTRO": "Wir betreiben einen Model Context Protocol-Server, sodass Claude, Cursor und alle anderen Agentenclients direkt mit Ihrem Konto arbeiten können.",
     "FEATURE_MCP_SERVER_MODAL_B1": "Jedes Tool wird aus unserer öffentlichen OpenAPI-Spezifikation generiert, sodass Ihr Agent alles kann, was die REST-API kann.",
-    "FEATURE_MCP_SERVER_MODAL_B2": "Ihr Dashboard generiert eine vorausgefüllte URL und eine sofort einfügbare Konfiguration für Claude Code, Claude Desktop und Cursor."
+    "FEATURE_MCP_SERVER_MODAL_B2": "Ihr Dashboard generiert eine vorausgefüllte URL und eine sofort einfügbare Konfiguration für Claude Code, Claude Desktop und Cursor.",
+    "FEATURE_AI_AGENTS_MODAL_B5": "Brauchen Sie auch menschliche Unterstützung? Kombinieren Sie Agenten mit menschlichen Moderationsdiensten, die vom FastComments-Team betreut werden.",
+    "SCALE_HUMAN_MODERATION": "Menschliche Moderationsdienste",
+    "SCALE_HUMAN_MODERATION_DESC": "Unsere Moderatoren bearbeiten Ihre Warteschlange in Ihrem Dashboard gemäß Ihren Richtlinien, wobei KI-Agenten den ersten Durchgang übernehmen. Umfang und Bedingungen werden vertraglich vereinbart."
 }

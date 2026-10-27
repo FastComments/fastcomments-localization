@@ -59,5 +59,6 @@
     "LLM_MODEL_GLM": "GLM 5.2 (DeepInfra)",
     "LLM_MODEL_GPT_OSS": "gpt-oss-120b (DeepInfra)",
     "REPEAT_COMMENT_MIN_LENGTH_LABEL": "반복 검사 최소 길이",
-    "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION": "이 글자 수보다 짧은 댓글은 반복 여부를 확인하지 않습니다. 모든 댓글을 확인하려면 값을 0으로 설정하세요(반복되는 단일 문자와 같은 스팸을 잡아낼 수 있으므로 권장). 웨비나나 Q&A처럼 \"예\" 또는 \"아니오\"와 같이 짧은 댓글이 반복될 것으로 예상되는 경우에는 이 값을 늘리세요(예: 10)."
+    "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION": "이 글자 수보다 짧은 댓글은 반복 여부를 확인하지 않습니다. 모든 댓글을 확인하려면 값을 0으로 설정하세요(반복되는 단일 문자와 같은 스팸을 잡아낼 수 있으므로 권장). 웨비나나 Q&A처럼 \"예\" 또는 \"아니오\"와 같이 짧은 댓글이 반복될 것으로 예상되는 경우에는 이 값을 늘리세요(예: 10).",
+    "HUMAN_MODERATION_NOTE": "대기열에 사람이 필요하신가요? FastComments는 <a href=\"/human-moderation\" target=\"_blank\" rel=\"noopener\">휴먼 모더레이션 서비스</a>도 제공합니다. 저희 모더레이터가 고객님의 가이드라인에 따라 고객님의 AI 에이전트와 함께 작업합니다."
 }

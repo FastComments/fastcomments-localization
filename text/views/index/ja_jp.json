@@ -364,5 +364,8 @@
     "FEATURE_MCP_SERVER_DESC": "AIエージェントをFastCommentsアカウントに接続して、分析、モデレーションなどを行いましょう。",
     "FEATURE_MCP_SERVER_MODAL_B2": "ダッシュボードは、Claude Code、Claude Desktop、およびCursor用の、あらかじめ入力済みのURLと、すぐに貼り付けられる設定ファイルを生成します。",
     "FEATURE_MCP_SERVER_MODAL_B1": "すべてのツールは当社の公開OpenAPI仕様に基づいて生成されているため、REST APIでできることはすべて、お客様のエージェントでも実行できます。",
-    "FEATURE_MCP_SERVER_MODAL_INTRO": "弊社ではモデルコンテキストプロトコルサーバーをホストしているため、Claude、Cursor、およびその他のエージェントクライアントは、お客様のアカウントと直接連携できます。"
+    "FEATURE_MCP_SERVER_MODAL_INTRO": "弊社ではモデルコンテキストプロトコルサーバーをホストしているため、Claude、Cursor、およびその他のエージェントクライアントは、お客様のアカウントと直接連携できます。",
+    "SCALE_HUMAN_MODERATION": "人間によるモデレーションサービス",
+    "FEATURE_AI_AGENTS_MODAL_B5": "人員も必要ですか？エージェントと人間によるモデレーションサービスを組み合わせることで、FastCommentsチームが管理するモデレーションを活用できます。",
+    "SCALE_HUMAN_MODERATION_DESC": "お客様のダッシュボード上で、当社のモデレーターがお客様のガイドラインに基づきキューを処理し、一次審査はAIエージェントが行います。対応範囲と条件は契約ごとに合意します。"
 }

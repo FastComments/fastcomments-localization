@@ -364,5 +364,8 @@
     "FEATURE_MCP_SERVER_DESC": "Yapay zekâ ajanlarını analiz, denetleme ve daha fazlası için FastComments hesabınıza bağlayın.",
     "FEATURE_MCP_SERVER_MODAL_INTRO": "Model Bağlam Protokolü sunucusunu barındırıyoruz, böylece Claude, Cursor ve diğer tüm aracı istemciler hesabınızla doğrudan çalışabilir.",
     "FEATURE_MCP_SERVER_MODAL_B1": "Her araç, herkese açık OpenAPI spesifikasyonumuzdan oluşturulmuştur; bu nedenle REST API'nin yapabildiği her şeyi, aracınız da yapabilir.",
-    "FEATURE_MCP_SERVER_MODAL_B2": "Kontrol paneliniz, Claude Code, Claude Desktop ve Cursor için önceden doldurulmuş bir URL ve yapıştırmaya hazır yapılandırma dosyası oluşturur."
+    "FEATURE_MCP_SERVER_MODAL_B2": "Kontrol paneliniz, Claude Code, Claude Desktop ve Cursor için önceden doldurulmuş bir URL ve yapıştırmaya hazır yapılandırma dosyası oluşturur.",
+    "FEATURE_AI_AGENTS_MODAL_B5": "İnsanlara da mı ihtiyacınız var? Ajanları, FastComments ekibi tarafından yönetilen moderasyon hizmeti olan İnsan Moderasyon Hizmetleri ile birlikte kullanın.",
+    "SCALE_HUMAN_MODERATION": "İnsan Moderasyon Hizmetleri",
+    "SCALE_HUMAN_MODERATION_DESC": "Moderatörlerimiz, sizin yönergeleriniz doğrultusunda, kontrol panelinizdeki sıranızı yönetir; ilk kontrolü Yapay Zeka Ajanları yapar. Kapsam ve şartlar sözleşme ile belirlenir."
 }

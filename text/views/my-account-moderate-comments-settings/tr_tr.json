@@ -59,5 +59,6 @@
     "LLM_MODEL_GPT_OSS": "gpt-oss-120b (DeepInfra)",
     "LLM_MODEL_GLM": "GLM 5.2 (DeepInfra)",
     "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION": "Bu sayıdan daha kısa yorumlar tekrar eden yorumlar açısından kontrol edilmez. Her yorumu kontrol etmek için 0'da bırakın (önerilir, tekrar eden tek karakterler gibi spamları yakalar). \"Evet\" veya \"hayır\" gibi kısa, tekrar eden yorumların beklendiği web seminerleri veya soru-cevap oturumları düzenliyorsanız bunu artırın (örneğin 10'a).",
-    "REPEAT_COMMENT_MIN_LENGTH_LABEL": "Tekrar Kontrolü İçin Minimum Uzunluk"
+    "REPEAT_COMMENT_MIN_LENGTH_LABEL": "Tekrar Kontrolü İçin Minimum Uzunluk",
+    "HUMAN_MODERATION_NOTE": "Sıranızın başında insanlara mı ihtiyacınız var? FastComments ayrıca <a href=\"/human-moderation\" target=\"_blank\" rel=\"noopener\">İnsan Moderasyon Hizmetleri</a> de sunuyor: moderatörlerimiz, sizin yönergeleriniz doğrultusunda yapay zeka ajanlarınızla birlikte çalışır."
 }

@@ -59,5 +59,6 @@
     "LLM_MODEL_GLM": "GLM 5.2 (DeepInfra)",
     "LLM_MODEL_GPT_OSS": "gpt-oss-120b (DeepInfra)",
     "REPEAT_COMMENT_MIN_LENGTH_LABEL": "Najmanjša dolžina za preverjanje ponovitev",
-    "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION": "Komentarji, krajši od tega števila znakov, se ne preverjajo glede ponovitev. Pustite na 0, da preverite vsak komentar (priporočeno, zazna spam, kot so ponavljajoči se posamezni znaki). Povečajte to (npr. na 10), če izvajate spletne seminarje ali vprašanja in odgovore, kjer se pričakujejo kratki ponavljajoči se komentarji, kot sta »da« ali »ne«."
+    "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION": "Komentarji, krajši od tega števila znakov, se ne preverjajo glede ponovitev. Pustite na 0, da preverite vsak komentar (priporočeno, zazna spam, kot so ponavljajoči se posamezni znaki). Povečajte to (npr. na 10), če izvajate spletne seminarje ali vprašanja in odgovore, kjer se pričakujejo kratki ponavljajoči se komentarji, kot sta »da« ali »ne«.",
+    "HUMAN_MODERATION_NOTE": "Potrebujete ljudi za čakalno vrsto? FastComments ponuja tudi <a href=\"/human-moderation\" target=\"_blank\" rel=\"noopener\">Storitve človeškega moderiranja</a>: naši moderatorji delajo skupaj z vašimi agenti umetne inteligence v skladu z vašimi smernicami."
 }

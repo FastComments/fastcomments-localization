@@ -59,5 +59,6 @@
     "LLM_MODEL_GLM": "GLM 5.2 (DeepInfra)",
     "LLM_MODEL_GPT_OSS": "gpt-oss-120b (DeepInfra)",
     "REPEAT_COMMENT_MIN_LENGTH_LABEL": "Longueur minimale pour la vérification des doublons",
-    "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION": "Les commentaires plus courts que ce nombre de caractères ne sont pas soumis à la vérification des doublons. Laissez la valeur à 0 pour vérifier chaque commentaire (recommandé, cela permet de détecter les spams comme les répétitions de caractères uniques). Augmentez cette valeur (par exemple à 10) si vous organisez des webinaires ou des séances de questions-réponses où les commentaires courts et répétés comme « oui » ou « non » sont fréquents."
+    "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION": "Les commentaires plus courts que ce nombre de caractères ne sont pas soumis à la vérification des doublons. Laissez la valeur à 0 pour vérifier chaque commentaire (recommandé, cela permet de détecter les spams comme les répétitions de caractères uniques). Augmentez cette valeur (par exemple à 10) si vous organisez des webinaires ou des séances de questions-réponses où les commentaires courts et répétés comme « oui » ou « non » sont fréquents.",
+    "HUMAN_MODERATION_NOTE": "Besoin de modérateurs ? FastComments propose également les <a href=\"/human-moderation\" target=\"_blank\" rel=\"noopener\">Services de modération humaine</a> : nos modérateurs travaillent aux côtés de vos agents IA en suivant vos directives."
 }

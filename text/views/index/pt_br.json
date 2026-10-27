@@ -377,5 +377,8 @@
     "FEATURE_MCP_SERVER_DESC": "Conecte agentes de IA à sua conta FastComments para análise, moderação e muito mais.",
     "FEATURE_MCP_SERVER_MODAL_B2": "Seu painel de controle gera um URL pré-preenchido e uma configuração pronta para colar para o Claude Code, o Claude Desktop e o Cursor.",
     "FEATURE_MCP_SERVER_MODAL_INTRO": "Hospedamos um servidor Model Context Protocol, para que Claude, Cursor e qualquer outro cliente com agentes possam trabalhar diretamente com sua conta.",
-    "FEATURE_MCP_SERVER_MODAL_B1": "Todas as ferramentas são geradas a partir da nossa especificação pública OpenAPI, portanto, tudo o que a API REST pode fazer, seu agente também pode."
+    "FEATURE_MCP_SERVER_MODAL_B1": "Todas as ferramentas são geradas a partir da nossa especificação pública OpenAPI, portanto, tudo o que a API REST pode fazer, seu agente também pode.",
+    "SCALE_HUMAN_MODERATION": "Serviços de Moderação Humana",
+    "FEATURE_AI_AGENTS_MODAL_B5": "Precisa de pessoas também? Combine agentes com os Serviços de Moderação Humana, moderação gerenciada pela equipe da FastComments.",
+    "SCALE_HUMAN_MODERATION_DESC": "Nossos moderadores gerenciam sua fila no seu painel de controle, de acordo com suas diretrizes, com agentes de IA realizando a primeira triagem. A cobertura e os termos são definidos em contrato."
 }

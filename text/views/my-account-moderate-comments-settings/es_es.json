@@ -59,5 +59,6 @@
     "LLM_MODEL_GLM": "GLM 5.2 (DeepInfra)",
     "LLM_MODEL_GPT_OSS": "gpt-oss-120b (DeepInfra)",
     "REPEAT_COMMENT_MIN_LENGTH_LABEL": "Longitud mínima para la comprobación de repetidos",
-    "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION": "Los comentarios de menos de esta cantidad de caracteres no se revisan para detectar repeticiones. Déjalo en 0 para revisar todos los comentarios (recomendado, detecta spam como caracteres repetidos). Aumenta este valor (por ejemplo, a 10) si realizas seminarios web o sesiones de preguntas y respuestas donde se esperan comentarios cortos y repetidos como \"sí\" o \"no\"."
+    "REPEAT_COMMENT_MIN_LENGTH_DESCRIPTION": "Los comentarios de menos de esta cantidad de caracteres no se revisan para detectar repeticiones. Déjalo en 0 para revisar todos los comentarios (recomendado, detecta spam como caracteres repetidos). Aumenta este valor (por ejemplo, a 10) si realizas seminarios web o sesiones de preguntas y respuestas donde se esperan comentarios cortos y repetidos como \"sí\" o \"no\".",
+    "HUMAN_MODERATION_NOTE": "¿Necesitas personas en la cola? FastComments también ofrece <a href=\"/human-moderation\" target=\"_blank\" rel=\"noopener\">Servicios de moderación humana</a>: nuestros moderadores trabajan junto con tus agentes de IA siguiendo tus directrices."
 }

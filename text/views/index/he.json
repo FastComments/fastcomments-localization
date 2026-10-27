@@ -377,5 +377,8 @@
     "FEATURE_MCP_SERVER_DESC": "חבר סוכני בינה מלאכותית לחשבון FastComments שלך לצורך ניתוח, ניהול ועוד.",
     "FEATURE_MCP_SERVER_MODAL_B2": "לוח המחוונים שלך יוצר כתובת URL מלאה מראש ותצורה מוכנה להדבקה עבור Claude Code, Claude Desktop ו-Cursor.",
     "FEATURE_MCP_SERVER_MODAL_B1": "כל כלי נוצר ממפרט ה-OpenAPI הציבורי שלנו, כך שכל מה ש-REST API יכול לעשות, גם הסוכן שלך יכול לעשות.",
-    "FEATURE_MCP_SERVER_MODAL_INTRO": "אנו מארחים שרת Model Context Protocol, כך ש-Claude, Cursor וכל לקוח סוכן אחר יכולים לעבוד ישירות עם החשבון שלך."
+    "FEATURE_MCP_SERVER_MODAL_INTRO": "אנו מארחים שרת Model Context Protocol, כך ש-Claude, Cursor וכל לקוח סוכן אחר יכולים לעבוד ישירות עם החשבון שלך.",
+    "FEATURE_AI_AGENTS_MODAL_B5": "צריכים גם אנשים? שלבו את הסוכנים עם שירותי מודרציה אנושית, מודרציה מנוהלת על ידי צוות FastComments.",
+    "SCALE_HUMAN_MODERATION": "שירותי מודרציה אנושית",
+    "SCALE_HUMAN_MODERATION_DESC": "המודרטורים שלנו עובדים על התור שלכם בלוח המחוונים, לפי ההנחיות שלכם, וסוכני בינה מלאכותית מבצעים את הסינון הראשוני. הכיסוי והתנאים נקבעים בכל חוזה."
 }

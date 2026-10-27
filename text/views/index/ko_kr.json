@@ -364,5 +364,8 @@
     "FEATURE_MCP_SERVER_MODAL_B1": "모든 도구는 공개 OpenAPI 사양을 기반으로 생성되므로 REST API에서 수행할 수 있는 모든 작업을 에이전트에서도 수행할 수 있습니다.",
     "FEATURE_MCP_SERVER_MODAL_INTRO": "저희는 모델 컨텍스트 프로토콜(MCP) 서버를 운영하고 있으므로 Claude, Cursor 및 기타 모든 에이전트 클라이언트가 귀하의 계정과 직접 상호 작용할 수 있습니다.",
     "FEATURE_MCP_SERVER_DESC": "FastComments 계정에 AI 에이전트를 연결하여 분석, 모더레이션 등을 수행하세요.",
-    "FEATURE_MCP_SERVER_MODAL_B2": "대시보드에서 Claude Code, Claude Desktop 및 Cursor에 사용할 수 있는 미리 채워진 URL과 붙여넣기 가능한 구성 파일이 생성됩니다."
+    "FEATURE_MCP_SERVER_MODAL_B2": "대시보드에서 Claude Code, Claude Desktop 및 Cursor에 사용할 수 있는 미리 채워진 URL과 붙여넣기 가능한 구성 파일이 생성됩니다.",
+    "SCALE_HUMAN_MODERATION": "휴먼 모더레이션 서비스",
+    "FEATURE_AI_AGENTS_MODAL_B5": "사람도 필요하신가요? 에이전트와 함께 FastComments 팀의 관리형 모더레이션인 휴먼 모더레이션 서비스를 이용해 보세요.",
+    "SCALE_HUMAN_MODERATION_DESC": "저희 모더레이터가 고객님의 대시보드에서 고객님의 가이드라인에 따라 대기열을 처리하며, AI 에이전트가 1차 검토를 진행합니다. 서비스 범위 및 조건은 계약에 따라 협의됩니다."
 }
