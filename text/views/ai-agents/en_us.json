@@ -183,7 +183,7 @@
     "FAQ_Q_DRY_RUN": "How does dry-run mode work?",
     "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
     "FAQ_Q_MODELS": "Which models can I choose?",
-    "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+    "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
     "FAQ_Q_BUDGET": "How do budget caps work?",
     "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
     "FAQ_Q_EU_DSA": "How are you DSA-ready?",
