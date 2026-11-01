@@ -64,5 +64,6 @@
     "FLEX_LIMIT_TITLE": "Limite di spesa mensile",
     "FLEX_LIMIT_MAX_VALUE": "Fino a [amount]/mese",
     "FLEX_NEXT_INVOICE": "Importo della fattura successiva:",
-    "ERROR_NOT_BILLING_ADMIN": "Solo il titolare dell'account o un amministratore della fatturazione possono modificare i limiti di spesa."
+    "ERROR_NOT_BILLING_ADMIN": "Solo il titolare dell'account o un amministratore della fatturazione possono modificare i limiti di spesa.",
+    "ERROR_PAYMENT_INCOMPLETE": "La tua banca non ha autorizzato il pagamento. Riprova oppure utilizza una carta diversa."
 }

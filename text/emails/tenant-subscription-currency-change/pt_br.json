@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "Robô FastComments",
+    "INTRO": "Ei <%= username %>,",
+    "DETAILS_LINE_ONE_YEAR": "A moeda da sua fatura está definida como <%= currency %>, portanto, a partir da sua próxima renovação em <%= switchDate %>, o seu plano <%= tenantName %> será cobrado <%= newAmount %> por ano em vez de <%= oldAmount %>.",
+    "DETAILS_LINE_ONE_MONTH": "A moeda da sua fatura está definida como <%= currency %>, portanto, a partir da sua próxima renovação em <%= switchDate %>, o seu plano <%= tenantName %> será cobrado <%= newAmount %> por mês em vez de <%= oldAmount %>.",
+    "SUBJECT": "Seu plano FastComments será renovado em <%= currency %>",
+    "DETAILS_LINE_TWO": "Nada mudará até lá e o cartão salvo será utilizado. Se preferir continuar pagando em <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">altere a moeda da sua fatura aqui</a> antes dessa data."
+}

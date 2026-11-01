@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "FastComments robot",
+    "INTRO": "Hej <%= username %>,",
+    "DETAILS_LINE_ONE_MONTH": "Valuta vaše fakture je podešena na <%= currency %>, tako da će se od vašeg sledećeg obnavljanja <%= switchDate %> vaš <%= tenantName %> plan naplaćivati <%= newAmount %> mesečno umesto <%= oldAmount %>.",
+    "DETAILS_LINE_ONE_YEAR": "Valuta vaše fakture je podešena na <%= currency %>, tako da će se od vašeg sledećeg obnavljanja <%= switchDate %> vaš <%= tenantName %> plan naplaćivati <%= newAmount %> godišnje umesto <%= oldAmount %>.",
+    "SUBJECT": "Vaš FastComments plan će se obnoviti u <%= currency %>",
+    "DETAILS_LINE_TWO": "Ništa se ne menja pre toga i koristiće se vaša sačuvana kartica. Ako želite da nastavite da plaćate u <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">promenite valutu fakture ovde</a> pre tog datuma."
+}

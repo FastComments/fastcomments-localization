@@ -10,5 +10,7 @@
     "PACKAGE_SELECT_UNAVAILABLE": "Indisponível",
     "PACKAGE_SELECT_SELECT": "Selecione",
     "PACKAGE_SELECT_SELECT_OPTION": "Selecione esta opção",
-    "PACKAGE_SELECT_FLEX_NOTE": "* O plano Flex é sempre cobrado mensalmente."
+    "PACKAGE_SELECT_FLEX_NOTE": "* O plano Flex é sempre cobrado mensalmente.",
+    "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Sua assinatura atual continua sendo cobrada na moeda original, mesmo que a configuração de moeda da sua fatura seja diferente.",
+    "PACKAGE_SELECT_USD_NOTE": "Com a moeda da fatura selecionada, os planos fixos são cobrados em USD. Escolha o plano Flex para ser cobrado na sua moeda."
 }

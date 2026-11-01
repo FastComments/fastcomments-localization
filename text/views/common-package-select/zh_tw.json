@@ -10,5 +10,7 @@
     "PACKAGE_SELECT_UNAVAILABLE": "不可用",
     "PACKAGE_SELECT_SELECT": "選擇",
     "PACKAGE_SELECT_SELECT_OPTION": "選擇此選項",
-    "PACKAGE_SELECT_FLEX_NOTE": "* Flex 始終按月計費。"
+    "PACKAGE_SELECT_FLEX_NOTE": "* Flex 始終按月計費。",
+    "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "即使您的發票貨幣設定不同，您目前的訂閱仍將以其原始貨幣進行計費。",
+    "PACKAGE_SELECT_USD_NOTE": "無論您選擇的發票貨幣為何，固定方案均以 USD 計費。如需以您的貨幣開立發票，請選擇 Flex。"
 }

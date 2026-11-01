@@ -10,5 +10,7 @@
     "PACKAGE_SELECT_UNAVAILABLE": "Недоступно",
     "PACKAGE_SELECT_SELECT": "Изаберите",
     "PACKAGE_SELECT_SELECT_OPTION": "Изаберите ову опцију",
-    "PACKAGE_SELECT_FLEX_NOTE": "* Флекс се увек наплаћује месечно."
+    "PACKAGE_SELECT_FLEX_NOTE": "* Флекс се увек наплаћује месечно.",
+    "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Ваша тренутна претплата се и даље наплаћује у оригиналној валути, чак и ако је подешавање валуте фактуре другачије.",
+    "PACKAGE_SELECT_USD_NOTE": "Фиксни планови се наплаћују у USD за изабрану валуту фактуре. Изаберите Flex да би вам се фактурисало у вашој валути."
 }

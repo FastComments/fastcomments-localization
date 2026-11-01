@@ -9,7 +9,7 @@
     "INVOICE_EMAIL_HELP": "Diese E-Mail-Adresse wird für Rechnungen und Zahlungsbenachrichtigungen verwendet.",
     "INVOICE_CURRENCY_LABEL": "Rechnungswährung",
     "SELECT_CURRENCY": "Währung auswählen",
-    "INVOICE_CURRENCY_HELP": "Diese Währung wird für neue Abonnements und Rechnungen verwendet.",
+    "INVOICE_CURRENCY_HELP": "Wird für Flex-Rechnungen in jeder Währung verwendet. Neue Festpreistarife werden, falls ausgewählt, in EUR oder GBP abgerechnet, andernfalls in USD. Bestehende Abonnements behalten ihre ursprüngliche Währung.",
     "SAVE_CHANGES": "Änderungen speichern",
     "ERROR_STRIPE_UPDATE_FAILED": "Die Aktualisierung der Rechnungs-E-Mail-Adresse in Stripe ist fehlgeschlagen. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support.",
     "ADDRESS_HEADING": "Rechnungsadresse",

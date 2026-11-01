@@ -1,0 +1,8 @@
+{
+    "FROM_NAME": "Robot FastComments",
+    "INTRO": "Zdravo <%= username %>,",
+    "SUBJECT": "Vaš paket FastComments se bo obnovil v <%= currency %>",
+    "DETAILS_LINE_ONE_MONTH": "Valuta vašega računa je nastavljena na <%= currency %>, zato vam bomo od naslednjega podaljšanja <%= switchDate %> za paket <%= tenantName %> zaračunali <%= newAmount %> na mesec namesto <%= oldAmount %>.",
+    "DETAILS_LINE_ONE_YEAR": "Valuta vašega računa je nastavljena na <%= currency %>, zato vam bomo od naslednjega podaljšanja <%= switchDate %> za paket <%= tenantName %> zaračunali <%= newAmount %> na leto namesto <%= oldAmount %>.",
+    "DETAILS_LINE_TWO": "Do takrat se nič ne spremeni in uporabljena bo vaša shranjena kartica. Če želite še naprej plačevati v <%= oldCurrency %>, pred tem datumom <a href=\"<%= billingPageURL %>\">spremenite valuto računa tukaj</a>."
+}

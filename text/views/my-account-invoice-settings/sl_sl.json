@@ -9,7 +9,7 @@
     "INVOICE_EMAIL_HELP": "Ta e-poštni naslov bo uporabljen za račune in obvestila o obračunavanju.",
     "INVOICE_CURRENCY_LABEL": "Valuta računa",
     "SELECT_CURRENCY": "Izberite valuto",
-    "INVOICE_CURRENCY_HELP": "Ta valuta bo uporabljena za nove naročnine in račune.",
+    "INVOICE_CURRENCY_HELP": "Uporablja se za račune Flex v kateri koli valuti. Novi fiksni paketi se obračunavajo v EUR ali GBP, če je izbrano, sicer pa v USD. Obstoječe naročnine ohranijo svojo prvotno valuto.",
     "SAVE_CHANGES": "Shrani spremembe",
     "ERROR_STRIPE_UPDATE_FAILED": "Posodobitev e-poštnega naslova za obračunavanje v storitvi Stripe ni uspela. Poskusite znova ali se obrnite na podporo.",
     "ADDRESS_HEADING": "Naslov za izstavitev računa",

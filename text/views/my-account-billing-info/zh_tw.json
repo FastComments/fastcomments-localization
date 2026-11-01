@@ -64,5 +64,6 @@
     "FLEX_LIMIT_NOT_CONFIGURED": "未配置限制",
     "ERROR_INVALID_LIMITS": "輸入的限額中有一個或多個不是有效數字。",
     "FLEX_NEXT_INVOICE": "下一張發票金額：",
-    "ERROR_NOT_BILLING_ADMIN": "只有帳戶所有者或帳單管理員才能更改消費限額。"
+    "ERROR_NOT_BILLING_ADMIN": "只有帳戶所有者或帳單管理員才能更改消費限額。",
+    "ERROR_PAYMENT_INCOMPLETE": "您的銀行未批准此付款。請重試，或使用其他銀行卡。"
 }

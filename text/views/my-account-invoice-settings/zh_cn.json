@@ -9,7 +9,7 @@
     "INVOICE_EMAIL_HELP": "此邮箱将用于发送发票和账单通知。",
     "INVOICE_CURRENCY_LABEL": "发票货币",
     "SELECT_CURRENCY": "选择货币",
-    "INVOICE_CURRENCY_HELP": "这种货币将用于新的订阅和发票。",
+    "INVOICE_CURRENCY_HELP": "用于以任何货币开具的 Flex 发票。新开通的固定套餐若选择 EUR 或 GBP 则以该货币计费，否则以 USD 计费。现有订阅将保留其原有货币。",
     "SAVE_CHANGES": "保存更改",
     "ADDRESS_HEADING": "账单地址",
     "LABEL_NAME": "姓名",

@@ -1,0 +1,8 @@
+{
+    "INTRO": "Bonjour <%= username %>,",
+    "FROM_NAME": "Robot FastComments",
+    "SUBJECT": "Votre forfait FastComments sera renouvelé en <%= currency %>",
+    "DETAILS_LINE_ONE_YEAR": "La devise de votre facture est définie sur <%= currency %>, donc à partir de votre prochain renouvellement, le <%= switchDate %>, votre forfait <%= tenantName %> sera facturé <%= newAmount %> par an au lieu de <%= oldAmount %>.",
+    "DETAILS_LINE_ONE_MONTH": "La devise de votre facture est définie sur <%= currency %>, donc à partir de votre prochain renouvellement, le <%= switchDate %>, votre forfait <%= tenantName %> sera facturé <%= newAmount %> par mois au lieu de <%= oldAmount %>.",
+    "DETAILS_LINE_TWO": "Rien ne changera d'ici là et votre carte enregistrée sera utilisée. Si vous préférez continuer à payer en <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">modifiez la devise de votre facture ici</a> avant cette date."
+}

@@ -10,5 +10,7 @@
     "PACKAGE_SELECT_UNAVAILABLE": "Недоступно",
     "PACKAGE_SELECT_SELECT": "Виберіть",
     "PACKAGE_SELECT_SELECT_OPTION": "Виберіть цей параметр",
-    "PACKAGE_SELECT_FLEX_NOTE": "* Оплата за послугу Flex завжди стягується щомісяця."
+    "PACKAGE_SELECT_FLEX_NOTE": "* Оплата за послугу Flex завжди стягується щомісяця.",
+    "PACKAGE_SELECT_USD_NOTE": "Для вибраної вами валюти рахунку-фактури фіксовані плани оплачуються в USD. Виберіть Flex, щоб рахунки виставлялися у вашій валюті.",
+    "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Ваша поточна підписка й надалі оплачуватиметься в початковій валюті, навіть якщо в налаштуваннях валюти рахунку-фактури вибрано іншу."
 }

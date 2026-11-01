@@ -2332,7 +2332,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -3398,7 +3400,8 @@
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -6459,7 +6462,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -8874,7 +8877,7 @@
                 "STATUS_OPTION_ENABLED_HINT": "The agent takes real actions on comments and users.",
                 "BUDGET_HEADING": "Budget",
                 "MODEL_LABEL": "LLM model",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "MODEL_HINT": "Pick the model this agent should use.",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "DAILY_BUDGET_LABEL": "Daily budget",
@@ -9473,7 +9476,7 @@
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FAQ_A_EU_DSA": "EU DSA Article 17 requires human review of user suspensions. In the EU region, the 'ban' tool is locked behind the approval queue and cannot be fully automated. It's a platform-level rule we enforce, not a setting you can disable. Every action is recorded with reasoning and reviewer for the audit trail.",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
                 "FAQ_Q_PROMPT": "Can I bring my own prompt and rules?",
                 "FINAL_CTA_HEADING_LIGHT": "Stand up your first agent ",
@@ -9644,7 +9647,11 @@
                 "COL_COMMENT_COUNT": "Comments on Single Page",
                 "COL_SITE": "Site",
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most.",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_CTA": "View the report"
             },
             "shopify-iframe-redirect": {
                 "PAGE_TITLE": "Redirecting to Shopify...",
@@ -10782,6 +10789,14 @@
                 "FAQ_A_REVOKE": "Yes. Removing a moderator from your account ends their access immediately. Contract terms for ending the service are agreed up front.",
                 "FINAL_CTA_HEADING_LIGHT": "Put people on your queue ",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal."
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "es_es": {
@@ -13116,7 +13131,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -14182,7 +14199,8 @@
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -17243,7 +17261,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -19660,7 +19678,7 @@
                 "BUDGET_HEADING": "Budget",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "MODEL_HINT": "Pick the model this agent should use.",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "DAILY_BUDGET_LABEL": "Daily budget",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
                 "DAILY_BUDGET_HINT": "Leave blank for no daily cap. The agent pauses until midnight UTC once reached.",
@@ -20255,7 +20273,7 @@
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
                 "FAQ_Q_MODELS": "Which models can I choose?",
                 "FAQ_Q_BUDGET": "How do budget caps work?",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
@@ -20428,7 +20446,11 @@
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
                 "COL_SITE": "Site",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_CTA": "View the report",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most.",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments"
             },
             "shopify-iframe-redirect": {
                 "PAGE_TITLE": "Redirecting to Shopify...",
@@ -21566,6 +21588,14 @@
                 "FAQ_A_GUIDELINES": "Yours. Before we start we write a playbook from your community guidelines that says what to approve, remove, and escalate. When something is not covered, it goes to your escalation contact instead of being decided for you.",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal."
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "FROM_NAME": "FastComments Robot",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "pl_pl": {
@@ -23886,7 +23916,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -24952,7 +24984,8 @@
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -28013,7 +28046,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -30427,7 +30460,7 @@
                 "MODEL_HEADING": "Model",
                 "BUDGET_HEADING": "Budget",
                 "STATUS_OPTION_ENABLED_HINT": "The agent takes real actions on comments and users.",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "MODEL_LABEL": "LLM model",
                 "MODEL_HINT": "Pick the model this agent should use.",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
@@ -31025,7 +31058,7 @@
                 "FAQ_Q_MODELS": "Which models can I choose?",
                 "FAQ_Q_BUDGET": "How do budget caps work?",
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
@@ -31198,7 +31231,11 @@
                 "COL_SITE": "Site",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most.",
+                "TECH_SHOWCASE_CTA": "View the report"
             },
             "shopify-iframe-redirect": {
                 "PAGE_TITLE": "Redirecting to Shopify...",
@@ -32336,6 +32373,14 @@
                 "FAQ_A_REVOKE": "Yes. Removing a moderator from your account ends their access immediately. Contract terms for ending the service are agreed up front.",
                 "FINAL_CTA_HEADING_LIGHT": "Put people on your queue ",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents"
+            },
+            "tenant-subscription-currency-change": {
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "FROM_NAME": "FastComments Robot",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date.",
+                "INTRO": "Hey <%= username %>,"
             }
         },
         "de_de": {
@@ -34654,7 +34699,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -35720,7 +35767,8 @@
                 "FLEX_LIMIT_EDIT": "Edit",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -38781,7 +38829,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -41196,7 +41244,7 @@
                 "STATUS_OPTION_DRY_RUN_HINT": "The agent runs and logs what it would do, but takes no real action. Use this to tune the prompt before going live.",
                 "MODEL_LABEL": "LLM model",
                 "MODEL_HINT": "Pick the model this agent should use.",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "DAILY_BUDGET_LABEL": "Daily budget",
                 "BUDGET_HEADING": "Budget",
@@ -41795,7 +41843,7 @@
                 "FAQ_Q_MODELS": "Which models can I choose?",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
                 "FAQ_A_EU_DSA": "EU DSA Article 17 requires human review of user suspensions. In the EU region, the 'ban' tool is locked behind the approval queue and cannot be fully automated. It's a platform-level rule we enforce, not a setting you can disable. Every action is recorded with reasoning and reviewer for the audit trail.",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
                 "FAQ_Q_PROMPT": "Can I bring my own prompt and rules?",
@@ -41966,7 +42014,11 @@
                 "HERO_TITLE_BOLD": "Examples",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most.",
+                "TECH_SHOWCASE_CTA": "View the report"
             },
             "shopify-iframe-redirect": {
                 "BUTTON_CONTINUE": "Continue to Shopify",
@@ -43104,6 +43156,14 @@
                 "FAQ_A_REVOKE": "Yes. Removing a moderator from your account ends their access immediately. Contract terms for ending the service are agreed up front.",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal.",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents"
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "FROM_NAME": "FastComments Robot",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "it_it": {
@@ -45411,7 +45471,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -46477,7 +46539,8 @@
                 "FLEX_LIMIT_TITLE": "Monthly spend limit",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -49538,7 +49601,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -51954,7 +52017,7 @@
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "MODEL_LABEL": "LLM model",
                 "STATUS_OPTION_DRY_RUN": "Dry Run (observe only)",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "BUDGET_HEADING": "Budget",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
                 "PROMPT_HEADING": "Personality",
@@ -52552,7 +52615,7 @@
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_A_EU_DSA": "EU DSA Article 17 requires human review of user suspensions. In the EU region, the 'ban' tool is locked behind the approval queue and cannot be fully automated. It's a platform-level rule we enforce, not a setting you can disable. Every action is recorded with reasoning and reviewer for the audit trail.",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FINAL_CTA_HEADING_BOLD": "today.",
@@ -52723,7 +52786,11 @@
                 "HERO_TITLE_LIGHT": "Live ",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
                 "COL_SITE": "Site",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_CTA": "View the report",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most."
             },
             "shopify-iframe-redirect": {
                 "PAGE_TITLE": "Redirecting to Shopify...",
@@ -53861,6 +53928,14 @@
                 "FINAL_CTA_HEADING_LIGHT": "Put people on your queue ",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal.",
                 "FAQ_A_REVOKE": "Yes. Removing a moderator from your account ends their access immediately. Contract terms for ending the service are agreed up front."
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "FROM_NAME": "FastComments Robot",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "ru_ru": {
@@ -56179,7 +56254,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -57245,7 +57322,8 @@
                 "ERROR_INVALID_LIMITS": "One or more of the entered limits is not a valid number.",
                 "ERROR_NO_FLEX_PACKAGE": "Your account does not have a Flex plan, so there are no usage limits to configure.",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -60306,7 +60384,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -62720,7 +62798,7 @@
                 "STATUS_OPTION_DRY_RUN_HINT": "The agent runs and logs what it would do, but takes no real action. Use this to tune the prompt before going live.",
                 "STATUS_OPTION_ENABLED_HINT": "The agent takes real actions on comments and users.",
                 "BUDGET_HEADING": "Budget",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "MODEL_LABEL": "LLM model",
                 "DAILY_BUDGET_LABEL": "Daily budget",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
@@ -63319,7 +63397,7 @@
                 "FAQ_Q_BUDGET": "How do budget caps work?",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FAQ_A_REPLAY": "Yes. The replay feature runs an agent against your historical comments, up to 90 days back, and shows you matches, deltas, and disagreements vs the prior outcome. You see the cost estimate before starting and can set a hard cap that aborts the run if it overshoots.",
                 "FAQ_Q_PROMPT": "Can I bring my own prompt and rules?",
@@ -63491,7 +63569,11 @@
                 "HERO_TITLE_BOLD": "Examples",
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_CTA": "View the report",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most."
             },
             "shopify-iframe-redirect": {
                 "PAGE_TITLE": "Redirecting to Shopify...",
@@ -64629,6 +64711,14 @@
                 "FAQ_A_REVOKE": "Yes. Removing a moderator from your account ends their access immediately. Contract terms for ending the service are agreed up front.",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal."
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "pt_br": {
@@ -66440,7 +66530,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -67405,7 +67497,8 @@
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "FLEX_LIMIT_EDIT": "Edit",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -70384,7 +70477,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -72809,7 +72902,7 @@
                 "BUDGET_HEADING": "Budget",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "STATUS_OPTION_ENABLED_HINT": "The agent takes real actions on comments and users.",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "DAILY_BUDGET_LABEL": "Daily budget",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
                 "DAILY_BUDGET_HINT": "Leave blank for no daily cap. The agent pauses until midnight UTC once reached.",
@@ -73405,7 +73498,7 @@
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
                 "FAQ_Q_BUDGET": "How do budget caps work?",
                 "FAQ_Q_MODELS": "Which models can I choose?",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_Q_PROMPT": "Can I bring my own prompt and rules?",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
@@ -73577,7 +73670,11 @@
                 "COL_SITE": "Site",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
                 "EMPTY_STATE": "No examples available right now. Check back shortly.",
-                "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only."
+                "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most.",
+                "TECH_SHOWCASE_CTA": "View the report"
             },
             "shopify-iframe-redirect": {
                 "PAGE_TITLE": "Redirecting to Shopify...",
@@ -74715,6 +74812,14 @@
                 "FINAL_CTA_AI_AGENTS": "See AI Agents",
                 "FAQ_A_TRUST": "A 0 to 100 score each commenter has on your site, built from how long they have commented, how much, and how often your team pinned them. Spam detection and AI Agents read it to decide how strictly to treat a comment, and moderators, including ours, can override it by hand. Changes are recorded in Comment Logs.",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal."
+            },
+            "tenant-subscription-currency-change": {
+                "FROM_NAME": "FastComments Robot",
+                "INTRO": "Hey <%= username %>,",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "ja_jp": {
@@ -77026,7 +77131,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -78092,7 +78199,8 @@
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NO_FLEX_PACKAGE": "Your account does not have a Flex plan, so there are no usage limits to configure.",
                 "ERROR_INVALID_LIMITS": "One or more of the entered limits is not a valid number.",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -81153,7 +81261,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -83568,7 +83676,7 @@
                 "BUDGET_HEADING": "Budget",
                 "DAILY_BUDGET_LABEL": "Daily budget",
                 "MODEL_HINT": "Pick the model this agent should use.",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "STATUS_OPTION_ENABLED_HINT": "The agent takes real actions on comments and users.",
                 "MODEL_LABEL": "LLM model",
@@ -84163,7 +84271,7 @@
                 "CUSTOMERS_BUTTON_LOGGED_OUT": "Sign up free",
                 "FAQ_Q_MODELS": "Which models can I choose?",
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
                 "FAQ_Q_BUDGET": "How do budget caps work?",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
@@ -84338,7 +84446,11 @@
                 "META_DESCRIPTION": "Real sites running FastComments today. Browse a curated list of live deployments to see the commenting widget in production.",
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_CTA": "View the report",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most."
             },
             "shopify-iframe-redirect": {
                 "PAGE_TITLE": "Redirecting to Shopify...",
@@ -85476,6 +85588,14 @@
                 "FINAL_CTA_HEADING_LIGHT": "Put people on your queue ",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal.",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents"
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "tr_tr": {
@@ -87787,7 +87907,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -88853,7 +88975,8 @@
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -91914,7 +92037,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -94331,7 +94454,7 @@
                 "MODEL_LABEL": "LLM model",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "MODEL_HINT": "Pick the model this agent should use.",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "DAILY_BUDGET_LABEL": "Daily budget",
                 "BUDGET_HINT": "Caps how much this agent can spend before it stops dispatching. Shown in your account currency.",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
@@ -94925,7 +95048,7 @@
                 "FAQ_Q_DRY_RUN": "How does dry-run mode work?",
                 "FAQ_Q_MODELS": "Which models can I choose?",
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
                 "FAQ_Q_BUDGET": "How do budget caps work?",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
@@ -95099,7 +95222,11 @@
                 "HERO_TITLE_BOLD": "Examples",
                 "META_DESCRIPTION": "Real sites running FastComments today. Browse a curated list of live deployments to see the commenting widget in production.",
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_CTA": "View the report",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most."
             },
             "shopify-iframe-redirect": {
                 "HEADING": "Redirecting to Shopify...",
@@ -96237,6 +96364,14 @@
                 "FINAL_CTA_HEADING_LIGHT": "Put people on your queue ",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal."
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "zh_cn": {
@@ -98547,7 +98682,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -99613,7 +99750,8 @@
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "ERROR_NO_FLEX_PACKAGE": "Your account does not have a Flex plan, so there are no usage limits to configure.",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -102674,7 +102812,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -105092,7 +105230,7 @@
                 "BUDGET_HEADING": "Budget",
                 "DAILY_BUDGET_LABEL": "Daily budget",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "DAILY_BUDGET_HINT": "Leave blank for no daily cap. The agent pauses until midnight UTC once reached.",
                 "BUDGET_HINT": "Caps how much this agent can spend before it stops dispatching. Shown in your account currency.",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
@@ -105686,7 +105824,7 @@
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
                 "FAQ_Q_MODELS": "Which models can I choose?",
                 "FAQ_A_EU_DSA": "EU DSA Article 17 requires human review of user suspensions. In the EU region, the 'ban' tool is locked behind the approval queue and cannot be fully automated. It's a platform-level rule we enforce, not a setting you can disable. Every action is recorded with reasoning and reviewer for the audit trail.",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
                 "FAQ_Q_BUDGET": "How do budget caps work?",
@@ -105859,7 +105997,11 @@
                 "PAGE_TITLE": "FastComments - Live Examples",
                 "META_DESCRIPTION": "Real sites running FastComments today. Browse a curated list of live deployments to see the commenting widget in production.",
                 "EMPTY_STATE": "No examples available right now. Check back shortly.",
-                "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only."
+                "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_CTA": "View the report",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most.",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments"
             },
             "shopify-iframe-redirect": {
                 "BUTTON_CONTINUE": "Continue to Shopify",
@@ -106997,6 +107139,14 @@
                 "FINAL_CTA_HEADING_LIGHT": "Put people on your queue ",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal.",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents"
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "ko_kr": {
@@ -109306,7 +109456,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -110372,7 +110524,8 @@
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -113433,7 +113586,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -115848,7 +116001,7 @@
                 "STATUS_OPTION_ENABLED_HINT": "The agent takes real actions on comments and users.",
                 "BUDGET_HEADING": "Budget",
                 "MODEL_HINT": "Pick the model this agent should use.",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "MODEL_LABEL": "LLM model",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
@@ -116446,7 +116599,7 @@
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
                 "FAQ_Q_BUDGET": "How do budget caps work?",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_A_EU_DSA": "EU DSA Article 17 requires human review of user suspensions. In the EU region, the 'ban' tool is locked behind the approval queue and cannot be fully automated. It's a platform-level rule we enforce, not a setting you can disable. Every action is recorded with reasoning and reviewer for the audit trail.",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
@@ -116618,7 +116771,11 @@
                 "HERO_TITLE_BOLD": "Examples",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most.",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_CTA": "View the report"
             },
             "shopify-iframe-redirect": {
                 "PAGE_TITLE": "Redirecting to Shopify...",
@@ -117756,6 +117913,14 @@
                 "FAQ_Q_REVOKE": "Can I stop the service or remove access?",
                 "FINAL_CTA_HEADING_LIGHT": "Put people on your queue ",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents"
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "zh_tw": {
@@ -120064,7 +120229,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -121130,7 +121297,8 @@
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "ERROR_INVALID_LIMITS": "One or more of the entered limits is not a valid number.",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -124191,7 +124359,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -126610,7 +126778,7 @@
                 "MODEL_HINT": "Pick the model this agent should use.",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "BUDGET_HINT": "Caps how much this agent can spend before it stops dispatching. Shown in your account currency.",
                 "PROMPT_HEADING": "Personality",
                 "DAILY_BUDGET_HINT": "Leave blank for no daily cap. The agent pauses until midnight UTC once reached.",
@@ -127205,7 +127373,7 @@
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
                 "FAQ_Q_MODELS": "Which models can I choose?",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_A_REPLAY": "Yes. The replay feature runs an agent against your historical comments, up to 90 days back, and shows you matches, deltas, and disagreements vs the prior outcome. You see the cost estimate before starting and can set a hard cap that aborts the run if it overshoots.",
                 "FAQ_A_EU_DSA": "EU DSA Article 17 requires human review of user suspensions. In the EU region, the 'ban' tool is locked behind the approval queue and cannot be fully automated. It's a platform-level rule we enforce, not a setting you can disable. Every action is recorded with reasoning and reviewer for the audit trail.",
                 "FINAL_CTA_HEADING_BOLD": "today.",
@@ -127376,7 +127544,11 @@
                 "COL_COMMENT_COUNT": "Comments on Single Page",
                 "COL_SITE": "Site",
                 "EMPTY_STATE": "No examples available right now. Check back shortly.",
-                "PAGE_TITLE": "FastComments - Live Examples"
+                "PAGE_TITLE": "FastComments - Live Examples",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_CTA": "View the report",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most."
             },
             "shopify-iframe-redirect": {
                 "HEADING": "Redirecting to Shopify...",
@@ -128514,6 +128686,14 @@
                 "FAQ_A_REPORTING": "Every action is recorded in Comment Logs with the moderator's name, and Moderator Stats shows per-moderator activity. We also agree a reporting cadence as part of the contract.",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal.",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents"
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "FROM_NAME": "FastComments Robot",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "he": {
@@ -130822,7 +131002,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -131888,7 +132070,8 @@
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -134949,7 +135132,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -137364,7 +137547,7 @@
                 "STATUS_OPTION_DRY_RUN_HINT": "The agent runs and logs what it would do, but takes no real action. Use this to tune the prompt before going live.",
                 "MODEL_HINT": "Pick the model this agent should use.",
                 "MODEL_LABEL": "LLM model",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "BUDGET_HEADING": "Budget",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "BUDGET_HINT": "Caps how much this agent can spend before it stops dispatching. Shown in your account currency.",
@@ -137964,7 +138147,7 @@
                 "FAQ_Q_BUDGET": "How do budget caps work?",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_Q_PROMPT": "Can I bring my own prompt and rules?",
                 "FAQ_A_EU_DSA": "EU DSA Article 17 requires human review of user suspensions. In the EU region, the 'ban' tool is locked behind the approval queue and cannot be fully automated. It's a platform-level rule we enforce, not a setting you can disable. Every action is recorded with reasoning and reviewer for the audit trail.",
                 "FAQ_A_REPLAY": "Yes. The replay feature runs an agent against your historical comments, up to 90 days back, and shows you matches, deltas, and disagreements vs the prior outcome. You see the cost estimate before starting and can set a hard cap that aborts the run if it overshoots.",
@@ -138134,7 +138317,11 @@
                 "COL_SITE": "Site",
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most.",
+                "TECH_SHOWCASE_CTA": "View the report"
             },
             "shopify-iframe-redirect": {
                 "PAGE_TITLE": "Redirecting to Shopify...",
@@ -139272,6 +139459,14 @@
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal.",
                 "FAQ_A_REVOKE": "Yes. Removing a moderator from your account ends their access immediately. Contract terms for ending the service are agreed up front.",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents"
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "hr_hr": {
@@ -141580,7 +141775,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -142646,7 +142843,8 @@
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_LIMIT_TITLE": "Monthly spend limit",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -145707,7 +145905,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -148120,7 +148318,7 @@
                 "STATUS_OPTION_DRY_RUN": "Dry Run (observe only)",
                 "STATUS_OPTION_ENABLED_HINT": "The agent takes real actions on comments and users.",
                 "STATUS_OPTION_DRY_RUN_HINT": "The agent runs and logs what it would do, but takes no real action. Use this to tune the prompt before going live.",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "MODEL_HINT": "Pick the model this agent should use.",
                 "MODEL_LABEL": "LLM model",
@@ -148722,7 +148920,7 @@
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
                 "FAQ_Q_MODELS": "Which models can I choose?",
                 "FAQ_A_EU_DSA": "EU DSA Article 17 requires human review of user suspensions. In the EU region, the 'ban' tool is locked behind the approval queue and cannot be fully automated. It's a platform-level rule we enforce, not a setting you can disable. Every action is recorded with reasoning and reviewer for the audit trail.",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FAQ_A_REPLAY": "Yes. The replay feature runs an agent against your historical comments, up to 90 days back, and shows you matches, deltas, and disagreements vs the prior outcome. You see the cost estimate before starting and can set a hard cap that aborts the run if it overshoots.",
                 "FAQ_Q_PROMPT": "Can I bring my own prompt and rules?",
@@ -148892,7 +149090,11 @@
                 "HERO_TITLE_BOLD": "Examples",
                 "HERO_TITLE_LIGHT": "Live ",
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most.",
+                "TECH_SHOWCASE_CTA": "View the report",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_EYEBROW": "Customer report"
             },
             "shopify-iframe-redirect": {
                 "DESCRIPTION": "If this page does not redirect automatically, click the button below.",
@@ -150030,6 +150232,14 @@
                 "FINAL_CTA_HEADING_BOLD": "without changing platforms.",
                 "FINAL_CTA_HEADING_LIGHT": "Put people on your queue ",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal."
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "da_dk": {
@@ -152338,7 +152548,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -153404,7 +153616,8 @@
                 "FLEX_LIMIT_EDIT": "Edit",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -156465,7 +156678,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -158881,7 +159094,7 @@
                 "BUDGET_HEADING": "Budget",
                 "MODEL_LABEL": "LLM model",
                 "MODEL_HINT": "Pick the model this agent should use.",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
                 "DAILY_BUDGET_LABEL": "Daily budget",
@@ -159471,7 +159684,7 @@
                 "CUSTOMERS_BUTTON_LOGGED_IN": "Open AI Agents",
                 "FAQ_Q_DRY_RUN": "How does dry-run mode work?",
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FAQ_A_REPLAY": "Yes. The replay feature runs an agent against your historical comments, up to 90 days back, and shows you matches, deltas, and disagreements vs the prior outcome. You see the cost estimate before starting and can set a hard cap that aborts the run if it overshoots.",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
@@ -159650,7 +159863,11 @@
                 "PAGE_TITLE": "FastComments - Live Examples",
                 "HERO_TITLE_BOLD": "Examples",
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most.",
+                "TECH_SHOWCASE_CTA": "View the report"
             },
             "shopify-iframe-redirect": {
                 "PAGE_TITLE": "Redirecting to Shopify...",
@@ -160788,6 +161005,14 @@
                 "FAQ_A_REVOKE": "Yes. Removing a moderator from your account ends their access immediately. Contract terms for ending the service are agreed up front.",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal.",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents"
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "ru_ua": {
@@ -163096,7 +163321,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -164162,7 +164389,8 @@
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -167223,7 +167451,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -169639,7 +169867,7 @@
                 "DAILY_BUDGET_LABEL": "Daily budget",
                 "STATUS_OPTION_ENABLED_HINT": "The agent takes real actions on comments and users.",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "MODEL_LABEL": "LLM model",
                 "MODEL_HINT": "Pick the model this agent should use.",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
@@ -170234,7 +170462,7 @@
                 "CUSTOMERS_SUBTEXT": "AI agents are part of the FastComments platform. Sign up free, switch any agent to dry-run, watch what it would do, then go live.",
                 "FAQ_Q_BUDGET": "How do budget caps work?",
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FAQ_Q_MODELS": "Which models can I choose?",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
@@ -170408,7 +170636,11 @@
                 "COL_SITE": "Site",
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most.",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_CTA": "View the report",
+                "TECH_SHOWCASE_EYEBROW": "Customer report"
             },
             "shopify-iframe-redirect": {
                 "PAGE_TITLE": "Redirecting to Shopify...",
@@ -171546,6 +171778,14 @@
                 "FINAL_CTA_HEADING_BOLD": "without changing platforms.",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal.",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents"
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "FROM_NAME": "FastComments Robot",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "uk_ua": {
@@ -173854,7 +174094,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -174920,7 +175162,8 @@
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_LIMIT_TITLE": "Monthly spend limit",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -177981,7 +178224,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -180398,7 +180641,7 @@
                 "MODEL_LABEL": "LLM model",
                 "BUDGET_HEADING": "Budget",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
                 "DAILY_BUDGET_LABEL": "Daily budget",
                 "BUDGET_HINT": "Caps how much this agent can spend before it stops dispatching. Shown in your account currency.",
@@ -180993,7 +181236,7 @@
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
                 "FAQ_Q_MODELS": "Which models can I choose?",
                 "FAQ_Q_BUDGET": "How do budget caps work?",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_A_EU_DSA": "EU DSA Article 17 requires human review of user suspensions. In the EU region, the 'ban' tool is locked behind the approval queue and cannot be fully automated. It's a platform-level rule we enforce, not a setting you can disable. Every action is recorded with reasoning and reviewer for the audit trail.",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
@@ -181166,7 +181409,11 @@
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
                 "META_DESCRIPTION": "Real sites running FastComments today. Browse a curated list of live deployments to see the commenting widget in production.",
                 "HERO_TITLE_LIGHT": "Live ",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_CTA": "View the report",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most."
             },
             "shopify-iframe-redirect": {
                 "BUTTON_CONTINUE": "Continue to Shopify",
@@ -182304,6 +182551,14 @@
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal.",
                 "FAQ_Q_REVOKE": "Can I stop the service or remove access?",
                 "FAQ_Q_REPORTING": "How do I see what your moderators did?"
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "FROM_NAME": "FastComments Robot",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "bg_bg": {
@@ -184601,7 +184856,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -185667,7 +185924,8 @@
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -188728,7 +188986,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -191144,7 +191402,7 @@
                 "BUDGET_HEADING": "Budget",
                 "MODEL_HINT": "Pick the model this agent should use.",
                 "MODEL_LABEL": "LLM model",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "BUDGET_HINT": "Caps how much this agent can spend before it stops dispatching. Shown in your account currency.",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
@@ -191742,7 +192000,7 @@
                 "FAQ_Q_BUDGET": "How do budget caps work?",
                 "FAQ_Q_PROMPT": "Can I bring my own prompt and rules?",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_A_EU_DSA": "EU DSA Article 17 requires human review of user suspensions. In the EU region, the 'ban' tool is locked behind the approval queue and cannot be fully automated. It's a platform-level rule we enforce, not a setting you can disable. Every action is recorded with reasoning and reviewer for the audit trail.",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
@@ -191913,7 +192171,11 @@
                 "PAGE_TITLE": "FastComments - Live Examples",
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
                 "HERO_TITLE_BOLD": "Examples",
-                "HERO_TITLE_LIGHT": "Live "
+                "HERO_TITLE_LIGHT": "Live ",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most.",
+                "TECH_SHOWCASE_CTA": "View the report"
             },
             "shopify-iframe-redirect": {
                 "DESCRIPTION": "If this page does not redirect automatically, click the button below.",
@@ -193051,6 +193313,14 @@
                 "FINAL_CTA_HEADING_BOLD": "without changing platforms.",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal."
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Robot",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "el_cy": {
@@ -195359,7 +195629,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -196425,7 +196697,8 @@
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -199486,7 +199759,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -201903,7 +202176,7 @@
                 "MODEL_LABEL": "LLM model",
                 "BUDGET_HEADING": "Budget",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "DAILY_BUDGET_LABEL": "Daily budget",
                 "BUDGET_HINT": "Caps how much this agent can spend before it stops dispatching. Shown in your account currency.",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
@@ -202498,7 +202771,7 @@
                 "FAQ_Q_DRY_RUN": "How does dry-run mode work?",
                 "FAQ_Q_MODELS": "Which models can I choose?",
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
@@ -202671,7 +202944,11 @@
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
                 "COL_SITE": "Site",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_CTA": "View the report",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most."
             },
             "shopify-iframe-redirect": {
                 "HEADING": "Redirecting to Shopify...",
@@ -203809,6 +204086,14 @@
                 "FAQ_A_REPORTING": "Every action is recorded in Comment Logs with the moderator's name, and Moderator Stats shows per-moderator activity. We also agree a reporting cadence as part of the contract.",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal.",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents"
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "FROM_NAME": "FastComments Robot",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "el_gr": {
@@ -206117,7 +206402,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -207183,7 +207470,8 @@
                 "FLEX_LIMIT_EDIT": "Edit",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -210244,7 +210532,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -212660,7 +212948,7 @@
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "MODEL_LABEL": "LLM model",
                 "MODEL_HINT": "Pick the model this agent should use.",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "DELETE_CONFIRM": "Delete this agent? Its run history will also be removed.",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
                 "DAILY_BUDGET_LABEL": "Daily budget",
@@ -213253,7 +213541,7 @@
                 "CUSTOMERS_SUBTEXT": "AI agents are part of the FastComments platform. Sign up free, switch any agent to dry-run, watch what it would do, then go live.",
                 "FAQ_Q_DRY_RUN": "How does dry-run mode work?",
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_A_EU_DSA": "EU DSA Article 17 requires human review of user suspensions. In the EU region, the 'ban' tool is locked behind the approval queue and cannot be fully automated. It's a platform-level rule we enforce, not a setting you can disable. Every action is recorded with reasoning and reviewer for the audit trail.",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
@@ -213429,7 +213717,11 @@
                 "COL_SITE": "Site",
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_CTA": "View the report",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most."
             },
             "shopify-iframe-redirect": {
                 "HEADING": "Redirecting to Shopify...",
@@ -214567,6 +214859,14 @@
                 "FAQ_A_REPORTING": "Every action is recorded in Comment Logs with the moderator's name, and Moderator Stats shows per-moderator activity. We also agree a reporting cadence as part of the contract.",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal.",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents"
+            },
+            "tenant-subscription-currency-change": {
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "FROM_NAME": "FastComments Robot",
+                "INTRO": "Hey <%= username %>,",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "sr_ba": {
@@ -216875,7 +217175,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -217941,7 +218243,8 @@
                 "FLEX_LIMIT_TITLE": "Monthly spend limit",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -221002,7 +221305,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -223419,7 +223722,7 @@
                 "STATUS_OPTION_ENABLED_HINT": "The agent takes real actions on comments and users.",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "MODEL_HINT": "Pick the model this agent should use.",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "BUDGET_HINT": "Caps how much this agent can spend before it stops dispatching. Shown in your account currency.",
                 "DAILY_BUDGET_HINT": "Leave blank for no daily cap. The agent pauses until midnight UTC once reached.",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
@@ -224010,7 +224313,7 @@
                 "S7_BULLET_MODELS": "Model choice per agent. Swap between cost-optimized and quality-optimized without rewriting prompts.",
                 "CUSTOMERS_BUTTON_LOGGED_OUT": "Sign up free",
                 "CUSTOMERS_BUTTON_LOGGED_IN": "Open AI Agents",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_Q_MODELS": "Which models can I choose?",
                 "FAQ_Q_DRY_RUN": "How does dry-run mode work?",
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
@@ -224187,7 +224490,11 @@
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
                 "COL_SITE": "Site",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_CTA": "View the report",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most."
             },
             "shopify-iframe-redirect": {
                 "BUTTON_CONTINUE": "Continue to Shopify",
@@ -225325,6 +225632,14 @@
                 "FAQ_A_REVOKE": "Yes. Removing a moderator from your account ends their access immediately. Contract terms for ending the service are agreed up front.",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal.",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents"
+            },
+            "tenant-subscription-currency-change": {
+                "FROM_NAME": "FastComments Robot",
+                "INTRO": "Hey <%= username %>,",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "sr_me": {
@@ -227633,7 +227948,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -228699,7 +229016,8 @@
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -231760,7 +232078,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -234182,7 +234500,7 @@
                 "DAILY_BUDGET_HINT": "Leave blank for no daily cap. The agent pauses until midnight UTC once reached.",
                 "MONTHLY_BUDGET_HINT": "Leave blank for no monthly cap. The agent pauses until the next calendar month once reached.",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "ALERT_THRESHOLDS_LABEL": "Budget alerts",
                 "INITIAL_PROMPT_HINT": "System prompt defining the agent's personality, tone, and goals. Plain text, no template syntax.",
                 "ALERT_THRESHOLDS_HINT": "Billing admins get an email when spend crosses each checked percentage. Defaults to 80% and 100%.",
@@ -234771,7 +235089,7 @@
                 "FAQ_Q_MODELS": "Which models can I choose?",
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
                 "FAQ_Q_BUDGET": "How do budget caps work?",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
                 "FAQ_A_EU_DSA": "EU DSA Article 17 requires human review of user suspensions. In the EU region, the 'ban' tool is locked behind the approval queue and cannot be fully automated. It's a platform-level rule we enforce, not a setting you can disable. Every action is recorded with reasoning and reviewer for the audit trail.",
@@ -234945,7 +235263,11 @@
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
                 "EMPTY_STATE": "No examples available right now. Check back shortly.",
-                "COL_SITE": "Site"
+                "COL_SITE": "Site",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_CTA": "View the report",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most."
             },
             "shopify-iframe-redirect": {
                 "DESCRIPTION": "If this page does not redirect automatically, click the button below.",
@@ -236083,6 +236405,14 @@
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal.",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents",
                 "FAQ_A_GUIDELINES": "Yours. Before we start we write a playbook from your community guidelines that says what to approve, remove, and escalate. When something is not covered, it goes to your escalation contact instead of being decided for you."
+            },
+            "tenant-subscription-currency-change": {
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "FROM_NAME": "FastComments Robot",
+                "INTRO": "Hey <%= username %>,",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "sr_rs": {
@@ -238391,7 +238721,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -239457,7 +239789,8 @@
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "FLEX_LIMIT_TITLE": "Monthly spend limit",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -242518,7 +242851,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -244935,7 +245268,7 @@
                 "STATUS_OPTION_ENABLED_HINT": "The agent takes real actions on comments and users.",
                 "DAILY_BUDGET_LABEL": "Daily budget",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "MODEL_HINT": "Pick the model this agent should use.",
                 "BUDGET_HINT": "Caps how much this agent can spend before it stops dispatching. Shown in your account currency.",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
@@ -245529,7 +245862,7 @@
                 "CUSTOMERS_BUTTON_LOGGED_OUT": "Sign up free",
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
                 "FAQ_Q_MODELS": "Which models can I choose?",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
                 "FAQ_Q_BUDGET": "How do budget caps work?",
@@ -245703,7 +246036,11 @@
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
                 "COL_SITE": "Site",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_CTA": "View the report",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most."
             },
             "shopify-iframe-redirect": {
                 "HEADING": "Redirecting to Shopify...",
@@ -246841,6 +247178,14 @@
                 "FINAL_CTA_AI_AGENTS": "See AI Agents",
                 "FAQ_A_REVOKE": "Yes. Removing a moderator from your account ends their access immediately. Contract terms for ending the service are agreed up front.",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal."
+            },
+            "tenant-subscription-currency-change": {
+                "FROM_NAME": "FastComments Robot",
+                "INTRO": "Hey <%= username %>,",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "sl_sl": {
@@ -249149,7 +249494,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -250215,7 +250562,8 @@
                 "ERROR_INVALID_LIMITS": "One or more of the entered limits is not a valid number.",
                 "ERROR_NO_FLEX_PACKAGE": "Your account does not have a Flex plan, so there are no usage limits to configure.",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -253276,7 +253624,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -255693,7 +256041,7 @@
                 "BUDGET_HEADING": "Budget",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "MODEL_HINT": "Pick the model this agent should use.",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "DAILY_BUDGET_HINT": "Leave blank for no daily cap. The agent pauses until midnight UTC once reached.",
                 "DAILY_BUDGET_LABEL": "Daily budget",
                 "BUDGET_HINT": "Caps how much this agent can spend before it stops dispatching. Shown in your account currency.",
@@ -256289,7 +256637,7 @@
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
                 "FAQ_Q_BUDGET": "How do budget caps work?",
                 "FAQ_Q_MODELS": "Which models can I choose?",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
                 "FAQ_A_REPLAY": "Yes. The replay feature runs an agent against your historical comments, up to 90 days back, and shows you matches, deltas, and disagreements vs the prior outcome. You see the cost estimate before starting and can set a hard cap that aborts the run if it overshoots.",
@@ -256461,7 +256809,11 @@
                 "HERO_TITLE_BOLD": "Examples",
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most.",
+                "TECH_SHOWCASE_CTA": "View the report"
             },
             "shopify-iframe-redirect": {
                 "DESCRIPTION": "If this page does not redirect automatically, click the button below.",
@@ -257599,6 +257951,14 @@
                 "FINAL_CTA_AI_AGENTS": "See AI Agents",
                 "FINAL_CTA_HEADING_LIGHT": "Put people on your queue ",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal."
+            },
+            "tenant-subscription-currency-change": {
+                "FROM_NAME": "FastComments Robot",
+                "INTRO": "Hey <%= username %>,",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "sr_latn_rs": {
@@ -259889,7 +260249,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -260955,7 +261317,8 @@
                 "FLEX_LIMIT_EDIT": "Edit",
                 "FLEX_LIMIT_TITLE": "Monthly spend limit",
                 "ERROR_INVALID_LIMITS": "One or more of the entered limits is not a valid number.",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -264016,7 +264379,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -266395,7 +266758,7 @@
                 "BUDGET_HEADING": "Budget",
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "DAILY_BUDGET_LABEL": "Daily budget",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
                 "BUDGET_HINT": "Caps how much this agent can spend before it stops dispatching. Shown in your account currency.",
                 "DAILY_BUDGET_HINT": "Leave blank for no daily cap. The agent pauses until midnight UTC once reached.",
@@ -266964,7 +267327,7 @@
                 "FAQ_Q_BUDGET": "How do budget caps work?",
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
                 "FAQ_Q_PROMPT": "Can I bring my own prompt and rules?",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
@@ -267201,7 +267564,11 @@
                 "COL_SITE": "Site",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
                 "EMPTY_STATE": "No examples available right now. Check back shortly.",
-                "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only."
+                "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most.",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_CTA": "View the report"
             },
             "shopify-iframe-redirect": {
                 "BUTTON_CONTINUE": "Continue to Shopify",
@@ -268339,6 +268706,14 @@
                 "FINAL_CTA_HEADING_BOLD": "without changing platforms.",
                 "FAQ_A_ACCESS": "They are added as Moderators on your account. Moderators can only use the Moderate Comments page. They cannot change settings, add other moderators, or export data. With Moderation Groups you can limit them to specific pages, categories, or sites.",
                 "S3_BODY": "Nothing about the service is hidden behind a vendor portal. It runs on the moderation features every FastComments account ships with."
+            },
+            "tenant-subscription-currency-change": {
+                "FROM_NAME": "FastComments Robot",
+                "INTRO": "Hey <%= username %>,",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "nl_nl": {
@@ -270646,7 +271021,9 @@
                 "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
                 "PACKAGE_SELECT_SELECT": "Select",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -271712,7 +272089,8 @@
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "FLEX_LIMIT_TITLE": "Monthly spend limit",
-                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits."
+                "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -274773,7 +275151,7 @@
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "SELECT_CURRENCY": "Select Currency",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "SAVE_CHANGES": "Save Changes",
                 "ERROR_STRIPE_UPDATE_FAILED": "Failed to update billing email in Stripe. Please try again or contact support.",
                 "ADDRESS_HEADING": "Billing Address",
@@ -277190,7 +277568,7 @@
                 "MODEL_OPTION_GLM_5_1": "GLM 5.1 (DeepInfra) - Smarter, bit slower",
                 "MODEL_LABEL": "LLM model",
                 "MODEL_HINT": "Pick the model this agent should use.",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "BUDGET_HINT": "Caps how much this agent can spend before it stops dispatching. Shown in your account currency.",
                 "DAILY_BUDGET_HINT": "Leave blank for no daily cap. The agent pauses until midnight UTC once reached.",
                 "MONTHLY_BUDGET_LABEL": "Monthly budget",
@@ -277783,7 +278161,7 @@
                 "CUSTOMERS_SUBTEXT": "AI agents are part of the FastComments platform. Sign up free, switch any agent to dry-run, watch what it would do, then go live.",
                 "FAQ_Q_DRY_RUN": "How does dry-run mode work?",
                 "FAQ_Q_MODELS": "Which models can I choose?",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
@@ -277958,7 +278336,11 @@
                 "COL_COMMENT_COUNT": "Comments on Single Page",
                 "COL_SITE": "Site",
                 "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
-                "EMPTY_STATE": "No examples available right now. Check back shortly."
+                "EMPTY_STATE": "No examples available right now. Check back shortly.",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most.",
+                "TECH_SHOWCASE_CTA": "View the report"
             },
             "shopify-iframe-redirect": {
                 "PAGE_TITLE": "Redirecting to Shopify...",
@@ -279096,6 +279478,14 @@
                 "FINAL_CTA_HEADING_BOLD": "without changing platforms.",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal.",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents"
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "FROM_NAME": "FastComments Robot",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         },
         "ar": {
@@ -281618,7 +282008,7 @@
                 "FAQ_Q_MODELS": "Which models can I choose?",
                 "FAQ_A_DRY_RUN": "An agent in dry-run runs end-to-end against every matching trigger. It picks tools, generates reasoning, decides on an action, but the action is never executed. Every run is logged so you can review what it would have done before flipping it to enabled.",
                 "FAQ_Q_BUDGET": "How do budget caps work?",
-                "FAQ_A_MODELS": "Today, GLM 5.1 (smarter, slightly slower) and GPT-OSS 120B Turbo (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
+                "FAQ_A_MODELS": "Today, GLM 5.2 (smarter, slightly slower) and GPT-OSS 120B (faster). Both are hosted by providers that don't train on your data. We add new models as the price-performance frontier moves.",
                 "FAQ_A_BUDGET": "Each agent has its own daily and monthly cap, and your account has a rollup. When an agent crosses its cap, it pauses; alerts go out to billing admins at every percentage you've configured. Skipped triggers stay logged so you know exactly what was missed.",
                 "FAQ_Q_REPLAY": "Can I test an agent before turning it on?",
                 "FAQ_Q_EU_DSA": "How are you DSA-ready?",
@@ -282046,7 +282436,9 @@
                 "PACKAGE_SELECT_DISCOUNT_15": "(15% Discount)",
                 "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
                 "PACKAGE_SELECT_STARTS_AT": "Starts at $0.99",
-                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+                "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+                "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency.",
+                "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different."
             },
             "common-party-button": {
                 "PARTY_BUTTON_IGNORE_ALT": "Ignore"
@@ -282907,7 +283299,11 @@
                 "COL_SITE": "Site",
                 "EMPTY_STATE": "No examples available right now. Check back shortly.",
                 "COL_COMMENT_COUNT": "Comments on Single Page",
-                "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only."
+                "HERO_DESCRIPTION": "An automatically generated list of pages with FastComments enabled. See how different sites customize or set up the comment widget. Note that the largest sites (500k+ comments on a page) gate comments behind logins or are NSFW. This list includes publicly accessible safe-for-work pages only.",
+                "TECH_SHOWCASE_EYEBROW": "Customer report",
+                "TECH_SHOWCASE_CTA": "View the report",
+                "TECH_SHOWCASE_TITLE": "Tech teams on FastComments",
+                "TECH_SHOWCASE_DESCRIPTION": "Developer publishers, software products and fintech teams using FastComments, and the threads their readers talk about most."
             },
             "global-distribution": {
                 "PAGE_TITLE": "Global Distribution - FastComments",
@@ -284297,7 +284693,7 @@
                 "STATUS_OPTION_ENABLED_HINT": "The agent takes real actions on comments and users.",
                 "MODEL_HINT": "Pick the model this agent should use.",
                 "MODEL_OPTION_GLM_5_2": "GLM 5.2 (DeepInfra) - Smarter, bit slower",
-                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B Turbo (DeepInfra) - Faster",
+                "MODEL_OPTION_GPT_OSS": "GPT-OSS 120B (DeepInfra) - Faster",
                 "MODEL_LABEL": "LLM model",
                 "BUDGET_HINT": "Caps how much this agent can spend before it stops dispatching. Shown in your account currency.",
                 "MAX_TOKENS_LABEL": "Max tokens per trigger",
@@ -284941,7 +285337,8 @@
                 "LINK_CANCEL_SUBSCRIPTION": "Cancel Subscription",
                 "LINK_LIFT_TRIAL_LIMITS": "Lift Trial Limits",
                 "LINK_ACTIVATE_TRIAL_LIMITS": "Activate Trial Limits",
-                "LINK_DELETE_ACCOUNT": "Delete Account"
+                "LINK_DELETE_ACCOUNT": "Delete Account",
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
             },
             "my-account-cancel": {
                 "HEADING_CONFIRMATION": "Confirmation",
@@ -286172,7 +286569,7 @@
                 "INVOICE_CURRENCY_LABEL": "Invoice Currency",
                 "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
                 "ERROR_COMPANY_NAME_REQUIRED": "The company name can't be empty - other settings were saved.",
-                "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+                "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
                 "ADDRESS_HEADING": "Billing Address",
                 "PLACEHOLDER_NAME": "Your Name",
                 "LABEL_NAME": "Name",
@@ -290433,6 +290830,14 @@
                 "FINAL_CTA_HEADING_BOLD": "without changing platforms.",
                 "FINAL_CTA_SUB": "Tell us about your community, your guidelines, and your traffic. We will come back with a proposal.",
                 "FINAL_CTA_AI_AGENTS": "See AI Agents"
+            },
+            "tenant-subscription-currency-change": {
+                "INTRO": "Hey <%= username %>,",
+                "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
+                "FROM_NAME": "FastComments Robot",
+                "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
+                "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
+                "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
             }
         }
     }

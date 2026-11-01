@@ -1,0 +1,8 @@
+{
+    "INTRO": "Hallo <%= username %>,",
+    "SUBJECT": "Ihr FastComments-Abonnement wird in <%= currency %> verlängert",
+    "FROM_NAME": "FastComments-Roboter",
+    "DETAILS_LINE_ONE_YEAR": "Ihre Rechnungswährung ist auf <%= currency %> eingestellt, daher wird Ihr Abonnement für <%= tenantName %> ab Ihrer nächsten Verlängerung am <%= switchDate %> mit <%= newAmount %> pro Jahr statt <%= oldAmount %> abgerechnet.",
+    "DETAILS_LINE_ONE_MONTH": "Ihre Rechnungswährung ist auf <%= currency %> eingestellt, daher wird Ihr Abonnement für <%= tenantName %> ab Ihrer nächsten Verlängerung am <%= switchDate %> mit <%= newAmount %> pro Monat statt <%= oldAmount %> abgerechnet.",
+    "DETAILS_LINE_TWO": "Bis dahin ändert sich nichts, und Ihre gespeicherte Karte wird verwendet. Wenn Sie lieber weiterhin in <%= oldCurrency %> bezahlen möchten, <a href=\"<%= billingPageURL %>\">ändern Sie hier Ihre Rechnungswährung</a>, bevor dieses Datum erreicht ist."
+}

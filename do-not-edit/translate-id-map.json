@@ -102,7 +102,7 @@
         "common-demo-animation": 5,
         "common-image-select": 2,
         "common-my-account-users-user": 19,
-        "common-package-select": 12,
+        "common-package-select": 14,
         "common-party-button": 1,
         "common-user-profile": 3,
         "company": 18,
@@ -144,7 +144,7 @@
         "my-account-badge-users": 15,
         "my-account-billing-analytics": 14,
         "my-account-billing-history": 28,
-        "my-account-billing-info": 67,
+        "my-account-billing-info": 68,
         "my-account-cancel": 8,
         "my-account-cancel-failure": 4,
         "my-account-cancel-success": 5,
@@ -399,7 +399,7 @@
         "packages-shopify": 36,
         "email-redirect-expired": 4,
         "comment-ui-online-users": 16,
-        "examples": 8,
+        "examples": 12,
         "shopify-iframe-redirect": 4,
         "ratings-reviews-helper": 6,
         "lti-v1p3-deep-link-return": 4,
@@ -442,7 +442,8 @@
         "tenant-domain-approval-request": 10,
         "my-account-configure-domains-approve-confirm": 6,
         "reviews": 15,
-        "human-moderation": 135
+        "human-moderation": 135,
+        "tenant-subscription-currency-change": 6
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -2759,7 +2760,9 @@
         "t9": "PACKAGE_SELECT_UNAVAILABLE",
         "t10": "PACKAGE_SELECT_SELECT",
         "t11": "PACKAGE_SELECT_SELECT_OPTION",
-        "t12": "PACKAGE_SELECT_FLEX_NOTE"
+        "t12": "PACKAGE_SELECT_FLEX_NOTE",
+        "t13": "PACKAGE_SELECT_USD_NOTE",
+        "t14": "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE"
     },
     "common-party-button": {
         "t1": "PARTY_BUTTON_IGNORE_ALT"
@@ -4238,7 +4241,8 @@
         "t64": "FLEX_LIMIT_MAX_VALUE",
         "t65": "FLEX_LIMIT_EDIT",
         "t66": "FLEX_NEXT_INVOICE",
-        "t67": "ERROR_NOT_BILLING_ADMIN"
+        "t67": "ERROR_NOT_BILLING_ADMIN",
+        "t68": "ERROR_PAYMENT_INCOMPLETE"
     },
     "my-account-cancel": {
         "t1": "PAGE_TITLE",
@@ -11721,7 +11725,11 @@
         "t5": "HERO_DESCRIPTION",
         "t6": "COL_SITE",
         "t7": "COL_COMMENT_COUNT",
-        "t8": "EMPTY_STATE"
+        "t8": "EMPTY_STATE",
+        "t9": "TECH_SHOWCASE_EYEBROW",
+        "t10": "TECH_SHOWCASE_TITLE",
+        "t11": "TECH_SHOWCASE_DESCRIPTION",
+        "t12": "TECH_SHOWCASE_CTA"
     },
     "shopify-iframe-redirect": {
         "t1": "PAGE_TITLE",
@@ -13487,5 +13495,13 @@
         "t133": "FINAL_CTA_HEADING_BOLD",
         "t134": "FINAL_CTA_SUB",
         "t135": "FINAL_CTA_AI_AGENTS"
+    },
+    "tenant-subscription-currency-change": {
+        "t1": "INTRO",
+        "t2": "FROM_NAME",
+        "t3": "SUBJECT",
+        "t4": "DETAILS_LINE_ONE_YEAR",
+        "t5": "DETAILS_LINE_ONE_MONTH",
+        "t6": "DETAILS_LINE_TWO"
     }
 }

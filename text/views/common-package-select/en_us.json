@@ -10,5 +10,7 @@
     "PACKAGE_SELECT_UNAVAILABLE": "Unavailable",
     "PACKAGE_SELECT_SELECT": "Select",
     "PACKAGE_SELECT_SELECT_OPTION": "Select This Option",
-    "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly."
+    "PACKAGE_SELECT_FLEX_NOTE": "* Flex is always billed monthly.",
+    "PACKAGE_SELECT_USD_NOTE": "Fixed plans are billed in USD for your selected invoice currency. Choose Flex to be invoiced in your currency.",
+    "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Your current subscription keeps billing in its original currency, even if your invoice currency setting is different."
 }

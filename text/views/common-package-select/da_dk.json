@@ -10,5 +10,7 @@
     "PACKAGE_SELECT_UNAVAILABLE": "Ikke tilgængelig",
     "PACKAGE_SELECT_SELECT": "Vælg",
     "PACKAGE_SELECT_SELECT_OPTION": "Vælg denne mulighed",
-    "PACKAGE_SELECT_FLEX_NOTE": "* Flex faktureres altid månedligt."
+    "PACKAGE_SELECT_FLEX_NOTE": "* Flex faktureres altid månedligt.",
+    "PACKAGE_SELECT_USD_NOTE": "Faste abonnementer faktureres i USD for din valgte fakturavaluta. Vælg Flex for at blive faktureret i din valuta.",
+    "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Dit nuværende abonnement faktureres fortsat i den oprindelige valuta, selvom din fakturavaluta er anderledes."
 }

@@ -64,5 +64,6 @@
     "FLEX_LIMIT_NOT_CONFIGURED": "Brak skonfigurowanego limitu",
     "FLEX_LIMIT_MAX_VALUE": "Do [amount]/mies.",
     "FLEX_NEXT_INVOICE": "Kwota następnej faktury:",
-    "ERROR_NOT_BILLING_ADMIN": "Limity wydatków może zmieniać tylko właściciel konta lub administrator ds. rozliczeń."
+    "ERROR_NOT_BILLING_ADMIN": "Limity wydatków może zmieniać tylko właściciel konta lub administrator ds. rozliczeń.",
+    "ERROR_PAYMENT_INCOMPLETE": "Twój bank nie zatwierdził płatności. Spróbuj ponownie lub użyj innej karty."
 }

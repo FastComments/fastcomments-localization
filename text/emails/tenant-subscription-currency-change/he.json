@@ -1,0 +1,8 @@
+{
+    "INTRO": "היי <%= username %>,",
+    "FROM_NAME": "רובוט FastComments",
+    "SUBJECT": "תוכנית FastComments שלך תחודש ב-<%= currency %>",
+    "DETAILS_LINE_ONE_YEAR": "מטבע החשבונית שלך מוגדר ל-<%= currency %>, כך שמהחידוש הבא שלך בתאריך <%= switchDate %> התוכנית <%= tenantName %> שלך תחויב ב-<%= newAmount %> לשנה במקום <%= oldAmount %>.",
+    "DETAILS_LINE_ONE_MONTH": "מטבע החשבונית שלך מוגדר ל-<%= currency %>, כך שמהחידוש הבא שלך בתאריך <%= switchDate %> התוכנית <%= tenantName %> שלך תחויב ב-<%= newAmount %> לחודש במקום <%= oldAmount %>.",
+    "DETAILS_LINE_TWO": "שום דבר לא ישתנה לפני כן וייעשה שימוש בכרטיס השמור שלך. אם אתה מעדיף להמשיך לשלם ב-<%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">שנה את מטבע החשבונית שלך כאן</a> לפני תאריך זה."
+}

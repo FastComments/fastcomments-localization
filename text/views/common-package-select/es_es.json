@@ -10,5 +10,7 @@
     "PACKAGE_SELECT_UNAVAILABLE": "No disponible",
     "PACKAGE_SELECT_SELECT": "Seleccionar",
     "PACKAGE_SELECT_SELECT_OPTION": "Seleccione esta opción",
-    "PACKAGE_SELECT_FLEX_NOTE": "*Flex siempre se factura mensualmente."
+    "PACKAGE_SELECT_FLEX_NOTE": "*Flex siempre se factura mensualmente.",
+    "PACKAGE_SELECT_USD_NOTE": "Con la moneda de factura que has seleccionado, los planes fijos se facturan en USD. Elige Flex para que se te facture en tu moneda.",
+    "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Tu suscripción actual mantiene la facturación en su moneda original, incluso si la configuración de la moneda de tu factura es diferente."
 }

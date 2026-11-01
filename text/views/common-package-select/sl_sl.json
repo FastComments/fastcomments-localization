@@ -10,5 +10,7 @@
     "PACKAGE_SELECT_UNAVAILABLE": "Ni na voljo",
     "PACKAGE_SELECT_SELECT": "Izberite",
     "PACKAGE_SELECT_SELECT_OPTION": "Izberite to možnost",
-    "PACKAGE_SELECT_FLEX_NOTE": "* Flex se vedno zaračunava mesečno."
+    "PACKAGE_SELECT_FLEX_NOTE": "* Flex se vedno zaračunava mesečno.",
+    "PACKAGE_SELECT_USD_NOTE": "Fiksni paketi se obračunavajo v USD za izbrano valuto računa. Izberite Flex, če želite, da se vam računi izstavijo v vaši valuti.",
+    "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Vaša trenutna naročnina se še naprej obračunava v prvotni valuti, tudi če je valuta vašega računa drugačna."
 }

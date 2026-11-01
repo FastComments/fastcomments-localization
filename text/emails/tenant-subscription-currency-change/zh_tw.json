@@ -1,0 +1,8 @@
+{
+    "INTRO": "嘿 <%= username %>，",
+    "SUBJECT": "您的 FastComments 方案將以 <%= currency %> 續約",
+    "FROM_NAME": "FastComments 機器人",
+    "DETAILS_LINE_ONE_MONTH": "您的發票貨幣設定為<%= currency %>，因此從您下次續約日期<%= switchDate %>開始，您的<%= tenantName %>方案將按每月<%= newAmount %>計費，而不是<%= oldAmount %>。",
+    "DETAILS_LINE_ONE_YEAR": "您的發票貨幣設定為<%= currency %>，因此從您下次續約日期<%= switchDate %>開始，您的<%= tenantName %>方案將按每年<%= newAmount %>計費，而不是<%= oldAmount %>。",
+    "DETAILS_LINE_TWO": "在此日期之前一切照舊，您已儲存的銀行卡將繼續使用。如果您希望繼續以<%= oldCurrency %>支付，請在此日期之前<a href=\"<%= billingPageURL %>\">在此更改您的發票貨幣</a>。"
+}

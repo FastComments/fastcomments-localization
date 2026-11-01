@@ -9,7 +9,7 @@
     "INVOICE_EMAIL_HELP": "Bu e-posta faturalar ve ödeme bildirimleri için kullanılacaktır.",
     "INVOICE_CURRENCY_LABEL": "Fatura Para Birimi",
     "SELECT_CURRENCY": "Para Birimi Seçin",
-    "INVOICE_CURRENCY_HELP": "Bu para birimi yeni abonelikler ve faturalar için kullanılacaktır.",
+    "INVOICE_CURRENCY_HELP": "Herhangi bir para biriminde Flex faturaları için kullanılır. Yeni sabit planlar, seçilirse EUR veya GBP cinsinden, seçilmediyse USD cinsinden faturalandırılır. Mevcut abonelikler orijinal para birimini korur.",
     "SAVE_CHANGES": "Değişiklikleri Kaydet",
     "ERROR_STRIPE_UPDATE_FAILED": "Stripe'ta faturalama e-postası güncellenemedi. Lütfen tekrar deneyin veya destek ekibiyle iletişime geçin.",
     "ADDRESS_HEADING": "Fatura Adresi",

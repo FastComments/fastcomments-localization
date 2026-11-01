@@ -9,7 +9,7 @@
     "INVOICE_EMAIL_HELP": "This email will be used for invoices and billing notifications.",
     "INVOICE_CURRENCY_LABEL": "Invoice Currency",
     "SELECT_CURRENCY": "Select Currency",
-    "INVOICE_CURRENCY_HELP": "This currency will be used for new subscriptions and invoices.",
+    "INVOICE_CURRENCY_HELP": "Used for Flex invoices in any currency. New fixed plans bill in EUR or GBP if selected, and in USD otherwise. Existing subscriptions keep their original currency.",
     "SAVE_CHANGES": "Save Changes",
     "ADDRESS_HEADING": "Billing Address",
     "LABEL_NAME": "Name",

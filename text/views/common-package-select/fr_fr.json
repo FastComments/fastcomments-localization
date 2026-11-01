@@ -10,5 +10,7 @@
     "PACKAGE_SELECT_UNAVAILABLE": "Indisponible",
     "PACKAGE_SELECT_SELECT": "Sélectionner",
     "PACKAGE_SELECT_SELECT_OPTION": "Sélectionnez cette option",
-    "PACKAGE_SELECT_FLEX_NOTE": "* Flex est toujours facturé mensuellement."
+    "PACKAGE_SELECT_FLEX_NOTE": "* Flex est toujours facturé mensuellement.",
+    "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Votre abonnement actuel continue d'être facturé dans sa devise d'origine, même si la devise de votre facture est différente.",
+    "PACKAGE_SELECT_USD_NOTE": "Avec la devise de facture que vous avez sélectionnée, les forfaits fixes sont facturés en USD. Choisissez Flex pour être facturé dans votre devise."
 }

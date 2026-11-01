@@ -9,7 +9,7 @@
     "INVOICE_EMAIL_HELP": "Ova e-pošta će se koristiti za fakture i obaveštenja o naplati.",
     "INVOICE_CURRENCY_LABEL": "Valuta fakture",
     "SELECT_CURRENCY": "Izaberite valutu",
-    "INVOICE_CURRENCY_HELP": "Ova valuta će se koristiti za nove pretplate i fakture.",
+    "INVOICE_CURRENCY_HELP": "Koristi se za Flex fakture u bilo kojoj valuti. Novi fiksni planovi se naplaćuju u EUR ili GBP ako je to izabrano, a u suprotnom u USD. Postojeće pretplate zadržavaju svoju originalnu valutu.",
     "SAVE_CHANGES": "Sačuvaj izmene",
     "ERROR_STRIPE_UPDATE_FAILED": "Ažuriranje e-pošte za naplatu u Stripe-u nije uspelo. Pokušajte ponovo ili kontaktirajte podršku.",
     "ADDRESS_HEADING": "Adresa za naplatu",

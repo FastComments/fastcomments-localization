@@ -9,7 +9,7 @@
     "INVOICE_EMAIL_HELP": "Dit e-mailadres wordt gebruikt voor facturen en betalingsherinneringen.",
     "INVOICE_CURRENCY_LABEL": "Factuurvaluta",
     "SELECT_CURRENCY": "Valuta selecteren",
-    "INVOICE_CURRENCY_HELP": "Deze valuta wordt gebruikt voor nieuwe abonnementen en facturen.",
+    "INVOICE_CURRENCY_HELP": "Wordt gebruikt voor Flex-facturen in elke valuta. Nieuwe vaste abonnementen worden gefactureerd in EUR of GBP indien geselecteerd, en anders in USD. Bestaande abonnementen behouden hun oorspronkelijke valuta.",
     "SAVE_CHANGES": "Wijzigingen opslaan",
     "ERROR_STRIPE_UPDATE_FAILED": "Het bijwerken van het facturerings-e-mailadres in Stripe is mislukt. Probeer het opnieuw of neem contact op met de klantenservice.",
     "ADDRESS_HEADING": "Factuuradres",

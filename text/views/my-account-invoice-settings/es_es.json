@@ -9,7 +9,7 @@
     "INVOICE_EMAIL_HELP": "Este correo electrónico se utilizará para facturas y notificaciones de facturación.",
     "INVOICE_CURRENCY_LABEL": "Moneda de la factura",
     "SELECT_CURRENCY": "Seleccionar moneda",
-    "INVOICE_CURRENCY_HELP": "Esta moneda se utilizará para nuevas suscripciones y facturas.",
+    "INVOICE_CURRENCY_HELP": "Se utiliza para las facturas Flex en cualquier moneda. Los nuevos planes fijos se facturan en EUR o GBP si se selecciona una de estas monedas, y en USD en caso contrario. Las suscripciones existentes conservan su moneda original.",
     "SAVE_CHANGES": "Guardar cambios",
     "ERROR_STRIPE_UPDATE_FAILED": "No se pudo actualizar el correo electrónico de facturación en Stripe. Inténtalo de nuevo o contacta con el servicio de asistencia.",
     "ADDRESS_HEADING": "Dirección de facturación",

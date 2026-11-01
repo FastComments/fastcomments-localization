@@ -1,0 +1,8 @@
+{
+    "INTRO": "يا <%= username %>،",
+    "SUBJECT": "سيتم تجديد خطة FastComments الخاصة بك في <%= currency %>",
+    "FROM_NAME": "روبوت التعليقات السريعة",
+    "DETAILS_LINE_ONE_YEAR": "تم تعيين عملة فاتورتك إلى <%= currency %>، لذا ابتداءً من تجديدك التالي في <%= switchDate %>، سيتم فوترة خطة <%= tenantName %> الخاصة بك بمبلغ <%= newAmount %> سنويًا بدلاً من <%= oldAmount %>.",
+    "DETAILS_LINE_ONE_MONTH": "تم تعيين عملة فاتورتك إلى <%= currency %>، لذا ابتداءً من تجديدك التالي في <%= switchDate %>، سيتم فوترة خطة <%= tenantName %> الخاصة بك بمبلغ <%= newAmount %> شهريًا بدلاً من <%= oldAmount %>.",
+    "DETAILS_LINE_TWO": "لن يطرأ أي تغيير قبل ذلك التاريخ، وسيتم استخدام بطاقتك المحفوظة. إذا كنت تفضل الاستمرار في الدفع بعملة <%= oldCurrency %>، <a href=\"<%= billingPageURL %>\">فغيّر عملة فاتورتك هنا</a> قبل ذلك التاريخ."
+}

@@ -64,5 +64,6 @@
     "FLEX_LIMIT_MAX_VALUE": "Do [amount]/mjesečno",
     "FLEX_LIMIT_TITLE": "Mjesečno ograničenje potrošnje",
     "FLEX_NEXT_INVOICE": "Sljedeći iznos računa:",
-    "ERROR_NOT_BILLING_ADMIN": "Samo vlasnik računa ili administrator naplate može promijeniti ograničenja potrošnje."
+    "ERROR_NOT_BILLING_ADMIN": "Samo vlasnik računa ili administrator naplate može promijeniti ograničenja potrošnje.",
+    "ERROR_PAYMENT_INCOMPLETE": "Vaša banka nije odobrila plaćanje. Pokušajte ponovno ili upotrijebite drugu karticu."
 }

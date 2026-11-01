@@ -10,5 +10,7 @@
     "PACKAGE_SELECT_UNAVAILABLE": "Mevcut değil",
     "PACKAGE_SELECT_SELECT": "Seç",
     "PACKAGE_SELECT_SELECT_OPTION": "Bu seçeneği seçin",
-    "PACKAGE_SELECT_FLEX_NOTE": "* Flex'in faturası her zaman aylık olarak kesilir."
+    "PACKAGE_SELECT_FLEX_NOTE": "* Flex'in faturası her zaman aylık olarak kesilir.",
+    "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "Fatura para birimi ayarınız farklı olsa bile, mevcut aboneliğiniz orijinal para biriminde faturalandırılmaya devam eder.",
+    "PACKAGE_SELECT_USD_NOTE": "Seçtiğiniz fatura para birimi için sabit planlar USD cinsinden faturalandırılır. Kendi para biriminizde faturalandırılmak için Flex'i seçin."
 }

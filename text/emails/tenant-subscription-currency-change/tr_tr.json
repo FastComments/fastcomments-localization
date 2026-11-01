@@ -1,0 +1,8 @@
+{
+    "INTRO": "Merhaba <%= username %>,",
+    "FROM_NAME": "FastComments Robotu",
+    "SUBJECT": "FastComments planınız <%= currency %> cinsinden yenilenecek",
+    "DETAILS_LINE_ONE_YEAR": "Fatura para biriminiz <%= currency %> olarak ayarlandığından, <%= switchDate %> tarihindeki bir sonraki yenilemeden itibaren <%= tenantName %> planınız <%= oldAmount %> yerine yıllık <%= newAmount %> olarak faturalandırılacaktır.",
+    "DETAILS_LINE_ONE_MONTH": "Fatura para biriminiz <%= currency %> olarak ayarlandığından, <%= switchDate %> tarihindeki bir sonraki yenilemeden itibaren <%= tenantName %> planınız <%= oldAmount %> yerine aylık <%= newAmount %> olarak faturalandırılacaktır.",
+    "DETAILS_LINE_TWO": "O tarihe kadar hiçbir şey değişmeyecek ve kayıtlı kartınız kullanılacaktır. <%= oldCurrency %> cinsinden ödeme yapmaya devam etmek istiyorsanız, o tarihten önce <a href=\"<%= billingPageURL %>\">fatura para biriminizi buradan değiştirin</a>."
+}

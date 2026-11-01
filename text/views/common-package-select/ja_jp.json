@@ -10,5 +10,7 @@
     "PACKAGE_SELECT_UNAVAILABLE": "利用できません",
     "PACKAGE_SELECT_SELECT": "選択",
     "PACKAGE_SELECT_SELECT_OPTION": "このオプションを選択",
-    "PACKAGE_SELECT_FLEX_NOTE": "* Flex は常に月ごとに請求されます。"
+    "PACKAGE_SELECT_FLEX_NOTE": "* Flex は常に月ごとに請求されます。",
+    "PACKAGE_SELECT_SUBSCRIPTION_CURRENCY_NOTE": "請求通貨の設定が異なっていても、現在のサブスクリプションは元の通貨で引き続き請求されます。",
+    "PACKAGE_SELECT_USD_NOTE": "固定プランは、選択された請求通貨にかかわらず USD で請求されます。お客様の通貨で請求を受けるには Flex を選択してください。"
 }

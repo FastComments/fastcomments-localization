@@ -9,7 +9,7 @@
     "INVOICE_EMAIL_HELP": "Este endereço de e-mail será utilizado para o envio de faturas e notificações de cobrança.",
     "INVOICE_CURRENCY_LABEL": "Moeda da fatura",
     "SELECT_CURRENCY": "Selecione a moeda",
-    "INVOICE_CURRENCY_HELP": "Essa moeda será utilizada para novas assinaturas e faturas.",
+    "INVOICE_CURRENCY_HELP": "Utilizada para faturas Flex em qualquer moeda. Novos planos fixos são cobrados em EUR ou GBP, se uma dessas moedas for selecionada, e em USD caso contrário. As assinaturas existentes mantêm a moeda original.",
     "SAVE_CHANGES": "Salvar alterações",
     "ERROR_STRIPE_UPDATE_FAILED": "Não foi possível atualizar o e-mail de cobrança no Stripe. Tente novamente ou entre em contato com o suporte.",
     "ADDRESS_HEADING": "Endereço de Cobrança",
