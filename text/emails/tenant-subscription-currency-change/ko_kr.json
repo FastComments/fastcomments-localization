@@ -1,8 +1,0 @@
-{
-    "INTRO": "안녕하세요 <%= username %>,",
-    "FROM_NAME": "FastComments 로봇",
-    "SUBJECT": "FastComments 요금제 갱신 시 <%= currency %>로 청구됩니다",
-    "DETAILS_LINE_ONE_YEAR": "청구서 통화가 <%= currency %>로 설정되어 있으므로, 다음 갱신일인 <%= switchDate %>부터는 <%= tenantName %> 요금제가 <%= oldAmount %> 대신 연간 <%= newAmount %>로 청구됩니다.",
-    "DETAILS_LINE_ONE_MONTH": "청구서 통화가 <%= currency %>로 설정되어 있으므로, 다음 갱신일인 <%= switchDate %>부터는 <%= tenantName %> 요금제가 <%= oldAmount %> 대신 매월 <%= newAmount %>로 청구됩니다.",
-    "DETAILS_LINE_TWO": "그때까지는 아무것도 변경되지 않으며 저장된 카드 정보가 사용됩니다. <%= oldCurrency %>로 계속 결제하시려면 해당 날짜 전에 <a href=\"<%= billingPageURL %>\">여기에서 청구서 통화를 변경하세요</a>."
-}

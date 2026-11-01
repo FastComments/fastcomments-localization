@@ -1,8 +1,0 @@
-{
-    "INTRO": "<%= username %> さん、",
-    "FROM_NAME": "FastComments ロボット",
-    "SUBJECT": "あなたの FastComments プランは <%= currency %> で更新されます",
-    "DETAILS_LINE_ONE_MONTH": "請求通貨が<%= currency %>に設定されているため、<%= switchDate %>の次回更新以降、<%= tenantName %>プランは<%= oldAmount %>ではなく月額<%= newAmount %>で請求されます。",
-    "DETAILS_LINE_ONE_YEAR": "請求通貨が<%= currency %>に設定されているため、<%= switchDate %>の次回更新以降、<%= tenantName %>プランは<%= oldAmount %>ではなく年額<%= newAmount %>で請求されます。",
-    "DETAILS_LINE_TWO": "それまでは何も変更されず、登録済みのカードが使用されます。引き続き<%= oldCurrency %>でのお支払いをご希望の場合は、その日までに<a href=\"<%= billingPageURL %>\">こちらから請求通貨を変更してください</a>。"
-}

@@ -1,8 +1,0 @@
-{
-    "INTRO": "Hej <%= username %>,",
-    "FROM_NAME": "FastComments Robot",
-    "SUBJECT": "Dit FastComments-abonnement fornyes i <%= currency %>",
-    "DETAILS_LINE_ONE_MONTH": "Din fakturavaluta er indstillet til <%= currency %>, så fra din næste fornyelse den <%= switchDate %> vil dit <%= tenantName %>-abonnement blive faktureret <%= newAmount %> pr. måned i stedet for <%= oldAmount %>.",
-    "DETAILS_LINE_ONE_YEAR": "Din fakturavaluta er indstillet til <%= currency %>, så fra din næste fornyelse den <%= switchDate %> vil dit <%= tenantName %>-abonnement blive faktureret <%= newAmount %> pr. år i stedet for <%= oldAmount %>.",
-    "DETAILS_LINE_TWO": "Intet ændres før da, og dit gemte kort vil blive brugt. Hvis du hellere vil fortsætte med at betale i <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">skal du ændre din fakturavaluta her</a> inden denne dato."
-}

@@ -1,8 +1,0 @@
-{
-    "INTRO": "Hoi <%= username %>,",
-    "SUBJECT": "Uw FastComments-abonnement wordt verlengd in <%= currency %>",
-    "FROM_NAME": "FastComments-robot",
-    "DETAILS_LINE_ONE_MONTH": "Uw factuurvaluta is ingesteld op <%= currency %>, dus vanaf uw volgende verlenging op <%= switchDate %> wordt uw abonnement voor <%= tenantName %> gefactureerd tegen <%= newAmount %> per maand in plaats van <%= oldAmount %>.",
-    "DETAILS_LINE_ONE_YEAR": "Uw factuurvaluta is ingesteld op <%= currency %>, dus vanaf uw volgende verlenging op <%= switchDate %> wordt uw abonnement voor <%= tenantName %> gefactureerd tegen <%= newAmount %> per jaar in plaats van <%= oldAmount %>.",
-    "DETAILS_LINE_TWO": "Er verandert niets tot die datum en uw opgeslagen kaart wordt gebruikt. Als u liever in <%= oldCurrency %> blijft betalen, <a href=\"<%= billingPageURL %>\">wijzig dan hier uw factuurvaluta</a> vóór die datum."
-}

@@ -1,8 +1,0 @@
-{
-    "INTRO": "Hey <%= username %>,",
-    "FROM_NAME": "FastComments Robot",
-    "SUBJECT": "Your FastComments plan will renew in <%= currency %>",
-    "DETAILS_LINE_ONE_YEAR": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per year instead of <%= oldAmount %>.",
-    "DETAILS_LINE_ONE_MONTH": "Your invoice currency is set to <%= currency %>, so from your next renewal on <%= switchDate %> your <%= tenantName %> plan will be billed <%= newAmount %> per month instead of <%= oldAmount %>.",
-    "DETAILS_LINE_TWO": "Nothing changes before then and your saved card will be used. If you'd rather keep paying in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">change your invoice currency here</a> before that date."
-}

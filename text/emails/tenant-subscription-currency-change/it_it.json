@@ -1,8 +1,0 @@
-{
-    "INTRO": "Ehi <%= username %>,",
-    "SUBJECT": "Il tuo piano FastComments si rinnoverà in <%= currency %>",
-    "FROM_NAME": "Robot FastComments",
-    "DETAILS_LINE_ONE_YEAR": "La valuta della tua fattura è impostata su <%= currency %>, quindi a partire dal tuo prossimo rinnovo, il <%= switchDate %>, il tuo piano <%= tenantName %> verrà fatturato a <%= newAmount %> all'anno invece di <%= oldAmount %>.",
-    "DETAILS_LINE_ONE_MONTH": "La valuta della tua fattura è impostata su <%= currency %>, quindi a partire dal tuo prossimo rinnovo, il <%= switchDate %>, il tuo piano <%= tenantName %> verrà fatturato a <%= newAmount %> al mese invece di <%= oldAmount %>.",
-    "DETAILS_LINE_TWO": "Fino ad allora non cambierà nulla e verrà utilizzata la carta salvata. Se preferisci continuare a pagare in <%= oldCurrency %>, <a href=\"<%= billingPageURL %>\">modifica qui la valuta della fattura</a> prima di tale data."
-}
