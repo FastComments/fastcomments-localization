@@ -8,5 +8,11 @@
     "CHECKBOX_UPLOAD_COMMENTS_HELP": "Możesz przesłać swoje komentarze później ze strony administratora wtyczki.",
     "CHECKBOX_SYNC_DATABASE": "Automatycznie synchronizuj moją bazę danych <%= integrationName %>.",
     "CHECKBOX_SYNC_DATABASE_HELP": "Dzięki temu baza danych <%= integrationName %> jest zawsze aktualna. Przydatne, jeśli któraś z wtyczek wymaga najnowszych komentarzy w bazie danych. Często wyłączane w przypadku witryn o bardzo dużym ruchu, gdzie aktualizowanie <%= integrationName %> powoduje niepożądane obciążenie.",
-    "BUTTON_START_SYNC": "Rozpocznij synchronizację"
+    "BUTTON_START_SYNC": "Rozpocznij synchronizację",
+    "LABEL_SITE": "Witryna",
+    "LABEL_ACCOUNT": "Konto FastComments",
+    "SITE_NO_DOMAIN": "Witryna bez publicznej domeny, na przykład instalacja lokalna",
+    "CONFIRM_SITE_WARNING": "Kontynuuj tylko wtedy, gdy ta operacja została rozpoczęta przez Ciebie na stronie administratora tej witryny. Połączona witryna może uzyskać dostęp do tajnego klucza API tego konta.",
+    "NO_PERMISSION_MESSAGE": "Połączenie witryny wymaga dostępu do tajnego klucza API tego konta. Poproś administratora tego konta o połączenie witryny.",
+    "OTHER_ACCOUNT_MESSAGE": "Ta witryna jest połączona z innym kontem FastComments. Przełącz się na to konto, aby zarządzać witryną."
 }

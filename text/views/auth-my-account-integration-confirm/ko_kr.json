@@ -8,5 +8,11 @@
     "CHECKBOX_UPLOAD_COMMENTS_HELP": "플러그인 관리자 페이지에서 나중에 댓글을 업로드할 수 있습니다.",
     "CHECKBOX_SYNC_DATABASE": "내 <%= integrationName %> 데이터베이스를 자동으로 동기화 상태로 유지해 주세요.",
     "CHECKBOX_SYNC_DATABASE_HELP": "이 기능은 <%= integrationName %> 데이터베이스를 최신 상태로 유지합니다. 플러그인이 데이터베이스의 최신 댓글을 필요로 하는 경우 유용합니다. 하지만 트래픽이 매우 많은 사이트에서는 <%= integrationName %> 데이터베이스를 최신 상태로 유지하는 것이 불필요한 부하를 발생시키므로 일반적으로 이 기능을 비활성화합니다.",
-    "BUTTON_START_SYNC": "동기화 시작"
+    "BUTTON_START_SYNC": "동기화 시작",
+    "LABEL_SITE": "사이트",
+    "LABEL_ACCOUNT": "FastComments 계정",
+    "SITE_NO_DOMAIN": "로컬 설치 환경처럼 공개 도메인이 없는 사이트",
+    "CONFIRM_SITE_WARNING": "이 사이트의 관리자 페이지에서 직접 시작한 경우에만 계속하세요. 연결된 사이트는 이 계정의 API 비밀 키에 액세스할 수 있습니다.",
+    "NO_PERMISSION_MESSAGE": "사이트를 연결하려면 이 계정의 API 비밀 키에 대한 액세스 권한이 필요합니다. 이 계정의 관리자에게 연결을 요청하세요.",
+    "OTHER_ACCOUNT_MESSAGE": "이 사이트는 다른 FastComments 계정에 연결되어 있습니다. 이 사이트를 관리하려면 해당 계정으로 전환하세요."
 }

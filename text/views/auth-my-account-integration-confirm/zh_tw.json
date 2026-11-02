@@ -8,5 +8,11 @@
     "CHECKBOX_UPLOAD_COMMENTS_HELP": "您稍後可以從外掛程式管理頁面上傳您的評論。",
     "CHECKBOX_SYNC_DATABASE": "自動保持我的<%= integrationName %>資料庫同步。",
     "CHECKBOX_SYNC_DATABASE_HELP": "這樣可以保持您的<%= integrationName %>資料庫最新。如果某些外掛程式需要資料庫中的最新評論，這將非常有用。在訪問量非常大的網站中，通常會停用此功能，因為保持<%= integrationName %>資料庫最新會造成不必要的負載。",
-    "BUTTON_START_SYNC": "開始同步"
+    "BUTTON_START_SYNC": "開始同步",
+    "LABEL_SITE": "網站",
+    "LABEL_ACCOUNT": "FastComments 帳戶",
+    "SITE_NO_DOMAIN": "沒有公開網域的網站，例如本機安裝的網站",
+    "CONFIRM_SITE_WARNING": "請僅在您是從此網站的管理頁面發起此操作時繼續。已連接的網站可以存取此帳戶的 API Secret。",
+    "NO_PERMISSION_MESSAGE": "連接網站需要擁有此帳戶 API Secret 的存取權限。請聯絡此帳戶的管理員進行連接。",
+    "OTHER_ACCOUNT_MESSAGE": "此網站已連接到另一個 FastComments 帳戶。請切換到該帳戶進行管理。"
 }

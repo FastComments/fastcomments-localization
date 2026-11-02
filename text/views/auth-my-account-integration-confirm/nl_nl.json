@@ -8,5 +8,11 @@
     "CHECKBOX_UPLOAD_COMMENTS_HELP": "Je kunt je reacties later uploaden via de beheerderspagina van de plugin.",
     "CHECKBOX_SYNC_DATABASE": "Mijn <%= integrationName %> database automatisch synchroniseren.",
     "CHECKBOX_SYNC_DATABASE_HELP": "Dit zorgt ervoor dat uw <%= integrationName %> database up-to-date blijft. Handig als plugins de meest recente reacties in uw database nodig hebben. Wordt vaak uitgeschakeld bij websites met een zeer hoog bezoekersaantal, waar het up-to-date houden van <%= integrationName %> een ongewenste belasting veroorzaakt.",
-    "BUTTON_START_SYNC": "Start synchronisatie"
+    "BUTTON_START_SYNC": "Start synchronisatie",
+    "LABEL_SITE": "Site",
+    "LABEL_ACCOUNT": "FastComments-account",
+    "SITE_NO_DOMAIN": "Een site zonder openbaar domein, zoals een lokale installatie",
+    "CONFIRM_SITE_WARNING": "Ga alleen verder als u dit hebt gestart vanaf de beheerderspagina van deze site. Een gekoppelde site heeft toegang tot het API-geheim van dit account.",
+    "NO_PERMISSION_MESSAGE": "Voor het koppelen van een site is toegang tot het API-geheim van dit account nodig. Vraag een beheerder van dit account om de site te koppelen.",
+    "OTHER_ACCOUNT_MESSAGE": "Deze site is gekoppeld aan een ander FastComments-account. Schakel over naar dat account om de site te beheren."
 }

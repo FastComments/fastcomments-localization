@@ -8,5 +8,11 @@
     "CHECKBOX_UPLOAD_COMMENTS_HELP": "Du kan uploade dine kommentarer senere fra plugin-administratorsiden.",
     "CHECKBOX_SYNC_DATABASE": "Hold automatisk min <%= integrationName %> database synkroniseret.",
     "CHECKBOX_SYNC_DATABASE_HELP": "Dette holder din <%= integrationName %> database opdateret. Nyttigt, hvis plugins kræver de seneste kommentarer i din database. Ofte deaktiveret på websteder med meget stor trafik, hvor det at holde <%= integrationName %> opdateret skaber uønsket belastning.",
-    "BUTTON_START_SYNC": "Start synkronisering"
+    "BUTTON_START_SYNC": "Start synkronisering",
+    "LABEL_SITE": "Websted",
+    "LABEL_ACCOUNT": "FastComments-konto",
+    "SITE_NO_DOMAIN": "Et websted uden offentligt domæne, f.eks. en lokal installation",
+    "CONFIRM_SITE_WARNING": "Fortsæt kun, hvis du har startet dette fra administratorsiden på dette websted. Et forbundet websted kan få adgang til denne kontos API-hemmelighed.",
+    "NO_PERMISSION_MESSAGE": "Det kræver adgang til denne kontos API-hemmelighed at forbinde et websted. Bed en administrator på denne konto om at forbinde det.",
+    "OTHER_ACCOUNT_MESSAGE": "Dette websted er forbundet med en anden FastComments-konto. Skift til den konto for at administrere det."
 }

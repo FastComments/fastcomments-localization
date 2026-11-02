@@ -8,5 +8,11 @@
     "CHECKBOX_UPLOAD_COMMENTS_HELP": "Kasnije možete da otpremite svoje komentare sa stranice administratora dodatka.",
     "CHECKBOX_SYNC_DATABASE": "Automatski držite moju bazu podataka <%= integrationName %> sinhronizovanu.",
     "CHECKBOX_SYNC_DATABASE_HELP": "Ovo održava vašu <%= integrationName %> bazu podataka ažurnom. Korisno ako neki dodaci zahtevaju najnovije komentare u vašoj bazi podataka. Često se onemogućava na sajtovima sa veoma velikim obimom, gde održavanje baze <%= integrationName %> ažurnom stvara neželjeno opterećenje.",
-    "BUTTON_START_SYNC": "Pokreni sinhronizaciju"
+    "BUTTON_START_SYNC": "Pokreni sinhronizaciju",
+    "LABEL_SITE": "Sajt",
+    "LABEL_ACCOUNT": "FastComments nalog",
+    "SITE_NO_DOMAIN": "Sajt bez javnog domena, na primer lokalna instalacija",
+    "CONFIRM_SITE_WARNING": "Nastavite samo ako ste ovaj postupak pokrenuli sa administratorske stranice ovog sajta. Povezani sajt može da pristupi API tajni ovog naloga.",
+    "NO_PERMISSION_MESSAGE": "Za povezivanje sajta potreban je pristup API tajni ovog naloga. Zamolite administratora ovog naloga da poveže sajt.",
+    "OTHER_ACCOUNT_MESSAGE": "Ovaj sajt je povezan sa drugim FastComments nalogom. Pređite na taj nalog da biste upravljali sajtom."
 }

@@ -8,5 +8,11 @@
     "CHECKBOX_UPLOAD_COMMENTS_HELP": "您稍后可以从插件管理页面上传您的评论。",
     "CHECKBOX_SYNC_DATABASE": "自动保持我的<%= integrationName %>数据库同步。",
     "CHECKBOX_SYNC_DATABASE_HELP": "这样可以保持您的<%= integrationName %>数据库最新。如果某些插件需要数据库中的最新评论，这将非常有用。在访问量非常大的网站中，通常会禁用此功能，因为保持<%= integrationName %>数据库最新会造成不必要的负载。",
-    "BUTTON_START_SYNC": "开始同步"
+    "BUTTON_START_SYNC": "开始同步",
+    "LABEL_SITE": "网站",
+    "LABEL_ACCOUNT": "FastComments 账户",
+    "SITE_NO_DOMAIN": "没有公开域名的网站，例如本地安装的网站",
+    "CONFIRM_SITE_WARNING": "请仅在您是从此网站的管理页面发起此操作时继续。已连接的网站可以访问此账户的 API Secret。",
+    "NO_PERMISSION_MESSAGE": "连接网站需要拥有此账户 API Secret 的访问权限。请联系此账户的管理员进行连接。",
+    "OTHER_ACCOUNT_MESSAGE": "此网站已连接到另一个 FastComments 账户。请切换到该账户进行管理。"
 }

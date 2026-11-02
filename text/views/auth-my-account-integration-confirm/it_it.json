@@ -8,5 +8,11 @@
     "CHECKBOX_UPLOAD_COMMENTS_HELP": "Puoi caricare i tuoi commenti in un secondo momento dalla pagina di amministrazione del plugin.",
     "CHECKBOX_SYNC_DATABASE": "Mantieni automaticamente sincronizzato il mio database <%= integrationName %>.",
     "CHECKBOX_SYNC_DATABASE_HELP": "Mantiene aggiornato il tuo database <%= integrationName %>. Utile se qualche plugin richiede i commenti più recenti nel tuo database. Comunemente disabilitato nei siti con volumi di traffico molto elevati, dove mantenere aggiornato <%= integrationName %> crea un carico indesiderato.",
-    "BUTTON_START_SYNC": "Avvia sincronizzazione"
+    "BUTTON_START_SYNC": "Avvia sincronizzazione",
+    "LABEL_SITE": "Sito",
+    "LABEL_ACCOUNT": "Account FastComments",
+    "SITE_NO_DOMAIN": "Un sito senza dominio pubblico, ad esempio un'installazione locale",
+    "CONFIRM_SITE_WARNING": "Continua solo se hai avviato questa procedura dalla pagina di amministrazione di questo sito. Un sito collegato può accedere al segreto API di questo account.",
+    "NO_PERMISSION_MESSAGE": "Per collegare un sito è necessario l'accesso al segreto API di questo account. Chiedi a un amministratore di questo account di collegare il sito.",
+    "OTHER_ACCOUNT_MESSAGE": "Questo sito è collegato a un altro account FastComments. Passa a quell'account per gestire il sito."
 }

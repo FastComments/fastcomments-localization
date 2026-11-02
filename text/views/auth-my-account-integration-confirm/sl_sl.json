@@ -8,5 +8,11 @@
     "CHECKBOX_UPLOAD_COMMENTS_HELP": "Svoje komentarje lahko naložite pozneje na skrbniški strani vtičnika.",
     "CHECKBOX_SYNC_DATABASE": "Samodejno sinhroniziraj mojo <%= integrationName %> bazo podatkov.",
     "CHECKBOX_SYNC_DATABASE_HELP": "To ohranja vašo <%= integrationName %> bazo podatkov posodobljeno. Uporabno, če kateri koli vtičniki zahtevajo najnovejše komentarje v vaši bazi podatkov. Pogosto onemogočeno na spletnih mestih z zelo velikim prometom, kjer posodabljanje <%= integrationName %> ustvarja neželeno obremenitev.",
-    "BUTTON_START_SYNC": "Začni sinhronizacijo"
+    "BUTTON_START_SYNC": "Začni sinhronizacijo",
+    "LABEL_SITE": "Spletno mesto",
+    "LABEL_ACCOUNT": "Račun FastComments",
+    "SITE_NO_DOMAIN": "Spletno mesto brez javne domene, na primer lokalna namestitev",
+    "CONFIRM_SITE_WARNING": "Nadaljujte samo, če ste postopek začeli na skrbniški strani tega spletnega mesta. Povezano spletno mesto lahko dostopa do skrivnosti API-ja tega računa.",
+    "NO_PERMISSION_MESSAGE": "Za povezovanje spletnega mesta je potreben dostop do skrivnosti API-ja tega računa. Prosite skrbnika tega računa, da ga poveže.",
+    "OTHER_ACCOUNT_MESSAGE": "To spletno mesto je povezano z drugim računom FastComments. Za upravljanje spletnega mesta preklopite na ta račun."
 }

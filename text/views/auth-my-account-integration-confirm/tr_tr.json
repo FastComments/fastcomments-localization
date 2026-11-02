@@ -8,5 +8,11 @@
     "CHECKBOX_UPLOAD_COMMENTS_HELP": "Yorumlarınızı daha sonra eklentinin yönetim sayfasından yükleyebilirsiniz.",
     "CHECKBOX_SYNC_DATABASE": "<%= integrationName %> veritabanımı otomatik olarak senkronize halde tut.",
     "CHECKBOX_SYNC_DATABASE_HELP": "Bu, <%= integrationName %> veritabanınızı güncel tutar. Herhangi bir eklentinin veritabanınızdaki en son yorumlara ihtiyaç duyması durumunda kullanışlıdır. Genellikle çok yüksek hacimli sitelerde devre dışı bırakılır, çünkü <%= integrationName %> veritabanını güncel tutmak istenmeyen yük oluşturur.",
-    "BUTTON_START_SYNC": "Senkronizasyonu Başlat"
+    "BUTTON_START_SYNC": "Senkronizasyonu Başlat",
+    "LABEL_SITE": "Site",
+    "LABEL_ACCOUNT": "FastComments Hesabı",
+    "SITE_NO_DOMAIN": "Yerel kurulum gibi herkese açık alan adı olmayan bir site",
+    "CONFIRM_SITE_WARNING": "Yalnızca bu işlemi bu sitenin yönetim sayfasından başlattıysanız devam edin. Bağlı bir site, bu hesabın API gizli anahtarına erişebilir.",
+    "NO_PERMISSION_MESSAGE": "Bir siteyi bağlamak için bu hesabın API gizli anahtarına erişim gerekir. Bu hesabın bir yöneticisinden siteyi bağlamasını isteyin.",
+    "OTHER_ACCOUNT_MESSAGE": "Bu site farklı bir FastComments hesabına bağlı. Siteyi yönetmek için o hesaba geçin."
 }

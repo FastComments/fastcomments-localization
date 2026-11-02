@@ -8,5 +8,11 @@
     "CHECKBOX_UPLOAD_COMMENTS_HELP": "ניתן להעלות את התגובות שלכם מאוחר יותר מדף ניהול התוסף.",
     "CHECKBOX_SYNC_DATABASE": "שמור אוטומטית על סנכרון מסד הנתונים <%= integrationName %> שלי.",
     "CHECKBOX_SYNC_DATABASE_HELP": "זה שומר על מסד הנתונים <%= integrationName %> שלך מעודכן. שימושי אם תוספים כלשהם דורשים את התגובות האחרונות במסד הנתונים שלך. בדרך כלל מושבת באתרים בעלי נפח אחסון גבוה מאוד, שבהם שמירה על <%= integrationName %> מעודכן יוצרת עומס לא רצוי.",
-    "BUTTON_START_SYNC": "התחל סנכרון"
+    "BUTTON_START_SYNC": "התחל סנכרון",
+    "LABEL_SITE": "אתר",
+    "LABEL_ACCOUNT": "חשבון FastComments",
+    "SITE_NO_DOMAIN": "אתר ללא דומיין ציבורי, כמו התקנה מקומית",
+    "CONFIRM_SITE_WARNING": "המשך רק אם התחלת את התהליך הזה מדף הניהול של האתר הזה. אתר מחובר יכול לגשת לסוד ה-API של החשבון הזה.",
+    "NO_PERMISSION_MESSAGE": "חיבור אתר מחייב גישה לסוד ה-API של החשבון הזה. בקש ממנהל של החשבון הזה לחבר את האתר.",
+    "OTHER_ACCOUNT_MESSAGE": "האתר הזה מחובר לחשבון FastComments אחר. עבור לאותו חשבון כדי לנהל את האתר."
 }

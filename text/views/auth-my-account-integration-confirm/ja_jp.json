@@ -8,5 +8,11 @@
     "CHECKBOX_UPLOAD_COMMENTS_HELP": "プラグインの管理ページから後でコメントをアップロードできます。",
     "CHECKBOX_SYNC_DATABASE": "<%= integrationName %> データベースを自動的に同期します。",
     "CHECKBOX_SYNC_DATABASE_HELP": "これにより、<%= integrationName %> データベースが最新の状態に保たれます。プラグインがデータベース内の最新のコメントを必要とする場合に便利です。通常、非常にアクセス数の多いサイトでは、<%= integrationName %> を最新の状態に保つことで不要な負荷が発生するため、無効にされます。",
-    "BUTTON_START_SYNC": "同期を開始"
+    "BUTTON_START_SYNC": "同期を開始",
+    "LABEL_SITE": "サイト",
+    "LABEL_ACCOUNT": "FastCommentsアカウント",
+    "SITE_NO_DOMAIN": "ローカル環境など、公開ドメインのないサイト",
+    "CONFIRM_SITE_WARNING": "このサイトの管理ページからこの操作を開始した場合にのみ、続行してください。接続されたサイトは、このアカウントのAPIシークレットにアクセスできます。",
+    "NO_PERMISSION_MESSAGE": "サイトを接続するには、このアカウントのAPIシークレットへのアクセス権が必要です。このアカウントの管理者に接続を依頼してください。",
+    "OTHER_ACCOUNT_MESSAGE": "このサイトは別のFastCommentsアカウントに接続されています。管理するには、そのアカウントに切り替えてください。"
 }
