@@ -65,5 +65,6 @@
     "FLEX_LIMIT_NOT_CONFIGURED": "לא הוגדרה מגבלה",
     "FLEX_NEXT_INVOICE": "סכום החשבונית הבאה:",
     "ERROR_NOT_BILLING_ADMIN": "רק בעל החשבון או מנהל חיוב יכולים לשנות את מגבלות ההוצאה.",
-    "ERROR_PAYMENT_INCOMPLETE": "הבנק שלך לא אישר את התשלום. נסה שוב, או השתמש בכרטיס אחר."
+    "ERROR_PAYMENT_INCOMPLETE": "הבנק שלך לא אישר את התשלום. נסה שוב, או השתמש בכרטיס אחר.",
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "רק בעל החשבון או מנהל חיוב יכולים לשנות את התוכנית או את אמצעי התשלום."
 }

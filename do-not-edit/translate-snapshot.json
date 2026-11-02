@@ -3401,7 +3401,8 @@
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -14200,7 +14201,8 @@
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -24985,7 +24987,8 @@
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -35768,7 +35771,8 @@
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -46540,7 +46544,8 @@
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -57323,7 +57328,8 @@
                 "ERROR_NO_FLEX_PACKAGE": "Your account does not have a Flex plan, so there are no usage limits to configure.",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -67498,7 +67504,8 @@
                 "FLEX_LIMIT_EDIT": "Edit",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -78200,7 +78207,8 @@
                 "ERROR_NO_FLEX_PACKAGE": "Your account does not have a Flex plan, so there are no usage limits to configure.",
                 "ERROR_INVALID_LIMITS": "One or more of the entered limits is not a valid number.",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -88976,7 +88984,8 @@
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -99751,7 +99760,8 @@
                 "ERROR_NO_FLEX_PACKAGE": "Your account does not have a Flex plan, so there are no usage limits to configure.",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -110525,7 +110535,8 @@
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -121298,7 +121309,8 @@
                 "ERROR_INVALID_LIMITS": "One or more of the entered limits is not a valid number.",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -132071,7 +132083,8 @@
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -142844,7 +142857,8 @@
                 "FLEX_LIMIT_TITLE": "Monthly spend limit",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -153617,7 +153631,8 @@
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -164390,7 +164405,8 @@
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -175163,7 +175179,8 @@
                 "FLEX_LIMIT_TITLE": "Monthly spend limit",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -185925,7 +185942,8 @@
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -196698,7 +196716,8 @@
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -207471,7 +207490,8 @@
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -218244,7 +218264,8 @@
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -229017,7 +229038,8 @@
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -239790,7 +239812,8 @@
                 "FLEX_LIMIT_TITLE": "Monthly spend limit",
                 "FLEX_LIMIT_MAX_VALUE": "Up to [amount]/mo",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -250563,7 +250586,8 @@
                 "ERROR_NO_FLEX_PACKAGE": "Your account does not have a Flex plan, so there are no usage limits to configure.",
                 "FLEX_NEXT_INVOICE": "Next Invoice Amount:",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -261318,7 +261342,8 @@
                 "FLEX_LIMIT_TITLE": "Monthly spend limit",
                 "ERROR_INVALID_LIMITS": "One or more of the entered limits is not a valid number.",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -272090,7 +272115,8 @@
                 "FLEX_LIMIT_NOT_CONFIGURED": "No limit configured",
                 "FLEX_LIMIT_TITLE": "Monthly spend limit",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can change spend limits.",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "PAGE_TITLE": "Cancel Subscription - FastComments",
@@ -285338,7 +285364,8 @@
                 "LINK_LIFT_TRIAL_LIMITS": "Lift Trial Limits",
                 "LINK_ACTIVATE_TRIAL_LIMITS": "Activate Trial Limits",
                 "LINK_DELETE_ACCOUNT": "Delete Account",
-                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card."
+                "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
+                "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Only the account owner or a billing admin can change the plan or payment method."
             },
             "my-account-cancel": {
                 "HEADING_CONFIRMATION": "Confirmation",

@@ -65,5 +65,6 @@
     "FLEX_LIMIT_MAX_VALUE": "Hasta [amount]/mes",
     "FLEX_NEXT_INVOICE": "Importe de la próxima factura:",
     "ERROR_NOT_BILLING_ADMIN": "Solo el titular de la cuenta o un administrador de facturación pueden cambiar los límites de gasto.",
-    "ERROR_PAYMENT_INCOMPLETE": "Tu banco no aprobó el pago. Inténtalo de nuevo o usa otra tarjeta."
+    "ERROR_PAYMENT_INCOMPLETE": "Tu banco no aprobó el pago. Inténtalo de nuevo o usa otra tarjeta.",
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Solo el titular de la cuenta o un administrador de facturación pueden cambiar el plan o el método de pago."
 }

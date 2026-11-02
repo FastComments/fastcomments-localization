@@ -65,5 +65,6 @@
     "ERROR_NO_FLEX_PACKAGE": "Vaš račun nima paketa Flex, zato ni omejitev uporabe za konfiguriranje.",
     "FLEX_NEXT_INVOICE": "Znesek naslednjega računa:",
     "ERROR_NOT_BILLING_ADMIN": "Omejitve porabe lahko spremeni samo lastnik računa ali skrbnik obračunavanja.",
-    "ERROR_PAYMENT_INCOMPLETE": "Vaša banka ni odobrila plačila. Poskusite znova ali uporabite drugo kartico."
+    "ERROR_PAYMENT_INCOMPLETE": "Vaša banka ni odobrila plačila. Poskusite znova ali uporabite drugo kartico.",
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Paket ali način plačila lahko spremeni samo lastnik računa ali skrbnik obračunavanja."
 }

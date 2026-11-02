@@ -65,5 +65,6 @@
     "FLEX_LIMIT_TITLE": "Mesečni limit potrošnje",
     "ERROR_INVALID_LIMITS": "Jedno ili više unetih ograničenja nije važeći broj.",
     "ERROR_NOT_BILLING_ADMIN": "Samo vlasnik naloga ili administrator za naplatu može da promeni ograničenja potrošnje.",
-    "ERROR_PAYMENT_INCOMPLETE": "Vaša banka nije odobrila plaćanje. Pokušajte ponovo ili koristite drugu karticu."
+    "ERROR_PAYMENT_INCOMPLETE": "Vaša banka nije odobrila plaćanje. Pokušajte ponovo ili koristite drugu karticu.",
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Samo vlasnik naloga ili administrator za naplatu može da promeni plan ili način plaćanja."
 }

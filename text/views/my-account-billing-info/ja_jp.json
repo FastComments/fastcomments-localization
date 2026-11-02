@@ -65,5 +65,6 @@
     "ERROR_NO_FLEX_PACKAGE": "お客様のアカウントにはFlexプランが適用されていないため、設定できる利用制限はありません。",
     "ERROR_INVALID_LIMITS": "入力された制限値のうち、1つ以上が無効な数値です。",
     "ERROR_NOT_BILLING_ADMIN": "支出限度額を変更できるのは、アカウント所有者または請求管理者のみです。",
-    "ERROR_PAYMENT_INCOMPLETE": "銀行が支払いを承認しませんでした。もう一度お試しいただくか、別のカードをご利用ください。"
+    "ERROR_PAYMENT_INCOMPLETE": "銀行が支払いを承認しませんでした。もう一度お試しいただくか、別のカードをご利用ください。",
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "プランや支払い方法を変更できるのは、アカウント所有者または請求管理者のみです。"
 }

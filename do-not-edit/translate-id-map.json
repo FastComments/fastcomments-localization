@@ -144,7 +144,7 @@
         "my-account-badge-users": 15,
         "my-account-billing-analytics": 14,
         "my-account-billing-history": 28,
-        "my-account-billing-info": 68,
+        "my-account-billing-info": 69,
         "my-account-cancel": 8,
         "my-account-cancel-failure": 4,
         "my-account-cancel-success": 5,
@@ -4242,7 +4242,8 @@
         "t65": "FLEX_LIMIT_EDIT",
         "t66": "FLEX_NEXT_INVOICE",
         "t67": "ERROR_NOT_BILLING_ADMIN",
-        "t68": "ERROR_PAYMENT_INCOMPLETE"
+        "t68": "ERROR_PAYMENT_INCOMPLETE",
+        "t69": "ERROR_NOT_BILLING_ADMIN_CHECKOUT"
     },
     "my-account-cancel": {
         "t1": "PAGE_TITLE",

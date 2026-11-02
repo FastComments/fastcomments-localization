@@ -65,5 +65,6 @@
     "LINK_LIFT_TRIAL_LIMITS": "رفع حدود الفترة التجريبية",
     "LINK_ACTIVATE_TRIAL_LIMITS": "تفعيل حدود الفترة التجريبية",
     "LINK_DELETE_ACCOUNT": "حذف الحساب",
-    "ERROR_PAYMENT_INCOMPLETE": "لم يوافق البنك على عملية الدفع. حاول مرة أخرى، أو استخدم بطاقة أخرى."
+    "ERROR_PAYMENT_INCOMPLETE": "لم يوافق البنك على عملية الدفع. حاول مرة أخرى، أو استخدم بطاقة أخرى.",
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "لا يمكن تغيير الباقة أو طريقة الدفع إلا من قبل مالك الحساب أو مسؤول الفوترة."
 }

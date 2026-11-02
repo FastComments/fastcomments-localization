@@ -65,5 +65,6 @@
     "FLEX_NEXT_INVOICE": "Næste fakturabeløb:",
     "FLEX_LIMIT_MAX_VALUE": "Op til [amount]/md.",
     "ERROR_NOT_BILLING_ADMIN": "Kun kontoejeren eller en faktureringsadministrator kan ændre forbrugsgrænser.",
-    "ERROR_PAYMENT_INCOMPLETE": "Din bank godkendte ikke betalingen. Prøv igen, eller brug et andet kort."
+    "ERROR_PAYMENT_INCOMPLETE": "Din bank godkendte ikke betalingen. Prøv igen, eller brug et andet kort.",
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Kun kontoejeren eller en faktureringsadministrator kan ændre planen eller betalingsmetoden."
 }

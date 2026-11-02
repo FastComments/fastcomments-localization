@@ -65,5 +65,6 @@
     "FLEX_LIMIT_NOT_CONFIGURED": "Geen limiet geconfigureerd",
     "FLEX_LIMIT_TITLE": "Maandelijks bestedingslimiet",
     "ERROR_NOT_BILLING_ADMIN": "Alleen de accounteigenaar of een factureringsbeheerder kan bestedingslimieten wijzigen.",
-    "ERROR_PAYMENT_INCOMPLETE": "Uw bank heeft de betaling niet goedgekeurd. Probeer het opnieuw of gebruik een andere kaart."
+    "ERROR_PAYMENT_INCOMPLETE": "Uw bank heeft de betaling niet goedgekeurd. Probeer het opnieuw of gebruik een andere kaart.",
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Alleen de accounteigenaar of een factureringsbeheerder kan het abonnement of de betaalmethode wijzigen."
 }

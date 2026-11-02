@@ -65,5 +65,6 @@
     "FLEX_LIMIT_MAX_VALUE": "Bis zu [amount]/Monat",
     "FLEX_NEXT_INVOICE": "Nächster Rechnungsbetrag:",
     "ERROR_NOT_BILLING_ADMIN": "Nur der Kontoinhaber oder ein Abrechnungsadministrator kann Ausgabenlimits ändern.",
-    "ERROR_PAYMENT_INCOMPLETE": "Ihre Bank hat die Zahlung nicht genehmigt. Versuchen Sie es erneut oder verwenden Sie eine andere Karte."
+    "ERROR_PAYMENT_INCOMPLETE": "Ihre Bank hat die Zahlung nicht genehmigt. Versuchen Sie es erneut oder verwenden Sie eine andere Karte.",
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Nur der Kontoinhaber oder ein Abrechnungsadministrator kann den Tarif oder die Zahlungsmethode ändern."
 }
