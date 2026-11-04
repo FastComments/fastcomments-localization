@@ -311,5 +311,9 @@
     "OPTION_COMMENT_TRANSLATION_OFF": "オフ",
     "OPTION_COMMENT_TRANSLATION_AUTO": "自動（他の言語で書かれたコメントを翻訳）",
     "OPTION_COMMENT_TRANSLATION_MANUAL": "手動（各コメントに「翻訳」ボタンを表示）",
-    "TEXT_COMMENT_TRANSLATION_NOTE": "コメントはウィジェットの言語（上の「ロケール/言語」設定、または閲覧者のブラウザの言語）に翻訳されます。翻訳はLLMトークンとして課金されます。"
+    "TEXT_COMMENT_TRANSLATION_NOTE": "コメントはウィジェットの言語（上の「ロケール/言語」設定、または閲覧者のブラウザの言語）に翻訳されます。翻訳はLLMトークンとして課金されます。",
+    "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "シンプルなSSOによるコメントの自動確認",
+    "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "シンプルなSSOでログインしたユーザーのコメントはすぐに確認されます。この設定をオフにすると、シンプルなSSOでは本人であることを証明できないため、各コメントの確認リンクをコメント投稿者にメールで送信します。",
+    "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "シンプルなSSOのユーザーを管理者として許可する",
+    "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "シンプルなSSOでログインしたユーザーは管理者やモデレーターになることができ、いずれかの管理者と同じメールアドレスでログインすると、その管理者の権限を持ちます。シンプルなSSOのログイン情報には署名がないため、そのメールアドレスまたはユーザーIDを知っている人なら誰でもその管理者になりすますことができます。このリスクがサイトにとって問題となる場合は、セキュアSSOを使用してください。"
 }

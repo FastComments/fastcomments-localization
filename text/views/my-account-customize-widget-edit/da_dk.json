@@ -311,5 +311,9 @@
     "OPTION_COMMENT_TRANSLATION_OFF": "Fra",
     "OPTION_COMMENT_TRANSLATION_AUTO": "Automatisk - oversæt kommentarer skrevet på et andet sprog",
     "OPTION_COMMENT_TRANSLATION_MANUAL": "Manuel - vis en \"Oversæt\"-knap på hver kommentar",
-    "TEXT_COMMENT_TRANSLATION_NOTE": "Kommentarer oversættes til widgettens sprog (indstillingen Lokalitet / Sprog ovenfor eller den besøgendes browsersprog). Oversættelser faktureres som LLM-tokens."
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Kommentarer oversættes til widgettens sprog (indstillingen Lokalitet / Sprog ovenfor eller den besøgendes browsersprog). Oversættelser faktureres som LLM-tokens.",
+    "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Bekræft kommentarer automatisk via Simpel SSO",
+    "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Kommentarer fra brugere af Simpel SSO bekræftes med det samme. Når denne indstilling er slået fra, sender vi dem et link via e-mail, så de kan bekræfte hver kommentar, da Simpel SSO ikke beviser, hvem de er.",
+    "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Tillad administratorrettigheder via Simpel SSO",
+    "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Brugere af Simpel SSO kan være administratorer og moderatorer, herunder ved at bruge e-mailadressen til en af dine administratorer. Simpel SSO er ikke signeret, så alle, der kender e-mailadressen eller bruger-ID'et, kan udgive sig for at være den pågældende administrator. Brug Sikker SSO, hvis det er relevant for dit websted."
 }

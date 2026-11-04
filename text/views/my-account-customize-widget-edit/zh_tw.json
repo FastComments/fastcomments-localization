@@ -311,5 +311,9 @@
     "OPTION_COMMENT_TRANSLATION_OFF": "關閉",
     "OPTION_COMMENT_TRANSLATION_AUTO": "自動 - 翻譯以其他語言撰寫的評論",
     "OPTION_COMMENT_TRANSLATION_MANUAL": "手動 - 在每則評論下顯示「翻譯」按鈕",
-    "TEXT_COMMENT_TRANSLATION_NOTE": "評論會翻譯成小工具的語言（上方的「區域/語言」設定，或訪客的瀏覽器語言）。翻譯以 LLM token 計費。"
+    "TEXT_COMMENT_TRANSLATION_NOTE": "評論會翻譯成小工具的語言（上方的「區域/語言」設定，或訪客的瀏覽器語言）。翻譯以 LLM token 計費。",
+    "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "透過簡易單一登入自動驗證評論",
+    "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "簡易單一登入使用者的評論會立即得到驗證。取消勾選後，我們會透過電子郵件向他們傳送一個連結，以便他們驗證每則評論，因為簡易單一登入無法證明使用者身分。",
+    "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "允許簡易單一登入使用者擔任管理員",
+    "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "簡易單一登入使用者可以成為管理員和版主，使用與您的某位管理員相同的電子郵件地址登入也會取得該管理員的權限。簡易單一登入的登入資料沒有簽章，因此任何知道該電子郵件地址或使用者 ID 的人都可以冒充該管理員。如果您的網站無法接受這項風險，請使用安全 SSO。"
 }

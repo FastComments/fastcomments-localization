@@ -4017,7 +4017,11 @@
                 "LABEL_INPUT_BORDER_START_START_RADIUS": "Top-left corner roundness (px)",
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
-                "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts"
+                "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -14817,7 +14821,11 @@
                 "TEXT_INPUT_BORDER_WIZARD_ADDED": "Added to your Custom CSS. Save to keep it.",
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -25603,7 +25611,11 @@
                 "BUTTON_INPUT_BORDER_WIZARD_ADD": "Add to Custom CSS",
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
-                "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts"
+                "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -36387,7 +36399,11 @@
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "TEXT_INPUT_BORDER_WIZARD_ADDED": "Added to your Custom CSS. Save to keep it.",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site.",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -47160,7 +47176,11 @@
                 "LABEL_INPUT_BORDER_START_START_RADIUS": "Top-left corner roundness (px)",
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -57944,7 +57964,11 @@
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "TEXT_INPUT_BORDER_WIZARD_ADDED": "Added to your Custom CSS. Save to keep it.",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -68134,7 +68158,11 @@
                 "LABEL_INPUT_BORDER_RADIUS": "Corner roundness (px)",
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -78823,7 +78851,11 @@
                 "LABEL_INPUT_BORDER_START_START_RADIUS": "Top-left corner roundness (px)",
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
-                "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts"
+                "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -89600,7 +89632,11 @@
                 "BUTTON_INPUT_BORDER_WIZARD_ADD": "Add to Custom CSS",
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
-                "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts"
+                "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -100376,7 +100412,11 @@
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "BUTTON_INPUT_BORDER_WIZARD_ADD": "Add to Custom CSS",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site.",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -111151,7 +111191,11 @@
                 "LABEL_INPUT_BORDER_START_START_RADIUS": "Top-left corner roundness (px)",
                 "LABEL_INPUT_BORDER_RADIUS": "Corner roundness (px)",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -121925,7 +121969,11 @@
                 "TEXT_INPUT_BORDER_WIZARD_ADDED": "Added to your Custom CSS. Save to keep it.",
                 "LABEL_INPUT_BORDER_START_START_RADIUS": "Top-left corner roundness (px)",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -132699,7 +132747,11 @@
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "TEXT_INPUT_BORDER_WIZARD_ADDED": "Added to your Custom CSS. Save to keep it.",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -143473,7 +143525,11 @@
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "LABEL_INPUT_BORDER_START_START_RADIUS": "Top-left corner roundness (px)",
                 "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
-                "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts"
+                "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -154247,7 +154303,11 @@
                 "LABEL_INPUT_BORDER_START_START_RADIUS": "Top-left corner roundness (px)",
                 "TEXT_INPUT_BORDER_WIZARD_ADDED": "Added to your Custom CSS. Save to keep it.",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -165021,7 +165081,11 @@
                 "BUTTON_INPUT_BORDER_WIZARD_ADD": "Add to Custom CSS",
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
-                "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts"
+                "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins"
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -175795,7 +175859,11 @@
                 "BUTTON_INPUT_BORDER_WIZARD_ADD": "Add to Custom CSS",
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
-                "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts"
+                "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -186558,7 +186626,11 @@
                 "TEXT_INPUT_BORDER_WIZARD_ADDED": "Added to your Custom CSS. Save to keep it.",
                 "BUTTON_INPUT_BORDER_WIZARD_ADD": "Add to Custom CSS",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -197332,7 +197404,11 @@
                 "BUTTON_INPUT_BORDER_WIZARD_ADD": "Add to Custom CSS",
                 "TEXT_INPUT_BORDER_WIZARD_ADDED": "Added to your Custom CSS. Save to keep it.",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -208106,7 +208182,11 @@
                 "TEXT_INPUT_BORDER_WIZARD_ADDED": "Added to your Custom CSS. Save to keep it.",
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -218880,7 +218960,11 @@
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "TEXT_INPUT_BORDER_WIZARD_ADDED": "Added to your Custom CSS. Save to keep it.",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -229654,7 +229738,11 @@
                 "BUTTON_INPUT_BORDER_WIZARD_ADD": "Add to Custom CSS",
                 "TEXT_INPUT_BORDER_WIZARD_ADDED": "Added to your Custom CSS. Save to keep it.",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -240428,7 +240516,11 @@
                 "TEXT_INPUT_BORDER_WIZARD_ADDED": "Added to your Custom CSS. Save to keep it.",
                 "BUTTON_INPUT_BORDER_WIZARD_ADD": "Add to Custom CSS",
                 "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
-                "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts"
+                "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -251202,7 +251294,11 @@
                 "LABEL_INPUT_BORDER_COLOR": "Border color",
                 "LABEL_INPUT_BORDER_RADIUS": "Corner roundness (px)",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -261958,7 +262054,11 @@
                 "LABEL_INPUT_BORDER_COLOR": "Border color",
                 "TEXT_INPUT_BORDER_WIZARD_ADDED": "Added to your Custom CSS. Save to keep it.",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -272731,7 +272831,11 @@
                 "TEXT_INPUT_BORDER_WIZARD_ADDED": "Added to your Custom CSS. Save to keep it.",
                 "TEXT_INPUT_BORDER_WIZARD_NO_CHANGES": "Change a setting above first.",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",
@@ -286153,7 +286257,11 @@
                 "LABEL_INPUT_BORDER_START_START_RADIUS": "Top-left corner roundness (px)",
                 "LABEL_INPUT_BORDER_COLOR_FOCUS": "Border color while typing",
                 "HEADING_STYLING_SHORTCUTS": "Styling Shortcuts",
-                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below."
+                "TEXT_STYLING_SHORTCUTS_NOTE": "Quick ways to restyle parts of the widget. Each shortcut adds CSS to your Custom CSS below.",
+                "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Auto Verify Comments via Simple SSO",
+                "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Comments from Simple SSO users are verified right away. When off, we email them a link to verify each comment, since Simple SSO does not prove who they are.",
+                "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Allow Simple SSO Admins",
+                "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Simple SSO users can be admins and moderators, including by using the email of one of your admins. Simple SSO is not signed, so anyone who knows that email or user ID can act as that admin. Use Secure SSO if that matters for your site."
             },
             "my-account-delete": {
                 "PAGE_TITLE": "Delete My Account",

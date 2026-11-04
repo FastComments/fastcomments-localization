@@ -311,5 +311,9 @@
     "OPTION_COMMENT_TRANSLATION_OFF": "Désactivé",
     "OPTION_COMMENT_TRANSLATION_AUTO": "Automatique - traduit les commentaires rédigés dans une autre langue",
     "OPTION_COMMENT_TRANSLATION_MANUAL": "Manuel - affiche un bouton Traduire sur chaque commentaire",
-    "TEXT_COMMENT_TRANSLATION_NOTE": "Les commentaires sont traduits dans la langue du widget (le paramètre Langue/Paramètres régionaux ci-dessus, ou la langue du navigateur du visiteur). Les traductions sont facturées en jetons LLM."
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Les commentaires sont traduits dans la langue du widget (le paramètre Langue/Paramètres régionaux ci-dessus, ou la langue du navigateur du visiteur). Les traductions sont facturées en jetons LLM.",
+    "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Vérification automatique des commentaires via l'authentification unique simplifiée",
+    "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Les commentaires des utilisateurs ayant recours à l'authentification unique simplifiée sont vérifiés immédiatement. Lorsque cette option est désactivée, nous leur envoyons par e-mail un lien pour vérifier chaque commentaire, car l'authentification unique simplifiée ne prouve pas leur identité.",
+    "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Autoriser les administrateurs via l'authentification unique simplifiée",
+    "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Les utilisateurs ayant recours à l'authentification unique simplifiée peuvent être administrateurs et modérateurs, notamment en utilisant l'adresse e-mail d'un de vos administrateurs. L'authentification unique simplifiée n'étant pas signée, toute personne connaissant cette adresse e-mail ou cet identifiant utilisateur peut se faire passer pour cet administrateur. Utilisez l'authentification unique sécurisée si cela est important pour votre site."
 }

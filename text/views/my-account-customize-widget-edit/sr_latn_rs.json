@@ -311,5 +311,9 @@
     "OPTION_COMMENT_TRANSLATION_OFF": "Isključeno",
     "OPTION_COMMENT_TRANSLATION_AUTO": "Automatski - prevodi komentare napisane na drugom jeziku",
     "OPTION_COMMENT_TRANSLATION_MANUAL": "Ručno - prikazuje dugme Prevedi na svakom komentaru",
-    "TEXT_COMMENT_TRANSLATION_NOTE": "Komentari se prevode na jezik vidžeta (podešavanje Lokal / Jezik iznad ili jezik pregledača posetioca). Prevodi se naplaćuju kao LLM tokeni."
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Komentari se prevode na jezik vidžeta (podešavanje Lokal / Jezik iznad ili jezik pregledača posetioca). Prevodi se naplaćuju kao LLM tokeni.",
+    "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Automatska verifikacija komentara putem Simple SSO-a",
+    "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Dozvoli administratorska ovlašćenja korisnicima Simple SSO-a",
+    "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Komentari korisnika Simple SSO-a se odmah verifikuju. Kada je ova opcija isključena, šaljemo im e-poštom link za verifikaciju svakog komentara, jer Simple SSO ne dokazuje njihov identitet.",
+    "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Korisnici Simple SSO-a mogu biti administratori i moderatori, između ostalog i korišćenjem e-pošte jednog od vaših administratora. Simple SSO nije potpisano, tako da svako ko zna tu e-poštu ili korisnički ID može da se lažno predstavi kao taj administrator. Koristite Secure SSO ako je to važno za vaš sajt."
 }

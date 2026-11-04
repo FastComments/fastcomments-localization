@@ -90,7 +90,7 @@
         "packages": 75,
         "amptest": 2,
         "auth-login-link-failure": 5,
-        "auth-my-account-integration-confirm": 10,
+        "auth-my-account-integration-confirm": 16,
         "auth-my-account-integration-setup": 49,
         "auth-my-account-integration-setup-failure": 4,
         "auth-my-account-integration-token-failed": 6,
@@ -164,7 +164,7 @@
         "my-account-customize-email-templates": 17,
         "my-account-customize-widget": 14,
         "my-account-customize-widget-delete": 5,
-        "my-account-customize-widget-edit": 314,
+        "my-account-customize-widget-edit": 318,
         "my-account-delete": 17,
         "my-account-delete-failure": 4,
         "my-account-delete-success": 5,
@@ -443,7 +443,8 @@
         "my-account-configure-domains-approve-confirm": 6,
         "reviews": 15,
         "human-moderation": 135,
-        "tenant-subscription-currency-change": 6
+        "tenant-subscription-currency-change": 6,
+        "auth-my-account-integration-site-conflict": 23
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -2499,7 +2500,13 @@
         "t7": "CHECKBOX_UPLOAD_COMMENTS_HELP",
         "t8": "CHECKBOX_SYNC_DATABASE",
         "t9": "CHECKBOX_SYNC_DATABASE_HELP",
-        "t10": "BUTTON_START_SYNC"
+        "t10": "BUTTON_START_SYNC",
+        "t11": "LABEL_SITE",
+        "t12": "LABEL_ACCOUNT",
+        "t13": "SITE_NO_DOMAIN",
+        "t14": "CONFIRM_SITE_WARNING",
+        "t15": "NO_PERMISSION_MESSAGE",
+        "t16": "OTHER_ACCOUNT_MESSAGE"
     },
     "auth-my-account-integration-setup": {
         "t1": "PAGE_TITLE",
@@ -4915,7 +4922,11 @@
         "t311": "OPTION_COMMENT_TRANSLATION_OFF",
         "t312": "OPTION_COMMENT_TRANSLATION_AUTO",
         "t313": "OPTION_COMMENT_TRANSLATION_MANUAL",
-        "t314": "TEXT_COMMENT_TRANSLATION_NOTE"
+        "t314": "TEXT_COMMENT_TRANSLATION_NOTE",
+        "t315": "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS",
+        "t316": "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE",
+        "t317": "LABEL_ALLOW_SIMPLE_SSO_ADMINS",
+        "t318": "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE"
     },
     "my-account-delete": {
         "t1": "PAGE_TITLE",
@@ -13504,5 +13515,30 @@
         "t4": "DETAILS_LINE_ONE_YEAR",
         "t5": "DETAILS_LINE_ONE_MONTH",
         "t6": "DETAILS_LINE_TWO"
+    },
+    "auth-my-account-integration-site-conflict": {
+        "t1": "PAGE_TITLE",
+        "t2": "PAGE_HEADING",
+        "t3": "NOT_CONNECTED_DOMAIN",
+        "t4": "NOT_CONNECTED_NO_DOMAIN",
+        "t5": "REASON",
+        "t6": "TABLE_HEADER_SITE",
+        "t7": "TABLE_HEADER_CONNECTED_ON",
+        "t8": "REMOVE_LINK",
+        "t9": "HEADING_REPLACES",
+        "t10": "REPLACES_STEP_DEACTIVATE",
+        "t11": "REPLACES_STEP_REMOVE",
+        "t12": "REPLACES_STEP_ASK_ADMIN",
+        "t13": "REPLACES_NOTE",
+        "t14": "BUTTON_TRY_AGAIN",
+        "t15": "HEADING_SEPARATE",
+        "t16": "TENANTS_DESCRIPTION",
+        "t17": "TENANTS_STEP_CREATE",
+        "t18": "TENANTS_STEP_RECONNECT",
+        "t19": "BUTTON_MANAGE_TENANTS",
+        "t20": "UPGRADE_DESCRIPTION",
+        "t21": "BUTTON_VIEW_PLANS",
+        "t22": "SEPARATE_ACCOUNT_DESCRIPTION",
+        "t23": "BUTTON_LOG_OUT"
     }
 }

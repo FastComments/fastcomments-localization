@@ -311,5 +311,9 @@
     "OPTION_COMMENT_TRANSLATION_OFF": "Aus",
     "OPTION_COMMENT_TRANSLATION_AUTO": "Automatisch - Kommentare in einer anderen Sprache übersetzen",
     "OPTION_COMMENT_TRANSLATION_MANUAL": "Manuell - bei jedem Kommentar eine Schaltfläche „Übersetzen“ anzeigen",
-    "TEXT_COMMENT_TRANSLATION_NOTE": "Kommentare werden in die Sprache des Widgets übersetzt (die Einstellung „Gebietsschema / Sprache“ oben oder die Browsersprache des Besuchers). Die Übersetzungen werden als LLM-Tokens abgerechnet."
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Kommentare werden in die Sprache des Widgets übersetzt (die Einstellung „Gebietsschema / Sprache“ oben oder die Browsersprache des Besuchers). Die Übersetzungen werden als LLM-Tokens abgerechnet.",
+    "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Kommentare über Einfaches SSO automatisch verifizieren",
+    "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Administratorrechte über Einfaches SSO zulassen",
+    "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Benutzer mit Einfachem SSO können Administratoren und Moderatoren sein, auch indem sie die E-Mail-Adresse eines Ihrer Administratoren verwenden. Da Einfaches SSO nicht signiert ist, kann sich jeder, der diese E-Mail-Adresse oder Benutzer-ID kennt, als diesen Administrator ausgeben. Verwenden Sie Sicheres SSO, wenn dies für Ihre Website wichtig ist.",
+    "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Kommentare von Benutzern mit Einfachem SSO werden sofort verifiziert. Wenn diese Option deaktiviert ist, senden wir ihnen einen Link per E-Mail, über den sie jeden Kommentar verifizieren können, da Einfaches SSO ihre Identität nicht nachweist."
 }

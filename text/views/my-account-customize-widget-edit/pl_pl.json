@@ -311,5 +311,9 @@
     "OPTION_COMMENT_TRANSLATION_OFF": "Wyłączone",
     "OPTION_COMMENT_TRANSLATION_AUTO": "Automatyczne - tłumaczenie komentarzy napisanych w innym języku",
     "OPTION_COMMENT_TRANSLATION_MANUAL": "Ręczne - przycisk „Przetłumacz” przy każdym komentarzu",
-    "TEXT_COMMENT_TRANSLATION_NOTE": "Komentarze są tłumaczone na język widżetu (ustawienie „Ustawienia regionalne / Język” powyżej lub język przeglądarki odwiedzającego). Tłumaczenia są rozliczane jako tokeny LLM."
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Komentarze są tłumaczone na język widżetu (ustawienie „Ustawienia regionalne / Język” powyżej lub język przeglądarki odwiedzającego). Tłumaczenia są rozliczane jako tokeny LLM.",
+    "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Automatyczna weryfikacja komentarzy za pomocą prostego logowania jednokrotnego",
+    "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Komentarze użytkowników korzystających z prostego logowania jednokrotnego są weryfikowane natychmiast. Gdy ta opcja jest wyłączona, wysyłamy im e-mailem link do weryfikacji każdego komentarza, ponieważ proste logowanie jednokrotne nie potwierdza ich tożsamości.",
+    "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Zezwalaj na uprawnienia administratora przy prostym logowaniu jednokrotnym",
+    "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Użytkownicy korzystający z prostego logowania jednokrotnego mogą być administratorami i moderatorami, w tym poprzez użycie adresu e-mail jednego z Twoich administratorów. Proste logowanie jednokrotne nie jest podpisane, więc każdy, kto zna ten adres e-mail lub identyfikator użytkownika, może podszyć się pod tego administratora. Użyj bezpiecznego logowania jednokrotnego, jeśli ma to znaczenie dla Twojej witryny."
 }

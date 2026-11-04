@@ -311,5 +311,9 @@
     "OPTION_COMMENT_TRANSLATION_OFF": "Uit",
     "OPTION_COMMENT_TRANSLATION_AUTO": "Automatisch - vertaal reacties die in een andere taal zijn geschreven",
     "OPTION_COMMENT_TRANSLATION_MANUAL": "Handmatig - toon bij elke reactie een knop 'Vertalen'",
-    "TEXT_COMMENT_TRANSLATION_NOTE": "Reacties worden vertaald naar de taal van de widget (de instelling Locatie / Taal hierboven, of de browsertaal van de bezoeker). Vertalingen worden gefactureerd als LLM-tokens."
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Reacties worden vertaald naar de taal van de widget (de instelling Locatie / Taal hierboven, of de browsertaal van de bezoeker). Vertalingen worden gefactureerd als LLM-tokens.",
+    "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Reacties automatisch verifiëren via Eenvoudige SSO",
+    "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Reacties van gebruikers met Eenvoudige SSO worden direct geverifieerd. Als deze optie is uitgeschakeld, sturen we hun een link per e-mail om elke reactie te verifiëren, aangezien Eenvoudige SSO hun identiteit niet kan bewijzen.",
+    "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Beheerdersrechten via Eenvoudige SSO toestaan",
+    "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Met Eenvoudige SSO kunnen gebruikers beheerders en moderators zijn, onder meer door het e-mailadres van een van uw beheerders te gebruiken. Eenvoudige SSO is niet ondertekend, dus iedereen die dat e-mailadres of die gebruikers-ID kent, kan zich als die beheerder voordoen. Gebruik Beveiligde SSO als dat belangrijk is voor uw website."
 }

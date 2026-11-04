@@ -311,5 +311,9 @@
     "OPTION_COMMENT_TRANSLATION_OFF": "关闭",
     "OPTION_COMMENT_TRANSLATION_AUTO": "自动 - 翻译以其他语言撰写的评论",
     "OPTION_COMMENT_TRANSLATION_MANUAL": "手动 - 在每条评论下显示“翻译”按钮",
-    "TEXT_COMMENT_TRANSLATION_NOTE": "评论会被翻译为小部件的语言（上方的“区域/语言”设置，或访客的浏览器语言）。翻译按 LLM 令牌计费。"
+    "TEXT_COMMENT_TRANSLATION_NOTE": "评论会被翻译为小部件的语言（上方的“区域/语言”设置，或访客的浏览器语言）。翻译按 LLM 令牌计费。",
+    "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "允许简易单点登录用户担任管理员",
+    "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "通过简易单点登录自动验证评论",
+    "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "简易单点登录用户可以成为管理员和版主，使用与您的某位管理员相同的电子邮件地址登录也会获得该管理员的权限。简易单点登录的登录数据没有签名，因此任何知道该电子邮件地址或用户 ID 的人都可以冒充该管理员。如果您的网站无法接受这一风险，请使用安全 SSO。",
+    "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "简易单点登录用户的评论会立即得到验证。取消勾选后，我们会通过电子邮件向他们发送一个链接，以便他们验证每条评论，因为简易单点登录无法证明用户身份。"
 }

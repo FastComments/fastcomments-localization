@@ -311,5 +311,9 @@
     "OPTION_COMMENT_TRANSLATION_OFF": "Kapalı",
     "OPTION_COMMENT_TRANSLATION_AUTO": "Otomatik - başka bir dilde yazılan yorumları çevirir",
     "OPTION_COMMENT_TRANSLATION_MANUAL": "Manuel - her yorumda bir Çevir düğmesi gösterir",
-    "TEXT_COMMENT_TRANSLATION_NOTE": "Yorumlar widget'ın diline çevrilir (yukarıdaki Yerel ayar / Dil ayarı veya ziyaretçinin tarayıcı dili). Çeviriler LLM token'ları olarak faturalandırılır."
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Yorumlar widget'ın diline çevrilir (yukarıdaki Yerel ayar / Dil ayarı veya ziyaretçinin tarayıcı dili). Çeviriler LLM token'ları olarak faturalandırılır.",
+    "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Basit SSO ile Yorumları Otomatik Olarak Doğrula",
+    "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Basit SSO kullanıcılarından gelen yorumlar anında doğrulanır. Bu seçenek kapalı olduğunda, Basit SSO kim olduklarını kanıtlamadığından her yorumu doğrulamaları için onlara e-postayla bir bağlantı göndeririz.",
+    "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Basit SSO Kullanıcılarının Yönetici Olmasına İzin Ver",
+    "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Basit SSO kullanıcıları, yöneticilerinizden birinin e-posta adresini kullanarak da dahil olmak üzere, yönetici ve moderatör olabilirler. Basit SSO imzalanmamıştır, bu nedenle bu e-postayı veya kullanıcı kimliğini bilen herkes o yönetici gibi davranabilir. Siteniz için bu önemliyse Güvenli SSO'yu kullanın."
 }

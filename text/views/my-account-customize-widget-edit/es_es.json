@@ -311,5 +311,9 @@
     "OPTION_COMMENT_TRANSLATION_OFF": "Desactivado",
     "OPTION_COMMENT_TRANSLATION_AUTO": "Automático - traduce los comentarios escritos en otro idioma",
     "OPTION_COMMENT_TRANSLATION_MANUAL": "Manual - muestra un botón Traducir en cada comentario",
-    "TEXT_COMMENT_TRANSLATION_NOTE": "Los comentarios se traducen al idioma del widget (la opción Configuración regional/idioma de arriba o el idioma del navegador del visitante). Las traducciones se facturan como tokens de LLM."
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Los comentarios se traducen al idioma del widget (la opción Configuración regional/idioma de arriba o el idioma del navegador del visitante). Las traducciones se facturan como tokens de LLM.",
+    "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Los comentarios de los usuarios de SSO simple se verifican de inmediato. Cuando esta opción está desactivada, les enviamos un enlace por correo electrónico para que verifiquen cada comentario, ya que el SSO simple no demuestra su identidad.",
+    "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Permitir administradores mediante SSO simple",
+    "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Verificación automática de comentarios mediante SSO simple",
+    "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Los usuarios de SSO simple pueden ser administradores y moderadores, incluso utilizando el correo electrónico de uno de tus administradores. El SSO simple no está firmado, por lo que cualquiera que conozca ese correo electrónico o ID de usuario puede actuar como ese administrador. Utiliza SSO seguro si esto es importante para tu sitio."
 }

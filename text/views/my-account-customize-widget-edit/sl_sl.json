@@ -311,5 +311,9 @@
     "OPTION_COMMENT_TRANSLATION_OFF": "Izklopljeno",
     "OPTION_COMMENT_TRANSLATION_AUTO": "Samodejno - prevede komentarje, napisane v drugem jeziku",
     "OPTION_COMMENT_TRANSLATION_MANUAL": "Ročno - pri vsakem komentarju pokaže gumb Prevedi",
-    "TEXT_COMMENT_TRANSLATION_NOTE": "Komentarji se prevedejo v jezik pripomočka (nastavitev Jezik/lokacija zgoraj ali jezik brskalnika obiskovalca). Prevodi se zaračunajo kot žetoni LLM."
+    "TEXT_COMMENT_TRANSLATION_NOTE": "Komentarji se prevedejo v jezik pripomočka (nastavitev Jezik/lokacija zgoraj ali jezik brskalnika obiskovalca). Prevodi se zaračunajo kot žetoni LLM.",
+    "LABEL_ALLOW_SIMPLE_SSO_ADMINS": "Dovoli skrbniške pravice uporabnikom preproste enotne prijave (SSO)",
+    "LABEL_AUTO_VERIFY_SIMPLE_SSO_COMMENTS": "Samodejno preverjanje komentarjev prek preproste enotne prijave (SSO)",
+    "TEXT_AUTO_VERIFY_SIMPLE_SSO_COMMENTS_NOTE": "Komentarji uporabnikov preproste enotne prijave (SSO) so takoj preverjeni. Ko je ta možnost izklopljena, jim po e-pošti pošljemo povezavo za preverjanje vsakega komentarja, saj preprosta enotna prijava (SSO) ne dokazuje, kdo so.",
+    "TEXT_ALLOW_SIMPLE_SSO_ADMINS_NOTE": "Uporabniki preproste enotne prijave (SSO) so lahko skrbniki in moderatorji, tudi z uporabo e-poštnega naslova enega od vaših skrbnikov. Preprosta enotna prijava (SSO) ni podpisana, zato se lahko vsak, ki pozna ta e-poštni naslov ali ID uporabnika, lažno predstavlja za tega skrbnika. Uporabite varno enotno prijavo (SSO), če je to pomembno za vaše spletno mesto."
 }
