@@ -5835,7 +5835,9 @@
                 "CSV_COL_MRR": "MRR",
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -16639,7 +16641,9 @@
                 "CSV_COL_MONTHLY_COST": "Monthly Cost",
                 "CSV_COL_BILLING_VALID": "Billing Info Valid",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_OUTREACH": "(O)",
+                "VALUE_FROM_AFFILIATE": "(A)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -27429,7 +27433,9 @@
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MRR": "MRR",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -38217,7 +38223,9 @@
                 "CSV_COL_MONTHLY_COST": "Monthly Cost",
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_OUTREACH": "(O)",
+                "VALUE_FROM_AFFILIATE": "(A)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -48994,7 +49002,9 @@
                 "CSV_COL_BILLING_VALID": "Billing Info Valid",
                 "CSV_COL_COMMENT_COUNT": "Comment Count",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -59782,7 +59792,9 @@
                 "CSV_COL_COMMENT_COUNT": "Comment Count",
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -69705,7 +69717,9 @@
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MRR": "MRR",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_OUTREACH": "(O)",
+                "VALUE_FROM_AFFILIATE": "(A)"
             },
             "my-account-ticket": {
                 "PAGE_TITLE": "Ticket \"<%- ticketViewModel.subject %>\"",
@@ -80669,7 +80683,9 @@
                 "CSV_COL_COMMENT_COUNT": "Comment Count",
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_OUTREACH": "(O)",
+                "VALUE_FROM_AFFILIATE": "(A)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -91450,7 +91466,9 @@
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_SIGN_UP_DATE": "Sign Up Date",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -102230,7 +102248,9 @@
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_DAYS_LEFT": "Days Left in Trial",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -113009,7 +113029,9 @@
                 "CSV_COL_COMMENT_COUNT": "Comment Count",
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_OUTREACH": "(O)",
+                "VALUE_FROM_AFFILIATE": "(A)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -123787,7 +123809,9 @@
                 "CSV_COL_MRR": "MRR",
                 "CSV_COL_DAYS_LEFT": "Days Left in Trial",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -134565,7 +134589,9 @@
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MRR": "MRR",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_OUTREACH": "(O)",
+                "VALUE_FROM_AFFILIATE": "(A)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -145343,7 +145369,9 @@
                 "CSV_COL_MONTHLY_COST": "Monthly Cost",
                 "CSV_COL_BILLING_VALID": "Billing Info Valid",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -156121,7 +156149,9 @@
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MONTHLY_COST": "Monthly Cost",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -166899,7 +166929,9 @@
                 "CSV_COL_BILLING_VALID": "Billing Info Valid",
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -177677,7 +177709,9 @@
                 "CSV_COL_DAYS_LEFT": "Days Left in Trial",
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -188444,7 +188478,9 @@
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MONTHLY_COST": "Monthly Cost",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -199222,7 +199258,9 @@
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MONTHLY_COST": "Monthly Cost",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -210000,7 +210038,9 @@
                 "CSV_COL_MRR": "MRR",
                 "CSV_COL_DAYS_LEFT": "Days Left in Trial",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -220778,7 +220818,9 @@
                 "CSV_COL_MONTHLY_COST": "Monthly Cost",
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -231556,7 +231598,9 @@
                 "CSV_COL_MONTHLY_COST": "Monthly Cost",
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -242334,7 +242378,9 @@
                 "CSV_COL_MONTHLY_COST": "Monthly Cost",
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -253112,7 +253158,9 @@
                 "CSV_COL_MONTHLY_COST": "Monthly Cost",
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -263872,7 +263920,9 @@
                 "CSV_COL_TENANT_ID": "Tenant ID",
                 "CSV_COL_MONTHLY_COST": "Monthly Cost",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -274649,7 +274699,9 @@
                 "CSV_COL_MONTHLY_COST": "Monthly Cost",
                 "CSV_COL_MRR": "MRR",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "VALUE_FROM_GOOGLE_ADS": "(G)"
+                "VALUE_FROM_GOOGLE_ADS": "(G)",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "PAGE_TITLE": "Two-Factor Authentication - FastComments",
@@ -288745,7 +288797,9 @@
                 "CSV_COL_USAGE": "Usage This Period",
                 "CSV_COL_SIGN_UP_DATE": "Sign Up Date",
                 "CSV_COL_MANAGED_BY_TENANT_ID": "Managed By Tenant ID",
-                "CSV_COL_TENANT_ID": "Tenant ID"
+                "CSV_COL_TENANT_ID": "Tenant ID",
+                "VALUE_FROM_AFFILIATE": "(A)",
+                "VALUE_FROM_OUTREACH": "(O)"
             },
             "my-account-two-factor": {
                 "HEADING": "Two-Factor Authentication",

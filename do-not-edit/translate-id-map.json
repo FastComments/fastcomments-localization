@@ -242,7 +242,7 @@
         "my-account-sent-email-detail": 13,
         "my-account-sent-emails": 24,
         "my-account-tenant-delete": 125,
-        "my-account-tenants": 37,
+        "my-account-tenants": 39,
         "my-account-ticket": 71,
         "my-account-tickets": 22,
         "my-account-two-factor": 13,
@@ -6882,7 +6882,9 @@
         "t34": "CSV_COL_MONTHLY_COST",
         "t35": "CSV_COL_TENANT_ID",
         "t36": "CSV_COL_MANAGED_BY_TENANT_ID",
-        "t37": "VALUE_FROM_GOOGLE_ADS"
+        "t37": "VALUE_FROM_GOOGLE_ADS",
+        "t38": "VALUE_FROM_OUTREACH",
+        "t39": "VALUE_FROM_AFFILIATE"
     },
     "my-account-ticket": {
         "t1": "PAGE_TITLE",
