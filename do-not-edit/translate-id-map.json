@@ -399,7 +399,7 @@
         "packages-shopify": 36,
         "email-redirect-expired": 4,
         "comment-ui-online-users": 16,
-        "examples": 12,
+        "examples": 15,
         "shopify-iframe-redirect": 4,
         "ratings-reviews-helper": 6,
         "lti-v1p3-deep-link-return": 4,
@@ -11743,7 +11743,10 @@
         "t9": "TECH_SHOWCASE_EYEBROW",
         "t10": "TECH_SHOWCASE_TITLE",
         "t11": "TECH_SHOWCASE_DESCRIPTION",
-        "t12": "TECH_SHOWCASE_CTA"
+        "t12": "TECH_SHOWCASE_CTA",
+        "t13": "NEWS_SHOWCASE_TITLE",
+        "t14": "NEWS_SHOWCASE_DESCRIPTION",
+        "t15": "NEWS_SHOWCASE_CTA"
     },
     "shopify-iframe-redirect": {
         "t1": "PAGE_TITLE",
