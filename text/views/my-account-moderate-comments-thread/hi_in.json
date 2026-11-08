@@ -1,0 +1,6 @@
+{
+    "PAGE_TITLE_DEFAULT": "टिप्पणी थ्रेड दर्शक",
+    "PAGE_ID_INFO": "पेज आईडी <%- thread.urlIdDecoded %> के लिए टिप्पणियाँ देखें",
+    "HEADING": "टिप्पणी थ्रेड दर्शक",
+    "THREAD_DETAILS": "आप <a href=\"<%= thread.urlDecoded %>\" target=\"_blank\"><%= thread.urlDecoded %></a> पर टिप्पणी थ्रेड देख रहे हैं"
+}

@@ -1,0 +1,9 @@
+{
+    "SITE_AUTH_EMAIL_REQUIRED": "ईमेल की जरूरत है।",
+    "SITE_AUTH_RATE_LIMITED": "कई सारे प्रयास। कृपया बाद में दोबारा प्रयास करें।",
+    "SITE_AUTH_INVALID_CREDENTIALS": "अवैध प्रत्यय पत्र।",
+    "SITE_AUTH_ERROR": "कुछ गलत हो गया।",
+    "SITE_AUTH_USERNAME_TAKEN": "उपयोगकर्ता का नाम पहले से लिया है।",
+    "SITE_AUTH_ACCOUNT_EXISTS": "इस ईमेल पते से पहले से ही एक खाता मौजूद है। कृपया लॉग इन करें।",
+    "SITE_AUTH_STRIPE_NOT_CONFIGURED": "यह साइट अभी भुगतान स्वीकार करने के लिए कॉन्फ़िगर नहीं की गई है। कृपया साइट के मालिक से संपर्क करें।"
+}

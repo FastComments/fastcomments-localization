@@ -1,0 +1,11 @@
+{
+    "TRUST_FACTOR_DIALOG_TITLE": "[name] के लिए विश्वास कारक निर्धारित करें",
+    "TRUST_FACTOR_DIALOG_DESCRIPTION": "ट्रस्ट फैक्टर यह निर्धारित करता है कि सिस्टम इस उपयोगकर्ता पर कितना भरोसा करता है। उच्च मान का अर्थ है कम स्पैम फ़िल्टरिंग और कम प्रतिबंध। स्पैम फ़िल्टर द्वारा उपयोगकर्ता को ब्लॉक होने से बचाने के लिए इसे 100 पर सेट करें।",
+    "TRUST_FACTOR_DIALOG_CURRENT_AUTO": "वर्तमान ऑटो ट्रस्ट फैक्टर: [value]",
+    "TRUST_FACTOR_DIALOG_CURRENT_MANUAL": "वर्तमान मैनुअल ओवरराइड: [value]",
+    "TRUST_FACTOR_DIALOG_LABEL": "मैनुअल ट्रस्ट फैक्टर (0-100)",
+    "TRUST_FACTOR_DIALOG_NO_DATA": "अभी तक भरोसे के कारक से संबंधित कोई डेटा उपलब्ध नहीं है।",
+    "TRUST_FACTOR_DIALOG_BTN_SAVE": "बचाना",
+    "TRUST_FACTOR_DIALOG_BTN_CANCEL": "रद्द करना",
+    "TRUST_FACTOR_DIALOG_BTN_CLEAR": "मैनुअल ओवरराइड साफ़ करें"
+}

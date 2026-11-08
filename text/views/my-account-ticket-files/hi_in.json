@@ -1,0 +1,20 @@
+{
+    "LABEL_UPLOAD_FILE": "एक फ़ाइल अपलोड करें",
+    "HEADING": "\"<%- ticket.subject %>\" के लिए फ़ाइलें",
+    "LINK_BACK_TO_TICKET": "टिकट पर वापस जाएँ",
+    "PAGE_TITLE": "फ़ाइलें प्रबंधित करें - <%- ticket.subject %>",
+    "TABLE_HEADER_NAME": "नाम",
+    "BUTTON_UPLOAD": "अपलोड करें",
+    "TABLE_HEADER_SIZE": "आकार",
+    "TABLE_HEADER_UPLOADED_BY": "द्वारा अपलोड किया गया",
+    "TABLE_HEADER_DATE": "तारीख",
+    "TABLE_HEADER_EXPIRES": "समय-सीमा समाप्त",
+    "TABLE_HEADER_ACTIONS": "कार्रवाई",
+    "BUTTON_DELETE": "मिटाना",
+    "ERROR_FILE_TOO_LARGE": "फ़ाइल का आकार बहुत बड़ा है। अधिकतम आकार 2GB है।",
+    "ERROR_NO_FILE": "कृपया अपलोड करने के लिए एक फ़ाइल चुनें।",
+    "MESSAGE_NO_FILES": "अभी तक कोई फाइल अपलोड नहीं की गई है।",
+    "FILE_EXPIRED": "खत्म हो चुका",
+    "ERROR_TOTAL_SIZE_EXCEEDED": "प्रति टिकट 5 जीबी की कुल फ़ाइल आकार सीमा का उल्लंघन होगा।",
+    "ERROR_UPLOAD_FAILED": "फ़ाइल अपलोड करने में विफल रहा। कृपया पुनः प्रयास करें।"
+}

@@ -1,0 +1,8 @@
+{
+    "PAGE_TITLE": "API सीक्रेट डोमेन को अपडेट करें - FastComments",
+    "HEADING_UPDATE_API_SECRET_DOMAIN": "API गुप्त डोमेन को अपडेट करें",
+    "OPTION_ALL_DOMAINS": "सभी डोमेन",
+    "TEXT_DOMAIN_INFO": "वेबहुक जैसी कॉन्फ़िगरेशन के लिए, हम इस कॉन्फ़िगरेशन के आधार पर यह निर्धारित करेंगे कि किस एपीआई कुंजी का उपयोग करना है।",
+    "BUTTON_UPDATE_DOMAIN": "डोमेन अपडेट करें",
+    "LABEL_ASSOCIATE_SECRET_WITH_DOMAIN": "एपीआई गुप्त कोड \"<%= apiSecret.name %>\" को डोमेन से संबद्ध करें:"
+}

@@ -1,0 +1,8 @@
+{
+    "SUBJECT": "अपना ईमेल सत्यापित करें <%= username %>",
+    "BANNER_TEXT": "अपना ईमेल सत्यापित करें",
+    "INTRO": "अरे <%= username %>,",
+    "FROM_NAME": "FastComments सत्यापन रोबोट",
+    "VERIFY_THIS_LINK": "कृपया <a href=\"<%= userVerifyUrl %>\">इस लिंक</a> पर क्लिक करके अपना नया ईमेल पता सत्यापित करें। ऐसा करने के बाद आपके खाते का ईमेल पता अपडेट हो जाएगा।",
+    "THAT_FULL_LINK_IS": "पूरा लिंक यह है: <%= userVerifyUrl %>"
+}

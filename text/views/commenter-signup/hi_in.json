@@ -1,0 +1,20 @@
+{
+    "PAGE_TITLE": "साइन अप करें",
+    "HERO_TITLE_LIGHT": "शामिल होना  ",
+    "HERO_TITLE_BOLD": "बहस",
+    "HERO_DESCRIPTION": "क्या आप FastComments का उपयोग करने वाली किसी वेबसाइट पर टिप्पणी करना चाहते हैं? आप बिल्कुल सही जगह पर आए हैं।",
+    "HERO_ADDITIONAL_TEXT": "यदि आप किसी वेबसाइट में FastComments जोड़ना चाहते हैं, तो आपको <a href=\"/auth/tenant-signup?email=<%= email %>\">यहां साइन अप करना चाहिए।</a>",
+    "FORM_DESCRIPTION": "साइन अप करने के लिए आपको केवल एक यूजरनेम और ईमेल की आवश्यकता है।",
+    "LABEL_EMAIL": "*ईमेल:",
+    "PLACEHOLDER_EMAIL": "ईमेल दर्ज करें",
+    "LABEL_USERNAME": "*उपयोगकर्ता नाम:",
+    "USERNAME_DESCRIPTION": "यह यूजरनेम सार्वजनिक रूप से दिखाई देगा।",
+    "PLACEHOLDER_USERNAME": "उपयोगकर्ता नाम दर्ज करें",
+    "USERNAME_PATTERN_TITLE": "कृपया विशेष वर्णों का प्रयोग न करें - केवल संख्याएँ और अक्षर ही लिखें।",
+    "EMAIL_DESCRIPTION": "हम आपको ईमेल के माध्यम से एक लिंक भेजेंगे जिससे आप अपना खाता पूरा कर सकेंगे और साइन इन कर सकेंगे।",
+    "BUTTON_SIGN_UP": "साइन अप करें",
+    "SIGNUP_EMAIL_TEXT": "आप <b><%= email %></b> का उपयोग करके साइन अप कर रहे हैं।",
+    "LABEL_CAPTCHA": "<%= captchaA %> + <%= captchaB %> क्या है?",
+    "TERMS_AGREEMENT": "साइन अप पर क्लिक करके, आप <a href=\"/terms-of-service\" target=\"_blank\">सेवा की शर्तों</a> से सहमत होते हैं।",
+    "CAPTCHA_HELP": "इससे यह निर्धारित करने में मदद मिलती है कि आप बॉट नहीं हैं।"
+}

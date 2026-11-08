@@ -1,0 +1,15 @@
+{
+    "INTRO": "अरे <%= username %>,",
+    "BANNER_TEXT": "नई टिप्पणियों के उत्तर",
+    "RECENT_COMMENT_COUNT": "आपको [comments] के कुछ जवाब मिले हैं।",
+    "RECENT_COMMENT_COUNT_O": "आपको [comments] का उत्तर मिल गया है।",
+    "RECENT_COMMENT_COUNT_COMMENTS": "आपकी टिप्पणियां",
+    "FROM_NAME": "फास्टकमेंट्स रोबोट",
+    "SUBJECT_COMMENTS": "आपकी टिप्पणियां",
+    "SUBJECT_O": "<%= abbreviateNumber(replyCount, 0, locale) %> को नया उत्तर [comments]",
+    "UNSUBSCRIBE_HERE": "सदस्यता रद्द",
+    "VIEW_REPLIES": "देखें और जवाब दें",
+    "SUBJECT": "<%= abbreviateNumber(replyCount, 0, locale) %> नए उत्तर [comments]",
+    "DISABLE_NOTIFICATIONS_FOR_COMMENT": "इस टिप्पणी के लिए सूचनाएं अक्षम करें",
+    "REPLY_BY_EMAIL_TIP": "आप इस ईमेल का सीधे जवाब देकर अपनी प्रतिक्रिया दे सकते हैं।"
+}

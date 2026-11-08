@@ -1,0 +1,18 @@
+{
+    "HEADING_COUPONS": "कूपन",
+    "HEADING_COUPON_CODES": "कूपन कोड",
+    "HEADING_STATS": "आँकड़े",
+    "PAGE_TITLE": "कूपन - फ़ास्टकमेंट्स",
+    "TEXT_COUPONS_REDEEMED_O": "कूपन भुना लिया गया।",
+    "TEXT_COUPONS_REDEEMED": "<%= Number(couponsRedeemedCount).toLocaleString() %> कूपन भुनाए गए।",
+    "TEXT_TOTAL_COUPONS": "<%= Number(coupons.length).toLocaleString() %> कुल कूपन।",
+    "HEADING_DOWNLOAD": "डाउनलोड करना",
+    "BUTTON_SUBMIT": "जमा करना",
+    "TEXT_TOTAL_COUPONS_O": "कुल कूपन राशि।",
+    "BUTTON_DOWNLOAD_AVAILABLE_COUPONS": "उपलब्ध कूपन डाउनलोड करें",
+    "LABEL_GENERATE_COUPON_COUNT": "कूपन संख्या उत्पन्न करें",
+    "HEADING_GENERATE_TIER_4_COUPONS": "टियर 4 कूपन जेनरेट करें",
+    "TABLE_HEADER_CODE": "कोड",
+    "HEADING_COUPON_LIST": "कूपन सूची",
+    "TABLE_HEADER_REDEEMED_DATE": "भुनाई तिथि"
+}

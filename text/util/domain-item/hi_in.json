@@ -1,0 +1,6 @@
+{
+    "BUTTON_CLICK_TO_UPDATE_LOGO": "<%= domain.domain %> के लिए लोगो अपडेट करने के लिए क्लिक करें",
+    "BUTTON_CLICK_TO_SET_LOGO": "<%= domain.domain %> के लिए लोगो सेट करने के लिए क्लिक करें",
+    "TEXT_DOMAIN_INVALID": "❌ \"<%= domain.input %>\": <%= domain.reason %>",
+    "TEXT_DOMAIN_VALID": "✔️ <%= domain.domain %>"
+}

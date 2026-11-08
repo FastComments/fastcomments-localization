@@ -1,0 +1,15 @@
+{
+    "BUTTON_BACK": "← भेजे गए ईमेल पर वापस जाएँ",
+    "HEADING": "<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> को ईमेल भेजा गया",
+    "PAGE_TITLE": "<%= email.createdAt ? new Date(email.createdAt).toLocaleDateString(htmlLang) : 'Unknown Date' %> को ईमेल भेजा गया - FastComments",
+    "LABEL_TO": "को:",
+    "LABEL_DATE": "तारीख:",
+    "LABEL_FROM": "से:",
+    "LABEL_BCC": "बीसीसी:",
+    "LABEL_SUBJECT": "विषय:",
+    "LABEL_HEADERS": "शीर्षक:",
+    "MESSAGE_NO_CONTENT": "कोई सामग्री उपलब्ध नहीं है",
+    "HEADING_EMAIL_CONTENT": "ईमेल सामग्री",
+    "VALUE_UNKNOWN": "अज्ञात",
+    "VALUE_NO_SUBJECT": "(विषय नहीं)"
+}

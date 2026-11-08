@@ -1,0 +1,19 @@
+{
+    "LABEL_DOMAIN_NAME": "डोमेन नाम",
+    "HEADING_EDIT_DOMAIN": "डोमेन संपादित करें",
+    "BUTTON_SAVE": "बचाना",
+    "PAGE_TITLE": "डोमेन संपादित करें - फ़ास्टकमेंट्स",
+    "HEADING_EDITING_DOMAIN": "संपादन <%= domainName %>",
+    "BUTTON_CANCEL": "रद्द करना",
+    "HEADING_MIGRATION_OPTIONS": "प्रवासन विकल्प",
+    "PLACEHOLDER_DOMAIN_NAME": "एक टॉप-लेवल डोमेन दर्ज करें, जैसे fastcomments.com",
+    "LABEL_MIGRATE_WIDGET_CONFIG": "विजेट विन्यास (<%= migrationCounts.widgetConfig %>)",
+    "LABEL_MIGRATE_EMAIL_TEMPLATES": "ईमेल टेम्पलेट्स (<%= migrationCounts.emailTemplates %>)",
+    "LABEL_MIGRATE_WEBHOOKS": "वेबहुक (<%= migrationCounts.webhooks %>)",
+    "TEXT_MIGRATION_HELP": "यदि आप इस डोमेन का नाम बदलते हैं, तो निम्नलिखित डेटा नए डोमेन नाम पर स्थानांतरित किया जा सकता है। जिन आइटमों को आप स्थानांतरित नहीं करना चाहते हैं, उन्हें अनचेक करें।",
+    "LABEL_MIGRATE_SITES": "स्थल (<%= migrationCounts.sites %>)",
+    "LABEL_MIGRATE_API_KEYS": "एपीआई कुंजी (<%= migrationCounts.apiKeys %>)",
+    "LABEL_MIGRATE_COMMENTS": "टिप्पणियाँ (<%= migrationCounts.comments %>)",
+    "LABEL_MIGRATE_INTEGRATIONS": "एकीकरण (<%= migrationCounts.integrations %>)",
+    "HELP_MIGRATE_COMMENTS": "टिप्पणियों को पृष्ठभूमि में स्थानांतरित किया जा रहा है और इसमें कुछ मिनट लग सकते हैं।"
+}

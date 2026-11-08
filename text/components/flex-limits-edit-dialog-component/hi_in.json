@@ -1,0 +1,20 @@
+{
+    "FLEX_LIMITS_TITLE": "मासिक खर्च सीमा",
+    "FLEX_LIMITS_SUBTITLE": "मासिक अधिकतम उपयोग का लक्ष्य दर्ज करें और हम उसके अनुसार उपयोग सीमा निर्धारित कर देंगे, या आप स्वयं प्रत्येक सीमा को अपनी आवश्यकतानुसार समायोजित कर सकते हैं।",
+    "FLEX_LIMITS_NO_LIMIT_PLACEHOLDER": "कोई सीमा नहीं",
+    "FLEX_LIMITS_COMMENTS": "टिप्पणियाँ संग्रहीत की गईं",
+    "FLEX_LIMITS_TARGET_PLACEHOLDER": "राशि दर्ज करें",
+    "FLEX_LIMITS_TARGET_LABEL": "मासिक अधिकतम लक्ष्य ([currency])",
+    "FLEX_LIMITS_PAGE_LOADS": "प्रति माह पेज लोड",
+    "FLEX_LIMITS_TARGET_NOTE": "यह कोई निश्चित सीमा नहीं है; साइट जोड़ने या एडमिन सीट जोड़ने जैसे मैन्युअल कार्यों से भी यह सीमा पार हो सकती है। <a href=\"/auth/my-account/analytics/billing\">बिलिंग एनालिटिक्स</a> में आप कभी भी आगामी इनवॉइस देख सकते हैं।",
+    "FLEX_LIMITS_MINIMUM_NOTE": "फ्लेक्स का न्यूनतम शुल्क [amount]/माह अभी भी लागू है।",
+    "FLEX_LIMITS_NOT_CONFIGURED": "उस उपयोग को असीमित रखने के लिए एक फ़ील्ड को खाली छोड़ दें।",
+    "FLEX_LIMITS_SMALL_WIDGET_CREDITS": "प्रति माह छोटे विजेट क्रेडिट",
+    "FLEX_LIMITS_COMPUTED_MAX": "अनुमानित मासिक अधिकतम: [amount]",
+    "FLEX_LIMITS_CALCULATED_AMOUNT": "गणना की गई राशि: [amount]",
+    "FLEX_LIMITS_BTN_SAVE": "बचत सीमाएँ",
+    "FLEX_LIMITS_BTN_CANCEL": "रद्द करना",
+    "FLEX_LIMITS_SSO_USERS": "एसएसओ उपयोगकर्ता",
+    "FLEX_LIMITS_API_CREDITS": "एपीआई क्रेडिट प्रति माह",
+    "FLEX_LIMITS_SAVE_FAILED": "आपकी सीमाएँ सहेजने में कुछ समस्या आ रही है। कृपया कुछ देर बाद पुनः प्रयास करें।"
+}

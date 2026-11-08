@@ -1,0 +1,11 @@
+{
+    "CONGRATULATIONS": "बधाई हो!",
+    "INTRO": "अरे <%= username %>, तुमने <strong><%= siteDomain %></strong> पर एक नया बैज हासिल किया है!",
+    "BANNER_TEXT": "नया बैज अर्जित किया",
+    "FROM_NAME": "फास्टकमेंट्स रोबोट",
+    "VIEW_YOUR_PROFILE": "अपनी प्रोफ़ाइल देखें",
+    "KEEP_UP_GOOD_WORK": "बढ़िया काम जारी रखें!",
+    "SUBJECT": "आपने \"<%= badge.displayLabel %>\" बैज हासिल कर लिया है!",
+    "UNSUBSCRIBE_HERE": "बैज नोटिफिकेशन से अनसब्सक्राइब करें",
+    "BADGE_EARNED_MESSAGE": "आपने सफलतापूर्वक <strong><%= badge.displayLabel %></strong> बैज प्राप्त कर लिया है।"
+}

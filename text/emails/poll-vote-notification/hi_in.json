@@ -1,0 +1,19 @@
+{
+    "INTRO": "अरे <%= username %>,",
+    "FROM_NAME": "फास्टकमेंट्स रोबोट",
+    "BANNER_TEXT": "नए सर्वेक्षण के जवाब",
+    "SUBJECT_POLLS_O": "आपका सर्वेक्षण",
+    "SUBJECT_O": "<%= abbreviateNumber(newResponseCount, 0, locale) %> के लिए नई प्रतिक्रिया [polls]",
+    "SUBJECT_POLLS": "आपके सर्वेक्षण",
+    "SUBJECT": "<%= abbreviateNumber(newResponseCount, 0, locale) %> नए उत्तर [polls]",
+    "OPTION": "विकल्प",
+    "RESPONSES": "जवाब",
+    "SHARE": "शेयर करना",
+    "UNSUBSCRIBE_HERE": "सदस्यता रद्द",
+    "VIEW_POLL": "पोल देखें",
+    "NEW_RESPONSES_LABEL": "नए जवाब:",
+    "TOTAL_RESPONSES_LABEL": "कुल प्रतिक्रियाएँ:",
+    "DISABLE_NOTIFICATIONS_FOR_POLL": "इस पोल के लिए नोटिफिकेशन बंद करें",
+    "NEW_RESPONSES_SUMMARY_O": "आपके पोल पर नए जवाब आए हैं। फिलहाल स्थिति यह है।",
+    "NEW_RESPONSES_SUMMARY": "आपके सर्वेक्षणों पर नए जवाब आए हैं। फिलहाल उनकी स्थिति इस प्रकार है।"
+}

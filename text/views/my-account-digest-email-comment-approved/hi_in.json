@@ -1,0 +1,8 @@
+{
+    "HEADING": "सफलता!",
+    "TITLE": "टिप्पणी स्वीकृत - फ़ास्टकमेंट्स",
+    "ALSO_LOGGED_IN": "आप लॉग इन भी हो चुके हैं।",
+    "COMMENT_APPROVED": "उस टिप्पणी की समीक्षा हो चुकी है और उसे स्वीकृत कर दिया गया है।",
+    "CLOSE_PAGE": "अब आप इस पेज को बंद कर सकते हैं।",
+    "VIEW_COMMENT_ON_SITE": "आप अपनी साइट पर स्वीकृत टिप्पणी <a href=\"<%= comment.url %>\" target=\"_blank\">यहां</a> देख सकते हैं, या <a href=\"/auth/my-account/moderate-comments/thread?commentId=<%= comment._id %>&jumpToId=<%= comment._id %>\" target=\"_blank\">यहां</a> टिप्पणी थ्रेड व्यूअर का उपयोग करके देख सकते हैं।"
+}
