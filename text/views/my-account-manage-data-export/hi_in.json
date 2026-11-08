@@ -7,7 +7,7 @@
     "TIME_RANGE_LABEL": "समय सीमा",
     "LAST_DAY": "आखिरी दिन",
     "LAST_30_DAYS": "पिछले 30 दिन",
-    "SOURCE_DELETED_COMMENTS": "हटाए गए टिप्पणियाँ",
+    "SOURCE_DELETED_COMMENTS": "<%= tenant.name %> हटाए गए टिप्पणियाँ",
     "LAST_7_DAYS": "पिछले 7 दिन",
     "LAST_1_YEAR": "पिछले 1 वर्ष",
     "LAST_2_YEARS": "पिछले 2 वर्षों",

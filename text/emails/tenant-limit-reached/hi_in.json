@@ -36,7 +36,7 @@
     "EXPLANATION_maxMonthlyComments": "इसमें चालू कैलेंडर माह में पोस्ट की गई हर टिप्पणी को गिना जाता है, जिसमें बाद में हटाई गई टिप्पणियां भी शामिल हैं, यही कारण है कि यह आपके एनालिटिक्स पेज पर टिप्पणियों की संख्या से अधिक हो सकती है।",
     "META_PLAN": "योजना:",
     "PLAN_NAME_ONLY": "<%= planName %>",
-    "RESETS_IN_DAYS": "(दिनों में)",
+    "RESETS_IN_DAYS": "(<%= resetDays %> दिनों में)",
     "RESETS_TODAY": "(आज बाद में)",
     "META_RESETS": "रीसेट:",
     "PLAN_WITH_PRICE": "<%= planName %> (<%= planPrice %>/माह)",

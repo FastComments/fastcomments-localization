@@ -1,8 +1,8 @@
 {
-    "HEADING_USERS_WITH_BADGE_SINGULAR": "बैज वाला उपयोगकर्ता",
+    "HEADING_USERS_WITH_BADGE_SINGULAR": "<%- Number(userBadges.length).toLocaleString() %> बैज <%- tenantBadge.displayLabel %> वाला उपयोगकर्ता",
     "PAGE_TITLE": "<%- tenantBadge.displayLabel %> - फास्टकमेंट्स",
     "TABLE_HEADER_USER_ID": "उपयोगकर्ता पहचान",
-    "HEADING_USERS_WITH_BADGE_PLURAL": "बैज वाले उपयोगकर्ता",
+    "HEADING_USERS_WITH_BADGE_PLURAL": "<%- Number(userBadges.length).toLocaleString() %> बैज <%- tenantBadge.displayLabel %> वाले उपयोगकर्ता",
     "TABLE_HEADER_AVATAR": "अवतार",
     "TEXT_NA": "लागू नहीं",
     "TABLE_HEADER_NAME": "नाम",
