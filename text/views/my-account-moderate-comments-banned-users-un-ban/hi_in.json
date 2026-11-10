@@ -1,8 +1,8 @@
 {
-    "PAGE_TITLE": "किसी उपयोगकर्ता को अनबैन करें - FastComments",
-    "SUB_HEADING": "प्रतिबंध हटाएं <%= bannedUser.username %>?",
-    "HEADING": "किसी उपयोगकर्ता पर से प्रतिबंध हटाएँ",
-    "CONFIRM_MESSAGE": "क्या आप वाकई इस उपयोगकर्ता पर से प्रतिबंध हटाना चाहते हैं?",
-    "UN_BAN_BUTTON": "उपयोगकर्ता को अन-बैन करें",
-    "BANNED_FOR_SAYING_TEXT": "उन्हें &quot; <span class=\"quote\"><%= bannedUser.bannedCommentText %></span> &quot; कहने के लिए प्रतिबंधित कर दिया गया था।"
+    "PAGE_TITLE": "उपयोगकर्ता का प्रतिबंध हटाएँ - FastComments",
+    "SUB_HEADING": "<%= bannedUser.username %> का प्रतिबंध हटाएँ?",
+    "HEADING": "उपयोगकर्ता का प्रतिबंध हटाएँ",
+    "CONFIRM_MESSAGE": "क्या आप वाकई इस उपयोगकर्ता का प्रतिबंध हटाना चाहते हैं?",
+    "UN_BAN_BUTTON": "प्रतिबंध हटाएँ",
+    "BANNED_FOR_SAYING_TEXT": "उन्हें यह कहने के लिए प्रतिबंधित किया गया था: \"<span class=\"quote\"><%= bannedUser.bannedCommentText %></span>\""
 }

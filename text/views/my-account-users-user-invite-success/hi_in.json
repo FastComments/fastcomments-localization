@@ -1,7 +1,7 @@
 {
-    "HEADING": "सफलता!",
+    "HEADING": "हो गया!",
     "BUTTON_MY_ACCOUNT": "मेरा खाता",
-    "PAGE_TITLE": "सफलता को आमंत्रित करें - फास्टकमेंट्स",
-    "MESSAGE_SUCCESS": "निमंत्रण सफल रहा - अब आप <%= tenant.name %> के प्रशासक हैं।",
+    "PAGE_TITLE": "आमंत्रण सफल - FastComments",
+    "MESSAGE_SUCCESS": "आमंत्रण सफल रहा, अब आप <%= tenant.name %> के एडमिन हैं।",
     "MESSAGE_PERMISSIONS": "आपको निम्नलिखित विशेष अनुमतियाँ दी गई हैं:"
 }

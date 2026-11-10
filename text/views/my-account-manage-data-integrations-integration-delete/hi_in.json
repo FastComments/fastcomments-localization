@@ -1,8 +1,8 @@
 {
-    "DELETE_BUTTON": "मिटाना",
-    "PAGE_TITLE": "इंटीग्रेशन टोकन हटाएं - FastComments",
-    "HEADING": "एकीकरण टोकन हटाएं",
-    "CANCEL_LINK": "रद्द करना",
-    "CONFIRM_DELETE_MESSAGE_DOMAIN": "क्या आप वाकई <%= integration.readableType %> के लिए इस <%= integration.domain %> एकीकरण टोकन को हटाना चाहते हैं?",
-    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "क्या आप वाकई इस <%= integration.readableType %> एकीकरण टोकन को हटाना चाहते हैं?"
+    "DELETE_BUTTON": "हटाएँ",
+    "PAGE_TITLE": "इंटीग्रेशन टोकन हटाएँ - FastComments",
+    "HEADING": "इंटीग्रेशन टोकन हटाएँ",
+    "CANCEL_LINK": "रद्द करें",
+    "CONFIRM_DELETE_MESSAGE_DOMAIN": "क्या आप वाकई <%= integration.domain %> के लिए यह <%= integration.readableType %> इंटीग्रेशन टोकन हटाना चाहते हैं?",
+    "CONFIRM_DELETE_MESSAGE_NO_DOMAIN": "क्या आप वाकई यह <%= integration.readableType %> इंटीग्रेशन टोकन हटाना चाहते हैं?"
 }

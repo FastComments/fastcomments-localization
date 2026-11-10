@@ -1,8 +1,8 @@
 {
-    "PAGE_TITLE": "API सीक्रेट हटाएं - FastComments",
-    "BUTTON_CANCEL": "रद्द करना",
-    "QUESTION_CONFIRM_DELETE": "क्या आप अवश्य हटाना चाहते हैं <%= apiSecret.name ? 'the api key \"' + apiSecret.name + '\"' : 'this api key' %>?",
-    "BUTTON_DELETE_API_SECRET": "API सीक्रेट हटाएं",
-    "HEADING_DELETE_API_SECRET": "API सीक्रेट हटाएं",
-    "WARNING_USED_BY_WEBHOOKS": "यह एपीआई कुंजी वर्तमान में एक वेबहुक द्वारा उपयोग की जा रही है। वेबहुक को अपडेट करने से पहले एपीआई कुंजी को हटाने से एकीकरण बाधित हो जाएगा।"
+    "PAGE_TITLE": "API सीक्रेट हटाएँ - FastComments",
+    "BUTTON_CANCEL": "रद्द करें",
+    "QUESTION_CONFIRM_DELETE": "क्या आप वाकई <%= apiSecret.name ? 'the api key \"' + apiSecret.name + '\"' : 'this api key' %> को हटाना चाहते हैं?",
+    "BUTTON_DELETE_API_SECRET": "API सीक्रेट हटाएँ",
+    "HEADING_DELETE_API_SECRET": "API सीक्रेट हटाएँ",
+    "WARNING_USED_BY_WEBHOOKS": "यह API कुंजी अभी एक वेबहुक द्वारा उपयोग की जा रही है। वेबहुक अपडेट करने से पहले API कुंजी हटाने पर इंटीग्रेशन काम करना बंद कर देगा।"
 }

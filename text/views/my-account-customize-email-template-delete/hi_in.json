@@ -1,7 +1,7 @@
 {
-    "BUTTON_DELETE": "मिटाना",
-    "HEADING_DELETE_TEMPLATE": "मिटाना \"<%= template.displayName %>\"?",
-    "BUTTON_CANCEL": "रद्द करना",
-    "TEXT_CONFIRM_DELETE": "क्या आप वाकई <%= template.displayName %> तारीख को बनाए गए टेम्पलेट <%= template.createdAt.toLocaleString() %> को हटाना चाहते हैं?",
-    "PAGE_TITLE": "हटाएं <%= template.displayName %> - फ़ास्टकमेंट्स"
+    "BUTTON_DELETE": "हटाएँ",
+    "HEADING_DELETE_TEMPLATE": "\"<%= template.displayName %>\" हटाएँ?",
+    "BUTTON_CANCEL": "रद्द करें",
+    "TEXT_CONFIRM_DELETE": "क्या आप वाकई <%= template.createdAt.toLocaleString() %> को बनाया गया टेम्पलेट <%= template.displayName %> हटाना चाहते हैं?",
+    "PAGE_TITLE": "<%= template.displayName %> हटाएँ - FastComments"
 }

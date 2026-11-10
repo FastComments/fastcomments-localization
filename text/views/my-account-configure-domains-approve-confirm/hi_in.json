@@ -1,8 +1,8 @@
 {
-    "HEADING_APPROVE_DOMAIN": "मंज़ूरी देना <%= domainName %>",
-    "PAGE_TITLE": "डोमेन को स्वीकृत करें - FastComments",
-    "HEADING_APPROVING_DOMAIN": "<%= domainName %> को मंजूरी देना",
-    "BUTTON_CANCEL": "रद्द करना",
-    "TEXT_APPROVE_CONFIRM": "हमें <b><%= domainName %></b> से कमेंट विजेट ट्रैफ़िक मिला। इसे स्वीकृत करने से डोमेन आपके खाते में जुड़ जाएगा, जिससे टिप्पणियाँ वहाँ लोड हो जाएँगी। इसे केवल तभी स्वीकृत करें जब यह आपकी साइट हो। आगे बढ़ें?",
-    "BUTTON_APPROVE_DOMAIN": "डोमेन को स्वीकृत करें"
+    "HEADING_APPROVE_DOMAIN": "<%= domainName %> स्वीकृत करें",
+    "PAGE_TITLE": "डोमेन स्वीकृत करें - FastComments",
+    "HEADING_APPROVING_DOMAIN": "<%= domainName %> स्वीकृत किया जा रहा है",
+    "BUTTON_CANCEL": "रद्द करें",
+    "TEXT_APPROVE_CONFIRM": "हमें <b><%= domainName %></b> से टिप्पणी विजेट का ट्रैफ़िक मिला है। इसे स्वीकृत करने पर यह डोमेन आपके खाते में जुड़ जाएगा, ताकि वहाँ टिप्पणियाँ लोड हो सकें। इसे तभी स्वीकृत करें जब यह आपकी साइट हो। जारी रखें?",
+    "BUTTON_APPROVE_DOMAIN": "डोमेन स्वीकृत करें"
 }

@@ -1,15 +1,15 @@
 {
-    "HEADING_BILLING_ANALYTICS": "बिलिंग विश्लेषण",
-    "PAGE_TITLE": "बिलिंग विश्लेषण - फास्टकमेंट्स",
+    "HEADING_BILLING_ANALYTICS": "बिलिंग एनालिटिक्स",
+    "PAGE_TITLE": "बिलिंग एनालिटिक्स - FastComments",
     "TEXT_TOTAL": "कुल",
     "TABLE_HEADER_DESCRIPTION": "विवरण",
-    "HEADING_USAGE_THIS_PERIOD": "इस अवधि में उपयोग करें",
+    "HEADING_USAGE_THIS_PERIOD": "इस अवधि का उपयोग",
     "TABLE_HEADER_COST": "लागत",
     "HEADING_SERVICE_LIMITS": "सेवा सीमाएँ",
     "LABEL_CURRENT": "मौजूदा:",
-    "TEXT_INVOICE_SEND_DATE": "बिल भेजने की तारीख <%= invoiceSendDate %> है।",
-    "TEXT_TRIAL_PERIOD_NOTE": "आप वर्तमान में परीक्षण अवधि में हैं। <b>उपरोक्त राशि इस बिलिंग चक्र में देय नहीं है।</b>",
+    "TEXT_INVOICE_SEND_DATE": "इनवॉइस <%= invoiceSendDate %> को भेजा जाएगा।",
+    "TEXT_TRIAL_PERIOD_NOTE": "आप अभी ट्रायल अवधि में हैं। <b>ऊपर दी गई राशि इस बिलिंग चक्र में देय नहीं है।</b>",
     "TEXT_MAX_NONE": "कोई नहीं",
     "LABEL_MAX": "अधिकतम:",
-    "TEXT_TRIAL_LIMITS_NOTE": "<b>ध्यान दें!</b> चूंकि आप ट्रायल अवधि में हैं, इसलिए आपके खाते पर कम सीमाएं लागू हैं। इन सीमाओं को बढ़ाने के लिए <a href=\"/auth/my-account/billing-info\">सशुल्क खाते में अपग्रेड करें</a> या <a href=\"/auth/my-account/help\">सहायता टीम से संपर्क करें</a> ।"
+    "TEXT_TRIAL_LIMITS_NOTE": "<b>ध्यान दें!</b> आप ट्रायल पर हैं, इसलिए आपके खाते पर कम सीमाएँ लागू हैं। <a href=\"/auth/my-account/billing-info\">सशुल्क खाते में अपग्रेड करें</a> या <a href=\"/auth/my-account/help\">इन सीमाओं को बढ़ाने के लिए सहायता से संपर्क करें</a>।"
 }

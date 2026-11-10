@@ -1,10 +1,10 @@
 {
-    "HEADING": "मिटाना \"<%= question.name %>\"?",
+    "HEADING": "\"<%= question.name %>\" हटाएँ?",
     "REPLY_COUNT_MESSAGE_O": "इस प्रश्न का <%= Number(question.usedCount).toLocaleString() %> उत्तर है।",
-    "PAGE_TITLE": "प्रश्न हटाएं - फ़ास्टकमेंट्स",
-    "DELETE_BUTTON": "मिटाना",
+    "PAGE_TITLE": "प्रश्न हटाएँ - FastComments",
+    "DELETE_BUTTON": "हटाएँ",
     "REPLY_COUNT_MESSAGE": "इस प्रश्न के <%= Number(question.usedCount).toLocaleString() %> उत्तर हैं।",
-    "CONFIRM_MESSAGE": "क्या आप वाकई <%= question.question %> को बनाए गए प्रश्न \"<%= question.createdAt.toLocaleString() %>\" को हटाना चाहते हैं?",
-    "DATA_LOSS_WARNING": "इन जवाबों से प्राप्त डेटा अब रिपोर्टिंग में उपलब्ध नहीं होगा।",
-    "CANCEL_LINK": "रद्द करना"
+    "CONFIRM_MESSAGE": "क्या आप वाकई <%= question.createdAt.toLocaleString() %> को बनाया गया प्रश्न \"<%= question.question %>\" हटाना चाहते हैं?",
+    "DATA_LOSS_WARNING": "इन उत्तरों का डेटा अब रिपोर्टिंग में उपलब्ध नहीं रहेगा।",
+    "CANCEL_LINK": "रद्द करें"
 }

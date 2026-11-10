@@ -1,7 +1,7 @@
 {
-    "SAVE_BUTTON": "बचाना",
+    "SAVE_BUTTON": "सहेजें",
     "ON_COMMENT_DELETED_LABEL": "टिप्पणी <b>हटाए जाने</b> पर, कॉल करें...",
-    "ON_COMMENT_CREATED_LABEL": "टिप्पणी <b>बनाई गई</b> , कॉल करें...",
+    "ON_COMMENT_CREATED_LABEL": "टिप्पणी <b>बनाए जाने</b> पर, कॉल करें...",
     "ON_COMMENT_UPDATED_LABEL": "टिप्पणी <b>अपडेट होने</b> पर, कॉल करें...",
-    "IDEMPOTENT_OPERATION_TITLE": "यह एक आइडम्पोटेंट ऑपरेशन होना चाहिए क्योंकि इसमें एक आईडी शामिल है - इसलिए यह एक पुट ऑपरेशन है।"
+    "IDEMPOTENT_OPERATION_TITLE": "इसमें एक ID होती है, इसलिए यह idempotent ऑपरेशन होना चाहिए - इसीलिए यह PUT है।"
 }

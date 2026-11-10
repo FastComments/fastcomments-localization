@@ -1,11 +1,11 @@
 {
-    "PAGE_TITLE_ADD": "एक मॉडरेशन समूह जोड़ें",
-    "PAGE_TITLE_SUFFIX": " - त्वरित टिप्पणियाँ",
+    "PAGE_TITLE_ADD": "मॉडरेशन समूह जोड़ें",
+    "PAGE_TITLE_SUFFIX": " - FastComments",
     "PAGE_TITLE_EDIT": "मॉडरेशन समूह",
-    "SAVE_BUTTON": "बचाना",
-    "GROUP_NAME_LABEL": "समूह नाम",
-    "GROUP_NAME_PLACEHOLDER": "समूह बी",
-    "INTRO_NEW": "यदि आप एक मॉडरेशन ग्रुप बनाना चाहते हैं तो आप सही जगह पर आए हैं।",
-    "HEADING_EDIT": "संपादन <%= moderationGroup.name %>",
-    "HEADING_ADD": "एक मॉडरेशन समूह जोड़ें"
+    "SAVE_BUTTON": "सहेजें",
+    "GROUP_NAME_LABEL": "समूह का नाम",
+    "GROUP_NAME_PLACEHOLDER": "समूह B",
+    "INTRO_NEW": "अगर आप मॉडरेशन समूह बनाना चाहते हैं, तो आप सही जगह पर आए हैं।",
+    "HEADING_EDIT": "<%= moderationGroup.name %> संपादित किया जा रहा है",
+    "HEADING_ADD": "मॉडरेशन समूह जोड़ें"
 }
