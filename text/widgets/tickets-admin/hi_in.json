@@ -1,15 +1,15 @@
 {
     "TITLE": "टिकट प्रबंधन",
     "FILTER_BY_STATE": "स्थिति के अनुसार फ़िल्टर करें",
-    "ASSIGN_TO": "के लिए आवंटित",
+    "ASSIGN_TO": "असाइन करें",
     "ALL_STATES": "सभी",
     "ALL_ASSIGNEES": "सभी",
     "CUSTOMER": "ग्राहक",
-    "UNASSIGNED": "सौंपे नहीं गए",
-    "FILTER_BY_ASSIGNEE": "असाइनी के अनुसार फ़िल्टर करें",
-    "ASSIGNED_TO": "को सौंपना",
+    "UNASSIGNED": "असाइन नहीं किया गया",
+    "FILTER_BY_ASSIGNEE": "असाइन किए गए व्यक्ति के अनुसार फ़िल्टर करें",
+    "ASSIGNED_TO": "असाइन किया गया",
     "RESPONSE_TIME": "औसत प्रतिक्रिया समय",
-    "ERROR_ASSIGN_FAILED": "टिकट आवंटित करने में विफल।",
+    "ERROR_ASSIGN_FAILED": "टिकट असाइन नहीं किया जा सका।",
     "NO_TICKETS": "कोई टिकट नहीं मिला।",
-    "ERROR_LOAD_FAILED": "टिकट लोड करने में विफल।"
+    "ERROR_LOAD_FAILED": "टिकट लोड नहीं हो सके।"
 }
