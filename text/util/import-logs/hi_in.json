@@ -1,5 +1,6 @@
 {
     "STARTING_DUPLICATE_DETECTION": "<%= commentCount %> टिप्पणियों के लिए डुप्लिकेट पहचान शुरू हो रही है",
-    "DUPLICATE_CHECK_PROGRESS": "डुप्लिकेट जाँच की प्रगति: <%= checked %>/<%= total %> टिप्पणियों की जाँच की गई, अब तक <%= duplicatesFound %> डुप्लिकेट पाए गए",
-    "SKIPPED_DUPLICATE": "डुप्लिकेट को छोड़ दिया गया (दूरी: <%= distance %>)। आयातकर्ता: \"<%= importedName %>\": \"<%= importedHtml %>\" | मौजूदा: \"<%= existingName %>\": \"<%= existingHtml %>\""
+    "DUPLICATE_CHECK_PROGRESS": "डुप्लिकेट जाँच की प्रगति: <%= checked %>/<%= total %> टिप्पणियों की जाँच हुई, अब तक <%= duplicatesFound %> डुप्लिकेट मिले",
+    "DUPLICATE_CHECK_PROGRESS_O": "डुप्लिकेट जाँच की प्रगति: <%= checked %>/<%= total %> टिप्पणियों की जाँच हुई, अब तक <%= duplicatesFound %> डुप्लिकेट मिला",
+    "SKIPPED_DUPLICATE": "डुप्लिकेट छोड़ा गया (दूरी: <%= distance %>)। इंपोर्ट की गई (\"<%= importedName %>\"): \"<%= importedHtml %>\" | मौजूदा (\"<%= existingName %>\"): \"<%= existingHtml %>\""
 }

@@ -1,6 +1,6 @@
 {
-    "TEXT_FIRST_OCCURRENCE": "पहली घटना: <%= renderError.createdAt.toLocaleString() %>",
-    "TEXT_RENDER_ERRORS_HEADING_O": "<%= Number(renderError.count).toLocaleString() %> हाल ही में रेंडरिंग में त्रुटि!",
-    "TEXT_RENDER_ERRORS_HEADING": "<%= Number(renderError.count).toLocaleString() %> हाल ही में हुई रेंडरिंग त्रुटियाँ!",
-    "TEXT_MOST_RECENT_OCCURRENCE": "सबसे हालिया घटना: <%= renderError.lastOccurredAt.toLocaleString() %>"
+    "TEXT_FIRST_OCCURRENCE": "पहली बार हुई: <%= renderError.createdAt.toLocaleString() %>",
+    "TEXT_RENDER_ERRORS_HEADING_O": "<%= Number(renderError.count).toLocaleString() %> हालिया रेंडर त्रुटि!",
+    "TEXT_RENDER_ERRORS_HEADING": "<%= Number(renderError.count).toLocaleString() %> हालिया रेंडर त्रुटियाँ!",
+    "TEXT_MOST_RECENT_OCCURRENCE": "सबसे हाल में हुई: <%= renderError.lastOccurredAt.toLocaleString() %>"
 }
