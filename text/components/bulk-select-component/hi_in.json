@@ -1,11 +1,11 @@
 {
     "BULK_SELECT_SINGULAR_SELECTED": "[count] चयनित",
     "BULK_SELECT_PLURAL_SELECTED": "[count] चयनित",
-    "BULK_SELECT_PLURAL_PAGE_SELECTED": "इस पृष्ठ पर [count] चयनित",
-    "BULK_SELECT_SINGULAR_PAGE_SELECTED": "इस पृष्ठ पर [count] चयनित",
-    "BULK_SELECT_REDUCE_PLURAL": "इस पृष्ठ पर केवल [count] का चयन करें",
-    "BULK_SELECT_REDUCE_SINGULAR": "इस पृष्ठ पर केवल [count] का चयन करें",
-    "BULK_SELECT_ALL_SINGULAR": "सबका चयन करें [count]",
-    "BULK_SELECT_ALL_PLURAL": "सबका चयन करें [count]",
-    "BULK_SELECT_IN_PROGRESS": "[selected] में से [total] का चयन करना..."
+    "BULK_SELECT_PLURAL_PAGE_SELECTED": "इस पेज पर [count] चयनित",
+    "BULK_SELECT_SINGULAR_PAGE_SELECTED": "इस पेज पर [count] चयनित",
+    "BULK_SELECT_REDUCE_PLURAL": "केवल इस पेज के [count] चुनें",
+    "BULK_SELECT_REDUCE_SINGULAR": "केवल इस पेज के [count] चुनें",
+    "BULK_SELECT_ALL_SINGULAR": "सभी [count] चुनें",
+    "BULK_SELECT_ALL_PLURAL": "सभी [count] चुनें",
+    "BULK_SELECT_IN_PROGRESS": "[total] में से [selected] चुने जा रहे हैं..."
 }
