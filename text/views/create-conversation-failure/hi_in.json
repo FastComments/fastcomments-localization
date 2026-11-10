@@ -1,14 +1,14 @@
 {
-    "HERO_TITLE_LIGHT": "बातचीत  ",
+    "HERO_TITLE_LIGHT": "बातचीत ",
     "META_DESCRIPTION": "FastComments.com से संपर्क करें",
-    "PAGE_TITLE": "वार्तालाप शुरू करने में विफल - फ़ास्टकमेंट्स",
-    "HERO_TITLE_BOLD": "बनाया नहीं जा सका",
-    "BUTTON_TRY_AGAIN": "एक नई बातचीत शुरू करने का प्रयास करें।",
+    "PAGE_TITLE": "बातचीत नहीं बनाई जा सकी - FastComments",
+    "HERO_TITLE_BOLD": "नहीं बनाई जा सकी",
+    "BUTTON_TRY_AGAIN": "नई बातचीत बनाने का फिर से प्रयास करें।",
     "HERO_DESCRIPTION": "हम आपकी बातचीत नहीं बना सके। <%= typeof errorMessage !== 'undefined' && errorMessage ? errorMessage : 'This was an internal error. Please report this to your customer service representative.' %>",
-    "ERROR_NAME_TOO_LONG": "आपके वार्तालाप का नाम अनुमत अधिकतम अक्षरों (300) से अधिक है।",
-    "ERROR_LIMIT_REACHED": "आपके किरायेदार के लिए बातचीत की अधिकतम सीमा (20 लाख) पूरी हो चुकी है। इस सीमा को बढ़ाने के लिए, सहायता टीम से संपर्क करें।",
-    "ERROR_SIGN_IN": "बातचीत शुरू करने से पहले कृपया अपने किरायेदार के खाते में साइन इन करें।",
-    "ERROR_NOT_FOUND": "वह बातचीत नहीं मिल सकी।",
-    "ERROR_ALREADY_EXISTS": "उस नाम से एक बातचीत पहले से मौजूद है।",
+    "ERROR_NAME_TOO_LONG": "आपकी बातचीत का नाम अधिकतम अनुमत अक्षरों (300) से लंबा है।",
+    "ERROR_LIMIT_REACHED": "आपके टेनेंट के लिए बातचीत की अधिकतम सीमा (20 लाख) पूरी हो चुकी है। यह सीमा बढ़ाने के लिए सहायता से संपर्क करें।",
+    "ERROR_SIGN_IN": "बातचीत बनाने से पहले कृपया अपने टेनेंट खाते में साइन इन करें।",
+    "ERROR_NOT_FOUND": "वह बातचीत नहीं मिली।",
+    "ERROR_ALREADY_EXISTS": "इस नाम की बातचीत पहले से मौजूद है।",
     "ERROR_INTERNAL": "यह एक आंतरिक त्रुटि थी। कृपया इसकी सूचना अपने ग्राहक सेवा प्रतिनिधि को दें।"
 }

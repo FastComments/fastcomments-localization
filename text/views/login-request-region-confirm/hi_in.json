@@ -1,11 +1,11 @@
 {
-    "HERO_TITLE_LIGHT": "पर स्विच  ",
-    "PAGE_TITLE": "<%= otherRegionName %> पर स्विच करें? - फ़ास्ट कमेंट्स",
+    "HERO_TITLE_LIGHT": "स्विच करें: ",
+    "PAGE_TITLE": "<%= otherRegionName %> पर स्विच करें? - FastComments",
     "HERO_TITLE_BOLD": "<%= otherRegionName %>",
-    "INFO_MESSAGE_QUESTION": "क्या वहां रीडायरेक्ट करें?",
-    "INFO_MESSAGE_BOLD": "आपका हमारे दूसरे डेटा सेंटर में एक खाता है।",
-    "BUTTON_REDIRECT": "को अनुप्रेषित <%= otherRegionName %>",
-    "HERO_DESCRIPTION": "आपका <a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a> पर एक खाता है - क्या आप वहां लॉग इन करना चाहेंगे?",
-    "INFO_MESSAGE_WARNING": "यदि आप रीडायरेक्ट नहीं करते हैं, तो यदि आपका खाता यहाँ मौजूद नहीं है तो हम आपके लिए एक खाता बना देंगे, और <b>फिर आपके पास दो खाते हो जाएंगे।</b>",
-    "BUTTON_CONTINUE_HERE": "यहां से जारी रखें"
+    "INFO_MESSAGE_QUESTION": "वहाँ रीडायरेक्ट करें?",
+    "INFO_MESSAGE_BOLD": "हमारे दूसरे डेटा सेंटर में आपका एक खाता है।",
+    "BUTTON_REDIRECT": "<%= otherRegionName %> पर रीडायरेक्ट करें",
+    "HERO_DESCRIPTION": "<a href=\"<%= otherRegionSite %>\"><%= otherRegionDomain %></a> पर आपका एक खाता है - क्या आप इसके बजाय वहाँ लॉग इन करना चाहेंगे?",
+    "INFO_MESSAGE_WARNING": "अगर आप रीडायरेक्ट नहीं करते, तो यहाँ खाता न होने पर हम आपके लिए यहाँ एक खाता बना देंगे, और <b>तब आपके दो खाते हो जाएँगे।</b>",
+    "BUTTON_CONTINUE_HERE": "यहीं जारी रखें"
 }

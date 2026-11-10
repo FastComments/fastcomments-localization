@@ -1,15 +1,15 @@
 {
     "STEP_LABEL": "चरण 1/3",
     "META_DESCRIPTION": "अपने Shopify स्टोर को FastComments से कनेक्ट करें।",
-    "PAGE_TITLE": "Shopify से जुड़ें - फ़ास्ट कमेंट्स",
+    "PAGE_TITLE": "Shopify कनेक्ट करें - FastComments",
     "HEADING": "अपने Shopify स्टोर को कनेक्ट करें",
     "SHOP_DOMAIN_LABEL": "आपका स्टोर",
-    "BUTTON_LOGIN": "हाँ, मुझे लॉग इन कर दीजिए।",
-    "BUTTON_SIGNUP": "नहीं, एक खाता बनाएं",
-    "DESCRIPTION": "कुछ ही मिनटों में अपने Shopify स्टोर में लाइव कमेंट और चैट जोड़ें। आइए आपके स्टोर को FastComments अकाउंट से लिंक करें।",
+    "BUTTON_LOGIN": "हाँ, मुझे लॉग इन करें",
+    "BUTTON_SIGNUP": "नहीं, खाता बनाएँ",
+    "DESCRIPTION": "कुछ ही मिनटों में अपने Shopify स्टोर में लाइव टिप्पणियाँ और चैट जोड़ें। आइए, आपके स्टोर को किसी FastComments खाते से लिंक करें।",
     "ERROR_INVALID_HMAC": "अनुरोध का हस्ताक्षर अमान्य है। कृपया Shopify से पुनः प्रयास करें।",
     "ERROR_MISSING_SHOP": "स्टोर की जानकारी उपलब्ध नहीं है। कृपया Shopify से पुनः प्रयास करें।",
-    "HAVE_ACCOUNT_HEADING": "क्या आपके पास FastComments अकाउंट है?",
-    "ERROR_INSTALL_FAILED": "अप्रत्याशित रूप से इंस्टॉलेशन विफल हो गया। कृपया Shopify एडमिन से पुनः प्रयास करें, और यदि समस्या बनी रहती है तो support@fastcomments.com पर संपर्क करें।",
+    "HAVE_ACCOUNT_HEADING": "क्या आपके पास FastComments खाता है?",
+    "ERROR_INSTALL_FAILED": "इंस्टॉलेशन अचानक विफल हो गया। कृपया Shopify एडमिन से फिर से प्रयास करें, और समस्या बनी रहे तो support@fastcomments.com पर संपर्क करें।",
     "ERROR_SESSION_EXPIRED": "Shopify सेशन टोकन इंस्टॉलेशन पूरा होने से पहले ही समाप्त हो गया। कृपया Shopify एडमिन से ऐप को रीलोड करें और दोबारा प्रयास करें।"
 }

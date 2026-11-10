@@ -1,11 +1,11 @@
 {
     "PAGE_TITLE": "लॉग इन सफल",
-    "WELCOME_FIRST_TIME": "स्वागत!",
+    "WELCOME_FIRST_TIME": "स्वागत है!",
     "WELCOME_BACK": "वापसी पर स्वागत है!",
     "HEADING": "अब आप लॉग इन हैं",
-    "BUTTON_CONTINUE_WP": "वर्डप्रेस सेटअप करना जारी रखें",
-    "COMMENTER_MESSAGE": "अब आप FastComments का उपयोग करके किसी भी साइट पर अपना नाम या ईमेल दोबारा डाले बिना टिप्पणी कर सकते हैं।",
+    "BUTTON_CONTINUE_WP": "WordPress सेटअप जारी रखें",
+    "COMMENTER_MESSAGE": "अब आप FastComments इस्तेमाल करने वाली किसी भी साइट पर अपना नाम या ईमेल दोबारा डाले बिना टिप्पणी कर सकते हैं।",
     "BUTTON_MY_ACCOUNT": "मेरा खाता",
-    "FIRST_TIME_MESSAGE": "यदि आपको दोबारा लॉगिन करने की आवश्यकता है, तो <a href=\"<%= FC_SITE %>\"><%= FC_DOMAIN %> पर एक नया लॉगिन यूआरएल प्राप्त करें।</a>",
+    "FIRST_TIME_MESSAGE": "अगर आपको दोबारा लॉग इन करना हो, तो <a href=\"<%= FC_SITE %>\"><%= FC_DOMAIN %></a> पर नया लॉग इन URL पाएँ।",
     "WINDOW_CLOSE_MESSAGE": "यह विंडो कुछ ही देर में बंद हो जाएगी।"
 }

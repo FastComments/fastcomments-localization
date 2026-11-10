@@ -1,11 +1,11 @@
 {
-    "HEADING_WELCOME": "स्वागत!",
-    "HEADING_SUCCESS": "आपका खाता सफलतापूर्वक बनाया गया था!",
-    "BUTTON_MY_ACCOUNT": "मेरे खाते पर जाएं",
+    "HEADING_WELCOME": "स्वागत है!",
+    "HEADING_SUCCESS": "आपका खाता सफलतापूर्वक बन गया है!",
+    "BUTTON_MY_ACCOUNT": "मेरे खाते पर जाएँ",
     "PAGE_TITLE": "FastComments - आपका स्वागत है!",
-    "BUTTON_READ_DOCS": "दस्तावेज़ पढ़ें",
-    "BUTTON_GET_PLUGIN": "वर्डप्रेस प्लगइन प्राप्त करें",
-    "WORDPRESS_DESCRIPTION": "ऐसा लगता है कि आपकी वेबसाइट वर्डप्रेस पर चलती है। हमारे पास एक वर्डप्रेस प्लगइन है जो फास्टकमेंट्स को आसानी से और बिना किसी परेशानी के सेट अप करने में मदद करता है। यह आपके मौजूदा कमेंट्स को भी माइग्रेट कर देता है।",
-    "INSTALLATION_WIZARD_VIEWING_FOR": "<%= wizard.productName %> के लिए निर्देश देखें।",
-    "INSTALLATION_WIZARD_CHANGE": "परिवर्तन।"
+    "BUTTON_READ_DOCS": "डॉक्यूमेंटेशन पढ़ें",
+    "BUTTON_GET_PLUGIN": "WordPress प्लगइन पाएँ",
+    "WORDPRESS_DESCRIPTION": "लगता है कि आपकी साइट WordPress पर चलती है। हमारे पास एक WordPress प्लगइन है, जिससे FastComments सेट अप करना आसान और झंझट-मुक्त हो जाता है। यह आपकी मौजूदा टिप्पणियों को भी माइग्रेट कर देता है।",
+    "INSTALLATION_WIZARD_VIEWING_FOR": "आप <%= wizard.productName %> के लिए निर्देश देख रहे हैं।",
+    "INSTALLATION_WIZARD_CHANGE": "बदलें।"
 }
