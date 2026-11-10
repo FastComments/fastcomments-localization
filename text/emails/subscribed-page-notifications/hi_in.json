@@ -1,12 +1,12 @@
 {
     "FROM_NAME": "FastComments सदस्यताएँ",
     "SUBJECT": "नई टिप्पणियाँ",
-    "INTRO": "अरे <%= username %>,",
-    "PAGE": "पृष्ठ",
+    "INTRO": "नमस्ते <%= username %>,",
+    "PAGE": "पेज",
     "NEW_COMMENTS": "टिप्पणियाँ",
-    "VIEW": "देखना",
-    "HERE_ARE_LINKS_TO_PAGES": "यहां नए कमेंट वाले पेजों की सूची दी गई है। यदि आप चाहें तो नीचे दिए गए लिंक के माध्यम से किसी पेज से अनसब्सक्राइब भी कर सकते हैं।",
-    "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "आपने जिन पेजों को सब्सक्राइब किया है, उन पर नए कमेंट आए हैं।",
-    "UNSUBSCRIBE": "सदस्यता रद्द",
-    "CAN_VIEW_ALL_IN_ACCOUNT": "आप <a href=\"<%= FC_SITE %>/auth/my-account\">अपने अकाउंट होम में</a> अपनी सभी व्यक्तिगत अपठित सूचनाएं देख सकते हैं।"
+    "VIEW": "देखें",
+    "HERE_ARE_LINKS_TO_PAGES": "यह नई टिप्पणियों वाले पेजों की सूची है। आप चाहें तो नीचे दिए गए लिंक से किसी पेज की सदस्यता छोड़ भी सकते हैं।",
+    "YOU_HAVE_NEW_NOTIFICATIONS_SUBSCRIBED_PAGES": "आपने जिन पेजों की सदस्यता ली है, उन पर नई टिप्पणियाँ आई हैं।",
+    "UNSUBSCRIBE": "सदस्यता छोड़ें",
+    "CAN_VIEW_ALL_IN_ACCOUNT": "आप अपनी सभी अपठित सूचनाएँ अलग-अलग <a href=\"<%= FC_SITE %>/auth/my-account\">अपने खाते के होम पेज पर</a> देख सकते हैं।"
 }

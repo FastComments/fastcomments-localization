@@ -1,15 +1,15 @@
 {
     "BANNER_TEXT": "नई टिप्पणियाँ",
-    "INTRO": "अरे <%= username %>,",
+    "INTRO": "नमस्ते <%= username %>,",
     "SUBJECT_O": "<%= abbreviateNumber(commentCount, 0, locale) %> नई टिप्पणी",
-    "UNSUBSCRIBE_HERE": "सदस्यता रद्द",
+    "UNSUBSCRIBE_HERE": "सदस्यता छोड़ें",
     "SUBJECT": "<%= abbreviateNumber(commentCount, 0, locale) %> नई टिप्पणियाँ",
-    "APPROVE_COMMENT": "मंज़ूरी देना",
-    "YOU_HAVE_NEW_COMMENTS": "आपको कुछ नई टिप्पणियाँ मिली हैं!",
-    "FROM_NAME": "फास्टकमेंट्स रोबोट",
+    "APPROVE_COMMENT": "स्वीकृत करें",
+    "YOU_HAVE_NEW_COMMENTS": "आपके पास कुछ नई टिप्पणियाँ हैं!",
+    "FROM_NAME": "FastComments रोबोट",
     "NEW_COMMENTS": "नई टिप्पणियाँ",
-    "PAGE": "पृष्ठ",
-    "VIEW_COMMENT": "टिप्पणी देखकर उत्तर दें",
-    "HERE_ARE_LINKS_TO_PAGES": "यहां उन पेजों के लिंक दिए गए हैं जिन पर ये टिप्पणियां हैं, साथ ही प्रत्येक पेज पर टिप्पणियों की संख्या भी दी गई है।",
-    "MODERATE_COMMENTS": "मध्यम टिप्पणियाँ"
+    "PAGE": "पेज",
+    "VIEW_COMMENT": "जवाब देने के लिए टिप्पणी देखें",
+    "HERE_ARE_LINKS_TO_PAGES": "ये उन पेजों के लिंक हैं जिन पर ये टिप्पणियाँ हैं, साथ में हर पेज की टिप्पणियों की संख्या भी दी गई है।",
+    "MODERATE_COMMENTS": "टिप्पणियाँ मॉडरेट करें"
 }

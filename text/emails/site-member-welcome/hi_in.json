@@ -1,11 +1,11 @@
 {
-    "SUBJECT": "आपका स्वागत है <%= siteName %>, <%= username %>!",
-    "BANNER_TEXT": "आपका स्वागत है <%= siteName %>",
+    "SUBJECT": "<%= siteName %> पर आपका स्वागत है, <%= username %>!",
+    "BANNER_TEXT": "<%= siteName %> पर आपका स्वागत है",
     "FROM_NAME": "<%= siteName %>",
-    "INTRO": "अरे <%= username %>,",
-    "VERIFY_YOUR_ACCOUNT": "अपने खाते को सत्यापित करें",
-    "UNSUBSCRIBE_HERE": "सदस्यता रद्द",
-    "THANKS_FOR_SIGNING_UP": "<%= siteName %> के लिए साइन अप करने के लिए धन्यवाद।",
-    "VERIFY_TEXT": "कृपया नीचे दिए गए लिंक पर क्लिक करके अपना खाता सत्यापित करें। इससे आप लॉग इन भी हो जाएंगे।",
-    "CAN_CREATE_NEW_LINKS_HERE": "आप <a href=\"<%= MEMBERSITE_URL %>/login\">यहां</a> लॉगिन करने के लिए नए लिंक बना सकते हैं।"
+    "INTRO": "नमस्ते <%= username %>,",
+    "VERIFY_YOUR_ACCOUNT": "अपना खाता सत्यापित करें",
+    "UNSUBSCRIBE_HERE": "सदस्यता छोड़ें",
+    "THANKS_FOR_SIGNING_UP": "<%= siteName %> पर साइन अप करने के लिए धन्यवाद।",
+    "VERIFY_TEXT": "कृपया नीचे दिए गए लिंक पर क्लिक करके अपना खाता सत्यापित करें। इससे आप लॉग इन भी हो जाएँगे।",
+    "CAN_CREATE_NEW_LINKS_HERE": "लॉग इन करने के लिए आप <a href=\"<%= MEMBERSITE_URL %>/login\">यहाँ</a> नए लिंक बना सकते हैं।"
 }

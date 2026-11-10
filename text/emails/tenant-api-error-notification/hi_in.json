@@ -1,14 +1,14 @@
 {
     "BANNER_TEXT": "FastComments API में त्रुटियाँ पाई गईं",
-    "ERROR_SINGULAR": "गलती",
+    "ERROR_SINGULAR": "त्रुटि",
     "FROM_NAME": "FastComments API रोबोट",
     "GREETING": "नमस्ते,",
     "SUBJECT": "FastComments API में त्रुटियाँ पाई गईं",
     "ERROR_PLURAL": "त्रुटियाँ",
-    "DETECTION": "हमने <%= errorCountFormatted %> तिथि को आपके खाते के लिए <%= errorWord %> API <%= errorDate %> का पता लगाया।",
-    "SIGN_OFF": "ईमानदारी से,",
-    "TENANT_NOTE": "यह \"<%= tenantId %>\" आईडी वाले किरायेदार के संबंध में है।",
-    "TEAM_NAME": "फास्टकमेंट्स इंजीनियरिंग टीम",
-    "EXPLANATION": "हमारे प्लेटफ़ॉर्म को कॉल करते समय ये त्रुटियाँ उत्पन्न हुईं। हमारा सुझाव है कि आप FastComments के साथ किसी भी कस्टम API एकीकरण के लिए त्रुटियों की जाँच करें।",
-    "OPT_OUT": "आप <a href=\"<%= notificationSettingsUrl %>\">यहां</a> इन सूचनाओं से ऑप्ट आउट कर सकते हैं।"
+    "DETECTION": "<%= errorDate %> को आपके खाते के लिए <%= errorCountFormatted %> API <%= errorWord %> का पता चला।",
+    "SIGN_OFF": "सादर,",
+    "TENANT_NOTE": "यह \"<%= tenantId %>\" ID वाले टेनेंट के बारे में है।",
+    "TEAM_NAME": "FastComments इंजीनियरिंग टीम",
+    "EXPLANATION": "ये त्रुटियाँ हमारे प्लेटफ़ॉर्म को कॉल करते समय हुईं। हमारा सुझाव है कि FastComments के साथ अपने किसी भी कस्टम API इंटीग्रेशन के लॉग में त्रुटियों की जाँच करें।",
+    "OPT_OUT": "आप <a href=\"<%= notificationSettingsUrl %>\">यहाँ</a> इन सूचनाओं को बंद कर सकते हैं।"
 }

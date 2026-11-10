@@ -1,10 +1,10 @@
 {
     "INTRO": "नमस्ते <%= displayName %>",
-    "NEW_REFERRAL_DETAILS": "आपने <%= referredTenantName %> का उल्लेख किया है। उनकी वर्तमान कॉन्फ़िगरेशन के आधार पर, आप हर महीने <%= displayCommission %> कमाएँगे।",
-    "FROM_NAME": "FastComments रेफरल रोबोट",
-    "NEW_REFERRAL": "आपको एक नया रेफरल मिला है!",
-    "BANNER_TEXT": "नया FastComments रेफरल",
-    "SUBJECT": "नया FastComments रेफरल",
-    "UNSUBSCRIBE_FROM_THESE_ALERTS": "इन अलर्ट्स से अनसब्सक्राइब करें।",
+    "NEW_REFERRAL_DETAILS": "आपने <%= referredTenantName %> को रेफ़र किया है। उनके मौजूदा कॉन्फ़िगरेशन के आधार पर, आप हर महीने <%= displayCommission %> कमाएँगे।",
+    "FROM_NAME": "FastComments रेफ़रल रोबोट",
+    "NEW_REFERRAL": "आपको एक नया रेफ़रल मिला है!",
+    "BANNER_TEXT": "नया FastComments रेफ़रल",
+    "SUBJECT": "नया FastComments रेफ़रल",
+    "UNSUBSCRIBE_FROM_THESE_ALERTS": "इन अलर्ट की सदस्यता छोड़ें।",
     "THANKS_FOR_CHOOSING_FC": "FastComments.com को चुनने के लिए धन्यवाद।"
 }

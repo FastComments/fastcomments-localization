@@ -1,12 +1,12 @@
 {
-    "INTRO": "अरे <%= user.username %>",
-    "BANNER_TEXT": "फास्टकमेंट्स बिलिंग",
+    "INTRO": "नमस्ते <%= user.username %>",
+    "BANNER_TEXT": "FastComments बिलिंग",
     "FROM_NAME": "FastComments ट्रायल रोबोट",
     "SUBJECT": "FastComments बिलिंग समस्या",
-    "SOME_STATS_SO_FAR": "अब तक के कुछ आंकड़े",
-    "SIGN_IN_ENTER_BILLING_INFO": "लॉग इन करें और भुगतान संबंधी जानकारी दर्ज करें",
-    "UNSUBSCRIBE_HERE": "इन सूचनाओं से अनसब्सक्राइब करें",
-    "FRIENDLY_REMINDER": "यह एक विनम्र अनुस्मारक है कि आपका FastComments का निःशुल्क परीक्षण <i>समाप्त हो गया है</i> या आपके खाते में बिलिंग संबंधी कोई समस्या है।",
+    "SOME_STATS_SO_FAR": "अब तक के कुछ आँकड़े",
+    "SIGN_IN_ENTER_BILLING_INFO": "लॉग इन करें और भुगतान जानकारी दर्ज करें",
+    "UNSUBSCRIBE_HERE": "इन सूचनाओं की सदस्यता छोड़ें",
+    "FRIENDLY_REMINDER": "यह एक दोस्ताना रिमाइंडर है कि आपका FastComments निःशुल्क ट्रायल <i>समाप्त हो चुका है</i> या आपके खाते में बिलिंग से जुड़ी कोई समस्या है।",
     "THANKS_FOR_CHOOSING_FC": "<a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a> को चुनने के लिए धन्यवाद।",
-    "UNSUBSCRIBE_FROM_THESE_ALERTS": "इन अलर्ट्स से अनसब्सक्राइब करें।"
+    "UNSUBSCRIBE_FROM_THESE_ALERTS": "इन अलर्ट की सदस्यता छोड़ें।"
 }

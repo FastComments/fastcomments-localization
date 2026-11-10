@@ -1,14 +1,14 @@
 {
-    "INTRO": "अरे <%= username %>,",
-    "SUBJECT": "यह रहा आपका लॉगिन लिंक <%= username %>",
+    "INTRO": "नमस्ते <%= username %>,",
+    "SUBJECT": "<%= username %>, यह रहा आपका लॉग इन लिंक",
     "NEW_USER_BANNER_TEXT": "FastComments में आपका स्वागत है",
-    "FROM_NAME": "फास्टकमेंट्स रोबोट",
-    "NEW_USER_SUBJECT": "FastComments <%= username %> में आपका स्वागत है! यहां अपना खाता सत्यापित करें और लॉग इन करें।",
+    "FROM_NAME": "FastComments रोबोट",
+    "NEW_USER_SUBJECT": "FastComments में आपका स्वागत है, <%= username %>! अपना खाता यहाँ सत्यापित करें और लॉग इन करें",
     "NEW_USER_THANKS_FOR_SIGNING_UP": "FastComments पर साइन अप करने के लिए धन्यवाद।",
-    "BANNER_TEXT": "FastComments लॉगिन लिंक",
-    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "कृपया <a href=\"<%= userVerifyUrl %>\">इस लिंक</a> पर क्लिक करके <b>अपना खाता सत्यापित करें</b> । इससे आप लॉग इन भी हो जाएंगे।",
-    "UNSUBSCRIBE_HERE": "सदस्यता रद्द",
-    "CLICK_HERE_TO_LOGIN": "FastComments में लॉग इन करने के लिए <a href=\"<%= userVerifyUrl %>\">यहां क्लिक करें</a> ।",
-    "CAN_CREATE_NEW_LINKS_HERE": "आप <a href=\"<%= HOST %>/auth/login/\">यहां</a> अपने खाते में लॉग इन करने के लिए नए लिंक बना सकते हैं।",
+    "BANNER_TEXT": "FastComments लॉग इन लिंक",
+    "VERIFY_YOUR_ACCOUNT_THIS_LINK": "कृपया <a href=\"<%= userVerifyUrl %>\">इस लिंक</a> पर क्लिक करके <b>अपना खाता सत्यापित करें</b>। इससे आप लॉग इन भी हो जाएँगे।",
+    "UNSUBSCRIBE_HERE": "सदस्यता छोड़ें",
+    "CLICK_HERE_TO_LOGIN": "FastComments में लॉग इन करने के लिए <a href=\"<%= userVerifyUrl %>\">यहाँ क्लिक करें</a>।",
+    "CAN_CREATE_NEW_LINKS_HERE": "अपने खाते में लॉग इन करने के लिए आप <a href=\"<%= HOST %>/auth/login/\">यहाँ</a> नए लिंक बना सकते हैं।",
     "THAT_FULL_LINK_IS": "पूरा लिंक यह है: <%= userVerifyUrl %>"
 }

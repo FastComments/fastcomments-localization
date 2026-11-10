@@ -1,16 +1,17 @@
 {
-    "INTRO": "अरे <%= tenantName %>",
+    "INTRO": "नमस्ते <%= tenantName %>",
     "BANNER_TEXT": "FastComments ट्रायल अपडेट",
     "FROM_NAME": "FastComments ट्रायल रोबोट",
-    "COMMENTS_HAVE_BEEN_LEFT_O": "आपकी साइट पर <%= Number(commentCount).toLocaleString() %> टिप्पणी छोड़ी गई है।",
-    "COMMENTS_HAVE_BEEN_LEFT": "आपकी साइट पर <%= Number(commentCount).toLocaleString() %> टिप्पणियाँ छोड़ी गई हैं।",
+    "COMMENTS_HAVE_BEEN_LEFT_O": "आपकी साइट(साइटों) पर <%= Number(commentCount).toLocaleString() %> टिप्पणी की गई है।",
+    "COMMENTS_HAVE_BEEN_LEFT": "आपकी साइट(साइटों) पर <%= Number(commentCount).toLocaleString() %> टिप्पणियाँ की गई हैं।",
     "VOTES_GIVEN": "उन टिप्पणियों पर <%= Number(voteCount).toLocaleString() %> वोट पड़े हैं।",
-    "SUBJECT": "FastComments का निःशुल्क परीक्षण - 15 दिन शेष",
-    "FRIENDLY_REMINDER": "यह एक विनम्र अनुस्मारक है कि आप FastComments के निःशुल्क परीक्षण की आधी अवधि पूरी कर चुके हैं।",
-    "USERS_SIGNED_UP": "अंत में, <b><%= Number(userCount).toLocaleString() %> उपयोगकर्ताओं ने <%= tenantName %> के माध्यम से FastComments का उपयोग करने के लिए साइन अप किया है</b> ।",
-    "USERS_SIGNED_UP_O": "अंत में, <b><%= Number(userCount).toLocaleString() %> उपयोगकर्ता ने <%= tenantName %> के माध्यम से FastComments का उपयोग करने के लिए साइन अप किया है</b> ।",
-    "SOME_STATS_SO_FAR": "अब तक के कुछ आंकड़े",
+    "VOTES_GIVEN_O": "उन टिप्पणियों पर <%= Number(voteCount).toLocaleString() %> वोट पड़ा है।",
+    "SUBJECT": "FastComments निःशुल्क ट्रायल - 15 दिन बाकी",
+    "FRIENDLY_REMINDER": "यह एक दोस्ताना रिमाइंडर है कि आपका FastComments निःशुल्क ट्रायल आधा पूरा हो चुका है।",
+    "USERS_SIGNED_UP": "और आख़िर में, <b><%= Number(userCount).toLocaleString() %> उपयोगकर्ताओं ने <%= tenantName %> के ज़रिए FastComments का उपयोग करने के लिए साइन अप किया है</b>।",
+    "USERS_SIGNED_UP_O": "और आख़िर में, <b><%= Number(userCount).toLocaleString() %> उपयोगकर्ता ने <%= tenantName %> के ज़रिए FastComments का उपयोग करने के लिए साइन अप किया है</b>।",
+    "SOME_STATS_SO_FAR": "अब तक के कुछ आँकड़े",
     "THANKS_FOR_CHOOSING_FC": "<a href=\"https://fastcomments.com/auth/my-account\">FastComments.com</a> को चुनने के लिए धन्यवाद।",
-    "UNSUBSCRIBE_FROM_THESE_ALERTS": "इन अलर्ट्स से अनसब्सक्राइब करें।",
-    "SIGN_IN_ENTER_BILLING_INFO": "लॉग इन करें और भुगतान संबंधी जानकारी दर्ज करें"
+    "UNSUBSCRIBE_FROM_THESE_ALERTS": "इन अलर्ट की सदस्यता छोड़ें।",
+    "SIGN_IN_ENTER_BILLING_INFO": "लॉग इन करें और भुगतान जानकारी दर्ज करें"
 }

@@ -1,11 +1,11 @@
 {
-    "FROM_NAME": "फास्टकमेंट्स रोबोट",
-    "INTRO": "अरे <%= commenterName %>,",
+    "FROM_NAME": "FastComments रोबोट",
+    "INTRO": "नमस्ते <%= commenterName %>,",
     "BANNER_TEXT": "अपने वोट की पुष्टि करें",
-    "THANKS_SO_MUCH": "बहुत - बहुत धन्यवाद!",
-    "UNSUBSCRIBE_HERE": "सदस्यता रद्द",
+    "THANKS_SO_MUCH": "बहुत-बहुत धन्यवाद!",
+    "UNSUBSCRIBE_HERE": "सदस्यता छोड़ें",
     "VERIFY_YOUR_VOTE_LINK": "अपने वोट की पुष्टि करें",
     "SUBJECT": "<%= commenterName %> - अपने वोट की पुष्टि करें।",
-    "WAS_YOU_IGNORE_THIS_EMAIL": "अगर यह आप नहीं हैं तो इस ईमेल को अनदेखा कर दें।",
+    "WAS_YOU_IGNORE_THIS_EMAIL": "अगर यह आप नहीं थे, तो इस ईमेल को अनदेखा करें।",
     "LOOKS_LIKE_YOU_VOTED_HERE": "ऐसा लगता है कि आपने <a href=\"<%= url %>\">यहाँ</a> किसी पोस्ट पर वोट किया है। नीचे दिए गए सत्यापन लिंक पर क्लिक करने से हमें यह पता चल जाएगा कि वोट आपने ही किया है।"
 }

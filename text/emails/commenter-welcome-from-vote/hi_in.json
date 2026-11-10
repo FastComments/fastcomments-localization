@@ -1,11 +1,11 @@
 {
-    "INTRO": "अरे <%= commenterName %>,",
-    "VERIFY_YOUR_ACCOUNT": "अपने खाते को सत्यापित करें",
+    "INTRO": "नमस्ते <%= commenterName %>,",
+    "VERIFY_YOUR_ACCOUNT": "अपना खाता सत्यापित करें",
     "BANNER_TEXT": "FastComments में आपका स्वागत है",
-    "SUBJECT": "FastComments <%= commenterName %> में आपका स्वागत है!",
-    "LOOKS_LIKE_YOU_VOTED_HERE": "ऐसा लगता है कि आपने <a href=\"<%= url %>\">यहां</a> किसी पोस्ट पर वोट किया है।",
-    "THANKS_SO_MUCH": "बहुत - बहुत धन्यवाद!",
-    "UNSUBSCRIBE_HERE": "सदस्यता रद्द",
-    "WASNT_YOU_IGNORE_EMAIL": "अगर यह आप नहीं हैं तो इस ईमेल को अनदेखा कर दें।",
-    "CREATE_NEW_LOGIN_LINKS_HERE": "आप <a href=\"<%= FC_DOMAIN %>/auth/login/\">यहां</a> अपने खाते में लॉग इन करने के लिए नए लिंक बना सकते हैं।"
+    "SUBJECT": "FastComments में आपका स्वागत है, <%= commenterName %>!",
+    "LOOKS_LIKE_YOU_VOTED_HERE": "ऐसा लगता है कि आपने <a href=\"<%= url %>\">यहाँ</a> किसी पोस्ट पर वोट किया है।",
+    "THANKS_SO_MUCH": "बहुत-बहुत धन्यवाद!",
+    "UNSUBSCRIBE_HERE": "सदस्यता छोड़ें",
+    "WASNT_YOU_IGNORE_EMAIL": "अगर यह आप नहीं थे, तो इस ईमेल को अनदेखा करें।",
+    "CREATE_NEW_LOGIN_LINKS_HERE": "अपने खाते में लॉग इन करने के लिए आप <a href=\"<%= FC_DOMAIN %>/auth/login/\">यहाँ</a> नए लिंक बना सकते हैं।"
 }
