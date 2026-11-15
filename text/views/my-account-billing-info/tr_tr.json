@@ -66,5 +66,7 @@
     "FLEX_NEXT_INVOICE": "Sonraki Fatura Tutarı:",
     "ERROR_NOT_BILLING_ADMIN": "Harcama limitlerini yalnızca hesap sahibi veya faturalama yöneticisi değiştirebilir.",
     "ERROR_PAYMENT_INCOMPLETE": "Bankanız ödemeyi onaylamadı. Tekrar deneyin veya farklı bir kart kullanın.",
-    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Planı veya ödeme yöntemini yalnızca hesap sahibi veya faturalama yöneticisi değiştirebilir."
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Planı veya ödeme yöntemini yalnızca hesap sahibi veya faturalama yöneticisi değiştirebilir.",
+    "BUTTON_MANAGE_CREDITS": "Bakiyeyi Yönet",
+    "TEXT_CREDIT_BALANCE": "Mevcut bakiye: [amount]"
 }

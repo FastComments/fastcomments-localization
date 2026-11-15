@@ -66,5 +66,7 @@
     "FLEX_NEXT_INVOICE": "Valor da próxima fatura:",
     "ERROR_NOT_BILLING_ADMIN": "Somente o proprietário da conta ou um administrador de faturamento pode alterar os limites de gastos.",
     "ERROR_PAYMENT_INCOMPLETE": "Seu banco não aprovou o pagamento. Tente novamente ou use outro cartão.",
-    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Somente o proprietário da conta ou um administrador de faturamento pode alterar o plano ou o método de pagamento."
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Somente o proprietário da conta ou um administrador de faturamento pode alterar o plano ou o método de pagamento.",
+    "TEXT_CREDIT_BALANCE": "Saldo de crédito: [amount]",
+    "BUTTON_MANAGE_CREDITS": "Gerenciar créditos"
 }

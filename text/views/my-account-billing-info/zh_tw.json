@@ -66,5 +66,7 @@
     "FLEX_NEXT_INVOICE": "下一張發票金額：",
     "ERROR_NOT_BILLING_ADMIN": "只有帳戶所有者或帳單管理員才能更改消費限額。",
     "ERROR_PAYMENT_INCOMPLETE": "您的銀行未批准此付款。請重試，或使用其他銀行卡。",
-    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "只有帳戶所有者或帳單管理員才能更改方案或付款方式。"
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "只有帳戶所有者或帳單管理員才能更改方案或付款方式。",
+    "BUTTON_MANAGE_CREDITS": "管理餘額",
+    "TEXT_CREDIT_BALANCE": "帳戶餘額：[amount]"
 }

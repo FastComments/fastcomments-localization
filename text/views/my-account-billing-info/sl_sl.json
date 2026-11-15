@@ -66,5 +66,7 @@
     "FLEX_NEXT_INVOICE": "Znesek naslednjega računa:",
     "ERROR_NOT_BILLING_ADMIN": "Omejitve porabe lahko spremeni samo lastnik računa ali skrbnik obračunavanja.",
     "ERROR_PAYMENT_INCOMPLETE": "Vaša banka ni odobrila plačila. Poskusite znova ali uporabite drugo kartico.",
-    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Paket ali način plačila lahko spremeni samo lastnik računa ali skrbnik obračunavanja."
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Paket ali način plačila lahko spremeni samo lastnik računa ali skrbnik obračunavanja.",
+    "TEXT_CREDIT_BALANCE": "Stanje dobroimetja: [amount]",
+    "BUTTON_MANAGE_CREDITS": "Upravljanje dobroimetja"
 }

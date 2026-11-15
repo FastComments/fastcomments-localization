@@ -66,5 +66,7 @@
     "FLEX_NEXT_INVOICE": "下一张发票金额：",
     "ERROR_NOT_BILLING_ADMIN": "只有账户所有者或账单管理员才能更改消费限额。",
     "ERROR_PAYMENT_INCOMPLETE": "您的银行未批准此次付款。请重试，或使用其他银行卡。",
-    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "只有账户所有者或账单管理员才能更改套餐或付款方式。"
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "只有账户所有者或账单管理员才能更改套餐或付款方式。",
+    "BUTTON_MANAGE_CREDITS": "管理余额",
+    "TEXT_CREDIT_BALANCE": "账户余额：[amount]"
 }

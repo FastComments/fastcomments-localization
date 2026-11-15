@@ -144,7 +144,7 @@
         "my-account-badge-users": 15,
         "my-account-billing-analytics": 14,
         "my-account-billing-history": 28,
-        "my-account-billing-info": 69,
+        "my-account-billing-info": 71,
         "my-account-cancel": 8,
         "my-account-cancel-failure": 4,
         "my-account-cancel-success": 5,
@@ -444,7 +444,8 @@
         "reviews": 15,
         "human-moderation": 135,
         "tenant-subscription-currency-change": 6,
-        "auth-my-account-integration-site-conflict": 23
+        "auth-my-account-integration-site-conflict": 23,
+        "my-account-billing-credits": 39
     },
     "commenter-comment-notification": {
         "t1": "INTRO",
@@ -4250,7 +4251,9 @@
         "t66": "FLEX_NEXT_INVOICE",
         "t67": "ERROR_NOT_BILLING_ADMIN",
         "t68": "ERROR_PAYMENT_INCOMPLETE",
-        "t69": "ERROR_NOT_BILLING_ADMIN_CHECKOUT"
+        "t69": "ERROR_NOT_BILLING_ADMIN_CHECKOUT",
+        "t70": "BUTTON_MANAGE_CREDITS",
+        "t71": "TEXT_CREDIT_BALANCE"
     },
     "my-account-cancel": {
         "t1": "PAGE_TITLE",
@@ -13545,5 +13548,46 @@
         "t21": "BUTTON_VIEW_PLANS",
         "t22": "SEPARATE_ACCOUNT_DESCRIPTION",
         "t23": "BUTTON_LOG_OUT"
+    },
+    "my-account-billing-credits": {
+        "t1": "PAGE_TITLE",
+        "t2": "HEADING",
+        "t3": "BALANCE_LABEL",
+        "t4": "BALANCE_EXPLANATION",
+        "t5": "TOP_UP_HEADING",
+        "t6": "TOP_UP_INTRO",
+        "t7": "PRESET_CUSTOM",
+        "t8": "LABEL_CUSTOM_AMOUNT",
+        "t9": "TOP_UP_LIMITS",
+        "t10": "BUTTON_TOP_UP",
+        "t11": "BUTTON_TOP_UP_GENERIC",
+        "t12": "TEXT_PAYMENT_INFO_NOTE",
+        "t13": "ALT_POWERED_BY_STRIPE",
+        "t14": "TITLE_POWERED_BY_STRIPE",
+        "t15": "SUCCESS_HEADING",
+        "t16": "SUCCESS_MESSAGE",
+        "t17": "BUTTON_ADD_MORE",
+        "t18": "NO_CARD_HEADING",
+        "t19": "NO_CARD_TEXT",
+        "t20": "BUTTON_GO_TO_BILLING",
+        "t21": "HISTORY_HEADING",
+        "t22": "HISTORY_EMPTY",
+        "t23": "TABLE_HEADER_DATE",
+        "t24": "TABLE_HEADER_AMOUNT",
+        "t25": "TABLE_HEADER_STATUS",
+        "t26": "STATUS_CREDITED",
+        "t27": "STATUS_PENDING",
+        "t28": "STATUS_FAILED",
+        "t29": "ERROR_INVALID_AMOUNT",
+        "t30": "ERROR_AMOUNT_TOO_SMALL",
+        "t31": "ERROR_AMOUNT_TOO_LARGE",
+        "t32": "ERROR_CURRENCY_MISMATCH",
+        "t33": "ERROR_NO_PAYMENT_METHOD",
+        "t34": "ERROR_CARD_DECLINED",
+        "t35": "ERROR_PAYMENT_INCOMPLETE",
+        "t36": "ERROR_RATE_LIMITED",
+        "t37": "ERROR_NOT_BILLING_ADMIN",
+        "t38": "ERROR_GENERIC",
+        "t39": "LINK_BACK_TO_BILLING"
     }
 }

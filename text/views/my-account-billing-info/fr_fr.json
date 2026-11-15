@@ -66,5 +66,7 @@
     "FLEX_LIMIT_MAX_VALUE": "Jusqu'à [amount]/mois",
     "ERROR_NOT_BILLING_ADMIN": "Seul le titulaire du compte ou un administrateur de facturation peut modifier les limites de dépenses.",
     "ERROR_PAYMENT_INCOMPLETE": "Votre banque n'a pas autorisé le paiement. Réessayez ou utilisez une autre carte.",
-    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Seul le titulaire du compte ou un administrateur de facturation peut modifier le forfait ou le mode de paiement."
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Seul le titulaire du compte ou un administrateur de facturation peut modifier le forfait ou le mode de paiement.",
+    "BUTTON_MANAGE_CREDITS": "Gérer les crédits",
+    "TEXT_CREDIT_BALANCE": "Solde de crédit : [amount]"
 }

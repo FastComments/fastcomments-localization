@@ -66,5 +66,7 @@
     "FLEX_NEXT_INVOICE": "Kwota następnej faktury:",
     "ERROR_NOT_BILLING_ADMIN": "Limity wydatków może zmieniać tylko właściciel konta lub administrator ds. rozliczeń.",
     "ERROR_PAYMENT_INCOMPLETE": "Twój bank nie zatwierdził płatności. Spróbuj ponownie lub użyj innej karty.",
-    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Tylko właściciel konta lub administrator ds. rozliczeń może zmienić plan lub metodę płatności."
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Tylko właściciel konta lub administrator ds. rozliczeń może zmienić plan lub metodę płatności.",
+    "BUTTON_MANAGE_CREDITS": "Zarządzaj środkami",
+    "TEXT_CREDIT_BALANCE": "Saldo środków: [amount]"
 }

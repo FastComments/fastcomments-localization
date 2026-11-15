@@ -66,5 +66,7 @@
     "ERROR_INVALID_LIMITS": "Jedno ili više unetih ograničenja nije važeći broj.",
     "ERROR_NOT_BILLING_ADMIN": "Samo vlasnik naloga ili administrator za naplatu može da promeni ograničenja potrošnje.",
     "ERROR_PAYMENT_INCOMPLETE": "Vaša banka nije odobrila plaćanje. Pokušajte ponovo ili koristite drugu karticu.",
-    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Samo vlasnik naloga ili administrator za naplatu može da promeni plan ili način plaćanja."
+    "ERROR_NOT_BILLING_ADMIN_CHECKOUT": "Samo vlasnik naloga ili administrator za naplatu može da promeni plan ili način plaćanja.",
+    "BUTTON_MANAGE_CREDITS": "Upravljanje kreditom",
+    "TEXT_CREDIT_BALANCE": "Stanje kredita: [amount]"
 }
