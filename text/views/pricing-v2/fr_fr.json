@@ -45,5 +45,9 @@
     "LETS_TALK_STATUS_OFFLINE": "Hors horaires, réponse le lendemain",
     "LETS_TALK_STATUS_ONLINE": "En ligne maintenant",
     "FIXED_PRICING_LINK": "Tarifs fixes également disponibles",
-    "LETS_TALK_HUMAN_MODERATION": "Besoin de modération humaine ? Renseignez-vous sur nos <a href=\"/human-moderation\">Services de modération humaine</a> : nos modérateurs gèrent votre file d'attente, depuis votre tableau de bord, selon vos règles."
+    "LETS_TALK_HUMAN_MODERATION": "Besoin de modération humaine ? Renseignez-vous sur nos <a href=\"/human-moderation\">Services de modération humaine</a> : nos modérateurs gèrent votre file d'attente, depuis votre tableau de bord, selon vos règles.",
+    "PRICING_CURRENCY_LABEL": "Devise",
+    "PRICING_CURRENCY_APPLY": "Afficher les prix",
+    "PRICING_REGIONAL_NOTE": "Les prix sont affichés et facturés en {currency}.",
+    "PRICING_FLEX_FX_NOTE": "L'utilisation est tarifée en USD et convertie en {currency} au taux de change en vigueur à la date de votre facture."
 }

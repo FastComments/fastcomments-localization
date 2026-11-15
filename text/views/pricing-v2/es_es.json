@@ -45,5 +45,9 @@
     "LETS_TALK_STATUS_ONLINE": "En línea ahora",
     "LETS_TALK_STATUS_OFFLINE": "Fuera de horario, respondemos al día siguiente",
     "FIXED_PRICING_LINK": "También disponible con precio fijo.",
-    "LETS_TALK_HUMAN_MODERATION": "¿Necesitas moderadores humanos en la cola? Pregunta por nuestros <a href=\"/human-moderation\">Servicios de moderación humana</a>: nuestros moderadores gestionan tu cola, desde tu panel de control y siguiendo tus directrices."
+    "LETS_TALK_HUMAN_MODERATION": "¿Necesitas moderadores humanos en la cola? Pregunta por nuestros <a href=\"/human-moderation\">Servicios de moderación humana</a>: nuestros moderadores gestionan tu cola, desde tu panel de control y siguiendo tus directrices.",
+    "PRICING_CURRENCY_LABEL": "Moneda",
+    "PRICING_CURRENCY_APPLY": "Ver precios",
+    "PRICING_REGIONAL_NOTE": "Los precios se muestran y se facturan en {currency}.",
+    "PRICING_FLEX_FX_NOTE": "El uso se tarifica en USD y se convierte a {currency} al tipo de cambio vigente en la fecha de tu factura."
 }

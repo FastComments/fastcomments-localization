@@ -40,5 +40,9 @@
     "LETS_TALK_STATUS_ONLINE": "オンライン中",
     "LETS_TALK_STATUS_OFFLINE": "営業時間外 - 翌日に返信いたします",
     "FIXED_PRICING_LINK": "固定料金もご利用いただけます",
-    "LETS_TALK_HUMAN_MODERATION": "キューに人間による対応が必要ですか？<a href=\"/human-moderation\">人間によるモデレーションサービス</a>についてお問い合わせください。当社のモデレーターが、お客様のダッシュボード上で、お客様のガイドラインに基づいてキューを管理します。"
+    "LETS_TALK_HUMAN_MODERATION": "キューに人間による対応が必要ですか？<a href=\"/human-moderation\">人間によるモデレーションサービス</a>についてお問い合わせください。当社のモデレーターが、お客様のダッシュボード上で、お客様のガイドラインに基づいてキューを管理します。",
+    "PRICING_CURRENCY_LABEL": "通貨",
+    "PRICING_CURRENCY_APPLY": "価格を表示",
+    "PRICING_REGIONAL_NOTE": "価格は{currency}で表示・請求されます。",
+    "PRICING_FLEX_FX_NOTE": "使用量の料金はUSDで設定され、請求書発行日の為替レートで{currency}に換算されます。"
 }
