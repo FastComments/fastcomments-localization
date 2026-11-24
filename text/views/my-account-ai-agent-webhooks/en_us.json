@@ -52,6 +52,7 @@
     "BACK_LINK": "Back to Agent Webhooks",
     "ERROR_URL_REQUIRED": "A destination URL is required.",
     "ERROR_URL_INVALID": "The URL must start with https:// (or http:// for dev).",
+    "ERROR_URL_PRIVATE": "This URL points to a private network address (such as localhost, 10.x, 192.168.x or 169.254.x), which our servers can't deliver to. Use a publicly reachable URL.",
     "ERROR_DOMAIN_REQUIRED": "A domain is required.",
     "ERROR_EVENTS_REQUIRED": "Select at least one event.",
     "ERROR_SERVER": "Server error. Please try again.",
