@@ -51,6 +51,7 @@
     "BACK_LINK": "Terug naar Agent Webhooks",
     "EVENT_APPROVAL_DECIDED": "Goedkeuring besloten",
     "ERROR_URL_INVALID": "De URL moet beginnen met https:// (of http:// voor ontwikkelaars).",
+    "ERROR_URL_PRIVATE": "Deze URL verwijst naar een privénetwerkadres (zoals localhost, 10.x, 192.168.x of 169.254.x), waarnaar onze servers niet kunnen afleveren. Gebruik een openbaar bereikbare URL.",
     "ERROR_URL_REQUIRED": "Een bestemmings-URL is vereist.",
     "TEST_SEND_EVENT_LABEL": "Evenement om te verzenden",
     "ERROR_DOMAIN_REQUIRED": "Een domein is vereist.",

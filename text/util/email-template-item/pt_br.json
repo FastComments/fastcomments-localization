@@ -26,5 +26,7 @@
     "NAME_SITE_MEMBER_WELCOME": "Boas-vindas a membros do site",
     "DESCRIPTION_SITE_MEMBER_WELCOME": "Enviado quando um novo membro se cadastra em um site de membros.",
     "NAME_BADGE_AWARD": "Notificação de emblema concedido",
-    "DESCRIPTION_BADGE_AWARD": "Enviado quando um usuário ganha um novo emblema."
+    "DESCRIPTION_BADGE_AWARD": "Enviado quando um usuário ganha um novo emblema.",
+    "NAME_SUBSCRIPTION_CADENCE_CHECK": "Verificação da frequência de assinatura",
+    "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Enviado no máximo uma vez por semana a um usuário cuja assinatura de uma página gera muitos e-mails, para perguntar se ele deseja manter essa frequência."
 }

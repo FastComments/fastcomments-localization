@@ -55,6 +55,7 @@
     "TEST_SEND_EVENT_LABEL": "Ereignis zum Senden",
     "ERROR_EVENTS_REQUIRED": "Wählen Sie mindestens ein Ereignis aus.",
     "ERROR_URL_INVALID": "Die URL muss mit https:// (oder http:// für Entwickler) beginnen.",
+    "ERROR_URL_PRIVATE": "Diese URL verweist auf eine private Netzwerkadresse (z. B. localhost, 10.x, 192.168.x oder 169.254.x), an die unsere Server nicht zustellen können. Verwenden Sie eine öffentlich erreichbare URL.",
     "TEST_SEND_SUCCESS": "Testnutzlast ausgeliefert.",
     "ERROR_SERVER": "Serverfehler. Bitte versuchen Sie es erneut.",
     "TEST_SEND_FAILED": "Testnutzlast fehlgeschlagen.",

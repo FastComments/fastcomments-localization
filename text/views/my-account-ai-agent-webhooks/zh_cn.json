@@ -52,6 +52,7 @@
     "ERROR_URL_REQUIRED": "必须提供目标 URL。",
     "BACK_LINK": "返回代理 Webhooks",
     "ERROR_URL_INVALID": "URL 必须以 https:// 开头（开发环境可用 http://）。",
+    "ERROR_URL_PRIVATE": "此 URL 指向私有网络地址（例如 localhost、10.x、192.168.x 或 169.254.x），我们的服务器无法向该地址发送 Webhook。请使用可公开访问的 URL。",
     "ERROR_EVENTS_REQUIRED": "至少选择一个事件。",
     "ERROR_DOMAIN_REQUIRED": "域名为必填项。",
     "ERROR_SERVER": "服务器错误，请重试。",

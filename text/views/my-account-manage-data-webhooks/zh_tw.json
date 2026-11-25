@@ -45,6 +45,7 @@
     "ERROR_DUPLICATE": "已存在具有此 URL、事件和網域的 Webhook。",
     "ERROR_URL_REQUIRED": "必須提供 URL。",
     "ERROR_URL_INVALID": "URL 必須是以 http:// 或 https:// 開頭的絕對 URL。",
+    "ERROR_URL_PRIVATE": "此 URL 指向私人網路位址（例如 localhost、10.x、192.168.x 或 169.254.x），我們的伺服器無法向該位址投遞 Webhook。請使用可公開存取的 URL。",
     "ERROR_EVENT_INVALID": "請選擇一個事件。",
     "ERROR_DOMAIN_INVALID": "請選擇「所有網域」或您已配置的網域之一。",
     "FORM_HEADING_NEW": "新增 Webhook",

@@ -45,6 +45,7 @@
     "ERROR_DUPLICATE": "Spletni kavelj s tem URL-jem, dogodkom in domeno že obstaja.",
     "ERROR_URL_REQUIRED": "URL je obvezen.",
     "ERROR_URL_INVALID": "URL mora biti absolutni URL http:// ali https://.",
+    "ERROR_URL_PRIVATE": "Ta URL kaže na zasebni omrežni naslov (na primer localhost, 10.x, 192.168.x ali 169.254.x), na katerega naši strežniki ne morejo dostavljati zahtev. Uporabite javno dosegljiv URL.",
     "ERROR_EVENT_INVALID": "Izberite dogodek.",
     "ERROR_DOMAIN_INVALID": "Izberite Vse domene ali eno od konfiguriranih domen.",
     "FORM_HEADING_NEW": "Nov spletni kavelj",

@@ -26,5 +26,7 @@
     "NAME_SITE_MEMBER_WELCOME": "Benvenuto ai membri del sito",
     "DESCRIPTION_SITE_MEMBER_WELCOME": "Inviato quando un nuovo membro si registra a un sito con abbonamento.",
     "NAME_BADGE_AWARD": "Notifica di assegnazione badge",
-    "DESCRIPTION_BADGE_AWARD": "Inviato quando un utente ottiene un nuovo badge."
+    "DESCRIPTION_BADGE_AWARD": "Inviato quando un utente ottiene un nuovo badge.",
+    "NAME_SUBSCRIPTION_CADENCE_CHECK": "Verifica della frequenza di abbonamento",
+    "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Inviato al massimo una volta a settimana a un utente la cui iscrizione a una pagina genera molte email, per chiedergli se desidera mantenere tale frequenza."
 }

@@ -33,6 +33,7 @@
     "FIELD_NO_RETRY_STATUS_CODES_HELP": "HTTP statusni kodovi odvojeni zarezom koji NE bi trebalo da se ponavljaju (npr. 410, 422).",
     "ERROR_SERVER": "Greška servera. Pokušajte ponovo.",
     "ERROR_URL_INVALID": "URL mora početi sa https:// (ili http:// za dev).",
+    "ERROR_URL_PRIVATE": "Ovaj URL upućuje na privatnu mrežnu adresu (kao što su localhost, 10.x, 192.168.x ili 169.254.x), na koju naši serveri ne mogu da isporučuju zahteve. Koristite javno dostupan URL.",
     "TEST_SEND_FAILED": "Test sadržaj nije isporučen.",
     "NOSCRIPT_MESSAGE": "JavaScript je neophodan za dugme za slanje testa.",
     "TAB_ANALYTICS": "Analitika",

@@ -57,6 +57,7 @@
     "TEST_SEND_EVENT_LABEL": "Zdarzenie do wysłania",
     "TEST_SEND_SUCCESS": "Dostarczono ładunek testowy.",
     "ERROR_URL_INVALID": "Adres URL musi zaczynać się od https:// (lub http:// w przypadku wersji dev).",
+    "ERROR_URL_PRIVATE": "Ten adres URL wskazuje na prywatny adres sieciowy (np. localhost, 10.x, 192.168.x lub 169.254.x), pod który nasze serwery nie mogą dostarczać webhooków. Użyj publicznie dostępnego adresu URL.",
     "NOSCRIPT_MESSAGE": "Do działania przycisku wysyłania testowego wymagany jest JavaScript.",
     "TEST_SEND_FAILED": "Ładunek testowy nie powiódł się.",
     "TEST_SEND_NO_SECRET": "Nie skonfigurowano tajnego klucza API dla domeny tego webhooka."

@@ -52,6 +52,7 @@
     "EVENT_APPROVAL_DECIDED": "承認決定",
     "BACK_LINK": "エージェントWebhookに戻る",
     "ERROR_URL_INVALID": "URLはhttps://（開発用はhttp://）で始まる必要があります。",
+    "ERROR_URL_PRIVATE": "このURLはプライベートネットワークのアドレス（localhost、10.x、192.168.x、169.254.xなど）を指しているため、当社のサーバーから送信できません。インターネットからアクセスできるURLを使用してください。",
     "ERROR_DOMAIN_REQUIRED": "ドメインが必要です。",
     "ERROR_EVENTS_REQUIRED": "少なくとも1つのイベントを選択してください。",
     "TEST_SEND_SUCCESS": "テストペイロードが送信されました。",

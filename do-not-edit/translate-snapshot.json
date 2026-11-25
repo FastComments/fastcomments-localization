@@ -2043,7 +2043,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -10880,6 +10882,34 @@
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment.",
                 "ALT_POWERED_BY_STRIPE": "Powered by Stripe Icon"
+            },
+            "subscription-cadence-check": {
+                "BANNER_TEXT": "Your Subscriptions",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "FROM_NAME": "FastComments Subscriptions",
+                "INTRO": "Hey <%= username %>,",
+                "EMAILS_SENT": "Emails",
+                "PAGE": "Page",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency.",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications"
+            },
+            "subscription-frequency": {
+                "HEADING": "Your Subscriptions",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "PAGE_COLUMN": "Page",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "SUBSCRIBED": "Subscribed",
+                "FREQUENCY_COLUMN": "Frequency",
+                "STATUS_COLUMN": "Status",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "SAVE_CHANGES": "Save Changes",
+                "FREQUENCY_DAILY": "Daily digest",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "es_es": {
@@ -12925,7 +12955,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency.",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check"
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -21762,6 +21794,34 @@
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
                 "ERROR_CARD_DECLINED": "Your card was declined. Check your card on the billing page, or try another card."
+            },
+            "subscription-cadence-check": {
+                "BANNER_TEXT": "Your Subscriptions",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "FROM_NAME": "FastComments Subscriptions",
+                "INTRO": "Hey <%= username %>,",
+                "PAGE": "Page",
+                "EMAILS_SENT": "Emails",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency.",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications"
+            },
+            "subscription-frequency": {
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "HEADING": "Your Subscriptions",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "FREQUENCY_COLUMN": "Frequency",
+                "PAGE_COLUMN": "Page",
+                "SUBSCRIBED": "Subscribed",
+                "STATUS_COLUMN": "Status",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "FREQUENCY_DAILY": "Daily digest",
+                "SAVE_CHANGES": "Save Changes",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "pl_pl": {
@@ -23793,7 +23853,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -32630,6 +32692,34 @@
                 "ERROR_CARD_DECLINED": "Your card was declined. Check your card on the billing page, or try another card.",
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment."
+            },
+            "subscription-cadence-check": {
+                "SUBJECT": "Do you still want these comment notifications?",
+                "FROM_NAME": "FastComments Subscriptions",
+                "BANNER_TEXT": "Your Subscriptions",
+                "INTRO": "Hey <%= username %>,",
+                "PAGE": "Page",
+                "EMAILS_SENT": "Emails",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency."
+            },
+            "subscription-frequency": {
+                "PAGE_COLUMN": "Page",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "HEADING": "Your Subscriptions",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "STATUS_COLUMN": "Status",
+                "SAVE_CHANGES": "Save Changes",
+                "SUBSCRIBED": "Subscribed",
+                "FREQUENCY_COLUMN": "Frequency",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "FREQUENCY_DAILY": "Daily digest",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "de_de": {
@@ -34659,7 +34749,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency.",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check"
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -43496,6 +43588,34 @@
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment.",
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can add credit."
+            },
+            "subscription-cadence-check": {
+                "BANNER_TEXT": "Your Subscriptions",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "FROM_NAME": "FastComments Subscriptions",
+                "INTRO": "Hey <%= username %>,",
+                "PAGE": "Page",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "EMAILS_SENT": "Emails",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency."
+            },
+            "subscription-frequency": {
+                "HEADING": "Your Subscriptions",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "PAGE_COLUMN": "Page",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "STATUS_COLUMN": "Status",
+                "FREQUENCY_COLUMN": "Frequency",
+                "SUBSCRIBED": "Subscribed",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "FREQUENCY_DAILY": "Daily digest",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "SAVE_CHANGES": "Save Changes",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "it_it": {
@@ -45514,7 +45634,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -54351,6 +54473,34 @@
                 "ERROR_RATE_LIMITED": "Too many top-up attempts. Wait a while and try again.",
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment.",
                 "LINK_BACK_TO_BILLING": "Back to billing"
+            },
+            "subscription-cadence-check": {
+                "SUBJECT": "Do you still want these comment notifications?",
+                "INTRO": "Hey <%= username %>,",
+                "BANNER_TEXT": "Your Subscriptions",
+                "FROM_NAME": "FastComments Subscriptions",
+                "PAGE": "Page",
+                "EMAILS_SENT": "Emails",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency."
+            },
+            "subscription-frequency": {
+                "PAGE_COLUMN": "Page",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "HEADING": "Your Subscriptions",
+                "STATUS_COLUMN": "Status",
+                "FREQUENCY_COLUMN": "Frequency",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "SUBSCRIBED": "Subscribed",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "FREQUENCY_DAILY": "Daily digest",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "SAVE_CHANGES": "Save Changes",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "ru_ru": {
@@ -56380,7 +56530,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -65217,6 +65369,34 @@
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment.",
                 "ERROR_AMOUNT_TOO_LARGE": "The maximum top-up is [max]."
+            },
+            "subscription-cadence-check": {
+                "BANNER_TEXT": "Your Subscriptions",
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Subscriptions",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "PAGE": "Page",
+                "EMAILS_SENT": "Emails",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency.",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications"
+            },
+            "subscription-frequency": {
+                "HEADING": "Your Subscriptions",
+                "PAGE_COLUMN": "Page",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "STATUS_COLUMN": "Status",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "FREQUENCY_COLUMN": "Frequency",
+                "SUBSCRIBED": "Subscribed",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "SAVE_CHANGES": "Save Changes",
+                "FREQUENCY_DAILY": "Daily digest",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "pt_br": {
@@ -75401,6 +75581,38 @@
                 "ERROR_CARD_DECLINED": "Your card was declined. Check your card on the billing page, or try another card.",
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment.",
                 "LINK_BACK_TO_BILLING": "Back to billing"
+            },
+            "subscription-cadence-check": {
+                "SUBJECT": "Do you still want these comment notifications?",
+                "FROM_NAME": "FastComments Subscriptions",
+                "INTRO": "Hey <%= username %>,",
+                "BANNER_TEXT": "Your Subscriptions",
+                "PAGE": "Page",
+                "EMAILS_SENT": "Emails",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency."
+            },
+            "email-template-item": {
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
+            },
+            "subscription-frequency": {
+                "HEADING": "Your Subscriptions",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "STATUS_COLUMN": "Status",
+                "PAGE_COLUMN": "Page",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "SUBSCRIBED": "Subscribed",
+                "FREQUENCY_COLUMN": "Frequency",
+                "FREQUENCY_DAILY": "Daily digest",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "SAVE_CHANGES": "Save Changes",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days.",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions."
             }
         },
         "ja_jp": {
@@ -77423,7 +77635,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -86260,6 +86474,34 @@
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment.",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can add credit.",
                 "LINK_BACK_TO_BILLING": "Back to billing"
+            },
+            "subscription-cadence-check": {
+                "SUBJECT": "Do you still want these comment notifications?",
+                "INTRO": "Hey <%= username %>,",
+                "PAGE": "Page",
+                "FROM_NAME": "FastComments Subscriptions",
+                "BANNER_TEXT": "Your Subscriptions",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "EMAILS_SENT": "Emails",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency."
+            },
+            "subscription-frequency": {
+                "HEADING": "Your Subscriptions",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "PAGE_COLUMN": "Page",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "STATUS_COLUMN": "Status",
+                "SUBSCRIBED": "Subscribed",
+                "FREQUENCY_COLUMN": "Frequency",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "SAVE_CHANGES": "Save Changes",
+                "FREQUENCY_DAILY": "Daily digest",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "tr_tr": {
@@ -88282,7 +88524,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency.",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check"
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -97119,6 +97363,34 @@
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can add credit.",
                 "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
                 "LINK_BACK_TO_BILLING": "Back to billing"
+            },
+            "subscription-cadence-check": {
+                "INTRO": "Hey <%= username %>,",
+                "BANNER_TEXT": "Your Subscriptions",
+                "FROM_NAME": "FastComments Subscriptions",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "PAGE": "Page",
+                "EMAILS_SENT": "Emails",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency.",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications"
+            },
+            "subscription-frequency": {
+                "HEADING": "Your Subscriptions",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "STATUS_COLUMN": "Status",
+                "PAGE_COLUMN": "Page",
+                "FREQUENCY_COLUMN": "Frequency",
+                "SUBSCRIBED": "Subscribed",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "FREQUENCY_DAILY": "Daily digest",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "SAVE_CHANGES": "Save Changes",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "zh_cn": {
@@ -99140,7 +99412,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency.",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check"
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -107977,6 +108251,34 @@
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment.",
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "ERROR_AMOUNT_TOO_LARGE": "The maximum top-up is [max]."
+            },
+            "subscription-cadence-check": {
+                "SUBJECT": "Do you still want these comment notifications?",
+                "BANNER_TEXT": "Your Subscriptions",
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Subscriptions",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "PAGE": "Page",
+                "EMAILS_SENT": "Emails",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency.",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications"
+            },
+            "subscription-frequency": {
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "HEADING": "Your Subscriptions",
+                "STATUS_COLUMN": "Status",
+                "PAGE_COLUMN": "Page",
+                "FREQUENCY_COLUMN": "Frequency",
+                "SUBSCRIBED": "Subscribed",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "FREQUENCY_DAILY": "Daily digest",
+                "SAVE_CHANGES": "Save Changes",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "ko_kr": {
@@ -109997,7 +110299,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -118834,6 +119138,34 @@
                 "ERROR_CURRENCY_MISMATCH": "Your Stripe account bills in [customerCurrency], but your invoice currency is set to [currency]. Set the invoice currency back to [customerCurrency] in invoice settings, or contact support to switch currencies.",
                 "ERROR_CARD_DECLINED": "Your card was declined. Check your card on the billing page, or try another card.",
                 "LINK_BACK_TO_BILLING": "Back to billing"
+            },
+            "subscription-cadence-check": {
+                "INTRO": "Hey <%= username %>,",
+                "BANNER_TEXT": "Your Subscriptions",
+                "FROM_NAME": "FastComments Subscriptions",
+                "EMAILS_SENT": "Emails",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "PAGE": "Page",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency."
+            },
+            "subscription-frequency": {
+                "HEADING": "Your Subscriptions",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "STATUS_COLUMN": "Status",
+                "PAGE_COLUMN": "Page",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "FREQUENCY_COLUMN": "Frequency",
+                "SUBSCRIBED": "Subscribed",
+                "SAVE_CHANGES": "Save Changes",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "FREQUENCY_DAILY": "Daily digest",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "zh_tw": {
@@ -120853,7 +121185,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency.",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check"
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -129690,6 +130024,34 @@
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment.",
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "NO_CARD_TEXT": "Top-ups are charged to the card saved on your account. Save a card on the billing page, then come back here."
+            },
+            "subscription-cadence-check": {
+                "BANNER_TEXT": "Your Subscriptions",
+                "PAGE": "Page",
+                "INTRO": "Hey <%= username %>,",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "EMAILS_SENT": "Emails",
+                "FROM_NAME": "FastComments Subscriptions",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency."
+            },
+            "subscription-frequency": {
+                "HEADING": "Your Subscriptions",
+                "PAGE_COLUMN": "Page",
+                "FREQUENCY_COLUMN": "Frequency",
+                "SUBSCRIBED": "Subscribed",
+                "STATUS_COLUMN": "Status",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "SAVE_CHANGES": "Save Changes",
+                "FREQUENCY_DAILY": "Daily digest",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "he": {
@@ -131709,7 +132071,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -140546,6 +140910,34 @@
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can add credit.",
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment.",
                 "LINK_BACK_TO_BILLING": "Back to billing"
+            },
+            "subscription-cadence-check": {
+                "BANNER_TEXT": "Your Subscriptions",
+                "FROM_NAME": "FastComments Subscriptions",
+                "INTRO": "Hey <%= username %>,",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "PAGE": "Page",
+                "EMAILS_SENT": "Emails",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency."
+            },
+            "subscription-frequency": {
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "HEADING": "Your Subscriptions",
+                "PAGE_COLUMN": "Page",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "SUBSCRIBED": "Subscribed",
+                "STATUS_COLUMN": "Status",
+                "FREQUENCY_COLUMN": "Frequency",
+                "SAVE_CHANGES": "Save Changes",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "FREQUENCY_DAILY": "Daily digest",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "hr_hr": {
@@ -142565,7 +142957,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency.",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check"
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -151402,6 +151796,34 @@
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can add credit.",
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "BUTTON_ADD_MORE": "Add more"
+            },
+            "subscription-cadence-check": {
+                "SUBJECT": "Do you still want these comment notifications?",
+                "FROM_NAME": "FastComments Subscriptions",
+                "INTRO": "Hey <%= username %>,",
+                "BANNER_TEXT": "Your Subscriptions",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "PAGE": "Page",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "EMAILS_SENT": "Emails",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency."
+            },
+            "subscription-frequency": {
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "HEADING": "Your Subscriptions",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "SUBSCRIBED": "Subscribed",
+                "FREQUENCY_COLUMN": "Frequency",
+                "PAGE_COLUMN": "Page",
+                "STATUS_COLUMN": "Status",
+                "SAVE_CHANGES": "Save Changes",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "FREQUENCY_DAILY": "Daily digest",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "da_dk": {
@@ -153421,7 +153843,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -162258,6 +162682,34 @@
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment.",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can add credit."
+            },
+            "subscription-cadence-check": {
+                "BANNER_TEXT": "Your Subscriptions",
+                "FROM_NAME": "FastComments Subscriptions",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "PAGE": "Page",
+                "INTRO": "Hey <%= username %>,",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "EMAILS_SENT": "Emails",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency."
+            },
+            "subscription-frequency": {
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "HEADING": "Your Subscriptions",
+                "PAGE_COLUMN": "Page",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "FREQUENCY_COLUMN": "Frequency",
+                "SUBSCRIBED": "Subscribed",
+                "STATUS_COLUMN": "Status",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "SAVE_CHANGES": "Save Changes",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "FREQUENCY_DAILY": "Daily digest",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "ru_ua": {
@@ -164277,7 +164729,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency.",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check"
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -173114,6 +173568,34 @@
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can add credit.",
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment."
+            },
+            "subscription-cadence-check": {
+                "BANNER_TEXT": "Your Subscriptions",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "INTRO": "Hey <%= username %>,",
+                "PAGE": "Page",
+                "EMAILS_SENT": "Emails",
+                "FROM_NAME": "FastComments Subscriptions",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency.",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications"
+            },
+            "subscription-frequency": {
+                "HEADING": "Your Subscriptions",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "STATUS_COLUMN": "Status",
+                "SUBSCRIBED": "Subscribed",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "FREQUENCY_COLUMN": "Frequency",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "PAGE_COLUMN": "Page",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "SAVE_CHANGES": "Save Changes",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "FREQUENCY_DAILY": "Daily digest",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "uk_ua": {
@@ -175133,7 +175615,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -183970,6 +184454,34 @@
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can add credit.",
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment."
+            },
+            "subscription-cadence-check": {
+                "BANNER_TEXT": "Your Subscriptions",
+                "FROM_NAME": "FastComments Subscriptions",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "PAGE": "Page",
+                "EMAILS_SENT": "Emails",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency.",
+                "INTRO": "Hey <%= username %>,"
+            },
+            "subscription-frequency": {
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "HEADING": "Your Subscriptions",
+                "PAGE_COLUMN": "Page",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "FREQUENCY_COLUMN": "Frequency",
+                "STATUS_COLUMN": "Status",
+                "SUBSCRIBED": "Subscribed",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "FREQUENCY_DAILY": "Daily digest",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "SAVE_CHANGES": "Save Changes",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "bg_bg": {
@@ -185978,7 +186490,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -194815,6 +195329,34 @@
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can add credit.",
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "ERROR_CURRENCY_MISMATCH": "Your Stripe account bills in [customerCurrency], but your invoice currency is set to [currency]. Set the invoice currency back to [customerCurrency] in invoice settings, or contact support to switch currencies."
+            },
+            "subscription-cadence-check": {
+                "SUBJECT": "Do you still want these comment notifications?",
+                "INTRO": "Hey <%= username %>,",
+                "BANNER_TEXT": "Your Subscriptions",
+                "FROM_NAME": "FastComments Subscriptions",
+                "PAGE": "Page",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency.",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "EMAILS_SENT": "Emails",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications"
+            },
+            "subscription-frequency": {
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "HEADING": "Your Subscriptions",
+                "PAGE_COLUMN": "Page",
+                "STATUS_COLUMN": "Status",
+                "SUBSCRIBED": "Subscribed",
+                "FREQUENCY_COLUMN": "Frequency",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "FREQUENCY_DAILY": "Daily digest",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "SAVE_CHANGES": "Save Changes",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days.",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions."
             }
         },
         "el_cy": {
@@ -196834,7 +197376,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency.",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check"
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -205671,6 +206215,34 @@
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can add credit.",
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment."
+            },
+            "subscription-cadence-check": {
+                "BANNER_TEXT": "Your Subscriptions",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Subscriptions",
+                "PAGE": "Page",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency.",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "EMAILS_SENT": "Emails"
+            },
+            "subscription-frequency": {
+                "HEADING": "Your Subscriptions",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "PAGE_COLUMN": "Page",
+                "STATUS_COLUMN": "Status",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "SUBSCRIBED": "Subscribed",
+                "FREQUENCY_COLUMN": "Frequency",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "SAVE_CHANGES": "Save Changes",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "FREQUENCY_DAILY": "Daily digest",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "el_gr": {
@@ -207690,7 +208262,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency.",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check"
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -216527,6 +217101,34 @@
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment.",
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can add credit."
+            },
+            "subscription-cadence-check": {
+                "SUBJECT": "Do you still want these comment notifications?",
+                "FROM_NAME": "FastComments Subscriptions",
+                "BANNER_TEXT": "Your Subscriptions",
+                "PAGE": "Page",
+                "INTRO": "Hey <%= username %>,",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "EMAILS_SENT": "Emails",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency."
+            },
+            "subscription-frequency": {
+                "STATUS_COLUMN": "Status",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "FREQUENCY_COLUMN": "Frequency",
+                "PAGE_COLUMN": "Page",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "HEADING": "Your Subscriptions",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "SUBSCRIBED": "Subscribed",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "SAVE_CHANGES": "Save Changes",
+                "FREQUENCY_DAILY": "Daily digest",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "sr_ba": {
@@ -218546,7 +219148,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -227383,6 +227987,34 @@
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can add credit.",
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment.",
                 "LINK_BACK_TO_BILLING": "Back to billing"
+            },
+            "subscription-cadence-check": {
+                "FROM_NAME": "FastComments Subscriptions",
+                "BANNER_TEXT": "Your Subscriptions",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "INTRO": "Hey <%= username %>,",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "PAGE": "Page",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency.",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "EMAILS_SENT": "Emails"
+            },
+            "subscription-frequency": {
+                "HEADING": "Your Subscriptions",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "STATUS_COLUMN": "Status",
+                "PAGE_COLUMN": "Page",
+                "SUBSCRIBED": "Subscribed",
+                "FREQUENCY_COLUMN": "Frequency",
+                "FREQUENCY_DAILY": "Daily digest",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "SAVE_CHANGES": "Save Changes",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "sr_me": {
@@ -229402,7 +230034,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -238239,6 +238873,34 @@
                 "ERROR_RATE_LIMITED": "Too many top-up attempts. Wait a while and try again.",
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can add credit.",
                 "LINK_BACK_TO_BILLING": "Back to billing"
+            },
+            "subscription-cadence-check": {
+                "FROM_NAME": "FastComments Subscriptions",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "BANNER_TEXT": "Your Subscriptions",
+                "PAGE": "Page",
+                "INTRO": "Hey <%= username %>,",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "EMAILS_SENT": "Emails",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency.",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications"
+            },
+            "subscription-frequency": {
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "PAGE_COLUMN": "Page",
+                "HEADING": "Your Subscriptions",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "STATUS_COLUMN": "Status",
+                "FREQUENCY_COLUMN": "Frequency",
+                "SUBSCRIBED": "Subscribed",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "FREQUENCY_DAILY": "Daily digest",
+                "SAVE_CHANGES": "Save Changes",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "sr_rs": {
@@ -240258,7 +240920,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -249095,6 +249759,34 @@
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can add credit.",
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment."
+            },
+            "subscription-cadence-check": {
+                "FROM_NAME": "FastComments Subscriptions",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "BANNER_TEXT": "Your Subscriptions",
+                "INTRO": "Hey <%= username %>,",
+                "PAGE": "Page",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "EMAILS_SENT": "Emails",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency.",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week."
+            },
+            "subscription-frequency": {
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "PAGE_COLUMN": "Page",
+                "FREQUENCY_COLUMN": "Frequency",
+                "HEADING": "Your Subscriptions",
+                "STATUS_COLUMN": "Status",
+                "SUBSCRIBED": "Subscribed",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "SAVE_CHANGES": "Save Changes",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days.",
+                "FREQUENCY_DAILY": "Daily digest"
             }
         },
         "sl_sl": {
@@ -251114,7 +251806,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -259951,6 +260645,34 @@
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment.",
                 "ERROR_RATE_LIMITED": "Too many top-up attempts. Wait a while and try again.",
                 "LINK_BACK_TO_BILLING": "Back to billing"
+            },
+            "subscription-cadence-check": {
+                "SUBJECT": "Do you still want these comment notifications?",
+                "BANNER_TEXT": "Your Subscriptions",
+                "FROM_NAME": "FastComments Subscriptions",
+                "INTRO": "Hey <%= username %>,",
+                "PAGE": "Page",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "EMAILS_SENT": "Emails",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency."
+            },
+            "subscription-frequency": {
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "HEADING": "Your Subscriptions",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "STATUS_COLUMN": "Status",
+                "FREQUENCY_COLUMN": "Frequency",
+                "PAGE_COLUMN": "Page",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "SUBSCRIBED": "Subscribed",
+                "FREQUENCY_DAILY": "Daily digest",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "SAVE_CHANGES": "Save Changes",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "sr_latn_rs": {
@@ -261952,7 +262674,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency.",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check"
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -270789,6 +271513,34 @@
                 "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
                 "HISTORY_HEADING": "Past top-ups",
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment."
+            },
+            "subscription-cadence-check": {
+                "FROM_NAME": "FastComments Subscriptions",
+                "EMAILS_SENT": "Emails",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency.",
+                "PAGE": "Page",
+                "INTRO": "Hey <%= username %>,",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "BANNER_TEXT": "Your Subscriptions"
+            },
+            "subscription-frequency": {
+                "STATUS_COLUMN": "Status",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "FREQUENCY_COLUMN": "Frequency",
+                "SUBSCRIBED": "Subscribed",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "SAVE_CHANGES": "Save Changes",
+                "FREQUENCY_DAILY": "Daily digest",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days.",
+                "HEADING": "Your Subscriptions",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "PAGE_COLUMN": "Page",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page."
             }
         },
         "nl_nl": {
@@ -272807,7 +273559,9 @@
             },
             "email-template-item": {
                 "TEXT_CUSTOM_TEMPLATE_NAME": "<%= template.displayName ? template.displayName : 'Custom Template: ' + viewTemplate.name %>",
-                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>"
+                "TEXT_RENDER_ERRORS": "<%= Number(template.errorCount).toLocaleString() %> <%= template.errorCount === 1 ? 'Recent Render Error!' : 'Recent Render Errors!' %>",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -281644,6 +282398,34 @@
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can add credit.",
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "ERROR_GENERIC": "We hit a snag adding your credit. Try again in a moment."
+            },
+            "subscription-cadence-check": {
+                "INTRO": "Hey <%= username %>,",
+                "BANNER_TEXT": "Your Subscriptions",
+                "FROM_NAME": "FastComments Subscriptions",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "PAGE": "Page",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "EMAILS_SENT": "Emails",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency."
+            },
+            "subscription-frequency": {
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "HEADING": "Your Subscriptions",
+                "PAGE_COLUMN": "Page",
+                "STATUS_COLUMN": "Status",
+                "SUBSCRIBED": "Subscribed",
+                "FREQUENCY_COLUMN": "Frequency",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "SAVE_CHANGES": "Save Changes",
+                "FREQUENCY_DAILY": "Daily digest",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "ar": {
@@ -283808,7 +284590,9 @@
                 "TEXT_CUSTOM_TEMPLATE_NAME_DISPLAY": "<%= template.displayName %>",
                 "TEXT_RENDER_ERRORS_SINGULAR": "<%= Number(template.errorCount).toLocaleString() %> Recent Render Error!",
                 "TEXT_RENDER_ERRORS_PLURAL": "<%= Number(template.errorCount).toLocaleString() %> Recent Render Errors!",
-                "TEXT_CUSTOM_TEMPLATE_NAME_DEFAULT": "Custom Template: <%= viewTemplate.name %>"
+                "TEXT_CUSTOM_TEMPLATE_NAME_DEFAULT": "Custom Template: <%= viewTemplate.name %>",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -293079,6 +293863,34 @@
                 "ERROR_PAYMENT_INCOMPLETE": "Your bank did not approve the payment. Try again, or use a different card.",
                 "LINK_BACK_TO_BILLING": "Back to billing",
                 "ERROR_CURRENCY_MISMATCH": "Your Stripe account bills in [customerCurrency], but your invoice currency is set to [currency]. Set the invoice currency back to [customerCurrency] in invoice settings, or contact support to switch currencies."
+            },
+            "subscription-cadence-check": {
+                "INTRO": "Hey <%= username %>,",
+                "PAGE": "Page",
+                "BANNER_TEXT": "Your Subscriptions",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "EMAILS_SENT": "Emails",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency.",
+                "FROM_NAME": "FastComments Subscriptions"
+            },
+            "subscription-frequency": {
+                "HEADING": "Your Subscriptions",
+                "PAGE_COLUMN": "Page",
+                "STATUS_COLUMN": "Status",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "FREQUENCY_COLUMN": "Frequency",
+                "SUBSCRIBED": "Subscribed",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "FREQUENCY_DAILY": "Daily digest",
+                "SAVE_CHANGES": "Save Changes",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         },
         "hi_in": {
@@ -295372,7 +296184,9 @@
                 "DESCRIPTION_SITE_MEMBER_WELCOME": "Sent when a new member signs up for a membership site.",
                 "DESCRIPTION_BADGE_AWARD": "Sent when a user earns a new badge.",
                 "NAME_BADGE_AWARD": "Badge Award Notification",
-                "DESCRIPTION_COMMENTER_WELCOME_FROM_COMMENT": "Sent when a commenter creates their account by commenting for the first time."
+                "DESCRIPTION_COMMENTER_WELCOME_FROM_COMMENT": "Sent when a commenter creates their account by commenting for the first time.",
+                "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+                "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency."
             },
             "flex-billing": {
                 "FLEX_PAGE_LOADS": "Page Loads",
@@ -305039,6 +305853,34 @@
                 "ERROR_NOT_BILLING_ADMIN": "Only the account owner or a billing admin can add credit.",
                 "ERROR_NO_PAYMENT_METHOD": "Save a card on the billing page before adding credit.",
                 "LINK_BACK_TO_BILLING": "Back to billing"
+            },
+            "subscription-cadence-check": {
+                "BANNER_TEXT": "Your Subscriptions",
+                "SUBJECT": "Do you still want these comment notifications?",
+                "INTRO": "Hey <%= username %>,",
+                "FROM_NAME": "FastComments Subscriptions",
+                "PAGE": "Page",
+                "EMAILS_SENT": "Emails",
+                "HIGH_VOLUME_NOTE": "You've been getting a lot of emails about new comments on pages you subscribed to. Here's how many we sent you in the past week.",
+                "UNSUBSCRIBE": "Unsubscribe",
+                "SWITCH_TO_DAILY": "Switch to Daily Notifications",
+                "KEEP_OR_SWITCH": "If you want to keep getting them as often as you do now, there's nothing to do. If that's too many, you can switch to one email a day, or pick another frequency."
+            },
+            "subscription-frequency": {
+                "HEADING": "Your Subscriptions",
+                "PAGE_TITLE": "Subscription Frequency - FastComments",
+                "CHANGES_SAVED": "Changes saved successfully.",
+                "PAGE_COLUMN": "Page",
+                "STATUS_COLUMN": "Status",
+                "FREQUENCY_COLUMN": "Frequency",
+                "FREQUENCY_DAILY": "Daily digest",
+                "SAVE_CHANGES": "Save Changes",
+                "SUBSCRIBED": "Subscribed",
+                "FREQUENCY_MINUTELY": "Every minute",
+                "NO_SUBSCRIPTIONS": "You don't have any subscriptions.",
+                "FREQUENCY_HOURLY": "Hourly digest",
+                "DESCRIPTION": "Choose how often you get emails about new comments on each page you subscribed to, or unsubscribe from a page.",
+                "ERROR_LINK_EXPIRED": "That link is no longer valid. These links expire after 30 days."
             }
         }
     }

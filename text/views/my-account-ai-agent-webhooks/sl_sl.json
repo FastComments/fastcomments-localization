@@ -51,6 +51,7 @@
     "EVENT_APPROVAL_REQUESTED": "Zahtevana odobritev",
     "BACK_LINK": "Nazaj na spletne kavlje agentov",
     "ERROR_URL_INVALID": "URL se mora začeti s https:// (ali http:// za razvijalce).",
+    "ERROR_URL_PRIVATE": "Ta URL kaže na zasebni omrežni naslov (na primer localhost, 10.x, 192.168.x ali 169.254.x), na katerega naši strežniki ne morejo dostavljati zahtev. Uporabite javno dosegljiv URL.",
     "ERROR_URL_REQUIRED": "Ciljni URL je obvezen.",
     "ERROR_SERVER": "Napaka strežnika. Poskusite znova.",
     "TEST_SEND_EVENT_LABEL": "Dogodek za pošiljanje",

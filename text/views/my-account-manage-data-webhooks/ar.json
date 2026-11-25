@@ -45,6 +45,7 @@
     "ERROR_DUPLICATE": "يوجد بالفعل Webhook بعنوان URL والحدث والنطاق نفسها.",
     "ERROR_URL_REQUIRED": "يلزم إدخال عنوان URL.",
     "ERROR_URL_INVALID": "يجب أن يكون عنوان URL مطلقًا يبدأ بـ http:// أو https://.",
+    "ERROR_URL_PRIVATE": "يشير عنوان URL هذا إلى عنوان في شبكة خاصة (مثل localhost أو 10.x أو 192.168.x أو 169.254.x)، ولا تستطيع خوادمنا التسليم إليه. استخدم عنوان URL يمكن الوصول إليه عبر الإنترنت العام.",
     "FORM_HEADING_NEW": "Webhook جديد",
     "ERROR_EVENT_INVALID": "اختر حدثًا.",
     "FIELD_URL_LABEL": "عنوان URL",

@@ -45,6 +45,7 @@
     "ERROR_DUPLICATE": "Bu URL, olay ve alan adıyla zaten bir webhook mevcut.",
     "ERROR_URL_REQUIRED": "Bir URL gereklidir.",
     "ERROR_URL_INVALID": "URL, mutlak bir http:// veya https:// URL'si olmalıdır.",
+    "ERROR_URL_PRIVATE": "Bu URL, özel bir ağ adresine (localhost, 10.x, 192.168.x veya 169.254.x gibi) işaret ediyor ve sunucularımız bu adrese teslimat yapamaz. Herkese açık olarak erişilebilen bir URL kullanın.",
     "ERROR_EVENT_INVALID": "Bir olay seçin.",
     "ERROR_DOMAIN_INVALID": "Tüm Alan Adları seçeneğini veya yapılandırdığınız alan adlarından birini seçin.",
     "FORM_HEADING_NEW": "Yeni Webhook",

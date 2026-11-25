@@ -23,6 +23,8 @@
     "DESCRIPTION_TENANT_USER_REMOVED_FROM_TENANT": "Sent to notify a user when they are removed from the tenant.",
     "NAME_SUBSCRIBED_PAGE_NOTIFICATIONS": "Subscribed Page Notification",
     "DESCRIPTION_SUBSCRIBED_PAGE_NOTIFICATIONS": "Sent to notify a user of new comments on pages they've subscribed to.",
+    "NAME_SUBSCRIPTION_CADENCE_CHECK": "Subscription Frequency Check",
+    "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Sent at most once a week to ask a user with a high volume page subscription if they want to keep that frequency.",
     "NAME_SITE_MEMBER_WELCOME": "Site Member Welcome",
     "DESCRIPTION_SITE_MEMBER_WELCOME": "Sent when a new member signs up for a membership site.",
     "NAME_BADGE_AWARD": "Badge Award Notification",

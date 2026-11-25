@@ -52,6 +52,7 @@
     "ERROR_URL_REQUIRED": "É necessário um URL de destino.",
     "BACK_LINK": "Voltar para Webhooks do Agente",
     "ERROR_URL_INVALID": "O URL deve começar com https:// (ou http:// para desenvolvedores).",
+    "ERROR_URL_PRIVATE": "Este URL aponta para um endereço de rede privada (como localhost, 10.x, 192.168.x ou 169.254.x), para o qual nossos servidores não conseguem fazer entregas. Use um URL acessível publicamente.",
     "TEST_SEND_EVENT_LABEL": "Evento para enviar",
     "ERROR_SERVER": "Erro no servidor. Tente novamente.",
     "ERROR_EVENTS_REQUIRED": "Selecione pelo menos um evento.",

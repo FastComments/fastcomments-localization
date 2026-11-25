@@ -26,5 +26,7 @@
     "NAME_SITE_MEMBER_WELCOME": "サイトメンバーへのウェルカム",
     "DESCRIPTION_SITE_MEMBER_WELCOME": "新しいメンバーがメンバーシップサイトに登録したときに送信されます。",
     "NAME_BADGE_AWARD": "バッジ授与通知",
-    "DESCRIPTION_BADGE_AWARD": "ユーザーが新しいバッジを獲得したときに送信されます。"
+    "DESCRIPTION_BADGE_AWARD": "ユーザーが新しいバッジを獲得したときに送信されます。",
+    "NAME_SUBSCRIPTION_CADENCE_CHECK": "購読頻度チェック",
+    "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "ページ購読で大量のメールを受け取っているユーザーに、その頻度を維持するかどうかを確認するため、週に最大1回送信されます。"
 }

@@ -51,6 +51,7 @@
     "BACK_LINK": "Torna ai webhook dell'agente",
     "EVENT_APPROVAL_DECIDED": "Approvazione decisa",
     "ERROR_URL_INVALID": "L'URL deve iniziare con https:// (o http:// per gli sviluppatori).",
+    "ERROR_URL_PRIVATE": "Questo URL punta a un indirizzo di rete privato (ad esempio localhost, 10.x, 192.168.x o 169.254.x), a cui i nostri server non possono effettuare consegne. Usa un URL accessibile pubblicamente.",
     "ERROR_URL_REQUIRED": "È necessario specificare un URL di destinazione.",
     "ERROR_DOMAIN_REQUIRED": "È necessario un dominio.",
     "TEST_SEND_EVENT_LABEL": "Evento da inviare",

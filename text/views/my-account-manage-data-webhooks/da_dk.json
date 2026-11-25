@@ -45,6 +45,7 @@
     "ERROR_DUPLICATE": "En webhook med denne URL, hændelse og domæne findes allerede.",
     "ERROR_URL_REQUIRED": "En URL er påkrævet.",
     "ERROR_URL_INVALID": "URL'en skal være en absolut http://- eller https://-URL.",
+    "ERROR_URL_PRIVATE": "Denne URL peger på en privat netværksadresse (såsom localhost, 10.x, 192.168.x eller 169.254.x), som vores servere ikke kan levere til. Brug en offentligt tilgængelig URL.",
     "ERROR_EVENT_INVALID": "Vælg en hændelse.",
     "ERROR_DOMAIN_INVALID": "Vælg Alle domæner eller et af dine konfigurerede domæner.",
     "FORM_HEADING_NEW": "Ny webhook",

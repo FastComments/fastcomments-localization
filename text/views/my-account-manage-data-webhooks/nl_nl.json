@@ -45,6 +45,7 @@
     "ERROR_DUPLICATE": "Er bestaat al een webhook met deze URL, gebeurtenis en domein.",
     "ERROR_URL_REQUIRED": "Een URL is vereist.",
     "ERROR_URL_INVALID": "De URL moet een absolute http:// of https:// URL zijn.",
+    "ERROR_URL_PRIVATE": "Deze URL verwijst naar een privénetwerkadres (zoals localhost, 10.x, 192.168.x of 169.254.x), waarnaar onze servers niet kunnen afleveren. Gebruik een openbaar bereikbare URL.",
     "ERROR_EVENT_INVALID": "Selecteer een gebeurtenis.",
     "ERROR_DOMAIN_INVALID": "Selecteer Alle domeinen of een van uw geconfigureerde domeinen.",
     "FORM_HEADING_NEW": "Nieuwe webhook",

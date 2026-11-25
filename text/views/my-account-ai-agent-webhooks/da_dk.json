@@ -48,6 +48,7 @@
     "EVENT_APPROVAL_DECIDED": "Godkendelse besluttet",
     "CANCEL_BUTTON": "Ophæve",
     "ERROR_URL_INVALID": "URL'en skal starte med https:// (eller http:// for udviklere).",
+    "ERROR_URL_PRIVATE": "Denne URL peger på en privat netværksadresse (såsom localhost, 10.x, 192.168.x eller 169.254.x), som vores servere ikke kan levere til. Brug en offentligt tilgængelig URL.",
     "BACK_LINK": "Tilbage til Agent Webhooks",
     "ERROR_URL_REQUIRED": "En destinations-URL er påkrævet.",
     "EVENT_TRIGGER_FAILED": "Agentkørsel mislykkedes",

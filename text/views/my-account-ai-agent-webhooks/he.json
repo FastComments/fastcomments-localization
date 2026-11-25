@@ -52,6 +52,7 @@
     "BACK_LINK": "חזרה ל-Webhooks של סוכנים",
     "ERROR_URL_REQUIRED": "נדרשת כתובת אתר יעד.",
     "ERROR_URL_INVALID": "כתובת ה-URL חייבת להתחיל ב-https:// (או http:// עבור מפתחים).",
+    "ERROR_URL_PRIVATE": "כתובת ה-URL הזו מפנה לכתובת רשת פרטית (כגון localhost, 10.x, 192.168.x או 169.254.x), שאליה השרתים שלנו לא יכולים לשלוח webhooks. השתמש בכתובת URL הנגישה באופן ציבורי.",
     "TEST_SEND_SUCCESS": "מטען בדיקה סופק.",
     "TEST_SEND_EVENT_LABEL": "אירוע לשליחה",
     "ERROR_SERVER": "שגיאת שרת. אנא נסה שוב.",

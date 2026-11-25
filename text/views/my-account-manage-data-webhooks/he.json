@@ -45,6 +45,7 @@
     "ERROR_DUPLICATE": "כבר קיים webhook עם כתובת ה-URL, האירוע והדומיין האלה.",
     "ERROR_URL_REQUIRED": "נדרשת כתובת URL.",
     "ERROR_URL_INVALID": "כתובת ה-URL חייבת להיות כתובת URL מוחלטת מסוג http:// או https://.",
+    "ERROR_URL_PRIVATE": "כתובת ה-URL הזו מפנה לכתובת רשת פרטית (כגון localhost, 10.x, 192.168.x או 169.254.x), שאליה השרתים שלנו לא יכולים לשלוח webhooks. השתמש בכתובת URL הנגישה באופן ציבורי.",
     "ERROR_EVENT_INVALID": "בחר אירוע.",
     "ERROR_DOMAIN_INVALID": "בחר כל הדומיינים או אחד מהדומיינים שהגדרת.",
     "FORM_HEADING_NEW": "Webhook חדש",

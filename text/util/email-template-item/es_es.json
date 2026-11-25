@@ -26,5 +26,7 @@
     "NAME_SITE_MEMBER_WELCOME": "Bienvenida a miembros del sitio",
     "DESCRIPTION_SITE_MEMBER_WELCOME": "Se envía cuando un nuevo miembro se registra en un sitio de membresía.",
     "NAME_BADGE_AWARD": "Notificación de insignia otorgada",
-    "DESCRIPTION_BADGE_AWARD": "Se envía cuando un usuario obtiene una nueva insignia."
+    "DESCRIPTION_BADGE_AWARD": "Se envía cuando un usuario obtiene una nueva insignia.",
+    "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Se envía como máximo una vez por semana a un usuario cuya suscripción a una página genera muchos correos electrónicos, para preguntarle si desea mantener esa frecuencia.",
+    "NAME_SUBSCRIPTION_CADENCE_CHECK": "Verificación de frecuencia de suscripción"
 }

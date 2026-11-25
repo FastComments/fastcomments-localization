@@ -45,6 +45,7 @@
     "ERROR_DUPLICATE": "Ya existe un webhook con esta URL, evento y dominio.",
     "ERROR_URL_REQUIRED": "Se requiere una URL.",
     "ERROR_URL_INVALID": "La URL debe ser una URL absoluta http:// o https://.",
+    "ERROR_URL_PRIVATE": "Esta URL apunta a una dirección de red privada (como localhost, 10.x, 192.168.x o 169.254.x), a la que nuestros servidores no pueden realizar entregas. Utilice una URL accesible públicamente.",
     "ERROR_EVENT_INVALID": "Seleccione un evento.",
     "ERROR_DOMAIN_INVALID": "Seleccione Todos los dominios o uno de sus dominios configurados.",
     "FORM_HEADING_NEW": "Nuevo webhook",

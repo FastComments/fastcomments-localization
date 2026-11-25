@@ -56,6 +56,7 @@
     "ERROR_SERVER": "서버 오류입니다. 다시 시도해 주세요.",
     "TEST_SEND_EVENT_LABEL": "보낼 이벤트",
     "ERROR_URL_INVALID": "URL은 https:// (개발 환경의 경우 http://)로 시작해야 합니다.",
+    "ERROR_URL_PRIVATE": "이 URL은 사설 네트워크 주소(예: localhost, 10.x, 192.168.x, 169.254.x)를 가리키므로 당사 서버에서 전송할 수 없습니다. 공개적으로 접근 가능한 URL을 사용하세요.",
     "TEST_SEND_FAILED": "테스트 페이로드에 실패했습니다.",
     "TEST_SEND_SUCCESS": "테스트 페이로드가 전송되었습니다.",
     "NOSCRIPT_MESSAGE": "테스트 전송 버튼을 사용하려면 JavaScript가 필요합니다.",

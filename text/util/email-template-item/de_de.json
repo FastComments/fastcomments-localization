@@ -26,5 +26,7 @@
     "NAME_SITE_MEMBER_WELCOME": "Begrüßung für Website-Mitglieder",
     "DESCRIPTION_SITE_MEMBER_WELCOME": "Wird gesendet, wenn sich ein neues Mitglied auf einer Mitglieder-Website registriert.",
     "NAME_BADGE_AWARD": "Benachrichtigung über verliehene Abzeichen",
-    "DESCRIPTION_BADGE_AWARD": "Wird gesendet, wenn ein Benutzer ein neues Abzeichen erhält."
+    "DESCRIPTION_BADGE_AWARD": "Wird gesendet, wenn ein Benutzer ein neues Abzeichen erhält.",
+    "DESCRIPTION_SUBSCRIPTION_CADENCE_CHECK": "Wird höchstens einmal pro Woche an einen Benutzer gesendet, dessen Seitenabonnement viele E-Mails erzeugt, um zu fragen, ob er diese Häufigkeit beibehalten möchte.",
+    "NAME_SUBSCRIPTION_CADENCE_CHECK": "Überprüfung der Abonnementhäufigkeit"
 }

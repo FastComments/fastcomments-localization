@@ -45,6 +45,7 @@
     "ERROR_DUPLICATE": "Webhook s ovim URL-om, događajem i domenom već postoji.",
     "ERROR_URL_REQUIRED": "URL je obavezan.",
     "ERROR_URL_INVALID": "URL mora biti apsolutni http:// ili https:// URL.",
+    "ERROR_URL_PRIVATE": "Ovaj URL upućuje na privatnu mrežnu adresu (kao što su localhost, 10.x, 192.168.x ili 169.254.x), na koju naši poslužitelji ne mogu isporučivati zahtjeve. Koristite javno dostupan URL.",
     "ERROR_EVENT_INVALID": "Odaberite događaj.",
     "ERROR_DOMAIN_INVALID": "Odaberite Sve domene ili jednu od konfiguriranih domena.",
     "FORM_HEADING_NEW": "Novi webhook",
